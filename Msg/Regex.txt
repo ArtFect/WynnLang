@@ -44,4 +44,4 @@ Item Buyer: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure do
 (.*) has won the duel!@§e(r1) §9выиграл дуэль!
 This material cannot be used for (.*)@§4Этот материал не может использоваться для §c(r1)
 You need to use an (.*) to gather from this resource!@§4Тебе нужно использовать §c(r1) §4чтобы собрать этот ресурс
-This machine can only process (.*)@§4Эта машина переабатывает только §c(r1)
+This machine can only process (.*)@§4Эта машина перерабатывает только §c(r1)
