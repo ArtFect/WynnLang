@@ -2208,7 +2208,7 @@ Aledar: Now we've got to refine some logs into wood. Cut down the nearby trees i
 Aledar: Refine the logs into [2 Wood] and then show them to me.@Переработай древесину в [2 Доски] и затем покажи их мне.
 Aledar: Okay, only one more step to go. Let's make this quick so we can get to the castle in time.@Хорошо, остался последний шаг. Давайте сделаем его быстро, чтобы мы успели прибыть в замок вовремя.
 Aledar: The last thing we need to do is use this workbench to forge your weapon.@Последнее, что нам нужно сделать – это использовать этот верстак, чтобы выковать себе оружия.
-Aledar: Use 2 string and 1 wood to craft [1 Bow] and show it to the guard.@Используй 2 нитки и 1 доску чтобы скрафтить [1 лук] и затем покажи его охраннику.
+Aledar: Use 2 string and 1 wood to craft [1 Bow] and then show it to the guard.@Используй 2 нитки и 1 доску чтобы скрафтить [1 лук] и затем покажи его охраннику.
 Aledar: It's not the strongest weapon, but it's enough. Let's go and see if this is good enough for the guard, <playername>.@Это не самое сильное оружие, но его будет достаточно. Давайте пойдем и посмотрим, достаточно ли его для того охранника, <playername>.
 Guard: Looks like you are all in order, I hope you know how to use it. You may pass, but be careful, it's still very dangerous.@Похоже, у вас все в порядке, надеюсь, вы знаете, как эти пользоваться. Вы можете пройти, но будьте осторожнее, там все еще очень опасно.
 Tasim: What's going on?@Что происходит?
@@ -2226,7 +2226,7 @@ Guard: Not quite, recruit. I'm well-equipped for them. The issue is this cave-in
 Tasim: This isn't seriously the only way through, is it? What are we going to do?@Это ведь не единственный путь дальше, не так ли? Что мы можем сделать?
 Guard: If it wasn't for my injuries, I could just use my weapon to cast a spell on these boulders to get rid of them.@Если бы не мои ранения, я бы мог использовать мое оружие для каста заклинания на эти глыбы, чтобы избавиться от них.
 Guard: I know you're new, but we're out of options.@Знаю, что вы новенькие, но у нас нет других вариантов.
-Guard: <playername>, you're a <class>, right? Walk up to the boulder for me.@<playername>, ты ведь <класс игрока>, верно? Встань поближе к стене, ради меня.
+Guard: <playername>, you're an Archer, right? Walk up to the boulder for me.@<playername>, ты ведь лучник, верно? Встань поближе к стене, ради меня.
 Guard: Now, cast your Arrow Storm spell by clicking Left-Right-Left!@Теперь используй свое заклинание, кликнув Левая-Правая-Левая!
 Guard: Good work. Now, you three head on towards the castle.@Отличная работа. Теперь вы трое должны отправиться вперед, в замок.
 Guard: Wait!@Минутку!
