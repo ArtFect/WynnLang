@@ -9,10 +9,10 @@ Bak'al: The darkness must spread.@Тьма должна распространя
 Basement Dweller: *Hic* Wha, whozit? Oh geez, I should lay off tha old *hic* Nemract Whiskey.  I'm startin' to see things.@*Ик* Че за? О черт, пора бы завязывать со старым *ик* Nemract виски. Мерещатся тут всякие.
  Basement Dweller: Wha, yer *hic* real?  Wha're ya doin' in mah house then?!@Ты что *ик* настоящий? Тогда какого ты делаешь в моем доме?!
 ''We only have enough for about a day or so. We have no choice: we need to leave for a fortress.''@нам нужно идти в крепость."
-Towers Found: 1/4@1/4
-Towers Found: 2/4@2/4
-Towers Found: 3/4@3/4
-Towers Found: 4/4@4/4
+Towers Found: 1/4@Башен найдено: 1/4
+Towers Found: 2/4@Башен найдено: 2/4
+Towers Found: 3/4@Башен найдено: 3/4
+Towers Found: 4/4@Башен найдено: 4/4
 Town Guard: Has everyone gotten to safety?@Все дошли до безопасного места?
 Guard Leader: There was no time to evacuate, so I told them to go inside and block their doors. I just hope they all listened.@Времени на эвакуацию не было, поэтому я сказал им зайти внутрь и закрыть двери. Надеюсь, они все послушались.
 Town Guard: But is it enough? I don't know if the three of us are going to be enough to protect the town from...@Но достаточно ли этого? Я не знаю, хватит ли нас троих, чтобы защитить город от...
@@ -73,3 +73,88 @@ Bob: Oh no, I'm putting an end to this!@Ну уж нет, я положу это
 Bob: I have trained 20 years for this. The Wynn Province will never fall.@Я тренировался для этого 20 лет. Провинция Wynn никогда не падет.
 Bak'al: Just like the Twains, you will fall. And once again the province will be helpless.@Как и Twain'ы, ты падешь. И тогда провинция снова будет беспомощной.
 Bob: Unlike the Twains, I was not born with magic, I learnt it!@В отличие от Twain'ов, я не родился с магией, я обучился ей!
+Emperor: Ah, bright days, my 26th son is here..@Ах, прекрасный день, мой 26-й сын здесь.. 
+Emperor: How were your travels beyond the walls, Hashr?@Как прошло твое путешествие за стены, Hashr? 
+Hashr: Life beyond the walls is different, vibrant, but most importantly - magical.@Жизнь за стенами другая, яркая, но самое главное - волшебная. 
+Emperor: Not every being is capable of harnessing magic like I am Hashr, you know that.@Не каждое существо способно использовать магию, как я, Hashr, ты же знаешь это. 
+Prince Hashr: You see, I know that's not true. They taught me many things.@Видишь ли, я знаю, что это неправда. Они многому меня научили. 
+Emperor: Son? What is it you are trying to say?@Сын? Что ты пытаешься сказать? 
+Prince Hashr: THAT YOUR WORLD IS A LIE.@ЧТО ТВОЙ МИР - ЛОЖЬ. 
+Royal Guard: NO! How could you Hashr? You have doomed us all!@Нет! Как ты мог так поступить, Hashr? Ты обрек нас всех на гибель! 
+Almighty Hashr: My father was mortal like us all. His power came from this sceptre. He is a false God.@Мой отец был смертным, как и мы все. Его сила исходила от этого скипетра. Он - ложный Бог. 
+Almighty Hashr: Now I will be able to rule- Wait, what's happening..?@Теперь я смогу править - Подождите, что происходит..? 
+Almighty Hashr: Do you hear that? What did my father do to himself?!@Ты слышишь это? Что мой отец сделал с собой?! 
+Junes: Woah! What did you push this for?@Воу! Зачем ты его толкнул? 
+Junes: There were markings all over it.. And a small entrance to the inside.@Там были отметки на всем протяжении.. И маленький вход внутрь. 
+Junes: I wonder why... Wait - Where are we?@Интересно, почему... Подожди, где это мы находимся? 
+Junes: How do you keep finding these ruins?@Как ты продолжаешь находить эти руины? 
+Junes: My word.. This body.. It's definitely not from fallen empire.@Мне кажется.. Это тело.. Оно определенно не из падшей империи. 
+Junes: It's relatively new.. Maybe from the last 100 years.@Оно относительно новое.. Может быть, последних 100 лет. 
+Junes: I've seen evidence all over these buildings of people living in them or storing goods.@Я видел доказательства во всех этих зданиях, что в них либо жили люди, либо хранили товары. 
+Junes: I guess it's only natural when an empire as big as this one still stands.@Думаю, это нормально, когда останки империи, такой большой, как эта, все еще стоят. 
+Junes: There must be hundreds of convenient hiding places, this poor guy must have got trapped.@Там должно быть сотни удобных укрытий, а этот бедный парень, должно быть, попал в ловушку. 
+Junes: Seems like he couldn't get the door open. Maybe the wood has rotted by now...@Кажется, он не смог открыть дверь. Может, дерево уже сгнило... 
+Junes: HUP!@Хоп! 
+
+Cactus Expert: Howdy feller! This here is my cactus stand.
+[2/3] Cactus Expert: I travel all across the desert, cutting down cactus for the juice!
+[3/3] Cactus Expert: Only the sharpest blades'll cut these cactus though. My collection's out back. You can look, but don't touch!
+[1/3] Junes: Did you open this place up? You've done some serious damage!
+[2/3] Junes: It might not look like much, but these ruins were left by a now extinct empire.
+[3/3] Junes: I spent half a year excavating this place.. I must admit it would have taken me 2 years to finish. Alright, let's go deeper. Try to keep up.
+[1/8] Junes: Amazing, isn't it? This is just an ordinary building in the old empire that lies beneath the sands.
+[2/8] Junes: We don't know much about them, but we are uncovering more and more every day.
+[3/8] Junes: Follow me, there is so much to take in. 
+[4/8] Junes: It's clear that the empire were seriously advanced, possibly more advanced than us in some ways.
+[5/8] Junes: I keep seeing symbols in every building.. It looks like some kind of rod or sceptre.
+[6/8] Junes: We know that there was an emperor that ruled these lands, this must be the source of his power.
+[7/8] Junes: Hmm, I'm going to continue researching this place, but I think I might be able to figure a way out for you.
+[8/8] Junes: Oh DEAR!
+
+Even though you can clearly hear the tribesmen talking they appear to be speaking in a language you've never heard before.
+[1/8] Tribe Member: The sandstorm has been raging on for months, we HAVE to leave.
+[2/8] Tribe Member: We won't make it out there.. 
+[3/8] Tribe Member: We won't make it in here.. We're almost out of food.
+[4/8] Tribe Member: Sandstorms usually only last days, maybe weeks. We must have upset the gods.
+[5/8] Tribe Member: I don't think so. I feel the lingering stench of betrayal in the air.
+[6/8] Tribe Member: This is a magical storm. We need to find a magical solution.
+[7/8] Tribe Member: Either way, we need to leave, or we're dead.
+[8/8] Tribe Member: I wonder what is happening out there in the citadel?
+
+[1/11] Junes: How did you open this door? It's been sealed for as long as I remember.
+[2/11] Junes: However.. This barrier doesn't look like it was made by the empire.
+[3/11] Junes: It's still old, though. Let's give it a little nudge.
+[4/11] Junes: Well, it seems to have fallen apart to the touch. This is one of the biggest rooms i've seen..
+[5/11] Junes: This must have been important.. Let's go!
+[6/11] Junes: Don't you think this vault is a little grand for storing just gold?
+[7/11] Junes: Look, there's a pedestal for something here, like a weapon.
+[8/11] Junes: The dust is disturbed around it. Someone has been here recently..
+[9/11] Junes: But why would they take whatever was here, but not all the gold?
+[10/11] Junes: Whatever was kept here, I think we can assume it was of great value to the Emperor.
+[11/11] Junes: We better get out of here, and don't even think about taking this gold - They are artifacts!
+
+[1/4] Junes: Uh oh!
+[2/4] Junes: Looks like somebody got stuck in some quicksand.
+[3/4] Junes: Don't worry! I'm sure there's all sorts of wonders below the surface!
+[4/4] Junes: In fact, I think I'll join you!
+
+[1/4] Junes: How on earth did you know that these quicksand spots lead to empire ruins?
+[2/4] Junes: Don't tell me you just jumped in there without knowing what would happen.
+[3/4] Junes: Well, your luck paid off this time. I like your Grook feathers, guard.
+[4/4] Junes: Let's see what's down there!
+
+[1/15] Junes: Incredible.. I've never seen so many scriptures in one place.. Libraries are rare even today.
+[2/15] Junes: This is the third library I've found.. And the smallest, too.
+[3/15] Junes: I've been studying the language, and I think I can read a little bit of what they have here.
+[4/15] Junes: This book is all about farming.. Farming in a desert? It doesn't make sense.
+[5/15] Junes: Look, here again... A book about plant care and soil.
+[6/15] Junes: I'm not entirely sure how old this civilization is.. But it predates the portal being open, that much is certain.
+[7/15] Junes: Here's a book entirely dedicated to the royal family, interesting.
+[8/15] Junes: Wow, how is this possible? The tree starts with The Emperor... But he's had hundreds of children.. 
+[9/15] Junes: Over... Hundreds of years..
+[10/15] Junes: It shows his children being born after his great grandchildren had died...
+[11/15] Junes: How old was this emperor?
+[12/15] Junes: Oh! These mechanisms still work!
+[13/15] Junes: There must have been books here not for public knowledge..
+[14/15] Junes: Let's see... Hmm.. I don't understand it at all. The only word I recognise is “life”.
+[15/15] Junes: I need to get some fresh air, the dust is starting to get to me. Looks like the exit is right there.
