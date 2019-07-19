@@ -38,3 +38,4 @@ The server is restarting in (.*) minutes@§7Сервер перезагрузи�
 The server is restarting in (.*) seconds.@§7Сервер перезагрузится через (r1) секунд§r
 (.*) has just logged in!@§7(r1) Только что зашел§r
 Item Identifier: I'm afraid you don't have enough emeralds in your inventory for that. It will cost (.*) emeralds.@§7Item Identifier: Боюсь, у тебя не хватает изумрудов в инвентаре для этого. Это будет стоить (r1) изумрудов§r
+Item Buyer: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§7Ты продал мне: (r1) в сумме за (r2) эмеральда. Было приятно иметь с тобой дело.§r
