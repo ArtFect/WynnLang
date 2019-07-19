@@ -42,3 +42,5 @@ Item Identifier: I'm afraid you don't have enough emeralds in your inventory for
 Item Buyer: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§7Ты продал мне: (r1) в сумме за (r2) эмеральда. Было приятно иметь с тобой дело.
 (.*) is now combat level (.*)@§6Боевой уровень (r1) теперь (r2)
 (.*) has won the duel!@§e(r1) §9выиграл дуэль!
+This material cannot be used for (.*)@§4Этот материал не может использоваться для §c(r1)
+You need to use an (.*) to gather from this resource!@Тебе нужно использовать (r1) чтобы собрать этот ресурс
