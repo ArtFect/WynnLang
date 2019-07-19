@@ -38,7 +38,9 @@ Guard: <playername>, you're a Hunter, right? Walk up to the boulder for me.@<pla
 Guard: Now, cast your Bolt Blizzard spell by clicking Left-Right-Left!@Теперь используй свое Bolt Blizzard заклинание, кликнув Левая-Правая-Левая!
 Guard: <playername>, you're a Knight, right? Walk up to the boulder for me.@<playername>, ты ведь рыцарь, верно? Встань поближе к стене, ради меня.
 Guard: Now, cast your Holy Blast spell by clicking Right-Left-Right!@Теперь используй свое Holy Blast заклинание, кликнув Правая-Левая-Правая!
-Guard: That's done it! All healed up. Now let me take of this.@Готово! Все вылечены. Теперь дайте мне позаботиться об этом
+Guard: That's done it! All healed up. Now let me take care of this.@Готово! Все вылечены. Теперь дайте мне позаботиться об этом.
+Guard: Now, you three should head on towards the castle.@Теперь вы трое должны направиться к замку.
+Guard: Hey, you guys, the castle's this way!@Эй, ребята, замок в той стороне!
 Guard: Cast your spell by clicking Right-Left-Right!@Используй свое заклинание, кликнув Правая-Левая-Правая!
 Guard: Cast your spell by clicking Left-Right-Left!@Используй свое заклинание, кликнув Левая-Правая-Левая!
 Aledar: Hey, <playername>! That's the wrong way!@Эй, <playername>! Это неправильный путь!
