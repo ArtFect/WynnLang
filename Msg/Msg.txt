@@ -781,7 +781,7 @@ The door suddenly opens, as if the Keystone Guardian's presence activated it...@
 You are under attack! Defend yourself by aiming and firing your ship’s cannons.@§7Ты находишься под атакой! Защити себя, путем прицеливания и стрельбы из пушек своего корабля.§r
 Align your cannon with an attacking pirate using the controls, and fire to destroy them, but be careful - if one reaches your ship it will be damaged!@§7Выровняй свою пушку с атакующим пиратом, используя элементы управления, и стреляй, чтобы уничтожить их. Но будь осторожен - если кто-то достигнет твоего корабля, он будет поврежден!§r
 The door to the Treasure Vault has opened, but it will close in 20 second again!@§7Дверь в Хранилище с сокровищами открыта, но она закроется через 20 секунд!§r
-Get to the Treasure Vault in 20 seconds before it closed!@§7Доберись до Хранилища с сокровищами за 20 секунд, прежде чем оно закроется!§r
+Get to the Treasure Vault in 20 
 Siegfried, Hero of Gavel@§7Siegfried - герой Gavel’a§r
 In recent times, Gavel has been threatened by many monsters. But wherever trouble lurks, the province can always depend on its legendary hero, Siegfried.@§7В последнее время Gavel был под угрозой со стороны многих монстров. Но где бы ни скрывалась беда, провинция всегда может рассчитывать на своего легендарного героя -  Siegfried’a.§r
 Everyone in Gavel has their own tale to tell about Siegfried’s tremendous strength and skill. He has saved many lives.@§7У каждого в Gavel’e есть своя история с рассказом об огромной силе и мастерстве Siegfried’a. Он спас много жизней.§r
@@ -810,10 +810,8 @@ To disable this message, type: /toggle rpwarning@§7Чтобы отключит�
 You will no longer receive the resource pack warning!@§7Ты больше не будешь получать уведомление о ресурспаке!§r
 Your class has automatically been selected. Use /class to change your class, or /toggle autojoin to turn this feature off.@§7Твой класс был автоматически выбран. Напиши /class, чтобы сменить класс, или /toggle autojoin чтобы отключить эту функцию.§r
 You have not unlocked this spell!@§7Ты еще не открыл это заклинание!§r
-As the sun rises, you feel a little bit safer…@§7С восходом солнца ты чувствуешь себя немного безопаснее…§r
+As the sun rises, you feel a little bit safer...@§7С восходом солнца ты чувствуешь себя немного безопаснее...§r
 [+1 Soul Point]@§7[+1 Очко душ]§r
-The server is restarting in 10 minutes@§7Сервер перезагрузится через 10 минут§r
-The server is restarting in 25 seconds.@§7Сервер перезагрузится через 25 секунд§r
 Server restarting!@§7Перезагрузка сервера!§r
 You must identify this item before using it.@§7Ты должен идентифицировать этот предмет, прежде чем использовать.§r
 [Area Discovered]@§7[Открыта территория]§r
@@ -920,6 +918,3 @@ Disguise yourself as a chicken@§7Перевоплощение себя в ку�
 You now have the letters effect.@§7Выбран эффект букв.§r
 Sorry, you cannot use a crate here. Move away from blocks.@§7Прости, ты не можешь использовать контейнер здесь. Отойди подальше от блоков.§r
 Everybody gets 2 Random Items! Click here to claim them!@§7Каждый получает 2 случайных предмета! Нажми здесь, чтобы забрать их!§r
-
-
-
