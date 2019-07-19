@@ -1,8 +1,14 @@
 Tasim: Don't leave yet, <playername>!  We're not done talking.@Не уходи, <playername>! Мы еще не поговорили.
 Aledar: What are you doing? Don't go wandering off!@Что ты делаешь? Не уходи далеко!
 Tasim: Hey, <playername>! Why don't we use that tree you cut down as a bridge?@Эй, <playername>! Почему бы нам не использовать срубленное тобой дерево в качестве моста?
+Tasim: Hey, don't leave yet! We still need to figure out a way across the gap.@Эй, не уходи пока! Нам по-прежнему нужно найти способ перебраться через ущелье.
+Aledar: Hurry up, you two! Get over here!@Побыстрее, вы двое! Идите сюда!
+Aledar: Hey, <playername>! Don't wander off just yet!@Эй, <playername>! Не уходи пока!
+Tasim: Hey, <playername>! Don't leave yet!@Эй, <playername>! Не уходи пока!
+Aledar: <playername>, you're going the wrong way!@<playername>, это неправильный путь!
+Aledar: We're going to need to craft weapons. Follow me.@Нам необходимо скрафтить оружия. Следуйте за мной.
 Aledar: What are you doing? We're going the other way!@Что ты делаешь? Мы идем в другую сторону!
-Tasim: Hey, don't leave yet! Let's help out this guard.@Эй, не уходи пока! Давай поможет этому охраннику.
+Tasim: Hey, don't leave yet! Let's help out this guard.@Эй, не уходи пока! Давай поможем этому охраннику.
 Tasim: Hey, <playername>! Come over here, we need to talk to you!@ Эй, <playername>! Иди сюда, нам нужно поговорить с тобой!
 Aledar: Hey, <playername>, the castle's the other way!@Эй, <playername> , замок в другой стороне!
 Aledar: Hey, <playername>, follow me!@ Эй, <playername>, следуй за мной!
@@ -15,6 +21,7 @@ Aledar: Use 1 ingot and 2 wood to forge [1 Spear] and then show it to the guard.
 Aledar: Use 2 ingots and 1 wood to forge [1 Dagger] and then show it to the guard.@Используй 2 медных слитка и 1 доску чтобы скрафтить [1 кинжал] и затем покажи его охраннику.
 Tasim: Right-click on the old man to talk to him.@Правый клик по старику, чтобы поговорить с ним.
 Aledar: The last thing we need to do is use this anvil to forge a weapon.@Последнее, что нам нужно сделать – это использовать эту наковальню, чтобы выковать себе оружия.
+Aledar: Don't leave yet! I'd love to keep going, but first we need you to harvest [2 Wheat] for this guy.@Не уходи пока! Я бы с удовольствием продолжил, но сначала нам нужно, чтобы ты собрал [2 пшеницы] для этого парня.
 Aledar: Don't leave yet! I'd love to keep going, but first we need you to mine [2 Copper] for this guy.@Не уходи пока! Я бы с удовольствием продолжил, но сначала нам нужно, чтобы ты добыл [2 меди] для этого парня.
 Guard: Halt! Before you enter, show me your weapon by right-clicking on me!@Стоять! Прежде чем войдешь, покажи мне свое оружие, кликнув на меня!
 Guard: <playername>, you're an Assassin, right? Walk up to the boulder for me.@<playername>, ты ведь ассасин, верно? Встань поближе к стене, ради меня.
