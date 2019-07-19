@@ -35,8 +35,8 @@ You are no longer tracking (.*)@§7Ты больше не отслеживаеш
 \+ Spell Upgrade \[(.*)\]@§7+ Апгрейд заклинания [(r1)]
 You need (.*) more levels before you can unlock this page of the bank@§7Тебе нужно еще (r1) уровней, прежде чем ты сможешь разблокировать эту страницу банка
 Blacksmith: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§5Blacksmith: §dты продал мне §r(r1)§d за (r2) эмеральда. Было приятно иметь с тобой дело.
-The server is restarting in (.*) minutes@§7Сервер перезагрузится через (r1) минут
-The server is restarting in (.*) seconds.@§7Сервер перезагрузится через (r1) секунд
+The server is restarting in (.*) minutes.@§4Сервер перезагрузится через (r1) минут
+The server is restarting in (.*) seconds.@§4Сервер перезагрузится через (r1) секунд
 (.*) has just logged in!@§7(r1) Только что зашел
 Item Identifier: I'm afraid you don't have enough emeralds in your inventory for that. It will cost (.*) emeralds.@§7Item Identifier: Боюсь, у тебя не хватает изумрудов в инвентаре для этого. Это будет стоить (r1) изумрудов
 Item Buyer: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§7Ты продал мне: (r1) в сумме за (r2) эмеральда. Было приятно иметь с тобой дело.
