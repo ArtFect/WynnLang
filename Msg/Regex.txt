@@ -9,7 +9,8 @@
 \+(.*) Experience Points@§7 +(r1) Очков опыта
 \+(.*) Emeralds@§7  +(r1) Эмеральдов
 \+1 Maximum Soul Points \[Total: (.*)\]@§7+1 к максимуму числа душ [Всего: (r1)]
-(.*) has logged into server (.*) as a (.*)@§b(r1) §9зашел на сервер §b(r2) §9классом §b(r3)
+(.*) has logged into server (.*) as a (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
+(.*) has logged into server (.*) as an (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
 (.*) left the game.@§7(r1) покинул игру.
 (.*) would like to trade! Type (.*) to accept.@§7(r1) хотел бы поторговать с тобой! Напиши (r2) для принятия.
 (.*) is not a (.*) weapon. You must use a (.*).@§7(r1) не оружие для (r2) . Ты должен использовать (r3)
@@ -40,3 +41,4 @@ The server is restarting in (.*) seconds.@§7Сервер перезагрузи
 Item Identifier: I'm afraid you don't have enough emeralds in your inventory for that. It will cost (.*) emeralds.@§7Item Identifier: Боюсь, у тебя не хватает изумрудов в инвентаре для этого. Это будет стоить (r1) изумрудов
 Item Buyer: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§7Ты продал мне: (r1) в сумме за (r2) эмеральда. Было приятно иметь с тобой дело.
 (.*) is now combat level (.*)@§6Боевой уровень (r1) теперь (r2)
+(.*) has won the duel!@§e(r1) §9выиграл дуэль!
