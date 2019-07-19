@@ -1,4 +1,4 @@
-Acquiring_Credentials.html
+﻿Acquiring_Credentials.html
 Doan: Oh no, no, no! Where is it?@Нет, нет, нет! Где же он?
 Doan: Excuse me, sir? Have you seen a passport around here?@Извините, сэр? Вы случайно не видели паспорт поблизости?
 Doan: I think mine has been stolen! Or maybe I dropped it? No... It was definitely in my pocket!@Я думаю, его украли! Или я его уронил где-то? Нет... он точно был в моем кармане!
@@ -2186,12 +2186,12 @@ Old Man: Normally, this place is pretty safe, but somehow a few corrupt slipped 
 Old Man: We're pretty far from the Portal so I don't know how they got here. They even broke the bridge!@Мы довольно далеко от Портала поэтому я не знаю, как им это удалось. Они даже сломали мост!
 Old Man: The guards told me to send you on ahead with that wheat so you can get yourself kitted out.@Охранники сказали мне отправить тебя вперед с этой пшеницей, чтобы ты смог снарядить себя.
 Old Man: There's a refinery up ahead. You three can forge weapons there.@Дальше есть место по переработке. Вы трое можете себе выковать оружия там.
-Aledar: Thanks for the warning. I guess we better get going then. <playername>, lead the way.Думаю, нам лучше тогда идти. <playername>, веди нас.
+Aledar: Thanks for the warning. I guess we better get going then. <playername>, lead the way.@Спасибо за предупреждение. Думаю, нам лучше тогда идти. <playername>, веди нас.
 Aledar: The old man said something about a bridge being broken. Let's check it out.@Старик сказал что-то о мосте, который сломан. Давайте осмотрим его.
 Tasim: Wait, stop! Don't want you falling off the edge.@Подожди, остановись! Ты же не хочешь упасть с его края.
 Tasim: Yeah, there's no way we'll get across here, unless one of you happened to be a bridge repairman back in Fruma.@Да, здесь нет способа перебраться на ту сторону, разве что один из вас не был починщиком мостов во Frum’е
 Aledar: Come to think of it, I don't remember. I know this sounds crazy, but I honestly can't remember anything I did back home.@Как раз подумал об этом – и я не помню. Знаю, это звучит безумно, но если честно, я не помню ничего из того, что я делал дома.
-Tasim: No, you're not crazy, it's the same for me. It looks like <playername> is suffering from the same amnesia, as well.@Нет, ты не сумасшедший. То же самое и у меня. И похоже, что <playername> также страдает похожей амнезией.
+Tasim: No, you're not crazy, it's the same for me. It looks like <playername> is suffering the same amnesia, as well.@Нет, ты не сумасшедший. То же самое и у меня. И похоже, что <playername> также страдает похожей амнезией.
 Aledar: It's a mystery for another day, I suppose.@Но сейчас не время для этой загадки, я полагаю.
 Aledar: For now, <playername>, let's look for a way across. There's gotta be something we can use to get to the other side...@Сейчас, <playername>, давай искать путь на ту сторону. Здесь должно быть что-то, что мы можем использовать для прохода на другую сторону...
 Tasim: I guess that's one way of getting across! You guys head over the ravine, I'll be right behind you.@Полагаю, это наш путь на ту сторону! Вы, ребята, идете первыми через овраг, а я буду позади вас.
@@ -2223,7 +2223,7 @@ Tasim: Careful! Looks like there's more undead!@Осторожнее! Похож
 Guard: Finally, some backup! Help me out here, would ya?@Наконец-то, подмога! Пришли помочь здесь, не так ли?
 Aledar: What's happened, did you get attacked by the corrupt?@Что случилось, неужели вы были атакованы этими испорченными?
 Guard: Not quite, recruit. I'm well-equipped for them. The issue is this cave-in.@Не совсем, рекрут. Я слишком хорошо экипирован для них. Проблема в самой пещере.
-Tasim: This isn't seriously the only way through, is it?@Это ведь не единственный путь дальше, не так ли? Что мы можем сделать?
+Tasim: This isn't seriously the only way through, is it? What are we going to do?@Это ведь не единственный путь дальше, не так ли? Что мы можем сделать?
 Guard: If it wasn't for my injuries, I could just use my weapon to cast a spell on these boulders to get rid of them.@Если бы не мои ранения, я бы мог использовать мое оружие для каста заклинания на эти глыбы, чтобы избавиться от них.
 Guard: I know you're new, but we're out of options.@Знаю, что вы новенькие, но у нас нет других вариантов.
 Guard: <playername>, you're a <class>, right? Walk up to the boulder for me.@<playername>, ты ведь <класс игрока>, верно? Встань поближе к стене, ради меня.
