@@ -9,7 +9,7 @@
 \+(.*) Experience Points@§7 +(r1) Очков опыта§r
 \+(.*) Emeralds@§7  +(r1) Эмеральдов§r
 \+1 Maximum Soul Points \[Total: (.*)\]@§7+1 к максимуму числа душ [Всего: (r1)]§r
-(.*) has logged into server WC14 as a Mage@§7(r1) зашел на сервер (r2) классом (r3)§r
+(.*) has logged into server (.*) as a (.*)@§b(r1) §9зашел на сервер §b(r2) §9классом §b(r3)§r
 (.*) left the game.@§7(r1) покинул игру.§r
 (.*) would like to trade! Type (.*) to accept.@§7(r1) хотел бы поторговать с тобой! Напиши (r2) для принятия.§r
 (.*) is not a (.*) weapon. You must use a (.*).@§7(r1) не оружие для (r2) . Ты должен использовать (r3)§r
