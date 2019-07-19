@@ -118,18 +118,17 @@ Tribe Member: I don't think so. I feel the lingering stench of betrayal in the a
 Tribe Member: This is a magical storm. We need to find a magical solution.@Это магическая буря. И нам нужно найти магическое решение. 
 Tribe Member: Either way, we need to leave, or we're dead.@В любом случае, мы должны уйти, или мы умрем. 
 Tribe Member: I wonder what is happening out there in the citadel?@Интересно, что же произошло там, в цитадели? 
-
-[1/11] Junes: How did you open this door? It's been sealed for as long as I remember.
-[2/11] Junes: However.. This barrier doesn't look like it was made by the empire.
-[3/11] Junes: It's still old, though. Let's give it a little nudge.
-[4/11] Junes: Well, it seems to have fallen apart to the touch. This is one of the biggest rooms i've seen..
-[5/11] Junes: This must have been important.. Let's go!
-[6/11] Junes: Don't you think this vault is a little grand for storing just gold?
-[7/11] Junes: Look, there's a pedestal for something here, like a weapon.
-[8/11] Junes: The dust is disturbed around it. Someone has been here recently..
-[9/11] Junes: But why would they take whatever was here, but not all the gold?
-[10/11] Junes: Whatever was kept here, I think we can assume it was of great value to the Emperor.
-[11/11] Junes: We better get out of here, and don't even think about taking this gold - They are artifacts!
+Junes: How did you open this door? It's been sealed for as long as I remember.@Как ты открыл эту дверь? Она была всегда запечатана, сколько я себя помню. 
+Junes: However.. This barrier doesn't look like it was made by the empire.@Однако.. Этот барьер не похож на то, что он был сделан империей. 
+Junes: It's still old, though. Let's give it a little nudge.@Хотя, он все еще старый. Давай немного подтолкнем его. 
+Junes: Well, it seems to have fallen apart to the touch. This is one of the biggest rooms i've seen..@Ну, кажется, он развалился от прикосновения. Это одна из самых больших комнат, которые я когда-либо видел.. 
+Junes: This must have been important.. Let's go!@Должно быть, она была важна.. Пошли! 
+Junes: Don't you think this vault is a little grand for storing just gold?@Тебе не кажется, что это хранилище немного великовато для хранения только золота? 
+Junes: Look, there's a pedestal for something here, like a weapon.@Посмотри, здесь есть пьедестал для чего-то, похожего на оружие.
+Junes: The dust is disturbed around it. Someone has been here recently..@Пыль вокруг него потревожена. Кто-то был здесь недавно.. 
+Junes: But why would they take whatever was here, but not all the gold?@Но почему они взяли то, что было здесь, а не все золото?
+Junes: Whatever was kept here, I think we can assume it was of great value to the Emperor.@Что бы здесь ни хранилось, думаю, мы можем предположить, что это имело большую ценность для Императора. 
+Junes: We better get out of here, and don't even think about taking this gold - They are artifacts!@Нам лучше убраться отсюда и даже не думать о том, чтобы взять это золото - это артефакты! 
 
 [1/4] Junes: Uh oh!
 [2/4] Junes: Looks like somebody got stuck in some quicksand.
@@ -154,3 +153,19 @@ Tribe Member: I wonder what is happening out there in the citadel?@Интере�
 [13/15] Junes: There must have been books here not for public knowledge..
 [14/15] Junes: Let's see... Hmm.. I don't understand it at all. The only word I recognise is “life”.
 [15/15] Junes: I need to get some fresh air, the dust is starting to get to me. Looks like the exit is right there.
+
+[1/2] Shopkeeper: Hey there friend! Looking teh barter fer some weapons or trinkets?
+[2/2] Shopkeeper: Scum! That guy jus' stole a necklace! Catch 'im and jus' take this as payment!!
++7 Emeralds
+[1/9] Bandit Leader: Looks like you were followed, boy.
+[2/9] Bandit Leader: Well, what do we do now, we're caught by the famous Ragni Guard.
+[3/9] Bandit Leader: Or maybe.. You're looking fer somefin else..
+[4/9] Bandit Leader: JEFFERY, not now. Behave.
+[1/1] Bandit Guard: Duhh sorwy boss.
+[5/9] Bandit Leader: Listen, we ain' all bad. Sure we like to nick stuff but thats how its always been.
+[6/9] Bandit Leader: Our daddies daddies escaped your stupid corruption war to the desert, it ain' got anyfin to do with us.
+[7/9] Bandit Leader: So, let's just let this go and you can go back to yer war.
+[8/9] Bandit Leader: We'll let yer go without a fight, and you keep yer mouth shut.
+[9/9] Bandit Leader: Boys, show him out.
+It appears that the bandits took some of your money while you were unconscious
+
