@@ -3,7 +3,7 @@
 \[New Quest Started: (.*)\]@§7[Начат новый квест: (r1)]
 \[You are now entering (.*)\]@§7[Ты входишь в (r1)]
 \[You are now leaving (.*)\]@§7[Ты покидаешь (r1)]
-(.*) is now level (.*)@§7(r1) достиг (r2) уровня
+(.*) is now level (.*) in (.*)@§6(r1) достиг (r2) уровня в (r3)
 (.*) is for level (.*) only@§7(r1) только для уровней (r2)+
 \[You have received (.*) soul points while you were offline\]@§7[Ты заработал (r1) очка душ, пока был не в сети]
 \+(.*) Experience Points@§7 +(r1) Очков опыта
@@ -27,15 +27,16 @@ You've gotten a (.*) reward!@§7Ты получил (r1) награду!
 Want to thank (.*)\? Click here to thank them!@§7Хочешь поблагодарить (r1)? Нажми сюда, чтобы поблагодарить!
 This potion is for Lv. (.*)\+ only.@§7Это зелье только для уровней (r1)+ 
 (.*) quest items have been returned.@§7(r1) квестовых предметов было возвращено.
-(.*) requires your (.*) skill to be at least (.*).@§7(r1) требует, чтобы твое умение “(r2)” было не меньше (r3).
+(.*) requires your (.*) skill to be at least (.*).@§c(r1) §4требует, чтобы твое умение “(r2)” было не меньше §c(r3).
 You have unlocked page (.*) in your bank@§7Ты разблокировал (r1) страницу в своем банке
 You are no longer tracking (.*)@§7Ты больше не отслеживаешь (r1)
 (.*) has thrown an Item Bomb!@§7(r1) бросил Предметную бомбу!
 \+ Spell Upgrade \[(.*)\]@§7+ Апгрейд заклинания [(r1)]
 You need (.*) more levels before you can unlock this page of the bank@§7Тебе нужно еще (r1) уровней, прежде чем ты сможешь разблокировать эту страницу банка
-Blacksmith: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§7Blacksmith: ты продал мне (r1) за (r2) эмеральда. Было приятно иметь с тобой дело.
+Blacksmith: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§5Blacksmith: §dты продал мне §r(r1)§d за (r2) эмеральда. Было приятно иметь с тобой дело.
 The server is restarting in (.*) minutes@§7Сервер перезагрузится через (r1) минут
 The server is restarting in (.*) seconds.@§7Сервер перезагрузится через (r1) секунд
 (.*) has just logged in!@§7(r1) Только что зашел
 Item Identifier: I'm afraid you don't have enough emeralds in your inventory for that. It will cost (.*) emeralds.@§7Item Identifier: Боюсь, у тебя не хватает изумрудов в инвентаре для этого. Это будет стоить (r1) изумрудов
 Item Buyer: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§7Ты продал мне: (r1) в сумме за (r2) эмеральда. Было приятно иметь с тобой дело.
+(.*) is now combat level (.*)@§6Боевой уровень (r1) теперь (r2)
