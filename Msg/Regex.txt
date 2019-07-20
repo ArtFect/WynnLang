@@ -1,6 +1,7 @@
 \[!\] Congratulations to (.*) for reaching combat level (.*)!@§7[!] Поздравляем (r1) с достижением (r2) боевого уровня!
 (.*) would like to duel! Type (.*) to accept.@§7(r1) хочет дуэли с тобой! Напиши (r2) для принятия.
 \[New Quest Started: (.*)\]@§7[Начат новый квест: (r1)]
+\[Questline Started: (.*)\]@§7[Начата серия квестов: (r1)]
 \[You are now entering (.*)\]@§7[Ты входишь в (r1)]
 \[You are now leaving (.*)\]@§7[Ты покидаешь (r1)]
 (.*) is now level (.*) in (.*)@§6(r1) достиг (r2) уровня в (r3)
