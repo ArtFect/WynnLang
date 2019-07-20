@@ -1060,3 +1060,5 @@ You need to wait 60 seconds after logging in to gather from this resource!@§4Т
 Your horse is scared to come out right now, too many mobs are nearby.@§dТвоя лошадь напугана сейчас, чтобы выходить, поскольку слишком много мобов рядом.
 It appears that the bandits took some of your money while you were unconscious@§7Похоже, что бандиты забрали часть твоих денег, пока ты был без сознания
 Invalid command... Type /help for a list of commands@§4Неизвестная команда... Напиши /help для списка команд
+You must be a Captain to use this command.@§cТы должен быть Капитаном чтобы использовать эту команду.
+You must be a Cheif to use this command.@§cТы должен быть Шефом чтобы использовать эту команду.
