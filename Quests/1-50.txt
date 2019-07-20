@@ -1,4 +1,4 @@
-Tasim: Don't leave yet, <playername>!  We're not done talking.@Не уходи, <playername>! Мы еще не поговорили.
+Tasim: Don't leave yet, <playername>! We're not done talking.@Не уходи, <playername>! Мы еще не поговорили.
 Old Man: Harvest [2 Wheat] and then bring it to me.@Собери §b[2 Пшеницы]§a и принеси их мне.
 Old Man: Mine [2 Copper Ore] and then bring it to me.@Добудь §b[2 Медной руды]§a и принеси их мне.
 Aledar: What are you doing? Don't go wandering off!@Что ты делаешь? Не уходи далеко!
@@ -76,7 +76,7 @@ Captain Enduyn: Hey, be careful! You don't want to get stuck in those webs!@Эй
 Enduyn: Think you can handle the spider queen on your own? Well, head inside and we'll find out!@Думаешь, ты справишься с королевой пауков самостоятельно? Ну, иди внутрь, и мы узнаем!
 Enduyn: I'm counting on you, soldier. Get some lava from the top of Mount Wynn! It's not far from here.@Я рассчитываю на тебя, солдат. Добудь немного лавы с вершины Mount Wynn! Это недалеко отсюда.
 Yodbon: G'luck on whatever you're doing.@Удачи с тем, что ты делаешь.
-Yodbon: Oh, it's you again. Yes, my brother there just loves makin' his little trinkets. He oughta make somethin' useful out of his glass instead...@Ох, это опять ты. Да, мой брат просто обожает делать свои маленькие безделушки. Хотя вместо этого он мог бы  делать что-то полезное из своего стекла...
+Yodbon: Oh, it's you again. Yes, my brother there just loves makin' his little trinkets. He oughta make somethin' useful out of his glass instead...@Ох, это опять ты. Да, мой брат просто обожает делать свои маленькие безделушки. Хотя вместо этого он мог бы делать что-то полезное из своего стекла...
 Eluzterp: Have you gotten me [8 Slimey Goo] yet? Oh, and make sure to bring your [Slime Scooper], too!@Ты уже достал для меня [8 вязкой слизи]? Ох, и не забудь взять с собой [Совок для слизи] тоже!
 Eluzterp: Ah, hello again. This latest batch of drinks apparently really revitalized him. He said he's looking to make some great craft.@Ах, еще раз здравствуй. Эта последняя партия напитков, по-видимому, действительно активизировала его. Он сказал, что хочет сделать отличный рецепт.
 Eluzterp: Those Villagers are a little bit crazy though... I have no idea what kind of material it is that he insists he needs for it.@Эти жители немного сумасшедшие... Я понятия не имею, что это за материал, в котором он так нуждается.
@@ -96,7 +96,7 @@ Farmer Cevalus: Have you at least attempted to get rid of that pest yet? Remembe
 Farmer Cevalus: I thank you greatly for your actions. My crops should grow back soon!@Благодарю тебя за твои действия. Мой урожай должен скоро вырасти!
 Viraex: Another batch of crops ruined... Things just spoil so easy here. I should just move away.@Еще одна партия урожая испортилась ... Здесь все так просто портится. Мне нужно переезжать отсюда.
 Pottur: Hey, youngling over there! Do you have anything of use to us yet? Come talk to me if you do!@Эй, юноша вон там! У тебя есть что-нибудь полезное для нас? Поговори со мной, если есть!
-General Graken: Well, I would ask for a spot of help, but that'd be a bit barmy of me, considering you aren't even Level 24 yet! You've bog all chance of being able to help 'til then, though I mean no offense.@Ну, я бы попросил о помощи, но это было бы немного странно для меня, учитывая, что ты еще даже не 24-го уровня!  У тебя еще есть все шансы помочь, хотя я не хочу никого обидеть.
+General Graken: Well, I would ask for a spot of help, but that'd be a bit barmy of me, considering you aren't even Level 24 yet! You've bog all chance of being able to help 'til then, though I mean no offense.@Ну, я бы попросил о помощи, но это было бы немного странно для меня, учитывая, что ты еще даже не 24-го уровня! У тебя еще есть все шансы помочь, хотя я не хочу никого обидеть.
 General Graken: Ah, hello chap! Might I inquire as to whether you've found that blasted little ruby yet?@Ах, привет приятель! Могу я узнать, ты уже нашел этот чертов маленький рубин?
 General Graken: I found the other in the house just up the road here, impossible to miss since it's the only one that bloody-well still has a solid floor!@Я нашел другой в доме, прямо по дороге сюда. Его невозможно пропустить, так как это единственный дом, у которого, черт возьми, все еще твердый пол!
 General Graken: I'll do a spot of scouting ahead, and then meet you in there! I must admit this place does give me the habdabs though, wot wot? @Я пока займусь разведкой здесь, а потом встречу тебя там! Должен признать, что это место меня немного пугает; а тебе как?
@@ -180,7 +180,7 @@ Achper: Glad to hear you came back alive! Those mummies aren't always easy, eh?@
 Bandit: Heh... I forgot to mention the mummy, didn't I? Don't know how you made it out on your own.@Хех... Я забыл упомянуть про мумию, не так ли? Не знаю, как ты там справился самостоятельно.
 Ormrod: Don't stand close to me, I am cursed! Come back when you're level 36, you might be able to help me.@Не стой рядом со мной, я проклят! Возвращайся, когда будешь 36 уровня, тогда ты сможешь мне помочь.
 Bandit: I'm not letting you in, unless you can pay me.@Я не пущу тебя внутрь, пока ты мне не заплатишь.
-Nohno: Have you taken care of Cluckles yet? If you can't find him, I hid him in my basement.@Ты уже позаботился о Cluckles'e? Если  не можешь его найти, я спрятал его в подвале.
+Nohno: Have you taken care of Cluckles yet? If you can't find him, I hid him in my basement.@Ты уже позаботился о Cluckles'e? Если не можешь его найти, я спрятал его в подвале.
 Nohno: Sometimes I wish animals could respawn... hey! What are you doing here? Go away!@Иногда мне хочется, чтобы животные могли возрождаться... Эй! Что ты здесь делаешь? Уходи!
 Leucsaa: Thank you for retrieving my journal from the mansion, I hope nobody else is tricked into buying this evil piece of property!@Спасибо, что забрал мой журнал из дома, надеюсь, никто больше не будет с помощью обмана покупать этот дьявольский кусок собственности!
 Leucsaa: Have you gotten [1 Leucsaa's Journal] yet from the mansion? I don't blame you. It's an udder nightmare!@Ты уже достал из этого дома [1 журнал Leucsaa]? Я не виню тебя. Это просто кошмар!
