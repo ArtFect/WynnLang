@@ -803,7 +803,7 @@ Loading Resource Pack...@§7Загружаем Текстурпак...
 Loading the WynnPack...@§7Загружаем WynnPack...
 Select a class! Each class is saved individually across all servers, you can come back at any time with /class and select another class!@§cВыбери класс! Каждый класс сохраняется индивидуально на всех серверах, ты можешь в любой момент набрать /class и выбрать другой!
 There has been an error... Try again.@§7Произошла ошибка… Попробуй снова.
-You don't have enough mana to do that spell!@§7У тебя недостаточно маны, чтобы использовать это заклинание!
+You don't have enough mana to do that spell!@§4У тебя недостаточно маны, чтобы использовать это заклинание!
 Thank you for using the WynnPack. Enjoy the game!@§7Спасибо, что используешь WynnPack. Наслаждайся игрой!
 Sorry, you can't teleport... Try moving away from blocks.@§7Извини, ты не можешь телепортироваться… Попробуй отойти от блоков
 Warning! You do not have the Wynncraft Resource Pack. The game will not make sense until you have it installed@§7Внимание! У тебя не установлен ресурспак сервера. Игра не будет иметь смысла, пока ты его не установишь.
@@ -814,13 +814,13 @@ To disable this message, type: /toggle rpwarning@§7Чтобы отключит�
 You will no longer receive the resource pack warning!@§7Ты больше не будешь получать уведомление о ресурспаке!
 Your class has automatically been selected. Use /class to change your class, or /toggle autojoin to turn this feature off.@§7Твой класс был автоматически выбран. Напиши /class, чтобы сменить класс, или /toggle autojoin чтобы отключить эту функцию.
 You have not unlocked this spell!@§7Ты еще не открыл это заклинание!
-As the sun rises, you feel a little bit safer...@§7С восходом солнца ты чувствуешь себя немного безопаснее...
-[+1 Soul Point]@§7[+1 Очко душ]
+As the sun rises, you feel a little bit safer...@§5С восходом солнца ты чувствуешь себя немного безопаснее...
+[+1 Soul Point]@§d[+1 Очко душ]
+[+2 Soul Points]@§d[+2 Очка душ]
 Server restarting!@§7Перезагрузка сервера!
 You must identify this item before using it.@§7Ты должен идентифицировать этот предмет, прежде чем использовать.
-[Area Discovered]@§7[Открыта территория]
-Info:@§7Инфо:
-Lore:@§7Лор:
+[Area Discovered]@                           §r§6[Открыта территория]
+Info:@§d     Инфо:
 [Quest Book Updated]@§7[Квестовая книга обновлена]
 [Quest Completed]@§7[Квест пройден]
 Rewards:@§7Награда:
@@ -928,3 +928,4 @@ Blacksmith: I can't buy that item! I only accept weapons, accessories, potions, 
 You've reached the maximum amount of points in that skill, choose another one!@§4Ты достиг максимального количества очков в этом навыке, выбери другой!
 You need to wait 60 seconds after logging in to gather from this resource!@§4Тебе нужно подождать §c60 секунд §4после входа на сервер чтобы собрать этот ресурс!
 Your horse is scared to come out right now, too many mobs are nearby.@§dТвоя лошадь напугана сейчас, чтобы выходить, поскольку слишком много мобов рядом.
+It appears that the bandits took some of your money while you were unconscious@§7Похоже, что бандиты забрали часть твоих денег, пока ты был без сознания
