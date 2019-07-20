@@ -2179,11 +2179,11 @@ Tasim: Sir, are you okay?@Сэр, вы в порядке?
 Old Man: I've been waiting for you three, you're late. There's a bit of trouble up ahead. You will need to get yourself some raw materials.@Я ждал вас троих, вы опаздываете. Впереди вас ждет много проблем. Вам понадобятся добыть себе немного необработанных материалов.
 Tasim: I didn't think we needed anything. Why would raw materials help us?@Я не думаю, что нам нужно что-то. И вообще чем нам помогут необработанные материалы?
 Old Man: Well, you thought wrong. You will need some raw materials to make yourself something to fight with.@Что ж, ты думаешь неправильно. Вам нужны необработанные материалы, чтобы сделать для себя что-то, чем можно сражаться.
-Old Man: I left my scythe by the crops over yonder. Punch it and pick it up. Then harvest [2 Wheat] and bring it back here.@Я оставил свою мотыгу у поля вон там. Ударь и подбери ее. Затем собери [2 Пшеницы] и принеси ее сюда.
+Old Man: I left my scythe by the crops over yonder. Punch it and pick it up. Then harvest [2 Wheat] and bring it back here.@Я оставил свою мотыгу у поля вон там. Ударь и подбери ее. Затем собери §b[2 Пшеницы]§a и принеси ее сюда.
 Old Man: Just hit the scythe to pick it up. Then whack the wheat with it to harvest it!@Просто ударь мотыгу, чтобы подобрать ее. Затем нажми ей на пшеницу, чтобы собрать ее!
 Old Man: That looks like the stuff. I was sent ahead by the guards to warn any newcomers.@Это похоже на материал. Меня послали сюда охранники, чтобы предупреждать всех новоприбывших.
 Old Man: Normally, this place is pretty safe, but somehow a few corrupt slipped through.@Обычно, это место довольно безопасно, но все же несколько испорченных мертвецов сумели проскользнуть сюда.
-Old Man: We're pretty far from the Portal so I don't know how they got here. They even broke the bridge!@Мы довольно далеко от Портала поэтому я не знаю, как им это удалось. Они даже сломали мост!
+Old Man: We're pretty far from the Portal so I don't know how they got here. They even broke the bridge!@Мы довольно далеко от §5Портала§a поэтому я не знаю, как им это удалось. Они даже сломали мост!
 Old Man: The guards told me to send you on ahead with that wheat so you can get yourself kitted out.@Охранники сказали мне отправить тебя вперед с этой пшеницей, чтобы ты смог снарядить себя.
 Old Man: There's a refinery up ahead. You three can forge weapons there.@Дальше есть место по переработке. Вы трое можете себе выковать оружия там.
 Aledar: Thanks for the warning. I guess we better get going then. <playername>, lead the way.@Спасибо за предупреждение. Думаю, нам лучше тогда идти. <playername>, веди нас.
@@ -2202,13 +2202,13 @@ Guard: Somehow a bunch of corrupt sieged the underpass. It's not safe to go in u
 Guard: You should be able to use the nearby resources to craft your own.@Вы должны использовать близлежащие ресурсы, чтобы скрафтить их для себя.
 Aledar: Fine. I know what to do. <playername>, Tasim, follow me.@Хорошо, я знаю, что нужно делать. <playername>, Tasim, следуйте за мной.
 Aledar: This is the refinery the old man was talking about.@Вот то место переработки, о котором говорил старик.
-Aledar: Use it to make [2 String] and then show it to me. There's some wheat nearby if you need any more.@Используй его, чтобы сделать себе [2 нитки] и затем покажи их мне. Здесь есть пшеница поблизости, если тебе понадобится еще.
+Aledar: Use it to make [2 String] and then show it to me. There's some wheat nearby if you need any more.@Используй его, чтобы сделать себе §b[2 нитки]§a и затем покажи их мне. Здесь есть пшеница поблизости, если тебе понадобится еще.
 Aledar: Good job! But that was only the first step. Now, on to step two. Follow me.@Отличная работа! Но это был только первый шаг. Переходим ко второму шагу. Следуй за мной.
 Aledar: Now we've got to refine some logs into wood. Cut down the nearby trees if you need more logs.@Теперь нам нужно переработать немного древесины в доски. Сруби ближайшие деревья, если тебе нужно больше древесины.
-Aledar: Refine the logs into [2 Wood] and then show them to me.@Переработай древесину в [2 Доски] и затем покажи их мне.
+Aledar: Refine the logs into [2 Wood] and then show them to me.@Переработай древесину в §b[2 Доски]§a и затем покажи их мне.
 Aledar: Okay, only one more step to go. Let's make this quick so we can get to the castle in time.@Хорошо, остался последний шаг. Давайте сделаем его быстро, чтобы мы успели прибыть в замок вовремя.
 Aledar: The last thing we need to do is use this workbench to forge your weapon.@Последнее, что нам нужно сделать – это использовать этот верстак, чтобы выковать себе оружия.
-Aledar: Use 2 string and 1 wood to craft [1 Bow] and then show it to the guard.@Используй 2 нитки и 1 доску чтобы скрафтить [1 лук] и затем покажи его охраннику.
+Aledar: Use 2 string and 1 wood to craft [1 Bow] and then show it to the guard.@Используй §b2 нитки§a и §b1 доску§a чтобы скрафтить §3[1 лук]§a и затем покажи его охраннику.
 Aledar: It's not the strongest weapon, but it's enough. Let's go and see if this is good enough for the guard, <playername>.@Это не самое сильное оружие, но его будет достаточно. Давайте пойдем и посмотрим, достаточно ли его для того охранника, <playername>.
 Guard: Looks like you are all in order, I hope you know how to use it. You may pass, but be careful, it's still very dangerous.@Похоже, у вас все в порядке, надеюсь, вы знаете, как эти пользоваться. Вы можете пройти, но будьте осторожнее, там все еще очень опасно.
 Tasim: What's going on?@Что происходит?
@@ -2227,7 +2227,7 @@ Tasim: This isn't seriously the only way through, is it? What are we going to do
 Guard: If it wasn't for my injuries, I could just use my weapon to cast a spell on these boulders to get rid of them.@Если бы не мои ранения, я бы мог использовать мое оружие для каста заклинания на эти глыбы, чтобы избавиться от них.
 Guard: I know you're new, but we're out of options.@Знаю, что вы новенькие, но у нас нет других вариантов.
 Guard: <playername>, you're an Archer, right? Walk up to the boulder for me.@<playername>, ты ведь лучник, верно? Встань поближе к стене, ради меня.
-Guard: Now, cast your Arrow Storm spell by clicking Left-Right-Left!@Теперь используй свое заклинание, кликнув Левая-Правая-Левая!
+Guard: Now, cast your Arrow Storm spell by clicking Left-Right-Left!@Теперь используй свое заклинание, кликнув §b§lЛевая-Правая-Левая§a!
 Guard: Good work. Now, you three head on towards the castle.@Отличная работа. Теперь вы трое должны отправиться вперед, в замок.
 Guard: Wait!@Минутку!
 Guard: RUN!@БЕЖИМ!
@@ -2242,7 +2242,7 @@ Ragni's King: This is the noble fort of Ragni, one of the oldest and most influe
 Ragni's King: Your job as a soldier of Wynn is to stop the growth of the monsters that are ravaging the province.@Твоя работа как солдата Wynn - остановить рост числа монстров, которые опустошают провинцию.
 Ragni's King: You might want to train a little more before hand, though. Many lives are lost everyday...@Ты наверно захочешь немного потренироваться, прежде чем идти в бой. Многие жизни погибают ежедневно...
 Ragni's King: ...Anyway, good luck! If you are lost, use map.wynncraft.com as it is very useful if you don't know where to go.@...Ладно, удачи! Если ты потерялся, то используй карту map.wynncraft.com она очень полезна, если ты не знаешь куда идти.
-Ragni's King: Take this [1 Ragni Teleportation Scroll] too! It will bring you back here if you use it.@Возьми этот свиток [1 Ragni свиток телепортации] тоже! Он вернет тебя сюда, если ты его используешь.
+Ragni's King: Take this [1 Ragni Teleportation Scroll] too! It will bring you back here if you use it.@Возьми этот свиток §b[1 Ragni свиток телепортации]§a тоже! Он вернет тебя сюда, если ты его используешь.
 
 Kingdom_of_Sand.html
 ???: Hmm.. No dice. Let me try another.@Хммм... без шансов. Дай-ка попробую еще кое-что.
