@@ -1057,37 +1057,22 @@ Invalid command... Type /help for a list of commands@§4Неизвестная �
 You must be a Captain to use this command.@§cТы должен быть Капитаном чтобы использовать эту команду.
 You must be a Cheif to use this command.@§cТы должен быть Шефом чтобы использовать эту команду.
 
------------— Wynncraft Help —---------— 
+-----------— Wynncraft Help@§4Wynncraft помощь —---------— 
 — For a proper help guide, visit our website@§4Для полного гайда о помощи посетите наш сайт — 
 -------— www.wynncraft.com —-----— 
 
-/friend [add/remove/list] 
 Manage your friends@§6Управление друзьями 
-/ignore [add/remove] 
 Manage your ignored players@§6Управление игнорируемыми игроками 
-/party [create/invite/kick/leader/leave] 
 Manage your party@§6Управление пати 
-/p [message] 
 Chat with members of your party@§6Писать в чат участникам пати 
-/msg [name] [message] 
 Send someone a message@§6Отправить кому-то сообщение 
-/r [message] 
 Quickly reply to a message@§6Быстрый ответ на сообщение 
-/trade [name] 
 Trade with someone@§6Торговать с кем-нибудь 
-/crates 
-Open a crate@§6Открыть контейнер 
-/totems 
+Open a crate@§6Открыть контейнер  
 Use a mob totem@§6Использовать моб тотем 
-/sign 
-Sign a crafted item@§6Подписать крафтовый предмет 
-/rename 
+Sign a crafted item@§6Подписать крафтовый предмет  
 Rename a crafted item@§6Переименовать крафтовый предмет 
-/relore 
-Change the lore on a crafted item@§6Изменить лор крафтового предмета 
-/itemlock 
+Change the lore on a crafted item@§6Изменить лор крафтового предмета  
 Lock / unlock the item in your hand, making it so you can't accidentally drop it@§6Заблокировать / разблокировать предмет в твоей руке, чтобы случайно его не выбросить 
-/classes 
-Choose a class to play as@§6Выбрать класс для игры 
-/toggle [chatlevel/swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100] 
+Choose a class to play as@§6Выбрать класс для игры  
 Toggle gameplay items on or off@§6Включить или отключить элементы геймплея
