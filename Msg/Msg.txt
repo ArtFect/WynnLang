@@ -971,7 +971,6 @@ You have been removed from the party.@§7Ты был убран из пати.
 1 soul point has been lost...@§71 очко душ было потеряно...
 The trade has been completed!@§7Торговля успешно завершена!
 The trade request has been sent! Waiting for them to accept...@§7Торговый запрос отправлен! Ждем, пока его примут...
-Gottbeere's bomb has expired. You can buy XP bombs at our website, wynncraft.com/store@§7... бомба закончилась. Ты можешь купить Xp бомбу на нашем сайте wynncraft.com/store
 Did you mean /toggle? If not, type /help to see the commands!@§7Ты имел в виду ...? Если нет, напиши /help, чтобы увидеть список команд!
 You can't sell this item!@§7Ты не можешь продать этот предмет!
 + New Spell [Charge]@§7+ Новое заклинание [Charge]
@@ -983,6 +982,10 @@ You've been rocketed by the great web.@§7Ты был подброшен вел�
 [+1 Speed]@§7[+1 к Скорости]
 [+1 Jump Height]@§7[+1 к Высоте прыжка]
 Cleared all potion effects.@§7Очищены все эффекты зелий.
+You can now no longer drop your item!@§aТеперь ты не можешь выбросить этот предмет
+You can now drop your item again!@§aТеперь ты можешь выбросить этот предмет
+You cannot drop locked items! Use /itemlock while holding the item again to unlock it.@§cТы не можешь выбросить заблокированные предметы! Используй /itemlock, держа предмет в руке, чтобы разблокировать его.
+[Info] Scared you'll accidentally drop and lose your item? Try /itemlock! For more information, visit wynncraft.com@§4[Инфо] §cБоишься случайно выкинуть и потерять свои предметы? Попробуй /itemlock! Для большей информации, посети wynncraft.com 
 [Info] You can add a friend to your friends list by typing /friend. For more information, visit wynncraft.com@§4[Инфо] §cТы можешь добавить друга в список друзей командой /friend. Для большей информации, посети wynncraft.com 
 [Info] Participate in the community! Join our forums at forums.wynncraft.com@§4[Инфо] §cБудь частью сообщества! Заходи на наш форум forums.wynncraft.com
 [Info] Lost in the world? You can see an interactive map of the world at wynncraft.com/help@§4[Инфо] §cПотерялся в мире? Ты можешь посмотреть интерактивную карту сервера на wynncraft.com/help
