@@ -1,4 +1,4 @@
-\[!\] Congratulations to (.*) for reaching level (.*)!@§7[!] Поздравляем (r1) с достижением (r2) уровня!
+\[!\] Congratulations to (.*) for reaching combat level (.*)!@§7[!] Поздравляем (r1) с достижением (r2) боевого уровня!
 (.*) would like to duel! Type (.*) to accept.@§7(r1) хочет дуэли с тобой! Напиши (r2) для принятия.
 \[New Quest Started: (.*)\]@§7[Начат новый квест: (r1)]
 \[You are now entering (.*)\]@§7[Ты входишь в (r1)]
@@ -6,7 +6,7 @@
 (.*) is now level (.*) in (.*)@§6(r1) достиг (r2) уровня в (r3)
 (.*) is for level (.*) only@§7(r1) только для уровней (r2)+
 \[You have received (.*) soul points while you were offline\]@§7[Ты заработал (r1) очка душ, пока был не в сети]
-- \+(.*) Experience Points@§d     -§r§7 +§r§f(r1)§r§7 Очков опыта
+     - \+(.*) Experience Points@§d     -§r§7 +§r§f(r1)§r§7 Очков опыта
 \+(.*) Emeralds@§7  +(r1) Эмеральдов
 \+1 Maximum Soul Points \[Total: (.*)\]@§7+1 к максимуму числа душ [Всего: (r1)]
 (.*) has logged into server (.*) as a (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
@@ -20,13 +20,12 @@ You will now contribute (.*)% of your XP to (.*)@§7Теперь ты вноси
 Please wait an additional (.*) minutes before opening this chest.@§7Пожалуйста, подожди еще (r1) минут, прежде чем открывать этот сундук.
 Please wait an additional (.*) seconds before opening this chest.@§7Пожалуйста, подожди еще (r1) секунд, прежде чем открывать этот сундук.
 (.*) has already claimed this loot chest!@§7(r1) уже забрал этот сундук с лутом!
-\[\+(.*) Intelligence for (.*) seconds\]@§7[+(r1) Интеллекта на (r2) секунд]
+\[\+(.*) for (.*) seconds\]@§7[+(r1) на (r2) секунд]
 You still have (.*) unused skill points! Click with your compass to use them!@§7У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
 You've gotten a (.*) reward!@§7Ты получил (r1) награду!
 (.*) has gotten a (.*) from their crate. Buy your own at wynncraft.com\/store@§7(r1) получил (r2) из своего контейнера. Купи свой собственный на wynncraft.com/store
-(.*) has thrown an XP Bomb! The entire server gets double xp for 20 minutes!@§7(r1) бросил XP Бомбу! Весь сервер получает удвоенные очки опыта на 20 минут!
-Want to thank (.*)\? Click here to thank them!@§7Хочешь поблагодарить (r1)? Нажми сюда, чтобы поблагодарить!
-This potion is for Lv. (.*)\+ only.@§7Это зелье только для уровней (r1)+ 
+(.*) has thrown a combat XP Bomb! The entire server gets double xp for 20 minutes!@§7(r1) бросил XP Бомбу! Весь сервер получает удвоенные очки опыта на 20 минут!
+This potion is for Lv. (.*)\+ only.@§7Это зелье только для уровней (r1)+
 (.*) quest items have been returned.@§7(r1) квестовых предметов было возвращено.
 (.*) requires your (.*) skill to be at least (.*).@§c(r1) §4требует, чтобы твое умение “(r2)” было не меньше §c(r3).
 You have unlocked page (.*) in your bank@§7Ты разблокировал (r1) страницу в своем банке
@@ -45,4 +44,4 @@ Item Buyer: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure do
 This material cannot be used for (.*)@§4Этот материал не может использоваться для §c(r1)
 You need to use an (.*) to gather from this resource!@§4Тебе нужно использовать §c(r1) §4чтобы собрать этот ресурс
 This machine can only process (.*)@§4Эта машина перерабатывает только §c(r1)
-Did you mean (.*)? If not, type /help to see the commands!@§4Ты имел в виду §r§c(r1)? §r§4Если нет, напиши /help, чтобы увидеть список команд!
+Did you mean (.*)\? If not, type /help to see the commands!@§4Ты имел в виду §r§c(r1)? §r§4Если нет, напиши /help, чтобы увидеть список команд!
