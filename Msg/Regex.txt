@@ -45,3 +45,6 @@ This material cannot be used for (.*)@§4Этот материал не може
 You need to use an (.*) to gather from this resource!@§4Тебе нужно использовать §c(r1) §4чтобы собрать этот ресурс
 This machine can only process (.*)@§4Эта машина перерабатывает только §c(r1)
 Did you mean (.*)\? If not, type /help to see the commands!@§4Ты имел в виду §r§c(r1)? §r§4Если нет, напиши /help, чтобы увидеть список команд!
+(.*): I'm afraid you cannot afford that item.@§5(r1): §dБоюсь, что ты не можешь получить этот предмет.
+(.*): I'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
+(.*): Thank you for your business. Come again!@§7(r1): Было приятно иметь с тобой дело. Приходи еще!
