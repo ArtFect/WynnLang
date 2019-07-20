@@ -48,3 +48,4 @@ Did you mean (.*)\? If not, type /help to see the commands!@§4Ты имел в 
 (.*): I'm afraid you cannot afford that item.@§5(r1): §dБоюсь, что ты не можешь получить этот предмет.
 (.*): I'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
 (.*): Thank you for your business. Come again!@§7(r1): Было приятно иметь с тобой дело. Приходи еще!
+(.*)'s bomb has expired. You can buy XP bombs at our website, wynncraft.com\/store@§7(r1) бомба закончилась. Ты можешь купить Xp бомбу на нашем сайте wynncraft.com/store
