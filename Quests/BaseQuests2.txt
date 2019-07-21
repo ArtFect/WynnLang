@@ -2033,12 +2033,12 @@ Tinemild: Maybe you are one of them? Maybe you wish to forget some of your past 
 Tinemild: Unfortunately, we cannot let every one in the tower...@К сожалению, мы не можем впустить в башню каждого...
 Tinemild: Prove to me that you are worthy of entering by bringing me a teleportation scroll of every major town in the province.@Докажи мне, что ты достоин, и принеси свитки телепортации из каждого крупного города в провинции.
 Tinemild: This will be a long quest, and it might take you multiple years to finish it. You might not even be strong enough to visit all of those towns.@Это длинное испытание, и ты можешь потратить годы на его выполнение. Возможно тебе даже не хватит сил, чтобы посетить все эти города.
-Tinemild: Let's start with Ragni. Hopefully this shouldn't be too hard for you. Bring me back [1 Ragni Teleportation Scroll].@Начнём с Ragni. К счастью, это не должно быть тяжело для тебя. Принеси мне [1 Ragni свиток телепортации].
-Tinemild: Good. Now, bring me [1 Detlas Teleportation Scroll].@Хорошо. Теперь принеси мне [1 Detlas свиток телепортации].
-Tinemild: Not bad. Let's make this a little bit harder now. Bring me [1 Nemract Teleportation Scroll].@Неплохо. Теперь посложнее. Принеси мне [1 Nemract свиток телепортации].
-Tinemild: Great. We'll see how far you can go. Bring me [1 Selchar Teleportation Scroll].@Великолепно. Посмотрим, как далеко ты зайдешь. Принеси [1 Selchar свиток телепортации].
-Tinemild: Impressive. Now let's see if your skin can endure the hot climate of the desert. Bring me [1 Almuj Teleportation Scroll].@Впечатляет. А сейчас посмотрим, как твоя кожа выдержит палящее солнце пустыни. Принеси [1 Almuj свиток телепортации].
-Tinemild: Very Good! But can you travel trought the cold and harsh climate of Nesaak? Bring me [1 Nesaak Teleportation Scroll].@Очень хорошо! Но сможешь ли ты пережить холодный климат Nesaak'а? Принеси мне [1 Nesaak свиток телепортации].
+Tinemild: Let's start with Ragni. Hopefully this shouldn't be too hard for you. Bring me back [1 Ragni Teleportation Scroll].@Начнём с Ragni. К счастью, это не должно быть тяжело для тебя. Принеси мне §3[1 Ragni свиток телепортации]§a.
+Tinemild: Good. Now, bring me [1 Detlas Teleportation Scroll].@Хорошо. Теперь принеси мне §3[1 Detlas свиток телепортации]§a.
+Tinemild: Not bad. Let's make this a little bit harder now. Bring me [1 Nemract Teleportation Scroll].@Неплохо. Теперь посложнее. Принеси мне §3[1 Nemract свиток телепортации]§a.
+Tinemild: Great. We'll see how far you can go. Bring me [1 Selchar Teleportation Scroll].@Великолепно. Посмотрим, как далеко ты зайдешь. Принеси §3[1 Selchar свиток телепортации]§a.
+Tinemild: Impressive. Now let's see if your skin can endure the hot climate of the desert. Bring me [1 Almuj Teleportation Scroll].@Впечатляет. А сейчас посмотрим, как твоя кожа выдержит палящее солнце пустыни. Принеси §3[1 Almuj свиток телепортации]§a.
+Tinemild: Very Good! But can you travel trough the cold and harsh climate of Nesaak? Bring me [1 Nesaak Teleportation Scroll].@Очень хорошо! Но сможешь ли ты пережить холодный климат Nesaak'а? Принеси мне §3[1 Nesaak свиток телепортации]§a.
 Tinemild: Congratulation. You can now access the tower to purify your mind from your past mistakes.@Поздравляю. Теперь ты можешь войти в башню и очистить своё сознание от ошибок прошлого.
 
 The_Ultimate_Weapon.html
