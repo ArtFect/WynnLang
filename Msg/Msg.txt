@@ -968,8 +968,8 @@ You have successfully created a party.@§7Ты успешно создал па�
 You have invited the player to the party.@§7Ты пригласил игрока в пати. 
 You have been removed from the party.@§7Ты был убран из пати.
 1 soul point has been lost...@§71 очко душ было потеряно...
-The trade has been completed!@§7Торговля успешно завершена!
-The trade request has been sent! Waiting for them to accept...@§7Торговый запрос отправлен! Ждем, пока его примут...
+The trade has been completed!@§5Торговля успешно завершена!
+The trade request has been sent! Waiting for them to accept...@§5Торговый запрос отправлен! Ждем, пока его примут...
 Did you mean /toggle? If not, type /help to see the commands!@§7Ты имел в виду ...? Если нет, напиши /help, чтобы увидеть список команд!
 You can't sell this item!@§7Ты не можешь продать этот предмет!
 + New Spell [Charge]@§7+ Новое заклинание [Charge]
