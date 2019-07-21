@@ -1,4 +1,4 @@
-\[!\] Congratulations to (.*) for reaching combat level (.*)!@§7[!] Поздравляем (r1) с достижением (r2) боевого уровня!
+\[!\] Congratulations to (.*) for reaching combat level (.*)!@§7[!] Поздравляем (r1) с достижением (r2) комбат уровня!
 (.*) would like to duel! Type (.*) to accept.@§7(r1) хочет дуэли с тобой! Напиши (r2) для принятия.
 \[New Quest Started: (.*)\]@§7[Начат новый квест: (r1)]
 \[Questline Started: (.*)\]@§7[Начата серия квестов: (r1)]
@@ -6,7 +6,7 @@
 \[You are now leaving (.*)\]@§7[Ты покидаешь (r1)]
 (.*) is now level (.*) in (.*)@§6(r1) достиг (r2) уровня в (r3)
 (.*) is for level (.*) only@§7(r1) только для уровней (r2)+
-\[You have received (.*) soul points while you were offline\]@§7[Ты заработал (r1) очка душ, пока был не в сети]
+\[You have received (.*) soul points while you were offline\]@§7[Ты заработал (r1) очко душ, пока был не в сети]
      - \+(.*) Experience Points@§d     -§r§7 +§r§f(r1)§r§7 Очков опыта
 \+(.*) Emeralds@§7  +(r1) эмеральд (а/ов)
 \+1 Maximum Soul Points \[Total: (.*)\]@§7+1 к максимуму числа душ [Всего: (r1)]
