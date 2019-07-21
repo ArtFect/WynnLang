@@ -958,6 +958,7 @@ You already have that potion active...@§7Это зелье уже действ�
 You have died...@§7Ты погиб...
 2 soul points have been lost...@§72 очка душ было утеряно...
 You've dropped:@§7С тебя выпало:
+Guild Master: You need 5 liquid emeralds to make a guild.@§dТебе нужно 5 жидких эмеральдов, чтобы создать гильдию.
 Since you interacted with your inventory, your horse has despawned.@§7Поскольку ты взаимодействовал с инвентарем, твоя лошадь была убрана.
 + New Spell [Smoke Bomb]@§7+ Новое заклинание [Smoke Bomb]
 - Smoke Bomb will throw a cloud of smoke, damaging mobs that are stuck inside@§7- Smoke Bomb выбрасывает облако дыма, нанося урон мобам, застрявшим внутри него
