@@ -6,7 +6,7 @@
 \[You are now leaving (.*)\]@§7[Ты покидаешь (r1)]
 (.*) is now level (.*) in (.*)@§6(r1) достиг (r2) уровня в (r3)
 (.*) is for level (.*) only@§7(r1) только для уровней (r2)+
-\[You have received (.*) soul points while you were offline\]@§7[Ты заработал (r1) soul points, пока был не в сети]
+\[You have received (.*) soul points while you were offline\]@§7[Ты заработал (r1) soul point'ов, пока был не в сети]
      - \+(.*) Experience Points@§d     -§r§7 +§r§f(r1)§r§7 Очков опыта
 \+(.*) Emeralds@§7  +(r1) эмеральд (а/ов)
 \+1 Maximum Soul Points \[Total: (.*)\]@§7+1 к максимуму числа душ [Всего: (r1)]
@@ -37,10 +37,10 @@ You need (.*) more levels before you can unlock this page of the bank@§7Теб�
 Blacksmith: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§5Blacksmith: §dты продал мне §r(r1)§d за (r2) эмеральд (а/ов). Было приятно иметь с тобой дело.
 The server is restarting in (.*) minutes.@§cСервер перезагрузится через (r1) минут
 The server is restarting in (.*) seconds.@§cСервер перезагрузится через (r1) секунд
-(.*) has just logged in!@§7(r1) Только что зашел
+(.*) has just logged in!@§5(r1) только что зашел
 Item Identifier: I'm afraid you don't have enough emeralds in your inventory for that. It will cost (.*) emeralds.@§7Item Identifier: Боюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить (r1) эмеральд (а/ов)
 Item Buyer: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§7Ты продал мне: (r1) в сумме за (r2) эмеральд (а/ов). Было приятно иметь с тобой дело.
-(.*) is now combat level (.*)@§6Боевой уровень (r1) теперь (r2)
+(.*) is now combat level (.*)@§6(r1) достиг (r2) комбат уровня
 (.*) has won the duel!@§e(r1) §9выиграл дуэль!
 This material cannot be used for (.*)@§4Этот материал не может использоваться для §c(r1)
 You need to use an (.*) to gather from this resource!@§4Тебе нужно использовать §c(r1) §4чтобы собрать этот ресурс
@@ -49,4 +49,4 @@ Did you mean (.*)\? If not, type /help to see the commands!@§4Ты имел в 
 (.*): I'm afraid you cannot afford that item.@§5(r1): §dБоюсь, что ты не можешь получить этот предмет.
 (.*): I'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
 (.*): Thank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
-(.*)'s bomb has expired. You can buy XP bombs at our website, wynncraft.com\/store@§7(r1) бомба закончилась. Ты можешь купить Xp бомбу на нашем сайте wynncraft.com/store
+(.*)'s bomb has expired. You can buy XP bombs at our website, wynncraft.com\/store@§7(r1) бомба закончилась. Ты можешь купить Xp бомбу на нашем сайте §6wynncraft.com/store
