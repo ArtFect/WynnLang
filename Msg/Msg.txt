@@ -931,11 +931,10 @@ There has been an error... Try again.@§7Произошла ошибка... По
 You don't have enough mana to do that spell!@§4У тебя недостаточно маны, чтобы использовать это заклинание!
 Thank you for using the WynnPack. Enjoy the game!@§7Спасибо, что используешь WynnPack. Наслаждайся игрой!
 Sorry, you can't teleport... Try moving away from blocks.@§7Извини, ты не можешь телепортироваться... Попробуй отойти от блоков
-Warning! You do not have the Wynncraft Resource Pack. The game will not make sense until you have it installed@§7Внимание! У тебя не установлен ресурспак сервера. Игра не будет иметь смысла, пока ты его не установишь.
-To fix this, add play.wynncraft.com to your server list and@§7Чтобы исправить это, добавь play.wynncraft.com в свой список серверов и
-enable server resource packs@§7включи поддержку серверного ресурспака
-Still not sure how to do it? Click here: https://forums.wynncraft.com/threads/cant-play-wynncraft-because-of-the-pack-heres-how-to-fix.98023/@§7Не уверен, как правильно это сделать? Нажми сюда: https://forums.wynncraft.com/threads/cant-play-wynncraft-because-of-the-pack-heres-how-to-fix.98023/
-To disable this message, type: /toggle rpwarning@§7Чтобы отключить это сообщение, напиши: /toggle rpwarning
+Warning! You do not have the Wynncraft Resource Pack. The game will not make sense until you have it installed@§cВнимание! У тебя не установлен ресурспак сервера. Игра не будет иметь смысла, пока ты его не установишь.
+To fix this, add play.wynncraft.com to your server list and enable server resource packs@§6Чтобы исправить это, добавь §eplay.wynncraft.com§6в свой список серверов и §nвключи поддержку серверного ресурспака
+Still not sure how to do it? Click here: https://forums.wynncraft.com/threads/cant-play-wynncraft-because-of-the-pack-heres-how-to-fix.98023/@§cНе уверен, как правильно это сделать? Нажми сюда: §4https://forums.wynncraft.com/threads/cant-play-wynncraft-because-of-the-pack-heres-how-to-fix.98023/
+To disable this message, type: /toggle rpwarning@§cЧтобы отключить это сообщение, напиши: /toggle rpwarning
 You will no longer receive the resource pack warning!@§7Ты больше не будешь получать уведомление о ресурспаке!
 Your class has automatically been selected. Use /class to change your class, or /toggle autojoin to turn this feature off.@§7Твой класс был автоматически выбран. Напиши /class, чтобы сменить класс, или /toggle autojoin чтобы отключить эту функцию.
 You have not unlocked this spell!@§7Ты еще не открыл это заклинание!
