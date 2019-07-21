@@ -1032,24 +1032,26 @@ Axelus: We might need to get to safety right now! The least explored area is the
 Axelus: The harsh environment up there is devastating to travel in.@Суровые условия там являются разрушительными для путешествий.
 Axelus: We'll stay around here, we aren't welcome in the village.@Мы останемся здесь, нам не очень рады в деревне.
 Korzim: But... bring them... the dragon bone as a gift... If they accept it... they might accept us.@Но... отнеси... им кость... Если они... примут ее.... то они смогут принять и нас.
-Axelus: You are free to enter the village but we will stay back and wait until the coast is clear, we need somewhere to stay.@Ты можешь свободно войти в деревню, но мы будем оставаться и ждать, пока все не уляжется, нам нужно где-то остановиться.
+Axelus: You are free to enter the village but we will stay back and wait until the coast is clear. Keep going.@Ты можешь свободно войти в деревню, но мы будем оставаться и ждать, пока все не уляжется. Продолжайте в том же духе.
+Plario: We don't forbid...you humans to be here, but please leave... We don't want any...unwanted dwarves here.@Мы не запрещаем...вам, людям, находиться здесь, но, пожалуйста, уходите... Нам не нужны...нежелательные гномы здесь.
 Plario: What is... that on the... cliff to the south?@Что... это на... южной горе?
-Dwarven Scout: Doguns? A whole settlement...@Dogun'ы? Целое поселение...
+Dwarven Scout: Hey, aren't those...Doguns?! A whole settlement...@Эй, разве это не...Dogun'ы?! Целое поселение...
 Dwarven Scout: They've been gathering forces! We must inform Rodoroc immediately!@Они собирают силы! Мы должны немедленно сообщить в Rodoroc!
-Plario: Come talk to me... now.@Подойди и поговори... со мной.
+Plario: Human. Come talk to me... now.@Человек. Подойди поговорить со мной... Сейчас же.
 Plario: Human... That Dwarf, he saw us...@Человек... Тот гном, он видел нас...
 Plario: They will... destroy us... if he reports... back to Rodoroc.@Они нас... Уничтожат... Если он доложит... в Rodoroc.
 Plario: We need to... prepare our defenses. We need all the... help we can get.@Нам нужно... подготовиться к защите... нам нужна... любая помощь.
 Plario: Wait... What are... you holding? Dragon bone... Just what we need...@Стой... Что это...ты держишь? Кость дракона... то, что нам нужно...
-Plario: You know what... if you promise to help us... I'll give you access to... our secret elevators, you can get up and... down the heights with those.@Знаешь что... Если ты пообещаешь нам помочь... Я дам тебе доступ... к нашим секретным лифтам... ты можем перемещаться... с помощью них.
+Plario: Human... if you promise to help us... I will grant you access to... our secret elevators... You can get up and... down the heights with those.@Человек... Если ты пообещаешь нам помочь... Я гарантирую тебе доступ... к нашим секретным лифтам... ты сможешь подниматься вверх и...вниз с помощью них.
 Plario: Please return to... us when you reach level 92. Take this... badge so the... others recognize you... as an ally. One of the elevators is... to the south.@Пожалуйста, вернись сюда... как достигнешь 92 уровня. Возьми... этот значок... чтобы остальные поняли... Что ты наш союзник... Один из лифтов...находится на юге
 
 Dwarves_and_Doguns_Part_II.html
-Dogun Chieftain: We have.. been expecting..you. You are so young.. to be fighting.. a war so old.@Мы...ждали...тебя. Ты так молод...чтобы сражаться... на этой старой войне.
-Dogun Chieftain: I am... over 4000... years old. The war... feels like yesterday... to many of us.@Мне...больше 4000...лет. Война... будто была вчера...для многих из нас.
-Dogun Chieftain: We would appreciate...your input. We need to discuss... how to survive... another siege.@Мы будем признательны...твоему вкладу. Нам нужно обсудить...как пережить...еще одну осаду.
+Plario: We need to solve...this conflict somehow. Please...help us.@Мы должны решить...этот конфликт как-то. Пожалуйста...помоги нам.
+Dogun Chieftain: You are so young... to be fighting.. a war so old. Still...it is appreciated.@Ты так молод...чтобы сражаться... на этой старой войне. Хотя...Это еще ценится.
+Dogun Chieftain: The war...to you, it would be...ages ago. But...when one has lived for...5000 years...@Война...для тебя, она была...давным-давно. Но...когда один живет...5000 лет...
+Dogun Chieftain: We have...few options. We need to discuss...the few we have...available.@У нас есть...несколько вариантов. Нам нужно обсудить...те немногие...что нам доступны.
 Dogun Chieftain: I am sorry... to welcome you all... in such troubled times.@Я извиняюсь... что приветствую вас всех... в эти трудные времена.
-Dogun Chieftain: We thought... we could hide in safety... But there is... nowhere left to hide.@Мы думали... мы могли спрятаться в безопасности... Но теперь... больше негде прятаться.
+Dogun Chieftain: We thought... we could hide in safety... But there is... no place left to hide.@Мы думали... мы могли спрятаться в безопасности... Но теперь... больше нет мест, где спрятаться.
 Dogun Chieftain: Aval... would have us... leave the Heights... But we... would not survive.@Aval... хотел чтобы мы... покинули Высоты... Но мы... бы не выжили.
 Dogun Chieftain: We must... evacuate the settlement... immediately. They... are coming... again.@Мы должны... эвакуировать поселение... поселение. Они... придут... снова.
 ???: Ouch, I'm sorry... Excuse us.@Ауч, простите... Извините нас.
@@ -1061,9 +1063,9 @@ Dogun Chieftain: Why... would we... trust you... of all Dwarves?@Почему...
 Dogun Chieftain: How... Can you even help? They... won't listen to you.@Как... ты можешь помочь? Они... не хотят слушать тебя.
 Axelus: I know all the war strategies and weapon cache locations.@Я знаю все их военные стратегии и места хранения оружия.
 Dogun Chieftain: Treason... Against your own kind...? How will you... manage this?@Измена... Против себе подобных...? Как вы будете... справляться с этим?
-Axelus: <playername> and I will sneak into the armoury and sabotage their equipment, Korzim will help the Doguns evacuate.@<playername> и я скрытно проникнем в оружейную и саботируем их вооружение, а Korzim поможет Dogun'ам эвакуироваться.
-Dogun Chieftain: That... sounds like...a good idea... We will put our... last resort... into action.@Это... звучит как...хорошая идея... Мы... начнем... действовать.
-Axelus: Okay, follow the southern road from Rodoroc and meet me next to the big armoury door, I'll be waiting there for you, <playername>.@Хорошо, следуй по южной дороге от Rodoroc'а и встретимся у большой бронированной двери. Я буду ждать тебя, <playername>.
+Axelus: The human and I will sneak into the armoury and sabotage their equipment. Korzim will help you Doguns evacuate someplace safer.@Человек и я скрытно проникнем в оружейную и саботируем их вооружение, а Korzim поможет Dogun'ам эвакуироваться в безопасное место.
+Dogun Chieftain: I am...yet wary of you...but we will...follow your plan...Dwarf. Korzim...lead us...to safety.@Я... по-прежнему опасаюсь тебя...но мы...последуем твоему плану...Гном. Korzim...веди нас...в безопасность.
+Axelus: <playername>, follow the southern road from Rodoroc, towards the Sky Islands entrance. I'll be waiting there for you near the armoury.@<playername>, следуй по южной дороге от Rodoroc'а, в сторону входа на Летающие острова. Я буду ждать тебя возле оружейной.
 Axelus: Shush! Look, they are going to enter the armoury.@Тише! Смотри, они собираются войти в оружейную.
 Axelus: We need to sneak in when they aren't watching@Нам нужно прокрасться внутрь, когда они не смотрят.
 Axelus: If they close that door, we are axed. Those Dwarven gates are almost unbreakable.@если они закроют эту дверь, мы обречены. Эти ворота гномов почти нерушимы.
