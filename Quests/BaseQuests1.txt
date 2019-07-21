@@ -1592,13 +1592,13 @@ Damien: I was trying to get to Cinfras to collect some medicine, but I never mad
 Damien: Can you get the medicine for me? The apothecary is at house 19... Please hurry, I feel terrible...@Может ты принесешь их мне? Аптека в доме №19... Пожалуйста, поторопись, я чувствую себя ужасно...
 Sasha: Welcome to Cinfras apothecary! How may I help you today?@Добро пожаловать в аптеку Cinfras'а! чем могу вам помочь?
 Sasha: Ahh, Damien. That rings a bell. He had an order ready.@Ааа, Damien. Что-то припоминаю. Его заказ уже готов.
-Sasha: Let's see.. That'll be 200,000 Liquid Emeralds please.@Посмотрим.. С вас 200,000 жидких эмеральдов, пожалуйста.
+Sasha: Let's see.. That'll be [200,000 Liquid Emeralds] please.@Посмотрим.. С вас §3[200,000 жидких эмеральдов]§a, пожалуйста.
 Sasha: Good medicine is expensive. I'm afraid that's the price.@Хорошая медицина стоит дорого. Я боюсь, что не продам вам дешевле.
 Sasha: Look, that's the price. I can't change it. It's all safely stored in my basement.@Слушай, смотри на ценник. Я не могу ничего изменить. Все это надежно хранится в моем подвале.
 Sasha: Look I know it's way too much money, but I'm desperate.@Слушай, знаю, что это слишком много денег, но я в отчаянии.
 Sasha: I want to give poor Damien his medicine so badly, but I can't.@Я очень хочу дать бедному Damien'у его лекарства, но не могу.
-Sasha: A royal gardener stole my diary and is using it to blackmail me. It has embarrassing secrets...like, really embrassing...@Королевский садовник украл мой дневник и использует его, чтобы шантажировать меня. Там все мои секреты...очень постыдные секреты...
-Sasha: He said he'll give it back only in exchange for [200,000 Liquid Emeralds]!@Он сказал, что отдаст его только в обмен на [200,000 жидких эмеральдов]!
+Sasha: A royal gardener stole my diary and is using it to blackmail me. It has embarrassing secrets...like, really embarassing...@Королевский садовник украл мой дневник и использует его, чтобы шантажировать меня. Там все мои секреты...очень постыдные секреты...
+Sasha: He said he'll give it back only in exchange for [200,000 Liquid Emeralds]!@Он сказал, что отдаст его только в обмен на §3[200,000 жидких эмеральдов]§a!
 Sasha: I'm sorry, but as long as that gardener is determined to get me, I can't lower the price. If you wish to approach him, he's probably at the bridge to the guild hall, gardening.@Извини, но пока садовник полон решимости шантажировать меня, я не могу снизить цену. Если ты хочешь поговорить с ним, он, наверное, на мосту к гильдии, работает в саду.
 Gardener: What do you want, can't you see I'm busy?@Что тебе нужно, разве ты не видишь, я занят?
 Gardener: Oh. Sasha. Did she send you to deliver the money?@Ох, Sasha. Она послала тебя доставить деньги?
@@ -1621,16 +1621,16 @@ Charlie: Oh my goodness me, thank you kind Human, thank you!@О Боже же т
 Charlie: My life partner Dave and I were beside ourselves with worry!@Мой партнер Dave и я были вне себя от беспокойства!
 Charlie: You will have to come over for dinner some time. Dave makes a fantastic roast Grook.@Ты должен будешь прийти к нам на ужин как-нибудь. Dave делает фантастическое жаркое из Grook'а.
 Ollie: Hello again! Did you somehow manage to acquire all of those weird ingredients?@И снова здравствуй! Ты каким-то образом умудрился достать все те странные ингредиенты?
-Ollie: Woah. I didn't even think half of these even existed! Very impressive. Right, let's see if this old book is right.@Ого. Я даже не думал, что половина этих ингредиентов вообще существовала! Очень впечатляюще. Ладно, посмотрим, верна ли эта старая книга.
+Ollie: Wow. I didn't even think half of these existed! Very impressive. Right, let's see if this old book is right.@Ого. Я даже не думал, что половина этих ингредиентов вообще существовала! Очень впечатляюще. Ладно, посмотрим, верна ли эта старая книга.
 Ollie: I'm going to need a bit of that. Yes. A pinch of this. Mmm. Grind that up...@Мне нужно немного этого. Да. Щепотку того. Mмм. Измельчаем...
 Ollie: ...@...
 Ollie: And... There! Magical glasses. Whatever it is you're looking for, you should be able to find.@И... Готово! Магические очки. Теперь что бы ты не искал, ты найдешь это.
 Ollie: No need to pay me. Doing ancient magic is a hobby of mine. And after all that trouble you went through to get these items...@Не нужно платить мне. Древняя магия - это мое хобби. После всех неприятностей, через которые ты прошел, чтобы получить эти предметы...
 Ollie: Why, it'd be a slap to the face. No, you go do what you have to. I hope you find whatever it is you're looking for.@Для меня это будет оскорблением. Нет.. Иди и делай то, что должен. Я надеюсь, тебе удастся найти то, что ты ищешь.
-Guardian of The Forest: Welcome back, Human. I see there was there something in Cinfras to help you. I suppose the Villagers still live.@Ты вернулся, человек. Я вижу, в Cinfras'е было что-то, что тебе поможет. Полагаю, и жители еще живут.
+Guardian of The Forest: Welcome back, Human. I see there was something in Cinfras to help you. I suppose the Villagers still live.@Ты вернулся, человек. Я вижу, в Cinfras'е было что-то, что тебе поможет. Полагаю, и жители еще живут.
 Guardian of The Forest: While you were gone I have caught up on the last 200 years.@Пока ты ходил, я разузнал о событиях этих 200 лет.
 Guardian of The Forest: How things have decayed.. The Gert war.. The two towers.. And oh, the poor Doguns!@Как все вокруг заражалось.. Война с Гертами.. Две башни.. Ах да, бедные Dogun'ы!
-Guardian of The Forest: Well, dwelling on the will not fix things. Remember the arch from before?@Что ж, размышления о прошлом не помогут. Помнишь, где арка?
+Guardian of The Forest: Well, dwelling on the matter will not fix things. Remember the arch from before?@Что ж, размышления о прошлом ничем не помогут. Помнишь, где арка?
 Guardian of The Forest: Put on your glasses and you will be able to see what you could not before.. The arch is to the south if you have forgotten.@Надень эти очки и ты сможешь увидеть то, что раньше не мог.. арка на юге, если ты забыл.
 
 Flight_in_Distress.html
