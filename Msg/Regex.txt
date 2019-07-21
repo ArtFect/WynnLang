@@ -13,7 +13,7 @@
 (.*) has logged into server (.*) as a (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
 (.*) has logged into server (.*) as an (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
 (.*) left the game.@§7(r1) покинул игру.
-(.*) would like to trade! Type (.*) to accept.@§7(r1) хотел бы поторговать с тобой! Напиши (r2) для принятия.
+(.*) would like to trade! Type (.*) to accept.@§5(r1) хотел бы поторговать с тобой! Напиши §6(r2) §5для принятия.
 (.*) is not a (.*) weapon. You must use a (.*).@§7(r1) не оружие для (r2) . Ты должен использовать (r3)
 (.*) has given you 20% resistance and 10% strength.@§7(r1) дал тебе 20% к сопротивлению и 10% к силе.
 You will now contribute (.*)% of your XP to (.*)@§7Теперь ты вносишь (r1)% от своих очков опыта в (r2)
