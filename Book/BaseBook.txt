@@ -1,4 +1,4 @@
-Acquiring_Credentials.html
+﻿Acquiring_Credentials.html
 Speak to Doan regarding his passport@Поговори с Doan'ом по поводу его паспорта
 Look around the airbase for clues as to where the thieves might be@Обыщи авиабазу, и найди подсказки, куда мог пойти вор
 Find a way to find out the password@Найди способ узнать пароль
@@ -106,7 +106,7 @@ Don't let the bandits escape!@Не дай бандитам сбежать!
 Talk to the Almuj Bank Guard@Поговори с Almuj Bank Guard'ом
 
 Beneath_the_Depths.html
-Talk to Javier in Pirate Cove@Поговори с Javier'ом в Pirate Cove
+Talk to Javier in the Pirate Cove at@Поговори с Javier'ом в Pirate Cove на
 Find Javier's map, hidden in the skull tomb at the entrance of the island@Найди карту Javier'а, спрятанную внутри Пещеры-черепа
 Give the Faded Map to Javier@Отдай Выцветшую карту Javier'у
 Bring the map to Dalben in Mage Island@Принеси карту к Dalben'у на острове Mage Island
@@ -118,7 +118,7 @@ Go to the location specified on that map and enter the Ocean Cave.
 » Вернись обратно к Javier'у
 
 Beyond_the_Grave.html
-Speak to Irlok in the Bantisu Air Temple@Поговори с Irlok'ом в Воздушной башне
+Speak to Irlok in the Air Temple at@Поговори с Irlok'ом в Воздушной башне на
 Seek out the creature in the mines@Найди создание в шахте
 Explore the strange realm and bargain with Death@Исследуй странное царство и договорись с Death
 Exit the strange realm@Покинь странное царство
@@ -138,7 +138,7 @@ Find Bob's corpse in his Tomb@Найди останки Bob the Zombie в его
 Report back what you've seen to Tarod@Сообщи о том, что увидел Tarod'у
 
 Canyon_Condor.html
-Talk to Svin in Rymek@Поговори со Svin'ом в Rymek'е
+Talk to Svin in Rymek at@Поговори со Svin'ом в Rymek'е на
 Talk to Jankan@Поговори с Jankan'ом
 Bring 5 [Gold Chunk] to Jankan@Принеси 5 [кусков золота] к Jankan'у
 Talk to the Hermit in front of the plateau bridge@Поговори с Hermit'ом у начала моста через плато
@@ -146,9 +146,9 @@ Bring 1 Rare Rose to Hermit@Принеси 1 редкую розу к Hermit'у
 Defeat the Cockatrice and bring 1 Beast Egg to Svin@Победи Cockatrice и принеси 1 Яйцо зверя к Svin
 
 Clearing_the_Camps.html
-Talk to Captain Kymer@Поговори с Captain Kymer'ом
+Talk to Captain Kymer in Llevigar at@Поговори с Капитаном Kymer'ом в Llevigare'e на 
 Find and kill Orc Chieftans Dolg, Visbe and Elak@Найди и убей главарей орков Dolg'а, Visbe и Elak'a
-Report back to Captain Kymer once you have the three heads@Вернись к Captain Kymer'у когда у тебя будут три головы
+Report back to Captain Kymer once you have the three heads@Вернись к Капитану Kymer'у когда у тебя будут три головы
 
 Cluck_Cluck.html
 Talk to Nohno on Rooster Island@Поговори с Nohno на Rooster Island'е
@@ -197,7 +197,7 @@ Enter the portal@Войди в портал
 Return to Ranol and tell him about wizards death@Вернись к Ranol'у и расскажи ему о смерти ученого
 
 Craftmas_Chaos.html
-Talk to Tom in Selchar@Поговори с Tom'ом в Selchar'е
+Talk to Tom in Selchar at@Поговори с Tom'ом в Selchar'е на
 Find Santa on the Craftmas Island@Найди Santa на Острове Craftmas
 Find Tommy in Selchar's Past@Найди Tommy в прошлом Selchar'е
 Investigate the mysterious cave@Посети загадочную пещеру
@@ -218,7 +218,7 @@ Buy the creeper mask from the merchant and enter the Creeper's Hideout.@Купи
 Bring Thomas 1 Creeper Powder to prove him creepers exist in Wynn@Принеси Thomas'у [1 Порошок крипера] для доказательства существования криперов в Wynn
 
 Crop_Failure.html
-Talk to Anast in Olux@Поговори с Anast'ом в Olux'е
+Talk to Anast in Olux, at@Поговори с Anast'ом в Olux'е на
 Interrogate Doubiss the salesman in Olux@Допроси продавца Doubiss'а в Olux'е
 Go to the wellspring cave near the Olux Crypts@Иди к источнику в пещере рядом с кладбищем Olux'а
 Search inside the cave to find the problem with the water@Обыщи пещеру и найди проблему с водой
@@ -242,14 +242,14 @@ Find a way to save Asher from his death@Найди способы спасти A
 Talk to Asher@Поговори с Asher'ом
 
 Desperate_Metal.html
-Speak to Phinas@Поговори с Phinas'ом
+Speak to Phinas on Corkus Island at@Поговори с Phinas'ом на острове Corkus 
 Locate the 3 mechs by following the trails of tools, return to Phinas with evidence that you destroyed the mechs@Найди трех роботов следуя дорожке из инструментов. После вернись к Phinas'у с доказательствами того, что ты уничтожил роботов
 Find out where to go by looking at the pieces of junk@Пойми, куда нужно идти, смотря на останки роботов
 Search Nettik's lighthouse@Обыщи маяк Nettik
 Find the fourth mech@Найди четвертого робота
 
 Dwarves_and_Doguns_Part_I.html
-Find out what's happening at the theatre@Узнай, что происходит в театре
+Find out what's happening at the theatre at@Узнай, что происходит в театре на 
 Watch the play@Посмотри выступление
 Make your way to the Dogun Festival by following the red banners outside Rodoroc@Дойди до Фестиваля Dogun'ов следуя красным банерам снаружи Rodoroc'а
 Find out more about the hysterical dwarf in Rodoroc's prison@Узнайте больше о произошедшем в тюрьме Rodoroc'а
@@ -265,7 +265,7 @@ Find your way up to the Dogun Village through the tunnel@Доберись до �
 Talk to Plario@Поговори с Plario
 
 Dwarves_and_Doguns_Part_II.html
-Return to the Dogun village with a Dogun Badge of Trust and talk to the leader of the town@Вернись в деревню Dogun'ов с Dogun Badge of Trust и поговори с лидером деревни
+Return to the Dogun village at with a Dogun Badge of Trust and talk to the leader of the town@Вернись в деревню Dogun'ов на  с Dogun Badge of Trust и поговори с лидером деревни
 Enter the meeting@Войди на место встречи
 Meet up with Axelus at 1383,13,-5088@Встреться с Axelus'ом
 Defeat the Rodoroc Guards outside the armory@Победи охранников Rodoroc'a снаружи оружейной
@@ -291,7 +291,7 @@ Travel to the frozen heights and find the True Ice@Иди к замерзшим 
 Return to the enchanter with the True Ice@Вернитесь к чародею с Чистым Льдом
 
 Dwarves_and_Doguns_Part_IV.html
-Return to Korzim on the second floor of the enchanter in Maex with the Amulet of Fire Resistance and the Staff of True Ice@Вернись к Korzim'у, что на втором этаже дома чародея в Maex'е с Amulet of Fire Resistance и Staff of True Ice
+Return to Korzim at on the second floor of the enchanter in Maex with the Amulet of Fire Resistance and the Staff of True Ice@Вернись к Korzim'у на , что на втором этаже дома чародея в Maex'е с Amulet of Fire Resistance и Staff of True Ice
 Head to Rodoroc and look for Axelus@Иди в Rodoroc и отыщи Axelus'a
 Free Axelus and escape the city@Спаси Axelus'a и сбеги из города
 Reach the portal and stop Garaheth@Достигни портала и останови Garaheth'a
@@ -314,7 +314,7 @@ Return to Ragon's camp@Вернись в лагерь Ragon'а
 Trade in your ✹ Fire weapon and give the Study Results to Ragon@Обменяй свое оружие на [Результаты исследования] и отдай их Ragon'у
 
 Enter_the_Dojo.html
-Talk to Sensei Miyagi in Sakura Dojo@Поговори с Sensei Miyagi в Школе дзюдо Sakura
+Talk to Sensei Miyagi at@Поговори с Sensei Miyagi на 
 Jump down the water pit to begin the challenges@Прыгни в яму с водой, чтобы начать испытания
 Ascend the Qiangdu Room in the physical strength challenge@Войди в Qiangdu комнату, чтобы начать испытание на физическую силу
 Fight your way throught the Dàochång Room in the combat challenge@Пробей себе путь через Daochang комнату в боевом испытании
@@ -394,7 +394,7 @@ Go through the portal in the strange place@Пройди сквозь порта�
 Speak to Relend@Поговори с Relend'ом
 
 Fate_of_the_Fallen.html
-Talk to Telvu the mage@Поговори с магом Telvu
+Talk to Telvu the mage at@Поговори с магом Telvu на 
 Find the item the mage is talking about at the bank@Найди предмет в банке, о котором говорил маг
 Enter the Gate of Time and travel back in time@Войди в Ворота Времени и вернись в прошлое
 Explore Nesaak@Исследуй Nesaak
@@ -404,7 +404,7 @@ Protect the portal@Защищай портал
 Tell Telvu the mage what happened@Расскажи магу Telvu что произошло
 
 Finding_The_Light.html
-Talk to the Guardian of The Forest in the Light Forest@Поговори с Guardian of The Forest в Light Forest'е
+Talk to the Guardian of The Forest in the Light Forest at (Requires completion of Taproot)@Поговори с Guardian of The Forest в Light Forest'е на (Необходимо пройти Taproot)
 Find the Arch in the Light Forest@Найди Арку в Light Forest'е
 Return to the Guardian of The Forest to seek guidance@Вернись к Guardian of The Forest'у для указаний
 Find someone in Cinfras who can help you SEE@Найди кого-то в Cinfras'е, кто поможет тебе УВИДЕТЬ
@@ -429,7 +429,7 @@ Head back to the Light Realm Arch@Вернись к Арке
 Enter The Light Realm@Войди в Царство Света
 
 Flight_in_Distress.html
-Speak to the Passenger Controllant@Поговори с Passenger Controllant'ом
+Speak to the Passenger Controllant at@Поговори с Passenger Controllant'ом на
 Enter the airship@Войди на дирижабль
 Try and find out where the missing child is located by speaking to the passengers@Узнай о местонахождении пропавшего ребенка, расспрашивая пассажиров
 Return back to the captain@Вернись к капитану
@@ -468,7 +468,7 @@ Find someone in Thanos who wants to buy your Amulet of the First of the Fallen@�
 Find someone in Thanos who wants to buy your Horn of the Elven God Entia@Найди кого-то в Thanos'е, кто хочет купить твой горн эльфийского бога Entia
 
 From_the_Mountains.html
-Talk to Anrod at his house@Поговори с Anrod'ом в его доме
+Talk to Anrod at his house at@Поговори с Anrod'ом в его доме на
 Climb the mountain behind Anrod's house, and find Rynver@Заберись на гору позади дома Anrod'а, и найди Rynver'а
 Investigate why Rynver is pointing to a cave behind him@Узнай, почему Rynver отправляет тебя в пещеру позади него
 Search for a water spirit around the river with a Breathing Helmet@Отыщи водного духа в ближайшей реке вместе со Шлемом подводника
@@ -479,7 +479,7 @@ Go deeper into the cave and stop the Fleris Sludge from burning the roots@Угл
 Return to Anrod with 1 Fleris Cream to prove you solved the problem@Вернись к Anrod'у с 1 Кремом Fleris'a для доказательства решения проблемы
 
 Frost_Bite.html
-Find Eppo near@Найди Eppo
+Find Eppo at @Найди Eppo на
 Go deeper into the cave and speak to Rhudya@Пройди вниз по пещере и поговори с Rhudya
 Return to Eppo with the tnt@Вернись к Eppo с динамитом
 Travel to the lava springs through the mineshaft@Пройди к озеру лавы через шахту
@@ -529,24 +529,15 @@ Bring back 5 Soft Sand to Yodbon@Принеси 5 мягкого песка Yodb
 Enter the Slime Cave behind Eluzterp and collect 8 Slimey Goo@Войди в Пещеру слизней позади Eluzterp и собери 8 вязкой слизи
 
 Green_Skinned_Trouble.html
-Speak to Piere@Поговори с Piere'ом
+Speak to Piere in the Llevigar plains at @Поговори с Piere'ом на полях Llevigar'a 
 Report the attack to Detective Jackson@Сообщи об атаке Detective Jackson'у
 Bring Detective Jackson [5 Damask Axe Heads], [5 Sable Axe Heads], and [5 Sugha Axe Heads]@Принеси Detective Jackson'у [5 Damask лезвий топора], [5 Sable лезвий топора] и [5 Sugha лезвий топора]
-Enter the hidden camp in the water near Piere's house. 
-» Travel through the cave until you reach a puzzle. 
-» Completing it will open a hole in the floor@Попади в скрытый подводный лагерь рядом с домом Piere'а. 
-» Иди в конец пещеры, пока не увидишь головоломку. 
-» Разгадай ее и откроется дыра в полу
-For this stage, there are four paths to parkour along. 
-» Only one of them is the correct way. 
-» If you choose the wrong path, you will have to try again@На этой стадии есть четыре дорожки с паркуром. 
-» Только одна из них ведет дальше. 
-» Если выберешь не правильный путь, то придется начать заново
+Enter the hidden camp in the water near Piere's house.@Попади в скрытый подводный лагерь рядом с домом Piere'а.
 Kill Orc Leader Gregg'r to obtain 1 Axe of Llevigar@Убей лидера орков Gregg'r, чтобы получить 1 Топор Llevigar'а
 Return the Axe of Llevigar to Detective Jackson@Верни топор Llevigar'а к Detective Jackson'у
 
 Haven_Antiquity.html
-Talk to Cinfras on Dead Island@Поговори с Cinfras'ом на Dead Island'е
+Talk to Cinfras on the docks at Dead Island at@Поговори с Cinfras'ом в доках Dead Island'а на
 Investigate Old Siwel in the dead Mansion@Поговори с Old Siwel'ом в Мертвом Особняке
 Bring 3 Umbral Essences to Old Siwel@Принеси 3 [Umbral Essences] к Old Siwel'у
 Locate the Crypt under the church and pass through a dead man's memory@Найди склеп под церковью и войди в память покойного
@@ -556,7 +547,7 @@ Talk to Old Siwel again@Поговори снова с Old Siwel'ом
 Talk to Cinfras again@Поговори с Cinfras'ом снова
 
 Heart_of_Llevigar.html
-Find Zenam in his laboratory@Найди Zenam'а в его лаборатории
+Find Zenam in his laboratory in Llevigar at@Найди Zenam'а в его лаборатории Llevigar'a на 
 Enter the sewers opposite of the bank of Llevigar@Войди в канализацию напротив банка Llevigar'а
 Find the Head Engineer at the Llevigar Power Plant@Найди Head Engineer"а на Электростанции Llevigar'a
 Find a way to proceed into the inner works of the machinery@Найди путь внутрь машинного отделения
@@ -581,7 +572,7 @@ Go deeper into the cave and find the Banshee@Продвигайся вглубь
 Exterminate the Banshee and give Laloire a memento from the Banshee as proof@Убей Банши и отдай Laloire сувенир в качестве доказательства
 
 Ice_Nations.html
-Talk to Adigard on the Icy Islands@Поговори с Adigard'ом на Ice Islands
+Talk to Adigard on the Ice Islands at@Поговори с Adigard'ом на Ice Islands 
 Talk to Hallfred about the peace treaty@Поговори с Hallfred'ом насчет мирного соглашения
 Talk back to Adigard about Hallfred's response@Снова поговори с Adigard'ом насчет предложения Hallfred'а
 Find the ghost ship and bring back ancient treasure to Hallfred@Найди призрачный корабль и принеси Древнее сокровище к Hallfred'у
@@ -592,7 +583,7 @@ Locate the medicine in the spider cave by climbing the tree behind Ope@Найд�
 Locate the plant and return to Ope@Возьми растение из пещеры и вернись к Ope
 
 Jungle_Fever.html
-Talk to Worid in the Iboju Village@Поговори с Worid'ом в Iboju Village
+Talk to Worid in the jungle village at@Поговори с Worid'ом в деревне джунглей на 
 Talk to Detlas's Banker about the cure for Worid@Поговори с Detlas's Banker насчет лекарства для Worid'а
 Head down into Deltas Bank and talk to Worid@Проникни вниз под банк Detlas'a и поговори с Worid'ом
 Infiltrate Almuj's Emerald Labyrinth and find the Almuj Banker in the Emerald Room@Посети Эмеральдовый лабиринт Almuj'a и найди Almuj Banker в эмеральдовой комнате
@@ -643,13 +634,13 @@ Talk to Sesad@Поговори с Sesad'ом
 Return to Burtur with Healing Water@Вернись к Burtur'у с целебной водой
 
 Lost_in_the_Jungle.html
-Talk to Gracen in the Iboju Village@Поговори с Gracen'ом в деревне Iboju
+Talk to Gracen at@Поговори с Gracen'ом на
 Follow the trail until you stand in front of a temple. Kill the entity on top of the temple and then go inside@Иди по следам, пока не дойдешь до храма. Зайди внутрь
 Obtain the Mysterious Gemstone by beating Possessed Aryn@Получи загадочный драгоценный камень, победив одержимого Aryn'а
 Bring back the Mysterious Gemstone to Gracen@Принеси загадочный драгоценный камень к Gracen'у
 
 Lost_Royalty.html
-Talk to Yavlis in Troms@Поговори с Yavlis'ом в Troms'е
+Talk to Yavlis in Troms at@Поговори с Yavlis'ом в Troms'е на
 Talk to the Mercenary Leader in their hideout outside Troms@Поговори с Mercenary Leader в его убежище, снаружи Troms'а
 Go to the Jungle Temple and retrieve the talisman@Иди в Храм джунглей и получи талисман
 Bring the talisman back to the Mercenary Leader@Принеси талисман к Mercenary Leader
@@ -709,7 +700,7 @@ Escape the ball with Nick@Уйди из зала вместе с Nick'ом
 Talk to Nick@Поговори с Nick'ом
 
 Memory_Paranoia.html
-Speak to Atisun@Поговори с Atisun'ом
+Speak to Atisun in front of Erca Mansion at@Поговори с Atisun'ом на входе в Поместье Erca
 Enter Erca Mansion@Войди в поместье Caritat
 Learn the story of the Caritat Family@Изучи историю семейства Caritat
 Enter the basement and recover the Library Key@Войди в подвал и добудь ключ от библиотеки
@@ -737,7 +728,7 @@ Escape through the mysterious rift@Сбеги через загадочную р
 Speak to Atisun@Поговори с Atisun'ом
 
 Mixed_Feelings.html
-Speak to Javen at the Corkus Docks@Поговори с Javen'ом в Доках Corkus'a
+Go for a drink at the Corkus Docks Inn, @Пойди выпить в Доках Corkus'a на
 Talk to Javen@Поговори с Javen'ом
 Talk to the citizens around the docks@Поговори с людьми в доках
 Speak to the other citizens around the docks@Поговори с другими жителями в доках
@@ -748,7 +739,7 @@ Fight and evade the waves of mobs until the timer runs out@Сражайся с �
 Speak to Javen@Поговори с Javen'ом
 
 Murder_Mystery.html
-Talk to Captain Lorias@Поговори с Captain Lorias'ом
+Talk to Captain Lorias in Cinfras suburbs at@Поговори с Captain Lorias'ом в окрестностях Cinfras'а на
 Investigate the crime scene for clues@Посети место преступления и найди улики
 Return to the victim's house to find a bat symbol@Вернись на место преступления и найди символ мыши
 Find the gamblers in the Cinfras sewers@Найди игроков в канализации Cinfras'а
@@ -762,7 +753,7 @@ Bring back 3 Brown Mushrooms and 3 Red Mushrooms to Yahya@Принеси 3 Ко�
 Bring back 1 Bowl to Yahya to complete the quest@Принеси 1 Миску к Yahya, чтобы завершить квест
 
 One_Thousand_Meters_Under.html
-Read the Help Wanted sign in Ahmsord at [1108, 107, -4555]@Прочитай Help Wanted доску в Ahmsord'е
+Read the Help Wanted sign in Ahmsord at@Прочитай Help Wanted доску в Ahmsord'е на 
 Talk to The Secretary at [1121, 101, -4525]@Поговори с The Secretary
 Enter the conference room and listen to the scientist@Войди в комнату конференций и послушай ученого
 Meet up with the crew inside the submarine@Встреться с экипажем внутри подводной лодки неподалеку
@@ -783,7 +774,7 @@ Return to the crash site by following the road@Вернись к месту ав
 Return to the scientists an tell him the news@Вернись к ученому и расскажи ему все новости
 
 Out_of_my_Mind.html
-Speak with the Troms children in the treehouse@Поговори с детьми в Troms'е рядом с фонтаном
+Speak with the Troms children at inside the treehouse@Поговори с детьми в Troms'е на внутри деревянного дома
 Find the hidden door next to the Undergrowth Ruins outside Troms@Найди потайную дверь рядом с Undergrowth Ruins, снаружи Troms'а
 Find a way inside the house at [-705,59,-817]@Найди путь внутрь дома
 Explore the hidden lab in search of information@Исследуй тайную лабораторию и найди информацию
@@ -791,7 +782,7 @@ Build a machine to hit your head and get back to normal@Построй маши�
 Find a way to destroy the plant monster, then return to the group in Troms at [-830,75,-979] to report your findings@Найди способ уничтожить растение-монстр, затем вернись к детям в Troms'е на [-830,75,-979] и сообщи о находках
 
 Pirate%27s_Trove.html
-Talk to Damiral@Поговори с Damiral'ом
+Talk to Damiral, outside Llevigar at@Поговори с Damiral'ом снаружи Llevigar'a на 
 Search Llevigar for the grey stone using the clue: Toward the sunset, among the northern flowers shaded by quartz@Отыщи в Llevigar"е черный камень, используя подсказку: "В направлении заката, среди северных цветов в тени кварца"
 Find the second piece of black stone using the clue: "In a place of identity, above the leaves and between the glass"@Найди второй черный камень, используя подсказку: "В месте идентификации, над листьями и между стеклом"
 Find the third piece of black stone using the clue: "In an emerald fountain, surrounded by the wealth of the villagers"@Найди третий черный камень, используя подсказку: "В эмеральдном фонтане, в окружении богатств жителей"
@@ -816,7 +807,7 @@ Enter the hut and slay Dr. Essren@Войди в хижину и убей Essren'
 Bring back Essren's Dusty Coat to The Assistant@Принеси пыльное пальто Essren'а к The Assistant
 
 Purple_and_Blue.html
-Talk to Korun@Поговори с Korun'ом
+Talk to Korun near lake Gylia at@Поговори с Korun'ом рядом с озером Gylia на
 Investigate the ancient wizard's house for clues@Исследуй старый дом мага в поисках подсказок
 Follow the hints in the cellar to find the mysterious cave@Найди пещеру, с помощью подсказок на табличках в подвале
 Find the Lost Helmet inside the Cave@Найди Потерянный шлем внутри пещеры
@@ -872,7 +863,7 @@ Kill Bob's Reincarnation@Убей Bob's Reincarnation
 Bring back 1 Bob's Seal of Approval to Batelu@Принеси 1 Печать одобрения Bob'a к Batelu
 
 Rise_of_the_Quartron.html
-Talk to Nasea@Поговори с Nasea
+Talk to Nasea in@Поговори с Nasea на
 Talk to Dado and see if he is the culprit@Поговори с Dado и посмотри, виновен ли он
 Go back to Nasea and tell him about Dado's response@Вернись к Nasea и скажи ему об ответе Dado
 Find the exiled elf inside the web cavern@Найди Rinire внутри паучей пещеры
@@ -886,7 +877,7 @@ Collect all 4 Cores from the robot and show it to Kaosuw to scare him off@Соб
 Report back to Nasea about the whole incident@Сообщи Nasea об этом инциденте
 
 Royal_Trials.html
-Speak to Skyraider Guard@Поговори с Skyraider Guard'ом
+Talk to the Skyraider Guard at@Поговори с Skyraider Guard'ом на 
 Speak to Hrona@Поговори с Hrona
 Obtain a Female Pirate Wig from the Wig Merchant in Ahmsord and go down the stairs near the Hrona and Skyraider Guard@Купи Женский парик пирата у торговца париками в Ahmsord'е, и спустись вниз по лестнице возле Hrona и Skyraider Guard'а
 Walk forward@Пройди вперед
@@ -910,7 +901,7 @@ Leave the sewers@Покинь канализацию
 Talk to Jenprest@Поговори с Jenprest'ом
 
 Shattered_Minds.html
-Talk to Likeru in Efilim@Поговори с Likeru в Efilim'е
+Talk to Likeru in Efilim at@Поговори с Likeru в Efilim'е на
 Look for the caves to the northwest of Efilim@Найди пещеру на северо-западе от Efilim'а
 Find the mushroom Likeru is looking for@Найди гриб, который ищет Likeru
 Investigate the giant blue mushroom@Посети гигантский синий гриб
@@ -931,7 +922,7 @@ Stable_Story.html
 Bring back [1 stable key] from the tunnel at@Принеси [1 ключ от конюшни] обратно из тоннеля на
 
 Star_Thief.html
-Look into the rumours of strange weather near the Imal Inn@Расследуй слухи о странной погоде рядом с гостиницей Imal'a
+Look into the rumours of strange weather near the Inn at@Расследуй слухи о странной погоде рядом с гостиницей на 
 Find the meteor's crash site@Найди место падения метеора
 Explore the cave that the meteor crashed into@Исследуй пещеру, в которую упал метеор
 Escape the collapsing cave@Выберись из пещеры
@@ -963,7 +954,7 @@ Explore the Light Forest@Исследуй Light Forest
 Talk to Tiek@Поговори с Tiek
 
 Temple_of_the_Legends_(Quest).html
-Talk to Kelight at the entrance of the Temple of the Legends@Поговори с Kelight'ом на входе в Temple of the Legends
+Talk to Kelight at the entrance of the Temple of the Legends, close to Troms at@Поговори с Kelight'ом на входе в Храм Легенд
 Bring back 1 Yahya's Stained Bowl, 1 Maltic's Recommendation Letter, and 1 Corrupted Potato to Kelight@Принеси 1 Использованную миску Yahya, 1 Рекомендательное письмо из Maltic'a, и 1 Испорченную картошку к Kelight
 Bring back 1 Bob's Crushed Soul, 1 Sayleros' Brother's Ashes, and 1 The Mummy's Bandage to Kelight@Принеси 1 Измельченную душу Bob'a, 1 Прах брата Sayleros'а, и 1 Бинт мумии к Kelight
 Talk to Jorkin near the Nether Portal about Light Dust@Поговори с Jorkin'ом рядом с порталом в ад насчет светопыли
@@ -1027,7 +1018,7 @@ Take the ruby from the eye socket of the dark skull and leave the strange dark r
 Return the ruby to Graken@Вернись с рубином к Graken'у
 
 The_Envoy_Part_I.html
-Speak to Olivin@Поговори с Olivin'ом
+Speak to Olivin in Selchar at@Поговори с Olivin'ом в Selchar'e на
 Speak to C.S.S Wavebreaker Captain at the Selchar docks@Поговори с C.S.S Wavebreaker Captain'ом в доках Selchar'а
 Get onto the C.S.S. Wavebreaker@Зайди на борт C.S.S. Wavebreaker'а
 Speak to Corkus Delegate@Поговори с Corkus Delegate'ом
@@ -1040,7 +1031,7 @@ Talk to Maxie at the entrance to The Five Gears Diner@Поговори с Maxie 
 Talk to Maxie and Corkus Delegate in Corkus City@Поговори с Maxie и Corkus Delegate в Corkus City
 
 The_Envoy_Part_II.html
-Speak to Maxie in his house@Поговори с Maxie в его доме
+Enter Maxie's house at@Войди в дом Maxie на
 Talk to Maxie on the second floor@Поговори с Maxie на втором этаже
 Find the catapult@Найди катапульту
 Locate the Avos Chief by asking the Avos citizens@Найди главаря Avos'ов, опрашивая жителей
@@ -1055,7 +1046,7 @@ Find Maxie and give him the key@Найди Maxie и отдай ему ключ
 Find Maxie outside the factory at@Найди Maxie снаружи фабрики на
 
 The_Fortuneteller.html
-Talk to Jill@Поговори с Jill
+Talk to Jill in Kandon-Beda at@Поговори с Jill в Kandon-Beda на 
 Search for the key in the castle@Отыщи ключ в замке
 Return to Jill in Kandon-Beda with the treasure@Вернись к Jill в Kandon-Beda с сокровищем
 Go to the library in Kandon-Beda@Иди в библиотеку в Kandon-Beda
@@ -1064,7 +1055,7 @@ Climb the beanstalk@Заберись на бобовое дерево
 Speak to the Ancient Dragon@Поговори с Древним Драконом
 
 The_Headless_Hunt.html
-Talk to Referick@Поговори с Referick'ом
+Talk to Referick in the dark forest at@Поговори с Referick'ом в темном лесу на
 Investigate the strange cave under the castle further@Посети странную пещеру под замком неподалеку
 Return the Lost Soul of Referick to its owner@Верни пропавшую душу Referick'а ее владельцу
 Go to the Dullahan's old mansion@Иди в старое поместье Dullahan'а
@@ -1075,7 +1066,7 @@ Destroy the Lost Spirits to free them@Уничтожь Lost Spirits чтобы �
 Show Referick proof that you have freed the spirits of the Dullahan's victims@Покажи Referick'у доказательства, что ты освободил души жертв Dullahan'а
 
 The_Hidden_City.html
-Speak to Narder@Поговори с Narder'ом
+Speak to Narder at the Thesead Coal Mines at@Поговори с Narder'ом возле угольной шахты Thesead'a на
 Head to [890, 47, -5388] to find the human town@Иди по координатам и найди город людей
 Lead the Curious Villager back to his camp@Отведи Curious Villager'а назад в его лагерь
 Return to the human face and inspect the loud noise@Вернись к человеческой голове и разузнай все
@@ -1093,7 +1084,7 @@ Escape your cell and find a way to sabotage the ship@Сбеги из клетк�
 Talk to Thesead's Mayor at the top of Thesead@Поговори с Thesead's Mayor'ом в башне Thesead'а
 
 The_House_of_Twain_(Quest).html
-Talk to Twendle up the river from Nesaak@Поговори с Twendle'ом вверх по реке от Nesaak'a
+Talk to Twendle at the House of Twain at @Поговори с Twendle'ом у дома Twain'ов на
 Enter the Haunted Mansion and find Twain's Journal@Войди в Призрачное поместье и найди Журнал Twain'a
 Return the journal to Twendle@Вернись с журналом к Twendle
 
@@ -1119,7 +1110,7 @@ Kill the Gerten Prison Warden and use the Barricade Key on Barricade Keyhole to 
 Leave the Gerten prison and return to Cikal to tell him about the tunnels@Покинь тюрьму Гертов и вернись к Cikal'у с рассказом о тоннелях
 
 The_Hunger_of_Gerts_Part_II.html
-Talk to Gerten Chief Lobo@Поговори с Gerten Chief Lobo
+Talk to Gerten Chief Lobo at@Поговори с Gerten Chief Lobo на
 Head to Jitak's house@Отправляйся к дому Jitak'а
 Find another way into Jitak's house by looking around@Найди другой путь в дом Jitak'а, осмотревшись вокруг
 Talk to Gerten Excavator@Поговори с Gerten Excavator'ом
@@ -1136,7 +1127,7 @@ Leave Big Butch's room@Покинь комнату Big Butch'а
 Talk to Gerten Chief Lobo with 1 High Quality Meat Crate@Поговори с Gerten Chief Lobo вместе с 1 Контейнером мяса высокого качества
 
 The_Lost.html
-Talk to Dejol@Поговори с Dejol'ом
+Find Dejol at@Найди Dejol'а на
 Return to Dejol to tell him of your success@Вернись к Dejol'у, и расскажи что все прошло успешно
 
 The_Maiden_Tower.html
@@ -1153,14 +1144,15 @@ Assassinate Takan at the Invaded Barracks@Скрытно убей Takan'a в Inv
 Bring back Takan's Badge to Admiral Amerigo@Принеси Значок Takan'a к адмиралу Amerigo
 
 The_Passage_(Quest).html
-Talk to Wirt in Troms@Поговори с Wirt'ом в Troms'е
+Talk to Wirt in Troms at@Поговори с Wirt'ом в Troms'е на
 Find Ildan in Troms and ask to be a member of the town@Найди Ildan'а в Troms'е попроси разрешения стать жителем города
 Search for clues near the Tribal Sanctuary and bring back 1 Antic Bead to Ildan@Отыщи подсказки возле Tribal Sanctuary и принеси 1 Древние бусы к Ildan'у
 
 The_Qira_Hive_(Quest).html
+Talk to Yansur at and begin the Hive Challenge@Поговори с Yansur'ом на и начни Hive челлендж
 
 The_Realm_of_Light_(Quest).html
-Talk to Aluxander@Поговори с Aluxander'ом
+Speak to Aluxander in the Realm of Light at (Requires completion of Finding the Light)@Поговори с Aluxander'ом в Царстве Света на (Необходимо пройти Finding of Light)
 Follow the trail of corruption@Следуй по пути порчи
 Investigate the cave@Посети пещеру
 Speak to Regulux@Поговори с Regulux'ом
@@ -1218,13 +1210,13 @@ Tower_of_Ascension.html
 Talk to Ankou at@Поговори с Ankou на
 
 Tribal_Aggression.html
-Talk to Caras at the Mesa@Поговори с Caras'ом около Плато
+Talk to Caras at @Поговори с Caras'ом на
 Enter the Eagle Camp and talk to Favian@Иди в лагерь Орлов и поговори с Favian'ом
 Bring back the Eagle Totem from the Owl Camp@Принеси назад тотем Орлов из лагеря Сов
 Retrieve the Owl Totem and return it to the Owl Camp@Забери тотем Сов и вернись в их лагерь
 
 Troubled_Tribesmen.html
-Talk to Ka L'argwit@Поговори с Ka L'argwit'ом
+Speak with Ka L'argwit at in Dernel@Поговори с Ka L'argwit'ом на
 Talk to Krattson@Поговори с Krattson'ом
 Talk to Shaman Inrekei@Поговори с Shaman Inrekei
 Return to Ka L'argwit@Вернись к Ka L'argwit'у
@@ -1244,7 +1236,7 @@ Return to Miner Linton back in the abandoned cave@Вернись к Miner Linton
 Speak to Sergeant Klafson next to the Ragni entrance of the cave@Поговори с Sergeant Klafson'ом рядом со входом в пещеру
 
 Underice.html
-Talk to Fredris in Nesaak@Поговори с Fredris'ом в Nesaak'е
+Talk to Fredris in Nesaak at@Поговори с Fredris'ом в Nesaak'е на
 Go talk back to Fredris with a Breathing Helmet I in your inventory@Снова поговори с Fredris'ом вместе со Шлемом подводника I в своем инвентаре
 Buy a Breathing Helmet II and find the underwater cave@Купи Шлем подводника II и найди подводную пещеру
 Explore the cave underneath the frozen lake in Nesaak@Исследуй пещеру под замерзшим озером в Nesaak'е
@@ -1270,7 +1262,7 @@ Enter the tomb and kill the Mummy@Войди в гробницу и убей Mum
 Show a proof the death of the Mummy to Ormrod@Покажи доказательство смерти мумии Ormrod'у
 
 WynnExcavation_Site_A.html
-Talk to Excavator Vade@Поговори с Excavator Vade
+Talk to Excavator Vade at@Поговори с Excavator Vade на
 Speak with Tesha@Поговори с Tesha
 Talk to Excavator Vade@Поговори с Excavator Vade
 Solve the riddle@Разгадай загадку
@@ -1279,7 +1271,7 @@ Traverse the tomb to find Pharaoh Nabak under a large crystal@Пройди гр�
 Talk to Excavator Vade@Поговори с Excavator Vade
 
 WynnExcavation_Site_B.html
-Bring the Yellow Crystal Shard to Excavator Lykron at@Принеси Желтый осколок кристалла к Excavator Lykron'у на
+Bring the Yellow Crystal Shard to Excavator Lykron at @Принеси Желтый осколок кристалла к Excavator Lykron'у на
 Investigate the depths of the cave@Исследуй глубины пещеры
 Solve the puzzle.
 The images to the left show what each side needs to look like@Реши пазл
@@ -1289,9 +1281,7 @@ Collect a Purple Crystal Shard and go through the exit at the back of the cave@�
 Head back to Excavator Lykron, and give him the Purple Crystal Shard@Вернись к Excavator Lykron, и отдай ему Фиолетовый осколок кристалла
 
 WynnExcavation_Site_C.html
-Talk to Excavator Placardus. 
-Note: You need 1 Purple Crystal Shard in your inventory for him to reply@Поговори с Excavator Placardus'ом. 
-Заметка: Тебе нужен 1 фиолетовый осколок кристалла для начала квеста
+Talk to Excavator Placardus at (Requires shard from Site B)@Поговори с Excavator Placardus'ом на (Необходим осколок из Site B)
 Infiltrate the Excavation Meeting@Проникни на встречу раскопщиков
 Eavesdrop on WynnExcavation's plans. 
 Note: You need to walk around the room to keep the dialogue going@Подслушай планы раскопщиков. 
@@ -1304,9 +1294,7 @@ Escape the volcano with the crystal shard@Сбеги из вулкана вме�
 Report back to Excavator Placardus@Сообщи обо всем Excavator Placardus'у
 
 WynnExcavation_Site_D.html
-Talk to Royal Advisor Carlos. 
-Note: You need 1 Red Crystal Shard in your inventory for him to reply@Поговори с Royal Advisor Carlos'ом. 
-Заметка: Тебе нужен 1 красный осколок кристалла для начала квеста
+Talk to Royal Advisor Carlos in Troms Castle (Requires shard from Site C)@Поговори с Royal Advisor Carlos'ом в замке Troms'a (Необходим осколок из Site C)  
 Search the castle for clues of the King@Обыщи замок и найди подсказки Короля
 Search the Catacombs of Troms Castle@Обыщи катакомбы замка Troms'а
 Talk to the King of Troms@Поговори с Королем
@@ -1347,8 +1335,38 @@ Kill Amadel@Убей Amadel'я
 Talk to The King of Ragni@Поговори с Королем Ragni
 
 Zhight_Island_(Quest).html
-Talk to Zhight on Zhight Island@Поговори со Zhight'ом на Zhight Island
-Look for Phief at Mage Island@Поищи Phief'a на Mage Island
+Talk to Zhight of Zhight Island at@Поговори с Zhight'ом на Zhight острове 
+Look for Phief at Mage Island@Поищи Phief'a на Mage острове
 Find Phief's ship, and return it to its rightful owner@Найди потерянный корабль Phief'а и верни его владельцу
 Get Zhight's supplies from Czytash at Maro Peaks@Найди Czytash'а на Maro Peaks и получи запасы Zhight'а
 Give Zhight his supplies@Отдай Zhight'у его припасы
+
+Bring [5 Forest Webs] to the Slaying Post [Combat Lv. 5] at@Принеси [5 Forest Webs] к Slaying Post [Combat Lv. 5] на 
+Bring [8 Brown Mushrooms] to the Slaying Post [Combat Lv. 15] at@Принеси [8 Brown Mushrooms] к Slaying Post [Combat Lv. 15] на 
+Bring [12 Bone Meal] to the Slaying Post [Combat Lv. 25] at@Принеси [12 Bone Meal] к Slaying Post [Combat Lv. 25] на 
+Bring [16 Mashed Insect] to the Slaying Post [Combat Lv. 30] at@Принеси [16 Mashed Insect] к Slaying Post [Combat Lv. 30] на 
+Bring [16 Coyote Fangs] to the Slaying Post [Combat Lv. 35] at@Принеси [16 Coyote Fangs] к Slaying Post [Combat Lv. 35] на 
+Bring [15 Snow Clumps] to the Slaying Post [Combat Lv. 40] at@Принеси [15 Snow Clumps] к Slaying Post [Combat Lv. 40] на 
+Bring [16 Orc Eyes] to the Slaying Post [Combat Lv. 45] at@Принеси [16 Orc Eyes] к Slaying Post [Combat Lv. 45] на 
+Bring [22 Viscous Slime] to the Slaying Post [Combat Lv. 50] at@Принеси [22 Viscous Slime] к Slaying Post [Combat Lv. 50] на 
+Bring [16 Lizard Scales] to the Slaying Post [Combat Lv. 55] at@Принеси [16 Lizard Scales] к Slaying Post [Combat Lv. 55] на 
+Bring [18 Unholy Spirits] to the Slaying Post [Combat Lv. 60] at@Принеси [18 Unholy Spirits] к Slaying Post [Combat Lv. 60] на 
+Bring [18 Ancient Metal] to the Slaying Post [Combat Lv. 65] at@Принеси [18 Ancient Metal] к Slaying Post [Combat Lv. 65] на 
+Bring [16 Severed Hearts] to the Slaying Post [Combat Lv. 70] at@Принеси [16 Severed Hearts] к Slaying Post [Combat Lv. 70] на 
+Bring [22 Myconid Spores] to the Slaying Post [Combat Lv. 73] at@Принеси [22 Myconid Spores] к Slaying Post [Combat Lv. 73] на 
+Bring [15 Arcane Anomalies] to the Slaying Post [Combat Lv. 75] at@Принеси [15 Arcane Anomalies] к Slaying Post [Combat Lv. 75] на 
+Bring [18 Pure Rain Stone] to the Slaying Post [Combat Lv. 78] at@Принеси [18 Pure Rain Stone] к Slaying Post [Combat Lv. 78] на 
+Bring [22 Goblin Teeth] to the Slaying Post [Combat Lv. 80] at@Принеси [22 Goblin Teeth] к Slaying Post [Combat Lv. 80] на 
+Bring [22 Sharp Claws] to the Slaying Post [Combat Lv. 83] at@Принеси [22 Sharp Claws] к Slaying Post [Combat Lv. 83] на 
+Bring [28 Robot Antennas] to the Slaying Post [Combat Lv. 85] at@Принеси [28 Robot Antennas] к Slaying Post [Combat Lv. 85] на 
+Bring [24 Fluffy Fur] to the Slaying Post [Combat Lv. 88] at@Принеси [24 Fluffy Fur] к Slaying Post [Combat Lv. 88] на 
+Bring [24 Perkish Potatoes] to the Slaying Post [Combat Lv. 90] at@Принеси [24 Perkish Potatoes] к Slaying Post [Combat Lv. 90] на 
+Bring [16 Acid Magma] to the Slaying Post [Combat Lv. 91] at@Принеси [16 Acid Magma] к Slaying Post [Combat Lv. 91] на 
+Bring [30 Unmeltable Ice] to the Slaying Post [Combat Lv. 92] at@Принеси [30 Unmeltable Ice] к Slaying Post [Combat Lv. 92] на 
+Bring [22 Broken Helmets] to the Slaying Post [Combat Lv. 93] at@Принеси [22 Broken Helmets] к Slaying Post [Combat Lv. 93] на 
+Bring [15 Demonic Ashes] to the Slaying Post [Combat Lv. 94] at@Принеси [15 Demonic Ashes] к Slaying Post [Combat Lv. 94] на 
+Bring [20 Manis Carapaces] to the Slaying Post [Combat Lv. 95] at@Принеси [20 Manis Carapaces] к Slaying Post [Combat Lv. 95] на 
+Bring [20 Void Essences] to the Slaying Post [Combat Lv. 96] at@Принеси [20 Void Essences] к Slaying Post [Combat Lv. 96] на 
+Bring [20 Silver Feathers] to the Slaying Post [Combat Lv. 97] at@Принеси [20 Silver Feathers] к Slaying Post [Combat Lv. 97] на 
+Bring [25 Holy Powders] to the Slaying Post [Combat Lv. 98] at@Принеси [25 Holy Powders] к Slaying Post [Combat Lv. 98] на 
+Bring [15 Dragonling Scales] to the Slaying Post [Combat Lv. 99] at@Принеси [15 Dragonling Scales] к Slaying Post [Combat Lv. 99] на 
