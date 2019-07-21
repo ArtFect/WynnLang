@@ -1,24 +1,24 @@
 Guard: NOW!@СЕЙЧАС ЖЕ!
 Guard: Get them off me!@Уберите их от меня!
-Guard: Seems like we fended them off this time... those were the last.@Похоже в этот раз мы отразили атаку… это были последние.
+Guard: Seems like we fended them off this time... those were the last.@Похоже в этот раз мы отразили атаку... это были последние.
 Guard: We better get started repairing all this, who knows whe-@Нам лучше начать чинить все это, кто знает, когд-
 Guard: IT'S HIM! We gotta take him out!@ЭТО ОН! Нам нужно уничтожить его!
 Bak'al: Fools! Courage won't help you as a corpse.@Глупцы! Храбрость не поможет, когда ты мертв.
 Farmer: Gods, NO!@Боже, НЕТ!
 Bak'al: The darkness must spread.@Тьма должна распространяться.
-Basement Dweller: *Hic* Wha, whozit? Oh geez, I should lay off tha old *hic* Nemract Whiskey.  I'm startin' to see things.@*Ик* Че за? О черт, пора бы завязывать со старым *ик* Nemract виски. Мерещатся тут всякие.
- Basement Dweller: Wha, yer *hic* real?  Wha're ya doin' in mah house then?!@Ты что *ик* настоящий? Тогда какого ты делаешь в моем доме?!
+Basement Dweller: *Hic* Wha, whozit? Oh geez, I should lay off tha old *hic* Nemract Whiskey. I'm startin' to see things.@*Ик* Че за? О черт, пора бы завязывать со старым *ик* Nemract виски. Мерещатся тут всякие.
+ Basement Dweller: Wha, yer *hic* real? Wha're ya doin' in mah house then?!@Ты что *ик* настоящий? Тогда какого ты делаешь в моем доме?!
 ''We only have enough for about a day or so. We have no choice: we need to leave for a fortress.''@нам нужно идти в крепость."
-Towers Found: 1/4@1/4
-Towers Found: 2/4@2/4
-Towers Found: 3/4@3/4
-Towers Found: 4/4@4/4
+Towers Found: 1/4@Башен найдено: 1/4
+Towers Found: 2/4@Башен найдено: 2/4
+Towers Found: 3/4@Башен найдено: 3/4
+Towers Found: 4/4@Башен найдено: 4/4
 Town Guard: Has everyone gotten to safety?@Все дошли до безопасного места?
 Guard Leader: There was no time to evacuate, so I told them to go inside and block their doors. I just hope they all listened.@Времени на эвакуацию не было, поэтому я сказал им зайти внутрь и закрыть двери. Надеюсь, они все послушались.
 Town Guard: But is it enough? I don't know if the three of us are going to be enough to protect the town from...@Но достаточно ли этого? Я не знаю, хватит ли нас троих, чтобы защитить город от...
 Guard Leader: Get ready, men! He's coming!@Приготовьтесь, мужчины! Он идет!
 Bak'al: An army is only an army if it is coordinated. This...@Армией может называться только та армия, что скоординирована. Это же
-Bak'al: ...is no army.@… не армия.
+Bak'al: ...is no army.@... не армия.
 Bak'al: I seem to have overestimated the humans.@Кажется, я переоценил людей.
 Bak'al: I think my army can take care of this.@Думаю, моя армия сможет позаботиться об этом.
 Bak'al: Go.@Вперед.
@@ -37,19 +37,19 @@ Ragamal: WHY COULDN'T YOU ALL HAVE EVEN BOTHERED TO HELP A DAMNED SOUL IN NEED?!
 Poe: Oh! A visitor! We rarely get people down here. For obvious reasons.@Ох! Посетитель! Мы редко видим здесь людей. По понятным причинам.
 Poe: I have nothing to offer you, but please, make yourself comfortable. Warm yourself by the fire.@Мне нечего тебе предложить, но, пожалуйста, устраивайся поудобнее. Можешь погреться у костра.
 Poe: We need to keep each other's spirits up. After all, when all's said and done, what else do we have?@Мы должны поддерживать настроение друг другу. В конце концов, когда все сказано и сделано, что еще нам делать?
-Poe: I consider myself lucky to be alive. So many lives were lost in that attack…@Я считаю, что мне повезло остаться в живых. Так много жизней погибло в той атаке…
+Poe: I consider myself lucky to be alive. So many lives were lost in that attack...@Я считаю, что мне повезло остаться в живых. Так много жизней погибло в той атаке...
 Harv: Say, Marlow. Ya think this old pipe here would make a good enough weapon?@Вот скажи, Marlow. Думаешь, из этой старой трубы получится достаточно хорошее оружие?
 Marlow: Uh...why you askin', Harv?@Ух...почему ты спрашиваешь, Harv?
-Harv: Well, I got to thinking some, and... We mighta lost all we had, but that doesn't mean anyone else oughta, and hey, what've we got here to lose?@Ну, я тут подумал, и… Мы потеряли все, что у нас было, но это ведь не значит, что кто - то еще должен. И эй, что мы здесь можем терять?
-Marlow: Wha... Buddo, you'd lose yourself! You ought to be thankful you even lived to get down here! You SEEN those attacks?! No way either of us would last a day!!@Чего… Дружище, ты теряешь голову! Ты должен быть благодарен, что выжил и оказался здесь внизу! Ты ВИДЕЛ эти атаки?! Никто из нас не продержался бы и дня!!
+Harv: Well, I got to thinking some, and... We mighta lost all we had, but that doesn't mean anyone else oughta, and hey, what've we got here to lose?@Ну, я тут подумал, и... Мы потеряли все, что у нас было, но это ведь не значит, что кто - то еще должен. И эй, что мы здесь можем терять?
+Marlow: Wha... Buddo, you'd lose yourself! You ought to be thankful you even lived to get down here! You SEEN those attacks?! No way either of us would last a day!!@Чего... Дружище, ты теряешь голову! Ты должен быть благодарен, что выжил и оказался здесь внизу! Ты ВИДЕЛ эти атаки?! Никто из нас не продержался бы и дня!!
 Harv: Feh! Not like those big-nosed Grooks are doing a thing to help! Half those golems up there are rusted shut and useless!@Фе! Но только не эти большеносые петухи, делающие вид, что помогают! Половина их бесполезных големов наверху проржавели!
 Harv: I'd rather take the risk and die buying someone else a few more minutes than waste away down in this rotten hole!@Я предпочел бы рискнуть и умереть, прожив еще те несколько минут, чем чахнуть в этой гнилой дыре! 
 Marlow: Well then, you're a better man than I. Honestly, if I were them, I'da ran for the hills at the sight of this town too. Can't really bring myself to say I blame 'em much.@Ну, тогда ты больше человек, чем я. Если честно, будь я на их месте, я бы тоже бежал на ту гору, не оглядываясь назад на город. Не могу заставить себя сказать, что сильно виню их в этом.
 ???: It was 350 years ago when I last saw a human. And I will never forget.@Это было 350 лет назад, когда я в последний раз видел человека. И я никогда этого не забуду.
 ???: Your kind had already dominated Wynn and Fruma. But you decided to come to this island. Our island.@Ваша раса уже доминировала над Wynn и Fruma. Но вы решили приехать на этот остров. Наш остров.
-???: I will never understand why some Avos decided to let you live here.@Я никогда не пойму, почему некоторые Avos’ы решили позволить вам жить здесь.
+???: I will never understand why some Avos decided to let you live here.@Я никогда не пойму, почему некоторые Avos'ы решили позволить вам жить здесь.
 ???: But I, Prince of the Avos, led the rest of my people down here, where no human could disturb us. And so, we lived here... for a while.@Но я, Prince of the Avos, повел остальных моих людей сюда, где ни один человек не смог бы побеспокоить нас. Так и было, мы жили здесь... некоторое время.
-???: But avians like us are not suited to living underground. We became ill and lost our feathers. And eventually, my people died out.@Но такие Avos’ы, как мы, не приспособлены к жизни под землей. Мы заболели и потеряли наши перья. И в конце концов, мои люди вымерли.
+???: But avians like us are not suited to living underground. We became ill and lost our feathers. And eventually, my people died out.@Но такие Avos'ы, как мы, не приспособлены к жизни под землей. Мы заболели и потеряли наши перья. И в конце концов, мои люди вымерли.
 ???: Their souls still wander and cry throughout the ruins of my city.@Их души все еще блуждают и плачут по руинам моего города.
 ???: I have remained here, still alive, hearing the plight and torment of the lost souls. For I am cursed to never die, only to be reborn.@Я остался здесь, еще живой, слыша страдания и мучения потерянных душ. Ибо я проклят, чтобы никогда не умирать, а только возрождаться.
 Phoenix Prince: Because of this endless cycle of reincarnation, I am only known as the Phoenix Prince.@Из-за этого бесконечного цикла реинкарнации, я известен как Phoenix Prince.
@@ -58,9 +58,9 @@ Phoenix Prince: But unbeknownst to them, I was still here. Trapped forever, with
 Phoenix Prince: You're an invader, just like the rest of your people. They do not deserve to live on this island... on our island.@Ты захватчик, как и остальные твои люди. Они не достойны жить на этом острове... на нашем острове.
 Phoenix Prince: Prepare for our revenge. Prepare to DIE!@Приготовься к нашей мести. Приготовься к СМЕРТИ!
 The Tale of the Lost Necklace: Chapter I@Часть I
-Soldier 1: I-I can’t run anymore. Get back to Ragni and close the gates! We might be able to hold him the-@Я-я не могу больше бежать. Возвращайся в Ragni и закройте ворота! Мы попробуем задержать его зде-
-Soldier 2: Are you mad? You saw our whole regiment fall to his magic. I think we’re don-@Ты с ума сошел? Видел, как весь наш полк пал под его магией. Я думаю, мы не смо-
-Soldier 1: Oh no.. He’s here.@О нет...Он здесь.
+Soldier 1: I-I can't run anymore. Get back to Ragni and close the gates! We might be able to hold him the-@Я-я не могу больше бежать. Возвращайся в Ragni и закройте ворота! Мы попробуем задержать его зде-
+Soldier 2: Are you mad? You saw our whole regiment fall to his magic. I think we're don-@Ты с ума сошел? Видел, как весь наш полк пал под его магией. Я думаю, мы не смо-
+Soldier 1: Oh no.. He's here.@О нет...Он здесь.
 Bak'al: You can not escape your fate. We will purge this world and make it pure in the name of the master.@Вы не сможете сбежать от своей судьбы. Мы очистим этот мир и сделаем его чистым, во имя хозяина.
 Soldier 2: No.. NO NO NOOOOOOOOOOOOOO@Нет.. НЕТ НЕТ НЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕЕТ
 Soldier 1: OH PLEASE NO! SPARE ME! AAHHH!@ПОЖАЛУЙСТА, НЕТ! ПОЩАДИТЕ МЕНЯ! А-А-А!
@@ -71,5 +71,97 @@ Bak'al: How is it that a mere human wields magical power?@Как так вышл
 Bak'al: I did not come prepared for this fight. We must retreat.@Я не был готов к этому бою. Мы должны отступить.
 Bob: Oh no, I'm putting an end to this!@Ну уж нет, я положу этому конец!
 Bob: I have trained 20 years for this. The Wynn Province will never fall.@Я тренировался для этого 20 лет. Провинция Wynn никогда не падет.
-Bak'al: Just like the Twains, you will fall. And once again the province will be helpless.@Как и Twain’ы, ты падешь. И тогда провинция снова будет беспомощной.
-Bob: Unlike the Twains, I was not born with magic, I learnt it!@В отличие от Twain’ов, я не родился с магией, я обучился ей!
+Bak'al: Just like the Twains, you will fall. And once again the province will be helpless.@Как и Twain'ы, ты падешь. И тогда провинция снова будет беспомощной.
+Bob: Unlike the Twains, I was not born with magic, I learnt it!@В отличие от Twain'ов, я не родился с магией, я обучился ей!
+Emperor: Ah, bright days, my 26th son is here..@Ах, прекрасный день, мой 26-й сын здесь.. 
+Emperor: How were your travels beyond the walls, Hashr?@Как прошло твое путешествие за стены, Hashr? 
+Hashr: Life beyond the walls is different, vibrant, but most importantly - magical.@Жизнь за стенами другая, яркая, но самое главное - волшебная. 
+Emperor: Not every being is capable of harnessing magic like I am Hashr, you know that.@Не каждое существо способно использовать магию, как я, Hashr, ты же знаешь это. 
+Prince Hashr: You see, I know that's not true. They taught me many things.@Видишь ли, я знаю, что это неправда. Они многому меня научили. 
+Emperor: Son? What is it you are trying to say?@Сын? Что ты пытаешься сказать? 
+Prince Hashr: THAT YOUR WORLD IS A LIE.@ЧТО ТВОЙ МИР - ЛОЖЬ. 
+Royal Guard: NO! How could you Hashr? You have doomed us all!@Нет! Как ты мог так поступить, Hashr? Ты обрек нас всех на гибель! 
+Almighty Hashr: My father was mortal like us all. His power came from this sceptre. He is a false God.@Мой отец был смертным, как и мы все. Его сила исходила от этого скипетра. Он - ложный Бог. 
+Almighty Hashr: Now I will be able to rule- Wait, what's happening..?@Теперь я смогу править - Подождите, что происходит..? 
+Almighty Hashr: Do you hear that? What did my father do to himself?!@Ты слышишь это? Что мой отец сделал с собой?! 
+Junes: Woah! What did you push this for?@Воу! Зачем ты его толкнул? 
+Junes: There were markings all over it.. And a small entrance to the inside.@Там были отметки на всем протяжении.. И маленький вход внутрь. 
+Junes: I wonder why... Wait - Where are we?@Интересно, почему... Подожди, где это мы находимся? 
+Junes: How do you keep finding these ruins?@Как ты продолжаешь находить эти руины? 
+Junes: My word.. This body.. It's definitely not from fallen empire.@Мне кажется.. Это тело.. Оно определенно не из падшей империи. 
+Junes: It's relatively new.. Maybe from the last 100 years.@Оно относительно новое.. Может быть, последних 100 лет. 
+Junes: I've seen evidence all over these buildings of people living in them or storing goods.@Я видел доказательства во всех этих зданиях, что в них либо жили люди, либо хранили товары. 
+Junes: I guess it's only natural when an empire as big as this one still stands.@Думаю, это нормально, когда останки империи, такой большой, как эта, все еще стоят. 
+Junes: There must be hundreds of convenient hiding places, this poor guy must have got trapped.@Там должно быть сотни удобных укрытий, а этот бедный парень, должно быть, попал в ловушку. 
+Junes: Seems like he couldn't get the door open. Maybe the wood has rotted by now...@Кажется, он не смог открыть дверь. Может, дерево уже сгнило... 
+Junes: HUP!@Хоп! 
+Cactus Expert: Howdy feller! This here is my cactus stand.@Привет приятель! Это мой стенд с кактусами
+Cactus Expert: I travel all across the desert, cutting down cactus for the juice!@Я путешествую по всей пустыне, и срубаю кактусы ради их сока!
+Cactus Expert: Only the sharpest blades'll cut these cactus though. My collection's out back. You can look, but don't touch!@Только самые острые лезвия порежут эти кактусы. Моя коллекция на заднем дворе. Можешь посмотреть, но не трогать!
+Junes: Did you open this place up? You've done some serious damage!@Ты открыл это место? И похоже, получил некоторые повреждения! 
+Junes: It might not look like much, but these ruins were left by a now extinct empire.@Да, это место выглядит не так обширно, но эти руины были оставлены ныне вымершей империей. 
+Junes: I spent half a year excavating this place.. I must admit it would have taken me 2 years to finish. Alright, let's go deeper. Try to keep up.@Я потратил полгода на раскопки этого места.. Должен признать, что это заняло бы у меня 2 года, чтобы закончить это дело до конца. Хорошо, давай пойдем глубже. Постарайся не отставать. 
+Junes: Amazing, isn't it? This is just an ordinary building in the old empire that lies beneath the sands.@Удивительно, не правда ли? Это просто обычные здания времен старой империи, которые лежат под песками. 
+Junes: We don't know much about them, but we are uncovering more and more every day.@Мы не знаем многого о них, но мы раскрываем все больше и больше с каждым днем. 
+Junes: Follow me, there is so much to take in.@Следуй за мной, здесь так много всего. 
+Junes: It's clear that the empire were seriously advanced, possibly more advanced than us in some ways.@Очевидно, что империя была очень продвинутой, возможно, даже более передовой, чем мы. 
+Junes: I keep seeing symbols in every building.. It looks like some kind of rod or sceptre.@Я вижу символы в каждом доме.. Это похоже на какой-то жезл или скипетр. 
+Junes: We know that there was an emperor that ruled these lands, this must be the source of his power.@Мы знаем, что был император, который правил этими землями, и это должно быть источник его силы. 
+Junes: Hmm, I'm going to continue researching this place, but I think I might be able to figure a way out for you.@Хм, я собираюсь продолжить исследование этого места, но думаю, что смогу найти выход и для тебя. 
+Junes: Oh DEAR!@О боже! 
+Even though you can clearly hear the tribesmen talking they appear to be speaking in a language you've never heard before.@Даже при том, что вы можете ясно слышать, как говорят соплеменники, они, кажется, говорят на языке, который вы никогда не слышали раньше.
+Tribe Member: The sandstorm has been raging on for months, we HAVE to leave.@Песчаная буря бушует уже несколько месяцев, мы ДОЛЖНЫ уйти. 
+Tribe Member: We won't make it out there.. @Мы не сможем добраться до туда.. 
+Tribe Member: We won't make it in here.. We're almost out of food.@Мы не сможем выбраться отсюда.. У нас почти закончилась еда. 
+Tribe Member: Sandstorms usually only last days, maybe weeks. We must have upset the gods.@Песчаные бури обычно длятся только несколько дней, может быть недель. Должно быть, мы разгневали богов. 
+Tribe Member: I don't think so. I feel the lingering stench of betrayal in the air.@Я так не думаю. В воздухе витает зловоние предательства. 
+Tribe Member: This is a magical storm. We need to find a magical solution.@Это магическая буря. И нам нужно найти магическое решение. 
+Tribe Member: Either way, we need to leave, or we're dead.@В любом случае, мы должны уйти, или мы умрем. 
+Tribe Member: I wonder what is happening out there in the citadel?@Интересно, что же произошло там, в цитадели? 
+Junes: How did you open this door? It's been sealed for as long as I remember.@Как ты открыл эту дверь? Она была всегда запечатана, сколько я себя помню. 
+Junes: However.. This barrier doesn't look like it was made by the empire.@Однако.. Этот барьер не похож на то, что он был сделан империей. 
+Junes: It's still old, though. Let's give it a little nudge.@Хотя, он все еще старый. Давай немного подтолкнем его. 
+Junes: Well, it seems to have fallen apart to the touch. This is one of the biggest rooms i've seen..@Ну, кажется, он развалился от прикосновения. Это одна из самых больших комнат, которые я когда-либо видел.. 
+Junes: This must have been important.. Let's go!@Должно быть, она была важна.. Пошли! 
+Junes: Don't you think this vault is a little grand for storing just gold?@Тебе не кажется, что это хранилище немного великовато для хранения только золота? 
+Junes: Look, there's a pedestal for something here, like a weapon.@Посмотри, здесь есть пьедестал для чего-то, похожего на оружие.
+Junes: The dust is disturbed around it. Someone has been here recently..@Пыль вокруг него потревожена. Кто-то был здесь недавно.. 
+Junes: But why would they take whatever was here, but not all the gold?@Но почему они взяли то, что было здесь, а не все золото?
+Junes: Whatever was kept here, I think we can assume it was of great value to the Emperor.@Что бы здесь ни хранилось, думаю, мы можем предположить, что это имело большую ценность для Императора. 
+Junes: We better get out of here, and don't even think about taking this gold - They are artifacts!@Нам лучше убраться отсюда и даже не думать о том, чтобы взять это золото - это артефакты! 
+Junes: Uh oh!@Ой - ой! 
+Junes: Looks like somebody got stuck in some quicksand.@Похоже, кто-то застрял в зыбучих песках. 
+Junes: Don't worry! I'm sure there's all sorts of wonders below the surface!@Не волнуйся! Я уверен, что можно встретить всевозможные чудеса под поверхностью! 
+Junes: In fact, I think I'll join you!@Хотя на самом деле, думаю, что присоединюсь к тебе! 
+Junes: How on earth did you know that these quicksand spots lead to empire ruins?@Каким же образом ты узнал, что эти зыбучие пески ведут к руинам империи? 
+Junes: Don't tell me you just jumped in there without knowing what would happen.@Не говори мне, что ты просто прыгнул туда, не зная, что произойдет. 
+Junes: Well, your luck paid off this time. I like your Grook feathers, guard.@Что ж, на этот раз твоя удача оправдалась. Мне нравятся твои перья Grook'а, страж. 
+Junes: Let's see what's down there!@Посмотрим же, что тут внизу! 
+Junes: Incredible.. I've never seen so many scriptures in one place.. Libraries are rare even today.@Невероятно.. Я никогда не видел столько священных книг в одном месте.. Библиотеки редки даже сегодня. 
+Junes: This is the third library I've found.. And the smallest, too.@Это третья библиотека, которую я нашел.. И она самая маленькая. 
+Junes: I've been studying the language, and I think I can read a little bit of what they have here.@Я изучал язык, и думаю, что смогу прочитать немного из того, что у них здесь. 
+Junes: This book is all about farming.. Farming in a desert? It doesn't make sense.@Эта книга посвящена сельскому хозяйству.. Фермерство в пустыне? В этом нет никакого смысла. 
+Junes: Look, here again... A book about plant care and soil.@Смотри, вот еще... Книга об уходе за растениями и почвой. 
+Junes: I'm not entirely sure how old this civilization is.. But it predates the portal being open, that much is certain.@Я не совсем уверен, сколько лет этой цивилизации.. Но это было до того, как портал был открыт, это точно. 
+Junes: Here's a book entirely dedicated to the royal family, interesting.@Интересно, а вот книга, полностью посвященная королевской семье. 
+Junes: Wow, how is this possible? The tree starts with The Emperor... But he's had hundreds of children..@Вау, как это возможно? Древо семьи начинается с Императора... Но у него были сотни детей.. 
+Junes: Over... Hundreds of years..@За... Сотни лет.. 
+Junes: It shows his children being born after his great grandchildren had died...@Здесь показано то, что его дети были рождены после смерти его правнуков... 
+Junes: How old was this emperor?@Сколько лет было этому императору? 
+Junes: Oh! These mechanisms still work!@Ох! Эти механизмы все еще работают! 
+Junes: There must have been books here not for public knowledge..@Должно быть, здесь были книги не для всеобщего знания..
+Junes: Let's see... Hmm.. I don't understand it at all. The only word I recognise is “life”.@Посмотрим... Хм.. Я вообще ничего не понимаю. Единственное слово, которое я узнаю, это “жизнь”. 
+Junes: I need to get some fresh air, the dust is starting to get to me. Looks like the exit is right there.@Мне нужно подышать свежим воздухом, пыль начинает добираться до меня. Похоже, выход прямо здесь. 
+Shopkeeper: Hey there friend! Looking teh barter fer some weapons or trinkets?@Привет дружище! Ищешь для покупки какое-нибудь оружие или безделушки? 
+Shopkeeper: Scum! That guy jus' stole a necklace! Catch 'im and jus' take this as payment!!@Сволочь! Этот парень украл ожерелье! Поймай его, а пока прими вот это в качестве оплаты!! 
++7 Emeralds@+7 Эмеральдов 
+Bandit Leader: Looks like you were followed, boy.@Похоже, за тобой следили, парень. 
+Bandit Leader: Well, what do we do now, we're caught by the famous Ragni Guard.@Ну, и что же нам теперь делать, нас поймал знаменитый гвардеец Ragni. 
+Bandit Leader: Or maybe.. You're looking fer somefin else..@Или может.. Ты ищешь что-то еще.. 
+Bandit Leader: JEFFERY, not now. Behave.@JEFFERY, не сейчас. Веди себя спокойно. 
+Bandit Guard: Duhh sorwy boss.@Ухх извени бос.
+Bandit Leader: Listen, we ain' all bad. Sure we like to nick stuff but thats how its always been.@Слушай, мы не все плохие. Конечно, нам нравится красть вещи, но так было всегда. 
+Bandit Leader: Our daddies daddies escaped your stupid corruption war to the desert, it ain' got anyfin to do with us.@Наши отцы сбежали от твоей этой глупой войны с порчей в пустыню, и это не имеет к нам никакого отношения.
+Bandit Leader: So, let's just let this go and you can go back to yer war.@Так что давай просто забудем об этом, и ты сможешь вернуться к своей войне. 
+Bandit Leader: We'll let yer go without a fight, and you keep yer mouth shut.@Мы отпустим тебя без боя, а ты держи рот на замке.
+Bandit Leader: Boys, show him out.@Мальчики, проводите его. 
