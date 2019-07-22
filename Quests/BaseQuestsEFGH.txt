@@ -1,0 +1,852 @@
+Elemental_Exercise.html
+Ragon: Ah! Finally! I've been waiting for a recruit like yourself to turn up.@Ах, наконец-то! Я как раз ждал рекрута вроде тебя для подготовки.
+Ragon: We're running experiments to improve our arsenal in the war effort.@Мы запустили эксперимент, чтобы повысить уровень нашего арсенала в военных условиях.
+Ragon: We've captured a cave beast in a cage over there. We believe certain magical weapons will harm them more than others.@Мы поймали пещерного зверя, который сидит в клетке вон там. Нам кажется, что магическое оружие нанесет ему больше урона, чем другое.
+Ragon: Let me explain. That cave creature is living root, it contains the properties of ? Earth.@Давай объясню. Это пещерное создание живет в корнях, и содержит элемент ? Земли в себе.
+Ragon: Now in theory, it should be weak to ? Fire. These elemental attributes are not uncommon.@В теории, оно должно быть слабо против элемента ? Огня. Эти элементы совсем не обычны.
+Ragon: Let's test it out shall we? Take this book and exchange it for a ? Fire infused weapon.@Давай протестируем это? Возьми эту книжку и обменяй ее на оружие с элементом ? Огня у торговца справа.
+Ragon: Use it on the creature and I'll study whatever remains you give me.@Используй это оружие против того монстра, и я изучу принесенные тобой показания
+Ragon: Interesting, it completely destroyed the beast. It seems our theories might be correct.@Интересно. Это оружие уничтожило монстра. Похоже наша теория верна.
+Ragon: But no experiment is viable on just one test subject. I need you to test it on more earth creatures. They hide in a cave behind the hill.@Но эксперименты не остановятся на одном объекте. Тебе нужно проверить это и на других земляных существах. Они прячутся в пещере, за этой горой.
+Ragon: We got the creature we captured from deep within the cave, so you will have to go a bit deeper as well.@Мы поймали того монстра в глубине пещеры, так что тебе придется спуститься глубже.
+Ragon: There is a root in the way, but I'm sure you can handle that. A good sample would be [10 Scorched Roots], just to make sure the theory is true.@Корень дерева преграждает путь в нее, но думаю ты справишься с ним. Хорошими образцами будут принесенные тобой [10 выжженных корней], просто чтобы подтвердить нашу теорию.
+Ragon: Hey, wake up.@Эй, очнись.
+Ragon: Is everything alright? We felt the cave collapse! We came down as soon as possible!@Все в порядке? Тебя засыпало! Мы спустились как только смогли!
+Ragon: The ground is engulfed. You will have to find another way out of this cave.@Земля вся в огне! Тебе нужно найти другой выход из пещеры.
+Ragon: Forget about the [10 Scorched Roots]. It's not important right now. Just exit to safety! Oh, and I almost forgot. I was going to give you this when you completed the task, but you should take it anyways, considering you just almost died.@Да забудь ты про 10 [выжженных корней]. Это не важно сейчас. Просто выберись на поверхность. И да, чуть не забыл! Я хотел дать тебе это когда ты закончишь задание, но лучше чтобы ты забрал его сейчас.
+Ragon: Good to see you made it out, would you mind giving your fire weapon back to Suri and then bring me his study results?@Хорошо знать, что ты выбрался! Можешь пожалуйста отдать свое магическое оружие обратно Suri, и принести мне обратно его [Результаты исследования]?
+Ragon: Thank you, I guess you can use this, it's not a lot but we are not the richest scientists around, sorry for all the trouble we put you through.@Спасибо! Думаю теперь ты можешь использовать этот браслет. Это не так много, но мы не самые богатые ученые в округе. Извини за все проблемы, которые мы доставили тебе.
+Ragon: Allow me to share our findings. It would seem elemental mobs come in different varieties and forms across the whole world, including Gavel.@Позволь мне поделится нашими исследованиями. Похоже, что элементальные мобы имеют разные вариации и формы по всему миру, включая Gavel.
+Ragon: Depending on the type, they will be stronger or weaker to whatever elemental weapon you use.@В зависимости от их типа, они могут иметь силу или слабость от элемента на твоем оружии.
+Ragon: However, they will never be immune to your neutral damage, but as you saw with the roots, the fire weapon did exponentially more damage.@Но все же, они никогда не могут иметь защиту от нейтрального урона. Однако, как ты видел на корнях, огненное оружие нанесло им больше урона.
+Ragon: You can specify your element in your skill points, and there is a tower in Wynn where you are able to reset them, should you want to change. There are 5 element types we have discovered so far:@Ты можешь прокачивать элементы в разделе skill point's. Также есть башня в провинции, где ты можешь сбросить свои очки и распределить их снова. Есть 5 элементов, как нам удалось узнать, и это:
+Ragon: ? Air, ? Thunder, ? Earth, ? Fire, and ? Water. Each one of those is useful in their own way. I hope this information helps you in the war, good luck.@? Воздух, ? Гром, ? Земля, ? Огонь, и ? Вода. Каждый из них полезен в своем роде. Я надеюсь, эта информация поможет тебе в войне. Удачи!
+
+Enter_the_Dojo.html
+Sensei Miyagi: Welcome, young traveler, to my dojo. Do you wish to train with me?@Приветствую, путешественник, в мою школу дзюдо. Ты здесь, чтобы потренироваться со мной?
+Sensei Miyagi: Hundreds of apprentices have traveled from all of the provinces to train under my wing, to gain experience and improve their skills in the arts.@Сотни последователей со всех провинций приходят сюда, чтобы потренироваться под моим крылом, набрать опыт и повысить свои умения.
+Sensei Miyagi: Despite all the training my apprentices have been though, I have yet to see any individual, both amateur and experienced, complete all four of my challenges.@Но смотря на тренировки моих последователей, я не увидел ни одного индивидуально опытного и обученного, чтобы он смог пройти все четыре моих испытания.
+Sensei Miyagi: The astounding individual that conquers all four of my trials will receive the highest decoration I can provide- The Master's Gi, a prestigious chestplate.@Тому, кто пройдет все четыре моих испытания, я могу дать Master's Gi - престижный нагрудник.
+Sensei Miyagi: Do you wish to train and learn the arts under my guide, young grasshopper?@Ты хочешь потренироваться и улучшить свои навыки под моим присмотром, молодой кузнечик?
+Sensei Miyagi: If you wish to dare my challenges, head to the back of my dojo and jump into the water pit.@Если осмелишься принять мой вызов, то иди на заднюю часть моей школы и прыгни в яму с водой.
+Challenger Apprentice 1: I have been training for years, mastering all of Sensei Miyagi's challenges but one... the physical strength challenge defeats me.@Я тренировался годами, чтобы стать мастером в этой школе, и я прошел все испытания, кроме одного...Испытание на физическую силу мне не далось.
+Challenger Apprentice 2: I trained for years hoping to achieve the Master's Gi chestplate. All of Sensei Miyagi's challenges come easy for me except for the sight challenge!@Я так же тренировался годами чтобы получить Master Gi. Я спокойно сдал три испытания мастера, кроме испытания на вИденье.
+Challenger Apprentice 3: All of Sensei Miyagi's challenges come as a walk in the park for me, except the abstract tranquility challenge. I one day hope to conquer it and gain the Master's Gi.@Все испытания сэнсея дались мне как легкая прогулка в парке, кроме испытания на спокойствие. Однажды я надеюсь пройти его и заполучить Master's Gi.
+Challenger Apprentice 4: Alas, after all my training, I can not muster the power to conquer Sensei Miyagi's combat challenge... it is the only challenge that defeats me!@После всех моих тренировок, я так и не смог пройти боевое испытание сэнсея... Это единственное испытание, которое мне не далось.
+Sensei Miyagi: Welcome to the Qiangdu room, home of the first challenge. Test your jumping and climbing ability in this room, young grasshopper.@Приветствую в Qiangdu комнате, на первом испытании. Проверь здесь свои способности карабкаться и прыгать, юный кузнечик.
+Sensei Miyagi: Welcome to the Daochang room, home of the combat challenge. This challenge should come easy to the warrior that can bring out his inner fighter.@Приветствую в Daochang комнате, комнате боевого испытания. Это испытание окажется легким для воинов, если они покажут своего внутреннего бойца.
+Sensei Miyagi: Welcome to the Shijue room, home of the sight challenge. Remember, young grasshopper, there is always more than one perspective to a problem.@Приветствую в Shijue комнате, доме испытания виденья. Помни, юный кузнечик, что есть всегда несколько решений проблемы.
+Sensei Miyagi: Welcome to the Xingzhi cave, home of the tranquility challenge. Your goal in this challenge is to become as tranquil as possible, to become one with nature. Instructions in your quest book will guide you.@Приветствую в Xingzhi пещере, доме испытания спокойствия. Твоя цель в этом испытании стать спокойным как никогда, чтобы слиться с природой. Инструкции в квестовой книге расскажут тебе больше.
+Sensei Miyagi: I see you have returned, young one. What news do you bring to me?@Я вижу ты вернулся, молодой. Какие новости ты принес мне?
+Sensei Miyagi: You... you have completed all four of my challenges? You have astounded me!@Ты....Ты завершил все четыре испытания? Я очень удивлен!
+Sensei Miyagi: Your name will go down in the history of the arts, my friend.@Твое имя будет записано в истории искусств, мой друг.
+Sensei Miyagi: Take this 1 Master's Gi as a reward for your rigorous hard work.@Возьми этот Master's Gi, как награду за твою тяжелую работу.
+Sensei Miyagi: It has been an honor to train you in my dojo, young master.@Это было честью, тренировать тебя в моей школе дзюдо, молодой мастер.
+
+Enzan%27s_Brother.html
+Enzan: I see you want to venture into the wilderness!@Я вижу, ты хочешь отправиться в дикую местность!
+Enzan: My name is Enzan, and I am now a retired knight. I've spent most of my life fighting for Ragni's army, just like you.@Меня зовут Enzan. Я - рыцарь в отставке. Я потратил большую часть своей жизни сражаясь за армию этого города, так же как и ты.
+Enzan: I know how hard it must be to be a recruit at this time, so I've got something that could help you! Well, I don't have it, but my brother does!@Я знаю, как трудно быть новобранцем в наше время, поэтому у меня есть нечто, что тебе поможет! Что же, оно не у меня, а у моего брата!
+Enzan: Follow this road, he's at the entrance of the Nivla Forest, you can't miss him. Just head to the end of the trail, past the item identifier.@Следуй этой дорогой. Он стоит у входа в Nivla Forest, ты не пройдешь мимо него. Иди до конца дороги, мимо идентификатора предметов.
+Enzan: Tell him I sent you! He can be such a jerk to strangers sometimes...@Скажи ему, что я прислал тебя! Временами он странно относится к незнакомцам...
+Therck: Can't you see I'm busy?@Ты не видишь я занят?
+Therck: Oh, my brother? Sorry, I didn't know.@Ох, мой брат? Извини, я не знал.
+Therck: Why yes, I actually have something that could help you...@Да, у меня есть кое-что, что тебе поможет...
+Therck: Take this chain. It's an ingredient, one of its kind!@Возьми эту цепь. Это ингредиент, единственный в своем роде!
+Therck: You know how to craft right? If you use this with your recipe, you can create a powerful item.@Ты же знаешь, как правильно крафтить? Если ты используешь это в рецепте, то сможешь создать мощный предмет.
+Therck: I recommend you use it soon before it loses its value. Use the crafting stations right here.@Я рекомендую тебе использовать его, прежде чем он потеряет свою ценность. Используй станции для крафта прямо здесь.
+Therck: You'll definetly need a good weapon if you plan to reach Detlas, the trading city. It's right through this forest.@Тебе определенно понадобится хорошее оружие, если ты планируешь добраться до торгового города Detlas'а. Он находится за этим лесом.
+
+Eye_of_the_Storm.html
+Arwes: Welcome, weary traveller. To the house of Talor... Or what remains of it.@Добро пожаловать, уставший путешественник. В этот дом Talor'а... Вернее, то, что от него осталось.
+Arwes: As you can see, times are hard in the forest, especially here in the west.@Как ты видишь, настали тяжёлые времена в лесу, особенно здесь, на западе.
+Arwes: Very few are left in this church. Myself, the good Pastor Nitram, and of course old Golie here.@Не многие остались в этой церкви. Я, добрый пастор Nitram, и, конечно, старый Golie.
+Arwes: This used to be a thriving religious sanctuary, but all my brothers have turned to darkness.@Раньше это было процветающей религиозной святыней, но все мои братья перешли на тёмную сторону.
+Arwes: They think that our gods have abandoned us and the decay is our punishment. They now worship demons, of all things.@Они думают, что наши боги покинули нас, и заражение является нашим наказанием. Теперь они поклоняются всем сущим демонам.
+Arwes: It is heartbreaking to see such good people turned to this sort of depravity. Murder, sacrifice, oppression of the downtrodden...@Тяжело смотреть, как хорошие люди переходят на сторону безнравственности. Убийства, жертвоприношения, угнетение угнетённых...
+???: Let me go! I'm so young, you can't throw away my life like this. p-please! SOMEONE HELP ME!@Отпустите меня! Я ещё слишком молод, вы не можете просто так забрать мою жизнь. п-пожалуйста! КТО-НИБУДЬ, ПОМОГИТЕ МНЕ!
+Arwes: Wha?! That sounded like... oh gods no, another sacrifice?Even strong Talos...@Что?! Это звучит как... О, боги, нет, ещё одно жертвоприношение? Это ведь сильный Talos...
+Arwes: Please, human. I have heard of many kind acts by you folk, please help save Talos! It sounded like they were dragging him to the north-west crypt...@Прошу, человек. Я слышал, что люди делают много хороших дел, пожалуйста, спаси Talos'a! Звучит так, что они тащат его в гробницу на северо-западе отсюда...
+???: Please, NO! Don't do this!@Пожалуйста, нет! Не делайте этого!
+???: A Human! Oh, please help! They're going to try to feed me to a hellhound!@Человек! Ох, пожалуйста помоги! Они хотят скормить меня церберу!
+Talos: That's the kind of strength I would expect from you humans! Thank you so very much! If you could cut me loose here...@Не ожидал такой силы от тебя, человек! Огромное тебе спасибо! Если бы ты еще освободил меня...
+Talos: Ah, there we go! These three madmen attacked me while I was sleeping, so I couldn't defend myself. They stole everything I had!@Ах, отлично! Эти три сумасшедших атаковали меня, пока я спал, так что я не смог защитить себя. Они украли все, что у меня было!
+Talos: Hah, now that your little hellhound won't be eating me, you give me back my-@Хах, теперь ваш маленький цербер не сможет съесть меня, вы вернете мне все-
+Talos: Wait, there...there's only two others... I'm sure there were three of them here just earlier. Has the third ran off with my things?! Tell me! Now!@Минутку, здесь...здесь их только двое... Я уверен, что их было трое совсем недавно. Получается третий убежал с моими вещами?! Ответь мне! Сейчас же!
+???: Yes indeed, foolish treasure hunter. Only one thing... but that is all we will need. It is more than enough. The rest will make but a fine offering to our lord...@Вот именно, дурацкий охотник за сокровищами. Всего с одной вещью... Но только она нам и нужна была. Этого более чем достаточно. И это будет отличным подарком для нашего повелителя...
+Talos: Ugh, they ought to lock you nutters up in that dreadful prison. Well , whatever the case, was Arwes in the church?@Ухх, таких психов как вы нужно запирать в этой ужасной тюрьме. Что же, в любом случае, Arwes еще в церкви?
+Talos: He's probably rather worried about the both of us. You ought to go tell him we're alright. Even barehanded I can fend these loonies off.@Должно быть он очень волнуется за обоих из нас. Ты должен сказать ему, что мы в порядке. Даже с голыми руками я смогу присмотреть за этими сумасшедшими.
+Arwes: Oh, thank goodness you are safe. I never knew my old brothers were so strong to have taken a hardened adventurer like Talos.@Ох, спасибо господу, вы в порядке. Никогда не думал, что мои старые братья настолько сильны, чтобы захватить такого закаленного авантюриста вроде Talos'а.
+Arwes: Now, I wouldn't normally ask someone for this kind of request, but since you have already proven yourself...@Я обычно не прошу кого-то сделать мне одолжение, но поскольку ты уже зарекомендовал себя...
+Arwes: And I truly have no where else to turn. I must ask you once more for help.@И я не знаю к кому еще обратиться. Я попрошу тебя еще об одной услуге.
+Arwes: A robed figure... I did not see their face, but they brandished a dark artifact. Apparently, stolen from Talos' treasures...@Одетые в мантию фигуры... Я не разглядел их лиц, но они размахивали древним артефактом. Вероятно, украденным из сокровищ Talos'а...
+Arwes: They called it the [Eye of Blood]. Such a perverse, twisted aura... I nearly passed out on the spot. Who knows what they could do with it...@Они называли его [Глаз Крови]. Там была какая-то извращенная аура... Я чуть не потерял сознание прямо на месте. Кто знает, что они могут сделать с ним...
+Arwes: They probably took it to the town they currently occupy, Lexdale. They have turned it into their own personal playground, with no regard for the people within.@Скорее всего, они забрали его в свой оккупированный город - Lexdale. Они превратили его в свою постоянную площадку, не заботясь о людях вокруг.
+Arwes: I cannot even so much as help them. The dark cult has completely blocked the town off from outsiders... And yet, the people of Cinfras don't even as much as bat an eye...@Я больше не могу помогать им. Культисты полностью заблокировали город от посторонних... И пока, даже люди из Cinfras'а не собираются помогать им...
+Arwes: But this is no time for grievances. You must retrieve the [Eye of Blood]. An old friend of mine, Ceyquin, might help you. You will have to sneak into Lexdale, though...@Но не время для жалоб. Ты должен вернуть [Глаз Крови]. Мой старый друг, Ceyquin, может помочь тебе. Но тебе придется скрытно проникнуть в Lexdale...
+Ceyquin: What- A...A human? In Lexdale?! How did you get in, do you have a death wish?!@Человек? в Lexdale?! Как ты попал сюда, у тебя есть предсмертное желание?!
+Ceyquin: Uh! I mean... P-praise our new lord, th-the great and terrible Naragath!@Ух! В смысле... С-славься наш новый владыка, ве-великий и ужасный Naragath!
+Ceyquin: Ugh...you're welcome, I brought us a few more minutes. those cultists have eyes and ears everywhere in my town anymore...@Угх... Добро пожаловать, думаю теперь у нас есть пару минут. Теперь у этих культистов уши и глаза повсюду во всем городе...
+Ceyquin: Ther're trying to summon that Naragath character, whatever it is...some kind of demon, I suppose. They say if we obey them, he'll spare us.@Они пытаются призвать некого Naragath'a... Он некто вроде демона, я полагаю. Они сказали, если мы подчинимся ему, то он пощадит нас.
+Ceyquin: I want to stop them, but it's hopeless. They've already killed many dissenters just on their own, but I think they really can summon this demon.@Я хотел бы остановить их, но это безуспешно. Они уже убили нескольких протестующих по своей воле, и думаю они реально смогут призвать этого демона.
+Ceyquin: Just look to the north, you see that giant hand? They summoned it. As if the decay wasn't bad enough already, that looks completely different, and even worse!@Просто посмотри на север - видишь эту гигантскую руку? Они призвали ее. По мне заражение не настолько плохо, ведь то что они хотят призвать гораздо хуже.
+Ceyquin: You don't believe me? Go inside my house and up to the highest balcony. You'll have a clear view of the pit from up there. Take a good long look at what you're up against!@Ты не веришь мне? Заходи внутрь моего дома и поднимись на самый высокий балкон. Ты будешь иметь четкое представление оттуда. Внимательно посмотри на то, с чем мы имеем дело.
+Ceyquin: N-no, nothing to hide! I wouldn't dream of barboring a dissident in my humble home!@Нет, я ничего не скрываю! Я даже и не думал впускать инакомыслящего в свой скромный дом!
+Ceyquin: Phew...if you came out even a second earlier we'd both be dead on the spot! Anyway, do you see what you're up against now?@Фух... Если бы ты пришел на секунду раньше, то мы оба были бы уже трупами! Ладно, уже видел, с чем нам придется иметь дело?
+Ceyquin: I'd quicker try and kill Ozoth barehanded and bloody-knuckled than see the body attached to Naragath's hand there.@Я лучше бы попробовал убить кровавую руку Ozoth'a, чем увидеть полное тело, прикрепленное к этой руке Naragath'a.
+Ceyquin: If you really think can you help, you certainly won't be able to from here. The cultists have this town in a stranglehold.@Если ты действительно хочешь помочь, то отсюда ты этого сделать точно не сможешь. Культисты держат этот город мертвой хваткой.
+Ceyquin: There is a wizard who sometimes sneaks in food for us...though, if he can't defeat them on his own, I don't know how much he could help you.@Но есть один маг, что иногда тайно приносит нам еду...Хотя даже если он не может убить его в одиночку, то я не знаю, чем он может помочь тебе.
+Ceyquin: Well...whatever the case, you'll want to go to the hill next to the hand. I think the house near to it is Rismor's.@Что же... В любом случае, тебе нужно идти к дому на горе рядом с рукой. Думаю, это должен быть дом Rismor'а.
+Ceyquin: You can use the secret exit I've got in my basement to leave. Be quiet when you sneak in there. I'll make sure no one sees you.@Ты можешь воспользоваться моим секретным выходом в моем подвале, чтобы уйти. Не шуми, когда проникнешь туда. Я прослежу, чтобы тебя не заметили.
+Ceyquin: W-what? They...they knew about the tunnel?! I have to warn the human- N-no! They already jumped down! Oh no...@Ч-что? Они...Они знают о тоннеле?! Я должен предупредить человека- Н-нет! Они уже спрыгнули вниз! О нет...
+Rismor: And STAY out of my home, you damn fool cultists! Can't you see that thing will just burn our world if you manage to summon it?!@И держитесь ПОДАЛЬШЕ от моего дома вы, чертовы культисты! Разве вы не видите, что это нечто уничтожит мир, если вы его призовете?!
+Rismor: Oh, I wasn't talking to you, human. Those foolhardy cultists just broke into my house. I repelled them, though. So, what brings-@Ох, это я не тебе говорил, человек. Эти идиоты культисты сумели пробраться в мой дом. Но я отбросил их. Так. что привело-
+Rismor: Ugh, no, no, no! They're advancing further with the summoning! This can't have been my scroll, they only just left! How did they get this far so quickly?@Ух, нет, нет, нет! Они продвинулись дальше с призывом! Это не может быть мой свиток, они ведь только ушли! Как они доставили его так быстро?
+Rismor: The...what now? The eye...the [Eye of Blood]?! A corrupted summoning item...this gives us no time at all! I need to figure something out now!@И...что же теперь? Глаз... [Глаз Крови]?! Испорченный предмет призыва...это значит у нас нет времени! Мне нужно кое-что выяснить сейчас же!
+Rismor: Wait...what am I saying, there's a human in my house! You're known for helping those in need, right? Well, there's a lot on your shoulders today.@Минутку...о чем я говорю, у меня же человек в доме! Ты ведь помогаешь всем нуждающимся, верно? Что же, значит сегодня у тебя будет много работы.
+Rismor: Your heard me shout it earlier, it those idiots summon Naragath he could ravage the entire province! You see the giant hand, we'd be powerless to stop him!@Как уже говорил раньше, эти идиоты призовут Naragath'a, чтобы он опустошил целую провинцию! Как видишь по гигантской руке, мы будем не в силах остановить его!
+Rismor: I'd send you straight in, but the Pit of Despair here...not only does it emanate hopelessness just of its own accord, but the newfound corruptive energies of the eye will overwhelm your mind.@Я отправлю тебя прямо в нее, вот только Яма Отчаяния...от нее не только исходит отчаяние просто по своей собственной воле, благодаря новополученной энергии Глаза, она сможет подавлять твой разум.
+Rismor: I'd cast a spell of protection on you, but those cultists are smart. They stole my wands and all my spell scrolls too. You'll have to get it back for me.@Я бы наложил заклинание защиты на тебя, но эти культисты умны. Они украли мои посохи, вместе с заклинаниями. Ты должен достать их обратно для меня.
+Rismor: They ran off towards their "Blood Oak", a tree they once used for sacrifices before they took the church crypts. It's just south of here. Pursue them!@Они убежали на свое "Кровавое дерево" - дерево, которое они использовали для жертвоприношений до того, как захватили гробницы церкви. Оно на юге отсюда. Преследуй их!
+The Guardian: Intruder! Leave now, and be unharmed. Walk further, and face your end, at my hands!@Посторонний! Уходи сейчас и останешься цел! Или же подойди и прими свой конец, от моих рук!
+Rismor: I saw your fight. Did the accolyte there have the scroll?@Я видел твою битву. Удалось достать свиток у прислужника?
+Rismor: Thank goodness. If they'd run farther we would have certainly run out of time. We should consider ourselves lucky they decided to hold their ground.@Слава богу. Если бы они ушли дальше, то у на не было бы времени. Можно сказать нам повезло, что они решили остаться на своем месте.
+Rismor: Not a second to waste, hand the scroll here and I'll read the incantation.@Не теряем ни секунды, давай свиток и я прочитаю заклинание.
+Rismor: Ballreth Illi'dan Coropleth!@Баллретх Илли'дан Короплетх!
+Rismor: Alright, you should be able to enter the pit safely now. Expect to be attacked. Hopefully my agent is still doing fine...@Отлично, теперь ты сможешь безопасно войти в яму. Разве что тебя будут атаковать. Надеюсь мой агент еще в порядке...
+Rismor: His name is Harker. I sent him in a while ago to spy on the Order and sabotage their rituals. He's a fairly powerful magic user in of himself.@Его имя Harker. Я отправил его давно шпионить за Орденом и саботировать их ритуалы. Также он хорошо владеет магией.
+Rismor: I'll attempt to contact him via magic to tell him to expect you. I can't guarantee anything, but even if i can't contact him, he should know a human wouldn't be helping the Order.@Я попробую связаться с ним по магическим каналам, и сообщу, чтоб он ждал тебя. Не могу ничего гарантировать, но даже если я не свяжусь с ним, он должен знать, что люди не помогают Ордену.
+Rismor: Now, get going, now! Into the Pit of Despair! You've not a moment to waste here.@Теперь вперед, иди уже! В Яму Отчаяния! Не стоит тратить ни секунды.
+Harker: Phew...a friendly face. Come here, human. I need to talk to you quickly.@Фух...дружественное лицо. Иди сюда, человек. Нам нужно поговорить скорее.
+Harker: Well first off, I'm impressed. You look relatively unscathed.@Ну во-первых - я впечатлен. Ты выглядишь относительно невредимым.
+Harker: I can't say I was so lucky. I was found out when I tried to steal the Eye from them. I'm rather crippled right now.@Не могу сказать, что мне повезло так же. Я был замечен, когда пытался стащить Глаз у них. Поэтому я сейчас немного травмирован.
+Harker: Nothing lethal, but I'll not be able to help you fight.@Ничего серьезного, но я не смогу помочь тебе в борьбе.
+Harker: I can still use the magic Rismor taught me, so I can help you stop the ritual. The cultists have already begun.@Однако я все еще могу использовать магию. Rismor учил меня, чтобы я мог помочь остановить ритуал. Культисты его уже начали.
+Harker: They're performing the ritual in the next chamber. I'll take a shortcut there. We need to stop the ritual before they complete it!@Ритуал проходит в следующей комнате. У меня есть короткий путь туда. Нам нужно остановить ритуал до того, как они завершат его!
+Naragath: Hsehehehh... I thank you, my loyal servants. This form will be a fine magic vessel... And with it, this world will be my own plaything, just as the other!@Хехехеххх... Благодарю вас, мои покорные слуги. Эта форма будет прекрасным магическим сосудом... Вместе с ней этот мир станет моим, как и другие миры!
+Harker: Gahh...how powerful is this thing?! Even just newly summoned...that force nearly knocked me out right here!@Эхх...насколько сильно это нечто?! Даже недавно призванным...его сила отбросила меня прямо до сюда!
+Harker: We can't afford to let him get any stronger... but conventional magic won't work on him! Your attacks will be useless.@Мы не должны позволить ему стать еще сильнее... но обычная магия не работает на нем! Твои атаки будут бесполезны.
+Harker: We'll need to turn his own strength against him. Rismor taught me how to invert magical energy.@Мы должны повернуть его собственную силу против него же. Rismor учил меня, как повернуть магическую энергию.
+Harker: If you kill the cultists at the altar and get 5 Icons of Naragath, I should be able to weaken the demon enough for you to kill him! Now hurry!@Если ты убьешь культистов на алтаре и принесешь мне 5 икон Naragath'a, тогда я смогу достаточно ослабить демона, чтобы его можно было убить! Поторопись!
+Hierophants: Llid a adfail, ei ryddhau oddi wrth eich carchar marwol... gadewch affwys hwn a dod anhrefn i'r byd hwn pechadurus...@Ллид а адфайл, эй руддхау одди вртх айч карчар марвол... гадевч аффвиз хвн а дод анхрефн и'р буд хвн печадурус...
+Harker: Quick, give the Icons to me, I'll begin the spell...@Быстрее, давай иконы сюда, я начну заклинание...
+Harker: Belrath Mellanon sinthos!@Белратх Мелланон синтос!
+Harker: Okay, it should be working. Go! Quickly, lead him deeper into the cave. You must defeat him!@Хорошо, должно сработать. Иди! веди его в глубь пещеры. Ты должен уничтожить его!
+Naragath: I will give credit where it is due. You are smart, "heroes". But how do you expect to destroy one who has twisted very realms to his will? Surrender now and I will consider sparing you!@Должен отдать вам должное. Вы умны, "герои". Но как вы планировали уничтожить того, кто подчинил множество царств своей воле? Сдавайтесь сейчас же и я подумаю о вашей пощаде!
+Harker: Urgh... all this running around and magic casting... I don't know how long I'll be able to keep him weakened.@Уххх... Вся эта беготня вокруг и использование магии... Я не знаю, как долго смогу сдерживать и делать его слабым.
+Harker: Even still, he's incredibly powerful, and I know exactly why.@Даже так, он по-прежнему силен, и я думаю знаю почему.
+Harker: The Eye of Blood is tying him to this plain of existence, if you can separate it from him, I think I could manage to banish him!.@Глаз Крови как-то связан с ним. Если ты сможешь отделить его от него, то я смогу попробовать изгнать его!
+Harker: I am still weak, so you will need to fight the demon on your own. Defeat him and bring me the Eye of Blood. We've made it this far, now let's end this!@Я еще слаб, поэтому тебе нужно будет сразиться с ним в одиночку. Победи его и принеси мне Глаз Крови. Мы зашли так далеко, так что давай закончим с этим.
+Naragath: Hah. Do not delude yourselves! Your wills are bending to mine as we speak. You will learn your place soon enough, peons. Come! Dare to challenge me! Perhaps the flames of oblivion will comfort you!@Хах. Не обманывайте себя! Ваши души будут моими, когда мы закончим говорить. Вы узнаете свое место скоро, рабы. Придите! И сразитесь со мной! Возможно пламя забвения будет утешать вас!
+Harker: The Eye! You did it!@Глаз! Ты сделал это!
+Harker: For as much as I want to say this went well, his talk wasn't just bluster. I was close to breaking... it's a good thing you knocked the Eye away from him when you did.@По правде хочу сказать, что его разговоры не были пустыми угрозами. Я был близок к тому, чтобы сломаться... Как хорошо, что в этот момент ты отбросил Глаз от него.
+Harker: Now that his influence is gone though, I feel rather invigorated. I'll try and teleport you back to the surface.@Но раз теперь его влияние ушло, я чувствую себя довольно бодрым. Я попробую теперь телепортировать тебя на поверхность.
+Harker: Don't worry about me. Even if I'm killed down here, the rest of Gavel will be safe if you get out safely.@Не беспокойся за меня. Даже если я умру здесь, большинство Gavel'а будет спасено, если ты выберешься наружу в безопасности.
+Harker: Here. Take the Eye of Blood and bring it to Rismor on the surface. He should know how to keep it locked up tightly.@Вот. Возьми этот Глаз Крови и отдай его Rismor. Он должно быть знает, как хранить его плотно закрытым.
+Rismor: I'm at loss for words. I didn't expect you to survive.@У меня нет слов. Я и не ожидал, что ты выживешь.
+Rismor: The hand started moving even further after you went down. I had to step outside and attempt to freeze it myself. I thought you had died for sure, and that Naragath had been summoned!@Рука начала двигаться еще быстрее, когда ты спустился вниз. Я вышел наружу и попробовал заморозить ее самостоятельно. Уж было подумал, что ты точно погиб, и им удалось призвать Naragath'а!
+Rismor: But, just a few minutes before you came back, it suddenly stopped. It seems to be frozen like that now. It'd be better if it had disappeared, but this is preferable to an apocalypse.@Но, за несколько минут до твоего прихода, она внезапно остановилась. Она застыла и выглядит так же, как сейчас. Лучше было бы, чтобы она исчезла, но все же это лучше, чем апокалипсис.
+Rismor: The cultists suddenly panicked when the hand petreated of its own accord as it did. Most of them seem to have left Lexdale.@Культисты начали паниковать и разбегаться, когда рука застыла на месте. Похоже большинство из них покинули Lexdale.
+Rismor: So not only have you personally saved the town, but potentially all of Gavel with your actions.@Так что ты не просто спас город, ведь своими действиями ты помог всему Gavel'у.
+Rismor: For now, I will hide the Eye of Blood and make sure no one touches it ever again. And I will be sure to keep an eye on the remaining cultists.@Сейчас, я спрячу Глаз Крови и надеюсь, что никто и никогда не прикоснется к нему снова. И так же буду присматривать за оставшимися культистами.
+Rismor: The people of Lexdale will be able to live again. Thanks to you.@Народ Lexdale сможет начать жить снова. Благодаря тебе.
+Rismor: Farewell, adventurer. I do hope we may meet again, under better circumstances.I can only pray that this is the last we will clash with those from the realm of darkness.@Прощай, искатель приключений. Я надеюсь, что мы встретимся снова, при лучших обстоятельствах. Могу только молиться, что бы это было наше последнее столкновение со злом из царства тьмы.
+
+Fallen_Delivery.html
+Bricot: Are you here to help? Did you hear the explosion, or my girlish scream? Either way, you have to help!@Ты здесь чтобы помочь? Ты слышал взрыв, или мой девчачий крик? В любом случае, помоги мне!
+Bricot: I was tending to my farms when I heard three massive explosions! Next thing I know, there's an airship burning over my house!@Я ухаживал за моей фермой, как вдруг услышал три взрыва! Я поднял голову и увидел горящий дирижабль над моим домом!
+Bricot: You have to go up there and see if you can find any survivors and maybe find out who caused it! Don't worry about me, I'll sort out the fire down here! Hurry!@Ты должен подняться наверх и посмотреть, вдруг там остались выжившие и что там вообще произошло! Не беспокойся за меня, я сам потушу огонь здесь! Быстрее!
+Marden: How did you get up here, human? What are they doing down there if not defending the fort?!@Как ты пробрался сюда, человек? Что мои люди делают внизу, если не защищают форт?!
+Marden: Wow aren't you a clever human. You worked out that the only cannon nearby blew up the airship!@Вау, а ты умный человек. Ты додумался, что только из этой пушки можно взорвать этот дирижабль!
+Marden: Of course it was us. We're a "Gun for hire" service. Our employer paid us handsomely to down the postal air service.@Ну конечно это были мы, кто же еще. Мы команда “профессионалов убийц”. Наш работодатель заплатил нам, чтобы мы сбили этот почтовый дирижабль.
+Marden: He wanted the mail, for some reason. Said we could take everything else. We handed him the bag of letters and the deal was down.@Ему нужны были письма по какой-то причине. Сказал, что мы можем взять все остальное. Мы принесли ему сумку с письмами и завершили сделку.
+Marden: If you're looking for him, he ran off somewhere to the south west, the bag had a hole in it so you might be able to "follow the paper trail" so to speak.@Если ты ищешь его, то он убежал куда-то на юго-запад. В сумке была дырка, так что следуй по “бумажному пути”, чтобы поговорить с ним.
+Marden: Now why don't you toddle off? You got your information, and I have some money to count.@Теперь почему бы тебе не убраться? Ты получил информацию, а я свои деньги.
+Gawrick: I'm working on a spells hitherto unexplored and unknown to villager kind, please leave!@Я работаю над до сих пор не изученным и неизвестным уму жителя заклинанием, пожалуйста уйди!
+Gawrick: Oh, a letter? I didn't know humans were allowed to work on airships. Let me have a look.@Ох, письмо? Не знал, что людям разрешено работать на почте. Дай-ка мне взглянуть.
+Gawrick: ...Where did you get this? This was supposed to arrive at it's[sic] destination by now.@...Где ты достал мое письмо? Оно должно было прибыть сегодня в пункт назначения.
+Gawrick: The ship was downed? This is bad. Very bad.@Дирижабль был сбит? Это плохо. Очень плохо.
+Gawrick: That letter was to my correspondent in Ahmsord. It contained a powerful spell capable of long distance teleportation with no drawbacks.@Это письмо было моему корреспонденту в Ahmsord'е. В нем содержится мощное заклинание, с помощью которого можно телепортироваться на далекие расстояния без недостатков.
+Gawrick: A representative from "Air Gavel" named Ernold came to me and offered a large sum of emeralds for it, but I didn't sell and he left angrily.@Представитель общества “Воздух Gavel'а” по имени Ernold приходил ко мне и предлагал большую сумму за это заклинание, но я отказался продать его ему и он ушел злой.
+Gawrick: He must be behind this. I would suggest you go to his office and begin your search there.@Он стоит за этим. Я предлагаю тебе пойти в его офис и начать поиски там.
+Gawrick: The office is located in the top floor of the airship base. Follow the brown carpets to get there. Good luck!@Офис находится на верхнем этаже воздушной базы. Иди по коричневым коврам, чтобы попасть туда. Удачи!
+Office Manager: Greetings, do you require assistance?@Приветствую, нужна ли вам помощь?
+Office Manager: No, I have not seen representative Ernold. He locked himself in his office a few days ago.@Нет, я не видел представителя Ernold'a. Он заперся в своем кабинете несколько дней назад.
+Office Manager: Typically, nobody is allowed inside. You can wait in the waiting area across the bridge if you are that determined to see him.@Обычно, никого не пускают внутрь. Вы можете подождать его в комнате отдыха, что через мост, если он вам так нужен.
+Office Manager: Of course, If you were to find another way into his office, I wouldn't stop you. That man doesn't pay me enough to deal with that kind of stuff.@Хотя, если вы найдете другой путь в его офис, я не буду вас останавливать. Этот человек платит мне недостаточно, чтобы я справлялся с такими вещами.
+Representative Ernold: Heh... HEH... HEHE! Every time I teleport, I leave a little more of my sanity behind! But I get stronger!@Хех... ХЕХ... ХЕХЕ! Каждый раз, когда я телепортируюсь, я становлюсь немного безумным! Но при этом сильнее!
+Representative Ernold: This Spell is going to make me a fortune! Who cares if it makes people insane!! It sure beats flying! If you want it, you will have to pry it from my mind!@Это заклинание сделает меня богатым! Плевать, что оно делает людей безумными!! Это конечно лучше, чем летать! Если хочешь забрать его, то тебе придется забрать его из моего разума!
+Gawrick: Oh, you're back. Were you successful? While you were gone I created a spell that turns cheese into wine.@Ох, ты вернулся. Все прошло успешно? Пока ты ходил, я придумал заклинание, превращающее сыр в вино.
+Gawrick: I'm not sure it's going to be very useful though, I love cheese. Anyway!@Не уверен, что это будет полезно, но я очень люблю сыр. Неважно!
+Gawrick: Thank you so much for retrieving it. What's that you say? He lost his mind with the spell?!@Огромное спасибо, что вернул его. Что он сказал? Он стал безумным из-за заклинания?!
+Gawrick: I didn't have any mental issues. Although, I have been told I always had a couple of screws loose.@У меня не было никаких психических проблем. Хотя, мне говорили, что у меня всегда были проблемы с головой.
+Gawrick: Just last week I invented a spell to remove toenails, only for them to instantly grow on your fingernails.@Буквально на прошлой неделе я придумал заклинание, чтобы удалить ногти на ногах. Но воспользовавшись им, у меня только выросли ногти на руках.
+Gawrick: Well then, it would seem you have not only done me a great favor, but the whole province!@Ну тогда, ты не только сделал мне великую пользу, но и всей провинции!
+Gawrick: Here, take this reward. I was going to use it to start my teleportation company, but I can make more money from my "Cheese to Wine" company.@Вот, возьми награду. Я собирался использовать деньги, чтобы начать свою компанию по телепортации, но думаю я могу сделать больше денег из моего "сыр в вино заклинания"
+
+Fantastic_Voyage.html
+Relend: Let's go, just you and me! On a grand voyage across the sea!@Вперед, только ты и я! Отправимся в великое путешествие через моря!
+Relend: In search of a pirate's gold, old chap! But first we'll need a treasure map.@На поиски пиратского золота, старина! Но сначала нам нужна карта с сокровищами, у пирата она.
+Relend: I think I know where we can nab a chart, but you're going to need a lion's heart!@Думаю я знаю, где ты можешь ее стащить, но у тебя должно быть львиное сердце, чтоб его победить!
+Relend: Captain Goldenclaw was the best pirate to date, although eventually he met his grim fate...@Капитан Goldenclaw был лучшим пиратом на свете, пока не встретил свою мрачную судьбу на рассвете...
+Relend: He still lies with the map we need to get our ship in motion. To find him, follow the flowers with the color of the ocean.@Он держит карту у себя, и без нее мы не можем отплыть. Чтобы найти его, иди по цветам океана, нам нужно спешить.
+Relend: Welcome back, new acquaintance of mine. Seems you managed to get that map just fine!@Ты вернулся, и мы теперь друзья. Вижу, что и карта теперь есть у тебя!
+Relend: Gateway Island? Must be where Goldenclaw buried his treasure. If we can find where it's hidden, it shall bring us both great pleasure!@Потерянный остров? Должно быть, там Goldenclaw держал свою ценность. Если мы найдем это место, то забудем, что такое бедность!
+Relend: So how about it, shall we set sail? If you're scared to go, this is your last chance to bail!@Ну так что, плывем на другие берега? Если боишься, то это твой последний шанс сойти с борта!
+Relend: Hop aboard my ship so we can cross the water, Little Wing is what I like to call her.@Ну раз нет, тогда вперед, отплыть туда будет нетрудно, ведь Little Wing - так я зову свое милое судно!
+Relend: The excitement of this journey is making me squeal! Come and meet me by the steering wheel!@Это будет великолепное путешествие, все пройдет прекрасно! Подойди и поговори со мной на палубе, если вдруг станет опасно!
+Relend: Welcome aboard, I suppose I can consider you my first mate. Although, it appears we now have a problem on our plate.@Приветствую на борту! Полагаю, я могу считать тебя моим первым слугой. Хотя, похоже, проблемы на судне у нас не будет другой.
+Relend: You see those spikes all around my boat? Well, we're about to ram into them like a goat!@Ты тоже видишь все эти шипы вокруг нашего корабля? Что же, нам нужно скорее объехать их, медлить нельзя!
+Relend: I'd steer around them, but it appears the wheel is broken. I need you to craft a new one before we're both soaking!@Я бы объехал их, но похоже сломался штурвал. Мне нужно чтобы ты скрафтил новый, пока Кракен нас не разорвал!
+Relend: There's a Crafting Table at the front near all the crates. Now hurry up, our valuable treasure awaits!@Знаю, есть неподалеку тут верстак! Поторопись, ценные сокровища нас ждут, в них то я мастак!
+Relend: Ah, thank you for helping me in my time of need. Let's maneuver through these spikes at a steady speed!@Ах, спасибо, что помог с этим, мы не столкнулись лбами. Мне удалось сманеврировать между этими столбами!
+Relend: Although, at the last minute, there is something I have to confess. I have never captained a ship with any success.@Честно говоря, я сделал это в последний момент. Я никогда не был хорошим капитаном, не делай мне комплимент!
+Relend: I think before we get into any real danger, we should turn around. Could you man the wheel and get us back to solid ground?@Думаю, прежде чем мы попадем в настоящую опасность, нам лучше повернуть назад. Может возьмешь штурвал на себя, я был бы этому рад!
+Relend: Nice steering, although your maneuvers are a bit brash. Hey, watch out! I think we're about to-@Отлично, но ты управлял иногда слишком дерзко - это мое рассуждение. Эй, поосторожнее! Ой, кажется нас ждет круше...
+Relend: As you can see, my ship has become a shipwreck! Now please help me, I am trapped in the lower deck!@Как видишь, наш корабль совершил кораблекрушение! Теперь помоги мне, я на нижней палубе, у нас ведь с тобой соглашение!
+Relend: Amazing work, seems you got below deck rather quickly! You're going to have to get through this wreckage to free me!@Отлично, ты уже тут! Теперь спаси меня, сломав эти обломки - они упадут!
+Relend: Wow, so you managed to work your way through after all! Maybe to free me, you can use that cannonball?@Воу, тебе удалось добраться до меня, но я в ловушке! Может, чтобы освободить меня, тебе нужно подойти к пушке?
+Relend: Thank you for freeing me, now let's leave this mess! Although, I don't know how to do that, I have not even a guess.@Спасибо, что освободил меня, давай уйдем с этого беспорядка! Правда, я не знаю как это сделать, может у тебя есть догадка?
+Relend: When the ship crashed, it was buried beneath the sand! But the good news is that we're finally back on land!@Когда корабль разбился, он погрузился в песок! Но хорошая новость в том, что мы вернулись на землю, на небольшой островок!
+Relend: We should probably get of this place, it feels rather small. Perhaps you can try to break through that weak spot in the wall?@Нужно выбираться отсюда, выход в другой стороне. Может, ты попробуешь сломать эти дряхлые доски в стене?
+Relend: It looks like we're going to be stuck here for a while. Come and speak to me so we can find a way off of this isle!@Надеюсь, мы застряли здесь не на века. Подойди ко мне для разговора, и мы найдем способ покинуть этот остров наверняка!
+Relend: Gateway Island... we've finally arrived. I'm just thankful that we survived.@Потерянный остров... Похоже мы на месте. Рад, что мы выжили и остались вместе.
+Relend: Well, all this adventuring has me hungry for stew. We'll need ingredients, whatever's on the island will have to do.@Что же, я проголодался от всех этих приключений и хочу рагу. Отыщи ингредиенты здесь на острове, а я с рецептом тебе помогу!
+Relend: Meat is definitely something we need to reap, try and get [10 Raw Mutton] from those sheep.@Нам точно понадобится 10 [сырая лопатка]. В овцах неподалеку здесь нет недостатка.
+Relend: And perhaps you could get [5 Edible Mushrooms] from the western cave, just make sure not to get the kind that will send me to my grave.@И конечно, нам нужны из пещеры на западе 5 [съедобные грибы]. Но для начала проверь, что съев их, не понадобятся нам гробы.
+Relend: I feel like something is missing from this medley. Oh, how about you get [1 Coconut] from atop that tree?@Думаю, я что-то забыл, память отшибло как из пушки. Ох, как насчет достать [1 кокос] с дерева верхушки?
+Relend: And if you could fetch [7 Berries], that would just make me merry!@А если ты принесешь 7 [ягод], которые уже успели покраснеть, то это повеселит меня, и быть может заставит даже песню спеть.
+Relend: Check your quest book if you ever need a recap. And to make sure you don't get lost, take this map.@Я записал список в твою книгу квестовую. И смотри не заблудись, вот держи карту простую.
+Relend: Well, this stew has a rather odd flavor. But any food we can get here I shall savor.@Честно говоря, странный вкус у этого рагу. Но любая еда сойдет на этом берегу.
+Relend: What remains of my ship won't protect us very well. We'll need to find shelter, as you can clearly tell.@Думаю остатки этого корабля не смогут защитить нас в ночь. Нам нужно будет найти убежище, чтоб волки не смогли нас уволочь.
+Relend: To the east, I can just barely make out a tent. Go and take a look at it for a moment.@На востоке я видел небольшую старую палатку. Иди и проверь ее, вдруг найдешь там подходящую кроватку.
+Relend: So the tent was just too run-down? All of this bad news is making me frown.@Значит старая палатка не подходит нам? Эта новость делает меня еще грустнее, на радость всем врагам.
+Relend: Allow me to borrow your map for a second. We'll have to find somewhere else, I reckon.@Дай-ка на секунду свою карту. Кто знает, вдруг найдем на ней огромную мансарду.
+Relend: See if you can move the large rock at the island's center. There's likely a cave behind it for you to enter.@Посмотри, видишь в центре острова большая каменная сфера? Вдруг за ней находится подходящая нам пещера?
+Relend: You mean you couldn't move the stone? All of these problems are making me groan.@Говоришь, ты не можешь камень этот сдвинуть? Все эти проблемы заставляют меня мозгами пораскинуть!
+Relend: I know we can come up with solution using our wits. Perhaps we can craft an explosive to blow that rock to bits!@Мне пришла в голову одна догадка. Возможно нам удастся взорвать стену, но нужно кое-что - взрывчатка!
+Relend: Let's think of some materials we can get here. There isn't much on this island, I fear.@Давай подумаем, какие материалы мы можем здесь найти. Придумал, вот те список, что нам нужно принести:
+Relend: First we're going to need [5 Grainy Sand]. Where to get it? Try the beach at the back of the island.@Для начала нам нужен 5 [песок зернистый]. Должно быть он на пляже позади острова, но путь туда тернистый.
+Relend: Next up is [Sawdust], you'll need three. I think the best place to search would be the largest tree.@Еще нужны [опилки], их нужно штуки три. Около крупнейшего дерева ты их собери.
+Relend: Finally, [1 Black Powder], found in a place that is very unique. You'll have to brave your way to the volcano's peak.@И наконец, 1 [черный порох] - взрыва элемент. Он на вершине вулкана, это будет наш главный компонент.
+Relend: You'll need those items you craft the bomb, I just told you where to look. If you forget what you need to find, check your quest book.@С помощью них тебе нужно сделать бомбу, я всего-лишь говорю где их найти. Если забудешь, что тебе нужно, на вот книгу с собой прихвати.
+Relend: Don't act so surprised, I was right behind you the whole time! I'll help you fight and maybe sing a rhyme!@Не удивляйся, я следовал все это время за тобой! Я помогу тебе сражаться, так что вперед, в бой!
+Relend: Another portal? This is our only way out. We have to go inside, without a doubt.@Еще один портал? Интересно, куда он сможет нас привести? Мы должны через него пройти.
+Relend: Now that we're back, we should talk. Then I'll head back to Jofash Dock.@Похоже мы вернулись, нужно нам поговорить. После этого в свои Jofash доки мне нужно отплыть.
+Relend: Seeing that you're still alive is splendid. Finally, this whole ordeal has ended.@Мы остались живы, и это прекрасно. Наконец-то наше приключение закончилось, хоть и прошло оно не безопасно.
+Relend: It's such a shame that my ship is gone. Oh well, I'll head back to the dock and build another one.@Жаль, что моего корабля больше нет. Что же, я вернусь в доки, и построю еще один, таков мой приоритет.
+Relend: I almost forgot, I saw a note by that portal of dread. would you mind if I tell you what it read?@Чуть не забыл, я нашел записку об этом ужасном портале. Не возражаешь, если я прочитаю ее на нашем привале?
+Relend: "Whoever enters this portal, beware the darkness inside." Well, I didn't see anyone else in that place, I suppose they died.@Бойся тьмы внутри, вошедший в портал друг. Что же, похоже все погибли, я вижу только мертвецов вокруг.
+Relend: By the way, while we were on the island, I found a chest full of gold. I'll give you a share, since there's too much for me to hold.@Кстати, пока мы были на острове, я нашел полный золота сундучок. Дам тебе часть, ведь я много не унесу, а ты может построишь себе особнячок.
+
+Fate_of_the_Fallen.html
+Telvu: Ah, a member of the Ragni army. We're trying to gain entry to this frozen barrow. We could use your aid.@Ах, представитель армии Ragni. Мы как раз пытаемся зайти в этот замерзший курган. Нам нужна твоя помощь.
+Telvu: Are you familiar with the story of Theorick and Nesaak?@Ты знаком с историей Theorick'а и Nesaak'а?
+Telvu: Probably not. Well, you see, Nesaak was not always frozen.@Похоже, что нет. Видишь ли, Nesaak не всегда был таким замерзшим.
+Telvu: During Theorick's time, this place was like the Wynn plains, warm and arable.@Во времена Theorick'а, это место было как и другие поля в провинции Wynn, здесь было тепло и все процветало.
+Telvu: For some reason Theorick Twain used his immense power to freeze the land before exiling himself here.@Но по какой-то причине Theorick Twain использовал свою силу чтобы заморозить эти земли, прежде чем отправиться сюда в ссылку.
+Telvu: We need to find out why so we can reverse this spell. Assumedly, the source of that spell's magic would be within here.@Мы должны узнать причину, чтобы можно было обратить это заклинание вспять. Предположительно, источник этого магического заклинания находится здесь внутри.
+Telvu: As such...have you heard of a place called Time Valley? We could use it to go back in time, to try to learn more about this barrier.@Поэтому...ты когда-нибудь слышал о месте под названием Долина времени? Что ж, мы можем использовать это место для возврата назад во времени, чтобы попытаться узнать больше об этом барьере.
+Telvu: Well...in a way, at least. There are laws to this sort of magic. For one, you need an item from the specific time we want to see. Second, you can witness the past, not change it.@Ну...в каком-то смысле. У такого сорта магии свои законы. Во-первых, тебе нужен специальный предмет из того времени, которое ты хочешь увидеть. Во-вторых, ты можешь только наблюдать прошлое, но не менять его.
+Telvu: One of Theorick's staves is on display in the Nesaak bank. Assumedly, it should work for what we need. Could you retrieve it somehow?@Один из посохов Theorick'а ты можешь найти в банке Nesaak'а. Думаю, он как раз то, что нам нужно. Сможешь его достать как-нибудь?
+Telvu: Aha, quick job. I see you've the wand. Must've needed a sharp tongue to get the bankers to give it up.@Ага, быстро вернулся. Вижу посох у тебя. Должно быть у тебя острый язык, раз заставил банкиров отдать его тебе.
+Telvu: Now, it is a long walk to Time Valley. Needn't take that walk, though, as I can teleport you there. Hopefully.@Теперь похоже предстоит долгая дорога в Долину времени. Хотя, быть может мне удастся телепортировать тебя туда. Я надеюсь.
+Telvu: Doing so is exhausting. I'll only be able to do so once, so if something goes wrong, you'll have to walk back yourself.@Это делается очень нелегко. Я смогу сделать это только один раз, так что если что-то пойдет не так, то тебе придется идти туда самому.
+Telvu: Once you're there, enter the Temple of Time. You should know what to do once you are there. Careful dealing with time travel, friend... No idea what you might find.@Когда окажешься там, войди в Храм времени. Там уже разберешься что делать дальше. Будь осторожен с путешествиями во времени, дружище... Никто не знает, что тебя ждет там.
+Psern: What the...@Что за...
+Psern: Woah, your weaponry and armour is so advanced!@Воу, твои оружия и броня выглядят очень современно!
+Psern: Are you another Twain? Only the Twains know magic like that.@Ты еще один из семейства Twain? Только Twain'ы знают магию так хорошо.
+Psern: Oh, you're looking for Theorick.@Ох, ты ищешь Theorick'а.
+Psern: He's busy fighting in the war, shouldn't you be doing the same?@Он занят, сражается на войне. Ты разве не тем же занимаешься?
+Psern: He went west. There was some kind of emergency.@Он ушел на запад. Там была какая-то чрезвычайная ситуация.
+Psern: We've been fighting the corruption for years, it seems like it might finally engulf Nesaak.@Мы здесь сражаемся с порчей годами, и похоже очень скоро она сможет поглотить Nesaak.
+Theorick: I could've sworn she had gone this way... Oh, what now, more imbeciles? This forest isn't safe to travel!@Могу поклясться, что они пошли сюда... Ох, ну что еще, очередной дурачок? Этот лес не безопасен для путешествий!
+Theorick: If you need help, lodge a complaint with the guards. I'm busy and I can't exactly break away from saving this god-blessed province to chill your milk!!@Если тебе нужна помощь, то иди жалуйся к охранникам. Я занят, и не могу сейчас оторваться от спасения этой благословенной богом провинции ради твоих заморочек!!
+Theorick: Are your ears full of wax?! I said-@У тебя что, вата в ушах?! Сказал-
+Theorick: Urgh, the things followed you! See what happens?! STAND ASIDE.@Ухх, за тобой следили! Видишь, что произошло?! ОТОШЕЛ В СТОРОНУ.
+Theorick: As though I needed TWO people to save! Now get out of here, I have to find that woman who went missing!@Не хватало мне только ДВУХ человек, которых придется спасать! Теперь убирайся отсюда, я должен найти ту женщину, которая пропала!
+???: HEEEELP! I can't outrun them!!! Guards! Someone!!@ПОМОГИИИТЕ! Они меня догоняют! Охранники! Кто-нибудь!!
+Theorick: Whuh! That's her voice! Where is she?! I just cleared this area!@Ухх! Это ее голос! Где она?! Я зачистил эту территорию!
+Girl: Th-Theorick!! There's corrupteds!!@Th-Theorick!! Здесь мертвецы!!
+Theorick: Ugh, is she dragging them over from the west?! You there, If you don't want to end up frozen, GET BEHIND ME, NOW!!@Угх, она ведет их с запада?! Эй, ты...если не хочешь быть замороженным, ДЕРЖИСЬ ПОЗАДИ МЕНЯ, БЫСТРО!!
+Theorick: Phew... You're out of danger now. If you hadn't left town, though, you wouldn't have been IN any danger at all!@Фух... Ты теперь в безопасности. Но если бы ты не выходила из города, то не попала бы в ТАКУЮ опасность!
+Theorick: Don't bother apologizing to me, just get back to town. Now.@Перестань извиняться передо мной, просто вернись назад в город. Сейчас же.
+Theorick: Next time you feel like picking flowers in the forest, or whatever in blazes you were doing, remember you have a life to live, hm?!@И в следующий раз, когда захочется пособирать цветы в лесу, или сделать еще нечто подобное, подумай над тем, зачем тебе дали жизнь, хорошо?!
+Theorick: Every day, more corrupteds, more deaths... There is only one thing for it. I have to tackle it myself. Cut the roots...and kill this hellish weed.@Каждый день, все больше мертвецов, больше смертей... Есть только один выход – я должен разобраться с этим сам. Отрубить корни... и уничтожить эту адскую траву.
+Theorick: Still here? Well, listen up. Myself and a few others are planning something risky. Damned be it if our minds are lost, I need to go through that portal.@Ты еще тут? Ну что же, слушай. Я и несколько других людей планируем нечто рискованное. И плевать, что я потеряю разум, но мне нужно пройти через портал.
+Theorick: You look heavily geared, so I'm conscripting you. Meet us at our base, immediately. Follow the river south and you'll see a house on the right side.@Ты выглядишь хорошо экипированным, так что я нанимаю тебя на службу. Встречаемся на нашей базе, немедленно. Следуй по реке на юг, пока не увидишь дом с правой стороны.
+Theorick: Well, I'll give you this. You're prompt to listen to orders, at least. We're headed to the Roots of Corruption.@Хорошо, я дам тебе это. Как минимум, ты должен будешь слушаться моих приказов. Мы выдвигаемся в Roots of Corruption.
+Theorick: The last man that entered the portal and returned became Bak'al... But if there is even a fraction of a chance this could work, we must take it at this point.@Последний человек, что зашел в портал и вернулся, стал Bak'al'ом... Но если есть хоть малый шанс того, что это сработает, мы должны попытаться.
+Theorick: Let's get moving. We'll be taking no breaks on the trip, so I hope you were prepared.@Давайте выдвигаться. Мы не будем делать перерывов в походе, поэтому я надеюсь, что ты хорошо подготовился.
+Theorick: Now. The sheer cold I command can stave off corruption itself. Somehow I doubt any of you can say the same. I'll go in alone.@Хорошо. Магия холода, что я владею, должна мне помочь остановить порчу. Сомневаюсь, что кто-то из вас сможет также. Так что я пойду туда один.
+Theorick: When I enter... If I had to make an assumption, corrupteds will swarm the portal after me. Your job? Slay them. I can't have distractions in there.@Когда я войду... Могу лишь предположить, что порча захочет защитить портал от меня. Что делать вам? Уничтожайте их. Я не могу отвлекаться.
+Theorick: You will not be leaving your post here until I exit that portal. Understood?@Не покидать свои посты, пока я не выйду из портала. Все понятно?
+Theorick: ...no...@...нет...
+Theorick: ...no, no, no no no NO!! DAMN IT ALL!!@...нет, нет, нет нет нет НЕТ!! ЧЕРТ ВОЗЬМИ!!
+Theorick: You know what happened?! I lost!! I will destroy the province if I turn completely! GET AWAY, NOW! DO YOU HEAR ME?! RUN!!@Ты знаешь что случилось?! Я проиграл!! Мне придется уничтожить провинцию, если я полностью превращусь! УХОДИ СЕЙЧАС ЖЕ! ТЫ СЛЫШИШЬ МЕНЯ?! БЕГИ!!
+Theorick: I... C-calm yourself, Theorick...don't...don't lose yourself to it...there's...yet a solution...one way...@Я...У-успокойся, Theorick... не надо...не теряй себя...должен...быть выход...единственный путь...
+Theorick: Oh...you again...the others...dead? Run off? Cowards...urgh...@Ох...снова ты...другие...мертвы? Сбежали? Трусы...угхх...
+Theorick: You live...so...eyes up. Listen to me. If I turn...w-when...when I turn...n-no, can't...gaaah, I'll destr- Nggh...@Ты жив...так что...внимательно. Слушай меня. Если я превращусь...вернее когда...когда я превращусь...н-нет,немогу...ааахх, я уничтожу- эхх...
+Theorick: I won't last, you can tell... Right now...killing me is an impossibility, you idiotic weakl- Agh, GET OUT OF MY MIND!!@Я не продержусь...Прямо сейчас...убить меня невозможно, слабак идиот– Ах, УБИРАЙСЯ ИЗ МОЕЙ ГОЛОВЫ!!
+Theorick: Gaaah... Tell...everyone. I will freeze this place. I...t-too fargone. It needs time to heal...and my powers m-must be dampened...frozen...@Чееерт...Скажи...всем. Я заморожу это место. Все...зашло...с-слишком далеко. Нужно время, чтобы все излечилось...и моя сила д-должна быть ослаблена...заморожена...
+Theorick: All worthless... Urgh, no...they yet deserve life...and this spell...it will surely claim some. Please, let them know why...@Все бесполезно...Угх, нет...Они все еще заслуживают жизни...и это заклинание...Не все будут довольны им. Пожалуйста, дай им знать, почему...
+Theorick: If I have learned anything from that insufferable f- ...from Mael...deaths without reason lets spirits to linger. I would...prefer against giving him a harder time.@И если я чему-то научился от этой невыносимой бол... от Mael'a...что смерть без причины позволяет духам задерживаться на земле. Я бы предпочел...не усложнять ей жизнь.
+Theorick: K-keep advancing. Your things, if everyone was as strong as you...we may stand a chance. This could end me, in time, once I am weaker.@П-продолжайте наступление. Твой боевой дух, если все будут сильны как ты... у нас будет шанс. Нужно покончить со мной, когда я стану слабее, со временем.
+Theorick: Let it be known...Theorick Twain is not dead. He cannot be killed...all will burn... until future days. Here, in this accursed place. Find me...and end it all.@Пускай все знают... Theorick Twain не умер. Он не может быть убит...все будет гореть...до будущих дней. Здесь, на этом проклятом месте. Найди меня... и покончи с этим.
+Telvu: You must have succeeded, or you would be yet in the memory of the past. I can feel some potent magic on you.@Похоже все прошло удачно, иначе же ты бы застрял в памяти прошлого. Я чувствую в тебе сильную магию.
+Telvu: So, you met Theorick? He was always said to have fallen from heroism after the great freezing.@Так значит ты встретил Theorick'а? По слухам он пал с героизмом после великой заморозки.
+Telvu: Hm...wait, this flame...did you receive it from the Temple of Time? How did...what is...this is impossible, given what we know!@Хм...минутку, этот огнь...ты получил его в Храме времени? Как...что...учитывая наши знания - это невозможно!
+Telvu: It unfreezes the entrance, you say...and...Th-Theorick...gave...he...what...? This raises so many more questions! Unless there was some other force at play...@Он разморозит вход, ты говоришь...и...Th-Theorick...дал его...тебе...что? Это порождает еще больше вопросов! Разве что не было еще какой-то другой силы, замешанной в этом...
+Telvu: Well, ruminating on that will not help. Were you able to figure out why it was Theorick froze this place, at least?@Ну, размышление об этом не поможет. Тебе хотя бы удалось выяснить, почему Theorick заморозил это место?
+Telvu: Wha...so many revelations...ice magic staves off corruption...? It is true that this place has seen less corrupted threats than other places in the province...@Что...так много откровений...магия льда избавит нас о порчи...? Похоже на правду, ведь в этом месте гораздо меньше ее проявлений, чем в других местах провинции...
+Telvu: Dear God... We've had it all wrong this whole time... This was to protect everyone...but surely he would have told someone his intentions if he was of that sound a mind!@Господи... Мы были неправы все это время...Это все было, чтобы защитить всех...но конечно, он бы рассказал кому-нибудь о своих намерениях, если бы был в своем уме!
+Telvu: All this time, spent buried alive, wrestling with the corruption. The thought horrifies you, as well, judging by your face. Killing him would be a mercy.@Все это время, погребенный заживо, он сражался с порчей. Эта мысль ужасает и тебя, судя по твоему лицу. Его убийство будет милостью для него.
+Telvu: Here. Use this. It may help protect you within the Ice Barrows... Please, soldier. Be Theorick's guardian angel. Free him from this torment.@Вот. Используй это. Оно поможет защитить тебя внутри Ice Barrows...Пожалуйста, солдат, будь ангелом-хранителем для Theorick'a. Освободи его от этих мучений.
+
+Finding_The_Light.html
+Guardian of The Forest: Huh?! What?! Is that a Volt Goat horn?!@Ухх?! Что?! Это звук овечьего горна Volt'а?!
+Guardian of The Forest: Who wakes me from my slumber?@Кто пробудил меня от спячки?
+Guardian of The Forest: What in Gavel are you? Why is your nose so small?@Что ты такое в Gavel'e? Почему твой нос такой маленький?
+Guardian of The Forest: A human, eh? Strange creature. So, why have you awoken me?@Говоришь, ты человек? Странное существо. Так зачем ты разбудил меня?
+Guardian of The Forest: I haven't been awake in 200 years. I would have thought Tiek would have fixed the decay by now...@Я спал 200 лет. Я надеюсь, что Tiek сумела предотвратить заражение леса...
+Guardian of The Forest: This is awful. You have to act now. I can feel it has not yet crossed the river.@Это ужасно. Ты должен действовать сейчас же. Я чувствую, что заражение еще не пересекло реку/
+Guardian of The Forest: Head south and you'll find an arch with a white symbol on it, I must know what state it's in.@Иди на юг и найди арку с белым символом на ней. Я должен знать, в каком она состоянии.
+Guardian of The Forest: Well, did you find it? What?! It's not there?!@Ты нашел ее? Что?! Это не там?!
+Guardian of The Forest: Or maybe... It is there. Just hidden. Of course. You're not from Gavel, right?@Или может... все верно. Она ведь просто спрятана. Ты не из провинции Gavel, верно?
+Guardian of The Forest: Oh yes. Yes... You just can't see it!@Ах да. Да... Ты просто ее не видишь!
+Guardian of The Forest: Of course.. If something foul were to enter the forest it would hide itself.@Конечно... Если заражение зайдет в этот лес, то это место должно спрятаться.
+Guardian of The Forest: You'll need to find someone who can help you see.@Ты должен найти кого-нибудь, чтобы он помог тебе '''увидеть.'''
+Guardian of The Forest: Is Cinfras still standing? I once heard they invented something with two glass things to put over your eyes so you could see better. Perhaps go there and seek them out.@Cinfras еще на месте? Я слышал, что они изобрели нечто с двумя стекляшками, которые ставятся на глаза, чтобы ты мог лучше видеть. Возможно, тебе стоит поехать туда и найти их.
+Ollie: Welcome there young master, how may I assist you today?@Добро пожаловать молодой мастер, чем я могу тебе помочь сегодня?
+Ollie: You can't see?@Ты не можешь видеть?
+Ollie: Well then, why don't you take a quick eye examination?@Что же, тогда давай быстро проверим твое зрение?
+Ollie: It's very simple. All I need you to do is walk over to the paper on the wall there..@Это очень легко. Все, что нужно сделать, это подойти к той бумаге, висящей на стене..
+Ollie: ...And read out each line one by one.@...И прочитать каждую линию одну за другой.
+Ollie: I'll be able to work out what you need from there.@Тогда я посмотрю, что можно с этим сделать.
+Ollie: Well, that was a perfect score. Are you sure you're having problems?@Что же, у тебя идеальное зрение. Ты уверен, что у тебя проблемы?
+Ollie: What is it exactly that you can't see? Hm... Let's try something else.@Что именно ты не можешь увидеть? Хм... Давай еще кое-что попробуем.
+Ollie: Let's see... Ah yes. Perhaps the Clearsight spectacles are what you need.@Посмотрим... Ах да. Возможно, Clearsight очки именно то, что нам нужно.
+Ollie: Oh my, we're going to need a few things. Such as [Tears of the Honest], a [Coin of the Charitable], and a [Note of the Selfless].@О Боже, но для них нам понадобятся несколько вещей - такие как §3[Слеза Честности]§a, §3[Монетка Милосердия]§a, и §3[Записка Самоотверженности]§a.
+Ollie: These items are so peculiar. I really wonder how magic operated hundreds of years ago. I don't know how you will acquire these... But if you ever do, come back to me. On your way out, do tell that person shouting to be quiet.@Эти вещи очень редкие. Мне очень интересно, как магия действовала сотни лет назад. Я не знаю, как ты достанешь их... но если сможешь, возвращайся ко мне. Ах да, скажи этому кричащему человеку на выходе успокоиться.
+Charlie: JACK?! JACK?? Where are you?@JACK?! JACK?? Где ты?
+Charlie: You there! Have you seen my son?@ЭЙ вы! Вы не видели моего сына?
+Charlie: He locked his bedroom and vanished!@Он закрылся у себя в комнате и пропал!
+Charlie: My house is number 10, perhaps you could see if you can find out where he went?@Мой дом под номером 10, может вы осмотрите его и узнаете, куда он отправился?
+Charlie: Maybe you could check his room for me? I'll stay out here and keep searching.@Проверьте его комнату ради меня! Я останусь здесь и буду искать.
+Jack: Ow!@Ауч!
+Jack: Help me Human, I fell!@Помоги мне человек, я упал!
+Jack: I have an ouchie!@Мне больно!
+Jack: Please go help the man for me, I need to find my daddy and get a bandage.@Пожалуйста, пойди и помоги человеку вместо меня. Мне нужно найти отца и перевязать рану.
+Jack: He's at a house on the edge of the forest. Oh, here, I'll write down the spot for you.@Он в доме на краю леса. Ох, вот, я запишу координаты места для тебя.
+Damien: Ugh, who-who are you?@Ух, кто-кто ты такой?
+Damien: Uhhhh.. Are you a doctor? You have to help.@Ухххх.. Ты доктор? Надеюсь можешь помочь мне.
+Damien: I was trying to get to Cinfras to collect some medicine, but I never made it.@Я пытался пойти в Cinfras за лекарствами, но я слишком слаб для этого.
+Damien: Can you get the medicine for me? The apothecary is at house 19... Please hurry, I feel terrible...@Может ты принесешь их мне? Аптека в доме №19... Пожалуйста, поторопись, я чувствую себя ужасно...
+Sasha: Welcome to Cinfras apothecary! How may I help you today?@Добро пожаловать в аптеку Cinfras'а! чем могу вам помочь?
+Sasha: Ahh, Damien. That rings a bell. He had an order ready.@Ааа, Damien. Что-то припоминаю. Его заказ уже готов.
+Sasha: Let's see.. That'll be [200,000 Liquid Emeralds] please.@Посмотрим.. С вас §3[200,000 жидких эмеральдов]§a, пожалуйста.
+Sasha: Good medicine is expensive. I'm afraid that's the price.@Хорошая медицина стоит дорого. Я боюсь, что не продам вам дешевле.
+Sasha: Look, that's the price. I can't change it. It's all safely stored in my basement.@Слушай, смотри на ценник. Я не могу ничего изменить. Все это надежно хранится в моем подвале.
+Sasha: Look I know it's way too much money, but I'm desperate.@Слушай, знаю, что это слишком много денег, но я в отчаянии.
+Sasha: I want to give poor Damien his medicine so badly, but I can't.@Я очень хочу дать бедному Damien'у его лекарства, но не могу.
+Sasha: A royal gardener stole my diary and is using it to blackmail me. It has embarrassing secrets...like, really embarassing...@Королевский садовник украл мой дневник и использует его, чтобы шантажировать меня. Там все мои секреты...очень постыдные секреты...
+Sasha: He said he'll give it back only in exchange for [200,000 Liquid Emeralds]!@Он сказал, что отдаст его только в обмен на §3[200,000 жидких эмеральдов]§a!
+Sasha: I'm sorry, but as long as that gardener is determined to get me, I can't lower the price. If you wish to approach him, he's probably at the bridge to the guild hall, gardening.@Извини, но пока садовник полон решимости шантажировать меня, я не могу снизить цену. Если ты хочешь поговорить с ним, он, наверное, на мосту к гильдии, работает в саду.
+Gardener: What do you want, can't you see I'm busy?@Что тебе нужно, разве ты не видишь, я занят?
+Gardener: Oh. Sasha. Did she send you to deliver the money?@Ох, Sasha. Она послала тебя доставить деньги?
+Gardener: No? Well then shove off! I have work to do. I stored the diary in a place no one would ever look!@Нет? Ну тогда отвяжись от меня! Мне нужно работать. Я спрятал дневник в месте, где его никто никогда не найдет!
+Gardener: You found it?! How is this possible?!@Ты нашел его?! Как такое возможно?!
+Gardener: I thought it was hidden! Look, no one needs to get hurt here.@Я думал, что хорошо его спрятал! Послушай, никто не должен пострадать здесь
+Gardener: Please don't hurt me! Ahh! Stop! Stop! Put the weapon away! You can have it!@Пожалуйста, не трогай меня! Аааа! Стоп! Стоп! Опусти оружие! Ты можешь забрать его!
+Gardener: Ugh...I...I'm sorry. Tell Sasha I'm sorry. I'm overcome with emotion, I don't think I can face her, I feel terrible about this now...@Угх...Я...прости. Скажи Sash'e, что я приношу извинения. Меня переполняют эмоции, не думаю, что смогу посмотреть ей в глаза. Я чувствую себя ужасно из-за этого...
+Sasha: Look my hands are- Oh? You got the Diary! I looked everywhere!@Смотри, мои руки - ой? У тебя дневник! Я искала его везде!
+Sasha: He must have been hiding it spectacularly!@Он, наверное, хорошо его прятал!
+Sasha: Here, take the medicine, free of charge. You go and help that poor man. And here, take this too.@Вот, возьми лекарства, бесплатно. Теперь иди, и помоги тому бедному человеку. И вот, возьми это тоже.
+Damien: Uuuuhhh...Is.. Is that my medicine?!@Уууххх...Это.. Это мои лекарства?!
+Damien: ...@...
+Damien: Woah... this stuff is really strong! I feel loads better already!@Воу... эта штука действительно сильная! Я чувствую себя уже намного лучше!
+Damien: Please, thank that little boy for me next time you see him.@Пожалуйста, поблагодари того мальчика от меня в следующий раз, когда увидишь его.
+Damien: He was running back and forth from Cinfras to bring me chicken noodle soup.@Он сбегал туда-обратно в Cinfras и принес мне куриный суп с вермишелью.
+Damien: He's a good kid. Not many people in Gavel would act the way he did.@Он хороший мальчик. Не многие жители в Gavel'е сделают также, как сделал он.
+Charlie: Did you find him? You found Jack?!@Ты нашел его? Ты нашел Jack'a?!
+Charlie: Oh my goodness me, thank you kind Human, thank you!@О Боже же ты мой, спасибо тебе добрый человек, спасибо!
+Charlie: My life partner Dave and I were beside ourselves with worry!@Мой партнер Dave и я были вне себя от беспокойства!
+Charlie: You will have to come over for dinner some time. Dave makes a fantastic roast Grook.@Ты должен будешь прийти к нам на ужин как-нибудь. Dave делает фантастическое жаркое из Grook'а.
+Ollie: Hello again! Did you somehow manage to acquire all of those weird ingredients?@И снова здравствуй! Ты каким-то образом умудрился достать все те странные ингредиенты?
+Ollie: Wow. I didn't even think half of these existed! Very impressive. Right, let's see if this old book is right.@Ого. Я даже не думал, что половина этих ингредиентов вообще существовала! Очень впечатляюще. Ладно, посмотрим, верна ли эта старая книга.
+Ollie: I'm going to need a bit of that. Yes. A pinch of this. Mmm. Grind that up...@Мне нужно немного этого. Да. Щепотку того. Mмм. Измельчаем...
+Ollie: ...@...
+Ollie: And... There! Magical glasses. Whatever it is you're looking for, you should be able to find.@И... Готово! Магические очки. Теперь что бы ты не искал, ты найдешь это.
+Ollie: No need to pay me. Doing ancient magic is a hobby of mine. And after all that trouble you went through to get these items...@Не нужно платить мне. Древняя магия - это мое хобби. После всех неприятностей, через которые ты прошел, чтобы получить эти предметы...
+Ollie: Why, it'd be a slap to the face. No, you go do what you have to. I hope you find whatever it is you're looking for.@Для меня это будет оскорблением. Нет.. Иди и делай то, что должен. Я надеюсь, тебе удастся найти то, что ты ищешь.
+Guardian of The Forest: Welcome back, Human. I see there was something in Cinfras to help you. I suppose the Villagers still live.@Ты вернулся, человек. Я вижу, в Cinfras'е было что-то, что тебе поможет. Полагаю, и жители еще живут.
+Guardian of The Forest: While you were gone I have caught up on the last 200 years.@Пока ты ходил, я разузнал о событиях этих 200 лет.
+Guardian of The Forest: How things have decayed.. The Gert war.. The two towers.. And oh, the poor Doguns!@Как все вокруг заражалось.. Война с Гертами.. Две башни.. Ах да, бедные Dogun'ы!
+Guardian of The Forest: Well, dwelling on the matter will not fix things. Remember the arch from before?@Что ж, размышления о прошлом ничем не помогут. Помнишь, где арка?
+Guardian of The Forest: Put on your glasses and you will be able to see what you could not before.. The arch is to the south if you have forgotten.@Надень эти очки и ты сможешь увидеть то, что раньше не мог.. арка на юге, если ты забыл.
+
+Flight_in_Distress.html
+Passenger Controllant: Good day, sir! Will you be flying with us today?@Добрый день, сэр! Вы летите с нами сегодня?
+Passenger Controllant: May I see your passport please?@Можно посмотреть ваш паспорт, пожалуйста?
+Passenger Controllant: It's a bit dusty! It looks very old, but the picture looks like you.@Он немного пыльный! Выглядит очень старо, но похоже на фотографии вы.
+Passenger Controllant: Well everything seems to be in order, climb aboard and I hope you have a pleasant journey.@Что же, думаю все в порядке. Поднимайтесь на борт и желаю вам приятного путешествия.
+Broadcast: Attention passengers. There has been a missing person reported aboard. If there are any volunteers to help search for them please report to control deck and speak to the captain.@Внимание, пассажиры. На борту пропал ребенок. Если кто-то хочет помочь найти его, то поднимайтесь на главную палубу и обратитесь к капитану.
+Captain Ackbar: Are you here to volunteer to search for the missing child?@Вы пришли, чтобы помочь найти пропавшего ребенка?
+Captain Ackbar: We're only just to set off and there is already an incident.@Мы только поднялись в воздух, как уже случился этот инцидент.
+Captain Ackbar: His mother informed us that her son disappeared soon after boarding.@Его мать сообщила нам, что он пропал почти сразу после взлета.
+Captain Ackbar: Poor parenting, if you ask me. Alas, we must find the lad.@Плохая мать, если вы хотите мое мнение. Ладно, мы должны найти парнишку.
+Captain Ackbar: Since we don't have any leads, it might be best to ask some passengers for information.@Поскольку у нас нет никаких улик, для начала неплохо бы опросить пассажиров, вдруг они что-то видели.
+Captain Ackbar: Most of them will be in the dining area or in the lounge.@Большинство из них находятся в столовой или в комнате отдыха.
+Captain Ackbar: Thank you so much for your help; I hope you find the lad soon.@Спасибо, что решили помочь. Надеюсь, что скоро мы найдем этого парнишку.
+Missing Child: Hey! Look at that ship over in the distance. It has been following the ship almost since we left off.@Эй! Посмотри на тот дирижабль вдали. Он летит за нами, как только мы взлетели.
+Missing Child: I know I shouldn't be down here but...@Я знаю, что не должен находиться здесь, но...
+Missing Child: I love airships, and I have never seen one like that.@Я люблю дирижабли, и никогда не видел такого.
+Missing Child: Oh, my mummy wants me?@Ох, мама ищет меня?
+Missing Child: Okay then, I will come back. Just let me get one last look at it, I'll meet you on the passenger deck.@Хорошо, я скоро вернусь. Просто дай мне посмотреть на него последний раз, и я вернусь в пассажирский отсек.
+Captain Ackbar: Hello again, did you find him?@Снова здравствуйте, вы нашли его?
+Captain Ackbar: How did he get down there?! There is supposed to be someone on duty!@Как он там оказался?! Там должен быть кто-то на дежурстве!
+Captain Ackbar: Thank you so much for finding him. You were the only volunteer.@Огромное спасибо, что нашли его. Вы были единственным, кто вызвался помочь.
+Captain Ackbar: Hopefully that is the only hiccup in the journey.@Надеюсь, что это была единственная помеха в нашем путешествии.
+Captain Ackbar: Feel free to return to your quarters and enjoy the rest of your journey.@Можете пройти в свою каюту и наслаждаться оставшимся путешествием.
+Captain Ackbar: Oh, hey! Are you here to help again?@Ох, привет! Вы снова хотите помочь?
+Captain Ackbar: I really appreciate it. My crew seem to be absolutely nowhere!@Я очень ценю это. Моя команда ни на что не годится!
+Captain Ackbar: Ok well the situation is pretty bad. The engines have broken down.@Что же, ситуация очень плоха. Наши двигатели сломались.
+Captain Ackbar: The engineer downstairs is trying to figure out a solution, but he's not the brightest villager in Gavel.@Инженер внизу пытается выйти из ситуации, но он не самый умный житель в Gavel'e.
+Captain Ackbar: Would you mind having a talk with the engineer, and see if you can help?@Можете вы поговорить с ним, и посмотреть, чем сможете помочь?
+Captain Ackbar: I have to stay here and man the brig, but if you head down to the engine room, we would greatly appreciate it.@Я останусь здесь рулить судном, пожалуйста спуститесь в инженерный отсек, буду очень признателен вам.
+Engineer Eric: You must be the 'uman the captain done told me.@Ты должно быть тот человек, о котором говорил капитан.
+Engineer Eric: We sure are havin' quite the situation down 'ere.@Я уверен, что справлюсь с этой ситуацией здесь.
+Engineer Eric: I dun looked at the machine but I dun see nothin' wrong.@Я посмотрел внутрь машины, и похоже там все вполне нормально.
+Engineer Eric: Hmm dun worry. We can fix it.@Хм, не беспокойся. Мы можем починить все.
+Engineer Eric: Let's try turnin' it off and on again. That usually works.@Давай их попробуем перезагрузить. Должно сработать.
+Engineer Eric: Pro'lem is I gotta stay down 'ere, and that system to restart is on the top of the ship.@Проблема в том, что система рестарта находится на верху дирижабля.
+Engineer Eric: You can get up there from captain's quar'ers.@Ты можешь добраться к ним из палубы капитана.
+Engineer Eric: There is a colour coded restart system atthe top. They made it nice and simple. But it only works if I press the same code down here.@Там цветная система рестарта. Она приятная и простая. Но это сработает, только если я буду нажимать те же кнопки здесь внизу.
+Engineer Eric: I will be down here pressing buttons when I see you dun yer thing.@Я буду жать тут на кнопки, а ты отправляйся наверх.
+Engineer Eric: I'll write down the code of the buttons to press. Just head up to the top on the ship.@Я написал тебе нужный код, какие кнопки нажимать. Просто отправляйся на верх корабля.
+Engineer Eric: Thank ye! The 'ngines are back up and running!@Спасибо тебе! Двигатели теперь заработали!
+Engineer Eric: I couldn't have dun this without ye.@Я бы не справился с этим без тебя.
+Engineer Eric: You go back to yer quarters and get some rest. A passen'er like yerself shouldn' have to help the crew.@Можешь вернуться в свою каюту и отдохнуть. Пассажиры, вроде тебя, не должны работать вместо команды
+Engineer Eric: I hope the rest of yer journey is good.@Надеюсь остаток путешествия пройдет удачно.
+Engineer Eric: Thanks 'uman.@Спасибо, человек.
+Pirate Captain: You are trying to reach the queen? Take us down? Ahaha, no chance. You have to get through us first.@Ты пытаешься пройти к королеве? Сбросить нас вниз? Ахаха, без шансов. Ты полетишь вниз первым.
+Captured Prisoner: You're awake, good. Ha, I heard you took out quite a few of those pirates.@Ты очнулся? Хорошо. Ха, я слышал что ты сбросил вниз несколько пиратов.
+Captured Prisoner: You must be here to take down the ship, and the pirate queen with it.@Должно быть, ты здесь что бы разнести этот дирижабль, вместе с пиратской королевой.
+Captured Prisoner: I've been a prisoner here for weeks. I was fly fishing when they captured me.@Я сижу здесь уже много недель. Я ловил рыбу, когда они поймали меня.
+Captured Prisoner: I have been working on an escape though.@Пытаюсь найти способы, чтобы сбежать.
+Captured Prisoner: At the back of the hall, I started a key to the queen's quarters.@Позади коридора я стал подбирать ключ к покоям королевы.
+Captured Prisoner: I am a locksmith in Gavel, and they have been using me to make their ship more secure.@Я мастер отмычек в Gavel'е, и они используют меня, чтобы сделать их корабли более безопасными.
+Captured Prisoner: There's a button next to the door on the left side, just press it and exit from here.@С левой стороны находится кнопка, просто нажми ее и выйдешь отсюда.
+Captured Prisoner: You have to help me!@Ты должен помочь мне!
+Captain Ackbar: Wow, You single handedly took out a pirate invasion.@Воу, вы в одиночку разбили целую пиратскую команду.
+Captain Ackbar: And you're a passenger! It's a good job you did...@И вы обычный пассажир! Отличная работа...
+Captain Ackbar: We have no defense on this ship. We are a civilian carrier.@У нас нет защиты на этом корабле. Мы обычный мирный дирижабль-перевозчик.
+Captain Ackbar: What is this? A ring from the queen? It looks valuable. You should keep it.@Что это? Кольцо королевы? Выглядит ценно. Оставьте его себе.
+Captain Ackbar: I still do not know how to thank you... We owe you so much.@По-прежнему не знаю как поблагодарить вас... Мы сильно обязаны вам.
+Captain Ackbar: Wait! I know! You can have free travel from Detlas to Cinfras!@Минутку! Знаю! Вы можете бесплатно путешествовать между городами Detlas и Cinfras!
+Captain Ackbar: A private airship owner called Calo owes me big.@Хозяин частного дирижабля Calo в долгу у меня.
+Captain Ackbar: I will tell him the deal. All you have to do is enter his ship and he'll take you back and forth!@Я предложу ему сделку. Вам нужно будет всего-лишь зайти на корабль, и вы сможете летать на его корабле туда и обратно!
+Captain Ackbar: Oh, and you will also be rewarded kindly monetarily. I will also personally send him the ring, so that it doesn't get damaged on the way, and you will receive it there.@Ох, и надо наградить вас денежно. Я отправлю ему кольцо, чтобы оно не повредилось в пути, которое вы сможете забрать у него.
+Captain Ackbar: Just head down to the entrance deck, and we are about to arrive at Detlas Airbase now.@Можете спускаться в нижний отсек, мы прибыли в аэропорт Detlas'a.
+Captain Ackbar: Thanks for helping us, really!@Спасибо, что помогли нам!
+Calo: Hey there. You must be the Human Ackbar told me about.@Привет. Ты должно быть тот человек, о котором говорил Ackbar.
+Calo: I heard what you did on the ship, very admirable. Fortunately for you, I owe Ackbar.@Я слышал, что ты сделал на корабле - очень смело. К счастью для тебя, я в долгу у Ackbar'а.
+Calo: I'll take you from Detlas to Cinfras or vice versa whenever you want.@Я буду возить тебя из Detlas'а в Cinfras или наоборот тогда, когда тебе будет нужно.
+Calo: All you have to do is board my ship. Oh, this was also from Ackbar.@Все, что тебе нужно - это просто зайти на борт. Ох, это тоже передал Ackbar.
+Stage 8: In case you die and have to replay the sound coded reset system, but do not have the Note anymore, the numbers are the following. 2, 1, 5, 3, 6, 4@В случае если вы умерли, и потеряли заметку с нужным кодом, правильные цифры - 2, 1, 5, 3, 6, 4
+
+Forbidden_Prison.html
+Prison Guard: You are trespassing on prison property, didn't you read the signs! You're under arrest, human!@Вы незаконно проникли на территорию тюрьмы, разве вы не читали таблички! Вы арестованы, человек!
+Prison Guard: Watch out for those dogs, recruit! They're not trained to obey humans! Why did the warden hire a human anyway?@Будь осторожнее с собаками, новичок! Они не натренированны подчиняться людям! И вообще зачем надзиратели наняли к нам человека?
+Prison Guard: Hey recruit, don't go near the dogs, they'll attack you!@Эй, новичок! Не ходи рядом с собаками, а то они на тебя нападут!
+
+From_the_Bottom.html
+Nakoba: Oh, you have some troll hair? I just love the smell so much! I can never get it myself because I can't fight.@Ох, у тебя есть скальпы троллей? Люблю их запах! Я никогда не мог их добыть, потому что не умею сражаться.
+Nakoba: Can I trade it for this Unusual Egg I found? If you don't like it, you could always sell it to someone else...@Могу я обменять их на Необычное Яйцо, что я нашел? Если оно тебе не нужно, то можешь продать его еще кому-нибудь...
+Nakoba: The people here thrive on bartering, they have treasures beyond imagination.@У людей здесь процветает бартер, у них есть много сокровищ, поражающих воображение.
+Dobile: Oh, that's the exact egg I've been looking for! In exchange for the egg, I'll trade you the cap of a leprechaun!@Ох, это как раз то яйцо, что мне нужно! В обмен на это яйцо, я дам тебе шапку лепрекона!
+Dobile: How does that sound? They're extremely hard to find. Excellent. The egg is actually dragon, but I wasn't about to tell you that before we exchanged hands.@Как тебе такое? Ее очень тяжело достать. Отлично. По правде говоря, это яйцо дракона. Я не хотел тебе говорить, пока мы не обменялись.
+Dorroc: A leprechaun's cap? How did you find that? I must have it! Don't worry, I have something to offer in exchange.@Шапка лепрекона? Как ты нашел ее? Она нужна мне! Не волнуйся, у меня есть кое-что для тебя взамен.
+Dorroc: I have managed to procure the diary of Bob, the Hero of Wynn himself. A young man called Mehme sold it to me for a packet of nuts@Мне удалось раздобыть дневник Bob'a, героя провинции Wynn. Молодой человек, которого зовут Mehme, продал мне его за пакет орехов.
+Dorroc: I'll sell it to you for the leprechaun's cap.@Я продам его тебе за шапку лепрекона.
+Lodog: Excuse me, but what is that book you're carrying? Oh, I was right! It's the diary of the Hero of Wynn!@Извините, а что это за книга у вас в руках? Ох, я был прав! Это же дневник героя провинции Wynn!
+Lodog: I have been searching for something like this for a long time. In exchange I'll give you the rare Claw of the Fire Demon, Lethirath. Please accept, It's worth a lot.@Я искал его долгое время. В обмен я могу дать вам редкий коготь огненного демона, Lethirath'а. Пожалуйста, соглашайтесь, он дорого стоит.
+Govid: Is that Lethirath's Claw? How did you manage to get it? No matter, I have to have it. How much do you want for it?@Это коготь Lethirath'а? Как вам удалось добыть его? Не важно, он мне необходим. Сколько вы хотите за него?
+Govid: Oh, wait, I have something even better than money. This is a golden feather from a Phoenix of the 5th Age. It is too pure for my studies, but more than a fair trade.@Ох, минутку, у меня есть кое-что лучше денег. Это золотое перо с феникса 5-летнего возраста. Я пользовался им в своих работах, но это более чем честная сделка.
+Dohstaj: Amazing! That's a Golden Phoenix Feather! I can't believe you have one of these! This will cure my father and increase his life expectancy by 10 years!@Невероятно! Это же золотое перо феникса! Не могу поверить, что оно у тебя! Оно поможет вылечить моего отца и добавить ему минимум 10 лет жизни!
+Dohstaj: In return, I will give you the dust of Fallen Angel Star. It's inside this bottle. Do we have a deal?@В ответ, я дам вам пыль упавшей ангельской звезды. Она внутри этой бутылки. Согласны на сделку?
+Syni: What is that blue dust you have? No, it can't be. The dust of the Fallen Angel Star? It must've been hard to get that. I doubt there is much left. I ask you to give it to me.@Что это за синяя пыль у тебя? Нет, не может быть. Пыль упавшей ангельской звезды? Ее очень тяжело достать. Сомневаюсь, что ее осталось много в мире. Я прошу дать ее мне.
+Syni: In exchange for the dust, I'll give you something even more valuable: the Amulet of the First of the Fallen.@В обмен на пыль, я дам тебе что-то более ценное: Амулет первого из падших.
+Yobon: That amulet, It used to belong to me. It looks like It has found its way home.@Этот амулет, он принадлежал мне. Похоже, он наконец нашел свой путь домой.
+Yobon: Give me the amulet and I shall give you the horn of the Elven God, Entia. I believe such a godly artifact is of the same value as that amulet.@Отдай мне амулет и я дам тебе горн эльфийского бога Entia. Думаю, раз это тоже божественный артефакт, то он такой же ценный, как и этот амулет.
+Yobon: I can not hold it for much longer anyway, it is of holy origin. Nakoba has been after the horn for years, but he didn't have anything of worth to me, not even his soul.@Я не могу держать его у себя, он из святого места. Nakoba хотел этот горн годами, но ему нечего было мне дать ценного, даже свою душу.
+Nakoba: Could it be? No, impossible. How have you acquired a Horn of Entia, the Elven God? I've been after this for years!@Неужели это? Нет, невероятно. Как ты смог раздобыть горн Entia? Я ждал его годами!
+Nakoba: I must have that horn! I don't have anything of close value I could exchange for it. Would you consider taking money for it?@Он мне нужен! У меня нет ничего такого же ценного, что я могу отдать. Может возьмешь за него деньги?
+Nakoba: It's been a pleasure doing business with you, and here, have some troll hair.@Приятно иметь с тобой дело! И вот, возьми еще один скальп тролля.
+
+From_the_Mountains.html
+Anrod: Ohh, I've been such a fool! Why is it dying?! I'm doomed!@Ох, я был таким дураком! Почему оно умирает?! Я обречен!
+Anrod: Oh, hello. Now's not a good time. Not unless you're some magical botanist.@Ой, здравствуй. Сейчас не лучшее время. Если ты не волшебник ботаник какой-нибудь.
+Anrod: I already asked the Elves for help, but they told me I shouldn't have been so greedy.@Я уже просил эльфов о помощи, но они сказали, что мне не стоило быть таким жадным.
+Anrod: You see, I sought immortality. I placed my soul, frozen, in this flower.@Видишь ли, я искал бессмертие. Я поместил мою замерзшую душу в этот цветок.
+Anrod: As long as it lives, I cannot age! I specifically chose this species because it has the nickname "Roots of ages"@И пока он живет - я не старею! Я специально выбрал этот вид, потому что он имеет прозвище "корень возрастов"
+Anrod: It's well known for never dying. Except mine is! This is my lifeline! If it dies, I die!@Он хорошо известен тем, что никогда не умирает! Теперь это вся моя жизнь! Если он умрет - умру и я!
+Anrod: A hermit nearby warned me not to do it, but I didn't listen. I thought he was just rambling!@Один отшельник неподалеку предупреждал меня не делать этого, но я не слушал его. Думал, он был просто сумасшедший!
+Anrod: You have to help me! Find the hermit... I think he said his name was Rynver. He was very hard to understand...@Ты должен мне помочь! Найди отшельника... помню, он говорил, что его зовут Rynver. Его было очень тяжело понять...
+Anrod: I think he said he lived up on that mountain behind me! I'm too weak to go myself... Please help me.@Думаю, что он сказал, что живет на той горе позади меня! Я слишком слаб, чтобы идти туда самому... Пожалуйста, помоги мне.
+Rynver: ...@...
+Rynver: Splurgh ephf men teefs!@Сплургх епхф мен тифтс!
+Rynver: Hglrri pefdje!@Хглри пефдже!
+Rynver: Thgsngs ag lhgt!@Спсыбке аг лгхт!
+Rynver: Hello?@Привет?
+Rynver: Ah! Thank you, much better! I dropped those down the hole a few weeks ago.@Ах! Спасибо! Так намного лучше! Я бросил их в яму пару недель назад.
+Rynver: But since I live alone up here, I have no reason to speak!@Но так как я живу один здесь - у меня нет повода для разговоров!
+Rynver: Well, I suppose our meeting is not a coincidence. And I owe you one for getting my dentures back.@Ну, я полагаю, наша встреча не случайна? Я в долгу перед тобой за спасение моего протеза.
+Rynver: What is it you need?@Что тебе нужно?
+Rynver: Oh, that fool! He actually went through with it! I warned him! Splitting the soul is dangerous magic.@Ох, этот глупец! Он действительно все это сделал? Я его предупреждал! Расщепление души - это опасная магия.
+Rynver: Although, his flower should not be dying... The root of ages is said to be immortal...@Хотя, его цветок не должен умирать... Говорят, что корень возрастов бессмертен...
+Rynver: I used to be a holy man before I lost my religion... I can produce some holy water for his plant.@Когда-то я был святым человеком, прежде чем потерял свою религию... Хотя я могу сделать немного святой воды для его растения.
+Rynver: I will need you to get me something though...@Но нужно, чтобы ты достал для меня кое-что...
+Rynver: I need [1 Water Spirit Tear] to make it. There are some living up here in a whirlpool. Take a [Breathing Helmet] with you, you cannot survive the currents without it. Gooph lucpfh!@Мне нужна [1 слеза водного духа], чтобы сделать это. Они живут рядом, здесь в водовороте. Возьми [Шлем подводника] с собой, ты не сможешь продержаться под водой без него. Удачи тепфе!
+Rynver: You've returned! Do you have the tear?@Ты вернулся! Есть ли у тебя слеза?
+Rynver: Excellent! I couldn't have done it better myself!@Отлично! Я не смог бы сделать лучше!
+Rynver: Spirit tears are full of light magic... When infused with water from my old church, it should cure any ailment.@Слеза духа полна магии света... когда она настоится на воде из моей старой церкви - это поможет вылечить любую хворь.
+Rynver: ...@...
+Rynver: Elsoth, mulath, reldein!@Эльсот, мулатх, релдайн!
+Rynver: Aha! Success! Take that to his flower right away! It's been a while since I did anfyin lipph thap...@Ага! Отлично! Можешь взять это для его цветка! Много прошло времени с тех пор как анфин липхх тхап...
+Anrod: Oh! You're back! I thought you just ran off! What do you have... Water? This isn't funny...@Ой! Ты вернулся! Я думал, что ты просто сбежал! Что у тебя... вода? Это не смешно...
+Anrod: ...@...
+Anrod: Rynver gave this to you?@Rynver тебе это дал?
+Anrod: Alright.. let's see if this works.@Ладно.. Посмотрим, сработает ли это.
+Anrod: Noooooo! It made it worse!@Нееееет! Это сделало только хуже!
+Anrod: ...@...
+Anrod: There is now only one petal left... I don't have long.@Остался только один лепесток слева... Мне осталось не долго.
+Anrod: Wait, what is that? The water is evaporating off it! The plant is red hot! It's burning!@Подожди, что это? Вода испаряется! Растение покраснело! Оно горит!
+Anrod: I wish the elves weren't so cryptic! They told me the root of ages lives as long as life itself.@Похоже эльфы говорили все серьезно! Они сказали мне, что корень возрастов живет так долго, как сама жизнь.
+Anrod: A Fleris recently ran into a cave nearby, I guess it escaped from the Molten heights. It's burning everything.. but I've been so worried about my flower I completely ignored it.@Fleris недавно убежал в пещеру неподалеку, полагаю он сбежал из Molten heights. В том месте все горит.. Но я так беспокоился о моем цветке, что полностью проигнорировал этот факт.
+Anrod: Maybe the life of this flower is linked to the burning trees! Quick, I don't have long! Follow the burning path and find the Fleris!@Может, жизнь этого цветка связана с корнями горящих деревьев! Быстрее, я не могу долго ждать! Следуй по пути пожара и найди Fleris'а!
+Anrod: Welcome back!@Ты вернулся!
+Anrod: There is no need to give me this, I know you were successful, look!@Нет необходимости отдавать мне это! Я знаю, что ты справился - смотри!
+Anrod: My flower is back to life! I will live once more! Fleris' are normally peaceful creatures, but when taken out of their habitat, they become scared and burn everything to keep warm.@Мой цветок вернулся к жизни! Я буду жить еще долго! Fleris'ы обычно мирные существа, но когда их вынимают из среды обитания, они становятся напуганными и сжигают все, чтобы согреться.
+Anrod: I wonder how that got there... Oh well! Thank you so much, here, take this as a reward!@Интересно, как он туда попал... Ну да ладно! Огромное спасибо. Вот, возьми это в качестве вознаграждения!
+
+Frost_Bite.html
+Eppo: Let's give it another try!@Давайте попробуем еще раз!
+Eppo: Ready the drill, men!@Приготовьте бур, мужчины!
+Eppo: Darn. The drill just won't start.@Черт. Бур просто не заводится.
+Eppo: Hey, Guard! Do you know anything about Electromagic? Come up here to the drill, maybe you can take a look?@Эй, наемник! Ты знаешь что-нибудь про электромагию? Подойди сюда, к буру, может посмотришь что с ним?
+Eppo: Oh! Never mind, it lit up, back up!@Ох! Уже не важно, он заработал. Все назад!
+Eppo: For the love of Bob... Why won't you just break?@Ради святого Bob'a... Почему он не хочет ломаться?
+Eppo: This ice was created by Theorick, a Twain who defended this area many many years ago.@Этот лед был создан Theorick'ом из семьи Twain - он защищал эти земли много-много лет назад.
+Eppo: When the corruption got too much... He froze everything, including the people. Do you see them in there?@Когда порча зашла слишком далеко... Он заморозил все, включая людей. Ты видишь их внутри?
+Eppo: We've tried desperately to get them out, but we've tried all the equipment we had, including this Corkian drill.@Мы отчаянно пытались вытащить их, но уже перепробовали все оборудование, что у нас было, даже этот бур из Corkus'а.
+Eppo: Maybe we should get more destructive... The demolition expert, Rhudya, is further down the cave.@Может мы должны быть более разрушительными... Мастер по разрушениям, Rhudya, находится внизу пещеры.
+Eppo: It's a long shot, but worth a try. Would you be able to get it while I clear this space?@Это большой риск, но нужно попробовать. Сможешь сходить туда, пока я тут все очищу?
+Rhudya: Whup! You're on private property, y'know! Oh, Eppo sent ya? That's fair enough.@Эй! Ты на частной территории! Ох, Eppo послал тебя. Ну тогда оправдан.
+Rhudya: You'll be needing this TNT then, make sure not to drop it though, whup!@Тебе понадобится этот TNT, только поосторожнее, смотри не урони его!
+Rhudya: Just travel through this cave and you'll be returned to Eppo easy-peasy!@Просто пройди по этой пещере и ты вернешься к Eppo - проще простого!
+Eppo: Very nice, this might do the trick.@Очень хорошо, это может сработать.
+Eppo: Back up, I'll ignite the explosive.@Отходи, я подожгу фитиль.
+Eppo: ...@...
+Eppo: NOTHING? Not even a scratch. I don't understand Theoricks ice.. It's not real@НИЧЕГО? Даже не единой царапины. Я не понимаю этот лед Theorick'а... он не настоящий.
+Eppo: I'm not sure what else we can do then...@Я даже не знаю что еще мы можем сделать...
+Rhudya: HEY, Eppo, over here! Near the cave!@ЭЭЙ! Eppo, сюда! Рядом с пещерой!
+Rhudya: Did the explosive not work? I found this old mineshaft on the way back from the cave, it leads to an old lava cavern.@Взрыв не помог? Я нашел старую шахту на обратном пути из пещеры, она ведет к старому озеру лавы.
+Rhudya: Might be a long shot, but this lava looks different. Why not give it a try?@Может, это и не поможет, но эта лава выглядит иначе. Почему бы не попробовать?
+Eppo: I don't understand how you can hold lava in a bucket.. But here we are.@Я не понимаю, как ты можешь хранить лаву в ведре... Но что есть, то есть.
+Eppo: Truth is.. We're not retrieving these bodies for no reason.@Правда в том... Что мы спасаем тех людей не просто так...
+Eppo: We believe one of these people worked for Theorick, and has a key to his mansion@Мы думаем, что один из тех людей работал на Theorick'а, и у него есть ключ к его поместью.
+Eppo: We in Nesaak think Theorick has a lot to answer for. We want to redistribute his wealth among those he hurt.@В Nesaak'е многие думают, что у Theorick'а есть много ответов. Мы хотим поделить его имущество между всеми, кому он навредил.
+Eppo: Right, I've dipped this stick in the magical lava. Just hold the rod and walk into the ice to melt it.@Правильно, я окунул эту палочку в магическую лаву. Просто держи палочку и продвигайся в лед, чтобы плавить его.
+Eppo: Look for the corpse with a key, it might be above you. Good luck!@Ищи мертвецов с ключом, они могут быть над тобой. Удачи!
+Eppo: Is that the right one? You got it? Brilliant! Now come back down.@Это точно он? Ты достал его? Замечательно! Теперь спускайся вниз.
+Eppo: Let's travel to the mansion together. Here, lets take my horse.@Давай отправимся в поместье вместе. Вот, возьмем мою лошадь.
+Eppo: While we ride, let me explain a little more about what we're doing. Let's go.@Пока мы едем, давай я побольше объясню, что мы будем делать. Поехали.
+Eppo: As I mentioned before, there is a reason this land is frozen, and it's not natural.@Как я уже упоминал ранее, есть причина, по которой эта земля заморожена, и она не естественная.
+Eppo: Many years before Bob was around, Wynn was in ruins due to the corruption war.@Много лет назад, еще до появления Bob'а, провинция Wynn была вся в руинах из-за войны с порчей.
+Eppo: In those times there used to be a group of naturally gifted individuals called the Twains. They defended us all with elemental magic.@В те времена была группа одаренных людей, которых звали Twain'ами. Они защищали всех нас используя магию элементов.
+Eppo: Theorick was one of those Twains. He harnessed unnaturally powerful ice based magic. He used it to protect the land surrounding the mansion.@Theorick был одним из Twain'ов. Он использовал неестественно мощную ледяную магию, чтобы защищать землю вокруг особняка.
+Eppo: Theorick.. Wasn't like the other Twains. He wanted the people he protected to pay and feed him as way of thanks.@Theorick.. Не был как другие Twain'ы. Он хотел, чтобы люди, которых он защищал, платили и кормили его в знак благодарности.
+Eppo: After years, Theorick was rich while the people he protected lived in poverty and fear - not only of the monsters but in fear of Theorick himself.@Спустя годы Theorick разбогател, в то время как люди под его защитой жили в нищете и страхе - они боялись не только монстров, но и самого Theorick'а.
+Eppo: He punished those who disobeyed his curfews and would get angry if anyone tried to move away, The people felt trapped.@Он наказывал тех, кто не подчинялся его комендантскому часу, и злился, если кто-то пытался уйти. Люди чувствовали себя в ловушке.
+Eppo: Eventually, just like the other Twains - Theorick fell to the corruption. Not before he had the last word.@Со временем, также как и остальные Twain'ы, Theorick пал против порчи. Но прежде он сказал свое последнее слово.
+Eppo: He froze the land entirely, killing almost everything and everyone left outside in it, Hundreds of lives were lost.@Он заморозил всю землю, убивая все и всех на своем пути. Сотни жизней погибли.
+Eppo: It turns out the ice slowed the spread of corruption across the land to almost a standstill. It's been this way ever since.@Оказалось, лед замедлил распространение порчи по всей стране, почти до полной ее остановки. С тех пор так было всегда.
+Eppo: Now that we can get in his mansion we hope to uncover the secrets of his ice magic so we may undo it, and share the wealth he hoarded from the people. Ah, we're here.@Теперь, когда мы можем попасть в его особняк, мы надеемся раскрыть секреты его ледяной магии, чтобы мы могли отменить ее и поделиться богатствами, которые он накопил от людей. Ах, мы приехали.
+Eppo: This place looks frozen in time.. The grandeur.. Well he did just take and take from everyone around him.@Это место выглядит так, будто оно выпало из времени...Величественно... Он просто забирал и забирал у всех, кто был вокруг него.
+Eppo: So, I'm not sure where to start, but I'm guessing he has some protection in place.@Я даже не знаю, с чего начать, но мне кажется, что у него явно есть защита здесь.
+Eppo: This is unbelievable.. He was such a greedy- AAAAH.@Это невероятно.. Он был такой жадный.- АААХ.
+Eppo: ... I don't think we should insult him..@... Не думаю, что мы должны оскорблять его..
+Eppo: Oof! Wasn't expecting that. That just proves everything I said about him. Punishing people who insult him.@Ух! Не ожидал этого. Это доказывает все, что я сказал о нем. Наказывал людей, которые его оскорбляли.
+Eppo: Anyway, we should look around for some kind of secret entrance.@В любом случае, нам нужно искать что-то похожее на секретный вход.
+Eppo: Trust Theorick to booby trap his own house the paranoid frozen gro- (Before finishing his sentence he falls down another trap)@Поверь, Theorick был очень большим параноиком, раз уж понаставил лову- (Прежде чем закончить предложение он упал в еще одну ловушку.)
+Eppo: Well we know that insults result in punishment. Maybe a compliment will make him happy?@Это совсем не смешно! Я ничего не вижу. Где мы теперь? В тупике?
+Eppo: Oh Theorick, strongest of all the twains, you really are a hero.@Ну, мы знаем что за оскорбления наказывают. Может комплимент здесь поможет?
+Eppo: Maybe n-@О Theorick, сильнейший из Twain'ов, ты по-настоящему герой.
+Eppo: Looks like we finally found his private quarters, look at that vault door.@Может не-
+Eppo: There must be a way to open it. Look around and see what you can find.@Похоже мы наконец нашли его секретную комнату! Посмотри на дверь.
+Eppo: You did it! We have access to the vault.@Должен быть способ открыть ее, поищи вокруг и посмотри, что можно сделать.
+Eppo: Wow, even by today's standards, this is a huge amount of money. Just think how much this was hundreds of years ago.@Ты сделал это! У нас есть доступ в хранилище.
+Eppo: Grab a little for yourself, too, we wouldn't have been able to get here without you.@Ух-ты, даже по сегодняшним меркам, это огромная куча денег. Просто подумай сколько все это стоило сотни лет назад.
+Eppo: Wait, look at this, It seems to be a piece of Theoricks armour.@Возьми немного и себе, ведь без тебя мы бы сюда не попали.
+Eppo: Surprised it even managed to fit over his fat head.@Стой! Смотри, это похоже на часть брони самого Theorick'а.
+
+General%27s_Orders.html
+Tylas: ZZZZZZZZzzzzzzZZZZZzzzzz...@ZZZZZZZZzzzzzzZZZZZzzzzz...
+Tylas: AAAHHHHH! You startled me! Sleeping? No, you must be mistaken. I have sworn to guard this fort at all costs, I would never even close my eyes!@ААААААА! Ты напугал меня! Спал? Нет, должно быть ты ошибся. Я обещал охранять эту крепость любой ценой, и никогда не смыкаю глаз!
+Tylas: The barracks is not currently operating, I'm afraid. General Lecade has all of the men working on all sorts of absolutely ridiculous tasks.@Казармы еще не используются, к сожалению. Генерал Lecade собрал всех мужчин, и заставляет их делать безумные задания.
+Tylas: You wish to help out? That is very kind of you to offer, but I'm not supposed to let anyone through aside from fellow soldiers.@Ты желаешь помочь? Это очень любезное предложение, но я не должен впускать никого, кроме сослуживцев.
+Tylas: Then again, General Lecade hasn't been himself lately. It probably won't even bother him if it means getting his work done.@Хотя, генерал Lecade странно себя ведет в последнее время. Он просил не беспокоить его, пока работа не будет выполнена.
+Tylas: I'll let you through, if you wish to help. Speak with General Lecade to find out what insane task he wants you to do, his office on the left side of the fort.@Но раз ты хочешь помочь, то наверно я впущу тебя. Поговори с генералом Lecade и узнай, какую работу он может тебе дать. Его офис с левой стороны крепости.
+Lecade: Who let you in here? Probably that private who I let guard this place, I'll bet that he was sleeping again. So what brings you here, anyways?@Кто впустил посторонних? Наверняка тот рядовой, которого я поставил охранять крепость, держу пари он опять спал на посту. Ладно, что тебе нужно?
+Lecade: So, you wanna help me with the work I need done? Sure, why not? I could use an extra hand around here!@Так значит ты хочешь помочь с работой? Конечно, почему бы и нет? Нам нужны дополнительные руки здесь!
+Lecade: All right, I need you to get to work straight away! You see... um... people reported some strange noises coming from the roof of a tower.@Хорошо, приступай сразу к работе! Как сказать... эм...люди сообщают о странных звуках, что исходят с крыши башни.
+Lecade: The tallest one in the fort, in fact. I need you to climb up it and make sure that the roof doesn't collapse.@В самой высокой башне крепости. Ты должен подняться на самый-самый верх и убедиться, что крыша не развалится.
+Lecade: To get to the tower, just go inside the Mountain Spring Tavern next door and climb up the ladder. Then keep going up the stairs from there.@Чтобы попасть в башню, зайди внутрь таверны Mountain Spring, что совсем рядом, и поднимись по лестнице. Затем продолжай свой путь наверх оттуда.
+Lecade: Now what are you waiting for? Get to work!@Ты еще здесь? Иди работай!
+Lecade: You're back already? You're telling me you climbed up the tallest tower in the entire fort and you're already back? Impossible!@Так быстро? Говоришь, что ты поднялся на самую высокую башню, и так быстро с нее спустился? Невозможно!
+Lecade: I mean, good work, soldier! While you were gone, some more work freed up. You see, I... accidentally dropped my good-luck charm into an aqueduct, it's in the sewers now.@В смысле, отличная работа, солдат! Пока ты ходил, появилась еще одна работа. Я... случайно уронил мой счастливый амулет в трубу, и теперь он где-то в канализации.
+Lecade: That charm brings me luck, you're going to have to dive into the sewers to retrieve it. I do know of a way you can enter them.@Амулет приносит мне удачу, ты должен спуститься в канализацию и найти его. Я не знаю путь, как туда попасть.
+Lecade: There's a crack in a pipe on the other side of town you should be able to use to enter the sewers. Now hurry up, standing around won't get me that charm!@Есть трещина в трубе, по другую сторону крепости, с помощью нее думаю можно пробраться туда. Быстрее, твое стояние на месте не поможет вернуть амулет!
+Lecade: What's with that gold thing? Oh, yes, my good-luck charm! Good work, soldier! There's yet another task for you, and I think you're fit for the job.@Что это у тебя в руках? Ах, да, мой амулет! Отличная работа, солдат! Есть еще одна работа для тебя, думаю ты подойдешь для нее.
+Lecade: There's a mountain near the town that's always looked rather dull to me. I want you to paint it a different color, make it look nice.@Есть одна гора рядом с крепостью, которая всегда смотрелась скучно для меня. Я хочу чтобы ты покрасил ее в другой цвет, что бы лучше смотрелась.
+Lecade: Yes, how about you paint it purple? I wrote the coordinates down in your quest book, so get to it!@Да, как насчет покрасить ее в розовый цвет? Я написал координаты в твоей квестовой книге, можешь идти!
+Lecade: You painted the mountain already? I can't believe this! How are you doing everything I order you to so quickly? You should be exhausted!@Ты уже покрасил гору? Не могу в это поверить! Как ты выполняешь все, что я приказываю так быстро? Ты наверно очень устал!
+Lecade: I mean, you have shown you are an extremely capable soldier! In fact, so capable, that I think you're ready for this next task.@В смысле, ты показал, что очень выносливый солдат! Думаю, настолько выносливый, что уже готов к следующему заданию.
+Lecade: I want you to walk across a tightrope to amuse your fellow soldiers. The coordinates are in your quest book, so go put on a show!@Я хочу, чтобы ты прошел по канату, чтобы развлечь своих товарищей солдат. Координаты в квестовой книге, так что давай, устрой нам шоу!
+Private: I'll bet you five emeralds he doesn't make it across.@Ставлю пять эмеральдов, что он не пройдет.
+Lecade: Wait, you actually went and did it? I didn't think anyone would do something so completely ridiculous!@Подожди, ты просто пошел и сделал это? Не думал, что кто-то сможет сделать это так смешно!
+Lecade: Fine, if you're still so eager to help after all of this, then I'll give you one last task to do.@Хорошо, если ты все еще хочешь яростно помочь после всего этого, у меня для тебя последнее задание.
+Lecade: I need you to destroy a wall in town so we can add another house. Lieutenant Gren is there to give you the details.@Нам нужно разрушить стену в городе, чтобы мы добавили еще один дом. Лейтенант Gren расскажет тебе детали.
+Gren: Stay away from this area! It's marked for demolition, we're just waiting for a soldier General Lecade sent in to do the job.@Отойди отсюда! Это место под снос! Мы ждем солдата, которого отправил генерал Lecade, чтобы сделать эту работу.
+Gren: Wait, you're supposed to be the one handling explosives? Well, better than me risking my own neck!@Подожди, ты умеешь работать со взрывчаткой? Отлично, значит я не буду рисковать своей головой!
+Gren: We have a soldier on the upper level ready to drop an explosive, he just needs the signal. Push that button and run before you're blown to bits!@У нас стоит солдат на верхнем уровне, готовый бросить динамит, просто подай ему сигнал. Нажми на ту кнопку и беги, если не хочешь, чтобы тебя порвало на куски!
+???: You were sent here under the orders of General Lecade? Seems that fool forgot he locked me up in here. Listen, that man can't be who he says he is, because...@Тебя отправили сюда по указанию генерала Lecade? Похоже этот глупец забыл, что запер тут меня. Послушай, этот человек не может быть тем, кем он себя называет, потому что...
+???: I am General Lecade.@Я и есть генерал Lecade.
+Lecade: I know that sounds preposterous. The man you spoke to looks exactly like me, doesn't he? Well, let me explain everything I know about that impostor.@Я знаю, это звучит нелепо. Человек, с которым ты говорил, выглядит как я, верно? Что же, дай мне объяснить все, что я знаю о этом мошеннике.
+Lecade: It is actually a rare Gavel creature called "Corpus Accipientis" or in layman's terms, a shape-shifter. It took my identity and locked me up in this cell.@Это редкое существо в Gavel'е, называемое "Corpus Accipientis", или другими словами - оборотень. Он забрал мою личность и запер меня здесь в клетке.
+Lecade: That thing loves to create mischief, it lives to make others' lives harder. It must be doing horrible thing to my loyal men, that beast!@Это существо любит дурачиться, делать жизнь других сложнее. Должно быть он делает ужасные вещи с моими солдатами!
+Lecade: I want you to kill it. I know a way into my office, or it's office now, from here. After all, I'm the one who had this place built.@Я хочу чтобы ты убил его. Я знаю путь в мой офис, вернее его офис, отсюда. Я помогал при строительстве этого места.
+Lecade: Hold down both wooden plates on the desks over there and a secret door should open. I'd follow you, but I am unable to leave this cell.@Брось предметы на эти нажимные плиты на столах вон там, и откроется секретная дверь. Я бы пошел с тобой, но не могу выбраться из этой клетки.
+Corpus Accipientis: So, looks like you've found me out. You know, all I wanted to do was control an army, I wasn't even going to kill anyone!@Значит, ты узнал всю правду. Вообще-то, я всего лишь хотел контролировать армию, я не хотел никого убивать!
+Corpus Accipientis: But you have to come in and ruin this, don't you? Such a shame, I was going to ask if I could borrow your form for a while.@Но ты пришел сюда и все разрушил, разве нет? Какая досада, я же хотел попросить одолжить у тебя твое тело.
+Corpus Accipientis: You know, defeating you will allow me to take your form and continue posing as the General. Yes, I'll use my true form to take you out!@Знаешь, победив тебя, я смогу забрать твое тело и продолжить быть генералом. Хорошо, я использую свою настоящую форму, чтобы разделаться с тобой!
+Lecade: Fear not, soldier! I am no slimy impostor, now bring me that shape-shifter's remains so I can lock them up!@Не бойся, солдат! Я больше не самозванец, так что принеси мне останки этого оборотня, хочу на него посмотреть!
+Lecade: Well, looks like you destroyed a big blob of slime and came back without a scratch. Now that's what I like to see.@Что же, похоже ты убил этого слизня, и вернулся сюда без единой царапины. Это то, что я и хотел увидеть.
+Lecade: I'm surprised you pulled that off, though. When I hunted that thing down, it managed to take my form. Guess I can learn a few tricks from you.@Я удивлен, что ты сумел это сделать. Когда я охотился на него, он забрал мою личность. Думаю, я могу подсмотреть у тебя пару трюков.
+Lecade: Well, at least that shape-shifter won't be taking anyone's body anymore. That thing already caused enough trouble when it only took mine, imagine if it took more.@Что же, похоже этот оборотень больше не доставит никому проблем. Он причинил уже достаточно неприятностей, когда был мной. Представь, если бы он собрал больше тел.
+Lecade: The soldiers understood the situation, luckily. Can't believe it got that far. I'll make sure nothing like that ever happens again!@Солдаты поняли эту ситуацию, к счастью. Надеюсь, этого больше никогда не повторится!
+Lecade: But enough of that, you helped out a tremendous deal. And for that you deserve a reward, I'll pay you a hefty sum for your troubles.@Но хватит об этом, ты оказал нам огромную услугу. Ты заслужил эту награду, я заплачу тебе кругленькую сумму за твои проблемы.
+
+Grand_Youth.html
+Monte: Oh, what am I to do...? How am I to be our next elder if I cannot even help him... Oh? Ehm, hello, stranger.@Ох, что же мне теперь делать...? Как я стану нашим следующим старейшиной, если даже не могу помочь ему... Эй? Ох, привет, незнакомец.
+Monte: You most likely heard me. Our elder has fallen ill of some vile disease... I am to be our next elder, but i am not yet ready.@Ты, скорее всего, слышал меня. Наш старейшина заболел какой-то мерзкой болезнью... Я должен стать нашим следующим старейшиной, но я еще не готов.
+Monte: We have tried everything we can think of, but our healers and shamans have failed to cure him. We had some hope, however...@Мы испробовали все, что можно придумать, но наши целители и шаманы не смогли вылечить его. Однако у нас есть надежда...
+Monte: A man in your city, Troms, insists that he sells healing water that could cure him, but he is selling it for an exorbitant price that we cannot afford!@Человек в вашем городе, Troms'е, настаивает на том, что он продает целебную воду, которая может вылечить его, но он продает ее за непомерную цену, которую мы не можем себе позволить!
+Monte: I do not know where else to turn. I must ask you for help. If you can purchase it, I am sure that we could find a way to repay you.@Не знаю, куда еще обратиться. Я должен попросить тебя о помощи. Если ты сможешь купить ее, я уверен, что мы найдем способ отблагодарить тебя.
+Salesman: Oh, why hello there! Come for my patented healing water, have you? Any problem instantly cured! Sniffles beware!@Ох, приветствую! Пришли за моей запатентованной целебной водой? Любая проблема мгновенно вылечится! Убережет от насморка!
+Salesman: You're quite lucky, I only have a couple of bottles left, so it won't go cheap, but this is the good stuff! Only [64 Liquified Emeralds]!@Вам очень повезло, у меня осталось всего пара бутылок. Да, это не будет стоить дешево, но это того стоит! Всего лишь [64 Жидких Эмеральда]!
+Salesman: What? Don't give me that look! This is the real stuff, very valuable and rare! What do ya take me for, some guy who'd sell lake water for a fortune?!@Что? Не смотри на меня так! Это настоящий товар, очень ценный и редкий! За кого ты меня принимаешь?! За парня, который продает озерную воду за целое состояние?!
+Salesman: Agh, agh! Put away the weapon! Put it away! Jeez, buddy! Alright, I admit it, I'm a fraudster! But, I do know where you get the real stuff, I ain't lying about that much.@Ах, ах! Убери оружие! Убери это! Боже, приятель! Хорошо, я признаю это, я мошенник! Но, я знаю, где ты получишь реальный товар, честно-честно.
+Salesman: There's this group of mages out in Dernel who know how to get the stuff. They're a bunch of tightwads and wouldn't get give me any real healing water to sell.@Есть группа магов в Dernel джунглях, которые знают, как достать товар. Но они кучка скряг и не дадут мне никакой настоящей целебной воды на продажу.
+Salesman: I doubt you'll have any better luck with it, but go on, try your luck.@Сомневаюсь, что тебе повезет больше, но попытай счастья.
+Isfurus: Hm, hm... If it really does that, then... Oh, is someone there? Erisk?@Хм, хм... Если это действительно так, тогда... Ой, кто здесь? Erisk?
+Isfurus: Oh, a tourist. Heard about the healing water, I presume? Well, if you are here to make a quick buck, you can turn right back around from where you came.@Ох, турист. Слышал о целебной воде, я полагаю? Ну, если ты здесь, чтобы быстро заработать, то можешь повернуть обратно и идти в то место, откуда пришел.
+Isfurus: Hm...ah. Iboju's sister settlement... I see. I will trust this is an honest venture, then. The tribesmen are honourable.@Хм...ох. Братское поселение Iboju...Понимаю. Что ж, тогда я поверю, что это честное начинание. Племена в почете.
+Isfurus: I will provide you a specially-prepared bottle to hold the water in. My colleague, Erisk, is within the fountain here. He can fill up the bottle for you.@Я дам тебе специально подготовленную бутылку для воды. Мой коллега, Erisk, находится здесь, в фонтане. Он может наполнить бутылку для тебя.
+Isfurus: There are a few animals in the fountain, however. They're wild and will most likely attack, but you look well-armoured. I doubt you'll have trouble.@Однако, в фонтане есть несколько животных. Они дикие и, скорее всего, нападут, но ты выглядишь хорошо бронированным. Сомневаюсь, что у тебя будут проблемы.
+Isfurus: The entrance to the heart of the fountain is right below us. Take a deep breath and dive right in.@Вход в самое сердце фонтана находится прямо под нами. Сделай глубокий вдох и нырни внутрь.
+Erisk: And who might you be? We certainly don't get many visitors down here.@И кто ты такой? У нас здесь не так много посетителей.
+Erisk: Aha, Isfurus referred you. Yes, let me bottle this up for you, then. Once I do, make sure you don't drop them! Both the bottles and the water are valuable and difficult to replace.@Ага, Isfurus упомянал тебя. Да, тогда позволь мне заполнить бутылку для тебя. Как только я это сделаю, убедись, что не разобьешь ее! И бутылка, и вода ценны - их трудно заменить.
+Erisk: But what a marvel this place is...water to cure all ailments, even aging! I even hear there is a similar fountain someplace in Gavel, can you believe?@Но что за чудо это место...вода лечит все недуги, даже старение! Я даже слышал, что где-то в провинции Gavel есть такой же фонтан, можешь поверить?
+Erisk: Oh, I nearly forgot. Just make sure to check back in with Isfurus before you leave! There is just one more step to the process he has to take care of.@Ох, чуть не забыл. Просто не забудь вернуться к Isfurus'у перед уходом! Есть еще один шаг в процессе, о котором он должен позаботиться.
+Isfurus: Aha. You had no trouble, I assume? Hand the bottle here, I'll finish the seal and remove the impurities...@Ага. Полагаю, у тебя не было проблем? Передай бутылку сюда, я ее запечатаю и удалю загрязнения...
+Isfurus: ...done. There is much potential here...ancient tribal markings repeat the word "youth" over and again. It could be used, or abused...@...Готово. В этом месте большой потенциал...древние знаки племен повторяют слово "Юность" снова и снова. Его можно использовать, или злоупотреблять им...
+Isfurus: Anyways, you have your water. Not to be rude, but I must ask that you leave me to my research now. You have your delivery to make anyway, correct?@В любом случае, у тебя есть вода. Не хочу показаться грубым, но я должен попросить тебя оставить меня и мое исследование. В любом случае, тебе еще нужно ее доставить, верно?
+Monte: You have returned, I see. Have you the healing water?@Я вижу ты вернулся. Целебная вода у тебя?
+Monte: Aha, perfect! If this not work, then...no, I must have faith.@Ага, отлично! Если это не сработает, тогда...нет, я должен верить.
+Monte: From the bottom of my heart, thank you. I know we surely will not be able to compensate you for the price of the water..@От всего сердца благодарю тебя. Я знаю, что мы не сможем компенсировать тебе стоимость воды..
+Monte: ... but here. This is the summation of our village's riches. For aiding us, consider it yours.@...но держи. Это богатства со всей нашей деревни. За помощь нам считай, что они твои.
+
+Grave_Digger.html
+Sayleros: You sure look like a strong adventurer who could help me!@Ты выглядишь как сильный путешественник, который может мне помочь!
+Sayleros: My name is Sayleros. I spent most of my life in Maltic, but decided to come live in Detlas with my family a few weeks ago.@Меня зовут Sayleros. Я провел большую часть своей жизни в Maltic'е, но все же решил переехать в Detlas со своей семьей пару недель назад.
+Sayleros: However, we got attacked by thieves on our way here, and I had to leave my family behind. Most of them died, unfortunately.@Однако, мы были атакованы ворами по пути сюда, и мне пришлось бросить свою семью. Многие из них погибли, к сожалению.
+Sayleros: I know that my brother had his will on him during the attack. Knowing he was a rich fellow, I expect to be receving a large part of his fortune.@Я знаю, что у моего брата было с собой завещание во время атаки. Зная, что он был богатым парнем, я рассчитываю получить большую часть его состояния.
+Sayleros: His body is buried somewhere in Nemract. I own a large graveyard there, and can grant you access to it if you can bring me back his will.@Его тело было погребено где-то в Nemract'е. У меня большое кладбище там, и я могу предоставить тебе доступ к нему, если ты принесешь мне его завещание.
+Sayleros: One of my other brothers also survived the attack. He isn't... um... somebody I'd trust greatly, but i'm sure he has some useful informations for you.@Один из моих братьев также пережил нападение. Правда он не один из тех... хм... кому я могу смело доверять. Уверен, что у него есть для тебя полезная информация.
+Sayleros: His name is Drucksh. He usually likes to talk a lot when he is drunk, see if you can do anything with that.@Его зовут Drucksh. Он обычно любит поболтать, когда пьян. Подумай, может ты сможешь сделать что-нибудь с этим.
+Sayleros: I'll be waiting for your return! Follow this path, it leads directly to Nemract. Good Luck!@Я буду ждать твоего возвращения! Следуй этой дорогой, она приведет тебя прямо в Nemract. Удачи!
+Drucksh: Mmh. g... uh! oh why hello there.@Ммм. о... Ух! Приветствую.
+Drucksh: My brother? Oh yes, I do know where he is "buried", but do I want to tell you? No, It's none of your business.@Мой брат? Ах да, я знаю, где он "погребен", но хочу ли я тебе это сказать? Неа, это не твое дело
+Drucksh: Ohh mmhhhgg... g-g-good old Nemract whiskey!@Охх ммхххггг... х-хо-хороший старый Nemract виски!
+Drucksh: F-fine! I guess it wouldn't h-h-hurt to tell...*burp*..you where it-it- he is...@Х-хорошо! Я думаю могу т-те-тебе сказать...*ик*..где-де он...
+Drucksh: It's in the old c-c-cathedral, at the end of the town. Walk east, it should be right after the b-b-bridge.@Он в старом с-со-соборе, в конце деревни. Иди на восток, он должен быть прямо после м-мо-моста.
+Drucksh: Though, the p-p-priest might not let you go in that easily...@Хотя св-свя-священник не даст тебе легко зайти туда...
+The Priest: Are you trying to go down into the crypt? Oh, that is a very bad idea.@Ты хочешь спуститься вниз в склеп? Ох, это очень плохая идея.
+The Priest: This place has been corrupted, and the dead came back to life. We had to break the stairs to protect this cathedral.@Это место было заражено порчей, и мертвые стали возвращаться к жизни. Нам пришлось сломать лестницу, чтобы защитить этот собор.
+The Priest: If you really want to enter it, I'd have to purify it so it doesn't corrupt you.@Если действительно хочешь войти туда, я должен буду освятить тебя, чтобы тебя не заразили порчей.
+The Priest: Bring me [12 Rotten Flesh], that should do it. Ancient Nemract is filled with zombies, it's toward the south-west.@Принеси мне [12 плоти зомби], этого должно хватить. Древний Nemract кишит зомбями, на юго-западе отсюда.
+Priest: You got the flesh. Good.@Ты принес плоть. Хорошо.
+Priest: It should be... "safe", now. Be very careful, you are entering at your own risk.@Теперь ты... "в безопасности". Будь очень осторожен, входи туда на свой страх и риск.
+Sayleros: Brilliant! It is a little bit dusty, but it will do the trick! Here, take these as proof of my gratitude.@Великолепно! Оно немного в пыли, но мне этого будет достаточно! Вот, возьми это, как доказательство моей благодарности.
+
+Green_Gloop.html
+Eluzterp: Oh, hey! You, adventurer over there! Would you mind helping me?@Эй ты! Да, я про тебя, путешественник! Не поможешь мне?
+Eluzterp: You see, this cave behind me has been troubling me for the past while now.@Понимаешь, пещера позади меня доставляет мне массу неудобств в последнее время.
+Eluzterp: There are special slimes that live in there, and they drop a certain goo that is quite a delicacy when brewed into a drink!@В ней живут особые cлизни, выделяющие специальную субстанцию, и по слухам это довольно вкусное лакомство, если сварить из нее напиток!
+Eluzterp: They are called Gooey Slimes, and should be at the very back. A friend of mine drinks the stuff like water, and he refuses to work without it.@Эти слаймы называются Gooey Slimes, и должны обитать в самом конце пещеры. Мой друг пьет его, как воду, и уже отказывается работать без него.
+Eluzterp: However, the slimes have gotten stronger about a month ago. I'm unable to retrieve it any more, I've come close to getting killed a few times!@Однако, эти слаймы окрепли около месяца назад. Я больше не могу добывать слизь, меня даже несколько раз чуть не убили!
+Eluzterp: You, however, seem much better equipped than I. Hopefully you can do it.@Однако, ты кажешься экипированным намного лучше меня. Надеюсь, хотя бы ты сможешь это сделать.
+Eluzterp: If you decide to help me, you'll need to obtain a special device for retrieving it, as the slime will dry up quickly in the air.@Если ты собираешься мне помочь, то тебе понадобится специальное устройство для сбора слизи, поскольку слаймы очень быстро высыхают на воздухе.
+Eluzterp: A... less fickle glassblower, Yodbon, can make it for you. He should be living in a house in front of the Almuj bank.@Эм... один менее противный стеклодув, Yodbon, может его изготовить. Он должен жить в доме напротив банка Almuj'a.
+Eluzterp: I'll need [8 Slimey Goo] since we'll need a big batch of drinks. If you help, I'll be sure to tell him, and he'll probably let you into his shop.@Мне необходимо [8 Вязкой слизи], так как нам понадобится большая партия напитков. Если ты поможешь, я обязательно расскажу ему, и он впустит тебя в свой магазин.
+Yodbon: Welcome to Yodbon's Glass Blowery, what can I do f-@Добро пожаловать в Yodbon's Glass Blowery, что я могу сделать дл-
+Yodbon: Oh, another stinkin' adventurer, eh...@Ох, очередной назойливый путешественник, ага...
+Yodbon: So many've been coming up to me recently, askin' for a bloody Slime Scooper...@С недавних пор меня докучает куча таких как ты. Всем нужен чёртов Совок для Слизи...
+Yodbon: Izzat brother o' mine stopped workin' again? I swear, he's addicted to that slop...@Izzat, брат мой, перестал снова работать? Клянусь, у него зависимость от этой помой...
+Yodbon: Anyways, for me to make you a scooper you'll need to get [5 Soft Sand].@Неважно, для изготовления совка мне нужно [5 Мягкого песка].
+Yodbon: Come back to me once you've gotten ahold of it. You can dig it up from those sand piles 'round the desert.@Приходи ко мне, как все раздобудешь. Ты можешь выкопать его из тех песчаных куч, раскиданных по пустыне.
+Yodbon: You've returned, I see.@Вернулся, как вижу.
+Yodbon: A'ight, fork 'em over and I'll make you the scooper.@Хорошо, сделаю я тебе совок.
+Yodbon: ..There you go. No idea why he wants that stuff though. Maybe it's an acquired taste...@...Вот, держи. Не знаю, почему он так его хочет. Может быть, все из-за странного вкуса...
+Eluzterp: Oh, you're back! Good to see you were able to get through there. Have you got a full Slime Scooper?@Ох, ты вернулся! Приятно видеть, что ты смог пройти через это. Твой совок для слизи полностью заполнен?
+Eluzterp: Hmm, yes, everything seems to be in order. Perfect!@Хмм, вроде бы все в порядке. Идеально!
+Eluzterp: Thank you very much. Finally, I'll be able to get him in gear again... Why are all Villagers so fickle like that?@Большое спасибо. Наконец-то, я смогу снова помочь ему подготовиться... И почему все жители так ненадежны как он?
+Eluzterp: Well, I suppose that's beside the point. I'll be sure to let him know you got him his most recent fix.@Что ж, я полагаю, это уже не относится к делу. Я обязательно сообщу ему, что ты уже решил его недавнюю проблему.
+Eluzterp: He hangs around in a little black stall in the bazaar, there's a basement to it. He should let you inside now.@Он тусуется в маленьком черном ларьке на базаре, там еще есть подвал. Теперь он может впустить тебя внутрь.
+Eluzterp: And, for your troubles, a little something from me as well.@И еще, за все твои проблемы, кое-что от меня тоже.
+
+Green_Skinned_Trouble.html
+Piere: Oh sweet baby bovine, my house, what am I going to do? Wait, who are you?@О нет, мой милый дом, что же мне теперь делать? Стой, ты кто?
+Piere: Oh, a human. Did the Llevigar authorities send you?@Ох, человек! Тебя прислали власти Llevigar'а?
+Piere: Detective Jackson has already been here. Not that he's doing anything.@Detective Jackson уже был здесь. Впрочем, он не сделал свою работу.
+Piere: An Orc managed to find some fire-imbued magical axe and burned down my house!@Какой-то орк нашел магический топор, наполненный огнем, и сжег мой дом!
+Piere: I don't know what to do, but maybe if you find Detective Jackson, he can tell you how you can help.@Я не знаю, что делать. Если ты найдешь Detective Jackson'а, он может сказать тебе, чем ему можно помочь.
+Piere: If the Orcs really got their hands on magical weapons, we're all in trouble.@Если орки и в правду раздобыли магические оружие, у нас у всех большие проблемы.
+Piere: I believe Detective Jackson is by his cart planning his next move. You can find him not far from here. I wrote the coordinates in your quest book for you.@Думаю, что Detective Jackson находится в своей телеге, планируя следующий ход. Ты можешь найти его, он недалеко от сюда. Я написал координаты в твоей квестовой книге.
+Detective Jackson: What to do, what to do! Oh! You startled me. You're a human, right?@Что же делать, что делать! Ох! Ты испугал меня. Ты человек, верно?
+Detective Jackson: This is perfect. Oh, Piere sent you? Wonderful! You would be the perfect weapon.@Прекрасно! Ох, Piere отправил тебя? Отлично! Ты можешь быть идеальным оружием.
+Detective Jackson: So, you probably already know, Orcs managed to get their hands on some powerful magic weapons from the armoury.@Итак, как ты уже наверно знаешь, орки смогли завладеть магическим орудием из нашей оружейной.
+Detective Jackson: There's a few problems. Firstly, we don't know where it is. Secondly, there are multiple Orc camps.@Есть несколько проблем. Во-первых - мы не знаем, где оно находится. Во-вторых - там очень много лагерей орков.
+Detective Jackson: Orcs have never used the axes before they got their hands on one of ours. I fear they are replicating it, but poorly.@Орки никогда не использовали топоры, до того момента, пока не завладели нашим. Боюсь, что они делают копии, но получается у них плохо.
+Detective Jackson: Fortunately, Orcs have about as much magical power as my over-sized nose. But still, we need to find out where they are keeping it.@Хорошо то, что у орков столько же магической силы, сколько и в моем носу. Но все же, нам следует найти место, где они прячут его.
+Detective Jackson: We have to do a bit of investigating. I need to get my hands on the axe heads the Orcs are currently using. From them, I can determine where they are getting their resources from.@Мы должны провести расследование. Я должен завладеть этим топором. С помощью него я смогу определить, где они берут ресурсы.
+Detective Jackson: I know the local geology, so it shouldn't be too difficult. But there is another problem. It would break the Llevigar-Orc ceasefire enacted a year ago.@Я знаю местную геологию, так что это будет не сложно. Но есть другая проблема... Это может нарушить договор, заключенный между Llegivar'ом и орками о прекращении сражений.
+Detective Jackson: That is where you come in. If you can bring me five axe heads from each of the camps nearby, we can work out where they are being made.@Вот для чего ты нужен. Если ты сможешь принести мне 5 лезвий топора из каждого лагеря неподалеку, мы сможем понять, где они были сделаны.
+Detective Jackson: There is a black, green, and red camp nearby to the north, south, and northwest. Get [5 Axe Heads] from each of them. If a human does it, it won't affect the treaty!@Есть черный, зеленый и красный лагеря на севере, юге и на северо-западе отсюда. Принеси мне [5 Лезвий топора] от каждого из них. Если человек сделает это - это не нарушит договор!
+Detective Jackson: Great, looks like all of these have their respective Orc camp symbols.@Прекрасно, похоже у каждого из них есть собственный символ лагеря орков.
+Detective Jackson: Hmm...Yes. These all seem to be made of the same material...@Хмммм...да. Они все сделаны из одного материала...
+Detective Jackson: I still can't believe they got their hands on a flaming axe. Sloppy security. They must have got in while the power was acting up in Llevigar.@До сих пор не могу поверить, что они завладели огненным топором. Небрежная охрана. Похоже они выкрали его, пока власти разбирались с энергетическими проблемами Llegivar'а.
+Detective Jackson: Anyway, this is made up of a particular rock type. The closest source is under a small lake nearby.@Так или иначе, они сделаны из особенной породы. Ближайший источник находится под небольшим озером неподалеку.
+Detective Jackson: It's northwest of here. They must have found a cave underneath there.@Оно находится на северо-западе отсюда. Под ним есть пещера.
+Detective Jackson: They'll never actually recreate the axe's properties, but we need to retrieve it all the same. Good luck!@Они никогда не смогут повторить свойства топора, но нужно вернуть его в любом случае. Удачи!
+Detective Jackson: Ouch! Yep, that's the right axe. Hot to the touch. Well done! What Orc boss possessed this?@Ай! да, это правильный топор! Горяч при прикосновении. Хорошо сработано! Что за босс орков владел им?
+Detective Jackson: Gregg'r? Never heard of him. Orc scum like him aren't important anyway.@Gregg'r? Никогда не слышал о таком. Оркские отбросы, вроде него, нам не важны.
+Detective Jackson: You've done a great service to Llevigar! Take this reward.@Ты сделал хорошую услугу Lliegivar'у! Возьми эту награду.
+
+Haven_Antiquity.html
+Cinfras: Hey there adventurer, can I speak with you for a second? I need you to do a spot of detective work for me.@Привет путешественник, могу я поговорить с тобой на секунду? Ты нужен мне, чтобы сделать одну детективную работу для меня.
+Cinfras: My grandfather once told me how beautiful this place was, and how to visit here if I wanted to relax.@Мой дед рассказывал мне, как здесь раньше было красиво, и как здесь можно было приятно отдохнуть.
+Cinfras: But as you can see, this island is the least bit relaxing. It is a sorrowful place, corrupted and dark.@Но, как можешь видеть, этот остров начал загнивать. Это скорбное место, испорченное и темное.
+Cinfras: This can't be right. My grandfather was an honest man, he wouldn't have lied.@Но так быть не должно. Мой дед был честным человеком, он бы не лгал.
+Cinfras: I figure something must have happened. I really want to know how it got like this.@Думаю, что-то случилось здесь. Я действительно хочу знать, что произошло с ним.
+Cinfras: There's an old creepy man living up on that hill in a big mansion who seems just old enough to know what happened. It might be a good place to start.@Есть один старый жуткий человек, живущий на холме в большом особняке, который, кажется, достаточно стар, чтобы знать что тут случилось. Можешь поискать там, для начала.
+Old Siwel: What do you want? I'm busy. Brewing potions takes focus, you know...@Чего ты хочешь? Я занят. Варка зелий требует внимания, ты же знаешь...
+Old Siwel: Oh you want to know about the island's history? Well you certainly came to the right man. I've lived here for a very long time.@Ах, ты хочешь узнать об истории острова? Ну тогда, конечно, ты пришел к правильному человеку. Я жил здесь в течение очень долгого времени.
+Old Siwel: There is a way for you to see for yourself what happened here. It's quite... an interesting tale too.@Есть один способ, чтобы увидеть, что здесь произошло. Это довольно... интересный рассказ.
+Old Siwel: I'd sit and tell you, but I think you might get a better experience first hand...@Я могу сидеть и рассказывать тебе, но думаю, что лучше получить опыт из первых рук...
+Old Siwel: Using some of the more... frowned upon methods in the alchemists library I am able to send you into the 'memory' of a dead person that lived here at the time.@Используя одно заклинание... которое нашел в алхимической библиотеке, я могу отправить тебя в 'память' умершего человека, который жил здесь в то время.
+Old Siwel: It will require a little work from you though, if you wish to proceed...@Это потребует немного работы от тебя, если решишь согласиться...
+Old Siwel: Bring me [3 Umbral Essences] and I will be able to cast a spell on you which will allow you to pass into the 'memory' of the deceased.@Принеси мне [3 Umbral Essences] и я смогу наложить на тебя заклинание, которое позволит пройти в "память" покойного.
+Old Siwel: Excellent. You acquired the ingredients. Just give me a second and i'll[sic] prepare you for your journey into the mind of the dead.@Отлично! Ты принес ингредиенты. Просто дай мне секунду, и я подготовлю тебя к путешествию в память мертвых.
+Old Siwel: M??u??????b?????l?e?????s????? ????a???? ????s????t?r????a??n?g?e?????,?? ????d?????e??a??d??? ???l?????a???n????g??u???a????g???????.???.????.???@[Поврежденное Сообщение]
+Old Siwel: ?????u???m????b?????l?????e?s????? ???a???? ??s????t???r????a????n?????g??????,????? ??d????e??a???? ???l?a?n???g??u????a????g?e?.????.??@[Поврежденное Сообщение]
+Old Siwel: There, look into my eyes. Yes, you're ready. Ah, there is a drawback though...@Так, посмотри в мои глаза. Да, ты готов. Правда, есть один недостаток...
+Old Siwel: Once you are inside the memory, it will feel like you are actually there. You won't be able to return until you have succeeded in your task.@Как только ты окажешься внутри памяти, он будет чувствовать, что происходит. Ты не сможешь вернуться, пока не выполнишь свою задачу.
+Old Siwel: To enter the memory, you need to find the dead man at the end of the crypt in the graveyard.@Чтобы войти в память, нужно найти мертвеца в конце склепа на кладбище.
+Old Siwel: The dead roam those caves in heavy numbers, so watch your step.@Мертвые бродят рядом со склепом, так что будь осторожнее.
+Old Siwel: Oh and one more thing, If[sic] you die in the memory, you die in reality too....@О, и еще одна вещь - если ты умрешь в памяти, то ты умрешь и в реальности тоже...
+Old Siwel: Best of luck....@Желаю удачи...
+Siwel: Oh hello there. Would you mind helping me with something for a second?@Ой, привет! Не мог бы ты помочь мне с кое-чем на секунду?
+Siwel: Recently, some strange things have been happening to the miners around here. New diseases, unexplained disappearances, and things like that.@Недавно, какие-то странные вещи начали происходить с шахтерами здесь. Новые болезни, необъяснимые исчезновения и тому подобное.
+Siwel: The villagers have been getting very worried. So, in an attempt to protect the island, I bought a strange egg and placed it in a cave close to town.@Жители начали сильно переживать. Так, в попытке защитить остров, я купил странное яйцо и положил его в пещере рядом с городом.
+Siwel: The egg, however, isn't what I thought it was. It is producing monsters and giving off some sort of dark aura.@Яйцо, однако, оказалось не тем, о чем я думал. Оно производит монстров и выделяет какую-то темную ауру.
+Siwel: I want you to got check out that egg. See if you can get rid of whatever it is producing. Bring me [5 Monster Hides] as evidence.@Я хочу, чтобы ты проверил это яйцо. Вдруг мы сможем избавиться от всего, что оно производит. Принеси мне [5 шкур монстров] в качестве доказательств.
+Siwel: You're back! Were you able to stop that egg?@Ты вернулся! Удалось ли тебе остановить это яйцо?
+Siwel: No? Well, I guess we'll have to wait and see what it hatches into.@Нет? Ну, я полагаю, нам придется подождать и посмотреть, что из него вылупится.
+Siwel: I see you got some rather rare dark monster hide. Maybe I could use those in a potion for something, maybe to prolong life.@Вижу, ты достал довольно редкие шкуры темных монстров. Может быть, я мог бы использовать их в зельеварении, чтобы продлить жизнь.
+Siwel: Some of the villagers believe that it is unwise for myself to dabble in the dark arts, dealing with mysterious eggs and brewing potions of death.@Некоторые жители считают, что не стоит баловаться темной магией, касающейся таинственного яйца и странных зелий.
+Siwel: I'll outlive them all, you'll see!@Я переживу их всех, вот увидишь!
+Siwel: As for you, you have done what I asked. You may return to your personal affairs now.@Что касается тебя, то ты сделал что я просил. Можешь вернуться к своим личным делам.
+Siwel: Thank you for your work, though. Only time will tell what that egg will hatch into.@Спасибо тебе за работу. Только время покажет, что вылупится из этого яйца.
+Old Siwel: What? You... you made it back? Oh... Very well. Alchemy can be a... dangerous practice.@Что? Ты... ты вернулся? Ох... очень хорошо. Алхимия может быть... очень опасной.
+Old Siwel: Anyone who tried to find out the island's history came to me at some point, and I sent them on a one way street to a memory. But not you...@Всех, кто пытался узнать об истории острова, я посылал куда подальше. Но только не тебя...
+Old Siwel: So now you know my dreadful secret, I am racked with guilt and cursed with eternal life.@Итак, теперь ты знаешь мою страшную тайну. Я живу с чувством вины и проклятием вечной жизни.
+Old Siwel: There is no need to fight me, I am suffering enough for what I... wrought on this island.@Нет необходимости драться со мной. Я страдаю достаточно за то, что... сделал с этим островом.
+Old Siwel: I could not destroy the egg. It hatched into a... monstrous beast that cursed this island until this very day.@Я не смог уничтожить яйцо. Оно вылупилось в... чудовищного зверя, что проклинает этот остров и по сей день.
+Old Siwel: A powerful warrior from... Ragni slew the beast, yet the island did not rejuvenate...@Сильный воин из... Ragni убил зверя, пока остров окончательно не разрушился...
+Old Siwel: I leave the bones of the beast as a reminder of my failure, the destruction it brought still... lingers in the monsters it left behind.@Я оставил кости зверя, как напоминание о моей неудаче. Разрушения, которые он принес... до сих пор напоминают мне об этом...
+Old Siwel: So adventurer, now you have the knowledge of what I have done. You may tell the others down in the village, as it is no longer a secret.@Теперь, искатель приключений, ты знаешь, что я сделал. Можешь рассказать остальным, снизу на острове... теперь это больше не секрет.
+Cinfras: So, did you find out what happened?@Итак, ты выяснил, что случилось?
+Cinfras: Siwel was the one who caused this sorrow? He does have a very dark presence about him, doesn't he?@Siwel был тот, кто вызвал это все? Мне кажется, в нем присутствует что-то темное, не так ли?
+Cinfras: Thank you for your work! I know it must have been tough getting that out of him.@Спасибо тебе за работу! Я знаю, ты должен был получить это от него.
+Cinfras: Now that this mystery is solved I will be returning home. I hope we will meet again!@Теперь, когда эта загадка решена, я смогу вернутся домой. Надеюсь, что однажды мы встретимся снова!
+
+Heart_of_Llevigar.html
+Zenam: Uh, no. Oh this doesn't make any sense! What idiot designed this?@Ох, нет! Что это за безобразие! Какой идиот сконструировал это?
+Zenam: Oh, hello there. Sorry, the power plant is closed for maintenance.@Ох, привет. Прости, но наша электростанция на технических работах.
+Zenam: Or are you the expert we're paying a fortune to fix our issue? You are?@Или ты тот самый эксперт, которому мы платим большие деньги, чтобы решить проблему? Ты, да?
+Zenam: Well, I wasn't expecting a human. This system is top-tier villager engineering from years ago.@Что же, я не ждал человека. Эта система была разработана лучшими инженерами давным давно.
+Zenam: The system was so perfect, no one has had to touch it in centuries, until now.@Система работала безотказно, к ней даже никто не прикасался до этого момента.
+Zenam: Hear that? We don't have much time until full meltdown! There is an entrance to the power plant opposite the bank. Tell the Head Engineer I sent you!@Слышал это? Если мы не успеем сделать всё - то расплавимся! Вход на электростанцию напротив банка. Поговори с §3Head Engineer§a и скажи ему, что я тебя отправил!
+Head Engineer: Ah, you must be the expert. Did Zenam tell you about the entrance? It took us two weeks just to find it.@Ах, должно быть ты и есть тот эксперт. Zenam говорил тебе о входе? Мы искали его две недели.
+Head Engineer: No one has looked after this place in hundreds of years. My great grandfather was the last known engineer that understood this place.@Никто не заходил сюда сотни лет. Мой дед был последним инженером, знающим о работе этого места.
+Head Engineer: I had the easiest job ever, until the power started going haywire. Now all the blueprints are lost and no one understands this magical technology.@У меня была самая лёгкая работа в мире, до того как с электростанцией что-то случилось. Сейчас все чертежи утеряны и никто не знает, как действует эта магическая технология.
+Head Engineer: I'm not sure how a human like yourself is an expert on this, but I'm not one to take away responsibility from someone else.@Я не уверен, что такой человек как ты, смог стать экспертом в этом, но думаю лучше тебе заняться этой работой.
+Head Engineer: I guess you can start with the weird holes around the plant, they seem to lead to various parts of the system. See the one on the opposite wall? That's one of them.@Думаю что нужно начать с дыр в стенах, похоже они ведут в разные части системы. Видишь ту дыру в стене? Это одна из них.
+Head Engineer: If you find the right one, I guess you can find the power source. However these holes do not work in both direction, you might end up somewhere else when you step back.@Если ты найдешь правильную, то думаю, сможешь найти и источник питания. Однако эти дыры не работают в обе стороны, и ты можешь оказаться где-то еще, если пойдешь назад.
+Head Engineer: What did you find? What does it look like? I admit, I've never even seen it..@Что ты нашёл? Как это выглядело? Я признаю, что никогда этого не видел..
+Head Engineer: A room with a blue beam inside it? And it said >High Voltage<? Oh boy. My grandfather told me a story about overloads in the system.@Комната с синим лучом в центре? И там написано >Высокое напряжение<? О боже. Мой дед рассказывал мне истории о перегрузках в этой системе.
+Head Engineer: It's a fault in the system. The chances are so slim that it was approved for construction anyway, but it could lead to the destruction of Llevigar.@Это недоработка системы. Маловероятно, что это является основной причиной, но как бы то ни было, это может привести к разрушению Llevigar`а.
+Head Engineer: Of course, you already knew that, being the expert. I guess you will want to reset the system. Thank heavens there is a reset button. It's supposed to be idiot proof.@Конечно же ты знаешь об этом, ведь ты эксперт. Думаю ты хочешь перезагрузить систему. Как хорошо что там есть кнопка сброса. Но ты наверно и сам об этом знаешь.
+Head Engineer: I have no idea how to navigate the system, but your best bet is to head up those stairs.@Я не знаю, как добраться до кнопки перезагрузки, но думаю что путь к ней где-то выше по лестнице.
+Head Engineer: There is an entrance up there with an awful buzzing noise coming from it. Good luck.@Вход находится там, откуда исходят ужасные звуки. Удачи.
+Head Engineer: What's that? You did it? Well, obviously. The system seems to be returning to normal.@Что? Ты это сделал? Прекрасно, система снова работает стабильно.
+Head Engineer: Let's hope that in a couple hundred years, the next generations know how to deal with it. Maybe I should write it down, nah I'm sure it won't happen again.@Надеюсь, что так будет ещё сотни лет, и что следующие поколения разберутся с этой электростанцией. Может быть мне записать инструкцию, хотя не думаю, что это произойдёт снова.
+Head Engineer: You should go back to Zenam, he will have your contract payment. I had my doubts about a human expert on magical villager technology, but you really pulled through. The exit is through the sewers.@Ты должен вернуться к Zenam`у, он тебе заплатит. Я сомневался, что человек сможет разобраться в магической технологии жителей - но ты смог! Выход прямо по тоннелю канализации.
+Zenam: Ah welcome back. The power is back and levels are returning to normal. Someone came in earlier claiming to be the power expert, but I told them you were already here.@Ах, ты вернулся! Уровень энергии в норме. Тут приходил какой-то другой эксперт, но я сказал ему, что эксперт уже на месте.
+Zenam: He was clearly here just to take the contract money. Anyway, here you are. You may have saved Llevigar from implosion, we really should have paid you more, but that's all we can afford.@Они хотели только получить денег! Как-бы то ни было, ты тут. И спас наш город. Мы бы заплатили тебе больше, но не можем.
+Zenam: Well, that's all then. I hope we won't need you in the future.@Это всё. Надеемся, что больше нам не понадобится твоя помощь.
+
+Hollow_Sirene.html
+Lalorie: Hello? I'm sorry, you are going to have to speak up. My hearing is terrible these days.@Привет? Прошу прощения, ты можешь говорить погромче? Мой слух ужасен в последние дни.
+Lalorie: I went to the healer in Cinfras but he said without knowing the cause, he can not help me.@Я ходил к доктору в Cinfras, но он сказал, что без установления причины, он не может мне помочь.
+Lalorie: I thought at first it might have been the so called "decay" of the forest. But it started when a strange hole appeared nearby below a dead tree.@Сначала я подумал, что это могло быть из-за 'заражения' леса. Но это началось, когда странная дыра появилась рядом, под мертвым деревом.
+Lalorie: I went to investigate, but before I could get close, I heard a strange scream coming from deep within the cave. It was far away, so it wasn't loud, but my hearing has been weak ever since.@Пошел разбираться, но прежде чем я смог приблизиться, я услышал странный вопль, доносящийся из глубины пещеры. Он был далеко, так что это было не громко, но после этого мой слух слаб до сих пор.
+Lalorie: Maybe you could investigate for me? I need to know what's down there if I'm ever going to be cured.@Может быть, ты мог бы расследовать это для меня? Мне нужно знать, что там внизу, если я собираюсь когда-нибудь излечиться.
+Laloire: The cave is very close by straight northwest of here, just leave my cottage and find the tree surrounded by stumps.@Пещера очень близко, по прямой к северо-западу отсюда. Выйди из моего дома и найди дерево в окружении пней.
+Lalorie: Eh? Sorry, I can't hear you again. Speak up!@АА? Извини, я тебя не слышу. Говори громче!
+Lalorie: The ice cream is proud? What?@Звонкий клик? Что?
+Lalorie: Oh, the scream is loud. Yeah, well I could have told you that!@Ох, громкий крик. Да, мог бы сразу так и сказать!
+Lalorie: Sounds like you heard the same thing I did. We need to find out what it is!@Похоже, ты услышал то же самое, что и я. Мы должны выяснить, что это такое!
+Lalorie: Can you replicate the noise it made? Even approximately might help.@Можешь ли ты воспроизвести этот крик? Хотя бы примерно.
+Lalorie: ... Okay, okay. Stop. It sounds so unholy. We should ask the pastor of the forest what he thinks.@... Ладно, ладно. Хватит. Это звучит так страшно. Мы должны спросить пастора леса, что он знает об этом.
+Lalorie: His name is Nitram and he should be on duty at the cemetery at this time. It's just a short walk north east of here.@Его зовут Nitram и он должен дежурить на кладбище в это время. Иди на северо-восток отсюда.
+Nitram: What are you doing here, my child? This forest is cursed. It is not safe.@Что ты здесь делаешь, дитя мое? Этот лес проклят. Здесь не безопасно.
+Nitram: Nothing holy is left here. Nothing I do will bring back life to anything here.@Ничего святого не осталось здесь. Я ничего не могу сделать, чтобы вернуть сюда жизнь.
+Nitram: How can I help you? Oh, Laloire sent you. I already told him I couldn't help him.@Как я могу помочь тебе? Ох, Laloire тебя прислал. Я уже сказал ему, что не могу ему помочь.
+Nitram: Wait, you heard it too? Are you able to make the noises?@Подожди, ты тоже это слышал? Можешь повторить?
+Nitram: ....@....
+Nitram: I believe I know what that is.@Кажется, я знаю, что это такое.
+Nitram: It's a Banshee. If you are close enough to one, the scream can kill you. I know what we can do.@Это Банши. Если быть достаточно близко к одной, то крик может убить тебя. Я знаю, что мы можем сделать.
+Nitram: If we don't kill the Banshee, it will work its way through the whole forest.@Если мы не убьем Банши, то они пророют свои пути через весь лес.
+Nitram: A paranoid scientist screamed about banshees for years, and no one believed him. He died a while ago, but his will insisted we bury him with his earmuffs.@Параноидальный ученый кричал о Банши в течение многих лет, но никто не верил ему. Он умер некоторое время назад, но его воля настояла на том, чтобы его похоронили вместе с наушниками.
+Nitram: If we can retrieve them, they will protect you against the banshee's scream. The problem is, I don't know where he was buried. Find a way into his tomb, and you will be able to take on the Banshee.@Если мы можем получить их, они защитят тебя от крика Банши. Проблема заключается в том, что я не знаю, где он был похоронен. Найди путь в его могилу, и ты сможете взять его наушники к Банши.
+Chielma: We honor our spirits by lighting a torch at their grave.@Мы чтим наших духов, зажигая факел на их могиле.
+Laloire: Hello again! You what? The man-she was poorly done?!@И снова здравствуй! Ты что? В баню шли?
+Laloire: It was a Banshee?! Oh my word. No wonder the healer didn't know what to do!@Аа, Банши?! Понятно. Неудивительно, что целитель не знал, что делать!
+Laloire: And what's this?! You killed it?! You're crazy! I didn't expect you to go in the cave and fight anything!@И что?! Ты убил ее?! С ума сошел! Я не ожидал, что ты идешь в пещеру чтобы бороться с ней!
+Laloire: But at least I can take this to the healer, I bet it can be used to cure me!@Но, по крайней мере я могу принести это к лекарю. Держу пари, он может использовать это, чтобы вылечить меня!
+Laloire: Thank you so much! I didn't even ask your name, what is it?@Огромное спасибо! Я даже не спросил твое имя, как ты говоришь тебя зовут?
+Laloire: Deren Teena? Carline Chena? Thwan Yahya? Oh I can't hear you. Anyway, it doesn't matter. Here take this, you really deserve it.@Deren Teena? Carline Chena? Thwan Yahya? Ох, я не слышу. В любом случае, это не имеет значения. Вот возьми, ты действительно это заслужил.
