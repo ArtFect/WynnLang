@@ -51,3 +51,4 @@ Did you mean (.*)\? If not, type /help to see the commands!@§4Ты имел в 
 (.*): I'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
 (.*): Thank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
 (.*)'s bomb has expired. You can buy XP bombs at our website, wynncraft.com\/store@§7(r1) бомба закончилась. Ты можешь купить Xp бомбу на нашем сайте §6wynncraft.com/store
+Seaskipper Captain: Where are ya headed? (r1), huh? A'ight! I'll get ya there in no time.@§2Seaskipper Captain: §aКуда ты направляешься? (r1), да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
