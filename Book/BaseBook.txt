@@ -60,7 +60,7 @@ Talk to Dr. Urelix in his office@Поговори с Dr. Urelix'ом в его �
 Either take the bribe or return to Detective Hart@Возьми взятку или вернись к Detective Hart'у
 
 Arachnids%27_Ascent.html
-Speak to Captain Enduyn at@Поговори с Капитаном Enduyn'ом
+Speak to Captain Enduyn@Поговори с Капитаном Enduyn'ом на
 Enter and climb Mount Wynn through the cave@Войди и заберись на вершину вулкана Mount Wynn через пещеры
 Collect the lava from Mount Wynn@Собери лавы из Mount Wynn
 Report to Captain Enduyn with the lava@Вернись к Капитану Enduyn'у с лавой
@@ -301,12 +301,12 @@ Leave Garaheth and exit his realm@Выйди из Garaheth'а и покинь е
 Speak with the King of Rodoroc and the Dogun Chieftain@Поговори с King of Rodoroc и Dogun Chieftain'ом
 
 Dwelling_Walls.html
-Talk to Leucsaa in front of the broken house@Поговори с Leucsaa у входа в дом
+Talk to Leucsaa@Поговори с Leucsaa на
 Find Leucsaa's journal@Найди журнал Leucsaa
 Return to Leucsaa with her journal@Вернись к Leucsaa с журналом
 
 Elemental_Exercise.html
-Talk to Ragon on the south-east end of the Nivla Forest at@Поговори с Ragon'ом на юго-востоке от леса Nivla 
+Talk to Ragon on the south-east end of the Nivla Forest@Поговори с Ragon'ом на юго-востоке от леса Nivla
 Test your ✹ Fire based weapon on the captured creature by the tree@Протестируй свое огненное оружие на монстре у дерева
 Bring Ragon 10 Scorched Roots from the cave@Принеси Ragon'у [10 выжженных корней] из пещеры
 Find another way out of the cave@Найди другой выход из пещеры
@@ -479,7 +479,7 @@ Go deeper into the cave and stop the Fleris Sludge from burning the roots@Угл
 Return to Anrod with 1 Fleris Cream to prove you solved the problem@Вернись к Anrod'у с 1 Кремом Fleris'a для доказательства решения проблемы
 
 Frost_Bite.html
-Find Eppo at @Найди Eppo на
+Find Eppo@Найди Eppo на
 Go deeper into the cave and speak to Rhudya@Пройди вниз по пещере и поговори с Rhudya
 Return to Eppo with the tnt@Вернись к Eppo с динамитом
 Travel to the lava springs through the mineshaft@Пройди к озеру лавы через шахту
@@ -516,14 +516,14 @@ Talk to Isfurus for Erisk@Поговори с Isfurus'ом по просьбе E
 Give the bottle of healing water to Monte@Отдай бутылку с лечащей водой Monte
 
 Grave_Digger.html
-Talk to Sayleros by the North gate of Detlas@Поговори с Sayleros'ом у северных ворот Detlas'а
+Talk to Sayleros in Detlas@Поговори с Sayleros'ом в Detlas'е на
 Find a way to make Drucksh talk in Nemract about Sayleros' dead brother@Найди способ разговорить Drucksh'a в Nemract'е насчет смерти брата Sayleros'a
 Talk to The Priest in the cathedral at Saint's Row@Поговори с The Priest в соборе на кладбище Saint's Row
 Bring 12 Rotten Flesh to The Priest@Принеси 12 плоти зомби священнику
 Kill Sayleros' Brother to retrieve his will and bring it back to Sayleros@Убей Sayleros' Brother, получи завещание и принеси его обратно к Sayleros'у
 
 Green_Gloop.html
-Talk to Eluzterp at @Поговори с Eluzterp'ом на
+Talk to Eluzterp@Поговори с Eluzterp'ом на
 Talk to Yodbon in Almuj@Поговори с Yodbon'ом в Almuj'е
 Bring back 5 Soft Sand to Yodbon@Принеси 5 мягкого песка Yodbon'у
 Enter the Slime Cave behind Eluzterp and collect 8 Slimey Goo@Войди в Пещеру слизней позади Eluzterp и собери 8 вязкой слизи
@@ -611,7 +611,7 @@ Talk to Ragni's King@Поговори с Королем Ragni
 
 Kingdom_of_Sand.html
 Find out what's going on at the Sand-Swept Tomb@Узнай, что происходит возле данжа Sand-Swept Tomb
-Attempt to enter the outlaw's hideout@Попытайся войти в убежище преступников
+Attempt to enter the outlaw's hideout@Попытайся войти в убежище преступников на
 Meet with Geo & Tarek at the exit@Встреться с Geo и Tarek'ом на выходе
 Sneak into the highest room of the Rymek mansion@Проникни в комнату поместья Rymek'а на последнем этаже
 Talk to the Vault Guard to enter the hideout@Поговори с Vault Guard и войди в убежище
@@ -666,11 +666,11 @@ Find the Book of Bones in the tower@Найди книгу костей в баш
 Bring back the book to Laen@Принеси книгу обратно к Laen'у
 
 Macabre_Masquerade.html
-Find the Mask Salesman at his caravan@Найди Mask Salesman'а возле каравана
+Find the Mask Salesman at his caravan@Найди Mask Salesman'а возле каравана на
 Find the Haunted Mask and bring it back to the Mask Salesman@Найди маску и верни ее Mask Salesman'у
 
 Maltic%27s_Well.html
-Talk to Rynend in Maltic@Поговори с Rynend'ом в Maltic'е
+Talk to Rynend located in Maltic@Поговори с Rynend'ом в Maltic'е на
 Investigate the old Maltic well and bring [1 Witch's Empty Bottle] to Rynend@Посети старый колодец и спаси сына Rynend'а
 
 Master_Piece.html
@@ -747,7 +747,7 @@ Confront Rohem about the murder at house N.09 in Cinfras@Допроси Rohem'а
 Acquire the murder weapon in Rohem's room, and talk to Captain Lorias to claim your reward@Добудь орудие убийства в комнате Rohem'а, и поговори с Captain Lorias'ом, чтобы получить награду
 
 Mushroom_Man.html
-Talk to Yahya "The Mushroom Man" in Nivla's Forest at@Поговори с Yahya "Грибной человек" в лесу Nivla 
+Talk to Yahya "The Mushroom Man" in Nivla's Forest@Поговори с Yahya "Грибной человек" в лесу Nivla
 Bring back 1 Red Mushroom and 1 Brown Mushroom to Yahya@Принеси 1 Красный гриб и 1 Коричневый гриб к Yahya
 Bring back 3 Brown Mushrooms and 3 Red Mushrooms to Yahya@Принеси 3 Коричневых гриба и 3 Красных гриба к Yahya
 Bring back 1 Bowl to Yahya to complete the quest@Принеси 1 Миску к Yahya, чтобы завершить квест
@@ -790,7 +790,7 @@ Find the treasure using the clue: "Beneath the cowl of the eastern titan, keepin
 Return to Damiral about what you found@Вернись к Damiral'у с тем, что нашел
 
 Pit_of_the_Dead_(Quest).html
-Talk to Merloni at the Pit of the Dead@Поговори с Merloni возле ямы смерти
+Talk to Merloni@Поговори с Merloni на
 Explore the pit and find the hidden Shrine, then report back to Merloni@Спустись вниз в яму и найди тайную святыню, затем сообщи Merloni
 
 Poisoning_the_Pest.html
@@ -801,7 +801,7 @@ Turn on the sprinklers@Включи опрыскиватель
 Talk to Farmer Cevalus@Поговори с Фермером Cevalus'ом
 
 Potion_Making.html
-Talk to The Assistant at Essren's Hut@Поговори с The Assistant в хижине Essren'a
+Talk to The Assistant on the Black Road@Поговори с The Assistant на дороге
 Bring back 8 Red Mushrooms to The Assistant@Принеси 8 красных грибов к The Assistant'у
 Enter the hut and slay Dr. Essren@Войди в хижину и убей Essren'а
 Bring back Essren's Dusty Coat to The Assistant@Принеси пыльное пальто Essren'а к The Assistant
@@ -892,7 +892,7 @@ Listen to the trials overseer's speech@Послушай речь смотрит�
 Talk to the trials overseer@Поговори с смотрительницей испытаний
 
 Sewers_of_Ragni.html
-The lieutenant Jenprest close to Ragni needs help@Лейтенанту Jenprest'у рядом с Ragni требуется помощь
+The lieutenant at needs help.@Лейтенанту требуется помощь на
 Meet up with the lieutenant outside the sewer entrance@Встреться с Jenprest'ом возле входа в канализацию
 Explore the sewer and find the blockage@Исследуй канализацию и найди место засора
 Find a way to fix the blockage@Найди способ устранить засор
@@ -914,7 +914,7 @@ Talk to Elder Berusia@Поговори с Elder Berusia
 Talk to Likeru@Поговори с Likeru
 
 Sister_City.html
-Talk to Lil in Detlas@Поговори с Lil в Detlas'е
+Talk to Lil in Detlas@Поговори с Lil в Detlas'е на
 Find 12 Hourglass Sand that appears around the hourglass in Selchar@Найди 12 песка, что разбросан вокруг песочных часов Selchar'a
 Bring to Lil 12 Hourglass Sand@Принеси к Lil 12 песка
 
@@ -922,7 +922,7 @@ Stable_Story.html
 Bring back [1 stable key] from the tunnel at@Принеси [1 ключ от конюшни] обратно из тоннеля на
 
 Star_Thief.html
-Look into the rumours of strange weather near the Inn at@Расследуй слухи о странной погоде рядом с гостиницей на 
+Look into the rumours of strange weather near the Inn@Расследуй слухи о странной погоде рядом с гостиницей на
 Find the meteor's crash site@Найди место падения метеора
 Explore the cave that the meteor crashed into@Исследуй пещеру, в которую упал метеор
 Escape the collapsing cave@Выберись из пещеры
@@ -931,7 +931,7 @@ Explore the cave for the star thief@Исследуй пещеру чтобы н�
 Defeat the insane thief and bring back the piece of meteor to the secret agents@Победи обезумевшего вора и принеси кусок метеора секретному агенту
 
 Studying_the_Corrupt.html
-Something is going on at the big bridge near Time Valley. Go over there and see what's happening@Что-то происходит на большом мосту рядом с Долиной времени. Иди туда и узнай что там
+Something is going on at the big bridge near Time Valley. Go over there and see what's happening.@Что-то происходит на большом мосту рядом с Долиной времени. Иди туда и узнай что там.
 Head to Elkurn and see if any of the townsfolk know anything about Garoth's old study area@Иди в Elkurn и узнай, может кто из жителей что-то знает о Garoth'е
 Investigate the old underground area, under the church to the north at@Посети старую подземную комнату под северной церковью
 Search around the south side of the Nether Portal for the old camp. The X on the map marked near@Обыщи южную сторону от портала в ад и найди старый лагерь
@@ -998,7 +998,7 @@ Escort Seluc back to Gana@Приведи Seluc'а обратно к Gana
 Speak to Gana and Seluc@Поговори с Gana и Seluc'ом
 
 The_Corrupted_Village.html
-Speak to Orikal outside the Corrupted Village@Поговори с Orikal'ом снаружи Angry Village
+Speak to Orikal outside the Angry Village@Поговори с Orikal'ом снаружи Angry Village
 Examine the nearby corrupted spike to the northeast@Посети вершину ближайшего шипа на северо-востоке
 Climb the spike to see if you can find anything useful about it's existance@Залезь на шип, возможно удастся узнать что-то полезное о его существовании
 Report back to Orikal about your observations@Сообщи Orikal'у о своих наблюдениях
@@ -1138,7 +1138,7 @@ Retrieve the Black Veil and return to the tower@Отыщи Черную вуал
 Bring back the Cursed Maiden Essence to Sherk@Принеси Проклятую девичью эссенцию к Sherk'у
 
 The_Mercenary.html
-Talk to Mylo in Nemract@Поговори с Mylo в Nemract'е
+Talk to Mylo in Nemract@Поговори с Mylo в Nemract'е на
 Talk to Admiral Amerigo in Almuj@Поговори с адмиралом Amerigo в Almuj'е
 Assassinate Takan at the Invaded Barracks@Скрытно убей Takan'a в Invaded Barracks
 Bring back Takan's Badge to Admiral Amerigo@Принеси Значок Takan'a к адмиралу Amerigo
@@ -1183,7 +1183,7 @@ Press the wooden button to call a minecart to go to Thanos's secret vault@Наж
 Kill the Giant Troll and bring the gold back to Dolem@Убей гигантского тролля и принеси золото Dolem'у
 
 The_Tower_of_Amnesia_(Quest).html
-Talk to Tinemild at the entrance of the Tower of Amnesia, close to Elkurn@Поговори с Tinemild на входе в Tower of Amnesia, рядом с Elkurn'ом
+Talk to Tinemild near Elkurn@Поговори с Tinemild'ом рядом с Elkurn'ом
 Bring back 1 Ragni Teleportation Scroll@Принеси 1 Ragni свиток телепортации
 Bring back 1 Detlas Teleportation Scroll@Принеси 1 Detlas свиток телепортации
 Bring back 1 Nemract Teleportation Scroll@Принеси 1 Nemract свиток телепортации
@@ -1246,7 +1246,7 @@ If you give the Mythic Everlasting Pufferfish to Gernald, Gernald's Amulet is ac
 Meet up with Fredris in Nesaak and claim your reward@Встреться с Fredris'ом в Nesaak'е и забери свою награду
 
 Underwater.html
-Talk to Omango located at the north of Maltic at@Поговори с Omango севернее от Maltic'a на 
+Talk to Omango located at the north of Maltic@Поговори с Omango севернее от Maltic'a на
 Talk to Sayrr about the Breathing Helmet@Поговори с Sayrr насчет Шлема подводника
 Bring back 3 Pigman's Meat and 1 milk to Sayrr@Принеси 3 Мяса пигмена и 1 Молоко к Sayrr'у
 Explore the crashed ship for a lost treasure (you have to wear the Breathing Helmet to be able to dive down). Entrance is behind Omango, next to the framed emerald@Исследуй разбитый корабль в поисках сокровища (на тебе должен быть надет Шлем подводника, чтобы спуститься вниз)
