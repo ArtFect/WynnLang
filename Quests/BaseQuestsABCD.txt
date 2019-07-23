@@ -1,18 +1,18 @@
 ﻿Acquiring_Credentials.html
 Doan: Oh no, no, no! Where is it?@Нет, нет, нет! Где же он?
-Doan: Excuse me, sir? Have you seen a passport around here?@Извините, сэр? Вы случайно не видели паспорт поблизости?
+Doan: Excuse me, Have you seen a passport around here?@Извините, вы случайно не видели паспорт поблизости?
 Doan: I think mine has been stolen! Or maybe I dropped it? No... It was definitely in my pocket!@Я думаю, его украли! Или я его уронил где-то? Нет... он точно был в моем кармане!
 Doan: Do you think you could help me? I don't know what else to do! My flight leaves any second!@Вы можете помочь мне? Я не знаю, что мне делать! Мой дирижабль может улететь в любую минуту!
-Doan: I must have lost it a few minutes ago, if it was stolen, it couldn't have gone too far. Please, look around and ask anyone for information!@Я потерял его пару минут назад, если его украли, он должен быть неподалеку. Пожалуйста, посмотрите вокруг, и расспросите жителей!
+Doan: I must have lost it a few minutes ago, if it was stolen, it couldn't have gone far. Please, look around and ask anyone for information!@Я потерял его пару минут назад, если его украли, он должен быть неподалеку. Пожалуйста, посмотрите вокруг, и расспросите жителей!
 Black Market Guard: Hold up there. Password?@Постой-ка. Пароль?
 Black Market Guard: No password means no entry!@Без пароля не пущу!
 Peculiar Old Man: I need it! The spores! Haven't got no money, no nothing! UNFAIR!@Они нужны мне! Грибы! Нет денег – нет грибов! НЕЧЕСТНО!
 Peculiar Old Man: I gave him so much over the years and he gives me NOTHING.@Я и так у него много покупал в течении года, а теперь НИЧЕГО.
 Peculiar Old Man: Just this once he could help me out. Just to see me through. GARH!@Только в этот раз он мог бы помочь мне. Поддержать в трудную минуту. ГАРХ!
-Peculiar Old Man: Eh. What do you want? The password? Well, do you got any spores? Neh, you like like too much of a goodie goodie.@Эх. Что тебе надо? Пароль? А у тебя есть грибы? Нее, тогда я ничего тебе не скажу.
+Peculiar Old Man: Eh. What do you want? The password? Well, do you got any spores? Neh, you look like too much of a goodie goodie.@Эх. Что тебе надо? Пароль? А у тебя есть грибы? Нее, тогда я ничего тебе не скажу.
 Peculiar Old Man: I just need some to see me through. Tell you what, if you do something for me I'll give you the password.@Мне нужно немного, чтобы поддержать себя. Хотя знаешь, если ты раздобудешь кое-что для меня, тогда я скажу тебе пароль.
-Peculiar Old Man: Someone threw me ticket in the water that I was gonna sell.@Кто-то бросил билет, который я собирался продать, в воду.
-Peculiar Old Man: Back in the airbase, right down in the middle! Go and look for it good and proper. It might have floated around! Hurry!@Вернись на базу, снизу в центре! Иди и поищи там внимательно. Он должен плавать где-то там. Быстрее!
+Peculiar Old Man: Someone threw me ticket in the water that I was gunna sell.@Кто-то бросил билет, который я собирался продать, в воду.
+Peculiar Old Man: Back in the airbase, right down the middle! Go and look for it good and proper. It might have floated around! Hurry!@Вернись на базу, снизу в центре! Иди и поищи там внимательно. Он должен плавать где-то там. Быстрее!
 Peculiar Old Man: Das it! Me ticket! I can sell it now and buy me spores.@Это же! Мой билет! Я теперь могу продать его и купить грибов.
 Peculiar Old Man: Alright, I might be an addict but I'm a man of me word.@Хорошо, хоть я и наркоман, но я человек слова.
 Peculiar Old Man: Okay, now just go back to the guard with the password, and they'll let you in.@Окей, теперь можешь пойти к охраннику с паролем, он пропустит тебя.
@@ -22,11 +22,11 @@ Document Merchant: Never seen someone like you around 'ere. You look like army f
 Document Merchant: Oh, you say you are looking for a stolen passport? Oh well of course, officer!@Говоришь, что ищешь потерянный паспорт? Ох, конечно, офицер!
 Document Merchant: Many documents that are "lost" often find their way here.@Многие документы 'теряются', прежде чем попадают к нам сюда.
 Document Merchant: I'm sure I saw some passports in the "lost and found" box that arrived here this mornin'.@Я уверен, что видел пару паспортов в коробке 'потерь и находок', что принесли сегодня утром.
-Document Merchant: Ahh, here we go. I got your passport right here. But it's cost ya, and not the monetary kind.@Ахх, нашел. Вот твой паспорт. Но это будет стоить тебе, и я говорю не про деньги.
+Document Merchant: Ahh, here we go. I got your passport right here. But It's gunna cost ya, and not the monetary kind.@Ахх, нашел. Вот твой паспорт. Но это будет стоить тебе, и я говорю не про деньги.
 Document Merchant: I have been trying to... acquire some secret documents from the administrational office for ages.@Я пытался... украсть секретные документы из административного офиса много лет.
 Document Merchant: I want you to head over there, find a way in to their secret vault, and bring me back the secret documents.@Вот что, я хочу чтобы ты отправился туда, нашел вход в это секретное помещение, и принес мне эти документы.
 Document Merchant: If you manage to bring me back the secret documents, you can go get your passport back, for free.@Если ты принесешь их мне, то получишь свой паспорт обратно, за бесплатно.
-Document Merchant: I can't give up and opportunity like this, a goodie goodie like you, walking in, asking for help. My associates would never pull this off. The office is just at the second floor of the airbase.@Я не упущу такую возможность вроде тебя, зашедшего сюда и просящего о помощи. Мои партнеры не справятся с такой задачей. Их офис находится на втором этаже базы.
+Document Merchant: I can't give up an opportunity like this, a goodie goodie like you, walking in, asking for help. My associates would never pull this off. The office is just at the second floor of the airbase.@Я не упущу такую возможность вроде тебя, зашедшего сюда и просящего о помощи. Мои партнеры не справятся с такой задачей. Их офис находится на втором этаже базы.
 Vault Guard: Hey, someone entered! Look out for them, and arrest them!@Эй, кто-то проникнул! Найдите и арестуйте его!
 Document Merchant: Back already? I guess you have a keen sense of direction! Most people get hideously lost in the airbase.@Вернулся? Думаю, ты отлично знаешь свое дело! Многие люди попрятались на авиабазе.
 Document Merchant: I admit, it is very complicated. Anyway, a deal is a deal.@Полагаю, это было сложно проделать. Но неважно, сделка есть сделка.
@@ -39,7 +39,7 @@ Doan: I am very grateful that you got it back. And you went to such lengths too!
 Doan: Hmm. This doesn't look like me on the picture...@Хмм. Минутку. Похоже, это не я на фотографии...
 Doan: In fact... It looks like... you.@Похоже... это... вы.
 Doan: This isn't my passport at all. Maybe I should have given you a picture of myself!@Это не мой паспорт. Наверно, я должен был дать вам свою фотографию!
-Doan: You could easily use this to board an airship. I didn't think humans could have an official Gavel passport, but here it is!@С этим паспортом вы можете попасть на самолет. Не думал, что у людей есть официальный Gavel паспорт, но вот он!
+Doan: You could easily use this to board an airship. I didn't think humans could have an official Gavel passport, but there it is!@С этим паспортом вы можете попасть на самолет. Не думал, что у людей есть официальный Gavel паспорт, но вот он!
 Doan: Thank you for trying, here take this for your troubles. Oh wait...@Спасибо что пытались, возьмите это за беспокойство. Ох, подождите-ка...
 
 Aldorei%27s_Secret_Part_I.html
