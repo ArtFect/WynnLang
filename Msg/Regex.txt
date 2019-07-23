@@ -52,4 +52,4 @@ Did you mean (.*)\? If not, type /help to see the commands!@§4Ты имел в 
 (.*): Thank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
 (.*)'s bomb has expired. You can buy XP bombs at our website, wynncraft.com\/store@§7(r1) бомба закончилась. Ты можешь купить Xp бомбу на нашем сайте §6wynncraft.com/store
 Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §2[(r3)]
-\[(.*)\] Cleared all potion effects.@§c\[(r1)\] §bОчищены §7все эффекты зелий.
+\[(.*)\] Cleared all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
