@@ -27,7 +27,7 @@ You still have (.*) unused skill points! Click with your compass to use them!@§
 You've gotten a (.*) reward!@§7Ты получил (r1) награду!
 (.*) has gotten a (.*) from their crate. Buy your own at wynncraft.com\/store@§7(r1) получил (r2) из своего контейнера. Купи свой собственный на wynncraft.com/store
 (.*) has thrown a combat XP Bomb! The entire server gets double xp for 20 minutes!@§7(r1) бросил XP Бомбу! Весь сервер получает удвоенные очки опыта на 20 минут!
-This potion is for Lv. (.*)\+ only.@§7Это зелье только для уровней (r1)+
+This potion is for Combat Lv. (.*)\+ only.@§4Это зелье только для уровней (r1)+
 (.*) quest items have been returned.@§7(r1) квестовых предметов было возвращено.
 (.*) requires your (.*) skill to be at least (.*).@§c(r1) §4требует, чтобы твое умение “(r2)” было не меньше §c(r3).
 You have unlocked page (.*) in your bank@§7Ты разблокировал (r1) страницу в своем банке
