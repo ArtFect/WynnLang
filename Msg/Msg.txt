@@ -598,8 +598,9 @@ Rewards:@§d            Награда:
 +5 Maximum HP@§7+5 Очков здоровья
 Only 9 more levels until you earn the Charge spell@§7Через 9 уровней ты сможешь изучить заклинание Charge
 [Please empty some space in your inventory first]@§7[Пожалуйста, сначала освободи немного места в своем инвентаре]
-You will need this item in later quests!@§7Этот предмет понадобится тебе в будущих квестах!
-You already have that potion active...@§7Это зелье уже действует на тебя...
+You will need this item in later quests!@§4Этот предмет понадобится тебе в будущих квестах!
+You already have that potion active...@§4Это зелье уже действует на тебя...
+You've restarting the starting quest!@§cВы перезапустили начальный квест!
 You have died...@§4Ты погиб...
 2 soul points have been lost...@§72 очка душ было утеряно...
 You've dropped:@§6С тебя выпало:
@@ -624,7 +625,7 @@ You can't sell this item!@§cТы не можешь продать этот пр
 - Spell Usage: Right-Right-Right@§7- Использование заклинания: Правая-Правая-Правая
 You've been rocketed by the great web.@§7Ты был подброшен великой паутиной.
 + Spell clicking notification moved to info bar@§7+ Уведомление о наборе заклинаний передвинуто на панель информации
- Your horse has become stronger!@§7Твоя лошадь стала сильнее!
+ Your horse has become stronger!@§6Твоя лошадь стала сильнее!
 [+1 Speed]@§7[+1 к Скорости]
 [+1 Jump Height]@§7[+1 к Высоте прыжка]
 Cleared all potion effects.@§7Очищены все эффекты зелий.
@@ -679,9 +680,10 @@ Thunder:  Thunder-imbued weapons can release a streak of lightning that seeks en
 Water:  Water-imbued weapons will curse one's nearby enemies. This curse weakens armor, and turns them vulnerable to further attack. Water-augmented armors recycle used mana, transferring it into a short boost to Water-affiliated techniques, depending on how much mana was consumed.@§9Вода:§7 Наполненное водой оружие проклинает ближайших врагов. Это проклятие ослабляет броню и делает их уязвимыми для дальнейших атак. Дополненные водой доспехи перерабатывают использованную ману, переводя ее в короткий рост урона к атакам, в зависимости от того, сколько маны было использовано. Также увеличивает силу водных атак.
 Fire:  Fire-imbued weapons will generate a fan of flames that burn one's enemies and empower one's allies. Fire-augmented armors react to being struck, turning the impact of the blow, no matter how weak, into a temporary power boost to Fire-based attacks.@§4Огонь:§7 Наполненное огнем оружие генерирует вихрь пламени, который сжигает врагов и расширяет возможности ваших союзников. Дополненные огнем доспехи реагируют на полученный урон, повышая силу удара, и временно увеличивая силу огненных атак.
 Air:  Air-imbued weapons trap nearby enemies in a vortex of wind, and blow the victims away when struck. Air-augmented armors will, so long as they are kept close, leach energy from nearby foes to improve the strength of Air-based attacks.@§fВоздух:§7 Наполненное воздухом оружие ловит близлежащих врагов в воронку ветра, и сдувает жертв прочь при ударе. Дополненные воздухом доспехи будут высасывать энергию из близлежащих врагов, пока они находятся рядом. Также улучшают силу воздушных атак.
-Item Identifier: I can't identify this item! Only items with a unique, rare, legendary, and set tags can be identified.@§7Item Identifier: Я не могу идентифицировать этот предмет! Только предметы с unique, rare, legendary, и set тэгами можно идентифицировать.
-Item Identifier: Okay, I'll identify them now!@§7Item Identifier: Хорошо, я сейчас же их идентифицирую!
-Item Identifier: It is done. Your item has been identified. The magic it contains will now blossom.@§7Item Identifier: Готово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
+Item Identifier: I can't identify this item! Only items with a unique, rare, legendary, and set tags can be identified.@§5Item Identifier: §dЯ не могу идентифицировать этот предмет! Только предметы с §eunique§d, §5rare§d, §blegendary§d, и §aset§d тэгами можно идентифицировать.
+Item Identifier: I can't identify this item! It can not be reidentified.@§5Item Identifier: §dЯ не могу идентифицировать этот предмет! Он не может быть идентифицирован повторно.
+Item Identifier: Okay, I'll identify them now!@§5Item Identifier: §dХорошо, я сейчас же их идентифицирую!
+Item Identifier: It is done. Your item has been identified. The magic it contains will now blossom.@§5Item Identifier: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
 Powder Master: Great doing business with you, adventurer. Come back any time!@§5Powder Master: §dС тобой приятно иметь дело, путешественник. Возвращайся в любое время!
 Key Collector: You have access to the dungeon... This time only.@§7Key Collector: Ты можешь войти в данж... Но только в этот раз.
 Guild Master: You must leave your current guild before making your own. Type /guild leave@§7Guild Master: Ты должен выйти из своей текущей гильдии, чтобы создать свою. Напиши /guild leave
