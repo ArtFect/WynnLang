@@ -40,7 +40,6 @@ public class EventsHandler {
     	String message = e.getMessage().getFormattedText();
 
         Matcher questMsg = WynnLang.questText.matcher(message);
-    	System.out.println(message);
         if(questMsg.matches()){
         	String npcName = WynnLang.format(questMsg.group(1));
         	String format = WynnLang.format(questMsg.group(2));
