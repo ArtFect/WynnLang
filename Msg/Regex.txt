@@ -51,5 +51,6 @@ Did you mean (.*)\? If not, type /help to see the commands!@§4Ты имел в 
 (.*): Thank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
 Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §2[(r3)]
 \[(.*)\] Cleared all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
+(.*) gave  you \[(.*)\].@§b(r1) дал тебе §c[(r2)].
 /// quest items have been returned. There was not room for an additional /// quest items.@/// квестовых предметов было возвращено. Не хватило места для /// квестовых предметов.
 (.*)'s bomb has expired. You can buy /// at our website, wynncraft.com/store@§b(r1) §3бомба закончилась. Ты можешь купить /// на нашем сайте §bwynncraft.com/store
