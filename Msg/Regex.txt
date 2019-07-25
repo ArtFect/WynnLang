@@ -16,7 +16,7 @@
 (.*) left the game.@§7(r1) покинул игру.
 (.*) would like to trade! Type (.*) to accept.@§5(r1) хотел бы поторговать с тобой! Напиши §6(r2) §5для принятия.
 (.*) is not a (.*) weapon. You must use a (.*).@§7(r1) не оружие для (r2) . Ты должен использовать (r3)
-(.*) has given you 20% resistance and 10% strength.@§7(r1) дал тебе 20% к сопротивлению и 10% к силе.
+(.*) has given you 20% resistance and 10% strength.@§b(r1) §7дал тебе 20% к сопротивлению и 10% к силе.
 You will now contribute (.*)% of your XP to (.*)@§7Теперь ты вносишь (r1)% от своих очков опыта в (r2)
 \[Daily Rewards: (.*) emeralds and (.*) items\]@§7[Ежедневная награда: (r1) эмеральд (а/ов) и (r2) предмета]
 Please wait an additional (.*) minutes before opening this chest.@§7Пожалуйста, подожди еще (r1) минут, прежде чем открывать этот сундук.
@@ -52,5 +52,5 @@ Did you mean (.*)\? If not, type /help to see the commands!@§4Ты имел в 
 Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §2[(r3)]
 \[(.*)\] Cleared all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
 (.*) gave  you \[(.*)\].@§b(r1) дал тебе §c[(r2)].
-/// quest items have been returned. There was not room for an additional /// quest items.@/// квестовых предметов было возвращено. Не хватило места для /// квестовых предметов.
-(.*)'s bomb has expired. You can buy /// at our website, wynncraft.com/store@§b(r1) §3бомба закончилась. Ты можешь купить /// на нашем сайте §bwynncraft.com/store
+(.*) quest items have been returned. There was not room for an additional (.*) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
+(.*)'s bomb has expired. You can buy (.*) at our website, wynncraft.com/store@§b(r1) §3бомба закончилась. Ты можешь купить (r2) на нашем сайте §bwynncraft.com/store
