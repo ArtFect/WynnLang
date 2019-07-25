@@ -35,12 +35,11 @@ You are no longer tracking (.*)@§7Ты больше не отслеживаеш
 (.*) has thrown an Item Bomb!@§7(r1) бросил Предметную бомбу!
 \+ Spell Upgrade \[(.*)\]@§7+ Апгрейд заклинания [(r1)]
 You need (.*) more levels before you can unlock this page of the bank@§7Тебе нужно еще (r1) уровней, прежде чем ты сможешь разблокировать эту страницу банка
-Blacksmith: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§5Blacksmith: §dты продал мне §r(r1)§d за (r2) эмеральд (а/ов). Было приятно иметь с тобой дело.
+Blacksmith: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§5Blacksmith: §dТы продал мне §r(r1)§d за (r2) эмеральд (а/ов). Было приятно иметь с тобой дело.
 The server is restarting in (.*) minutes.@§cСервер перезагрузится через (r1) минут
 The server is restarting in (.*) seconds.@§cСервер перезагрузится через (r1) секунд
 (.*) has just logged in!@§5(r1) только что зашел
-Item Identifier: I'm afraid you don't have enough emeralds in your inventory for that. It will cost (.*) emeralds.@§7Item Identifier: Боюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить (r1) эмеральд (а/ов)
-Item Buyer: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§7Ты продал мне: (r1) в сумме за (r2) эмеральд (а/ов). Было приятно иметь с тобой дело.
+Item Identifier: I'm afraid you don't have enough emeralds in your inventory for that. It will cost (.*) emeralds.@§5Item Identifier: §dБоюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить §6(r1) эмеральд (а/ов)
 (.*) is now combat level (.*)@§6(r1) достиг (r2) комбат уровня
 (.*) has won the duel!@§e(r1) §9выиграл дуэль!
 This material cannot be used for (.*)@§4Этот материал не может использоваться для §c(r1)
@@ -50,6 +49,7 @@ Did you mean (.*)\? If not, type /help to see the commands!@§4Ты имел в 
 (.*): I'm afraid you cannot afford that item.@§5(r1): §dБоюсь, что ты не можешь получить этот предмет.
 (.*): I'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
 (.*): Thank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
-(.*)'s bomb has expired. You can buy XP bombs at our website, wynncraft.com\/store@§7(r1) бомба закончилась. Ты можешь купить Xp бомбу на нашем сайте §6wynncraft.com/store
 Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §2[(r3)]
 \[(.*)\] Cleared all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
+/// quest items have been returned. There was not room for an additional /// quest items.@/// квестовых предметов было возвращено. Не хватило места для /// квестовых предметов.
+(.*)'s bomb has expired. You can buy /// at our website, wynncraft.com/store@§b(r1) §3бомба закончилась. Ты можешь купить /// на нашем сайте §bwynncraft.com/store
