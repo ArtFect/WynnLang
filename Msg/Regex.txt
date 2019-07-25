@@ -53,6 +53,6 @@ Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §
 \[(.*)\] Cleared all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
 (.*) gave  you \[(.*)\].@§b(r1) дал тебе §c[(r2)].
 (.*) quest items have been returned. There was not room for an additional (.*) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
-(.*)'s bomb has expired. You can buy (.*) at our website, wynncraft.com/store@§b(r1) §3бомба закончилась. Ты можешь купить (r2) на нашем сайте §bwynncraft.com/store
+(.*)'s bomb has expired. You can buy (.*) at our website, wynncraft.com\/store@§b(r1) §3бомба закончилась. Ты можешь купить (r2) на нашем сайте §bwynncraft.com/store
 Key Collector: You cannot enter this dungeon unless you give me \[(.*)\]@§5Key Collector: Ты не можешь войти в этот данж, пока не дашь мне §3(r1).
 (.*) has joined the party.@§e(r1) присоединился к пати.
