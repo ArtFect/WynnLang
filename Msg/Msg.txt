@@ -610,12 +610,12 @@ Since you interacted with your inventory, your horse has despawned.@§dПоск�
 - Smoke Bomb will throw a cloud of smoke, damaging mobs that are stuck inside@§7- Smoke Bomb выбрасывает облако дыма, нанося урон мобам, застрявшим внутри него
 - Spell Usage: Right-Right-Left@§7- Использование заклинания: Правая-Правая-Левая
 Warning: As you lose soul points, you will drop more items when you die.@§7Предупреждение: Чем больше очков душ ты теряешь, тем больше предметов выпадает с тебя при смерти.
-There is no room for a horse.@§7Здесь нет места для лошади.
-You have successfully created a party.@§7Ты успешно создал пати.
-You have invited the player to the party.@§7Ты пригласил игрока в пати. 
-You have been removed from the party.@§7Ты был убран из пати.
+There is no room for a horse.@§cЗдесь нет места для лошади.
+You have successfully created a party.@§eТы успешно создал пати.
+You have invited the player to the party.@§eТы пригласил игрока в пати. 
+You have been removed from the party.@§eТы был убран из пати.
 Desc.: This command will let you use the party system.@§eОписание: Эта команда позволит вам использовать систему пати.
-Usage: /party [join/leave/create/invite/kick/list] [arguments]@Использование: /party [join/leave/create/invite/kick/list] [аргументы]
+Usage: /party [join/leave/create/invite/kick/list] [arguments]@§eИспользование: /party [join/leave/create/invite/kick/list] [аргументы]
 1 soul point has been lost...@§71 очко душ было потеряно...
 The trade has been completed!@§5Торговля успешно завершена!
 The trade request has been sent! Waiting for them to accept...@§bТорговый запрос отправлен! Ждем, пока его примут...
