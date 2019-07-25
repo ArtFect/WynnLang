@@ -696,6 +696,7 @@ The duel has started! Fight to the death...@§9Дуэль началась! Би
 Wait a bit before trying to duel again!@§dПодождите немного, прежде чем снова предлагать дуэль!
 The duel request has been sent! Waiting for them to accept...@§bЗапрос на дуэль отправлен! Ждем, пока его примут...
 Blacksmith: I can't buy that item! I only accept weapons, accessories, potions, armour and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню и крафтовые предметы.
+Blacksmith: I can't buy that item! I only accept weapons, accessories, potions, armour, resources and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню, ресурсы и крафтовые предметы.
 You've reached the maximum amount of points in that skill, choose another one!@§4Ты достиг максимального количества очков в этом навыке, выбери другой!
 You need to wait 60 seconds after logging in to gather from this resource!@§4Тебе нужно подождать §c60 секунд §4после входа на сервер чтобы собрать этот ресурс!
 Your horse is scared to come out right now, too many mobs are nearby.@§dТвоя лошадь напугана сейчас, чтобы выходить, поскольку слишком много мобов рядом.
