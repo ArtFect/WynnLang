@@ -17,7 +17,7 @@
 (.*) would like to trade! Type (.*) to accept.@§5(r1) хотел бы поторговать с тобой! Напиши §6(r2) §5для принятия.
 (.*) is not a (.*) weapon. You must use a (.*).@§7(r1) не оружие для (r2) . Ты должен использовать (r3)
 (.*) has given you 20% resistance and 10% strength.@§b(r1) §7дал тебе 20% к сопротивлению и 10% к силе.
-You will now contribute (.*)% of your XP to (.*)@§7Теперь ты вносишь (r1)% от своих очков опыта в (r2)
+You will now contribute (.*)% of your XP to (.*)@§bТеперь ты вносишь (r1)% от своих очков опыта в (r2)
 \[Daily Rewards: (.*) emeralds and (.*) items\]@§7[Ежедневная награда: (r1) эмеральд (а/ов) и (r2) предмета]
 Please wait an additional (.*) minutes before opening this chest.@§7Пожалуйста, подожди еще (r1) минут, прежде чем открывать этот сундук.
 Please wait an additional (.*) seconds before opening this chest.@§7Пожалуйста, подожди еще (r1) секунд, прежде чем открывать этот сундук.
@@ -55,3 +55,4 @@ Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §
 (.*) quest items have been returned. There was not room for an additional (.*) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
 (.*)'s bomb has expired. You can buy (.*) at our website, wynncraft.com/store@§b(r1) §3бомба закончилась. Ты можешь купить (r2) на нашем сайте §bwynncraft.com/store
 Key Collector: You cannot enter this dungeon unless you give me \[(.*)\]@§5Key Collector: Ты не можешь войти в этот данж, пока не дашь мне §3(r1).
+(.*) has joined the party.@§e(r1) присоединился к пати.
