@@ -685,7 +685,7 @@ Item Identifier: I can't identify this item! It can not be reidentified.@§5Item
 Item Identifier: Okay, I'll identify them now!@§5Item Identifier: §dХорошо, я сейчас же их идентифицирую!
 Item Identifier: It is done. Your item has been identified. The magic it contains will now blossom.@§5Item Identifier: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
 Powder Master: Great doing business with you, adventurer. Come back any time!@§5Powder Master: §dС тобой приятно иметь дело, путешественник. Возвращайся в любое время!
-Key Collector: You have access to the dungeon... This time only.@§7Key Collector: Ты можешь войти в данж... Но только в этот раз.
+Key Collector: You have access to the dungeon... This time only.@§5Key Collector: §dТы можешь войти в данж... Но только в этот раз.
 Guild Master: You must leave your current guild before making your own. Type /guild leave@§7Guild Master: Ты должен выйти из своей текущей гильдии, чтобы создать свою. Напиши /guild leave
 You walk away wondering if the citizen stands all day long welcoming adventurers...@§7Ты уходишь, задаваясь вопросом - стоит ли этот житель здесь весь день, приветствуя путешественников...
 Disguise yourself as a chicken@§7Перевоплощение себя в курицу
