@@ -686,9 +686,9 @@ Drucksh: Though, the p-p-priest might not let you go in that easily...@Хотя 
 The Priest: Are you trying to go down into the crypt? Oh, that is a very bad idea.@Ты хочешь спуститься вниз в склеп? Ох, это очень плохая идея.
 The Priest: This place has been corrupted, and the dead came back to life. We had to break the stairs to protect this cathedral.@Это место было заражено порчей, и мертвые стали возвращаться к жизни. Нам пришлось сломать лестницу, чтобы защитить этот собор.
 The Priest: If you really want to enter it, I'd have to purify it so it doesn't corrupt you.@Если действительно хочешь войти туда, я должен буду освятить тебя, чтобы тебя не заразили порчей.
-The Priest: Bring me [12 Rotten Flesh], that should do it. Ancient Nemract is filled with zombies, it's toward the south-west.@Принеси мне [12 плоти зомби], этого должно хватить. Древний Nemract кишит зомбями, на юго-западе отсюда.
-Priest: You got the flesh. Good.@Ты принес плоть. Хорошо.
-Priest: It should be... "safe", now. Be very careful, you are entering at your own risk.@Теперь ты... "в безопасности". Будь очень осторожен, входи туда на свой страх и риск.
+The Priest: Bring me [12 Rotten Flesh], that should do it. Ancient Nemract is filled with zombies, it's toward the south-west.@Принеси мне §3[12 плоти зомби]§a, этого должно хватить. Древний Nemract кишит зомбями, на юго-западе отсюда.
+The Priest: You got the flesh. Good.@Ты принес плоть. Хорошо.
+The Priest: It should be... "safe", now. Be very careful, you are entering at your own risk.@Теперь ты... "в безопасности". Будь очень осторожен, входи туда на свой страх и риск.
 Sayleros: Brilliant! It is a little bit dusty, but it will do the trick! Here, take these as proof of my gratitude.@Великолепно! Оно немного в пыли, но мне этого будет достаточно! Вот, возьми это, как доказательство моей благодарности.
 
 Green_Gloop.html
