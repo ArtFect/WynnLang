@@ -840,4 +840,14 @@ GUARD ASSIGNMENT: Search the wealthy man's residence for the source of the explo
              [Discovery Found]@                         §3[Открытие найдено]
 Location:@Локация: 
 Discoveries Found:@Открытий найдено: 
-About Discovery:@Об открытии: 
+
+     - About Discovery: The civilization that ruled this land over 1000 years ago seemed to be equally as educated as people today. There are lots of texts dedicated to the Emperor.
+It sounds like some sort of mechanism inside the statue is jammed. Maybe a hit on the head can set it right.
+     - About Discovery: After realizing its true power, Hashr realized he must hide the sceptre where no one could find it. Many years later, a group of bandits found refuge in this very temple.
+     - About Discovery: Following the death of the Emperor, sandstorms raged across the land, and the Eagle Tribe was forced to take refuge in an abandoned prayer cave.
+It's a child's book. It's covered in pictures of sandstorms featuring some kind of stick.
+     - About Discovery: After being kicked out of the Wynn cities during the Corruption War, a growing number of bandits began to reassimilate in the desert and mesa.
+     - About Discovery: The Emperor's Sceptre is a mysterious artifact that gave the holder unquestionable power. The people of the Desert Empire constructed temples to honor it.
+     - About Discovery: The Emperor's 26th son was named Hashr. As he grew older, he became wrought with greed and envy of his father's power. It wasn't long before he was willing to kill.
+     - About Discovery: When the Creden Tibus discovered the Emperor's Sceptre in an ancient, hidden temple, they decided to hide it closer to home. After many generations, they grew paranoid, and moved it once more.
+     - About Discovery: When the sceptre was taken from its master, a curse of sandstorms plagued the empire for years. Nearly everything was buried, even the royal palace.
