@@ -837,3 +837,7 @@ One of these tunnels must be correct one...@Один из этих туннел�
 GUARD ASSIGNMENT: Search the vault for signs of a robbery/veracity of witness report.@§lЗАДАЧА РЕПОРТА:§7 Обыщи хранилище в поисках признаков грабежа/достоверности показаний свидетеля.
 [ VaultDoor-2000 ] Vault unlocking...@§4[ §cVaultDoor-2000 §4]§7 Открытие хранилища...
 GUARD ASSIGNMENT: Search the wealthy man's residence for the source of the explosion.@§lЗАДАЧА РЕПОРТА:§7 Обыщи резиденцию богатого человека в поисках источника взрыва.
+             [Discovery Found]@                         §3[Открытие найдено]
+Location:@Локация: 
+Discoveries Found:@Открытий найдено: 
+About Discovery:@Об открытии: 
