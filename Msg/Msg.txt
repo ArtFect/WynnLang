@@ -841,6 +841,7 @@ The aparation of Asher is frozen in time, unable to speak or move.@Призра�
 The cannon cannot be fired in its current state. Looks like you'll need something to activate it.@Пушка не может быть запущена в ее текущем состоянии. Похоже тебе понадобится что-то, чтобы активировать ее.
 The cannon is activated! Now it needs to be loaded with a cannonball...@Пушка активирована! Теперь ее нужно зарядить пушечным ядром...
 Your Crafted Items are damaged and have become less effective. Bring them to a Blacksmith to repair them.@Твои крафтовые предметы повредились и стали менее эффективными. Принеси их к Blacksmith'у, чтобы починить.
+You've already claimed this bomb...@§cВы уже забрали эту бомбу...
              [Discovery Found]@                         §3[Открытие найдено]
 Location:@Локация: 
 Discoveries Found:@Открытий найдено: 
@@ -876,3 +877,13 @@ It's a child's book. It's covered in pictures of sandstorms featuring some kind 
      - About Discovery: This library tells a tale that the government of Corkus has kept secret. Rumors tell that more mysterious libraries like this one are hidden across the world.
      - About Discovery: The history of the Avos has remained largely unknown, but this monument of Avos ancestry might hold the ancient secrets that historians have been looking for.
      - About Discovery: Long ago, the Avos hid away a powerful necklace. Despite the many tales and legends of it, it has never been located until now.
+     
+You fully completed the Legendary Challenge!
+[13:37:04] [main/INFO] [chat/]: [CHAT]    +25 Bronze Tokens
+[13:37:04] [main/INFO] [chat/]: [CHAT]    +15 Silver Tokens
+[13:37:04] [main/INFO] [chat/]: [CHAT]    +7 Gold Tokens
+[13:37:04] [main/INFO] [chat/]: [CHAT]    +1 Diamond Token
+[13:37:04] [main/INFO] [chat/]: [CHAT]    +800000 Experience Points
+It feels as though demons are starting to consume your mind... maybe it wasn't a good idea to enter this place...
+YahyaBot begins emitting strange spores...
+The idol whirrs to life...
