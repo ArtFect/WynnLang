@@ -24,8 +24,8 @@ Please wait an additional (.*) seconds before opening this chest.@§7Пожал�
 (.*) has already claimed this loot chest!@§7(r1) уже забрал этот сундук с лутом!
 \[\+(.*) for (.*) seconds\]@§7[+(r1) на (r2) секунд]
 You still have (.*) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
-You've gotten a (.*) reward!@§7Ты получил (r1) награду!
-(.*) has gotten a (.*) from their crate. Buy your own at wynncraft.com\/store@§7(r1) получил (r2) из своего контейнера. Купи свой собственный на wynncraft.com/store
+You've gotten a (.*) reward!@§7Ты получил §6(r1)§7 награду!
+(.*) has gotten a (.*) from their crate. Buy your own at wynncraft.com\/store@§7(r1) получил (r2) из своего контейнера. Купи свой собственный на §6wynncraft.com/store
 (.*) has thrown a combat XP Bomb! The entire server gets double xp for 20 minutes!@§7(r1) бросил XP Бомбу! Весь сервер получает удвоенные очки опыта на 20 минут!
 This potion is for Combat Lv. (.*)\+ only.@§4Это зелье только для уровней (r1)+
 (.*) quest items have been returned.@§7(r1) квестовых предметов было возвращено.
