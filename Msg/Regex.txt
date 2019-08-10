@@ -61,7 +61,7 @@ Only (.*) more combat levels until you earn the (.*) spell@§5Еще §d(r1) к�
 This material cannot be used for (.*)@Этот ресурс не может быть использован для (r1)
 Seaskipper Captain: Where are ya headed? (.*), huh? A'ight! I'll get ya there in no time.@§2Seaskipper Captain: §aКуда ты направляешься? (r1), да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
  + New Quest \[(.*)\]@ + Новый квест [(r1)]
-You are now level (.*)@                         §eВы достигли (r1) уровня
+You are now combat level (.*)@                         §eВы достигли (r1) комбат уровня
 You are now level (.*) in (.*)@                   §eВы достигли (r1) уровня в (r2)
 + Faster Gathering \[(.*)\]@+ Более быстрая добыча (r1)
 + Faster Refining \[(.*)\]@+ Более быстрая переработка (r1)
