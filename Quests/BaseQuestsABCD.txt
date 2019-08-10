@@ -276,9 +276,9 @@ Darnes: As promised, here is the reward. It was part of the war fund, but since 
 Darnes: I know I said I wanted to keep this mask... But it smells hideous, you can take it. I even upgraded it for you! Who knows, you might need it again someday.@Помню, что говорил тебе вернуть маску... Но она ужасно пахнет, так что оставь ее себе. Я немного улучшил ее для тебя! Кто знает, вдруг она понадобится тебе когда-нибудь.
 
 A_Grave_Mistake.html
-Alem: You might want to leave.@Возможно ты хочешь уйти.
-Alem: There is nothing in this graveyard.@Ничего нет на этом кладбище.
-Alem: This place is private.@Это частная территория.
+Alem: You might want to leave.@Возможно ты хочешь §4уйти§a.
+Alem: There is nothing in this graveyard.@Ничего нет на §4этом§a кладбище.
+Alem: This place is private.@Это §4частная§a территория.
 Alem: I have warned you...@Я предупреждал тебя...
 ???: You were warned not to enter this forsaken place.@Ты был предупрежден - не входить в это покинутое место.
 ???: But since you have made it thusfar, I suppose I shall show you the truth...@Но учитывая то, что ты это сделал, я покажу тебе правду...
@@ -1244,4 +1244,3 @@ Leucsaa: The journal! You outsmarted the mansion!@Журнал! Ты перех�
 Leucsaa: I must thank you, that journal was priceless to my family.@Должен поблагодарить тебя, этот журнал был очень ценен для моей семьи.
 Leucsaa: Let this be a life lesson to you. Never buy a house from a Corkian architect.@Пускай это будет жизненный урок тебе на будущее. Никогда не покупать дом у архитектора из Corkus'a.
 
-Elemental_Exercise.html
