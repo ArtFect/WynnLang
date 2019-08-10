@@ -34,6 +34,7 @@ You have unlocked page (.*) in your bank@§7Ты разблокировал (r1)
 You are no longer tracking (.*)@§7Ты больше не отслеживаешь (r1)
 (.*) has thrown an Item Bomb!@§7(r1) бросил Предметную бомбу!
 \+ Spell Upgrade \[(.*)\]@§7+ Апгрейд заклинания [(r1)]
++ New Spell \[(.*)\]@§7+ Новое заклинание [(r1)]
 You need (.*) more levels before you can unlock this page of the bank@§7Тебе нужно еще (r1) уровней, прежде чем ты сможешь разблокировать эту страницу банка
 Blacksmith: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§5Blacksmith: §dТы продал мне §r(r1)§d за (r2) эмеральд (а/ов). Было приятно иметь с тобой дело.
 The server is restarting in (.*) minutes.@§cСервер перезагрузится через (r1) минут
@@ -59,3 +60,10 @@ Key Collector: You cannot enter this dungeon unless you give me \[(.*)\]@§5Key 
 Only (.*) more combat levels until you earn the (.*) spell@§5Еще §d(r1) комбат уровня §5и ты изучишь §d(r2) заклинание
 This material cannot be used for (.*)@Этот ресурс не может быть использован для (r1)
 Seaskipper Captain: Where are ya headed? (.*), huh? A'ight! I'll get ya there in no time.@§2Seaskipper Captain: §aКуда ты направляешься? (r1), да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
+ + New Quest \[(.*)\]@ + Новый квест [(r1)]
+You are now level (.*)@                         §eВы достигли (r1) уровня
+You are now level (.*) in (.*)@                   §eВы достигли (r1) уровня в (r2)
++ Faster Gathering \[(.*)\]@+ Более быстрая добыча (r1)
++ Faster Refining \[(.*)\]@+ Более быстрая переработка (r1)
++ Higher Refining Success \[(.*)\]@+ Шанс на успешную переработку (r1)
+Only (.*) more levels until you can use the (.*)@Еще (r1) уровня и ты сможешь использовать (r2)
