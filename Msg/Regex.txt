@@ -54,7 +54,8 @@ Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §
 (.*) gave  you \[(.*)\].@§b(r1) дал тебе §c[(r2)].
 (.*) quest items have been returned. There was not room for an additional (.*) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
 (.*)'s bomb has expired. You can buy (.*) at our website, wynncraft.com\/store@§b(r1) §3бомба закончилась. Ты можешь купить (r2) на нашем сайте §bwynncraft.com/store
-Key Collector: You cannot enter this dungeon unless you give me \[(.*)\]@§5Key Collector: Ты не можешь войти в этот данж, пока не дашь мне §3(r1).
+Key Collector: You cannot enter this dungeon unless you give me \[(.*)\]@§5Key Collector: §dТы не можешь войти в этот данж, пока не дашь мне §3(r1).
 (.*) has joined the party.@§e(r1) присоединился к пати.
 Only (.*) more combat levels until you earn the (.*) spell@§5Еще §d(r1) комбат уровня §5и ты изучишь §d(r2) заклинание
 This material cannot be used for (.*)@Этот ресурс не может быть использован для (r1)
+Seaskipper Captain: Where are ya headed? (.*), huh? A'ight! I'll get ya there in no time.@§2Seaskipper Captain: §aКуда ты направляешься? (r1), да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
