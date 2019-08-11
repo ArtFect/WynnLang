@@ -60,11 +60,15 @@ Key Collector: You cannot enter this dungeon unless you give me \[(.*)\]@§5Key 
 Only (.*) more combat levels until you earn the (.*) spell@§5Еще §d(r1) комбат уровня §5и ты изучишь §d(r2) заклинание
 This material cannot be used for (.*)@Этот ресурс не может быть использован для (r1)
  \+ New Quest \[(.*)\]@ + Новый квест [(r1)]
-You are now combat level (.*)@                         §eВы достигли (r1) комбат уровня
-You are now level (.*) in (.*)@                   §eВы достигли (r1) уровня в (r2)
+You are now combat level (.*)@                         §eТы достиг (r1) комбат уровня
+You are now level (.*) in (.*)@                   §eТы достиг (r1) уровня в (r2)
 \+ Faster Gathering \[(.*)\]@§7+ Более быстрая добыча §8[(r1)]
 \+ Faster Refining \[(.*)\]@§7+ Более быстрая переработка §8[(r1)]
 \+ Higher Refining Success \[(.*)\]@§7+ Шанс на успех при переработке §8[(r1)]
 Only (.*) more levels until you can use the (.*)@§5Еще §d(r1) уровня §5и ты сможешь использовать §d(r2)
 Only (.*) more level until you can use the (.*)@§5Еще §d(r1) уровень §5и ты сможешь использовать §d(r2)
-\+ Higher Recipe Level \[(.*)\]@+ Рецепты повышенных уровней (r1)
+\+ Higher Recipe Level \[(.*)\]@§7+ Рецепты повышенных уровней §8[(r1)]
+\+ New Tool \[(.*)\]@§7+ Новый инструмент §8[(r1)]
+Only (.*) more levels until you can gather from (.*)@§5Еще §d(r1) уровня §5и ты сможешь собирать §d(r2)
+Only (.*) more level until you can gather from (.*)@§5Еще §d(r1) уровень §5и ты сможешь собирать §d(r2)
+You need to use (.*) to gather from this resource!@§4Тебе нужно использовать §c(r1)§4 чтобы собрать этот ресурс!
