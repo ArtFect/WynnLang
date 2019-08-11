@@ -74,3 +74,5 @@ Only (.*) more level until you can gather from (.*)@§5Еще §d(r1) урове
 \+ New Resource \[(.*)\]@§7+ Новый ресурс §8[(r1)]
 You've revealed: (.*) for a total of (.*) emeralds.@§dТы раскрыл: §b(r1) в сумме за §e(r2) эмеральдов.
 Finished buying (.*) for (.*)@§dЗавершена покупка §b(r1) за §5(r2)
+Great job! You've completed the (.*) Dungeon!@§6Отличная работа! Ты прошел (r1) данж!
+\[+(.*) falling emeralds\]@§7[+(r1) падающих эмеральдов]
