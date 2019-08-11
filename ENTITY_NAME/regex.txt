@@ -1,0 +1,4 @@
+(§4\[.*\|§4\])@(r1)
+(§(e|2|f|c|b)-\d+.*)@(r1)
+§7\[§f\+§f(\d+)§f Combat XP§7\]@§7[§f+§f490§f Combat XP§7]
+§7\[§f\+§f(\d+)§f Guild XP§7\]@§7[§f+§f2§f Guild XP§7]
