@@ -44,7 +44,7 @@ Item Identifier: I'm afraid you don't have enough emeralds in your inventory for
 (.*) is now combat level (.*)@§6(r1) достиг (r2) комбат уровня
 (.*) has won the duel!@§e(r1) §9выиграл дуэль!
 This material cannot be used for (.*)@§4Этот материал не может использоваться для §c(r1)
-You need to use an (.*) to gather from this resource!@§4Тебе нужно использовать §c(r1) §4чтобы собрать этот ресурс
+You need to use (.*) to gather from this resource!@§4Тебе нужно использовать §c(r1) §4чтобы собрать этот ресурс
 This machine can only process (.*)@§4Эта машина перерабатывает только §c(r1)
 Did you mean (.*)\? If not, type /help to see the commands!@§4Ты имел в виду §r§c(r1)? §r§4Если нет, напиши /help, чтобы увидеть список команд!
 (.*): I'm afraid you cannot afford that item.@§5(r1): §dБоюсь, что ты не можешь получить этот предмет.
@@ -71,4 +71,4 @@ Only (.*) more level until you can use the (.*)@§5Еще §d(r1) уровень
 \+ New Tool \[(.*)\]@§7+ Новый инструмент §8[(r1)]
 Only (.*) more levels until you can gather from (.*)@§5Еще §d(r1) уровня §5и ты сможешь собирать §d(r2)
 Only (.*) more level until you can gather from (.*)@§5Еще §d(r1) уровень §5и ты сможешь собирать §d(r2)
-You need to use (.*) to gather from this resource!@§4Тебе нужно использовать §c(r1)§4 чтобы собрать этот ресурс!
+\+ New Resource \[(.*)\]@§7+ Новый ресурс §8[(r1)]
