@@ -34,7 +34,7 @@ You have unlocked page (.*) in your bank@§7Ты разблокировал (r1)
 You are no longer tracking (.*)@§7Ты больше не отслеживаешь (r1)
 (.*) has thrown an Item Bomb!@§7(r1) бросил Предметную бомбу!
 \+ Spell Upgrade \[(.*)\]@§7+ Апгрейд заклинания [(r1)]
-+ New Spell \[(.*)\]@§7+ Новое заклинание [(r1)]
+\+ New Spell \[(.*)\]@§7+ Новое заклинание [(r1)]
 You need (.*) more levels before you can unlock this page of the bank@§7Тебе нужно еще (r1) уровней, прежде чем ты сможешь разблокировать эту страницу банка
 Blacksmith: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§5Blacksmith: §dТы продал мне §r(r1)§d за (r2) эмеральд (а/ов). Было приятно иметь с тобой дело.
 The server is restarting in (.*) minutes.@§cСервер перезагрузится через (r1) минут
