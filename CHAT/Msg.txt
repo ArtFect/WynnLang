@@ -899,3 +899,15 @@ Level Up!@                          §6Уровень повышен!
 This mine looks abandoned and dangerous, you should best stay away from it.@§4Эта шахта выглядит заброшенной и опасной, тебе лучше держаться от нее подальше.
 You have already progressed too far to use skip!@Ты уже продвинулся слишком далеко, чтобы использовать пропуск!
 [+1 Selchar Teleportation Scroll]@[+1 Selchar свиток телепортации]
+To the Mining Operations Manager:@Для Горнодобывающего Менеджера:
+We were performing our usual routines when suddenly an unknown explosion caused a massive cave-in at the entrance to our main mining supply area.@Мы выполняли наши обычные процедуры, когда внезапно неизвестный взрыв вызвал массивный обвал на входе в наш главный участок добычи.
+Something must be done to remove the debris, we cannot easily continue our mining operations without our supplies.@Что-то нужно сделать, чтобы убрать обломки, мы не можем легко продолжать наши горные работы без наших запасов.
+There also may be people trapped on the other side, and I would hate to lose even more miners to these catastrophes.@Там также могут быть люди, оказавшиеся в ловушке на другой стороне, и я не хотел бы потерять еще больше шахтеров в этих катастрофах.
+Maybe we could use the Wrecking Ball to demolish the debris, but if we don't act soon...@Может быть, мы могли бы использовать разрушающий шар, чтобы уничтожить обломки, но если мы не начнем действовать в ближайшее время...
+How to Use the Explosive-Cloaker Machine:@§l§7Как использовать Explosive-Cloaker Machine:
+ - Acquire an explosive item.@ - Добыть взрывоопасный предмет.
+ - Insert explosive item into the hole of the INPUT slot of the machine.@ - Вставить взрывоопасный предмет в дыру машины с надписью INPUT
+ - Wait while the machine temporarily disables the item's explosive property.@ - Подождать, пока машина временно отключит взрывоопасные свойства предмета
+ - Take item out of OUTPUT slot.@ - Забрать предмет из слота OUTPUT
+ - Can be very useful for disabling explosive properties of unstable ores found in caves.@ - §l§7Может быть очень полезна для отключения взрывных свойств у нестабильных руд, найденных в пещерах.
+ There are aggressive mobs nearby...@Поблизости есть агрессивные мобы...
