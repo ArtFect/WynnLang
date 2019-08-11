@@ -1,0 +1,894 @@
+You can skip the tutorial by typing: /skiptutorial. You will not receive resources, tools, or a crafted item by doing this.@§cТы можешь пропустить туториал командой /skiptutorial. Ты не получишь ресурсы, инструменты, или крафтовые предметы, сделав это.
+You must talk to the King first. Right-click on him to start a conversation@§7Ты должен сначала поговорить с Королем. Правый клик по нему, чтобы начать разговор.
+- Lore: One of two great fortresses in Wynn. Ragni has survived over 1000 years of war - sometimes barely. It is the hometown of the 146 year old hero Bob, who hasn't been seen in 16 years.@§d     -§r§7 Лор: §r§f§oОдна из двух великих крепостей в провинции Wynn. Ragni пережил более 1000 лет войны - иногда был близок к краху. Это родной город 146-летнего старого героя по имени Bob, которого не видели уже 16 лет.
+- Lore: The trail through Nivla Forest to Detlas, the central city of the Wynn Province@§d     -§r§7 Лор: §r§f§oПуть через Nivla Forest в Detlas, центральный город провинции Wynn.
+- Lore: This farm is most famous for its milk, though recently the cows that produce it have been going missing.@§d     -§r§7 Лор: §r§f§oЭта ферма наиболее известна своим молоком, хотя в последнее время коровы, которые его производят, начали пропадать.
+- Lore: This forest has been infested with giant, mutant arachnids for countless years. They serve as the greatest obstacle for adventurers on their way to Detlas@§d     -§r§7 Лор: §r§f§oЭтот лес заражался гигантскими паукообразными мутантами в течение бесчисленных лет. Они служат самым большим препятствием для авантюристов на пути в Detlas.
+- Lore: This area is heavily defended by the armies of Detlas and Ragni to ensure food production continues.@§d     -§r§7 Лор: §r§f§oЭтот район обороняли войска Detlas'a и Ragni, чтобы производство продовольствия по-прежнему продолжалось.
+- Lore: The center of the Wynn Province. This city is a massive hub of trade for all adventurers, whether they have just started their journey or have been at it their whole lives.@§d     -§r§7 Лор: §r§f§oЦентр провинции Wynn. Этот город является массовым центром торговли для всех искателей приключений, независимо от того, только начали ли они свое путешествие, или же жили здесь всю свою жизнь.
+- Lore: This road leads to the town of Ternaves and its nearby mine. It is inhabited by strange mushroom-cow hybrids, and a mysterious scientist.@§d     -§r§7 Лор: §r§f§oЭта дорога ведет к городку Ternaves и ближайшим шахтам. Здесь обитают странные гибриды грибных коров, а также таинственный ученый
+- Lore: The first town founded by Villagers in the Wynn province. Maltic's beach is the site of a shipwreck that crashed upon its shores 100 years ago.@§d     -§r§7 Лор: §r§f§oПервый город, построенный расой жителей в провинции Wynn. Пляж Maltic'а -  это место крушения корабля, разбившегося на берегах 100 лет назад.
+- Lore: This beachside path is used by many travellers who seek to avoid the spider-infested route of the Emerald Trail@§d     -§r§7 Лор: §r§f§oЭтот пляжный путь используется многими путешественниками, которые стремятся избежать зараженного пауками маршрута эмеральдной тропы.
+- Lore: Despite its proximity to the portal, this quaint town has somehow managed to survive. It was once the home of a researcher who investigated the phenomenon of corruption.@§d     -§r§7 Лор: §r§f§oНесмотря на свою близость к Порталу, этот причудливый город каким-то образом сумел выжить. Когда-то это был дом одного человека, который исследовал появление порчи.
+- Lore: This small town has laid quietly near Detlas for decades. Nearby lies a massive prison that few draw near.@§d     -§r§7 Лор: §r§f§oЭтот маленький городок тихо простоял возле Detlas'а на протяжении десятилетий. Рядом находится массивная тюрьма, к которой мало кто приближается.
+- Lore: This strange island is home to the province's one and only zoo. The owner thought out in the ocean the creatures would be safe from the corruption, but the zoo doesn't get many visitors.@§d     -§r§7 Лор: §r§f§oЭтот странный остров является домом для одного и единственного зоопарка в провинции. Владелец продумал, что в океане существа будут в безопасности от порчи, однако зоопарк не пользуется популярностью у посетителей.
+- Lore: This massive, maze-like ravine is home to the Pigmen, a species of half-pig, half-human abominations that feast on any weak adventurer who happens to stumble inside.@§d     -§r§7 Лор: §r§f§oЭтот массивный овраг в виде лабиринта является домом для Пигменов - расы наполовину людей, наполовину свиньей. Они с радостью съедят любого слабого искателя приключений, на которого случайно наткнутся внутри.
+- Lore: The ruins here have been present longer than the portal. Only one person alive today understands this strange place. Time acts strangely here and it's apparent that whoever made them were not human.@§d     -§r§7 Лор: §r§f§oРуины здесь были еще до того, как открылся портал. Лишь один человек сегодня понимает это странное место. Время здесь течет странно, и очевидно, что тот, кто сделал это место, не был человеком.
+- Lore: Nemract is an under-defended, rough, seafaring city. The people here have endured a lot of suffering - and that has made them hardy.@§d     -§r§7 Лор: §r§f§oNemract - недостаточно защищенный, грубый, морской город. Люди здесь пережили много страданий - и это сделало их выносливыми.
+- Lore: Hundreds of years ago, the original stone city of Nemract was ravaged by a swarm of the undead. Now it is only inhabited by the corpses of those who died that day.@§d     -§r§7 Лор: §r§f§oСотни лет назад первоначально каменный город Nemract был разорен роем нежити. Сейчас его населяют только трупы погибших в тот день.
+- Lore: Not many travel to this little tribal village in the savannah, but it is said to be the home of a powerful sorcerer.@§d     -§r§7 Лор: §r§f§oНе многие путешествуют в эту маленькую племенную деревню в саванне, но говорят, что она является домом могущественного колдуна.
+- Lore: Despite mining opening up the infamous portal, it did not stop. Some speculate that these mines are hiding an even greater danger...@§d     -§r§7 Лор: §r§f§oНесмотря на то, что шахтеры открыли печально известный портал, они не остановились. Некоторые предполагают, что эти шахты скрывают еще большую опасность...
+- Lore: This egg-shaped island is home to a single resident, a featherbrained villager hermit obsessed over chickens. Rumor has it that Bob has visited the island for some reason.@§d     -§r§7 Лор: §r§f§oЭтот остров яйцевидной формы является домом для одного жителя, пернатого сельского отшельника, одержимого курицами. Ходят слухи, что Bob почему-то посещал этот остров.
+- Lore: Despite the odd formation of land, every inch is covered in farmland, and acts as a proverbial breadbasket for the ocean capital of Selchar.@§d     -§r§7 Лор: §r§f§oНесмотря на странную территорию, каждый дюйм здесь покрыт сельскохозяйственными угодьями и выступает в качестве пресловутой житницы для океанской столицы Selchar'а.
+- Lore: A thousand years ago, a group of emerald miners unearthed a mysterious portal. Unknowingly, they doomed the province to centuries of war against the mysterious force known as corruption.@§d     -§r§7 Лор: §r§f§oТысячу лет назад группа шахтеров раскопала загадочный портал. Неосознанно они обрекли провинцию на многовековую войну против загадочной силы под названием порча.
+- Lore: A massive pirate ship crashed here with such severity, the hull was moulded into the cliffside. Some say that there is still treasure hidden inside.@§d     -§r§7 Лор: §r§f§oМассивный пиратский корабль потерпел крушение здесь с такой силой, что его корпус был впечатан в скалу и стал частью острова. Некоторые говорят, что внутри все еще спрятано сокровище
+- Lore: Founded in 970AP after the waves calmed, this city became the bridge between Gavel and Wynn. It flourishes in trade and enjoys a safe haven from the dangers of both provinces.@§d     -§r§7 Лор: §r§f§oОснованный в 970 году после открытия портала, этот город стал мостом между провинциями Gavel и Wynn. Он процветает в торговле и имеет безопасное убежище от опасностей обеих провинций.
+- Lore: Ocean currents flow and intertwine to form these renowned reefs, bursting with life. Tourists frequently dive and discover lost treasure, dropped from merchant ships and carried by the currents.@§d     -§r§7 Лор: §r§f§oОкеанские течения текут и переплетаются здесь, чтобы сформировать эти знаменитые рифы, наполненные живностью. Туристы часто ныряют и обнаруживают здесь потерянные сокровища, сброшенные с торговых судов и унесенные течениями.
+- Lore: Home to the reclusive mages responsible for calming the waves, the people on this island continue to study magic and advance their capabilities beyond any other.@§d     -§r§7 Лор: §r§f§oДом для неуловимых магов, ответственных за успокоение волн. Люди на этом острове продолжают изучать магию и продвигать свои возможности за пределы разума других.''.
+- Lore: This land is strangely infested by undead, despite the island showing no symptoms of corruption. Rumors fly, but most people simply avoid the island entirely.@§d     -§r§7 Лор: §r§f§oЭтот остров по каким-то причинам заражен порчей, несмотря на то, что на нем не проявляются никакие из ее признаков. По слухам, большинство людей просто избегают этого острова целиком.
+- Lore: Even in the harsh desert, people have found a way to survive. The massive city of Almuj uses the nearby water sources to keep its city a thriving oasis.@§d     -§r§7 Лор: §r§f§oДаже в суровой пустыне, люди нашли способ выжить. Массивный город Almuj использует близлежащие источники воды, чтобы сохранить свой город процветающим оазисом.
+- Lore: Once the barracks of the Almuj Army, it has been taken over by the traitorous rebel, Commander Takan.@§d     -§r§7 Лор: §r§f§oКогда-то это были бараки армии Almuj'а, но были захвачены предательским повстанцем, командиром Takan'ом.
+- Lore: The town of Rymek was founded by the Creden Tibus bandit group. They only deal exchanges through a special currency.@§d     -§r§7 Лор: §r§f§oГород Rymek был основан бандитской группой Creden Tibus'а. Они торгуют только в обмен на специальную валюту.
+- Lore: The city of Llevigar is the first sight adventurers see in Gavel. It was built using quartz mined from the nearby Karoc Quarry. It is the most advanced city in Gavel.@§d     -§r§7 Лор: §r§f§oГород Llevigar - это первое, что видят приезжие в Gavel. Он был построен с использованием кварца, добываемого из близлежащего карьера Karoc. Это самый продвинутый город в провинции Gavel.
+- Lore: In the center of the unnaturally frozen forest lies the small village of Nesaak. Their main source of food is ice fishing.@§d     -§r§7 Лор: §r§f§oВ центре неестественно замерзшего леса находится небольшая деревня Nesaak. Их основным источником пропитания является рыбалка
+- Lore: Home to a nation of early seafarers, they have waged war among each other for years, oblivious to the real war happening on the mainland.@§d     -§r§7 Лор: §r§f§oРодина нации ранних моряков. Они вели войну между собой в течение многих лет, не обращая внимания на настоящую войну на материке
+- Lore: Karoc Quarry mines out massive amounts of quartz each day, mostly used for construction purposes. But lately, shipments have been going missing...@§d     -§r§7 Лор: §r§f§oИз шахты карьера Karoc добывают огромное количество кварца каждый день, который в основном используется для строительных целей. Но в последнее время грузы стали пропадать...
+- Lore: In even the harshest of cold, the people of Lusuco have stayed put and continued living here.@§d     -§r§7 Лор: §r§f§oДаже в самом суровом холоде, жители Lusuco остаются и продолжают жить здесь.
+- Lore: The tallest tower in the province, the Tower of Ascension provides a challenge so daunting that it has brought down even the strongest of warriors.@§d     -§r§7 Лор: §r§f§oСамая высокая башня в провинции. Башня Вознесения предоставляется настолько сложной, что ее порой не могли пройти даже самые сильные воины.
+- Lore: Once the home of the most gifted defenders of Wynn, it now lies in ruins and haunted by the spirits that could not move on.@§d     -§r§7 Лор: §r§f§oКогда-то это был дом самых одаренных защитников провинции Wynn. Теперь же он лежит в руинах и наполнен духами, которые не могут уйти в иной мир.
+- Lore: This small community is an up-and-coming tourist attraction for its fair weather and tropically-themed luxuries, requiring constant shipping to the island to maintain business.@§d     -§r§7 Лор: §r§f§oЭтот небольшой островок является перспективным туристическим аттракционом из-за своей прекрасной погоды и роскоши в тропическом стиле, однако требующей постоянной доставки припасов на остров для поддержания бизнеса
+- Lore: RUN.@§d     -§r§7 Лор: §r§f§oБЕГИ.
+- Lore: The village of the native tribe of the jungle, the people here have lived peacefully alongside the people of Troms for years.@§d     -§r§7 Лор: §r§f§oДеревня родного племени джунглей, люди здесь жили мирно рядом с людьми из Troms'a в течение многих лет.
+- Lore: Olux is a poor town, one that has suffered the effects of the Decay, a force that has caused all of north-western Gavel to begin to wither.@§d     -§r§7 Лор: §r§f§oOlux - бедный город, который пострадал от последствий заражения - силы, которая заставила всю северо-западную часть Gavel'a начать увядать.
+- Lore: Held down by a fanatical military leader, their efforts prevented the colonization of Selchar for years. Somehow, the symptoms of corruption have begun, despite its position in the sea.@§d     -§r§7 Лор: §r§f§oУдерживаемый фанатичным военачальником, их усилия годами препятствовали началу колонизации Selchar'a. Однако, на острове как-то начались симптомы порчи, несмотря на его положение в море.
+- Lore: Mostly inhospitable, the islands are a relatively new formation. WynnExcavation has set up Excavation Site C here in hopes to find valuable new minerals.@§d     -§r§7 Лор: §r§f§oНегостеприимный остров, представляющий собой относительно новое образование. Wynnexcavation устроили здесь Wynnexcavation часть C в надежде найти здесь ценный минерал.
+- Lore: This massive fortress has served as a symbol of hope to the province throughout the war. Its army has helped keep the corruption at bay for centuries.@§d     -§r§7 Лор: §r§f§oЭта массивная крепость служит символом надежды провинции на протяжении всей войны. Его армия помогла держать порчу на расстоянии на протяжении веков.
+- Lore: A small village hidden within the trees in the Nivla forest. Home of the only bowl merchant in the province.@§d     -§r§7 Лор: §r§f§oНебольшая деревня, спрятанная внутри деревьев в лесу Nivla. Дом единственного торговца мисками в провинции.
+- Lore: This magnificent bridge connects the mysterious ruins of Time Valley to the frigid cold of the Nesaak Tundra. In the center lies a mysterious seal that no one has been able to open.@§d     -§r§7 Лор: §r§f§oЭтот великолепный мост соединяет таинственные развалины Долины Времени с пронизывающим холодом леса Nesaak. В его центре находится таинственная печать, которую никто не может открыть
+- Lore: Wild ocelots inhabit this mostly-barren savannah, which leads to the Almuj desert. There is a town on the edge of the mountains, though few visit it.@§d     -§r§7 Лор: §r§f§oДикие оцелоты населяют эту в основном бесплодную саванну, которая ведет в пустыню рядом с Almuj'ом. Также есть город на краю гор, хотя немногие посещают его.
+- Lore: A lush cavern hidden under the barn at Durum Isles. It is bursting with life and natural energies, and is fiercely protected...@§d     -§r§7 Лор: §r§f§oПышная пещера, спрятанная под сараем в Durum Isles. Она разрывается жизнью и природными энергиями, и яростно защищена...
+- Lore: Despite its barren surroundings, this river has sprouted various plant life. It flows straight into the Rymek Canyon.@§d     -§r§7 Лор: §r§f§oНесмотря на свое бесплодное окружение, эта река проросла разнообразной растительной жизнью. Она стекает прямо в каньон города Rymek.
+- Lore: WynnExcavation is a Gavel-owned company dedicated to uncovering the history of the Wynn Province. Here, they've uncovered an ancient tomb from a lost empire.@§d     -§r§7 Лор: §r§f§oWynnExcavation - компания из Gavel'a, специализирующаяся на раскрытии истории провинции Wynn. Здесь они раскопали старую гробницу потерянной цивилизации.
+- Lore: The Owl Tribe is one of the two native tribes of the Rymek Canyon. They have been at war with the Eagle Tribe for years.@§d     -§r§7 Лор: §r§f§oПлемя Сов является одним из двух коренных племен в каньоне Rymek'a. Они воюют с племенем Орлов годами.
+- Lore: The Eagle Tribe is one of the two native tribes of the Rymek Canyon. They have been at war with the Owl Tribe for years.@§d     -§r§7 Лор: §r§f§oПлемя Орлов является одним из двух коренных племен в каньоне Rymek'a. Они воюют с племенем Сов годами.
+- Lore: This massive doorway serves as the main entrance to the province of Gavel. Through it lies the imperial quartz city of Llevigar.@§d     -§r§7 Лор: §r§f§oМассивная дверь служит входом в провинцию Gavel. Она проходит через имперский кварцевый город Llevigar.
+- Lore: Hundreds of years ago, the people working at this mill died in the war. Even after the land was frozen over, their bodies still hunt those who draw near.@§d     -§r§7 Лор: §r§f§oСотни лет назад люди, работающие на этой фабрике, погибли в войне. Несмотря на то, что земля была заморожена, их тела продолжают охотиться на тех, кто бродит рядом.
+- Lore: A year after Bobs disappearance, a tomb pertaining to the resting place of Bob, was found in 985 AP.@§d     -§r§7 Лор: §r§f§oЧерез год после исчезновения Bob'a, на месте его упокоения появилась гробница, найденная в 985 году после открытия портала.
+- Lore: The small village of Bucie is home to many farmers, who produce the crops for the nearby cities of Llevigar and Olux.@§d     -§r§7 Лор: §r§f§oВ небольшой деревне Bucie проживает много фермеров, которые производят урожай для близлежащих городов Llevigar и Olux.
+- Lore: This is the widest river in Gavel, and stretches so long that it divides the plains in two.@§d     -§r§7 Лор: §r§f§oЭто самая широкая река в провинции Gavel, и она настолько длинная, что разделяет поля на две части.
+- Lore: High up in the mountains, this area serves as the site of Lusuco's annual Wynnter Fair.@§d     -§r§7 Лор: §r§f§oНаходясь высоко в горах, на этом месте проходит ежегодная ярмарка Wynnter Fair.
+- Lore: A secluded gorge, rumored to be the territory of a notorious lone bandit. The stones turn a fiery spectrum of colors in the sunrise and set.@§d     -§r§7 Лор: §r§f§oУединенное ущелье, по слухам, является территорией пресловутого одинокого бандита. Камни здесь поворачивают огненный спектр цветов в восходе солнца.
+- Lore: No one knows what WynnExcavation is searching for at Site B, but rumors are circulating that they are trying to uncover something ancient and powerful.@§d     -§r§7 Лор: §r§f§oНикто не знает, что ищут WynnExcavation в части B. Однако ходят слухи, что они пытаются открыть нечто древнее и мощное.
+- Lore: A group of bandits who have been stealing quartz shipments hide out in this mansion. However, no one knows what they're using it for.@§d     -§r§7 Лор: §r§f§oГруппа бандитов, что занимается кражей кварца, укрылась в этом месте. Однако, никто не знает, зачем они здесь.
+- Lore: These massive holes have recently begun appearing all around the swamp, creating a massive tunnel network underground.@§d     -§r§7 Лор: §r§f§oЭти массивные дыры недавно начали появляться по всему болоту, создавая огромную сеть соединенных тоннелей под землей.
+- Lore: Once used for repairs for Olux's massive wall, the lumber yard has become useless after the Decay began to make the trees rot and die.@§d     -§r§7 Лор: §r§f§oРаньше она использовалась для строительства большой стены Olux'a. Но теперь стала бесполезной из-за заражения, что погубило корни деревьев вокруг.
+- Lore: Oppressively dark and enigmatic, simply being inside this cave makes you feel disconnected from your body. Horrific power permeates the area...@§d     -§r§7 Лор: §r§f§oУгнетающе темно и загадочно. Просто находясь внутри пещеры, вы чувствуете себя отключенным от своего тела. Ужасающая сила пронизывает территорию...
+- Lore: The royal family of Troms has been the talk of the town lately. The king's son has gone missing, while the king himself remains reclusive and paranoid...@§d     -§r§7 Лор: §r§f§oКоролевскую семью Troms'a в последнее время обсуждают все. Сын короля пропал, а сам король остается затворником и параноиком...
+- Lore: Founded by the first seafarer Redbeard, Pirate Cove is home to some of the most dangerous men in the ocean. They set up outposts all around the island to seek out merchant ships to plunder.@§d     -§r§7 Лор: §r§f§oОснованный первым моряком - Рыжей Бородой, Pirate Cove является домом для одних из самых опасных людей в океане. Они создали аванпосты по всему острову, чтобы искать торговые корабли для грабежа.
+- Lore: Proposals to colonise Maro Peaks have long been brought up as it holds great defensive and industrial benefits, but the local animal population proves impossible to work with. It is said Bob was the first man to climb to the peak.@§d     -§r§7 Лор: §r§f§oПредложения по колонизации вершин Maro уже давно были выдвинуты, поскольку они имеют большую оборонительную и промышленную выгоду, но с местным животным населением оказалось невозможно работать. Говорят, Bob был первым человеком, который сумел подняться на их вершину.
+- Lore: Despite the Decay, Gelibord has gotten by. Due to its trade industry, it's become a good stop for adventurers on their quest through Gavel.@§d     -§r§7 Лор: §r§f§oНесмотря на заражение, Gelibord все еще в порядке. Благодаря своей торговой отрасли, он стал хорошей остановкой для авантюристов в их приключениях в Gavel'е.
+- Lore: Unlike most towns in Gavel, Efilim is home to multiple races. Elves and villagers live together in harmony here.@§d     -§r§7 Лор: §r§f§oВ отличии от большинства городов в Gavel'е, Efilim является домом для многих рас. Эльфы и жители живут здесь в гармонии.
+- Lore: Only the most revered of scholars and adventurers are allowed inside of the Temple of Legends. Just entering this place is a testament to your victory against the Corrupter of Worlds@§d     -§r§7 Лор: §r§f§oВнутрь храма легенд допускаются только самые почитаемые ученые и искатели приключений. Сам вход в это место уже является доказательством вашей победы против Разрушителя Миров
+- Lore: A wealthy family claimed the entire island to settle on when the waves first settled, but a mysterious event has brought dark influence to the island, robbing it of its vibrancy.@§d     -§r§7 Лор: §r§f§oБогатая семья забронировала себе весь остров для житья, когда начались первые волны переселения, но таинственное событие принесло на остров темное влияние, лишив его живности.
+- Lore: The city of Cinfras is the central hub of the Gavel Province. It is also home of the massive Guild Hall, and a massive airship travel center.@§d     -§r§7 Лор: §r§f§oГород Cinfras является центром всей провинции Gavel. Он также является домом массивного Зала Гильдий, и огромного авиационного центра путешествий
+- Lore: The Guild Hall is where the most prestigous guilds gather, and where you can create your own. You can also get to Letvus Airbase through here.@§d     -§r§7 Лор: §r§f§oЗал Гильдий - место, где собираются самые престижные гильдии, и где вы можете создать свою собственную. Также отсюда можно попасть на авиабазу Letvus.
+- Lore: While this may look like a simple bridge on the way to Cinfras, above it floats The Forgery, the gateway to Corrupted Dungeons.@§d     -§r§7 Лор: §r§f§oХоть это и может выглядеть как простой мост на пути к  Cinfras'у, над ним плавает Кузница - путь ко всем корруптед данжам.
+- Lore: The light has hidden this secret beneath the forest to those who cannot "see". It is a gateway to a world beyond imagination.@§d     -§r§7 Лор: §r§f§oСвет скрыл эту тайну под лесом от тех, кто не может"видеть". Эти ворота в мир за пределами твоего воображения..
+- Lore: Once a humble town, Lexdale has been overrun by cultists, worshipping a dark being named Naragath.@§d     -§r§7 Лор: §r§f§oКогда-то скромный город Lexdale был захвачен культистами, которые поклоняются темному существу по имени Naragath
+- Lore: Home of the Gerts, a race of hunger fuelled orange-headed brutes. Though they aren't very intelligent, they are still a force to be reckoned with.@§d     -§r§7 Лор: §r§f§oДом Гертов - расы голодных животных с оранжевой головой. Хотя они не очень умны, они все еще являются силой, с которой нужно считаться.
+- Lore: This towering nest is the Qira Hive, a challenge against the powerful creations of the enigmatic Qira.@§d     -§r§7 Лор: §r§f§oЭто возвышающееся гнездо является Ульем Qira - вызов против могущественных творений загадочной Qira.
+- Lore: Tainted by the flames, this spire serves as the dramatic trail up to the nest of the dragon herself, Ozoth.@§d     -§r§7 Лор: §r§f§oИспорченный пламенем, этот шпиль служит захватывающим путем до самого гнезда дракона по имени Ozoth.
+- Lore: The only residence of dwarves outside the Molten Heights, Thanos has been decimated by Ozoth, a powerful dragon feared across the entire province.@§d     -§r§7 Лор: §r§f§oЕдинственная резиденция гномов за пределами Molthen Heights, Thanos был уничтожен Ozoth'oм - могущественным драконом, которого боялись по всей провинции.
+- Lore: The main city of the patriotic Corkians, refugees from Fruma who settled on the island. They've used the art of electromagic to build machines.@§d     -§r§7 Лор: §r§f§oГлавный город патриотических жителей Corkus'a, беженцев из Фрумы, поселившихся на острове. Они использовали искусство электромагии для создания машин.
+- Lore: Very few outsiders are allowed into Aldorei Valley, home of the elves. They consider it to be a place free of greed.@§d     -§r§7 Лор: §r§f§oОчень немногие посторонние допускаются в долину Aldorei - места, где живут эльфы. Они считают ее местом, свободным от жадности.
+- Lore: Thesead is one of the smaller cities of Gavel, but its coal industry has kept it thriving. However, recently the coal mines have shut down.@§d     -§r§7 Лор: §r§f§oThesead - один из небольших городов в Gavel'е, который благодаря угольной промышленности продолжает процветать. Однако недавно угольные шахты закрылись.
+- Lore: Home of the bird-like Avos, the native inhabitants of Corkus. Though they welcomed the Corkians initially, tensions between the two have grown over the years.@§d     -§r§7 Лор: §r§f§oДом похожих на птиц Avos'ов - родных обитателей Corkus'а. Хоть они и приветствовали новых поселенцев первоначально, напряженность между ними росла с годами.
+- Lore: A dwarven town founded as a monument to the victory in Molten Heights. It was built by the power of the people. Dwarves are communal and riches are owned by all.@§d     -§r§7 Лор: §r§f§oГород гномов построен как памятник победы на Molten Heights. Он был построен силами народа. Гномы живут вместе, а их богатства принадлежат всем
+- Lore: The capital of the Dwarven dominated Molten Heights. Carved from the rocks by the power of the people, it stands as one of the strongest cities ever made.@§d     -§r§7 Лор: §r§f§oСтолица Гномов в Molten Heights. Вырезанный из скал силой народа, он стоит как один из самых мощных городов, когда-либо сделанных.
+- Lore: A port filled with odd residents and drunken sailors, Jofash Docks is the only entryway to Gavel outside of the main gate.@§d     -§r§7 Лор: §r§f§oПортовый город наполнен странными жителями и пьяными матросами, Jofash Доки - единственный вход в Gavel помимо главных ворот.
+- Lore: The city of Eltom is the only human residence in Gavel. Since humans aren't permitted to settle in the province, it has remained hidden to outsiders.@§d     -§r§7 Лор: §r§f§oГород Eltom - единственная человеческая резиденция в провинции Gavel. Поскольку людям не разрешается селиться в провинции, он остается скрытым для посторонних.
+- Lore: This coastal town is sprawling with gears and machinery built by the varioius engineers and mechanics living there. Importing and exporting take place frequently here.@§d     -§r§7 Лор: §r§f§oЭтот прибрежный город наполнен шестернями и машинами, построенными различными инженерами и механиками, живущими тут. Здесь часто проходит импорт и экспорт товаров.
+- Lore: A town built on the edge of a cliff, Kandon-Beda specializes in air travel. It also houses a library for those who wish to learn history.@§d     -§r§7 Лор: §r§f§oГород, построенный на краю обрыва, Kandon-Beda специализируется на авиаперелетах. В нем также есть библиотека для тех, кто хочет узнать историю.
+- Lore: Home of the Legendary Challenge, a test for those who think that they are the strongest in the world. It is named after its designer, the eccentric Dr. Legendary.@§d     -§r§7 Лор: §r§f§oДом легендарного испытания - испытание для тех, кто думает, что он сильнейший в мире. Он назван так в честь своего конструктора, эксцентричного Dr. Legendary.
+- Lore: The central city of the Sky Islands, Ahmsord is home to the wealthiest of traders, and the most revered of adventurers.@§d     -§r§7 Лор: §r§f§oЦентральный город на Летающих Островах. Ahmsord является домом для богатых торговцев, и самых почитаемых путешественников
+- Lore: Once a grand stone entryway to a brilliant forest, it has since fallen into disrepair since the emergence of the Decay.@§d     -§r§7 Лор: §r§f§oКогда-то великий каменный вход в изумительный лес теперь пришел в негодность из-за появления заражения в этой местности
+- Lore: The source of the Iron Golems protecting Wynn and Gavel, the methods of creating them, have remained unknown to the public eye.@§d     -§r§7 Лор: §r§f§oИсточник создания всех железных големов для провинций Wynn и Gavel. Методы их создания до сих пор остаются неизвестны и скрыты от лишних глаз 
+- Lore: A native tribe of the Dernel Jungle resides here. Its people revere the tree in the village's center as their guardian.@§d     -§r§7 Лор: §r§f§oЗдесь проживает родное племя Dernel джунглей. Его люди почитают дерево в центре деревни как своего защитника.
+- Lore: It is said that each province has a magical spring that grants people eternal life.@§d     -§r§7 Лор: §r§f§oГоворят, что в каждой провинции есть волшебный источник, дающий людям вечную жизнь.
+- Lore: This disused Iboju burial site seems to have been turned into a camp for the risen tribal zombies. Foreign chanting is a constant ambience here.@§d     -§r§7 Лор: §r§f§oЭто заброшенное захоронение Iboju, похоже, было превращено в лагерь для восставших племенных зомби. Чужеродное песнопение слышно здесь постоянно.
+- Lore: The largest greenskin base in Gavel, the fortress has been overtaken by Orcs under their leader, Gorgu.@§d     -§r§7 Лор: §r§f§oКрупнейшая база зеленокожих в провинции Gavel.Крепость была захвачена орками под командованием их предводителя, Gorgu
+- Lore: A prestigious mansion that was once owned by the Sodeta Guild. It is said that the dangerous and powerful Abysso Galoshes were once sealed away here.@§d     -§r§7 Лор: §r§f§oПрестижный особняк, который когда-то принадлежал Гильдии Sodeta. Говорят, что опасные и мощные Abysso Galoshes когда-то были запечатаны здесь.
+- Lore: Before the Decay, this was the home of Dullahan, a terrible man who enslaved and tortured the people of the forest. That is, until his execution.@§d     -§r§7 Лор: §r§f§oДо заражения это был дом Dullahan'a - ужасного человека, что держал людей из леса в качестве рабов, и пытал их. Так было, пока его не обезглавили
+- Lore: In the midst of Decay, a massive amount of light is emanating from this root.@§d     -§r§7 Лор: §r§f§oВ самом центре заражения есть большой поток света, излучающийся из этого корня
+- Lore: Once the home of the Caritat family, the most wealthy and generous family in the forest, until one day they mysteriously vanished.@§d     -§r§7 Лор: §r§f§oКогда-то это был дом семьи Caritat, самой богатой и щедрой семьи в лесу, пока в один прекрасный день они таинственно не исчезли.
+- Lore: Gavel's counterpart to Wynn's Fountain of Youth, the Lazarus Pit has been resurrecting the dead inmates of the nearby prison.@§d     -§r§7 Лор: §r§f§oАналог фонтана молодости из провинции Wynn. Яма воскрешала мертвецов из ближайшей тюрьмы
+- Lore: This serves as the gateway to the brilliant Light Forest. Unlike the Dark Forest, this area hasn't been afflicted by the Decay, and remains as beautiful as ever.@§d     -§r§7 Лор: §r§f§oЭти ворота служат входом в великолепный Light Forest. В отличие от Dark Forest'a, ему удалось сохранить свой первозданный вид, ведь заражение его не коснулось
+- Lore: A village of hobbits, it is home to a blacksmith by the name of Dodegar, seeking to forge the ultimate weapon.@§d     -§r§7 Лор: §r§f§oДеревня хоббитов, и дом одного кузнеца по имени Dodegar, который пытается создать смертельное оружие.
+- Lore: Pure dark magic is all that exists in this magical trap, laid by a sadistic denizen from the Realm of Darkness.@§d     -§r§7 Лор: §r§f§oЧистая темная магия - это все, что существует в этой магической ловушке, сделанной садистским обитателем из царства Тьмы
+- Lore: An arena for those who wish to truly test their mettle after being admitted into the Temple of the Legends, where fierce training takes place.@§d     -§r§7 Лор: §r§f§oАрена для тех, кто хочет по-настоящему испытать свою храбрость после принятия в Храм Легенд - места, где проходит ожесточенное обучение.
+- Lore: A heavy aura hangs in the air of this disused tribal exorcism site. The gibbering of a lingering spirit has begun to echo in your ears...@§d     -§r§7 Лор: §r§f§oТяжелая аура висит в воздухе от этого заброшенного места племенного экзорцизма. Невнятное бормотание старинного духа начало повторяться у тебя в ушах...
+- Lore: It is said that the Leaf Crystal was buried here. Once WynnExcavation finds it, they'll have all four of the crystals scattered across Wynn, granting them unfathomable power.@§d     -§r§7 Лор: §r§f§oПо слухам, земляной кристалл был закопан здесь. Если WynnExcavation найдут его, то получат все четыре кристалла из провинции Wynn, что гарантирует им безграничную власть
+- Lore: Letvus Airbase is the best place to go for commercial airship travel, though only the wealthiest can afford it.@§d     -§r§7 Лор: §r§f§oАвиабаза Letvus - лучшее место для коммерческих авиаперелетов, хоть только самые богатые могут себе это позволить
+- Lore: For which the Gylia Plains are named, Lake Gylia is the largest lake in the world. Immense magical energy surrounds this place.@§d     -§r§7 Лор: §r§f§oНазванное в честь ближайших полей, озеро Gylia является самым большим озером в мире. Это место окружает огромная магическая энергия.
+- Lore: Once a brilliant cathedral, it has been abandoned since most of the church's followers chose to worship demons instead.@§d     -§r§7 Лор: §r§f§oКогда-то был великолепным собором, но был покинут после того, как большинство последователей стали поклоняться демонам
+- Lore: This hellish pit is being used by the cultists of the Kander Forest to summon the powerful demon, Naragath.@§d     -§r§7 Лор: §r§f§oЭта адская яма используется сектантами Kander леса, чтобы вызвать могущественного демона -  Naragath'a.
+- Lore: Founded after the Gerten War 200 years ago, the Gylia Watch have used this tower as their base, keeping an eye on the Gerts to prevent another attack.@§d     -§r§7 Лор: §r§f§oОснованна после войны с Гертами 200 лет назад. Смотрящие башни Gylia используют ее в качестве своей базы, наблюдая за тем, чтобы предотвратить еще одну атаку
+- Lore: Aldorei Town is another section of the elf city, housing many special resources and charms not found anywhere else in Gavel.@§d     -§r§7 Лор: §r§f§oГород Aldorei является еще одним местом проживания эльфов, где хранится множество ресурсов и заклинаний, которые невозможно найти нигде в Gavel'е''.
+- Lore: These barracks are where the Cinfras Army is positioned, though lately their General has been acting suspicious...@§d     -§r§7 Лор: §r§f§oВ этих казармах  находится армия Cinfras'a, хотя в последнее время их генерал ведет себя подозрительно...
+- Lore: Bantisu Air Temple has served as a beacon in the Canyon of The Lost. The Air Monks help guide people who have gotten lost.@§d     -§r§7 Лор: §r§f§oBantisu Air Temple служит маяком в каньоне потерянных. Воздушные монахи помогают потерявшимся людям найти выход из каньона.
+- Lore: This massive statue is often thought not to be merely a still monument, but actually a living being.@§d     -§r§7 Лор: §r§f§oЭта массивная статуя часто считается не просто памятником, а на самом деле живым существом
+- Lore: The elegant Crystal Falls decorate the scenery around the dojo of Sensei Miyagi, a wise teacher who has trained hundreds of apprentices.@§d     -§r§7 Лор: §r§f§oИзящные кристальные водопады декорируют пейзаж школы дзюдо мастера Miyagi - мудрого учителя, который тренирует сотни последователей
+- Lore: This massive factory, built by the engineer Cerid, was once hailed as the national monument of Corkus. Ever since it was closed down, it has falen into disrepair@§d     -§r§7 Лор: §r§f§oЭта массивная фабрика, построенная инженером Cerid'ом, когда-то была провозглашена национальным памятником Коркуса. С тех пор, как она был закрыта, она пришел в упадок.
+- Lore: The entryway to the Molten Heights, a fiery den of volcanoes. It's the home of the Dwarves, and the last remaining Doguns.@§d     -§r§7 Лор: §r§f§oВход в Molten Heights - огненное логово вулканов. Это дом гномов, и остатков выживших Dogun'ов'' 
+- Lore: Reminant of the Dogun genocide, the Dragons sided with the native residents. However, the dwarves proved to be the dominant force beneath the lava.@§d     -§r§7 Лор: §r§f§oОстатки геноцида Dogun'ов. Драконы были на стороне коренных жителей. Однако, гномы показали кто здесь главный под лавой.
+- Lore: Cursed by an ice dragon's breath, this is a scar of the Dogun genocide.@§d     -§r§7 Лор: §r§f§oПроклятый дыханием ледяного дракона, это шрам от геноцида Dogun'ов.
+- Lore: This dark tunnel connects the Sky Islands of Gavel to the Jofash Docks on the province's eastern coast, for those who wish to go sailing.@§d     -§r§7 Лор: §r§f§oЭтот темный тоннель соединяет Летающие острова с Jofash доками на западном берегу провинции, специально для тех кто хочет отправиться поплавать.
+- Lore: Devoid of color, all the souls of the dead will make their way to here, the realm of the dead.@§d     -§r§7 Лор: §r§f§oЛишенные цвета, все души мертвых перебираются сюда - в царство мертвых.
+- Lore: The volcanoes stand upon a hollow victory and support the few survivors of the war. Some argue it was a genocide, not a war.@§d     -§r§7 Лор: §r§f§oВулканы стоят на бессмысленной победе и поддерживают нескольких последних выживших в войне. Кто-то говорит, что это был геноцид, а не война
+- Lore: The tiny survivor population of Doguns fled to the surface after the subterranean war. They are ill suited to living above ground.@§d     -§r§7 Лор: §r§f§oКрошечное выжившее население Dogun'ов бежало на поверхность после подземной войны. Они плохо подходят для жизни над землей
+- Lore: Home of the Sky Raiders, a group of pirates who plunder and thieve through the air.@§d     -§r§7 Лор: §r§f§oДом воздушных захватчиков - группы пиратов, что грабит и ворует в воздухе
+- Lore: Desperate for resources, the mining mechs of Corkus have begun digging to bedrock. The magma layers aren't far below.@§d     -§r§7 Лор: §r§f§oОтчаявшись за ресурсы, роботы Коркуса начали копать бэдрок. Слои магмы оказались не далеко внизу
+- Lore: This lush, open-air cavern is home to a secluded pair of Avos. They have some kind of vendetta against humans... it may be best to leave them be.@§d     -§r§7 Лор: §r§f§oЭта пышная, открытая пещера является домом для уединенной пары Avos'ов. Они жаждут возмездия против людей... Думаю лучше оставить их как есть
+- Lore: It seems the wizard's gravity spell made you fall all the way through space, landing on the moon itself. Weird.@§d     -§r§7 Лор: §r§f§oПохоже, гравитационное заклинание волшебника заставило тебя упасть сквозь пространство, приземлившись на саму Луну. Странно
+The old man whispers you the password...@§7Старый человек прошептал тебе пароль...
+Sneak around in the darkness, and they will not see you...@§7Спрячься в темноте и они не увидят тебя...
+It seems that Soway isn't here, you should probably go back to Legolus and see if he has any ideas of what to do next.@§7Похоже, Soway здесь нет, ты должен вернуться назад к Legolus'у, может у него есть идеи что делать дальше.
+This is fairly simple parkour. Avoid the enemies!@§7Это простой паркур. Избегай врагов!
+No one understood the connection between Gavel and the Realm of Light better than ourselves, the Elves.@§7Никто не понимал связь между Gavel'ом и Царством Света лучше чем мы, эльфы.
+Fight through this area.@§7Сражаясь, пройди эту арену.
+The Light told us, through various means, that the path to happiness is through selflessness. And it was true; those who followed good morals lead a happier life.@§7Свет рассказал нам, с помощью различных средств, что путь к счастью лежит через самоотверженность. И это была правда. Те, кто следует добрым нравам, ведут более счастливую жизнь.
+However, there were still those, who could not follow. The villagers, our neighbour and ally for centuries, were not so keen on following a greedless life.@§7Но также были те, кто не следовал этому - жители, наши соседи и союзники на протяжении веков, не хотели жить без жадности.
+Stand on the stone pressure plates to extinguish flames, and wood to light them. Match the sign at the front of the room.@§7Становись на каменные плиты, чтобы потушить огонь, и на деревянные, чтобы зажечь его. Сделай так, как на табличке впереди комнаты.
+They loved money. So much so that they became increasingly more desperate to acquire it. But still, it was not the end of the world.@§7Они любили деньги. Настолько, что они становились все более отчаянными, лишь бы разбогатеть. Но на этом мир не заканчивался.
+Another simple fighting room.@§7Еще одна легкая боевая комната.
+That is, until a thousand years ago. Something happened between the realms, and to this day we are unsure exactly what caused it.@§7Так и было. Пока тысячу лет назад что-то не произошло между царствами, и мы по сей день не уверенны, что именно это было.
+This parkour moves as you jump across, and can be very difficult, especially with walk speed armor.@§7В этом паркуре тебе нужно будет перепрыгивать, что может быть проблематично, если у тебя броня на скорость ходьбы.
+Being immortal, we saw the effect of the realms war on Gavel. The forests to the north began to decay. The mountains began to erupt. Light, was fading.@§7Будучи бессмертными, мы видели эффект войны между царствами в Gavel'е. Леса к северу пришли в упадок. Горы начали извергаться. Свет угасать.
+Make it to the other side before the timer runs out.@§7Доберись до другой стороны прежде, чем закончится время.
+We were powerless, monsters began to emerge from all sorts of places we hadn't imagined. And so, the villagers set to explore lands across the sea.@§7Мы были бессильны. Монстры начали появляться везде, даже там где их совсем не ждали. И поэтому, жители сели на корабли и уплыли через океан исследовать земли.
+Simple parkour around the stem to get to the top.@§7Просто пропаркурь вокруг стебля на вершину.
+They found Wynn, a province at war. Once we discovered the bloodied history of your race, we learned about your portal.@§7Они нашли Wynn, провинцию войны. Когда мы исследовали кровавую историю вашей расы, мы узнали о портале.
+The top of the sunflower has some enemies.@§7На вершине подсолнуха есть враги.
+The portal, which opened 1000 years ago, about the same time Gavel began to decay. A clash of the realms of Light and Darkness.@§7Портал, который открылся 1000 лет назад, как раз в то время, когда в Gavel'е началось заражение. Столкновение царств Света и Тьмы..
+Step on the pressure plates to redirect the mirrors. Bounce the light from the generator to get to the sunflower.@§7Вставай на нажимные плиты, чтобы перемещать зеркала. Приведи свет от генератора к подсолнуху.
+Two forces which should never touch. It seems Gavel got off lightly, after hearing about the hundreds of years of torment the Wynn province endured.@§7Две силы, которые не должны были столкнуться друг с другом. Похоже Gavel легко отделался, в отличии от сотни лет мучений, что происходили в провинции Wynn.
+We believe the greed of the villagers weakened the purity of the Light realm. Although, we may be wrong. We, the Sol Embassy have been trying to restore it, ever since...@§7Мы верим, что жадность жителей ослабила чистоту Царства Света. Хотя, мы можем ошибаться. Мы, Солнечное посольство, попытаемся восстановить его, когда-нибудь...
+This platform is surrounded by lava. You should collect some at the edge of it.@§7Эта платформа вся окружена лавой. Ты должен собрать немного на ее краю.
+This should be more than enough lava, you should report back to Captain Enduyn.@§7Этого количества лавы будет более чем достаточно, ты должен вернуться обратно к Captain Enduyn'у.
+There is a system that is blocking the way... Maybe you can find hints to open it in the tents outside, or near the bridges..@§7Система блокирует путь... Может ты найдешь подсказки, чтобы открыть путь, в палатках неподалеку, или рядом с мостами...
+A strong spiritual force pulls you towards the graveyard, making it impossible to leave the area any other way than walking.@§7Сильная духовная сила тянет тебя в направлении кладбища, делая твой уход с этой территории невозможным, кроме как пройтись по кладбищу.
+Once there was a man,@§aКогда-то был человек
+who helped the spirits pass on,@§aКто помогал духам переходить из их мира в наш
+however he was still@§aОднако он все еще был
+mortal.@§aСмертным.
+The spiritual pull towards the graveyard loses its effect, making travelling easier.@§7Духовная сила кладбища ослабла, теперь ты можешь выйти.
+You read the report and visualize its words@§7Ты прочитал отчет и представил ситуацию:
+WITNESS REPORT I - TOLD BY ODIN GIBBS, SHOP OWNER - GIBBS' MINING SUPPLY STORE CO.@§7ОТЧЕТ СВИДЕТЕЛЯ I - СО СЛОВ ODIN GIBBS'A, ХОЗЯИНА МАГАЗИНА – ООО ЛАВКА ГОРНОДОБЫВАЮЩИХ ЗАПАСОВ GIBBS'A.
+Business was slow that day, until two rugged, oddly-dressed men stormed into my shop, with a lot of nerve.@§7Бизнес протекал медленно в тот день, до тех пор, пока двое изрезанных, странно одетых мужчин не ворвались в мой магазин, все на нервах.
+Before I could close any deal with them, the man with a dagger started threatening me!@§7Прежде чем мы успели все обсудить, человек с ножом в руке начал мне угрожать!
+I tried to make peace with the crooks.@§7Я попытался наладить контакт с жуликами.
+The bandit put the knife closer to me and started demanding the code to the TNT vault downstairs!@§7Бандит приставил ко мне нож и стал требовать код от хранилища с динамитом внизу!
+The bandits grew agitated and resorted to violence to obtain the combination.@§7Бандиты немного заволновались и решили прибегнуть к насилию ради получения комбинации.
+They swiped their knife at me, leaving a sizeable wound on my arm.@§7Он швырнул свой нож в меня, оставив на руке глубокую рану.
+I had no choice but to give up the combination, which was 7812.@§7У меня не было выбора, кроме как отдать им комбинацию, а именно 7812.
+After I gave up the combination, they knocked me out!@§7После того, как я дал им комбинацию, они вырубили меня!
+I had no idea what the criminals did after that, I never went back into my shop after the incident.@§7Я понятия не имел, что преступники сделали после этого, я никогда не возвращался в мой магазин после инцидента.
+Little TNT in the vault! It has been robbed...@§7Мало динамита в хранилище! Оно было ограблено...
+The criminals seemed to have dropped the knife used to stab shopkeeper Gibbs while robbing the vault...@§7Преступники похоже уронили нож, используемый, чтобы ударить торговца Gibbs'a во время ограбления хранилища
+You should return to the Almuj Bank Guard with your information.@§7Ты должен вернуться к охраннику банка Almuj'a с информацией.
+You read the report and visualize its words@§7Ты прочитал отчет и представил ситуацию
+WITNESS REPORT II - TOLD BY SCROLL MERCHANT, SHOP OWNER - ALMUJ SCROLL SHOP@§7ОТЧЕТ СВИДЕТЕЛЯ II - СО СЛОВ ТОРГОВЦА СВИТКАМИ, ХОЗЯИНА МАГАЗИНА – ALMUJ'СКИЙ МАГАЗИН СВИТКОВ
+I was having a fine time tending to my rooftop garden after a lengthy day of selling scrolls.@§7Я приятно проводил время на крыше моего сада, после долгого дня продажи свитков.
+While looking down on the street, I saw two unsavory men, one with TNT in hand, marching down the path.@§7Когда я посмотрел вниз на улицу, я увидел двух сомнительных мужчин. Один был с динамитом в руке, они продвигались по дороге.
+I was suspicious, so I tried to get their attention, but they ignored me.@§7Это меня насторожило, я попытался привлечь их внимание, но они меня проигнорировали.
+I then realized that had no innocent itinerary, they were heading straight for my wealthy neighbor's house!@§7И тут я осознал, что шли они не просто так, они двигались прямо к дому моего богатого соседа!
+I tried to yell for the attention of a guard or official, but nobody could hear me.@§7Я пытался кричать, чтобы привлечь внимание охранников или стражей порядка, но никто не слышал меня.
+Before anybody could hear me, a large explosion occurred inside of the house the bandits intruded.@§7И прежде чем никто меня не услышал, произошел большой взрыв в доме, куда вторглись бандиты.
+The bandits came sprinting out of my wealthy neighbor's house with two of his most prized possessions: two of his weapons.@§7Бандиты вышли из дома моего богатого соседа, захватив две его самые ценные вещи: два оружия.
+This bedroom is where the explosion occurred! The criminals seemed to have the intention of breaking into the vault... you should investigate it.@§7Похоже, в этой спальне произошел взрыв! У преступников, видимо было намерение ворваться в хранилище... ты должен исследовать его..
+Two weapons are missing from the wealthy estate owner's weapon rack.@§7Два оружия пропали из оружейного шкафа богатого владельца недвижимостью.
+The two weapons stolen by the criminals were stolen from this vault.@§7Оружия, похищенные преступниками, были в этом хранилище.
+It is troubling the criminals have access to weapons so powerful they must be locked in a safe.@§7Беспокоит то, что преступники имеют доступ к оружию, настолько мощному, что их необходимо было запирать в сейфе.
+You should return to the Almuj Bank Guard with your information.@§7Ты должен вернуться к охраннику банка Almuj'a с информацией.
+Find where the bandits are breaking into the bank@§7Найди место, где бандиты проделали дыру в банк!
+Advance to the next room.@§7Пройди в следующую комнату.
+Defuse the TNT to prevent the bandits from escaping with the emeralds!@§7Обезвредь динамит, чтобы не дать сбежать бандитам с эмеральдами!
+You hear the sound of glass shattering near the back of the mansion...@§7Ты услышал звук разбившегося стекла позади себя...
+The rift near the entrance to the mines is now open.@§7Ворота рядом со во входом в шахту открыты
+You've reclaimed your soul.@§7Ты получил обратно свою душу.
+As you open the door, you feel some soft wind running past you. The temptations have stopped...@§7Когда ты открыл дверь, ты чувствуешь, как легкий ветерок пролетает мимо тебя. Искушения прекратились...
+You find a tattered journal on the ground in front of this slimy cave. You skim through some of the pages...@§7Ты нашел разорванный журнал перед входом в эту слизкую пещеру. Ты начал просматривать несколько страниц...
+...this cave...for some reason it seems to erupt with fresh slime masses every minute...@§7...эта пещера...по какой-то причине она извергает свежую массу из слаймов каждую минуту...
+...the bottom...has a weird pit...maybe used to sacrifice something...@§7...на дне...есть странная яма...возможно, когда-то использовалась для жертвоприношений...
+...maybe...if you bring a mob there...by letting it follow you... you can do something...dark...@§7...быть может...если ты приведешь сюда моба...позволяя ему следовать за собой... то можно создать нечто...темное...
+You seem to have fallen into an ancient ruin of some sort. Maybe the incantation is somewhere inside...@§7Похоже, ты попал в некое подобие древних руин. Быть может, заклинание где-то внутри...
+In 831 AP, Troms was on its knees. Hordes of undead were crippling the army and castle.@§7В 831 году после открытия портала, Troms был в упадке. Орды мертвецов нападали на армию и замок.
+The King sought the help of a shaman, Slykaar. Shamans use the life of sacrifices to inflict damage. Dark magic.@§7Король обратился за помощью к шаману – Slykaar'у. Шаман использовал жертвоприношения для отражения нападений. Темная магия.
+Slykaar defended Troms. At an immense cost. Slykaar loved the attention and power. He controlled the city.@§7Slykaar защищал Troms. Но за огромную цену. Slykaar любил внимание и власть. Он контролировал город.
+Troms had suffered from the hordes and from the endless sacrifices of Slykaar for years.@§7Troms страдал от орд мертвецов и от бесконечных жертвоприношений Slykaar'а в течение многих лет.
+Then... Bob appeared. The people of Troms instantly dropped their horrible shaman for the pure hero.@§7Но затем... Появился Bob. Народ Troms'а немедленно бросил своего ужасного шамана ради чистого героя.
+Slykaar, bitter and humiliated, sunk underground to restart his demonic experiments for an army.@§7Slykaar, обиженный и униженный, ушел в подземелья, чтобы возобновить свои демонические эксперименты для создания армии.
+You find a chest filled with dusty vials of...something. You begin to read the labels...@§7Ты нашел сундук, наполненный пыльными пробирками с ...чем-то. Ты начинаешь читать этикетки...
+Jungle Ocelot DNA. Dire Wolf DNA. Even Jungle Fetish DNA? You begin to feel uncomfortable, but you keep looking.@§7Jungle Ocelot ДНК. Dire Wolf ДНК. Есть даже ДНК Jungle Fetish? Ты начинаешь чувствовать себя некомфортно, но продолжаешь смотреть.
+You find a vial at the very bottom. It seems to have burned a hole of darkness right through the bottom of the chest...@§7Ты нашел пробирку на самом дне. Похоже, что она прожгла темную дыру прямо в дне сундука...
+You try to read the label, but it strains your eyes just looking at it. All you can make out is "Vial of De̢͏r҉n̷̡i̡͏̧͏͢c̕̕ ̶͝͏̡͡Ę̵̷͝s̶͟͜s̶͜ę̴͜ņ̶̛c̨͘e͢"...@§7Ты пытаешься прочитать этикетку, но даже взгляд на нее напрягает глаза. Все что ты можешь прочитать это "Пробирка D----- -------"...
+...it's probably best to stop looking now.@§7...Будет лучше перестать глазеть на нее.
+Entry 1: Began collecting jungle animals of all types. Placed them in cages to insure they won't escape. Will begin extracting DNA soon.@§7Запись 1: Начал собирать все виды животных из джунглей. Поместил их всех в клетки, чтобы быть уверенным, что они не сбегут. Скоро начну извлекать ДНК.
+Entry 2: All animal DNA has been extracted. Starting mutation of DNA; will collect results when finished.@§7Запись 2: Все ДНК животных были извлечены. Начинаю мутацию ДНК; после завершения запишу результаты.
+Entry 3: All animal DNA failed to mutate. Turned into a slimy mass upon completion of mutation process. Will continue testing to get better results.@§7Запись 3: Все ДНК животных провалили мутацию. Все они превратились в массу из слаймов по завершению процесса мутации. Буду продолжать тестирование до получения результата.
+Entry 4: Still not getting substantial results. I have found however that the undead produce slime masses closer to a successful mutation.@§7Запись 4: Все еще не добился существенных результатов. Однако, я нашел то, что мертвые массы из слаймов ближе всего к успешной мутации.
+Entry 5: Had the first successful mutation today. Achieved by combining two undead animals together. Very powerful; could be a good candidate for a soldier.@§7Запись 5: Сегодня произошла первая успешная мутация. Удалось соединить двух мертвых животных вместе. Очень мощное; будет отличным кандидатом для солдата.
+Entry 6: I have discovered something darker. Stronger. If I can harness this power, I can bec̵͠͠o̴͜͞ḿ̡̡͝ę̡ ̀͞͞t̡̀h́͜͢é́͢ ̶҉̵G̕͟Ò̴͜D̕͟ ̸̨́͞ǫ̵͝f̷͘ ̷͘͠t̸̡̡̢h̸͡í̷͞s̷̢̕͝ ̕͞͝͠w̨̧̡̕o̵̡͢r̨͠͏̢l̸̡̨͘͞d̶̕͠.̨̕͘@§7Запись 6: Я открыл нечто темное. Сильное. Если мне удастся впитать эту силу, то смогу стать--- --- --- -- ---- ------
+It's an old, dusty journal. It seems to be left open to a page. You begin to read it out of curiosity...@§7Это старый, пыльный дневник. Кажется, он остался открытым на одной из страниц. Ты начинаешь читать его из любопытства...
+...Troms is beginning to grow suspicious of me...some guy named Robert came into town...@§7...В Troms'е начали подозрительно ко мне относиться...некий парень по имени Robert пришел в город...
+...I know they will banish me...he is too good...too nice...@§7...Я знал, что они прогонят меня...он был слишком хорош...слишком правильный...
+...I must open a portal...make a dimension to become more powerful...@§7...Я должен открыть портал...создать измерение, чтобы стать еще сильнее...
+...the books...I have prepared well for this...@§7...Книги...я хорошо подготовился для этого...
+...I will carve a hidden room...behind a visible wall...to create my world...my revenge...@§7...Я создам тайную комнату...позади видимой стены...чтобы создать мой мир...мою месть...
+You should probably head back to the Mage to show her what you found...@§7Вероятно, ты должен вернуться назад к магу, и показать ей то, что нашел...
+Suddenly a loud noise can be heard coming from Veekhat's lab.@§7Внезапный громкий звук послышался из лаборатории Veekhat'а
+The cabinet opens and a cure falls out. Drinking it turns you back into a human.@§7Ты открыл кабинет и нашел противоядие. Выпей его, чтобы вернуться в человеческое тело.
+Whatever that odd feeling was, it's over now. And there's Asher's shovel! Better return this to him.@§7Что бы это ни было за странное чувство, теперь все закончилось. А вот и лопата Asher'а! Лучше вернуть ее ему.
+Why does she have a secret base under her bed?@§7Зачем ей нужна секретная база под кроватью?
+If you want to know the truth, find me and talk to me...@§7Если ты хочешь знать правду, найди и поговори со мной...
+The truth lies at the Library of Flames. The caves south of the bank...@§7Истина лежит в библиотеке пламени. Пещеры к югу от банка...
+You successfully destroyed the power core of the city.@§7Ты успешно уничтожил энергетическое ядро города.
+someone@§7кто-то
+The Royal Guards escort you and Axelus out of the palace.@§7Королевские гвардейцы сопроводили тебя и Axelusа из дворца.
+When getting Crystallized Lava:@§7Когда пойдешь за Crystallized Lava:
+Infunde hoc monile, alta intra monte. Magia!@§7Infunde hoc monile, alta intra monte. Magia!
+You return back to Maex with the ice...@§7Ты вернулся назад в Maex со льдом...
+A weird noise is heard from outside...@§7Странный звук исходит снаружи...
+A hole in the wall has been opened...@§7Дыра в стене была открыта...
+A few hours later...@§7Пару часов спустя...
+You should rendezvous with Ragon back at camp to let him know you are alive.@§7Тебе следует встретиться с Ragon'ом, что бы дать знать ему, что ты жив.
+Historians tell of a time when the humans were not capable of harnessing the power of elements on their weapons and armor, yet this theory contains little evidence.@§7Историки рассказывают о времени, когда люди не могли использовать энергию элементов на своей броне и оружии, и похоже у этой теории есть некоторые доказательства.
+The arts are not skills that can be taught to a figure through a scroll of words, you must experience training first-hand under the wings of an experienced sensei.@§7Искусства невозможно выучить просто прочитав пару свитков со словами на них, ты должен получать опыт из первых рук под крылом опытного сэнсэя.
+Legend tells of a mighty, fierce dragon that caused terror across the ancient former homelands of the practicers of the arts, yet an anonymous figure vanquished the dragon in an unbelievable feat.@§7Легенда гласит о могущем и жестком драконе, который приносил ужас и страх на родину практикующихся искусств, пока неизвестная фигура не убила его в невероятной схватке.
+This is not the scroll you are looking for.@§7Это не тот свиток, который ты ищешь.
+Theorists explain of a world in the distant future of advanced supertechnology downsized to small portable devices containing endless knowledge and information all at the tip of your fingers, yet this shows little to no promise of becoming reality.@§7Теоретики описывают мир далекого будущего, в котором будут продвинутые супертехнологии со знаниями всего мира, помещающиеся на руке. Но пока неизвестно, станет ли это реальностью и стоит ли этому доверять.
+To brew one cup green tea, you will need 1 Water Bucket, 1 Ginger Root, 1 Sugar, and 1 Lemongrass. Boil ingredients in cauldron.@§7Чтобы сварить одну кружку зеленого чая, тебе нужно 1 Ведро воды, 1 Корень имбиря, 1 Сахар, и 1 лимонная трава. Свари ингредиенты в котле.
+You throw the ingredients into the tea cauldron to boil@§7Ты бросаешь ингредиенты в котел, чтобы сварить
+You scoop a fresh, hot cup of 1 Green Tea from the pot.@§7Ты достаешь свежую, горячую кружку зеленого чая из котла.
+Maybe you should donate the tea to a wild creature from the Xìngzhì cave to become peaceful with it.@§7Может тебе следует поднести кружку чая дикому животному из Xìngzhì пещеры, чтобы подружиться с ними.
+The cow raises its head to look at you, its eyes flare at the sight of the green tea.@§7Корова поднимает голову чтобы посмотреть на тебя, ее глаза направлены на кружку чая.
+You gesture the tea generously towards the cow, and place it on the ground for it to drink. The cow nods respectively to you.@§7Ты подносишь чай к корове и аккуратно ставишь его на землю, чтобы выпить. Корова поклоняется, чтобы отблагодарить тебя.
+The sheep raises its head to look at you, its eyes flare at the sight of the green tea.@§7Овца поднимает голову чтобы посмотреть на тебя, ее глаза направлены на кружку чая.
+You gesture the tea generously towards the sheep, and place it on the ground for it to drink. The sheep nods respectively to you.@§7Ты подносишь чай к овце и аккуратно ставишь его на землю, чтобы выпить. Овца поклоняется, чтобы отблагодарить тебя.
+The pig raises its head to look at you, its eyes flare at the sight of the green tea.@§7Свинья поднимает голову чтобы посмотреть на тебя, ее глаза направлены на кружку чая.
+You gesture the tea generously towards the pig, and place it on the ground for it to drink. The pig nods respectively to you.@§7Ты подносишь чай к свинье и аккуратно ставишь его на землю, чтобы выпить. Свинья поклоняется, чтобы отблагодарить тебя.
+No Hat@§7Никаких шляп
+A massive corrupted pit is visible in the distance, to the north-east. A similarly huge dark hand seems to be sprounting from within it. It strains your mind to view...@§7Массивная яма виднеется вдалеке на северо-востоке. Такая же огромная темная рука растет изнутри ее. Выглядит очень впечатляюще
+A massive tremor suddenly rocks the hill, and a wave of despair washes over you. This feels somehow familiar...@§7Началась массивная тряска, неожиданно камни попадали с гор, и волна отчаяния накатила на тебя. Это выглядит как-то знакомо...
+Ballreth Illi'dan Coropleth!@§7Баллретх Илли'дан Короплетх!
+A warming comfort suddenly washes over your body. The despair filing the air before seems distant now.@§7Комфортная теплота внезапно пробежала по твоему телу. Отчаяние, витавшее в воздухе, кажется теперь далеко.
+Llid a adfail, ei ryddhau oddi wrth eich carchar marwol... gadewch affwys hwn a dod anhrefn i'r byd hwn pechadurus...@§7Ллид а адфайл, эй руддхау одди вртх айч карчар марвол... гадевч аффвиз хвн а дод анхрефн и'р буд хвн печадурус...
+Belrath Mellanon sinthos!@§7Белратх Мелланон синтос!
+A clear trail of smoke can be seen leading to a cannon in the south.@§7Четкий след от дыма ведет к пушке на юге отсюда.
+Using the wooden board, center piece, and string, along with the tools at the workbench, you contruct a steering wheel. You should give it to Captain Relend.@§7Используя деревянную доску, центральную часть, нитку и инструменты на верстаке, ты скрафтил новый руль. Теперь отдай его капитану Relend'у.
+Using the ingredients you acquired, you make a peculiar-looking stew. It'll have to do, you should bring it to Relend.@§7Используя эти ингредиенты, ты приготовил неплохо выглядящее рагу. Отнеси часть Relend'у.
+This tent is far too damaged for use. Maybe Relend has other ideas for where to stay.@§7Эта палатка слишком поломана, чтобы в ней спрятаться. Может у Relend'а есть другие идеи.
+This boulder is too large to move! Maybe Relend has another solution...@§7Камень слишком большой, чтобы его подвинуть! может Relend подскажет решение...
+Using the sand, saw dust, and black powder, you craft a makeshift explosive. Take it to the boulder so you can destroy it.@§7Используя песок, опилки и порох ты изготовил кустарную взрывчатку. Самое время взорвать камень.
+Now that you have the explosive, place it in front of the boulder.@§7Поставь эту взрывчатку рядом с камнем и нажми на кнопку.
+It looks like a portal, you should definitely take a look inside.@§7Похоже что это портал, ты должен проверить, что там внутри.
+What is this place? Well, it looks like the portal's broken on this end so you'll have to find another way out.@§7Что это за место? Что же, похоже портал сломан с этой стороны, и тебе придется найти другой выход.
+You should head back to the mage with the wand.@§7Ты должен вернуться с посохом назад к магу.
+This is the Temple of Time...@§7Это Храм Времени...
+Here you can visit the memories of this land...@§7Здесь ты можешь посетить воспоминания об этой земле...
+The altar requires an item from the time you desire to access...@§7Для алтаря необходим предмет из того времени, которое ты хочешь посетить...
+You can not return until your goal is fulfilled...@§7Ты не сможешь вернуться, пока твоя цель не будет выполнена...
+You will access a memory as if you were present, but when you return it will be as if you were never there.@§7Ты получишь доступ к памяти, как будто для тебя это будет настоящее, но когда ты вернешься, все будет так, будто ты никогда не был здесь.
+589 AP@§7589 год после открытия портала
+411 years ago@§7411 лет назад
+You should stick around to find out how to reverse the spell.@§7Ты должен походить вокруг и узнать, как обратить заклинание вспять.
+You successfully protected the Portal!@§7Ты успешно защитил портал!
+The bridge has been fixed!@§7Мост был восстановлен!
+You hit an invisible barrier, but you don't see anything around anyways.@§7Ты уткнулся в невидимый барьер, но ты не видишь ничего вокруг, что тебя останавливает.
+Ollie reaches under the desk and produces a dusty tome labelled 'Magical Sight'@§7Ollie достает из-под стола коробку с надписью 'Магическое зрение'
+I'm sorry dads. I am going to go help this poor sick man outside the city. I'll be leaving through the North gate. I'll be back as soon as I can!@§7Простите, отцы. Я должен помочь одному человеку снаружи города. Я ухожу через северные ворота. Я вернусь так быстро, как смогу!
+The chest contains a leather bound notebook titled 'Diary: By Sasha The Apothecary'. Perhaps the gardener has something to say about this.@§7В сундуке ты нашел тетрадь в кожаном переплете под названием 'Дневник: Sasha Аптекарь'. Возможно, садовник хочет что-то сказать по этому поводу
+A few hours of sleep later...@§7После пары часов сна...
+You wake up when you hear a sudden, loud sound...@§7Вы проснулись от внезапного, громкого звука...
+After a few hours of sleep...@§7После нескольких часов сна...
+You fall onto the balloon, and make your way back to the ship...@§7Вы падаете на воздушном шаре, найдите способ вернуться на корабль...
+2, 1, 5, 3, 6, 4@§72, 1, 5, 3, 6, 4
+Rynver is pointing towards the deep hole behind him and then back at himself.@§7Rynver показывает рукой в сторону глубокой дыры позади него, а затем обратно на себя.
+Rynver slides the dentures back into his mouth.@§7Rynver вставляет зубной протез обратно в рот.
+Rynver's teeth fall out of his mouth as he talks.@§7Зубы Rynverа выпадают изо рта, когда он заканчивает говорить
+Rynver drops the tear into his bucket, which begins to glow.@§7Rynver роняет слезу в ведро, которое начинает светиться
+Rynver's teeth fall out of his mouth as he talks.@§7Зубы Rynver'а снова выпадают изо рта во время разговора
+As Anrod waters the flower, a petal of falls to the ground.@§7Anrod поливает цветок, лепесток падает на землю.
+You should return to Eppo with the lava after you've completed the puzzle.@§7Тебе стоит вернуться к Eppo с лавой, как только ты разгадаешь загадку.
+After finding the key...@§7После нахождения ключа...
+After falling down a trap@§7После попадания в ловушку
+Solve the puzzle.@§7Разгадай пазл.
+After getting into Theorick's private quarters.@§7После попадания в секретную комнату Theorick'а.
+This roof seems to be in perfect shape. You should probably find a safe way down to General Lecade's office.@§7Эта крыша похоже в идеальном состоянии. Тебе лучше найти безопасный путь вниз к офису генерала Lecade.
+Now that you're finally out of those dreadful sewers, you should get that worthless coin to General Lecade.@§7Теперь когда ты наконец вышел из этой вонючей канализации, отдай бесполезный амулет генералу Lecade.
+What a lovely shade of purple! You should probably head back to the General and tell him you got the job done.@§7Что за прекрасный оттенок розового! Ты должен вернуться назад к генералу и рассказать о выполненной работе
+What a spectacular performance! General Lecade should probably know what a great show you put on.@§7Что за великолепное исполнение! Генерал Lecade должен знать, какое отличное шоу ты устроил.
+Does General Lecade know this place exists? You should probably check it out...@§7Генерал Lecade вообще знал о существовании этого места? Ты должен его проверить...
+The screams of an unknown creature echo in your ears. It is not safe to continue without proper protection.@§4Ты услышал крик неизвестного существа. Будет опасно продолжать без должной защиты.
+There must be a way to open the door to the scientist's secret grave.@§7Должен быть способ открыть дверь в секретную гробницу ученого.
+There is an odd skeleton wearing earmuffs ahead.@§7Впереди странный скелет с надетыми наушниками.
+You can still hear an eerie howl flowing through the thin air and cold chill running through your veins.@§7Ты по-прежнему слышишь жуткий вой, протекающий через разреженный воздух и холодно проходящий по венам.
+More spirits are appearing as you walk through the cave.@§7Еще больше духов появляется по мере прохождения пещеры.
+You can feel your ear ringing as the banshee howls eeriely.@§7Ты чувствуешь, как звенят твои уши, когда Банши воет поблизости.
+You successfully broke through the cobwebs.@§7Ты успешно пробрался через паутину
+Seems like something is going on at the tomb.@§7Похоже что-то происходит у данжа.
+Maybe you can find out more by talking to her?@§7Может тебе удастся узнать больше ,если поговорить с ней?
+Looks like this is the room the journal is kept in...@§7Похоже, это та комната, в которой находится журнал...
+Talk to Geo and Tarek outside the mansion.@§7Поговори с Tarek'ом и Geo снаружи поместья.
+Enter the cart.@§7Войди в карету.
+Seems like there's a discussion going on...@§7Похоже, тут кто-то с кем-то дискутирует...
+Seems like the cart that was talked of might be worth a look...@§7Похоже на повозку, про которую шел разговор, стоит взглянуть...
+Seems like that note might give you a clue...@§7Похоже, что эта записка дала тебе зацепку...
+You should probably return to the tomb now.@§7Тебе лучше вернуться назад к данжу.
+"By scorching heat and shifting sand, break the barrier that seals this land!"@§7"Под палящим пеклом и зыбучим песком, сломай барьер, что запечатал эту землю!"
+It doesn't look like he can speak. His throat looks terribly swollen. You offer him the bottle...@§7Не похоже, что он может говорить. У него ужасно распухло горло. Ты предлагаешь ему бутылку...
+He snatches it out of your hands and chugs the entire bottle down. You can see the swelling reduce, and color return to his face.@§7Он выхватывает ее у тебя из рук и выпивает всю бутылку. Ты можешь видеть, как опухоль уменьшается, и цвет возвращается к его лицу."
+Mysterious Gemstone@§7Мистический драгоценный камень
+You realize you should probably make sure Aryn is all right before continuing...@§7Тебе нужно удостовериться, что с Aryn все в порядке, прежде чем уйти...
+You should tell Grandon about your discoveries@§7Ты должен рассказать Grandon'у о своих находках
+The carpet of different colour will show you the stone to reveal the tables secret.@§7Ковер различного цвета покажет тебе камень, чтобы раскрыть секрет стола.
+You should tell Grandon about your discoveries@§7Ты должен рассказать Grandon'у о своих находках
+This must be Santa's village, you should probably look for him.@§7Это должно быть деревня Sant'ы. Нужно найти его.
+The portal brought you to Detlas, the ball must be nearby.@§7Портал перенес тебя в Detlas, бальный зал должен быть где-то рядом.
+To learn the story of the Caritat family, you must experience what happened here many years ago...@§7Чтобы узнать историю семьи Caritat, ты должен испытывать то же, что произошло здесь много лет назад...
+This check is made out to a charity for a lot of emeralds.@§7Этот чек был выписан на благотворительность, в нем большая сумма эмеральдов.
+He seems to be very engrossed in his writing.@§7Похоже он очень увлечен своим писанием.
+me@§7мне
+(opening the Library Door)@§7(Открывая Library Door)
+Using the Library key, you open the lock. You may now use this door.@§7Используя библиотечный ключ, вы открыли замок. Теперь вы можете пользоваться этой дверью.
+It appears that all of the pages have been torn out...@§7Похоже, что все страницы были вырваны...
+Page 1: Today was my first day as the butler for the Caritat family. They gave me quite a warm welcome. I think I'm going to like it here.@§7Page 1: Сегодня был мой первый день в качестве дворецкого в семье Caritat. Они тепло меня приняли, и думаю, что я останусь здесь надолго
+Page 2: The Caritats are as nice as people say. They're some of the kindest people I've ever met, let alone work for.@§7Page 2: Caritat так же хороши, как о них говорят. Они одни из самых добрых людей, которых я когда-либо встречал, не говоря уже о работодателях.
+Page 3: That Timmy boy has been acting rather unusual lately... Uncharacteristically hostile. I wonder what's come over him.@§7Page 3: Правда, этот Timmy стал вести себя очень необычно в последнее время... Нехарактерно враждебно. Интересно, что на него нашло.
+Page 4: I've been hearing strange noises at night. Scratching, and sometimes yelling...I do hope nothing bad is going on.@§7Page 4: Я слышал странные звуки по ночам. Царапание, и иногда крики...Надеюсь, ничего плохого не происходит.
+Page 5: I don't even know how this happened, but Timmy performed dark magic. He shot a fireball! The north wall of the library was wrecked!@§7Page 5: Даже не знаю, как это случилось, но Timmy применил темную магию. Он выстрелил огненным шаром! Северная стена библиотеки была разрушена!
+You begin to experience visions of how this charred hole came to be...@§7У тебя начинают возникать видения того, как эта обугленная дыра здесь появилась...
+What's this spoon doing in the fireplace? Maybe you should bring it back to the Kitchen to find out where it came from.@§7Что эта ложка делает в камине? Может, тебе стоит принести ее обратно на кухню, чтобы выяснить, откуда она взялась
+Looks like there's a dinner party, and several residents of Gelibord have been invited! It appears Mr. Caritat is about to make an announcement.@§7Похоже, там праздничный ужин, и несколько жителей Gelibord'а были приглашены! Все ждут, когда мистер Caritat сделает объявление
+slight@§7небольшие
+It appears everyone has fled. Perhaps you should see what the remaining people are talking about...@§7Оказывается все сбежали. Возможно, ты должен расспросить, что остальные люди говорят об этом...
+Using the Study Key, you open the lock. You may now use this door.@§7Используя ключ от кабинета, вы открыли замок, теперь можно пользоваться этой дверью
+Page 1: DEATH DEATH DEATH DEATH DEATH DEATH DEATH DEATH DEATH DEATH DEATH.@§7Page 1: СМЕРТЬ СМЕРТЬ СМЕРТЬ СМЕРТЬ СМЕРТЬ СМЕРТЬ СМЕРТЬ СМЕРТЬ СМЕРТЬ.
+Page 2: There is a dark power beyond our control within this mansion. There is no use trying to fight it.@§7Page 2: Существует темная сила вне нашего контроля в пределах этого особняка. Нет никакого смысла пытаться бороться с ней.
+Page 3: I felt like all of the skulls were watching me. I had to turn them all towards the fireplace.@§7Page 3: Я чувствовал, что все черепа смотрели на меня. Мне пришлось превратить их всех в камин.
+There doesn't seem to be anything of interest in this room, although Mr. Caritat does have some weird hobbies...@§7Там, кажется, нет ничего интересного в этой комнате... Хотя, у господина Caritat действительно странные увлечения...
+Dear Anton, the chandelier fell in the main hall. Please fix it as soon as possible.@§7Уважаемый Антон, упала люстра в главном зале. Просьба исправить это как можно скорее.
+Looks like this key belonged to Timmy. How long has this been here? You should probably bring it back to his bedroom.@§7Похоже, этот ключ принадлежал Timmy. Как давно он здесь? Тебе, вероятно, следует вернуть его в спальню.
+Using Timmy's Bedroom Key, you open the lock. You may now use this door.@§7Используя ключ к спальне Timmy, вы открыли замок. Теперь вы можете пользоваться этой дверью.
+Was that Timothy as a child? Must have been at an earlier time. Seems there's a hole where he scratched the wall, there might be something inside...@§7Это был Timmy? Должно быть это происходило в прошлом. Кажется есть дыра, где он поцарапал стену. Там может быть что-то внутри...
+How did the Master Bedroom key even get in here? No matter, you ought to get this over to the Master Bedroom.@§7Как здесь оказался этот ключ от главной спальни? Неважно, надо принести его в хозяйскую спальню.
+Using the Master Bedroom Key, you open the lock. You may now use this door.@§7Используй ключ от главной спальни, вы открыли замок. Теперь вы можете пользоваться этой дверью.
+The entire mansion is on fire! The only exit is through the large door at the back!@§7Поместье охватило огнем! Единственный выход - через большую дверь в задней части дома!
+Is that Mister Caritat? You're going to have to take him down before you leave!@§7Это мистер Caritat? Похоже тебе придется уничтожить его, прежде чем уйти!
+With the entire Caritat family dead, and the flames engulfing the structure, the mansion slowly fell into decay...@§7После убийства семьи Caritat, и потухшего пожара, особняк стал медленно приходить в упадок...
+However, from the wreckage and ash, one survivor remained...@§7Однако, под обломками, нашли одного выжившего...
+It seems like the only way to get to the cliff on the other side is this airship, and the fire probably rendered it unusable... or did it?@§7Ты благополучно добрался до сундука, приготовься прыгать через дырку, которую прожег огонь.
+After witnessing your crash into the cliff, A Corkian citizen informed the government.@§7Похоже, единственный способ забраться на скалу это этот шар, и вероятно огонь сделал его непригодным для использования... или нет?
+Shortly after your victory security forces found the hideout and arrested the remaining separatists.@§7После того, как ты врезался в скалу, видевший это житель Corkus'а доложил об этом правительству.
+Their leader was nowhere to be found.@§7Сразу же после твоей победы стражи порядка нашли, где укрывались оставшиеся ‘патриоты' и арестовали их.
+Eminar@§7Eminar'а
+Employer: Scientist Ynnos.@§7Работодатель: Ученый Ynnos.
+Job Description: Manual labour, exploration, protection.@§7Описание работы: Ручной труд, исследования, защита.
+Location: Ahmsord Research facility [1118, 101, -4520].@§7Расположение: Исследовательский центр Ahmsord'a [1118, 101, -4520].
+Reward: Should you survive, 5LE.@§7Награда: Если выживете - 32 EB.
+It looks like everyone already went inside the submarine.@§7Похоже, что все уже внутри на подлодке.
+After successfully fixing the rope you find one leftover piece, you should give it to the mechanic.@§7После успешной починки цепи, у тебя остался один лишний кусочек. Отдай его механику.
+You wake up after a little nap.@§7Ты проснулся после небольшого сна.
+The area seems to be filled with junk that has fallen from Ahmsord.@§7Вся территория забита мусором, который упал из Ahmsord'a.
+The crystal must have fallen deeper.@§7Должно быть кристалл упал еще глубже.
+Although some parts broke, you succeeded in protecting the windshield.@§7Хоть некоторые части стекла и треснули, но вы успешно защитили лобовое стекло.
+A voice wakes you up.@§7Голос разбудил тебя.
+Report to the sleeping quarters until you reach the next island.@§7Сообщи спящим пассажирам, когда достигнете следующего острова.
+The submarine grinds to a halt.@§7Подлодка со скрипом останавливается.
+The crystal you're looking for is purple, not blue.@§7Кристалл что вы ищете фиолетового цвета, а не синего.
+Head back to the submarine and keep looking.@§7Возвращайся на подлодку и продолжай поиски.
+This isn't good. You're the only survivor... You need to continue the mission, it's better to just leave this place...@§7Это не есть хорошо. Ты единственный выживший... Тебе нужно продолжать миссию. Это лучше, чем просто уйти с этого места...
+You see a platform next to the submarine, this is your way out!@§7Ты увидел платформу рядом с разбитой подлодкой, это твой выход наверх!
+Toward the sunset@§7В направлении заката, среди северных цветов в тени кварца
+Among the northern flowers shaded by quartz@§7В направлении заката
+In a place of identity@§7среди северных цветов в тени кварца
+Above the leaves and between the glass@§7В месте идентификации
+In an emerald fountain, surrounded by the wealth of the villagers"': this clue's flag is found on top of the fountain in the plaza outside the bank, above the door to Gavel.@§7Между стеклом и листьями
+Beneath the cowl of the eastern titan@§7В эмеральдном фонтане, в окружении богатств жителей": эта подсказка ведет к фонтану на площади снаружи банка, над дверью в Gavel.
+Throw an emerald onto the bed on the first floor. Turn around and head to the other side of the room and jump down when the floor opens.@§7Сбрось эмеральд на кровать на первом этаже. Повернись назад и увидишь открывшуюся дыру в углу комнаты. Прыгай туда.
+Press the button on the tree at -272 52 -5299 and enter the cave. The path through the little waterfall at the end should be open now@§7Нажми кнопку на дереве на -272/52/-5299 и войди в пещеру, путь через маленький водопад в конце должен быть открыт
+After looking at your map, you conclude that you need to go to [1003,139,-4853] to obtain [Snail Slime].@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1003,139,-4853], чтобы добыть [слизь змеи].
+After looking at your map, you conclude that you need to go to [965,42,-4443] to obtain the [Voidroot].@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [965,42,-4443] чтобы добыть [корень пустоты].
+After looking at your map, you conclude that you need to go to [1217, 126, -4929] to obtain [Zork Rinds] and [Quicksalt]@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1217, 126, -4929], чтобы добыть [шкуру Zork'а] и [быструю соль]
+After looking at your map, you conclude that you need to go to [626,43,-4645] to obtain the [Blue-Ring Grook Egg].@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [626,43,-4645] чтобы добыть [синее яйцо Grook'a].
+After looking at your map, you conclude that you need to go to [1003,139,-4853] to obtain the [Snail Slime].@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1003,139,-4853] чтобы добыть [слизь змеи].
+After looking at your map, you conclude that you need to go to [1100,124,-4869] to obtain the [Talking Mushroom].@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1100,124,-4869], чтобы добыть [говорящий гриб].
+After looking at your map, you conclude that you need to go to [1103,113,-4434] to obtain the [Sunrise Flour].@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1103,113,-4434], чтобы добыть [очищенной муки].
+After looking at your map, you conclude that you need to go to [626,43,-4645] to obtain the [Blue-Ring Grook Egg].@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [626,43,-4645], чтобы добыть [синее яйцо Grook'a]
+After looking at your map, you conclude that you need to go to [1400,102,-3940] to obtain the [Skyhigh Raspberry].@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1400,102,-3940] чтобы добыть [высокорастущей малины].
+By heavily salting the zork rinds, you have created "double jerky". You throw it into the pot of the boiling water along with the voidroot.@§7Сильно посолив шкуру zork'a, ты приготовил "двойное вяленое мясо". Затем ты забросил это мясо в котел вместе с корнем пустоты.
+Next, you put in the snail slime and stir. After letting it simmer, you notice that the void root has doubled... you carry on anyway.@§7После ты перемешал все это со слизью змеи. Дав этому закипеть, ты заметил, что корень пустоты увеличился вдвое... несмотря на это, ты продолжил.
+You use the frying pan to create an omelette infused with snail slime and topped with mushroom. The mushroom ran away before you could use all of it for the dish.@§7Ты воспользовался сковородкой, чтобы создать омлет со слизью змеи и грибами.Часть грибов сумела убежать прежде, чем ты их приготовил.
+You use the oven to bake a simple egg and flour dough filled with Skyhigh Raspberries. Smells like... pie?@§7Ты использовал духовку, чтобы запечь муку с яйцом и малиной. Пахнет как... пирог?
+You barely take your first bite into Chef Hamsey's dish before it melts in your mouth... Will the stew manage to match Hamsey's skills?@§7Как только ты сделал первый укус блюда шефа Hamsey, оно растаяло у тебя во рту... Сможет ли твое рагу соответствовать умениям Hamsey?
+You barely take your first bite into Chef Hamsey's dish before it melts in your mouth... Will the omelette manage to match Hamsey's skills?@§7Как только ты сделал первый укус блюда шефа Hamsey, оно растаяло у тебя во рту... Сможет ли твой омлет соответствовать умениям Hamsey?
+You barely take your first bite into Chef Hamsey's dish before it melts in your mouth... Will the pie manage to match Hamsey's skills?@§7Как только ты сделал первый укус блюда шефа Hamsey, оно растаяло у тебя во рту... Сможет ли твой пирог соответствовать умениям Hamsey?
+You can see the outpost in the south. You should check back in with Ahmas.@§7Ты увидел форпост на юге. Вернись и расскажи об этом Ahmas'у
+All 3 map pieces seem to fit together...@§7Все 3 фрагмента карты соединились вместе...
+The 3 pieces form a map of an island...@§73 фрагмента образовали остров на карте...
+It looks like the island with the crystals. Maybe there is a way to the tallest part of the island on the side?@§7Это выглядит как остров с кристаллами. Быть может, где-то сбоку есть путь к самой высокой части острова?
+You are not able to move but you still hear the ongoing conversation.@§7Ты не можешь двигаться, но продолжаешь слышать все, что происходит вокруг.
+A key is laying on the ground, it seems there were more than one. Better take it and figure out a way off the island.@§7Ключ лежит на земле, и кажется, их было больше, чем один. Лучше взять его и попробовать найти выход с острова.
+Maybe you can fix this boat and get off the island?@§7Может ты сможешь починить эту лодку и отплыть с острова?
+There must be a hidden door in here. Better find out how to open it.@§7Где то тут должна быть скрытая дверь. Лучше найти способ открыть ее.
+Destroy the weak points and retrieve the cores to defeat Quartron.@§7Уничтожь слабые точки и извлеки ядра, что бы победить Quartron'а.
+Press the button under the TNT.@§7Нажми на кнопку под TNT.
+The pillar seems very unstable...@§7Эта опора выглядит крайне нестабильно.
+What is this weird sound? It sounds like running water.@§7Что это за странный звук? Звучит как бегущая вода.
+The pipe is flooding! Run!@§7Труба наполняется! Беги!
+The explosion appears to be more powerful than expected!@§7Взрыв оказался мощнее, чем ожидалось!
+You have to try to escape the water again.@§7Ты должен попробовать сбежать от воды еще раз.
+You suddenly feel very strange...@§7Ты почувствовал себя очень странно...
+You feel an indescribably odd sensation as you walk forward...@§7Ты чувствуешь себя неописуемо странно, когда идешь вперед...
+You feel absolutely delightful!@§7Ты чувствуешь себя восхитительно!
+What's that noise...?@§7Что это за звук...?
+It's coming from the west.@§7Он исходит с запада.
+What was that? It seems to have landed nearby, maybe you should go investigate.@§7Что это было? Похоже что-то приземлилось неподалеку. Тебе стоит сходить туда и узнать.
+It seems like the meteor crashed into a cave.@§7Похоже, что метеор упал в пещеру.
+The meteor shard is radiating an odd and unfamiliar magical energy@§7Кусок метеора излучает странную и незнакомую энергию.
+The cave is collapsing! Find a way out, quickly.@§7Пещера обваливается! Найди выход наружу, побыстрее.
+Someone stole a piece of meteorite. It's unstable and dangerous..."@§7Кто-то украл кусок метеорита. Он нестабилен и опасен...
+A weird trail leads off to the east, maybe you can retrieve the meteor if you follow it?@§7Странный след ведет на восток. Может получится вернуть метеор, если пойти по нему?
+I can't control myself...@§7Я не могу контролировать себя
+There must still be clues as to what Garoth used to do around here, or elsewhere...@§7Тут должны были остаться старые улики того, что Garoth делал здесь, или где-то еще...
+The book shows a small map of the Nether Portal and the surrounding area, along with a big red X at one of the caves in the south area closest to Elkurn.@§7В книге есть маленькая карта Портала в Ад и близлежащих территорий, вместе с большим красным X на одной из пещер ближе к южной стороне Elkurn'а.
+It seems like this cave entrance has been blocked... What can be done to open it...?@§7Похоже, что этот вход в пещеру заблокирован... Что можно сделать для его открытия...?
+You visualize Garoth's next few words...@§7Ты визуализировал следующие слова Garoth'а...
+His final notes...@§7Его последняя запись...
+Dried stains of red can be seen on the page...@§7Высохшие пятна красного цвета видны на странице...
+The spot gurgles and the ground bubbles around you. A dead bush slowly grows from the center.@§7Место булькает и образуются пузыри вокруг тебя. Мертвый куст медленно растет из центра.
+The roots of the tree grasp your feet and plunge you into a mysterious fog.@§7Корни дерева схватили тебя за ноги и погрузили в таинственный туман.
+You start to feel weaker as you enter the cave...@§7Ты чувствуешь себя слабее после захода в пещеру...
+It feels as though demons are starting to consume your mind... maybe it wasn't a good idea to enter this place...@§7Ты чувствуешь как демоны медленно проникают в твой разум... может это была не лучшая идея заходить сюда...
+It appears you've been swallowed. You should probably bring the flower to Ozoth's stomach, if you can find a way there. Perhaps there's something at the top of the throat.@§7Похоже тебя проглотили. Ты должен донести цветок к желудку Ozoth, если найдешь туда путь. Возможно, что-то есть сверху у горла.
+exactly@§7такой же
+Oh no! Something has changed. You should hurry back to Psilo.@§7Ох, нет! Что-то пошло не так. Ты должен быстрее вернуться к Psilo.
+Oh no! The shrinking effects have worsened!@§7О нет! Эффект уменьшения усугубился!
+Your surroundings shrink around you.@§7Окружение сжимается вокруг тебя.
+Your size has returned to normal! You should return to Psilo.@§7Ты вернулся в свое обычное состояние! Теперь вернись к Psilo
+This must be the gas Grenot was talking about, luckily it doesn't seem to affect you...@§7Должно быть это тот газ, о котором говорил Grenot, хорошо что он не воздействует на тебя...
+This crack must be the source of the gas. Maybe you can use something here to seal it...@§7Эта трещина должна быть источником газа. Может можно что-то использовать, чтобы закрыть ее...
+The crack closes, and stops the gas from pouring out. It seems an exit has appeared, too.@§7Дыра закрылась, и перестала выбрасывать газ. Похоже что и выход открылся.
+Even though you contained the gas, there appears to be some leftover. That thing must've been responsible.@§7Чем дольше ты вдыхаешь газ, тем хуже тебе становиться. Ты должен помнить об этом.
+With all this fire, the leftover gas might make this place explode! Get out of here, quickly!@§7Вместе со всем этим огнем газ может вызвать взрыв! Быстрее выбирайся оттуда!
+That was a close call, but it seems you made it out safely.@§7Это было близко, но похоже все прошло успешно.
+This spike appears to be much larger than the others around the village, but nothing unusual. You should take a closer look at the top.@§7Этот шип выдвинут немного больше, чем другие шипы по всей деревне, но ничего необычного. Ты должен добраться ближе к вершине.
+When observing the spike from on top, you notice absolutely nothing. You should report back to Orikal.@§7При осмотре вершины шипа тебе не удалось ничего найти. Ты должен вернуться обратно к Orikal'у.
+That explosion sounded like it uncovered something big. You should take a look.@§7Звук взрыва звучал так, будто там открылось нечто большое. Тебе стоит взглянуть.
+Orikal pays the excavators.@§7Orikal заплатил землекопам.
+You filled the container with a glowing liquid. You can use the well to bring it up to the surface.@§7Ты наполнил контейнер светящейся жидкостью. Можешь использовать колодец и вывести его на поверхность.
+The ore begins to glow and vibrate in your hand when you take it... it's about to explode!@§7Руда начала светиться и вибрировать в твоих руках, когда ты ее взял... она может взорваться!
+The ore exploded! Looks like you have to get more from the cave and try again!@§7Руда взорвалась! Похоже, тебе придется достать еще одну из пещеры и попробовать снова!
+The machine begins making strange sounds, but after a little while the ore falls out the other side of the machine.@§7Машина начала издавать странные звуки, но спустя некоторое время руда выпала с другой стороны машины.
+The ore appears to have temporarily lost its explosive attribute. It is safe to carry.@§7Кажется, руда полностью потеряла свои взрывоопасные свойства. Ее можно безопасно брать.
+Orikal takes the materials you retrieved and puts them in a container. He mutters some words in an unknown language, and suddenly the container turns into some sort of Magical TNT.@§7Orikal взял принесенные тобой материалы и поместил их в контейнер. Он пробормотал пару слов на неизвестном языке, как вдруг контейнер превратился в Магический динамит.
+It appears this magical TNT worked. Now that the spike's roots have been demolished, you should talk to Orikal about your success.@§7Похоже, что Магический динамит сработал. Теперь корни шипа были уничтожены, ты должен вернуться к Orikal'у и рассказать о своем успехе.
+You should collect the gem in the left socket before leaving, regardless of the strange figure's ominous comments. Is there a way to climb up somewhere nearby?@§7Ты должен забрать камень из левой впадины, прежде чем уйти, несмотря на зловещие комментарии загадочной фигуры. Где-то поблизости есть путь наверх?
+This gem seems to match the one in the normal world. It seems like the only way to go from here is into the skull.@§7Этот камень кажется похожим на тот, что и в обычном мире. Вероятно, единственный выход отсюда через череп.
+The bot scans the key and takes it.@§7Бот сканирует и забирает ключ.
+Referick stares at you with soulless eyes...@§7Referick посмотрел на тебя пустым взглядом...
+The soul of Referick enters the lifeless body through his white eyes, which begin to gain colour once more.@§7Душа Referickа вошла в тело через глаза - он начинает оживать.
+There is some kind of message about a cursed, bloody altar hidden nearby. A crude diagram points to the south side of the mansion.@§7Здесь какое-то сообщение о проклятом, кровавом алтаре, спрятанным неподалеку. Указатель на схеме указывает на южную сторону особняка.
+You hear a voice coming from the giant human head. You should inspect it.@§7Странный голос был из гигантской человеческой головы. Ты должен это проверить.
+There appears to be a cave up above.@§7Похоже, что сверху есть пещера.
+- Airship leaves Eltom 6:15 to Thesead@§7- Дирижабль отправляется из Eltom'а в Thesead в 6:15
+- Mayor's office on the top layer of Thesead@§7- Офис мэра в Thesead'е, наверху башни
+- Remember to set up Dwarven bank account@§7- Не забыть открыть счет в банке гномов
+You feel a very heavy blow to the back of your head. You wake up here.@§7Ты почувствовал сильный удар в затылок. Ты скоро проснешься.
+To escape your cell, you must pick this weird lock. It seems that the spinning a ring inside will spin the rings next to it another way@§7Чтобы сбежать из клетки, ты должен открыть этот странный замок. Похоже если крутить кольцо внутри, то кольцо снаружи закрутится в обратную сторону
+To Hilan.@§7Для Hilan'a.
+Hello! This is Engineer Buine. I have installed the "STOP ENGINE" button, just like you asked.@§7Привет! Это инженер Buine. Я установил кнопку остановки двигателя "STOP ENGINE", как ты и просил.
+It was supposed to be in the cargo hold, right? That room by the stairs? Anyways, it's there.@§7Она должна быть в грузовом отсеке, верно? В комнате по лестнице? Неважно, она уже там.
+My job is done, I'll be expecting my payment by this time next week.@§7Моя работа завершена, так что жду оплаты на следующей неделе.
+Cell Key@§7Ключом от клетки
+The blood is still fresh. This can't be good. Looks like the blood is leading to that narrow tunnel in the back of the cell. I should check it out.@§7Кровь еще свежая. Это не хорошо. Похоже, кровь ведет в тоннель позади клетки. Ты должен проверить.
+Barricade Key@§7Ключ от баррикады
+The barricade opens before you, as you put the key in the keyhole. You may go now.@§7Баррикада открылась, как только ты приложил ключ к ней. Можешь идти.
+The note says that the battery farm is located under Jitak's house. Start by investigating his house!@§7В заметке написано, что птицефабрика находится под домом Jitak'a . Посети его дом!
+As you try to enter the farmer's house, the iron golem pushes you back. Find a way around!@§7При попытке зайти в дом фермера, железный голем отталкивает тебя. Найди другой путь!
+The power has been turned off. The gert can now escape.@§7Энергия отключена. Герт теперь может сбежать.
+The light dog lunges towards you!@§7Собака света напала на вас!
+The seed must have hatched! But if something hatched from the seed... then where did it go?@§7Семя выглядит так, как будто кто-то вылупился из него! Но если он вылупился...куда же он делся?
+There is a lot of blood and destruction here... Perhaps the farmer can tell you more.@§7Здесь полно крови и разрушений... Возможно, фермер расскажет тебе больше.
+This cave must lead to the secret dwarven vaults. But walking there would probably take a while...@§7Это пещера ведет в секретное хранилище гномов. Но вход туда может занять некоторое время...
+Dodegar carefully selects the finest piece of wood from the pile, and begins carving.@§7Dodegar осторожно выбрал хорошие куски из этой кучи, и начал строгать.
+Dodegar carefully examines each bar of iron and selects a single iron bar from the pile before him.@§7Dodegar тщательно проверяет каждый слиток железа из кучи перед ним и выбирает только один.
+Dodegar begins sharpening the blade as he said that.@§7Dodegar начинает затачивать лезвие, как он и говорил
+As Dodegar says that, he quickly grabs the blood and performs a strange ritual.@§fКак Dodegar сказал, он берет кровь и совершает странный ритуал.
+The Grootslang lies dead on the floor, it looks like it has small bite marks all over it.@§7Grootslang лежит мертвым на полу, похоже у него следы укусов по всему телу.
+Kill the mobs.@§7Убей мобов.
+Defend Miner Linton by killing all the Zombies.@§7Защити Miner Linton'а, убив всех зомби.
+Continue clearing the cave.@§7Продолжай очищать пещеру.
+Open the gates of the cow pens to free them! Don't let the farmer see you!@§7Открой ворота в загонах коров, чтобы освободить их! Не позволяй фермеру увидеть себя!
+Free the cows.@§7Освободи коров.
+You were caught! Try again!@§7Тебя поймали! Попробуй снова!
+Looks like you freed the cows successfully. You should return back to Drale.@§7Похоже, ты успешно освободил коров. Тебе нужно вернуться к Drale.
+Push the raft.@§7Нажми на плот.
+How long have you been helping this lunatic steal cows? You realize you should probably get back to Linton.@§7Как долго ты помогал этому сумасшедшему красть коров? Ты понимаешь, что тебе, вероятно, стоит вернуться к Linton'у.
+As you enter the tomb, a putrid smell filled your nostrils...@§7При входе в гробницу, гнилой запах наполнил твои ноздри...
+As the door opens, a chill runs down your spine as the heat of the desert is sealed behind you...@§7Как только открылась дверь, холод начинает бежать по спине, хотя позади жара пустыни...
+You hear the muffled shriek of an evil creature through the door...@§7Ты слышишь приглушенный крик злого существа через дверь...
+Two fundamental forces exist in our world. One of Darkness, and one of Light.@§7Две основные силы, которые существуют в нашем мире. Одна из Тьмы, и одна из Света.
+The Darkness and Light grew closer, but never touched...@§7§7Тьма и Свет стали ближе, но не соприкоснулись...
+At least, not on their plane of existence. They fight for influence over our land from afar.@§7По крайней мере, не на их уровне существования. Они борются за влияние на нашу землю издалека.
+However, when the two touch through influence, it is not twilight that is formed. But a land of corruption.@§7Однако, когда их влияние соприкасаются, образуются не сумерки. А испорченная земля.
+The ancients placed some of that power in various crystals, and it is said that the one to reunite them has the power to change the world.@§7Древние поместили часть этой силы в различные кристаллы, и если соединить их вместе – это изменит мир.
+You shouldn't enter without the rat poison to kill the corrupt beast! Get a crate from the stack by the farmer's house!@§7Ты не должен заходить без крысиного яда, чтобы убить испорченного паразита! Возьми контейнер из кучи у дома фермера!
+You shouldn't turn on the sprinkler system without poisoning the water!@§7Ты не можешь включить систему опрыскивания, не отравив воду!
+The putrid smell coming out of this hole does not make you want to explore it.@§7Гнилой запах, выходящий из этой дыры, отбивает все желание исследовать ее.
+Woa there kiddo, there ain' no gold for you in this here cave, this is my humble occupation.@§7Воу, полегче малыш, для тебя нет золота в этой пещере, эта моя территория.
+[Floor Completed]@§7[Этаж пройден]
+Only the head of a spirit can enter this domain.@§7Только с головой духа можно войти в эту область.
+The spiritual pull towards the graveyard loses its effect, making travelling easier.@§7Духовное притяжение перед кладбищем теряет свой эффект, облегчая путешествие.
+,:Stay' .away;:@§7Держись подальше
+As you approach the tomb, your fears become greater, and you decide to stay away from this place... for now...@§7Когда ты приближаешься к гробнице, твои страхи усиливаются, и ты решаешь держаться подальше от этого места... пока что...
+A strange force prevents you from entering. You can hear some soft laments in the distance...@§7Странная сила мешает тебе войти. Ты можешь слышать некий мягкий плач вдалеке...
+You really don't have a reason to go in here@§7У тебя действительно нет причин идти туда
+You can hear a loud humming coming from the hole, you should not go in there.@§7Ты слышишь громкое гудение, идущее из этого отверстия; ты не должен идти туда.
+You hit an invisible barrier, but you don't see anything around anyways.@§7Ты уткнулся в невидимый барьер, но ты не видишь ничего вокруг.
+This path looks shaky and dangerous...@§7Этот путь выглядит ненадежным и опасным...
+You should not go into this mansion without permission.@§7Ты не должен заходить в это поместье без разрешения.
+Inrekei is not responding. You feel it's best to leave him be.@§7Inrekei не отвечает. Ты чувствуешь, что лучше оставить его в покое.
+The mercenaries wont let you near the king's son.@§7Наемники не подпускают тебя к королевскому сыну.
+Can't be wandering about someone's property all willy-nilly! Better stay away for now.@§7Нельзя бродить по чьей-то собственности по своему желанию! Лучше держаться подальше.
+You should check your quest book to see what to do next.@§7Ты должен заглянуть в свою квестовую книгу, и узнать, что делать дальше.
+It seems rude to just barge into someone's house like that.@§7Это кажется грубым, чтобы просто врываться в чей-то дом вот так.
+A bone chilling scream can be heard from inside the sewer...@§7Леденящий душу крик доносится изнутри канализации...
+The sudden silence leaves you uneasy...@§7Внезапное молчание вызывает беспокойство...
+The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Keystone Guardian'а активировало ее...
+You are under attack! Defend yourself by aiming and firing your ship's cannons.@§7Ты находишься под атакой! Защити себя, путем прицеливания и стрельбы из пушек своего корабля.
+Align your cannon with an attacking pirate using the controls, and fire to destroy them, but be careful - if one reaches your ship it will be damaged!@§7Выровняй свою пушку с атакующим пиратом, используя элементы управления, и стреляй, чтобы уничтожить их. Но будь осторожен - если кто-то достигнет твоего корабля, он будет поврежден!
+The door to the Treasure Vault has opened, but it will close in 20 second again!@§7Дверь в Хранилище с сокровищами открыта, но она закроется через 20 секунд!
+Get to the Treasure Vault in 20 seconds before it closed!@§7Доберись до Хранилища с сокровищами за 20 секунд, прежде чем оно закроется!
+Siegfried, Hero of Gavel@§7Siegfried - герой Gavel'a
+In recent times, Gavel has been threatened by many monsters. But wherever trouble lurks, the province can always depend on its legendary hero, Siegfried.@§7В последнее время Gavel был под угрозой со стороны многих монстров. Но где бы ни скрывалась беда, провинция всегда может рассчитывать на своего легендарного героя -  Siegfried'a.
+Everyone in Gavel has their own tale to tell about Siegfried's tremendous strength and skill. He has saved many lives.@§7У каждого в Gavel'e есть своя история с рассказом об огромной силе и мастерстве Siegfried'a. Он спас много жизней.
+Wynn may have had Bob as its hero, but Gavel has Siegfried. His books are all province wide best sellers! Bob doesn't even have a book!@§7У провинции Wynn был Bob в качестве героя, а у Gavel'a есть Siegfried. Его книги -  бестселлеры по всей провинции! У Bob'a даже нет своей книги!
+The End.@§7Конец.
+The inscription on the gravestone reads "Here lies our great founder, Tisaun Sodeta. May he guide us through the endless fight."@§7Надпись на надгробии гласит "Здесь лежит наш великий основатель, Sodeta Tisaun. Пусть он проведет нас через бесконечную битву."
+An unsettlingly powerful energy seems to blanket the area. There is potential here for...something. But not yet...@§7Похоже, что мощная тревожная энергия покрывает эту область. Здесь есть потенциал для... чего-то. Но еще слишком рано...
+The Horn of the Volt Goat can be used to awaken any sleeping being, however they are notoriously rare. They can only found roaming the Forest of Light, and always alone.@§7Горн Volt Goat'a можно использовать для пробуждения любого спящего существа, однако они известны своей редкостью. Их можно найти только бродя по светлому лесу, и всегда в одиночестве.
+You don't have the ingredients to brew a cup of tea!@§7У тебя нет ингредиентов, чтобы заварить чашку чая!
+The cow raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@§7Корова поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
+The pig raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@§7Свинья поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
+The sheep raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@§7Овца поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
+The cow raises it's head to look at you, then returns to its business.@§7Корова поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
+The pig raises it's head to look at you, then returns to its business.@§7Свинья поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
+The sheep raises it's head to look at you, then returns to its business.@§7Овца поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
+Loading Resource Pack...@§7Загружаем Текстурпак...
+Loading the WynnPack...@§7Загружаем WynnPack...
+Select a class! Each class is saved individually across all servers, you can come back at any time with /class and select another class!@§cВыбери класс! Каждый класс сохраняется индивидуально на всех серверах, ты можешь в любой момент набрать /class и выбрать другой!
+There has been an error... Try again.@§7Произошла ошибка... Попробуй снова.
+You don't have enough mana to do that spell!@§4У тебя недостаточно маны, чтобы использовать это заклинание!
+Thank you for using the WynnPack. Enjoy the game!@§7Спасибо, что используешь WynnPack. Наслаждайся игрой!
+Sorry, you can't teleport... Try moving away from blocks.@§7Извини, ты не можешь телепортироваться... Попробуй отойти от блоков
+Warning! You do not have the Wynncraft Resource Pack. The game will not make sense until you have it installed@§cВнимание! У тебя не установлен ресурспак сервера. Игра не будет иметь смысла, пока ты его не установишь.
+To fix this, add play.wynncraft.com to your server list and@§6Чтобы исправить это, добавь §eplay.wynncraft.com§6в свой список серверов и 
+enable server resource packs@§nвключи поддержку серверного ресурспака
+Still not sure how to do it? Click here: https://forums.wynncraft.com/threads/cant-play-wynncraft-because-of-the-pack-heres-how-to-fix.98023/@§cНе уверен, как правильно это сделать? Нажми сюда: §4https://forums.wynncraft.com/threads/cant-play-wynncraft-because-of-the-pack-heres-how-to-fix.98023/
+To disable this message, type: /toggle rpwarning@§cЧтобы отключить это сообщение, напиши: §6/toggle rpwarning
+You will no longer receive the resource pack warning!@§7Ты больше не будешь получать уведомление о ресурспаке!
+Your class has automatically been selected. Use /class to change your class, or /toggle autojoin to turn this feature off.@§7Твой класс был автоматически выбран. Напиши /class, чтобы сменить класс, или /toggle autojoin чтобы отключить эту функцию.
+You have not unlocked this spell!@§4Ты еще не открыл это заклинание!
+As the sun rises, you feel a little bit safer...@§5С восходом солнца ты чувствуешь себя немного безопаснее...
+[+1 Soul Point]@§d[+1 Очко душ]
+[+2 Soul Points]@§d[+2 Очка душ]
+Server restarting!@§4Перезагрузка сервера!
+You must identify this item before using it.@§4Ты должен идентифицировать этот предмет, прежде чем использовать.
+[Area Discovered]@                           §r§6[Открыта территория]
+Info:@§d     Инфо:
+[Quest Book Updated]@§7[Квестовая книга обновлена]
+[Quest Completed]@§6                              [Квест пройден]
+Rewards:@§d            Награда:
++2 Skill Points [Open the character menu to use them]@§7+2 Очка умений [Открой меню персонажа для их использования]
++5 Maximum HP@§7+5 Очков здоровья
+[Please empty some space in your inventory first]@§7[Пожалуйста, сначала освободи немного места в своем инвентаре]
+You will need this item in later quests!@§4Этот предмет понадобится тебе в будущих квестах!
+You already have that potion active...@§4Это зелье уже действует на тебя...
+You've restarting the starting quest!@§cВы перезапустили начальный квест!
+You have died...@§4Ты погиб...
+2 soul points have been lost...@§72 очка душ было утеряно...
+You've dropped:@§6С тебя выпало:
+Guild Master: You need 5 liquid emeralds to make a guild.@§5Guild Master:§dТебе нужно 5 жидких эмеральдов, чтобы создать гильдию.
+Since you interacted with your inventory, your horse has despawned.@§dПоскольку ты взаимодействовал с инвентарем, твоя лошадь была убрана.
+- Smoke Bomb will throw a cloud of smoke, damaging mobs that are stuck inside@§7- Smoke Bomb выбрасывает облако дыма, нанося урон мобам, застрявшим внутри него
+- Spell Usage: Right-Right-Left@§7- Использование заклинания: Правая-Правая-Левая
+Warning: As you lose soul points, you will drop more items when you die.@§4Предупреждение: Чем больше очков душ ты теряешь, тем больше предметов выпадает с тебя при смерти.
+There is no room for a horse.@§cЗдесь нет места для лошади.
+You have successfully created a party.@§eТы успешно создал пати.
+You have invited the player to the party.@§eТы пригласил игрока в пати. 
+You have been removed from the party.@§eТы был убран из пати.
+Desc.: This command will let you use the party system.@§eОписание: Эта команда позволит вам использовать систему пати.
+Usage: /party [join/leave/create/invite/kick/list] [arguments]@§eИспользование: /party [join/leave/create/invite/kick/list] [аргументы]
+1 soul point has been lost...@§71 очко душ было потеряно...
+The trade has been completed!@§5Торговля успешно завершена!
+The trade request has been sent! Waiting for them to accept...@§bТорговый запрос отправлен! Ждем, пока его примут...
+Wait a bit before offering a trade again!@Подождите немного, прежде чем снова предлагать поторговать!
+Did you mean /toggle? If not, type /help to see the commands!@§7Ты имел в виду ...? Если нет, напиши /help, чтобы увидеть список команд!
+You can't sell this item!@§cТы не можешь продать этот предмет!
++ New Spell [Charge]@§7+ Новое заклинание [Charge]
+- Charge will make you run quickly in a particular direction@§7- Charge поможет тебе быстро передвигаться в определенном направлении
+- Spell Usage: Right-Right-Right@§7- Использование заклинания: Правая-Правая-Правая
+You've been rocketed by the great web.@§7Ты был подброшен великой паутиной.
++ Spell clicking notification moved to info bar@§7+ Уведомление о наборе заклинаний передвинуто на панель информации
+ Your horse has become stronger!@§6Твоя лошадь стала сильнее!
+[+1 Speed]@§7[+1 к Скорости]
+[+1 Jump Height]@§7[+1 к Высоте прыжка]
+Cleared all potion effects.@§7Очищены все эффекты зелий.
+You can now no longer drop your item!@§aТеперь ты не можешь выбросить этот предмет
+You can now drop your item again!@§aТеперь ты можешь выбросить этот предмет
+You cannot drop locked items! Use /itemlock while holding the item again to unlock it.@§cТы не можешь выбросить заблокированные предметы! Используй /itemlock, держа предмет в руке, чтобы разблокировать его.
+[Info] Did you know that using ingredients in your recipes greatly boosts experience?  For more information, visit wynncraft.com@§4[Инфо] §cЗнаешь, что использование ингредиентов в крафте дает больше опыта? Для большей информации, посети §6wynncraft.com 
+[Info] Scared you'll accidentally drop and lose your item? Try /itemlock! For more information, visit wynncraft.com@§4[Инфо] §cБоишься случайно выкинуть и потерять свои предметы? Попробуй /itemlock! Для большей информации, посети §6wynncraft.com 
+[Info] You can add a friend to your friends list by typing /friend. For more information, visit wynncraft.com@§4[Инфо] §cТы можешь добавить друга в список друзей командой /friend. Для большей информации, посети §6wynncraft.com 
+[Info] Participate in the community! Join our forums at forums.wynncraft.com@§4[Инфо] §cБудь частью сообщества! Заходи на наш форум §6forums.wynncraft.com
+[Info] Lost in the world? You can see an interactive map of the world at wynncraft.com/help@§4[Инфо] §cПотерялся в мире? Ты можешь посмотреть интерактивную карту сервера на §6wynncraft.com/help
+[Info] Finding loot chests and exploring is a great way to make quick money. For more information, visit wynncraft.com@§4[Инфо] §cИсследование и нахождение сундуков с лутом - это отличный способ быстро заработать денег. Для большей информации посети §6wynncraft.com
+[Info] Looking to buy/sell an item? Use the trading section on our forum at forums.wynncraft.com@§4[Инфо] §cХочешь купить/продать предмет? Используй торговую секцию на нашем форуме §6forums.wynncraft.com
+[Info] You can see your achievements and statistics at wynncraft.com/help@§4[Инфо] §cТы можешь посмотреть свою статистику и достижения на §6wynncraft.com/help
+[Info] You can skip the class selection by typing /toggle autojoin! Learn more at wynncraft.com@§4[Инфо] §cТы можешь пропустить выбор класса командой /toggle autojoin! Узнай больше на §6wynncraft.com
+[Info] Join a party to receive XP bonus and share the XP with your friends! For more information, visit wynncraft.com@§4[Инфо] §cСоздавайте пати, чтобы увеличивать Xp бонус и делиться Xp со своими друзьями! Для большей информации, посети §6wynncraft.com
+[Info] You can buy VIP, pets, and more at our website, store.wynncraft.com@§4[Инфо] §cТы можешь купить VIP, питомцев, и многое другое на нашем сайте §6store.wynncraft.com
+[Info] You can buy perks to support Wynncraft! You receive pets and much more for your generosity. For more information, visit store.wynncraft.com@§4[Инфо] §cТы можешь купить перки, чтобы поддержать Wynncraft! Ты получишь питомцев и многое другое за проявленную щедрость. Для большей информации, посети §6store.wynncraft.com
+[Info] Did you know you can quick-duel with someone by using "Shift + Left-Click"? For more information, visit wynncraft.com@§4[Инфо] §cТы знаешь, что можно начать дуэль комбинацией "Shift + ЛКМ"? Для большей информации, посети §6wynncraft.com
+[Info] You can look up all of your class information and future spells by visiting wynncraft.com/help@§4[Инфо] §cТы можешь посмотреть всю информацию о своем классе и будущих заклинаниях, посетив §6wynncraft.com/help
+[Info] Redditor? Check out our subreddit at reddit.com/r/wynncraft@§4[Инфо] §cЕсть вопросы? Задай их в нашем сообществе во вконтакте §6vk.com/wynncraft_ru
+[Info] Looking for a dungeon? You can see the entire dungeon list at wynncraft.com/help@§4[Инфо] §cИщешь данж? Ты можешь посмотреть полный список данжей на §6wynncraft.com/help
+[Info] Stay up to date with Wynncraft on our official discord at discord.gg/ccZPK8Z!@§6[§eИнфо§6] §eОбщайся с другими игроками в нашем русскоязычном Discord'е §6http://discord.gg/QukGp6a
+[Info] You can buy pets that will be with you for your entire journey! For more information, visit store.wynncraft.com@§4[Инфо] §cТы можешь купить питомцев, которые будут с тобой на протяжении всего путешествия! Для большей информации, посети §6store.wynncraft.com
+[Info] We rely on our store to keep Wynncraft alive and our players get awesome perks! For more information, visit wynncraft.com@§4[Инфо] §cМы рассчитываем на наш магазин. Это помогает держать Wynncraft на плаву, и за это наши игроки получают отличные перки! Для большей информации, посети §6wynncraft.com
+[Info] Notice somebody breaking the rules? Type /report [name] [reason] to anonymously report them! For more tips, visit wynncraft.com@§4[Инфо] §cЗаметил, что кто-то нарушает правила? Напиши /report [ник] [причина] для анонимного репорта! Еще больше подсказок на сайте §6wynncraft.com
+[Info] Did you know you can quick-trade with someone by using "Shift + Right-Click"? For more, visit wynncraft.com@§4[Инфо] §cА ты знал, что можно быстро начать торговлю с кем-то комбинацией "Shift + ПКМ"? Для большей информации, посети §6wynncraft.com
+[Info] Want to know what server somebody is on? Use /find! More tips at wynncraft.com@§4[Инфо] §cХочешь знать, на каком сервере сейчас игрок? Используй команду /find! Еще больше подсказок на §6wynncraft.com
+[Info] You can get much more XP by killing mobs close to your level! For more information, visit wynncraft.com@§4[Инфо] §cТы можешь получать больше очков опыта, убивая мобов близких твоему уровню! Для большей информации, посети §6wynncraft.com
+[Info] Go to the nether to fight other players, and get a place on our leaderboards! For more information, visit wynncraft.com@§4[Инфо] §cСходи в ад, чтобы сразиться с другими игроками, и получить место на нашей доске лидеров! Для большей информации, посети §6wynncraft.com
+You have no missing quest items... Check your bank and other class inventories@§7У тебя нет пропавших квестовых предметов... Проверь свой банк и инвентари других классов
+There wasn't room in your inventory, so items were dropped.@§7В твоем инвентаре не было места, поэтому предметы были сброшены.
+What message would you like to shout to the entire network? Say 'cancel' to stop.@§7Какое сообщение ты хочешь отправить на все сервера? Напиши ‘cancel' для отмены.
+Are you sure you want to shout@§7Уверен, что хочешь отправить 
+Type yes or no.@§7Напиши yes или no.
+Shouting!@§7Отправлено!
+Powder Manual@§eРуководство о порошках
+Chapter 1 - The Basics@§fГлава 1 - Основы
+There exist five varieties of magic powder, each corresponding to one of five different elements; ? Fire, ? Water, ? Thunder, ? Earth, and ? Air.@§7Существуют пять разновидностей магических порошков, каждый из которых соответствует одному из пяти различных элементов: §f❋ Воздух§a, §e✦ Гром§a, §2✤ Земля§a, §4✹ Огонь§a, и §b❉ Вода§a.
+It is possible to augment items with these powders, if one is versed in the art of enchantment. Many offer this service for a price, as Powder Masters.@§7Можно дополнять предметы этими порошками, если разобраться в искусстве чарования. Многие предлагают такую услугу за определенную плату, например Powder Master'ы.
+Certain items have a higher magical capacity, and thusly are able to hold more powders within them. Some have many, some have few, others still have none.@§7Различные предметы имеют более высокую магическую вместимость, и таким образом, способны вмещать больше порошков внутри себя. Некоторые вмещают много, некоторые мало, другие вообще не вмещают.
+Should a weapon be enchanted with a powder, the powder will imbue the item with a slight amount of elemental damage, but also transfer basic neutral damage into its element.@§7Если оружие будет зачаровано порошком, то порошок наполнит предмет небольшим количеством элементального урона, и также перенесет основной нейтральный урон в его элемент.
+Should a piece of armour be enchanted with a powder, the garment will gain a resistance towards that powder's element, at the cost of an elemental weakness.@§7Если часть брони будет зачарована порошком, предмет получит сопротивление к элементу этого порошка, ценой элементальной слабости.
+Chapter 2 - Elemental Abilities@§fГлава 2 - Элементальные способности
+If a powder is more concentrated, they can unlock powerful elemental magicks within an item. Powders appraised to be Tier IV or higher are capable of forming these special abilities.@§7Если порошки более концентрированные, то они могут разблокировать мощные магические элементы внутри предмета. Только порошки IV или выше уровня могут давать эти специальные способности.
+Two or more like-elemented powders are necessary for this. While items can be augmented with powders even after unlocking an ability, only one amplified magic power can be kept within an item at one time.@§7Для этого необходимо два или более порошка одинакового элемента. В то время, как предметы могут быть дополнены порошками даже после разблокировки способности, только одна специальная способность может быть сохранена в предмете одновременно.
+Weapons and armour channel this magical energy in radically different ways, just as powders change their more mundane abilities. The method of use for each piece can be referred to in Chapter 3.@§7Оружие и броня направляют эту магическую энергию совершенно по-разному, так же, как порошки меняют свои способности. Методы их использования можно найти в 3 Главе.
+Using different tiers of powder to try to form an ability on an item is somewhat unpredictable in the end potency of the magic, but using higher tiers of powder will generally lead to a stronger effect.@§7Использование разных уровней порошка, при попытке сформировать способность на предмете, несколько непредсказуемо воздействует на эффективность магии. Но использование более высоких уровней порошка, как правило, приводит к более сильному эффекту.
+To unleash the unique ability imbued in your weapon, one must first charge the power by attacking enemies. Then, heavily focus on the latent energies within the item, and release them with a swing. (Shift+Left-Click)@§7Чтобы раскрыть уникальную способность, скрытую в вашим оружии, необходимо сначала зарядить энергию, атакуя врагов. И затем, освободить эту энергию комбинацией клавиш §f(Shift + ЛКМ) 
+Chapter 3 - Elemental Abilities@§fГлава 3 - Элементальные Способности
+Earth:  Earth-imbued weapons will unleash a powerful quake, rupturing the nearby ground and disorienting enemies. Earth-augmented armors produce a rage-state in the user as they near death, turning Earth-based attacks more potent, and more violent.@§2Земля:§7 Наполненное землей оружие позволяет выпустить мощное землетрясение, разрушающее земли поблизости, и дезориентирующее врагов. Дополненная землей броня приводит в состояние ярости игрока, когда он близок к смерти, и делает земляные атаки более мощными и более жестокими.
+Thunder:  Thunder-imbued weapons can release a streak of lightning that seeks enemies, bouncing from one foe to the next nearby. Thunder-augmented armors will steal the life force of the slain, and in kind increase the power of Thunder-based attacks temporarily.@§eГром:§7 Наполненное громом оружие может выпустить череду молний, которые ищут врагов, отражаясь от одного ближайшего врага к другому. Дополненная громом броня крадет жизненную силу при убийстве, и ненадолго увеличивает силу громовых атак.
+Water:  Water-imbued weapons will curse one's nearby enemies. This curse weakens armor, and turns them vulnerable to further attack. Water-augmented armors recycle used mana, transferring it into a short boost to Water-affiliated techniques, depending on how much mana was consumed.@§9Вода:§7 Наполненное водой оружие проклинает ближайших врагов. Это проклятие ослабляет броню и делает их уязвимыми для дальнейших атак. Дополненные водой доспехи перерабатывают использованную ману, переводя ее в короткий рост урона к атакам, в зависимости от того, сколько маны было использовано. Также увеличивает силу водных атак.
+Fire:  Fire-imbued weapons will generate a fan of flames that burn one's enemies and empower one's allies. Fire-augmented armors react to being struck, turning the impact of the blow, no matter how weak, into a temporary power boost to Fire-based attacks.@§4Огонь:§7 Наполненное огнем оружие генерирует вихрь пламени, который сжигает врагов и расширяет возможности ваших союзников. Дополненные огнем доспехи реагируют на полученный урон, повышая силу удара, и временно увеличивая силу огненных атак.
+Air:  Air-imbued weapons trap nearby enemies in a vortex of wind, and blow the victims away when struck. Air-augmented armors will, so long as they are kept close, leach energy from nearby foes to improve the strength of Air-based attacks.@§fВоздух:§7 Наполненное воздухом оружие ловит близлежащих врагов в воронку ветра, и сдувает жертв прочь при ударе. Дополненные воздухом доспехи будут высасывать энергию из близлежащих врагов, пока они находятся рядом. Также улучшают силу воздушных атак.
+Item Identifier: I can't identify this item! Only items with a unique, rare, legendary, and set tags can be identified.@§5Item Identifier: §dЯ не могу идентифицировать этот предмет! Только предметы с §eunique§d, §5rare§d, §blegendary§d, и §aset§d тэгами можно идентифицировать.
+Item Identifier: I can't identify this item! It can not be reidentified.@§5Item Identifier: §dЯ не могу идентифицировать этот предмет! Он не может быть идентифицирован повторно.
+Item Identifier: Okay, I'll identify them now!@§5Item Identifier: §dХорошо, я сейчас же их идентифицирую!
+Item Identifier: It is done. Your item has been identified. The magic it contains will now blossom.@§5Item Identifier: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
+Powder Master: Great doing business with you, adventurer. Come back any time!@§5Powder Master: §dС тобой приятно иметь дело, путешественник. Возвращайся в любое время!
+Key Collector: You have access to the dungeon... This time only.@§5Key Collector: §dТы можешь войти в данж... Но только в этот раз.
+Guild Master: You must leave your current guild before making your own. Type /guild leave@§7Guild Master: Ты должен выйти из своей текущей гильдии, чтобы создать свою. Напиши /guild leave
+You walk away wondering if the citizen stands all day long welcoming adventurers...@§7Ты уходишь, задаваясь вопросом - стоит ли этот житель здесь весь день, приветствуя путешественников...
+Disguise yourself as a chicken@§7Перевоплощение себя в курицу
+You now have the letters effect.@§cВыбран эффект букв.
+Sorry, you cannot use a crate here. Move away from blocks.@§7Прости, ты не можешь использовать контейнер здесь. Отойди подальше от блоков.
+The duel is starting in 10 seconds...@§9Дуэль начнется через §e10 секунд§9...
+The duel has started! Fight to the death...@§9Дуэль началась! Битва до смерти...
+Wait a bit before trying to duel again!@§dПодождите немного, прежде чем снова предлагать дуэль!
+The duel request has been sent! Waiting for them to accept...@§bЗапрос на дуэль отправлен! Ждем, пока его примут...
+Blacksmith: I can't buy that item! I only accept weapons, accessories, potions, armour and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню и крафтовые предметы.
+Blacksmith: I can't buy that item! I only accept weapons, accessories, potions, armour, resources and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню, ресурсы и крафтовые предметы.
+You've reached the maximum amount of points in that skill, choose another one!@§4Ты достиг максимального количества очков в этом навыке, выбери другой!
+You need to wait 60 seconds after logging in to gather from this resource!@§4Тебе нужно подождать §c60 секунд §4после входа на сервер чтобы собрать этот ресурс!
+Your horse is scared to come out right now, too many mobs are nearby.@§dТвоя лошадь напугана сейчас, чтобы выходить, поскольку слишком много мобов рядом.
+It appears that the bandits took some of your money while you were unconscious@§7Похоже, что бандиты забрали часть твоих денег, пока ты был без сознания
+Invalid command... Type /help for a list of commands@§4Неизвестная команда... Напиши /help для списка команд
+You must be a Captain to use this command.@§cТы должен быть Капитаном чтобы использовать эту команду.
+You must be a Chief to use this command.@§cТы должен быть Шефом чтобы использовать эту команду.
+-----------— Wynncraft Help —---------—@§7—---------— §4Wynncraft Помощь §7—---------—
+— For a proper help guide, visit our website —@§7— §4Для полного гайда о помощи посетите наш сайт §7—
+Manage your friends@§6Управление друзьями 
+Manage your ignored players@§6Управление игнорируемыми игроками 
+Manage your party@§6Управление пати 
+Chat with members of your party@§6Писать в чат участникам пати 
+Send someone a message@§6Отправить кому-то сообщение 
+Quickly reply to a message@§6Быстрый ответ на сообщение 
+Trade with someone@§6Торговать с кем-нибудь 
+Open a crate@§6Открыть контейнер  
+Use a mob totem@§6Использовать моб тотем 
+Sign a crafted item@§6Подписать крафтовый предмет  
+Rename a crafted item@§6Переименовать крафтовый предмет 
+Change the lore on a crafted item@§6Изменить лор крафтового предмета  
+Lock / unlock the item in your hand, making it so you can't accidentally drop it@§6Заблокировать / разблокировать предмет в твоей руке, чтобы случайно его не выбросить 
+Choose a class to play as@§6Выбрать класс для игры  
+Toggle gameplay items on or off@§6Включить или отключить элементы геймплея
+A sudden jolt of realisation shudders down the Talking Mushroom’s stem. He retreats into your satchel.@§7Внезапное осознание этого места заставляет дрожать ножку Говорящего Гриба. Он прячется в твою сумку.
+Your backpack seems awfully quiet for once. Maybe it is best to avoid this place for now.@§7В твоей сумке кажется ужасно тихо. Возможно, лучше стоит избегать этого места.
+You feel your bag shuffle around...feels like something fell out.@§7Ты чувствуешь, как твоя сумка зашевелилась...как будто что-то выпало.
+Confused, you pick to mushroom up to examine it. What even is this thing?@§7Смущенный, ты берешь гриб, чтобы изучить его. Что это вообще такое?
+Without dwelling on it too much, you take the talking mushroom and put it in your satchel. @§7Не зацикливаясь на этом слишком долго, ты берешь говорящий гриб и кладешь его в свою сумку.
+Even though you can clearly hear the tribesmen talking they appear to be speaking in a language you've never heard before.@§7Даже при том, что вы можете ясно слышать, как говорят соплеменники, они, кажется, говорят на языке, который вы никогда не слышали раньше.
+The server is restarting in 1 minute.@§cСервер перезагрузится через 1 минуту
+The server is restarting in 1 second.@§cСервер перезагрузится через 1 секунду
+The server is restarting@§cСервер перезагружается
+May the woman who died here in tonight's raid rest in peace. Though we did not know her name, her memory will live on through her son.@§7Пусть женщина, которая умерла здесь сегодня во время ночной осады, покоится с миром. Хоть мы не знали ее имени, память о ней будет жить через ее сына.
+The spike seems to be the source of this evil, if only it could be broken...@§7Похоже, этот шип является источником зла; если бы его только можно было сломать...
+Seems like the gate is no longer blocked.@§7Похоже, что ворота больше не заблокированы.
+It seems something activating this device has affected something on the surface...@§7Похоже, активация этого устройства повлияла на что-то на поверхности...
+You read an entry in the worn journal...@§7Ты читаешь запись в потертом журнале...
+''A stranger came into town today all the way from Ragni. Ragni of all places! What do the folk there want with us in this small town?''@§7"Сегодня из Ragni в город приехал незнакомец. Почему-то именно из Ragni! Что их народ хочет от нас в этом маленьком городке?"
+''It's nothing but farmland for as far as the eye can see around here. I want some excitement! I want to go to Ragni and see the castle there!''@§7“Там нет ничего, кроме ферм, насколько мне удалось узнать. Мне нужно немного эмоций! Я хочу пойти в Ragni, и посмотреть тамошний замок!”
+''Then again, the roads are more dangerous now than they ever have been.  If rumors are to be trusted, you can't step three feet out of town without running into an undead''@§7"Опять же, дороги сейчас наиболее опасны, чем когда-либо. Если слухи заслуживают доверия, вы не можете выйти на три шага из города, не столкнувшись с нежитью"
+''Who knows, maybe this'll all blow over soon...''@§7"Кто знает, может быть, это все скоро закончится..."
+The entry stops there.@§7Запись оканчивается здесь.
+You read an entry in the worn journal...@§7Ты читаешь запись в потертом журнале...
+ ''It's been unusually quiet these past few days. I don't like it. Even for a small town such as Detlas, there is such a thing as being too quiet.''@§7"В последние несколько дней было необычайно тихо. Мне это не нравится. Даже для небольшого города, такого как Detlas, есть такая вещь, как слишком тихо."
+ ''I fear the rumors of the increasing undead roaming the lands. What's worse, there are other rumors saying that they are being led by a human.''@§7"Я боюсь слухов о росте числа нежити, бродящей по землям. Что еще хуже, есть и другие слухи о том, что ими руководит человек."
+''What madman would turn against their own kind in favor of... those things?''@§7"Какой безумец обратится против себе подобных в пользу... такого?"
+''I just hope I can keep my people safe. Wait, I fear something approaches..''@§7"Я просто надеюсь, что смогу защитить своих людей. Подождите, боюсь, что-то приближается.."
+The book is torn in half. The rest of the entry must be somewhere nearby...@§7Книга разорвана пополам. Остальная часть записи должна быть где-то поблизости...
+The pages are torn and are black with soot on the edges. You read the rest of the entry...@§7Страницы порваны, и с черной копотью по краям. Ты прочел оставшуюся часть записи..
+''This may be my final entry. The human leading the horde is no human. He is tainted. Broken. Controlled.''@§7"Это может быть моя последняя запись. Человек, ведущий мертвецов - не человек. Он заражен. Сломлен. Под контролем.”
+''Fire spreads from his hands like magic.. If only we had such power. Someone has to stop this. Alas, it can not be me. He is here.''@§7"Огонь распространяется из его рук, как магия.. Если бы только у нас была такая сила. Кто-то должен это остановить. Увы, это не могу быть я. Он уже здесь."
+The entry stops there.@§7Запись оканчивается здесь.
+You read an entry in the worn journal...@§7Ты читаешь запись в потертом журнале...
+''I was talking to Mary the other day. She said some of the survivors are planning to make the trip to Troms or Ragni.''@§7"Я разговаривал с Mary на днях. Она сказала, что некоторые из выживших планируют отправиться в Troms или Ragni."
+''She asked me if we should go with them. I told her we we're staying here. The road to Ragni is too dangerous, and Troms is too far away.''@§7"Она спросила меня, должны ли мы пойти с ними. Я сказал ей, что мы останемся здесь. Дорога к Ragni слишком опасна, а Troms слишком далеко."
+''But as the night draws near, I'm not sure about my decision...''@§7"Но с приближением ночи, я стал сомневаться в своем решении..."
+The entry stops there.@§7Запись оканчивается здесь.
+You read an entry in the worn journal...@§7Ты читаешь запись в потертом журнале...
+''There aren't that many left in this town. If this place can even be called a town.''@§7"В этом городе остались не многие. Если это место вообще можно назвать городом."
+''There's me, Hank, Mary, their kids, the Mayor who's crazy now, Andy, Steve, and Judy and her kids.''@§7“Здесь я, Hank, Mary, ее дети, сошедший с ума мэр, Andy, Steve, и Judy с ее детьми.”
+''Andy, Steve, and I will lead. The road to Troms is difficult. If you read this, I hope Detlas still stands.''@§7"Andy, Steve, и я будем вести. Дорога в Troms трудна. Если вы читаете это, я надеюсь, что Detlas еще стоит."
+It is dated 78 AP (After Portal). This is how the last entry reads.@§7Это датировано 78 ПП (После Портала). Так заканчивается последняя запись.
+The voice of the past echoes on the wind...@§7Голос прошлого перекликается с ветром...
+ 886 AP (After Portal)@§7886 ПП (После Портала)
+''Sir, they've breached Nivla!''@§7"Сэр, они пробились через лес Nivla!"
+''All the outer checkpoints have been overrun!''@§7"Все внешние контрольно-пропускные пункты были захвачены!"
+''He's there sir, I see him.''@§7"Он там, сэр, я вижу его."
+''Bak'al, sir. He's.. leading thousands.''@§7""Bak'al, сэр. Он.. ведет тысячи."
+''This could mark the fall of Ragni.''@§7"Это может значить падение Ragni."
+''We've held this forest for years. There is no one left to save us.''@§7"Мы держали этот лес годами. Больше нет никого, кто бы мог спасти нас."
+The voice of the past echoes on the wind...@§7Голос прошлого перекликается с ветром...
+884 AP@§7884 ПП
+''The forward defenses have fallen.''@§7"Передовая оборона пала."
+''They have taken the forest. The last barrier between them and Ragni is us.''@§7"Они захватили лес. Последний барьер между ними и Ragni - это мы."
+''We must fortify. Put those fires out!''@§7"Мы должны укрепиться. Потушите огонь!"
+''If we lose tree cover, we lose the war.''@§7"Если мы потеряем лесной покров, мы проиграем войну."
+''Oh no.. It's him.''@§7"О, нет.. Это он."
+The voice of the past echoes on the wind...@§7Голос прошлого перекликается с ветром...
+883 AP@§7883 ПП
+''Sir, they have started burning the trees.''@§7"Сэр, они начали сжигать деревья."
+''We have no coverage.''@§7"У нас нет укрытий."
+''Men, retreat to the forest boundaries!''@§7"Мужчины, отступайте к лесным границам!"
+''This position is lost.''@§7"Эта позиция потеряна."
+The voice of the past echoes on the wind...@§7Голос прошлого перекликается с ветром...
+882 AP@§7882 ПП
+''Sir! The corrupt are crossing the river!''@§7''Сэр! Порча перебирается через реку!"
+''They act with instruction!''@§7"Они следуют чьим-то указаниям!"
+''I can't see who is sending them.''@§7"Я не вижу, кто ведет их."
+''We must reinforce the river and bridge, if they get past that they'll be on our soil.''@§7"Мы должны укрепить реку и мост; если они пройдут, то они уже будут на нашей земле."
+Seems like some mechanism was activated...@§7Похоже, что механизм был активирован...
+The voice of the past echoes within this chamber...@§7Голос прошлого перекликается с ветром в этом зале...
+885 AP@§7885 ПП
+''The men of Ragni do not truly know war.''@§7"Мужчины из Ragni не знают по-настоящему войны."
+''Sure, they fought the fight. But they did not lose the most.''@§7"Конечно, они сражались в битвах. Но они потеряли не больше других."
+ ''It is us, those who provide the food without the protection of walls or castles that suffer first.''@§7 "Это мы - те, кто обеспечивал пищу, без защиты стен или замков; те, что страдали в первую очередь."
+''We learned to fight for ourselves and produce the food for the army.''@§7"Мы научились бороться за себя и производить продовольствие для армии."
+''We even built our own water system. It allowed us the time we needed off the fields.''@§7"Мы даже построили собственную систему водоснабжения. Это дало нам время, чтобы собрать урожай с полей."
+''But where were the shining army of red and yellow when our supply was attacked?''@§7"Но где была наша сияющая красно-желтая армия, когда наши запасы были атакованы?"
+''Hiding in the sewers while we perish.''@§7"Пряталась в канализации, пока мы погибали."
+''There is no winning this war.''@§7"В этой войне нет победивших."
+A long, long time ago. Our people, the Avos, hid a very powerful accessory.@§7Давным-давным-давно наши люди, Avos'ы, спрятали очень мощный аксессуар.
+No one really knows where it is, only the chosen ones, the ones who hid it.@§7Никто на самом деле не знает, где он, только избранные - те, кто его спрятал.
+However, various clues have been scattered around our island. In case we needed the necklace again.@§7Однако, различные подсказки были разбросаны по всему нашему острову. На случай, если нам снова понадобится амулет.
+The necklace was sealed away because of the Corkians increased power. The necklace cannot be used in the wrong hands.@§7Амулет был запечатан из-за того, что Corkian'цы повысили свою мощь. Амулет не должен попасть не в те руки.
+It's infused with our own nature magic, we charged the necklace with the strongest winds.@§7Он наполнен нашей собственной магией природы, мы заряжали ожерелье сильнейшими ветрами.
+The first clue lays behind the hut with red cloth, in a cave with torturous rocks.@§7Первая подсказка лежит за хижиной с красной тканью, в пещере с мучительными камнями.
+End of Chapter I.@§7Конец I главы.
+Ye who seek knowledge, follow in my footsteps and gain wisdom.@§7Тот, кто ищет знания - иди по моим стопам и обрети мудрость.
+By 886 AP, years of attacks left Ragni on its knees.@§7К 886 году ПП, годы атак поставили Ragni на грань уничтожения.
+Bak'al, leader of the corrupt, lead one final attack on the fort to finish it.@§7Bak'al, лидер порчи, возглавил последнюю атаку на город, чтобы прекратить его существование.
+However, a hero fresh from his training around the province, returned.@§7Однако герой, только что прошедший обучение по всей провинции, вернулся.
+Bob stood against Bak'al for the first time and demonstrated magic unseen by human eyes.@§7Bob впервые выступил против Bak'al'a и продемонстрировал неведомую человеческим глазам магию.
+Since then, Bak'al has not been able to enter a city and the Human population began to recover.@§7С тех пор Bak'al не смог войти в город, и человеческая популяция начала восстанавливаться.
+Only Bob has ever been able to effectively stand against Bak'al.@§7Только Bob смог эффективно противостоять Bak'al'у.
+Bob has been missing since 984 AP.@§7Bob пропал без вести в 984 году ПП.
+[WARNING] Power Level: 55.0%@§4[§c§lПРЕДУПРЕЖДЕНИЕ§4] Уровень Энергии: §655.0%
+[WARNING] Power Level: 52.5%@§4[§c§lПРЕДУПРЕЖДЕНИЕ§4] Уровень Энергии: §652.5%
+This doesn't seem to be the right way to go.@§4Это не похоже на правильный путь.
+You hear a buzzing sound, so you don't enter,@§4Ты слышишь жужжащий звук, поэтому решаешь не идти туда
+You can hear a soft humming coming from the walls.@Ты можешь слышать мягкое гудение, исходящее от стен.
+You feel powerful electricity rushing through your body as you enter the room.@При входе в комнату вы чувствуете, как мощное электричество проходит через ваше тело.
+You have no items of this type to use. Buy some at our website, wynncraft.com/store@§4У вас нет предметов этого типа для использования. Можете купить их на нашем сайте §cwynncraft.com/store
+You are not in a guild.@§cВы не состоите в гильдии
+                         [Mini-Quest Completed]@                         §2[Мини-Квест Пройден]
+Looking for missing quest items...@§cИщем пропавшие квестовые предметы...
+You cannot enter the scroll shop until you have completed the quest "Fallen Delivery"@§4Ты не можешь войти в магазин свитков, пока не завершишь квест "Fallen Delivery"
+A Cannibal Ambush@Засада Каннибалов
+They'll eat you alive.@Они съедят тебя живьем.
+It would be rude to go inside without Asher's permission.@Было бы невежливо войти внутрь без разрешения Asher'а.
+The cannon is ready to fire!@Пушка готова к стрельбе!
+This door appears to be locked. Perhaps a key could be used...@Похоже дверь заперта. Возможно, можно было бы использовать ключ...
+A piece of the creeper came along with you after the blast catapulted you here. Maybe Thomas would like to take a look at it.@Кусочек крипера прилетел вместе с тобой после того, как взрыв катапультировал тебя сюда. Может быть, Thomas хотел бы взглянуть на него.
+One of these tunnels must be correct one...@Один из этих туннелей должен быть правильным...
+GUARD ASSIGNMENT: Search the vault for signs of a robbery/veracity of witness report.@§lЗАДАЧА РЕПОРТА:§7 Обыщи хранилище в поисках признаков грабежа/достоверности показаний свидетеля.
+[ VaultDoor-2000 ] Vault unlocking...@§4[ §cVaultDoor-2000 §4]§7 Открытие хранилища...
+GUARD ASSIGNMENT: Search the wealthy man's residence for the source of the explosion.@§lЗАДАЧА РЕПОРТА:§7 Обыщи резиденцию богатого человека в поисках источника взрыва.
+The aparation of Asher is frozen in time, unable to speak or move.@Призрак Asher'a застыл во времени, неспособный говорить или двигаться.
+The cannon cannot be fired in its current state. Looks like you'll need something to activate it.@Пушка не может быть запущена в ее текущем состоянии. Похоже тебе понадобится что-то, чтобы активировать ее.
+The cannon is activated! Now it needs to be loaded with a cannonball...@Пушка активирована! Теперь ее нужно зарядить пушечным ядром...
+Your Crafted Items are damaged and have become less effective. Bring them to a Blacksmith to repair them.@Твои крафтовые предметы повредились и стали менее эффективными. Принеси их к Blacksmith'у, чтобы починить.
+You've already claimed this bomb...@§cВы уже забрали эту бомбу...
+             [Discovery Found]@                         §3[Открытие найдено]
+Location:@Локация: 
+Discoveries Found:@Открытий найдено: 
+     - About Discovery: The civilization that ruled this land over 1000 years ago seemed to be equally as educated as people today. There are lots of texts dedicated to the Emperor.@§d     -§r§7Об открытии: §r§f§oЦивилизация, правившая этой землей более 1000 лет назад, казалась такой же образованной, как и люди сегодня. Существует множество текстов, посвященных Императору.
+It sounds like some sort of mechanism inside the statue is jammed. Maybe a hit on the head can set it right.@Похоже, что какой-то механизм внутри статуи заклинило. Может быть, удар по голове поможет все исправить.
+     - About Discovery: After realizing its true power, Hashr realized he must hide the sceptre where no one could find it. Many years later, a group of bandits found refuge in this very temple.@§d     -§r§7Об открытии: §r§f§oОсознав его истинную силу, Hashr понял, что должен спрятать скипетр там, где его никто не сможет найти. Много лет спустя группа бандитов нашла убежище именно в этом храме. 
+     - About Discovery: Following the death of the Emperor, sandstorms raged across the land, and the Eagle Tribe was forced to take refuge in an abandoned prayer cave.@§d     -§r§7Об открытии: §r§f§oПосле смерти императора песчаные бури бушевали по всей земле, и племя Орлов было вынуждено укрыться в заброшенной молитвенной пещере. 
+It's a child's book. It's covered in pictures of sandstorms featuring some kind of stick.@Это детская книжка. Онf покрытf изображениями песчаных бурь с неким подобием палки.
+     - About Discovery: After being kicked out of the Wynn cities during the Corruption War, a growing number of bandits began to reassimilate in the desert and mesa.@§d     -§r§7Об открытии: §r§f§oПосле изгнания из городов провинции Wynn, во время войны с порчей, все большее число бандитов начали переселяться в пустыню и на плато. 
+     - About Discovery: The Emperor's Sceptre is a mysterious artifact that gave the holder unquestionable power. The people of the Desert Empire constructed temples to honor it.@§d     -§r§7Об открытии: §r§f§oСкипетр императора - таинственный артефакт, дававший владельцу неоспоримую силу. Люди пустынной империи строили храмы, чтобы почтить его. 
+     - About Discovery: The Emperor's 26th son was named Hashr. As he grew older, he became wrought with greed and envy of his father's power. It wasn't long before he was willing to kill.@§d     -§r§7Об открытии: §r§f§o26-й сын императора был назван Hashr'ом. Став старше, он начал испытывать жадность и зависть к могуществу своего отца. Прошло совсем немного времени, прежде чем он захотел убить его. 
+     - About Discovery: When the Creden Tibus discovered the Emperor's Sceptre in an ancient, hidden temple, they decided to hide it closer to home. After many generations, they grew paranoid, and moved it once more.@§d     -§r§7Об открытии: §r§f§oКогда Creden Tibus обнаружили скипетр императора в скрытом древнем храме, они решили спрятать его ближе к дому. Через много поколений у них развилась паранойя, и они перепрятали его еще раз. 
+     - About Discovery: When the sceptre was taken from its master, a curse of sandstorms plagued the empire for years. Nearly everything was buried, even the royal palace.@§d     -§r§7Об открытии: §r§f§oКогда скипетр был отобран у его хозяина, проклятие песчаных бурь преследовало империю в течение многих лет. Почти все было похоронено, даже королевский дворец. 
+     - About Discovery: This ancient monument only opens to those it deems worthy. Inside is contained secrets of the Wynn Plains that few eyes have ever seen.@§d     -§r§7Об открытии: §r§f§o
+     - About Discovery: A twelve-volume story of Wynn's great hero can be found here. The origins of this library, and others like it, still remain unknown.@§d     -§r§7Об открытии: §r§f§oИстория в 12 частях о великом герое провинции Wynn может быть найдена здесь. Происхождение этой, и других подобных библиотек остается неизвестным. 
+     - About Discovery: In the year 854 AP (After Portal), a massive horde of undead led by Bak'al attacked Ragni. The people of the city sought refuge in the sewer, the only safe place left.@§d     -§r§7Об открытии: §r§f§oВ 854 году после открытия портала огромная толпа мертвецов под руководством Bak'al'a напала на Ragni. Люди из города нашли убежище в канализации - единственном оставшемся безопасном месте 
+     - About Discovery: From the watch towers set up across the province, scouts were able to spot an incoming horde from miles away, helping to prepare for countless battles.@§d     -§r§7Об открытии: §r§f§oСо смотровых башен, расставленных по провинции, скауты могли сообщить о приближающейся толпе монстров заранее, чтобы армия могла лучше подготовиться к битве 
+     - About Discovery: Attacks from the portal were often so brutal, it forced people underground. Sometimes, they never made it back out.@§d     -§r§7Об открытии: §r§f§oАтаки из портала часто были очень жестокие, и это заставляло людей прятаться под землю. Иногда они оттуда так и не возвращались
+     - About Discovery: Maltic was the first settlement ever made by the arriving villagers. The alliance between Villagers and Humans would go on to save the province.@§d     -§r§7Об открытии: §r§f§oMaltic был первым построением жителей, после их прибытия на землю. Альянс между людьми и жителями должен был помочь спасти провинцию 
+     - About Discovery: The modern city of Detlas was built with the help of villagers after their arrival in Wynn, but these ruins might hold the secrets of what lied before.@§d     -§r§7Об открытии: §r§f§oСовременный город Detlas был построен с помощью жителей, после того как они прибыли в провинцию Wynn. Но эти развалины могут хранить секреты того, что здесь было до этого. 
+     - About Discovery: The proud farmers surrounding Ragni were often left to fend for themselves. They have proven to be resourceful and hardened. They created their own infrastructure, but when they were totally abandoned by the army, there was nothing but slaughter.@§d     -§r§7Об открытии: §r§f§oГордые фермеры вокруг Ragni часто оставались на произвол судьбы. Однако они оказались находчивыми и закаленными. Они создали свою инфраструктуру, но когда те были полностью брошены армией, тут не осталось ничего, кроме бойни. 
+     - About Discovery: The corrupt entity known as Bak'al has appeared countless times since the portal was opened, decimating everything in his path.@§d     -§r§7Об открытии: §r§f§oИспорченная сущность, известная как Bak'al, появлялся здесь бесчисленное количество раз, постоянно уничтожая все на своем пути. 
+     - About Discovery: A once great city was reduced to rubble in 347 AP (After Portal) in one of the largest attacks by Bak'al ever documented. There was only one survivor.@§d     -§r§7Об открытии: §r§f§oОднажды один великий город превратился в руины в 347 году после открытия портала, из-за одной из мощнейших атак Bak'al'a, что когда-то были задокументированы. Остался только один выживший.
+     - About Discovery: Just the name of Bak'al is enough to make many cower in fear. They say that wherever he appears, he will only leave death in his wake.@§d     -§r§7Об открытии: §r§f§oПросто произношение имя Bak'al уже заставляло многих бежать в страхе. Они говорили, что там где он появлялся, после себя оставлял лишь смерть. 
+     - About Discovery: The people who built these mysterious structures had unusual control over time magic. Very few alive understand it or know about the people who lived here, for they were neither Human nor Villager. A species from a distant land.@§d     -§r§7Об открытии: §r§f§oУ людей, что построили это загадочное строение, были необычные познания в магии времени. Всего несколько людей знают или слышали о существах, что жили здесь, и это были не люди и не жители. Раса с далекой земли 
+     - About Discovery: This cavern is evidence that corruption is like a weed. The roots spread throughout the province.@§d     -§r§7Об открытии: §r§f§oЭта пещера является доказательством того, что порча распространяется как сорняк. Ее корни отходят уже на всю провинцию. 
+     - About Discovery: The Pigmen are a mysterious creature, neither pig nor man, neither corrupt nor whole.@§d     -§r§7Об открытии: §r§f§oПигмены - это загадочные существа. Наполовину свиньи, наполовину люди. Наполовину испорченные, наполовину нет. 
+     - About Discovery: Nemract was one of the cities attacked the most often. The people would hide in the gutters and sewers until it was over. However, corrupt enemies were not without intelligence, and they were quickly discovered by the enemy.@§d     -§r§7Об открытии: §r§f§oNemract был одним из самых часто атакуемых городов. Люди прятались в канавах и канализациях, пока атаки не заканчивались. Однако, монстры были не глупые, и они быстро находили своих жертв здесь. 
+     - About Discovery: The mysteries uncovered from this excavation were quickly abandoned as a new dark force, one far more mysterious than corruption, was the last thing this province needed.@§d     -§r§7Об открытии: §r§f§oЗагадочное неизвестное место из этих раскопок было быстро покинуто. Новая темная сила, еще загадочнее чем порча - это точно не то, что нужно сейчас провинции. 
+     - About Discovery: This old library have been slumbering beneath Lusuco for years. It tells the story of the legendary Twain children.@§d     -§r§7Об открытии: §r§f§oЭта старая библиотека под городом Lusuco была заброшена годами. Она расскажет тебе историю легендарных детей семейства Twain. 
+     - About Discovery: This library tells a tale that the government of Corkus has kept secret. Rumors tell that more mysterious libraries like this one are hidden across the world.@§d     -§r§7Об открытии: §r§f§oЭта библиотека расскажет тебе историю о том, что у правительства Corkus'а есть свои секреты. По слухам во всем мире есть еще несколько таких скрытых библиотек.
+     - About Discovery: The history of the Avos has remained largely unknown, but this monument of Avos ancestry might hold the ancient secrets that historians have been looking for.@§d     -§r§7Об открытии: §r§f§oИстория расы Avos'ов мало известна, однако этот монумент их происхождения может содержать древние секреты, которые так ищут историки. 
+     - About Discovery: Long ago, the Avos hid away a powerful necklace. Despite the many tales and legends of it, it has never been located until now.@§d     -§r§7Об открытии: §r§f§oДавным-давно Avos'ы спрятали мощный амулет. Несмотря на множество сказаний и легенд о нем, он никогда не был найден до этого момента.
+You fully completed the Legendary Challenge!@§6Ты полностью прошел §bЛегендарный Челлендж§7!
+    +25 Bronze Tokens@    §6+25 Бронзовых жетонов
+    +15 Silver Tokens@    §f+15 Серерянных жетонов
+    +7 Gold Tokens@   §e+7 Золотых жетонов
+    +1 Diamond Token@    §b+1 Алмазный жетон
+    +800000 Experience Points@    §d+800000 Очков опыта
+It feels as though demons are starting to consume your mind... maybe it wasn't a good idea to enter this place...@Такое чувство, что демоны начинают поглощать твой разум... может быть это не лучшая идея, чтобы идти в это место...
+YahyaBot begins emitting strange spores...@YahyaBot начинает испускать странные споры...
+The idol whirrs to life...@Идол начинает оживать...
+               Thank you for your purchase!@               §6Спасибо за вашу покупку!
+      Your continuous support is what keeps Wynncraft alive@      Ваша постоянная поддержка-это то, что держит Wynncraft на плаву
+ You have received:@§bВы получили
+  - 1 Crates@ - 1 Контейнер
+Chicken Disguise@§dПеревоплощение в курицу
+Letter Swirl Effect@§dЭффект вращающихся букв
+Create a letters effect around your character@Создает эффект вращающихся букв вокруг игрока
+A message is carved into the obsidian: "In a place of identity, above the leaves and between the glass"@Сообщение выгравировано на обсидиане: "§eВ месте идентификации, над листьями и между стеклом§7"
+A message is carved into the obsidian: "In an emerald fountain, surrounded by the wealth of the villagers"@Сообщение выгравировано на обсидиане: "§eВ эмеральдном фонтане, в окружении богатств жителей§7"
+A message is carved into the obsidian: "Beneath the cowl of the eastern titan, keeping watch over our heads"@Сообщение выгравировано на обсидиане: "§eПод шлемом восточного титана, охраняющего наши головы§7"
+[Drunkness for 120 seconds]@[Опьянение на 120 секунд]
+The water is freezing to ice, maybe it opens something?@Вода превратилась в лед, может она что-то открыла?
+Level Up!@                          §6Уровень повышен!
++ 1 Max Unrefined Material Weight@+ 1 К максимальному весу ресурсов

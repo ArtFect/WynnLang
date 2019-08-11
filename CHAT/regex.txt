@@ -1,0 +1,70 @@
+\[!\] Congratulations to (.*) for reaching combat level (.*)!@§7[!] Поздравляем (r1) с достижением (r2) комбат уровня!
+(.*) would like to duel! Type (.*) to accept.@§b(r1) хочет дуэли с тобой! Напиши §6(r2) §bдля принятия.
+\[New Quest Started: (.*)\]@§7[Начат новый квест: (r1)]
+\[Questline Started: (.*)\]@§7[Начата серия квестов: (r1)]
+\[Mini-Quest Started: (.*)\]@§a[Начат новый мини-квест: (r1)]
+\[You are now entering (.*)\]@§7[Ты входишь в (r1)]
+\[You are now leaving (.*)\]@§7[Ты покидаешь (r1)]
+(.*) is now level (.*) in (.*)@§6(r1) достиг (r2) уровня в (r3)
+(.*) is for level (.*) only@§7(r1) только для уровней (r2)+
+\[You have received (.*) soul points while you were offline\]@§7[Ты заработал (r1) soul point'ов, пока был не в сети]
+( +)- \+(\d+) Experience Points@§d(r1)-§r§7 +§r§f(r2)§r§7 Очков опыта
+\+(.*) Emeralds@§7  +(r1) эмеральд (а/ов)
+\+1 Maximum Soul Points \[Total: (.*)\]@§7+1 к максимуму числа душ [Всего: (r1)]
+(.*) has logged into server (.*) as a (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
+(.*) has logged into server (.*) as an (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
+(.*) left the game.@§7(r1) покинул игру.
+(.*) would like to trade! Type (.*) to accept.@§5(r1) хотел бы поторговать с тобой! Напиши §6(r2) §5для принятия.
+(.*) is not a (.*) weapon. You must use a (.*).@§7(r1) не оружие для (r2) . Ты должен использовать (r3)
+(.*) has given you 20% resistance and 10% strength.@§b(r1) §7дал тебе 20% к сопротивлению и 10% к силе.
+You will now contribute (.*)% of your XP to (.*)@§bТеперь ты вносишь (r1)% от своих очков опыта в (r2)
+\[Daily Rewards: (.*) emeralds and (.*) items\]@§7[Ежедневная награда: (r1) эмеральд (а/ов) и (r2) предмета]
+Please wait an additional (.*) minutes before opening this chest.@§7Пожалуйста, подожди еще (r1) минут, прежде чем открывать этот сундук.
+Please wait an additional (.*) seconds before opening this chest.@§7Пожалуйста, подожди еще (r1) секунд, прежде чем открывать этот сундук.
+(.*) has already claimed this loot chest!@§7(r1) уже забрал этот сундук с лутом!
+\[\+(.*) for (.*) seconds\]@§7[+(r1) на (r2) секунд]
+You still have (.*) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
+You've gotten a (.*) reward!@§7Ты получил §6(r1)§7 награду!
+(.*) has gotten a (.*) from their crate. Buy your own at wynncraft.com\/store@§7(r1) получил (r2) из своего контейнера. Купи свой собственный на §6wynncraft.com/store
+(.*) has thrown a combat XP Bomb! The entire server gets double xp for 20 minutes!@§7(r1) бросил XP Бомбу! Весь сервер получает удвоенные очки опыта на 20 минут!
+This potion is for Combat Lv. (.*)\+ only.@§4Это зелье только для уровней (r1)+
+(.*) quest items have been returned.@§7(r1) квестовых предметов было возвращено.
+(.*) requires your (.*) skill to be at least (.*).@§c(r1) §4требует, чтобы твое умение “(r2)” было не меньше §c(r3).
+You have unlocked page (.*) in your bank@§7Ты разблокировал (r1) страницу в своем банке
+You are no longer tracking (.*)@§7Ты больше не отслеживаешь (r1)
+(.*) has thrown an Item Bomb!@§7(r1) бросил Предметную бомбу!
+\+ Spell Upgrade \[(.*)\]@§7+ Апгрейд заклинания [(r1)]
++ New Spell \[(.*)\]@§7+ Новое заклинание [(r1)]
+You need (.*) more levels before you can unlock this page of the bank@§7Тебе нужно еще (r1) уровней, прежде чем ты сможешь разблокировать эту страницу банка
+Blacksmith: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§5Blacksmith: §dТы продал мне §r(r1)§d за (r2) эмеральд (а/ов). Было приятно иметь с тобой дело.
+The server is restarting in (.*) minutes.@§cСервер перезагрузится через (r1) минут
+The server is restarting in (.*) seconds.@§cСервер перезагрузится через (r1) секунд
+(.*) has just logged in!@§5(r1) только что зашел
+Item Identifier: I'm afraid you don't have enough emeralds in your inventory for that. It will cost (.*) emeralds.@§5Item Identifier: §dБоюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить §6(r1) эмеральд (а/ов)
+(.*) is now combat level (.*)@§6(r1) достиг (r2) комбат уровня
+(.*) has won the duel!@§e(r1) §9выиграл дуэль!
+This material cannot be used for (.*)@§4Этот материал не может использоваться для §c(r1)
+You need to use an (.*) to gather from this resource!@§4Тебе нужно использовать §c(r1) §4чтобы собрать этот ресурс
+This machine can only process (.*)@§4Эта машина перерабатывает только §c(r1)
+Did you mean (.*)\? If not, type /help to see the commands!@§4Ты имел в виду §r§c(r1)? §r§4Если нет, напиши /help, чтобы увидеть список команд!
+(.*): I'm afraid you cannot afford that item.@§5(r1): §dБоюсь, что ты не можешь получить этот предмет.
+(.*): I'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
+(.*): Thank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
+Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §2[(r3)]
+\[(.*)\] Cleared all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
+(.*) gave  you \[(.*)\].@§b(r1) дал тебе §c[(r2)].
+(.*) quest items have been returned. There was not room for an additional (.*) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
+(.*)'s bomb has expired. You can buy (.*) at our website, wynncraft.com\/store@§b(r1) §3бомба закончилась. Ты можешь купить (r2) на нашем сайте §bwynncraft.com/store
+Key Collector: You cannot enter this dungeon unless you give me \[(.*)\]@§5Key Collector: §dТы не можешь войти в этот данж, пока не дашь мне §3(r1).
+(.*) has joined the party.@§e(r1) присоединился к пати.
+Only (.*) more combat levels until you earn the (.*) spell@§5Еще §d(r1) комбат уровня §5и ты изучишь §d(r2) заклинание
+This material cannot be used for (.*)@Этот ресурс не может быть использован для (r1)
+Seaskipper Captain: Where are ya headed? (.*), huh? A'ight! I'll get ya there in no time.@§2Seaskipper Captain: §aКуда ты направляешься? (r1), да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
+ + New Quest \[(.*)\]@ + Новый квест [(r1)]
+You are now combat level (.*)@                         §eВы достигли (r1) комбат уровня
+You are now level (.*) in (.*)@                   §eВы достигли (r1) уровня в (r2)
++ Faster Gathering \[(.*)\]@+ Более быстрая добыча (r1)
++ Faster Refining \[(.*)\]@+ Более быстрая переработка (r1)
++ Higher Refining Success \[(.*)\]@+ Шанс на успешную переработку (r1)
+Only (.*) more levels until you can use the (.*)@Еще (r1) уровня и ты сможешь использовать (r2)
++ Higher Recipe Level \[(.*)\]@+ Рецепты повышенных уровней (r1)
