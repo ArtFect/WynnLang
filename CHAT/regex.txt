@@ -72,3 +72,5 @@ Only (.*) more level until you can use the (.*)@§5Еще §d(r1) уровень
 Only (.*) more levels until you can gather from (.*)@§5Еще §d(r1) уровня §5и ты сможешь собирать §d(r2)
 Only (.*) more level until you can gather from (.*)@§5Еще §d(r1) уровень §5и ты сможешь собирать §d(r2)
 \+ New Resource \[(.*)\]@§7+ Новый ресурс §8[(r1)]
+You've revealed: (.*) for a total of (.*) emeralds.@§dТы раскрыл: §b(r1) в сумме за §e(r2) эмеральдов.
+Finished buying (.*) for (.*)@§dЗавершена покупка §b(r1) за §5(r2)
