@@ -653,6 +653,8 @@ You cannot drop locked items! Use /itemlock while holding the item again to unlo
 [Info] You can get much more XP by killing mobs close to your level! For more information, visit wynncraft.com@§4[Инфо] §cТы можешь получать больше очков опыта, убивая мобов близких твоему уровню! Для большей информации, посети §6wynncraft.com
 [Info] Go to the nether to fight other players, and get a place on our leaderboards! For more information, visit wynncraft.com@§4[Инфо] §cСходи в ад, чтобы сразиться с другими игроками, и получить место на нашей доске лидеров! Для большей информации, посети §6wynncraft.com
 [Info] Use the Trade Market in major cities to buy/sell many items quickly to other players! For more information, visit wynncraft.com!@§6[§eИнфо§6] §7Используй Trade Market в крупных городах, чтобы быстро купить/продать предметы другим игрокам! §fДля большей информации, посети §6wynncraft.com!
+[Info] Use "/party create" and "/party invite [name]" to create a party with friends and get bonus XP! For more information, visit wynncraft.com!@§6[§eИнфо§6] §7Используй "/party create" и "/party invite [name]" для создания пати с друзьями и получения бонусных XP! §fДля большей информации, посети §6wynncraft.com!
+[Info] Use "/friend add [name]" to add other players as friends! For more information, visit wynncraft.com!@§6[§eИнфо§6] §7Используй "/friend add [name]" для добавления других игроков в друзья! §fДля большей информации, посети §6wynncraft.com!
 [Info] Purchase crates for cosmetic items like Weapon Skins, Wybels, Particle Effects, Hats and much more! Visit store.wynncraft.com for more!@§5[§dИнфо§5] §dПокупай контейнеры ради косметических вещей, например Скинов для оружия, Wybel'ов, Эффектов частиц, Шляп и многого другого! Посети §5store.wynncraft.com для большей информации!
 You have no missing quest items... Check your bank and other class inventories@§7У тебя нет пропавших квестовых предметов... Проверь свой банк и инвентари других классов
 There wasn't room in your inventory, so items were dropped.@§7В твоем инвентаре не было места, поэтому предметы были сброшены.
@@ -918,3 +920,5 @@ Type the item name or type 'cancel' to cancel:@§6Напиши название 
 It was a pleasure doing business with you.@§dБыло приятно иметь с тобой дело
 Visit the Trade Market to claim your item@§dПосети Trade Market, чтобы забрать свой предмет
 [!] Opening door...@§6[§e!§6] §7Открытие двери...
+You've already finished this Mini-Quest@§4Ты уже завершил этот мини-квест
+Only the head of a spirit can enter this domain.@Только главный дух может войти в эту область.
