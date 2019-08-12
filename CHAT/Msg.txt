@@ -207,6 +207,94 @@ What message would you like to shout to the entire network? Say 'cancel' to stop
 Are you sure you want to shout@§7Уверен, что хочешь отправить 
 Type yes or no.@§7Напиши yes или no.
 Shouting!@§7Отправлено!
+Item Identifier: I can't identify this item! Only items with a unique, rare, legendary, and set tags can be identified.@§5Item Identifier: §dЯ не могу идентифицировать этот предмет! Только предметы с §eunique§d, §5rare§d, §blegendary§d, и §aset§d тэгами можно идентифицировать.
+Item Identifier: I can't identify this item! It can not be reidentified.@§5Item Identifier: §dЯ не могу идентифицировать этот предмет! Он не может быть идентифицирован повторно.
+Item Identifier: Okay, I'll identify them now!@§5Item Identifier: §dХорошо, я сейчас же их идентифицирую!
+Item Identifier: It is done. Your item has been identified. The magic it contains will now blossom.@§5Item Identifier: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
+Powder Master: Great doing business with you, adventurer. Come back any time!@§5Powder Master: §dС тобой приятно иметь дело, путешественник. Возвращайся в любое время!
+Key Collector: You have access to the dungeon... This time only.@§5Key Collector: §dТы можешь войти в данж... Но только в этот раз.
+Guild Master: You must leave your current guild before making your own. Type /guild leave@§7Guild Master: Ты должен выйти из своей текущей гильдии, чтобы создать свою. Напиши /guild leave
+You walk away wondering if the citizen stands all day long welcoming adventurers...@§7Ты уходишь, задаваясь вопросом - стоит ли этот житель здесь весь день, приветствуя путешественников...
+Disguise yourself as a chicken@§7Перевоплощение себя в курицу
+You now have the letters effect.@§cВыбран эффект букв.
+Sorry, you cannot use a crate here. Move away from blocks.@§7Прости, ты не можешь использовать контейнер здесь. Отойди подальше от блоков.
+The duel is starting in 10 seconds...@§9Дуэль начнется через §e10 секунд§9...
+The duel has started! Fight to the death...@§9Дуэль началась! Битва до смерти...
+Wait a bit before trying to duel again!@§dПодождите немного, прежде чем снова предлагать дуэль!
+The duel request has been sent! Waiting for them to accept...@§bЗапрос на дуэль отправлен! Ждем, пока его примут...
+Blacksmith: I can't buy that item! I only accept weapons, accessories, potions, armour and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню и крафтовые предметы.
+Blacksmith: I can't buy that item! I only accept weapons, accessories, potions, armour, resources and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню, ресурсы и крафтовые предметы.
+You've reached the maximum amount of points in that skill, choose another one!@§4Ты достиг максимального количества очков в этом навыке, выбери другой!
+You need to wait 60 seconds after logging in to gather from this resource!@§4Тебе нужно подождать §c60 секунд §4после входа на сервер чтобы собрать этот ресурс!
+Your horse is scared to come out right now, too many mobs are nearby.@§dТвоя лошадь напугана сейчас, чтобы выходить, поскольку слишком много мобов рядом.
+It appears that the bandits took some of your money while you were unconscious@§7Похоже, что бандиты забрали часть твоих денег, пока ты был без сознания
+Invalid command... Type /help for a list of commands@§4Неизвестная команда... Напиши /help для списка команд
+You must be a Captain to use this command.@§cТы должен быть Капитаном чтобы использовать эту команду.
+You must be a Chief to use this command.@§cТы должен быть Шефом чтобы использовать эту команду.
+-----------— Wynncraft Help —---------—@§7—---------— §4Wynncraft Помощь §7—---------—
+— For a proper help guide, visit our website —@§7— §4Для полного гайда о помощи посетите наш сайт §7—
+Manage your friends@§6Управление друзьями 
+Manage your ignored players@§6Управление игнорируемыми игроками 
+Manage your party@§6Управление пати 
+Chat with members of your party@§6Писать в чат участникам пати 
+Send someone a message@§6Отправить кому-то сообщение 
+Quickly reply to a message@§6Быстрый ответ на сообщение 
+Trade with someone@§6Торговать с кем-нибудь 
+Open a crate@§6Открыть контейнер  
+Use a mob totem@§6Использовать моб тотем 
+Sign a crafted item@§6Подписать крафтовый предмет  
+Rename a crafted item@§6Переименовать крафтовый предмет 
+Change the lore on a crafted item@§6Изменить лор крафтового предмета  
+Lock / unlock the item in your hand, making it so you can't accidentally drop it@§6Заблокировать / разблокировать предмет в твоей руке, чтобы случайно его не выбросить 
+Choose a class to play as@§6Выбрать класс для игры  
+Toggle gameplay items on or off@§6Включить или отключить элементы геймплея
+The server is restarting in 1 minute.@§cСервер перезагрузится через 1 минуту
+The server is restarting in 10 minutes.@§cСервер перезагрузится через 10 минут
+The server is restarting in 5 minutes.@§cСервер перезагрузится через 5 минут
+The server is restarting in 4 minutes.@§cСервер перезагрузится через 4 минуты
+The server is restarting in 3 minutes.@§cСервер перезагрузится через 3 минуты
+The server is restarting in 2 minutes.@§cСервер перезагрузится через 2 минуты
+The server is restarting in 1 second.@§cСервер перезагрузится через 1 секунду
+The server is restarting@§cСервер перезагружается
+You have no items of this type to use. Buy some at our website, wynncraft.com/store@§4У вас нет предметов этого типа для использования. Можете купить их на нашем сайте §cwynncraft.com/store
+You are not in a guild.@§cВы не состоите в гильдии
+                         [Mini-Quest Completed]@                         §2[Мини-Квест Пройден]
+Looking for missing quest items...@§cИщем пропавшие квестовые предметы...
+Your Crafted Items are damaged and have become less effective. Bring them to a Blacksmith to repair them.@Твои крафтовые предметы повредились и стали менее эффективными. Принеси их к Blacksmith'у, чтобы починить.
+You've already claimed this bomb...@§cВы уже забрали эту бомбу...
+             [Discovery Found]@                         §3[Открытие найдено]
+Location:@Локация: 
+Discoveries Found:@Открытий найдено: 
+You fully completed the Legendary Challenge!@§6Ты полностью прошел §bЛегендарный Челлендж§7!
+    +25 Bronze Tokens@    §6+25 Бронзовых жетонов
+    +15 Silver Tokens@    §f+15 Серерянных жетонов
+    +7 Gold Tokens@   §e+7 Золотых жетонов
+    +1 Diamond Token@    §b+1 Алмазный жетон
+    +800000 Experience Points@    §d+800000 Очков опыта
+               Thank you for your purchase!@               §6Спасибо за твою покупку!
+      Your continuous support is what keeps Wynncraft alive@      §7Твоя постоянная поддержка - это то, что держит Wynncraft на плаву
+ You have received:@§bТы получил:
+  - 1 Crates@§b- §71 Контейнер
+Chicken Disguise@§dПеревоплощение в курицу
+Pig Disguise@§dПеревоплощение в свинью
+Disguise yourself as a pig@Перевоплощение себя в свинью
+Letter Swirl Effect@§dЭффект вращающихся букв
+Create a letters effect around your character@Создает эффект вращающихся букв вокруг игрока
+[Drunkness for 120 seconds]@[Опьянение на 120 секунд]
+Level Up!@                          §6Уровень повышен!
++ 1 Max Unrefined Material Weight@§7+ 1 К максимальному весу ресурсов
+You have already progressed too far to use skip!@Ты уже продвинулся слишком далеко, чтобы использовать пропуск!
+[+1 Selchar Teleportation Scroll]@[+1 Selchar свиток телепортации]
+ There are aggressive mobs nearby...@Поблизости есть агрессивные мобы...
+[Objective Completed]@                         §4[Цель завершена]
+Gather Resources@                           §cСбор ресурсов
+Click here to claim your rewards!@                  §6§nНажми здесь чтобы забрать награду!
+Type the item name or type 'cancel' to cancel:@§6Напиши название предмета, или 'cancel' для отмены:
+It was a pleasure doing business with you.@§dБыло приятно иметь с тобой дело
+Visit the Trade Market to claim your item@§dПосети Trade Market, чтобы забрать свой предмет
+You've already finished this Mini-Quest@§4Ты уже завершил этот мини-квест
+
+
 
 
 ##########################Квесты/Данжи#########################################
@@ -596,6 +684,34 @@ The sheep raises its head to look at you, and nods respectively. You have succes
 The cow raises it's head to look at you, then returns to its business.@§7Корова поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
 The pig raises it's head to look at you, then returns to its business.@§7Свинья поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
 The sheep raises it's head to look at you, then returns to its business.@§7Овца поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
+[WARNING] Power Level: 55.0%@§4[§c§lПРЕДУПРЕЖДЕНИЕ§4] Уровень Энергии: §655.0%
+[WARNING] Power Level: 52.5%@§4[§c§lПРЕДУПРЕЖДЕНИЕ§4] Уровень Энергии: §652.5%
+This doesn't seem to be the right way to go.@§4Это не похоже на правильный путь.
+You hear a buzzing sound, so you don't enter,@§4Ты слышишь жужжащий звук, поэтому решаешь не идти туда
+You can hear a soft humming coming from the walls.@Ты можешь слышать мягкое гудение, исходящее от стен.
+You feel powerful electricity rushing through your body as you enter the room.@При входе в комнату вы чувствуете, как мощное электричество проходит через ваше тело.
+You cannot enter the scroll shop until you have completed the quest "Fallen Delivery"@§4Ты не можешь войти в магазин свитков, пока не завершишь квест "Fallen Delivery"
+A Cannibal Ambush@Засада Каннибалов
+They'll eat you alive.@Они съедят тебя живьем.
+It would be rude to go inside without Asher's permission.@Было бы невежливо войти внутрь без разрешения Asher'а.
+The cannon is ready to fire!@Пушка готова к стрельбе!
+This door appears to be locked. Perhaps a key could be used...@Похоже дверь заперта. Возможно, можно было бы использовать ключ...
+A piece of the creeper came along with you after the blast catapulted you here. Maybe Thomas would like to take a look at it.@Кусочек крипера прилетел вместе с тобой после того, как взрыв катапультировал тебя сюда. Может быть, Thomas хотел бы взглянуть на него.
+One of these tunnels must be correct one...@Один из этих туннелей должен быть правильным...
+GUARD ASSIGNMENT: Search the vault for signs of a robbery/veracity of witness report.@§lЗАДАЧА РЕПОРТА:§7 Обыщи хранилище в поисках признаков грабежа/достоверности показаний свидетеля.
+[ VaultDoor-2000 ] Vault unlocking...@§4[ §cVaultDoor-2000 §4]§7 Открытие хранилища...
+GUARD ASSIGNMENT: Search the wealthy man's residence for the source of the explosion.@§lЗАДАЧА РЕПОРТА:§7 Обыщи резиденцию богатого человека в поисках источника взрыва.
+The aparation of Asher is frozen in time, unable to speak or move.@Призрак Asher'a застыл во времени, неспособный говорить или двигаться.
+The cannon cannot be fired in its current state. Looks like you'll need something to activate it.@Пушка не может быть запущена в ее текущем состоянии. Похоже тебе понадобится что-то, чтобы активировать ее.
+The cannon is activated! Now it needs to be loaded with a cannonball...@Пушка активирована! Теперь ее нужно зарядить пушечным ядром...
+A message is carved into the obsidian: "In a place of identity, above the leaves and between the glass"@Сообщение выгравировано на обсидиане: "§eВ месте идентификации, над листьями и между стеклом§7"
+A message is carved into the obsidian: "In an emerald fountain, surrounded by the wealth of the villagers"@Сообщение выгравировано на обсидиане: "§eВ эмеральдном фонтане, в окружении богатств жителей§7"
+A message is carved into the obsidian: "Beneath the cowl of the eastern titan, keeping watch over our heads"@Сообщение выгравировано на обсидиане: "§eПод шлемом восточного титана, охраняющего наши головы§7"
+The water is freezing to ice, maybe it opens something?@Вода превратилась в лед, может она что-то открыла?
+This mine looks abandoned and dangerous, you should best stay away from it.@§4Эта шахта выглядит заброшенной и опасной, тебе лучше держаться от нее подальше.
+[!] Opening door...@§6[§e!§6] §7Открытие двери...
+Only the head of a spirit can enter this domain.@Только главный дух может войти в эту область.
+
 
 
 ######################################NPC####################################################
@@ -606,26 +722,6 @@ Wynn may have had Bob as its hero, but Gavel has Siegfried. His books are all pr
 The End.@§7Конец.
 The inscription on the gravestone reads "Here lies our great founder, Tisaun Sodeta. May he guide us through the endless fight."@§7Надпись на надгробии гласит "Здесь лежит наш великий основатель, Sodeta Tisaun. Пусть он проведет нас через бесконечную битву."
 An unsettlingly powerful energy seems to blanket the area. There is potential here for...something. But not yet...@§7Похоже, что мощная тревожная энергия покрывает эту область. Здесь есть потенциал для... чего-то. Но еще слишком рано...
-
-
-########################################Дискавери####################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Powder Manual@§eРуководство о порошках
 Chapter 1 - The Basics@§fГлава 1 - Основы
 There exist five varieties of magic powder, each corresponding to one of five different elements; ? Fire, ? Water, ? Thunder, ? Earth, and ? Air.@§7Существуют пять разновидностей магических порошков, каждый из которых соответствует одному из пяти различных элементов: §f❋ Воздух§a, §e✦ Гром§a, §2✤ Земля§a, §4✹ Огонь§a, и §b❉ Вода§a.
@@ -645,56 +741,29 @@ Thunder:  Thunder-imbued weapons can release a streak of lightning that seeks en
 Water:  Water-imbued weapons will curse one's nearby enemies. This curse weakens armor, and turns them vulnerable to further attack. Water-augmented armors recycle used mana, transferring it into a short boost to Water-affiliated techniques, depending on how much mana was consumed.@§9Вода:§7 Наполненное водой оружие проклинает ближайших врагов. Это проклятие ослабляет броню и делает их уязвимыми для дальнейших атак. Дополненные водой доспехи перерабатывают использованную ману, переводя ее в короткий рост урона к атакам, в зависимости от того, сколько маны было использовано. Также увеличивает силу водных атак.
 Fire:  Fire-imbued weapons will generate a fan of flames that burn one's enemies and empower one's allies. Fire-augmented armors react to being struck, turning the impact of the blow, no matter how weak, into a temporary power boost to Fire-based attacks.@§4Огонь:§7 Наполненное огнем оружие генерирует вихрь пламени, который сжигает врагов и расширяет возможности ваших союзников. Дополненные огнем доспехи реагируют на полученный урон, повышая силу удара, и временно увеличивая силу огненных атак.
 Air:  Air-imbued weapons trap nearby enemies in a vortex of wind, and blow the victims away when struck. Air-augmented armors will, so long as they are kept close, leach energy from nearby foes to improve the strength of Air-based attacks.@§fВоздух:§7 Наполненное воздухом оружие ловит близлежащих врагов в воронку ветра, и сдувает жертв прочь при ударе. Дополненные воздухом доспехи будут высасывать энергию из близлежащих врагов, пока они находятся рядом. Также улучшают силу воздушных атак.
-Item Identifier: I can't identify this item! Only items with a unique, rare, legendary, and set tags can be identified.@§5Item Identifier: §dЯ не могу идентифицировать этот предмет! Только предметы с §eunique§d, §5rare§d, §blegendary§d, и §aset§d тэгами можно идентифицировать.
-Item Identifier: I can't identify this item! It can not be reidentified.@§5Item Identifier: §dЯ не могу идентифицировать этот предмет! Он не может быть идентифицирован повторно.
-Item Identifier: Okay, I'll identify them now!@§5Item Identifier: §dХорошо, я сейчас же их идентифицирую!
-Item Identifier: It is done. Your item has been identified. The magic it contains will now blossom.@§5Item Identifier: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
-Powder Master: Great doing business with you, adventurer. Come back any time!@§5Powder Master: §dС тобой приятно иметь дело, путешественник. Возвращайся в любое время!
-Key Collector: You have access to the dungeon... This time only.@§5Key Collector: §dТы можешь войти в данж... Но только в этот раз.
-Guild Master: You must leave your current guild before making your own. Type /guild leave@§7Guild Master: Ты должен выйти из своей текущей гильдии, чтобы создать свою. Напиши /guild leave
-You walk away wondering if the citizen stands all day long welcoming adventurers...@§7Ты уходишь, задаваясь вопросом - стоит ли этот житель здесь весь день, приветствуя путешественников...
-Disguise yourself as a chicken@§7Перевоплощение себя в курицу
-You now have the letters effect.@§cВыбран эффект букв.
-Sorry, you cannot use a crate here. Move away from blocks.@§7Прости, ты не можешь использовать контейнер здесь. Отойди подальше от блоков.
-The duel is starting in 10 seconds...@§9Дуэль начнется через §e10 секунд§9...
-The duel has started! Fight to the death...@§9Дуэль началась! Битва до смерти...
-Wait a bit before trying to duel again!@§dПодождите немного, прежде чем снова предлагать дуэль!
-The duel request has been sent! Waiting for them to accept...@§bЗапрос на дуэль отправлен! Ждем, пока его примут...
-Blacksmith: I can't buy that item! I only accept weapons, accessories, potions, armour and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню и крафтовые предметы.
-Blacksmith: I can't buy that item! I only accept weapons, accessories, potions, armour, resources and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню, ресурсы и крафтовые предметы.
-You've reached the maximum amount of points in that skill, choose another one!@§4Ты достиг максимального количества очков в этом навыке, выбери другой!
-You need to wait 60 seconds after logging in to gather from this resource!@§4Тебе нужно подождать §c60 секунд §4после входа на сервер чтобы собрать этот ресурс!
-Your horse is scared to come out right now, too many mobs are nearby.@§dТвоя лошадь напугана сейчас, чтобы выходить, поскольку слишком много мобов рядом.
-It appears that the bandits took some of your money while you were unconscious@§7Похоже, что бандиты забрали часть твоих денег, пока ты был без сознания
-Invalid command... Type /help for a list of commands@§4Неизвестная команда... Напиши /help для списка команд
-You must be a Captain to use this command.@§cТы должен быть Капитаном чтобы использовать эту команду.
-You must be a Chief to use this command.@§cТы должен быть Шефом чтобы использовать эту команду.
------------— Wynncraft Help —---------—@§7—---------— §4Wynncraft Помощь §7—---------—
-— For a proper help guide, visit our website —@§7— §4Для полного гайда о помощи посетите наш сайт §7—
-Manage your friends@§6Управление друзьями 
-Manage your ignored players@§6Управление игнорируемыми игроками 
-Manage your party@§6Управление пати 
-Chat with members of your party@§6Писать в чат участникам пати 
-Send someone a message@§6Отправить кому-то сообщение 
-Quickly reply to a message@§6Быстрый ответ на сообщение 
-Trade with someone@§6Торговать с кем-нибудь 
-Open a crate@§6Открыть контейнер  
-Use a mob totem@§6Использовать моб тотем 
-Sign a crafted item@§6Подписать крафтовый предмет  
-Rename a crafted item@§6Переименовать крафтовый предмет 
-Change the lore on a crafted item@§6Изменить лор крафтового предмета  
-Lock / unlock the item in your hand, making it so you can't accidentally drop it@§6Заблокировать / разблокировать предмет в твоей руке, чтобы случайно его не выбросить 
-Choose a class to play as@§6Выбрать класс для игры  
-Toggle gameplay items on or off@§6Включить или отключить элементы геймплея
 A sudden jolt of realisation shudders down the Talking Mushroom’s stem. He retreats into your satchel.@§7Внезапное осознание этого места заставляет дрожать ножку Говорящего Гриба. Он прячется в твою сумку.
 Your backpack seems awfully quiet for once. Maybe it is best to avoid this place for now.@§7В твоей сумке кажется ужасно тихо. Возможно, лучше стоит избегать этого места.
 You feel your bag shuffle around...feels like something fell out.@§7Ты чувствуешь, как твоя сумка зашевелилась...как будто что-то выпало.
 Confused, you pick to mushroom up to examine it. What even is this thing?@§7Смущенный, ты берешь гриб, чтобы изучить его. Что это вообще такое?
 Without dwelling on it too much, you take the talking mushroom and put it in your satchel. @§7Не зацикливаясь на этом слишком долго, ты берешь говорящий гриб и кладешь его в свою сумку.
+To the Mining Operations Manager:@Для Горнодобывающего Менеджера:
+We were performing our usual routines when suddenly an unknown explosion caused a massive cave-in at the entrance to our main mining supply area.@Мы выполняли наши обычные процедуры, когда внезапно неизвестный взрыв вызвал массивный обвал на входе в наш главный участок добычи.
+Something must be done to remove the debris, we cannot easily continue our mining operations without our supplies.@Что-то нужно сделать, чтобы убрать обломки, мы не можем легко продолжать наши горные работы без наших запасов.
+There also may be people trapped on the other side, and I would hate to lose even more miners to these catastrophes.@Там также могут быть люди, оказавшиеся в ловушке на другой стороне, и я не хотел бы потерять еще больше шахтеров в этих катастрофах.
+Maybe we could use the Wrecking Ball to demolish the debris, but if we don't act soon...@Может быть, мы могли бы использовать разрушающий шар, чтобы уничтожить обломки, но если мы не начнем действовать в ближайшее время...
+How to Use the Explosive-Cloaker Machine:@§l§7Как использовать Explosive-Cloaker Machine:
+ - Acquire an explosive item.@ - Добыть взрывоопасный предмет.
+ - Insert explosive item into the hole of the INPUT slot of the machine.@ - Вставить взрывоопасный предмет в дыру машины с надписью INPUT
+ - Wait while the machine temporarily disables the item's explosive property.@ - Подождать, пока машина временно отключит взрывоопасные свойства предмета
+ - Take item out of OUTPUT slot.@ - Забрать предмет из слота OUTPUT
+ - Can be very useful for disabling explosive properties of unstable ores found in caves.@ - §l§7Может быть очень полезна для отключения взрывных свойств у нестабильных руд, найденных в пещерах.
+It feels as though demons are starting to consume your mind... maybe it wasn't a good idea to enter this place...@Такое чувство, что демоны начинают поглощать твой разум... может быть это не лучшая идея, чтобы идти в это место...
+YahyaBot begins emitting strange spores...@YahyaBot начинает испускать странные споры...
+The idol whirrs to life...@Идол начинает оживать...
+
+
+########################################Дискавери####################################################
 Even though you can clearly hear the tribesmen talking they appear to be speaking in a language you've never heard before.@§7Даже при том, что вы можете ясно слышать, как говорят соплеменники, они, кажется, говорят на языке, который вы никогда не слышали раньше.
-The server is restarting in 1 minute.@§cСервер перезагрузится через 1 минуту
-The server is restarting in 1 second.@§cСервер перезагрузится через 1 секунду
-The server is restarting@§cСервер перезагружается
 May the woman who died here in tonight's raid rest in peace. Though we did not know her name, her memory will live on through her son.@§7Пусть женщина, которая умерла здесь сегодня во время ночной осады, покоится с миром. Хоть мы не знали ее имени, память о ней будет жить через ее сына.
 The spike seems to be the source of this evil, if only it could be broken...@§7Похоже, этот шип является источником зла; если бы его только можно было сломать...
 Seems like the gate is no longer blocked.@§7Похоже, что ворота больше не заблокированы.
@@ -778,35 +847,6 @@ Bob stood against Bak'al for the first time and demonstrated magic unseen by hum
 Since then, Bak'al has not been able to enter a city and the Human population began to recover.@§7С тех пор Bak'al не смог войти в город, и человеческая популяция начала восстанавливаться.
 Only Bob has ever been able to effectively stand against Bak'al.@§7Только Bob смог эффективно противостоять Bak'al'у.
 Bob has been missing since 984 AP.@§7Bob пропал без вести в 984 году ПП.
-[WARNING] Power Level: 55.0%@§4[§c§lПРЕДУПРЕЖДЕНИЕ§4] Уровень Энергии: §655.0%
-[WARNING] Power Level: 52.5%@§4[§c§lПРЕДУПРЕЖДЕНИЕ§4] Уровень Энергии: §652.5%
-This doesn't seem to be the right way to go.@§4Это не похоже на правильный путь.
-You hear a buzzing sound, so you don't enter,@§4Ты слышишь жужжащий звук, поэтому решаешь не идти туда
-You can hear a soft humming coming from the walls.@Ты можешь слышать мягкое гудение, исходящее от стен.
-You feel powerful electricity rushing through your body as you enter the room.@При входе в комнату вы чувствуете, как мощное электричество проходит через ваше тело.
-You have no items of this type to use. Buy some at our website, wynncraft.com/store@§4У вас нет предметов этого типа для использования. Можете купить их на нашем сайте §cwynncraft.com/store
-You are not in a guild.@§cВы не состоите в гильдии
-                         [Mini-Quest Completed]@                         §2[Мини-Квест Пройден]
-Looking for missing quest items...@§cИщем пропавшие квестовые предметы...
-You cannot enter the scroll shop until you have completed the quest "Fallen Delivery"@§4Ты не можешь войти в магазин свитков, пока не завершишь квест "Fallen Delivery"
-A Cannibal Ambush@Засада Каннибалов
-They'll eat you alive.@Они съедят тебя живьем.
-It would be rude to go inside without Asher's permission.@Было бы невежливо войти внутрь без разрешения Asher'а.
-The cannon is ready to fire!@Пушка готова к стрельбе!
-This door appears to be locked. Perhaps a key could be used...@Похоже дверь заперта. Возможно, можно было бы использовать ключ...
-A piece of the creeper came along with you after the blast catapulted you here. Maybe Thomas would like to take a look at it.@Кусочек крипера прилетел вместе с тобой после того, как взрыв катапультировал тебя сюда. Может быть, Thomas хотел бы взглянуть на него.
-One of these tunnels must be correct one...@Один из этих туннелей должен быть правильным...
-GUARD ASSIGNMENT: Search the vault for signs of a robbery/veracity of witness report.@§lЗАДАЧА РЕПОРТА:§7 Обыщи хранилище в поисках признаков грабежа/достоверности показаний свидетеля.
-[ VaultDoor-2000 ] Vault unlocking...@§4[ §cVaultDoor-2000 §4]§7 Открытие хранилища...
-GUARD ASSIGNMENT: Search the wealthy man's residence for the source of the explosion.@§lЗАДАЧА РЕПОРТА:§7 Обыщи резиденцию богатого человека в поисках источника взрыва.
-The aparation of Asher is frozen in time, unable to speak or move.@Призрак Asher'a застыл во времени, неспособный говорить или двигаться.
-The cannon cannot be fired in its current state. Looks like you'll need something to activate it.@Пушка не может быть запущена в ее текущем состоянии. Похоже тебе понадобится что-то, чтобы активировать ее.
-The cannon is activated! Now it needs to be loaded with a cannonball...@Пушка активирована! Теперь ее нужно зарядить пушечным ядром...
-Your Crafted Items are damaged and have become less effective. Bring them to a Blacksmith to repair them.@Твои крафтовые предметы повредились и стали менее эффективными. Принеси их к Blacksmith'у, чтобы починить.
-You've already claimed this bomb...@§cВы уже забрали эту бомбу...
-             [Discovery Found]@                         §3[Открытие найдено]
-Location:@Локация: 
-Discoveries Found:@Открытий найдено: 
      - About Discovery: The civilization that ruled this land over 1000 years ago seemed to be equally as educated as people today. There are lots of texts dedicated to the Emperor.@§d     -§r§7Об открытии: §r§f§oЦивилизация, правившая этой землей более 1000 лет назад, казалась такой же образованной, как и люди сегодня. Существует множество текстов, посвященных Императору.
 It sounds like some sort of mechanism inside the statue is jammed. Maybe a hit on the head can set it right.@Похоже, что какой-то механизм внутри статуи заклинило. Может быть, удар по голове поможет все исправить.
      - About Discovery: After realizing its true power, Hashr realized he must hide the sceptre where no one could find it. Many years later, a group of bandits found refuge in this very temple.@§d     -§r§7Об открытии: §r§f§oОсознав его истинную силу, Hashr понял, что должен спрятать скипетр там, где его никто не сможет найти. Много лет спустя группа бандитов нашла убежище именно в этом храме. 
@@ -837,52 +877,3 @@ It's a child's book. It's covered in pictures of sandstorms featuring some kind 
      - About Discovery: This library tells a tale that the government of Corkus has kept secret. Rumors tell that more mysterious libraries like this one are hidden across the world.@§d     -§r§7Об открытии: §r§f§oЭта библиотека расскажет тебе историю о том, что у правительства Corkus'а есть свои секреты. По слухам во всем мире есть еще несколько таких скрытых библиотек.
      - About Discovery: The history of the Avos has remained largely unknown, but this monument of Avos ancestry might hold the ancient secrets that historians have been looking for.@§d     -§r§7Об открытии: §r§f§oИстория расы Avos'ов мало известна, однако этот монумент их происхождения может содержать древние секреты, которые так ищут историки. 
      - About Discovery: Long ago, the Avos hid away a powerful necklace. Despite the many tales and legends of it, it has never been located until now.@§d     -§r§7Об открытии: §r§f§oДавным-давно Avos'ы спрятали мощный амулет. Несмотря на множество сказаний и легенд о нем, он никогда не был найден до этого момента.
-You fully completed the Legendary Challenge!@§6Ты полностью прошел §bЛегендарный Челлендж§7!
-    +25 Bronze Tokens@    §6+25 Бронзовых жетонов
-    +15 Silver Tokens@    §f+15 Серерянных жетонов
-    +7 Gold Tokens@   §e+7 Золотых жетонов
-    +1 Diamond Token@    §b+1 Алмазный жетон
-    +800000 Experience Points@    §d+800000 Очков опыта
-It feels as though demons are starting to consume your mind... maybe it wasn't a good idea to enter this place...@Такое чувство, что демоны начинают поглощать твой разум... может быть это не лучшая идея, чтобы идти в это место...
-YahyaBot begins emitting strange spores...@YahyaBot начинает испускать странные споры...
-The idol whirrs to life...@Идол начинает оживать...
-               Thank you for your purchase!@               §6Спасибо за твою покупку!
-      Your continuous support is what keeps Wynncraft alive@      §7Твоя постоянная поддержка - это то, что держит Wynncraft на плаву
- You have received:@§bТы получил:
-  - 1 Crates@§b- §71 Контейнер
-Chicken Disguise@§dПеревоплощение в курицу
-Pig Disguise@§dПеревоплощение в свинью
-Disguise yourself as a pig@Перевоплощение себя в свинью
-Letter Swirl Effect@§dЭффект вращающихся букв
-Create a letters effect around your character@Создает эффект вращающихся букв вокруг игрока
-A message is carved into the obsidian: "In a place of identity, above the leaves and between the glass"@Сообщение выгравировано на обсидиане: "§eВ месте идентификации, над листьями и между стеклом§7"
-A message is carved into the obsidian: "In an emerald fountain, surrounded by the wealth of the villagers"@Сообщение выгравировано на обсидиане: "§eВ эмеральдном фонтане, в окружении богатств жителей§7"
-A message is carved into the obsidian: "Beneath the cowl of the eastern titan, keeping watch over our heads"@Сообщение выгравировано на обсидиане: "§eПод шлемом восточного титана, охраняющего наши головы§7"
-[Drunkness for 120 seconds]@[Опьянение на 120 секунд]
-The water is freezing to ice, maybe it opens something?@Вода превратилась в лед, может она что-то открыла?
-Level Up!@                          §6Уровень повышен!
-+ 1 Max Unrefined Material Weight@§7+ 1 К максимальному весу ресурсов
-This mine looks abandoned and dangerous, you should best stay away from it.@§4Эта шахта выглядит заброшенной и опасной, тебе лучше держаться от нее подальше.
-You have already progressed too far to use skip!@Ты уже продвинулся слишком далеко, чтобы использовать пропуск!
-[+1 Selchar Teleportation Scroll]@[+1 Selchar свиток телепортации]
-To the Mining Operations Manager:@Для Горнодобывающего Менеджера:
-We were performing our usual routines when suddenly an unknown explosion caused a massive cave-in at the entrance to our main mining supply area.@Мы выполняли наши обычные процедуры, когда внезапно неизвестный взрыв вызвал массивный обвал на входе в наш главный участок добычи.
-Something must be done to remove the debris, we cannot easily continue our mining operations without our supplies.@Что-то нужно сделать, чтобы убрать обломки, мы не можем легко продолжать наши горные работы без наших запасов.
-There also may be people trapped on the other side, and I would hate to lose even more miners to these catastrophes.@Там также могут быть люди, оказавшиеся в ловушке на другой стороне, и я не хотел бы потерять еще больше шахтеров в этих катастрофах.
-Maybe we could use the Wrecking Ball to demolish the debris, but if we don't act soon...@Может быть, мы могли бы использовать разрушающий шар, чтобы уничтожить обломки, но если мы не начнем действовать в ближайшее время...
-How to Use the Explosive-Cloaker Machine:@§l§7Как использовать Explosive-Cloaker Machine:
- - Acquire an explosive item.@ - Добыть взрывоопасный предмет.
- - Insert explosive item into the hole of the INPUT slot of the machine.@ - Вставить взрывоопасный предмет в дыру машины с надписью INPUT
- - Wait while the machine temporarily disables the item's explosive property.@ - Подождать, пока машина временно отключит взрывоопасные свойства предмета
- - Take item out of OUTPUT slot.@ - Забрать предмет из слота OUTPUT
- - Can be very useful for disabling explosive properties of unstable ores found in caves.@ - §l§7Может быть очень полезна для отключения взрывных свойств у нестабильных руд, найденных в пещерах.
- There are aggressive mobs nearby...@Поблизости есть агрессивные мобы...
-[Objective Completed]@                         §4[Цель завершена]
-Gather Resources@                           §cСбор ресурсов
-Click here to claim your rewards!@                  §6§nНажми здесь чтобы забрать награду!
-Type the item name or type 'cancel' to cancel:@§6Напиши название предмета, или 'cancel' для отмены:
-It was a pleasure doing business with you.@§dБыло приятно иметь с тобой дело
-Visit the Trade Market to claim your item@§dПосети Trade Market, чтобы забрать свой предмет
-[!] Opening door...@§6[§e!§6] §7Открытие двери...
-You've already finished this Mini-Quest@§4Ты уже завершил этот мини-квест
-Only the head of a spirit can enter this domain.@Только главный дух может войти в эту область.
