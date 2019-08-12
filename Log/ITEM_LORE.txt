@@ -1,18 +1,4 @@
 §7Click to join!
-
-§2Players: §a38/50
-§2Lag: §a0%
-§2Players: §a18/50
-§2Players: §a37/50
-§2Players: §a33/50
-§2Players: §a34/50
-§2Players: §a50/50
-§2Players: §a42/50
-§2Players: §a40/50
-§2Players: §a45/50
-§2Players: §a41/50
-§2Players: §a49/50
-§2Players: §a48/50
 {"identifications":[{"type":"DAMAGEBONUS","percent":100},{"type":"EXPLODING","percent":100},{"type":"SPELLDAMAGERAW","percent":100},{"type":"FIREDAMAGEBONUS","percent":100},{"type":"WATERDAMAGEBONUS","percent":100},{"type":"AIRDAMAGEBONUS","percent":100},{"type":"THUNDERDAMAGEBONUS","percent":100},{"type":"EARTHDAMAGEBONUS","percent":100},{"type":"FIREDEFENSE","percent":100},{"type":"WATERDEFENSE","percent":100},{"type":"AIRDEFENSE","percent":100},{"type":"THUNDERDEFENSE","percent":100},{"type":"EARTHDEFENSE","percent":100}]}
 {"identification_rolls":1,"identifications":[{"type":"SPEED","percent":95},{"type":"HEALTHBONUS","percent":91},{"type":"STRENGTHPOINTS","percent":50},{"type":"DEFENSEPOINTS","percent":86},{"type":"HEALTHREGENRAW","percent":75},{"type":"WATERDAMAGEBONUS","percent":122},{"type":"AIRDAMAGEBONUS","percent":79},{"type":"THUNDERDAMAGEBONUS","percent":78},{"type":"WATERDEFENSE","percent":104},{"type":"AIRDEFENSE","percent":84},{"type":"THUNDERDEFENSE","percent":75}]}
 {"identification_rolls":1,"identifications":[{"type":"DAMAGEBONUS","percent":111},{"type":"SPELLDAMAGE","percent":98},{"type":"HEALTHBONUS","percent":109},{"type":"HEALTHREGENRAW","percent":92},{"type":"FIREDAMAGEBONUS","percent":75}]}
@@ -26,14 +12,6 @@
 §6- §f0% §7of your un-IDed items
 §6- §f20% §7of your materials/ingredients items
 §6- §f0% §7of your other items
-§4❤ Health: +2600
-§b❉ Water§7 Defence: +105
-§f❋ Air§7 Defence: -70
-§e✦ Thunder§7 Defence: -90
-§2✤ Earth§7 Defence: +140
-§a✔§7 Combat Lv. Min: 81
-§c✖§7 Strength Min: 25
-§c✖§7 Intelligence Min: 25
 §7[0/2] Powder Slots
 §bLegendary Item
 §8§8This matted tangle of
@@ -43,10 +21,6 @@
 §8It is oddly comfortable,
 §8despite the thorns coating
 §8the inside.
-§4❤ Health: +4200
-§c✹ Fire§7 Defence: +200
-§b❉ Water§7 Defence: -200
-§a✔§7 Combat Lv. Min: 93
 §7[0/1] Powder Slots
 §8§8This thick skinned jacket,
 §8imbued with the courage
@@ -54,29 +28,12 @@
 §8will grant the user massive
 §8protection from all who
 §8target them.
-§4❤ Health: +3750
-§c✹ Fire§7 Defence: +150
-§b❉ Water§7 Defence: +50
-§f❋ Air§7 Defence: +50
-§2✤ Earth§7 Defence: +150
-§a✔§7 Combat Lv. Min: 89
-§c✖§7 Strength Min: 30
-§c✖§7 Defence Min: 70
 §8§8Forged from mystic, previously
 §8unknown metals revealed
 §8in the deepest dwarven mining
 §8site to date, these sleek,
 §8glowing greaves are believed
 §8to be utterly indestructible.
-§4❤ Health: +4600
-§c✹ Fire§7 Defence: +175
-§b❉ Water§7 Defence: +175
-§2✤ Earth§7 Defence: +175
-§a✔§7 Quest Req: The Qira Hive
-§a✔§7 Combat Lv. Min: 100
-§c✖§7 Strength Min: 40
-§c✖§7 Defence Min: 40
-§c✖§7 Intelligence Min: 40
 §cUntradable Item
 §8§8Forged in direct tribute
 §8to the earth and its aspects,
@@ -84,21 +41,13 @@
 §8are given only to those
 §8who have bested the Mistress
 §8of the Hive.
-§a✔§7 Quest Req: Memory Paranoia
-§a✔§7 Combat Lv. Min: 69
 §dRare Item
 §aJester Set §7(0/3)
 §7- §8Jester Necklace
 §7- §8Jester Ring
 §7- §8Jester Bracelet
 §aSet Item
-§b❉ Water§7 Defence: +40
-§e✦ Thunder§7 Defence: -60
-§a✔§7 Combat Lv. Min: 83
-§c✖§7 Intelligence Min: 45
 §eUnique Item
-§a✔§7 Quest Req: WynnExcavation Site D
-§a✔§7 Combat Lv. Min: 75
 §8§8An exclusive amulet given
 §8to the most honored knights
 §8of Wynn. It glows with a
@@ -129,7 +78,6 @@
 §8Crafting Ingredient
 §a+7§2 to §a10§7 Melee Damage
 §c-17 Durability
-§c✖§7 Crafting Lv. Min: 13
    §8✖ §fⒼ §7Weaponsmithing
 §7This item's powers have
 §7been sealed. Take it to
@@ -140,20 +88,16 @@
 §a- §7Tier: §bLegendary
 §a+4§2 to §a7%§7 Fire Damage
 §c-14 Durability
-§c✖§7 Crafting Lv. Min: 9
    §8✖ §fⒾ §7Woodworking
 §a+1§2 to §a3%§7 Walk Speed
 §c-2§4 to §c-1§7 Strength
 §c-15 Durability
-§c✖§7 Crafting Lv. Min: 25
    §8✖ §fⒻ §7Tailoring
    §8✖ §fⒽ §7Armouring
 §a- §7Lv. Range: §f96-100
 §a- §7Tier: §eUnique
 §7Slow Attack Speed
-§6✣ Neutral Damage: 235-300
 §a✔§7 Class Req: Warrior/Knight
-§a✔§7 Combat Lv. Min: 97
 §7[0/3] Powder Slots
 §fNormal Item
 §7Tier 2 [§7■■§8■■■■§7]
@@ -166,33 +110,18 @@
 §a+1§2 to §a4%§7 Water Damage
 §a+2§2 to §a4%§7 Spell Damage
 §c-180s Duration
-§c✖§7 Crafting Lv. Min: 43
    §8✖ §fⓁ §7Alchemism
    §8✖ §fⒶ §7Cooking
 §a+0§2 to §a4%§7 Walk Speed
 §c+4 Agility Min.
-§c✖§7 Crafting Lv. Min: 23
 §7Currency
-§2§m----§2[ §a54²§2 ]§m----
 §a- §7Lv. Range: §f20-24
 §a- §7Tier: §dRare
-§4❤ Health: +127
-§a✔§7 Combat Lv. Min: 30
-§4❤ Health: +92
-§a✔§7 Combat Lv. Min: 25
-§a+2§2 to §a4%§7 Fire Defence
 §c+4 Defence Min.
-§c✖§7 Crafting Lv. Min: 35
 §a+2§2 to §a3§7 Defence
 §c-8§4 to §c-4%§7 Air Defence
 §c-16 Durability
-§c✖§7 Crafting Lv. Min: 30
-§6✣ Neutral Damage: 0-1
-§a✔§7 Combat Lv. Min: 1
 §7Normal Attack Speed
-§6✣ Neutral Damage: 100-125
-§c✹ Fire§7 Damage: 200-255
-§c✖§7 Defence Min: 110
 §5Mythic Item
 §8§8A vow of protection hangs
 §8over this spear, now inhabited
@@ -207,7 +136,6 @@
 §6Speed: 30/30
 §6Jump: 30/30
 §5Armour: None
-§bXp: 0/100
 §7Tier 3 [§6■■■§8■■■§7]
 §6Effect on Weapons:
 §6- §7+2-18§e ✦ Thunder§7 Damage
@@ -217,35 +145,17 @@
 §6- §7-2 §2✤ Earth§7 Defence
 §a+2§2 to §a4%§7 Melee Damage
 §c-10 Durability
-§a✔§7 Crafting Lv. Min: 1
    §8✔ §fⒼ §7Weaponsmithing
    §8✔ §fⒾ §7Woodworking
 §6View and manage your skills
 §7Hold and Right-click to see quests
 §5Quests: §d98/157§5 [62%]
 §5Discoveries:
-§5- §7Territorial: §f74/345§7 [21%]
 §5- §6World: §e32/133§6 [24%]
 §5- §3Secret: §b0/28§3 [0%]
-§a✔§7 Intelligence Min: 45
-§a✔§7 Defence Min: 110
-§a✔§7 Strength Min: 25
-§a✔§7 Intelligence Min: 25
-§a✔§7 Strength Min: 30
-§a✔§7 Defence Min: 70
-§a✔§7 Strength Min: 40
-§a✔§7 Defence Min: 40
-§a✔§7 Intelligence Min: 40
 §aJester Set §7(1/3)
 §a- §2Jester Ring
 §aSet Bonus:
-§2§m----§2[ §a55²§2 ]§m----
-§2§m----§2[ §a56²§2 ]§m----
-§2§m----§2[ §a57²§2 ]§m----
-§2§m----§2[ §a58²§2 ]§m----
-§2§m----§2[ §a59²§2 ]§m----
-§2§m----§2[ §a60²§2 ]§m----
-§2§m----§2[ §a61²§2 ]§m----
 §7Cost: §f2 Soul Points
 §7Rank: §fNone
 §7Total Lv: §f118
@@ -286,15 +196,15 @@
 §d- §7Earth Defence: §f+15%
 §bBasic Defence:
 §b- §c❤ Health: §f19241/19241
-§b- §c✹ Fire§7 Defence: §f525
-§b- §f❋ Air§7 Defence: §f-20
-§b- §2✤ Earth§7 Defence: §f465
-§b- §e✦ Thunder§7 Defence: §f-150
-§b- §b❉ Water§7 Defence: §f170
+§b- 
+§b- 
+§b- 
+§b- 
+§b- 
 §7[Guardian]
 §3[L]§b Main Attack:
-§b- §6✣ Neutral Damage: 125-177
-§b- §c✹ Fire§7 Damage: 501-1147
+§b- 
+§b- 
 §b- Total Damage (+Bonus): 613-1297
 §5[RLR] §dBash Spell: §f§f1203-2545
 §5[RRR] §dCharge Spell: §f§f694-1468
@@ -360,12 +270,10 @@
 §7Can make Food
 §7Can make Helmets and Chestplates
 §eStarted...
-§a✔§7 Combat Lv. Min: §f2
 §a-§7 Length: §fMedium
 §7Grab [1 Crate of Rat 
 §7Poison] and enter the farm 
 §7Right click to track
-§a✔§7 Combat Lv. Min: §f5
 §a-§7 Length: §fShort
 §7Bring [5 Forest Webs] to 
 §7the Slaying Post [Combat Lv. 
@@ -377,37 +285,29 @@
 §7The lieutenant at 
 §7[-890,60,-1874]
 §7needs help. 
-§a✔§7 Combat Lv. Min: §f6
 §7Locate the medicine in the 
 §7spider cave by climbing the 
 §7tree behind Ope. 
-§a✔§7 Combat Lv. Min: §f14
 §7Enter and climb Mount Wynn 
 §7through the cave at 
 §7[-120,76,-1888]
-§a✔§7 Combat Lv. Min: §f15
 §7Bring [8 Brown Mushrooms] to 
 §715] at 
 §7[582,66,-1588]
-§a✔§7 Combat Lv. Min: §f26
 §7Examine the nearby corrupted spike 
 §7to the Northeast at [352,69,-1124]. 
-§a✔§7 Combat Lv. Min: §f32
 §7Go to the witness report 
 §7location at 
 §7[954,75,-1985]
-§a✔§7 Combat Lv. Min: §f33
 §7Go talk to Haily's friend 
 §7Nick at the poor area 
 §7south of the city at 
 §7[936,68,-1841]. 
 §7Attempt to enter the outlaw's 
 §7hideout at [1314, 90, -1660] 
-§a✔§7 Combat Lv. Min: §f40
 §7Bring [15 Snow Clumps] to 
 §740] at 
 §7[82,69,-725]
-§a✔§7 Combat Lv. Min: §f50
 §7§4'§lI§4, :§ltold§4.; .§lyou§4; '§lto§4;. ,§lstay§4' 
 §7.§laway§4; 
 §eCan start...
@@ -416,28 +316,22 @@
 §7[-608,89,-1431]
 §7Talk to Asher near Time 
 §7Valley at [-449,72,-1153]. 
-§a✔§7 Combat Lv. Min: §f21
 §7Something is going on at 
 §7the big bridge near Time 
 §7Valley. Go over there and 
 §7see what's happening. 
 §7[-258,80,-1046]
-§a✔§7 Combat Lv. Min: §f24
 §7Talk to General Graken at 
 §7[227,45,-1958]
-§a✔§7 Combat Lv. Min: §f25
 §7Bring [12 Bone Meal] to 
 §725] at 
 §7[202,60,-1787]
-§a✔§7 Combat Lv. Min: §f30
 §7Bring [16 Mashed Insect] to 
 §730] at 
 §7[982,69,-2073]
-§a✔§7 Combat Lv. Min: §f35
 §7Bring [16 Coyote Fangs] to 
 §735] at 
 §7[1200,30,-1332]
-§a✔§7 Combat Lv. Min: §f42
 §7Look into the rumors of 
 §7strange weather near the Imal 
 §7Inn at [-2018, 43, -4822]. 
@@ -445,31 +339,24 @@
 §f- Lv. 26-50 §7[22/35] §6[§e|||||62%|§8||||§6]
 §f- Lv. 51-75 §7[38/47] §2[§a|||||80%|||§8||§2]
 §f- Lv. 76-100 §7[24/49] §6[§e|||||48§8%|||||§6]
-§bTotal Quests: §3[98/157]
 §6[§e||||||||||||||||||||62%||||§8||||||||||||||||§6]
-§a✔§7 Combat Lv. Min: §f43
 §7Talk to Telvu the mage 
 §7at 
 §7[165,74,-675]
-§a✔§7 Combat Lv. Min: §f45
 §7Bring [16 Orc Eyes] to 
 §745] at 
 §7[-2006,33,-4655]
-§a✔§7 Combat Lv. Min: §f48
 §7Find Eppo at [-207, 37, 
 §7-531] 
 §7Bring [22 Viscous Slime] to 
 §750] at 
 §7[-480,68,-707]
-§a✔§7 Combat Lv. Min: §f52
 §7Talk to the Troms Mage 
 §7at the dungeon entrance at 
 §7[-641,59,-872]
-§a✔§7 Combat Lv. Min: §f55
 §7Bring [16 Lizard Scales] to 
 §755] at 
 §7[-1786,60,-5267]
-§a✔§7 Combat Lv. Min: §f60
 §7Bring [18 Unholy Spirits] to 
 §760] at 
 §7[-1392,45,-5464]
@@ -479,33 +366,25 @@
 §eWorld:
 §e- §fLv. 1-50 §7[28/66] §6[§e|||||4§82%|||||§6]
 §e- §fLv. 51-100 §7[4/67] §4[§c|§8||||5%|||||§4]
-§6Total Discoveries: §e[106/478]
 §4[§c||||||||||§8||||||||||22%||||||||||||||||||||§4]
-§a✔§7 Combat Lv. Min: §f61
 §7Talk with Marston in the 
 §7ocean at 
 §7[-608,40,-3546]
-§a✔§7 Combat Lv. Min: §f63
 §7Speak with the Troms children 
 §7[-860,93,-961]
 §7inside the treehouse 
-§a✔§7 Combat Lv. Min: §f65
 §7Bring [18 Ancient Metal] to 
 §765] at 
 §7[-708,28,-413]
-§a✔§7 Combat Lv. Min: §f70
 §7Bring [16 Severed Hearts] to 
 §770] at 
 §7[762,35,-3890]
-§a✔§7 Combat Lv. Min: §f73
 §7Bring [22 Myconid Spores] to 
 §773] at 
 §7[-984,42,-4637]
-§a✔§7 Combat Lv. Min: §f75
 §7Bring [15 Arcane Anomalies] to 
 §775] at 
 §7[-677,42,-4948]
-§a✔§7 Combat Lv. Min: §f78
 §7Bring [18 Pure Rain Stone] 
 §7to the Slaying Post [Combat 
 §7Lv. 78] at 
@@ -516,36 +395,29 @@
 §fDesert §7[0/8] §4[§8|||||0%|||||§4]
 §bTotal Secret Discoveries: §3[0/28]
 §4[§8||||||||||||||||||||0%||||||||||||||||||||§4]
-§a✔§7 Combat Lv. Min: §f80
 §7Bring [22 Goblin Teeth] to 
 §780] at 
 §7[562,26,-5421]
-§a✔§7 Combat Lv. Min: §f83
 §7Bring [22 Sharp Claws] to 
 §783] at 
 §7[549,27,-4996]
 §7Talk to Olivin in Selchar 
 §7[112,66,-3173]
-§a✔§7 Combat Lv. Min: §f85
 §7Bring [28 Robot Antennas] to 
 §785] at 
 §7[-1751,71,-2694]
-§a✔§7 Combat Lv. Min: §f86
 §7Speak to Phinas on Corkus 
 §7Island at 
 §7[-1672,38,-2083]
-§a✔§7 Combat Lv. Min: §f87
 §7Go for a drink at 
 §7the Corkus Docks Inn, [-1414, 
 §746, -2921] 
-§a✔§7 Combat Lv. Min: §f88
 §7Bring [24 Fluffy Fur] to 
 §788] at 
 §7[135,53,-4399]
 §7§lCurrently: §fStarted
 §7§lLeft click to sort by: §fName
 §7§lRight click to sort by: §fLevel
-§2§m----§2[ §a1²§2 ]§m----
 §7Transfer §f64²§7 into §f1²½
 §fClick §7to buy§f 1
 §fShift + Left-Click §7to buy§f 5
@@ -555,29 +427,8 @@
 §a- §7Tier: §aSet
 §7Trade for prizes at the
 §7§lHive Shop!
-§2§m----§2[ §a4,096²§2 ]§m----
-§2§m----§2[ §a64²§2 ]§m----
-§2§m----§2[ §a4,032²§2 ]§m----
-§2§m----§2[ §a33²§2 ]§m----
 §7§lRight-Click to dump §c§lall items §7§linto your bank
-§2Players: §a22/50
-§2Players: §a7/50
-§2Players: §a43/50
-§2Lag: §a5%
-§4❤ Health: +3425
-§c✹ Fire§7 Defence: +100
-§f❋ Air§7 Defence: +100
-§a✔§7 Combat Lv. Min: 98
-§c✖§7 Agility Min: 40
 §7Very Fast Attack Speed
-§6✣ Neutral Damage: 35-135
-§f❋ Air§7 Damage: 30-90
-§a✔§7 Combat Lv. Min: 96
-§c✖§7 Agility Min: 50
-§2Players: §a35/50
-§2Players: §a36/50
-§2Players: §a44/50
-§2Players: §a47/50
 §7Ingredient Slots ->
 §8Items you craft
 §8will show up here
@@ -586,23 +437,16 @@
           §f1§7 Refined Oak Paper§f Ⓒ
 §c✖ Lv. 10: §f2§7 Refined Trout Oil§f Ⓚ
             §f2§7 Refined Birch Paper§f Ⓒ
-§2§m----§2[ §a62²§2 ]§m----
-§2Players: §a27/50
-§2Players: §a46/50
-§a✔§7 Combat Lv. Min: §f89
 §7Enter Maxie's house at [-1571,68,-2876]. 
-§a✔§7 Combat Lv. Min: §f90
 §7Bring [24 Perkish Potatoes] to 
 §790] at 
 §7[-1721,110,-2255]
-§a✔§7 Combat Lv. Min: §f91
 §7Find out what's happening at 
 §7the theatre at 
 §7[1024,17,-5143]
 §7Bring [16 Acid Magma] to 
 §791] at 
 §7[1266,15,-5329]
-§a✔§7 Combat Lv. Min: §f92
 §7Bring [30 Unmeltable Ice] to 
 §792] at 
 §7[1423,7,-5448]
@@ -611,13 +455,11 @@
 §7with a Dogun Badge of 
 §7Trust and talk to the 
 §7leader of the town. 
-§a✔§7 Combat Lv. Min: §f93
 §7with the letter and speak 
 §7to Korzim at [1436,134,-5388]. 
 §7Bring [22 Broken Helmets] to 
 §793] at 
 §7[1483,23,-5115]
-§a✔§7 Combat Lv. Min: §f94
 §7Return to Korzim at [1514, 
 §751, -5342] on the second 
 §7floor of the enchanter in 
@@ -627,110 +469,71 @@
 §7Bring [15 Demonic Ashes] to 
 §794] at 
 §7[1389,156,-5476]
-§a✔§7 Combat Lv. Min: §f95
 §7Bring [20 Manis Carapaces] to 
 §795] at 
 §7[-1422,138,-3225]
 §7Read the Help Wanted sign 
 §7in Ahmsord at 
 §7[1108,107,-4555]
-§a✔§7 Combat Lv. Min: §f96
 §7Bring [20 Void Essences] to 
 §796] at 
 §7[14028,118,-4226]
-§a✔§7 Combat Lv. Min: §f97
 §7Bring [20 Silver Feathers] to 
 §797] at 
 §7[1123,141,-4436]
-§a✔§7 Combat Lv. Min: §f98
 §7Talk to the Skyraider Guard 
 §7[1476,84,-4336]
 §7Bring [25 Holy Powders] to 
 §798] at 
 §7[1005,118,-4790]
-§a✔§7 Combat Lv. Min: §f99
 §7Bring [15 Dragonling Scales] to 
 §799] at 
 §7[1348,124,-4470]
 §aCompleted!
-§a✔§7 Combat Lv. Min: §f1
-§a✔§7 Combat Lv. Min: §f4
-§a✔§7 Combat Lv. Min: §f8
-§a✔§7 Combat Lv. Min: §f10
-§a✔§7 Combat Lv. Min: §f12
-§a✔§7 Combat Lv. Min: §f18
-§a✔§7 Combat Lv. Min: §f20
-§a✔§7 Combat Lv. Min: §f23
-§a✔§7 Combat Lv. Min: §f28
-§a✔§7 Combat Lv. Min: §f31
-§a✔§7 Combat Lv. Min: §f34
-§a✔§7 Combat Lv. Min: §f36
-§a✔§7 Combat Lv. Min: §f38
-§a✔§7 Combat Lv. Min: §f39
-§2Players: §a39/50
-§2Players: §a29/50
-§2Players: §a9/50
-§2Players: §a30/50
 §6- §f40% §7of your materials/ingredients items
 §7Fast Attack Speed
-§6✣ Neutral Damage: 3-5
 §a✔§7 Class Req: Assassin/Ninja
-§2§m----§2[ §a14²§2 ]§m----
 §7Right-click to use
 §3Info:
 §3- §7Teleports to: §fRagni
 §3- §7Cost: §f1 Soul Point
 §5Quests: §d1/157§5 [0%]
-§5- §7Territorial: §f0/345§7 [0%]
 §5- §6World: §e1/133§6 [0%]
 §7Talk to Enzan close to 
 §7the exit of Ragni at 
 §7[-772,67,-1572]
 §cCannot start...
-§c✖§7 Combat Lv. Min: §f2
 §7Talk to Farmer Cevalus at 
 §7[-749,67,-1664]
-§c✖§7 Combat Lv. Min: §f4
 §7Talk to the Cook in 
 §7Ragni at 
 §7[-853,67,-1564]
-§c✖§7 Combat Lv. Min: §f5
 §7Talk to Captain Fenor in 
 §7front of Detlas at [379,67,-1569]. 
-§c✖§7 Combat Lv. Min: §f6
 §7Talk to Ope at [-316,72,-1600]. 
-§c✖§7 Combat Lv. Min: §f8
 §7Talk to Omango located at 
 §7the North of Maltic at 
 §7[-540,34,-2020]
-§c✖§7 Combat Lv. Min: §f10
 §7Talk to Ragon on the 
 §7south-east end of the Nivla 
 §7Forest at 
 §7[-80,67,-1391]
-§c✖§7 Combat Lv. Min: §f12
 §7Talk to Yahya "The Mushroom 
 §7Man" in Nivla's Forest at 
 §7[-277,69,-1681]
-§c✖§7 Combat Lv. Min: §f14
 §7Speak to Captain Enduyn at 
 §7[-192,44,-1822]
-§c✖§7 Combat Lv. Min: §f15
 §7Talk to The Assistant on 
 §7the Black Road at 
 §7[617,67,-1612]
-§c✖§7 Combat Lv. Min: §f18
 §7Talk to Rynend located in 
 §7Maltic at 
 §7[-568,48,-1922]
-§c✖§7 Combat Lv. Min: §f20
 §7Talk to Sayleros in Detlas 
 §7[476,69,-1624]
-§c✖§7 Combat Lv. Min: §f21
 §7Find the Mask Salesman at 
 §7his caravan at 
 §7[-328,61,-1973]
-§c✖§7 Combat Lv. Min: §f23
 §7Talk to Nohno on Rooster 
 §7[-83,45,-2497]
 §7Talk to Merloni at 
@@ -739,59 +542,44 @@
 §f- Lv. 26-50 §7[0/35] §4[§8|||||0%|||||§4]
 §f- Lv. 51-75 §7[0/47] §4[§8|||||0%|||||§4]
 §f- Lv. 76-100 §7[0/49] §4[§8|||||0%|||||§4]
-§bTotal Quests: §3[1/157]
-§c✖§7 Combat Lv. Min: §f24
 §7Talk to Leucsaa at 
 §7[201,38,-2173]
-§c✖§7 Combat Lv. Min: §f25
 §7Talk to Tinemild near Elkurn 
 §7[87,76,-1200]
-§c✖§7 Combat Lv. Min: §f26
 §7Speak to Orikal outside the 
 §7Angry Village at [318,78,-1097]. 
 §7Talk to Laen in Nemract 
 §7[24,37,-2199]
-§c✖§7 Combat Lv. Min: §f28
 §7Talk to Lil in Detlas 
 §7[454,67,-1560]
 §f- Lv. 1-50 §7[0/138] §4[§8|||||0%|||||§4]
 §f- Lv. 51-100 §7[0/207] §4[§8|||||0%|||||§4]
 §e- §fLv. 1-50 §7[1/66] §4[§c|§8||||1%|||||§4]
 §e- §fLv. 51-100 §7[0/67] §4[§8|||||0%|||||§4]
-§6Total Discoveries: §e[1/478]
 §7Talk to Mylo in Nemract 
 §7[184,54,-2141]
-§c✖§7 Combat Lv. Min: §f30
 §7Talk to Tom in Selchar 
 §7[164,64,-3226]
-§c✖§7 Combat Lv. Min: §f31
 §7Talk to Eluzterp at 
 §7[1172,77,-2027]
-§c✖§7 Combat Lv. Min: §f32
 §7Talk to the Almuj Bank 
 §7Guard at 
 §7[976,83,-1963]
-§c✖§7 Combat Lv. Min: §f33
 §7Talk to Haily in Almuj 
 §7[929,75,-1899]
 §7Find out what's going on 
 §7at the Sand Swept Tomb 
-§c✖§7 Combat Lv. Min: §f34
 §7Talk to Enkser in Ternaves 
 §7[828,69,-1636]
-§c✖§7 Combat Lv. Min: §f35
 §7Talk to Caras at [1077, 
 §784, -1613] 
 §7Speak to Excavator Vade at 
 §7[1150,54,-1771]
-§c✖§7 Combat Lv. Min: §f36
 §7Talk to Ormrod in the 
 §7desert of Almuj at 
 §7[979,69,-1808]
-§c✖§7 Combat Lv. Min: §f38
 §7Talk to Svin in Rymek 
 §7[1352,30,-1300]
-§c✖§7 Combat Lv. Min: §f39
 §7Talk to Damiral, outside Llevigar 
 §7at [-1937, 38, -4260] 
 §eCharacter Info:
@@ -847,7 +635,6 @@
 §3Check §bstore.wynncraft.com
 §bVIP+ Rank §cor higher
 §5HERO Rank §cor higher
-§2Players: §a0/50
 §6§lSpear Recipes:
 §a✔ Lv. 1: §f1§7 Refined Copper Ingot§f Ⓑ
           §f2§7 Refined Oak Wood§f Ⓒ
@@ -864,13 +651,7 @@
 §6§lWand Recipes:
 §a✔ Lv. 1: §f1§7 Refined Wheat String§f Ⓙ
 §c✖ Lv. 10: §f2§7 Refined Barley String§f Ⓙ
-§2Players: §a32/50
-§2Players: §a26/50
-§2Players: §a25/50
-§2Players: §a51/50
-§2Players: §a31/50
 §4Lag: §c100%
-§2§m----§2[ §a31²§2 ]§m----
 §3- §7Teleports to: §fNemract
 §3- §7Teleports to: §fAhmsord
 §3- §7Teleports to: §fRodoroc
@@ -947,104 +728,19 @@
 §a- §7+46% §6✣ Neutral§7 to §2✤ Earth
 §a- §7+30 §2✤ Earth§7 Defence
 §a- §7-13 §f❋ Air§7 Defence
-§4❤ Health: +1800
-§b❉ Water§7 Defence: +75
-§e✦ Thunder§7 Defence: +75
-§a✔§7 Quest Req: The Realm of Light
-§4❤ Health: -250
-§f❋ Air§7 Defence: +30
-§2✤ Earth§7 Defence: -10
-§a✔§7 Quest Req: The Bigger Picture
-§a✔§7 Combat Lv. Min: 76
-§c✖§7 Agility Min: 25
-§4❤ Health: +2200
-§a✔§7 Combat Lv. Min: 79
 §aKaerynn Set §7(0/2)
 §7- §8Kaerynn's Mind
 §7- §8Kaerynn's Body
-§4❤ Health: +2800
-§a✔§7 Quest Req: Cowfusion
 §aBovine Set §7(0/2)
 §7- §8Veekhat's Horns
 §7- §8Veekhat's Udders
 §a- §7Lv. Range: §f76-80
-§a✔§7 Quest Req: Aldorei^s Secret Part II
-§a✔§7 Combat Lv. Min: 80
-§4❤ Health: +250
-§f❋ Air§7 Defence: -10
-§2✤ Earth§7 Defence: +30
-§4❤ Health: +650
-§c✹ Fire§7 Defence: -40
-§2✤ Earth§7 Defence: +40
-§4❤ Health: +2100
-§c✹ Fire§7 Defence: +20
-§b❉ Water§7 Defence: +20
-§f❋ Air§7 Defence: +20
-§e✦ Thunder§7 Defence: +20
-§2✤ Earth§7 Defence: +20
-§a✔§7 Combat Lv. Min: 77
-§4❤ Health: +50
-§a✔§7 Combat Lv. Min: 14
-§c✹ Fire§7 Defence: -20
-§a✔§7 Quest Req: Beyond the Grave
-§a✔§7 Combat Lv. Min: 87
-§4❤ Health: +2175
-§b❉ Water§7 Defence: +100
-§a✔§7 Combat Lv. Min: 84
-§a✔§7 Intelligence Min: 60
-§4❤ Health: +2050
-§2✤ Earth§7 Defence: +60
-§4❤ Health: +1600
-§c✹ Fire§7 Defence: +120
-§b❉ Water§7 Defence: -90
-§a✔§7 Quest Req: From the Mountains
-§a✔§7 Combat Lv. Min: 67
-§4❤ Health: +1900
-§c✹ Fire§7 Defence: +55
-§b❉ Water§7 Defence: +55
-§f❋ Air§7 Defence: +55
-§e✦ Thunder§7 Defence: +55
-§2✤ Earth§7 Defence: +55
-§c✹ Fire§7 Defence: +10
-§b❉ Water§7 Defence: +10
-§e✦ Thunder§7 Defence: +10
-§2✤ Earth§7 Defence: -20
-§a✔§7 Quest Req: Heart of Llevigar
-§a✔§7 Combat Lv. Min: 41
-§6✣ Neutral Damage: 30-50
-§c✹ Fire§7 Damage: 10-30
-§b❉ Water§7 Damage: 15-25
-§e✦ Thunder§7 Damage: 5-35
-§2✤ Earth§7 Damage: 10-30
 §c✖§7 Class Req: Mage/Dark Wizard
-§a✔§7 Combat Lv. Min: 70
 §8§8Crafted exclusively by
 §8the Temple of the Legends'
 §8mages, this stave is honorary
 §8to Mages who best the Temple's
 §8Grand Magus.
-§a✔§7 Quest Req: Murder Mystery
-§a✔§7 Combat Lv. Min: 74
-§4❤ Health: +1700
-§c✹ Fire§7 Defence: -50
-§2✤ Earth§7 Defence: +70
-§a✔§7 Combat Lv. Min: 78
-§a✔§7 Strength Min: 20
-§4❤ Health: -60
-§a✔§7 Quest Req: Rise of the Quartron
-§a✔§7 Combat Lv. Min: 49
-§a✔§7 Quest Req: Lazarus Pit
-§4❤ Health: +600
-§c✹ Fire§7 Defence: +40
-§b❉ Water§7 Defence: -50
-§a✔§7 Quest Req: Green Skinned Trouble
-§a✔§7 Combat Lv. Min: 44
-§c✖§7 Agility Min: 10
-§a✔§7 Defence Min: 15
-§e✦ Thunder§7 Defence: +50
-§a✔§7 Combat Lv. Min: 51
-§a✔§7 Intelligence Min: 20
-§c✖§7 Dexterity Min: 20
 §8§8These leggings hold the
 §8interest of many researching
 §8the corruption, as they
@@ -1052,53 +748,21 @@
 §8case of a non-corrupt fusion
 §8of dark and light energy,
 §8made of pure twilight.
-§c✹ Fire§7 Defence: +5
-§b❉ Water§7 Defence: +5
-§f❋ Air§7 Defence: +5
-§e✦ Thunder§7 Defence: +5
-§2✤ Earth§7 Defence: +5
-§a✔§7 Combat Lv. Min: 15
-§4❤ Health: +251
-§c✹ Fire§7 Defence: +15
-§b❉ Water§7 Defence: +15
-§f❋ Air§7 Defence: +15
-§e✦ Thunder§7 Defence: +15
-§2✤ Earth§7 Defence: +15
-§a✔§7 Quest Req: ???֎
 §bLegendary Item [2]
 §8§8Even looking at this pendant
 §8strains your eyes. Should
 §8it even exist?
-§c✹ Fire§7 Defence: +30
-§e✦ Thunder§7 Defence: +30
-§a✔§7 Quest Req: Eye of the Storm
-§a✔§7 Combat Lv. Min: 72
 §8§8Used by the Order of the
 §8Abyss to aid their summoning
 §8rituals, it contains a strange,
 §8fiery energy. It has ties
 §8with a terrible demon...
-§4❤ Health: +500
-§c✹ Fire§7 Defence: +52
-§b❉ Water§7 Defence: +51
-§f❋ Air§7 Defence: +57
-§e✦ Thunder§7 Defence: +62
-§2✤ Earth§7 Defence: +57
-§a✔§7 Combat Lv. Min: 55
-§a✔§7 Strength Min: 10
-§a✔§7 Defence Min: 10
-§a✔§7 Intelligence Min: 10
-§c✖§7 Dexterity Min: 10
-§7[15/20] Powder Slots [§f❋ §f❋ §f❋ §f❋ §c✹ §c✹ §e✦ §2✤ §2✤ §2✤ §2✤ §2✤ §b❉ §e✦ §e✦§7]
 §8§8The armor worn by the
 §8enigmatic Matryoshka Idol.
 §8It appears to have a nearly
 §8uncountably high number
 §8of inlets and sockets set
 §8inside.
-§4❤ Health: +400
-§a✔§7 Quest Req: Wrath of the Mummy
-§a✔§7 Combat Lv. Min: 38
 §8§8The accursed mummy once
 §8wore this robe as a great
 §8pharaoh of the desert. It
@@ -1112,77 +776,16 @@
 §7- §8Cosmic Ward
 §7- §8Cosmic Vest
 §aSet Item [2]
-§4❤ Health: +800
-§c✹ Fire§7 Defence: +50
-§b❉ Water§7 Defence: -30
-§e✦ Thunder§7 Defence: -30
-§2✤ Earth§7 Defence: +50
-§a✔§7 Combat Lv. Min: 90
-§a✔§7 Defence Min: 25
-§4❤ Health: -280
-§a✔§7 Quest Req: Flight in Distress
-§a✔§7 Combat Lv. Min: 85
-§c✖§7 Agility Min: 55
-§c✖§7 Dexterity Min: 55
-§b❉ Water§7 Defence: +35
-§e✦ Thunder§7 Defence: -70
-§a✔§7 Combat Lv. Min: 94
-§c✖§7 Intelligence Min: 65
 §7Super Fast Attack Speed
-§6✣ Neutral Damage: 1-15
-§f❋ Air§7 Damage: 70-80
 §dRare Item [2]
-§4❤ Health: +70
-§c✹ Fire§7 Defence: +7
-§b❉ Water§7 Defence: +7
-§f❋ Air§7 Defence: +7
-§e✦ Thunder§7 Defence: +7
-§2✤ Earth§7 Defence: +7
-§a✔§7 Combat Lv. Min: 43
-§b❉ Water§7 Defence: -55
-§a✔§7 Combat Lv. Min: 82
-§c✖§7 Dexterity Min: 25
-§4❤ Health: +1750
-§a✔§7 Quest Req: Tower of Ascension
 §aAscension Set §7(0/4)
 §7- §8Champion Boots
 §7- §8Champion Chestplate
 §7- §8Champion Helmet
 §7- §8Champion Leggings
-§4❤ Health: +2300
-§f❋ Air§7 Defence: -100
-§a✔§7 Combat Lv. Min: 86
-§4❤ Health: +2900
-§e✦ Thunder§7 Defence: -100
-§a✔§7 Intelligence Min: 35
 §7Very Slow Attack Speed
-§6✣ Neutral Damage: 220-480
-§2✤ Earth§7 Damage: 430-620
 §c✖§7 Class Req: Archer/Hunter
-§c✖§7 Strength Min: 65
-§4❤ Health: +3000
-§b❉ Water§7 Defence: +200
-§c✖§7 Intelligence Min: 85
-§6✣ Neutral Damage: 80-120
-§a✔§7 Combat Lv. Min: 59
-§4❤ Health: +7500
-§c✹ Fire§7 Defence: +60
-§b❉ Water§7 Defence: +60
-§f❋ Air§7 Defence: +60
-§e✦ Thunder§7 Defence: +60
-§a✔§7 Combat Lv. Min: 88
-§4❤ Health: +2375
-§c✖§7 Agility Min: 30
-§a✔§7 Intelligence Min: 30
-§4❤ Health: +3375
-§4❤ Health: +3500
-§c✖§7 Agility Min: 70
-§2§m----§2[ §a2²§2 ]§m----
-§2§m----§2[ §a3²§2 ]§m----
 §a- §7Lv. Range: §f40-44
-§f❋ Air§7 Defence: +140
-§2✤ Earth§7 Defence: -180
-§c✖§7 Agility Min: 90
 §8§8The hide of the centaur
 §8is extraordinarily magical
 §8in the right hands. It is
@@ -1191,22 +794,11 @@
 §8horse, but also leaves them
 §8vulnerable to hard hitting
 §8attacks.
-§b❉ Water§7 Defence: +120
-§e✦ Thunder§7 Defence: +120
-§2✤ Earth§7 Defence: -110
-§a✔§7 Combat Lv. Min: 73
 §8§8A brilliant relic supposedly
 §8originating from the Realm
 §8of Light, the creators of
 §8these strangely shaped boots
 §8are completely unknown.
-§4❤ Health: +1350
-§c✹ Fire§7 Defence: -5
-§f❋ Air§7 Defence: -84
-§e✦ Thunder§7 Defence: +70
-§a✔§7 Combat Lv. Min: 60
-§c✖§7 Dexterity Min: 35
-§7[1/3] Powder Slots [§f❋§7]
 §8§8The runic message carved
 §8on these enigmatic boots
 §8cover hundreds of different
@@ -1215,8 +807,6 @@
 §8translated seems to describe
 §8a disaster soon to arrive
 §8to the world.
-§4❤ Health: +1
-§a✔§7 Combat Lv. Min: 68
 §8§8The Blue Mask's physical
 §8traits are equal to that
 §8of paper, but the mystical
@@ -1224,44 +814,25 @@
 §8personal skills tenfold.
 §8The mask is thought to originate
 §8from an ancient Dernel tribe.
-§6✣ Neutral Damage: 180-240
 §8§8The wear upon this broken
 §8old battle spear does not
 §8affect its ability in battle.
 §8The souls of a thousand
 §8fallen warriors resound
 §8within it.
-§b❉ Water§7 Damage: 345-425
-§a✔§7 Combat Lv. Min: 99
-§c✖§7 Intelligence Min: 80
 §8§8This mysterious, half-liquid
 §8trident apparently holds
 §8the secret magics to control
 §8the ocean's ebb and flow.
 §8It is incapable of touching
 §8solid ground.
-§4❤ Health: +4050
-§f❋ Air§7 Defence: +200
-§e✦ Thunder§7 Defence: +200
-§a✔§7 Combat Lv. Min: 95
-§c✖§7 Dexterity Min: 70
 §8§8The gods of air and thunder,
 §8frustrated with being physically
 §8insubstantial alone, decided
 §8to band together to forge
 §8the ultimate leggings of
 §8defense.
-§c✹ Fire§7 Defence: +8
-§b❉ Water§7 Defence: +8
-§f❋ Air§7 Defence: +8
-§e✦ Thunder§7 Defence: +8
-§2✤ Earth§7 Defence: +8
-§a✔§7 Combat Lv. Min: 71
-§a✔§7 Defence Min: 30
 §eUnique Item [2]
-§4❤ Health: +150
-§a✔§7 Combat Lv. Min: 54
-§a✔§7 Defence Min: 20
 §eUnique Item [3]
 §7Unprocessed Material [Weight: 1]
 §a✔§f Ⓙ§7 Farming Lv. Min: 1
@@ -1269,89 +840,67 @@
 §fFarming Refinery §7to process it
 §a+20§2 to §a40%§7 Soul Point Regen
 §a+30s Duration
-§c✖§7 Crafting Lv. Min: 14
    §8✖ §fⒺ §7Scribing
 §a+4§2 to §a8/3s§7 Poison
 §a+4§2 to §a7%§7 Melee Damage
 §c-63s Duration
-§c✖§7 Crafting Lv. Min: 16
 §a+5§2 to §a10%§7 XP Bonus
 §c-60s Duration
-§c✖§7 Crafting Lv. Min: 12
 §a+3§2 to §a7%§7 Walk Speed
 §a+6§2 to §a11%§7 Air Damage
 §c-36 Durability
 §c+16 Agility Min.
-§c✖§7 Crafting Lv. Min: 81
 §7Purchase the page
 §7to unlock it
 §6Price:
-§6 - §a✔§7 Combat Lv. Min: §f40
+§6 - 
 §6 - §a✔§7 Price: §f2414§7²
 §a+4§2 to §a7§7 Intelligence
-§a+7§2 to §a10%§7 Water Defence
 §c-360s Duration
-§c✖§7 Crafting Lv. Min: 85
 §a+30§2 to §a40§7 Health
    §8✔ §fⒽ §7Armouring
    §8✔ §fⒻ §7Tailoring
 §a+1§2 to §a3%§7 Air Damage
 §c-11 Durability§7 or §c-40s Duration
-§c✖§7 Crafting Lv. Min: 8
-§a+4§2 to §a5%§7 Air Defence
-§a+4§2 to §a5%§7 Water Defence
-§a+4§2 to §a5%§7 Fire Defence
-§a+4§2 to §a5%§7 Earth Defence
-§a+4§2 to §a5%§7 Thunder Defence
 §c-59 Durability
 §c+12 Strength Min.
 §c+12 Dexterity Min.
 §c+12 Intelligence Min.
 §c+12 Defence Min.
 §c+12 Agility Min.
-§c✖§7 Crafting Lv. Min: 98
    §8✖ §fⒹ §7Jeweling
 §c-10§4 to §c-7%§7 Water Defence
 §c-10§4 to §c-7%§7 Air Defence
 §c-40 Durability
 §a-10 Strength Min.
 §a-10 Defence Min.
-§c✖§7 Crafting Lv. Min: 91
 §a+1§2 to §a6%§7 Fire Damage
 §c-39s Duration
-§c✖§7 Crafting Lv. Min: 6
 §a+3§2 to §a4§7 Melee Damage
-§a✔§7 Crafting Lv. Min: 3
 §a+1§2 to §a6%§7 Loot Bonus
 §a+1§2 to §a5%§7 Stealing
 §a+2§2 to §a3/3s§7 Poison
 §c-15 Durability§7 or §c-54s Duration
-§c✖§7 Crafting Lv. Min: 5
 §a+0§2 to §a1§7 Agility
 §a+0§2 to §a3%§7 Thunder Damage
 §c-19 Durability§7 or §c0s Duration
-§c✖§7 Crafting Lv. Min: 48
 §a+1§2 to §a2%§7 Loot Bonus
 §a+4§2 to §a5/3s§7 Poison
 §c-10 Durability§7 or §c-38s Duration
 §a+3§2 to §a4%§7 Soul Point Regen
 §c-13 Durability
-§c✖§7 Crafting Lv. Min: 15
 §a+3§2 to §a5§7 Health
 §c-36s Duration
    §8✔ §fⓁ §7Alchemism
-§a+5§2 to §a6%§7 Earth Defence
 §c-4§4 to §c-3%§7 Walk Speed
 §c-22 Durability
 §c+5 Strength Min.
-§c✖§7 Crafting Lv. Min: 28
 §a+3§2 to §a6%§7 Walk Speed
 §c-170s Duration
 §a+10§2 to §a30§7 Health
 §a+1§2 to §a3§7 Defence
 §c-18 Durability
 §a+2§2 to §a2%§7 Walk Speed
-§c✖§7 Crafting Lv. Min: 3
 §a+1§2 to §a2§7 Health Regen
 §c-50§4 to §c-40§7 Health
 §c+5 Agility Min.
@@ -1364,7 +913,6 @@
 §a✔ §fⒷ§7 Mining Lv. Min: 1
 §a✔ §fⒿ§7 Farming Lv. Min: 1
 §a✔ §fⒸ§7 Woodcutting Lv. Min: 1
-§2Players: §a10/50
 §e- §7Level: §f102
 §e- §7XP: §f35%
 §e- §7Finished Quests: §f141/157
@@ -1386,20 +934,12 @@
 {"identification_rolls":2,"identifications":[{"type":"LIFESTEAL","percent":100},{"type":"LOOTBONUS","percent":66},{"type":"POISON","percent":121},{"type":"EMERALDSTEALING","percent":127}]}
 {"identifications":[{"type":"HEALTHREGEN","percent":100},{"type":"DAMAGEBONUS","percent":100},{"type":"EMERALDSTEALING","percent":100},{"type":"AGILITYPOINTS","percent":100},{"type":"AIRDAMAGEBONUS","percent":100},{"type":"THUNDERDAMAGEBONUS","percent":100},{"type":"AIRDEFENSE","percent":100},{"type":"THUNDERDEFENSE","percent":100}]}
 {"identifications":[{"type":"HEALTHREGEN","percent":32},{"type":"LOOTBONUS","percent":118},{"type":"SPEED","percent":124},{"type":"EMERALDSTEALING","percent":130},{"type":"DEFENSEPOINTS","percent":76},{"type":"FIREDAMAGEBONUS","percent":100},{"type":"FIREDEFENSE","percent":85},{"type":"WATERDEFENSE","percent":104},{"type":"AIRDEFENSE","percent":111},{"type":"THUNDERDEFENSE","percent":95},{"type":"EARTHDEFENSE","percent":90}]}
-§4❤ Health: +2350
-§c✖§7 Defence Min: 30
 §8§8While only a mockery of
 §8the original product, this
 §8line of helmets became wildly
 §8popular before legal disputes
 §8and safety concerns halted
 §8production.
-§4❤ Health: +625
-§a✔§7 Quest Req: Ice Nations
-§4❤ Health: +1050
-§a✔§7 Quest Req: An Iron Heart Part II
-§a✔§7 Combat Lv. Min: 58
-§4❤ Health: +200
 §8§8There used to be a constant
 §8battle between Almuj's thieves
 §8over these feather-light,
@@ -1407,15 +947,11 @@
 §8one day they were stolen
 §8by an unknown pickpocket
 §8and never seen again.
-§4❤ Health: +109
 §8§8Found on the corpse of
 §8the oldest shopkeeper of
 §8the Gavel province, the
 §8engraved text reads 'GREED'.
-§4❤ Health: +77
 §7HEY, QUIT HOLDING ME YOU §7NUMBSKULL!
-§2§m----§2[ §a1,408²§2 ]§m----
-§6✣ Neutral Damage: 175-220
 §a✔§7 Class Req: Mage/Dark Wizard
 §7[0/5] Powder Slots
 §8§8Deceptively plain-looking,
@@ -1423,30 +959,13 @@
 §8with energy from all five
 §8known elements. It subtly
 §8glows in a spectrum of colors.
-§6✣ Neutral Damage: 60-90
-§2✤ Earth§7 Damage: 60-80
-§2§m----§2[ §a4²§2 ]§m----
 §c-4§4 to §c-3%§7 Melee Damage
-§c✖§7 Crafting Lv. Min: 31
 §7Tier 4
 §6Speed: 40/40
 §6Jump: 40/40
 §5Quests: §d141/157§5 [89%]
-§5- §7Territorial: §f293/345§7 [84%]
 §5- §6World: §e109/133§6 [81%]
 §5- §3Secret: §b11/28§3 [39%]
-§2§m----§2[ §a5²§2 ]§m----
-§2§m----§2[ §a6²§2 ]§m----
-§2§m----§2[ §a7²§2 ]§m----
-§2§m----§2[ §a8²§2 ]§m----
-§2§m----§2[ §a9²§2 ]§m----
-§2§m----§2[ §a10²§2 ]§m----
-§2§m----§2[ §a11²§2 ]§m----
-§2§m----§2[ §a12²§2 ]§m----
-§2§m----§2[ §a32²§2 ]§m----
-§2§m----§2[ §a16²§2 ]§m----
-§2§m----§2[ §a48²§2 ]§m----
-§2§m----§2[ §a49²§2 ]§m----
 §4Effect:
 §4- §7Heal: §f4500§c ❤
 §4- §7Duration: §f3 Seconds
@@ -1454,14 +973,9 @@
 §8regenerate your health over
 §83 seconds.
 §c✖§7 Class Req: Warrior/Knight
-§2§m----§2[ §a17²§2 ]§m----
-§2§m----§2[ §a21²§2 ]§m----
 {"identification_rolls":1,"identifications":[{"type":"HEALTHREGEN","percent":59},{"type":"DAMAGEBONUS","percent":63},{"type":"SPELLDAMAGE","percent":119},{"type":"SOULPOINTS","percent":83},{"type":"STRENGTHPOINTS","percent":88},{"type":"DEXTERITYPOINTS","percent":88},{"type":"INTELLIGENCEPOINTS","percent":78},{"type":"AGILITYPOINTS","percent":69},{"type":"DEFENSEPOINTS","percent":83}]}
 {"identifications":[{"type":"DAMAGEBONUS","percent":80},{"type":"REFLECTION","percent":58},{"type":"SOULPOINTS","percent":130},{"type":"DEXTERITYPOINTS","percent":57},{"type":"INTELLIGENCEPOINTS","percent":61},{"type":"SPELLDAMAGERAW","percent":130},{"type":"EARTHDAMAGEBONUS","percent":82}]}
 {"identifications":[{"type":"DAMAGEBONUS","percent":129},{"type":"SPELLDAMAGE","percent":128},{"type":"LIFESTEAL","percent":115},{"type":"MANASTEAL","percent":88},{"type":"HEALTHBONUS","percent":83},{"type":"SOULPOINTS","percent":124},{"type":"AGILITYPOINTS","percent":100},{"type":"AIRDAMAGEBONUS","percent":104},{"type":"THUNDERDAMAGEBONUS","percent":62},{"type":"EARTHDAMAGEBONUS","percent":110},{"type":"AIRDEFENSE","percent":90},{"type":"THUNDERDEFENSE","percent":41},{"type":"EARTHDEFENSE","percent":107}]}
-§2✤ Earth§7 Defence: -50
-§a✔§7 Combat Lv. Min: 65
-§c✖§7 Agility Min: 35
 §8§8The dark spectres of the
 §8decayed forests have created
 §8an insidious helmet to drain
@@ -1469,12 +983,6 @@
 §8wear it, and become servants
 §8to their dark whims. Many
 §8have fallen to its allure.
-§b❉ Water§7 Defence: +90
-§e✦ Thunder§7 Defence: +125
-§2✤ Earth§7 Defence: -170
-§a✔§7 Combat Lv. Min: 92
-§c✖§7 Dexterity Min: 40
-§4❤ Health: +3900
 §8§8A once-great hero left
 §8behind these sturdy, reliable
 §8greaves, trusting those
@@ -1495,15 +1003,7 @@
 §a✔§f Ⓒ§7 Woodcutting Lv. Min: 1
 §7Use this material to craft 
 §fⒼ Spears, Ⓖ Daggers, Ⓘ Bows & Ⓘ Wands
-§4❤ Health: +2400
-§2§m----§2[ §a20²§2 ]§m----
-§6✣ Neutral Damage: 11-94
-§b❉ Water§7 Damage: 10-36
-§f❋ Air§7 Damage: 19-174
 §a✔§7 Class Req: Archer/Hunter
-§c✖§7 Agility Min: 84
-§c✖§7 Intelligence Min: 49
-§7[1/2] Powder Slots [§b❉§7]
 §8§8This enigmatic weapon
 §8can suddenly blink out of
 §8reality with no warning
@@ -1513,26 +1013,14 @@
 §8the entire bow, by all known
 §8laws of nature and magic,
 §8should not exist.
-§6✣ Neutral Damage: 360-430
 §8this bow has been infused
 §8known elements. Its string
 §8radiates a spectrum of colors.
-§6✣ Neutral Damage: 112-132
-§c✹ Fire§7 Damage: 106-127
-§e✦ Thunder§7 Damage: 71-104
-§2✤ Earth§7 Damage: 136-163
-§a✔§7 Quest Req: Reincarnation
-§7[3/3] Powder Slots [§e✦ §2✤ §c✹§7]
 §6Speed: 8/30
 §6Jump: 8/30
-§bXp: 24/100
 §5Quests: §d104/157§5 [66%]
-§5- §7Territorial: §f19/345§7 [5%]
 §5- §6World: §e14/133§6 [10%]
 §5- §3Secret: §b3/28§3 [10%]
-§a✔§7 Agility Min: 35
-§a✔§7 Dexterity Min: 40
-§a✔§7 Intelligence Min: 49
 §7Total Lv: §f112
 §7Class: §fArcher
 §7Quests: §f104/157
@@ -1555,13 +1043,13 @@
 §d- §7Earth Damage: §f-87%
 §d- §7Air Defence: §f+9%
 §b- §c❤ Health: §f5973/8098
-§b- §c✹ Fire§7 Defence: §f-50
-§b- §2✤ Earth§7 Defence: §f-220
-§b- §e✦ Thunder§7 Defence: §f125
-§b- §b❉ Water§7 Defence: §f90
+§b- 
+§b- 
+§b- 
+§b- 
 §7[Infused Hive Bow]
 §3[R]§b Main Attack:
-§b- §6✣ Neutral Damage: 374-446
+§b- 
 §b- Total Damage (+Bonus): 183-218
 §5[LRL] §dArrow Storm Spell: §f§f89-154
 §5[LLL] §dEscape Spell: §f§f446-774
@@ -1594,8 +1082,6 @@
 §a- §6Special Particles§7 [Rare to Godly 1/18]
 §a- §cWybels§7 [Common to Godly 1/14]
 §a- §3Weapon Skins§7 [Rare to Godly 3/37]
-§bXp: 25/100
-§bXp: 27/100
 §7Bring the acquired knowledge regarding 
 §7the spell used for the 
 §7sanctuary sealing back to the 
@@ -1603,24 +1089,15 @@
 §f- Lv. 1-25 §7[13/26] §6[§e|||||50§8%|||||§6]
 §f- Lv. 26-50 §7[23/35] §6[§e|||||65%|§8||||§6]
 §f- Lv. 76-100 §7[30/49] §6[§e|||||61%§8|||||§6]
-§bTotal Quests: §3[104/157]
 §6[§e||||||||||||||||||||66%||||||§8||||||||||||||§6]
 §f- Lv. 1-50 §7[9/138] §4[§c|§8||||6%|||||§4]
 §f- Lv. 51-100 §7[10/207] §4[§c|§8||||4%|||||§4]
 §e- §fLv. 1-50 §7[10/66] §4[§c||§8|||15%|||||§4]
-§6Total Discoveries: §e[33/478]
 §4[§c|||§8|||||||||||||||||6%||||||||||||||||||||§4]
 §fCorkus §7[2/3] §6[§e|||||66%|§8||||§6]
 §fNesaak Tundra §7[1/1] §2[§a|||||100%|||||§2]
 §bTotal Secret Discoveries: §3[3/28]
 §4[§c|||||§8|||||||||||||||10%||||||||||||||||||||§4]
-§bXp: 28/100
-§a✔§7 Combat Lv. Min: 12
-§c✖§7 Strength Min: 4
-§c✖§7 Agility Min: 4
-§c✖§7 Defence Min: 4
-§c✖§7 Intelligence Min: 4
-§c✖§7 Dexterity Min: 4
 §aMorph Set §7(0/8)
 §7- §8Morph-Gold
 §7- §8Morph-Emerald
@@ -1631,16 +1108,9 @@
 §7- §8Morph-Steel
 §7- §8Morph-Amethyst
 §4- §7Heal: §f2200§c ❤
-§6✣ Neutral Damage: 5-7
-§b❉ Water§7 Damage: 201-231
 §b   Curse
 §b   - §7Duration: 9 seconds
 §b   - §7Damage Boost: +210%
-§7[3/3] Powder Slots [§b❉ §b❉ §b❉§7]
-§6✣ Neutral Damage: 260-330
-§6✣ Neutral Damage: 80-115
-§e✦ Thunder§7 Damage: 30-165
-§c✖§7 Dexterity Min: 30
 §8§8A psychopath claiming
 §8herself to be Death incarnate
 §8used this dark-bladed scythe
@@ -1648,19 +1118,10 @@
 §8lasted over a year. It reaped
 §8hundreds of lives, including
 §8her own.
-§6✣ Neutral Damage: 70-85
-§c✹ Fire§7 Damage: 65-75
-§f❋ Air§7 Damage: 20-30
 §a✔§f Ⓑ§7 Mining Lv. Min: 1
 §fMining Refinery §7to process it
 §5Quests: §d85/157§5 [54%]
-§5- §7Territorial: §f18/345§7 [5%]
 §5- §6World: §e12/133§6 [9%]
-§a✔§7 Strength Min: 4
-§a✔§7 Agility Min: 4
-§a✔§7 Defence Min: 4
-§a✔§7 Intelligence Min: 4
-§a✔§7 Dexterity Min: 4
 §7Total Lv: §f95
 §7Combat Lv: §f83
 §7Quests: §f85/157
@@ -1669,8 +1130,8 @@
 §d- §7Defence: §f+1
 §b- §c❤ Health: §f420/420
 §7[Gungnir]
-§b- §6✣ Neutral Damage: 5-8
-§b- §b❉ Water§7 Damage: 287-486
+§b- 
+§b- 
 §b- Total Damage (+Bonus): 292-494
 §5[RLR] §dBash Spell: §f§f759-1284
 §5[RRR] §dCharge Spell: §f§f438-741
@@ -1688,7 +1149,6 @@
 §aMorph Set §7(1/8)
 §a- §2Morph-Topaz
 §7Investigate the broken bridge 
-§a✔§7 Combat Lv. Min: §f79
 §7Find the representative’s office in 
 §7the airship base 
 §7[-238,120,-4967]
@@ -1701,13 +1161,10 @@
 §f- Lv. 26-50 §7[24/35] §6[§e|||||68%|§8||||§6]
 §f- Lv. 51-75 §7[39/47] §2[§a|||||82%|||§8||§2]
 §f- Lv. 76-100 §7[7/49] §4[§c||§8|||14%|||||§4]
-§bTotal Quests: §3[85/157]
 §6[§e||||||||||||||||||||54%|§8|||||||||||||||||||§6]
 §f- Lv. 1-50 §7[17/138] §4[§c||§8|||12%|||||§4]
 §f- Lv. 51-100 §7[1/207] §4[§8|||||0%|||||§4]
 §e- §fLv. 51-100 §7[2/67] §4[§c|§8||||2%|||||§4]
-§6Total Discoveries: §e[30/478]
-§a✔§7 Combat Lv. Min: §f76
 §7Speak to Elrund outside Aldorei 
 §7Valley at 
 §7[-670,97,-4444]
@@ -1716,11 +1173,9 @@
 §7Speak to Legolus at 
 §7[-139,92,-4445]
 §7(Requires completion of Part I) 
-§a✔§7 Combat Lv. Min: §f82
 §7Speak to King Burtan at 
 §7[51,17,-5242]
 §7Talk to Norsten at [437,77,-5056]. 
-§c✖§7 Combat Lv. Min: §f84
 §7Speak to Gana at 
 §7[444,104,-4805]
 {"identification_rolls":1,"identifications":[{"type":"LOOTBONUS","percent":36},{"type":"SPEED","percent":113},{"type":"EMERALDSTEALING","percent":70},{"type":"DEXTERITYPOINTS","percent":118},{"type":"AGILITYPOINTS","percent":32}]}
@@ -1728,17 +1183,6 @@
 {"identification_rolls":1,"identifications":[{"type":"XPBONUS","percent":130},{"type":"LOOTBONUS","percent":74},{"type":"WATERDAMAGEBONUS","percent":42},{"type":"AIRDAMAGEBONUS","percent":63},{"type":"FIREDEFENSE","percent":111}]}
 {"identification_rolls":1,"identifications":[{"type":"MANAREGEN","percent":91},{"type":"DAMAGEBONUS","percent":83},{"type":"SPELLDAMAGE","percent":57},{"type":"XPBONUS","percent":112},{"type":"SOULPOINTS","percent":86}]}
 §6- §f32% §7of your materials/ingredients items
-§4❤ Health: +74
-§a✔§7 Combat Lv. Min: 17
-§4❤ Health: +172
-§e✦ Thunder§7 Defence: -15
-§a✔§7 Combat Lv. Min: 29
-§c✖§7 Defence Min: 5
-§c✖§7 Intelligence Min: 5
-§4❤ Health: +90
-§f❋ Air§7 Defence: -6
-§a✔§7 Combat Lv. Min: 21
-§a✔§7 Combat Lv. Min: 8
 §8§8The forger of this ring
 §8had to endure 30 long days
 §8of smelting various metals
@@ -1748,14 +1192,7 @@
 §8metals are said to seep
 §8into the wearers skin to
 §8gently replenish their resolve.
-§b❉ Water§7 Defence: -20
-§a✔§7 Quest Req: The Dark Descent
-§a✔§7 Combat Lv. Min: 24
 §4- §7Heal: §f24§c ❤
-§a✔§7 Combat Lv. Min: 5
-§6✣ Neutral Damage: 54-66
-§c✹ Fire§7 Damage: 27-33
-§c✖§7 Combat Lv. Min: 38
 §8§8This knife does not belong
 §8in your hands... yet somehow
 §8it feels right at home.
@@ -1768,30 +1205,16 @@
 §7This rusted old hook is useless to you.
 §7Maybe someone would be willing to buy it...
 §r
-§4❤ Health: +140
-§c✖§7 Combat Lv. Min: 35
-§2§m----§2[ §a63²§2 ]§m----
 §7Misc. Item
-§6✣ Neutral Damage: 26-28
-§a✔§7 Combat Lv. Min: 33
-§c✖§7 Dexterity Min: 15
-§6✣ Neutral Damage: 10-190
-§f❋ Air§7 Damage: 15-20
-§a✔§7 Combat Lv. Min: 32
 §8§8The art of endurance fighting
 §8is a skill lost to time.
 §8However, a thief that to
 §8this day has not been caught,
 §8imbued this dagger with
 §8the very same ability.
-§2§m----§2[ §a3,904²§2 ]§m----
 §5Quests: §d29/157§5 [18%]
-§5- §7Territorial: §f63/345§7 [18%]
 §5- §6World: §e33/133§6 [24%]
 §5- §3Secret: §b16/28§3 [57%]
-§a✔§7 Defence Min: 5
-§a✔§7 Intelligence Min: 5
-§a✔§7 Dexterity Min: 15
 §7Find Santa on his christmas 
 §7island at 
 §7[1126,41,-3145]
@@ -1801,57 +1224,43 @@
 §7Bring back [1 Stable Key] 
 §7to Enkser from the tunnel 
 §7[836,69,-1649]
-§c✖§7 Combat Lv. Min: §f40
 §7Talk to Ankou at 
 §7[-350,14,-389]
 §7Talk to Adigard on the 
 §7Ice Islands at 
 §7[806,59,-3353]
-§c✖§7 Combat Lv. Min: §f41
 §7Find Zenam in his laboratory 
 §7in Llevigar at 
 §7[-1872,55,-4593]
-§c✖§7 Combat Lv. Min: §f42
 §7Talk to Captain Kymer in 
 §7Llevigar at 
 §7[-2008,33,-4605]
-§c✖§7 Combat Lv. Min: §f43
 §7Talk to Fredris in Nesaak 
 §7[157,73,-812]
 §f- Lv. 1-25 §7[22/26] §2[§a|||||84%|||§8||§2]
 §f- Lv. 26-50 §7[7/35] §4[§c|||§8||20%|||||§4]
-§bTotal Quests: §3[29/157]
 §4[§c||||||||§8||||||||||||18%||||||||||||||||||||§4]
-§c✖§7 Combat Lv. Min: §f44
 §7Speak to Piere in the 
 §7Llevigar plains at[-1851,56,-4959] 
-§c✖§7 Combat Lv. Min: §f45
 §7Talk to Tarod in Nesaak's 
 §7[-7,68,-793]
-§c✖§7 Combat Lv. Min: §f46
 §7Bring the Yellow Crystal Shard 
 §7to Excavator Lykron at 
 §7[39,62,-526]
-§c✖§7 Combat Lv. Min: §f48
-§c✖§7 Combat Lv. Min: §f49
 §7Talk to Nasea in 
 §7[-1673,52,-4370]
 §f- Lv. 1-50 §7[63/138] §6[§e|||||4§85%|||||§6]
 §e- §fLv. 1-50 §7[33/66] §6[§e|||||50§8%|||||§6]
-§6Total Discoveries: §e[96/478]
 §4[§c|||||||||§8|||||||||||20%||||||||||||||||||||§4]
 §7Talk to Twendle at the 
 §7House of Twain at 
 §7[12,76,-456]
 §7Speak with Duvale at 
 §7[-1608,51,-4957]
-§c✖§7 Combat Lv. Min: §f50
 §7§4., §lSTAY§4;.  '§lAWAY§4:, .§lFROM§4;, 
 §7 ,.; §l[157,78,-377] §4':, 
-§c✖§7 Combat Lv. Min: §f51
 §7Visit Sherk at 
 §7[-2172,54,-5118]
-§c✖§7 Combat Lv. Min: §f52
 §7Talk to Anast in Olux, 
 §7[-1834,62,-5557]
 §fWynn Plains §7[16/16] §2[§a|||||100%|||||§2]
@@ -1860,20 +1269,17 @@
 §7Talk to Worid in the 
 §7jungle village at 
 §7[-760,79,-666]
-§c✖§7 Combat Lv. Min: §f53
 §7Talk to Caissop, the Artist, 
 §7in his tent at 
 §7[-1802,55,-5190]
 §7Talk to Voer at 
 §7[-2103,59,-5427]
-§c✖§7 Combat Lv. Min: §f54
 §7Talk to Malo in the 
 §7swamps at 
 §7[-2062,56,-5415]
 §7Talk to Dereg in his 
 §7house at 
 §7[-1483,47,-5218]
-§c✖§7 Combat Lv. Min: §f55
 §7Talk to Zhight of Zhight 
 §7[-542,38,-2755]
 §7Use this at the §fV.S.S. Seaskipper
@@ -1883,20 +1289,16 @@
 §a- §7Level: §f20
 §a- §7Coords: §f60, -2215
 §a- §7Status: §fPeaceful
-§6 - §a✔ §f12§7²
 §7to fast-travel to §fLlevigar
 §a- §7Level: §f40
 §a- §7Coords: §f-2125, -4275
-§6 - §a✔ §f24§7²
 §7to fast-travel to §fNodguj Island
 §a- §7Level: §f45
 §a- §7Coords: §f700, -3330
-§6 - §a✔ §f8§7²
 §7to fast-travel to §fSkiens Island
 §a- §7Level: §f55
 §a- §7Coords: §f370, -3470
 §a- §7Status: §fHostile
-§6 - §a✔ §f10§7²
 §7to fast-travel to §fMaro Peaks
 §a- §7Level: §f60
 §a- §7Coords: §f130, -3770
@@ -1905,7 +1307,6 @@
 §a-§7 Level: §f60
 §a-§7 Coords: §f-600, -3550
 §a-§7 Status: §fPeaceful
-§6 - §a✔ §f16§7²
 §7to fast-travel to §fPirate Cove
 §a- §7Coords: §f-730, -3115
 §7to fast-travel to §fDead Island
@@ -1913,32 +1314,17 @@
 §a- §7Coords: §f770, -3880
 §7to fast-travel to §fVolcanic Isles
 §a- §7Coords: §f-800, -3775
-§6 - §a✔ §f18§7²
 §7+15% Speed boost per
 §7boat within 20 blocks of you
-§6 - §a✔ §f128§7²
-§2§m----§2[ §a51²§2 ]§m----
-§2§m----§2[ §a52²§2 ]§m----
-§2§m----§2[ §a53²§2 ]§m----
 §6- §f36% §7of your materials/ingredients items
 §fWood Refinery §7to process it
-§2§m----§2[ §a28²§2 ]§m----
-§2§m----§2[ §a18²§2 ]§m----
-§2§m----§2[ §a19²§2 ]§m----
-§6✣ Neutral Damage: 28-38
-§c✖§7 Combat Lv. Min: 36
-§4❤ Health: +192
 §a- §7Lv. Range: §f32-36
-§2§m----§2[ §a37²§2 ]§m----
-§2§m----§2[ §a45²§2 ]§m----
 §7Add Powders >
 §7Click on an item and
 §7powders to add them
 §7to your item
 §e- §7XP: §f31%
 §b- §c❤ Health: §f4558/8098
-§2§m----§2[ §a262,144²§2 ]§m----
-§2§m----§2[ §a208,896²§2 ]§m----
 §7Tier 2 [§4■■§8■■■■§7]
 §4- §7+4-8§c ✹ Fire§7 Damage
 §4- §7+16% §6✣ Neutral§7 to §c✹ Fire
@@ -1949,10 +1335,6 @@
 §4- §7+24% §6✣ Neutral§7 to §c✹ Fire
 §4- §7+16 §c✹ Fire§7 Defence
 §4- §7-5 §b❉ Water§7 Defence
-§c✖§7 Strength Min: 15
-§a✔§7 Agility Min: 15
-§c✖§7 Defence Min: 15
-§a✔§7 Intelligence Min: 15
 §6This feature is still in development!
 §7Tier 2 [§a■■§8■■■■§7]
 §a- §7+6-9§2 ✤ Earth§7 Damage
@@ -1984,8 +1366,6 @@
 §3- §7+4-7§b ❉ Water§7 Damage
 §3- §7+15% §6✣ Neutral§7 to §b❉ Water
 §3- §7+6 §b❉ Water§7 Defence
-§f❋ Air§7 Defence: -50
-§e✦ Thunder§7 Defence: -50
 §7Tier 1 [§6■§8■■■■■§7]
 §6- §7+1-8§e ✦ Thunder§7 Damage
 §6- §7+9% §6✣ Neutral§7 to §e✦ Thunder
@@ -1995,54 +1375,23 @@
 §6- §7+1-13§e ✦ Thunder§7 Damage
 §6- §7+11% §6✣ Neutral§7 to §e✦ Thunder
 §6- §7+5 §e✦ Thunder§7 Defence
-§4❤ Health: +770
-§a✔§7 Agility Min: 70
 §6- §f24% §7of your materials/ingredients items
-§6 - §f7,967§7² §8(31² 60²½ 1¼²)
-§4❤ Health: -400
-§c✖§7 Quest Req: The Realm of Light
-§c✖§7 Combat Lv. Min: 100
-§c✖§7 Defence Min: 25
 §8§8The jewel on this ring
 §8is found very rarely deep
 §8beneath the Light Forest.
 §8It has the power to manipulate
 §8light itself.
-§6 - §f2,022§7² §8(38² 31²½)
-§4❤ Health: +4000
-§b❉ Water§7 Defence: -80
-§2✤ Earth§7 Defence: +200
-§c✖§7 Combat Lv. Min: 96
-§c✖§7 Strength Min: 90
 §8§8The hide of the Touroto,
 §8an almost invincible Bull-like
 §8creature, is said to be
 §8pierced only by the horn
 §8of the Touroto itself, making
 §8it extremely valuable.
-§6 - §f2,655§7² §8(31² 41²½)
-§4❤ Health: +2675
-§2✤ Earth§7 Defence: -65
-§c✖§7 Combat Lv. Min: 82
 §8§8Wearing this deceptively
 §8simple shroud causes the
 §8user to fade into the shadows,
 §8sometimes flickering out
 §8of existence for a moment.
-§6 - §f19,055§7² §8(47² 41²½ 4¼²)
-§c✹ Fire§7 Defence: -110
-§f❋ Air§7 Defence: +70
-§c✖§7 Combat Lv. Min: 92
-§c✖§7 Agility Min: 80
-§6 - §f3,710§7² §8(62² 57²½)
-§4❤ Health: +2225
-§e✦ Thunder§7 Defence: +90
-§2✤ Earth§7 Defence: -100
-§c✖§7 Combat Lv. Min: 93
-§c✖§7 Dexterity Min: 45
-§6 - §f11,025§7² §8(17² 44²½ 2¼²)
-§b❉ Water§7 Defence: +150
-§e✦ Thunder§7 Defence: -150
 §8§8All those who wear these
 §8enchanted boots deposit
 §8a single fond memory into
@@ -2058,9 +1407,6 @@
 §6- §7Lv. 60-79 §8(+III - V)
 §6- §fLv. 80+ §7(+IV - VI)
 §6- §7Show All
-§6 - §f4,654§7² §8(46² 8²½ 1¼²)
-§4❤ Health: +5
-§c✖§7 Combat Lv. Min: 97
 §8§8These common leather boots
 §8were once owned by a barbarian
 §8with no magical prowess,
@@ -2068,10 +1414,7 @@
 §8it, added a hundred boab
 §8spikes to each boot to punish
 §8enemies.
-§6 - §f2,021§7² §8(37² 31²½)
-§e✦ Thunder§7 Damage: 100-500
 §c✖§7 Class Req: Assassin/Ninja
-§c✖§7 Dexterity Min: 110
 §8§8Combined power of inscribed
 §8Uth runes and consuming
 §8fury combine to create a
@@ -2079,10 +1422,6 @@
 §8is merely a spiritual extension
 §8of the user's desire for
 §8utter cataclysm.
-§6 - §f3,641§7² §8(57² 56²½)
-§6✣ Neutral Damage: 30-90
-§f❋ Air§7 Damage: 60-180
-§c✖§7 Agility Min: 75
 §8§8One of many lost artifacts
 §8from the legendary Wind
 §8Fortress, the engraving
@@ -2091,50 +1430,27 @@
 §8fell. "We shall be found
 §8among the dark winds of
 §8the morrow."
-§6 - §f4,438§7² §8(22² 5²½ 1¼²)
-§4❤ Health: +3100
 §8§8Two iron horns adorn this
 §8helmet to enhance the warriors
 §8of the Eradian, Dwarves
 §8who specifically rode Rams
 §8into battle at incredible
 §8speed.
-§6 - §f5,976§7² §8(24² 29²½ 1¼²)
-§b❉ Water§7 Damage: 80-100
-§c✖§7 Intelligence Min: 110
 §8Uth runes and immense wisdom
 §8meld to create a commanding
 §8aura, as this weapon is
 §8merely a spiritual extension
 §8dominion over all.
-§6 - §f9,545§7² §8(9² 21²½ 2¼²)
-§c✖§7 Combat Lv. Min: 94
 §7Reveal an unidentified item's name
 §7allowing it to be sold on the
 §7exchange without revealing its
 §7identifications
-§6 - §f12,619§7² §8(11² 5²½ 3¼²)
-§4❤ Health: +2550
-§c✖§7 Combat Lv. Min: 95
 §8§8“The symbol of the river”
 §8is a name that is often
 §8synonymous with this garment,
 §8with many water like qualities
 §8surrounding it, heavily
 §8bathed in magical meaning.
-§6 - §f1,365§7² §8(21² 21²½)
-§6✣ Neutral Damage: 14-119
-§c✖§7 Combat Lv. Min: 90
-§6 - §f210§7² §8(18² 3²½)
-§6✣ Neutral Damage: 145-175
-§b❉ Water§7 Damage: 225-265
-§c✖§7 Intelligence Min: 50
-§6 - §f3,357§7² §8(29² 52²½)
-§c✹ Fire§7 Defence: +160
-§b❉ Water§7 Defence: -150
-§2✤ Earth§7 Defence: +80
-§c✖§7 Strength Min: 10
-§c✖§7 Defence Min: 20
 §8§8The carapace of the common
 §8Maexi pet fire scarabs,
 §8while alone, only cause
@@ -2142,16 +1458,6 @@
 §8However, when woven together,
 §8they produce a variety of
 §8cumulative effects.
-§6 - §f4,410§7² §8(58² 4²½ 1¼²)
-§f❋ Air§7 Defence: +90
-§2✤ Earth§7 Defence: +120
-§c✖§7 Strength Min: 50
-§c✖§7 Agility Min: 20
-§6 - §f3,255§7² §8(55² 50²½)
-§6 - §f4,725§7² §8(53² 9²½ 1¼²)
-§4❤ Health: +3250
-§c✖§7 Combat Lv. Min: 99
-§c✖§7 Agility Min: 65
 §8§8During a spiritual journey
 §8to Kato temple, the sage
 §8Capian was presented with
@@ -2159,36 +1465,20 @@
 §8with the intention to be
 §8used for peaceful magic,
 §8and not hard combat.
-§6 - §f5,250§7² §8(2² 18²½ 1¼²)
-§6 - §f1,050§7² §8(26² 16²½)
-§c✖§7 Strength Min: 32
-§c✖§7 Agility Min: 32
-§c✖§7 Defence Min: 32
-§c✖§7 Intelligence Min: 32
-§c✖§7 Dexterity Min: 32
 §6 - §75 x §f787§7² §8(19² 12²½)
 §a+30% §7Ingredient Effectiveness
 §7(To ingredients above this one)
 §a+1 Charge
-§c✖§7 Crafting Lv. Min: 86
 §6 - §7256 x §f7§7² 
 §c✖§f Ⓚ§7 Fishing Lv. Min: 80
 §fⒺ Scrolls, Ⓓ Rings, Ⓓ Bracelets,
 §fⒹ Necklaces & Ⓛ Potions
-§6 - §f4,305§7² §8(17² 3²½ 1¼²)
-§6 - §f10,449§7² §8(17² 35²½ 2¼²)
 §6Speed: 1/20
 §6Jump: 1/20
 §7Click here to search
 §7for an item to buy
-§6 - §f10,446§7² §8(14² 35²½ 2¼²)
-§6 - §f4,300§7² §8(12² 3²½ 1¼²)
-§6 - §f1,905§7² §8(49² 29²½)
 §6Speed: 1/10
 §6Jump: 1/10
-§6 - §f1,075§7² §8(51² 16²½)
-§6✣ Neutral Damage: 140-210
-§2✤ Earth§7 Damage: 70-140
 §8§8Stone shorn from mountains
 §8by the roiling sea gathered
 §8on the shores of Llevigar
@@ -2197,24 +1487,9 @@
 §8spear. It was taken as an
 §8omen, and the stones were
 §8forged into a true weapon.
-§6 - §f1,792§7² §8(28²½)
-§6 - §f2,623§7² §8(63² 40²½)
-§c✖§7 Combat Lv. Min: 81
-§c✖§7 Strength Min: 60
-§6 - §f1,470§7² §8(62² 22²½)
-§4❤ Health: +1875
-§c✖§7 Combat Lv. Min: 80
 §7Click here to sell
 §7an item on the market
-§6 - §f840§7² §8(8² 13²½)
-§bXp: 14/100
-§6 - §f735§7² §8(31² 11²½)
-§6 - §f1,890§7² §8(34² 29²½)
 §7Super Slow Attack Speed
-§6✣ Neutral Damage: 616-616
-§b❉ Water§7 Damage: 0-250
-§f❋ Air§7 Damage: 0-250
-§c✖§7 Combat Lv. Min: 87
 §8§8From the Nether Gate,
 §8a shard of cosmic stone
 §8was ejected. Its purity
@@ -2223,15 +1498,10 @@
 §8raving about the fall of
 §8the cosmos' beauty.
 §6 - §764 x §f9§7² 
-§a+6§2 to §a12%§7 Air Defence
-§a+8§2 to §a13%§7 Earth Defence
-§a+5§2 to §a11%§7 Thunder Defence
 §c-400s Duration
-§6 - §f2,520§7² §8(24² 39²½)
 §7Click here to view your
 §7trades and claim your
 §7items and emeralds
-§6 - §f8,715§7² §8(11² 8²½ 2¼²)
 §7Left-Click to sell an item
 §7Right-Click to buy an item
 §7§lCurrently: §f0
@@ -2239,17 +1509,10 @@
 §7Click to set the amount in chat
 §7§lCurrently: §f0§7² Each
 §7Click to set the price in chat
-§6 - §f945§7² §8(49² 14²½)
 §e- §bUnidentified Helmet
 §7Price: §a205§2² §8(13² 3²½)
 §7You are revealing:
 §7- §bUnidentified Helmet
-§4❤ Health: +3700
-§c✹ Fire§7 Defence: +125
-§f❋ Air§7 Defence: -150
-§2✤ Earth§7 Defence: +125
-§c✖§7 Strength Min: 75
-§c✖§7 Defence Min: 60
 §7§c§a+9§2 to §a39%§7 Exploding
 §7§c§c-7§4 to §c-13%§7 Walk Speed
 §7§c§a+2§2 to §a9§7 Strength
@@ -2265,13 +1528,6 @@
 §8holds the force of a supervolcano
 §8within its soft fabric.
 §6 - §f2§7² 
-§e✦ Thunder§7 Damage: 0-150
-§2✤ Earth§7 Damage: 0-150
-§c✖§7 Strength Min: 85
-§c✖§7 Dexterity Min: 85
-§6 - §f10,500§7² §8(4² 36²½ 2¼²)
-§4❤ Health: +2450
-§c✖§7 Combat Lv. Min: 88
 §8§8The Bantisu monks have
 §8developed this enigmatic
 §8sigil in their years of
@@ -2279,38 +1535,17 @@
 §8blesses the wearer with
 §8luck and powerful psionic
 §8ability.
-§6 - §f105§7² §8(41² 1²½)
-§6 - §f276§7² §8(20² 4²½)
-§c✖§7 Combat Lv. Min: 48
-§c✖§7 Strength Min: 8
-§c✖§7 Agility Min: 8
-§c✖§7 Defence Min: 8
-§c✖§7 Intelligence Min: 8
-§c✖§7 Dexterity Min: 8
 §6- §7Lv. 80+ §8(+IV - VI)
 §6- §fShow All
-§6 - §f1,199§7² §8(47² 18²½)
-§6✣ Neutral Damage: 15-20
-§b❉ Water§7 Damage: 40-70
-§c✖§7 Combat Lv. Min: 70
-§c✖§7 Intelligence Min: 60
 §8§8Supposedly based off of
 §8the wand of master mage
 §8Ethe, this wand is plated
 §8with magic-focusing jewels
 §8and heavy gold, yet somehow
 §8remains entirely weightless.
-§6 - §f112§7² §8(48² 1²½)
-§6✣ Neutral Damage: 12-19
-§c✖§7 Combat Lv. Min: 14
-§c✖§7 Combat Lv. Min: 65
 §a+12§2 to §a15%§7 Health Regen
 §c-7§4 to §c-5%§7 Spell Damage
 §c-45 Durability
-§c✖§7 Crafting Lv. Min: 45
-§6 - §f614§7² §8(38² 9²½)
-§c✹ Fire§7 Damage: 30-50
-§c✖§7 Combat Lv. Min: 30
 §8§8The flickering flame atop
 §8this simple wand is a marvel
 §8of magic. It always burns
@@ -2318,10 +1553,6 @@
 §8scorch skin even if touched,
 §8and never can be snuffed
 §8out under any circumstance.
-§6 - §f420§7² §8(36² 6²½)
-§b❉ Water§7 Defence: -10
-§2✤ Earth§7 Defence: -5
-§c✖§7 Combat Lv. Min: 32
 §8§8Llevigar's schools of
 §8wizardry are notorious for
 §8their difficult training
@@ -2331,67 +1562,22 @@
 §8combat, are often cited
 §8as the tipping point for
 §8successful wizards.
-§6 - §f599§7² §8(23² 9²½)
-§6✣ Neutral Damage: 14-15
-§e✦ Thunder§7 Damage: 9-11
-§c✖§7 Combat Lv. Min: 28
-§6 - §f1,915§7² §8(59² 29²½)
-§4❤ Health: +450
-§2✤ Earth§7 Defence: -60
-§c✖§7 Combat Lv. Min: 44
 §8§8Bending the fabric of
 §8reality to allow the wearer
 §8to take massive strides,
 §8these boots are rumored
 §8to contain rogue djinni
 §8to power them.
-§6 - §f455§7² §8(7² 7²½)
-§4❤ Health: +575
-§2✤ Earth§7 Defence: -30
-§c✖§7 Combat Lv. Min: 47
 §8§8There have been many attempts
 §8to create a reliable power
 §8system in Llevigar, and
 §8this plasma-charged helmet
 §8was reforged from a notable
 §8prototype.
-§6 - §f110§7² §8(46² 1²½)
-§6✣ Neutral Damage: 5-10
-§e✦ Thunder§7 Damage: 1-45
-§c✖§7 Combat Lv. Min: 29
-§6 - §f190§7² §8(62² 2²½)
-§4❤ Health: +55
-§b❉ Water§7 Defence: -2
-§c✖§7 Combat Lv. Min: 42
-§6 - §f136§7² §8(8² 2²½)
-§6✣ Neutral Damage: 22-30
-§2✤ Earth§7 Damage: 22-34
-§c✖§7 Combat Lv. Min: 25
-§c✖§7 Strength Min: 18
-§6 - §f202§7² §8(10² 3²½)
-§f❋ Air§7 Defence: +6
-§c✖§7 Agility Min: 24
-§6 - §f142§7² §8(14² 2²½)
-§4❤ Health: +165
-§6 - §f525§7² §8(13² 8²½)
-§c✖§7 Combat Lv. Min: 12
 §6 - §f35§7² 
-§4❤ Health: +42
-§c✖§7 Combat Lv. Min: 9
-§c✖§7 Combat Lv. Min: 45
 §3Crafted by EndermanProfile§8 [20/20 Durability]
 §8This ring is an imperfect copy of
 §8the "Ring of the Skyraider"
-§6 - §f92§7² §8(28² 1²½)
-§6 - §f259§7² §8(3² 4²½)
-§4❤ Health: +280
-§c✹ Fire§7 Defence: -15
-§2✤ Earth§7 Defence: +25
-§c✖§7 Combat Lv. Min: 37
-§6 - §f551§7² §8(39² 8²½)
-§6 - §f1,627§7² §8(27² 25²½)
-§f❋ Air§7 Defence: +120
-§e✦ Thunder§7 Defence: +100
 §6Buying:
 §7 - §f1 §eMelodyÀ
 §6For:
@@ -2406,88 +1592,31 @@
 §7Click to View
 §f202² §7each - §f1§7/1 Purchased
 §aPurchased
-§a✔§7 Combat Lv. Min: 48
-§a✔§7 Agility Min: 24
 §7[Active Weapon Skin: Dern Bow]
-§6 - §a✔ §f320§7²
-§6 - §a✔ §f384§7²
-§2§m----§2[ §a3,776²§2 ]§m----
 §6- §f28% §7of your materials/ingredients items
 §5- §6World: §e15/133§6 [11%]
-§bXp: 29/100
-§bXp: 30/100
-§bXp: 31/100
-§bXp: 34/100
-§bXp: 35/100
-§5- §7Territorial: §f20/345§7 [5%]
-§bXp: 36/100
-§bXp: 37/100
 §a+3§2 to §a4%§7 Stealing
 §a+2§2 to §a3%§7 Loot Bonus
 §c-26 Durability
-§c✖§7 Crafting Lv. Min: 47
-§bXp: 39/100
-§bXp: 42/100
-§5- §7Territorial: §f21/345§7 [6%]
-§bXp: 44/100
-§5- §7Territorial: §f22/345§7 [6%]
-§bXp: 45/100
-§2Players: §a1/50
-§2Players: §a2/50
 §e- §7Soul Points: §f13
-§2Players: §a21/50
 §4- §7Heal: §f560§c ❤
-§a✔§7 Combat Lv. Min: 45
-§2Players: §a4/50
-§2§m----§2[ §a258,048²§2 ]§m----
-§a✔§7 Strength Min: 15
-§2§m----§2[ §a204,800²§2 ]§m----
-§2§m----§2[ §a200,704²§2 ]§m----
-§2§m----§2[ §a8,192²§2 ]§m----
-§2§m----§2[ §a196,608²§2 ]§m----
-§2§m----§2[ §a12,288²§2 ]§m----
-§2§m----§2[ §a192,512²§2 ]§m----
-§2§m----§2[ §a16,384²§2 ]§m----
-§2§m----§2[ §a188,416²§2 ]§m----
-§2§m----§2[ §a20,480²§2 ]§m----
 §7Gegaba's Side §f>>
-§2§m----§2[ §a128²§2 ]§m----
-§2§m----§2[ §a192²§2 ]§m----
-§2§m----§2[ §a256²§2 ]§m----
-§2§m----§2[ §a1,664²§2 ]§m----
 §fInfestedÀÀÀPit§7 once
 §a - §7Combat Lv: §f18
 §a - §7Coordinates: §f-293, -1834
 §7Use this token to continue your
 §7progress in the §fInfested Pit
 §4- §7Heal: §f100§c ❤
-§a✔§7 Combat Lv. Min: 20
 §4- §7Heal: §f72§c ❤
-§2§m----§2[ §a13²§2 ]§m----
-§2§m----§2[ §a15²§2 ]§m----
-§2§m----§2[ §a22²§2 ]§m----
-§2§m----§2[ §a23²§2 ]§m----
-§2§m----§2[ §a24²§2 ]§m----
 §7Exchange this for items
 §7at the §fDungeon Shop
-§2§m----§2[ §a26²§2 ]§m----
-§2§m----§2[ §a30²§2 ]§m----
-§2§m----§2[ §a34²§2 ]§m----
-§2§m----§2[ §a36²§2 ]§m----
-§2§m----§2[ §a38²§2 ]§m----
-§2§m----§2[ §a40²§2 ]§m----
 §a- §7Lv. Range: §f16-20
-§2§m----§2[ §a42²§2 ]§m----
-§2§m----§2[ §a44²§2 ]§m----
-§2§m----§2[ §a46²§2 ]§m----
 §7to fast-travel to §fSelchar
 §a- §7Level: §f25
 §a- §7Coords: §f70, -3070
-§6 - §a✔ §f42§7²
 §7to fast-travel to the §fBear Zoo
 §a- §7Level: §f15
 §a- §7Coords: §f-300, -2500
-§6 - §a✔ §f4§7²
 §7to fast-travel to §fDurum Isles
 §a- §7Coords: §f500, -2900
 §7to fast-travel to §fRooster Island
@@ -2497,7 +1626,6 @@
 §a- §7Coords: §f-2530, -2527
 §7to fast-travel to §fMage Island
 §a- §7Coords: §f870, -2830
-§6 - §a✔ §f14§7²
 §7to fast-travel to §fZhight Island
 §a- §7Coords: §f-450, -2850
 §e- §7XP: §f58%
@@ -2507,50 +1635,25 @@
 §7meteor crashed into. 
 §f- Lv. 1-50 §7[12/138] §4[§c|§8||||8%|||||§4]
 §e- §fLv. 1-50 §7[11/66] §4[§c|||§8||16%|||||§4]
-§6Total Discoveries: §e[37/478]
 §4[§c|||§8|||||||||||||||||7%||||||||||||||||||||§4]
 §7Escape the collapsing cave. 
-§bXp: 48/100
-§bXp: 51/100
-§5- §7Territorial: §f23/345§7 [6%]
-§bXp: 52/100
-§bXp: 54/100
-§bXp: 55/100
-§6Lag: §e10%
 §c✖§f Ⓚ§7 Fishing Lv. Min: 10
 §fFish Refinery §7to process it
 §5- §6World: §e34/133§6 [25%]
-§6 - §a✔ §f38§7²
-§6 - §a✔ §f20§7²
 §7to fast-travel to §fJofash Dock
 §a- §7Level: §f90
 §a- §7Coords: §f1315, -4065
-§6 - §a✔ §f32§7²
 §7Use scrap to repair
 §7Crafted Items
 §e- §7XP: §f59%
-§bXp: 57/100
-§bXp: 58/100
-§bXp: 61/100
-§5- §7Territorial: §f24/345§7 [6%]
-§bXp: 63/100
-§bXp: 65/100
-§5- §7Territorial: §f25/345§7 [7%]
-§5- §7Territorial: §f26/345§7 [7%]
-§bXp: 67/100
 §7Explore the cave for the 
 §7star thief. 
 §f- Lv. 1-50 §7[16/138] §4[§c||§8|||11%|||||§4]
-§6Total Discoveries: §e[41/478]
 §4[§c||||§8||||||||||||||||8%||||||||||||||||||||§4]
 §c-5§4 to §c-3%§7 Walk Speed
 §a+7§2 to §a13§7 Melee Damage
 §c-19 Durability
 §c+8 Strength Min.
-§c✖§7 Crafting Lv. Min: 44
-§5- §7Territorial: §f27/345§7 [7%]
 §7The shard is already
 §7starting to cloud your mind...
 §5Quests: §d105/157§5 [66%]
-§2§m----§2[ §a25²§2 ]§m----
-§2§m----§2[ §a27²§2 ]§m----
