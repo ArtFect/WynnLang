@@ -1,4 +1,11 @@
 #########################################Инфо сообщения###########################################
+[Info] Scared you'll accidentally drop and lose your item? Try /itemlock! For more information, visit wynncraft.com@§4[Инфо] §cБоишься случайно выкинуть и потерять свои предметы? Попробуй /itemlock! Для большей информации, посети §6wynncraft.com 
+[Info] Stay up to date with Wynncraft on our official discord at discord.gg/ccZPK8Z!@§6[§eИнфо§6] §eОбщайся с другими игроками в нашем русскоязычном Discord'е §6http://discord.gg/QukGp6a
+[Info] Use the Trade Market in major cities to buy/sell many items quickly to other players! For more information, visit wynncraft.com!@§6[§eИнфо§6] §7Используй Trade Market в крупных городах, чтобы быстро купить/продать предметы другим игрокам! §fДля большей информации, посети §6wynncraft.com!
+[Info] Use "/party create" and "/party invite [name]" to create a party with friends and get bonus XP! For more information, visit wynncraft.com!@§6[§eИнфо§6] §7Используй "/party create" и "/party invite [name]" для создания пати с друзьями и получения бонусных XP! §fДля большей информации, посети §6wynncraft.com!
+[Info] Use "/friend add [name]" to add other players as friends! For more information, visit wynncraft.com!@§6[§eИнфо§6] §7Используй "/friend add [name]" для добавления других игроков в друзья! §fДля большей информации, посети §6wynncraft.com!
+[Info] Purchase crates for cosmetic items like Weapon Skins, Wybels, Particle Effects, Hats and much more! Visit store.wynncraft.com for more!@§5[§dИнфо§5] §dПокупай контейнеры ради косметических вещей, например Скинов для оружия, Wybel'ов, Эффектов частиц, Шляп и многого другого! Посети §5store.wynncraft.com для большей информации!
+
 
 ######################################Лор территорий############################################
 - Lore: One of two great fortresses in Wynn. Ragni has survived over 1000 years of war - sometimes barely. It is the hometown of the 146 year old hero Bob, who hasn't been seen in 16 years.@§d     -§r§7 Лор: §r§f§oОдна из двух великих крепостей в провинции Wynn. Ragni пережил более 1000 лет войны - иногда был близок к краху. Это родной город 146-летнего старого героя по имени Bob, которого не видели уже 16 лет.
@@ -134,6 +141,73 @@
 
 #######################Команды/Системные сообщения#############################
 You can skip the tutorial by typing: /skiptutorial. You will not receive resources, tools, or a crafted item by doing this.@§cТы можешь пропустить туториал командой /skiptutorial. Ты не получишь ресурсы, инструменты, или крафтовые предметы, сделав это.
+Loading Resource Pack...@§7Загружаем Текстурпак...
+Loading the WynnPack...@§7Загружаем WynnPack...
+Select a class! Each class is saved individually across all servers, you can come back at any time with /class and select another class!@§cВыбери класс! Каждый класс сохраняется индивидуально на всех серверах, ты можешь в любой момент набрать /class и выбрать другой!
+There has been an error... Try again.@§7Произошла ошибка... Попробуй снова.
+You don't have enough mana to do that spell!@§4У тебя недостаточно маны, чтобы использовать это заклинание!
+Thank you for using the WynnPack. Enjoy the game!@§7Спасибо, что используешь WynnPack. Наслаждайся игрой!
+Sorry, you can't teleport... Try moving away from blocks.@§7Извини, ты не можешь телепортироваться... Попробуй отойти от блоков
+Warning! You do not have the Wynncraft Resource Pack. The game will not make sense until you have it installed@§cВнимание! У тебя не установлен ресурспак сервера. Игра не будет иметь смысла, пока ты его не установишь.
+To fix this, add play.wynncraft.com to your server list and@§6Чтобы исправить это, добавь §eplay.wynncraft.com §6в свой список серверов и 
+enable server resource packs@§6§nвключи поддержку серверного ресурспака
+Still not sure how to do it? Click here: https://forums.wynncraft.com/threads/cant-play-wynncraft-because-of-the-pack-heres-how-to-fix.98023/@§cНе уверен, как правильно это сделать? Нажми сюда: §4https://forums.wynncraft.com/threads/cant-play-wynncraft-because-of-the-pack-heres-how-to-fix.98023/
+To disable this message, type: /toggle rpwarning@§cЧтобы отключить это сообщение, напиши: §6/toggle rpwarning
+You will no longer receive the resource pack warning!@§7Ты больше не будешь получать уведомление о ресурспаке!
+Your class has automatically been selected. Use /class to change your class, or /toggle autojoin to turn this feature off.@§7Твой класс был автоматически выбран. Напиши /class, чтобы сменить класс, или /toggle autojoin чтобы отключить эту функцию.
+You have not unlocked this spell!@§4Ты еще не открыл это заклинание!
+As the sun rises, you feel a little bit safer...@§5С восходом солнца ты чувствуешь себя немного безопаснее...
+[+1 Soul Point]@§d[+1 Очко душ]
+[+2 Soul Points]@§d[+2 Очка душ]
+Server restarting!@§4Перезагрузка сервера!
+You must identify this item before using it.@§4Ты должен идентифицировать этот предмет, прежде чем использовать.
+[Area Discovered]@                           §r§6[Открыта территория]
+Info:@§d     Инфо:
+[Quest Book Updated]@§7[Квестовая книга обновлена]
+[Quest Completed]@§6                              [Квест пройден]
+Rewards:@§d            Награда:
++2 Skill Points [Open the character menu to use them]@§7+2 Очка умений [Открой меню персонажа для их использования]
++5 Maximum HP@§7+5 Очков здоровья
+[Please empty some space in your inventory first]@§7[Пожалуйста, сначала освободи немного места в своем инвентаре]
+You will need this item in later quests!@§4Этот предмет понадобится тебе в будущих квестах!
+You already have that potion active...@§4Это зелье уже действует на тебя...
+You've restarting the starting quest!@§cВы перезапустили начальный квест!
+You have died...@§4Ты погиб...
+2 soul points have been lost...@§72 очка душ было утеряно...
+You've dropped:@§6С тебя выпало:
+Guild Master: You need 5 liquid emeralds to make a guild.@§5Guild Master:§dТебе нужно 5 жидких эмеральдов, чтобы создать гильдию.
+Since you interacted with your inventory, your horse has despawned.@§dПоскольку ты взаимодействовал с инвентарем, твоя лошадь была убрана.
+- Smoke Bomb will throw a cloud of smoke, damaging mobs that are stuck inside@§7- Smoke Bomb выбрасывает облако дыма, нанося урон мобам, застрявшим внутри него
+- Spell Usage: Right-Right-Left@§7- Использование заклинания: Правая-Правая-Левая
+Warning: As you lose soul points, you will drop more items when you die.@§4Предупреждение: Чем больше очков душ ты теряешь, тем больше предметов выпадает с тебя при смерти.
+There is no room for a horse.@§cЗдесь нет места для лошади.
+You have successfully created a party.@§eТы успешно создал пати.
+You have invited the player to the party.@§eТы пригласил игрока в пати. 
+You have been removed from the party.@§eТы был убран из пати.
+Desc.: This command will let you use the party system.@§eОписание: Эта команда позволит вам использовать систему пати.
+Usage: /party [join/leave/create/invite/kick/list] [arguments]@§eИспользование: /party [join/leave/create/invite/kick/list] [аргументы]
+1 soul point has been lost...@§71 очко душ было потеряно...
+The trade has been completed!@§5Торговля успешно завершена!
+The trade request has been sent! Waiting for them to accept...@§bТорговый запрос отправлен! Ждем, пока его примут...
+Wait a bit before offering a trade again!@Подождите немного, прежде чем снова предлагать поторговать!
+You can't sell this item!@§cТы не можешь продать этот предмет!
+- Charge will make you run quickly in a particular direction@§7- Charge поможет тебе быстро передвигаться в определенном направлении
+- Spell Usage: Right-Right-Right@§7- Использование заклинания: Правая-Правая-Правая
+You've been rocketed by the great web.@§7Ты был подброшен великой паутиной.
++ Spell clicking notification moved to info bar@§7+ Уведомление о наборе заклинаний передвинуто на панель информации
+Your horse has become stronger!@§6Твоя лошадь стала сильнее!
+[+1 Speed]@§7[+1 к Скорости]
+[+1 Jump Height]@§7[+1 к Высоте прыжка]
+You can now no longer drop your item!@§aТеперь ты не можешь выбросить этот предмет
+You can now drop your item again!@§aТеперь ты можешь выбросить этот предмет
+You cannot drop locked items! Use /itemlock while holding the item again to unlock it.@§cТы не можешь выбросить заблокированные предметы! Используй /itemlock, держа предмет в руке, чтобы разблокировать его.
+You have no missing quest items... Check your bank and other class inventories@§7У тебя нет пропавших квестовых предметов... Проверь свой банк и инвентари других классов
+There wasn't room in your inventory, so items were dropped.@§7В твоем инвентаре не было места, поэтому предметы были сброшены.
+What message would you like to shout to the entire network? Say 'cancel' to stop.@§7Какое сообщение ты хочешь отправить на все сервера? Напиши 'cancel' для отмены.
+Are you sure you want to shout@§7Уверен, что хочешь отправить 
+Type yes or no.@§7Напиши yes или no.
+Shouting!@§7Отправлено!
+
 
 ##########################Квесты/Данжи#########################################
 You must talk to the King first. Right-click on him to start a conversation@§7Ты должен сначала поговорить с Королем. Правый клик по нему, чтобы начать разговор.
@@ -514,6 +588,24 @@ The door suddenly opens, as if the Keystone Guardian's presence activated it...@
 Align your cannon with an attacking pirate using the controls, and fire to destroy them, but be careful - if one reaches your ship it will be damaged!@§7Выровняй свою пушку с атакующим пиратом, используя элементы управления, и стреляй, чтобы уничтожить их. Но будь осторожен - если кто-то достигнет твоего корабля, он будет поврежден!
 The door to the Treasure Vault has opened, but it will close in 20 second again!@§7Дверь в Хранилище с сокровищами открыта, но она закроется через 20 секунд!
 Get to the Treasure Vault in 20 seconds before it closed!@§7Доберись до Хранилища с сокровищами за 20 секунд, прежде чем оно закроется!
+The Horn of the Volt Goat can be used to awaken any sleeping being, however they are notoriously rare. They can only found roaming the Forest of Light, and always alone.@§7Горн Volt Goat'a можно использовать для пробуждения любого спящего существа, однако они известны своей редкостью. Их можно найти только бродя по светлому лесу, и всегда в одиночестве.
+You don't have the ingredients to brew a cup of tea!@§7У тебя нет ингредиентов, чтобы заварить чашку чая!
+The cow raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@§7Корова поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
+The pig raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@§7Свинья поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
+The sheep raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@§7Овца поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
+The cow raises it's head to look at you, then returns to its business.@§7Корова поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
+The pig raises it's head to look at you, then returns to its business.@§7Свинья поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
+The sheep raises it's head to look at you, then returns to its business.@§7Овца поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
+
+
+######################################NPC####################################################
+Siegfried, Hero of Gavel@§7Siegfried - герой Gavel'a
+In recent times, Gavel has been threatened by many monsters. But wherever trouble lurks, the province can always depend on its legendary hero, Siegfried.@§7В последнее время Gavel был под угрозой со стороны многих монстров. Но где бы ни скрывалась беда, провинция всегда может рассчитывать на своего легендарного героя - Siegfried'a.
+Everyone in Gavel has their own tale to tell about Siegfried's tremendous strength and skill. He has saved many lives.@§7У каждого в Gavel'e есть своя история с рассказом об огромной силе и мастерстве Siegfried'a. Он спас много жизней.
+Wynn may have had Bob as its hero, but Gavel has Siegfried. His books are all province wide best sellers! Bob doesn't even have a book!@§7У провинции Wynn был Bob в качестве героя, а у Gavel'a есть Siegfried. Его книги -  бестселлеры по всей провинции! У Bob'a даже нет своей книги!
+The End.@§7Конец.
+The inscription on the gravestone reads "Here lies our great founder, Tisaun Sodeta. May he guide us through the endless fight."@§7Надпись на надгробии гласит "Здесь лежит наш великий основатель, Sodeta Tisaun. Пусть он проведет нас через бесконечную битву."
+An unsettlingly powerful energy seems to blanket the area. There is potential here for...something. But not yet...@§7Похоже, что мощная тревожная энергия покрывает эту область. Здесь есть потенциал для... чего-то. Но еще слишком рано...
 
 
 ########################################Дискавери####################################################
@@ -529,99 +621,11 @@ Get to the Treasure Vault in 20 seconds before it closed!@§7Доберись д
 
 
 
-Siegfried, Hero of Gavel@§7Siegfried - герой Gavel'a
-In recent times, Gavel has been threatened by many monsters. But wherever trouble lurks, the province can always depend on its legendary hero, Siegfried.@§7В последнее время Gavel был под угрозой со стороны многих монстров. Но где бы ни скрывалась беда, провинция всегда может рассчитывать на своего легендарного героя - Siegfried'a.
-Everyone in Gavel has their own tale to tell about Siegfried's tremendous strength and skill. He has saved many lives.@§7У каждого в Gavel'e есть своя история с рассказом об огромной силе и мастерстве Siegfried'a. Он спас много жизней.
-Wynn may have had Bob as its hero, but Gavel has Siegfried. His books are all province wide best sellers! Bob doesn't even have a book!@§7У провинции Wynn был Bob в качестве героя, а у Gavel'a есть Siegfried. Его книги -  бестселлеры по всей провинции! У Bob'a даже нет своей книги!
-The End.@§7Конец.
-The inscription on the gravestone reads "Here lies our great founder, Tisaun Sodeta. May he guide us through the endless fight."@§7Надпись на надгробии гласит "Здесь лежит наш великий основатель, Sodeta Tisaun. Пусть он проведет нас через бесконечную битву."
-An unsettlingly powerful energy seems to blanket the area. There is potential here for...something. But not yet...@§7Похоже, что мощная тревожная энергия покрывает эту область. Здесь есть потенциал для... чего-то. Но еще слишком рано...
-The Horn of the Volt Goat can be used to awaken any sleeping being, however they are notoriously rare. They can only found roaming the Forest of Light, and always alone.@§7Горн Volt Goat'a можно использовать для пробуждения любого спящего существа, однако они известны своей редкостью. Их можно найти только бродя по светлому лесу, и всегда в одиночестве.
-You don't have the ingredients to brew a cup of tea!@§7У тебя нет ингредиентов, чтобы заварить чашку чая!
-The cow raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@§7Корова поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
-The pig raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@§7Свинья поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
-The sheep raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@§7Овца поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
-The cow raises it's head to look at you, then returns to its business.@§7Корова поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
-The pig raises it's head to look at you, then returns to its business.@§7Свинья поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
-The sheep raises it's head to look at you, then returns to its business.@§7Овца поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
-Loading Resource Pack...@§7Загружаем Текстурпак...
-Loading the WynnPack...@§7Загружаем WynnPack...
-Select a class! Each class is saved individually across all servers, you can come back at any time with /class and select another class!@§cВыбери класс! Каждый класс сохраняется индивидуально на всех серверах, ты можешь в любой момент набрать /class и выбрать другой!
-There has been an error... Try again.@§7Произошла ошибка... Попробуй снова.
-You don't have enough mana to do that spell!@§4У тебя недостаточно маны, чтобы использовать это заклинание!
-Thank you for using the WynnPack. Enjoy the game!@§7Спасибо, что используешь WynnPack. Наслаждайся игрой!
-Sorry, you can't teleport... Try moving away from blocks.@§7Извини, ты не можешь телепортироваться... Попробуй отойти от блоков
-Warning! You do not have the Wynncraft Resource Pack. The game will not make sense until you have it installed@§cВнимание! У тебя не установлен ресурспак сервера. Игра не будет иметь смысла, пока ты его не установишь.
-To fix this, add play.wynncraft.com to your server list and@§6Чтобы исправить это, добавь §eplay.wynncraft.com §6в свой список серверов и 
-enable server resource packs@§6§nвключи поддержку серверного ресурспака
-Still not sure how to do it? Click here: https://forums.wynncraft.com/threads/cant-play-wynncraft-because-of-the-pack-heres-how-to-fix.98023/@§cНе уверен, как правильно это сделать? Нажми сюда: §4https://forums.wynncraft.com/threads/cant-play-wynncraft-because-of-the-pack-heres-how-to-fix.98023/
-To disable this message, type: /toggle rpwarning@§cЧтобы отключить это сообщение, напиши: §6/toggle rpwarning
-You will no longer receive the resource pack warning!@§7Ты больше не будешь получать уведомление о ресурспаке!
-Your class has automatically been selected. Use /class to change your class, or /toggle autojoin to turn this feature off.@§7Твой класс был автоматически выбран. Напиши /class, чтобы сменить класс, или /toggle autojoin чтобы отключить эту функцию.
-You have not unlocked this spell!@§4Ты еще не открыл это заклинание!
-As the sun rises, you feel a little bit safer...@§5С восходом солнца ты чувствуешь себя немного безопаснее...
-[+1 Soul Point]@§d[+1 Очко душ]
-[+2 Soul Points]@§d[+2 Очка душ]
-Server restarting!@§4Перезагрузка сервера!
-You must identify this item before using it.@§4Ты должен идентифицировать этот предмет, прежде чем использовать.
-[Area Discovered]@                           §r§6[Открыта территория]
-Info:@§d     Инфо:
-[Quest Book Updated]@§7[Квестовая книга обновлена]
-[Quest Completed]@§6                              [Квест пройден]
-Rewards:@§d            Награда:
-+2 Skill Points [Open the character menu to use them]@§7+2 Очка умений [Открой меню персонажа для их использования]
-+5 Maximum HP@§7+5 Очков здоровья
-[Please empty some space in your inventory first]@§7[Пожалуйста, сначала освободи немного места в своем инвентаре]
-You will need this item in later quests!@§4Этот предмет понадобится тебе в будущих квестах!
-You already have that potion active...@§4Это зелье уже действует на тебя...
-You've restarting the starting quest!@§cВы перезапустили начальный квест!
-You have died...@§4Ты погиб...
-2 soul points have been lost...@§72 очка душ было утеряно...
-You've dropped:@§6С тебя выпало:
-Guild Master: You need 5 liquid emeralds to make a guild.@§5Guild Master:§dТебе нужно 5 жидких эмеральдов, чтобы создать гильдию.
-Since you interacted with your inventory, your horse has despawned.@§dПоскольку ты взаимодействовал с инвентарем, твоя лошадь была убрана.
-- Smoke Bomb will throw a cloud of smoke, damaging mobs that are stuck inside@§7- Smoke Bomb выбрасывает облако дыма, нанося урон мобам, застрявшим внутри него
-- Spell Usage: Right-Right-Left@§7- Использование заклинания: Правая-Правая-Левая
-Warning: As you lose soul points, you will drop more items when you die.@§4Предупреждение: Чем больше очков душ ты теряешь, тем больше предметов выпадает с тебя при смерти.
-There is no room for a horse.@§cЗдесь нет места для лошади.
-You have successfully created a party.@§eТы успешно создал пати.
-You have invited the player to the party.@§eТы пригласил игрока в пати. 
-You have been removed from the party.@§eТы был убран из пати.
-Desc.: This command will let you use the party system.@§eОписание: Эта команда позволит вам использовать систему пати.
-Usage: /party [join/leave/create/invite/kick/list] [arguments]@§eИспользование: /party [join/leave/create/invite/kick/list] [аргументы]
-1 soul point has been lost...@§71 очко душ было потеряно...
-The trade has been completed!@§5Торговля успешно завершена!
-The trade request has been sent! Waiting for them to accept...@§bТорговый запрос отправлен! Ждем, пока его примут...
-Wait a bit before offering a trade again!@Подождите немного, прежде чем снова предлагать поторговать!
-Did you mean /toggle? If not, type /help to see the commands!@§7Ты имел в виду ...? Если нет, напиши /help, чтобы увидеть список команд!
-You can't sell this item!@§cТы не можешь продать этот предмет!
-+ New Spell [Charge]@§7+ Новое заклинание [Charge]
-- Charge will make you run quickly in a particular direction@§7- Charge поможет тебе быстро передвигаться в определенном направлении
-- Spell Usage: Right-Right-Right@§7- Использование заклинания: Правая-Правая-Правая
-You've been rocketed by the great web.@§7Ты был подброшен великой паутиной.
-+ Spell clicking notification moved to info bar@§7+ Уведомление о наборе заклинаний передвинуто на панель информации
- Your horse has become stronger!@§6Твоя лошадь стала сильнее!
-[+1 Speed]@§7[+1 к Скорости]
-[+1 Jump Height]@§7[+1 к Высоте прыжка]
-You can now no longer drop your item!@§aТеперь ты не можешь выбросить этот предмет
-You can now drop your item again!@§aТеперь ты можешь выбросить этот предмет
-You cannot drop locked items! Use /itemlock while holding the item again to unlock it.@§cТы не можешь выбросить заблокированные предметы! Используй /itemlock, держа предмет в руке, чтобы разблокировать его.
-[Info] Scared you'll accidentally drop and lose your item? Try /itemlock! For more information, visit wynncraft.com@§4[Инфо] §cБоишься случайно выкинуть и потерять свои предметы? Попробуй /itemlock! Для большей информации, посети §6wynncraft.com 
 
-[Info] Did you know you can quick-duel with someone by using "Shift + Left-Click"? For more information, visit wynncraft.com@§4[Инфо] §cТы знаешь, что можно начать дуэль комбинацией "Shift + ЛКМ"? Для большей информации, посети §6wynncraft.com
-[Info] You can look up all of your class information and future spells by visiting wynncraft.com/help@§4[Инфо] §cТы можешь посмотреть всю информацию о своем классе и будущих заклинаниях, посетив §6wynncraft.com/help
-[Info] Redditor? Check out our subreddit at reddit.com/r/wynncraft@§4[Инфо] §cЕсть вопросы? Задай их в нашем сообществе во вконтакте §6vk.com/wynncraft_ru
-[Info] Stay up to date with Wynncraft on our official discord at discord.gg/ccZPK8Z!@§6[§eИнфо§6] §eОбщайся с другими игроками в нашем русскоязычном Discord'е §6http://discord.gg/QukGp6a
-[Info] Use the Trade Market in major cities to buy/sell many items quickly to other players! For more information, visit wynncraft.com!@§6[§eИнфо§6] §7Используй Trade Market в крупных городах, чтобы быстро купить/продать предметы другим игрокам! §fДля большей информации, посети §6wynncraft.com!
-[Info] Use "/party create" and "/party invite [name]" to create a party with friends and get bonus XP! For more information, visit wynncraft.com!@§6[§eИнфо§6] §7Используй "/party create" и "/party invite [name]" для создания пати с друзьями и получения бонусных XP! §fДля большей информации, посети §6wynncraft.com!
-[Info] Use "/friend add [name]" to add other players as friends! For more information, visit wynncraft.com!@§6[§eИнфо§6] §7Используй "/friend add [name]" для добавления других игроков в друзья! §fДля большей информации, посети §6wynncraft.com!
-[Info] Purchase crates for cosmetic items like Weapon Skins, Wybels, Particle Effects, Hats and much more! Visit store.wynncraft.com for more!@§5[§dИнфо§5] §dПокупай контейнеры ради косметических вещей, например Скинов для оружия, Wybel'ов, Эффектов частиц, Шляп и многого другого! Посети §5store.wynncraft.com для большей информации!
-You have no missing quest items... Check your bank and other class inventories@§7У тебя нет пропавших квестовых предметов... Проверь свой банк и инвентари других классов
-There wasn't room in your inventory, so items were dropped.@§7В твоем инвентаре не было места, поэтому предметы были сброшены.
-What message would you like to shout to the entire network? Say 'cancel' to stop.@§7Какое сообщение ты хочешь отправить на все сервера? Напиши ‘cancel' для отмены.
-Are you sure you want to shout@§7Уверен, что хочешь отправить 
-Type yes or no.@§7Напиши yes или no.
-Shouting!@§7Отправлено!
+
+
+
+
 Powder Manual@§eРуководство о порошках
 Chapter 1 - The Basics@§fГлава 1 - Основы
 There exist five varieties of magic powder, each corresponding to one of five different elements; ? Fire, ? Water, ? Thunder, ? Earth, and ? Air.@§7Существуют пять разновидностей магических порошков, каждый из которых соответствует одному из пяти различных элементов: §f❋ Воздух§a, §e✦ Гром§a, §2✤ Земля§a, §4✹ Огонь§a, и §b❉ Вода§a.
