@@ -9,7 +9,7 @@
 (.*) is for level (.*) only@§7(r1) только для уровней (r2)+
 \[You have received (.*) soul points while you were offline\]@§7[Ты заработал (r1) soul point'ов, пока был не в сети]
 ( +)- \+(\d+) Experience Points@§d(r1)-§r§7 +§r§f(r2)§r§7 Очков опыта
-\+(.*) Emeralds@§7  +(r1) эмеральд (а/ов)
+\+(.*) Emeralds@§7           §d- +(r1) эмеральд (а/ов)
 \+1 Maximum Soul Points \[Total: (.*)\]@§7+1 к максимуму числа душ [Всего: (r1)]
 (.*) has logged into server (.*) as a (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
 (.*) has logged into server (.*) as an (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
