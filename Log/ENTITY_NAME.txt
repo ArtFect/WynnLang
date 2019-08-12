@@ -1,0 +1,801 @@
+
+§6The Minecraft MMORPG
+§7in the Wynn province and explore one of the
+§7biggest and most detailed custom maps in Minecraft.
+§7Start your journey from humble beginnings
+§fType §b/trade (name)
+§7To safely trade items
+§fType §b/party create
+§7To create a party
+§fType §b/kill
+§fType §b/friend add (name)
+§7To add someone as a friend
+§5Visit: §d§nwynncraft.com§8 -/- §5IP: §d§nplay.wynncraft.com
+§7To slay yourself when stuck
+§rWelcome to §a§lWynncraft
+§7(XP Bombs, Shouts, Dungeon Bombs...)
+§cBoosts for everyone!
+§4§lBombs
+§7(Daily Crates, Mob Totems, Char. Slots...)
+§aPermanent benefits!
+§2§lRanks
+§b✵ §7(and get §d§l+1 FREE CRATE§7) §b✵
+§7Visit §nstore.wynncraft.com
+§b§lWynncraft Store
+§7(Weapon Skins, Wybels, Effects...)
+§eFilled with surprises!
+§6§lCrates
+§2store.wynncraft.com
+§aSupport Wynncraft
+§7View the full live map at
+§6map.wynncraft.com
+§a§lWynncraft §2World Map
+§4§n/§c§n!§4§n\
+§7§lEnter the portal to
+§7§lbegin your journey
+§7Never stop running!
+§a§lLobby Parkour
+§5store.wynncraft.com
+§dSupport Wynncraft
+§6store.wynncraft.com
+§eSupport Wynncraft
+§7design, story, management & more!
+§7inside, such as development, game
+§7Admins generally work on the game's
+§4§l[§c§lAdministrator§4§l]
+§eApply for Mod on our forums!
+§7enjoyable community experience.
+§7Wynncraft. They create a more
+§7volunteer their time to moderate
+§7Mods are selected players who
+§e§l[§6§lModerator§e§l]
+§7The people behind the server
+§a§lWynncraft §2Staff
+§3Visit §nwynncraft.com/ct
+§bJoin the Content Team today!
+§rmobs§7, §rcinematics §7& §rmuch more!
+§rquests§7, §rbuilds§7, §ritems§7. §rCMBs§7,
+§7joined the team in order to create...
+§7The CT are everyday players who
+§3§l[§b§lContent Team§3§l]
+§3store.wynncraft.com
+§bSupport Wynncraft
+§7Chat Colour
+§7Chat Tag
+§7Daily Mob Totem
+§7Lobby Flight + No Inv.
+§7Rename Pets/Horses
+§7Notify When Login
+§7Secret VIP Forum
+§7Jukebox
+§7Daily Crates
+§7Beta Access
+§7Support Wynncraft
+§7Rank Name
+§cIce Barrows Key Guardian§6 [Lv. 45]
+§7[§c✹Weak §b❉Dam §f❋§b❉Def§7]
+§f§lBob's Tomb
+§7Controlled by §b§lVindicator§r§7 [Lv. 42]
+§cClick for Options
+§c§lEXIT
+§cNauter Fighter§6 [Lv. 43]
+§7[§c✹Weak §b❉Dam §7]
+§cSnow Zombie§6 [Lv. 43]
+§7[§c✹Weak §f❋§b❉Dam §b❉Def§7]
+§cIce Zombie§6 [Lv. 43]
+§cSnow Owl§6 [Lv. 45]
+§7[§c✹Weak §2✤Dam §2✤Def§7]
+§7[§c✹Weak §b❉Def§7]
+§cFrozen Berserker§6 [Lv. 47]
+§cSnow Golem§6 [Lv. 43]
+§aNauter§6 [Lv. 45]
+§cWild Snow Wolf§6 [Lv. 41]
+§cFrostbite§6 [Lv. 45]
+§ePolar Bear§6 [Lv. 44]
+§7[Fiw]
+§dx2 §7[§f+§d0§f Combat XP§7]
+§c✖§f Ⓒ§7 Woodcutting Lv. Min: §f40
+§7[§2✤§e✦Weak §f❋§b❉Dam §b❉Def§7]
+§cDead Ice Cutter§6 [Lv. 42]
+§2Calamaro
+§7NPC
+§aSpruce
+§2§fSquiddles
+§aNesaak Citizen§6 [Lv. 40]
+§2Fredris
+§bNesaak Guard§6 [Lv. 50]
+§2§fPowder Manual [Chapter 2]
+§2§fPowder Manual [Chapter 3]
+§dWeapon Merchant
+§7Controlled by §b§lBuildCraftia§r§7 [Lv. 65]
+§bNesaak Guard Golem§6 [Lv. 50]
+§f§lNesaak Village
+§dScroll Merchant
+VTheorickStaffPlaysound
+theoricktwainstaff1
+§dPowder Master
+§dPotion Merchant
+§2§fNesaak Citizen
+§dBlacksmith
+§7Sell, scrap and repair items
+§dFish Merchant
+§dArmour Merchant
+§dItem Identifier
+§dDungeon Scroll Merchant
+§fⓁ §6§lAlchemism§r§f Ⓛ
+§7§7Crafting Station
+§7§7Potions
+§fⒹ §6§lJeweling§r§f Ⓓ
+§7§7Accessories
+§fⒼ §6§lWeaponsmithing§r§f Ⓖ
+§7§7Spears and Daggers
+§dEmerald Merchant
+§fⒻ §6§lTailoring§r§f Ⓕ
+§7§7Boots and Pants
+§fⒽ §6§lArmouring§r§f Ⓗ
+§7§7Helmets and Chestplates
+§fⒺ §6§lScribing§r§f Ⓔ
+§7§7Scrolls
+§fⒾ §6§lWoodworking§r§f Ⓘ
+§7§7Bows and Wands
+§cEnraged Polar Bear§6 [Lv. 44]
+§aEarth Powder Spirit§6 [Lv. 1]
+§aEmerald Imp§6 [Lv. 1]
+§fyouthism§7's horse
+§cPenguin§6 [Lv. 40]
+§2§aSlaying Post §2[Combat Lv. 40]
+§7[AscorPlay]
+§dx2 §7[§f+§d1804§f Combat XP§7]
+§fⒶ §6§lCooking§r§f Ⓐ
+§7§7Food
+§fH1LDE0N§7's horse
+§fColorado_Coyote§7's horse
+§2Enzan
+§aRagni Citizen§6 [Lv. 1]
+§bRagni Guard Golem§6 [Lv. 10]
+§bRagni Guard§6 [Lv. 10]
+§2Sergeant Klafson
+§cRat§6 [Lv. 2]
+§cZombie Raider§6 [Lv. 3]
+§bRagni Archer§6 [Lv. 10]
+§cWeak Zombie§6 [Lv. 1]
+§cWarrior Zombie§6 [Lv. 6]
+§7[XonTrax]
+§dx3 §7[§f+§d12§f Combat XP§7]
+§7[Gray_Smith]
+§dx3 §7[§f+§d27§f Combat XP§7]
+§dx3 §7[§f+§d18§f Combat XP§7]
+§dx3 §7[§f+§d30§f Combat XP§7]
+§dx3 §7[§f+§d21§f Combat XP§7]
+§dx3 §7[§f+§d24§f Combat XP§7]
+§cGiant Rat§6 [Lv. 5]
+§c§5[§d❃§5]§c Bob the Zombie§6 [Lv. 1]
+§cZombie Archer§6 [Lv. 4]
+§cZombie§6 [Lv. 3]
+§fGM_Zero§7's horse
+§7[GM_Zero]
+§dx3 §7[§f+§d2625§f Combat XP§7]
+§dx3 §7[§f+§d339§f Combat XP§7]
+§fYaoiii§7's horse
+§7Yaoiii's White Wybel
+§fStayTriggered§7's horse
+§fthjie1324§7's horse
+§7[EndermanProfile]
+§dx2 §7[§f+§d40§f Combat XP§7]
+§dx2 §7[§f+§d142§f Combat XP§7]
+§dx2 §7[§f+§d138§f Combat XP§7]
+§f§lNesaak Plains North East
+§2[§aVIP§2]
+§2Green
+2x ••
+§a§l✔
+§7✖
+❤
+§a§lVIP
+§a§lWynncraft §2Ranks
+§7store.wynncraft.com
+mEle
+§2§fLift Mechanic
+§2Caras
+§7[§b❉Weak §c✹Dam §7]
+§cScorched Zombie§6 [Lv. 35]
+§cDead Cowboy§6 [Lv. 36]
+§7[Gegaba]
+§7[§c✹Weak §f❋Dam §f❋Def§7]
+§cCanyon Condor§6 [Lv. 35]
+§fGegaba§7's horse
+§cRebel Cow§6 [Lv. 35]
+§7[§2✤Dam §2✤Def§7]
+§cArmored Rebel Cow§6 [Lv. 41]
+§7[§b❉Weak §2✤Dam §c✹§2✤Def§7]
+§cFrenzied Owl Fanatic§6 [Lv. 36]
+§cDry Zombie§6 [Lv. 34]
+§7[§2✤Def§7]
+§cSpirited Dust§6 [Lv. 33]
+§7[§f❋Weak §7]
+§cDesert Crawler§6 [Lv. 33]
+§dHorse Merchant
+§aTamed Horse§6 [Lv. 30]
+§bBetty§6 [Lv. 35]
+§bHired Archer Guard§6 [Lv. 25]
+§2Enkser
+§aTernaves Citizen§6 [Lv. 15]
+§cZombie§6 [Lv. 15]
+§cWild Mooshroom§6 [Lv. 12]
+§cYahya Apprentice§6 [Lv. 15]
+§f§lTernaves
+§7Controlled by §b§lThisIsMurica§r§7 [Lv. 49]
+§aOak
+§a✔§f Ⓒ§7 Woodcutting Lv. Min: §f1
+§7[§f❋Weak §2✤Dam §2✤Def§7]
+§cFungal Knight§6 [Lv. 12]
+§cBlack Bat§6 [Lv. 9]
+§f§lTernaves Plains Lower
+§aBlack Road Miner§6 [Lv. 20]
+§cCultist§6 [Lv. 15]
+§dTool Merchant
+§aGranite
+§c✖§f Ⓑ§7 Mining Lv. Min: §f10
+§cEXIT
+§aSalmon
+§c✖§f Ⓚ§7 Fishing Lv. Min: §f20
+§eZombified Sheep§6 [Lv. 8]
+§f§lMine Base Plains
+§cChamber Lurker§6 [Lv. 23]
+§cTunnel Spider§6 [Lv. 23]
+§c§6[§e✫§6]§c Spark Shedder§6 [Lv. 20]
+§7[§b❉Weak §c✹Dam §c✹Def§7]
+§c§6[§e✫§6]§c Sparkling§6 [Lv. 18]
+§c§6[§e✫§6]§c Shedderling§6 [Lv. 19]
+§7[§2✤Dam §7]
+§cGiant Termite§6 [Lv. 21]
+§aGold
+§c✖§f Ⓑ§7 Mining Lv. Min: §f20
+§aSwitch Fuse§6 [Lv. 1]
+§2Tattered Note
+§2Machine Use Instructions
+§cCorrupted Miner§6 [Lv. 26]
+§2§fCorrupted Townsperson
+§eAngry Farmer§6 [Lv. 24]
+§eAngry Blacksmith§6 [Lv. 26]
+§f§lAngry Village
+§2Orikal
+§eLoot Crate T1
+§6Epic Reward
+§7Gear Skin
+§fCommon Reward
+§7Player Effect
+§7Attack Effect
+§7Disguise
+§dRare Reward
+§7Pet
+§fPig Disguise
+§aIron
+§c✖§f Ⓑ§7 Mining Lv. Min: §f40
+§aWild Boar§6 [Lv. 1]
+§aGrook§6 [Lv. 1]
+§aGathering Scythe§6 [Lv. 0]
+§aGathering Pickaxe§6 [Lv. 0]
+§aHuman§6 [Lv. 0]
+§2Aledar
+§2Tasim
+§aOld Man§6 [Lv. 8]
+§2Old Man
+§aGathering Axe§6 [Lv. 0]
+§aCow§6 [Lv. 1]
+boattp
+§dSeasail Merchant
+§2§fSeaskipper Captain
+§2§fNeny
+§aSelchar Fisher§6 [Lv. 25]
+§aSelchar Bovemist§6 [Lv. 25]
+boatEvent
+randomPowder
+goodbyeMarker
+destinationMsgs
+startMarker
+randomGoodbye
+bellMarker
+randomPass
+tripwireMarker
+§aSeaskipper Captain§6 [Lv. 1]
+§fSeaskipper Captain
+§aTrout
+§c✖§f Ⓚ§7 Fishing Lv. Min: §f10
+§aNemract Citizen§6 [Lv. 20]
+§dSeaskipper Merchant
+§bBroken Nemract Guard Golem§6 [Lv. 30]
+§aMerchant Captain§6 [Lv. 5]
+§bNemract Conscript§6 [Lv. 25]
+§cDrunk Property Owner§6 [Lv. 20]
+§7Controlled by §b§lThe Simple Ones§r§7 [Lv. 45]
+§f§lNemract Town
+§2§fNemract Citizen
+§2§fPowder Manual [Chapter 1]
+§2Leucsaa
+§2Mylo
+§cFisherman§6 [Lv. 22]
+§aWillow
+§c✖§f Ⓒ§7 Woodcutting Lv. Min: §f20
+§cTurtle§6 [Lv. 18]
+§cRoaming Zombie§6 [Lv. 20]
+§cBoss Altar
+§6§lRotten Passage
+§c§6[§e✫§6]§c Undead Bovemist§6 [Lv. 22]
+§cSayleros' Brother §f▪§8▪▪▪▪▪▪§6 [Lv. 23]
+§cRoaming Skeleton§6 [Lv. 21]
+§c§6[§e✫§6]§c Angry Skeleton§6 [Lv. 21]
+§cBone Parasite§6 [Lv. 17]
+§7[§2✤Weak §7]
+§7[§c✹Weak §b❉Dam §2✤Def§7]
+§2§lUnderworld Crypt
+§6Dungeon
+§7Level: §f27
+§7Difficulty: §eMedium
+§2General Graken
+§f§lAncient Nemract
+§cUndead Commander§6 [Lv. 21]
+§7[§f❋Weak §2✤Dam §c✹Def§7]
+§dKey Collector
+§dDungeon Merchant
+§cUnderworld Crypt Key Guardian§6 [Lv. 27]
+§cAncient Nemract Soldier§6 [Lv. 25]
+§2Merloni
+§7[§e✦Weak §b❉Dam §7]
+§cBiting Bug§6 [Lv. 19]
+§7[§2✤Weak §b❉Dam §f❋Def§7]
+§cDrowning Fish§6 [Lv. 19]
+§f§lDetlas Trail East Plains
+§7[§f❋Weak §2✤Dam §7]
+§cMudslinger§6 [Lv. 18]
+§aBirch
+§c✖§f Ⓒ§7 Woodcutting Lv. Min: §f10
+§aSuburbs Farmer§6 [Lv. 10]
+§aDetlas Citizen§6 [Lv. 10]
+§aDetlas Watchman§6 [Lv. 10]
+§bDetlas Soldier§6 [Lv. 20]
+§aPack Mule§6 [Lv. 13]
+§aSheep§6 [Lv. 1]
+§2§fDetlas Citizen
+§aTravelling Merchant§6 [Lv. 10]
+§cZombie§6 [Lv. 10]
+§dTicket Merchant
+§f§lDetlas Close Suburbs
+§2Captain Fenor
+§bDetlas Guard Golem§6 [Lv. 20]
+§2§fEvent Airship Pilot
+§cZombie§6 [Lv. 13]
+§bElite Soldier§6 [Lv. 100]
+§aReceptionist§6 [Lv. 75]
+§bDetlas Guard§6 [Lv. 20]
+§2Calo
+§cZombster§6 [Lv. 12]
+§cZombster§6 [Lv. 14]
+§cZombster§6 [Lv. 11]
+§4§lEXIT
+§cZombster§6 [Lv. 15]
+§f§lNether Plains Lower
+§cCorrupt Stone§6 [Lv. 25]
+§cLava Infused Miner§6 [Lv. 19]
+§2Jorkin
+§cNether Wight§6 [Lv. 28]
+§eLost Sanctuary Key Guardian§6 [Lv. 21]
+§bRoyal Guard§6 [Lv. 25]
+§2§fRagni Guard
+§2The Cook
+§2§fOtium
+§7Controlled by §b§lBlacklisted§r§7 [Lv. 61]
+§f§lRagni Main Entrance
+§a§lWood Refinery
+§7Left-Click to refine §fⒸ Logs§7 into
+§7§fⒾⒼ Wood§7 or §fⒺⒽ Paper
+§a§lFish Refinery
+§7Left-Click to refine §fⓀ Fish§7 into
+§7§fⒶ Meat§7 or §fⒺⒹⓁ Oil
+§cBoar§6 [Lv. 8]
+§cZombie Pigman§6 [Lv. 8]
+§cZombie Grook§6 [Lv. 5]
+RaveGhostTestBone
+RaveGhostTestMain
+§bItem Identifier
+§7[TiToDaCroN]
+§dx2 §7[§f+§d14§f Combat XP§7]
+§cFlame Grilling Swine§6 [Lv. 8]
+§f§lEmerald Trail
+§bHired Mercenary§6 [Lv. 10]
+RaveGhostTestBook
+RaveGhostTestWool
+§a✔§f Ⓙ§7 Farming Lv. Min: §f1
+§dx2 §7[§f+§d16§f Combat XP§7]
+§cTruffle Sniffer§6 [Lv. 10]
+§cZombie§6 [Lv. 5]
+§cMutant Zombie§6 [Lv. 5]
+§cFoul Bat§6 [Lv. 4]
+§cMutated Villager§6 [Lv. 3]
+§aWheat
+§dx2 §7[§f+§d18§f Combat XP§7]
+§a§lCrop Refinery
+§7Left-Click to refine §fⒿ Crops§7 into
+§7§fⒾⒻ Strings§7 or §fⓁⒶ Grains
+§cFire Zombie§6 [Lv. 5]
+§cSludge Slinger§6 [Lv. 6]
+§a§lOre Refinery
+§7Left-Click to refine §fⒷ Ores§7 into
+§7§fⒼⒻⒽ Ingots§7 or §fⒹ Gems
+§dx2 §7[§f+§d8§f Combat XP§7]
+§dx2 §7[§f+§d4§f Combat XP§7]
+§cZombie§6 [Lv. 7]
+§dx2 §7[§f+§d12§f Combat XP§7]
+§6[§e|||Ch§8opping|||§6]
+§6[§e|||Chop§8ping|||§6]
+§6[§e|||Choppi§8ng|||§6]
+§2[§a|||Chopping|§8||§2]
+§2[§a|||Chopping|||§2]
+§2[§a+1§2 Unprocessed Oak Log]
+§dx2 §7[+§d22§f Ⓒ§7 Woodcutting§7 XP] §6[100%]
+§dx2 §7[§f+§d24§f Combat XP§7]
+§dx2 §7[§f+§d20§f Combat XP§7]
+§6[§e|||Cho§8pping|||§6]
+§6[§e|||Chopp§8ing|||§6]
+§6[§e|||Chopping§8|||§6]
+§2[§a|||Chopping||§8|§2]
+§dx2 §7[+§d20§f Ⓒ§7 Woodcutting§7 XP] §6[63%]
+§dx2 §7[+§d20§f Ⓒ§7 Woodcutting§7 XP] §6[100%]
+§dx2 §7[+§d18§f Ⓒ§7 Woodcutting§7 XP] §6[51%]
+§c§6[§e✫§6]§c Rotten Zombie§6 [Lv. 5]
+§dx2 §7[+§d20§f Ⓒ§7 Woodcutting§7 XP] §6[93%]
+§cForest Spider§6 [Lv. 5]
+§cDecrepit Sewers Key Guardian§6 [Lv. 9]
+§f§lNivla Forest Entrance
+§7[Jagadis]
+§dx2 §7[§f+§d6§f Combat XP§7]
+§2Therck
+§cYoung Forest Spider§6 [Lv. 3]
+§dx2 §7[+§d24§f Ⓒ§7 Woodcutting§7 XP] §6[71%]
+§cForest Cave Spider§6 [Lv. 5]
+§cZombie Assassin§6 [Lv. 10]
+§6[§e|||Choppin§8g|||§6]
+§dx2 §7[+§d18§f Ⓒ§7 Woodcutting§7 XP] §6[31%]
+§2§aSlaying Post §2[Combat Lv. 5]
+§aMushroom
+§dx2 §7[§f+§d10§f Combat XP§7]
+§dx2 §7[+§d22§f Ⓒ§7 Woodcutting§7 XP] §6[63%]
+§dx2 §7[+§d18§f Ⓒ§7 Woodcutting§7 XP] §6[89%]
+§dx2 §7[+§d18§f Ⓒ§7 Woodcutting§7 XP] §6[100%]
+§dx2 §7[+§d22§f Ⓒ§7 Woodcutting§7 XP] §6[40%]
+§dx2 §7[+§d22§f Ⓒ§7 Woodcutting§7 XP] §6[67%]
+§cFungal Parasite§6 [Lv. 7]
+§dx2 §7[+§d18§f Ⓒ§7 Woodcutting§7 XP] §6[90%]
+§dx2 §7[+§d16§f Ⓒ§7 Woodcutting§7 XP] §6[31%]
+§cFungal Parasite§6 [Lv. 8]
+§dx2 §7[+§d18§f Ⓒ§7 Woodcutting§7 XP] §6[50%]
+§dx2 §7[§f+§d2§f Combat XP§7]
+§dx2 §7[+§d24§f Ⓒ§7 Woodcutting§7 XP] §6[75%]
+§dx2 §7[+§d20§f Ⓒ§7 Woodcutting§7 XP] §6[96%]
+§cStrong Zombie§6 [Lv. 7]
+§dx2 §7[+§d22§f Ⓒ§7 Woodcutting§7 XP] §6[35%]
+§dx2 §7[+§d16§f Ⓒ§7 Woodcutting§7 XP] §6[49%]
+§dx2 §7[+§d20§f Ⓒ§7 Woodcutting§7 XP] §6[89%]
+§cNesting Spider§6 [Lv. 8]
+§dx2 §7[+§d24§f Ⓒ§7 Woodcutting§7 XP] §6[23%]
+§2Ope
+§dx2 §7[+§d20§f Ⓒ§7 Woodcutting§7 XP] §6[39%]
+§dx2 §7[+§d18§f Ⓒ§7 Woodcutting§7 XP] §6[53%]
+§dx2 §7[+§d20§f Ⓒ§7 Woodcutting§7 XP] §6[68%]
+§dx2 §7[+§d24§f Ⓒ§7 Woodcutting§7 XP] §6[87%]
+§dx2 §7[+§d18§f Ⓒ§7 Woodcutting§7 XP] §6[16%]
+§7[Left click to harvest]
+§2[§aHarvest Saccharum§2]
+§cSpider Egg§6 [Lv. 6]
+§fRight-click to add
+§fGet §a[Saccharum]
+§fto open the door
+§a0§2/1
+§f§lNivla Forest
+§dx2 §7[+§d18§f Ⓒ§7 Woodcutting§7 XP] §6[28%]
+§dx2 §7[+§d22§f Ⓒ§7 Woodcutting§7 XP] §6[43%]
+§dx2 §7[+§d22§f Ⓒ§7 Woodcutting§7 XP] §6[58%]
+§dx2 §7[+§d24§f Ⓒ§7 Woodcutting§7 XP] §6[74%]
+§dx2 §7[+§d22§f Ⓒ§7 Woodcutting§7 XP] §6[89%]
+§dx2 §7[+§d24§f Ⓒ§7 Woodcutting§7 XP] §6[16%]
+§7[Mordlustige]
+§dx2 §7[§f+§d30§f Combat XP§7]
+§7[mirdar]
+§dx2 §7[§f+§d42§f Combat XP§7]
+§dx2 §7[§f+§d28§f Combat XP§7]
+§dx2 §7[§f+§d22§f Combat XP§7]
+§7[TheMysticalWolf]
+§dx2 §7[+§d18§f Ⓒ§7 Woodcutting§7 XP] §6[26%]
+§dx2 §7[+§d22§f Ⓒ§7 Woodcutting§7 XP] §6[39%]
+§7[BullseyeCool]
+§dx2 §7[§f+§d206§f Combat XP§7]
+§cFrosttooth§6 [Lv. 40]
+§aCinfras Citizen§6 [Lv. 75]
+§f§lCinfras
+§7Controlled by §b§lImperial§r§7 [Lv. 73]
+§7on the market
+§cTrade Market
+§7Buy & sell items
+§2§fCinfras Citizen
+§aStray Cat§6 [Lv. 5]
+§aRoyal Swan§6 [Lv. 70]
+§dLiquid Merchant
+§bSiegfried Figurine
+§dSiegfried Fan Item Merchant
+§2Rohem
+§2§fChild
+§2§fMother
+§2Letter
+§2Sasha The Apothecary
+§bScotch§6 [Lv. 75]
+§aOdd Package§6 [Lv. 1]
+§aCinfras Bovemist§6 [Lv. 75]
+§fWilliam & Balls§7 [Bensky]
+§2§fDave
+§bLlevigar Guard§6 [Lv. 50]
+§aEmerald Trader§6 [Lv. 40]
+§aLlevigar Citizen§6 [Lv. 40]
+§2§fLlevigar Citizen
+§aGardener§6 [Lv. 40]
+§aCinfras Tourist§6 [Lv. 70]
+§7Controlled by §b§lEmorians§r§7 [Lv. 66]
+§f§lLlevigar
+§2Captain Kymer
+§7[§b❉Dam §7]
+§bLlevigar High Mage§6 [Lv. 50]
+§2§aSlaying Post §2[Combat Lv. 45]
+§f§lLlevigar Gate East
+§cOrc Sentinel§6 [Lv. 45]
+§aSuspicious Crate§6 [Lv. 40]
+§aOld Farmer§6 [Lv. 30]
+§aSweet Fairy§6 [Lv. 45]
+§f§lLlevigar Farm Plains East
+§f§lLlevigar Plains West Lower
+§cWarg§6 [Lv. 40]
+§cLlevigar Wild Horse§6 [Lv. 40]
+§cOrc Drudge§6 [Lv. 41]
+§7Controlled by §b§lEmorians§r§7 [Lv. 67]
+§cOrc Berserker§6 [Lv. 46]
+§cOrc Bloodrager§6 [Lv. 48]
+§cOrc Warrior§6 [Lv. 44]
+§ePlains Brigand§6 [Lv. 45]
+§cOrc Shaman§6 [Lv. 40]
+§f§lNesaak Transition
+§aGrook§6 [Lv. 7]
+§2§fBasement Dweller
+§2The Banker
+§2Lil
+§aPrivate Pilot§6 [Lv. 10]
+§f§lDetlas
+§7Controlled by §b§lHentedForums§r§7 [Lv. 35]
+§aFire Powder Spirit§6 [Lv. 1]
+§2§fOld Journal
+§bBarrack Guard§6 [Lv. 30]
+§dx2 §7[+§d20§f Ⓒ§7 Woodcutting§7 XP] §6[51%]
+§cSaw-tooth Spider§6 [Lv. 10]
+§cStalker Spider§6 [Lv. 10]
+§dx2 §7[+§d22§f Ⓒ§7 Woodcutting§7 XP] §6[64%]
+§7[Eclipsea_Sol]
+§dx2 §7[+§d18§f Ⓒ§7 Woodcutting§7 XP] §6[75%]
+§dx2 §7[+§d22§f Ⓒ§7 Woodcutting§7 XP] §6[88%]
+§dx2 §7[+§d18§f Ⓒ§7 Woodcutting§7 XP] §6[99%]
+§f§lNorth Nivla Forest
+§dx2 §7[+§d24§f Ⓒ§7 Woodcutting§7 XP] §6[100%]
+§cZombie§6 [Lv. 17]
+§cInfested Pit Key Guardian§6 [Lv. 18]
+§cMagma Slime§6 [Lv. 20]
+§cGullum§6 [Lv. 1]
+§cAngry Nomad§6 [Lv. 4]
+§2Captain Enduyn
+§dx2 §7[§f+§d152§f Combat XP§7]
+§cSpider Guard§6 [Lv. 16]
+§7Difficulty: §aEasy
+§7Level: §f18
+§4§lInfested Pit
+RaveAquaductWater2
+RaveAquaductWater
+§bNomad§6 [Lv. 5]
+aqueCorpse
+§aRubble§6 [Lv. 1]
+§cSpider Egg§6 [Lv. 20]
+§cSpitter Spiderling§6 [Lv. 16]
+§7Right-click to add
+§7to open the door
+§a0§2/26
+§7Get §e[26 Tokens]
+§c§lSLAY!
+§eSpider Egg§6 [Lv. 20]
+§cEerie Spiderling§6 [Lv. 20]
+droppeditamsdads
+§dx2 §7[§f+§d48§f Combat XP§7]
+man55
+§cNewborn Creepling§6 [Lv. 18]
+§7[§2✤Weak §f❋Def§7]
+§cPremature Creepling§6 [Lv. 18]
+§cBloodcurling Arachne§6 [Lv. 20]
+§dx2 §7[§f+§d36§f Combat XP§7]
+§a1§2/26
+§a2§2/26
+§a3§2/26
+§a4§2/26
+§a5§2/26
+§a6§2/26
+§a7§2/26
+§a8§2/26
+§a9§2/26
+§a10§2/26
+§a11§2/26
+§a12§2/26
+§a13§2/26
+§cSticky Arachne§6 [Lv. 16]
+§dx2 §7[§f+§d52§f Combat XP§7]
+§dx2 §7[§f+§d54§f Combat XP§7]
+§a14§2/26
+§a15§2/26
+§a16§2/26
+§a17§2/26
+§a18§2/26
+§a19§2/26
+§a20§2/26
+§a21§2/26
+§a22§2/26
+§a23§2/26
+§a24§2/26
+§a25§2/26
+§a26§2/26
+§dx2 §7[§f+§d46§f Combat XP§7]
+§cImmature Spider Egg§6 [Lv. 20]
+§cArakadicus Child§6 [Lv. 17]
+§a0§2/20
+§7Get §e[20 Tokens]
+§dx2 §7[§f+§d34§f Combat XP§7]
+§a1§2/20
+§a2§2/20
+§a3§2/20
+§a4§2/20
+§a5§2/20
+§a6§2/20
+§a7§2/20
+§a8§2/20
+§a9§2/20
+§a10§2/20
+§a11§2/20
+§a12§2/20
+§a13§2/20
+§a14§2/20
+§a15§2/20
+§a16§2/20
+§a17§2/20
+§a18§2/20
+§a19§2/20
+§a20§2/20
+§cSinister Arachne§6 [Lv. 20]
+§cArakadicus§6 [Lv. 25]
+§7[§f❋Weak §2✤§e✦Dam §2✤Def§7]
+§cArakadicus Child§6 [Lv. 15]
+§dx2 §7[§f+§d1098§f Combat XP§7]
+§f§lNemract Plains West
+§cMuddy Zombie§6 [Lv. 22]
+§cSilt Formation§6 [Lv. 19]
+§cBubbling Mud Pile§6 [Lv. 17]
+§cSlimy Swamp Zombie§6 [Lv. 21]
+§cRat§6 [Lv. 3]
+§bNemract Guard Golem§6 [Lv. 30]
+§2§fHarv
+§2Drucksh
+§2§fMarlow
+§2§fRagamal
+Violet Wybel
+§7[MrAktiv]
+§aGudgeon
+§a✔§f Ⓚ§7 Fishing Lv. Min: §f1
+§7Controlled by §b§lBoosak§r§7 [Lv. 18]
+§f§lPlains Lake
+§cBlack Bat§6 [Lv. 20]
+§c§5[§d❃§5]§c Soul Corrupter§6 [Lv. 30]
+§7[§f❋§b❉Weak §2✤§e✦Dam §2✤§e✦Def§7]
+§f§lNesaak Plains South East
+UndericeFishRandomizer
+§2Gernald
+§c✖§f Ⓚ§7 Fishing Lv. Min: §f40
+§aIcefish
+§7[§c✹Weak §2✤Dam §b❉Def§7]
+§e§5[§d❃§5]§e Treant Sorcerer§6 [Lv. 43]
+§7[§c✹Weak §b❉Dam §b❉Def§7]
+§cThawing Ice Zombie§6 [Lv. 45]
+§cThawing Snow Zombie§6 [Lv. 45]
+§6§lPrison of Souls
+§2Excavator Lykron
+§aExcavator§6 [Lv. 40]
+§cFrozen Spirit§6 [Lv. 43]
+§7[§c✹Weak §f❋Dam §7]
+§f§lTwain Lake
+§2Flendar
+§7[§e✦Weak §b❉Dam §c✹Def§7]
+§cWater Phantom§6 [Lv. 47]
+§7[§e✦Weak §b❉Dam §f❋§b❉Def§7]
+§cLost Soul§6 [Lv. 49]
+§2Twendle
+§cHeadless Horseman§6 [Lv. 48]
+§cRestless Armour§6 [Lv. 45]
+§cDisembodied Head§6 [Lv. 44]
+§cCavalry Specter§6 [Lv. 46]
+§cHowling Phantom§6 [Lv. 50]
+mobTwoChecker
+§f§lTwain Mansion
+mobThreeChecker
+§cPhantom§6 [Lv. 48]
+§7[§2✤Weak §e✦Dam §f❋Def§7]
+§cAnimated Painting§6 [Lv. 46]
+§7[§2✤Weak §e✦Dam §7]
+§2Alem
+HaunterX3
+sd
+jbox2
+jboxar4
+HW16Peeping
+jbox
+villpt0
+Arm
+§aSevered Arm§6 [Lv. 1]
+aaronboulder3
+aaronboulder2
+aaronboulder1
+§cThief§6 [Lv. 43]
+§2???
+§cGoblin Sharpshooter§6 [Lv. 40]
+§cOrc Raider§6 [Lv. 42]
+§cOgre Skirmisher§6 [Lv. 50]
+§aTalented Farmer§6 [Lv. 30]
+§aFishing Rod§6 [Lv. 0]
+§a§aRaw Fish§6 [Lv. 0]
+§6§lBovine Barn
+vitunpaska
+§f§lDurum Isles Center
+§7Controlled by §b§lPaladins United§r§7 [Lv. 73]
+§aDurum Cow§6 [Lv. 20]
+§aDurum Farmer§6 [Lv. 25]
+§2Damiral
+§aGavel Sailor§6 [Lv. 40]
+merkiblooperdooper
+§f§lPirate Town
+piraattipuhemies
+CraterTrap1
+CraterTrap3
+CraterTrap4
+CraterTrap5
+CraterTrap6
+CraterTrap7
+§2Argus
+§2Martim
+§2Karkun
+§2§fPirate
+§2Javier
+§dHook Merchant
+§cDead Pirate Guard§6 [Lv. 70]
+§cDead Pirate§6 [Lv. 62]
+§ePirate§6 [Lv. 60]
+§aJungle
+§c✖§f Ⓒ§7 Woodcutting Lv. Min: §f50
+§cFaded Map§6 [Lv. 1]
+peppupersepano
+poopyshitbag
+§aPiranha
+§c✖§f Ⓚ§7 Fishing Lv. Min: §f50
+RaveOrcMarker
+§f§lOrc Lake
+§cGoblin Cutter§6 [Lv. 40]
+§cGoblin Warrior§6 [Lv. 42]
+§f§lOrc Road
+§7[§b❉Weak §2✤Dam §7]
+§cAnimated Ore§6 [Lv. 44]
+§cBloodweb Spider Broody§6 [Lv. 45]
+§aCarp
+§c✖§f Ⓚ§7 Fishing Lv. Min: §f30
+§cInsane Thief§6 [Lv. 45]
+§7[§2✤Weak §b❉§e✦Dam §7]
+§cMeteoric Energy§6 [Lv. 43]
+§a§kMeteor Shard§6 [Lv. 45]
+§cDeathjump Spider§6 [Lv. 48]
+§aLlevigar Citizen§6 [Lv. 47]
+§2Agent
