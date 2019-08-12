@@ -135,7 +135,7 @@
 #######################Команды/Системные сообщения#############################
 You can skip the tutorial by typing: /skiptutorial. You will not receive resources, tools, or a crafted item by doing this.@§cТы можешь пропустить туториал командой /skiptutorial. Ты не получишь ресурсы, инструменты, или крафтовые предметы, сделав это.
 
-##########################Квесты#########################################
+##########################Квесты/Данжи#########################################
 You must talk to the King first. Right-click on him to start a conversation@§7Ты должен сначала поговорить с Королем. Правый клик по нему, чтобы начать разговор.
 The old man whispers you the password...@§7Старый человек прошептал тебе пароль...
 Sneak around in the darkness, and they will not see you...@§7Спрячься в темноте и они не увидят тебя...
@@ -265,14 +265,6 @@ Using the wooden board, center piece, and string, along with the tools at the wo
 Using the ingredients you acquired, you make a peculiar-looking stew. It'll have to do, you should bring it to Relend.@§7Используя эти ингредиенты, ты приготовил неплохо выглядящее рагу. Отнеси часть Relend'у.
 This tent is far too damaged for use. Maybe Relend has other ideas for where to stay.@§7Эта палатка слишком поломана, чтобы в ней спрятаться. Может у Relend'а есть другие идеи.
 This boulder is too large to move! Maybe Relend has another solution...@§7Камень слишком большой, чтобы его подвинуть! может Relend подскажет решение...
-
-########################################Дискавери####################################################
-
-
-
-
-
-
 Using the sand, saw dust, and black powder, you craft a makeshift explosive. Take it to the boulder so you can destroy it.@§7Используя песок, опилки и порох ты изготовил кустарную взрывчатку. Самое время взорвать камень.
 Now that you have the explosive, place it in front of the boulder.@§7Поставь эту взрывчатку рядом с камнем и нажми на кнопку.
 It looks like a portal, you should definitely take a look inside.@§7Похоже что это портал, ты должен проверить, что там внутри.
@@ -293,10 +285,9 @@ Ollie reaches under the desk and produces a dusty tome labelled 'Magical Sight'@
 I'm sorry dads. I am going to go help this poor sick man outside the city. I'll be leaving through the North gate. I'll be back as soon as I can!@§7Простите, отцы. Я должен помочь одному человеку снаружи города. Я ухожу через северные ворота. Я вернусь так быстро, как смогу!
 The chest contains a leather bound notebook titled 'Diary: By Sasha The Apothecary'. Perhaps the gardener has something to say about this.@§7В сундуке ты нашел тетрадь в кожаном переплете под названием 'Дневник: Sasha Аптекарь'. Возможно, садовник хочет что-то сказать по этому поводу
 A few hours of sleep later...@§7После пары часов сна...
-You wake up when you hear a sudden, loud sound...@§7Вы проснулись от внезапного, громкого звука...
+You wake up when you hear a sudden, loud sound...@§7Ты проснулсяот внезапного, громкого звука...
 After a few hours of sleep...@§7После нескольких часов сна...
-You fall onto the balloon, and make your way back to the ship...@§7Вы падаете на воздушном шаре, найдите способ вернуться на корабль...
-2, 1, 5, 3, 6, 4@§72, 1, 5, 3, 6, 4
+You fall onto the balloon, and make your way back to the ship...@§7Ты падаешь на воздушном шаре, найдите способ вернуться на корабль...
 Rynver is pointing towards the deep hole behind him and then back at himself.@§7Rynver показывает рукой в сторону глубокой дыры позади него, а затем обратно на себя.
 Rynver slides the dentures back into his mouth.@§7Rynver вставляет зубной протез обратно в рот.
 Rynver's teeth fall out of his mouth as he talks.@§7Зубы Rynverа выпадают изо рта, когда он заканчивает говорить
@@ -317,30 +308,22 @@ More spirits are appearing as you walk through the cave.@§7Еще больше 
 You can feel your ear ringing as the banshee howls eeriely.@§7Ты чувствуешь, как звенят твои уши, когда Банши воет поблизости.
 You successfully broke through the cobwebs.@§7Ты успешно пробрался через паутину
 Seems like something is going on at the tomb.@§7Похоже что-то происходит у данжа.
-Maybe you can find out more by talking to her?@§7Может тебе удастся узнать больше ,если поговорить с ней?
+Maybe you can find out more by talking to her?@§7Может тебе удастся узнать больше, если поговорить с ней?
 Looks like this is the room the journal is kept in...@§7Похоже, это та комната, в которой находится журнал...
-Talk to Geo and Tarek outside the mansion.@§7Поговори с Tarek'ом и Geo снаружи поместья.
-Enter the cart.@§7Войди в карету.
 Seems like there's a discussion going on...@§7Похоже, тут кто-то с кем-то дискутирует...
 Seems like the cart that was talked of might be worth a look...@§7Похоже на повозку, про которую шел разговор, стоит взглянуть...
 Seems like that note might give you a clue...@§7Похоже, что эта записка дала тебе зацепку...
 You should probably return to the tomb now.@§7Тебе лучше вернуться назад к данжу.
-"By scorching heat and shifting sand, break the barrier that seals this land!"@§7"Под палящим пеклом и зыбучим песком, сломай барьер, что запечатал эту землю!"
 It doesn't look like he can speak. His throat looks terribly swollen. You offer him the bottle...@§7Не похоже, что он может говорить. У него ужасно распухло горло. Ты предлагаешь ему бутылку...
 He snatches it out of your hands and chugs the entire bottle down. You can see the swelling reduce, and color return to his face.@§7Он выхватывает ее у тебя из рук и выпивает всю бутылку. Ты можешь видеть, как опухоль уменьшается, и цвет возвращается к его лицу."
-Mysterious Gemstone@§7Мистический драгоценный камень
 You realize you should probably make sure Aryn is all right before continuing...@§7Тебе нужно удостовериться, что с Aryn все в порядке, прежде чем уйти...
-You should tell Grandon about your discoveries@§7Ты должен рассказать Grandon'у о своих находках
-The carpet of different colour will show you the stone to reveal the tables secret.@§7Ковер различного цвета покажет тебе камень, чтобы раскрыть секрет стола.
 You should tell Grandon about your discoveries@§7Ты должен рассказать Grandon'у о своих находках
 This must be Santa's village, you should probably look for him.@§7Это должно быть деревня Sant'ы. Нужно найти его.
 The portal brought you to Detlas, the ball must be nearby.@§7Портал перенес тебя в Detlas, бальный зал должен быть где-то рядом.
 To learn the story of the Caritat family, you must experience what happened here many years ago...@§7Чтобы узнать историю семьи Caritat, ты должен испытывать то же, что произошло здесь много лет назад...
 This check is made out to a charity for a lot of emeralds.@§7Этот чек был выписан на благотворительность, в нем большая сумма эмеральдов.
 He seems to be very engrossed in his writing.@§7Похоже он очень увлечен своим писанием.
-me@§7мне
-(opening the Library Door)@§7(Открывая Library Door)
-Using the Library key, you open the lock. You may now use this door.@§7Используя библиотечный ключ, вы открыли замок. Теперь вы можете пользоваться этой дверью.
+Using the Library key, you open the lock. You may now use this door.@§7Используя библиотечный ключ, ты открыл замок. Теперь ты можешь пользоваться этой дверью.
 It appears that all of the pages have been torn out...@§7Похоже, что все страницы были вырваны...
 Page 1: Today was my first day as the butler for the Caritat family. They gave me quite a warm welcome. I think I'm going to like it here.@§7Page 1: Сегодня был мой первый день в качестве дворецкого в семье Caritat. Они тепло меня приняли, и думаю, что я останусь здесь надолго
 Page 2: The Caritats are as nice as people say. They're some of the kindest people I've ever met, let alone work for.@§7Page 2: Caritat так же хороши, как о них говорят. Они одни из самых добрых людей, которых я когда-либо встречал, не говоря уже о работодателях.
@@ -350,19 +333,18 @@ Page 5: I don't even know how this happened, but Timmy performed dark magic. He 
 You begin to experience visions of how this charred hole came to be...@§7У тебя начинают возникать видения того, как эта обугленная дыра здесь появилась...
 What's this spoon doing in the fireplace? Maybe you should bring it back to the Kitchen to find out where it came from.@§7Что эта ложка делает в камине? Может, тебе стоит принести ее обратно на кухню, чтобы выяснить, откуда она взялась
 Looks like there's a dinner party, and several residents of Gelibord have been invited! It appears Mr. Caritat is about to make an announcement.@§7Похоже, там праздничный ужин, и несколько жителей Gelibord'а были приглашены! Все ждут, когда мистер Caritat сделает объявление
-slight@§7небольшие
 It appears everyone has fled. Perhaps you should see what the remaining people are talking about...@§7Оказывается все сбежали. Возможно, ты должен расспросить, что остальные люди говорят об этом...
-Using the Study Key, you open the lock. You may now use this door.@§7Используя ключ от кабинета, вы открыли замок, теперь можно пользоваться этой дверью
+Using the Study Key, you open the lock. You may now use this door.@§7Используя ключ от кабинета, ты открыл замок, теперь можно пользоваться этой дверью
 Page 1: DEATH DEATH DEATH DEATH DEATH DEATH DEATH DEATH DEATH DEATH DEATH.@§7Page 1: СМЕРТЬ СМЕРТЬ СМЕРТЬ СМЕРТЬ СМЕРТЬ СМЕРТЬ СМЕРТЬ СМЕРТЬ СМЕРТЬ.
 Page 2: There is a dark power beyond our control within this mansion. There is no use trying to fight it.@§7Page 2: Существует темная сила вне нашего контроля в пределах этого особняка. Нет никакого смысла пытаться бороться с ней.
 Page 3: I felt like all of the skulls were watching me. I had to turn them all towards the fireplace.@§7Page 3: Я чувствовал, что все черепа смотрели на меня. Мне пришлось превратить их всех в камин.
 There doesn't seem to be anything of interest in this room, although Mr. Caritat does have some weird hobbies...@§7Там, кажется, нет ничего интересного в этой комнате... Хотя, у господина Caritat действительно странные увлечения...
 Dear Anton, the chandelier fell in the main hall. Please fix it as soon as possible.@§7Уважаемый Антон, упала люстра в главном зале. Просьба исправить это как можно скорее.
 Looks like this key belonged to Timmy. How long has this been here? You should probably bring it back to his bedroom.@§7Похоже, этот ключ принадлежал Timmy. Как давно он здесь? Тебе, вероятно, следует вернуть его в спальню.
-Using Timmy's Bedroom Key, you open the lock. You may now use this door.@§7Используя ключ к спальне Timmy, вы открыли замок. Теперь вы можете пользоваться этой дверью.
+Using Timmy's Bedroom Key, you open the lock. You may now use this door.@§7Используя ключ к спальне Timmy, ты открыл замок. Теперь ты можешь пользоваться этой дверью.
 Was that Timothy as a child? Must have been at an earlier time. Seems there's a hole where he scratched the wall, there might be something inside...@§7Это был Timmy? Должно быть это происходило в прошлом. Кажется есть дыра, где он поцарапал стену. Там может быть что-то внутри...
 How did the Master Bedroom key even get in here? No matter, you ought to get this over to the Master Bedroom.@§7Как здесь оказался этот ключ от главной спальни? Неважно, надо принести его в хозяйскую спальню.
-Using the Master Bedroom Key, you open the lock. You may now use this door.@§7Используй ключ от главной спальни, вы открыли замок. Теперь вы можете пользоваться этой дверью.
+Using the Master Bedroom Key, you open the lock. You may now use this door.@§7Используй ключ от главной спальни, ты открыл замок. Теперь ты можешь пользоваться этой дверью.
 The entire mansion is on fire! The only exit is through the large door at the back!@§7Поместье охватило огнем! Единственный выход - через большую дверь в задней части дома!
 Is that Mister Caritat? You're going to have to take him down before you leave!@§7Это мистер Caritat? Похоже тебе придется уничтожить его, прежде чем уйти!
 With the entire Caritat family dead, and the flames engulfing the structure, the mansion slowly fell into decay...@§7После убийства семьи Caritat, и потухшего пожара, особняк стал медленно приходить в упадок...
@@ -371,17 +353,16 @@ It seems like the only way to get to the cliff on the other side is this airship
 After witnessing your crash into the cliff, A Corkian citizen informed the government.@§7Похоже, единственный способ забраться на скалу это этот шар, и вероятно огонь сделал его непригодным для использования... или нет?
 Shortly after your victory security forces found the hideout and arrested the remaining separatists.@§7После того, как ты врезался в скалу, видевший это житель Corkus'а доложил об этом правительству.
 Their leader was nowhere to be found.@§7Сразу же после твоей победы стражи порядка нашли, где укрывались оставшиеся ‘патриоты' и арестовали их.
-Eminar@§7Eminar'а
 Employer: Scientist Ynnos.@§7Работодатель: Ученый Ynnos.
 Job Description: Manual labour, exploration, protection.@§7Описание работы: Ручной труд, исследования, защита.
 Location: Ahmsord Research facility [1118, 101, -4520].@§7Расположение: Исследовательский центр Ahmsord'a [1118, 101, -4520].
-Reward: Should you survive, 5LE.@§7Награда: Если выживете - 32 EB.
+Reward: Should you survive, 32 EB.@§7Награда: Если выживете - 32 EB.
 It looks like everyone already went inside the submarine.@§7Похоже, что все уже внутри на подлодке.
 After successfully fixing the rope you find one leftover piece, you should give it to the mechanic.@§7После успешной починки цепи, у тебя остался один лишний кусочек. Отдай его механику.
 You wake up after a little nap.@§7Ты проснулся после небольшого сна.
 The area seems to be filled with junk that has fallen from Ahmsord.@§7Вся территория забита мусором, который упал из Ahmsord'a.
 The crystal must have fallen deeper.@§7Должно быть кристалл упал еще глубже.
-Although some parts broke, you succeeded in protecting the windshield.@§7Хоть некоторые части стекла и треснули, но вы успешно защитили лобовое стекло.
+Although some parts broke, you succeeded in protecting the windshield.@§7Хоть некоторые части стекла и треснули, но ты успешно защитил лобовое стекло.
 A voice wakes you up.@§7Голос разбудил тебя.
 Report to the sleeping quarters until you reach the next island.@§7Сообщи спящим пассажирам, когда достигнете следующего острова.
 The submarine grinds to a halt.@§7Подлодка со скрипом останавливается.
@@ -389,14 +370,6 @@ The crystal you're looking for is purple, not blue.@§7Кристалл что �
 Head back to the submarine and keep looking.@§7Возвращайся на подлодку и продолжай поиски.
 This isn't good. You're the only survivor... You need to continue the mission, it's better to just leave this place...@§7Это не есть хорошо. Ты единственный выживший... Тебе нужно продолжать миссию. Это лучше, чем просто уйти с этого места...
 You see a platform next to the submarine, this is your way out!@§7Ты увидел платформу рядом с разбитой подлодкой, это твой выход наверх!
-Toward the sunset@§7В направлении заката, среди северных цветов в тени кварца
-Among the northern flowers shaded by quartz@§7В направлении заката
-In a place of identity@§7среди северных цветов в тени кварца
-Above the leaves and between the glass@§7В месте идентификации
-In an emerald fountain, surrounded by the wealth of the villagers"': this clue's flag is found on top of the fountain in the plaza outside the bank, above the door to Gavel.@§7Между стеклом и листьями
-Beneath the cowl of the eastern titan@§7В эмеральдном фонтане, в окружении богатств жителей": эта подсказка ведет к фонтану на площади снаружи банка, над дверью в Gavel.
-Throw an emerald onto the bed on the first floor. Turn around and head to the other side of the room and jump down when the floor opens.@§7Сбрось эмеральд на кровать на первом этаже. Повернись назад и увидишь открывшуюся дыру в углу комнаты. Прыгай туда.
-Press the button on the tree at -272 52 -5299 and enter the cave. The path through the little waterfall at the end should be open now@§7Нажми кнопку на дереве на -272/52/-5299 и войди в пещеру, путь через маленький водопад в конце должен быть открыт
 After looking at your map, you conclude that you need to go to [1003,139,-4853] to obtain [Snail Slime].@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1003,139,-4853], чтобы добыть [слизь змеи].
 After looking at your map, you conclude that you need to go to [965,42,-4443] to obtain the [Voidroot].@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [965,42,-4443] чтобы добыть [корень пустоты].
 After looking at your map, you conclude that you need to go to [1217, 126, -4929] to obtain [Zork Rinds] and [Quicksalt]@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1217, 126, -4929], чтобы добыть [шкуру Zork'а] и [быструю соль]
@@ -408,7 +381,7 @@ After looking at your map, you conclude that you need to go to [626,43,-4645] to
 After looking at your map, you conclude that you need to go to [1400,102,-3940] to obtain the [Skyhigh Raspberry].@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1400,102,-3940] чтобы добыть [высокорастущей малины].
 By heavily salting the zork rinds, you have created "double jerky". You throw it into the pot of the boiling water along with the voidroot.@§7Сильно посолив шкуру zork'a, ты приготовил "двойное вяленое мясо". Затем ты забросил это мясо в котел вместе с корнем пустоты.
 Next, you put in the snail slime and stir. After letting it simmer, you notice that the void root has doubled... you carry on anyway.@§7После ты перемешал все это со слизью змеи. Дав этому закипеть, ты заметил, что корень пустоты увеличился вдвое... несмотря на это, ты продолжил.
-You use the frying pan to create an omelette infused with snail slime and topped with mushroom. The mushroom ran away before you could use all of it for the dish.@§7Ты воспользовался сковородкой, чтобы создать омлет со слизью змеи и грибами.Часть грибов сумела убежать прежде, чем ты их приготовил.
+You use the frying pan to create an omelette infused with snail slime and topped with mushroom. The mushroom ran away before you could use all of it for the dish.@§7Ты воспользовался сковородкой, чтобы создать омлет со слизью змеи и грибами. Часть грибов сумела убежать прежде, чем ты их приготовил.
 You use the oven to bake a simple egg and flour dough filled with Skyhigh Raspberries. Smells like... pie?@§7Ты использовал духовку, чтобы запечь муку с яйцом и малиной. Пахнет как... пирог?
 You barely take your first bite into Chef Hamsey's dish before it melts in your mouth... Will the stew manage to match Hamsey's skills?@§7Как только ты сделал первый укус блюда шефа Hamsey, оно растаяло у тебя во рту... Сможет ли твое рагу соответствовать умениям Hamsey?
 You barely take your first bite into Chef Hamsey's dish before it melts in your mouth... Will the omelette manage to match Hamsey's skills?@§7Как только ты сделал первый укус блюда шефа Hamsey, оно растаяло у тебя во рту... Сможет ли твой омлет соответствовать умениям Hamsey?
@@ -436,10 +409,9 @@ It's coming from the west.@§7Он исходит с запада.
 What was that? It seems to have landed nearby, maybe you should go investigate.@§7Что это было? Похоже что-то приземлилось неподалеку. Тебе стоит сходить туда и узнать.
 It seems like the meteor crashed into a cave.@§7Похоже, что метеор упал в пещеру.
 The meteor shard is radiating an odd and unfamiliar magical energy@§7Кусок метеора излучает странную и незнакомую энергию.
-The cave is collapsing! Find a way out, quickly.@§7Пещера обваливается! Найди выход наружу, побыстрее.
+The cave is collapsing! Find a way out, quickly.@§7Пещера обваливается! Найди выход наружу, быстрее.
 Someone stole a piece of meteorite. It's unstable and dangerous..."@§7Кто-то украл кусок метеорита. Он нестабилен и опасен...
 A weird trail leads off to the east, maybe you can retrieve the meteor if you follow it?@§7Странный след ведет на восток. Может получится вернуть метеор, если пойти по нему?
-I can't control myself...@§7Я не могу контролировать себя
 There must still be clues as to what Garoth used to do around here, or elsewhere...@§7Тут должны были остаться старые улики того, что Garoth делал здесь, или где-то еще...
 The book shows a small map of the Nether Portal and the surrounding area, along with a big red X at one of the caves in the south area closest to Elkurn.@§7В книге есть маленькая карта Портала в Ад и близлежащих территорий, вместе с большим красным X на одной из пещер ближе к южной стороне Elkurn'а.
 It seems like this cave entrance has been blocked... What can be done to open it...?@§7Похоже, что этот вход в пещеру заблокирован... Что можно сделать для его открытия...?
@@ -451,7 +423,6 @@ The roots of the tree grasp your feet and plunge you into a mysterious fog.@§7�
 You start to feel weaker as you enter the cave...@§7Ты чувствуешь себя слабее после захода в пещеру...
 It feels as though demons are starting to consume your mind... maybe it wasn't a good idea to enter this place...@§7Ты чувствуешь как демоны медленно проникают в твой разум... может это была не лучшая идея заходить сюда...
 It appears you've been swallowed. You should probably bring the flower to Ozoth's stomach, if you can find a way there. Perhaps there's something at the top of the throat.@§7Похоже тебя проглотили. Ты должен донести цветок к желудку Ozoth, если найдешь туда путь. Возможно, что-то есть сверху у горла.
-exactly@§7такой же
 Oh no! Something has changed. You should hurry back to Psilo.@§7Ох, нет! Что-то пошло не так. Ты должен быстрее вернуться к Psilo.
 Oh no! The shrinking effects have worsened!@§7О нет! Эффект уменьшения усугубился!
 Your surroundings shrink around you.@§7Окружение сжимается вокруг тебя.
@@ -490,15 +461,13 @@ To Hilan.@§7Для Hilan'a.
 Hello! This is Engineer Buine. I have installed the "STOP ENGINE" button, just like you asked.@§7Привет! Это инженер Buine. Я установил кнопку остановки двигателя "STOP ENGINE", как ты и просил.
 It was supposed to be in the cargo hold, right? That room by the stairs? Anyways, it's there.@§7Она должна быть в грузовом отсеке, верно? В комнате по лестнице? Неважно, она уже там.
 My job is done, I'll be expecting my payment by this time next week.@§7Моя работа завершена, так что жду оплаты на следующей неделе.
-Cell Key@§7Ключом от клетки
 The blood is still fresh. This can't be good. Looks like the blood is leading to that narrow tunnel in the back of the cell. I should check it out.@§7Кровь еще свежая. Это не хорошо. Похоже, кровь ведет в тоннель позади клетки. Ты должен проверить.
-Barricade Key@§7Ключ от баррикады
 The barricade opens before you, as you put the key in the keyhole. You may go now.@§7Баррикада открылась, как только ты приложил ключ к ней. Можешь идти.
-The note says that the battery farm is located under Jitak's house. Start by investigating his house!@§7В заметке написано, что птицефабрика находится под домом Jitak'a . Посети его дом!
+The note says that the battery farm is located under Jitak's house. Start by investigating his house!@§7В заметке написано, что птицефабрика находится под домом Jitak'a. Посети его дом!
 As you try to enter the farmer's house, the iron golem pushes you back. Find a way around!@§7При попытке зайти в дом фермера, железный голем отталкивает тебя. Найди другой путь!
 The power has been turned off. The gert can now escape.@§7Энергия отключена. Герт теперь может сбежать.
-The light dog lunges towards you!@§7Собака света напала на вас!
-The seed must have hatched! But if something hatched from the seed... then where did it go?@§7Семя выглядит так, как будто кто-то вылупился из него! Но если он вылупился...куда же он делся?
+The light dog lunges towards you!@§7Собака света напала на тебя!
+The seed must have hatched! But if something hatched from the seed... then where did it go?@§7Семя выглядит так, как будто кто-то вылупился из него! Но если оно вылупилось...куда же оно делось?
 There is a lot of blood and destruction here... Perhaps the farmer can tell you more.@§7Здесь полно крови и разрушений... Возможно, фермер расскажет тебе больше.
 This cave must lead to the secret dwarven vaults. But walking there would probably take a while...@§7Это пещера ведет в секретное хранилище гномов. Но вход туда может занять некоторое время...
 Dodegar carefully selects the finest piece of wood from the pile, and begins carving.@§7Dodegar осторожно выбрал хорошие куски из этой кучи, и начал строгать.
@@ -506,11 +475,7 @@ Dodegar carefully examines each bar of iron and selects a single iron bar from t
 Dodegar begins sharpening the blade as he said that.@§7Dodegar начинает затачивать лезвие, как он и говорил
 As Dodegar says that, he quickly grabs the blood and performs a strange ritual.@§fКак Dodegar сказал, он берет кровь и совершает странный ритуал.
 The Grootslang lies dead on the floor, it looks like it has small bite marks all over it.@§7Grootslang лежит мертвым на полу, похоже у него следы укусов по всему телу.
-Kill the mobs.@§7Убей мобов.
-Defend Miner Linton by killing all the Zombies.@§7Защити Miner Linton'а, убив всех зомби.
-Continue clearing the cave.@§7Продолжай очищать пещеру.
 Open the gates of the cow pens to free them! Don't let the farmer see you!@§7Открой ворота в загонах коров, чтобы освободить их! Не позволяй фермеру увидеть себя!
-Free the cows.@§7Освободи коров.
 You were caught! Try again!@§7Тебя поймали! Попробуй снова!
 Looks like you freed the cows successfully. You should return back to Drale.@§7Похоже, ты успешно освободил коров. Тебе нужно вернуться к Drale.
 Push the raft.@§7Нажми на плот.
@@ -526,11 +491,10 @@ The ancients placed some of that power in various crystals, and it is said that 
 You shouldn't enter without the rat poison to kill the corrupt beast! Get a crate from the stack by the farmer's house!@§7Ты не должен заходить без крысиного яда, чтобы убить испорченного паразита! Возьми контейнер из кучи у дома фермера!
 You shouldn't turn on the sprinkler system without poisoning the water!@§7Ты не можешь включить систему опрыскивания, не отравив воду!
 The putrid smell coming out of this hole does not make you want to explore it.@§7Гнилой запах, выходящий из этой дыры, отбивает все желание исследовать ее.
-Woa there kiddo, there ain' no gold for you in this here cave, this is my humble occupation.@§7Воу, полегче малыш, для тебя нет золота в этой пещере, эта моя территория.
 [Floor Completed]@§7[Этаж пройден]
 Only the head of a spirit can enter this domain.@§7Только с головой духа можно войти в эту область.
 The spiritual pull towards the graveyard loses its effect, making travelling easier.@§7Духовное притяжение перед кладбищем теряет свой эффект, облегчая путешествие.
-,:Stay' .away;:@§7Держись подальше
+,:Stay' .away;:@§4,:Держись подальше;:
 As you approach the tomb, your fears become greater, and you decide to stay away from this place... for now...@§7Когда ты приближаешься к гробнице, твои страхи усиливаются, и ты решаешь держаться подальше от этого места... пока что...
 A strange force prevents you from entering. You can hear some soft laments in the distance...@§7Странная сила мешает тебе войти. Ты можешь слышать некий мягкий плач вдалеке...
 You really don't have a reason to go in here@§7У тебя действительно нет причин идти туда
@@ -546,12 +510,27 @@ It seems rude to just barge into someone's house like that.@§7Это кажет
 A bone chilling scream can be heard from inside the sewer...@§7Леденящий душу крик доносится изнутри канализации...
 The sudden silence leaves you uneasy...@§7Внезапное молчание вызывает беспокойство...
 The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Keystone Guardian'а активировало ее...
-You are under attack! Defend yourself by aiming and firing your ship's cannons.@§7Ты находишься под атакой! Защити себя, путем прицеливания и стрельбы из пушек своего корабля.
+[!] You are under attack! Defend yourself by aiming and firing your ship's cannons.@§7[!] Ты находишься под атакой! Защити себя, путем прицеливания и стрельбы из пушек своего корабля.
 Align your cannon with an attacking pirate using the controls, and fire to destroy them, but be careful - if one reaches your ship it will be damaged!@§7Выровняй свою пушку с атакующим пиратом, используя элементы управления, и стреляй, чтобы уничтожить их. Но будь осторожен - если кто-то достигнет твоего корабля, он будет поврежден!
 The door to the Treasure Vault has opened, but it will close in 20 second again!@§7Дверь в Хранилище с сокровищами открыта, но она закроется через 20 секунд!
 Get to the Treasure Vault in 20 seconds before it closed!@§7Доберись до Хранилища с сокровищами за 20 секунд, прежде чем оно закроется!
+
+
+########################################Дискавери####################################################
+
+
+
+
+
+
+
+
+
+
+
+
 Siegfried, Hero of Gavel@§7Siegfried - герой Gavel'a
-In recent times, Gavel has been threatened by many monsters. But wherever trouble lurks, the province can always depend on its legendary hero, Siegfried.@§7В последнее время Gavel был под угрозой со стороны многих монстров. Но где бы ни скрывалась беда, провинция всегда может рассчитывать на своего легендарного героя -  Siegfried'a.
+In recent times, Gavel has been threatened by many monsters. But wherever trouble lurks, the province can always depend on its legendary hero, Siegfried.@§7В последнее время Gavel был под угрозой со стороны многих монстров. Но где бы ни скрывалась беда, провинция всегда может рассчитывать на своего легендарного героя - Siegfried'a.
 Everyone in Gavel has their own tale to tell about Siegfried's tremendous strength and skill. He has saved many lives.@§7У каждого в Gavel'e есть своя история с рассказом об огромной силе и мастерстве Siegfried'a. Он спас много жизней.
 Wynn may have had Bob as its hero, but Gavel has Siegfried. His books are all province wide best sellers! Bob doesn't even have a book!@§7У провинции Wynn был Bob в качестве героя, а у Gavel'a есть Siegfried. Его книги -  бестселлеры по всей провинции! У Bob'a даже нет своей книги!
 The End.@§7Конец.
