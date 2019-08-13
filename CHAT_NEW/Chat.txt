@@ -17,3 +17,17 @@
 §3Visit §r§bwynncraft.com/store§r§b §r§3to get your own!§r@§3Посети §r§bwynncraft.com/store§r§b §r§3и получи свой!§r
 §6You've lost:§r@§6Ты потерял:§r
 §c                                Craft Items§r@§c                                Крафт предметов§r
+§4/g §r§c[message]§r§8-§r§6 Talk globally with your guild§r@§4/g §r§c[сообщение]§r§8-§r§6 Написать в чат вашей гильдии§r
+§4/guild leaderboard §r§8-§r§6 View the guild leaderboard§r@§4/guild leaderboard §r§8-§r§6 Просмотр таблицы лидеров гильдий§r
+§4/guild leave §r§8-§r§6 Leave the guild§r@§4/guild leave §r§8-§r§6 Покинуть гильдию§r
+§4/guild list §r§8-§r§6 List members of the guild§r@§4/guild list §r§8-§r§6 Список участников гильдии§r
+§4/guild stats §r§8-§r§6 View stats for the guild§r@§4/guild stats §r§8-§r§6 Посмотреть статистику гильдии§r
+§4/guild log §r§8-§r§6 View the guild moderation log§r@§4/guild log §r§8-§r§6 Просмотр журнала модерации гильдии§r
+§4/guild xp §r§c[amt] §r§8-§r§6 Set the % of XP to contribute to the guild§r@§4/guild xp §r§c[amt] §r§8-§r§6 Установить % от XP для внесения в гильдию§r
+§4/guild contribute §r§8-§r§6 Donate emeralds to the guild§r@§4/guild contribute §r§8-§r§6 Задонатить эмеральды в гильдию§r
+§4/guild rank §r§c[name] [rank] §r§8-§r§6 Rank up a guild member§r@§4/guild rank §r§c[ник] [ранг] §r§8-§r§6 Дать участнику гильдии ранг§r
+§4/guild invite §r§c[name] §r§8-§r§6 Invite a member to the guild§r@§4/guild invite §r§c[name] §r§8-§r§6 Пригласить игрока в гильдию§r
+§4/guild attack§r§8-§r§6 Attack the territory you are in§r@§4/guild attack§r§8-§r§6 Атаковать территорию на которой находитесь§r
+§4/guild defend §r§8-§r§6 Buy mobs for the territory you are in§r@§4/guild defend §r§8-§r§6 Купить мобов для территории на которой находитесь§r
+§4/guild kick §r§c[name] §r§8-§r§6 Kick a guild member§r@§4/guild kick §r§c[name] §r§8-§r§6 Кикнуть участника гильдии§r
+§4/guild banner §r§8-§r§6 Modify your guild banner§r@§4/guild banner §r§8-§r§6 Модифицировать ваш баннер гильдии§r
