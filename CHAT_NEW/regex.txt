@@ -16,4 +16,4 @@
 лобби
 §7\[§r(.*)§r§7\] §r§f(.*)§r@
 
-§6[§r§eInfo§r§6] §r§eLook at your own personal stats at §r§6(.*)§r§e!§r@§6[§r§eИнфо§r§6] §r§eПосмотри свою статистику на §r§6(r1)§r§e!§r
+§6\[§r§eInfo§r§6\] §r§eLook at your own personal stats at §r§6(.*)§r§e!§r@§6[§r§eИнфо§r§6] §r§eПосмотри свою статистику на §r§6(r1)§r§e!§r
