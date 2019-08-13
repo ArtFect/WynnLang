@@ -22,5 +22,5 @@
 §b(.*)§r§7 gave you §r§b+3 minutes§r§7 speed boost.§r@§b(r1)§r§7 дал тебе §r§b+3 минуты§r§7 буста скорости.§r
 §7Everybody gets §r§f2 Random Items§r§7! §r§e§nClick here to claim them!§r@§7Каждый получает §r§f2 случайных предмета§r§7! §r§e§nНажми сюда, чтобы получить их!§r
 §b(.*)§r§3 has thrown a §r§bCombat XP Bomb§r§3! The entire server gets §r§bdouble combat xp §r§3for §r§b20 minutes§r§3!§r@§b(r1)§r§3 бросил §r§bCombat XP бомбу§r§3! Весь сервер получает §r§bдвойные combat xp §r§3на §r§b20 минут§r§3!§r
-§8[§r§7!§r§8] §r§7Congratulations to §r§f(.*)§r§7 for reaching §r§flevel (.*) in §r§f(.*)§r§7!§r@§8[§r§7!§r§8] §r§7Поздравляем §r§f(r1)§r§7 с достижением §r§fуровня (r2) в §r§f(r3)§r§7!§r
-§3[Parkour] §r§bCongratulations! §r§3(.*)§r§b finished the parkour in §r§3(.*) seconds§r§b!§r@§3[Паркур] §r§bПоздравляем! §r§3(.*)§r§b закончил паркур за §r§3(.*) секунд§r§b!§r
+§8\[§r§7!§r§8\] §r§7Congratulations to §r§f(.*)§r§7 for reaching §r§flevel (.*) in §r§f(.*)§r§7!§r@§8[§r§7!§r§8] §r§7Поздравляем §r§f(r1)§r§7 с достижением §r§fуровня (r2) в §r§f(r3)§r§7!§r
+§3\[Parkour\] §r§bCongratulations! §r§3(.*)§r§b finished the parkour in §r§3(.*) seconds§r§b!§r@§3[Паркур] §r§bПоздравляем! §r§3(.*)§r§b закончил паркур за §r§3(.*) секунд§r§b!§r
