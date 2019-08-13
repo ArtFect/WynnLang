@@ -36,7 +36,7 @@ You are no longer tracking (.*)@§7Ты больше не отслеживаеш
 \+ Spell Upgrade \[(.*)\]@§7+ Апгрейд заклинания [(r1)]
 \+ New Spell \[(.*)\]@§7+ Новое заклинание [(r1)]
 You need (.*) more levels before you can unlock this page of the bank@§7Тебе нужно еще (r1) уровней, прежде чем ты сможешь разблокировать эту страницу банка
-Blacksmith: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§5Blacksmith: §dТы продал мне §r(r1)§d за (r2) эмеральд (а/ов). Было приятно иметь с тобой дело.
+Blacksmith: You sold me: (.*) for a total of (.*) emeralds. It was a pleasure doing business with you.@§5Blacksmith: §dТы продал мне §b(r1)§d за (r2) эмеральд (а/ов). Было приятно иметь с тобой дело.
 The server is restarting in (.*) minutes.@§cСервер перезагрузится через (r1) минут
 The server is restarting in (.*) seconds.@§cСервер перезагрузится через (r1) секунд
 (.*) has just logged in!@§5(r1) только что зашел
@@ -73,7 +73,7 @@ Only (.*) more levels until you can gather from (.*)@§5Еще §d(r1) уров�
 Only (.*) more level until you can gather from (.*)@§5Еще §d(r1) уровень §5и ты сможешь собирать §d(r2)
 \+ New Resource \[(.*)\]@§7+ Новый ресурс §8[(r1)]
 You've revealed: (.*) for a total of (.*) emeralds.@§dТы раскрыл: §b(r1) в сумме за §e(r2) эмеральдов.
-Finished buying (.*) for a total of(.*)@§dЗавершена покупка §b(r1) в сумме на §5(r2)
+Finished buying (.*) for a total of(.*)@§dЗавершена покупка §b(r1)§d в сумме на §5(r2)
 Great job! You've completed the (.*) Dungeon!@§6Отличная работа! Ты прошел (r1) данж!
 \[+(.*) falling emeralds\]@§7[+(r1) падающих эмеральдов]
 You need (.*) level of (.*) to use this tool!@§4Тебе нужен §c(r2)§4 уровень в §c(r1), §4чтобы использовать этот инструмент!
