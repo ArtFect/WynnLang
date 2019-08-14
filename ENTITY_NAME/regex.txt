@@ -1,4 +1,7 @@
-(§4\[.*\|§4\])@(r1)
-(§(e|2|f|c|b)-\d+.*)@(r1)
-§7\[§f\+§f(\d+)§f Combat XP§7\]@§7[§f+§f490§f Combat XP§7]
-§7\[§f\+§f(\d+)§f Guild XP§7\]@§7[§f+§f2§f Guild XP§7]
+(§4\[.*\|§4\])@ 
+(§(e|2|f|c|b)-\d+.*)@ 
+§7\[§f\+§f(\d+)§f Combat XP§7\]@ 
+§7\[§f\+§f(\d+)§f Guild XP§7\]@ 
+§7[(.*)§f Ⓒ§7 Woodcutting§7 XP] §6[(.*)%]@ 
+§7[(.*)§f Ⓙ§7 Farming§7 XP] §6[(.*)%]@ 
+§7[(.*)§f Ⓑ§7 Mining§7 XP] §6[(.*)%]@ 
