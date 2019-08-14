@@ -71,3 +71,31 @@
 §6Speed: (.*)@ 
 §6Jump: (.*)@ 
 §3Crafted (.*)§8 [(.*) Durability]@ 
+§d- §7Health Regen: §f(.*)@ 
+§d- §7Mana Regen: §f(.*)@ 
+§d- §7Melee Damage: §f(.*)@ 
+§d- §7Life Steal: §f(.*)@ 
+§d- §7XP Bonus: §f(.*)@ 
+§d- §7Loot Bonus: §f(.*)@ 
+§d- §7Reflection: §f(.*)@ 
+§d- §7Thorns: §f(.*)@ 
+§d- §7Exploding: §f(.*)@ 
+§d- §7Walk Speed: §f(.*)@ 
+§d- §7Health: §f(.*)@ 
+§d- §7Soul Point Regen: §f(.*)@ 
+§d- §7Strength: §f(.*)@ 
+§d- §7Dexterity: §f(.*)@ 
+§d- §7Intelligence: §f(.*)@ 
+§d- §7Agility: §f(.*)@ 
+§d- §7Defence: §f(.*)@ 
+§d- §7Spell Damage: §f(.*)@ 
+§d- §7Fire Damage: §f(.*)@ 
+§d- §7Water Damage: §f(.*)@ 
+§d- §7Air Damage: §f(.*)@ 
+§d- §7Thunder Damage: §f(.*)@ 
+§d- §7Earth Damage: §f(.*)@ 
+§d- §7Fire Defence: §f(.*)@ 
+§d- §7Water Defence: §f(.*)@ 
+§d- §7Air Defence: §f(.*)@ 
+§d- §7Thunder Defence: §f(.*)@ 
+§d- §7Earth Defence: §f(.*)@ 
