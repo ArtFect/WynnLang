@@ -99,3 +99,7 @@
 §d- §7Air Defence: §f(.*)@ 
 §d- §7Thunder Defence: §f(.*)@ 
 §d- §7Earth Defence: §f(.*)@ 
+§e- §7Level: §f(.*)@ 
+§e- §7XP: §f(.*)@ 
+§e- §7Soul Points: §f(.*)@ 
+§e- §7Finished Quests: §f(.*)@ 
