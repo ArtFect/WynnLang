@@ -505,7 +505,7 @@ Maxie: It is Corkus's greatest failure. It must be stopped.@Это самая б
 Maxie: We need to act now.@Мы должны действовать, сейчас же.
 Maxie: I can try to open the vent to sneak in.@Я могу попробовать открыть вентиляцию, чтобы пробраться внутрь.
 Maxie: I know you are a stranger, but talk to me if you want to help.@Знаю что ты незнакомец, но ты можешь поговорить со мной, если тебе нужна помощь.
-Maxie: Follow me, [Player Name].@Следуй за мной, [ник игрока].
+Maxie: Follow me, <playername>.@Следуй за мной, <playername>.
 Maxie: Alright, I'll open the door with electromagic.@Хорошо, я открою дверь с помощью электромагии.
 Maxie: ...@...
 Maxie: Gah! I can't even do the most basic spell!@Ух! Я даже не могу использовать самое стандартное заклинание!
@@ -525,6 +525,7 @@ Maxie: We need to do something! I'll clear the path for you. That's the only thi
 Maxie: Come on...@Давай же...
 Maxie: Go, defeat it!@Вперед, уничтожь его!
 Mech X: PARTS ACQUIRED... RETURN TO FACTORY.@ЧАСТИ ПОЛУЧЕНЫ... ВЕРНУТЬСЯ НА ФАБРИКУ.
+Mech Guard: SCANNING... DEFENCES, ACTIVATED.@СКАНИРУЮ... ЗАЩИТА АКТИВИРОВАНА.
 Maxie: Are you okay? Good. Meet me at the entrance where we met. We need to report to Corkus City!@Ты в порядке? Хорошо. Встретимся на входе, где мы познакомились. Мы должны доложить об этом в Corkus City!
 Maxie: Don't worry about the guards, they are disabled for now. Follow me.@Не волнуйся насчет охраны, они отключены пока что. Следуй за мной.
 Maxie: I know a shortcut, we'll be in Corkus City in no time.@Я знаю короткую дорогу, мы будем в Corkus City через мгновение.
@@ -536,7 +537,7 @@ Maxie: Our guest... just killed several despermechs by himself.@Наш гост�
 Corkus Delegate: And why would we take the word of someone who can't do basic electromagic?@И почему мы должны верить словам того, кто даже не владеет электромагией?
 Corkus Delegate: Don't listen to Maxie. Enjoy your stay.@Не слушай Maxie. Наслаждайся своим прибыванием.
 Maxie: They won't admit anything with you around. They want to become allies with Wynn.@Они не будут говорить о чем-то важном при тебе. Они хотят заключить союз с провинцией Wynn.
-Maxie: Come to my house when you reach level 89, here's a key so you can get in. We must prepare to break into the factory.@Приходи к моему дому, когда достигнешь 89 уровня, вот тебе ключ, чтобы ты мог войти. Мы должны подготовиться к вторжению на фабрику.
+Maxie: Come to my house when you reach level 89, here's a key so you get in. We must prepare to break into the factory.@Приходи к моему дому, когда достигнешь 89 уровня, вот тебе ключ, чтобы ты мог войти. Мы должны подготовиться к вторжению на фабрику.
 
 The_Envoy_Part_II.html
 Security Bot N4T17: No access without a key.@Для доступа предъявите ключ.
