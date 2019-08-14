@@ -10,26 +10,26 @@ import net.minecraft.nbt.NBTTagCompound;
 import net.minecraft.nbt.NBTTagList;
 import net.minecraft.nbt.NBTTagString;
 import net.minecraftforge.common.util.Constants;
+import ru.artfect.wynnlang.WynnLang.MessageType;
 
 public class Items {
 	private static Pattern coords = Pattern.compile("(\\[[-+]?\\d+,[-+]?\\d+,[-+]?\\d+\\])");
 	private static Pattern comLevel = Pattern.compile("(\\[Combat Lv\\. \\d+\\])");
 	
-	public static void translateItem(ItemStack item){
+	public static void translateBook(ItemStack item){
 		if(!item.hasTagCompound()) return;
 		NBTTagCompound nbt = item.getTagCompound();
 		if (nbt == null) return;
 		NBTTagCompound disp = nbt.getCompoundTag("display");
 		if (disp == null) return;
-		NBTTagList list = new NBTTagList();
 		NBTTagList lore = disp.getTagList("Lore", Constants.NBT.TAG_STRING);
-        String fulllore = "";
         if(lore.tagCount() < 6) return;
+        String fulllore = "";
         for(int j = 5; j < lore.tagCount() - 2; j++){
-       	 fulllore += (NBTTagString) lore.get(j);
+        	fulllore += lore.getStringTagAt(j);
         }
         if(fulllore.isEmpty()) return;
-        fulllore = fulllore.replace("\"\"", "").replaceAll(" at ", "");
+        fulllore = fulllore.replaceAll(" at ", "");
         String coord = "";
         Matcher m = coords.matcher(fulllore);
  	     if(m.find()) {
@@ -43,14 +43,39 @@ public class Items {
  	       fulllore = fulllore.replace(s1, "");
  	     }
  	     fulllore = WynnLang.format(fulllore);
- 	     String translate = WynnLang.books.get(fulllore);
- 	     if(translate != null){
+ 	     String replace = WynnLang.findReplace(MessageType.BOOK, fulllore);
+ 	     if(replace != null){
  	    	 while(lore.tagCount() > 5){
  	    		 lore.removeTag(lore.tagCount() - 1);
  	    	 }
- 	    	 lore.appendTag(new NBTTagString("§7" + translate + " " + coord));
+ 	    	 lore.appendTag(new NBTTagString("§7" + replace + " " + coord));
  	    	 lore.appendTag(new NBTTagString(""));
  	         lore.appendTag(new NBTTagString("§7Правый клик для отслеживания"));
  	     }
+	}
+	
+	public static void translateItem(ItemStack item){
+		if(!item.hasTagCompound()) return;
+		NBTTagCompound nbt = item.getTagCompound();
+		if (nbt == null) return;
+		NBTTagCompound disp = nbt.getCompoundTag("display");
+		if (disp == null) return;
+		String name = disp.getString("Name");
+		String nameReplace = WynnLang.findReplace(MessageType.ITEM_NAME, name);
+		if(nameReplace == null){
+			Log.addString(MessageType.ITEM_NAME, name);
+		} else {
+    		if(!nameReplace.isEmpty()) item.setStackDisplayName(nameReplace);
+		}
+		NBTTagList list = new NBTTagList();
+		NBTTagList lore = disp.getTagList("Lore", Constants.NBT.TAG_STRING);
+        for(int j = 0; j < lore.tagCount(); j++){
+        	String replace = WynnLang.findReplace(MessageType.ITEM_LORE, lore.getStringTagAt(j));
+        	if(replace == null){
+        		Log.addString(MessageType.ITEM_LORE, lore.getStringTagAt(j));
+        	} else {
+        		if(!replace.isEmpty()) lore.set(j, new NBTTagString(replace));
+        	}
+        }
 	}
 }
