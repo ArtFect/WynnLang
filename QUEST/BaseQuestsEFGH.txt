@@ -593,12 +593,12 @@ Eppo: Wait, look at this, It seems to be a piece of Theoricks armour.@Стой! 
 Eppo: Surprised it even managed to fit over his fat head.@Удивлен, что она налазила на его толстую голову.
 
 General%27s_Orders.html
-Tylas: ZZZZZZZZzzzzzzZZZZZzzzzz...@ZZZZZZZZzzzzzzZZZZZzzzzz...
+Tylas: ZZZZZZZZzzzzzzZZZZZzzzzz...@ХХХХРРРРппппфффффХХХХХХРРРРРпппфф...
 Tylas: AAAHHHHH! You startled me! Sleeping? No, you must be mistaken. I have sworn to guard this fort at all costs, I would never even close my eyes!@ААААААА! Ты напугал меня! Спал? Нет, должно быть ты ошибся. Я обещал охранять эту крепость любой ценой, и никогда не смыкаю глаз!
 Tylas: The barracks is not currently operating, I'm afraid. General Lecade has all of the men working on all sorts of absolutely ridiculous tasks.@Казармы еще не используются, к сожалению. Генерал Lecade собрал всех мужчин, и заставляет их делать безумные задания.
 Tylas: You wish to help out? That is very kind of you to offer, but I'm not supposed to let anyone through aside from fellow soldiers.@Ты желаешь помочь? Это очень любезное предложение, но я не должен впускать никого, кроме сослуживцев.
 Tylas: Then again, General Lecade hasn't been himself lately. It probably won't even bother him if it means getting his work done.@Хотя, генерал Lecade странно себя ведет в последнее время. Он просил не беспокоить его, пока работа не будет выполнена.
-Tylas: I'll let you through, if you wish to help. Speak with General Lecade to find out what insane task he wants you to do, his office on the left side of the fort.@Но раз ты хочешь помочь, то наверно я впущу тебя. Поговори с генералом Lecade и узнай, какую работу он может тебе дать. Его офис с левой стороны крепости.
+Tylas: I'll let you through, if you wish to help. Speak with General Lecade to find out what insane task he wants you to do, his office lies on the left side of the fort.@Но раз ты хочешь помочь, то наверно я впущу тебя. Поговори с генералом Lecade и узнай, какую работу он может тебе дать. Его офис с левой стороны крепости.
 Lecade: Who let you in here? Probably that private who I let guard this place, I'll bet that he was sleeping again. So what brings you here, anyways?@Кто впустил посторонних? Наверняка тот рядовой, которого я поставил охранять крепость, держу пари он опять спал на посту. Ладно, что тебе нужно?
 Lecade: So, you wanna help me with the work I need done? Sure, why not? I could use an extra hand around here!@Так значит ты хочешь помочь с работой? Конечно, почему бы и нет? Нам нужны дополнительные руки здесь!
 Lecade: All right, I need you to get to work straight away! You see... um... people reported some strange noises coming from the roof of a tower.@Хорошо, приступай сразу к работе! Как сказать... эм...люди сообщают о странных звуках, что исходят с крыши башни.
@@ -615,7 +615,7 @@ Lecade: Yes, how about you paint it purple? I wrote the coordinates down in your
 Lecade: You painted the mountain already? I can't believe this! How are you doing everything I order you to so quickly? You should be exhausted!@Ты уже покрасил гору? Не могу в это поверить! Как ты выполняешь все, что я приказываю так быстро? Ты наверно очень устал!
 Lecade: I mean, you have shown you are an extremely capable soldier! In fact, so capable, that I think you're ready for this next task.@В смысле, ты показал, что очень выносливый солдат! Думаю, настолько выносливый, что уже готов к следующему заданию.
 Lecade: I want you to walk across a tightrope to amuse your fellow soldiers. The coordinates are in your quest book, so go put on a show!@Я хочу, чтобы ты прошел по канату, чтобы развлечь своих товарищей солдат. Координаты в квестовой книге, так что давай, устрой нам шоу!
-Private: I'll bet you five emeralds he doesn't make it across.@Ставлю пять эмеральдов, что он не пройдет.
+Private: I'll bet you five emeralds they don't make it across.@Ставлю пять эмеральдов, что он не пройдет.
 Lecade: Wait, you actually went and did it? I didn't think anyone would do something so completely ridiculous!@Подожди, ты просто пошел и сделал это? Не думал, что кто-то сможет сделать это так смешно!
 Lecade: Fine, if you're still so eager to help after all of this, then I'll give you one last task to do.@Хорошо, если ты все еще хочешь яростно помочь после всего этого, у меня для тебя последнее задание.
 Lecade: I need you to destroy a wall in town so we can add another house. Lieutenant Gren is there to give you the details.@Нам нужно разрушить стену в городе, чтобы мы добавили еще один дом. Лейтенант Gren расскажет тебе детали.
@@ -626,7 +626,7 @@ Gren: We have a soldier on the upper level ready to drop an explosive, he just n
 ???: I am General Lecade.@Я и есть генерал Lecade.
 Lecade: I know that sounds preposterous. The man you spoke to looks exactly like me, doesn't he? Well, let me explain everything I know about that impostor.@Я знаю, это звучит нелепо. Человек, с которым ты говорил, выглядит как я, верно? Что же, дай мне объяснить все, что я знаю о этом мошеннике.
 Lecade: It is actually a rare Gavel creature called "Corpus Accipientis" or in layman's terms, a shape-shifter. It took my identity and locked me up in this cell.@Это редкое существо в Gavel'е, называемое "Corpus Accipientis", или другими словами - оборотень. Он забрал мою личность и запер меня здесь в клетке.
-Lecade: That thing loves to create mischief, it lives to make others' lives harder. It must be doing horrible thing to my loyal men, that beast!@Это существо любит дурачиться, делать жизнь других сложнее. Должно быть он делает ужасные вещи с моими солдатами!
+Lecade: That thing loves to create mischief, it lives to make others' lives harder. It must be doing horrible things to my loyal men, that beast!@Это существо любит дурачиться, делать жизнь других сложнее. Должно быть он делает ужасные вещи с моими солдатами!
 Lecade: I want you to kill it. I know a way into my office, or it's office now, from here. After all, I'm the one who had this place built.@Я хочу чтобы ты убил его. Я знаю путь в мой офис, вернее его офис, отсюда. Я помогал при строительстве этого места.
 Lecade: Hold down both wooden plates on the desks over there and a secret door should open. I'd follow you, but I am unable to leave this cell.@Брось предметы на эти нажимные плиты на столах вон там, и откроется секретная дверь. Я бы пошел с тобой, но не могу выбраться из этой клетки.
 Corpus Accipientis: So, looks like you've found me out. You know, all I wanted to do was control an army, I wasn't even going to kill anyone!@Значит, ты узнал всю правду. Вообще-то, я всего лишь хотел контролировать армию, я не хотел никого убивать!
@@ -637,7 +637,7 @@ Lecade: Well, looks like you destroyed a big blob of slime and came back without
 Lecade: I'm surprised you pulled that off, though. When I hunted that thing down, it managed to take my form. Guess I can learn a few tricks from you.@Я удивлен, что ты сумел это сделать. Когда я охотился на него, он забрал мою личность. Думаю, я могу подсмотреть у тебя пару трюков.
 Lecade: Well, at least that shape-shifter won't be taking anyone's body anymore. That thing already caused enough trouble when it only took mine, imagine if it took more.@Что же, похоже этот оборотень больше не доставит никому проблем. Он причинил уже достаточно неприятностей, когда был мной. Представь, если бы он собрал больше тел.
 Lecade: The soldiers understood the situation, luckily. Can't believe it got that far. I'll make sure nothing like that ever happens again!@Солдаты поняли эту ситуацию, к счастью. Надеюсь, этого больше никогда не повторится!
-Lecade: But enough of that, you helped out a tremendous deal. And for that you deserve a reward, I'll pay you a hefty sum for your troubles.@Но хватит об этом, ты оказал нам огромную услугу. Ты заслужил эту награду, я заплачу тебе кругленькую сумму за твои проблемы.
+Lecade: But enough of that, you helped out a tremendous deal. And for that you deserve a reward.@Но хватит об этом, ты оказал нам огромную услугу. Ты заслужил эту награду.
 
 Grand_Youth.html
 Monte: Oh, what am I to do...? How am I to be our next elder if I cannot even help him... Oh? Ehm, hello, stranger.@Ох, что же мне теперь делать...? Как я стану нашим следующим старейшиной, если даже не могу помочь ему... Эй? Ох, привет, незнакомец.
