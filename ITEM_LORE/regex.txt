@@ -70,3 +70,4 @@
 §5- §3Secret: §b(.*)§3 \[(.*)\]@ 
 §6Speed: (.*)@ 
 §6Jump: (.*)@ 
+§3Crafted (.*)§8 [(.*) Durability]@ 
