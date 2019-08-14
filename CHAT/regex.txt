@@ -77,3 +77,4 @@ Finished buying (.*) for a total of(.*)@§dЗавершена покупка §b
 Great job! You've completed the (.*) Dungeon!@§6Отличная работа! Ты прошел (r1) данж!
 \[+(.*) falling emeralds\]@§7[+(r1) падающих эмеральдов]
 You need (.*) level of (.*) to use this tool!@§4Тебе нужен §c(r2)§4 уровень в §c(r1), §4чтобы использовать этот инструмент!
+(.*) is for combat level (.*)+ only.@§c(r1) §4только для комбат уровня §c(r2).
