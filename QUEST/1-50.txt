@@ -57,10 +57,8 @@ Enkser: Hey, have you found my [1 Stable Key] yet? It should be somewhere in thi
 Enkser: Aaah dang! I had some work for you, but I can't ... such a low level. Come back when you are level 34!@Вот черт! У меня есть кое-какая работа для тебя, но я не могу ее тебе дать из-за твоего низкого уровня. Вернись, когда будешь 34-го уровня!
 Asher: Oh, fancy seeing you again! I've discovered even more since I last saw you!@О, здорово снова тебя увидеть! Я сделал еще больше открытий с тех пор, как видел тебя в последний раз!
 Asher: Have you found where the flowers are yet? They should be in a cave on the outskirts of this Valley.@Ты уже нашел где находятся цветы? Они должны быть в пещере на окраине этой долины.
-Drale: Stay off of the boat! It's for the cows! Are you a cow? Wish I was a cow...@Держись подальше от лодки! Она только для коров! Разве ты корова? Хотел бы я быть коровой...
 Captain Fenor: You have your orders, recruit. Carry them out!@Ты получил свой приказ, рекрут. Выполняй!
 Captain Fenor: Welcome back, soldier! Great job clearing out that cave, we can finally use it for great things now!@С возвращением, солдат! Отличная работа по очистке этой пещеры, мы можем, наконец, использовать ее сейчас для великих целей!
-Drale: Quickly, go through the hole behind me and help me get these cows to safety!@Быстро, пройди через дыру позади меня и помоги мне доставить этих коров в безопасное место!
 Sergeant Klafson: Halt! You cannot go down this cave, it is blocked.@Стоять! Ты не можешь спуститься в эту пещеру, она заблокирована.
 Sergeant Klafson: Hello again, soldier! Doing great things around the province, I presume?@Снова привет, солдат! Делаешь хорошие дела по всей провинции, я полагаю?
 Poe: Hey you! I was attacked by a spider just now.@Эй ты! На меня только что напал паук.
@@ -271,7 +269,6 @@ Duvale: I could really use some assistance with a defective piece of hardware, b
 The Cook: You should practice your cooking, maybe one day you'll become a master chef like myself!@Ты должен практиковать свое искусство кулинарии; быть может, в один прекрасный день ты станешь таким же шеф-поваром, как я!
 The Cook: I urgently need help! But you aren't experienced enough to help me, yet.@Мне срочно нужна помощь! Но у тебя еще недостаточно опыта, чтобы помочь мне.
 The Cook: Come back as soon as you reach level 4.@Возвращайся, как только достигнешь 4 уровня.
-
 The Cook: I still need [2 Eggs], [1 Milk] and [3 Unprocessed Wheat].@Мне все еще нужны §3[2 Яйца]§a, §3[1 Молоко]§a и §3[3 Необработанной пшеницы]§a.
 The Cook: You can get eggs at the ranch north of ragni, by killing some chickens.@Ты можешь получить яйца на ранчо к северу от Ragni, убив несколько куриц.
 The Cook: You can get milk by buying it from a merchant there as well.@Молоко можешь получить, купив его у торговца там же
@@ -299,7 +296,9 @@ Ellen: Thank god it's only once a year.@Слава богу, оно только
 Asher: Don't come back here until you find my shovel, or I'll have you thrown in jail!@Не возвращайся сюда, пока не найдешь мою лопату, или я брошу тебя в тюрьму!
 Ragni's King: Off you go, I've said everything I have to say.@Уходи, я сказал все, что должен был сказать.
 Drale: Go free those cows from the farmers before they're taken to the slaughterhouse! Oh man, the slaughterhouse...@Освободи этих коров от фермера, прежде чем их заберут на бойню! О боже, скотобойня...
+Drale: Stay off of the boat! It's for the cows! Are you a cow? Wish I was a cow...@Держись подальше от лодки! Она только для коров! Разве ты корова? Хотел бы я быть коровой...
 Drale: Where are you going? Come here and talk to me first.@Куда ты идешь? Иди сюда и сначала поговори со мной.
+Drale: Quickly, go through the hole behind me and help me get these cows to safety!@Быстро, пройди через дыру позади меня и помоги мне доставить этих коров в безопасное место!
 Enduyn: Here we go!@Прекрасно!
 Enduyn: Now head on in and finish off these pests!@Теперь иди внутрь и прикончи этих паразитов!
 Old Man Martyn: Whenever you're ready to save Asher, step through the rift.@Когда будешь готов спасти Asher'a - зайди в портал.
