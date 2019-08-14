@@ -16,7 +16,7 @@
 лобби
 §7\[§r(.*)§r§7\] §r§f(.*)§r@
 
-§6\[§r§eInfo§r§6\] §r§eLook at your own personal stats at §r§6(.*)§r§e!§r@§6[§r§eИнфо§r§6] §r§eПосмотри свою персональную статистику на §r§6(r1)§r§e!§r
+§6\[Info\] §r§eLook at your own personal stats at §r§6(.*)§r§e!§r@§6[§r§eИнфо§r§6] §r§eПосмотри свою персональную статистику на §r§6(r1)§r§e!§r
 §4(.*)§r§c is currently on server (.*)§r@§4(r1)§r§c сейчас на сервере (r2)§r
 §b(.*)§r§7 gave you §r§c/[/+(.*)/].§r@§b(r1)§r§7 дал тебе §r§c[+(r2)].§r
 §b(.*)§r§7 gave you §r§b+3 minutes§r§7 speed boost.§r@§b(r1)§r§7 дал тебе §r§b+3 минуты§r§7 буста скорости.§r
