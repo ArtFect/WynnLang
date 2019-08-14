@@ -1,67 +1,72 @@
-§7(.*) §7Attack Speed@
-§7(.*) §7Melee Damage@
-§7(.*) §7XP Bonus@
-§7(.*) §7Loot Bonus@
-§7(.*) §7Spell Damage@
-§7(.*) §7Strength@
-§7(.*) §7Walk Speed@
-§7(.*) §7Reflection@
-§7(.*) §7Exploding@
-§7(.*) §7Thorns@
-§7(.*) §7Mana Regen@
-§7(.*) §7Soul Point Regen@
-§7(.*) §7Poison@
-§7(.*) §7Life Steal@
-§7(.*) §7Mana Steal@
-§7(.*) §7Health Regen@
-§7(.*) §7Health@
-§7(.*) §7Agility@
-§7(.*) §7Dexterity@
-§7(.*) §7Intelligence@
-§7(.*) §7Defence@
-§7(.*) §7Thunder Damage@
-§7(.*) §7Air Damage@
-§7(.*) §7Water Damage@
-§7(.*) §7Earth Damage@
-§7(.*) §7Fire Damage@
-§7(.*) §7Thunder Defence@
-§7(.*) §7Air Defence@
-§7(.*) §7Water Defence@
-§7(.*) §7Earth Defence@
-§7(.*) §7Fire Defence@
-§7(.*) §7Stealing@
-§2Players: §a(.*)@
-(§2|§6)Lag: (§a|§e)(.*)%@
-§2§m----§2\[ §a(.*)²§2 \]§m----@
-§6 - (§a✔|§c✖) §f(.*)§7²@
-(§a✔|§c✖)§7 Combat Lv. Min: (.*)@
-(§a✔|§c✖)§7 Quest Req: (.*)@
-(§a✔|§c✖)§7 Intelligence Min: (.*)@
-(§a✔|§c✖)§7 Agility Min: (.*)@
-(§a✔|§c✖)§7 Strength Min: (.*)@
-(§a✔|§c✖)§7 Defence Min: (.*)@
-(§a✔|§c✖)§7 Dexterity Min: (.*)@
-§4❤ Health: (.*)@
-§2✤ Earth§7 Defence: (.*)@
-§b❉ Water§7 Defence: (.*)@
-§f❋ Air§7 Defence: (.*)@
-§e✦ Thunder§7 Defence: (.*)@
-§c✹ Fire§7 Defence: (.*)@
-§6 - §f(.*)§7(.*) §8(.*)@
-§7\[(.*)\] Powder Slots \[(.*)\]@
-(§a✔|§c✖)§7 Crafting Lv. Min: (.*)@
-§bXp: (.*)@
-§a(.*)§2 to §a(.*)§7 Air Defence@
-§a(.*)§2 to §a(.*)§7 Water Defence@
-§a(.*)§2 to §a(.*)§7 Fire Defence@
-§a(.*)§2 to §a(.*)§7 Earth Defence@
-§a(.*)§2 to §a(.*)§7 Thunder Defence@
-§5- §7Territorial: §f(.*)§7 \[(.*)\]@
-§6Total Discoveries: §e\[(.*)\]@
-§bTotal Quests: §3\[(.*)\]@
-§6✣ Neutral Damage: (.*)@
-§e✦ Thunder§7 Damage: (.*)@
-§2✤ Earth§7 Damage: (.*)@
-§c✹ Fire§7 Damage: (.*)@
-§f❋ Air§7 Damage: (.*)@
-§b❉ Water§7 Damage: (.*)@
+§7(.*) §7Attack Speed@ 
+§7(.*) §7Melee Damage@ 
+§7(.*) §7XP Bonus@ 
+§7(.*) §7Loot Bonus@ 
+§7(.*) §7Spell Damage@ 
+§7(.*) §7Strength@ 
+§7(.*) §7Walk Speed@ 
+§7(.*) §7Reflection@ 
+§7(.*) §7Exploding@ 
+§7(.*) §7Thorns@ 
+§7(.*) §7Mana Regen@ 
+§7(.*) §7Soul Point Regen@ 
+§7(.*) §7Poison@ 
+§7(.*) §7Life Steal@ 
+§7(.*) §7Mana Steal@ 
+§7(.*) §7Health Regen@ 
+§7(.*) §7Health@ 
+§7(.*) §7Agility@ 
+§7(.*) §7Dexterity@ 
+§7(.*) §7Intelligence@ 
+§7(.*) §7Defence@ 
+§7(.*) §7Thunder Damage@ 
+§7(.*) §7Air Damage@ 
+§7(.*) §7Water Damage@ 
+§7(.*) §7Earth Damage@ 
+§7(.*) §7Fire Damage@ 
+§7(.*) §7Thunder Defence@ 
+§7(.*) §7Air Defence@ 
+§7(.*) §7Water Defence@ 
+§7(.*) §7Earth Defence@ 
+§7(.*) §7Fire Defence@ 
+§7(.*) §7Stealing@ 
+§2Players: §a(.*)@ 
+(§2|§6)Lag: (§a|§e)(.*)%@ 
+§2§m----§2\[ §a(.*)²§2 \]§m----@ 
+§6 - (§a✔|§c✖) §f(.*)§7²@ 
+(§a✔|§c✖)§7 Combat Lv. Min: (.*)@ 
+(§a✔|§c✖)§7 Quest Req: (.*)@ 
+(§a✔|§c✖)§7 Intelligence Min: (.*)@ 
+(§a✔|§c✖)§7 Agility Min: (.*)@ 
+(§a✔|§c✖)§7 Strength Min: (.*)@ 
+(§a✔|§c✖)§7 Defence Min: (.*)@ 
+(§a✔|§c✖)§7 Dexterity Min: (.*)@ 
+§4❤ Health: (.*)@ 
+§2✤ Earth§7 Defence: (.*)@ 
+§b❉ Water§7 Defence: (.*)@ 
+§f❋ Air§7 Defence: (.*)@ 
+§e✦ Thunder§7 Defence: (.*)@ 
+§c✹ Fire§7 Defence: (.*)@ 
+§6 - §f(.*)§7(.*) §8(.*)@ 
+§7\[(.*)\] Powder Slots \[(.*)\]@ 
+(§a✔|§c✖)§7 Crafting Lv. Min: (.*)@ 
+§bXp: (.*)@ 
+§a(.*)§2 to §a(.*)§7 Air Defence@ 
+§a(.*)§2 to §a(.*)§7 Water Defence@ 
+§a(.*)§2 to §a(.*)§7 Fire Defence@ 
+§a(.*)§2 to §a(.*)§7 Earth Defence@ 
+§a(.*)§2 to §a(.*)§7 Thunder Defence@ 
+§5- §7Territorial: §f(.*)§7 \[(.*)\]@ 
+§6Total Discoveries: §e\[(.*)\]@ 
+§bTotal Quests: §3\[(.*)\]@ 
+§6✣ Neutral Damage: (.*)@ 
+§e✦ Thunder§7 Damage: (.*)@ 
+§2✤ Earth§7 Damage: (.*)@ 
+§c✹ Fire§7 Damage: (.*)@ 
+§f❋ Air§7 Damage: (.*)@ 
+§b❉ Water§7 Damage: (.*)@ 
+§5Quests: §d(.*)§5 \[(.*)\]@ 
+§5- §6World: §e(.*)§6 \[(.*)\]@ 
+§5- §3Secret: §b(.*)§3 \[(.*)\]@ 
+§6Speed: (.*)@ 
+§6Jump: (.*)@ 
