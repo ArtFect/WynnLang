@@ -529,10 +529,10 @@ The entire mansion is on fire! The only exit is through the large door at the ba
 Is that Mister Caritat? You're going to have to take him down before you leave!@§7Это мистер Caritat? Похоже тебе придется уничтожить его, прежде чем уйти!
 With the entire Caritat family dead, and the flames engulfing the structure, the mansion slowly fell into decay...@§7После убийства семьи Caritat, и потухшего пожара, особняк стал медленно приходить в упадок...
 However, from the wreckage and ash, one survivor remained...@§7Однако, под обломками, нашли одного выжившего...
-It seems like the only way to get to the cliff on the other side is this airship, and the fire probably rendered it unusable... or did it?@§7Ты благополучно добрался до сундука, приготовься прыгать через дырку, которую прожег огонь.
-After witnessing your crash into the cliff, A Corkian citizen informed the government.@§7Похоже, единственный способ забраться на скалу это этот шар, и вероятно огонь сделал его непригодным для использования... или нет?
-Shortly after your victory security forces found the hideout and arrested the remaining separatists.@§7После того, как ты врезался в скалу, видевший это житель Corkus'а доложил об этом правительству.
-Their leader was nowhere to be found.@§7Сразу же после твоей победы стражи порядка нашли, где укрывались оставшиеся ‘патриоты' и арестовали их.
+It seems like the only way to get to the cliff on the other side is this airship, and the fire probably rendered it unusable... or did it?@§7Похоже, единственный способ забраться на скалу это этот шар, и вероятно огонь сделал его непригодным для использования... или нет?
+After witnessing your crash into the cliff, A Corkian citizen informed the government.@§7После того, как ты врезался в скалу, видевший это житель Corkus'а доложил об этом правительству.
+Shortly after your victory security forces found the hideout and arrested the remaining separatists.@§7Сразу же после твоей победы стражи порядка нашли, где укрывались оставшиеся 'патриоты' и арестовали их.
+Their leader was nowhere to be found.@§7Их лидер так и не был найден.
 Employer: Scientist Ynnos.@§7Работодатель: Ученый Ynnos.
 Job Description: Manual labour, exploration, protection.@§7Описание работы: Ручной труд, исследования, защита.
 Location: Ahmsord Research facility [1118, 101, -4520].@§7Расположение: Исследовательский центр Ahmsord'a [1118, 101, -4520].
@@ -734,6 +734,12 @@ Mm! This is some tasty hay!@§7Ммм! Какое вкусное сено!
 Some water for your thirst!@§7Немного воды от твоей жажды!
 It's not the time to leave yet! There is still something here for you to do.@§4Еще не время уходить! Тебе еще есть чем заняться.
 [Unknown Problem ||| System Stopped]@§c[§4Неизвестная проблема ||| Система остановлена§c]
+Right now you should focus on helping the citizens around the docks, instead of following that trail!@§7Прямо сейчас ты должен сосредоточиться на оказании помощи гражданам вокруг доков, а не следовать по этому следу!
+Suddenly, you begin to feel very dizzy...@§7Внезапно ты начинаешь чувствовать сильное головокружение...
+> Thank you for choosingsing CorkTech! Your company for a safe and trustworthy service.@§7> Спасибо, что выбрали CorkTech! Наша компания за безопасное и благонадежное обслуживание.
+Powering up elevator...@§7Включение лифта...
+You manage to rescue yourself, but it seems like you were too slow this time.@§7Тебе удается спасти себя, но кажется, что на этот раз ты был слишком медленным.
+You manage to reach the chest safely, getting ready to jump through a hole the fire burned.@§7Ты благополучно добрался до сундука, приготовься прыгать через дыру, которую прожег огонь.
 
 
 ######################################NPC####################################################
