@@ -948,55 +948,56 @@ Phinas: People don't like change. Anyway, I can't thank you enough. Have this fo
 Dwarves_and_Doguns_Part_I.html
 Lozeg: Interesting to see a Human wanting to see a Dwarven play.@Удивлен человеку, который хочет увидеть постановку гномов.
 Lozeg: The only play we're performing is the annual Victory Festival.@Единственное выступление, которое мы показываем - это ежегодный фестиваль победы.
-Lozeg: The entry cost is [1 Emerald Block]@Вход стоит [1 блок эмеральдов]
-Lozeg: Take a seat and enjoy the show.@Присаживайся и наслаждайся шоу.
-Narrator: Hello people of Gavel, glad to see so many people here!@Приветствую, народ Gavel'a! Рад видеть так много людей здесь!
+Lozeg: The entry cost is [1 Emerald Block]@Вход стоит §3[1 блок эмеральдов]
+Lozeg: Just take a seat and enjoy the show.@Присаживайся и наслаждайся шоу.
+Narrator: Hello, to the people of Gavel, glad to see so many here!@Приветствую, народ Gavel'a! Рад видеть так многих здесь!
 Narrator: I hope you'll enjoy the play and that it'll be very educational too. I will be tonights narrator.@Я надеюсь вам понравиться наша сценка, и вы вынесете с нее какие-либо уроки. Сегодня я буду рассказчиком.
-Babbi: Pheew! I think we outran the villagers!@Фух! Мне кажется мы опередили жителей!
-Dwarfi: I think we're safe here in the mountains. Oh look, shiny ores, this is like a gold mine.@Мне кажется, что мы в безопасности, пока мы в горах. О, смотри, блестящая руда, похоже на золотую шахту.
-Dwarfi: These minerals are very useful, let's start digging.@Эти ресурсы очень полезны, давай начнем копать.
+Babbi: Pheeeew. I think we outran the villagers!@Фух! Мне кажется мы опередили жителей!
+Dwarfi: I think we are safe here in the mountains. Oh look. Shiny ores. This is like a gold mine.@Мне кажется, что мы в безопасности, пока мы в горах. Ох смотри. Блестящая руда. Похоже на золотую шахту.
+Dwarfi: These nice minerals are very nice, let's start digging.@Эти ресурсы очень круто выглядят, давай начнем копать.
 Babbi: What is that?! A DEMON.@Что это?! ДЕМОН?
-Demon: I am a dangerous monster and I will NOT let you mine these diamonds. We are the Doguns, we will kill you!!@Я страшный монстр и НЕ позволю вам копать эти алмазы. Мы Dogun'ы, мы вас всех убьем!
-Demon: Graoaoro. I will eat you all!@Грггргр. Я вас всех съем!
+Demon: I am a dangerous monster and I will not let you mine these diamonds. We are the Doguns, and we will kill you!!@§cЯ страшный монстр и не позволю вам копать эти алмазы. Мы Dogun'ы, мы вас всех убьем!
+Demon: Graoaoro. I will eat you all for my afternoon demon luncheon.@§cГрггргр. Я съем вас всех на свой послеобеденный демонический ланч.
 Arock: We must protect ourselves!@Мы должны защитить себя!
-Demon: MOAHAHAHHA! BEGONE TINY DWARVES.@МУХАХАХ! ИСЧЕЗНИТЕ, МЕЛКИЕ ГНОМЫ.
-Arock: Ahhhh. I'm dying...@Ахххх. Я умираю...
-Demon: MOAHAHAHA. WE WILL KILL ALL OF YOU.@МУАХАХХАХА. МЫ ВАС ВСЕХ УБЬЕМ.
+Demon: MOAHAHAHHA! BEGONE TINY DWARVES.@§cМУХАХАХ! ИСЧЕЗНИТЕ, МЕЛКИЕ ГНОМЫ.
+Arock: Ahhhh. I am dying...dying!@Ахххх. Я умираю...умираю!
+Demon: MOAHAHAHA. WE WILL KILL ALL OF YOU.@§cМУАХАХХАХА. МЫ ВАС ВСЕХ УБЬЕМ.
 Babbi: We need to forge better weapons so we can fight back!@Мы должны выковать оружие получше, чтобы дать отпор!
 Gagly: Good idea! We will use our intelligence to slay the demons.@Хорошая идея! Мы воспользуемся умом, чтобы победить демонов.
-Demon: YOU CANNOT BEAT US, WE CAN SUMMON DRAGONS WITH OUR MAGIC.@ВЫ НЕ СМОЖЕТЕ ПОБЕДИТЬ НАС, МЫ МОЖЕМ ПРИЗЫВАТЬ ДРАКОНОВ С ПОМОЩЬЮ НАШЕЙ МАГИИ.
-Gagly: You sure about that? CHARGE!@Ты уверен в этом? Получи!
-Gagly: We won and now we've established a great citadel, Rodoroc!@Мы победили и теперь создадим великую цитадель - Rodoroc!
+Demon: YOU CANNOT BEAT US, WE CAN SUMMON DRAGONS WITH OUR MAGIC.@§cВЫ НЕ СМОЖЕТЕ ПОБЕДИТЬ НАС, МЫ МОЖЕМ ПРИЗЫВАТЬ ДРАКОНОВ С ПОМОЩЬЮ НАШЕЙ МАГИИ.
+Gagly: Dragons are no match for us?? CHARGE!@Драконы нам не ровня?? Получи!
+Gagly: We have won. Hooray. And now we have established a great citadel, Rodoroc!@Мы победили. Ура. И теперь мы создадим великую цитадель - Rodoroc!
 Gagly: The dwarven intellect beat the sheer power of the demons magic.@Интеллект гномов превзошел силу магии демонов.
 Narrator: Thank you all for watching!@Спасибо всем за просмотр!
-Narrator: I hope you enjoyed the show and learned something!@Я надеюсь, вы все насладились шоу и вынесли для себя урок!
-Narrator: We are continuing the celebration at the old Demon City. Just follow the banners outside Rodoroc.@Мы продолжим празднование в старом городе демонов. Просто следуйте отметкам снаружи Rodoroc'а.
+Narrator: I hope you enjoyed the show, and learned something new today!@Я надеюсь, вы все насладились шоу и вынесли для себя сегодня что-то новое!
+Narrator: We are continuing the celebration at the old Demon City. Follow the red banners outside Rodoroc to get there.@Мы продолжим празднование в старом городе демонов. Просто следуйте за красными баннерами снаружи Rodoroc'а.
 Narrator: Meet you all there.@Встретимся там.
-Axelus: Ugh. Don't believe everything you see here, human. History is written by the victors.@Тьфу. Не верь всему, что видишь здесь, человек. Историю пишут победители.
+Axelus: Ugh, that was awful. Don't believe anything you see here, human. History is written by the victors.@Тьфу, это было ужасно. Не верь всему, что видишь здесь, человек. Историю пишут победители.
 Marock: Welcome one and all! Dwarven brothers and sisters, guests and visitors!@Приветствую всех и каждого! Братья и сестры, гости и посетители!
 Marock: If I could draw your attention to the wooden stage in the north, we can begin.@Если вы обратите свое внимание на северную деревянную сцену, то мы можем начать.
-Marock: Welcome to the annual festival where we celebrate the victory over the demons.. The Doguns!@Добро пожаловать на ежегодный фестиваль, где мы празднуем победу над демонами... Dogun'ами!
-Marock: Now, if I can get you to turn around to face the bonfire we have prepared some fire mages for your entertainment.@Теперь, если я смогу заставить вас повернуться лицом к костру, мы приготовили несколько огненных магов для вашего развлечения.
-Mahou: Wow, I didn't know Dwarves could learn such magic!@Ух ты! Я и не знал, что гномы владеют такой магией!
-Marock: Magnificent! Thank you very much to our fire casters. If I could bring your attention back to the main stage.@Потрясающе! Спасибо огромное нашим магам. Теперь обратите ваше внимание на главную сцену.
-Marock: For the last 900 years we have captured renegade Doguns and this year is no exception!@Все эти 900 лет мы захватывали предателя Dogun'а, и этот год не исключение!
+Marock: Welcome to the annual festival where we celebrate victory over the foul demons...The Doguns!@Добро пожаловать на ежегодный фестиваль, где мы празднуем победу над демонами... Dogun'ами!
+Marock: Now, if I can get you to turn around to face the bonfire, we've prepared a lovely firecasting show for you all while we prepare!@Теперь, если я могу заставить вас повернуться лицом к костру, мы подготовили прекрасное шоу для вас всех, пока мы готовимся!
+Mahou: Wow, I didn’t know Dwarves could learn such magic! Beats the heck out of firecrackers!@Ух ты, я и не знал, что гномы могут научиться такой магии! Покажите шоу с петардами!
+Marock: Magnificent! Thank you very much to our fire casters. Now, ladies and gents, your attention to the main stage please!@Потрясающе! Спасибо огромное нашим магам. Теперь, дамы и джентельмены, обратите ваше внимание на главную сцену.
+Marock: For the last 900 years we have captured renegade Doguns that escaped the war, and this year is no exception!@Все последние 900 лет мы захватываем в плен Dogun'ов-отступников, избежавших войны, и этот год не исключение!
 Marock: We shall now entomb the foul demon to join the ranks of the other Doguns on display.@Сейчас мы погребем мерзкого демона, чтобы он вступил в ряды других Dogun'ов в виде статуи.
 Marock: Bring it out, guards!@Приведите его, стража!
-Marock: Beware of it's magical might, it's aggressive nature and it's fierce appearance.@Остерегайтесь его магической мощи, у него агрессивный характер и свирепый вид.
-Marock: It is no match for the superior Dwarves.@Он не сравнится с превосходящими гномами.
-Dogun: The dwarves... are the true... demons!@Гномы... настоящие... демоны!
+Marock: Note its magical might, its aggressive nature, its intense heat, and its fierce appearance.@Обратите внимание на его магическую мощь, агрессивную природу, сильный жар и свирепый внешний вид.
+Marock: All no match for the ingenuity and comeradery of the Dwarven nations!@Все они не сравнятся с изобретательностью и ловкостью гномов!
+Dogun: M-Monsters... You all...are the demons here...@М-Монстры... Вы сами здесь...все демоны...
 Axelus: Every year, every year you do this. Wake up people!@Каждый, каждый год вы это делаете! Люди, очнитесь уже наконец!
-Axelus: Do you all really believe everything they tell you?@Вы действительно верите в то, что они вам говорят?
-Axelus: We won the war, but we weren't the good guys.@Мы выиграли войну, но мы не были хорошими ребятами.
-Axelus: We all see it — Doguns have feelings, family and thoughts, just like you and me!@Мы все это видим - у Dogun'ов тоже есть семьи, чувства, разум, как и у нас всех!
-Axelus: You are encasing live Doguns for entertainment. You people are the true evil in this land.@Вы заливаете живых Dogun'ов для развлечения. Вы, люди, настоящее зло на этой земле.
-Marock: Guards! Get this propaganda spewing half pint to the Rodoroc Prison, north side.@Стража! Отведите этого пропагандиста в тюрьму Rodoroc'а, к северу отсюда.
+Axelus: Every year, every year, every single YEAR you do this. You all need to open your god-blessed eyes for once!@Каждый, каждый, каждый год вы делаете это. Вам всем нужно хоть раз открыть свои благословенные Богом глаза!
+Axelus: Do you all really believe everything they tell you? Do you all just lap it up like dogs?!@Вы действительно верите всему, что они вам говорят? Вы все такие послушные, как собаки?!
+Axelus: Our side won the war, but does that really mean we were in the right? I'll tell you right now, it doesn't!@Наша сторона выиграла войну, но значит ли это, что мы были правы? Я скажу вам прямо сейчас - это не так!
+Axelus: We all see it- The Doguns have feelings, family and thoughts, just like anyone else here!@Мы все это видим - у Dogun'ов есть чувства, семья и мысли, как и у всех здесь!
+Axelus: You are encasing live Doguns for entertainment. Public execution! This twisted display is more demonic than they ever could dream to be!@Вы заливаете живых Dogun'ов для развлечения. Публичная казнь! Этот скрученный дисплей более демонический, чем они когда-либо могли мечтать!
+Marock: Guards! Get this propaganda spewing half pint to the Molten Core Prison, north side.@Стража! Отведите этого пропагандиста в тюрьму Molten Core Prison, к северу отсюда.
 Dwarven Guard: Come along, sir. Let's not make more of a scene.@Пройдемте, сэр. Не будем устраивать потасовку.
-Crowd: Why would Axelus say something like that?@Почему Axelus вообще говорит такое?
-Crowd: What was he talking about?@О чем он говорил?
-Crowd: Has he turned traitor? Maybe he's brainwashed?@Он стал предателем? Может, ему промыли мозги?
-Crowd: At least he is taken to the north side prison, the Molten Core.@Хотя бы его отвели в северную тюрьму - the Molten Core.
-Marock: Apologies all. I shall provide us all with a quick way back to Rodoroc on the floor here.@Прошу прощения. Я обеспечу нам всем быстрый путь обратно в Rodoroc, на этом этаже.
+Crowd: Why would Axelus say something so blatantly wrong?@Почему Axelus говорил что-то настолько вопиюще неправильное?
+Crowd: What was he talking about? That was all nonsense!@О чем это он говорит? Это все чепуха!
+Crowd: Are they really taking him to the Molten Core? You've heard the horror stories about there, right?@Они действительно ведут его в Molten Core? Вы ведь слышали ужасные истории о ней, верно?
+Crowd: Well, the expression 'no hope blows from the north' came from there, since it's on the north side...@Ну, выражение "нет надежды, дующей с севера" пришло оттуда, так как она на северной стороне...
+Marock: Apologies, all. I shall provide us all with a quick way back to Rodoroc on the floor here. We hope you enjoyed the show, despite the interruption!@Прошу прощения у всех. Я предоставлю вам всем быстрый путь назад к Rodoroc'у, который находится здесь. Мы надеемся, что вам понравилось шоу, несмотря на перерыв!
 Axelus: I see you are interested in the truth.@Я вижу тебя интересует правда.
 Axelus: I am no conspiracy nut. The Dwarves have been lied to for hundreds of years about the war.@Я не помешан на заговоре. Гномы лгали о войне сотни лет.
 Axelus: I have seen the truth. I know you will not just take my word, you must also be shown.@Я видел правду. Я знаю, что ты не поверишь моим словам, так что держи.
