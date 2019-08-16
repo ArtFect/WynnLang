@@ -1074,28 +1074,29 @@ Dogun Chieftain: Aval... would have us... leave the Heights... But we... would n
 Dogun Chieftain: We must... evacuate the settlement... immediately. They... are coming... again.@Мы должны... эвакуировать поселение... поселение. Они... придут... снова.
 ???: Ouch, I'm sorry... Excuse us.@Ауч, простите... Извините нас.
 ???: We heard what happened <playername>.@Мы слышали, что случилось <playername>.
-Axelus: Please! You know me. I only want to help.@Пожалуйста! Вы знаете меня. Я хочу лишь помочь.
+Axelus: Please! You all know me, I'm not with the side of the government. Hear me out, we can fix this!@Пожалуйста! Вы все меня знаете, я не на стороне правительства. Послушайте меня, мы можем это исправить!
 Dogun Chieftain: Guards...@Охрана...
-Axelus: No, wait! I have been hiding from the Dwarves just as much as you. They have been hunting me, too.@Нет, подождите! Я прятался от гномов не меньше, чем вы. Они охотятся за мной тоже.
+Axelus: Stop! I have been hiding from the Dwarves just as much as anyone here, they've been after me too!@Стойте! Я прятался от гномов так же, как и все здесь, они тоже преследовали меня!
 Dogun Chieftain: Why... would we... trust you... of all Dwarves?@Почему... мы должны... доверять именно тебе... из всех гномов?
-Dogun Chieftain: How... Can you even help? They... won't listen to you.@Как... ты можешь помочь? Они... не хотят слушать тебя.
+Dogun Chieftain: How...could you even help? They...won't listen to you.@Как... ты можешь помочь? Они... не хотят слушать тебя.
 Axelus: I know all the war strategies and weapon cache locations.@Я знаю все их военные стратегии и места хранения оружия.
 Dogun Chieftain: Treason... Against your own kind...? How will you... manage this?@Измена... Против себе подобных...? Как вы будете... справляться с этим?
 Axelus: The human and I will sneak into the armoury and sabotage their equipment. Korzim will help you Doguns evacuate someplace safer.@Человек и я скрытно проникнем в оружейную и саботируем их вооружение, а Korzim поможет Dogun'ам эвакуироваться в безопасное место.
 Dogun Chieftain: I am...yet wary of you...but we will...follow your plan...Dwarf. Korzim...lead us...to safety.@Я... по-прежнему опасаюсь тебя...но мы...последуем твоему плану...Гном. Korzim...веди нас...в безопасность.
 Axelus: <playername>, follow the southern road from Rodoroc, towards the Sky Islands entrance. I'll be waiting there for you near the armoury.@<playername>, следуй по южной дороге от Rodoroc'а, в сторону входа на Летающие острова. Я буду ждать тебя возле оружейной.
-Axelus: Shush! Look, they are going to enter the armoury.@Тише! Смотри, они собираются войти в оружейную.
-Axelus: We need to sneak in when they aren't watching@Нам нужно прокрасться внутрь, когда они не смотрят.
-Axelus: If they close that door, we are axed. Those Dwarven gates are almost unbreakable.@если они закроют эту дверь, мы обречены. Эти ворота гномов почти нерушимы.
+Axelus: Shh! Get behind here, and look towards the armoury doors.@ТСС! Иди сюда и посмотри на двери оружейной.
+Axelus: We need to sneak in when they aren't looking, got it? But we need to be fast.@Нам нужно прокрасться, когда они не смотрят, понял? Но нам нужно быть быстрыми.
+Axelus: If they close that door, we'll only have one option left, and it's a huge risk. Those Dwarven gates are almost unbreakable.@Если они закроют эту дверь, у нас останется только один вариант, и это огромный риск. Эти ворота гномов почти нерушимы.
 Rodoroc Commander: Alright boys, let's close this up and head to base B.@Ладно, ребята, давайте закроем ее и отправимся на базу Б.
 Axelus: Bad timing, we need to storm them, NOW!@Как не вовремя, мы должны штурмовать их, СЕЙЧАС ЖЕ!
-Commander: It's the Dwarf! Capture them.@Это гном! Схватить его.
-Axelus: We didn't make it in time! Uhhh, gaahhhh. We need to hurry.@Мы не успели вовремя! Уххх, чеерт. Нам нужно поторопиться.
-Axelus: Well, grind my axe blade!@Чтож, заточил я свой топор!
-Axelus: Gahh.. Follow me <playername>, I might know another way.@Черт.. Следуй за мной <playername>, думаю я знаю другой путь.
-Axelus: Okay, let's hurry. I've never used the side entrance before.@Ладно, давай поторопимся. Я никогда раньше не пользовался боковым входом.
-Axelus: The guards will be by any second now. This door is never open.@Охрана прибудет в любую секунду. Эта дверь никогда не открывалась.
-Axelus: Those black bricks look rather weak... maybe we can break them somehow?@Эти черные кирпичи выглядят довольно слабыми... может, мы как-нибудь сможем их сломать?
+Axelus: Aaah! Charge them! HEY, STOP RIGHT THERE, SOLDIERS!@АААХ! Разбираемся с ними! ЭЙ, СТОЙТЕ ЗДЕСЬ, СОЛДАТЫ!
+Commander: It's the traitor! Capture them, now! There's only one reason they would be near the armoury!@Это предатель! Схватите их, сейчас же! Есть только одна причина, по которой они должны быть рядом с оружейной!
+Axelus: Is that all of them? We're out of danger, at least, but they still shut the door, damn it!@И это все? Мы вне опасности, по крайней мере, но они все еще держат дверь закрытой, черт возьми!
+Axelus: Gah, all that for nothing! You're not too banged up, are you?@Эх, все это зря! Ты ведь не сильно пострадал, правда?
+Axelus: Well, I said there's another way, but it's not a guarantee. Hurry, follow me.@Что ж, я сказал, что есть другой способ, но он не гарантирует успеха. Поторопись, следуй за мной.
+Axelus: Urgh, damn it. They almost never bother to close this door, and now of all times...@Черт возьми. Они почти никогда не утруждали себя тем, чтобы закрыть эту дверь, а теперь все-таки решились...
+Axelus: There's nothing for it. They'll be sending reinforcements soon, we need a way through here.@Тут уж ничего не поделаешь. Они скоро пришлют подкрепление, нам нужно найти путь сюда.
+Axelus: Those black bricks look breakable...but that won't solve the door, will it?@Эти черные кирпичи выглядят §lхрупкими§a...но решит ли это проблему двери?
 Axelus: Alright, let's destroy these machines! You see the two cannons?@Хорошо, давай уничтожим эти машины! Видишь две пушки?
 Axelus: If you use rocks as ammo, you'll destroy the machine it's aiming at, but if you use tnt, it'll selfdestruct. Good luck@Если ты используешь камни в качестве боеприпасов, то уничтожишь машину, в которую нацелена пушка, но если ты используешь динамит, она самоуничтожится. Удачи
 Axelus: Nice work! That will slow them down. We're not done yet, we need to pay the king a visit. Let's head further into Rodoroc.@Хорошая работа! Это их замедлит. Но мы еще не закончили, нам нужно нанести визит королю. Пошли дальше в Rodoroc.
