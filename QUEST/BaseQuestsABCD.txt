@@ -1137,31 +1137,33 @@ Axelus: Give this letter to Korzim in the Dogun village when you reach level 93.
 Axelus: I'm going to have one last talk with my father.@Я собираюсь поговорить в последний раз с моим отцом.
 
 Dwarves_and_Doguns_Part_III.html
-Korzim: We... have an issue.@У нас... проблема.
-Korzim: Wait... Where is... Axelus?@Подожди... где... Axelus?
-Korzim: He went back to... the king? There's... no one... else. You... will have to... help.@Он пошел... обратно...к королю? Никого... не осталось.. ты должен... помочь.
-Korzim: I overheard the chieftain... They are planning on summoning Garaheth.@Я подслушал разговор вождей... Они собираются.. призвать Garaheth'а.
-Korzim: If they... succeed... we all... die.@Если у них... получится... мы все ... умрем.
-Korzim: Garaheth... is a... demon God.@Garaheth...это...бог демонов.
-Korzim: We... need to find out... their plan... I... do not know... enough about it... They went.. To the south structure.@Нам нужно... узнать их план. Я не знаю... достаточно... о них. Они ушли... к сооружению на юге.
-Korzim: Meet me... there... Don't go running... in. We need to... be careful... I'll be waiting next to the stair...case.@Встретимся... там. Не вламывайся. Нам нужно... быть осторожными. Я... буду ждать тебя... возле лестницы.
-Korzim: <Playername>... You must... Be quiet.@<playername>... Будь... потише.
-Korzim: We.. need to see... what they do... Let's go up... this tower.@Нам нужно... увидеть что они... делают. Пошли... наверх этой... башни.
-Korzim: I can't... make out what they're... saying.@Я не могу... услышать...о чем они говорят.
-Dogun Chieftain: <Illiterate text>... Garaheth@<непонятный текст>... Garaheth
-Korzim: It's true... We need to prepare for the worst case of scenario... Meet me in Maex. We'll talk more there...@Это... правда. Нам нужно... подготовиться к худшему... сценарию. Встретимся... в Maex'е...Там поговорим больше.
-Korzim: Psst...Over here... It's me... Korzim... I'm... disguised.@Эй, сюда. Это... я, Korzim... я под прикрытием.
-Korzim: I... make a... convincing Ddwarf... Right?@Я выгляжу... как убедительный гном... верно?
-Korzim: There's a... blacksmith in town... Follow me...@Здесь есть... кузница в городе... Идем за мной...
-Edula: Korzim, what is that gosh awful disguise?@Korzim, что это за ужасная маскировка?
-Edula: I'm surprised you fooled anyone with that thing. How did you stop the beard from burning?@Я удивлен, что ты одурачил кого-то этой штукой. Как тебе удалось не сжечь накладную бороду?
-Edula: Who's the Human friend, Korzim?@Кто этот друг-человек, Korzim?
-Korzim: An ally... of the coalition. There's... no time, Edula. Doguns... summoning... Garaheth.@Союзник... У нас нет... времени, Edula. Dogun'ы призывают Garaheth'a.
-Edula: You're not serious, are you? Do your people want to kill everyone?!@Ты ведь не серьезно, правда? Эти люди хотят всех убить?!
-Edula: Say no more Korzim. I never thought the fight would hit such a low. We need to prepare. Soldier, you need to get this stuff, now.@Ни слова больше, Korzim. Я никогда не думал, что они опустятся так низко. Нам нужно подготовиться. Так, солдат, тебе нужно будет достать вот эти предметы.
-Edula: I will need [10 Fire Webs] there should be a cave of heatscar spiders right at the entrance of Maex.@Мне нужны [10 Fire Webs], их можно достать в пещере рядом со входом в город.
-Edula: I also need [3 Magmatic Crystals] from the Maex mines.@Также нужны [3 Magmatic Crystals] из шахт Maex'a.
-Edula: And lastly, [1 Crystallized Lava], you can often find them in lava pools. There should be one near the house above the lake outside Maex.@И последнее, [1 Crystallized Lava], ее часто можно найти в лавовых бассейнах. Здесь должно быть одно такое рядом с домом на озере, за пределами Maex'a.
+Korzim: We...have an issue. A dire one... Where is...Axelus at a time...like this?@У нас...есть проблема. Ужасный случай... Где...Axelus когда он...так нужен?
+Korzim: ...human... This is a brick.@...человек...Что за табличка.
+Korzim: Oh... From Axelus, then...? He could not find...a stone? That...does not bode well.@Ох... Значит, от Axelus'а...? Он не мог найти...камень? Что ж...это не сулит ничего хорошего.
+Korzim: He is trying to...reason with the Dwarven King? There is...no one else...then. You... You will have to...help.@Он пытается...договориться с королем гномов? Значит...нет никого еще...тогда. Ты... Тебе придется это сделать...помочь.
+Korzim: The chieftain is...desperate. He has enacted a...terrible plan. They are planning on summoning Garaheth.@Вождь в...отчаяннии. Он принял решение...ужасный план. Они планируют вызвать §lGaraheth'а.
+Korzim: If they succeed...we all die. Dwarves... Doguns... Possibly even Villagers...and then... Humans as well.@Если им это удастся...мы все умрем. Гномы... Dogun'ы... Возможно, даже жители...и... И люди тоже.
+Korzim: Garaheth is a...horrible demon. We used to worship him...thousands of years ago.@Garaheth - это...ужасный демон. Мы привыкли поклоняться ему...тысячи лет назад.
+Korzim: I only overheard parts... But enough to be certain. They are preparing...to the south. At a disused...ritual site.@Я только подслушивал части... Но этого достаточно, чтобы быть уверенным. Они готовятся...на юге. На заброшенном...ритуальном месте.
+Korzim: Meet me there... Do not just attack. We may be able to...resolve it peacefully. I will wait...by the staircase.@Встретимся там... Не пытайся атаковать. Возможно, нам удастся...разрешите все мирным путем. Я буду ... ждать...на лестнице.
+Korzim: <playername>...I take back my statement. They have already begun... There cannot be reasoning.@<playername>...Я беру свои слова обратно. Они уже начали... Здесь не может быть обсуждений.
+Korzim: We shall take the east tower... Hide there...and watch.@Мы возьмем восточную башню... Спрячемся там...и будем смотреть.
+Korzim: Interrupting...at this point will have...disastrous consequences. We must let them continue...and pray they fail.@Перебивать...в этот момент, будут...губительные последствия. Мы должны позволить им продолжать...и молиться, чтобы они потерпели неудачу.
+Dogun Chieftain: Reach into the darkness...and grasp the hand of Garaheth to purge the intruders...@§kПроникнуть в темноту...и использовать руку §r§4Garaheth§k§a чтобы очистить все от незваных гостей...
+Korzim: This is a worst-case scenario... Meet me in Maex. We will talk more there...@Это наихудший сценарий... Встретимся в Maex'е. Там мы еще поговорим...
+Korzim?: Hoho...! Over here...fine traveler! Join me at the gates!@Хо-хо...! Сюда...прекрасный путешественник! Присоединяйтесь ко мне у ворот!
+Korzim: This dwarf voice is...horrible on my throat...but it is an effective disguise...is it not?@Этот голос гнома...ужасен из моей глотки...но это эффективная маскировка...не так ли?
+Korzim: We are headed to...a blacksmith in town. Follow me...@Мы направляемся к...кузнецу в городе. Следуй за мной...
+Edula: ...Korzim...what in the name of all that is holy is that disguise?@...Korzim...во имя всего святого, что это за маскировка?
+Edula: I'm flabbergasted you fooled anyone with that thing! How did you stop the beard from burning?@Я поражен, что ты обманул кого-то с этой штукой! Как ты смог остановить горение бороды?
+Edula: But, erm...more importantly, who's the buck in the fancy armour there?@Но, ээм...и что еще более важно, кто этот олень в модных доспехах?
+Korzim: An ally...of the coalition. No time...Edula. Doguns... summoning... Garaheth.@Союзник...из коалиции. Нет времени...Edula. Dogun'ы... призывают... §lGaraheth'a.
+Edula: So...so it's really down to that low, then. Burning your own house down to kill the rats.@Так значит...они действительно решились на такое. Сжечь свой собственный дом, чтобы убить крыс.
+Edula: Good thing we've got this prepared. One fallout will prevent the next. Soldier, I've got a list of materials we need!@Хорошо, что мы подготовимся к этому. Одно выпадение осадков предотвратит следующее. Солдат, у меня есть список материалов, которые нам нужны!
+Edula: You will need [10 Fire Webs] . The Heatscar Spiders under the town make them, there's a cave right by the entrance arch.@Тебе понадобятся §3[10 огненных паутин]§a. Их делают пауки Heatscar Spiders под городом, прямо у входной арки есть пещера.
+Edula: Then, [3 Magmatic Crystals] from the Maex mines. I'd get them myself, but...I'm banned from there since the rubber mallet incident.@Затем §3[3 магматических Кристалла]§a из шахт Maex'a. Я бы сам их достал, но...меня туда не пускают после инцидента с резиновым молотком.
+Edula: Lastly, [1 Crystallized Lava]. The closest source is in the lava lake just outside Maex. There's a protruding crater in the lake.@Наконец, §3[1 Кристаллизованная Лава]§a. Ближайший источник находится в озере лавы недалеко от Maex'а. Там в озере есть выступающий кратер.
+
 Korzim: I can feel the... crystal behind... This lava.@Я чувствую... кристалл позади... этой лавы.
 Korzim: Get ready... to run... when I move... the lava.@Будь готов... бежать... когда я подвину... лаву.
 Korzim: RUN!@БЕГИ!
