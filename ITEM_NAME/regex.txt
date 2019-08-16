@@ -1,1 +1,6 @@
 §fUnprocessed (.*)§8 \[(.*)\]@ 
+§a§lWorld (\d+)@ 
+§(e|d|b|a)Unidentified (.*)@ 
+§4([a-zA-Z0-9_]{1,16}): §cClick here to continue the trade.@ 
+§6([a-zA-Z0-9_]{1,16}): §eClick here to accept the trade.@ 
+§2([a-zA-Z0-9_]{1,16})§a has accepted the trade!@ 

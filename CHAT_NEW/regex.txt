@@ -1,27 +1,43 @@
 общий
 §7\[(.*)\]§r(.*): §r§(.*)§r@ 
-
 гильдия
 §3\[§r§(.*)\]§r§b (.*)§r@ 
-
 пати
 §7\[§r(.*)§r§7\] §r§f(.*)§r@ 
-
 лс
 §7\[§r(.*)§r§6 ➤ §r(.*)§r§7\] §r§f(.*) §r@ 
-
 шаут
 §3(.*) \[WC(.*)\] shouts: §r§b(.*)§r@ 
-
 лобби
 §7\[§r(.*)§r§7\] §r§f(.*)§r@ 
-
 §6\[Info\] §r§eLook at your own personal stats at §r§6(.*)§r§e!§r@§6[§r§eИнфо§r§6] §r§eПосмотри свою персональную статистику на §r§6(r1)§r§e!§r
 §4(.*)§r§c is currently on server (.*)§r@§4(r1)§r§c сейчас на сервере (r2)§r
 §b(.*)§r§7 gave you §r§c\[\+(.*)\].§r@§b(r1)§r§7 дал тебе §r§c[+(r2)].§r
 §b(.*)§r§7 gave you §r§b+3 minutes§r§7 speed boost.§r@§b(r1)§r§7 дал тебе §r§b+3 минуты§r§7 буста скорости.§r
 §b(.*)§r§3 has thrown a §r§bCombat XP Bomb§r§3! The entire server gets §r§bdouble combat xp §r§3for §r§b20 minutes§r§3!§r@§b(r1)§r§3 бросил §r§bCombat XP бомбу§r§3! Весь сервер получает §r§bдвойные combat xp §r§3на §r§b20 минут§r§3!§r
-§8\[§r§7!§r§8\] §r§7Congratulations to §r§f(.*)§r§7 for reaching §r§flevel (.*) in §r§f(.*)§r§7!§r@§8[§r§7!§r§8] §r§7Поздравляем §r§f(r1)§r§7 с достижением §r§fуровня (r2) в §r§f(r3)§r§7!§r
-§3\[Parkour\] §r§bCongratulations! §r§3(.*)§r§b finished the parkour in §r§3(.*) seconds§r§b!§r@§3[Паркур] §r§bПоздравляем! §r§3(.*)§r§b закончил паркур за §r§3(.*) секунд§r§b!§r
+§8\[§r§7!§r§8\] §r§7Congratulations to §r§f([a-zA-Z0-9_]{1,16})§r§7 for reaching §r§flevel (.*) in §r§f(.*)§r§7!§r@§8[§r§7!§r§8] §r§7Поздравляем §r§f(r1)§r§7 с достижением §r§fуровня (r2) в §r§f(r3)§r§7!§r
+§8[§r§7!§r§8] §r§7Congratulations to §r§f([a-zA-Z0-9_]{1,16})§r§7 for reaching combat §r§flevel (.*)§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) комбат уровня§7!
+§3\[Parkour\] §r§bCongratulations! §r§3([a-zA-Z0-9_]{1,16})§r§b finished the parkour in §r§3(.*) seconds§r§b!§r@§3[Паркур] §r§bПоздравляем! §r§3(.*)§r§b закончил паркур за §r§3(.*) секунд§r§b!§r
 §5Key Collector: §r§dYou do not yet have a high enough combat level to access this dungeon. Come back when you're at least combat level (.*).§r@§5Key Collector: §r§dУ тебя недостаточный комбат уровень для доступа в этот данж. Возвращайся, когда будешь (r1) комбат уровня.§r
-§3\[Parkour\] §r§bYou completed §r§3Lv. (.*)§r§b in §r§(.*) seconds§r§b.§r@ 
+§3\[Parkour\] §r§bYou completed §r§3Lv. (.*)§r§b in §r§(.*) seconds§r§b.§r@ §3[Паркур] §bТы завершил §r§3Ур. (r1)§b за §(.*) секунд§b.
+§9(.*) would like to duel! Type §r§6(.*)§r§9 to accept.§r@§b(r1) хочет дуэли с тобой! Напиши §6(r2)§9 для принятия.
+§7\[New Quest Started: (.*)\]§r@§7[Начат новый квест: (r1)]
+§7\[Questline Started: (.*)\]§r@§7[Начата серия квестов: (r1)]
+§a§l\[Mini-Quest Started: (.*)\]§r@§a[Начат новый мини-квест: (r1)]
+§7\[You are now entering (.*)\]§r@§7[Ты входишь в (r1)]
+§7\[You are now leaving (.*)\]§r@§7[Ты покидаешь (r1)]
+§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §r§f(.*)§r@§6(r1) достиг (r2) уровня в §f(r3)
+§7\[You have received (\d+) soul points while you were offline\]§r@§7[Ты заработал (r1) soul point'ов, пока был не в сети]
+§d( +)- §r§7\+(\d+) Experience Points§r@§d(r1)- §7\+(r2) Очков опыта
+§d( +)- §r§7\+28 Emeralds§r@§d(r1)- §7+(r2) Эмеральдов
+§7\+1 Maximum Soul Points §r§8\[Total: (\d+)\]§r@§7+1 к максимуму числа душ §8[Всего: (r1)]
+§a([a-zA-Z0-9_]{1,16}) left the game.§r@§a(r1) покинул игру.
+§5([a-zA-Z0-9_]{1,16}) would like to trade! Type §r§6/trade ([a-zA-Z0-9_]{1,16})§r§5 to accept.§r@§5(r1) хотел бы поторговать с тобой! Напиши §6/trade (r2) §5для принятия.
+§c(.*)§r§4 is not a §r§c(.*)§r§4 weapon. You must use a §r§c(.*).§r@§c(r1)§4 не оружие для §c(r2)§4. Ты должен использовать §c(r3)
+§4([a-zA-Z0-9_]{1,16}) has already claimed this loot chest!§r@§4(r1) уже забрал этот сундук с лутом!
+§4You still have (\d+) unused skill points! Click with your compass to use them!§r@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
+§f§lYou've gotten a (.*)§r§f§l reward!§r@§f§lТы получил (r1)§f§l награду!
+§7([a-zA-Z0-9_]{1,16}) has gotten a §r(.*)§r§7 from their crate. Buy your own at §r§7wynncraft.com\/store§r@§7(r1) получил (r2) из своего контейнера. Купи свой собственный на §7wynncraft.com/store
+§4This potion is for Combat Lv. (\d+)\+ only.§r@§4Это зелье только для уровней (r1)+
+§c(.*)§r§4 requires your (strength|dexterity|intelligence|defense|agility) skill to be at least §r§c(\d+).§r@§c(r1) §4требует, чтобы твое умение (r2) было не меньше §c(r3).
+§cYou are no longer tracking §r§6§l(.*)§r@§cТы больше не отслеживаешь §6§l(r1)

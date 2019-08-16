@@ -1,37 +1,15 @@
-\[!\] Congratulations to (.*) for reaching combat level (.*)!@§7[!] Поздравляем §f(r1)§7 с достижением §f(r2) комбат уровня§7!
-(.*) would like to duel! Type (.*) to accept.@§b(r1) хочет дуэли с тобой! Напиши §6(r2) §bдля принятия.
-\[New Quest Started: (.*)\]@§7[Начат новый квест: (r1)]
-\[Questline Started: (.*)\]@§7[Начата серия квестов: (r1)]
-\[Mini-Quest Started: (.*)\]@§a[Начат новый мини-квест: (r1)]
-\[You are now entering (.*)\]@§7[Ты входишь в (r1)]
-\[You are now leaving (.*)\]@§7[Ты покидаешь (r1)]
-(.*) is now level (.*) in (.*)@§6(r1) достиг (r2) уровня в (r3)
 (.*) is for level (.*) only@§7(r1) только для уровней (r2)+
-\[You have received (.*) soul points while you were offline\]@§7[Ты заработал (r1) soul point'ов, пока был не в сети]
-( +)- \+(\d+) Experience Points@§d(r1)-§r§7 +§r§f(r2)§r§7 Очков опыта
-\+(.*) Emeralds@§7           §d- +(r1) эмеральд (а/ов)
-\+1 Maximum Soul Points \[Total: (.*)\]@§7+1 к максимуму числа душ [Всего: (r1)]
 (.*) has logged into server (.*) as a (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
-(.*) has logged into server (.*) as an (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
-(.*) left the game.@§7(r1) покинул игру.
-(.*) would like to trade! Type (.*) to accept.@§5(r1) хотел бы поторговать с тобой! Напиши §6(r2) §5для принятия.
-(.*) is not a (.*) weapon. You must use a (.*).@§7(r1) не оружие для (r2) . Ты должен использовать (r3)
 (.*) has given you 20% resistance and 10% strength.@§b(r1) §7дал тебе 20% к сопротивлению и 10% к силе.
 You will now contribute (.*)% of your XP to (.*)@§bТеперь ты вносишь (r1)% от своих очков опыта в (r2)
 \[Daily Rewards: (.*) emeralds and (.*) items\]@§7[Ежедневная награда: (r1) эмеральд (а/ов) и (r2) предмета]
 Please wait an additional (.*) minutes before opening this chest.@§7Пожалуйста, подожди еще (r1) минут, прежде чем открывать этот сундук.
 Please wait an additional (.*) seconds before opening this chest.@§7Пожалуйста, подожди еще (r1) секунд, прежде чем открывать этот сундук.
-(.*) has already claimed this loot chest!@§7(r1) уже забрал этот сундук с лутом!
 \[\+(.*) for (.*) seconds\]@§7[+(r1) на (r2) секунд]
-You still have (.*) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
-You've gotten a (.*) reward!@§7Ты получил §6(r1)§7 награду!
-(.*) has gotten a (.*) from their crate. Buy your own at wynncraft.com\/store@§7(r1) получил (r2) из своего контейнера. Купи свой собственный на §6wynncraft.com/store
 (.*) has thrown a combat XP Bomb! The entire server gets double xp for 20 minutes!@§7(r1) бросил XP Бомбу! Весь сервер получает удвоенные очки опыта на 20 минут!
-This potion is for Combat Lv. (.*)\+ only.@§4Это зелье только для уровней (r1)+
 (.*) quest items have been returned.@§7(r1) квестовых предметов было возвращено.
-(.*) requires your (.*) skill to be at least (.*).@§c(r1) §4требует, чтобы твое умение “(r2)” было не меньше §c(r3).
 You have unlocked page (.*) in your bank@§7Ты разблокировал (r1) страницу в своем банке
-You are no longer tracking (.*)@§7Ты больше не отслеживаешь (r1)
+
 (.*) has thrown an Item Bomb!@§7(r1) бросил Предметную бомбу!
 \+ Spell Upgrade \[(.*)\]@§7+ Апгрейд заклинания [(r1)]
 \+ New Spell \[(.*)\]@§7+ Новое заклинание [(r1)]
