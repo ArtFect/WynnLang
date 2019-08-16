@@ -1,0 +1,8 @@
+§7\[You are now leaving (.*)\]§r@ 
+§7\[You are now entering (.*)\]§r@ 
+§(4|7)0:(\d+)§r@ 
+§4 \[§r§c!§r§4\] §r§7Defuse the TNT! §r§8- (\d+)§r@ 
+§3(.*) threw an item bomb§r@ 
+§cThe cave collapses in (\d+) second(|s)§r@ 
+§6Bridge deploys in (\d+) second(|s)§r@ 
+§c(\d+)§r@ 
