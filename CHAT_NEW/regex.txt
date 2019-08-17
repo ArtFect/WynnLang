@@ -41,3 +41,21 @@
 §4This potion is for Combat Lv. (\d+)\+ only.§r@§4Это зелье только для уровней (r1)+
 §c(.*)§r§4 requires your (strength|dexterity|intelligence|defense|agility) skill to be at least §r§c(\d+).§r@§c(r1) §4требует, чтобы твое умение (r2) было не меньше §c(r3).
 §cYou are no longer tracking §r§6§l(.*)§r@§cТы больше не отслеживаешь §6§l(r1)
+§a\+ Spell Upgrade §r§2\[(.*)\]§r@§a+ Апгрейд заклинания §2[(r1)]
+§a\+ New Spell §r§2\[(.*)]§r@§a+ Новое заклинание §2[(r1)]
+§4You need §r§c(\d+)§r§4 more levels before you can unlock this page of the bank§r@§4Тебе нужно еще §c(r1)§4 уровней, прежде чем ты сможешь разблокировать эту страницу банка
+§5Blacksmith: §r§dYou sold me: (.*) for a total of §r§e(\d+)§r§d emeralds. It was a pleasure doing business with you.§r@§5Blacksmith: §dТы продал мне (r1) за §e(r2)§d эмеральдов. Было приятно иметь с тобой дело.
+§cThe server is restarting in (\d+) seconds.§r@§cСервер перезагрузится через (r1) секунд
+§cThe server is restarting in (\d+) minutes.§r@§cСервер перезагрузится через (r1) минут
+§5\[§r(.*)§r§5\] §r§d([a-zA-Z0-9_]{1,16})§r§5 has just logged in!@§5\[(r1)§5\] §d(r2)§5 только что зашел!
+§5Item Identifier: §r§dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds.§r@§5Item Identifier: §dБоюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить §6(r1) эмеральдов
+§6([a-zA-Z0-9_]{1,16}) is now combat level (\d+)§r@§6(r1) достиг (r2) комбат уровня
+§6([a-zA-Z0-9_]{1,16})§r§9 has won the duel!§r@§6(r1)§9 выиграл дуэль!
+§4This material cannot be used for (.*)@§4Этот материал не может использоваться для (r1)
+§6#(\d+)§r§f ([a-zA-Z0-9_]{1,16})§r§8 - §r§7(\d+) XP§r§8 - §r§7(\d+)²§r§8 - §r§7Joined (.*)@§6#(r1)§f (r2)§8 - §7(r3) XP§8 - §7(r4)²§8 - §r§7Joined (r5)
+§4You need to use §r§c(?:a|an) (.*)§r§4 to gather from this resource!§r@§4Тебе нужно использовать §c(r1) §4чтобы собрать этот ресурс
+§4This machine can only process §r§c(.*)@§4Эта машина перерабатывает только §c(r1)
+§4Did you mean §r§c(.*)\? §r§4If not, type \/help to see the commands!§r@§4Ты имел в виду §c(r1)? §4Если нет, напиши /help, чтобы увидеть список команд!
+§5(.*): §r§dI'm afraid you cannot afford that item.§r@§5(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
+§5(.*): §r§dI'm afraid you don't have enough space in your inventory to buy that.§r.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
+§5(.*): §r§dThank you for your business. Come again!§r@@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
