@@ -70,7 +70,9 @@
 §5- §3Secret: §b(.*)§3 \[(.*)\]@ 
 §6Speed: (.*)@ 
 §6Jump: (.*)@ 
-§3Crafted (.*)§8 [(.*) Durability]@ 
+§3Crafted (.*)§8 \[(.*) Durability\]@ 
+§7Potential Price: §a(\d+)§f-§a(\d+)§2²@ 
+§b- §c❤ Health: §f(\d+)\/(\d+)@ 
 §d- §7Health Regen: §f(.*)@ 
 §d- §7Mana Regen: §f(.*)@ 
 §d- §7Melee Damage: §f(.*)@ 
@@ -103,3 +105,25 @@
 §e- §7XP: §f(.*)@ 
 §e- §7Soul Points: §f(.*)@ 
 §e- §7Finished Quests: §f(.*)@ 
+§b- Total Damage \(\+Bonus\): (\d+)-(\d+)@ 
+§5\[RRR\] §dTeleport Spell: §f§f(\d+)-(\d+)@ 
+§5\[RLL\] §dMeteor Spell: §f§f(\d+)-(\d+)@ 
+§5\[RRL\] §dIce Snake Spell: §f§f(\d+)-(\d+)@ 
+§5\[RLR\] §dBash Spell: §f§f(\d+)-(\d+)@ 
+§5\[RRR\] §dCharge Spell: §f§f(\d+)-(\d+)@ 
+§5\[RLL\] §dUppercut Spell: §f§f(\d+)-(\d+)@ 
+§5\[RRL\] §dWar Scream Spell: §f§f(\d+)-(\d+)@ 
+§5\[RLR\] §dSpin Attack Spell: §f§f(\d+)-(\d+)@ 
+§5\[RLL\] §dMulti Hit Spell: §f§f(\d+)-(\d+)@ 
+§5\[LRL\] §dArrow Storm Spell: §f§f(\d+)-(\d+)@ 
+§5\[LRR\] §dBomb Spell: §f§f(\d+)-(\d+)@ 
+§5\[LLR\] §dArrow Shield Spell: §f§f(\d+)-(\d+)@ 
+§5\[LLL\] §dEscape Spell: §f§f(\d+)-(\d+)@ 
+§5\[RRL\] §dSmoke Bomb Spell: §f§f(\d+)-(\d+)@ 
+§7Price: §a(\d+) emeralds@ 
+§7You have: §a(\d+) emeralds@ 
+§7    (\d+) points      §6(\d+) points@ 
+§7Total Lv: §f(\d+)@ 
+§7Combat Lv: §f(\d+)@ 
+§7Quests: §f(\d+)\/(\d+)@ 
+§7XP: §f(\d+)%@ 
