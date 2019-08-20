@@ -53,6 +53,10 @@ QUESTS/A_Fighting_Species.txt
 §7Talk to Darnes in the 
 §7villager camp at 
 §7[-1406,43,-5073]
+§7Win the duel versus Gorgu 
+§7and talk back to Darnes 
+§7with [Gorgu's Handprint] and the 
+§7[Orc Mask]
 
 QUESTS/A_Grave_Mistake.txt
 §7§4., §lSTAY§4;.  '§lAWAY§4:, .§lFROM§4;, 
@@ -72,6 +76,8 @@ QUESTS/A_Sandy_Scandal.txt
 §7Go to the witness report 
 §7location at 
 §7[954,75,-1985]
+§7Open the vault in the 
+§7basement [Code: 7812]
 §7Look for signs of the 
 §7bandits' whereabouts 
 §7Find the source of the 
@@ -174,6 +180,9 @@ QUESTS/Corrupted_Betrayal.txt
 §7way to break the barrier 
 §7Get through Slykaar’s dimension to 
 §7reach the incantation 
+§7Go to Slykaar’s residence to 
+§7find out what is hidden 
+§7there 
 
 QUESTS/Cowfusion.txt
 §7Talk to Ranol at 
@@ -529,6 +538,11 @@ QUESTS/Jungle_Fever.txt
 §7Talk to Worid in the 
 §7jungle village at 
 §7[-760,79,-666]
+§7Talk to Detlas's Banker about 
+§7the cure for Worid 
+§7Infiltrate Almuj's Secret Emerald Labyrinth 
+§7and find the Banker in 
+§7the Emerald Room 
 
 QUESTS/King%27s_Recruit.txt
 §7Exit the caravan 
@@ -583,6 +597,12 @@ QUESTS/Lost_in_the_Jungle.txt
 QUESTS/Lost_Royalty.txt
 §7Talk to Yavlis in Troms 
 §7[-848,85,-875]
+§7Talk to the mercenary leader 
+§7in their hideout outside Troms 
+§7Bring the talisman back to 
+§7the mercenary leader 
+§7Report back to Yavlis with 
+§7the news 
 
 QUESTS/Lost_Soles.txt
 §7Talk to Ferndor at 
@@ -613,13 +633,26 @@ QUESTS/Maltic%27s_Well.txt =====
 §7and bring [1 Witch's Empty 
 §7Bottle] to Rynend 
 
-QUESTS/Master_Piece.txt
+QUESTS/Master_Piece.txt =====
 §7Talk to Caissop, the Artist, 
 §7in his tent at 
 §7[-1802,55,-5190]
 §7Search for the first mythical 
 §7creature in the cave at 
 §7[-1833,69,-5144]
+§7Report back with the description 
+§7of the legendary Villager Cow 
+§7to Caissop 
+§7Search for the second mythical 
+§7beast in the cave at 
+§7[-1761,55,-5112]
+§7of the fabulous Unicorn Sheep 
+§7Search for the third and 
+§7last mythical animal in the 
+§7cave at 
+§7[-1763,54,-5167]
+§7of the amazing Pigasus to 
+§7Caissop 
 
 QUESTS/Meaningful_Holiday.txt
 §7Talk to Haily in Almuj 
@@ -630,7 +663,9 @@ QUESTS/Meaningful_Holiday.txt
 §7[936,68,-1841]. 
 §7Go to the budget store 
 §7[943,75,-1879]
-§7and ask for food. 
+§7and ask for food.
+§7Look for food on the 
+§7second floor. 
 §7Return to Nick and tell 
 §7him the bad news.
 §7Bring the blanket to the 
@@ -650,6 +685,12 @@ QUESTS/Memory_Paranoia.txt
 §7Speak to Atisun in front 
 §7of Erca Mansion at 
 §7[-1192,46,-5198]
+§7Enter Erca Mansion 
+§7Enter the basement and recover 
+§7the Library Key 
+§7Bring the key to the 
+§7Master Bedroom 
+
 
 QUESTS/Mixed_Feelings.txt
 §7Go for a drink at 
@@ -681,6 +722,14 @@ QUESTS/Out_of_my_Mind.txt
 §7Speak with the Troms children 
 §7[-860,93,-961]
 §7inside the treehouse 
+§7Find the hidden door next 
+§7to the Undergrowth Ruins outside 
+§7Troms 
+§7Explore the hidden lab in 
+§7search of information 
+§7Build a machine to hit 
+§7your head and get back 
+§7to normal 
 
 QUESTS/Pirate%27s_Trove.txt
 §7Talk to Damiral, outside Llevigar 
@@ -1078,6 +1127,7 @@ QUESTS/The_Worm_Holes.txt
 §7Investigate the hole to the 
 §7north in the lake 
 §7[-2044,50,-5529]
+§7Return to Malo 
 
 QUESTS/Tower_of_Ascension.txt
 §7Talk to Ankou at 
