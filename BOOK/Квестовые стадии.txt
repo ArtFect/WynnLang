@@ -28,12 +28,15 @@ QUESTS/Aldorei%27s_Secret_Part_II.txt
 §7Activate the device beneath the 
 §7shrine in Aldorei Town
 
-QUESTS/An_Iron_Heart_Part_I.txt
+QUESTS/An_Iron_Heart_Part_I.txt =====
 §7Speak with Duvale at 
 §7[-1608,51,-4957]
 §7Find the defective Guard Golem 
 §7in the mountain at 
 §7[-1705,93,-5092]
+§7Kill the defective Guard Golem 
+§7and return the parts to 
+§7Duvale. 
 
 QUESTS/An_Iron_Heart_Part_II.txt
 §7Speak to Detective Hart at 
@@ -84,6 +87,15 @@ QUESTS/Beneath_the_Depths.txt
 §7Talk to Javier in the 
 §7Pirate Cove at 
 §7[-640,53,-3117]
+§7Find Javier's map, hidden in 
+§7the skull tomb at the 
+§7entrance of the island 
+§7Explore the cave in the 
+§7ocean, located at 
+§7[-187,16,-3452]
+§7Find [1 Ocean Treasure] and 
+§7bring it back to Javier 
+§7in Pirate Cove 
 
 QUESTS/Beyond_the_Grave.txt
 §7Speak to Irlok in the 
@@ -145,19 +157,23 @@ QUESTS/Cluck_Cluck.txt
 §7[-83,45,-2497]
 
 QUESTS/Cook_Assistant.txt =====
-{
 §7Talk to the Cook in 
 §7Ragni at 
 §7[-853,67,-1564]
 §7Find [2 Egg], [1 Milk] 
 §7and [3 Wheat] for the 
 §7Cook 
-}
 
 QUESTS/Corrupted_Betrayal.txt
 §7Talk to the Troms Mage 
 §7at the dungeon entrance at 
 §7[-641,59,-872]
+§7Use the Mage’s riddle to 
+§7figure out where it leads 
+§7Explore the temple for a 
+§7way to break the barrier 
+§7Get through Slykaar’s dimension to 
+§7reach the incantation 
 
 QUESTS/Cowfusion.txt
 §7Talk to Ranol at 
@@ -169,8 +185,14 @@ QUESTS/Craftmas_Chaos.txt
 §7Find Santa on his christmas 
 §7island at 
 §7[1126,41,-3145]
+§7Travel through Santa's time portal 
+§7to Selchar's past
 §7Talk to Tommy in Selchar's 
 §7past 
+§7Find a survivor and find 
+§7out about what happened 
+§7Kill Santa and bring back 
+§7a proof to Old Tom 
 §7Return to the present and 
 §7report back to Santa 
 
@@ -223,6 +245,7 @@ QUESTS/Deja_Vu.txt
 §7Asher from his death. 
 §7Talk to Asher. 
 §7Enter Asher's house.
+§7Talk to Old Man Martyn. 
 
 QUESTS/Desperate_Metal.txt
 §7Speak to Phinas on Corkus @§7Поговори с Phinac на Corkus
@@ -256,6 +279,8 @@ QUESTS/Dwarves_and_Doguns_Part_IV.txt
 QUESTS/Dwelling_Walls.txt
 §7Talk to Leucsaa at 
 §7[201,38,-2173]
+§7Grab the journal and exit 
+§7the mansion 
 
 QUESTS/﻿Elemental_Exercise.txt =====
 §7Talk to Ragon on the 
@@ -450,6 +475,8 @@ QUESTS/Green_Skinned_Trouble.txt
 §7Hunt down the nearby orcs 
 §7at the green, red, and 
 §7black camps. 
+§7Return the Magic Axe to 
+§7the Detective 
 
 QUESTS/Haven_Antiquity.txt
 §7Talk to Cinfras on the 
@@ -507,6 +534,8 @@ QUESTS/King%27s_Recruit.txt
 §7Exit the caravan 
 §7Walk down the path towards 
 §7the Wynn Province 
+§7Continue through the Wynn Province 
+§7to the castle 
 §7Talk to the old man 
 §7Harvest [2 Wheat] and bring 
 §7it to the Old Man 
@@ -514,15 +543,22 @@ QUESTS/King%27s_Recruit.txt
 §7Wood] and bring them to 
 §7Aledar 
 §7Search for another way across 
+§7Process your copper ore into 
+§7[2 Copper Ingots] and bring 
+§7them to Aledar 
+§7Show your weapon to the 
+§7guard and enter the cave 
 §7Enter the castle 
 
-QUESTS/Kingdom_of_Sand.txt
+QUESTS/Kingdom_of_Sand.txt =====
 §7Find out what's going on 
 §7at the Sand Swept Tomb 
 §7Attempt to enter the outlaw's 
 §7hideout at [1314, 90, -1660]
 §7Talk to the Vault Guard 
 §7to enter the hideout 
+§7Meet with Geo & Tarek 
+§7at the exit. 
 §7Sneak into the highest room 
 §7of the Rymek Mansion at 
 §7[1180, 31, -1300]
@@ -530,6 +566,9 @@ QUESTS/Kingdom_of_Sand.txt
 §7the bandit hideout   
 §7Search the broken cart at 
 §7[1183, 76, -1857] 
+§7Get the sceptre from the 
+§7abandoned house at [1220, 77, 
+§7-1873] 
 §7Return to the tomb and 
 §7hand the sceptre to Lanu. 
 
@@ -694,6 +733,9 @@ QUESTS/Redbeard%27s_Booty.txt
 §7Talk with Marston in the 
 §7ocean at 
 §7[-608,40,-3546]
+§7Find Marston's crew on Pirate 
+§7Cove at 
+§7[-659,43,-3154]
 
 QUESTS/Reincarnation.txt
 §7Talk to Batelu in Bob's 
@@ -712,6 +754,8 @@ QUESTS/Rise_of_the_Quartron.txt
 §7Find the exiled Elf inside 
 §7the web cavern at 
 §7[-1785,30,-4521]
+§7Make Dado confess by using 
+§7the [Tattytale Flower] 
 §7Go up the minecart hill 
 §7[-1615,86,-4555]
 §7and find the cave where 
@@ -844,6 +888,10 @@ QUESTS/The_Corrupted_Village.txt
 §7Climb the spike to see 
 §7if you can find anything 
 §7useful about it's existance.
+§7Exit the cave and speak 
+§7to Orikal in his tent 
+§7about his plan for destroying 
+§7the spike. 
 §7Find [Unstable Corrupted Ore], [Incendiary 
 §7Fluid] and [Switch Fuse] for 
 §7the TNT at the mining 
@@ -856,6 +904,7 @@ QUESTS/The_Dark_Descent.txt
 §7Nemract at 
 §7[226,49,-1910]
 §7to find the second ruby 
+§7Investigate the strange dark realm 
 
 QUESTS/The_Envoy_Part_I.txt
 §7Talk to Olivin in Selchar 
@@ -923,6 +972,8 @@ QUESTS/The_Maiden_Tower.txt
 §7Find the tower and ask 
 §7nearby villagers for help 
 §7[-1955,63,-5351]
+§7Find the corpse of the 
+§7warlock in the Olux catacombs 
 
 QUESTS/The_Mercenary.txt =====
 §7Talk to Mylo in Nemract 
@@ -1002,9 +1053,14 @@ QUESTS/The_Thanos_Vaults.txt =====
 §7Bring the gold back to 
 §7Dolem 
 
-QUESTS/The_Tower_of_Amnesia_(Quest).txt
+QUESTS/The_Tower_of_Amnesia_(Quest).txt =====
 §7Talk to Tinemild near Elkurn 
 §7[87,76,-1200]
+§7Bring back [1 Ragni Teleportation 
+§7Bring back [1 Detlas Teleportation 
+§7Bring back [1 Nemract Teleportation 
+§7Bring back [1 Selchar Teleportation 
+§7Bring back [1 Almuj Teleportation 
 §7Bring back [1 Nesaak Teleportation 
 §7Scroll] to Tinemild 
 
@@ -1029,6 +1085,7 @@ QUESTS/Tower_of_Ascension.txt
 §7Begin the First Floor 
 §7Collect 10 tokens and hand 
 §7them to the Floor Master 
+§7Begin the Third Floor 
 §7Begin the Seventh Floor 
 
 QUESTS/Tribal_Aggression.txt =====
@@ -1155,13 +1212,16 @@ QUESTS/WynnExcavation_Site_D.txt
 §7(Requires shard from Site C) 
 §7Kill Shadow Amadel 
 
-QUESTS/Zhight_Island_(Quest).txt
+QUESTS/Zhight_Island_(Quest).txt =====
 §7Talk to Zhight of Zhight 
 §7[-542,38,-2755]
 §7Look for Phief at Mage 
 §7Island 
 §7Find Phief's ship, and return 
 §7it to its rightful owner 
+§7Get Zhight's supplies from Czytash 
+§7at Maro Peaks 
+§7Give Zhight his supplies 
 
 
 §7Bring [5 Forest Webs] to 
