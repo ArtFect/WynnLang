@@ -37,6 +37,7 @@ QUESTS/Dwarves_and_Doguns_Part_I.txt
 QUESTS/Dwarves_and_Doguns_Part_II.txt
 QUESTS/Dwarves_and_Doguns_Part_III.txt
 QUESTS/Dwarves_and_Doguns_Part_IV.txt
+QUESTS/Dwelling_Walls.txt
 QUESTS/﻿Elemental_Exercise.txt
 QUESTS/Enter_the_Dojo.txt
 QUESTS/Enzan%27s_Brother.txt
@@ -57,6 +58,7 @@ QUESTS/Green_Gloop.txt
 QUESTS/Green_Skinned_Trouble.txt
 QUESTS/Haven_Antiquity.txt
 QUESTS/Heart_of_Llevigar.txt
+QUESTS/Hollow_Sirene.txt
 QUESTS/﻿Ice_Nations.txt
 QUESTS/Infested_Plants.txt
 QUESTS/Jungle_Fever.txt
@@ -74,6 +76,7 @@ QUESTS/Meaningful_Holiday.txt
 QUESTS/Memory_Paranoia.txt
 QUESTS/Mixed_Feelings.txt
 QUESTS/Murder_Mystery.txt
+QUESTS/Mushroom_Man.txt
 QUESTS/﻿One_Thousand_Meters_Under.txt
 QUESTS/Out_of_my_Mind.txt
 QUESTS/Pirate%27s_Trove.txt
@@ -86,6 +89,7 @@ QUESTS/Reclaiming_the_House.txt
 QUESTS/Redbeard%27s_Booty.txt
 QUESTS/Reincarnation.txt
 QUESTS/Rise_of_the_Quartron.txt
+QUESTS/Royal_Trials.txt
 QUESTS/﻿Sewers_of_Ragni.txt
 QUESTS/Shattered_Minds.txt
 QUESTS/Sister_City.txt
@@ -124,8 +128,10 @@ QUESTS/Tribal_Aggression.txt
 QUESTS/Troubled_Tribesmen.txt
 QUESTS/Tunnel_Trouble.txt
 QUESTS/Underice.txt
+QUESTS/Underwater.txt
 QUESTS/﻿Wrath_of_the_Mummy.txt
 QUESTS/WynnExcavation_Site_A.txt
 QUESTS/WynnExcavation_Site_B.txt
 QUESTS/WynnExcavation_Site_C.txt
 QUESTS/WynnExcavation_Site_D.txt
+QUESTS/Zhight_Island_(Quest).txt
