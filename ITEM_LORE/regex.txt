@@ -128,3 +128,13 @@
 §7Quests: §f(\d+)\/(\d+)@ 
 §7XP: §f(\d+)%@ 
 \{".*\]\}@ 
+§7§lCurrently: §f(.*)§7² Each@ 
+§7 - Lowest Seller: §f(.*)²@ 
+§7 - Highest Seller: §f(.*)²@ 
+§7 - 2w Average: §f(.*)²@ 
+§7 - §f(.*)§7² Total §8\((.*)\)@ 
+§7 - Highest Buyer: §f(.*)²@ 
+§7§lTotal: §f(.*)§7²@ 
+§7([a-zA-Z0-9_]{1,16})'s Side §f>>@ 
+§7§c§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 (.*)@ 
+§7- (§e|§f|§c|§b|§d|)(.*) \[(\d+)\]@ 
