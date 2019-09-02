@@ -35,31 +35,28 @@
 
 
 §6[Info] §eWatch your personal progress at §6(.*)§e!@§6[Инфо] §eСмотри свою персональную статистику на §6(r1)§e!
-§a§l         Click here to link your forum account   
+§a§l         Click here to link your forum account@§a§l         Нажми сюда для привязки форум аккаунта
 
 
 
-§4A strong gust of magical wind prevents you from going further into the cave...@
-§4This item is locked! Use §c/itemlock§4 to trade the item.@
-§4comatosex§c is not currently online any Wynncraft servers....@
-§bYazzzzz§3 has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@
-§8[§4§lSYSTEM RESTARTED§8]@
-§cYou need to hold an item in your hand to lock or unlock it!@
-§cInvalid amount! Please try again with a number.@
-§cInvalid message! /g [message] @
-§7[Daily Rewards: §a13 emeralds§7]@
-§4The sign tells you not to get near this area as it's unstable.@
-§4The spirit of the Owl compels you to leave...@
-§4 Gurgling comes from the spot and the ground bubbles around you.@
-§4Something about this place just §4seems...unnervingly§4 dangerous.@
-§4Jumping down this looks like it would hurt!@
-§cYou are already connected to this server!@
-§cPlease wait before chatting!@
-§cValix§4 is for combat level §c18§4+ only.@
-§bFiw§7 has given you §b20% resistance§7 and§b 10% strength§7.@
-§8[§7!§8] §7Congratulations to §f1917Lenin1917§7 for reaching combat §flevel 103§7!@
-§5Blacksmith: §dYou scrapped: §eValix§d for a total of §e2§d scrap. It was a pleasure doing business with you.@
-§5Blacksmith: §dYou scrapped: §3Cruel Pants of Pandemonium§d, §3Average Skirt of Ragni§d, §3Plain Tights of Maltic§d and §3Plain Leg Wraps of Maltic§d for a total of §e4§d scrap. It was a pleasure doing business with you.@
+§4A strong gust of magical wind prevents you from going further into the cave...@§4Сильный порыв магического ветра мешает тебе пройти дальше в пещеру...
+§4This item is locked! Use §c/itemlock§4 to trade the item.@§4Этот предмет закрыт! Используй §c/itemlock§4 чтобы торговать предметом.
+§4(.*)§c is not currently online any Wynncraft servers....@§4(r1)§c сейчас ни на одном Wynncraft сервере...
+§b(.*)§3 has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@§b(r1)§3 бросил §bProfession Speed Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
+§8[§4§lSYSTEM RESTARTED§8]@§8[§4§lСИСТЕМА ПЕРЕЗАГРУЖЕНА§8]
+§cYou need to hold an item in your hand to lock or unlock it!@§cТебе нужно держать предмет в руке, чтобы заблокировать или разблокировать его!
+§cInvalid amount! Please try again with a number.@§cНеверное количество! Пожалуйста, попробуйте еще раз числами.
+§cInvalid message! /g [message] @§cНеверное сообщение! /g [сообщение]
+§7\[Daily Rewards: §a(.*) emeralds§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7]
+§4The sign tells you not to get near this area as it's unstable.@§4Табличка говорит тебе не приближаться к этой области, так как она нестабильна.
+§4The spirit of the Owl compels you to leave...@§4Дух Совы заставляет тебя уйти...
+§4 Gurgling comes from the spot and the ground bubbles around you.@§4Бульканье идет с этого места и земля пузырится вокруг тебя.
+§4Something about this place just §4seems...unnervingly§4 dangerous.@§4Что-то в этом месте кажется...пугающе опасным.
+§4Jumping down this looks like it would hurt!@§4Если спрыгнуть вниз, то похоже, будет больно!
+§cYou are already connected to this server!@§cТы уже подключен к этому серверу!
+§cPlease wait before chatting!@§cПожалуйста подожди, прежде чем пользоваться чатом!
+§5Blacksmith: §dYou scrapped: §e(.*)§d for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Blacksmith: §dТы утилизировал: §e(r1)§d в общей сумме на §e(r2)§d скрапа. Было приятно иметь с тобой дело.
+§5Blacksmith: §dYou scrapped: §3(.*)§d and §3Plain Leg Wraps of Maltic§d for a total of §e4§d scrap. It was a pleasure doing business with you.@
 §4You can't use commands right now!@
 §bCristomax1717§7 has given you §b15% resistance§7.@
 §bshoblado7§7 has given you §b10% resistance§7.@
