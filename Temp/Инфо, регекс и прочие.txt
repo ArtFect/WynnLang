@@ -75,31 +75,30 @@
 §c                            Slay Lv. 60+ Mobs@§c                            Убийство Ур. 60+ Мобов
 §a                             Buy from Market@§a                             Покупка на маркете
 §7+ Ability to create guilds@§7+ Возможность создать гильдию
-§4Climbing up this tree would probably be dangerous.@
-§5The trade has been cancelled.@
-§eYou have kicked the player from the party.@
-§5Blacksmith: §dI can only buy 8 items at a time.@
-§5Blacksmith: §dI can only scrap 8 items at a time.@
-§5Blacksmith: §dYou need more scrap to repair that!@
-§4You need to be §cCombat Lv. 5 §4to start this Mini-Quest@
-§cYou can't scrap this item!@
-§4You don't have §3[1 Crate of Rat Poison]§4!@
-§4The Guard Golem won't let you enter this place...@
-§4You shouldn't enter this place yet...@
-§cYou are no longer tracking §a§lTower of Ascension@
-§4An unknown force prevents you from entering the crypt.@
-§4These cows look aggressive... It would be better to leave them alone.@
-§2You have unlocked §apage 2§2 in your bank@
-§b+3 minutes§7 speed boost.@
-§7Seems Achper was right, the tomb is crawling with bandits. Perhaps one of them would be willing to strike a deal?@
-§eWe couldn't find any friends.@
-§eslavatron has added you as a friend!@
-§eslavatron has been added to your friends!@
-§elizzkaonelove has been removed from your friends!@
-§eYou need to specify a message to send!@
-§cYou do not have enough money in your inventory and bank to pay for that@
-§eCan't find that party! Try again?@
-§eTry typing §6/friend add Username§e!@
+§4Climbing up this tree would probably be dangerous.@§4Взбираться на это дерево, вероятно, будет опасно.
+§5The trade has been cancelled.@§5Торговля была отменена.
+§eYou have kicked the player from the party.@§eТы кикнул игрока из пати.
+§5Blacksmith: §dI can only buy 8 items at a time.@§5Blacksmith: §dЯ могу купить только 8 предметов за раз.
+§5Blacksmith: §dI can only scrap 8 items at a time.@§5Blacksmith: §dЯ могу утилизировать только 8 предметов за раз.
+§5Blacksmith: §dYou need more scrap to repair that!@§5Blacksmith: §dТебе нужно больше скрапа, чтобы починить это!
+§4You need to be §cCombat Lv. (.*) §4to start this Mini-Quest@§4Тебе нужно быть §c(r1) Комбат уровня §4для старта этого Мини-квеста
+§cYou can't scrap this item!@§cТы не можешь утилизировать этот предмет!
+§4You don't have §3[1 Crate of Rat Poison]§4!@§4У тебя нет §3[1 Контейнера Крысиного Яда]§4!
+§4The Guard Golem won't let you enter this place...@Охранник-Голем не позволяет тебе войти в это место...
+§4You shouldn't enter this place yet...@Тебе пока не следует входить в это место...
+§4An unknown force prevents you from entering the crypt.@§4Неизвестная сила мешает тебе войти в склеп.
+§4These cows look aggressive... It would be better to leave them alone.@§4Эти коровы выглядят агрессивно... Было бы лучше оставить их в покое.
+§2You have unlocked §apage (.*)§2 in your bank@§2Ты разблокировал §aс(r1) страницу§2 в своем банке
+§b+3 minutes§7 speed boost.@§b+3 минуты§7 повышенной скорости.
+§7Seems Achper was right, the tomb is crawling with bandits. Perhaps one of them would be willing to strike a deal?@§7Похоже что Achper был прав, гробница кишит бандитами. Возможно, один из них захочет заключить сделку?
+§eWe couldn't find any friends.@§eМы не можем найти никаких друзей.
+§e(.*) has added you as a friend!@§e(r1) добавил тебя в друзья!
+§e(.*) has been added to your friends!@§e(r1) был добавлен в друзья!
+§e(.*) has been removed from your friends!@§e(r1) был убран из друзей!
+§eYou need to specify a message to send!@§eТебе нужно уточнить сообщение для отправки!
+§cYou do not have enough money in your inventory and bank to pay for that@§cУ тебя недостаточно денег в твоем инвентаре или банке, чтобы купить это
+§eCan't find that party! Try again?@§eНе могу найти эту пати! Попробуй еще раз?
+§eTry typing §6/friend add Username§e!@§eПопробуй написать §6/friend add Ник§e!
 §d            - §7+Skeletal Legs@
 §d            - §7+10240 Emeralds / 0 Emeralds@
 §d            - §7Kaerynn Armor / Elves' Disappointment@
