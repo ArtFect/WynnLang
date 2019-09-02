@@ -148,34 +148,32 @@
 §4This giant spike looks very intimidating and dangerous, it would be best to stay away from it.@§4Этот гигантский шип выглядит очень устрашающе и опасно, было бы лучше держаться от него подальше
 §4It doesn't seem like a good idea to enter this tower...@§4Не похоже, что это хорошая идея, чтобы войти в эту башню...
 §4A mysterious force is lashing at you as you try to go on to the altar.@§4Таинственная сила набрасывается на тебя, как только ты пытаешься подойти к алтарю.
-§dI can't reveal that item name! I only accept unidentified weapons, accessories and armour.@
-§7[Begin Floor: Floor 3]@
-§4You were pushed into the hole...@§4
-§4Harsh groans echo in the walls of the catacombs...@§4
-§7Something about this place doesn't want to make you go upstairs...@
-§cYou are not allowed to sell that item on the market!@
-§cYou cannot buy your own item!@
-§4This is not a §cMage§4 weapon. You must use a §cstick.@§4
-§dSuccessfully cancelled §5buying §b❉ Water Powder IIIÀ§d.@
-§dSuccessfully cancelled §5selling §dUnidentified KamikazeÀ§d.@
-§dYour items can be found in the trade overview menu.@
-§b_Wexel_§3 has disguised as a §bzombie§3!@
-§bMR_Stick§3 has disguised as a §bsheep§3!@
-§bAsianMotivasian§3 has disguised as a §bspider§3!@
-§4You can join someone else's guild or make a guild in §cCinfras [Lv. 70]@
-§cYou're already in that area...@
-§7There wasn't enough room in your inventory, so items were dropped.@
-§4You can't hold any more unprocessed resources §c(176/176)§4! Refine your materials or stash them in your bank to free some space.@
-§cA strong force prevents you from entering this area. §7[Quest Req.: Grave Digger]@
-§c[+761 ❤] §bCleared §7all potion effects §bRemoved §7all fire.@
-§c[+761 ❤] §bRemoved §7all fire.@
-§5Only §d3 more combat levels§5 until you earn the §dSpin Attack upgrade@
-§7Your items are now stored in your bank!@
-§7Your equipment is now stored in your bank!@
-§d     -§7 Location: §fWynn Plains [2/15]@
-§d     -§7 Discoveries Found: §f2@
-§d     -§7 Location: §fDesert [1/7]@
-Your client seems to be spamming us!@
+§dI can't reveal that item name! I only accept unidentified weapons, accessories and armour.@§dЯ не могу раскрыть название этого предмета! Я принимаю только неидентифицированные оружия, аксессуары и броню.
+§7\[Begin Floor: Floor (.*)\]@§7[Начат Этаж: Этаж (r1)]
+§4You were pushed into the hole...@§4Тебя столкнули в дыру...
+§4Harsh groans echo in the walls of the catacombs...@§4Резкие крики эхом отдаются в стенах катакомб...
+§7Something about this place doesn't want to make you go upstairs...@§7Что-то в этом месте не хочет заставлять тебя подниматься наверх...
+§cYou are not allowed to sell that item on the market!@§cТы не можешь продавать этот предмет на маркете!
+§cYou cannot buy your own item!@§cТы не можешь купить свой предмет!
+§4This is not a §cMage§4 weapon. You must use a §cstick.@§4§4Это не оружие дляa §cМага§4. Ты должен использовать §cпосох.
+§dSuccessfully cancelled §5buying §b(.*)§d.@§dУспешно отменена §5покупка §b(r1)§d.
+§dSuccessfully cancelled §5selling §d(.*)§d.@§dУспешно отменена §5продажа §d(r1)§d.
+§dYour items can be found in the trade overview menu.@§dТвои предметы можно найти в обзорном меню торговли.
+§b(.*)§3 has disguised as a §b(.*)§3!@§b(r1)§3 замаскировался под §b(r2)§3!
+§4You can join someone else's guild or make a guild in §cCinfras [Lv. 70]@§4Ты можешь присоединиться к чьей-нибудь гильдии, или создать свою в §cCinfras'е [Ур. 70]
+§cYou're already in that area...@§4Ты уже находишься на этой территории...
+§7There wasn't enough room in your inventory, so items were dropped.@§7В твоем инвентаре было недостаточно места, поэтому предметы были сброшены.
+§4You can't hold any more unprocessed resources §c(.*)§4! Refine your materials or stash them in your bank to free some space.@§4Ты не можешь удержать больше непереработанных ресурсов §c(r1)§4! Переработай их или переложи в банк, чтобы освободить немного места.
+§cA strong force prevents you from entering this area. §7[Quest Req.: Grave Digger]@Мощная сила мешает тебе войти в эту область. §7[Нужен Квест: Grave Digger]
+§c\[(.*)\] §bCleared §7all potion effects §bRemoved §7all fire.@§c[(r1)] §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
+§c\[(.*)\] §bRemoved §7all fire.@§c[(r1)] §bУбран §7весь огонь.
+§5Only §d(.*) more combat levels§5 until you earn the §d(.*) upgrade@§5Еще §d(r1) комбат уровня§5 и ты изучишь апгрейд §d(r2)
+§7Your items are now stored in your bank!@Твои предметы теперь хранятся в банке!
+§7Your equipment is now stored in your bank!@Твое снаряжение теперь хранится в твоем банке!
+§d     -§7 Location: §fWynn Plains \[(.*)\]@§d     -§7 Локация: §fWynn Plains [(r1)]
+§d     -§7 Discoveries Found: §f(.*)@§d     -§7 Открытий Найдено: §f(r1)
+§d     -§7 Location: §fDesert \[(.*)\]@§d     -§7 Локация: §fПустыня [(r1)]
+Your client seems to be spamming us!@Похоже твой клиент спамит нам!
 §bTreeJay§3 has thrown an §bItem Bomb§3!@
 §eCan't find that player! Try again?@
 §cInvalid syntax: /find [player]@
