@@ -174,31 +174,30 @@
 §d     -§7 Discoveries Found: §f(.*)@§d     -§7 Открытий Найдено: §f(r1)
 §d     -§7 Location: §fDesert \[(.*)\]@§d     -§7 Локация: §fПустыня [(r1)]
 Your client seems to be spamming us!@Похоже твой клиент спамит нам!
-§bTreeJay§3 has thrown an §bItem Bomb§3!@
-§eCan't find that player! Try again?@
-§cInvalid syntax: /find [player]@
-§a12 quest items have been returned. @
-§cYou don't have any available trade slots. Go to your trade overview and make some space!@
-§cThe server you were previously on went down, you have been connected to a fallback server@
-§bMivir§3 has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@
-§5Accessory Merchant: §dI'm afraid you don't have enough space in your inventory to buy that.@
-§6Type the price in emeralds or type 'cancel' to cancel:@
-§6Type the amount you wish to buy or type 'cancel' to cancel:@
-§6Type the amount you wish to sell or type 'cancel' to cancel:@
-§7Please type an item name in chat!@
-§4You need to wait §c120 seconds§4 after logging in to gather from this resource!@
-§4You shouldn't be vandalizing this mountain!@
-§4You shouldn't leave until you have finished inspecting the vault.@
-§dVisit the Trade Market to claim your emeralds@
-§dFinished selling §bGlareÀ§d for §5514²@
-§4You shouldn't go in here just yet.@
-§cOnly quest and crafted items are usable by craftsmen!@
-§cThe bank is not available for ironman players!@
-§4You cannot trade as an ironman player!@
-§cThe market is not available for ironman players!@
-§cYou already have some Food active...@
-§cYou already have a Scroll active...@
-§7Now you've obtained the key, you can enter Theoricks mansion@
+§b(.*)§3 has thrown an §bItem Bomb§3!@§b(r1)§3 бросил §bПредметную Бомбу§3!
+§eCan't find that player! Try again?@§eНе можем найти этого игрока! Попробуй еще раз?
+§cInvalid syntax: /find [player]@§cНеправильный синтаксис: /find [игрок]
+§a(.*) quest items have been returned. @§a(r1) квестовы предметов было возвращено.
+§cYou don't have any available trade slots. Go to your trade overview and make some space!@§cУ тебя нет доступных торговых слотов. Перейди в свое обзорное меню торговли и освободи немного места!
+§cThe server you were previously on went down, you have been connected to a fallback server@§cСервер, на котором вы были ранее, вышел из строя. Вы были подключены к резервному серверу
+§b(.*)§3 has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@§b(r1)§3 Бросил §bДанж Бомбу§3! Каждый вход в данж бесплатен на следующие §b10 минут§3!
+§6Type the price in emeralds or type 'cancel' to cancel:@§6Напиши цену в эмеральдах, или 'cancel' для отмены:
+§6Type the amount you wish to buy or type 'cancel' to cancel:@§6Напиши количество, которое желаешь купить, или 'cancel' для отмены:
+§6Type the amount you wish to sell or type 'cancel' to cancel:@§6Напиши количество, которое желаешь продать, или 'cancel' для отмены:
+§7Please type an item name in chat!@§7Пожалуйста напиши название предмета в чат!
+§4You need to wait §c120 seconds§4 after logging in to gather from this resource!@§4Тебе нужно подождать §c120 секунд §4после входа на сервер чтобы собрать этот ресурс!
+§4You shouldn't be vandalizing this mountain!@Тебе не следует портить эту гору!
+§4You shouldn't leave until you have finished inspecting the vault.@Ты не должен уходить, пока не закончишь осмотр хранилища.
+§dVisit the Trade Market to claim your emeralds@§dПосети Трейд Маркет, чтобы забрать свои эмеральды
+§dFinished selling §b(.*)§d for §5(.*)@§dЗавершена продажа §b(r1)§d за §5(r2)
+§4You shouldn't go in here just yet.@§4Ты не должен идти сюда прямо сейчас.
+§cOnly quest and crafted items are usable by craftsmen!@§cТолько квестовые и крафтовые предметы можно использовать в режиме craftsmen!
+§cThe bank is not available for ironman players!@§cБанк недоступен для игроков в режиме ironman!
+§4You cannot trade as an ironman player!@§4Ты не можешь торговать в режиме ironman!
+§cThe market is not available for ironman players!@§cМаркет недоступен для игроков в режиме ironman!
+§cYou already have some Food active...@§cНа тебя уже действует Еда...
+§cYou already have a Scroll active...@§cНа тебя уже действует Свиток...
+§7Now you've obtained the key, you can enter Theoricks mansion@После получения ключа ты можешь войти в поместье Theorick'а
 §4That class is VIP only! Buy VIP at §cstore.wynncraft.com@
 §bcolin350's §3bomb has expired. You can buy Profession XP bombs at our website, §bwynncraft.com/store@
 §cmimato_§4 is not online the Wynncraft network.@
