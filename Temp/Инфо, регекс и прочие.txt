@@ -168,6 +168,7 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §f885 AP@885 ПП
 §f886 AP@886 ПП
 §f884 AP@884 ПП
+§f882 AP@882 ПП
 §d     -§7 About Discovery: §f§oIn the year 854 AP (After Portal), a massive horde of undead lead by Bak’al attacked Ragni. The people of the city sought refuge in the sewer, the only safe place left.@§d     -§7 Об открытии: §r§f§oВ 854 году после открытия портала огромная толпа мертвецов под руководством Bak'al'a напала на Ragni. Люди из города нашли убежище в канализации - единственном оставшемся безопасном месте.
 §4It's probably a bad idea to enter a private shop without permission.@§4Вероятно это плохая идея, чтобы войти в частный магазин без разрешения.
 §4There must be a hidden room inside here, better find out how to open the door.@§4Здесь должна быть скрытая комната, лучше узнать, как открыть дверь.
@@ -272,12 +273,12 @@ You're rejoining too quickly! Give us a moment to save your data.@§4Ты сли
 §6[§e!§6] §7You defeated the arena boss! The door has opened...@§6[§e!§6] §7Ты победил босса арены! Дверь открыта...
 §4You cannot afford that! Removing powders from all items will cost (.*)@§4Ты не можешь себе этого позволить! Удаление порошков из всех предметов будет стоить (r1)
 §4You cannot afford that! Adding these powders will cost (.*)@§4Ты не можешь себе этого позволить! Добавление порошков на предмет будет стоить (r1)
-§4Terrifying robotic clinks and clashes can be heard below. You feel you should stay away for now.@
-§7''That trader from Ragni was saying some disturbing things the other day.''@
-§7''He mentioned that the undead attacks are growing more frequent all over Wynn. Even Ragni is straining under the pressure.''@
-§7''Detlas has managed to avoid the worst of the scourge. But how much longer will our luck last?''@
-§7''We only have enough for about a day or so. We have no choice: we need to leave for a fortress.''@
-§d                      §d§lThe Legend of Bob@
+§4Terrifying robotic clinks and clashes can be heard below. You feel you should stay away for now.@§4Ужасающие роботизированные щелчки и столкновения можно услышать ниже. Ты чувствуешь, что должен держаться подальше сейчас.
+§7''That trader from Ragni was saying some disturbing things the other day.''@§7''Тот торговец из Ragni на днях говорил какие-то тревожные вещи.''
+§7''He mentioned that the undead attacks are growing more frequent all over Wynn. Even Ragni is straining under the pressure.''@§7''Он упомянул, что нападения нежити становятся все более частыми по всей провинции Wynn. Даже Ragni страдает под давлением.''
+§7''Detlas has managed to avoid the worst of the scourge. But how much longer will our luck last?''@§7''Detlas'у удалось избежать самого страшного бедствия. Но сколько еще продлится наша удача?''
+§7''We only have enough for about a day or so. We have no choice: we need to leave for a fortress.''@§7''У нас их хватит только на день или около того. У нас нет выбора: мы должны идти в крепость.''
+§d                      §d§lThe Legend of Bob@§d                      §d§lЛегенда о Bob'е
 §7    §7§o854 years after the portal was first opened, Ragni suffered one of the largest raids ever recorded on western soil.@
 §7    §7§oAlthough the famous forts of Ragni and Troms were deemed impenetrable, this was unfortunately not the case when seas of monsters brought by the curse came knocking on the front gate.@
 §7    §7§oBeing so early in the cursed war, Ragni’s army numbers were high and many a men laid down their lives to protect the families within the walls.@
