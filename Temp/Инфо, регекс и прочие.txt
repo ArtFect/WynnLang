@@ -6,7 +6,7 @@
 §b(.*)§3 has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@§b(r1)§3 бросил §bProfession Speed Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
 §8[§4§lSYSTEM RESTARTED§8]@§8[§4§lСИСТЕМА ПЕРЕЗАГРУЖЕНА§8]
 §cYou need to hold an item in your hand to lock or unlock it!@§cТебе нужно держать предмет в руке, чтобы заблокировать или разблокировать его!
-§cInvalid amount! Please try again with a number.@§cНеверное количество! Пожалуйста, попробуйте еще раз числами.
+§cInvalid amount! Please try again with a number.@§cНеверное количество! Пожалуйста, попробуй еще раз числами.
 §cInvalid message! /g [message] @§cНеверное сообщение! /g [сообщение]
 §7\[Daily Rewards: §a(.*) emeralds§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7]
 §4The sign tells you not to get near this area as it's unstable.@§4Табличка говорит тебе не приближаться к этой области, так как она нестабильна.
@@ -236,44 +236,42 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §a- §7Arrow Shield will summon a shield of arrows, hurting anything that touches it@§a- §7Arrow Shield вызывает щит из стрел, причиняя боль всему, что касается его
 §a- §7Spell Usage: §fLeft-Left-Right@§a- §7Использование Заклинания: §fЛевая-Левая-Правая
 §a- §7Go to §fwynncraft.com/help§f §7for info about this upgrade@§a- §7Узнай на §fwynncraft.com/help§f §7больше информации об этом апгрейде
-§9That player is too far away! Get closer...@
-§cYou can not teleport while in a storyline...@
-§4This cave sends shivers down your spine.@
-§4Add an item and powders first!@
-The server is full!@
-§d     -§7 Lore: §f§oThis island is home to some form of cult, obsessed with the moon and its power. Rumours fly about it, a common thought being that they are attempting to summon some form of lunar deity.@
-§4A weird energy is radiating from inside the cave.@
-§4You shouldn't enter the farm without permission!@
-§4You can feel an invisible wall at the mansion's entrance. Weapons are ineffective against it.@
-You're rejoining too quickly! Give us a moment to save your data.@
-§2You will no longer see the class selection screen!@
-§7(You can still use /class to change your class)@
-§5Item Identifier: §dAdd items to identify first!@
-§bThis dungeon is free for the duration of the Dungeon Bomb! Buy your own at §3store.wynncraft.com@
-§4You cannot damage mobs while dueling!@
-§4You are already in a duel.@
-§7No soul points have been lost.@
-§cInvalid price! Please try again with a higher number.@
-§4Don't walk away when the mage is talking to you!@
-§bSomebodyy§3 has used a §bSoul Point Bomb§3 and given you §b[+2 Soul Points]@
-§3You are inside of §bCardia's§3 mob totem. Get your own mob totems by buying a rank at §bwynncraft.com/store@
-§7--§4 For a proper help guide, visit our website §7--@
-§4Ten tokens are required to ascend to the next floor.@
-§4You cannot yet enter this floor...@
-§2You will now receive the resource pack warning again!@
-§4Some kind of powerful dark force is preventing you from entering the dungeon.@
-§7As you enter the tomb, a putrid smell fills your nostrils...@
-§4You need a §fⒿ§c Farming§4 level of §c5§4 to use this tool!@
-§4You sense a mythical aura coming out of the cave. It might be best to leave the cave alone.@
-§cOops! Something went wrong! You have been sent back to Ragni.@
-§6[§e!§6] §7A wave of monsters will spawn in 5 seconds!@
-§6[§e!§6] §7A wave of monsters has spawned! A new wave will spawn in 15 seconds!@
-§6[§e!§6] §7A wave of monsters has spawned! The arena boss will spawn in 15 seconds!@
-§6[§e!§6] §7The arena boss has spawned! Defeat it to open the door!@
-§6[§e!§6] §7You defeated the arena boss! The door has opened...@
-§4You cannot afford that! Removing powders from all items will cost 41@
-§4You cannot afford that! Adding these powders will cost 11@
-§7Climb the spike to see if you can find anything useful about it's existance.@
+§9That player is too far away! Get closer...@§9Этот игрок слишком далеко! Встань ближе...
+§cYou can not teleport while in a storyline...@§cТы не можешь телепортироваться, находясь в сюжетной линии...
+§4This cave sends shivers down your spine.@§4Эта пещера посылает дрожь вниз по позвоночнику.
+§4Add an item and powders first!@§4Добавь предмет и порошки сначала!
+The server is full!@§4Сервер заполнен!
+§d     -§7 Lore: §f§oThis island is home to some form of cult, obsessed with the moon and its power. Rumours fly about it, a common thought being that they are attempting to summon some form of lunar deity.@§d     -§7 Лор: §f§oЭтот остров является домом для какой-то формы культа, одержимого луной и ее силой. Об этом ходят слухи, распространяя мысль, что они пытаются вызвать некую форму лунного божества.
+§4A weird energy is radiating from inside the cave.@§4Странная энергия излучается изнутри пещеры.
+§4You shouldn't enter the farm without permission!@§4Ты не должен входить на ферму без разрешения!
+§4You can feel an invisible wall at the mansion's entrance. Weapons are ineffective against it.@§4Ты можешь почувствовать невидимую стену у входа в особняк. Оружие против нее неэффективно.
+You're rejoining too quickly! Give us a moment to save your data.@§4Ты слишком быстро перезаходишь! Дай нам время, чтобы сохранить твои данные.
+§2You will no longer see the class selection screen!@§2Ты больше не увидишь экран выбора класса!
+§7(You can still use /class to change your class)@§7(Ты по-прежнему можешь использовать /class для смены класса)
+§5Item Identifier: §dAdd items to identify first!@§5Item Identifier: §dСначала добавь предметы для идентификации!
+§bThis dungeon is free for the duration of the Dungeon Bomb! Buy your own at §3store.wynncraft.com@§bВход в этот данж свободен на время действия Данж Бомбы! Купи свою на §3store.wynncraft.com
+§4You cannot damage mobs while dueling!@§4Ты не можешь бить мобов во время дуэли!
+§4You are already in a duel.@§4Ты уже находишься в дуэли.
+§7No soul points have been lost.@Соул поинты не будут утрачены.
+§cInvalid price! Please try again with a higher number.@§cНеверная цена! Попробуй еще раз с большим числом.
+§4Don't walk away when the mage is talking to you!@§4Не уходи, когда маг разговаривает с тобой!
+§b(.*)§3 has used a §bSoul Point Bomb§3 and given you §b\[\+2 Soul Points\]@§b(r1)§3 использовал §bSoul Point Бомбу§3 и дал тебе §b[+2 Soul Point'а]
+§3You are inside of §b(.*)§3 mob totem. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3Ты внутри §b(r1)§3 моб тотема. Получи свой моб тотем при покупке ранга на §bwynncraft.com/store
+§7--§4 For a proper help guide, visit our website §7--@§7--§4 Для полного гайда о помощи, посети наш сайт §7--
+§4Ten tokens are required to ascend to the next floor.@§4Десять жетонов необходимы, чтобы подняться на следующий этаж.
+§4You cannot yet enter this floor...@§4Ты пока не можешь войти на этот этаж...
+§2You will now receive the resource pack warning again!@§2Теперь ты снова получаешь предупреждения о ресурспаке!
+§4Some kind of powerful dark force is preventing you from entering the dungeon.@§4Какая-то мощная темная сила мешает тебе войти в данж.
+§7As you enter the tomb, a putrid smell fills your nostrils...@§7При входе в гробницу, гнилой запах наполнил твои ноздри...
+§4You sense a mythical aura coming out of the cave. It might be best to leave the cave alone.@§4Ты чувствуешь мифическую ауру, выходящую из пещеры. Быть может, лучше оставить пещеру в покое.
+§cOops! Something went wrong! You have been sent back to Ragni.@§cУпс! Что-то пошло не так! Ты был отправлен обратно в Ragni.
+§6[§e!§6] §7A wave of monsters will spawn in 5 seconds!@§6[§e!§6] §7Волна монстров заспавнится через 5 секунд!
+§6[§e!§6] §7A wave of monsters has spawned! A new wave will spawn in 15 seconds!@§6[§e!§6] §7Волна монстров заспавнилась! Новая волна заспавнится через 15 секунд!
+§6[§e!§6] §7A wave of monsters has spawned! The arena boss will spawn in 15 seconds!@§6[§e!§6] §7Волна монстров заспавнилась! Босс арены заспавнится через 15 секунд!
+§6[§e!§6] §7The arena boss has spawned! Defeat it to open the door!@§6[§e!§6] §7Босс арены заспавнился! Победи его, чтобы открыть дверь!
+§6[§e!§6] §7You defeated the arena boss! The door has opened...@§6[§e!§6] §7Ты победил босса арены! Дверь открыта...
+§4You cannot afford that! Removing powders from all items will cost (.*)@§4Ты не можешь себе этого позволить! Удаление порошков из всех предметов будет стоить (r1)
+§4You cannot afford that! Adding these powders will cost (.*)@§4Ты не можешь себе этого позволить! Добавление порошков на предмет будет стоить (r1)
 §4Terrifying robotic clinks and clashes can be heard below. You feel you should stay away for now.@
 §7''That trader from Ragni was saying some disturbing things the other day.''@
 §7''He mentioned that the undead attacks are growing more frequent all over Wynn. Even Ragni is straining under the pressure.''@
