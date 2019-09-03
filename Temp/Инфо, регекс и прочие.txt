@@ -223,19 +223,19 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §5This is not your side!@§5Это не твоя сторона!
 §cYou have never been to that area!@§cТы никогда не был на этой территории!
 §7You already have collected all the lava you need, you should report back to Captain Enduyn.@§7Ты уже собрал достаточно лавы. Сообщи обо всем Капитану Enduyn'у.
-§a- §7Teleport will teleport to the location that you're looking at@
-§a- §7Meteor will throw a powerful meteor from the sky, hitting anything in its path@
-§a- §7Spell Usage: §fRight-Left-Left@
-§a- §7Escape will throws yourself backward, giving you time to escape. You can hold shift to quickly drop down.@
-§a- §7Spell Usage: §fLeft-Left-Left@
-§a- §7Bomb will throws a bomb arrow, demolishing anything in its path@
-§a- §7Spell Usage: §fLeft-Right-Right@
-§a- §7Uppercut will launch all nearby mobs high into the air@
-§a- §7Vanish will make you disappear into the shadows, confusing your opponent@
-§a- §7Multi Hit will throw your opponent into the air while damaging them@
-§a- §7Arrow Shield will summon a shield of arrows, hurting anything that touches it@
-§a- §7Spell Usage: §fLeft-Left-Right@
-§a- §7Go to §fwynncraft.com/help§f §7for info about this upgrade@
+§a- §7Teleport will teleport to the location that you're looking at@§a- §7Teleport будет телепортировать тебя в место, на которое ты смотришь
+§a- §7Meteor will throw a powerful meteor from the sky, hitting anything in its path@§a- §7Meteor запускает мощный Метеор с неба, задевая все на своем пути
+§a- §7Spell Usage: §fRight-Left-Left@§a- §7Использование Заклинания: §fПравая-Левая-Левая
+§a- §7Escape will throws yourself backward, giving you time to escape. You can hold shift to quickly drop down.@§a- §7Escape отбрасывает назад, давая тебе время убежать. Ты можете удерживать шифт, чтобы быстро спуститься.
+§a- §7Spell Usage: §fLeft-Left-Left@§a- §7Использование Заклинания: §fЛевая-Левая-Левая
+§a- §7Bomb will throws a bomb arrow, demolishing anything in its path@§a- §7Bomb бросает бомбу из стрел, уничтожая все на своем пути
+§a- §7Spell Usage: §fLeft-Right-Right@§a- §7Использование Заклинания: §fЛевая-Правая-Правая
+§a- §7Uppercut will launch all nearby mobs high into the air@§a- §7Uppercut запускает всех ближайших мобов высоко в воздух
+§a- §7Vanish will make you disappear into the shadows, confusing your opponent@§a- §7Vanish заставит тебя исчезнуть в тени, сбивая с толку твоего противника
+§a- §7Multi Hit will throw your opponent into the air while damaging them@§a- §7Multi Hit подбрасывает твоего противника в воздух, нанося урон им
+§a- §7Arrow Shield will summon a shield of arrows, hurting anything that touches it@§a- §7Arrow Shield вызывает щит из стрел, причиняя боль всему, что касается его
+§a- §7Spell Usage: §fLeft-Left-Right@§a- §7Использование Заклинания: §fЛевая-Левая-Правая
+§a- §7Go to §fwynncraft.com/help§f §7for info about this upgrade@§a- §7Узнай на §fwynncraft.com/help§f §7больше информации об этом апгрейде
 §9That player is too far away! Get closer...@
 §cYou can not teleport while in a storyline...@
 §4This cave sends shivers down your spine.@
