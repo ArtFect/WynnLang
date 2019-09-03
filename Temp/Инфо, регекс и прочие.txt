@@ -116,7 +116,6 @@
 §7Something about this place doesn't want to make you go upstairs...@§7Что-то в этом месте не хочет заставлять тебя подниматься наверх...
 §cYou are not allowed to sell that item on the market!@§cТы не можешь продавать этот предмет на маркете!
 §cYou cannot buy your own item!@§cТы не можешь купить свой предмет!
-§4This is not a §cMage§4 weapon. You must use a §cstick.@§4§4Это не оружие дляa §cМага§4. Ты должен использовать §cпосох.
 §dSuccessfully cancelled §5buying §b(.*)§d.@§dУспешно отменена §5покупка §b(r1)§d.
 §dSuccessfully cancelled §5selling §d(.*)§d.@§dУспешно отменена §5продажа §d(r1)§d.
 §dYour items can be found in the trade overview menu.@§dТвои предметы можно найти в обзорном меню торговли.
@@ -185,55 +184,45 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §4You cannot add more ingredients to the crafting station@§4Ты не можешь добавить больше ингредиентов в станцию крафта
 §4You cannot add more materials to the crafting station@§4Ты не можешь добавить больше материалов в станцию крафта
 §4You don't have permission to open that in this area.@§4У тебя нет разрешения открывать это на этой территории (открывай пустой рукой)
-§cYou now have the fire effect.@
-§cYou now have the Earth Effect.@
-§cYou now have the Fire Effect.@
-§cYou now have the Demon Wings.@
-§6Golden Wand@
-§7Disguise your wand as a golden masterpiece@
-§fSpark Attack Effect@
-§7Create a spark effect whenever you hit!@
-§7You have set your weapon skin to Corrupted Spear@
-§7You have set your weapon skin to Candle Staff@
-§fWet Drip Effect@
-§7Give your character the Wet Drip effect@
-§cYou now have the Wet Drip Effect.@
-§fPotion Swirl Effect@
-§7Create a potion effect around your character@
-§cYou now have the potion effect.@
-§7The §bfollower §7is the key to revealing the §bentrance@
-§7You have disabled your weapon skin.@
-§4Uh oh! You may only upgrade rewards of the same tier...@
-§4Try adding some more §cEpic§4 items.@
-§fCloud Attack Effect@
-§7Create a cloud effect whenever you hit!@
-§cYou now have an attack effect.@
-§cYou no longer have any attack effects.@
-§6Corrupted Spear@
-§7Disguise your spear with a corrupted flair@
-§4It's just a heavy rock.@
-§4You cannot climb up there without a climbing helmet §7[Quest Req: Ice Nations]@
-§4You have no totems remaining. You can get totems with a rank at §cwynncraft.com/store@
-You don't have any totems...@
-§eKwazr1 has joined the party.@
-§eParty members: §bM3RCURRRY, §fComatosex, §fMioraS@
-§eYou have been invited to join _KarmaSH_'s party.@
-§eType the command §6/party join _KarmaSH_§e to join!@
-§eUsage: /party join [username]@
-§eYou have successfully joined the party.@
-§eYou are not in a party! Join a party first.@
-§4This gloomy well doesn't make you want to explore it.@
-§eYou must leave your current party first.@
-§4An invisible force pushes you back...@
-§4You haven't messaged anyone! Type /msg to do so.@
-§4This is not a §cArcher§4 weapon. You must use a §cbow.@
-§4/guild join §c[guild] §8-§6 Join a guild@
-§4You need to find all of the discoveries in §cWynn Plains§4 before you can enter this area.@
-§4You need to find all of the discoveries in §cDesert§4 before you can enter this area.@
-§7The life force slowly fades from the creature...@
-§5This is not your side!@
-§cYou have never been to that area!@
-§7You already have collected all the lava you need, you should report back to Captain Enduyn.@
+§cYou now have the (.*) effect.@§cВыбран эффект (r1).
+§cYou now have the (.*).@§cВыбраны (r1).
+§7Disguise your wand as a golden masterpiece@§7Маскирует твой посох под золотой шедевр
+§7Create a spark effect whenever you hit!@§7Создает эффект искр при ударе!
+§7You have set your weapon skin to (.*)@§7Ты установил на свое оружие (r1) скин
+§7Give your character the Wet Drip effect@Создает вокруг персонажа эффект мокрых капель
+§7Create a potion effect around your character@Создает вокруг персонажа эффект зелья
+§7Create a cloud effect whenever you hit!@§7Создает эффект облака при ударе!
+§cYou now have an attack effect.@§cВыбран эффект атаки.
+§cYou no longer have any attack effects.@§cУ тебя больше нет эффектов атак.
+§7Disguise your spear with a corrupted flair@§7Маскирует твое копье
+§7The §bfollower §7is the key to revealing the §bentrance@§bПоследователь - §7это ключ для открытия §bвхода
+§7You have disabled your weapon skin.@§7Ты отключил скин для оружия.
+§4Uh oh! You may only upgrade rewards of the same tier...@§4Эх! Ты можешь апгрейдить награды только того же уровня...
+§4Try adding some more §c(.*)§4 items.@§4Попробуй добавить больше §c(r1)§4 наград.
+§4It's just a heavy rock.@§4Это просто тяжелый камень.
+§4You cannot climb up there without a climbing helmet §7[Quest Req: Ice Nations]@§4Ты не можешь забраться туда без каски альпиниста §7[Нужен Квест: Ice Nations]
+§4You have no totems remaining. You can get totems with a rank at §cwynncraft.com/store@§4У тебя не осталось тотемов. Ты можешь получить тотемы вместе с рангом на §cwynncraft.com/store
+§4You don't have any totems...@§4У тебя нет никаких тотемов...
+§e(.*) has joined the party.@§e(r1) присоединился к пати.
+§eParty members: §b(.*), §f(.*)@§eУчастники пати: §b(r1), §f(r2)
+§eYou have been invited to join (.*) party.@§eТы был приглашен присоединиться к (r1) пати.
+§eType the command §6/party join (.*)§e to join!@§eНапиши команду §6/party join (r1)§e чтобы присоединиться!
+§eUsage: /party join [username]@§eИспользование: /party join [ник]
+§eYou have successfully joined the party.@§eТы успешно присоединился к пати.
+§eYou are not in a party! Join a party first.@§eТы не состоишь в пати! Сначала присоединись к ней.
+§4This gloomy well doesn't make you want to explore it.@§4Этот мрачный колодец не заставляет тебя хотеть исследовать его.
+§eYou must leave your current party first.@§eТы должен выйти из текущей пати сначала.
+§4An invisible force pushes you back...@§4Невидимая сила толкает тебя назад...
+§4You haven't messaged anyone! Type /msg to do so.@§4Ты никому не писал! Напиши /msg для этого.
+§4This is not a §cArcher§4 weapon. You must use a §cbow.@§4Это не оружие дляa §cЛучника§4. Ты должен использовать §cлук.
+§4This is not a §cMage§4 weapon. You must use a §cstick.@§4Это не оружие дляa §cМага§4. Ты должен использовать §cпосох.
+§4/guild join §c[guild] §8-§6 Join a guild@§4/guild join §c[гильдия] §8-§6 Вступить в гильдию
+§4You need to find all of the discoveries in §cWynn Plains§4 before you can enter this area.@§4Тебе нужно найти все открытия в §Cwynn Plains§4, прежде чем ты сможешь войти в эту территорию.
+§4You need to find all of the discoveries in §cDesert§4 before you can enter this area.@§4Тебе нужно найти все открытия в §CПустыне§4, прежде чем ты сможешь войти в эту территорию.
+§7The life force slowly fades from the creature...@§7Жизненная сила медленно покидает это существо...
+§5This is not your side!@§5Это не твоя сторона!
+§cYou have never been to that area!@§cТы никогда не был на этой территории!
+§7You already have collected all the lava you need, you should report back to Captain Enduyn.@§7Ты уже собрал достаточно лавы. Сообщи обо всем Капитану Enduyn'у.
 §a- §7Teleport will teleport to the location that you're looking at@
 §a- §7Meteor will throw a powerful meteor from the sky, hitting anything in its path@
 §a- §7Spell Usage: §fRight-Left-Left@
