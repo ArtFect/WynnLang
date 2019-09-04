@@ -87,7 +87,7 @@ QUESTS/A_Grave_Mistake.txt =====
 §7§4.§lReturn§4;' §lto§4:, '§lAlem;, @§7§4.§lВернись§4;' §lк§4:, '§lAlem'у;, 
  
 QUESTS/A_Marauder%27s_Dues.txt ===== 
-§7Talk to Norsten at [437,77,-5056].@§7Поговори с Norsten'ом на [437,77,-5056] 
+§7Talk to Norsten at [437,77,-5056]. @§7Поговори с Norsten'ом на [437,77,-5056] 
 §7Find and confront the mage @§7Найди и дай отпор магу 
 §7at [360,173,-5037]. @§7на [360,173,-5037]. 
 §7Jump into the cave by @§7Прыгни в пещеру с башни 
@@ -351,7 +351,7 @@ QUESTS/Death_Whistle.txt ====
  
 QUESTS/Deja_Vu.txt ===== 
 §7Talk to Asher near Time @§7Поговори с Asher'ом 
-§7Valley at [-449,72,-1153].@§7в Долине Времени на [-449,72,-1153] 
+§7Valley at [-449,72,-1153]. @§7в Долине Времени на [-449,72,-1153] 
 §7Find Asher's Shovel. @§7Найди Лопату Asher'а 
 §7Return Asher's Shovel to Asher. @§7Верни лопату Asher'у 
 §7Enter Asher's house.@§7Войди в дом Asher'а 
@@ -429,7 +429,7 @@ QUESTS/﻿Elemental_Exercise.txt =====
 QUESTS/Enter_the_Dojo.txt 
 §7Talk to Sensei Miyagi at @§7Поговори с Sensei Miyagi на 
 §7[495,109,-5571]@ 
-§7Jump down the water pit@§7Прыгни в яму с водой 
+§7Jump down the water pit @§7Прыгни в яму с водой 
 §7to begin the challenges @§7чтобы начать испытания 
 §7Solve the puzzle of sight @§7Разгадай пазл 
 §7in the Shìjué Room in @§7в Shijue комнате 
@@ -446,7 +446,7 @@ QUESTS/Enter_the_Dojo.txt
 §7tea @§7чаем 
 §7Exit the Xìngzhì cave through @§7Выйди из Xingzhi пещеры 
 §7the tunnel near the temple @§7через тоннель рядом с храмом 
-§7Speak to Sensei Miyagi@§7Поговори с Sensei Miyagi 
+§7Speak to Sensei Miyagi @§7Поговори с Sensei Miyagi 
  
 QUESTS/Enzan%27s_Brother.txt ===== 
 §7Talk to Enzan close to @§7Поговори с Enzan'ом 
@@ -467,14 +467,14 @@ QUESTS/Fallen_Delivery.txt
 §7Talk to Bricot at @§7Поговори с Bricot'ом на 
 §7[65,42,-4844]@ 
 §7Scale the house and search @§7Заберись на дом и обыщи 
-§7the fallen airship for survivors@§7упавший корабль в поисках выживших 
+§7the fallen airship for survivors @§7упавший корабль в поисках выживших 
 §7Investigate the cannon at the @§7Посети пушку, расположенную 
 §7top of the bandit fort @§7на вершине бандитского форта 
 §7[20,73,-4793]@ 
 §7Follow the trail of papers @§7Следуй по пути из бумаг 
-§7to the bandit's house@§7к дому бандита 
-§7Find the envelope in the cellar@§7Найди конверт в подвале 
-§7and return it to the sender@§7и верни его отправителю 
+§7to the bandit's house @§7к дому бандита 
+§7Find the envelope in the cellar @§7Найди конверт в подвале 
+§7and return it to the sender @§7и верни его отправителю 
 §7Find the representative’s office in @§7Найди офис представителей 
 §7the airship base @§7на авиабазе 
 §7[-238,120,-4967]@ 
@@ -679,7 +679,7 @@ QUESTS/Green_Gloop.txt =====
  
 QUESTS/Green_Skinned_Trouble.txt 
 §7Speak to Piere in the @§7Поговори с Piere'ом 
-§7Llevigar plains at[-1851,56,-4959]@§7на полях Llevigar'a [-1851,56,-4959] 
+§7Llevigar plains at[-1851,56,-4959] @§7на полях Llevigar'a [-1851,56,-4959] 
 §7Report the attack to Detective @§7Сообщи об атаке 
 §7Jackson @§7Детективу Jackson'у на 
 §7[-1731,53,-4836]@ 
@@ -763,7 +763,7 @@ QUESTS/﻿Ice_Nations.txt =====
 §7Hallfred @§7Hallfred'у 
  
 QUESTS/Infested_Plants.txt ===== 
-§7Talk to Ope at [-316,72,-1600].@§7Поговори с Ope на [-316,72,-1600] 
+§7Talk to Ope at [-316,72,-1600]. @§7Поговори с Ope на [-316,72,-1600] 
 §7Locate the medicine in the @§7Найди лекарство в паучей 
 §7spider cave by climbing the @§7пещере, забравшись на дерево 
 §7tree behind Ope. @§7позади Ope. 
@@ -835,7 +835,7 @@ QUESTS/Kingdom_of_Sand.txt =====
  
 QUESTS/Lazarus_Pit.txt ===== 
 §7Talk to Burtur at @§7Поговори с Burtur'ом на 
-§7[-980,45,-5305]@ §7 
+§7[-980,45,-5305]@ 
 §7Take a look at the @§7Посмотри 
 §7graveyard at @§7на кладбище 
 §7[-998,48,-5340]@ 
@@ -1204,7 +1204,7 @@ QUESTS/Stable_Story.txt =====
 QUESTS/Star_Thief.txt ===== 
 §7Look into the rumors of @§7Расследуй слухи о странной погоде 
 §7strange weather near the Imal @§7 рядом с гостиницей Imal 
-§7Inn at [-2018, 43, -4822].@§7Inn на [-2018, 43, -4822] 
+§7Inn at [-2018, 43, -4822]. @§7Inn на [-2018, 43, -4822] 
 §7Find the meteor's crash site @§7Найди место падения метеора 
 §7at [-2122, 52, -4887]. @§7на [-2122, 52, -4887] 
 §7Explore the cave that the @§7Исследуй пещеру 
@@ -1330,7 +1330,7 @@ QUESTS/The_Canary_Calls.txt
 §7Speak to Grenot outside the @§7Поговори с Grenot'ом 
 §7Thesead coal mine at @§7снаружи угольной шахты Thesead'а 
 §7[676,78,-5020]@ 
-§7Enter the coal mine@§7Войди в угольную шахту 
+§7Enter the coal mine @§7Войди в угольную шахту 
  
 QUESTS/The_Canyon_Guides.txt 
 §7Speak to Gana at @§7Поговори с Gana на 
@@ -1343,7 +1343,7 @@ QUESTS/The_Corrupted_Village.txt
 §7Speak to Orikal outside the @§7Поговори с Orikal'ом снаружи 
 §7Angry Village at [318,78,-1097]. @§7Angry Village на [318,78,-1097] 
 §7Examine the nearby corrupted spike @§7Посети вершину ближайшего шипа 
-§7to the Northeast at [352,69,-1124].@§7на северо-востоке [352,69,-1124] 
+§7to the Northeast at [352,69,-1124]. @§7на северо-востоке [352,69,-1124] 
 §7Climb the spike to see @§7Залезь на шип, возможно 
 §7if you can find anything @§7удастся узнать что-то 
 §7useful about it's existance.@§7полезное о его существовании 
@@ -1676,7 +1676,7 @@ QUESTS/Tower_of_Ascension.txt
  
 QUESTS/Tribal_Aggression.txt ===== 
 §7Talk to Caras at [1077, @§7Поговори с Caras'ом на [1077, 
-§784, -1613] @§7 
+§784, -1613] @ 
 §7Enter the Eagle Camp and @§7Иди в лагерь Орлов 
 §7talk to Favian @§7и поговори с Favian'ом 
 §7Bring back the Eagle Totem @§7Принеси назад тотем Орлов 
