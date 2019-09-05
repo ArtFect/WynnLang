@@ -48,31 +48,32 @@
 §7[1/1] §2Captain Kymer: §aYou can find the orcs in camps near the city or along the paths, I'm not sure exactly where they hide these days. Come back when you have the heads of Dolg, Visbe and Elak.@§7[1/1] §2Captain Kymer: §aТы можешь найти орков в лагерях недалеко от города или вдоль дорог, я не уверен точно, где они прячутся в эти дни. Возвращайся, когда у тебя будут головы Dolg'а, Visbe и Elak'а.
 §7[2/2] §2Orikal: §aThe small mining camp a little east of this village should have what you're looking for. Now Hurry!@§7[2/2] §2Orikal: §aНебольшой шахтерский лагерь, немного восточнее этой деревни, должен иметь то, что ты ищешь. А теперь поторопись!
 §7[1/1] §2Flendar §aGet out of here!@§7[1/1] §2Flendar §aВон отсюда!
-§7[1/1] §2Jankan: §aMe back ain’ gunna hold up carryin’ all that gold. Bring me my §3[5 Gold Chunks]§a from the tunnel, and then I’ll give ye yer information.
-§7[1/1] §2Leucsaa: §aHey, you can't just barge in there! You'd get lost, trust me.
-§7[1/1] §2Drale: §aStay off of the boat! It's for the cows! Wish I was a cow... §7[Right-Click the boat to push it]
-§7[1/3] §2Aledar: §aNow that you've refined the materials, it's time to actually craft your weapon. Follow me.
-§7[1/1] §2Aledar: §aWe can use this tree as a bridge to get across to the other side.
-§7[1/1] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a at the anvil to create §3[1 Dagger]§a and then show it to me.
-§7[1/1] §2Aledar: §bLeft-click§a on the refinery, then follow the instructions to make §3[2 Ingots]§a for your weapon.
-§7[1/1] §2Aledar: §bLeft-click§a on the refinery, then follow the instructions to make §3[2 Wood]§a for your weapon.
-§7[1/1] §2Aledar: §bLeft-click§a on the refinery, then follow the instructions to make §3[2 String]§a for your weapon.
-§7[1/1] §2Aledar: §aShow your weapon to the guard so he'll let us through.
-§7[1/1] §2Aledar: §aNo no no, this is paper! I said to make §3[2 Wood]§a! Make sure to §bleft-click§a when refining.
-§7[1/1] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a at the avil to create §3[1 Spear]§a and then show it to me.
-§7[1/1] §2Aledar: §aUse §b2 string§a and §b1 wood§a at the workbench to create §3[1 Bow]§a and then show it to me.
-§7[1/1] §2Old Man: §aI left my pickaxe by the ore over yonder. Use it to mine some copper and bring it back here.
-§7[1/1] §2Ragon: §aAre you mad? don't run back into the fire, I don't want to have to save you a second time.
-§7[1/1] §2Ragon: §aRecruit! You don't have permission to go in there. We're running experiments!
-§7[1/1] §2Ragon: §aHey! Don't go near that! We need it for an experiment!
-§7[1/1] §2Ragon: §aHello there, looks like you made it through the forest, that's quite an achievement. You could come by later if you would like to help us, we need recruits who are §blevel 10§a.
-§7[1/1] §2Soldier: §aAll right, recruits, the castle is straight ahead!
-§7[1/1] §2Farmer Cevalus: §aHey! Get away from my farm, this is a private property!
-§7[1/1] §2Farmer Cevalus: §aI could really use some help right now, but you are too weak. Come back when you are level 2.
-§7[1/1] §2Detective Jackson: §aI'm assuming they are under the lake just north-west of here making the axes.
-§7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bRight-Left-Right§a!
-§7[1/2] §2Haily: §aWe're looking for volunteers for the holiday season.
-§7[2/2] §2Haily: §aCome back when you're level 33.
+§7[1/1] §2Jankan: §aMe back ain’ gunna hold up carryin’ all that gold. Bring me my §3[5 Gold Chunks]§a from the tunnel, and then I’ll give ye yer information.@§7[1/1] §2Jankan: §aЯ вернулся, потому что не смог тащить все это золото. Принеси мне мои §3[5 Кусков Золота]§a из туннеля, а затем я дам тебе твою информацию.
+§7[1/1] §2Leucsaa: §aHey, you can't just barge in there! You'd get lost, trust me.@§7[1/1] §2Leucsaa: §aЭй, ты не можешь просто ворваться туда! Ты потеряешься там, поверь мне.
+§7[1/1] §2Drale: §aStay off of the boat! It's for the cows! Wish I was a cow... §7[Right-Click the boat to push it]@§7[1/1] §2Drale: §aДержись подальше от лодки! Это для коров! Хотел бы я быть коровой... §7[Правый-Клик по лодке, чтобы толкнуть]
+§7[1/3] §2Aledar: §aNow that you've refined the materials, it's time to actually craft your weapon. Follow me.@§7[1/3] §2Aledar: §aТеперь, когда ты переработал материалы, пришло время создать свое оружие. Следуй за мной.
+§7[1/1] §2Aledar: §aWe can use this tree as a bridge to get across to the other side.@§7[1/1] §2Aledar: §aМы можем использовать это дерево как мост, чтобы перебраться на другую сторону.
+§7[1/1] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a at the anvil to create §3[1 Dagger]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b2 слитка§a и §b1 дерево§a на наковальне, чтобы создать §3[1 Кинжал]§a и затем покажи его мне.
+§7[1/1] §2Aledar: §bLeft-click§a on the refinery, then follow the instructions to make §3[2 Ingots]§a for your weapon.@§7[1/1] §2Aledar: §bЛевый-клик§a по машине, а затем следуй инструкциям чтобы сделать §3[2 Слитка]§a для твоего оружия.
+§7[1/1] §2Aledar: §bLeft-click§a on the refinery, then follow the instructions to make §3[2 Wood]§a for your weapon.@§7[1/1] §2Aledar: §bЛевый-клик§a по машине, а затем следуй инструкциям чтобы сделать §3[2 Дерева]§a для твоего оружия.
+§7[1/1] §2Aledar: §bLeft-click§a on the refinery, then follow the instructions to make §3[2 String]§a for your weapon.@§7[1/1] §2Aledar: §bЛевый-клик§a по машине, а затем следуй инструкциям чтобы сделать §3[2 Нитки]§a для твоего оружия.
+§7[1/1] §2Aledar: §aShow your weapon to the guard so he'll let us through.@§7[1/1] §2Aledar: §aПокажи свое оружие охраннику, чтобы он пропустил нас.
+§7[1/1] §2Aledar: §aNo no no, this is paper! I said to make §3[2 Wood]§a! Make sure to §bleft-click§a when refining.@§7[1/1] §2Aledar: §aНет нет нет, это бумага! Я сказал сделать §3[2 Дерева]§a! Убедись, что жмешь §bлевый-клик§a при переработке.
+§7[1/1] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a at the avil to create §3[1 Spear]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b1 слиток§a и §b2 дерева§a на наковальне, чтобы создать §3[1 Копье]§a и затем покажи его мне.
+§7[1/1] §2Aledar: §aUse §b2 string§a and §b1 wood§a at the workbench to create §3[1 Bow]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b2 нитки§a и §b1 дерево§a на верстаке, чтобы создать §3[1 Лук]§a и затем покажи его мне.
+§7[1/1] §2Aledar: §aUse §b1 string§a and §b2 wood§a at the workbench to create §3[1 Wand]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b1 нитку§a и §b2 дерева§a на верстаке, чтобы создать §3[1 Посох]§a и затем покажи его мне.
+§7[1/1] §2Old Man: §aI left my pickaxe by the ore over yonder. Use it to mine some copper and bring it back here.@§7[1/1] §2Old Man: §aЯ оставил свою кирку у руды вон там. Используй ее, чтобы добыть немного меди и принеси сюда.
+§7[1/1] §2Ragon: §aAre you mad? don't run back into the fire, I don't want to have to save you a second time.@§7[1/1] §2Ragon: §aТы с ума сошел? не беги обратно в огонь, я не хочу спасать тебя во второй раз.
+§7[1/1] §2Ragon: §aRecruit! You don't have permission to go in there. We're running experiments!@§7[1/1] §2Ragon: §aРекрут! У тебя нет разрешения войти туда. Мы проводим эксперименты!
+§7[1/1] §2Ragon: §aHey! Don't go near that! We need it for an experiment!@§7[1/1] §2Ragon: §aЭй! Не приближайся туда! Это нам нужно для эксперимента!
+§7[1/1] §2Ragon: §aHello there, looks like you made it through the forest, that's quite an achievement. You could come by later if you would like to help us, we need recruits who are §blevel 10§a.@§7[1/1] §2Ragon: §aПривет, похоже, ты смог пройти через лес, что уже довольно таки достижение. Ты можешь прийти позже, если хочешь помочь нам, нам нужны рекруты §b10 уровня§a.
+§7[1/1] §2Soldier: §aAll right, recruits, the castle is straight ahead!@§7[1/1] §2Soldier: §aХорошо, новобранцы, замок прямо впереди!
+§7[1/1] §2Farmer Cevalus: §aHey! Get away from my farm, this is a private property!@§7[1/1] §2Farmer Cevalus: §aЭй! Убирайся с моей фермы, это частная собственность!
+§7[1/1] §2Farmer Cevalus: §aI could really use some help right now, but you are too weak. Come back when you are level 2.@§7[1/1] §2Farmer Cevalus: §aМне бы сейчас не помешала помощь, но ты слишком слаб. Вернись, когда будешь 2 уровня.
+§7[1/1] §2Detective Jackson: §aI'm assuming they are under the lake just north-west of here making the axes.@§7[1/1] §2Detective Jackson: §aЯ предполагаю, что они находятся под озером к северо-западу отсюда, делают топоры.
+§7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Guard: §aВстань перед стеной и используй свое заклинание, кликнув §bПравая-Левая-Правая§a!
+§7[1/2] §2Haily: §aWe're looking for volunteers for the holiday season.@§7[1/2] §2Haily: §aМы ищем добровольцев для праздничного сезона.
+§7[2/2] §2Haily: §aCome back when you're level 33.@§7[2/2] §2Haily: §aВернись, когда будешь 33-го уровня.
 §7[1/1] §2Haily: §aSo, how is it going? Did you find Nick in the slum?
 §7[1/1] §2Nick: §aHey! Don't go down there, it's dangerous!
 §7[1/1] §2Nick: §aMerry Craftmas.
