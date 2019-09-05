@@ -109,21 +109,21 @@
 §7[1/1] §2Adventuring Mage: §aWalk inside then, soldier! What are you standing around here for?@§7[1/1] §2Adventuring Mage: §aИди внутрь, солдат! Зачем ты здесь стоишь?
 §7[1/1] §2Ormrod: §aDon't stay close to me! Quick, run away, and kill the mummy!@§7[1/1] §2Ormrod: §aНе стой рядом со мной! Быстро, беги и убей мумию!
 §7[1/1] §2Enkser: §aHey, where do you think you're going? You can't just buy a horse like that! Talk to me if you want access... dang tourists...@§7[1/1] §2Enkser: §aЭй, что ты там делаешь? Ты не можешь просто так купить лошадь! Поговори со мной, если хочешь получить доступ... чертовы туристы...
-§7[4/4] §2WynnExcavation Guard: §aYou will have to find another exit if you want to get out!@§7[4/4] §2WynnExcavation Guard: §aТебе придется найти другой путь, чтобы выбраться наружу!
+* §7[4/4] §2WynnExcavation Guard: §aYou will have to find another exit if you want to get out!@§7[4/4] §2WynnExcavation Guard: §aТебе придется найти другой путь, чтобы выбраться наружу!
 
 ============51-75.txt==============
-§7[1/1] §2Salesman: §aIf I really had some of that healing water, I'd have probably charged three times as much! I was cuttin' you a deal, man!
-§7[1/1] §2Monte: §aOh, what am I to do...? How am I to- Oh? Ehm...I would ask your help, stranger, but I would wait until you are Level 69...
-§7[1/1] §2Monte: §aI have written directions for you in your quest §abook...please§a help our village.
-§7[1/2] §2Troms Mage: §aWe are in great peril, but I'd rather not risk recruiting someone like you just yet...
-§7[2/2] §2Troms Mage: §aPlease, come back when you reach the level of 52. Troms will desperately need your help by then...
-§7[1/1] §2Kelight: §aOnly the bravest adventurers who succeed in my quest can enter the Temple of the Legends.
-§7[1/1] §2Legend Guards: §aYou may not enter this place without a protection helmet! It is far too dangerous to go in without one.
-§7[1/1] §2Erlard: §aYou can't enter here! Didn't you listen? You need to aquire the veil buried in the catacombs of Olux! They are behind the bank, I believe.
-§7[1/1] §2Erlard: §aAre you crazy? Don't enter that tower!
-§7[1/1] §2Calo: §aWoah, you can't just walk onto my ship like that!
-§7[1/1] §2Czytash: §aMan, this crate reeks. I almost wish someone would come and take it from me.
-§7[1/1] §2Zhight: §aTerribly sorry but the Zhight Grand Exchange is under repairs right now! You can't go in yet!
+§7[1/1] §2Salesman: §aIf I really had some of that healing water, I'd have probably charged three times as much! I was cuttin' you a deal, man!@§7[1/1] §2Salesman: §aЕсли бы у меня действительно была целебная вода, я бы, наверное, взял с тебя в три раза больше! Я заключил с тобой сделку, чувак.
+§7[1/1] §2Monte: §aOh, what am I to do...? How am I to- Oh? Ehm...I would ask your help, stranger, but I would wait until you are Level 69...@§7[1/1] §2Monte: §aО, что же мне делать?..? Как я могу ... ох? Эмм...Я бы попросил твоей помощи, незнакомец, но я бы подождал, пока ты не достигнешь 69 уровня...
+§7[1/1] §2Monte: §aI have written directions for you in your quest §abook...please§a help our village.@§7[1/1] §2Monte: §aЯ написал для тебя инструкции в твоей квестовой книге...пожалуйста, помоги нашей деревне.
+§7[1/2] §2Troms Mage: §aWe are in great peril, but I'd rather not risk recruiting someone like you just yet...@§7[1/2] §2Troms Mage: §aМы в большой опасности, но я бы не хотел рисковать, нанимая кого-то вроде тебя прямо сейчас...
+§7[2/2] §2Troms Mage: §aPlease, come back when you reach the level of 52. Troms will desperately need your help by then...@§7[2/2] §2Troms Mage: §aПожалуйста, вернись, когда достигнешь 52 уровня. К тому времени Troms будет отчаянно нуждаться в твоей помощи...
+§7[1/1] §2Kelight: §aOnly the bravest adventurers who succeed in my quest can enter the Temple of the Legends.@§7[1/1] §2Kelight: §aТолько самые смелые искатели приключений, которые преуспеют в моем квесте, могут войти в Храм Легенд.
+§7[1/1] §2Legend Guards: §aYou may not enter this place without a protection helmet! It is far too dangerous to go in without one.@§7[1/1] §2Legend Guards: §aТы не можешь войти в это место без защитного шлема! Это слишком опасно, чтобы идти туда без него.
+§7[1/1] §2Erlard: §aYou can't enter here! Didn't you listen? You need to aquire the veil buried in the catacombs of Olux! They are behind the bank, I believe.@§7[1/1] §2Erlard: §aТы не можешь войти сюда! Ты что, не слушал? Ты должен добыть вуаль, захороненную в катакомбах Olux'а! Они находятся за банком, я полагаю.
+§7[1/1] §2Erlard: §aAre you crazy? Don't enter that tower!@§7[1/1] §2Erlard: §aТы с ума сошел? Не входи в эту башню!
+§7[1/1] §2Calo: §aWoah, you can't just walk onto my ship like that!@§7[1/1] §2Calo: §aВоу, ты не можешь просто так войти в мой корабль!
+§7[1/1] §2Czytash: §aMan, this crate reeks. I almost wish someone would come and take it from me.@§7[1/1] §2Czytash: §aЧувак, этот ящик воняет. Я почти хочу, чтобы кто-нибудь пришел и забрал его у меня.
+§7[1/1] §2Zhight: §aTerribly sorry but the Zhight Grand Exchange is under repairs right now! You can't go in yet!@
 §7[1/1] §2Zhight: §aThe staff around the island are always willing to help a customer in need. If you ever need any help, just talk to one of them!
 §7[1/1] §2Phief: §aI'm sure I can take it back somehow... if I just- Hey, get out of here! I'm trying to concentrate!
 §7[1/1] §2Tirt: §aYar har fiddle dee dee, waiting for my Dad; he's roaming the sea!
