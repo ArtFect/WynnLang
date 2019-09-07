@@ -381,38 +381,39 @@
 §7[2/6] §2Phinas: §aYou found all three? Let's take a look. Hmm....@§7[2/6] §2Phinas: §aТы нашел все три? Давай посмотрим. Хмм...
 
 =================BaseQuestsEFGH.txt================
-§7[5/10] §2Detective Jackson: §aOrcs never used axe's before they got their hands on one of ours. I fear they are replicating it, but poorly.
-§7[4/6] §2Detective Jackson: §aAnyway. This is made of a particular rock type, the closest source is under a small lake nearby.
-§7[5/6] §2Detective Jackson: §aIt's north west of here. they must have found a cave under there.
-§7[5/9] §2Anrod: §aAs long as it lives, I cannot age! I specifically chose this species because it has the nickname "Root of Ages."
-§7[1/10] §2Anrod: §aOh! You're back! I thought you just ran off! What do §ayou...wait§a, you just have water?! This isn't a laughing matter!!
-§7[2/10] §2Anrod: §a...you§a say Rynver gave it to you...? Oh, no wonder it took you so long, then...
-§7[3/10] §2Anrod: §aWell...pour§a it onto the flower, please. I can barely even lift my arms, I'm so tired...
-§7[4/10] §2Anrod: §aAAAAH!! HOT! HOT! HOOOT!!! STOP, STOP IT!
-§7[5/10] §2Anrod: §aGaaah, §athat...wh...aaah§a! I feel like my whole body is on fire!! What was in that water?!
-§7[6/10] §2Anrod: §aWait a minute...s-since when were the hills blazing?! §aI...wait§a, I think I know what's wrong!!
-§7[7/10] §2Anrod: §aThe Elves told me that these flowers "live as long as life itself." I got them from the cave in the mountains to the south.
-§7[8/10] §2Anrod: §aMaybe the flower's condition is linked to the plants in there! This fire must have spread into that cave...
-§7[9/10] §2Anrod: §aAaah, aaah! H-hot! It's getting worse! I'm burning up!! G-go into that cave! Find whatever's burning the roots! Do something!
-§7[10/10] §2Anrod: §aKill it, douse it, give it a stern lecture, I don't care! Just DOUSE THOSE FIRES! AAAAH HOT HOT HOT HOT HOT!!!!
-§7[1/1] §2Anrod: §aHOT! HOT! HURRY! CAVE! FIRE! SOUTH! HOT!
-§7[2/8] §2Anrod: §aBlessed...blessed§a cold! I know you were successful...I don't feel like I'm burning anymore, and my flower is back to a healthy state!
-§7[3/8] §2Anrod: §aSo...by§a chance, what was going on in there? I'd like to know.
-§7[4/8] §2Anrod: §aA little sludge-ish, lava-blob-looking thing? Wait, a Fleris? How in the world...
-§7[5/8] §2Anrod: §aUh, those things live in the caves under this volcanic mountain §arange...and§a that place is halfway across the entire province from here!!
-§7[6/8] §2Anrod: §aUsually, they live around these mounds of cinder. I think they get scared when they get cold?
-§7[7/8] §2Anrod: §aIt was probably trying to burn the roots to make a Fleris mound for itself. That's too bad. It didn't know any better, and the thing are darn cute.
-§7[8/8] §2Anrod: §aWell, whatever the case, you've saved my life, so here. I can easily work up the money later. It isn't like I've not got the time now!
-§7[7/11] §2Rynver: §aOh, that dastard! He actually went through with it! I warned him! Binding the soul is not only dangerous, but ILLEGAL!
-§7[8/11] §2Rynver: §aAlthough, I don't understand how he's dying... The Root of Ages is said to be immortal...
-§7[5/6] §2Salesman: §aThere's this group of mages out in Dernel who know how to get the stuff. They're a bunch of tightwads and wouldn't give me any real healing water to sell.
-§7[2/4] §2Monte: §aAha, perfect! If this will not work, §athen...no§a, I must have faith.
-§7[4/7] §2Old Siwel: §aI'd sit and tell you, but I feel you might get a better experience first hand....
-§7[5/5] §2Siwel: §aI want you to go check out that egg. See if you can get rid of whatever it is producing. Bring me §3[5 Monster Hides]§a as evidence.
-§7[1/9] §2Old Siwel: §aExcellent. You acquired the ingredients. Just give me a second and i'll prepare you for your journey into the mind of the dead.
-§7[2/9] §2Old Siwel: §a§kMumbles a strange, dead language§a...
-§7[3/9] §2Old Siwel: §a§kMumbles a strange, dead language§a....
-§7[8/9] §2Old Siwel: §aOh and one more thing, If you die in the memory, you die in reality too....
+§7[5/10] §2Detective Jackson: §aOrcs never used axe's before they got their hands on one of ours. I fear they are replicating it, but poorly.@§7[5/10] §2Detective Jackson: §aОрки никогда не использовали топоры, до того момента, пока не завладели нашим. Боюсь, что они делают копии, но получается у них плохо.
+§7[4/6] §2Detective Jackson: §aAnyway. This is made of a particular rock type, the closest source is under a small lake nearby.@§7[4/6] §2Detective Jackson: §aТак или иначе, они сделаны из особенной породы. Ближайший источник находится под небольшим озером неподалеку.
+§7[5/6] §2Detective Jackson: §aIt's north west of here. they must have found a cave under there.@§7[5/6] §2Detective Jackson: §aОно находится на северо-западе отсюда. Под ним есть пещера.
+
+§7[5/9] §2Anrod: §aAs long as it lives, I cannot age! I specifically chose this species because it has the nickname "Root of Ages."@§7[5/9] §2Anrod: §aИ пока он живет - я не старею! Я специально выбрал этот вид, потому что он имеет прозвище "Корень Возрастов"
+§7[1/10] §2Anrod: §aOh! You're back! I thought you just ran off! What do §ayou...wait§a, you just have water?! This isn't a laughing matter!!@§7[1/10] §2Anrod: §aОй! Ты вернулся! Я думал, что ты просто сбежал! Что у тебя...минутку, это простая вода? Это совсем не смешно!!
+§7[2/10] §2Anrod: §a...you§a say Rynver gave it to you...? Oh, no wonder it took you so long, then...@§7[2/10] §2Anrod: §a...Ты говоришь Rynver дал это тебе...? О, тогда неудивительно, что это заняло у тебя так много времени...
+§7[3/10] §2Anrod: §aWell...pour§a it onto the flower, please. I can barely even lift my arms, I'm so tired...@§7[3/10] §2Anrod: §aНу что ж...вылей ее на цветок, пожалуйста. Я едва могу поднять руки, я так устал...
+§7[4/10] §2Anrod: §aAAAAH!! HOT! HOT! HOOOT!!! STOP, STOP IT!@§7[4/10] §2Anrod: §aАААА!! ГОРЯЧО! ГОРЯЧООО!!! ОСТАНОВИСЬ, ПЕРЕСТАНЬ!
+§7[5/10] §2Anrod: §aGaaah, §athat...wh...aaah§a! I feel like my whole body is on fire!! What was in that water?!@§7[5/10] §2Anrod: §aЧееерт, это...
+§7[6/10] §2Anrod: §aWait a minute...s-since when were the hills blazing?! §aI...wait§a, I think I know what's wrong!!@§7[6/10] §2Anrod: §a
+§7[7/10] §2Anrod: §aThe Elves told me that these flowers "live as long as life itself." I got them from the cave in the mountains to the south.@§7[7/10] §2Anrod: §a
+§7[8/10] §2Anrod: §aMaybe the flower's condition is linked to the plants in there! This fire must have spread into that cave...@§7[8/10] §2Anrod: §a
+§7[9/10] §2Anrod: §aAaah, aaah! H-hot! It's getting worse! I'm burning up!! G-go into that cave! Find whatever's burning the roots! Do something!@§7[9/10] §2Anrod: §a
+§7[10/10] §2Anrod: §aKill it, douse it, give it a stern lecture, I don't care! Just DOUSE THOSE FIRES! AAAAH HOT HOT HOT HOT HOT!!!!@§7[10/10] §2Anrod: §a
+§7[1/1] §2Anrod: §aHOT! HOT! HURRY! CAVE! FIRE! SOUTH! HOT!@
+§7[2/8] §2Anrod: §aBlessed...blessed§a cold! I know you were successful...I don't feel like I'm burning anymore, and my flower is back to a healthy state!@
+§7[3/8] §2Anrod: §aSo...by§a chance, what was going on in there? I'd like to know.@
+§7[4/8] §2Anrod: §aA little sludge-ish, lava-blob-looking thing? Wait, a Fleris? How in the world...@
+§7[5/8] §2Anrod: §aUh, those things live in the caves under this volcanic mountain §arange...and§a that place is halfway across the entire province from here!!@
+§7[6/8] §2Anrod: §aUsually, they live around these mounds of cinder. I think they get scared when they get cold?@
+§7[7/8] §2Anrod: §aIt was probably trying to burn the roots to make a Fleris mound for itself. That's too bad. It didn't know any better, and the thing are darn cute.@
+§7[8/8] §2Anrod: §aWell, whatever the case, you've saved my life, so here. I can easily work up the money later. It isn't like I've not got the time now!@
+§7[7/11] §2Rynver: §aOh, that dastard! He actually went through with it! I warned him! Binding the soul is not only dangerous, but ILLEGAL!@
+§7[8/11] §2Rynver: §aAlthough, I don't understand how he's dying... The Root of Ages is said to be immortal...@
+§7[5/6] §2Salesman: §aThere's this group of mages out in Dernel who know how to get the stuff. They're a bunch of tightwads and wouldn't give me any real healing water to sell.@
+§7[2/4] §2Monte: §aAha, perfect! If this will not work, §athen...no§a, I must have faith.@
+§7[4/7] §2Old Siwel: §aI'd sit and tell you, but I feel you might get a better experience first hand....@
+§7[5/5] §2Siwel: §aI want you to go check out that egg. See if you can get rid of whatever it is producing. Bring me §3[5 Monster Hides]§a as evidence.@
+§7[1/9] §2Old Siwel: §aExcellent. You acquired the ingredients. Just give me a second and i'll prepare you for your journey into the mind of the dead.@
+§7[2/9] §2Old Siwel: §a§kMumbles a strange, dead language§a...@
+§7[3/9] §2Old Siwel: §a§kMumbles a strange, dead language§a....@
+§7[8/9] §2Old Siwel: §aOh and one more thing, If you die in the memory, you die in reality too....@
 
 =================BaseQuestsIJKLM.txt===============
 §7[3/6] §2Aryn: §aOh... My father sent you? Well, I am very impressed, Wynn warrior. You fight with the ferocity of our own!
