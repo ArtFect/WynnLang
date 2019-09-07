@@ -350,27 +350,35 @@
 §7[2/2] §2Selchar Citizen: §aIf you want to go you will need a climbing helmet.@§7[2/2] §2Selchar Citizen: §aЕсли Ты хочешь пойти туда, то тебе понадобится альпинистский шлем.
 
 =================BaseQuestsABCD.txt===============
-§7[1/5] §2Duvale: §aYou There! Yes, you with the small nose, I need your help. I hear you human folk are always on the look out for some dangerous work.
-§7[5/5] §2Captain Kymer: §aWhen you're ready to leave you should head north towards Olux, it's the next major city. But be wary, the swamp isn't the most friendly place.
-§7[5/6] §2The Blacksmith: §3[1 Depressing Stick]§a, §3[1 Depressing Spear]§a, §3[1 Depressing Bow]§a and §3[1 Depressing Shears]§a will do the trick.
-§7[6/6] §2The Blacksmith: §aThink you can get those from monsters somewhere 'round Nesaak.
-§7[5/8] §2Old Man Martyn: §aAsher found one of these tools: the shovel.
-§7[4/7] §2Hermit: §aIf you want to go through here, you'll need to pay. Oh, I don't want your money, why would I need money, I have everything!
-§7[2/3] §2Troms Guard: §aFrom past experiences, everyone who has entered this house has vanished from existence...
-§7[1/6] §2Captain Kymer: §aOh ho ho! A new traveller, fresh from the province of Wynn I see!
-§7[4/7] §2Voer: §aNo wonder she thought it was a bargain! Listen, Black Whistle leaf is quite some thing, but Pink Pelulite is one of the most dangerous botanical magics!
-§7[6/7] §2Voer: §aThe good news is that it is easy to track. Pelulite leaves a residue everywhere. It should be easy to follow.
-§7[7/7] §2Voer: §aGo and stop the witch, and bring the §3[Pink Pelulite] §aback, as proof of your deed!
-§7[1/4] §2Voer: §aYou made it back! Phew, that means she couldn't have finished the potion. Usually, one whiff of a potion of death and you... Ahem... Die!
-§7[3/4] §2Voer: §aAnyway, you made it through. Not only that, but I got my Pelulite back, and the money from when she bought it!
-§7[3/8] §2Voer: §aMy name is Voer, and I'm a chemistry merchant. I sell all kinds of, uh, legal goods to the magicians of Gavel.
-§7[5/8] §2Voer: §aNow, I would get it myself, but I dare not enter the swamp. Trust me, that place is filled with all kinds of evil.
-§7[8/8] §2Voer: §aGreat! Look for the highest mountain in the swamp south-east from here. The flower itself is on top of it, and... Good luck!
-§7[2/10] §2Doubiss: §aOh. Oh, goodie. Another traveller sent from that idiot farmer. Sweet baby Bovine, I've lost count o' how many times he's pulled this!!
-§7[1/9] §2Darnes: §aThis is no place for Wynn natives. This is a Villager-Orc war!
-§7[3/9] §2Darnes: §aThe filthy but thick-skinned Orcs have been long standing enemies of the Villagers.
-§7[2/6] §2Phinas: §aYou found all three? Let's take a look. Hmm....
+§7[1/5] §2Duvale: §aYou There! Yes, you with the small nose, I need your help. I hear you human folk are always on the look out for some dangerous work.@§7[1/5] §2Duvale: §aЭй, ты! Да, ты, с маленьким носом! Мне нужна твоя помощь. Я слышал, ты всегда ищешь сложную работу.
 
+§7[1/6] §2Captain Kymer: §aOh ho ho! A new traveller, fresh from the province of Wynn I see!@§7[1/6] §2Captain Kymer: §aОх хо хо! Новый путешественник из провинции Wynn, как я вижу!
+§7[5/5] §2Captain Kymer: §aWhen you're ready to leave you should head north towards Olux, it's the next major city. But be wary, the swamp isn't the most friendly place.@§7[5/5] §2Captain Kymer: §aКогда будешь готов, тебе следует идти на север в сторону города Olux, это следующий большой город. Но будь готов - болото не очень дружелюбное место.
+
+§7[5/6] §2The Blacksmith: §3[1 Depressing Stick]§a, §3[1 Depressing Spear]§a, §3[1 Depressing Bow]§a and §3[1 Depressing Shears]§a will do the trick.@§7[5/6] §2The Blacksmith: §3[1 Depressing Stick]§a, §3[1 Depressing Spear]§a, §3[1 Depressing Bow]§a и §3[1 Depressing Shears]§a будет достаточно.
+§7[6/6] §2The Blacksmith: §aThink you can get those from monsters somewhere 'round Nesaak.@§7[6/6] §2The Blacksmith: §aДумаю можешь добыть их с монстров вокруг города Nesaak.
+
+§7[5/8] §2Old Man Martyn: §aAsher found one of these tools: the shovel.@§7[5/8] §2Old Man Martyn: §aAsher нашел один из этих инструментов - лопату.
+
+§7[4/7] §2Hermit: §aIf you want to go through here, you'll need to pay. Oh, I don't want your money, why would I need money, I have everything!@§7[4/7] §2Hermit: §aЕсли хочешь пройти через мост, то ты должен заплатить. Нет, мне не нужны твои деньги, у меня всё есть!
+
+§7[2/3] §2Troms Guard: §aFrom past experiences, everyone who has entered this house has vanished from existence...@§7[2/3] §2Troms Guard: §aПо прошлому опыту скажу, что каждый, кто входил в этот дом, больше оттуда не возвращался...
+
+§7[4/7] §2Voer: §aNo wonder she thought it was a bargain! Listen, Black Whistle leaf is quite some thing, but Pink Pelulite is one of the most dangerous botanical magics!@§7[4/7] §2Voer: §aНеудивительно, что она так быстро согласилась на сделку! Листья этого цветка ничто по сравнению с розовым Pelulite. Он является одним из самых опасных в ботанический магии!
+§7[6/7] §2Voer: §aThe good news is that it is easy to track. Pelulite leaves a residue everywhere. It should be easy to follow.@§7[6/7] §2Voer: §aХорошей новостью является то, что его легко отследить. Pelulite оставляет следы повсюду. Они должны быть легко читаемы.
+§7[7/7] §2Voer: §aGo and stop the witch, and bring the §3[Pink Pelulite] §aback, as proof of your deed!@§7[7/7] §2Voer: §aИди, останови ведьму и верни §3[Розовый Pelulite]§a в качестве доказательства твоего успеха!
+§7[1/4] §2Voer: §aYou made it back! Phew, that means she couldn't have finished the potion. Usually, one whiff of a potion of death and you... Ahem... Die!@§7[1/4] §2Voer: §aТы вернулся! Фух, значит она не смогла закончить свое зелье. Всего лишь одно зелье смерти и ты бы...кхм... погиб!
+§7[3/4] §2Voer: §aAnyway, you made it through. Not only that, but I got my Pelulite back, and the money from when she bought it!@§7[3/4] §2Voer: §aВ любом случае, тебе это удалось. Мало того, что я вернул свой Pelulite обратно, так у меня еще остались ее деньги за покупку!
+§7[3/8] §2Voer: §aMy name is Voer, and I'm a chemistry merchant. I sell all kinds of, uh, legal goods to the magicians of Gavel.@§7[3/8] §2Voer: §aМеня зовут Voer, и я торговец химией. Я продаю все виды, э-эм, разрешенных растений волшебникам в Gavel'e.
+§7[5/8] §2Voer: §aNow, I would get it myself, but I dare not enter the swamp. Trust me, that place is filled with all kinds of evil.@§7[5/8] §2Voer: §aЯ бы сам сходил за ним, но я не могу пойти в болото. Поверь мне, это место наполнено всевозможной нечистью.
+§7[8/8] §2Voer: §aGreat! Look for the highest mountain in the swamp south-east from here. The flower itself is on top of it, and... Good luck!@§7[8/8] §2Voer: §aЗдорово! Ищи самую высокую гору в болоте к юго-востоку отсюда. Цветок растет именно на ее вершине, и... Удачи!
+
+§7[2/10] §2Doubiss: §aOh. Oh, goodie. Another traveller sent from that idiot farmer. Sweet baby Bovine, I've lost count o' how many times he's pulled this!!@§7[2/10] §2Doubiss: §aОй. Ох, господи... Еще один посыльный от этого идиота фермера. Святой Bovine, я уже сбился со счета, сколько раз он их уже присылал!!
+
+§7[1/9] §2Darnes: §aThis is no place for Wynn natives. This is a Villager-Orc war!@§7[1/9] §2Darnes: §aЭто не место для уроженцев из Wynn. Здесь идет война между жителями и орками!
+§7[3/9] §2Darnes: §aThe filthy but thick-skinned Orcs have been long standing enemies of the Villagers.@§7[3/9] §2Darnes: §aГрязные, но толстокожие орки, являются давними врагами жителей.
+
+§7[2/6] §2Phinas: §aYou found all three? Let's take a look. Hmm....@§7[2/6] §2Phinas: §aТы нашел все три? Давай посмотрим. Хмм...
 
 =================BaseQuestsEFGH.txt================
 §7[5/10] §2Detective Jackson: §aOrcs never used axe's before they got their hands on one of ours. I fear they are replicating it, but poorly.
