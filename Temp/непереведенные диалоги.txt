@@ -308,47 +308,47 @@
 * §7[2/3] §2Llevigar Citizen: §aCerid is a famous electromagic inventor who has created powerful weapons and armor. From...I think it was, §aer...Corko§a? Carper? Someplace like that.@§7[2/3] §2Llevigar Citizen: §aCerid - известный изобретатель электромагии, создавший мощное оружие и броню. Он из...кажется, эм...Corko§a? Carper? Вообщем откуда-то оттуда.
 
 =================WynnNPC.txt================
-§7[1/6] §2Alvin: §aDon't venture too deep into the forest, soldier
-§7[2/6] §2Alvin: §aBraver people than you have fallen there.
-§7[3/6] §2Alvin: §aMany battles over the last 1000 years have been fought in the forest.
-§7[4/6] §2Alvin: §aCountless bodies are rotting beneath the soil. 
-§7[5/6] §2Alvin: §aSometimes those bodies come back... Something takes them over..
-§7[6/6] §2Alvin: §aIt's like their every bone is corrupted.
-§7[1/2] §2Almuj Citizen: §aA traitor from the army, named Takan, recently took over Almuj's barracks to the northeast! This is terrible news, Almuj could be in danger!
-§7[2/2] §2Almuj Citizen: §aI wonder if Mylo has heard the news yet, last I heard he's still in Nemract...
-§7[1/1] §2Lift Mechanic: §aSorry pal, but only friends of Svin can use these elevators. He lives in Rymek if you want to talk to him.
-§7[1/2] §2Townsperson: §aOh man, I feel like a weight has lifted.
-§7[2/2] §2Townsperson: §aThe only problem is my eyebrows are stuck like this...
-§7[1/2] §2Nesaak Citizen: §aThe famous House of Twain lies to the south, in the area where the snow has melted.
-§7[2/2] §2Nesaak Citizen: §aThe Mansion has a deep history with this land. The Twain's used to fight the corruption before the likes of Bob were around, although people seem to forget about them.
-§7[1/3] §2Nemract Citizen: §aYou looking for Drucksh? Well, you just missed him. He had several drinks too many, as usual, and fumbled home a few minutes ago.
-§7[2/3] §2Nemract Citizen: §aHe lives a few houses down, over to the west, if you want to talk to him.
-§7[3/3] §2Nemract Citizen: §aBut he probably won't listen to a word you say unless you give him some good ol' Nemract Whiskey...
-§7[1/2] §2Nemract Citizen: §aAh, a new visitor to Nemract, what a rare sight. Did you hear what happened to Sayleros' brother?
-§7[2/2] §2Nemract Citizen: §aHe died a few weeks ago. I wonder if Sayleros is doing okay, last I heard he was still in Detlas...I wonder if he knows.
-§7[1/1] §2Zhight Staff: §aSorry, but the Zhight Treasure Tour is undergoing some renovations at the moment, so we can't let you inside.
-§7[1/7] §2Zhight Tour Guide: §aHello and welcome! Are you here to try the Zhight Treasure Tour? I'll teach you the rules!
-§7[2/7] §2Zhight Tour Guide: §aSimply pay for a token down in the cave and deposit it at the collector, and you'll be ushered into a sprawling cave system!
-§7[3/7] §2Zhight Tour Guide: §aIt's full of dangerous enemies and perilous plights, but they carry lots of rewards and riches!
-§7[4/7] §2Zhight Tour Guide: §aIf you stay in the cave for five minutes, or if you want to leave early or get knocked out, you'll be brought out of the cave.
-§7[5/7] §2Zhight Tour Guide: §aAnything you find in there, and we do mean ANYTHING, is yours to keep.
-§7[6/7] §2Zhight Tour Guide: §aYou can also exchange some of our special tokens for things that adventuring types like yourself will find indispensable, up in the gazebo!
-§7[7/7] §2Zhight Tour Guide: §aWe hope you enjoy your stay at Zhight Island Resort, thank you!
-* §7[1/2] §2Selchar Citizen: §aThere is an old mining colony up north in Maro Peaks, but it’s been abandoned now and all that is left are the sheep and rams.
-* §7[2/2] §2Selchar Citizen: §aIf you want to go you will need a climbing helmet.
-§7[1/2] §2Rymek Citizen: §aYou aren't one of us. So you aren't getting a word out of me.
-§7[2/2] §2Rymek Citizen: §aI'm not a rat. I won't tell you anything.
-§7[1/3] §2Rymek Citizen: §aWhat's a little wimp like you doing here? Eh? Snoopin' for rumors?
-§7[2/3] §2Rymek Citizen: §aAh, see. I never had the best memory of §aall...maybe§a a few shiny things could jog it, hm?
-§7[3/3] §2Rymek Citizen: §aFeh, figures. Get outta here, wimpo! I bet a chicken could slay ya!
-§7[1/1] §2Charmcrafter: §aStrangers are not allowed to craft charms here. I must ask you to leave.
-§7[1/2] §2Jungle Native: §aOur tribe's former shaman was sadly banished. He was practicing dark magic and curses. We believed he was a danger to us all.
-§7[2/2] §2Jungle Native: §aWe sealed him inside of a dungeon, but we believe he is preparing some sort of dark ritual. I fear that the seal will not hold.
-§7[1/1] §2Hot Air Balloon Captain: §aI escort friends of the king to Kandon-Beda in Gavel from here.
-§7[1/1] §2Hot Air Balloon Captain: §aWhat do you think you're doing? This balloon is only for friends of the king of Corkus. §7[Quest Req: The Envoy Part II]
-§7[1/3] §2Corkian Security Executive: §aYou must be the adventurer we were told about. Don't worry, we have been informed about everything.
-§7[2/3] §2Corkian Security Executive: §aThe work of those separatists has been undone, but there was a pretty long argument about the ownership of this hideout...
-§7[3/3] §2Corkian Security Executive: §aIn the end, it was decided that it should belong to the barkeeper, because he owns the closest property. He's been quite busy renovating ever since.
+§7[1/6] §2Alvin: §aDon't venture too deep into the forest, soldier@§7[1/6] §2Alvin: §aНе заходи слишком далеко в лес, солдат
+§7[2/6] §2Alvin: §aBraver people than you have fallen there.@§7[2/6] §2Alvin: §aБолее храбрые люди, чем ты, пали там.
+§7[3/6] §2Alvin: §aMany battles over the last 1000 years have been fought in the forest.@§7[3/6] §2Alvin: §aЗа последние 1000 лет в лесу произошло много сражений.
+§7[4/6] §2Alvin: §aCountless bodies are rotting beneath the soil. @§7[4/6] §2Alvin: §aБесчисленные тела гниют под землей.
+§7[5/6] §2Alvin: §aSometimes those bodies come back... Something takes them over..@§7[5/6] §2Alvin: §aИногда эти тела возвращаются... Что-то овладевает ими..
+§7[6/6] §2Alvin: §aIt's like their every bone is corrupted.@§7[6/6] §2Alvin: §aКак будто каждая их кость заражается порчей.
+§7[1/2] §2Almuj Citizen: §aA traitor from the army, named Takan, recently took over Almuj's barracks to the northeast! This is terrible news, Almuj could be in danger!@§7[1/2] §2Almuj Citizen: §aПредатель из армии, по имени Takan, недавно захватил казармы Almuj'а на северо-востоке! Это ужасная новость, Almuj может быть в опасности!
+§7[2/2] §2Almuj Citizen: §aI wonder if Mylo has heard the news yet, last I heard he's still in Nemract...@§7[2/2] §2Almuj Citizen: §aИнтересно, знает ли Mylo эту новость, в последний раз я слышал, что он все еще в Nemract'е...
+§7[1/1] §2Lift Mechanic: §aSorry pal, but only friends of Svin can use these elevators. He lives in Rymek if you want to talk to him.@§7[1/1] §2Lift Mechanic: §aПрости приятель, но только друзья Svin'а могут пользоваться этими лифтами. Он живет в Rymek'е, если ты хочешь поговорить с ним.
+§7[1/2] §2Townsperson: §aOh man, I feel like a weight has lifted.@§7[1/2] §2Townsperson: §aО, боже, я чувствую, будто вес упал с плеч.
+§7[2/2] §2Townsperson: §aThe only problem is my eyebrows are stuck like this...@§7[2/2] §2Townsperson: §aЕдинственная проблема в том, что мои брови застряли вот в таком положении...
+§7[1/2] §2Nesaak Citizen: §aThe famous House of Twain lies to the south, in the area where the snow has melted.@§7[1/2] §2Nesaak Citizen: §aЗнаменитое Поместье Twain находится на юге, в районе, где растаял снег.
+§7[2/2] §2Nesaak Citizen: §aThe Mansion has a deep history with this land. The Twain's used to fight the corruption before the likes of Bob were around, although people seem to forget about them.@§7[2/2] §2Nesaak Citizen: §aПоместье имеет глубокую историю с этой землей. Twain'ы боролись с порчей еще до того, как такие, как Bob, жили на этом свете. Хотя люди, похоже, забывают о них.
+§7[1/3] §2Nemract Citizen: §aYou looking for Drucksh? Well, you just missed him. He had several drinks too many, as usual, and fumbled home a few minutes ago.@§7[1/3] §2Nemract Citizen: §aТы ищешь Drucksh'а? Что ж, ты просто разминулся с ним. Как обычно, он выпил слишком много и несколько минут назад вернулся домой.
+§7[2/3] §2Nemract Citizen: §aHe lives a few houses down, over to the west, if you want to talk to him.@§7[2/3] §2Nemract Citizen: §aОн живет в одном из домов на западе, если ты хочешь поговорить с ним.
+§7[3/3] §2Nemract Citizen: §aBut he probably won't listen to a word you say unless you give him some good ol' Nemract Whiskey...@§7[3/3] §2Nemract Citizen: §aНо он, вероятно, не послушает ни слова из того, что ты скажешь, пока ты не дашь ему хорошего старого Nemract виски...
+§7[1/2] §2Nemract Citizen: §aAh, a new visitor to Nemract, what a rare sight. Did you hear what happened to Sayleros' brother?@§7[1/2] §2Nemract Citizen: §aАх, новый посетитель в Nemract'е, какое редкое зрелище. Ты слышал, что случилось с братом Sayleros'а?
+§7[2/2] §2Nemract Citizen: §aHe died a few weeks ago. I wonder if Sayleros is doing okay, last I heard he was still in Detlas...I wonder if he knows.@§7[2/2] §2Nemract Citizen: §aОн умер несколько недель назад. Интересно, с Sayleros'ом все ли в порядке, последний раз я слышал, что он все еще в Detlas'е...Интересно, знает ли он.
+§7[1/1] §2Zhight Staff: §aSorry, but the Zhight Treasure Tour is undergoing some renovations at the moment, so we can't let you inside.@
+§7[1/7] §2Zhight Tour Guide: §aHello and welcome! Are you here to try the Zhight Treasure Tour? I'll teach you the rules!@
+§7[2/7] §2Zhight Tour Guide: §aSimply pay for a token down in the cave and deposit it at the collector, and you'll be ushered into a sprawling cave system!@
+§7[3/7] §2Zhight Tour Guide: §aIt's full of dangerous enemies and perilous plights, but they carry lots of rewards and riches!@
+§7[4/7] §2Zhight Tour Guide: §aIf you stay in the cave for five minutes, or if you want to leave early or get knocked out, you'll be brought out of the cave.@
+§7[5/7] §2Zhight Tour Guide: §aAnything you find in there, and we do mean ANYTHING, is yours to keep.@
+§7[6/7] §2Zhight Tour Guide: §aYou can also exchange some of our special tokens for things that adventuring types like yourself will find indispensable, up in the gazebo!@
+§7[7/7] §2Zhight Tour Guide: §aWe hope you enjoy your stay at Zhight Island Resort, thank you!@
+§7[1/2] §2Rymek Citizen: §aYou aren't one of us. So you aren't getting a word out of me.@
+§7[2/2] §2Rymek Citizen: §aI'm not a rat. I won't tell you anything.@
+§7[1/3] §2Rymek Citizen: §aWhat's a little wimp like you doing here? Eh? Snoopin' for rumors?@
+§7[2/3] §2Rymek Citizen: §aAh, see. I never had the best memory of §aall...maybe§a a few shiny things could jog it, hm?@
+§7[3/3] §2Rymek Citizen: §aFeh, figures. Get outta here, wimpo! I bet a chicken could slay ya!@
+§7[1/1] §2Charmcrafter: §aStrangers are not allowed to craft charms here. I must ask you to leave.@
+§7[1/2] §2Jungle Native: §aOur tribe's former shaman was sadly banished. He was practicing dark magic and curses. We believed he was a danger to us all.@
+§7[2/2] §2Jungle Native: §aWe sealed him inside of a dungeon, but we believe he is preparing some sort of dark ritual. I fear that the seal will not hold.@
+§7[1/1] §2Hot Air Balloon Captain: §aI escort friends of the king to Kandon-Beda in Gavel from here.@
+§7[1/1] §2Hot Air Balloon Captain: §aWhat do you think you're doing? This balloon is only for friends of the king of Corkus. §7[Quest Req: The Envoy Part II]@
+§7[1/3] §2Corkian Security Executive: §aYou must be the adventurer we were told about. Don't worry, we have been informed about everything.@
+§7[2/3] §2Corkian Security Executive: §aThe work of those separatists has been undone, but there was a pretty long argument about the ownership of this hideout...@
+§7[3/3] §2Corkian Security Executive: §aIn the end, it was decided that it should belong to the barkeeper, because he owns the closest property. He's been quite busy renovating ever since.@
+* §7[1/2] §2Selchar Citizen: §aThere is an old mining colony up north in Maro Peaks, but it’s been abandoned now and all that is left are the sheep and rams.@
+* §7[2/2] §2Selchar Citizen: §aIf you want to go you will need a climbing helmet.@
 
 =================BaseQuestsABCD.txt===============
 §7[1/5] §2Duvale: §aYou There! Yes, you with the small nose, I need your help. I hear you human folk are always on the look out for some dangerous work.
