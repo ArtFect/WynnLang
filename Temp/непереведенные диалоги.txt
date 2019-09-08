@@ -456,32 +456,37 @@
 §7[5/5] §2Leacen: §aTell you what, Humie. You help us out, and I'll give you some information you might be interested in hearing. Sound good to you?
 
 =================BaseQuestsNOPQR.txt===============
-§7[4/4] §2Dr Essren: §aAa§a§kaa§aa§a§kar§a§krrg§agg!
-§7[7/9] §2Damiral: §aThis first riddle goes like so: “§e§oToward the sunset, among northern flowers shaded by quartz§a”.
-§7[8/9] §2Damiral: §aI've heard rumours that the others are engraved on blocks of black stone; it may be a good idea to look for those.
-§7[2/4] §2Martim: §aWait, there be a clue on the key; §a§oWhen leaving the hidden island, the real treasure will be found if you can look closely enough.
-§7[3/10] §2Viola: §aI don't know, you guys, all these rumours seem a little far-fetched. What next? Will he suddenly turn out to be some mad scientist?
-§7[10/10] §2Todd: §aIt might be a good idea to look at that weird house next to those spooky ruins south-east of the city. We found this key you could try out, but if you lose it there are some spares in our base.
-§7[3/4] §2Ariodo: §aKidnappings? Poaching? Not brushing my teeth?! Who is this lowly person you're talking about... they don't seem like a nice fellow such as myself.
-§7[1/5] §2Ariodo: §aSo you must be thinking, how have you never met a fine fellow such as myself until now? To be quite honest, you must have just been terribly unlucky, I used to travel the world, you know!
-§7[1/1] §2Ariodo: §aKeep near me, can't have a lost guest!
-§7[3/5] §2Ariodo: §aYou are the first normal person I've seen recently, <playername>. I went out recently and was met with some very rude remarks by some very rude townsfolk!
-§7[4/5] §2Ariodo: §aThe last time I visited the town it was all empty too, but I could feel people were hiding in their homes, even on such a lovely day as then. There was no one even there to hide from! Strange people.
-§7[1/2] §2Ariodo: §aHere we are, the library! I could spend years in here, but who has time for that? I could talk about books for hours too! Here's one right now.
-§7[3/3] §2Ariodo: §aJust stay here for one more momen- 
-§7[2/8] §2Ariodo: §aIf you remember, we were talking about keeping the door shut when suddenly something heavy fell off a shelf hitting you square in the head!
-§7[4/8] §2Ariodo: §aDuring the shaking, some of my machines broke apart, but we could use these to build something capable of dropping something heavier on your head for the second time.
-§7[5/8] §2Ariodo: §aSurely by that logic everything has to go well, you know. Now let me explain how we can do this. First, choose what part you want to use to make our machine, then choose were you want it to go and face.
-§7[1/2] §2Ariodo: §aYou're back! To be quite honest, I didn't think that would work, but I'm glad it did!
-§7[2/2] §2Ariodo: §aQuick, head through the large door and stop the cause of all that shaking!
-§7[4/11] §2Prentiss: §aI don't know about you, Todd, but I feel we should make them our new honorary club member for finding such amazing things!
-§7[8/11] §2Todd: §aIgnore Viola, she's acting up today, probably because you've got the spotlight this time. However, I agree with Prentiss.
-§7[10/11] §2Todd: §aWelcome you to the club, new member! Here is your shiny new badge that you can parade around town to show off how cool you are to others with style.
-Captain Olof Let's hope it's here... I don't know how much more void my body can handle.@Надеюсь что он здесь... Не знаю, как долго еще мое тело может справиться с этой пустотой.
-Captain Olof What are these creatures!
-Captain Olof It's going to break any second now.
-§7[10/10] §2Nedlom: §aWhen you uncast the spell, go to the exit, it is located behind me.
-§7[3/4] §2Nedlom: §aThe chief injured me, and I bled all the way here. If you want to find him, just follow the trail I left behind.
+§7[4/4] §2Dr Essren: §aAa§a§kaa§aa§a§kar§a§krrg§agg!@§7[4/4] §2Dr. Essren: §aАа§a§kaа§aа§a§kар§a§kрг§aгг!
+
+§7[7/9] §2Damiral: §aThis first riddle goes like so: “§e§oToward the sunset, among northern flowers shaded by quartz§a”.@§7[7/9] §2Damiral: §aПервая загадка звучит так: "§e§oВ направлении заката, среди северных цветов в тени кварца§a".
+§7[8/9] §2Damiral: §aI've heard rumours that the others are engraved on blocks of black stone; it may be a good idea to look for those.@§7[8/9] §2Damiral: §aДо меня дошли слухи, что остальные выгравированы на блоках черного камня; думаю хорошей идеей будет найти их.
+
+§7[2/4] §2Martim: §aWait, there be a clue on the key; §a§oWhen leaving the hidden island, the real treasure will be found if you can look closely enough.@§7[2/4] §2Martim: §aПодожди, на одном из ключей подсказка: §a§oКогда покинешь тайный остров, настоящее сокровище будет найдено, если ты достаточно близко ищешь.
+
+§7[3/10] §2Viola: §aI don't know, you guys, all these rumours seem a little far-fetched. What next? Will he suddenly turn out to be some mad scientist?@§7[3/10] §2Viola: §aНе знаю, ребята, но по-моему все эти слухи надуманны. Что дальше? Он вдруг окажется сумасшедшим ученым?
+§7[10/10] §2Todd: §aIt might be a good idea to look at that weird house next to those spooky ruins south-east of the city. We found this key you could try out, but if you lose it there are some spares in our base.@§7[10/10] §2Todd: §aДумаю хорошей идеей будет заглянуть в тот странный дом рядом с руинами, на юго-востоке от города. Мы нашли этот ключ, можешь пользоваться им, и если вдруг потеряешь его, то запасные есть на нашей базе.
+§7[3/4] §2Ariodo: §aKidnappings? Poaching? Not brushing my teeth?! Who is this lowly person you're talking about... they don't seem like a nice fellow such as myself.@§7[3/4] §2Ariodo: §aПохищения людей? Браконьерство? Не чищу зубы?! О ком ты вообще говоришь... это не похоже на такого приятного человека, вроде меня.
+§7[1/5] §2Ariodo: §aSo you must be thinking, how have you never met a fine fellow such as myself until now? To be quite honest, you must have just been terribly unlucky, I used to travel the world, you know!@§7[1/5] §2Ariodo: §aТы должно быть думаешь, почему раньше никогда не встречал такого классного товарища, вроде меня? Если быть честным, тебе просто ужасно не везло, я ведь привык путешествовать по миру!
+§7[1/1] §2Ariodo: §aKeep near me, can't have a lost guest!@§7[1/1] §2Ariodo: §aДержись рядом со мной, нельзя потерять такого гостя!
+§7[3/5] §2Ariodo: §aYou are the first normal person I've seen recently, <playername>. I went out recently and was met with some very rude remarks by some very rude townsfolk!@§7[3/5] §2Ariodo: §aТы единственный нормальный человек, которого я видел в последнее время <playername>. Я недавно выходил наружу и столкнулся с грубыми оскорблениями от одного грубияна горожанина!
+§7[4/5] §2Ariodo: §aThe last time I visited the town it was all empty too, but I could feel people were hiding in their homes, even on such a lovely day as then. There was no one even there to hide from! Strange people.@
+§7[1/2] §2Ariodo: §aHere we are, the library! I could spend years in here, but who has time for that? I could talk about books for hours too! Here's one right now.@§7[1/2] §2Ariodo: §aМы на месте, в библиотеке! Я мог потратить годы здесь, но разве у меня есть время для этого? Я мог говорить о книгах часами! Вот, например одна.
+§7[3/3] §2Ariodo: §aJust stay here for one more momen- @§7[3/3] §2Ariodo: §aПостой тут еще мину-
+§7[2/8] §2Ariodo: §aIf you remember, we were talking about keeping the door shut when suddenly something heavy fell off a shelf hitting you square in the head!@§7[2/8] §2Ariodo: §aЕсли ты помнишь, мы говорили о том что нужно закрыть дверь, когда вдруг что-то тяжелое упало тебе на голову!
+§7[4/8] §2Ariodo: §aDuring the shaking, some of my machines broke apart, but we could use these to build something capable of dropping something heavier on your head for the second time.@§7[4/8] §2Ariodo: §aИз-за землетрясения, некоторые из моих машин упали с полок, и мы сможем использовать их для постройки чего-то, что поможет уронить тяжесть тебе на голову второй раз.
+§7[5/8] §2Ariodo: §aSurely by that logic everything has to go well, you know. Now let me explain how we can do this. First, choose what part you want to use to make our machine, then choose were you want it to go and face.@§7[5/8] §2Ariodo: §aСудя по этой логике, все должно сработать. Теперь давай я объясню, как мы это сделаем. Для начала, выбери то что будешь использовать, куда ее ставить и в какую сторону.
+§7[1/2] §2Ariodo: §aYou're back! To be quite honest, I didn't think that would work, but I'm glad it did!@§7[1/2] §2Ariodo: §aТы вернулся! Если честно, не думал, что это сработает, но я рад, что все получилось!
+§7[2/2] §2Ariodo: §aQuick, head through the large door and stop the cause of all that shaking!@§7[2/2] §2Ariodo: §aБыстрее, пройди через главную дверь и останови причину всего этого землетрясения!
+§7[4/11] §2Prentiss: §aI don't know about you, Todd, but I feel we should make them our new honorary club member for finding such amazing things!@§7[4/11] §2Prentiss: §aНе знаю насчет тебя, Todd, но я думаю нам надо открыть свой почетный клуб для поиска разных удивительных вещей!
+§7[8/11] §2Todd: §aIgnore Viola, she's acting up today, probably because you've got the spotlight this time. However, I agree with Prentiss.@§7[8/11] §2Todd: §aНе слушай Viola, она капризничает сегодня, наверно потому что ты сегодня у нас в центре внимания. Однако я согласен с Prentiss.
+§7[10/11] §2Todd: §aWelcome you to the club, new member! Here is your shiny new badge that you can parade around town to show off how cool you are to others with style.@§7[10/11] §2Todd: §aПриглашаю тебя в наш клуб, новый участник! Вот твой новый блестящий значок, в котором ты сможешь пройтись по городу и показать всем насколько ты крут!
+
+§7[3/3] §2Captain Olof §aLet's hope it's here... I don't know how much more void my body can handle.@§7[3/3] §2Captain Olof: §aНадеюсь что он здесь... Не знаю, как долго еще мое тело может справиться с этой пустотой.
+§7[1/3] §2Captain Olof §aWhat are these creatures!@§7[1/3] §2Captain Olof: §aЧто это за существа!
+§7[3/3] §2Captain Olof §aIt's going to break any second now.@§7[3/3] §2Captain Olof: §aОно может сломаться в любую секунду.
+
+§7[10/10] §2Nedlom: §aWhen you uncast the spell, go to the exit, it is located behind me.@§7[10/10] §2Nedlom: §aИспользовав его, пройди к выходу, что позади меня.
+§7[3/4] §2Nedlom: §aThe chief injured me, and I bled all the way here. If you want to find him, just follow the trail I left behind.@
 
 =================BaseQuestsSTU.txt=================
 §7[1/1]§2 Thief:§a§k .... §aI can't control myself...§a§kfjfjfj§a This rock...
