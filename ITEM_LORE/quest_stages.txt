@@ -403,6 +403,11 @@ QUESTS/Dwarves_and_Doguns_Part_IV.txt
 §7Maex with the Amulet of @§7с Амулетом Защиты от Огня 
 §7Fire and the Staff of @§7и Предметом 
 §7Ice. @§7Чистого Льда 
+§7Head to Rodoroc and look @§7Иди в Rodoroc 
+§7for Axelus @§7и отыщи Axelus'a на
+§7[1117,11,-5190]@ 
+§7Reach the portal and stop @§7Достигни портала и останови 
+§7Garaheth @§7Garaheth'a
  
 QUESTS/Dwelling_Walls.txt ===== 
 §7Talk to Leucsaa at @§7Поговори с Leucsaa на 
@@ -801,7 +806,13 @@ QUESTS/Heart_of_Llevigar.txt =====
 QUESTS/Hollow_Sirene.txt 
 §7Talk to Laloire at @§7Поговори с Laloire на 
 §7[-660,43,-5199]@ 
- 
+§7Find a way to open @§7Найди способ открыть
+§7the secret door inside the @§7секретную дверь внутри
+§7cemetery. @§7кладбища
+§7Recover the [Sound Proof Earmuff] @§7Добудь [Наушники]
+§7and go into the banshee's @§7и иди в пещеру 
+§7cave while wearing it. @§7Банши, надев их
+
 QUESTS/﻿Ice_Nations.txt ===== 
 §7Talk to Adigard on the @§7Поговори с Adigard'ом 
 §7Ice Islands at @§7на Ice Islands 
@@ -822,12 +833,13 @@ QUESTS/Infested_Plants.txt =====
 §7Locate the plant and return @§7Возьми растение 
 §7to Ope. @§7и вернись к Ope 
  
-QUESTS/Jungle_Fever.txt 
+QUESTS/Jungle_Fever.txt =====
 §7Talk to Worid in the @§7Поговори с Worid'ом 
 §7jungle village at @§7в деревне джунглей на 
 §7[-760,79,-666]@ 
 §7Talk to Detlas's Banker about @§7Поговори с Банкиром Detlas'а 
 §7the cure for Worid @§7насчет лекарства для Worid'а 
+§7Return to Worid @§7Вернись к Worid'у
 §7Enter Detlas' Emerald Stash @§7Войди в Хранилище Эмеральдов Detlas'а 
 §7Infiltrate Almuj's Secret Emerald Labyrinth @§7Проникни в Секретный Эмеральдовый 
 §7and find the Banker in @§7лабиринт Almuj'a и найди 
@@ -1235,6 +1247,8 @@ QUESTS/Shattered_Minds.txt
 §7looking for @§7ищет Likeru 
 §7Investigate the giant blue mushroom @§7Посети гигантский синий гриб 
 §7Find a way to escape @§7Найди способ сбежать 
+§7Try to find civilization within @§7Попробуй найти цивилизацию 
+§7the strange forest@§7в странном лесу
 §7Enter the house by the @§7Войди в дом гигантской 
 §7giant frog in the village @§7лягушки в деревне 
 §7Talk to Elder Berusia @§7Поговори с Elder Berusia 
