@@ -489,32 +489,42 @@
 ***§7[3/4] §2Nedlom: §aThe chief injured me, and I bled all the way here. If you want to find him, just follow the trail I left behind.@§7[3/4] §2Nedlom: §aГлаварь ранил меня, и я истекал кровью всю дорогу сюда. Если ты хочешь найти его, просто иди по следу, который я оставил.
 
 =================BaseQuestsSTU.txt=================
-§7[1/1]§2 Thief:§a§k .... §aI can't control myself...§a§kfjfjfj§a This rock...
-§7[1/13] §2Yansur: §aI see another challenger has found their way to §a§lThe Qira Hive§a!
-§7[4/4] §2Kroac: §aI haven't got a clue where the beast is now... But I'm sure if you continue to follow those footprints you wouldn't have any problems in finding it. Not that you would want to...
-§7[4/7] §2Rileen: §aI know where it is, but I cannot send you to it without knowing you are going into a fair fight.
-§7[6/10] §2Ildan: §aThey quickly realised that it was a bad idea, so they locked him in a tomb.
-§7[6/20] §2Corkus Delegate: §a...But§a let's not talk about that.
-§7[13/20] §2Corkus Delegate: §aNorth, you can buy weapons and potions. If you continue through the gate you will find the native Avos.
-§7[14/20] §2Corkus Delegate: §aWest, you can buy armor, and there is another entrance to the potion shop.
-§7[1/4] §2Maxie: §aPst. You. Over here, behind the logs.
-§7[1/1] §2Albert The Strong:§a Moo. Are you trying to run away, human? Moo. Only one of us can leave this place alive. Moo.
-§7[2/6] §2Kelight: §aHm, yes, this bowl certainly §aseems...used§a. Only that loonie Yahya could use this thing upside down, and not spill a drop...
-§7[6/6] §2Kelight: §aBring me §3[1 Bob's Crushed Soul]§a, §3[1 Sayleros' Brother Ashes]§a and §3[1 The Mummy's Bandage]§a. Only true heroes could manage this task.
-* §7[4/4] §2Kofis: §aI guess you better go on and find the rest of the crew. Judging by those letters you have there, you still need to find 4 more of us.
-* §7[4/4] §2Sytis: §aI see you were delivering the same message to the entire crew. Well, looks like you only need to deliver it to 3 more of us.
-* §7[4/4] §2Felim: §aSo you were delivering that message to the entire crew? Well, looks like you only need to get to 2 more of us.
-* §7[4/4] §2Yuge: §aHm, so I see you still have more letters. So you're giving them to the entire crew, I suppose. Well, looks like there's only 1 of us to go.
-* §7[4/4] §2Ansei: §aLooks like you're all out of letters there, make sure to tell Dejol everyone's all right!
-§7[4/4] §2Ansei: §aLooks like you still have some more letters there, I guess you still need to deliver them to 3 more members of the crew.
-§7[4/4] §2Yuge: §aHm, so I see you still have more letters. So you're giving them to the entire crew, I suppose. Well, looks like there's only 2 of us to go.
-§7[4/4] §2Felim: §aLooks like I was the last one you delivered the message to. Tell Dejol that I'm surviving, though it was a narrow escape. The bear gives me some great meat, however.
-§7[6/10] §2Garull: §aSo, for me to craft you this helmet, I'll need you to bring me not just the §3[Old Touroto Hide]§a, but also the means to restore it to its previous power. Do listen up, there's a lot to tell you!
-§7[8/10] §2Garull: §aThen, a §3[Maro's Eye Jewel]§a, which is an amazing magical focus §afrom...well§a, where else, the Maro Peaks. Using its dust, I'll be able to return its magical resilience manually.
-§7[7/7] §2Gaclux: §aOrphion is probably at an all powerful state at the moment. If you wish to face him, you should bring your friends and face him together. He is too powerful to face alone. It will take me time to remove the seal.
-§7[6/10] §2Cikal: §aOur victory over those orange skinned brutes brought about the creation of the Gylia Watch, where we now observe them day and night! Well, maybe not on poker night.
-§7[4/6] §2Likeru: §aLast thing we need is an uninvited 'guest', snooping around here, sticking their nose where it doesn't belong...
-§7[2/5] §2Orikal: §aThere are 3 main ingredients you will need to get me: §3[Unstable Corrupted Ore]§a, §3[Incendiary Fluid]§a, and a §3[Switch Fuse] §ato activate it.
+§7[1/1]§2 Thief:§a§k .... §aI can't control myself...§a§kfjfjfj§a This rock...@§7[1/1]§2 Thief:§a§k ....§aЯ не могу контролировать себя...§kfjfjfj§a Этот камень...
+
+§7[1/13] §2Yansur: §aI see another challenger has found their way to §a§lThe Qira Hive§a!@§7[1/13] §2Yansur: §aЯ смотрю еще один испытуемый нашел свой путь в §a§lУлей Qir'ы§a!
+
+§7[4/4] §2Kroac: §aI haven't got a clue where the beast is now... But I'm sure if you continue to follow those footprints you wouldn't have any problems in finding it. Not that you would want to...@§7[4/4] §2Kroac: §aЯ понятия не имею где зверь сейчас... но уверен, если ты продолжишь идти по этим следам, то без проблем найдешь его. Раз очень этого хочешь...
+§7[4/7] §2Rileen: §aI know where it is, but I cannot send you to it without knowing you are going into a fair fight.@§7[4/7] §2Rileen: §aЯ знаю где он, но я не могу отправить тебя к нему, не убедившись, что ты готов к схватке.
+
+§7[6/10] §2Ildan: §aThey quickly realised that it was a bad idea, so they locked him in a tomb.@§7[6/10] §2Ildan: §aНо быстро осознав, что это было большой ошибкой, они запечатали его в гробнице.
+
+§7[6/20] §2Corkus Delegate: §a...But§a let's not talk about that.@§7[6/20] §2Corkus Delegate: §a...Но давай не будем говорить об этом.
+§7[13/20] §2Corkus Delegate: §aNorth, you can buy weapons and potions. If you continue through the gate you will find the native Avos.@§7[13/20] §2Corkus Delegate: §aСевер - там ты можешь купить оружия и зелья. Если пройдешь за ворота, то сможешь встретить коренных обитателей - Avos'ов.
+§7[14/20] §2Corkus Delegate: §aWest, you can buy armor, and there is another entrance to the potion shop.@§7[14/20] §2Corkus Delegate: §aЗапад - там ты можешь купить броню, и также там находиться другой вход в магазин зелий.
+§7[1/4] §2Maxie: §aPst. You. Over here, behind the logs.@§7[1/4] §2Maxie: §aПст. Ты. Сюда, за бревнами.
+
+§7[1/1] §2Albert The Strong:§a Moo. Are you trying to run away, human? Moo. Only one of us can leave this place alive. Moo.@§7[1/1] §2Albert The Strong:§aМуу. Ты пытаешься убежать, человек? Муу. Только один из нас может покинуть это место живым. Муу.
+
+§7[2/6] §2Kelight: §aHm, yes, this bowl certainly §aseems...used§a. Only that loonie Yahya could use this thing upside down, and not spill a drop...@§7[2/6] §2Kelight: §aХмм, да, эта миска выглядит...использованной. Только этот псих Yahya мог использовать ее вверх тормашками, при этом не пролив ни капли...
+§7[6/6] §2Kelight: §aBring me §3[1 Bob's Crushed Soul]§a, §3[1 Sayleros' Brother Ashes]§a and §3[1 The Mummy's Bandage]§a. Only true heroes could manage this task.@§7[6/6] §2Kelight: §aПринеси мне §3[1 Измельченную Душу Bob'а]§a, §3[1 Прах Брата Sayleros' а]§a, и §3[1 Бинт Мумии]§a. Только настоящие герои справятся с этой задачей.
+§7[6/10] §2Garull: §aSo, for me to craft you this helmet, I'll need you to bring me not just the §3[Old Touroto Hide]§a, but also the means to restore it to its previous power. Do listen up, there's a lot to tell you!@§7[6/10] §2Garull: §aТак что для шлема мне понадобятся не только §3[Старая Кожа Touroto]§a - придется восстановить ее силу.
+§7[8/10] §2Garull: §aThen, a §3[Maro's Eye Jewel]§a, which is an amazing magical focus §afrom...well§a, where else, the Maro Peaks. Using its dust, I'll be able to return its magical resilience manually.@§7[8/10] §2Garull: §aЗатем, еще §3[Драгоценный Глаз Maro]§a, у которого хорошие магические свойства, и который есть...ну конечно же на Maro Peaks, где же еще. Используя его пыль, это поможет восстановить гибкость.
+* §7[4/4] §2Kofis: §aI guess you better go on and find the rest of the crew. Judging by those letters you have there, you still need to find 4 more of us.@§7[4/4] §2Kofis: §aДумаю, тебе лучше пойти и найти остальных членов команды. Судя по тем письмам, которые у тебя есть, тебе все еще нужно найти 4 из нас.
+* §7[4/4] §2Sytis: §aI see you were delivering the same message to the entire crew. Well, looks like you only need to deliver it to 3 more of us.@§7[4/4] §2Sytis: §aЯ вижу, ты передал то же самое сообщение всей команде. Ну, похоже, тебе нужно только доставить его еще троим из нас.
+* §7[4/4] §2Felim: §aSo you were delivering that message to the entire crew? Well, looks like you only need to get to 2 more of us.@§7[4/4] §2Felim: §aТак ты доставил это сообщение всему экипажу? Ну, похоже, тебе нужно только добраться еще до 2 из нас.
+* §7[4/4] §2Yuge: §aHm, so I see you still have more letters. So you're giving them to the entire crew, I suppose. Well, looks like there's only 1 of us to go.@§7[4/4] §2Yuge: §aХм, я вижу, у тебя еще есть письма. Значит, ты отдаешь их всей команде, я полагаю. Ну, похоже, что тебе осталось найти 1 из нас.
+* §7[4/4] §2Ansei: §aLooks like you're all out of letters there, make sure to tell Dejol everyone's all right!@§7[4/4] §2Ansei: §aПохоже, у тебя там все письма закончились, не забудь сказать Dejol'у, что все в порядке!
+§7[4/4] §2Ansei: §aLooks like you still have some more letters there, I guess you still need to deliver them to 3 more members of the crew.@§7[4/4] §2Ansei: §aПохоже, что у тебя все еще есть еще несколько писем, думаю, тебе все еще нужно доставить их еще 3 участникам команды.
+§7[4/4] §2Yuge: §aHm, so I see you still have more letters. So you're giving them to the entire crew, I suppose. Well, looks like there's only 2 of us to go.@§7[4/4] §2Yuge: §aХм, я вижу, у тебя еще есть письма. Значит, ты отдаешь их всей команде, я полагаю. Ну, похоже, что тебе осталось найти 2 из нас.
+§7[4/4] §2Felim: §aLooks like I was the last one you delivered the message to. Tell Dejol that I'm surviving, though it was a narrow escape. The bear gives me some great meat, however.@§7[4/4] §2Felim: §aПохоже, я был последним, кому ты передал сообщение. Скажи Dejol'у, что я выжил, хотя это был непростой путь к спасению. Однако, из медведя получается отличное мясо.
+
+§7[7/7] §2Gaclux: §aOrphion is probably at an all powerful state at the moment. If you wish to face him, you should bring your friends and face him together. He is too powerful to face alone. It will take me time to remove the seal.@§7[7/7] §2Gaclux: §aНет никого сильнее Orphion в нашем царстве. Если хочешь сразиться с ним, то приводи с собой своих друзей. Он слишком силен для тебя одного. Мне потребуется время, чтобы снять пломбу.
+
+§7[6/10] §2Cikal: §aOur victory over those orange skinned brutes brought about the creation of the Gylia Watch, where we now observe them day and night! Well, maybe not on poker night.@§7[6/10] §2Cikal: §aНаша победа над этими скотами с оранжевой кожей и привела к основанию этой Стражи Gylia. Где теперь мы наблюдаем за ними день и ночь! Ну, кроме ночи, когда мы играем в покер.
+
+§7[4/6] §2Likeru: §aLast thing we need is an uninvited 'guest', snooping around here, sticking their nose where it doesn't belong...@§7[4/6] §2Likeru: §aПоследнее, что нам нужно, это чтобы незваные "гости" шныряли здесь, совали свой нос куда не надо...
+
+§7[2/5] §2Orikal: §aThere are 3 main ingredients you will need to get me: §3[Unstable Corrupted Ore]§a, §3[Incendiary Fluid]§a, and a §3[Switch Fuse] §ato activate it.@§7[2/5] §2Orikal: §aЕсть 3 основных ингредиента, которые мне нужно достать: §3[Нестабильная руда]§a, §3[Зажигательная жидкость]§a, и §3[Переключатель с предохранителем]§a, чтобы активировать его.
 
 =================BaseQuestsVWXYZ.txt==================
 §7[3/5] §2Excavator Lykron: §aDon't pretend like you don't know what it is, you know as well as I do combining the four crystal shards is told to bring unlimited power!@§7[3/5] §2Excavator Lykron: §aНе прикидывайся, как-будто не знаешь что это. Ты знаешь, так же как и я, что соединение четырех осколков несет безграничную мощь!
