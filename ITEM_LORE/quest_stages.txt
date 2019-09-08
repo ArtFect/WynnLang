@@ -1531,7 +1531,22 @@ QUESTS/The_House_of_Twain_(Quest).txt =====
 QUESTS/The_Hunger_of_Gerts_Part_I.txt 
 §7Talk to Cikal at @§7Поговори с Cikal'ом на 
 §7[-35,68,-5413]@ 
- 
+§7Look around the farms near @§7Осмотри фермы около 
+§7the lake Gylia @§7озера Gylia
+§7Inspect the Gerten forwarding camp @§7Посети небольшой 
+§7nearby @§7лагерь Гертов поблизости
+§7Tell farmer Jitak about the @§7Расскажи фермеру Jitak'у 
+§7tunnel @§7насчет тоннеля
+§7Bring Jitak [6 Gert Skin] @§7Принеси Jitak'у 6 [Кожи Герта]
+§7Go to the Gerten Camp @§7Иди в лагерь Гертов
+§7[18,34,-5343] @ 
+§7Find the password and return @§7Найди пароль и вернись
+§7to the Gerten Captain @§7к Капитану Гертов
+§7Escape your cell @§7Сбеги из клетки
+§7Leave the Gerten prison and @§7Покинь тюрьму Гертов 
+§7return to Cikal to tell @§7и вернись к Cikal'у 
+§7him about the tunnels @§7с рассказом о тоннелях
+
 QUESTS/The_Hunger_of_Gerts_Part_II.txt 
 §7Talk to Gerten Chief Lobo @§7Поговори с Gerten Chief Lobo на 
 §7[-141,82,-5607]@ 
