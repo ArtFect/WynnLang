@@ -462,6 +462,18 @@ QUESTS/Eye_of_the_Storm.txt
 §7Search the ruins at @§7Обыщи руины на 
 §7[-714,43,-5385]@ 
 §7to find the cultists @§7и найди культистов 
+§7Escape through the cavern and @§7Сбеги через пещеру 
+§7find Rismor in his house @§7и найди Rismor'а в его доме на
+§7[-472,66,-5536]@ 
+§7Find the Guardian and the @§7Найди Guardian of the Order'а 
+§7ancient blood oak, south of @§7на древнем кровавом дереве, 
+§7Rismor's house at @§7на юге от дома Rismor'а
+§7[-461,56,-5397]@ 
+§7Find a passage deeper into @§7Найди проход
+§7the Pit @§7вглубь Ямы
+§7Kill Naragath and give the @§7Убей Naragath'а 
+§7[Eye of Blood] to Harker @§7и отдай [Глаз Крови] Harker'у
+§7Leave the Pit of Despair @§7Покинь Яму Отчаяния
  
 QUESTS/Fallen_Delivery.txt 
 §7Talk to Bricot at @§7Поговори с Bricot'ом на 
@@ -655,12 +667,14 @@ QUESTS/Grand_Youth.txt
 §7Give the bottle of healing @§7Отдай бутылку с лечащей 
 §7water to Monte @§7водой Monte 
  
-QUESTS/Grave_Digger.txt 
+QUESTS/Grave_Digger.txt =====
 §7Talk to Sayleros in Detlas @§7Поговори с Sayleros'ом в Detlas'е 
 §7[476,69,-1624]@ 
 §7Find a way to make @§7Найди способ разговорить Drucksh'a 
 §7Drucksh talk in Nemract about @§7в Nemract'е насчет смерти 
 §7Sayleros' dead brother @§7брата Sayleros'a 
+§7Talk to The Priest in @§7Поговори с The Priest 
+§7the old monastery @§7в старом монастыре
 §7Bring [12 Rotten Flesh] to @§7Принеси [12 Плоти Зомби] 
 §7the priest @§7священнику 
 §7Kill Sayleros' brother to retrieve @§7Убей брата Sayleros'а, 
@@ -1161,7 +1175,7 @@ QUESTS/Royal_Trials.txt
 §7Talk to the Skyraider Guard @§7Поговори с Skyraider Guard'ом 
 §7[1476,84,-4336]@ 
  
-QUESTS/﻿Sewers_of_Ragni.txt 
+QUESTS/Sewers_of_Ragni.txt =====
 §7The lieutenant at @§7Лейтенанту на 
 §7[-890,60,-1874]@ 
 §7needs help. @§7требуется помощь 
@@ -1171,6 +1185,7 @@ QUESTS/﻿Sewers_of_Ragni.txt
 §7Explore the sewer and find @§7Исследуй канализацию и найди 
 §7Find a way to fix @§7Найди способ устранить 
 §7the blockage. @§7засор 
+§7the spooky sewer. @§7из загадочной канализации
 §7Talk to Jenprest @§7Поговори с Jenprest 
  
 QUESTS/Shattered_Minds.txt 
