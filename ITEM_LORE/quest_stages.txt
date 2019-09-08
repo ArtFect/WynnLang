@@ -15,6 +15,10 @@ QUESTS/Aldorei%27s_Secret_Part_I.txt
 §7Speak to Elrund outside Aldorei @§7Поговори с Elrund'ом снаружи 
 §7Valley at @§7Долины Aldorei на 
 §7[-670,97,-4444]@ 
+§7Obtain [Gemstone Dust] from the @§7Добудь [Пыль драгоценного камня] 
+§7Wynn province and bring it @§7из провинции Wynn и принеси 
+§7to Elrund (Requires completion of @§7ее Elrund'у (Необходимо 
+§7Lost in the Jungle) @§7пройти Lost in the Jungle)
  
 QUESTS/Aldorei%27s_Secret_Part_II.txt 
 §7Speak to Legolus at @§7Поговори с Legolus'ом на 
@@ -1676,6 +1680,10 @@ QUESTS/The_Realm_of_Light_(Quest).txt
 §7Speak to Gaclux in front @§7Поговори с Gaclux'ом 
 §7of the rune at @§7перед руной на 
 §7[-366,59,-6733]@ 
+§7Follow the trails to the @§7Следуй по пути 
+§7seeds of corruption and destroy@§7 к семенам и уничтожь их,
+§7them, then report back to @§7 затем сообщи 
+§7Heliorion at@§7об этом Heliorion'у
  
 QUESTS/The_Shadow_of_the_Beast.txt 
 §7Talk to Dereg in his @§7Поговори с Dereg'ом 
