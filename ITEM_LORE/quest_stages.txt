@@ -586,6 +586,18 @@ QUESTS/Finding_The_Light.txt
 QUESTS/Flight_in_Distress.txt 
 §7Speak to the Passenger Controllant @§7Поговори с Passenger Controllant'ом на 
 §7[-172,108,-4946]@ 
+§7Enter the airship @§7Войди на дирижабль
+§7Try and find out where @§7Узнай о местонахождении 
+§7the missing child is located @§7пропавшего ребенка 
+§7by speaking to the passengers @§7расспрашивая пассажиров
+§7Return back to your cabin @§7Вернись в свою каюту
+§7Complete the sound coded system @§7Пройди систему рестарта,
+§7by checking the Engineer's Note, @§7используя записку Engineer'а, 
+§7and return back to the @§7 затем вернись обратно
+§7engineer @§7 к нему
+§7Speak to Calo next to @§7Поговори с Calo 
+§7the little ship at the @§7рядом с небольшим кораблем 
+§7Detlas docks @§7в доках Detlas'а
  
 QUESTS/Forbidden_Prison.txt 
 §7Something looks suspicious in the @§7Что-то подозрительное 
@@ -1362,7 +1374,8 @@ QUESTS/The_Bigger_Picture.txt
 §7mushroom cave at @§7в грибной пещере на 
 §7[-205,42,-4308]@ 
 §7Find the Subtraxerim Utilium mushroom @§7Найди Subtraxerim Utilium гриб 
-§7in the cave and bring @§7в пещере и принеси
+§7in the cave and bring @§7в пещере и принеси его
+§7it back to Psilo. @§7 обратно к Psilo
  
 QUESTS/The_Canary_Calls.txt 
 §7Speak to Grenot outside the @§7Поговори с Grenot'ом 
