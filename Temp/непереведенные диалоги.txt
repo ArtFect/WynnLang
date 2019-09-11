@@ -63,6 +63,7 @@
 §7[1/1] §2Aledar: §aUse §b2 string§a and §b1 wood§a at the workbench to create §3[1 Bow]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b2 нитки§a и §b1 дерево§a на верстаке, чтобы создать §3[1 Лук]§a и затем покажи его мне.
 §7[1/1] §2Aledar: §aUse §b1 string§a and §b2 wood§a at the workbench to create §3[1 Wand]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b1 нитку§a и §b2 дерева§a на верстаке, чтобы создать §3[1 Посох]§a и затем покажи его мне.
 §7[1/1] §2Old Man: §aI left my pickaxe by the ore over yonder. Use it to mine some copper and bring it back here.@§7[1/1] §2Old Man: §aЯ оставил свою кирку у руды вон там. Используй ее, чтобы добыть немного меди и принеси сюда.
+§7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bLeft-Right-Left§a!@§7[1/1] §2Guard: §aВстань перед стеной и используй свое заклинание, кликнув §bЛевая-Правая-Левая§a!
 §7[1/1] §2Ragon: §aAre you mad? don't run back into the fire, I don't want to have to save you a second time.@§7[1/1] §2Ragon: §aТы с ума сошел? не беги обратно в огонь, я не хочу спасать тебя во второй раз.
 §7[1/1] §2Ragon: §aRecruit! You don't have permission to go in there. We're running experiments!@§7[1/1] §2Ragon: §aРекрут! У тебя нет разрешения войти туда. Мы проводим эксперименты!
 §7[1/1] §2Ragon: §aHey! Don't go near that! We need it for an experiment!@§7[1/1] §2Ragon: §aЭй! Не приближайся туда! Это нам нужно для эксперимента!
@@ -251,9 +252,13 @@
 * §7[1/1]§2 Seaskipper Captain:§a Where are ya headed? Galleon's Graveyard, huh? A'ight! I'll get ya there in no time.@§7[1/1]§2 Seaskipper Captain:§aКуда ты направляешься? Galleon's Graveyard, да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
 * §7[4/4] §2Seaskipper Captain: §aWell, I ain't never seen any rare potatoes, but maybe you'll find that potato storage eventually!@§7[4/4] §2Seaskipper Captain: §aЧто ж, я никогда не видел этой редкой картошки, но, может быть, ты найдешь это хранилище картофеля в конце концов!
 §7[3/4] §2Seaskipper Captain: §aBut if you head southeast there's another island. It's so cold over there some say Santa himself set up his workshop there.@§7[3/4] §2Seaskipper Captain: §aЕсли ты направишься на юго-восток, там есть еще один остров. Там так холодно, что некоторые говорят, что сам Санта устроил там свою мастерскую.
+§7[1/1]§2 Seaskipper Captain:§a Where are ya headed? Zhight Island, huh? A'ight! I'll get ya there in no time.@§7[1/1]§2 Seaskipper Captain:§aКуда ты направляешься? Zhight Island, да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
 
 =================Discoveries.txt=============
 §7[1/2] §2???: §aAh§a§kh§ah@§7[1/2] §2???: §aАх§a§kх§aх
+
+==================Mushroom.txt==================
+§7[1/1] §2Talking Mushroom: §aWHAT IN THE NAME OF ALL THAT IS HOLY IS GOING THROUGH YOUR HEAD?! WE'RE MILES FROM THE SKY ISLANDS!! WHERE IS THIS PLACE?!@§7[1/1] §2Talking Mushroom: §aЧТО ВО ИМЯ ВСЕГО СВЯТОГО ПРОИСХОДИТ В ТВОЕЙ ГОЛОВЕ? МЫ В КИЛЛОМЕТРАХ ОТ ЛЕТАЮЩИХ ОСТРОВОВ!! ЧТО ЭТО ЗА МЕСТО?!
 
 =================Dungeons.txt==============
 §7[1/2] §2???: §aThis §4is a fam§4§kil§4iar face... hehe... @§7[1/2] §2???: §aЗна§4ком§kо§4е лицо...хехе...
@@ -271,6 +276,8 @@
 * §7[1/1] §2Garoth:§a I keep a lot of living creatures here to conduct my experiments on, to test their vulnerabilities. I can’t wait to find yours.@§7[1/1] §2Garoth:§aЯ держу здесь много существ, чтобы проводить свои эксперименты на них, и найти их уязвимости. Не могу дождаться, когда найду твою.
 * §7[1/1] §2Garoth: §aSpecies are nothing to me. Thousands of creepers used to live here, I decimated them like it was nothing.@§7[1/1] §2Garoth: §aВиды - для меня они ничего не значат. Тысячи криперов жили здесь, я уничтожил весь вид, как будто ничего не было.
 * §7[1/2]§2 Ghostly Voice:§a I froze this land to allow it to heal.. People did not understand.. They came for me here, seeking revenge.@§7[1/2]§2 Ghostly Voice:§aЯ заморозил эту землю, чтобы позволить ей исцелиться... Люди не понимали... Они пришли за мной сюда, чтобы отомстить.
+§7[1/1] §2???: §aY§a§kk§ao dare §a§kkk§aer these s§a§kk:;DJkkkAJEkkkk§aTh§4§kkksad:ek§a§kghakk§4§kkkkreid:@§7[1/1] §2???: §aТ§a§kk§aы посмелился §a§kвой§aти в это п§a§kk:;DJkkkAJEkkkk§aме§4§kkksad:ek§a§kghakk§4§kkkkreid:
+§7[1/1] §2???: §4... How fool§4§kk§ah of you... to come back he§4re.§4§k:5tykkk§after what §4happene§4§ki:@§7[1/1] §2???: §4Как глупо§4§kk§aс твоей стороны... возвращаться сю§4да.§4§k:5tykkk§после того что §4случи§4§ki:
 
 ==================GavelNPC.txt================
 §7[1/3] §2Rasalux: §aHave you seen the monsters that roam the realm?@§7[1/3] §2Rasalux: §aТы видел тех монстров, что наводнили царство?
@@ -362,6 +369,9 @@
 §7[2/2] §2Emie: §aYou may help yourself to the seeds and spread them amongst the land. My sunflowers grow right across from where you came in. If you try to sell them, however, they will turn to ash.@§7[2/2] §2Emie: §aТы можешь помочь семенам и распространять их среди земли. Мои подсолнухи растут прямо напротив того места, откуда ты пришел. Если вы попытаетесь продать их, однако, они превратятся в пепел
 §7[1/2] §2Gajom: §aHello human. Are you too, searching for the strange "Flowing stone"? The ancient scriptures translate directly to that.@§7[1/2] §2Gajom: §aПривет, человек. Ты тоже ищешь странный "Текучий камень"? Древние писания прямо говорят об этом.
 §7[2/2] §2Gajom: §aIt definitely means water, but I'm not sure about the rock. We Elves share our secrets and mysteries. To keep them close to our chests would be selfish.@§7[2/2] §2Gajom: §aЭто определенно означает воду, но я не уверен насчет камня. Мы, эльфы, делимся своими секретами и тайнами. Держать их только у себя было бы эгоистично.
+
+§7[1/1] §2Lozeg: §aIf you want a ticket you'll have to pay me §3[1 Emerald Block].@§7[1/1] §2Lozeg: §aЕсли ты хочешь билет, тебе придется заплатить мне §3[1 Блок Эмеральдов].
+§7[1/1] §2Plario: §aTo the §apeaks...with§a us.@§7[1/1] §2Plario: §aК вершинам...с нами.
 
 §7[1/1]§2 Slykaar: §aYou have made the sacrifices of many be in total vain!@§7[1/1]§2 Slykaar: §aТы сделал жертвы многих совершенно напрасными!
 
@@ -459,6 +469,14 @@
 §7[1/2] §2Engineer Eric: §aI dun gave you the instructions. Just check it if you forget the code.@§7[1/2] §2Engineer Eric: §aЯ дал тебе инструкцию. Просто проверь ее, если ты забыл код.
 §7[2/2] §2Engineer Eric: §aIt was something like red... orange... yellow.. Ah, it all on the paper anyway.@§7[2/2] §2Engineer Eric: §aТам было что-то вроде красного... оранжевого... желтого.. Ах, все это на бумаге в любом случае.
 
+§7[1/1] §2Relend: §aHop aboard my ship so we can cross the water, Little Wing is what I like to call her.@§7[1/1] §2Relend: §aНу раз нет, тогда вперед, отплыть туда будет нетрудно, ведь Little Wing - так я зову свое милое судно!
+§7[1/1] §2Relend: §aI think before we get into any real danger, we should turn around. Could you man the wheel and get us back to solid ground?@§7[1/1] §2Relend: §aДумаю, прежде чем мы попадем в настоящую опасность, нам лучше повернуть назад. Может возьмешь штурвал на себя, я был бы этому рад!
+§7[1/1] §2Relend: §aWe should probably get out of this place, it feels rather small. Perhaps you can try to break through that weak spot in the wall?@§7[1/1] §2Relend: §aНужно выбираться отсюда, выход в другой стороне. Может, ты попробуешь сломать эти дряхлые доски в стене?
+§7[1/1] §2Relend: §aTake a look at your quest book if you forgot your project, this island has supplies we ought to collect!@§7[1/1] §2Relend: §aЗагляни в свою книгу квестов, если ты забыл что нужно, на этом острове есть запасы, пойдем искать их дружно!
+
+§7[3/5] §2Sasha: §aLet's see... That'll be §3[200,000 Liquified Emeralds] §aplease.@§7[3/5] §2Sasha: §aПосмотрим.. С вас §3[200,000 жидких эмеральдов]§a, пожалуйста.
+§7[4/5] §2Sasha: §aHe said he'll give it back only in exchange for §3[200,000 Liquified Emeralds]§a!@§7[4/5] §2Sasha: §aОн сказал, что отдаст его только в обмен на §3[200,000 жидких эмеральдов]§a!
+
 =================BaseQuestsIJKLM.txt===============
 §7[3/6] §2Aryn: §aOh... My father sent you? Well, I am very impressed, Wynn warrior. You fight with the ferocity of our own!@§7[3/6] §2Aryn: §aОх...Мой отец прислал тебя за мной? Что же... Я впечатлен, воин провинции Wynn. Ты сражался как хищник!
 
@@ -539,6 +557,12 @@
 =================BaseQuestsSTU.txt=================
 §7[1/1]§2 Thief:§a§k .... §aI can't control myself...§a§kfjfjfj§a This rock...@§7[1/1]§2 Thief:§a§k ....§aЯ не могу контролировать себя...§kfjfjfj§a Этот камень...
 
+§7[1/1] §2Gerten Hunter: §aGert see human! I kill human!@§7[1/1] §2Gerten Hunter: §aГерт видеть человек! Моя убить человек!
+§7[1/1] §2Jitak: §aTo create the Gert mask, I will need §3[6 Gert Skin]§a. Kill a few Gerts in the camp to the west.@§7[1/1] §2Jitak: §aЧтобы создать маску Герта, мне понадобится §3[6 Кожи Герта]§a. Убей несколько Гертов в лагере на западе.
+§7[1/1] §2Gerten Hunter: §aGert no allow to enter tunnel! Gert talk to me first!!@§7[1/1] §2Gerten Hunter: §aГерт не позволять входить тоннель! Сначала Герт говорить со мной!!
+§7[1/1] §2Gerten Captain: §aGert no enter tunnel without password! Solitary gert have password! Ask solitary gert password!@§7[1/1] §2Gerten Captain: §aГерт не входить тоннель без пароль! Одинокий Герт знать пароль! Спросить одинокий Герт пароль!
+§7[1/1] §2Gerten Excavator: §aYou not allow to enter!@§7[1/1] §2Gerten Excavator: §aТебе нельзя входить!
+
 §7[1/13] §2Yansur: §aI see another challenger has found their way to §a§lThe Qira Hive§a!@§7[1/13] §2Yansur: §aЯ смотрю еще один испытуемый нашел свой путь в §a§lУлей Qir'ы§a!
 
 §7[4/4] §2Kroac: §aI haven't got a clue where the beast is now... But I'm sure if you continue to follow those footprints you wouldn't have any problems in finding it. Not that you would want to...@§7[4/4] §2Kroac: §aЯ понятия не имею где зверь сейчас... но уверен, если ты продолжишь идти по этим следам, то без проблем найдешь его. Раз очень этого хочешь...
@@ -549,6 +573,7 @@
 §7[6/20] §2Corkus Delegate: §a...But§a let's not talk about that.@§7[6/20] §2Corkus Delegate: §a...Но давай не будем говорить об этом.
 §7[13/20] §2Corkus Delegate: §aNorth, you can buy weapons and potions. If you continue through the gate you will find the native Avos.@§7[13/20] §2Corkus Delegate: §aСевер - там ты можешь купить оружия и зелья. Если пройдешь за ворота, то сможешь встретить коренных обитателей - Avos'ов.
 §7[14/20] §2Corkus Delegate: §aWest, you can buy armor, and there is another entrance to the potion shop.@§7[14/20] §2Corkus Delegate: §aЗапад - там ты можешь купить броню, и также там находиться другой вход в магазин зелий.
+§7[1/1] §2Corkus Delegate: §aI know you're eager to see more of the amazing Corkus Province, but please let me catch up!@§7[1/1] §2Corkus Delegate: §aЯ знаю, что ты хочешь увидеть больше удивительной провинции Corkus, но подожди, позволь мне догнать тебя!
 §7[1/4] §2Maxie: §aPst. You. Over here, behind the logs.@§7[1/4] §2Maxie: §aПст. Ты. Сюда, за бревнами.
 
 §7[1/1] §2Albert The Strong:§a Moo. Are you trying to run away, human? Moo. Only one of us can leave this place alive. Moo.@§7[1/1] §2Albert The Strong:§aМуу. Ты пытаешься убежать, человек? Муу. Только один из нас может покинуть это место живым. Муу.
@@ -574,6 +599,10 @@
 
 §7[2/5] §2Orikal: §aThere are 3 main ingredients you will need to get me: §3[Unstable Corrupted Ore]§a, §3[Incendiary Fluid]§a, and a §3[Switch Fuse] §ato activate it.@§7[2/5] §2Orikal: §aЕсть 3 основных ингредиента, которые мне нужно достать: §3[Нестабильная руда]§a, §3[Зажигательная жидкость]§a, и §3[Переключатель с предохранителем]§a, чтобы активировать его.
 
+§7[1/1] §2Krattson: §aI admit I am intimidated by their presence, but I cannot take my eyes off of them. Did you see that? That one just climbed a tree using just his feet.@§7[1/1] §2Krattson: §aПризнаю, что меня пугает их присутствие, но я не могу отвести от них глаз. Ты это видел? Тот просто залез на дерево, используя только свои ноги.
+§7[1/7] §2Inrekei: §aOui ryja y bufanvim vaam ypuid oui, cdnyhkan. So baubma yna eh tyhkan. Bmayca, dyga drec yht ramb dras.@§7[1/7] §2Inrekei: §aОуи руджа и буфанвим ваам юпиуд оуи, цденихкан. Со баубма юна эх тухкан. Бмаюка, дига дрек юхт рамб бас.
+§7[4/4] §2Inrekei: §aPlease take this. It is but a small gift. Your currency is meaningless to us. In times of peril, few step forward and risk their lives to save those they do not know.@§7[4/4] §2Inrekei: §aПожалуйста, прими это. Это всего лишь небольшой подарок. Ваша валюта бессмысленна для нас. Спасибо, что рисковал своей жизнью, чтобы спасти людей, которых даже не знаешь.
+
 =================BaseQuestsVWXYZ.txt==================
 §7[3/5] §2Excavator Lykron: §aDon't pretend like you don't know what it is, you know as well as I do combining the four crystal shards is told to bring unlimited power!@§7[3/5] §2Excavator Lykron: §aНе прикидывайся, как-будто не знаешь что это. Ты знаешь, так же как и я, что соединение четырех осколков несет безграничную мощь!
 
@@ -588,35 +617,19 @@
 
 ===================================================
 
-
 §7[1/1] §4Only the head of a spirit can enter this domain.@§4Только голова духа может войти в эту область.
-
-***§7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bLeft-Right-Left§a!@§7[1/1] §2Guard: §aВстань перед стеной и используй свое заклинание, кликнув §bЛевая-Правая-Левая§a!
-
-
-§7[1/1] §2Jitak: §aTo create the Gert mask, I will need §3[6 Gert Skin]§a. Kill a few Gerts in the camp to the west.@§7[1/1] §2Jitak: §aЧтобы создать маску Герта, мне понадобится §3[6 Кожи Герта]§a. Убей несколько Гертов в лагере на западе.
-§7[1/1] §2Gerten Hunter: §aGert no allow to enter tunnel! Gert talk to me first!!@§7[1/1] §2Gerten Hunter: §aГерт не позволять входить тоннель! Сначала Герт говорить со мной!!
-§7[1/1] §2Gerten Captain: §aGert no enter tunnel without password! Solitary gert have password! Ask solitary gert password!@§7[1/1] §2Gerten Captain: §aГерт не входить тоннель без пароль! Одинокий Герт знать пароль! Спросить одинокий Герт пароль!
-§7[1/1] §2Corkus Delegate: §aI know you're eager to see more of the amazing Corkus Province, but please let me catch up!@§7[1/1] §2Corkus Delegate: §aЯ знаю, что ты хочешь увидеть больше удивительной провинции Corkus, но подожди, позволь мне догнать тебя!
 §7[1/1] §2Worid: §a*cough* *cough*!@§7[1/1] §2Worid: §a§a*кашляет* *кашляет*!
 §7[2/2] §2Guardian of The Forest: §aZzzzzzzzz...@§7[2/2] §2Guardian of The Forest: §aХррр-ппффф....
 §7[1/1] §2Ahmas: §aWhat are ya standing around for! I wrote your orders in your book private!@§7[1/1] §2Ahmas: §aЧего ты тут стоишь! Я записал приказы в твою книгу, рядовой!
-§7[3/5] §2Sasha: §aLet's see... That'll be §3[200,000 Liquified Emeralds] §aplease.@§7[3/5] §2Sasha: §aПосмотрим.. С вас §3[200,000 жидких эмеральдов]§a, пожалуйста.
-§7[4/5] §2Sasha: §aHe said he'll give it back only in exchange for §3[200,000 Liquified Emeralds]§a!@§7[4/5] §2Sasha: §aОн сказал, что отдаст его только в обмен на §3[200,000 жидких эмеральдов]§a!
 §7[1/1] §2Rohem: §aHey, you up there! You know it's rude to rummage through people's rooms, right? Get away from there!@§7[1/1] §2Rohem: §aЭй, ты, там наверху! Ты же знаешь, что это невежливо - рыться в чужих комнатах, да? Уйти оттуда!
-§7[1/1] §2Krattson: §aI admit I am intimidated by their presence, but I cannot take my eyes off of them. Did you see that? That one just climbed a tree using just his feet.@§7[1/1] §2Krattson: §aПризнаю, что меня пугает их присутствие, но я не могу отвести от них глаз. Ты это видел? Тот просто залез на дерево, используя только свои ноги.
-§7[1/7] §2Inrekei: §aOui ryja y bufanvim vaam ypuid oui, cdnyhkan. So baubma yna eh tyhkan. Bmayca, dyga drec yht ramb dras.@§7[1/7] §2Inrekei: §aОуи руджа и буфанвим ваам юпиуд оуи, цденихкан. Со баубма юна эх тухкан. Бмаюка, дига дрек юхт рамб бас.
-§7[4/4] §2Inrekei: §aPlease take this. It is but a small gift. Your currency is meaningless to us. In times of peril, few step forward and risk their lives to save those they do not know.@§7[4/4] §2Inrekei: §aПожалуйста, прими это. Это всего лишь небольшой подарок. Ваша валюта бессмысленна для нас. Спасибо, что рисковал своей жизнью, чтобы спасти людей, которых даже не знаешь.
-§7[1/1]§2 Seaskipper Captain:§a Where are ya headed? Zhight Island, huh? A'ight! I'll get ya there in no time.@§7[1/1]§2 Seaskipper Captain:§aКуда ты направляешься? Zhight Island, да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
 §7[1/1] §2Zhight Tour Staff: §aLooks like you're done! Thanks for visiting Zhight Treasure Tour! We await your next excursion!@§7[1/1] §2Zhight Tour Staff: §aПохоже, ты закончил! Спасибо за посещение Zhight Treasure Tour! Ждем твоей следующей экскурсии!
 §7[1/1] §2Eltom Guard: §aThe guards here are only trained in combat, not in solving mysteries. That's why the mayor called you!@§7[1/1] §2Eltom Guard: §aЗдешние стражники обучены только бою, а не разгадыванию тайн. Вот почему мэр вызвал тебя!
 §7[1/1] §2Eoric: §aIf you have any questions, go to the waiting room and wait for your turn, not run into my office head-straight! You'd have to be level 88 for that luxury.@§7[1/1] §2Eoric: §aЕсли у тебя есть какие-либо вопросы, иди в зал ожидания и жди своей очереди, а не беги в мой кабинет! Ты должен быть минимум 88 уровня для этой роскоши.
 §7[1/1] §2Lumilda: §aCheck the Eastern Exit! I'm pretty sure that's where the hooded person keeps returning to.@§7[1/1] §2Lumilda: §aПроверь восточный выход! Я почти уверен, что именно туда продолжает возвращаться человек в капюшоне.
 §7[1/1] §2Hilan: §aHe climbed the t-tower... Go!@§7[1/1] §2Hilan: §aОн взобрался на б-башню... Иди же!
 §7[1/1] §2Sensei Miyagi: §aHow are the challenges presenting for you, young grasshopper?@§7[1/1] §2Sensei Miyagi: §aКак тебе эти испытания, юный кузнечик?
-§7[1/1] §2Plario: §aTo the §apeaks...with§a us.@§7[1/1] §2Plario: §aК вершинам...с нами.
 §7[1/1] §4This cave has nothing interesting for you... yet...@§4В этой пещере нет ничего интересного для тебя... пока что...
-***§7[1/1] §2Traitor Amadel: §aThe crystal is in the cave just inside the volcano past the base. Hurry, they are all off duty at the moment, the cave to the heart of the volcano is clear. Act swiftly, and good luck.@§7[1/1] §2Traitor Amadel: §aКристалл находится в пещере, внутри вулкана, рядом с базой. Поспеши, они сейчас все заняты, и пещера пуста. Действуй быстро, и удачи.
+§7[1/1] §2Traitor Amadel: §aThe crystal is in the cave just inside the volcano past the base. Hurry, they are all off duty at the moment, the cave to the heart of the volcano is clear. Act swiftly, and good luck.@§7[1/1] §2Traitor Amadel: §aКристалл находится в пещере, внутри вулкана, рядом с базой. Поспеши, они сейчас все заняты, и пещера пуста. Действуй быстро, и удачи.
 §7[1/1] §2Dr. Urelix: §aIt's rude to turn your back on present company.@§7[1/1] §2Dr. Urelix: §aНевежливо поворачиваться спиной к присутствующим.
 §7[1/6] §2Mehme: §aWelcome to my wonderful wooden home!@§7[1/6] §2Mehme: §aДобро пожаловать в мой великолепный деревянный дом!
 §7[2/6] §2Mehme: §aYou are welcome here as long as you don't have any mushrooms or chickens.@§7[2/6] §2Mehme: §aТебе рады здесь, пока у тебя нет с собой грибов или куриц.
@@ -628,18 +641,6 @@
 §7[1/1] §2Child: §aAw man, I can't believe I'm not allowed to sit with the adults. I'm nearly twelve!!@§7[1/1] §2Child: §aБоже, я не могу поверить, что мне нельзя сидеть со взрослыми. Мне уже почти двенадцать!!
 §7[1/1] §2Phief: §aOkay fine, I stole it from them, you got me.@§7[1/1] §2Phief: §aЛадно, хорошо, я украл их у него, ты меня подловил.
 §7[1/1] §2Nedlom: §aAre you even listening? Help!@§7[1/1] §2Nedlom: §aТы вообще слушаешь? Помоги!
-§7[1/1] §2Gerten Excavator: §aYou not allow to enter!@§7[1/1] §2Gerten Excavator: §aТебе нельзя входить!
 §7[1/1] §2Irlok: §aHe is located at the bottom of the canyon, right next to a popular road. If you follow the path down the mountain, you should find the mine. I wrote down the exact location in your book.@§7[1/1] §2Irlok: §aПещера находится на дне каньона, справа от основной дороги. Если ты спустишься вниз с горы по дороге, то ты найдешь шахту. Я написал координаты в твоей книге.
-§7[1/1] §2Relend: §aHop aboard my ship so we can cross the water, Little Wing is what I like to call her.@§7[1/1] §2Relend: §aНу раз нет, тогда вперед, отплыть туда будет нетрудно, ведь Little Wing - так я зову свое милое судно!
-§7[1/1] §2Relend: §aI think before we get into any real danger, we should turn around. Could you man the wheel and get us back to solid ground?@§7[1/1] §2Relend: §aДумаю, прежде чем мы попадем в настоящую опасность, нам лучше повернуть назад. Может возьмешь штурвал на себя, я был бы этому рад!
-§7[1/1] §2Relend: §aWe should probably get out of this place, it feels rather small. Perhaps you can try to break through that weak spot in the wall?@§7[1/1] §2Relend: §aНужно выбираться отсюда, выход в другой стороне. Может, ты попробуешь сломать эти дряхлые доски в стене?
-§7[1/1] §2Relend: §aTake a look at your quest book if you forgot your project, this island has supplies we ought to collect!@§7[1/1] §2Relend: §aЗагляни в свою книгу квестов, если ты забыл что нужно, на этом острове есть запасы, пойдем искать их дружно!
 §7[1/1] §2Ingredient Merchant: §aHey! Get out, this is a shop strictly for the higher ups of the state, no soldiers like you.@§7[1/1] §2Ingredient Merchant: §aЭй! Убирайся, это магазин только для высших чинов государства, никаких солдат вроде тебя.
-§7[1/1] §2Talking Mushroom: §aWHAT IN THE NAME OF ALL THAT IS HOLY IS GOING THROUGH YOUR HEAD?! WE'RE MILES FROM THE SKY ISLANDS!! WHERE IS THIS PLACE?!@§7[1/1] §2Talking Mushroom: §aЧТО ВО ИМЯ ВСЕГО СВЯТОГО ПРОИСХОДИТ В ТВОЕЙ ГОЛОВЕ? МЫ В КИЛЛОМЕТРАХ ОТ ЛЕТАЮЩИХ ОСТРОВОВ!! ЧТО ЭТО ЗА МЕСТО?!
-
 §7[1/1] §2Santa: §aHey, you. Come here.@§7[1/1] §2Santa: §aЭй, ты. Иди сюда.
-§7[1/1] §2???: §aY§a§kk§ao dare §a§kkk§aer these s§a§kk:;DJkkkAJEkkkk§aTh§4§kkksad:ek§a§kghakk§4§kkkkreid:@§7[1/1] §2???: §aТ§a§kk§aы посмелился §a§kвой§aти в это п§a§kk:;DJkkkAJEkkkk§aме§4§kkksad:ek§a§kghakk§4§kkkkreid:
-§7[1/1] §2???: §4... How fool§4§kk§ah of you... to come back he§4re.§4§k:5tykkk§after what §4happene§4§ki:@§7[1/1] §2???: §4Как глупо§4§kk§aс твоей стороны... возвращаться сю§4да.§4§k:5tykkk§после того что §4случи§4§ki:
-§7[1/1] §2Gerten Hunter: §aGert see human! I kill human!@§7[1/1] §2Gerten Hunter: §aГерт видеть человек! Моя убить человек!
-
-§7[1/1] §2Lozeg: §aIf you want a ticket you'll have to pay me §3[1 Emerald Block].@§7[1/1] §2Lozeg: §aЕсли ты хочешь билет, тебе придется заплатить мне §3[1 Блок Эмеральдов].
