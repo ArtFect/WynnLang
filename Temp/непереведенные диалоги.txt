@@ -560,23 +560,21 @@
 §7[1/7] §2Ceyquin: §aN-no, nothing to hide! I wouldn't dream of harboring a dissident in my humble home!@§7[1/7] §2Ceyquin: §aН-Нет, я ничего не скрываю! Я даже и не думал впускать инакомыслящего в свой скромный дом!
 §7[4/7] §2Ceyquin: §aIf you really think you can help, you certainly won't be able to from here. The cultists have this town in a stranglehold.@§7[4/7] §2Ceyquin: §aЕсли ты действительно хочешь помочь, то отсюда ты этого сделать точно не сможешь. Культисты держат этот город мертвой хваткой.
 §7[1/3] §2Rasalux: §aHave you seen the monsters that roam the realm?@§7[1/3] §2Rasalux: §aТы видел тех монстров, что наводнили царство?
-§7[1/2] §2Emie: §aThe Sunflowers of Aldorei have incredible magical and symbolic power. I have here the only patch in the entire valley.@§7[1/2] §2Emie: §a
-§7[2/2] §2Emie: §aYou may help yourself to the seeds and spread them amongst the land. My sunflowers grow right across from where you came in. If you try to sell them, however, they will turn to ash.@§7[2/2] §2Emie: §a
-§7[1/2] §2Gajom: §aHello human. Are you too, searching for the strange "Flowing stone"? The ancient scriptures translate directly to that.@§7[1/2] §2Gajom: §a
-§7[2/2] §2Gajom: §aIt definitely means water, but I'm not sure about the rock. We Elves share our secrets and mysteries. To keep them close to our chests would be selfish.@§7[2/2] §2Gajom: §a
-§7[1/1] §2Grandon: §aPlease be quiet, I'm trying to read §athis...ooh§a, marvelous!@§7[1/1] §2Grandon: §a
-§7[3/4] §2Seaskipper Captain: §aBut if you head southeast there's another island. It's so cold over there some say Santa himself set up his workshop there.@§7[3/4] §2Seaskipper Captain: §a
-§7[1/1]§2 Slykaar: §aYou have made the sacrifices of many be in total vain!@§7[1/1]§2 Slykaar: §a
-§7[1/1] §2Excavator Placardus: §aI need you to bring me something. It should be written in your quest book.@§7[1/1] §2Excavator Placardus: §a
-§7[1/1] §2Yahya: §aH-... Hey! I'll need your help! Mushrooms. But right now you seem too weak. Come back to me when you're le-... level 12.@§7[1/1] §2Yahya: §a
-§7[1/1] §4Only the head of a spirit can enter this domain.@§4
-§7[3/5] §2Excavator Lykron: §aDon't pretend like you don't know what it is, you know as well as I do combining the four crystal shards is told to bring unlimited power!@§7[3/5] §2Excavator Lykron: §a
-§7[1/1] §2Legolus: §aYou're that human that got granted access to the town, aren't you? Strange things are happening around here. I fear you will not understand until you are level 78.@§7[1/1] §2Legolus: §a
-***§7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bLeft-Right-Left§a!@
-§7[1/1] §2Black Market Guard: §aNo password will be no entry!@§7[1/1] §2Guard: §a
-§7[1/1] §2Controller: §aOh, seems like that was wrong! Too bad!@§7[1/1] §2Controller: §a
-§7[1/1] §2Broadcast: §aAttention passengers. There has been a missing person reported aboard. If there are any volunteers to help search for them please report to the control deck and speak to the captain.@§7[1/1] §2Broadcast: §a
-§7[5/7] §2Captain Ackbar: §aSince we don't have any leads, it might be best to ask some of the passengers for information.@§7[5/7] §2Captain Ackbar: §a
+§7[1/2] §2Emie: §aThe Sunflowers of Aldorei have incredible magical and symbolic power. I have here the only patch in the entire valley.@§7[1/2] §2Emie: §aПодсолнухи Aldorei обладают невероятной магической и символической силой. У меня здесь единственный участок во всей долине.
+§7[2/2] §2Emie: §aYou may help yourself to the seeds and spread them amongst the land. My sunflowers grow right across from where you came in. If you try to sell them, however, they will turn to ash.@§7[2/2] §2Emie: §aТы можешь помочь семенам и распространять их среди земли. Мои подсолнухи растут прямо напротив того места, откуда ты пришел. Если вы попытаетесь продать их, однако, они превратятся в пепел
+§7[1/2] §2Gajom: §aHello human. Are you too, searching for the strange "Flowing stone"? The ancient scriptures translate directly to that.@§7[1/2] §2Gajom: §aПривет, человек. Ты тоже ищешь странный "Текучий камень"? Древние писания прямо говорят об этом.
+§7[2/2] §2Gajom: §aIt definitely means water, but I'm not sure about the rock. We Elves share our secrets and mysteries. To keep them close to our chests would be selfish.@§7[2/2] §2Gajom: §aЭто определенно означает воду, но я не уверен насчет камня. Мы, эльфы, делимся своими секретами и тайнами. Держать их только у себя было бы эгоистично.
+§7[1/1] §2Grandon: §aPlease be quiet, I'm trying to read §athis...ooh§a, marvelous!@§7[1/1] §2Grandon: §aПожалуйста, успокойся, я пытаюсь это прочесть...оо, чудесно!
+§7[3/4] §2Seaskipper Captain: §aBut if you head southeast there's another island. It's so cold over there some say Santa himself set up his workshop there.@§7[3/4] §2Seaskipper Captain: §aЕсли ты направишься на юго-восток, там есть еще один остров. Там так холодно, что некоторые говорят, что сам Санта устроил там свою мастерскую.
+§7[1/1]§2 Slykaar: §aYou have made the sacrifices of many be in total vain!@§7[1/1]§2 Slykaar: §aТы сделал жертвы многих совершенно напрасными!
+§7[1/1] §2Excavator Placardus: §aI need you to bring me something. It should be written in your quest book.@§7[1/1] §2Excavator Placardus: §aМне нужно, чтобы ты принес мне кое-что. Все это должно быть написано в твоей квестовой книге.
+§7[1/1] §4Only the head of a spirit can enter this domain.@§4Только голова духа может войти в эту область.
+§7[1/1] §2Legolus: §aYou're that human that got granted access to the town, aren't you? Strange things are happening around here. I fear you will not understand until you are level 78.@§7[1/1] §2Legolus: §aА, ты тот человек, которому предоставили доступ в город, не так ли? Здесь происходят странные вещи. Я боюсь, что ты не поймешь их, пока не достигнешь 78 уровня.
+***§7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bLeft-Right-Left§a!@§7[1/1] §2Guard: §aВстань перед стеной и используй свое заклинание, кликнув §bЛевая-Правая-Левая§a!
+§7[1/1] §2Black Market Guard: §aNo password will be no entry!@§7[1/1] §2Guard: §aБез пароля нет прохода!
+§7[1/1] §2Controller: §aOh, seems like that was wrong! Too bad!@§7[1/1] §2Controller: §aОх, кажется, это было неправильно! Очень жаль!
+§7[1/1] §2Broadcast: §aAttention passengers. There has been a missing person reported aboard. If there are any volunteers to help search for them please report to the control deck and speak to the captain.@§7[1/1] §2Broadcast: §aВнимание, пассажиры. На борту  пропал человек. Если есть добровольцы, которые помогут их найти, пожалуйста, явитесь на  палубу управления и поговорите с капитаном.
+§7[5/7] §2Captain Ackbar: §aSince we don't have any leads, it might be best to ask some of the passengers for information.@§7[5/7] §2Captain Ackbar: §aПоскольку у нас нет никаких улик, для начала неплохо бы опросить пассажиров, вдруг они что-то видели.
 §7[1/1] §2Passenger Nancy: §aHave you found my child?@§7[1/1] §2Passenger Nancy: §a
 §7[1/2] §2Engineer Eric: §aI dun gave you the instructions. Just check it if you forget the code.@§7[1/2] §2Engineer Eric: §a
 §7[2/2] §2Engineer Eric: §aIt was something like red... orange... yellow.. Ah, it all on the paper anyway.@§7[2/2] §2Engineer Eric: §a
