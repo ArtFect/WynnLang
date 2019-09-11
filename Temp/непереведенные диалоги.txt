@@ -575,31 +575,28 @@
 §7[1/1] §2Controller: §aOh, seems like that was wrong! Too bad!@§7[1/1] §2Controller: §aОх, кажется, это было неправильно! Очень жаль!
 §7[1/1] §2Broadcast: §aAttention passengers. There has been a missing person reported aboard. If there are any volunteers to help search for them please report to the control deck and speak to the captain.@§7[1/1] §2Broadcast: §aВнимание, пассажиры. На борту  пропал человек. Если есть добровольцы, которые помогут их найти, пожалуйста, явитесь на  палубу управления и поговорите с капитаном.
 §7[5/7] §2Captain Ackbar: §aSince we don't have any leads, it might be best to ask some of the passengers for information.@§7[5/7] §2Captain Ackbar: §aПоскольку у нас нет никаких улик, для начала неплохо бы опросить пассажиров, вдруг они что-то видели.
-§7[1/1] §2Passenger Nancy: §aHave you found my child?@§7[1/1] §2Passenger Nancy: §a
-§7[1/2] §2Engineer Eric: §aI dun gave you the instructions. Just check it if you forget the code.@§7[1/2] §2Engineer Eric: §a
-§7[2/2] §2Engineer Eric: §aIt was something like red... orange... yellow.. Ah, it all on the paper anyway.@§7[2/2] §2Engineer Eric: §a
-§7[1/1] §2Jitak: §aTo create the Gert mask, I will need §3[6 Gert Skin]§a. Kill a few Gerts in the camp to the west.@§7[1/1] §2Jitak: §a
-§7[1/1] §2Gerten Hunter: §aGert no allow to enter tunnel! Gert talk to me first!!@§7[1/1] §2Gerten Hunter: §a
-§7[1/1] §2Gerten Captain: §aGert no enter tunnel without password! Solitary gert have password! Ask solitary gert password!@§7[1/1] §2Gerten Captain: §a
-§7[1/1] §2Corkus Delegate: §aHey! What are you doing back there? Follow me so I can show you the amazing Province of Corkus!@§7[1/1] §2Corkus Delegate: §a
-§7[1/1] §2Corkus Delegate: §aI know you're eager to see more of the amazing Corkus Province, but please let me catch up!@§7[1/1] §2Corkus Delegate: §a
-§7[1/1] §2Worid: §a*cough* *cough*!@§7[1/1] §2Worid: §a
-§7[1/6] §2Captain Kymer: §aOh ho ho! A new traveller, fresh from the province of Wynn I see!@§7[1/6] §2Captain Kymer: §a
-§7[2/2] §2Guardian of The Forest: §aZzzzzzzzz...@§7[2/2] §2Guardian of The Forest: §a
-§7[1/1] §2Ahmas: §aWhat are ya standing around for! I wrote your orders in your book private!@§7[1/1] §2Ahmas: §a
-§7[3/5] §2Sasha: §aLet's see... That'll be §3[200,000 Liquified Emeralds] §aplease.@§7[3/5] §2Sasha: §a
-§7[4/5] §2Sasha: §aHe said he'll give it back only in exchange for §3[200,000 Liquified Emeralds]§a!@§7[4/5] §2Sasha: §a
-§7[1/1] §2Sayleros: §aYou look like you desperately need an adventure, Come back when you're level 20, I might need you.@§7[1/1] §2Sayleros: §a
-§7[1/1] §2Rohem: §aHey, you up there! You know it's rude to rummage through people's rooms, right? Get away from there!@§7[1/1] §2Rohem: §a
-§7[1/1] §2Krattson: §aI admit I am intimidated by their presence, but I cannot take my eyes off of them. Did you see that? That one just climbed a tree using just his feet.@§7[1/1] §2Krattson: §a
-§7[1/7] §2Inrekei: §aOui ryja y bufanvim vaam ypuid oui, cdnyhkan. So baubma yna eh tyhkan. Bmayca, dyga drec yht ramb dras.@§7[1/7] §2Inrekei: §a
-§7[4/4] §2Inrekei: §aPlease take this. It is but a small gift. Your currency is meaningless to us. In times of peril, few step forward and risk their lives to save those they do not know.@§7[4/4] §2Inrekei: §a
-§7[1/1]§2 Seaskipper Captain:§a Where are ya headed? Zhight Island, huh? A'ight! I'll get ya there in no time.@§7[1/1]§2 Seaskipper Captain:§a
-§7[1/1] §2Zhight Tour Staff: §aLooks like you're done! Thanks for visiting Zhight Treasure Tour! We await your next excursion!@§7[1/1] §2Zhight Tour Staff: §a
-§7[1/1] §2Eltom Guard: §aThe guards here are only trained in combat, not in solving mysteries. That's why the mayor called you!@§7[1/1] §2Eltom Guard: §a
-§7[1/1] §2Eoric: §aIf you have any questions, go to the waiting room and wait for your turn, not run into my office head-straight! You'd have to be level 88 for that luxury.@§7[1/1] §2Eoric: §a
-§7[1/1] §2Lumilda: §aCheck the Eastern Exit! I'm pretty sure that's where the hooded person keeps returning to.@§7[1/1] §2Lumilda: §a
-§7[1/1] §2Hilan: §aHe climbed the t-tower... Go!@§7[1/1] §2Hilan: §a
+§7[1/1] §2Passenger Nancy: §aHave you found my child?@§7[1/1] §2Passenger Nancy: §aТы уже нашел моего ребенка?
+§7[1/2] §2Engineer Eric: §aI dun gave you the instructions. Just check it if you forget the code.@§7[1/2] §2Engineer Eric: §aЯ дал тебе инструкцию. Просто проверь ее, если ты забыл код.
+§7[2/2] §2Engineer Eric: §aIt was something like red... orange... yellow.. Ah, it all on the paper anyway.@§7[2/2] §2Engineer Eric: §aТам было что-то вроде красного... оранжевого... желтого.. Ах, все это на бумаге в любом случае.
+§7[1/1] §2Jitak: §aTo create the Gert mask, I will need §3[6 Gert Skin]§a. Kill a few Gerts in the camp to the west.@§7[1/1] §2Jitak: §aЧтобы создать маску Герта, мне понадобится §3[6 Кожи Герта]§a. Убей несколько Гертов в лагере на западе.
+§7[1/1] §2Gerten Hunter: §aGert no allow to enter tunnel! Gert talk to me first!!@§7[1/1] §2Gerten Hunter: §aГерт не позволять входить тоннель! Сначала Герт говорить со мной!!
+§7[1/1] §2Gerten Captain: §aGert no enter tunnel without password! Solitary gert have password! Ask solitary gert password!@§7[1/1] §2Gerten Captain: §aГерт не входить тоннель без пароль! Одинокий Герт знать пароль! Спросить одинокий Герт пароль!
+§7[1/1] §2Corkus Delegate: §aI know you're eager to see more of the amazing Corkus Province, but please let me catch up!@§7[1/1] §2Corkus Delegate: §aЯ знаю, что ты хочешь увидеть больше удивительной провинции Corkus, но подожди, позволь мне догнать тебя!
+§7[1/1] §2Worid: §a*cough* *cough*!@§7[1/1] §2Worid: §a§a*кашляет* *кашляет*!
+§7[2/2] §2Guardian of The Forest: §aZzzzzzzzz...@§7[2/2] §2Guardian of The Forest: §aХррр-ппффф....
+§7[1/1] §2Ahmas: §aWhat are ya standing around for! I wrote your orders in your book private!@§7[1/1] §2Ahmas: §aЧего ты тут стоишь! Я записал приказы в твою книгу, рядовой!
+§7[3/5] §2Sasha: §aLet's see... That'll be §3[200,000 Liquified Emeralds] §aplease.@§7[3/5] §2Sasha: §aПосмотрим.. С вас §3[200,000 жидких эмеральдов]§a, пожалуйста.
+§7[4/5] §2Sasha: §aHe said he'll give it back only in exchange for §3[200,000 Liquified Emeralds]§a!@§7[4/5] §2Sasha: §aОн сказал, что отдаст его только в обмен на §3[200,000 жидких эмеральдов]§a!
+§7[1/1] §2Rohem: §aHey, you up there! You know it's rude to rummage through people's rooms, right? Get away from there!@§7[1/1] §2Rohem: §aЭй, ты, там наверху! Ты же знаешь, что это невежливо - рыться в чужих комнатах, да? Уйти оттуда!
+§7[1/1] §2Krattson: §aI admit I am intimidated by their presence, but I cannot take my eyes off of them. Did you see that? That one just climbed a tree using just his feet.@§7[1/1] §2Krattson: §aПризнаю, что меня пугает их присутствие, но я не могу отвести от них глаз. Ты это видел? Тот просто залез на дерево, используя только свои ноги.
+§7[1/7] §2Inrekei: §aOui ryja y bufanvim vaam ypuid oui, cdnyhkan. So baubma yna eh tyhkan. Bmayca, dyga drec yht ramb dras.@§7[1/7] §2Inrekei: §aОуи руджа и буфанвим ваам юпиуд оуи, цденихкан. Со баубма юна эх тухкан. Бмаюка, дига дрек юхт рамб бас.
+§7[4/4] §2Inrekei: §aPlease take this. It is but a small gift. Your currency is meaningless to us. In times of peril, few step forward and risk their lives to save those they do not know.@§7[4/4] §2Inrekei: §aПожалуйста, прими это. Это всего лишь небольшой подарок. Ваша валюта бессмысленна для нас. Спасибо, что рисковал своей жизнью, чтобы спасти людей, которых даже не знаешь.
+§7[1/1]§2 Seaskipper Captain:§a Where are ya headed? Zhight Island, huh? A'ight! I'll get ya there in no time.@§7[1/1]§2 Seaskipper Captain:§aКуда ты направляешься? Zhight Island, да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
+§7[1/1] §2Zhight Tour Staff: §aLooks like you're done! Thanks for visiting Zhight Treasure Tour! We await your next excursion!@§7[1/1] §2Zhight Tour Staff: §aПохоже, ты закончил! Спасибо за посещение Zhight Treasure Tour! Ждем твоей следующей экскурсии!
+§7[1/1] §2Eltom Guard: §aThe guards here are only trained in combat, not in solving mysteries. That's why the mayor called you!@§7[1/1] §2Eltom Guard: §aЗдешние стражники обучены только бою, а не разгадыванию тайн. Вот почему мэр вызвал тебя!
+§7[1/1] §2Eoric: §aIf you have any questions, go to the waiting room and wait for your turn, not run into my office head-straight! You'd have to be level 88 for that luxury.@§7[1/1] §2Eoric: §aЕсли у тебя есть какие-либо вопросы, иди в зал ожидания и жди своей очереди, а не беги в мой кабинет! Ты должен быть минимум 88 уровня для этой роскоши.
+§7[1/1] §2Lumilda: §aCheck the Eastern Exit! I'm pretty sure that's where the hooded person keeps returning to.@§7[1/1] §2Lumilda: §aПроверь восточный выход! Я почти уверен, что именно туда продолжает возвращаться человек в капюшоне.
+§7[1/1] §2Hilan: §aHe climbed the t-tower... Go!@§7[1/1] §2Hilan: §aОн взобрался на б-башню... Иди же!
 §7[1/1] §2Sensei Miyagi: §aHow are the challenges presenting for you, young grasshopper?@§7[1/1] §2Sensei Miyagi: §a
 §7[1/1] §2Plario: §aTo the §apeaks...with§a us.@§7[1/1] §2Plario: §a
 §7[1/1] §4This cave has nothing interesting for you... yet...@§4
