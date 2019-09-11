@@ -543,15 +543,23 @@
 
 
 ===================================================
-§7[6/9] §2Rismor: §aYou heard me shout it earlier, if those idiots summon Naragath he could ravage the entire province! You see the giant hand, we'd be powerless to stop him!@§7[6/9] §2Rismor: §a
-§7[1/8] §2Rismor: §aI saw your fight. Did the acolyte there have the scroll?@§7[1/8] §2Rismor: §a
-§7[1/2] §2Harker: §aThat demon is too powerful to fight, even newly released. But we can stop him before he gets too strong to hold back!@§7[1/2] §2Harker: §a
-§7[2/2] §2Harker: §aKill the Hierophants and bring me §3[5 Icons of Naragath] §aand I should be able to weaken him enough for you to kill him!@§7[2/2] §2Harker: §a
-§7[3/5] §2Harker: §aThe Eye of Blood is tying him to this plane of existence. If you can separate it from him, I think I could manage to banish him!@§7[3/5] §2Harker: §a
-§7[1/8] §2Rismor: §aI'm at a loss for words. I didn't expect you to survive.@§7[1/8] §2Rismor: §a
-§7[4/8] §2Rismor: §aThe cultists suddenly panicked when the hand retreated of its own accord as it did. Most of them seem to have left Lexdale.@§7[4/8] §2Rismor: §a
-§7[8/8] §2Rismor: §aFarewell, adventurer. I do hope we may meet again, under better circumstances. I can only pray that this is the last we will clash with those from the realms of darkness.@§7[8/8] §2Rismor: §a
-§7[1/3] §2Rasalux: §aHave you seen the monsters that roam the realm?@§7[1/3] §2Rasalux: §a
+§7[6/9] §2Rismor: §aYou heard me shout it earlier, if those idiots summon Naragath he could ravage the entire province! You see the giant hand, we'd be powerless to stop him!@§7[6/9] §2Rismor: §aКак уже говорил раньше, эти идиоты призовут Naragath'a, чтобы он опустошил целую провинцию! Как видишь по гигантской руке, мы будем не в силах остановить его!
+§7[1/8] §2Rismor: §aI saw your fight. Did the acolyte there have the scroll?@§7[1/8] §2Rismor: §aЯ видел твою битву. Удалось достать свиток у прислужника?
+§7[1/2] §2Harker: §aThat demon is too powerful to fight, even newly released. But we can stop him before he gets too strong to hold back!@§7[1/2] §2Harker: §aЭтот демон слишком силен, чтобы сражаться против него, даже недавно освобожденный. Но мы можем остановить его прежде, чем он станет слишком сильным!
+§7[2/2] §2Harker: §aKill the Hierophants and bring me §3[5 Icons of Naragath] §aand I should be able to weaken him enough for you to kill him!@§7[2/2] §2Harker: §aУбей Hierophant'ов и принеси мне §3[5 Икон Naragath'а]§a, и я смогу ослабить его достаточно, чтобы ты убил его!
+§7[3/5] §2Harker: §aThe Eye of Blood is tying him to this plane of existence. If you can separate it from him, I think I could manage to banish him!@§7[3/5] §2Harker: §aГлаз Крови как-то связан с ним. Если ты сможешь отделить его от него, то я смогу попробовать изгнать его!
+§7[1/8] §2Rismor: §aI'm at a loss for words. I didn't expect you to survive.@§7[1/8] §2Rismor: §aУ меня нет слов. Я и не ожидал, что ты выживешь.
+§7[4/8] §2Rismor: §aThe cultists suddenly panicked when the hand retreated of its own accord as it did. Most of them seem to have left Lexdale.@§7[4/8] §2Rismor: §aКультисты начали паниковать и разбегаться, когда рука застыла на месте. Похоже большинство из них покинули Lexdale.
+§7[8/8] §2Rismor: §aFarewell, adventurer. I do hope we may meet again, under better circumstances. I can only pray that this is the last we will clash with those from the realms of darkness.@§7[8/8] §2Rismor: §aПрощай, искатель приключений. Я надеюсь, что мы встретимся снова, при лучших обстоятельствах. Могу только молиться, что бы это было наше последнее столкновение со злом из царства тьмы.
+§7[1/1] §2???: §aA Human?! Help! They're going to try to feed me to a hellhound!@§7[1/1] §2???: §aЧеловек! Помоги! Они хотят скормить меня церберу!
+§7[1/1] §2Talos: §aThanks for your help, human. Please tell Arwes that I am alright. I'll make sure these scumbags stay here until I can fetch the police.@§7[1/1] §2Talos: §aСпасибо тебе за помощь, человек. Пожалуйста, скажи Arwes'у, что я в порядке. Я прослежу, чтобы эти подонки оставались здесь, пока я не вызову полицию.
+§7[1/2] §2Acolyte Salizan: §aBack away! Lexdale belongs to the Order of the Abyss! You are not one of us, so you may not enter our land!@§7[1/2] §2Acolyte Salizan: §aНазад! Lexdale принадлежит Ордену Бездны! Ты не один из нас, так что ты не можешь войти на нашу землю!
+§7[2/2] §2Acolyte Salizan: §aIf you try, you will be punished. Harshly. Now then, leave! I do not want to see you here again!@§7[2/2] §2Acolyte Salizan: §aЕсли ты попытаешься, то будешь наказан. Решительно. А теперь уходи! Я не хочу видеть тебя здесь снова!
+§7[1/7] §2Ceyquin: §aWha- A...A human? In Lexdale?! How did you get in, do you have a death wish?!@§7[1/7] §2Ceyquin: §aЧто- Ч...Человек? в Lexdale?! Как ты попал сюда, у тебя есть предсмертное желание?!
+§7[4/7] §2Ceyquin: §aThey're trying to summon that Naragath character, whatever it §ais...some§a kind of demon, I suppose. They say if we obey them, he'll spare us.@§7[4/7] §2Ceyquin: §aОни пытаются призвать некого Naragath'a... Он некто вроде демона, я полагаю. Они сказали, если мы подчинимся ему, то он пощадит нас.
+§7[1/7] §2Ceyquin: §aN-no, nothing to hide! I wouldn't dream of harboring a dissident in my humble home!@§7[1/7] §2Ceyquin: §aН-Нет, я ничего не скрываю! Я даже и не думал впускать инакомыслящего в свой скромный дом!
+§7[4/7] §2Ceyquin: §aIf you really think you can help, you certainly won't be able to from here. The cultists have this town in a stranglehold.@§7[4/7] §2Ceyquin: §aЕсли ты действительно хочешь помочь, то отсюда ты этого сделать точно не сможешь. Культисты держат этот город мертвой хваткой.
+§7[1/3] §2Rasalux: §aHave you seen the monsters that roam the realm?@§7[1/3] §2Rasalux: §aТы видел тех монстров, что наводнили царство?
 §7[1/2] §2Emie: §aThe Sunflowers of Aldorei have incredible magical and symbolic power. I have here the only patch in the entire valley.@§7[1/2] §2Emie: §a
 §7[2/2] §2Emie: §aYou may help yourself to the seeds and spread them amongst the land. My sunflowers grow right across from where you came in. If you try to sell them, however, they will turn to ash.@§7[2/2] §2Emie: §a
 §7[1/2] §2Gajom: §aHello human. Are you too, searching for the strange "Flowing stone"? The ancient scriptures translate directly to that.@§7[1/2] §2Gajom: §a
@@ -583,14 +591,6 @@
 §7[1/1] §2Ahmas: §aWhat are ya standing around for! I wrote your orders in your book private!@§7[1/1] §2Ahmas: §a
 §7[3/5] §2Sasha: §aLet's see... That'll be §3[200,000 Liquified Emeralds] §aplease.@§7[3/5] §2Sasha: §a
 §7[4/5] §2Sasha: §aHe said he'll give it back only in exchange for §3[200,000 Liquified Emeralds]§a!@§7[4/5] §2Sasha: §a
-§7[1/1] §2???: §aA Human?! Help! They're going to try to feed me to a hellhound!@§7[1/1] §2???: §a
-§7[1/1] §2Talos: §aThanks for your help, human. Please tell Arwes that I am alright. I'll make sure these scumbags stay here until I can fetch the police.@§7[1/1] §2Talos: §a
-§7[1/2] §2Acolyte Salizan: §aBack away! Lexdale belongs to the Order of the Abyss! You are not one of us, so you may not enter our land!@§7[1/2] §2Acolyte Salizan: §a
-§7[2/2] §2Acolyte Salizan: §aIf you try, you will be punished. Harshly. Now then, leave! I do not want to see you here again!@§7[2/2] §2Acolyte Salizan: §a
-§7[1/7] §2Ceyquin: §aWha- A...A human? In Lexdale?! How did you get in, do you have a death wish?!@§7[1/7] §2Ceyquin: §a
-§7[4/7] §2Ceyquin: §aThey're trying to summon that Naragath character, whatever it §ais...some§a kind of demon, I suppose. They say if we obey them, he'll spare us.@§7[4/7] §2Ceyquin: §a
-§7[1/7] §2Ceyquin: §aN-no, nothing to hide! I wouldn't dream of harboring a dissident in my humble home!@§7[1/7] §2Ceyquin: §a
-§7[4/7] §2Ceyquin: §aIf you really think you can help, you certainly won't be able to from here. The cultists have this town in a stranglehold.@§7[4/7] §2Ceyquin: §a
 §7[1/1] §2Sayleros: §aYou look like you desperately need an adventure, Come back when you're level 20, I might need you.@§7[1/1] §2Sayleros: §a
 §7[1/1] §2Rohem: §aHey, you up there! You know it's rude to rummage through people's rooms, right? Get away from there!@§7[1/1] §2Rohem: §a
 §7[1/1] §2Krattson: §aI admit I am intimidated by their presence, but I cannot take my eyes off of them. Did you see that? That one just climbed a tree using just his feet.@§7[1/1] §2Krattson: §a
