@@ -312,6 +312,10 @@
 * §7[2/3] §2Llevigar Citizen: §aCerid is a famous electromagic inventor who has created powerful weapons and armor. From...I think it was, §aer...Corko§a? Carper? Someplace like that.@§7[2/3] §2Llevigar Citizen: §aCerid - известный изобретатель электромагии, создавший мощное оружие и броню. Он из...кажется, эм...Corko§a? Carper? Вообщем откуда-то оттуда.
 
 =================WynnNPC.txt================
+§7[1/4] §2Iboju Shaman: §aI heard news of what you have done for Gracen, and I must express my dearest thanks.@§7[1/4] §2Iboju Shaman: §aЯ слышал новости о том, что ты сделал для Gracen'а, и я должен выразить тебе свою искреннюю благодарность.
+§7[2/4] §2Iboju Shaman: §aYou are truly one of us now, in spirit if not by blood, so I will allow you access to the charmcrafter's forge.@§7[2/4] §2Iboju Shaman: §aТеперь ты действительно один из нас, если не по крови, то по духу, поэтому я позволю тебе войти в кузницу чародея.
+§7[3/4] §2Iboju Shaman: §aRare jewels in the Dernel Jungle have magical properties, which we can make powerful accessories from if you bring enough.@§7[3/4] §2Iboju Shaman: §aРедкие драгоценные камни в Dernel джунглях обладают магическими свойствами, из которых мы можем сделать мощные аксессуары, если ты принесешь их в достаточном количестве.
+§7[4/4] §2Iboju Shaman: §aWhile this is but a small reward, you've our eternal gratitude for aiding us such as you have.@§7[4/4] §2Iboju Shaman: §aХотя это всего лишь небольшая награда, мы бесконечно благодарны тебе за помощь, оказанную нам.
 §7[1/6] §2Alvin: §aDon't venture too deep into the forest, soldier@§7[1/6] §2Alvin: §aНе заходи слишком далеко в лес, солдат
 §7[2/6] §2Alvin: §aBraver people than you have fallen there.@§7[2/6] §2Alvin: §aБолее храбрые люди, чем ты, пали там.
 §7[3/6] §2Alvin: §aMany battles over the last 1000 years have been fought in the forest.@§7[3/6] §2Alvin: §aЗа последние 1000 лет в лесу произошло много сражений.
@@ -370,6 +374,7 @@
 §7[6/6] §2The Blacksmith: §aThink you can get those from monsters somewhere 'round Nesaak.@§7[6/6] §2The Blacksmith: §aДумаю можешь добыть их с монстров вокруг города Nesaak.
 
 §7[5/8] §2Old Man Martyn: §aAsher found one of these tools: the shovel.@§7[5/8] §2Old Man Martyn: §aAsher нашел один из этих инструментов - лопату.
+§7[1/1] §2Old Man Martyn: §aYou seemed to have phased out of reality there for a while. I decided to move you back here to be safe.@§7[1/1] §2Old Man Martyn: §aКазалось, ты на какое-то время исчез из реальности. Я решил перенести тебя сюда, чтобы ты был в безопасности.
 
 §7[4/7] §2Hermit: §aIf you want to go through here, you'll need to pay. Oh, I don't want your money, why would I need money, I have everything!@§7[4/7] §2Hermit: §aЕсли хочешь пройти через мост, то ты должен заплатить. Нет, мне не нужны твои деньги, у меня всё есть!
 
@@ -390,6 +395,10 @@
 §7[3/9] §2Darnes: §aThe filthy but thick-skinned Orcs have been long standing enemies of the Villagers.@§7[3/9] §2Darnes: §aГрязные, но толстокожие орки, являются давними врагами жителей.
 
 §7[2/6] §2Phinas: §aYou found all three? Let's take a look. Hmm....@§7[2/6] §2Phinas: §aТы нашел все три? Давай посмотрим. Хмм...
+
+§7[1/1] §2Black Market Guard: §aNo password will be no entry!@§7[1/1] §2Guard: §aБез пароля нет прохода!
+
+§7[1/1] §2Legolus: §aYou're that human that got granted access to the town, aren't you? Strange things are happening around here. I fear you will not understand until you are level 78.@§7[1/1] §2Legolus: §aА, ты тот человек, которому предоставили доступ в город, не так ли? Здесь происходят странные вещи. Я боюсь, что ты не поймешь их, пока не достигнешь 78 уровня.
 
 =================BaseQuestsEFGH.txt================
 §7[6/9] §2Rismor: §aYou heard me shout it earlier, if those idiots summon Naragath he could ravage the entire province! You see the giant hand, we'd be powerless to stop him!@§7[6/9] §2Rismor: §aКак уже говорил раньше, эти идиоты призовут Naragath'a, чтобы он опустошил целую провинцию! Как видишь по гигантской руке, мы будем не в силах остановить его!
@@ -442,6 +451,13 @@
 §7[2/9] §2Old Siwel: §a§kMumbles a strange, dead language§a...@§7[2/9] §2Old Siwel: §a§kБормочет странный, мертвый язык§а...
 §7[3/9] §2Old Siwel: §a§kMumbles a strange, dead language§a....@§7[3/9] §2Old Siwel: §a§kБормочет странный, мертвый язык§а...
 §7[8/9] §2Old Siwel: §aOh and one more thing, If you die in the memory, you die in reality too....@§7[8/9] §2Old Siwel: §aО, и еще одна вещь - если ты умрешь в памяти, то ты умрешь и в реальности тоже...
+
+§7[1/1] §2Controller: §aOh, seems like that was wrong! Too bad!@§7[1/1] §2Controller: §aОх, кажется, это было неправильно! Очень жаль!
+§7[1/1] §2Broadcast: §aAttention passengers. There has been a missing person reported aboard. If there are any volunteers to help search for them please report to the control deck and speak to the captain.@§7[1/1] §2Broadcast: §aВнимание, пассажиры. На борту  пропал человек. Если есть добровольцы, которые помогут их найти, пожалуйста, явитесь на  палубу управления и поговорите с капитаном.
+§7[5/7] §2Captain Ackbar: §aSince we don't have any leads, it might be best to ask some of the passengers for information.@§7[5/7] §2Captain Ackbar: §aПоскольку у нас нет никаких улик, для начала неплохо бы опросить пассажиров, вдруг они что-то видели.
+§7[1/1] §2Passenger Nancy: §aHave you found my child?@§7[1/1] §2Passenger Nancy: §aТы уже нашел моего ребенка?
+§7[1/2] §2Engineer Eric: §aI dun gave you the instructions. Just check it if you forget the code.@§7[1/2] §2Engineer Eric: §aЯ дал тебе инструкцию. Просто проверь ее, если ты забыл код.
+§7[2/2] §2Engineer Eric: §aIt was something like red... orange... yellow.. Ah, it all on the paper anyway.@§7[2/2] §2Engineer Eric: §aТам было что-то вроде красного... оранжевого... желтого.. Ах, все это на бумаге в любом случае.
 
 =================BaseQuestsIJKLM.txt===============
 §7[3/6] §2Aryn: §aOh... My father sent you? Well, I am very impressed, Wynn warrior. You fight with the ferocity of our own!@§7[3/6] §2Aryn: §aОх...Мой отец прислал тебя за мной? Что же... Я впечатлен, воин провинции Wynn. Ты сражался как хищник!
@@ -562,6 +578,7 @@
 §7[3/5] §2Excavator Lykron: §aDon't pretend like you don't know what it is, you know as well as I do combining the four crystal shards is told to bring unlimited power!@§7[3/5] §2Excavator Lykron: §aНе прикидывайся, как-будто не знаешь что это. Ты знаешь, так же как и я, что соединение четырех осколков несет безграничную мощь!
 
 §7[6/8] §2Excavator Placardus: §aSo we instructed all of our employees in all of our sites to thwart you at any cost. Historical loss is a very important issue, especially with something so powerful.@§7[6/8] §2Excavator Placardus: §aПоэтому мы проинструктировали всех наших сотрудников на всех наших местах, чтобы помешать тебе любой ценой. Исторические потери - это очень важный вопрос, особенно с чем-то настолько мощным.
+§7[1/1] §2Excavator Placardus: §aI need you to bring me something. It should be written in your quest book.@§7[1/1] §2Excavator Placardus: §aМне нужно, чтобы ты принес мне кое-что. Все это должно быть написано в твоей квестовой книге.
 
 §7[1/1] §2Shadow Amadel: §aT§a§kh§ae ele§a§kment§aal force will not a§a§kllo§aw me to l§a§ko§ase.@§7[1/1] §2Shadow Amadel: §aС§kи§aла эле§a§kмен§aтов не позво§a§kли§aт мне про§a§kигр§aать.
 §7[16/18] §2Ragni's King: §aAs a token of our city's eternal gratitude, I wish for you to take this. It has no value to anyone except you.@§7[16/18] §2Ragni's King: §aВ знак нашей вечной благодарности от города, я дарю тебе это. Оно не имеет никакой ценности для нас, но тебе может пригодится.
@@ -572,20 +589,11 @@
 ===================================================
 
 
-
-
-
-§7[1/1] §2Excavator Placardus: §aI need you to bring me something. It should be written in your quest book.@§7[1/1] §2Excavator Placardus: §aМне нужно, чтобы ты принес мне кое-что. Все это должно быть написано в твоей квестовой книге.
 §7[1/1] §4Only the head of a spirit can enter this domain.@§4Только голова духа может войти в эту область.
-§7[1/1] §2Legolus: §aYou're that human that got granted access to the town, aren't you? Strange things are happening around here. I fear you will not understand until you are level 78.@§7[1/1] §2Legolus: §aА, ты тот человек, которому предоставили доступ в город, не так ли? Здесь происходят странные вещи. Я боюсь, что ты не поймешь их, пока не достигнешь 78 уровня.
+
 ***§7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bLeft-Right-Left§a!@§7[1/1] §2Guard: §aВстань перед стеной и используй свое заклинание, кликнув §bЛевая-Правая-Левая§a!
-§7[1/1] §2Black Market Guard: §aNo password will be no entry!@§7[1/1] §2Guard: §aБез пароля нет прохода!
-§7[1/1] §2Controller: §aOh, seems like that was wrong! Too bad!@§7[1/1] §2Controller: §aОх, кажется, это было неправильно! Очень жаль!
-§7[1/1] §2Broadcast: §aAttention passengers. There has been a missing person reported aboard. If there are any volunteers to help search for them please report to the control deck and speak to the captain.@§7[1/1] §2Broadcast: §aВнимание, пассажиры. На борту  пропал человек. Если есть добровольцы, которые помогут их найти, пожалуйста, явитесь на  палубу управления и поговорите с капитаном.
-§7[5/7] §2Captain Ackbar: §aSince we don't have any leads, it might be best to ask some of the passengers for information.@§7[5/7] §2Captain Ackbar: §aПоскольку у нас нет никаких улик, для начала неплохо бы опросить пассажиров, вдруг они что-то видели.
-§7[1/1] §2Passenger Nancy: §aHave you found my child?@§7[1/1] §2Passenger Nancy: §aТы уже нашел моего ребенка?
-§7[1/2] §2Engineer Eric: §aI dun gave you the instructions. Just check it if you forget the code.@§7[1/2] §2Engineer Eric: §aЯ дал тебе инструкцию. Просто проверь ее, если ты забыл код.
-§7[2/2] §2Engineer Eric: §aIt was something like red... orange... yellow.. Ah, it all on the paper anyway.@§7[2/2] §2Engineer Eric: §aТам было что-то вроде красного... оранжевого... желтого.. Ах, все это на бумаге в любом случае.
+
+
 §7[1/1] §2Jitak: §aTo create the Gert mask, I will need §3[6 Gert Skin]§a. Kill a few Gerts in the camp to the west.@§7[1/1] §2Jitak: §aЧтобы создать маску Герта, мне понадобится §3[6 Кожи Герта]§a. Убей несколько Гертов в лагере на западе.
 §7[1/1] §2Gerten Hunter: §aGert no allow to enter tunnel! Gert talk to me first!!@§7[1/1] §2Gerten Hunter: §aГерт не позволять входить тоннель! Сначала Герт говорить со мной!!
 §7[1/1] §2Gerten Captain: §aGert no enter tunnel without password! Solitary gert have password! Ask solitary gert password!@§7[1/1] §2Gerten Captain: §aГерт не входить тоннель без пароль! Одинокий Герт знать пароль! Спросить одинокий Герт пароль!
@@ -628,13 +636,10 @@
 §7[1/1] §2Relend: §aTake a look at your quest book if you forgot your project, this island has supplies we ought to collect!@§7[1/1] §2Relend: §aЗагляни в свою книгу квестов, если ты забыл что нужно, на этом острове есть запасы, пойдем искать их дружно!
 §7[1/1] §2Ingredient Merchant: §aHey! Get out, this is a shop strictly for the higher ups of the state, no soldiers like you.@§7[1/1] §2Ingredient Merchant: §aЭй! Убирайся, это магазин только для высших чинов государства, никаких солдат вроде тебя.
 §7[1/1] §2Talking Mushroom: §aWHAT IN THE NAME OF ALL THAT IS HOLY IS GOING THROUGH YOUR HEAD?! WE'RE MILES FROM THE SKY ISLANDS!! WHERE IS THIS PLACE?!@§7[1/1] §2Talking Mushroom: §aЧТО ВО ИМЯ ВСЕГО СВЯТОГО ПРОИСХОДИТ В ТВОЕЙ ГОЛОВЕ? МЫ В КИЛЛОМЕТРАХ ОТ ЛЕТАЮЩИХ ОСТРОВОВ!! ЧТО ЭТО ЗА МЕСТО?!
-§7[1/4] §2Iboju Shaman: §aI heard news of what you have done for Gracen, and I must express my dearest thanks.@§7[1/4] §2Iboju Shaman: §aЯ слышал новости о том, что ты сделал для Gracen'а, и я должен выразить тебе свою искреннюю благодарность.
-§7[2/4] §2Iboju Shaman: §aYou are truly one of us now, in spirit if not by blood, so I will allow you access to the charmcrafter's forge.@§7[2/4] §2Iboju Shaman: §aТеперь ты действительно один из нас, если не по крови, то по духу, поэтому я позволю тебе войти в кузницу чародея.
-§7[3/4] §2Iboju Shaman: §aRare jewels in the Dernel Jungle have magical properties, which we can make powerful accessories from if you bring enough.@§7[3/4] §2Iboju Shaman: §aРедкие драгоценные камни в Dernel джунглях обладают магическими свойствами, из которых мы можем сделать мощные аксессуары, если ты принесешь их в достаточном количестве.
-§7[4/4] §2Iboju Shaman: §aWhile this is but a small reward, you've our eternal gratitude for aiding us such as you have.@§7[4/4] §2Iboju Shaman: §aХотя это всего лишь небольшая награда, мы бесконечно благодарны тебе за помощь, оказанную нам.
+
 §7[1/1] §2Santa: §aHey, you. Come here.@§7[1/1] §2Santa: §aЭй, ты. Иди сюда.
 §7[1/1] §2???: §aY§a§kk§ao dare §a§kkk§aer these s§a§kk:;DJkkkAJEkkkk§aTh§4§kkksad:ek§a§kghakk§4§kkkkreid:@§7[1/1] §2???: §aТ§a§kk§aы посмелился §a§kвой§aти в это п§a§kk:;DJkkkAJEkkkk§aме§4§kkksad:ek§a§kghakk§4§kkkkreid:
 §7[1/1] §2???: §4... How fool§4§kk§ah of you... to come back he§4re.§4§k:5tykkk§after what §4happene§4§ki:@§7[1/1] §2???: §4Как глупо§4§kk§aс твоей стороны... возвращаться сю§4да.§4§k:5tykkk§после того что §4случи§4§ki:
 §7[1/1] §2Gerten Hunter: §aGert see human! I kill human!@§7[1/1] §2Gerten Hunter: §aГерт видеть человек! Моя убить человек!
-§7[1/1] §2Old Man Martyn: §aYou seemed to have phased out of reality there for a while. I decided to move you back here to be safe.@§7[1/1] §2Old Man Martyn: §aКазалось, ты на какое-то время исчез из реальности. Я решил перенести тебя сюда, чтобы ты был в безопасности.
+
 §7[1/1] §2Lozeg: §aIf you want a ticket you'll have to pay me §3[1 Emerald Block].@§7[1/1] §2Lozeg: §aЕсли ты хочешь билет, тебе придется заплатить мне §3[1 Блок Эмеральдов].
