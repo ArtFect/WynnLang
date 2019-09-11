@@ -250,6 +250,7 @@
 §7[4/4] §2Seaskipper Captain: §aThey end up breakin’ it in the process, and it costs a small fortune to replace that ol’ thing.@§7[4/4] §2Seaskipper Captain: §aОни, в конечном итоге, ломают его в процессе, и это стоит небольшого состояния, чтобы заменить эту старую вещь.
 * §7[1/1]§2 Seaskipper Captain:§a Where are ya headed? Galleon's Graveyard, huh? A'ight! I'll get ya there in no time.@§7[1/1]§2 Seaskipper Captain:§aКуда ты направляешься? Galleon's Graveyard, да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
 * §7[4/4] §2Seaskipper Captain: §aWell, I ain't never seen any rare potatoes, but maybe you'll find that potato storage eventually!@§7[4/4] §2Seaskipper Captain: §aЧто ж, я никогда не видел этой редкой картошки, но, может быть, ты найдешь это хранилище картофеля в конце концов!
+§7[3/4] §2Seaskipper Captain: §aBut if you head southeast there's another island. It's so cold over there some say Santa himself set up his workshop there.@§7[3/4] §2Seaskipper Captain: §aЕсли ты направишься на юго-восток, там есть еще один остров. Там так холодно, что некоторые говорят, что сам Санта устроил там свою мастерскую.
 
 =================Discoveries.txt=============
 §7[1/2] §2???: §aAh§a§kh§ah@§7[1/2] §2???: §aАх§a§kх§aх
@@ -272,6 +273,9 @@
 * §7[1/2]§2 Ghostly Voice:§a I froze this land to allow it to heal.. People did not understand.. They came for me here, seeking revenge.@§7[1/2]§2 Ghostly Voice:§aЯ заморозил эту землю, чтобы позволить ей исцелиться... Люди не понимали... Они пришли за мной сюда, чтобы отомстить.
 
 ==================GavelNPC.txt================
+§7[1/3] §2Rasalux: §aHave you seen the monsters that roam the realm?@§7[1/3] §2Rasalux: §aТы видел тех монстров, что наводнили царство?
+§7[1/2] §2Acolyte Salizan: §aBack away! Lexdale belongs to the Order of the Abyss! You are not one of us, so you may not enter our land!@§7[1/2] §2Acolyte Salizan: §aНазад! Lexdale принадлежит Ордену Бездны! Ты не один из нас, так что ты не можешь войти на нашу землю!
+§7[2/2] §2Acolyte Salizan: §aIf you try, you will be punished. Harshly. Now then, leave! I do not want to see you here again!@§7[2/2] §2Acolyte Salizan: §aЕсли ты попытаешься, то будешь наказан. Решительно. А теперь уходи! Я не хочу видеть тебя здесь снова!
 §7[1/3] §2Thanos Dwarf: §aBet you've never seen a bazaar this size before, human! Even under repair, this is the biggest Dwarven market in the province!@§7[1/3] §2Thanos Dwarf: §aДержу пари, ты никогда не видел базар такого размера, человек! Даже во время ремонта, это самый большой рынок гномов в провинции!
 §7[2/3] §2Thanos Dwarf: §aWe do accept emeralds here for the most part, but some of the merchants you'd be interested in like to take raw gold, too.@§7[2/3] §2Thanos Dwarf: §aМы принимаем эмеральды здесь по большей части, но некоторые из торговцев, которые тебя интересуют, тоже хотели бы взять сырое золото.
 §7[3/3] §2Thanos Dwarf: §aAnd then there's the barterers. Who knows what in blazes those nutcases want to trade! I'd steer clear of them if I were you.@§7[3/3] §2Thanos Dwarf: §aА еще есть бартеры. Кто знает чем, черт возьми, эти психи хотят торговать! На твоем месте я бы держался от них подальше.
@@ -350,6 +354,13 @@
 §7[2/2] §2Selchar Citizen: §aIf you want to go you will need a climbing helmet.@§7[2/2] §2Selchar Citizen: §aЕсли Ты хочешь пойти туда, то тебе понадобится альпинистский шлем.
 
 =================BaseQuestsABCD.txt===============
+§7[1/2] §2Emie: §aThe Sunflowers of Aldorei have incredible magical and symbolic power. I have here the only patch in the entire valley.@§7[1/2] §2Emie: §aПодсолнухи Aldorei обладают невероятной магической и символической силой. У меня здесь единственный участок во всей долине.
+§7[2/2] §2Emie: §aYou may help yourself to the seeds and spread them amongst the land. My sunflowers grow right across from where you came in. If you try to sell them, however, they will turn to ash.@§7[2/2] §2Emie: §aТы можешь помочь семенам и распространять их среди земли. Мои подсолнухи растут прямо напротив того места, откуда ты пришел. Если вы попытаетесь продать их, однако, они превратятся в пепел
+§7[1/2] §2Gajom: §aHello human. Are you too, searching for the strange "Flowing stone"? The ancient scriptures translate directly to that.@§7[1/2] §2Gajom: §aПривет, человек. Ты тоже ищешь странный "Текучий камень"? Древние писания прямо говорят об этом.
+§7[2/2] §2Gajom: §aIt definitely means water, but I'm not sure about the rock. We Elves share our secrets and mysteries. To keep them close to our chests would be selfish.@§7[2/2] §2Gajom: §aЭто определенно означает воду, но я не уверен насчет камня. Мы, эльфы, делимся своими секретами и тайнами. Держать их только у себя было бы эгоистично.
+
+§7[1/1]§2 Slykaar: §aYou have made the sacrifices of many be in total vain!@§7[1/1]§2 Slykaar: §aТы сделал жертвы многих совершенно напрасными!
+
 §7[1/5] §2Duvale: §aYou There! Yes, you with the small nose, I need your help. I hear you human folk are always on the look out for some dangerous work.@§7[1/5] §2Duvale: §aЭй, ты! Да, ты, с маленьким носом! Мне нужна твоя помощь. Я слышал, ты всегда ищешь сложную работу.
 
 §7[1/6] §2Captain Kymer: §aOh ho ho! A new traveller, fresh from the province of Wynn I see!@§7[1/6] §2Captain Kymer: §aОх хо хо! Новый путешественник из провинции Wynn, как я вижу!
@@ -381,6 +392,21 @@
 §7[2/6] §2Phinas: §aYou found all three? Let's take a look. Hmm....@§7[2/6] §2Phinas: §aТы нашел все три? Давай посмотрим. Хмм...
 
 =================BaseQuestsEFGH.txt================
+§7[6/9] §2Rismor: §aYou heard me shout it earlier, if those idiots summon Naragath he could ravage the entire province! You see the giant hand, we'd be powerless to stop him!@§7[6/9] §2Rismor: §aКак уже говорил раньше, эти идиоты призовут Naragath'a, чтобы он опустошил целую провинцию! Как видишь по гигантской руке, мы будем не в силах остановить его!
+§7[1/8] §2Rismor: §aI saw your fight. Did the acolyte there have the scroll?@§7[1/8] §2Rismor: §aЯ видел твою битву. Удалось достать свиток у прислужника?
+§7[1/2] §2Harker: §aThat demon is too powerful to fight, even newly released. But we can stop him before he gets too strong to hold back!@§7[1/2] §2Harker: §aЭтот демон слишком силен, чтобы сражаться против него, даже недавно освобожденный. Но мы можем остановить его прежде, чем он станет слишком сильным!
+§7[2/2] §2Harker: §aKill the Hierophants and bring me §3[5 Icons of Naragath] §aand I should be able to weaken him enough for you to kill him!@§7[2/2] §2Harker: §aУбей Hierophant'ов и принеси мне §3[5 Икон Naragath'а]§a, и я смогу ослабить его достаточно, чтобы ты убил его!
+§7[3/5] §2Harker: §aThe Eye of Blood is tying him to this plane of existence. If you can separate it from him, I think I could manage to banish him!@§7[3/5] §2Harker: §aГлаз Крови как-то связан с ним. Если ты сможешь отделить его от него, то я смогу попробовать изгнать его!
+§7[1/8] §2Rismor: §aI'm at a loss for words. I didn't expect you to survive.@§7[1/8] §2Rismor: §aУ меня нет слов. Я и не ожидал, что ты выживешь.
+§7[4/8] §2Rismor: §aThe cultists suddenly panicked when the hand retreated of its own accord as it did. Most of them seem to have left Lexdale.@§7[4/8] §2Rismor: §aКультисты начали паниковать и разбегаться, когда рука застыла на месте. Похоже большинство из них покинули Lexdale.
+§7[8/8] §2Rismor: §aFarewell, adventurer. I do hope we may meet again, under better circumstances. I can only pray that this is the last we will clash with those from the realms of darkness.@§7[8/8] §2Rismor: §aПрощай, искатель приключений. Я надеюсь, что мы встретимся снова, при лучших обстоятельствах. Могу только молиться, что бы это было наше последнее столкновение со злом из царства тьмы.
+§7[1/1] §2???: §aA Human?! Help! They're going to try to feed me to a hellhound!@§7[1/1] §2???: §aЧеловек! Помоги! Они хотят скормить меня церберу!
+§7[1/1] §2Talos: §aThanks for your help, human. Please tell Arwes that I am alright. I'll make sure these scumbags stay here until I can fetch the police.@§7[1/1] §2Talos: §aСпасибо тебе за помощь, человек. Пожалуйста, скажи Arwes'у, что я в порядке. Я прослежу, чтобы эти подонки оставались здесь, пока я не вызову полицию.
+§7[1/7] §2Ceyquin: §aWha- A...A human? In Lexdale?! How did you get in, do you have a death wish?!@§7[1/7] §2Ceyquin: §aЧто- Ч...Человек? в Lexdale?! Как ты попал сюда, у тебя есть предсмертное желание?!
+§7[4/7] §2Ceyquin: §aThey're trying to summon that Naragath character, whatever it §ais...some§a kind of demon, I suppose. They say if we obey them, he'll spare us.@§7[4/7] §2Ceyquin: §aОни пытаются призвать некого Naragath'a... Он некто вроде демона, я полагаю. Они сказали, если мы подчинимся ему, то он пощадит нас.
+§7[1/7] §2Ceyquin: §aN-no, nothing to hide! I wouldn't dream of harboring a dissident in my humble home!@§7[1/7] §2Ceyquin: §aН-Нет, я ничего не скрываю! Я даже и не думал впускать инакомыслящего в свой скромный дом!
+§7[4/7] §2Ceyquin: §aIf you really think you can help, you certainly won't be able to from here. The cultists have this town in a stranglehold.@§7[4/7] §2Ceyquin: §aЕсли ты действительно хочешь помочь, то отсюда ты этого сделать точно не сможешь. Культисты держат этот город мертвой хваткой.
+
 §7[5/10] §2Detective Jackson: §aOrcs never used axe's before they got their hands on one of ours. I fear they are replicating it, but poorly.@§7[5/10] §2Detective Jackson: §aОрки никогда не использовали топоры, до того момента, пока не завладели нашим. Боюсь, что они делают копии, но получается у них плохо.
 §7[4/6] §2Detective Jackson: §aAnyway. This is made of a particular rock type, the closest source is under a small lake nearby.@§7[4/6] §2Detective Jackson: §aТак или иначе, они сделаны из особенной породы. Ближайший источник находится под небольшим озером неподалеку.
 §7[5/6] §2Detective Jackson: §aIt's north west of here. they must have found a cave under there.@§7[5/6] §2Detective Jackson: §aОно находится на северо-западе отсюда. Под ним есть пещера.
@@ -459,6 +485,7 @@
 §7[3/5] §2Leacen: §aYeah, I've been trying for a while too. I thought I was on to somethin' a couple of times, too! Like in here. Not one of these books opens a hidden passage, can you believe it?@§7[3/5] §2Leacen: §aДа, я тоже пыталась какое-то время. Мне тоже пару раз казалось, что я на что-то наткнулась! Как здесь. Но ни одна из этих книг не открывает скрытый проход, можешь в это поверить?
 §7[4/5] §2Leacen: §aPlus, I lost my notebook, so I can't even write down my notes. I just put it on the pillow for two seconds, and then it disappeared!@§7[4/5] §2Leacen: §aПлюс, я потеряла свой блокнот, так что я даже не могу записать свои заметки. Я просто положила его на подушку на две секунды, а потом он исчез!
 §7[5/5] §2Leacen: §aTell you what, Humie. You help us out, and I'll give you some information you might be interested in hearing. Sound good to you?@§7[5/5] §2Leacen: §aВт что я тебе скажу, человечишка. Ты поможешь нам, и я дам тебе некоторую информацию, которую ты, возможно, захочешь услышать. Звучит хорошо для тебя?
+§7[1/1] §2Grandon: §aPlease be quiet, I'm trying to read §athis...ooh§a, marvelous!@§7[1/1] §2Grandon: §aПожалуйста, успокойся, я пытаюсь это прочесть...оох, чудесно!
 
 =================BaseQuestsNOPQR.txt===============
 §7[4/4] §2Dr Essren: §aAa§a§kaa§aa§a§kar§a§krrg§agg!@§7[4/4] §2Dr. Essren: §aАа§a§kaа§aа§a§kар§a§kрг§aгг!
@@ -543,30 +570,11 @@
 
 
 ===================================================
-§7[6/9] §2Rismor: §aYou heard me shout it earlier, if those idiots summon Naragath he could ravage the entire province! You see the giant hand, we'd be powerless to stop him!@§7[6/9] §2Rismor: §aКак уже говорил раньше, эти идиоты призовут Naragath'a, чтобы он опустошил целую провинцию! Как видишь по гигантской руке, мы будем не в силах остановить его!
-§7[1/8] §2Rismor: §aI saw your fight. Did the acolyte there have the scroll?@§7[1/8] §2Rismor: §aЯ видел твою битву. Удалось достать свиток у прислужника?
-§7[1/2] §2Harker: §aThat demon is too powerful to fight, even newly released. But we can stop him before he gets too strong to hold back!@§7[1/2] §2Harker: §aЭтот демон слишком силен, чтобы сражаться против него, даже недавно освобожденный. Но мы можем остановить его прежде, чем он станет слишком сильным!
-§7[2/2] §2Harker: §aKill the Hierophants and bring me §3[5 Icons of Naragath] §aand I should be able to weaken him enough for you to kill him!@§7[2/2] §2Harker: §aУбей Hierophant'ов и принеси мне §3[5 Икон Naragath'а]§a, и я смогу ослабить его достаточно, чтобы ты убил его!
-§7[3/5] §2Harker: §aThe Eye of Blood is tying him to this plane of existence. If you can separate it from him, I think I could manage to banish him!@§7[3/5] §2Harker: §aГлаз Крови как-то связан с ним. Если ты сможешь отделить его от него, то я смогу попробовать изгнать его!
-§7[1/8] §2Rismor: §aI'm at a loss for words. I didn't expect you to survive.@§7[1/8] §2Rismor: §aУ меня нет слов. Я и не ожидал, что ты выживешь.
-§7[4/8] §2Rismor: §aThe cultists suddenly panicked when the hand retreated of its own accord as it did. Most of them seem to have left Lexdale.@§7[4/8] §2Rismor: §aКультисты начали паниковать и разбегаться, когда рука застыла на месте. Похоже большинство из них покинули Lexdale.
-§7[8/8] §2Rismor: §aFarewell, adventurer. I do hope we may meet again, under better circumstances. I can only pray that this is the last we will clash with those from the realms of darkness.@§7[8/8] §2Rismor: §aПрощай, искатель приключений. Я надеюсь, что мы встретимся снова, при лучших обстоятельствах. Могу только молиться, что бы это было наше последнее столкновение со злом из царства тьмы.
-§7[1/1] §2???: §aA Human?! Help! They're going to try to feed me to a hellhound!@§7[1/1] §2???: §aЧеловек! Помоги! Они хотят скормить меня церберу!
-§7[1/1] §2Talos: §aThanks for your help, human. Please tell Arwes that I am alright. I'll make sure these scumbags stay here until I can fetch the police.@§7[1/1] §2Talos: §aСпасибо тебе за помощь, человек. Пожалуйста, скажи Arwes'у, что я в порядке. Я прослежу, чтобы эти подонки оставались здесь, пока я не вызову полицию.
-§7[1/2] §2Acolyte Salizan: §aBack away! Lexdale belongs to the Order of the Abyss! You are not one of us, so you may not enter our land!@§7[1/2] §2Acolyte Salizan: §aНазад! Lexdale принадлежит Ордену Бездны! Ты не один из нас, так что ты не можешь войти на нашу землю!
-§7[2/2] §2Acolyte Salizan: §aIf you try, you will be punished. Harshly. Now then, leave! I do not want to see you here again!@§7[2/2] §2Acolyte Salizan: §aЕсли ты попытаешься, то будешь наказан. Решительно. А теперь уходи! Я не хочу видеть тебя здесь снова!
-§7[1/7] §2Ceyquin: §aWha- A...A human? In Lexdale?! How did you get in, do you have a death wish?!@§7[1/7] §2Ceyquin: §aЧто- Ч...Человек? в Lexdale?! Как ты попал сюда, у тебя есть предсмертное желание?!
-§7[4/7] §2Ceyquin: §aThey're trying to summon that Naragath character, whatever it §ais...some§a kind of demon, I suppose. They say if we obey them, he'll spare us.@§7[4/7] §2Ceyquin: §aОни пытаются призвать некого Naragath'a... Он некто вроде демона, я полагаю. Они сказали, если мы подчинимся ему, то он пощадит нас.
-§7[1/7] §2Ceyquin: §aN-no, nothing to hide! I wouldn't dream of harboring a dissident in my humble home!@§7[1/7] §2Ceyquin: §aН-Нет, я ничего не скрываю! Я даже и не думал впускать инакомыслящего в свой скромный дом!
-§7[4/7] §2Ceyquin: §aIf you really think you can help, you certainly won't be able to from here. The cultists have this town in a stranglehold.@§7[4/7] §2Ceyquin: §aЕсли ты действительно хочешь помочь, то отсюда ты этого сделать точно не сможешь. Культисты держат этот город мертвой хваткой.
-§7[1/3] §2Rasalux: §aHave you seen the monsters that roam the realm?@§7[1/3] §2Rasalux: §aТы видел тех монстров, что наводнили царство?
-§7[1/2] §2Emie: §aThe Sunflowers of Aldorei have incredible magical and symbolic power. I have here the only patch in the entire valley.@§7[1/2] §2Emie: §aПодсолнухи Aldorei обладают невероятной магической и символической силой. У меня здесь единственный участок во всей долине.
-§7[2/2] §2Emie: §aYou may help yourself to the seeds and spread them amongst the land. My sunflowers grow right across from where you came in. If you try to sell them, however, they will turn to ash.@§7[2/2] §2Emie: §aТы можешь помочь семенам и распространять их среди земли. Мои подсолнухи растут прямо напротив того места, откуда ты пришел. Если вы попытаетесь продать их, однако, они превратятся в пепел
-§7[1/2] §2Gajom: §aHello human. Are you too, searching for the strange "Flowing stone"? The ancient scriptures translate directly to that.@§7[1/2] §2Gajom: §aПривет, человек. Ты тоже ищешь странный "Текучий камень"? Древние писания прямо говорят об этом.
-§7[2/2] §2Gajom: §aIt definitely means water, but I'm not sure about the rock. We Elves share our secrets and mysteries. To keep them close to our chests would be selfish.@§7[2/2] §2Gajom: §aЭто определенно означает воду, но я не уверен насчет камня. Мы, эльфы, делимся своими секретами и тайнами. Держать их только у себя было бы эгоистично.
-§7[1/1] §2Grandon: §aPlease be quiet, I'm trying to read §athis...ooh§a, marvelous!@§7[1/1] §2Grandon: §aПожалуйста, успокойся, я пытаюсь это прочесть...оо, чудесно!
-§7[3/4] §2Seaskipper Captain: §aBut if you head southeast there's another island. It's so cold over there some say Santa himself set up his workshop there.@§7[3/4] §2Seaskipper Captain: §aЕсли ты направишься на юго-восток, там есть еще один остров. Там так холодно, что некоторые говорят, что сам Санта устроил там свою мастерскую.
-§7[1/1]§2 Slykaar: §aYou have made the sacrifices of many be in total vain!@§7[1/1]§2 Slykaar: §aТы сделал жертвы многих совершенно напрасными!
+
+
+
+
+
 §7[1/1] §2Excavator Placardus: §aI need you to bring me something. It should be written in your quest book.@§7[1/1] §2Excavator Placardus: §aМне нужно, чтобы ты принес мне кое-что. Все это должно быть написано в твоей квестовой книге.
 §7[1/1] §4Only the head of a spirit can enter this domain.@§4Только голова духа может войти в эту область.
 §7[1/1] §2Legolus: §aYou're that human that got granted access to the town, aren't you? Strange things are happening around here. I fear you will not understand until you are level 78.@§7[1/1] §2Legolus: §aА, ты тот человек, которому предоставили доступ в город, не так ли? Здесь происходят странные вещи. Я боюсь, что ты не поймешь их, пока не достигнешь 78 уровня.
