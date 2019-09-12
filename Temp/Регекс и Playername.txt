@@ -77,6 +77,9 @@ Guard: <playername>, you're an Archer, right? Walk up to the boulder for me.@<pl
 Aledar: Fine. I know what to do. <playername>, Tasim, follow me.@Хорошо, я знаю, что нужно делать. <playername>, Tasim, следуйте за мной.
 §7[1/1] §2Tasim: §aHey, <playername>! Don't leave yet!@§7[1/1] §2Tasim: §aЭй, <playername>! Не уходи пока!
 §7[1/1] §2Tasim: §aBe careful, <playername>! Don't want you falling off the edge.@§7[1/1] §2Tasim: §aБудь осторожнее, <playername>! Я не хочу, чтобы ты упал с обрыва.
+
+Nick: Hey, <playername>! Any luck?@Эй, <playername>! Ну что, как успехи?
+
 §7[1/1] §2Rhudya: §aWatch your step next time, <playername>!@§7[1/1] §2Rhudya: §aОсторожнее в следующий раз, <playername>!
 
 Axelus: Hopefully I will see you soon, <playername>.@Надеюсь увижу тебя скоро, <playername>.
