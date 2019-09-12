@@ -46,61 +46,61 @@
 
 
 ====================Playername====================
-Tasim: Don't leave yet, <playername>! We're not done talking.@Не уходи, <playername>! Мы еще не поговорили.
-Tasim: Hey, <playername>! Why don't we use that tree you cut down as a bridge?@Эй, <playername>! Почему бы нам не использовать срубленное тобой дерево в качестве моста?
-Aledar: The bridge is broken. <playername>, let's find another way across!@Этот мост сломан. <playername>, давай найдем другой путь на ту сторону!
-Aledar: Hey, <playername>! Don't wander off just yet!@Эй, <playername>! Не уходи пока!
-Tasim: Hey, <playername>! Don't leave yet!@Эй, <playername>! Не уходи пока!
-Aledar: <playername>, you're going the wrong way!@<playername>, это неправильный путь!
-Tasim: Hey, <playername>! Come over here, we need to talk to you!@ Эй, <playername>! Иди сюда, нам нужно поговорить с тобой!
-Tasim: Hey, <playername>! Don't leave yet, let's talk to this old man. Right-click on him to talk.@Эй, <playername>! Не уходи пока, сначала нужно поговорить со стариком. §b§lПравый клик§a по нему, чтобы начать. 
-Aledar: Hey, <playername>, the castle's the other way!@Эй, <playername>, замок в другой стороне!
-Aledar: Hey, <playername>, follow me!@ Эй, <playername>, следуй за мной!
-Aledar: Hey, <playername>! That's the wrong way!@Эй, <playername>! Это неправильный путь!
-Guard: <playername>, you're an Assassin, right? Walk up to the boulder for me.@<playername>, ты ведь ассасин, верно? Встань поближе к стене, ради меня.
-Guard: <playername>, you're a Mage, right? Gonna need you to stay close to me.@<playername>, ты ведь маг, верно? Встань поближе ко мне.
-Guard: <playername>, you're a Warrior, right? Walk up to the boulder for me.@<playername>, ты ведь воин, верно? Встань поближе к стене, ради меня.
-Guard: <playername>, you're a Dark Wizard, right? Gonna need you to stay close to me.@<playername>, ты ведь темный маг, верно? Встань поближе ко мне.
-Guard: <playername>, you're a Ninja, right? Walk up to the boulder for me.@<playername>, ты ведь ниндзя, верно? Встань поближе к стене, ради меня.
-Guard: <playername>, you're a Hunter, right? Walk up to the boulder for me.@<playername>, ты ведь охотник, верно? Встань поближе к стене, ради меня.
-Guard: <playername>, you're a Knight, right? Walk up to the boulder for me.@<playername>, ты ведь рыцарь, верно? Встань поближе к стене, ради меня.
-Tasim: Hey, <playername>! You alright in there? Looks like we hit something.@Эй, <playername>! Ты там в порядке? Похоже, мы обо что-то ударились.
-Aledar: It's not that far, it's just a straight path from here. <playername>, if you're ready, let's get moving.@Это не далеко, там идет прямой путь отсюда. <playername>, если ты готов, то пойдем.
-Aledar: Thanks for the warning. I guess we better get going then. <playername>, lead the way.@Спасибо за предупреждение. Думаю, нам лучше тогда идти. <playername>, веди нас.
-Tasim: No, you're not crazy, it's the same for me. It looks like <playername> is suffering the same amnesia, as well.@Нет, ты не сумасшедший. То же самое и у меня. И похоже, что <playername> также страдает похожей амнезией.
-Aledar: For now, <playername>, let's look for a way across. There's gotta be something we can use to get to the other side...@Сейчас, <playername>, давай искать путь на ту сторону. Здесь должно быть что-то, что мы можем использовать для прохода на другую сторону...
-Aledar: It's not the strongest weapon, but it's enough. Let's go and see if this is good enough for the guard, <playername>.@Это не самое сильное оружие, но его будет достаточно. Давайте пойдем и посмотрим, достаточно ли его для того охранника, <playername>.
-Aledar: Good job, <playername>! Let's keep going.@Отличная работа, <playername>! Продолжим идти вперед.
-Aledar: <playername>, take the one in the front. We'll get the two in the back!@<playername>, на тебе тот, что спереди. А мы разберемся с теми двумя сзади!
-Tasim: Great work, <playername>! We're almost to the castle, so let's keep going!@Отличная работа, <playername>! Мы уже почти у замка, так что продолжим идти вперед!
-Guard: <playername>, you're an Archer, right? Walk up to the boulder for me.@<playername>, ты ведь лучник, верно? Встань поближе к стене, ради меня.
-Aledar: Fine. I know what to do. <playername>, Tasim, follow me.@Хорошо, я знаю, что нужно делать. <playername>, Tasim, следуйте за мной.
-§7[1/1] §2Tasim: §aHey, <playername>! Don't leave yet!@§7[1/1] §2Tasim: §aЭй, <playername>! Не уходи пока!
-§7[1/1] §2Tasim: §aBe careful, <playername>! Don't want you falling off the edge.@§7[1/1] §2Tasim: §aБудь осторожнее, <playername>! Я не хочу, чтобы ты упал с обрыва.
+Tasim: Don't leave yet, (.*)! We're not done talking.@Не уходи, (r1)! Мы еще не поговорили.
+Tasim: Hey, (.*)! Why don't we use that tree you cut down as a bridge?@Эй, (r1)! Почему бы нам не использовать срубленное тобой дерево в качестве моста?
+Aledar: The bridge is broken. (.*), let's find another way across!@Этот мост сломан. (r1), давай найдем другой путь на ту сторону!
+Aledar: Hey, (.*)! Don't wander off just yet!@Эй, (r1)! Не уходи пока!
+Tasim: Hey, (.*)! Don't leave yet!@Эй, (r1)! Не уходи пока!
+Aledar: (.*), you're going the wrong way!@(r1), это неправильный путь!
+Tasim: Hey, (.*)! Come over here, we need to talk to you!@ Эй, (r1)! Иди сюда, нам нужно поговорить с тобой!
+Tasim: Hey, (.*)! Don't leave yet, let's talk to this old man. Right-click on him to talk.@Эй, (r1)! Не уходи пока, сначала нужно поговорить со стариком. §b§lПравый клик§a по нему, чтобы начать. 
+Aledar: Hey, (.*), the castle's the other way!@Эй, (r1), замок в другой стороне!
+Aledar: Hey, (.*), follow me!@ Эй, (r1), следуй за мной!
+Aledar: Hey, (.*)! That's the wrong way!@Эй, (r1)! Это неправильный путь!
+Guard: (.*), you're an Assassin, right? Walk up to the boulder for me.@(r1), ты ведь ассасин, верно? Встань поближе к стене, ради меня.
+Guard: (.*), you're a Mage, right? Gonna need you to stay close to me.@(r1), ты ведь маг, верно? Встань поближе ко мне.
+Guard: (.*), you're a Warrior, right? Walk up to the boulder for me.@(r1), ты ведь воин, верно? Встань поближе к стене, ради меня.
+Guard: (.*), you're a Dark Wizard, right? Gonna need you to stay close to me.@(r1), ты ведь темный маг, верно? Встань поближе ко мне.
+Guard: (.*), you're a Ninja, right? Walk up to the boulder for me.@(r1), ты ведь ниндзя, верно? Встань поближе к стене, ради меня.
+Guard: (.*), you're a Hunter, right? Walk up to the boulder for me.@(r1), ты ведь охотник, верно? Встань поближе к стене, ради меня.
+Guard: (.*), you're a Knight, right? Walk up to the boulder for me.@(r1), ты ведь рыцарь, верно? Встань поближе к стене, ради меня.
+Tasim: Hey, (.*)! You alright in there? Looks like we hit something.@Эй, (r1)! Ты там в порядке? Похоже, мы обо что-то ударились.
+Aledar: It's not that far, it's just a straight path from here. (.*), if you're ready, let's get moving.@Это не далеко, там идет прямой путь отсюда. (r1), если ты готов, то пойдем.
+Aledar: Thanks for the warning. I guess we better get going then. (.*), lead the way.@Спасибо за предупреждение. Думаю, нам лучше тогда идти. (r1), веди нас.
+Tasim: No, you're not crazy, it's the same for me. It looks like (.*) is suffering the same amnesia, as well.@Нет, ты не сумасшедший. То же самое и у меня. И похоже, что (r1) также страдает похожей амнезией.
+Aledar: For now, (.*), let's look for a way across. There's gotta be something we can use to get to the other side...@Сейчас, (r1), давай искать путь на ту сторону. Здесь должно быть что-то, что мы можем использовать для прохода на другую сторону...
+Aledar: It's not the strongest weapon, but it's enough. Let's go and see if this is good enough for the guard, (.*).@Это не самое сильное оружие, но его будет достаточно. Давайте пойдем и посмотрим, достаточно ли его для того охранника, (r1).
+Aledar: Good job, (.*)! Let's keep going.@Отличная работа, (r1)! Продолжим идти вперед.
+Aledar: (.*), take the one in the front. We'll get the two in the back!@(r1), на тебе тот, что спереди. А мы разберемся с теми двумя сзади!
+Tasim: Great work, (.*)! We're almost to the castle, so let's keep going!@Отличная работа, (r1)! Мы уже почти у замка, так что продолжим идти вперед!
+Guard: (.*), you're an Archer, right? Walk up to the boulder for me.@(r1), ты ведь лучник, верно? Встань поближе к стене, ради меня.
+Aledar: Fine. I know what to do. (.*), Tasim, follow me.@Хорошо, я знаю, что нужно делать. (r1), Tasim, следуйте за мной.
+§7[1/1] §2Tasim: §aHey, (.*)! Don't leave yet!@§7[1/1] §2Tasim: §aЭй, (r1)! Не уходи пока!
+§7[1/1] §2Tasim: §aBe careful, (.*)! Don't want you falling off the edge.@§7[1/1] §2Tasim: §aБудь осторожнее, (r1)! Я не хочу, чтобы ты упал с обрыва.
 
-Nick: Hey, <playername>! Any luck?@Эй, <playername>! Ну что, как успехи?
+Nick: Hey, (.*)! Any luck?@Эй, (r1)! Ну что, как успехи?
 
-§7[1/1] §2Rhudya: §aWatch your step next time, <playername>!@§7[1/1] §2Rhudya: §aОсторожнее в следующий раз, <playername>!
+§7[1/1] §2Rhudya: §aWatch your step next time, (.*)!@§7[1/1] §2Rhudya: §aОсторожнее в следующий раз, (r1)!
 
-Axelus: Hopefully I will see you soon, <playername>.@Надеюсь увижу тебя скоро, <playername>.
-Axelus: <playername>, over here! Near the skull.@<playername>, сюда! Рядом с черепом.
-Barden: Fantastic, <playername>! We got the bone! Couldn't have done it without you.@Отличная работа, <playername>! Теперь у нас есть кость дракона! Без тебя я бы не справился.
+Axelus: Hopefully I will see you soon, (.*).@Надеюсь увижу тебя скоро, (r1).
+Axelus: (.*), over here! Near the skull.@(r1), сюда! Рядом с черепом.
+Barden: Fantastic, (.*)! We got the bone! Couldn't have done it without you.@Отличная работа, (r1)! Теперь у нас есть кость дракона! Без тебя я бы не справился.
 
-???: We heard what happened <playername>.@Мы слышали, что случилось <playername>.
-Axelus: <playername>, follow the southern road from Rodoroc, towards the Sky Islands entrance. I'll be waiting there for you near the armoury.@<playername>, следуй по южной дороге от Rodoroc'а, в сторону входа на Летающие острова. Я буду ждать тебя возле оружейной.
+???: We heard what happened (.*).@Мы слышали, что случилось, (r1).
+Axelus: (.*), follow the southern road from Rodoroc, towards the Sky Islands entrance. I'll be waiting there for you near the armoury.@(r1), следуй по южной дороге от Rodoroc'а, в сторону входа на Летающие острова. Я буду ждать тебя возле оружейной.
 
-Korzim: <playername>...I take back my statement. They have already begun... There cannot be reasoning.@<playername>...Я беру свои слова обратно. Они уже начали... Здесь не может быть обсуждений.
-Korzim: <playername>... This... This used to be...a Dogun town. The Dwarves rendered it barren.@<playername>...Это... Это место было...городом Dogun'ов. Гномы сделали его безжизненным.
-Sanba: Here is the staff, <Playername>. I don't know you, but you are a good Human.@Вот посох, <playername>. Я не знаю тебя, но ты явно хороший человек.
+Korzim: (.*)...I take back my statement. They have already begun... There cannot be reasoning.@(r1)...Я беру свои слова обратно. Они уже начали... Здесь не может быть обсуждений.
+Korzim: (.*)... This... This used to be...a Dogun town. The Dwarves rendered it barren.@(r1)...Это... Это место было...городом Dogun'ов. Гномы сделали его безжизненным.
+Sanba: Here is the staff, (.*). I don't know you, but you are a good Human.@Вот посох, (r1). Я не знаю тебя, но ты явно хороший человек.
 
-Korzim: <playername>... Do you... have... the items?@<playername>... Предметы... у... тебя?
-Axelus: <playername>, the negotiations didn't go so well. I might need your help here.@<playername>, переговоры прошли не очень хорошо. Мне может понадобиться твоя помощь здесь.
-Axelus: <playername> we gotta get out of here, right now! Meet me outside!@<playername> мы должны убираться отсюда, прямо сейчас! Встретимся снаружи!
-Axelus: <playername>, over here, to your right. I've... borrowed this cannon.@<playername>, сюда, направо. Я... позаимствовал эту пушку.
+Korzim: (.*)... Do you... have... the items?@(r1)... Предметы... у... тебя?
+Axelus: (.*), the negotiations didn't go so well. I might need your help here.@(r1), переговоры прошли не очень хорошо. Мне может понадобиться твоя помощь здесь.
+Axelus: (.*) we gotta get out of here, right now! Meet me outside!@(r1) мы должны убираться отсюда, прямо сейчас! Встретимся снаружи!
+Axelus: (.*), over here, to your right. I've... borrowed this cannon.@(r1), сюда, направо. Я... позаимствовал эту пушку.
 
-Old Man Martyn: <playername>, I'm sorry I got you dragged into this. I wish I could have done it myself.@<playername>, прости, что втянул тебя во все это. Хотел бы я сделать это все сам.
-Old Man Martyn: <playername>, I'm sure we will meet again... in time.@<playername>, уверен, мы еще встретимся... во времени.
+Old Man Martyn: (.*), I'm sorry I got you dragged into this. I wish I could have done it myself.@(r1), прости, что втянул тебя во все это. Хотел бы я сделать это все сам.
+Old Man Martyn: (.*), I'm sure we will meet again... in time.@(r1), уверен, мы еще встретимся... во времени.
 
-Maxie: Follow me, <playername>.@Следуй за мной, <playername>.
+Maxie: Follow me, (.*).@Следуй за мной, (r1).
 
-§7[1/1] §2Corrupted Garoth:§a Welcome, §4§k<playername>§a. My name is §4Garoth§a, but you already know that, of course. §4Who doesn't?@§7[1/1] §2Corrupted Garoth:§aДобро пожаловать, §4§k<playername>§a. Мое имя §4Garoth§a, но ты уже это знаешь, конечно. §4Кто же не знает?
+§7[1/1] §2Corrupted Garoth:§a Welcome, §4§k(.*)§a. My name is §4Garoth§a, but you already know that, of course. §4Who doesn't?@§7[1/1] §2Corrupted Garoth:§aДобро пожаловать, §4§k(r1)§a. Мое имя §4Garoth§a, но ты уже это знаешь, конечно. §4Кто же не знает?
