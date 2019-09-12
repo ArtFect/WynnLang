@@ -1,24 +1,15 @@
-Tasim: Don't leave yet, <playername>! We're not done talking.@Не уходи, <playername>! Мы еще не поговорили.
+
 Old Man: Harvest [2 Wheat] and then bring it to me.@Собери §b[2 Пшеницы]§a и принеси их мне.
 Old Man: Mine [2 Copper Ore] and then bring it to me.@Добудь §b[2 Медной руды]§a и принеси их мне.
 Aledar: What are you doing? Don't go wandering off!@Что ты делаешь? Не уходи далеко!
 Tasim: The old man said something about the bridge being broken. Let's go and take a look.@Старик сказал что-то о том, что мост сломан. Пойдем посмотрим.
-Tasim: Hey, <playername>! Why don't we use that tree you cut down as a bridge?@Эй, <playername>! Почему бы нам не использовать срубленное тобой дерево в качестве моста?
 Guard: Halt! You can't enter the cave until you craft a weapon!@Стоять! Вы не можете войти в пещеру, пока не скрафтите оружие!
 Tasim: Hey, don't leave yet! We still need to figure out a way across the gap.@Эй, не уходи пока! Нам по-прежнему нужно найти способ перебраться через ущелье.
-Aledar: The bridge is broken. <playername>, let's find another way across!@Этот мост сломан. <playername>, давай найдем другой путь на ту сторону!
 Tasim: Hey, don't leave yet! We still need to check out the bridge!@Эй, не уходи пока! Нам нужно проверить мост!
 Aledar: Hurry up, you two! Get over here!@Побыстрее, вы двое! Идите сюда!
-Aledar: Hey, <playername>! Don't wander off just yet!@Эй, <playername>! Не уходи пока!
-Tasim: Hey, <playername>! Don't leave yet!@Эй, <playername>! Не уходи пока!
-Aledar: <playername>, you're going the wrong way!@<playername>, это неправильный путь!
 Aledar: We're going to need to craft weapons. Follow me.@Нам необходимо скрафтить оружия. Следуйте за мной.
 Aledar: What are you doing? We're going the other way!@Что ты делаешь? Мы идем в другую сторону!
 Tasim: Hey, don't leave yet! Let's help out this guard.@Эй, не уходи пока! Давай поможем этому охраннику.
-Tasim: Hey, <playername>! Come over here, we need to talk to you!@ Эй, <playername>! Иди сюда, нам нужно поговорить с тобой!
-Tasim: Hey, <playername>! Don't leave yet, let's talk to this old man. Right-click on him to talk.@Эй, <playername>! Не уходи пока, сначала нужно поговорить со стариком. §b§lПравый клик§a по нему, чтобы начать. 
-Aledar: Hey, <playername>, the castle's the other way!@Эй, <playername>, замок в другой стороне!
-Aledar: Hey, <playername>, follow me!@ Эй, <playername>, следуй за мной!
 Old Man: I left my pickaxe by the ore over yonder. Punch it and pick it up. Then mine [2 Copper Ore] and bring it back here.@Я оставил свою кирку у залежи вон там. Ударь и подбери ее. Затем добудь §b[2 Медной руды]§a и принеси ее сюда.
 Old Man: Just hit the pickaxe to pick it up. Then whack the ore with it to mine it!@Просто ударь кирку, чтобы подобрать ее. Затем нажми ей на руду, чтобы добыть ее!
 Old Man: The guards told me to send you on ahead with that copper so you can get yourself kitted out.@Охранники сказали мне отправить тебя вперед с этой медью, чтобы ты смог снарядить себя.
@@ -31,26 +22,18 @@ Aledar: The last thing we need to do is use this anvil to forge a weapon.@Пос
 Aledar: Don't leave yet! I'd love to keep going, but first we need you to harvest [2 Wheat] for this guy.@Не уходи пока! Я бы с удовольствием продолжил, но сначала нам нужно, чтобы ты собрал §b[2 пшеницы]§a для этого парня.
 Aledar: Don't leave yet! I'd love to keep going, but first we need you to mine [2 Copper] for this guy.@Не уходи пока! Я бы с удовольствием продолжил, но сначала нам нужно, чтобы ты добыл §b[2 меди]§a для этого парня.
 Guard: Halt! Before you enter, show me your weapon by right-clicking on me!@Стоять! Прежде чем войдешь, покажи мне свое оружие, §b§lкликнув§a на меня!
-Guard: <playername>, you're an Assassin, right? Walk up to the boulder for me.@<playername>, ты ведь ассасин, верно? Встань поближе к стене, ради меня.
 Guard: Now, cast your Spin Attack spell by clicking Right-Left-Right!@Теперь используй свое Spin Attack заклинание, кликнув §b§lПравая-Левая-Правая§a!
-Guard: <playername>, you're a Mage, right? Gonna need you to stay close to me.@<playername>, ты ведь маг, верно? Встань поближе ко мне.
 Guard: Now, cast your Heal spell by clicking Right-Left-Right!@Теперь используй свое Heal заклинание, кликнув §b§lПравая-Левая-Правая!§a
-Guard: <playername>, you're a Warrior, right? Walk up to the boulder for me.@<playername>, ты ведь воин, верно? Встань поближе к стене, ради меня.
 Guard: Now, cast your Bash spell by clicking Right-Left-Right!@Теперь используй свое Bash заклинание, кликнув §b§lПравая-Левая-Правая§a!
-Guard: <playername>, you're a Dark Wizard, right? Gonna need you to stay close to me.@<playername>, ты ведь темный маг, верно? Встань поближе ко мне.
 Guard: Now, cast your Remedy spell by clicking Right-Left-Right!@Теперь используй свое Remedy заклинание, кликнув §b§lПравая-Левая-Правая§a!
-Guard: <playername>, you're a Ninja, right? Walk up to the boulder for me.@<playername>, ты ведь ниндзя, верно? Встань поближе к стене, ради меня.
 Guard: Now, cast your Whirlwind spell by clicking Right-Left-Right!@Теперь используй свое Whirlwind заклинание, кликнув §b§lПравая-Левая-Правая§a!
-Guard: <playername>, you're a Hunter, right? Walk up to the boulder for me.@<playername>, ты ведь охотник, верно? Встань поближе к стене, ради меня.
 Guard: Now, cast your Bolt Blizzard spell by clicking Left-Right-Left!@Теперь используй свое Bolt Blizzard заклинание, кликнув §b§lЛевая-Правая-Левая§a!
-Guard: <playername>, you're a Knight, right? Walk up to the boulder for me.@<playername>, ты ведь рыцарь, верно? Встань поближе к стене, ради меня.
 Guard: Now, cast your Holy Blast spell by clicking Right-Left-Right!@Теперь используй свое Holy Blast заклинание, кликнув §b§lПравая-Левая-Правая§a!
 Guard: That's done it! All healed up. Now let me take care of this.@Готово! Все вылечены. Теперь дайте мне позаботиться об этом.
 Guard: Now, you three should head on towards the castle.@Теперь вы трое должны направиться к замку.
 Guard: Hey, you guys, the castle's this way!@Эй, ребята, замок в той стороне!
 Guard: Cast your spell by clicking Right-Left-Right!@Используй свое заклинание, кликнув §b§lПравая-Левая-Правая§a!
 Guard: Cast your spell by clicking Left-Right-Left!@Используй свое заклинание, кликнув §b§lЛевая-Правая-Левая§a!
-Aledar: Hey, <playername>! That's the wrong way!@Эй, <playername>! Это неправильный путь!
 Enkser: Hey! Look who's here! So, how's the horse doing?@Привет! Посмотрите-ка кто здесь! Так что, как поживает твоя лошадь?
 Enkser: Hey, have you found my [1 Stable Key] yet? It should be somewhere in this tunnel right there.@Эй, ты уже нашел мой §3[1 Ключ от конюшни]§a? Он должен быть где-то в этом туннеле.
 Enkser: Aaah dang! I had some work for you, but I can't ... such a low level. Come back when you are level 34!@Вот черт! У меня есть кое-какая работа для тебя, но я не могу ее тебе дать из-за твоего низкого уровня. Вернись, когда будешь 34-го уровня!
