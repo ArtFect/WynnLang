@@ -75,6 +75,9 @@ Aledar: <playername>, take the one in the front. We'll get the two in the back!@
 Tasim: Great work, <playername>! We're almost to the castle, so let's keep going!@Отличная работа, <playername>! Мы уже почти у замка, так что продолжим идти вперед!
 Guard: <playername>, you're an Archer, right? Walk up to the boulder for me.@<playername>, ты ведь лучник, верно? Встань поближе к стене, ради меня.
 Aledar: Fine. I know what to do. <playername>, Tasim, follow me.@Хорошо, я знаю, что нужно делать. <playername>, Tasim, следуйте за мной.
+§7[1/1] §2Tasim: §aHey, <playername>! Don't leave yet!@§7[1/1] §2Tasim: §aЭй, <playername>! Не уходи пока!
+§7[1/1] §2Tasim: §aBe careful, <playername>! Don't want you falling off the edge.@§7[1/1] §2Tasim: §aБудь осторожнее, <playername>! Я не хочу, чтобы ты упал с обрыва.
+§7[1/1] §2Rhudya: §aWatch your step next time, <playername>!@§7[1/1] §2Rhudya: §aОсторожнее в следующий раз, <playername>!
 
 Axelus: Hopefully I will see you soon, <playername>.@Надеюсь увижу тебя скоро, <playername>.
 Axelus: <playername>, over here! Near the skull.@<playername>, сюда! Рядом с черепом.
@@ -92,3 +95,7 @@ Axelus: <playername>, the negotiations didn't go so well. I might need your help
 Axelus: <playername> we gotta get out of here, right now! Meet me outside!@<playername> мы должны убираться отсюда, прямо сейчас! Встретимся снаружи!
 Axelus: <playername>, over here, to your right. I've... borrowed this cannon.@<playername>, сюда, направо. Я... позаимствовал эту пушку.
 
+Old Man Martyn: <playername>, I'm sorry I got you dragged into this. I wish I could have done it myself.@<playername>, прости, что втянул тебя во все это. Хотел бы я сделать это все сам.
+Old Man Martyn: <playername>, I'm sure we will meet again... in time.@<playername>, уверен, мы еще встретимся... во времени.
+
+Maxie: Follow me, <playername>.@Следуй за мной, <playername>.
