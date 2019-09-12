@@ -23,10 +23,10 @@
 §d     -§7 Discoveries Found: §f(.*)@§d     -§7 Открытий Найдено: §f(r1)
 §d     -§7 Location: §fDesert \[(.*)\]@§d     -§7 Локация: §fПустыня [(r1)]
 §b(.*)§3 has thrown an §bItem Bomb§3!@§b(r1)§3 бросил §bПредметную Бомбу§3!
-§a(.*) quest items have been returned. @§a(r1) квестовы предметов было возвращено.
+§a(.*) quest items have been returned. @§a(r1) квестовых предметов было возвращено.
 §b(.*)§3 has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@§b(r1)§3 Бросил §bДанж Бомбу§3! Каждый вход в данж бесплатен на следующие §b10 минут§3!
 §dFinished selling §b(.*)§d for §5(.*)@§dЗавершена продажа §b(r1)§d за §5(r2)
-§b(.*)§3bomb has expired. You can buy (.*) bombs at our website, §bwynncraft.com/store@§b(r1)§3бомба закончилась. Ты можешь купить (r2) бомбу на нашем сайте, §bwynncraft.com/store
+§b(.*)§3bomb has expired. You can buy (.*) bombs at our website, §bwynncraft.com\/store@§b(r1)§3бомба закончилась. Ты можешь купить (r2) бомбу на нашем сайте, §bwynncraft.com/store
 §c(.*)§4 is not online the Wynncraft network.@§c(r1)§4 нет в сети Wynncraft.
 §4You must complete the §c(.*)§4 quest before you can use §c(.*).@§4Ты должен пройти §c(r1)§4 квест, прежде чем использовать §c(r2).
 §7Please wait an additional (.*) minutes before opening this chest.@§7Пожалуйста подожди еще (r1) минут, прежде чем открывать сундук.
