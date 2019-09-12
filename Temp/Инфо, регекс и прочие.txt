@@ -5,13 +5,10 @@
 §7Entry 6: I have discovered something darker. Stronger. If I can harness this power, I can be§r§7§kcome the GOD of this world.§r@§7Запись 6: Я открыл нечто темное. Сильное. Если мне удастся впитать эту силу, то я смогу стать §r§7§kБОГОМ этого мира.
 §4A strong gust of magical wind prevents you from going further into the cave...@§4Сильный порыв магического ветра мешает тебе пройти дальше в пещеру...
 §4This item is locked! Use §c/itemlock§4 to trade the item.@§4Этот предмет закрыт! Используй §c/itemlock§4 чтобы торговать предметом.
-§4(.*)§c is not currently online any Wynncraft servers....@§4(r1)§c сейчас ни на одном Wynncraft сервере...
-§b(.*)§3 has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@§b(r1)§3 бросил §bProfession Speed Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
 §8[§4§lSYSTEM RESTARTED§8]@§8[§4§lСИСТЕМА ПЕРЕЗАГРУЖЕНА§8]
 §cYou need to hold an item in your hand to lock or unlock it!@§cТебе нужно держать предмет в руке, чтобы заблокировать или разблокировать его!
 §cInvalid amount! Please try again with a number.@§cНеверное количество! Пожалуйста, попробуй еще раз числами.
 §cInvalid message! /g [message] @§cНеверное сообщение! /g [сообщение]
-§7\[Daily Rewards: §a(.*) emeralds§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7]
 §4The sign tells you not to get near this area as it's unstable.@§4Табличка говорит тебе не приближаться к этой области, так как она нестабильна.
 §4The spirit of the Owl compels you to leave...@§4Дух Совы заставляет тебя уйти...
 §4 Gurgling comes from the spot and the ground bubbles around you.@§4Бульканье идет с этого места и земля пузырится вокруг тебя.
@@ -19,17 +16,13 @@
 §4Jumping down this looks like it would hurt!@§4Если спрыгнуть вниз, то похоже, будет больно!
 §cYou are already connected to this server!@§cТы уже подключен к этому серверу!
 §cPlease wait before chatting!@§cПожалуйста подожди, прежде чем пользоваться чатом!
-§5Blacksmith: §dYou scrapped: §e(.*)§d for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Blacksmith: §dТы утилизировал: §e(r1)§d в общей сумме на §e(r2)§d скрапа. Было приятно иметь с тобой дело.
-§5Blacksmith: §dYou scrapped: §3(.*)§d and §3(.*)§d for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Blacksmith: §dТы утилизировал: §3(r1)§d и §3(r2)§d в общей сумме на §e(r3)§d скрапа. Было приятно иметь с тобой дело.
 §4You can't use commands right now!@§4Ты не можешь сейчас использовать команды!
-§b(.*)§7 has given you §b(.*)% resistance§7.@§b(r1)§7 дал тебе §b(r2)% защиты§7.
 §3\[Parkour\] §bYou have started the parkour!@§3[Паркур] §bТы начал паркур!
 §3\[Parkour\] §bYou failed the parkour! Try again!@§3[Паркур] §bТы провалил паркур! Попробуй еще раз!
 §cYou failed the parkour!@§cТы провалил паркур!
 §4Please go into a game world to use commands!@§4Пожалуйста зайди в игровой мир, чтобы использовать команды!
 §4A boss token is required to ascend to the next floor.@§4Жетон босса требуется, чтобы подняться на следующий этаж.
 §4Someone in the town is looking for you.@§4Кто-то в городе ищет тебя.
-§7\+ New Quest §8\[(.*)\]@§7+ Новый квест §8[(r1)]
 §c                            Slay Lv. 40+ Mobs@§c                            Убийство Ур. 40+ Мобов
 §a                            Slay Lv. 20+ Mobs@§a                            Убийство Ур. 20+ Мобов
 §a                                Craft Items@§a                                Крафт предметов
@@ -45,20 +38,15 @@
 §5Blacksmith: §dI can only buy 8 items at a time.@§5Blacksmith: §dЯ могу купить только 8 предметов за раз.
 §5Blacksmith: §dI can only scrap 8 items at a time.@§5Blacksmith: §dЯ могу утилизировать только 8 предметов за раз.
 §5Blacksmith: §dYou need more scrap to repair that!@§5Blacksmith: §dТебе нужно больше скрапа, чтобы починить это!
-§4You need to be §cCombat Lv. (.*) §4to start this Mini-Quest@§4Тебе нужно быть §c(r1) Комбат уровня §4для старта этого Мини-квеста
 §cYou can't scrap this item!@§cТы не можешь утилизировать этот предмет!
 §4You don't have §3[1 Crate of Rat Poison]§4!@§4У тебя нет §3[1 Контейнера Крысиного Яда]§4!
 §4The Guard Golem won't let you enter this place...@Охранник-Голем не позволяет тебе войти в это место...
 §4You shouldn't enter this place yet...@Тебе пока не следует входить в это место...
 §4An unknown force prevents you from entering the crypt.@§4Неизвестная сила мешает тебе войти в склеп.
 §4These cows look aggressive... It would be better to leave them alone.@§4Эти коровы выглядят агрессивно... Было бы лучше оставить их в покое.
-§2You have unlocked §apage (.*)§2 in your bank@§2Ты разблокировал §aс(r1) страницу§2 в своем банке
 §b+3 minutes§7 speed boost.@§b+3 минуты§7 повышенной скорости.
 §7Seems Achper was right, the tomb is crawling with bandits. Perhaps one of them would be willing to strike a deal?@§7Похоже что Achper был прав, гробница кишит бандитами. Возможно, один из них захочет заключить сделку?
 §eWe couldn't find any friends.@§eМы не можем найти никаких друзей.
-§e(.*) has added you as a friend!@§e(r1) добавил тебя в друзья!
-§e(.*) has been added to your friends!@§e(r1) был добавлен в друзья!
-§e(.*) has been removed from your friends!@§e(r1) был убран из друзей!
 §eYou need to specify a message to send!@§eТебе нужно уточнить сообщение для отправки!
 §cYou do not have enough money in your inventory and bank to pay for that@§cУ тебя недостаточно денег в твоем инвентаре или банке, чтобы купить это
 §eCan't find that party! Try again?@§eНе могу найти эту пати! Попробуй еще раз?
@@ -113,37 +101,23 @@
 §4It doesn't seem like a good idea to enter this tower...@§4Не похоже, что это хорошая идея, чтобы войти в эту башню...
 §4A mysterious force is lashing at you as you try to go on to the altar.@§4Таинственная сила набрасывается на тебя, как только ты пытаешься подойти к алтарю.
 §dI can't reveal that item name! I only accept unidentified weapons, accessories and armour.@§dЯ не могу раскрыть название этого предмета! Я принимаю только неидентифицированные оружия, аксессуары и броню.
-§7\[Begin Floor: Floor (.*)\]@§7[Начат Этаж: Этаж (r1)]
 §4You were pushed into the hole...@§4Тебя столкнули в дыру...
 §4Harsh groans echo in the walls of the catacombs...@§4Резкие крики эхом отдаются в стенах катакомб...
 §7Something about this place doesn't want to make you go upstairs...@§7Что-то в этом месте не хочет заставлять тебя подниматься наверх...
 §cYou are not allowed to sell that item on the market!@§cТы не можешь продавать этот предмет на маркете!
 §cYou cannot buy your own item!@§cТы не можешь купить свой предмет!
-§dSuccessfully cancelled §5buying §b(.*)§d.@§dУспешно отменена §5покупка §b(r1)§d.
-§dSuccessfully cancelled §5selling §d(.*)§d.@§dУспешно отменена §5продажа §d(r1)§d.
 §dYour items can be found in the trade overview menu.@§dТвои предметы можно найти в обзорном меню торговли.
-§b(.*)§3 has disguised as a §b(.*)§3!@§b(r1)§3 замаскировался под §b(r2)§3!
 §4You can join someone else's guild or make a guild in §cCinfras [Lv. 70]@§4Ты можешь присоединиться к чьей-нибудь гильдии, или создать свою в §cCinfras'е [Ур. 70]
 §cYou're already in that area...@§4Ты уже находишься на этой территории...
 §7There wasn't enough room in your inventory, so items were dropped.@§7В твоем инвентаре было недостаточно места, поэтому предметы были сброшены.
-§4You can't hold any more unprocessed resources §c(.*)§4! Refine your materials or stash them in your bank to free some space.@§4Ты не можешь удержать больше непереработанных ресурсов §c(r1)§4! Переработай их или переложи в банк, чтобы освободить немного места.
 §cA strong force prevents you from entering this area. §7[Quest Req.: Grave Digger]@Мощная сила мешает тебе войти в эту область. §7[Нужен Квест: Grave Digger]
-§c\[(.*)\] §bCleared §7all potion effects §bRemoved §7all fire.@§c[(r1)] §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
-§c\[(.*)\] §bRemoved §7all fire.@§c[(r1)] §bУбран §7весь огонь.
-§5Only §d(.*) more combat levels§5 until you earn the §d(.*) upgrade@§5Еще §d(r1) комбат уровня§5 и ты изучишь апгрейд §d(r2)
 §7Your items are now stored in your bank!@Твои предметы теперь хранятся в банке!
 §7Your equipment is now stored in your bank!@Твое снаряжение теперь хранится в твоем банке!
-§d     -§7 Location: §fWynn Plains \[(.*)\]@§d     -§7 Локация: §fWynn Plains [(r1)]
-§d     -§7 Discoveries Found: §f(.*)@§d     -§7 Открытий Найдено: §f(r1)
-§d     -§7 Location: §fDesert \[(.*)\]@§d     -§7 Локация: §fПустыня [(r1)]
 Your client seems to be spamming us!@Похоже твой клиент спамит нам!
-§b(.*)§3 has thrown an §bItem Bomb§3!@§b(r1)§3 бросил §bПредметную Бомбу§3!
 §eCan't find that player! Try again?@§eНе можем найти этого игрока! Попробуй еще раз?
 §cInvalid syntax: /find [player]@§cНеправильный синтаксис: /find [игрок]
-§a(.*) quest items have been returned. @§a(r1) квестовы предметов было возвращено.
 §cYou don't have any available trade slots. Go to your trade overview and make some space!@§cУ тебя нет доступных торговых слотов. Перейди в свое обзорное меню торговли и освободи немного места!
 §cThe server you were previously on went down, you have been connected to a fallback server@§cСервер, на котором вы были ранее, вышел из строя. Вы были подключены к резервному серверу
-§b(.*)§3 has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@§b(r1)§3 Бросил §bДанж Бомбу§3! Каждый вход в данж бесплатен на следующие §b10 минут§3!
 §6Type the price in emeralds or type 'cancel' to cancel:@§6Напиши цену в эмеральдах, или 'cancel' для отмены:
 §6Type the amount you wish to buy or type 'cancel' to cancel:@§6Напиши количество, которое желаешь купить, или 'cancel' для отмены:
 §6Type the amount you wish to sell or type 'cancel' to cancel:@§6Напиши количество, которое желаешь продать, или 'cancel' для отмены:
@@ -152,7 +126,6 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §4You shouldn't be vandalizing this mountain!@Тебе не следует портить эту гору!
 §4You shouldn't leave until you have finished inspecting the vault.@Ты не должен уходить, пока не закончишь осмотр хранилища.
 §dVisit the Trade Market to claim your emeralds@§dПосети Трейд Маркет, чтобы забрать свои эмеральды
-§dFinished selling §b(.*)§d for §5(.*)@§dЗавершена продажа §b(r1)§d за §5(r2)
 §4You shouldn't go in here just yet.@§4Ты не должен идти сюда прямо сейчас.
 §cOnly quest and crafted items are usable by craftsmen!@§cТолько квестовые и крафтовые предметы можно использовать в режиме craftsmen!
 §cThe bank is not available for ironman players!@§cБанк недоступен для игроков в режиме ironman!
@@ -162,8 +135,6 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §cYou already have a Scroll active...@§cНа тебя уже действует Свиток...
 §7Now you've obtained the key, you can enter Theoricks mansion@После получения ключа ты можешь войти в поместье Theorick'а
 §4That class is VIP only! Buy VIP at §cstore.wynncraft.com@§4Этот класс только для VIP игроков! Купи VIP на §cstore.wynncraft.com
-§b(.*)§3bomb has expired. You can buy (.*) bombs at our website, §bwynncraft.com/store@§b(r1)§3бомба закончилась. Ты можешь купить (r2) бомбу на нашем сайте, §bwynncraft.com/store
-§c(.*)§4 is not online the Wynncraft network.@§c(r1)§4 нет в сети Wynncraft.
 §7[Be sure to use exact names, prediction does not work if the user is on a separate server]@§7[Обязательно используй точные ники, прогнозирование не работает, если пользователь находится на отдельном сервере]
 §4You are not ready for this region yet.@§4Ты еще не готов к этой территории.
 §4You need to add 5 rewards of the same type to upgrade.@§4Тебе нужно добавить 5 наград того же уровня для апгрейда.
@@ -177,22 +148,16 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §4There must be a hidden room inside here, better find out how to open the door.@§4Здесь должна быть скрытая комната, лучше узнать, как открыть дверь.
 §7§oYou can hear some machinery deep inside the mansion activate.@§7§oТы можешь услышать, как некоторые машины глубоко внутри особняка активируются.
 §4There is a forcefield barrier preventing you to go through. You might need a teleporter to go through.@§4Здесь барьер силового поля, мешающий тебе. Может понадобиться телепорт, чтобы пройти.
-§4You must complete the §c(.*)§4 quest before you can use §c(.*).@§4Ты должен пройти §c(r1)§4 квест, прежде чем использовать §c(r2).
-§7Please wait an additional (.*) minutes before opening this chest.@§7Пожалуйста подожди еще (r1) минут, прежде чем открывать сундук.
 §4There doesn't seem to be a way to get through here. Maybe there is an entrance above to sneak through?@§4Кажется там нет пути, чтобы пройти здесь. Может быть, есть вход наверху, чтобы прокрасться?
 §7One of the obsidian spikes have fallen.@§7Один из обсидиановых шипов упал.
 §4You can only refine one type of item at a time@§4Ты можешь перерабатывать одновременно только один тип предметов
 §5That item is untradable!@§5Этот предмет нельзя продать!
 §4As you open the door, you feel some soft wind running past you. The lamentations have stopped...@§4Когда ты открыл дверь, ты чувствуешь, как какой-то мягкий ветер пролетает мимо тебя. Плач прекратился...
-§5Key Collector: §dBring me §3\[1 (.*)\]§d and I will grant you access to the dungeon.@§5Key Collector: §dПринеси мне §3[1 (r1)]§d и я гарантирую тебе доступ в данж.
 §4You cannot add more ingredients to the crafting station@§4Ты не можешь добавить больше ингредиентов в станцию крафта
 §4You cannot add more materials to the crafting station@§4Ты не можешь добавить больше материалов в станцию крафта
 §4You don't have permission to open that in this area.@§4У тебя нет разрешения открывать это на этой территории (открывай пустой рукой)
-§cYou now have the (.*) effect.@§cВыбран эффект (r1).
-§cYou now have the (.*).@§cВыбраны (r1).
 §7Disguise your wand as a golden masterpiece@§7Маскирует твой посох под золотой шедевр
 §7Create a spark effect whenever you hit!@§7Создает эффект искр при ударе!
-§7You have set your weapon skin to (.*)@§7Ты установил на свое оружие (r1) скин
 §7Give your character the Wet Drip effect@Создает вокруг персонажа эффект мокрых капель
 §7Create a potion effect around your character@Создает вокруг персонажа эффект зелья
 §7Create a cloud effect whenever you hit!@§7Создает эффект облака при ударе!
@@ -202,15 +167,10 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §7The §bfollower §7is the key to revealing the §bentrance@§bПоследователь - §7это ключ для открытия §bвхода
 §7You have disabled your weapon skin.@§7Ты отключил скин для оружия.
 §4Uh oh! You may only upgrade rewards of the same tier...@§4Эх! Ты можешь апгрейдить награды только того же уровня...
-§4Try adding some more §c(.*)§4 items.@§4Попробуй добавить больше §c(r1)§4 наград.
 §4It's just a heavy rock.@§4Это просто тяжелый камень.
 §4You cannot climb up there without a climbing helmet §7[Quest Req: Ice Nations]@§4Ты не можешь забраться туда без каски альпиниста §7[Нужен Квест: Ice Nations]
 §4You have no totems remaining. You can get totems with a rank at §cwynncraft.com/store@§4У тебя не осталось тотемов. Ты можешь получить тотемы вместе с рангом на §cwynncraft.com/store
 §4You don't have any totems...@§4У тебя нет никаких тотемов...
-§e(.*) has joined the party.@§e(r1) присоединился к пати.
-§eParty members: §b(.*), §f(.*)@§eУчастники пати: §b(r1), §f(r2)
-§eYou have been invited to join (.*) party.@§eТы был приглашен присоединиться к (r1) пати.
-§eType the command §6/party join (.*)§e to join!@§eНапиши команду §6/party join (r1)§e чтобы присоединиться!
 §eUsage: /party join [username]@§eИспользование: /party join [ник]
 §eYou have successfully joined the party.@§eТы успешно присоединился к пати.
 §eYou are not in a party! Join a party first.@§eТы не состоишь в пати! Сначала присоединись к ней.
@@ -261,8 +221,6 @@ You're rejoining too quickly! Give us a moment to save your data.@§4Ты сли
 §7No soul points have been lost.@Соул поинты не будут утрачены.
 §cInvalid price! Please try again with a higher number.@§cНеверная цена! Попробуй еще раз с большим числом.
 §4Don't walk away when the mage is talking to you!@§4Не уходи, когда маг разговаривает с тобой!
-§b(.*)§3 has used a §bSoul Point Bomb§3 and given you §b\[\+2 Soul Points\]@§b(r1)§3 использовал §bSoul Point Бомбу§3 и дал тебе §b[+2 Soul Point'а]
-§3You are inside of §b(.*)§3 mob totem. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3Ты внутри §b(r1)§3 моб тотема. Получи свой моб тотем при покупке ранга на §bwynncraft.com/store
 §7--§4 For a proper help guide, visit our website §7--@§7--§4 Для полного гайда о помощи, посети наш сайт §7--
 §4Ten tokens are required to ascend to the next floor.@§4Десять жетонов необходимы, чтобы подняться на следующий этаж.
 §4You cannot yet enter this floor...@§4Ты пока не можешь войти на этот этаж...
@@ -276,8 +234,6 @@ You're rejoining too quickly! Give us a moment to save your data.@§4Ты сли
 §6[§e!§6] §7A wave of monsters has spawned! The arena boss will spawn in 15 seconds!@§6[§e!§6] §7Волна монстров заспавнилась! Босс арены заспавнится через 15 секунд!
 §6[§e!§6] §7The arena boss has spawned! Defeat it to open the door!@§6[§e!§6] §7Босс арены заспавнился! Победи его, чтобы открыть дверь!
 §6[§e!§6] §7You defeated the arena boss! The door has opened...@§6[§e!§6] §7Ты победил босса арены! Дверь открыта...
-§4You cannot afford that! Removing powders from all items will cost (.*)@§4Ты не можешь себе этого позволить! Удаление порошков из всех предметов будет стоить (r1)
-§4You cannot afford that! Adding these powders will cost (.*)@§4Ты не можешь себе этого позволить! Добавление порошков на предмет будет стоить (r1)
 §4Terrifying robotic clinks and clashes can be heard below. You feel you should stay away for now.@§4Ужасающие роботизированные щелчки и столкновения можно услышать ниже. Ты чувствуешь, что должен держаться подальше сейчас.
 §7''That trader from Ragni was saying some disturbing things the other day.''@§7''Тот торговец из Ragni на днях говорил какие-то тревожные вещи.''
 §7''He mentioned that the undead attacks are growing more frequent all over Wynn. Even Ragni is straining under the pressure.''@§7''Он упомянул, что нападения нежити становятся все более частыми по всей провинции Wynn. Даже Ragni страдает под давлением.''
