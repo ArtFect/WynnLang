@@ -2,22 +2,16 @@
 (.*) has logged into server (.*) as a (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
 (.*) has given you 20% resistance and 10% strength.@§b(r1) §7дал тебе 20% к сопротивлению и 10% к силе.
 You will now contribute (.*)% of your XP to (.*)@§bТеперь ты вносишь (r1)% от своих очков опыта в (r2)
-\[Daily Rewards: (.*) emeralds and (.*) items\]@§7[Ежедневная награда: (r1) эмеральд (а/ов) и (r2) предмета]
+\[Daily Rewards: (.*) emeralds and (.*) items\]@§7[Ежедневная награда: (r1) эмеральдов  и (r2) предмета]
 Please wait an additional (.*) minutes before opening this chest.@§7Пожалуйста, подожди еще (r1) минут, прежде чем открывать этот сундук.
 Please wait an additional (.*) seconds before opening this chest.@§7Пожалуйста, подожди еще (r1) секунд, прежде чем открывать этот сундук.
 \[\+(.*) for (.*) seconds\]@§7[+(r1) на (r2) секунд]
 (.*) has thrown a combat XP Bomb! The entire server gets double xp for 20 minutes!@§7(r1) бросил XP Бомбу! Весь сервер получает удвоенные очки опыта на 20 минут!
-(.*) quest items have been returned.@§7(r1) квестовых предметов было возвращено.
-You have unlocked page (.*) in your bank@§7Ты разблокировал (r1) страницу в своем банке
-(.*) has thrown an Item Bomb!@§7(r1) бросил Предметную бомбу!
-
 Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §2[(r3)]
 \[(.*)\] Cleared all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
 (.*) gave  you \[(.*)\].@§b(r1) дал тебе §c[(r2)].
 (.*) quest items have been returned. There was not room for an additional (.*) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
-(.*)'s bomb has expired. You can buy (.*) at our website, wynncraft.com\/store@§b(r1) §3бомба закончилась. Ты можешь купить (r2) на нашем сайте §bwynncraft.com/store
 Key Collector: You cannot enter this dungeon unless you give me \[(.*)\]@§5Key Collector: §dТы не можешь войти в этот данж, пока не дашь мне §3(r1).
-(.*) has joined the party.@§e(r1) присоединился к пати.
 Only (.*) more combat levels until you earn the (.*) spell@§5Еще §d(r1) комбат уровня §5и ты изучишь §d(r2) заклинание
 This material cannot be used for (.*)@Этот ресурс не может быть использован для (r1)
 You are now combat level (.*)@                         §eТы достиг (r1) комбат уровня
