@@ -64,6 +64,17 @@ Guard: <playername>, you're a Dark Wizard, right? Gonna need you to stay close t
 Guard: <playername>, you're a Ninja, right? Walk up to the boulder for me.@<playername>, ты ведь ниндзя, верно? Встань поближе к стене, ради меня.
 Guard: <playername>, you're a Hunter, right? Walk up to the boulder for me.@<playername>, ты ведь охотник, верно? Встань поближе к стене, ради меня.
 Guard: <playername>, you're a Knight, right? Walk up to the boulder for me.@<playername>, ты ведь рыцарь, верно? Встань поближе к стене, ради меня.
+Tasim: Hey, <playername>! You alright in there? Looks like we hit something.@Эй, <playername>! Ты там в порядке? Похоже, мы обо что-то ударились.
+Aledar: It's not that far, it's just a straight path from here. <playername>, if you're ready, let's get moving.@Это не далеко, там идет прямой путь отсюда. <playername>, если ты готов, то пойдем.
+Aledar: Thanks for the warning. I guess we better get going then. <playername>, lead the way.@Спасибо за предупреждение. Думаю, нам лучше тогда идти. <playername>, веди нас.
+Tasim: No, you're not crazy, it's the same for me. It looks like <playername> is suffering the same amnesia, as well.@Нет, ты не сумасшедший. То же самое и у меня. И похоже, что <playername> также страдает похожей амнезией.
+Aledar: For now, <playername>, let's look for a way across. There's gotta be something we can use to get to the other side...@Сейчас, <playername>, давай искать путь на ту сторону. Здесь должно быть что-то, что мы можем использовать для прохода на другую сторону...
+Aledar: It's not the strongest weapon, but it's enough. Let's go and see if this is good enough for the guard, <playername>.@Это не самое сильное оружие, но его будет достаточно. Давайте пойдем и посмотрим, достаточно ли его для того охранника, <playername>.
+Aledar: Good job, <playername>! Let's keep going.@Отличная работа, <playername>! Продолжим идти вперед.
+Aledar: <playername>, take the one in the front. We'll get the two in the back!@<playername>, на тебе тот, что спереди. А мы разберемся с теми двумя сзади!
+Tasim: Great work, <playername>! We're almost to the castle, so let's keep going!@Отличная работа, <playername>! Мы уже почти у замка, так что продолжим идти вперед!
+Guard: <playername>, you're an Archer, right? Walk up to the boulder for me.@<playername>, ты ведь лучник, верно? Встань поближе к стене, ради меня.
+Aledar: Fine. I know what to do. <playername>, Tasim, follow me.@Хорошо, я знаю, что нужно делать. <playername>, Tasim, следуйте за мной.
 
 Axelus: Hopefully I will see you soon, <playername>.@Надеюсь увижу тебя скоро, <playername>.
 Axelus: <playername>, over here! Near the skull.@<playername>, сюда! Рядом с черепом.
