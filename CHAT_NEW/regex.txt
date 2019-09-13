@@ -60,3 +60,48 @@
 §5(.*): §dI'm afraid you cannot afford that item.@§5(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
 §5(.*): §dI'm afraid you don't have enough space in your inventory to buy that..@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
 §5(.*): §dThank you for your business. Come again!@@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
+
+§4(.*)§c is not currently online any Wynncraft servers....@§4(r1)§c сейчас ни на одном Wynncraft сервере...
+§b(.*)§3 has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@§b(r1)§3 бросил §bProfession Speed Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
+§7\[Daily Rewards: §a(.*) emeralds§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7]
+§5Blacksmith: §dYou scrapped: §e(.*)§d for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Blacksmith: §dТы утилизировал: §e(r1)§d в общей сумме на §e(r2)§d скрапа. Было приятно иметь с тобой дело.
+§5Blacksmith: §dYou scrapped: §3(.*)§d and §3(.*)§d for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Blacksmith: §dТы утилизировал: §3(r1)§d и §3(r2)§d в общей сумме на §e(r3)§d скрапа. Было приятно иметь с тобой дело.
+§b(.*)§7 has given you §b(.*)% resistance§7.@§b(r1)§7 дал тебе §b(r2)% защиты§7.
+§7\+ New Quest §8\[(.*)\]@§7+ Новый квест §8[(r1)]
+§4You need to be §cCombat Lv. (.*) §4to start this Mini-Quest@§4Тебе нужно быть §c(r1) Комбат уровня §4для старта этого Мини-квеста
+§2You have unlocked §apage (.*)§2 in your bank@§2Ты разблокировал §aс(r1) страницу§2 в своем банке
+§e(.*) has added you as a friend!@§e(r1) добавил тебя в друзья!
+§e(.*) has been added to your friends!@§e(r1) был добавлен в друзья!
+§e(.*) has been removed from your friends!@§e(r1) был убран из друзей!
+§7\[Begin Floor: Floor (.*)\]@§7[Начат Этаж: Этаж (r1)]
+§dSuccessfully cancelled §5buying §b(.*)§d.@§dУспешно отменена §5покупка §b(r1)§d.
+§dSuccessfully cancelled §5selling §d(.*)§d.@§dУспешно отменена §5продажа §d(r1)§d.
+§b(.*)§3 has disguised as a §b(.*)§3!@§b(r1)§3 замаскировался под §b(r2)§3!
+§4You can't hold any more unprocessed resources §c(.*)§4! Refine your materials or stash them in your bank to free some space.@§4Ты не можешь удержать больше непереработанных ресурсов §c(r1)§4! Переработай их или переложи в банк, чтобы освободить немного места.
+§c\[(.*)\] §bCleared §7all potion effects §bRemoved §7all fire.@§c[(r1)] §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
+§c\[(.*)\] §bRemoved §7all fire.@§c[(r1)] §bУбран §7весь огонь.
+§5Only §d(.*) more combat levels§5 until you earn the §d(.*) upgrade@§5Еще §d(r1) комбат уровня§5 и ты изучишь апгрейд §d(r2)
+§d     -§7 Location: §fWynn Plains \[(.*)\]@§d     -§7 Локация: §fWynn Plains [(r1)]
+§d     -§7 Discoveries Found: §f(.*)@§d     -§7 Открытий Найдено: §f(r1)
+§d     -§7 Location: §fDesert \[(.*)\]@§d     -§7 Локация: §fПустыня [(r1)]
+§b(.*)§3 has thrown an §bItem Bomb§3!@§b(r1)§3 бросил §bПредметную Бомбу§3!
+§a(.*) quest items have been returned. @§a(r1) квестовых предметов было возвращено.
+§b(.*)§3 has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@§b(r1)§3 Бросил §bДанж Бомбу§3! Каждый вход в данж бесплатен на следующие §b10 минут§3!
+§dFinished selling §b(.*)§d for §5(.*)@§dЗавершена продажа §b(r1)§d за §5(r2)
+§b(.*)§3bomb has expired. You can buy (.*) bombs at our website, §bwynncraft.com\/store@§b(r1)§3бомба закончилась. Ты можешь купить (r2) бомбу на нашем сайте, §bwynncraft.com/store
+§c(.*)§4 is not online the Wynncraft network.@§c(r1)§4 нет в сети Wynncraft.
+§4You must complete the §c(.*)§4 quest before you can use §c(.*).@§4Ты должен пройти §c(r1)§4 квест, прежде чем использовать §c(r2).
+§7Please wait an additional (.*) minutes before opening this chest.@§7Пожалуйста подожди еще (r1) минут, прежде чем открывать сундук.
+§5Key Collector: §dBring me §3\[1 (.*)\]§d and I will grant you access to the dungeon.@§5Key Collector: §dПринеси мне §3[1 (r1)]§d и я гарантирую тебе доступ в данж.
+§cYou now have the (.*) effect.@§cВыбран эффект (r1).
+§cYou now have the (.*).@§cВыбраны (r1).
+§7You have set your weapon skin to (.*)@§7Ты установил на свое оружие (r1) скин
+§4Try adding some more §c(.*)§4 items.@§4Попробуй добавить больше §c(r1)§4 наград.
+§e(.*) has joined the party.@§e(r1) присоединился к пати.
+§eParty members: §b(.*), §f(.*)@§eУчастники пати: §b(r1), §f(r2)
+§eYou have been invited to join (.*) party.@§eТы был приглашен присоединиться к (r1) пати.
+§eType the command §6\/party join (.*)§e to join!@§eНапиши команду §6/party join (r1)§e чтобы присоединиться!
+§b(.*)§3 has used a §bSoul Point Bomb§3 and given you §b\[\+2 Soul Points\]@§b(r1)§3 использовал §bSoul Point Бомбу§3 и дал тебе §b[+2 Soul Point'а]
+§3You are inside of §b(.*)§3 mob totem. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3Ты внутри §b(r1)§3 моб тотема. Получи свой моб тотем при покупке ранга на §bwynncraft.com/store
+§4You cannot afford that! Removing powders from all items will cost (.*)@§4Ты не можешь себе этого позволить! Удаление порошков из всех предметов будет стоить (r1)
+§4You cannot afford that! Adding these powders will cost (.*)@§4Ты не можешь себе этого позволить! Добавление порошков на предмет будет стоить (r1)
