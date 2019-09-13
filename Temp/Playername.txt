@@ -34,25 +34,25 @@
 
 §7[1/1] §2Rhudya: §aWatch your step next time, (.*)!@§7[1/1] §2Rhudya: §aОсторожнее в следующий раз, (r1)!
 
-Axelus: Hopefully I will see you soon, (.*).@Надеюсь увижу тебя скоро, (r1).
-Axelus: (.*), over here! Near the skull.@(r1), сюда! Рядом с черепом.
-Barden: Fantastic, (.*)! We got the bone! Couldn't have done it without you.@Отличная работа, (r1)! Теперь у нас есть кость дракона! Без тебя я бы не справился.
+§7[4/4] §2Axelus: §aHopefully I will see you soon, (.*).@§7[4/4] §2Axelus: §aНадеюсь увижу тебя скоро, (r1).
+§7[1/2] §2Axelus: §a(.*), over here! Near the skull.@§7[1/2] §2Axelus: §a(r1), сюда! Рядом с черепом.
+§7[1/3] §2Barden: §aFantastic, (.*)! We got the bone! Couldn't have done it without you.@§7[1/3] §2Barden: §aОтличная работа, (r1)! Теперь у нас есть кость дракона! Без тебя я бы не справился.
 
-???: We heard what happened (.*).@Мы слышали, что случилось, (r1).
-Axelus: (.*), follow the southern road from Rodoroc, towards the Sky Islands entrance. I'll be waiting there for you near the armoury.@(r1), следуй по южной дороге от Rodoroc'а, в сторону входа на Летающие острова. Я буду ждать тебя возле оружейной.
+§7[6/16] §2???: §aWe heard what happened (.*).@§7[6/16] §2???: §aМы слышали, что случилось, (r1).
+§7[16/16] §2Axelus: §a(.*), follow the southern road from Rodoroc, towards the Sky Islands entrance. I'll be waiting there for you near the armoury.@§7[16/16] §2Axelus: §a(r1), следуй по южной дороге от Rodoroc'а, в сторону входа на Летающие острова. Я буду ждать тебя возле оружейной.
 
-Korzim: (.*)...I take back my statement. They have already begun... There cannot be reasoning.@(r1)...Я беру свои слова обратно. Они уже начали... Здесь не может быть обсуждений.
-Korzim: (.*)... This... This used to be...a Dogun town. The Dwarves rendered it barren.@(r1)...Это... Это место было...городом Dogun'ов. Гномы сделали его безжизненным.
-Sanba: Here is the staff, (.*). I don't know you, but you are a good Human.@Вот посох, (r1). Я не знаю тебя, но ты явно хороший человек.
+§7[1/5] §2Korzim: §a(.*)...I take back my statement. They have already begun... There cannot be reasoning.@§7[1/5] §2Korzim: §a(r1)...Я беру свои слова обратно. Они уже начали... Здесь не может быть обсуждений.
+§7[1/5] §2Korzim: §a(.*)... This... This used to be...a Dogun town. The Dwarves rendered it barren.@§7[1/5] §2Korzim: §a(r1)...Это... Это место было...городом Dogun'ов. Гномы сделали его безжизненным.
+§7[2/4] §2Sanba: §aHere is the staff, (.*). I don't know you, but you are a good Human.@§7[2/4] §2Sanba: §aВот предмет, (r1). Я не знаю тебя, но ты явно хороший человек.
 
-Korzim: (.*)... Do you... have... the items?@(r1)... Предметы... у... тебя?
-Axelus: (.*), the negotiations didn't go so well. I might need your help here.@(r1), переговоры прошли не очень хорошо. Мне может понадобиться твоя помощь здесь.
-Axelus: (.*) we gotta get out of here, right now! Meet me outside!@(r1) мы должны убираться отсюда, прямо сейчас! Встретимся снаружи!
-Axelus: (.*), over here, to your right. I've... borrowed this cannon.@(r1), сюда, направо. Я... позаимствовал эту пушку.
+§7[1/4] §2Korzim: §a(.*)... Do you... have... the items?@§7[1/4] §2Korzim: §a(r1)... Предметы... у... тебя?
+§7[2/4] §2Axelus: §a(.*), the negotiations didn't go so well. I might need your help here.@§7[2/4] §2Axelus: §a(r1), переговоры прошли не очень хорошо. Мне может понадобиться твоя помощь здесь.
+§7[2/2] §2Axelus: §a(.*) we gotta get out of here, right now! Meet me outside!@§7[2/2] §2Axelus: §a(r1) мы должны убираться отсюда, прямо сейчас! Встретимся снаружи!
+§7[1/3] §2Axelus: §a(.*), over here, to your right. I've... borrowed this cannon.@§7[1/3] §2Axelus: §a(r1), сюда, направо. Я... позаимствовал эту пушку.
 
 §7[5/14] §2Old Man Martyn: §a(.*), I'm sorry I got you dragged into this. I wish I could have done it myself.@§7[5/14] §2Old Man Martyn: §a(r1), прости, что втянул тебя во все это. Хотел бы я сделать это все сам.
 §7[10/14] §2Old Man Martyn: §a(.*), I'm sure we will meet again... in time.@§7[10/14] §2Old Man Martyn: §a(r1), уверен, мы еще встретимся... во времени.
 
-Maxie: Follow me, (.*).@Следуй за мной, (r1).
+§7[1/9] §2Maxie: §aFollow me, (.*).@§7[1/9] §2Maxie: §aСледуй за мной, (r1).
 
 §7[1/1] §2Corrupted Garoth:§a Welcome, §4§k(.*)§a. My name is §4Garoth§a, but you already know that, of course. §4Who doesn't?@§7[1/1] §2Corrupted Garoth:§aДобро пожаловать, §4§k(r1)§a. Мое имя §4Garoth§a, но ты уже это знаешь, конечно. §4Кто же не знает?
