@@ -38,11 +38,13 @@
 §7[4/4] §2Damien: §aCan you get the medicine for me? The apothecary is at house 19... Please hurry, I feel terrible...@§7[4/4] §2Damien: §aМожет ты принесешь их мне? Аптека в доме №19... Пожалуйста, поторопись, я чувствую себя ужасно...
 §7[1/5] §2Sasha: §aWelcome to Cinfras apothecary! How may I help you today?@§7[1/5] §2Sasha: §aДобро пожаловать в аптеку Cinfras'а! чем могу вам помочь?
 §7[2/5] §2Sasha: §aAhh, Damien. That rings a bell. He had an order ready.@§7[2/5] §2Sasha: §aАаа, Damien. Что-то припоминаю. Его заказ уже готов.
+§7[3/5] §2Sasha: §aLet's see... That'll be §3[200,000 Liquified Emeralds] §aplease.@§7[3/5] §2Sasha: §aПосмотрим.. С вас §3[200,000 жидких эмеральдов]§a, пожалуйста.
 §7[4/5] §2Sasha: §aGood medicine is expensive. I'm afraid that's the price.@§7[4/5] §2Sasha: §aХорошая медицина стоит дорого. Я боюсь, что не продам вам дешевле.
 §7[5/5] §2Sasha: §aLook, that's the price. I can't change it. It's all safely stored in my basement.@§7[5/5] §2Sasha: §aСлушай, смотри на ценник. Я не могу ничего изменить. Все это надежно хранится в моем подвале.
 §7[1/5] §2Sasha: §aLook, I know it's way too much money, but I'm desperate.@§7[1/5] §2Sasha: §aСлушай, знаю, что это слишком много денег, но я в отчаянии.
 §7[2/5] §2Sasha: §aI want to give poor Damien his medicine so badly, but I can't.@§7[2/5] §2Sasha: §aЯ очень хочу дать бедному Damien'у его лекарства, но не могу.
 §7[3/5] §2Sasha: §aA royal gardener stole my diary and is using it to blackmail me. It has embarrassing §asecrets...like§a, really embarassing...@§7[3/5] §2Sasha: §aКоролевский садовник украл мой дневник и использует его, чтобы шантажировать меня. Там все мои секреты...очень постыдные секреты...
+§7[4/5] §2Sasha: §aHe said he'll give it back only in exchange for §3[200,000 Liquified Emeralds]§a!@§7[4/5] §2Sasha: §aОн сказал, что отдаст его только в обмен на §3[200,000 жидких эмеральдов]§a!
 §7[5/5] §2Sasha: §aI'm sorry, but as long as that gardener is determined to get me, I can't lower the price. If you wish to approach him, he's probably at the bridge to the guild hall, gardening.@§7[5/5] §2Sasha: §aИзвини, но пока садовник полон решимости шантажировать меня, я не могу снизить цену. Если ты хочешь поговорить с ним, он, наверное, на мосту к гильдии, работает в саду.
 §7[1/3] §2Gardener: §aWhat do you want, can't you see I'm busy?@§7[1/3] §2Gardener: §aЧто тебе нужно, разве ты не видишь, я занят?
 §7[2/3] §2Gardener: §aOh. Sasha. Did she send you to deliver the money?@§7[2/3] §2Gardener: §aОх, Sasha. Она послала тебя доставить деньги?
@@ -76,3 +78,6 @@
 §7[3/5] §2Guardian of The Forest: §aHow things have decayed... The Gert war, the two towers... And oh, the poor Doguns!@§7[3/5] §2Guardian of The Forest: §aКак все вокруг заражалось.. Война с Гертами.. Две башни.. Ах да, бедные Dogun'ы!
 §7[4/5] §2Guardian of The Forest: §aWell, dwelling on the matter will not fix things. Remember the arch from before?@§7[4/5] §2Guardian of The Forest: §aЧто ж, размышления о прошлом ничем не помогут. Помнишь, где арка?
 §7[5/5] §2Guardian of The Forest: §aPut on your glasses and you will be able to see what you could not before. The arch is to the south if you have forgotten.@§7[5/5] §2Guardian of The Forest: §aНадень эти очки и ты сможешь увидеть то, что раньше не мог.. арка на юге, если ты забыл.
+
+§7[1/2] §2Guardian of The Forest: §a...@§7[1/2] §2Guardian of The Forest: §a...
+§7[2/2] §2Guardian of The Forest: §aZzzzzzzzz...@§7[2/2] §2Guardian of The Forest: §aХррр-ппффф....
