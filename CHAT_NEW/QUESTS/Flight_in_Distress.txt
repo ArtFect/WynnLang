@@ -6,6 +6,7 @@
 §7[2/7] §2Captain Ackbar: §aWe only just set off and there is already an incident.@§7[2/7] §2Captain Ackbar: §aМы только поднялись в воздух, как уже случился этот инцидент.
 §7[3/7] §2Captain Ackbar: §aHis mother informed us that her son disappeared soon after boarding.@§7[3/7] §2Captain Ackbar: §aЕго мать сообщила нам, что он пропал почти сразу после взлета.
 §7[4/7] §2Captain Ackbar: §aPoor parenting, if you ask me. Alas, we must find the lad.@§7[4/7] §2Captain Ackbar: §aПлохая мать, если вы хотите мое мнение. Ладно, мы должны найти парнишку.
+§7[5/7] §2Captain Ackbar: §aSince we don't have any leads, it might be best to ask some of the passengers for information.@§7[5/7] §2Captain Ackbar: §aПоскольку у нас нет никаких улик, для начала неплохо бы опросить пассажиров, вдруг они что-то видели.
 §7[6/7] §2Captain Ackbar: §aMost of them will be in the dining area or in the lounge.@§7[6/7] §2Captain Ackbar: §aБольшинство из них находятся в столовой или в комнате отдыха.
 §7[7/7] §2Captain Ackbar: §aThank you so much for your help; I hope you find the lad soon.@§7[7/7] §2Captain Ackbar: §aСпасибо, что решили помочь. Надеюсь, что скоро мы найдем этого парнишку.
 §7[1/5] §2Missing Child: §aHey! Look at that ship over in the distance. It has been following the ship almost since we left off.@§7[1/5] §2Missing Child: §aЭй! Посмотри на тот дирижабль вдали. Он летит за нами, как только мы взлетели.
@@ -63,3 +64,11 @@
 §7[2/4] §2Calo: §aI heard what you did on the ship, very admirable. Fortunately for you, I owe Ackbar.@§7[2/4] §2Calo: §aЯ слышал, что ты сделал на корабле - очень смело. К счастью для тебя, я в долгу у Ackbar'а.
 §7[3/4] §2Calo: §aI'll take you from Detlas to Cinfras or vice versa whenever you want. @§7[3/4] §2Calo: §aЯ буду возить тебя из Detlas'а в Cinfras или наоборот тогда, когда тебе будет нужно.
 §7[4/4] §2Calo: §aAll you have to do is board my ship. Oh, this was also from Ackbar.@§7[4/4] §2Calo: §aВсе, что тебе нужно - это просто зайти на борт. Ох, это тоже передал Ackbar.
+
+§7[1/1] §2Controller: §aOh, seems like that was wrong! Too bad!@§7[1/1] §2Controller: §aОх, кажется, это было неправильно! Очень жаль!
+§7[1/1] §2Broadcast: §aAttention passengers. There has been a missing person reported aboard. If there are any volunteers to help search for them please report to the control deck and speak to the captain.@§7[1/1] §2Broadcast: §aВнимание, пассажиры. На борту  пропал человек. Если есть добровольцы, которые помогут их найти, пожалуйста, явитесь на  палубу управления и поговорите с капитаном.
+§7[1/1] §2Passenger Nancy: §aHave you found my child?@§7[1/1] §2Passenger Nancy: §aТы уже нашел моего ребенка?
+§7[1/2] §2Engineer Eric: §aI dun gave you the instructions. Just check it if you forget the code.@§7[1/2] §2Engineer Eric: §aЯ дал тебе инструкцию. Просто проверь ее, если ты забыл код.
+§7[2/2] §2Engineer Eric: §aIt was something like red... orange... yellow.. Ah, it all on the paper anyway.@§7[2/2] §2Engineer Eric: §aТам было что-то вроде красного... оранжевого... желтого.. Ах, все это на бумаге в любом случае.
+§7[1/1] §2Child: §aAw man, I can't believe I'm not allowed to sit with the adults. I'm nearly twelve!!@§7[1/1] §2Child: §aБоже, я не могу поверить, что мне нельзя сидеть со взрослыми. Мне уже почти двенадцать!!
+§7[1/1] §2Calo: §aWoah, you can't just walk onto my ship like that!@§7[1/1] §2Calo: §aВоу, ты не можешь просто так войти в мой корабль!
