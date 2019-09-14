@@ -20,6 +20,7 @@
 §7[1/7] §2Hermit: §aWhat do you think you're doing here, kid? Think you can waltz in my humble abode and get across my bridge?@§7[1/7] §2Hermit: §aКак думаешь, что ты тут делаешь, мальчуган? Думаешь можешь покрасоваться передо мной и пройти через мост?
 §7[2/7] §2Hermit: §aOh, you want to know about the bird of the mountain? Hah, a little weed like you wouldn't stand a chance against it.@§7[2/7] §2Hermit: §aОх, ты хочешь узнать о птице в горах? Хах, у маленького дохляка вроде тебя нет шансов против нее.
 §7[3/7] §2Hermit: §aIt doesn't take kindly to strangers you know. I once saw it turn a group of poachers to ash!@§7[3/7] §2Hermit: §aОна не очень любит путешественников. Я видел, как она превратила целую группу людей в прах!
+§7[4/7] §2Hermit: §aIf you want to go through here, you'll need to pay. Oh, I don't want your money, why would I need money, I have everything!@§7[4/7] §2Hermit: §aЕсли хочешь пройти через мост, то ты должен заплатить. Нет, мне не нужны твои деньги, у меня всё есть!
 §7[5/7] §2Hermit: §aIf you want access to these plateaus then you will have to find me a rare flower for my little cave here.@§7[5/7] §2Hermit: §aЕсли хочешь пройти, то ты должен принести один редкий цветок для моей маленькой пещеры.
 §7[6/7] §2Hermit: §aIt is found on top of one of the stacks in the mesa, it shouldn't be too hard to find.@§7[6/7] §2Hermit: §aОн находится на вершине одной из скал плато, его будет не очень тяжело найти.
 §7[7/7] §2Hermit: §aBring me §3[1 Rare Rose]§a and I shall let you pass on to the creature of the mesa.@§7[7/7] §2Hermit: §aПринеси мне §3[1 Редкую розу]§a и я пропущу тебя к созданию плато.
@@ -33,3 +34,6 @@
 §7[3/5] §2Svin: §aSo the legend of the Cockatrice is true! You've seen it and battled it with your own courage!@§7[3/5] §2Svin: §aЗначит легенда о птице из каньона оказалось правдой! Ты храбро сразился с этим чудищем!
 §7[4/5] §2Svin: §aIf only you could enter the Temple of Legends, brave soul! But it would seem our paths are to part now. @§7[4/5] §2Svin: §aОднажды ты сможешь войти в Храм Легенд, смельчак! Но сейчас похоже наши пути расходятся.
 §7[5/5] §2Svin: §aDo not worry, I shall keep the egg safe. One day your legend shall be as greatly told!@§7[5/5] §2Svin: §aНе беспокойся, я сохраню яйцо. Однажды и о тебе будут слагать легенды!
+
+§7[1/1] §2Jankan: §aMe back ain’ gunna hold up carryin’ all that gold. Bring me my §3[5 Gold Chunks]§a from the tunnel, and then I’ll give ye yer information.@§7[1/1] §2Jankan: §aЯ вернулся, потому что не смог тащить все это золото. Принеси мне мои §3[5 Кусков Золота]§a из туннеля, а затем я дам тебе твою информацию.
+§7[1/1] §2Jankan: §aWoa there kiddo, there ain' no gold for you in this here cave, This be my humble occupation.@§7[1/1] §2Jankan: §aОоу, малой, в этой пещере для тебя нет золота. Это моя территория.
