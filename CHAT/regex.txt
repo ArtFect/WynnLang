@@ -14,7 +14,6 @@ Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §
 Key Collector: You cannot enter this dungeon unless you give me \[(.*)\]@§5Key Collector: §dТы не можешь войти в этот данж, пока не дашь мне §3(r1).
 Only (.*) more combat levels until you earn the (.*) spell@§5Еще §d(r1) комбат уровня §5и ты изучишь §d(r2) заклинание
 This material cannot be used for (.*)@Этот ресурс не может быть использован для (r1)
-You are now combat level (.*)@                         §eТы достиг (r1) комбат уровня
 You are now level (.*) in (.*)@                   §eТы достиг (r1) уровня в (r2)
 \+ Faster Gathering \[(.*)\]@§7+ Более быстрая добыча §8[(r1)]
 \+ Faster Refining \[(.*)\]@§7+ Более быстрая переработка §8[(r1)]
