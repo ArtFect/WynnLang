@@ -8,6 +8,7 @@
 §7[1/2]§2 Steam Mech-DM1:§a Evasive maneuver inefficient.@§7[1/2]§2 Steam Mech-DM1:§a §aМаневр уклонения неэффективен.
 §7[2/2]§2 Steam Mech-DM1:§a Request additional orders from L.H. Defend.@§7[2/2]§2 Steam Mech-DM1:§a §aЗапрашиваю дополнительные приказы у L.H. Защищаться.
 §7[1/6] §2Phinas: §aYou Wynn folk sure know your fights.@§7[1/6] §2Phinas: §aВы, солдаты из Wynn, всегда держите хватку.
+§7[2/6] §2Phinas: §aYou found all three? Let's take a look. Hmm....@§7[2/6] §2Phinas: §aТы нашел все три? Давай посмотрим. Хмм...
 §7[3/6] §2Phinas: §aWait. These aren't Despermechs.. The factory fell over two years ago. These are brand new. Handmade.@§7[3/6] §2Phinas: §aПодожди, это не отчаянные роботы...Фабрика была отключена более двух лет назад. А эти виды роботов новые. Сделанные вручную
 §7[4/6] §2Phinas: §aLet's take a closer look.@§7[4/6] §2Phinas: §aДавай посмотрим поближе.
 §7[5/6] §2Phinas: §aWould you look at that! Their code!@§7[5/6] §2Phinas: §aТолько посмотри на это! Это их код!
@@ -22,7 +23,7 @@
 §7[1/5]§2 ???:§a Stranger detected… Security system activated.@§7[1/5]§2 ???:§a §aНезнакомец обнаружен... Охранная система активирована.
 §7[2/5]§2 ???:§a Prepare for fall in 3@§7[2/5]§2 ???:§a §aПриготовьтесь к падению через 3
 §7[3/5]§2 ???:§a 2@§7[3/5]§§a  ???:§a 2
-§7[4/5]§2 ???:§a 1@§7[4/5]§2 ???:§a §a 
+§7[4/5]§2 ???:§a 1@§7[4/5]§2 ???:§a §a 1
 §7[5/5]§2 ???:§a Get ready.@§7[5/5]§2 ???:§a §aГотово.
 §7[1/1] §2Nettik: §aI'm sorry it ended up like this, you should've just ignored that old man.@§7[1/1] §2Nettik: §aМне жаль, что все закончилось вот так. Тебе следовало бы проигнорировать того старика.
 §7[1/2]§2 Big boss Mech-DM666:§a I was made to be angry. I can't stop myself...@§7[1/2]§2 Big boss Mech-DM666:§a §aЯ был сделан, чтобы быть злым. Я не могу остановиться...
@@ -33,3 +34,6 @@
 §7[4/6] §2Phinas: §aYou see, many of the Corkian people rely on their machines. Have done for years.@§7[4/6] §2Phinas: §aВидишь ли, многие жители Corkus'а полагаются на своих роботов. Уже много лет.
 §7[5/6] §2Phinas: §aSo when the factory fell and the new laws were introduced, people's lives changed..@§7[5/6] §2Phinas: §aИз-за этого, когда фабрику отключили и новые законы были введены, жизни людей изменились..
 §7[6/6] §2Phinas: §aPeople don't like change. Anyway, I can't thank you enough. Have this for your troubles.@§7[6/6] §2Phinas: §aЛюди не любят изменения. Но все же, я не смогу достаточно отблагодарить тебя. Возьми это за доставленные тебе проблемы.
+
+§7[1/2] §2Nettik: §aWhat in the world are you doing here!? Get out immediately.@§7[1/2] §2Nettik: §aЧто ты здесь делаешь!? Убирайся немедленно.
+§7[2/2] §2Nettik: §aI mean, welcome! Nothing suspicious here at all.@§7[2/2] §2Nettik: §aЯ имею в виду, добро пожаловать! Здесь вообще нет ничего подозрительного.
