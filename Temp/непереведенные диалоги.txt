@@ -229,29 +229,6 @@
 §7[1/1] §2????: §aHah, you're so weak I can blow you away with a fabulous air spell!@§7[1/1] §2????: §aХа, ты так слаб, что я могу взорвать тебя сказочным воздушным заклинанием!
 §7[1/1] §2???: §aYou have been granted access to leave the room.@§7[1/1] §2???: §aТебе был предоставлен доступ, чтобы покинуть комнату.
 
-================Boat.txt==============
-§7[1/4] §2Seaskipper Captain: §aMy love of the sea goes way back to my childhood. I grew up by the shores o' Gavel.@§7[1/4] §2Seaskipper Captain: §aМоя любовь к морю уходит корнями в детство. Я вырос на берегу Gavel'а.
-§7[2/4] §2Seaskipper Captain: §aWhat about you? Where'd you come from? I'm guessin' it must be Fruma.@§7[2/4] §2Seaskipper Captain: §aа что насчет тебя? Откуда ты взялся? Наверное, это была Fruma.
-§7[3/4] §2Seaskipper Captain: §aHaven't met anyone from that province before. Got any stories about your home?@§7[3/4] §2Seaskipper Captain: §aНикогда раньше не встречал никого из этой провинции. Есть какие-нибудь истории о твоем доме?
-§7[4/4] §2Seaskipper Captain: §aI hope the rumors about that place aren't true. It doesn't sound like a nice place to live...@§7[4/4] §2Seaskipper Captain: §aНадеюсь, слухи об этом месте не соответствуют действительности. Оно не похоже на хорошее место для жизни...
-§7[1/4] §2Seaskipper Captain: §aHave you ev'r heard the tale of the Troll Tower? It rests upon a small island, in a part of the sea where few travel.@§7[1/4] §2Seaskipper Captain: §aТы когда-нибудь слышал историю о Башне Тролля? Она находится на небольшом острове, в той части моря, где мало кто путешествует.
-§7[2/4] §2Seaskipper Captain: §aNorth of the Half-Moon Island and west of Mage Island. It's not a long sail from either, so I can always take ya if you want.@§7[2/4] §2Seaskipper Captain: §aК северу от острова Half-Moon и к западу от острова Магов. Это не так уж и далеко, так что я всегда могу взять тебя, если хочешь.
-§7[3/4] §2Seaskipper Captain: §aBut I'd be careful if I were you. If those legends are true, then yer in danger if you dare try and venture there.@§7[3/4] §2Seaskipper Captain: §aНо на твоем месте я был бы осторожен. Если легенды правдивы, то ты будешь в опасности, если осмелишься попробовать отправиться туда.
-§7[4/4] §2Seaskipper Captain: §aIf you manage to climb the tall and terrible tower, a ferocious Troll is said to be waiting for you at the top.@§7[4/4] §2Seaskipper Captain: §aЕсли тебе удастся подняться на высокую и страшную башню, говорят, что на вершине тебя ждет свирепый Тролль.
-§7[1/4] §2Seaskipper Captain: §aDid I ever tell you the story about how I got into the Seaskipper business in the first place?@§7[1/4] §2Seaskipper Captain: §aЯ никогда не рассказывал тебе историю о том, как я впервые попал в бизнес шкиперов?
-§7[2/4] §2Seaskipper Captain: §aYou see, my brothers inherited everything my father had. Land, emeralds, everythin'...@§7[2/4] §2Seaskipper Captain: §aВидишь ли, мои братья унаследовали все, что было у моего отца. Земля, эмеральды, всякое такое...
-§7[3/4] §2Seaskipper Captain: §aAll I got was this little boat. So I had to find some way to make money with it.@§7[3/4] §2Seaskipper Captain: §aВсе, что было у меня - это маленькая лодка. Так что мне пришлось найти какой-то способ заработать на этом денег.
-§7[4/4] §2Seaskipper Captain: §aSo I started takin' people on rides across the ocean, and here I am!@§7[4/4] §2Seaskipper Captain: §aТак что я начал возить людей через океан, и вот я здесь!
-§7[1/1]§2 Seaskipper Captain:§a Mate, are you sure that's a pass? I might've had one too much, but ye can't get anywhere with that! Get something useable next time, a'ight?§a @§7[1/1]§2 Seaskipper Captain:§aПриятель, ты уверен, что это тот билет? Возможно, я выпил слишком много, но с этим ты никуда не доедешь! Купи что-нибудь полезное в следующий раз, ладно?
-§7[1/4] §2Seaskipper Captain: §aSo, do you like me ship? I've had the ol' Seaskipper for years now!@§7[1/4] §2Seaskipper Captain: §aТак что, тебе нравится мой корабль? У меня уже много лет есть это старое морское судно!
-§7[2/4] §2Seaskipper Captain: §aBut I wonder if ye've ever noticed the bell on 'er? Give it a ring, if ya want.@§7[2/4] §2Seaskipper Captain: §aНо интересно, ты когда-нибудь замечал колокол на нем? Позвони в него, если хочешь.
-§7[3/4] §2Seaskipper Captain: §aMy passengers just keep ringin' it over and over to drown out me stories, though.@§7[3/4] §2Seaskipper Captain: §aМои пассажиры просто продолжают бить в него снова и снова, чтобы заглушить мои истории.
-§7[4/4] §2Seaskipper Captain: §aThey end up breakin’ it in the process, and it costs a small fortune to replace that ol’ thing.@§7[4/4] §2Seaskipper Captain: §aОни, в конечном итоге, ломают его в процессе, и это стоит небольшого состояния, чтобы заменить эту старую вещь.
-* §7[1/1]§2 Seaskipper Captain:§a Where are ya headed? Galleon's Graveyard, huh? A'ight! I'll get ya there in no time.@§7[1/1]§2 Seaskipper Captain:§aКуда ты направляешься? Galleon's Graveyard, да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
-* §7[4/4] §2Seaskipper Captain: §aWell, I ain't never seen any rare potatoes, but maybe you'll find that potato storage eventually!@§7[4/4] §2Seaskipper Captain: §aЧто ж, я никогда не видел этой редкой картошки, но, может быть, ты найдешь это хранилище картофеля в конце концов!
-§7[3/4] §2Seaskipper Captain: §aBut if you head southeast there's another island. It's so cold over there some say Santa himself set up his workshop there.@§7[3/4] §2Seaskipper Captain: §aЕсли ты направишься на юго-восток, там есть еще один остров. Там так холодно, что некоторые говорят, что сам Санта устроил там свою мастерскую.
-§7[1/1]§2 Seaskipper Captain:§a Where are ya headed? Zhight Island, huh? A'ight! I'll get ya there in no time.@§7[1/1]§2 Seaskipper Captain:§aКуда ты направляешься? Zhight Island, да? Отлично! Я доставлю тебя туда в кратчайшие сроки.
-
 =================Discoveries.txt=============
 §7[1/2] §2???: §aAh§a§kh§ah@§7[1/2] §2???: §aАх§a§kх§aх
 
