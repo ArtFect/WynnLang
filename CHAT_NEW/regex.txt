@@ -106,6 +106,7 @@
 §3You are inside of §b(.*)§3 mob totem. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3Ты внутри §b(r1)§3 моб тотема. Получи свой моб тотем при покупке ранга на §bwynncraft.com/store
 §4You cannot afford that! Removing powders from all items will cost (.*)@§4Ты не можешь себе этого позволить! Удаление порошков из всех предметов будет стоить (r1)
 §4You cannot afford that! Adding these powders will cost (.*)@§4Ты не можешь себе этого позволить! Добавление порошков на предмет будет стоить (r1)
+§e                      You are now combat level (.*)@§e                      Ты достиг (r1) комбат уровня
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aTasim: Don't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
