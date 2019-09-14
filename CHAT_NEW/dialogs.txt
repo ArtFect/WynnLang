@@ -2,7 +2,6 @@
 §7[1/1] §2Sayleros: §aYou look like you desperately need an adventure, Come back when you're level 20, I might need you.@§7[1/1] §2Sayleros: §aТы выглядишь так, будто отчаянно нуждаешься в приключении. Вернись, когда достигнешь 20-го уровня, ты можешь мне понадобиться.
 §7[1/1] §2Sayrr: §aIf you want the helmet, bring me §3[3 Pigman's Meat]§a and §3[1 Milk]§a. What are you waiting for? I'm a growing man!@§7[1/1] §2Sayrr: §aЕсли ты хочешь шлем, принеси мне §3[3 Мяса Пигмена]§a и §3[1 Молоко]§a. Чего ждешь? Я растущий человек!
 §7[1/1] §2Omango: §aYou are too low level to help me, yet. Come back when you are level 8.@§7[1/1] §2Omango: §aТы пока слишком низкого уровня, чтобы помочь мне. Вернись, когда достигнешь 8 уровня.
-§7[1/1] §2Enzan: §aWhat are you doing?@§7[1/1] §2Enzan: §aЧто ты делаешь?
 §7[1/1] §2Floormaster: §aYou may proceed.@§7[1/1] §2Floormaster: §aТы можешь пройти.
 §7[1/1] §2Vault Guard: §aAre you deaf? No §a§opassword§a, no way in for yer!@§7[1/1] §2Vault Guard: §aТы глухой? Нет §a§oпароля§a - нет входа внутрь! 
 §7[1/1] §2Laen: §aI have a task for you, but you §aare...perhaps§a a bit ill-equipped? Come back when you are level 26.@§7[1/1] §2Laen: §aУ меня есть задача для тебя, но ты...быть может, немного плохо оснащен? Вернись, когда будешь 26 уровня.
@@ -34,8 +33,6 @@
 §7[1/1] §2Calamaro: §aIt's such a joy to see somebody, sometimes we feel lonely down here.@§7[1/1] §2Calamaro: §aЭто такая радость видеть кого-то, иногда мы чувствуем себя здесь одинокими.
 §7[1/1] §2Enkser: §aAaah dang! I had some work for you, but I can't ask such a low level. Come back when you are level 34!@§7[1/1] §2Enkser: §aЭх черт! У меня есть кое-какая работа для тебя, но я не могу просить такого низкого уровня. Вернись, когда будешь 34 уровня!
 §7[1/1] §2Enkser: §aI wouldn't enter that if I were you...@§7[1/1] §2Enkser: §aНа твоем месте я бы туда не пошел....
-§7[1/2] §2Telvu: §aDid you listen?@§7[1/2] §2Telvu: §aТы меня слушал?
-§7[2/2] §2Telvu: §aIf you don't remember what I said, I remember you writing something in your book. Try looking there.@§7[2/2] §2Telvu: §aЕсли ты не помнишь, что я сказал, я помню, как ты что-то писал в своей книге. Попробуй посмотреть там.
 §7[2/2] §2Orikal: §aThe small mining camp a little east of this village should have what you're looking for. Now Hurry!@§7[2/2] §2Orikal: §aНебольшой шахтерский лагерь, немного восточнее этой деревни, должен иметь то, что ты ищешь. А теперь поторопись!
 §7[1/1] §2Flendar §aGet out of here!@§7[1/1] §2Flendar §aВон отсюда!
 §7[1/1] §2Drale: §aStay off of the boat! It's for the cows! Wish I was a cow... §7[Right-Click the boat to push it]@§7[1/1] §2Drale: §aДержись подальше от лодки! Это для коров! Хотел бы я быть коровой... §7[Правый-Клик по лодке, чтобы толкнуть]
@@ -93,7 +90,6 @@
 §7[1/1] §2Legend Guards: §aYou may not enter this place without a protection helmet! It is far too dangerous to go in without one.@§7[1/1] §2Legend Guards: §aТы не можешь войти в это место без защитного шлема! Это слишком опасно, чтобы идти туда без него.
 §7[1/1] §2Erlard: §aYou can't enter here! Didn't you listen? You need to aquire the veil buried in the catacombs of Olux! They are behind the bank, I believe.@§7[1/1] §2Erlard: §aТы не можешь войти сюда! Ты что, не слушал? Ты должен добыть вуаль, захороненную в катакомбах Olux'а! Они находятся за банком, я полагаю.
 §7[1/1] §2Erlard: §aAre you crazy? Don't enter that tower!@§7[1/1] §2Erlard: §aТы с ума сошел? Не входи в эту башню!
-§7[1/1] §2Calo: §aWoah, you can't just walk onto my ship like that!@§7[1/1] §2Calo: §aВоу, ты не можешь просто так войти в мой корабль!
 §7[1/1] §2Czytash: §aMan, this crate reeks. I almost wish someone would come and take it from me.@§7[1/1] §2Czytash: §aЧувак, этот ящик воняет. Я почти хочу, чтобы кто-нибудь пришел и забрал его у меня.
 §7[1/1] §2Zhight: §aTerribly sorry but the Zhight Grand Exchange is under repairs right now! You can't go in yet!@§7[1/1] §2Zhight: §aУжасно сожалею, но Zhight Grand Exchange находится в ремонте прямо сейчас! Ты еще не можешь войти туда!
 §7[1/1] §2Zhight: §aThe staff around the island are always willing to help a customer in need. If you ever need any help, just talk to one of them!@§7[1/1] §2Zhight: §aПерсонал по всему острову всегда готов помочь нуждающемуся клиенту. Если тебе когда-нибудь понадобится помощь, просто поговори с одним из них!
@@ -174,11 +170,6 @@
 §7[1/1] §2Grenot: §aWe need someone to help us contain the gas in the mines, but I'm sure it would kill anyone under level 85.@§7[1/1] §2Grenot: §aНам нужен кто-то, кто поможет нам сдержать газ в шахтах, но я уверен, что это убьет любого ниже 85 уровня.
 §7[2/2] §2Korun: §aShow me what you find at the source, and don't wear the helmet when you return, I'll need it back.@§7[2/2] §2Korun: §aПокажи мне, что ты нашел в источнике, и отдай мне шлем, когда вернешься, он мне понадобится.
 §7[1/1] §2Dolem: §aOh come on, have you not gotten any gold from the secret vault? If you've forgotten already, it's in the back of the treasure room.@§7[1/1] §2Dolem: §aДа ладно тебе, разве ты не достал золота из секретного хранилища? Если ты уже забыл, оно находится в задней части сокровищницы.
-§7[1/1] §2Dorroc: §aHello, I see you've gotten into bartering. I'm looking for a green hat, if you have one to sell.@§7[1/1] §2Dorroc: §aПривет, я вижу, что ты перешел к бартеру. Я ищу зеленую шляпу, если у тебя есть такая на продажу.
-§7[1/1] §2Govid: §aI have recently got into the dark arts, well, not using them! Just studying them. The only thing is demon body parts are hard to come by.@§7[1/1] §2Govid: §aЯ недавно увлекся темными искусствами, ну не использую их! Просто изучаю. Единственное, что части тела демона трудно найти.
-§7[1/1] §2Dobile: §aDo you have any eggs to trade? I know someone around here is selling one, I just don't know who.@§7[1/1] §2Dobile: §aУ тебя есть какие-нибудь яйца для торговли? Я знаю, что кто-то здесь продает одно, просто не знаю, кто именно.
-§7[1/1] §2Nakoba: §aDo you have §3[10 Troll Hair]§a No? Oh well...@§7[1/1] §2Nakoba: §aУ тебя есть §3[10 Скальпов Троллей]§a Нет? Ну что ж...
-§7[1/1] §2????: §aHah, you're so weak I can blow you away with a fabulous air spell!@§7[1/1] §2????: §aХа, ты так слаб, что я могу взорвать тебя сказочным воздушным заклинанием!
 §7[1/1] §2???: §aYou have been granted access to leave the room.@§7[1/1] §2???: §aТебе был предоставлен доступ, чтобы покинуть комнату.
 
 =================Discoveries.txt=============
@@ -298,20 +289,6 @@
 §7[2/2] §2Selchar Citizen: §aIf you want to go you will need a climbing helmet.@§7[2/2] §2Selchar Citizen: §aЕсли Ты хочешь пойти туда, то тебе понадобится альпинистский шлем.
 
 =================BaseQuestsEFGH.txt================
-§7[6/9] §2Rismor: §aYou heard me shout it earlier, if those idiots summon Naragath he could ravage the entire province! You see the giant hand, we'd be powerless to stop him!@§7[6/9] §2Rismor: §aКак уже говорил раньше, эти идиоты призовут Naragath'a, чтобы он опустошил целую провинцию! Как видишь по гигантской руке, мы будем не в силах остановить его!
-§7[1/8] §2Rismor: §aI saw your fight. Did the acolyte there have the scroll?@§7[1/8] §2Rismor: §aЯ видел твою битву. Удалось достать свиток у прислужника?
-§7[1/2] §2Harker: §aThat demon is too powerful to fight, even newly released. But we can stop him before he gets too strong to hold back!@§7[1/2] §2Harker: §aЭтот демон слишком силен, чтобы сражаться против него, даже недавно освобожденный. Но мы можем остановить его прежде, чем он станет слишком сильным!
-§7[2/2] §2Harker: §aKill the Hierophants and bring me §3[5 Icons of Naragath] §aand I should be able to weaken him enough for you to kill him!@§7[2/2] §2Harker: §aУбей Hierophant'ов и принеси мне §3[5 Икон Naragath'а]§a, и я смогу ослабить его достаточно, чтобы ты убил его!
-§7[3/5] §2Harker: §aThe Eye of Blood is tying him to this plane of existence. If you can separate it from him, I think I could manage to banish him!@§7[3/5] §2Harker: §aГлаз Крови как-то связан с ним. Если ты сможешь отделить его от него, то я смогу попробовать изгнать его!
-§7[1/8] §2Rismor: §aI'm at a loss for words. I didn't expect you to survive.@§7[1/8] §2Rismor: §aУ меня нет слов. Я и не ожидал, что ты выживешь.
-§7[4/8] §2Rismor: §aThe cultists suddenly panicked when the hand retreated of its own accord as it did. Most of them seem to have left Lexdale.@§7[4/8] §2Rismor: §aКультисты начали паниковать и разбегаться, когда рука застыла на месте. Похоже большинство из них покинули Lexdale.
-§7[8/8] §2Rismor: §aFarewell, adventurer. I do hope we may meet again, under better circumstances. I can only pray that this is the last we will clash with those from the realms of darkness.@§7[8/8] §2Rismor: §aПрощай, искатель приключений. Я надеюсь, что мы встретимся снова, при лучших обстоятельствах. Могу только молиться, что бы это было наше последнее столкновение со злом из царства тьмы.
-§7[1/1] §2???: §aA Human?! Help! They're going to try to feed me to a hellhound!@§7[1/1] §2???: §aЧеловек! Помоги! Они хотят скормить меня церберу!
-§7[1/1] §2Talos: §aThanks for your help, human. Please tell Arwes that I am alright. I'll make sure these scumbags stay here until I can fetch the police.@§7[1/1] §2Talos: §aСпасибо тебе за помощь, человек. Пожалуйста, скажи Arwes'у, что я в порядке. Я прослежу, чтобы эти подонки оставались здесь, пока я не вызову полицию.
-§7[1/7] §2Ceyquin: §aWha- A...A human? In Lexdale?! How did you get in, do you have a death wish?!@§7[1/7] §2Ceyquin: §aЧто- Ч...Человек? в Lexdale?! Как ты попал сюда, у тебя есть предсмертное желание?!
-§7[4/7] §2Ceyquin: §aThey're trying to summon that Naragath character, whatever it §ais...some§a kind of demon, I suppose. They say if we obey them, he'll spare us.@§7[4/7] §2Ceyquin: §aОни пытаются призвать некого Naragath'a... Он некто вроде демона, я полагаю. Они сказали, если мы подчинимся ему, то он пощадит нас.
-§7[1/7] §2Ceyquin: §aN-no, nothing to hide! I wouldn't dream of harboring a dissident in my humble home!@§7[1/7] §2Ceyquin: §aН-Нет, я ничего не скрываю! Я даже и не думал впускать инакомыслящего в свой скромный дом!
-§7[4/7] §2Ceyquin: §aIf you really think you can help, you certainly won't be able to from here. The cultists have this town in a stranglehold.@§7[4/7] §2Ceyquin: §aЕсли ты действительно хочешь помочь, то отсюда ты этого сделать точно не сможешь. Культисты держат этот город мертвой хваткой.
 
 §7[5/10] §2Detective Jackson: §aOrcs never used axe's before they got their hands on one of ours. I fear they are replicating it, but poorly.@§7[5/10] §2Detective Jackson: §aОрки никогда не использовали топоры, до того момента, пока не завладели нашим. Боюсь, что они делают копии, но получается у них плохо.
 §7[4/6] §2Detective Jackson: §aAnyway. This is made of a particular rock type, the closest source is under a small lake nearby.@§7[4/6] §2Detective Jackson: §aТак или иначе, они сделаны из особенной породы. Ближайший источник находится под небольшим озером неподалеку.
@@ -349,22 +326,7 @@
 §7[3/9] §2Old Siwel: §a§kMumbles a strange, dead language§a....@§7[3/9] §2Old Siwel: §a§kБормочет странный, мертвый язык§а...
 §7[8/9] §2Old Siwel: §aOh and one more thing, If you die in the memory, you die in reality too....@§7[8/9] §2Old Siwel: §aО, и еще одна вещь - если ты умрешь в памяти, то ты умрешь и в реальности тоже...
 
-§7[1/1] §2Controller: §aOh, seems like that was wrong! Too bad!@§7[1/1] §2Controller: §aОх, кажется, это было неправильно! Очень жаль!
-§7[1/1] §2Broadcast: §aAttention passengers. There has been a missing person reported aboard. If there are any volunteers to help search for them please report to the control deck and speak to the captain.@§7[1/1] §2Broadcast: §aВнимание, пассажиры. На борту  пропал человек. Если есть добровольцы, которые помогут их найти, пожалуйста, явитесь на  палубу управления и поговорите с капитаном.
-§7[5/7] §2Captain Ackbar: §aSince we don't have any leads, it might be best to ask some of the passengers for information.@§7[5/7] §2Captain Ackbar: §aПоскольку у нас нет никаких улик, для начала неплохо бы опросить пассажиров, вдруг они что-то видели.
-§7[1/1] §2Passenger Nancy: §aHave you found my child?@§7[1/1] §2Passenger Nancy: §aТы уже нашел моего ребенка?
-§7[1/2] §2Engineer Eric: §aI dun gave you the instructions. Just check it if you forget the code.@§7[1/2] §2Engineer Eric: §aЯ дал тебе инструкцию. Просто проверь ее, если ты забыл код.
-§7[2/2] §2Engineer Eric: §aIt was something like red... orange... yellow.. Ah, it all on the paper anyway.@§7[2/2] §2Engineer Eric: §aТам было что-то вроде красного... оранжевого... желтого.. Ах, все это на бумаге в любом случае.
-§7[1/1] §2Child: §aAw man, I can't believe I'm not allowed to sit with the adults. I'm nearly twelve!!@§7[1/1] §2Child: §aБоже, я не могу поверить, что мне нельзя сидеть со взрослыми. Мне уже почти двенадцать!!
 
-§7[1/1] §2Relend: §aHop aboard my ship so we can cross the water, Little Wing is what I like to call her.@§7[1/1] §2Relend: §aНу раз нет, тогда вперед, отплыть туда будет нетрудно, ведь Little Wing - так я зову свое милое судно!
-§7[1/1] §2Relend: §aI think before we get into any real danger, we should turn around. Could you man the wheel and get us back to solid ground?@§7[1/1] §2Relend: §aДумаю, прежде чем мы попадем в настоящую опасность, нам лучше повернуть назад. Может возьмешь штурвал на себя, я был бы этому рад!
-§7[1/1] §2Relend: §aWe should probably get out of this place, it feels rather small. Perhaps you can try to break through that weak spot in the wall?@§7[1/1] §2Relend: §aНужно выбираться отсюда, выход в другой стороне. Может, ты попробуешь сломать эти дряхлые доски в стене?
-§7[1/1] §2Relend: §aTake a look at your quest book if you forgot your project, this island has supplies we ought to collect!@§7[1/1] §2Relend: §aЗагляни в свою книгу квестов, если ты забыл что нужно, на этом острове есть запасы, пойдем искать их дружно!
-
-§7[3/5] §2Sasha: §aLet's see... That'll be §3[200,000 Liquified Emeralds] §aplease.@§7[3/5] §2Sasha: §aПосмотрим.. С вас §3[200,000 жидких эмеральдов]§a, пожалуйста.
-§7[4/5] §2Sasha: §aHe said he'll give it back only in exchange for §3[200,000 Liquified Emeralds]§a!@§7[4/5] §2Sasha: §aОн сказал, что отдаст его только в обмен на §3[200,000 жидких эмеральдов]§a!
-§7[2/2] §2Guardian of The Forest: §aZzzzzzzzz...@§7[2/2] §2Guardian of The Forest: §aХррр-ппффф....
 
 =================BaseQuestsIJKLM.txt===============
 §7[3/6] §2Aryn: §aOh... My father sent you? Well, I am very impressed, Wynn warrior. You fight with the ferocity of our own!@§7[3/6] §2Aryn: §aОх...Мой отец прислал тебя за мной? Что же... Я впечатлен, воин провинции Wynn. Ты сражался как хищник!
