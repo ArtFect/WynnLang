@@ -1,8 +1,3 @@
-§7[1/2] §2Tarod: §aThank you very much for your help. I believe that now that the door has been opened, he can leave this world for good.@§7[1/2] §2Tarod: §aСпасибо большое за помощь. Я полагаю, дверь в его гробницу теперь будет открыта - он может покинуть этот мир.
-§7[2/2] §2Tarod: §aTake these. It's his old battle chestplate, I'm sure he wouldn't mind now that he doesn't need it anymore.@§7[2/2] §2Tarod: §aВозьми это. Это его старый боевой нагрудник. Уверен что он не возражает, ведь он ему уже не нужен.
-§7[3/5] §2Eppo: §a...@§7[3/5] §2Eppo: §a...
-§7[1/2] §2Guardian of The Forest: §a...@§7[1/2] §2Guardian of The Forest: §a...
-§7[4/6] §2Nick: §aOh...@§7[4/6] §2Nick: §aОх?
 §7[1/9] §2Tarod: §aMy name is Tarod, and I really need your help.@§7[1/9] §2Tarod: §aМеня зовут Tarod, и мне очень нужна твоя помощь.
 §7[2/9] §2Tarod: §aYou see, many years ago I met a very powerful warrior, named Bob.@§7[2/9] §2Tarod: §aВидишь ли, много лет назад я встретил очень сильного воина, его звали Bob.
 §7[3/9] §2Tarod: §aHe was a celebrity, everybody loved him! After a while, we became close friends.@§7[3/9] §2Tarod: §aОн был известен, все любили его! Через некоторое время мы стали близкими друзьями.
@@ -34,6 +29,8 @@
 §7[2/6] §2The Blacksmith: §aOh yes! I can extract the soul from weapons!@§7[2/6] §2The Blacksmith: §aАх да! Я могу извлечь душу из оружия!
 §7[3/6] §2The Blacksmith: §aBring me the weapons of your friend, and I'll see if I can do something with it!@§7[3/6] §2The Blacksmith: §aПринеси мне оружие твоего друга, я и посмотрю что можно сделать с ним!
 §7[4/6] §2The Blacksmith: §aOh it's... those weapons. Well, if you know what you're doing...@§7[4/6] §2The Blacksmith: §aОх, это... Те оружия. Что ж, если ты знаешь что делаешь...
+§7[5/6] §2The Blacksmith: §3[1 Depressing Stick]§a, §3[1 Depressing Spear]§a, §3[1 Depressing Bow]§a and §3[1 Depressing Shears]§a will do the trick.@§7[5/6] §2The Blacksmith: §3[1 Depressing Stick]§a, §3[1 Depressing Spear]§a, §3[1 Depressing Bow]§a и §3[1 Depressing Shears]§a будет достаточно.
+§7[6/6] §2The Blacksmith: §aThink you can get those from monsters somewhere 'round Nesaak.@§7[6/6] §2The Blacksmith: §aДумаю можешь добыть их с монстров вокруг города Nesaak.
 §7[1/4] §2The Blacksmith: §a... Hi again. I see you got the weapons.@§7[1/4] §2The Blacksmith: §a... Снова здравствуй. Я вижу, ты принес оружия.
 §7[2/4] §2The Blacksmith: §aThese weapons emanate so much sadness... I'm sure you heard about Bob's story...@§7[2/4] §2The Blacksmith: §aОт этих орудий так и веет грустью... Уверен, что ты слышал о истории Боба...
 §7[3/4] §2The Blacksmith: §aHere is the soul. It's a little bit crushed, but it can do the trick.@§7[3/4] §2The Blacksmith: §aА вот и душа. Она немного измельчена, но это сработает.
@@ -41,5 +38,13 @@
 §7[1/6] §2Wedyf: §aI'm glad to see you again.@§7[1/6] §2Wedyf: §aРад снова видеть тебя. .
 §7[2/6] §2Wedyf: §aI only need a part of the soul, you can keep the rest.@§7[2/6] §2Wedyf: §aМне нужна только часть души - остальное можешь оставить себе.
 §7[3/6] §2Wedyf: §aGive me a minute, I need to concentrate...@§7[3/6] §2Wedyf: §aДай мне минутку, мне нужно сконцентрироваться.
+§7[4/6] §2Wedyf: §a... §a§k. §a.. §a§k.@§7[4/6] §2Wedyf: §a... §a§k. §a.. §a§k.
+§7[5/6] §2Wedyf: §a§k..... §a.. §a§k.....  .  . . §a. ... @§7[5/6] §2Wedyf: §a§k..... §a.. §a§k.....  .  . . §a. ... 
 §7[6/6] §2Wedyf: §aIt is done. You should be able to enter the tomb now. Be careful.@§7[6/6] §2Wedyf: §aГотово. Теперь ты можешь войти в гробницу. Будь осторожен.
+§7[1/2] §2Tarod: §aThank you very much for your help. I believe that now that the door has been opened, he can leave this world for good.@§7[1/2] §2Tarod: §aСпасибо большое за помощь. Я полагаю, дверь в его гробницу теперь будет открыта - он может покинуть этот мир.
+§7[2/2] §2Tarod: §aTake these. It's his old battle chestplate, I'm sure he wouldn't mind now that he doesn't need it anymore.@§7[2/2] §2Tarod: §aВозьми это. Это его старый боевой нагрудник. Уверен что он не возражает, ведь он ему уже не нужен.
+
 §7[1/1] §2The Blacksmith: §aWhat can I do for ya?@§7[1/1] §2The Blacksmith: §aЧто я могу сделать для тебя?
+§7[1/1] §2Wedyf: §aHow is your quest coming along? I am still waiting for the items I asked of you.@§7[1/1] §2Wedyf: §aКак продвигаются твои поиски? Я все еще жду предметов, которые просил у тебя.
+§7[1/2] §2The Blacksmith: §aBring me §3[1 Depressing Stick]§a, §3[1 Depressing Spear]§a, §3[1 Depressing Bow]§a and §3[1 Depressing Shear]§a so I can extract the soul from them.@§7[1/2] §2The Blacksmith: §aПринеси мне §3[1 Depressing Stick]§a, §3[1 Depressing Spear]§a, §3[1 Depressing Bow]§a и §3[1 Depressing Shear]§a, чтобы я мог извлечь душу из них.
+§7[2/2] §2The Blacksmith: §aThink you can get those from monsters somewhere 'round Nesaak.@§7[2/2] §2The Blacksmith: §aДумаю ты можешь достать их с монстров вокруг Nesaak'a.
