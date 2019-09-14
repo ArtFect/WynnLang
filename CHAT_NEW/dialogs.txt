@@ -6,7 +6,6 @@
 §7[1/1] §2Vault Guard: §aAre you deaf? No §a§opassword§a, no way in for yer!@§7[1/1] §2Vault Guard: §aТы глухой? Нет §a§oпароля§a - нет входа внутрь! 
 §7[1/1] §2Laen: §aI have a task for you, but you §aare...perhaps§a a bit ill-equipped? Come back when you are level 26.@§7[1/1] §2Laen: §aУ меня есть задача для тебя, но ты...быть может, немного плохо оснащен? Вернись, когда будешь 26 уровня.
 §7[1/1] §2Omango: §aFind my friend Sayrr, he can give you the helmet. After that, explore the ship and bring me §3[4 Ancient Treasure]§a.@§7[1/1] §2Omango: §aНайди моего друга Sayrr'а, он может дать тебе шлем. После этого исследуй корабль и принеси мне §3[4 Древнего Сокровища]§a
-§7[1/1] §2Yodbon: §aYou gotten me §3[5 Soft Sand] §ayet? You can dig it up from all those sand piles 'round the desert.@§7[1/1] §2Yodbon: §aТы уже достал для меня §3[5 Мягкого Песка] §a? Ты можешь выкопать его из всех этих куч песка по всей пустыне.
 §7[1/1] §2Fredris: §aWhere is the §3[Breathing Helmet I] §aI asked you for?@§7[1/1] §2Fredris: §aГде §3[Шлем Подводника I] §aо котором я спрашивал?
 §7[1/1] §2Pottur: §aThis just isn't working out...@§7[1/1] §2Pottur: §aЭто просто не работает...
 §7[1/1] §2Pottur: §aWatch out there! We’re breaking through this boulder. We report only to Ragni army members level 21 and above.@§7[1/1] §2Pottur: §aОсторожнее там! Мы прорываемся через этот валун. Мы докладываем только бойцам армии Ragni уровня 21 и выше.
@@ -51,7 +50,6 @@
 §7[1/1] §2Soldier: §aAll right, recruits, the castle is straight ahead!@§7[1/1] §2Soldier: §aХорошо, новобранцы, замок прямо впереди!
 §7[1/1] §2Farmer Cevalus: §aHey! Get away from my farm, this is a private property!@§7[1/1] §2Farmer Cevalus: §aЭй! Убирайся с моей фермы, это частная собственность!
 §7[1/1] §2Farmer Cevalus: §aI could really use some help right now, but you are too weak. Come back when you are level 2.@§7[1/1] §2Farmer Cevalus: §aМне бы сейчас не помешала помощь, но ты слишком слаб. Вернись, когда будешь 2 уровня.
-§7[1/1] §2Detective Jackson: §aI'm assuming they are under the lake just north-west of here making the axes.@§7[1/1] §2Detective Jackson: §aЯ предполагаю, что они находятся под озером к северо-западу отсюда, делают топоры.
 §7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Guard: §aВстань перед стеной и используй свое заклинание, кликнув §bПравая-Левая-Правая§a!
 §7[1/2] §2Haily: §aWe're looking for volunteers for the holiday season.@§7[1/2] §2Haily: §aМы ищем добровольцев для праздничного сезона.
 §7[2/2] §2Haily: §aCome back when you're level 33.@§7[2/2] §2Haily: §aВернись, когда будешь 33-го уровня.
@@ -63,8 +61,6 @@
 §7[2/2] §2Server: §aNick really changed people's minds. Sorry about what I said.@§7[2/2] §2Server: §aNick действительно изменил мнение людей. Прости за то, что я говорил.
 §7[1/1] §2Server: §aHey! Don't you dare go stealing from the kitchen!@§7[1/1] §2Server: §aЭй! Не смей воровать на кухне!
 §7[1/1] §2Vault Guard: §aWhat are ya even doing here? Look at you, even a coyote would rip that armor apart!@§7[1/1] §2Vault Guard: §aЧто ты вообще здесь делаешь? Посмотри на себя, даже койот разорвал бы эту броню на части!
-§7[1/1] §2Eluzterp: §aOh, I beg your forgiveness, I don’t think you're quite ready to help me yet, or go into the cave. Come talk to me when you're level 31.@§7[1/1] §2Eluzterp: §aО, прошу прощения, я не думаю, что ты уже готов помочь мне, или пойти в пещеру. Поговори со мной, когда достигнешь 31-го уровня.
-§7[1/1] §2Eluzterp: §aHey you! Don't go in there yet!@§7[1/1] §2Eluzterp: §aЭй ты! Не ходи туда пока!
 §7[1/1] §2Achper: §aHi! If you are looking for some information about mummies, I can help you!@§7[1/1] §2Achper: §aПривет! Если ты ищешь какую-то информацию о мумиях, я могу тебе помочь!
 §7[1/1] §2Excavator Lykron: §aHello there! We are working very hard here at this excavation site! We have one in Almuj as well, I think you should check it out!@§7[1/1] §2Excavator Lykron: §aПривет! Мы очень много работаем здесь, на этом месте раскопок! У нас также есть одно место в Almuj'е, думаю, ты должен проверить его!
 §7[1/1] §2Tasim: §aHey, where are you going? We need you to use your spell on that boulder!@§7[1/1] §2Tasim: §aЭй, куда ты идешь? Нам нужно, чтобы ты использовал свое заклинание на этом валуне!
@@ -127,7 +123,6 @@
 §7[1/1] §2Isfurus: §aYour directions are in your quest book, friend. Always consult it if you are in a bind.@§7[1/1] §2Isfurus: §aТвои указания есть в твоей квестовой книге, друг. Всегда консультируйся с ней, если находишься в затруднительном положении.
 §7[1/1] §2Erisk: §aJust make sure to check back in with Isfurus before you leave!@§7[1/1] §2Erisk: §aПросто убедись, что ты вернулся к Isfurus'у перед уходом!
 §7[1/1] §2Captain Lorias: §aThis is a crime scene! Step away from there.@§7[1/1] §2Captain Lorias: §aЭто место преступления! Отойди оттуда.
-§7[1/1] §2Old Siwel: §aI can not cast the spell without the §3[3 Umbral Essences]§a I asked for.@§7[1/1] §2Old Siwel: §aЯ не могу произнести заклинание без §3[3 Umbral Essences]§a, о которых я просил.
 §7[1/1] §2Referick: §aHeeeellllllllppppp mmeeeeeeee... Saaaaaaavveeeee uuussssss...!@§7[1/1] §2Referick: §aПоооммммоооогггггииии ммннннееее......Сссппаааааасссссиии нннаааасссссс...!
 
 ===============76-100.txt===============
@@ -192,18 +187,6 @@
 §7[1/2] §2Ghostly Voice: §aIt all seems clear to me now.. The struggle for life... It’s futile. There need only be peaceful darkness.@§7[1/2] §2Ghostly Voice: §aТеперь мне все кажется ясным.. Борьба за жизнь... это бесполезно. Здесь должна быть только мирная тьма
 §7[2/2] §2Ghostly Voice: §aOnce my transformation is complete I shall begin to cleanse the world of vile mortality.@§7[2/2] §2Ghostly Voice: §aКак только моя трансформация завершится, я начну очищать мир от мерзкой смертности.
 §7[1/1] §2Ghostly Voice: §aI will not let you stop me!@§7[1/1] §2Ghostly Voice: §aЯ не позволю тебе остановить меня!
-
-=================BaseQuestsEFGH.txt================
-§7[5/10] §2Detective Jackson: §aOrcs never used axe's before they got their hands on one of ours. I fear they are replicating it, but poorly.@§7[5/10] §2Detective Jackson: §aОрки никогда не использовали топоры, до того момента, пока не завладели нашим. Боюсь, что они делают копии, но получается у них плохо.
-§7[4/6] §2Detective Jackson: §aAnyway. This is made of a particular rock type, the closest source is under a small lake nearby.@§7[4/6] §2Detective Jackson: §aТак или иначе, они сделаны из особенной породы. Ближайший источник находится под небольшим озером неподалеку.
-§7[5/6] §2Detective Jackson: §aIt's north west of here. they must have found a cave under there.@§7[5/6] §2Detective Jackson: §aОно находится на северо-западе отсюда. Под ним есть пещера.
-
-§7[4/7] §2Old Siwel: §aI'd sit and tell you, but I feel you might get a better experience first hand....@§7[4/7] §2Old Siwel: §aЯ могу сидеть и рассказывать тебе, но думаю, что лучше получить опыт из первых рук...
-§7[5/5] §2Siwel: §aI want you to go check out that egg. See if you can get rid of whatever it is producing. Bring me §3[5 Monster Hides]§a as evidence.@§7[5/5] §2Siwel: §aЯ хочу, чтобы ты проверил это яйцо. Вдруг мы сможем избавиться от всего, что оно производит. Принеси мне §3[5 Шкур Монстров]§a в качестве доказательств.
-§7[1/9] §2Old Siwel: §aExcellent. You acquired the ingredients. Just give me a second and i'll prepare you for your journey into the mind of the dead.@§7[1/9] §2Old Siwel: §aОтлично! Ты принес ингредиенты. Просто дай мне секунду, и я подготовлю тебя к путешествию в память мертвых.
-§7[2/9] §2Old Siwel: §a§kMumbles a strange, dead language§a...@§7[2/9] §2Old Siwel: §a§kБормочет странный, мертвый язык§а...
-§7[3/9] §2Old Siwel: §a§kMumbles a strange, dead language§a....@§7[3/9] §2Old Siwel: §a§kБормочет странный, мертвый язык§а...
-§7[8/9] §2Old Siwel: §aOh and one more thing, If you die in the memory, you die in reality too....@§7[8/9] §2Old Siwel: §aО, и еще одна вещь - если ты умрешь в памяти, то ты умрешь и в реальности тоже...
 
 =================BaseQuestsIJKLM.txt===============
 §7[3/6] §2Aryn: §aOh... My father sent you? Well, I am very impressed, Wynn warrior. You fight with the ferocity of our own!@§7[3/6] §2Aryn: §aОх...Мой отец прислал тебя за мной? Что же... Я впечатлен, воин провинции Wynn. Ты сражался как хищник!
