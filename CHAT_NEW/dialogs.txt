@@ -6,7 +6,6 @@
 §7[1/1] §2Floormaster: §aYou may proceed.@§7[1/1] §2Floormaster: §aТы можешь пройти.
 §7[1/1] §2Vault Guard: §aAre you deaf? No §a§opassword§a, no way in for yer!@§7[1/1] §2Vault Guard: §aТы глухой? Нет §a§oпароля§a - нет входа внутрь! 
 §7[1/1] §2Laen: §aI have a task for you, but you §aare...perhaps§a a bit ill-equipped? Come back when you are level 26.@§7[1/1] §2Laen: §aУ меня есть задача для тебя, но ты...быть может, немного плохо оснащен? Вернись, когда будешь 26 уровня.
-§7[1/1] §2Leucsaa: §aI wish you could assist me, but I need someone who is above level 24 to take on this mansion's complexity!@§7[1/1] §2Leucsaa: §aХотела бы, чтобы ты мог помочь мне, но мне нужен кто-то, кто выше 24 уровня, и сможет разобраться со сложностями этого особняка!
 §7[1/1] §2Omango: §aFind my friend Sayrr, he can give you the helmet. After that, explore the ship and bring me §3[4 Ancient Treasure]§a.@§7[1/1] §2Omango: §aНайди моего друга Sayrr'а, он может дать тебе шлем. После этого исследуй корабль и принеси мне §3[4 Древнего Сокровища]§a
 §7[1/1] §2Yodbon: §aYou gotten me §3[5 Soft Sand] §ayet? You can dig it up from all those sand piles 'round the desert.@§7[1/1] §2Yodbon: §aТы уже достал для меня §3[5 Мягкого Песка] §a? Ты можешь выкопать его из всех этих куч песка по всей пустыне.
 §7[1/1] §2Fredris: §aWhere is the §3[Breathing Helmet I] §aI asked you for?@§7[1/1] §2Fredris: §aГде §3[Шлем Подводника I] §aо котором я спрашивал?
@@ -39,7 +38,6 @@
 §7[2/2] §2Telvu: §aIf you don't remember what I said, I remember you writing something in your book. Try looking there.@§7[2/2] §2Telvu: §aЕсли ты не помнишь, что я сказал, я помню, как ты что-то писал в своей книге. Попробуй посмотреть там.
 §7[2/2] §2Orikal: §aThe small mining camp a little east of this village should have what you're looking for. Now Hurry!@§7[2/2] §2Orikal: §aНебольшой шахтерский лагерь, немного восточнее этой деревни, должен иметь то, что ты ищешь. А теперь поторопись!
 §7[1/1] §2Flendar §aGet out of here!@§7[1/1] §2Flendar §aВон отсюда!
-§7[1/1] §2Leucsaa: §aHey, you can't just barge in there! You'd get lost, trust me.@§7[1/1] §2Leucsaa: §aЭй, ты не можешь просто ворваться туда! Ты потеряешься там, поверь мне.
 §7[1/1] §2Drale: §aStay off of the boat! It's for the cows! Wish I was a cow... §7[Right-Click the boat to push it]@§7[1/1] §2Drale: §aДержись подальше от лодки! Это для коров! Хотел бы я быть коровой... §7[Правый-Клик по лодке, чтобы толкнуть]
 §7[1/3] §2Aledar: §aNow that you've refined the materials, it's time to actually craft your weapon. Follow me.@§7[1/3] §2Aledar: §aТеперь, когда ты переработал материалы, пришло время создать свое оружие. Следуй за мной.
 §7[1/1] §2Aledar: §aWe can use this tree as a bridge to get across to the other side.@§7[1/1] §2Aledar: §aМы можем использовать это дерево как мост, чтобы перебраться на другую сторону.
@@ -54,10 +52,6 @@
 §7[1/1] §2Aledar: §aUse §b1 string§a and §b2 wood§a at the workbench to create §3[1 Wand]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b1 нитку§a и §b2 дерева§a на верстаке, чтобы создать §3[1 Посох]§a и затем покажи его мне.
 §7[1/1] §2Old Man: §aI left my pickaxe by the ore over yonder. Use it to mine some copper and bring it back here.@§7[1/1] §2Old Man: §aЯ оставил свою кирку у руды вон там. Используй ее, чтобы добыть немного меди и принеси сюда.
 §7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bLeft-Right-Left§a!@§7[1/1] §2Guard: §aВстань перед стеной и используй свое заклинание, кликнув §bЛевая-Правая-Левая§a!
-§7[1/1] §2Ragon: §aAre you mad? don't run back into the fire, I don't want to have to save you a second time.@§7[1/1] §2Ragon: §aТы с ума сошел? не беги обратно в огонь, я не хочу спасать тебя во второй раз.
-§7[1/1] §2Ragon: §aRecruit! You don't have permission to go in there. We're running experiments!@§7[1/1] §2Ragon: §aРекрут! У тебя нет разрешения войти туда. Мы проводим эксперименты!
-§7[1/1] §2Ragon: §aHey! Don't go near that! We need it for an experiment!@§7[1/1] §2Ragon: §aЭй! Не приближайся туда! Это нам нужно для эксперимента!
-§7[1/1] §2Ragon: §aHello there, looks like you made it through the forest, that's quite an achievement. You could come by later if you would like to help us, we need recruits who are §blevel 10§a.@§7[1/1] §2Ragon: §aПривет, похоже, ты смог пройти через лес, что уже довольно таки достижение. Ты можешь прийти позже, если хочешь помочь нам, нам нужны рекруты §b10 уровня§a.
 §7[1/1] §2Soldier: §aAll right, recruits, the castle is straight ahead!@§7[1/1] §2Soldier: §aХорошо, новобранцы, замок прямо впереди!
 §7[1/1] §2Farmer Cevalus: §aHey! Get away from my farm, this is a private property!@§7[1/1] §2Farmer Cevalus: §aЭй! Убирайся с моей фермы, это частная собственность!
 §7[1/1] §2Farmer Cevalus: §aI could really use some help right now, but you are too weak. Come back when you are level 2.@§7[1/1] §2Farmer Cevalus: §aМне бы сейчас не помешала помощь, но ты слишком слаб. Вернись, когда будешь 2 уровня.
