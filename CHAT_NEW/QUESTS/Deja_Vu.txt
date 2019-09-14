@@ -19,6 +19,7 @@
 §7[2/8] §2Old Man Martyn: §aTime Valley was built many years ago by a long-lost civilization.@§7[2/8] §2Old Man Martyn: §aДолина времени была построена много лет назад давно потерянной цивилизацией.
 §7[3/8] §2Old Man Martyn: §aThey had odd powers. They ended up distorting time itself.@§7[3/8] §2Old Man Martyn: §aУ них были странные способности. Они были способны искажать само время.
 §7[4/8] §2Old Man Martyn: §aThe tools they used to make these structures are imbued with their power.@§7[4/8] §2Old Man Martyn: §aИнструменты, которые они использовали для создания этих структур, пропитаны их силой.
+§7[5/8] §2Old Man Martyn: §aAsher found one of these tools: the shovel.@§7[5/8] §2Old Man Martyn: §aAsher нашел один из этих инструментов - лопату.
 §7[6/8] §2Old Man Martyn: §aThe shovel is tethering its time of influence to today. It keeps sending Asher back.@§7[6/8] §2Old Man Martyn: §aЭта лопата оказывает влияние на время сегодняшнего дня. Она продолжает посылать Asher'a назад во времени.
 §7[7/8] §2Old Man Martyn: §aThe issue is, Asher died in the past. This creates a paradox.@§7[7/8] §2Old Man Martyn: §aПроблема в том, что Asher умер в прошлом. Это создает парадокс.
 §7[8/8] §2Old Man Martyn: §aWe can save him if I send you back to prevent his death. Go through this rift to join him in the past.@§7[8/8] §2Old Man Martyn: §aМы можем спасти его, если я отправлю тебя назад, чтобы предотвратить его смерть. Пройди через этот разлом, чтобы присоединиться к нему в прошлом.
@@ -73,4 +74,9 @@
 §7[1/3] §2Asher: §aI think he might have known Bob. I saw some letters in his house.@§7[1/3] §2Asher: §aЯ думаю, он мог знать Bob'а. Я видел несколько писем в его доме.
 §7[2/3] §2Asher: §aWeird, right? Bob was a hard guy to know.@§7[2/3] §2Asher: §aСтранно, правда? Bob был одним из тех, о ком трудно было что-то узнать.
 §7[3/3] §2Asher: §aAnyway, take this. It's the least I can do to pay you for saving me.@§7[3/3] §2Asher: §aВ любом случае, возьми это. Это меньшее, что я могу сделать, чтобы заплатить тебе за мое спасение.
-§7[1/1] §2Asher: §aWait, what's that-?@§7[1/1] §2Asher: §aМинутку, что это-?
+
+§7[1/1] §2Old Man Martyn: §aYou seemed to have phased out of reality there for a while. I decided to move you back here to be safe.@§7[1/1] §2Old Man Martyn: §aКазалось, ты на какое-то время исчез из реальности. Я решил перенести тебя сюда, чтобы ты был в безопасности.
+§7[1/2] §2Asher: §aAh, sorry soldier, I don't think you can help me right now. Time Valley is not a place to wander around underprepared.@§7[1/2] §2Asher: §aЭх, прости солдат, я не думаю, что ты можешь помочь мне прямо сейчас. Долина Времени - это не то место, где можно бродить в неподготовленном состоянии.
+§7[2/2] §2Asher: §aCome back when you're say... level 14 at least. I think you can help me then.@§7[2/2] §2Asher: §aВозвращайся, скажем на... 14 уровне, по крайней мере. Думаю, что ты сможешь помочь мне тогда.
+§7[1/1] §2Asher: §aWoah! Where did-?@§7[1/1] §2Asher: §aВоу! Где же-?
+§7[1/1] §2Asher: §aI miss seeing the past. It was such an interesting place.@§7[1/1] §2Asher: §aЯ скучаю по прошлому. Это было такое интересное место.
