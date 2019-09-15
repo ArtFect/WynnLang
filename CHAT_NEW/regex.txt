@@ -120,6 +120,8 @@
 §7\+ New Tool §8\[(.*)\]@§7+ Новый инструмент §8[(r1)]
 §7\+ Higher Recipe Level \[Lv. (.*)\]@§7\+ Рецепты повышенных уровней \[Ур. (r1)\]
 §7\[\+(.*) falling emeralds\]@§7[+(r1) падающих эмеральдов]
+§5Only (.*) more levels §5until you can gather from (.*)@§5Еще §d(r1) уровня §5и ты сможешь собирать §d(r2)
+§5Only (.*) more level §5until you can gather from (.*)@§5Еще §d(r1) уровень §5и ты сможешь собирать §d(r2)
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aTasim: Don't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
