@@ -53,9 +53,6 @@
 §7[1/1] §2Batelu: §aYou can't enter there yet!@§7[1/1] §2Batelu: §aТы пока не можешь войти туда!
 §7[1/1] §2Batelu: §aWe still have a lot to learn about Bob!@§7[1/1] §2Batelu: §aНам еще многое предстоит узнать о Bob'е!
 §7[1/1] §2Karkun: §aCome on, lad! The Black Ring is just down at the docks, in front o' the Seaskipper fella's vessel.@§7[1/1] §2Karkun: §aДавай, парнишка! Black Ring стоит в доках, прямо перед судном морского шкипера.
-§7[1/3] §2Ahmas: §aAh, a Wynn soldier!@§7[1/3] §2Ahmas: §aАх, солдат из Wynn!
-§7[2/3] §2Ahmas: §aHold on just a minute, I don't think you're ready just yet.@§7[2/3] §2Ahmas: §aПодожди минутку, я не думаю, что ты уже готов.
-§7[3/3] §2Ahmas: §aPerhaps if you train until you are level 61, you will be able to help.@§7[3/3] §2Ahmas: §aВозможно, если ты будешь тренироваться до 61-го уровня, то сможешь помочь.
 §7[1/1] §2Tiek: §aHey! Im paying you to help me, not to go through my things!@§7[1/1] §2Tiek: §aЭй! Я плачу тебе, чтобы ты помог мне, а не рылся в моих вещах!
 §7[1/1] §2Ildan: §aHave you found the shrine yet? I've heard that throwing something as tribute to it could do the trick... There should be clues about what it might be near the shrine.@§7[1/1] §2Ildan: §aТы уже нашел гробницу? Я слышал, что бросание чего-то в качестве дани ему может помочь... Там должны быть подсказки о том, что это может быть, рядом с гробницей.
 §7[1/1] §2Excavator Placardus: §aI'm a very busy man! I don't have time to talk to anyone below level 55!@§7[1/1] §2Excavator Placardus: §aЯ очень занятой человек! У меня нет времени разговаривать с кем-то ниже 55 уровня!
@@ -80,16 +77,7 @@
 §7[2/3] §2Kalert's Notes: §aPage 2 - The figure that I met just a week ago is here again. This time he's looking at the soil and... Testing the hardness of the rocks? I'm starting to get worried.@§7[2/3] §2Kalert's Notes: §aСтраница 2 - Фигура, которую я встретил всего неделю назад, снова здесь. На этот раз он смотрит на землю и ...проверяет твердость камней? Я начинаю волноваться.
 §7[3/3] §2Kalert's Notes: §aPage 3 - That thing. It's broken into my house. I think he might want to kill me. For now, I'm safe. I've blocked my self off inside of my attic. To anyone who finds this, report my murder to the authorities! I'm positive he's here to kill me.@§7[3/3] §2Kalert's Notes: §aСтраница 3 - Снова он. Он вломился в мой дом. Думаю, что он может хотеть убить меня. Сейчас я в безопасности. Я забарикодировался внутри моего чердака. Всем, кто найдет это, доложите о моем убийстве властям! Я уверен, что он здесь, чтобы убить меня.
 §7[1/1] §2???: §aIn order to gain access to the exit, one must put §3[1 Security Card]§a into the Security Machine.@§7[1/1] §2???: §aЧтобы получить доступ к выходу, необходимо поместить §3[1 Карточку Безопасности]§a в машину безопасности.
-§7[1/2] §2Syni: §aI am Syni, finest blacksmith in Gavel. My armour is not cheap, but it is impenetrable.@§7[1/2] §2Syni: §aМеня зовут Syni, и я лучший кузнец в Gavel'е. Моя броня не дешевая, но она непробиваема.
-§7[2/2] §2Syni: §aUnfortunately I can't make any at the moment, I've run out of the rare star dust I use.@§7[2/2] §2Syni: §aК сожалению, я не могу ничего сделать в данный момент, у меня закончилась редкая Звездная пыль, которую я использую.
-§7[1/2] §2Dohstaj: §aMy father recently fell ill with spattergrotium, a fungus that affects the skin and mind.@§7[1/2] §2Dohstaj: §aМой отец недавно заболел spattergrotium - грибком, который поражает кожу и ум.
-§7[2/2] §2Dohstaj: §aI'm desperately looking for phoenix feathers to cure him, but no one seems to have any I can afford.@§7[2/2] §2Dohstaj: §aЯ отчаянно ищу перья феникса, чтобы вылечить его, но ни у кого, кажется, нет ничего, что я могу себе позволить.
-§7[1/4] §2Phicx: §aAre you headed to the festival? I've traveled all the way from Thanos.@§7[1/4] §2Phicx: §aТы направляешься на фестиваль? Я проделал весь путь сюда от Thanos'а.
-§7[2/4] §2Phicx: §aThis festival is well known around the entirety of Gavel, it's important that all of us know the history of our province.@§7[2/4] §2Phicx: §aЭтот фестиваль хорошо известен во всем Gavel'е, ведь важно, чтобы все мы знали историю нашей провинции.
-§7[3/4] §2Phicx: §aDid you see the weird statues on your way up here?@§7[3/4] §2Phicx: §aТы уже видел странные статуи по пути сюда?
-§7[4/4] §2Phicx: §aThat's actually a sealed Dogun, if you drench them in water they turn into stone, but they don't die. If you listen closely you can hear them gurgle.@§7[4/4] §2Phicx: §aНа самом деле это запечатанный Dogun - если окунуть их в воду, они превратятся в камень, но не умрут. Если ты внимательно прислушаешься, то можешь услышать их бульканье.
 §7[1/1] §2Tharroli: §aI would never be able to get across that pit, you go on without me.@§7[1/1] §2Tharroli: §aЯ бы никогда не смог перебраться через эту яму, ты лучше иди без меня.
-§7[1/1] §2Marston: §aIt be disappointin' that I wasn't able to accompany ye. Mighta been able to thump the dogs together, eh?@§7[1/1] §2Marston: §aЯ был разочарован, что не смог сопровождать тебя. Может быть, нам удастся поколотить этих собак вместе, а?
 §7[1/1] §2Corkus Delegate: §aI know you're eager to see more of the amazing Corkus Province, but wait until the tour is finished, please!@§7[1/1] §2Corkus Delegate: §aЯ знаю, что ты хочешь увидеть больше удивительной провинции Corkus, но подожди, пока тур не закончится, пожалуйста!
 §7[1/1] §2Corkus Delegate: §aHey! What are you doing back there? Follow me so I can show you the amazing Province of Corkus!@§7[1/1] §2Corkus Delegate: §aЭй! Что ты там делаешь? Следуй за мной, чтобы я мог показать тебе удивительную провинцию Corkus!
 §7[1/1] §2Gana: §aYou have done well to bring Seluc here, I can now give him guidance so he may leave this canyon.@§7[1/1] §2Gana: §aТы хорошо сделал, что привел Seluc'а сюда, теперь я могу дать ему советы, чтобы он мог покинуть этот каньон.
@@ -135,11 +123,6 @@
 §7[1/2] §2Ghostly Voice: §aIt all seems clear to me now.. The struggle for life... It’s futile. There need only be peaceful darkness.@§7[1/2] §2Ghostly Voice: §aТеперь мне все кажется ясным.. Борьба за жизнь... это бесполезно. Здесь должна быть только мирная тьма
 §7[2/2] §2Ghostly Voice: §aOnce my transformation is complete I shall begin to cleanse the world of vile mortality.@§7[2/2] §2Ghostly Voice: §aКак только моя трансформация завершится, я начну очищать мир от мерзкой смертности.
 §7[1/1] §2Ghostly Voice: §aI will not let you stop me!@§7[1/1] §2Ghostly Voice: §aЯ не позволю тебе остановить меня!
-
-=================BaseQuestsNOPQR.txt===============
-§7[1/1] §2Ahmas: §aWhat are ya standing around for! I wrote your orders in your book private!@§7[1/1] §2Ahmas: §aЧего ты тут стоишь! Я записал приказы в твою книгу, рядовой!
-
-§7[2/4] §2Martim: §aWait, there be a clue on the key; §a§oWhen leaving the hidden island, the real treasure will be found if you can look closely enough.@§7[2/4] §2Martim: §aПодожди, на одном из ключей подсказка: §a§oКогда покинешь тайный остров, настоящее сокровище будет найдено, если ты достаточно близко ищешь.
 
 =================BaseQuestsSTU.txt=================
 §7[1/1]§2 Thief:§a§k .... §aI can't control myself...§a§kfjfjfj§a This rock...@§7[1/1]§2 Thief:§a§k ....§aЯ не могу контролировать себя...§kfjfjfj§a Этот камень...
