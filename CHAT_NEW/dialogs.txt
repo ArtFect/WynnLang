@@ -10,19 +10,14 @@
 §7[2/3] §2Eagle Tribesman: §aThe totems hold great protective magical power. Without all the parts, it can not function.@§7[2/3] §2Eagle Tribesman: §aТотемы обладают огромной защитной магической силой. Без всех частей они не могут функционировать.
 §7[3/3] §2Eagle Tribesman: §aIt is probably hiding away somewhere at the Owl Tribe. Maybe if there's peace we can return it.@§7[3/3] §2Eagle Tribesman: §aВероятно, они прячут его где-то в Совином лагере. Может быть, если будет мир, мы сможем вернуть его.
 §7[1/1] §2Favian: §aYou may go now traveler, farewell.@§7[1/1] §2Favian: §aТеперь может идти путешественник, прощай.
-§7[1/2] §2Orikal: §aAah, I'm busy. Get out.@§7[1/2] §2Orikal: §aЭх, я занят. Уйди.
-§7[2/2] §2Orikal: §aCome back when you are level 26.@§7[2/2] §2Orikal: §aВернись, когда будешь 26 уровня.
 §7[1/1] §2Tinemild: §aI am glad to see you. I have a quest for you, but you aren't strong enough yet. However, I feel like you are very close! Come back when you are level 25.@§7[1/1] §2Tinemild: §aЯ рад тебя видеть. У меня есть задание для тебя, но ты еще недостаточно силен. Тем не менее, я чувствую, что ты очень близок! Вернись, когда будешь 25 уровня.
 §7[1/1] §2Calamaro: §aIt's such a joy to see somebody, sometimes we feel lonely down here.@§7[1/1] §2Calamaro: §aЭто такая радость видеть кого-то, иногда мы чувствуем себя здесь одинокими.
-§7[2/2] §2Orikal: §aThe small mining camp a little east of this village should have what you're looking for. Now Hurry!@§7[2/2] §2Orikal: §aНебольшой шахтерский лагерь, немного восточнее этой деревни, должен иметь то, что ты ищешь. А теперь поторопись!
 §7[1/1] §2Flendar §aGet out of here!@§7[1/1] §2Flendar §aВон отсюда!
 §7[1/1] §2Drale: §aStay off of the boat! It's for the cows! Wish I was a cow... §7[Right-Click the boat to push it]@§7[1/1] §2Drale: §aДержись подальше от лодки! Это для коров! Хотел бы я быть коровой... §7[Правый-Клик по лодке, чтобы толкнуть]
 §7[1/1] §2Achper: §aHi! If you are looking for some information about mummies, I can help you!@§7[1/1] §2Achper: §aПривет! Если ты ищешь какую-то информацию о мумиях, я могу тебе помочь!
 §7[1/1] §2Excavator Lykron: §aHello there! We are working very hard here at this excavation site! We have one in Almuj as well, I think you should check it out!@§7[1/1] §2Excavator Lykron: §aПривет! Мы очень много работаем здесь, на этом месте раскопок! У нас также есть одно место в Almuj'е, думаю, ты должен проверить его!
-§7[1/1] §2Bandit: §aEntering through there would be a mistake, weakling!@§7[1/1] §2Bandit: §aПроход через него был бы ошибкой, слабак!
 §7[1/1] §2Tinemild: §aI am still waiting for the scroll I asked you. Have you forgotten?@§7[1/1] §2Tinemild: §aЯ все еще жду свиток, о котором просил тебя. Ты что, забыл?
 §7[1/1] §2Captain Fenor: §aHey, don't go down there! it's full of many dangers!@§7[1/1] §2Captain Fenor: §aЭй,не ходи туда! Там полно опасностей!
-§7[1/1] §2Scroll Merchant: §aHey! You can't go up there!@§7[1/1] §2Scroll Merchant: §aЭй! Ты не можешь подняться туда!
 §7[1/1] §2Ormrod: §aDon't stay close to me! Quick, run away, and kill the mummy!@§7[1/1] §2Ormrod: §aНе стой рядом со мной! Быстро, беги и убей мумию!
 * §7[4/4] §2WynnExcavation Guard: §aYou will have to find another exit if you want to get out!@§7[4/4] §2WynnExcavation Guard: §aТебе придется найти другой путь, чтобы выбраться наружу!
 
@@ -51,11 +46,8 @@
 §7[2/3] §2Kalert's Notes: §aPage 2 - The figure that I met just a week ago is here again. This time he's looking at the soil and... Testing the hardness of the rocks? I'm starting to get worried.@§7[2/3] §2Kalert's Notes: §aСтраница 2 - Фигура, которую я встретил всего неделю назад, снова здесь. На этот раз он смотрит на землю и ...проверяет твердость камней? Я начинаю волноваться.
 §7[3/3] §2Kalert's Notes: §aPage 3 - That thing. It's broken into my house. I think he might want to kill me. For now, I'm safe. I've blocked my self off inside of my attic. To anyone who finds this, report my murder to the authorities! I'm positive he's here to kill me.@§7[3/3] §2Kalert's Notes: §aСтраница 3 - Снова он. Он вломился в мой дом. Думаю, что он может хотеть убить меня. Сейчас я в безопасности. Я забарикодировался внутри моего чердака. Всем, кто найдет это, доложите о моем убийстве властям! Я уверен, что он здесь, чтобы убить меня.
 §7[1/1] §2???: §aIn order to gain access to the exit, one must put §3[1 Security Card]§a into the Security Machine.@§7[1/1] §2???: §aЧтобы получить доступ к выходу, необходимо поместить §3[1 Карточку Безопасности]§a в машину безопасности.
-§7[1/1] §2Tharroli: §aI would never be able to get across that pit, you go on without me.@§7[1/1] §2Tharroli: §aЯ бы никогда не смог перебраться через эту яму, ты лучше иди без меня.
 §7[1/1] §2Corkus Delegate: §aI know you're eager to see more of the amazing Corkus Province, but wait until the tour is finished, please!@§7[1/1] §2Corkus Delegate: §aЯ знаю, что ты хочешь увидеть больше удивительной провинции Corkus, но подожди, пока тур не закончится, пожалуйста!
 §7[1/1] §2Corkus Delegate: §aHey! What are you doing back there? Follow me so I can show you the amazing Province of Corkus!@§7[1/1] §2Corkus Delegate: §aЭй! Что ты там делаешь? Следуй за мной, чтобы я мог показать тебе удивительную провинцию Corkus!
-§7[1/1] §2Gana: §aYou have done well to bring Seluc here, I can now give him guidance so he may leave this canyon.@§7[1/1] §2Gana: §aТы хорошо сделал, что привел Seluc'а сюда, теперь я могу дать ему советы, чтобы он мог покинуть этот каньон.
-§7[1/1] §2Seluc: §aThat's gonna leave a mark. I need to head back to that cave so I can recover...@§7[1/1] §2Seluc: §aЭто оставит след. Мне нужно вернуться в пещеру, чтобы прийти в себя...
 §7[1/1] §2Yuge: §aKeep searching, looks like you've got to deliver more of those letters.@§7[1/1] §2Yuge: §aПродолжай искать, похоже, тебе нужно доставить больше этих писем.
 §7[1/1] §2Dejol: §aHo, traveller! I could use your help with something, but I need someone more familiar with the canyon. Come back when you're level 85.@§7[1/1] §2Dejol: §aЭй, путешественник! Мне бы не помешала твоя помощь, но мне нужен кто-то более знакомый с каньоном. Возвращайся, когда достигнешь 85-го уровня.
 §7[1/2]§2 Intelligent Mech-DM3:§a Strategic mission accomplished. Mechanical parts acquired.@§7[1/2]§2 Intelligent Mech-DM3:§aСтратегическая миссия выполнена. Механические части добыты.
@@ -63,8 +55,6 @@
 §7[1/2]§2 Fiery Mech-DM2:§a Tools acquired, delivered to L.H. Additional orders received.@§7[1/2]§2 Fiery Mech-DM2:§a Инструменты добыты, доставлены к L.H. Получены дополнительные заказы.
 §7[2/2]§2 Fiery Mech-DM2:§a Intruder detected. Camouflage ineffective. Defend.@§7[2/2]§2 Fiery Mech-DM2:§a Злоумышленник обнаружен. Камуфляж неэффективен. Защита.
 §7[1/1] §2Security Bot N4T17: §aNo entry without key!@§7[1/1] §2Security Bot N4T17: §aНет входа без ключа!
-§7[1/1] §2Grenot: §aWe need someone to help us contain the gas in the mines, but I'm sure it would kill anyone under level 85.@§7[1/1] §2Grenot: §aНам нужен кто-то, кто поможет нам сдержать газ в шахтах, но я уверен, что это убьет любого ниже 85 уровня.
-
 §7[1/1] §2Dolem: §aOh come on, have you not gotten any gold from the secret vault? If you've forgotten already, it's in the back of the treasure room.@§7[1/1] §2Dolem: §aДа ладно тебе, разве ты не достал золота из секретного хранилища? Если ты уже забыл, оно находится в задней части сокровищницы.
 §7[1/1] §2???: §aYou have been granted access to leave the room.@§7[1/1] §2???: §aТебе был предоставлен доступ, чтобы покинуть комнату.
 
@@ -137,7 +127,6 @@
 
 §7[6/10] §2Cikal: §aOur victory over those orange skinned brutes brought about the creation of the Gylia Watch, where we now observe them day and night! Well, maybe not on poker night.@§7[6/10] §2Cikal: §aНаша победа над этими скотами с оранжевой кожей и привела к основанию этой Стражи Gylia. Где теперь мы наблюдаем за ними день и ночь! Ну, кроме ночи, когда мы играем в покер.
 
-§7[2/5] §2Orikal: §aThere are 3 main ingredients you will need to get me: §3[Unstable Corrupted Ore]§a, §3[Incendiary Fluid]§a, and a §3[Switch Fuse] §ato activate it.@§7[2/5] §2Orikal: §aЕсть 3 основных ингредиента, которые мне нужно достать: §3[Нестабильная руда]§a, §3[Зажигательная жидкость]§a, и §3[Переключатель с предохранителем]§a, чтобы активировать его.
 
 §7[1/1] §2Krattson: §aI admit I am intimidated by their presence, but I cannot take my eyes off of them. Did you see that? That one just climbed a tree using just his feet.@§7[1/1] §2Krattson: §aПризнаю, что меня пугает их присутствие, но я не могу отвести от них глаз. Ты это видел? Тот просто залез на дерево, используя только свои ноги.
 §7[1/7] §2Inrekei: §aOui ryja y bufanvim vaam ypuid oui, cdnyhkan. So baubma yna eh tyhkan. Bmayca, dyga drec yht ramb dras.@§7[1/7] §2Inrekei: §aОуи руджа и буфанвим ваам юпиуд оуи, цденихкан. Со баубма юна эх тухкан. Бмаюка, дига дрек юхт рамб бас.
