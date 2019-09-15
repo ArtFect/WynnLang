@@ -11,6 +11,7 @@
 §7[11/14] §2Narder: §aI was, and now you, are hired to find out why and who is responsible for the treachery.@§7[11/14] §2Narder: §aИ я, а вернее теперь ты, нанят чтобы найти того, кто несет ответственность за предательство.
 §7[12/14] §2Narder: §aI've never been to the city in the mountains, but I was given instructions. Here, I'll write down the location in your book.@§7[12/14] §2Narder: §aЯ никогда еще не был в городе на горах, но у меня есть координаты. Вот, я написал их в твоей книге.
 §7[13/14] §2Narder: §aBe aware though, they won't let you in unless the area is safe. They can't risk villagers wandering in.@§7[13/14] §2Narder: §aБудь осторожен, они не дадут тебе войти, пока город не будет в безопасности. Они не могут позволить жителям попасть внутрь.
+§7[14/14] §2Narder: §aGood luck.@§7[14/14] §2Narder: §aУдачи.
 §7[1/1] §2Villager: §aHm? Human? Doesn't this seem strange to you? A giant human face is sculpted into the wall! What? A deadly gas? I didn't realize! Please, escort me to my camp at the entrance of this cave!@§7[1/1] §2Villager: §aХм? Человек? Это не кажется тебе странным? Гигантское лицо человека выдолблено в стене! Что? Смертельный газ? Я и не знал! Пожалуйста, отведи меня в мой лагерь на входе в пещере!
 §7[1/7] §2Eltom Guard: §aThank you for getting rid of that curious villager! We thought he'd never leave.@§7[1/7] §2Eltom Guard: §aСпасибо что увел отсюда этого жителя! Мы думали он никогда не уйдет.
 §7[2/7] §2Eltom Guard: §aI've never seen you before. Who gave you access to the town?@§7[2/7] §2Eltom Guard: §aЯ не видел тебя здесь раньше. Кто дал тебе доступ в город?
@@ -57,4 +58,8 @@
 §7[5/7] §2Thesead's Mayor: §aThe person who left the letter about Eltom is our son, Ardulf. As soon as Eoric found out about our child, he panicked and left me.@§7[5/7] §2Thesead's Mayor: §aЧеловек, который оставил письмо об Eltom'e, это наш сын - Ardulf. Как только Eoric узнал о ребенке, он запаниковал и сбежал от меня.
 §7[6/7] §2Thesead's Mayor: §aArdulf will never be accepted… A half breed.. I hope he's OK.@§7[6/7] §2Thesead's Mayor: §aArdulf'а никогда бы не приняли... Полукровка... Я надеюсь, что он в порядке.
 §7[7/7] §2Thesead's Mayor: §aHuh, oh yeah, one more thing. The switch under the table... go on, press it!@§7[7/7] §2Thesead's Mayor: §aАх да, еще кое-что. Переключатель прямо под столом... давай, нажми на него!
-§7[14/14] §2Narder: §aGood luck.@§7[14/14] §2Narder: §aУдачи.
+
+§7[1/1] §2Eltom Guard: §aThe guards here are only trained in combat, not in solving mysteries. That's why the mayor called you!@§7[1/1] §2Eltom Guard: §aЗдешние стражники обучены только бою, а не разгадыванию тайн. Вот почему мэр вызвал тебя!
+§7[1/1] §2Eoric: §aIf you have any questions, go to the waiting room and wait for your turn, not run into my office head-straight! You'd have to be level 88 for that luxury.@§7[1/1] §2Eoric: §aЕсли у тебя есть какие-либо вопросы, иди в зал ожидания и жди своей очереди, а не беги в мой кабинет! Ты должен быть минимум 88 уровня для этой роскоши.
+§7[1/1] §2Lumilda: §aCheck the Eastern Exit! I'm pretty sure that's where the hooded person keeps returning to.@§7[1/1] §2Lumilda: §aПроверь восточный выход! Я почти уверен, что именно туда продолжает возвращаться человек в капюшоне.
+§7[1/1] §2Hilan: §aHe climbed the t-tower... Go!@§7[1/1] §2Hilan: §aОн взобрался на б-башню... Иди же!
