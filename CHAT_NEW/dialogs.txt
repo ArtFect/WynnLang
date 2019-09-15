@@ -5,23 +5,15 @@
 §7[1/1] §2Floormaster: §aYou may proceed.@§7[1/1] §2Floormaster: §aТы можешь пройти.
 §7[1/1] §2Omango: §aFind my friend Sayrr, he can give you the helmet. After that, explore the ship and bring me §3[4 Ancient Treasure]§a.@§7[1/1] §2Omango: §aНайди моего друга Sayrr'а, он может дать тебе шлем. После этого исследуй корабль и принеси мне §3[4 Древнего Сокровища]§a
 §7[1/1] §2Fredris: §aWhere is the §3[Breathing Helmet I] §aI asked you for?@§7[1/1] §2Fredris: §aГде §3[Шлем Подводника I] §aо котором я спрашивал?
-§7[1/1] §2Pottur: §aThis just isn't working out...@§7[1/1] §2Pottur: §aЭто просто не работает...
-§7[1/1] §2Pottur: §aWatch out there! We’re breaking through this boulder. We report only to Ragni army members level 21 and above.@§7[1/1] §2Pottur: §aОсторожнее там! Мы прорываемся через этот валун. Мы докладываем только бойцам армии Ragni уровня 21 и выше.
 §7[1/1] §2Vade: §aHey, did you get the writing for me? I need the §3[Ancient Writing]§a!@§7[1/1] §2Vade: §aЭй, ты достал для меня письмена? Мне нужны §3[Древние Письмена]§a!
 §7[1/3] §2Eagle Tribesman: §aNot only did the Owl Tribe steal our totem but also stole one of our Idol's eye!@§7[1/3] §2Eagle Tribesman: §aНе только Племя Сов украло наш тотем, но они также украли и один глаз нашего идола!
 §7[2/3] §2Eagle Tribesman: §aThe totems hold great protective magical power. Without all the parts, it can not function.@§7[2/3] §2Eagle Tribesman: §aТотемы обладают огромной защитной магической силой. Без всех частей они не могут функционировать.
 §7[3/3] §2Eagle Tribesman: §aIt is probably hiding away somewhere at the Owl Tribe. Maybe if there's peace we can return it.@§7[3/3] §2Eagle Tribesman: §aВероятно, они прячут его где-то в Совином лагере. Может быть, если будет мир, мы сможем вернуть его.
 §7[1/1] §2Favian: §aYou may go now traveler, farewell.@§7[1/1] §2Favian: §aТеперь может идти путешественник, прощай.
-§7[1/1] §2Guard: §aYou three should head on towards the castle.@§7[1/1] §2Guard: §aВы трое должны направиться к замку.
 §7[1/2] §2Orikal: §aAah, I'm busy. Get out.@§7[1/2] §2Orikal: §aЭх, я занят. Уйди.
 §7[2/2] §2Orikal: §aCome back when you are level 26.@§7[2/2] §2Orikal: §aВернись, когда будешь 26 уровня.
 §7[1/1] §2Tinemild: §aI am glad to see you. I have a quest for you, but you aren't strong enough yet. However, I feel like you are very close! Come back when you are level 25.@§7[1/1] §2Tinemild: §aЯ рад тебя видеть. У меня есть задание для тебя, но ты еще недостаточно силен. Тем не менее, я чувствую, что ты очень близок! Вернись, когда будешь 25 уровня.
-§7[1/1] §2Bugabo: §aGroookk... Zzzz... yummy... Zzzz....@§7[1/1] §2Bugabo: §aГрууукк...Хрр-пфф...кусно....Хрр-пфф...
-§7[1/1] §2Bugabo: §aNo entry without authorized permission! This cave here is private!@§7[1/1] §2Bugabo: §aНет входа без разрешения! Эта пещера здесь частная!
-§7[1/1] §2Kaosuw: §aTry and kill my Quartron, human! Nobody on this planet has the power to destroy my robot thanks to the core!@§7[1/1] §2Kaosuw: §aПопробуй убить моего Quartron'а, человек! Никто на этой планете не может уничтожить моего робота, благодаря ядру!
 §7[1/1] §2Calamaro: §aIt's such a joy to see somebody, sometimes we feel lonely down here.@§7[1/1] §2Calamaro: §aЭто такая радость видеть кого-то, иногда мы чувствуем себя здесь одинокими.
-§7[1/1] §2Enkser: §aAaah dang! I had some work for you, but I can't ask such a low level. Come back when you are level 34!@§7[1/1] §2Enkser: §aЭх черт! У меня есть кое-какая работа для тебя, но я не могу просить такого низкого уровня. Вернись, когда будешь 34 уровня!
-§7[1/1] §2Enkser: §aI wouldn't enter that if I were you...@§7[1/1] §2Enkser: §aНа твоем месте я бы туда не пошел....
 §7[2/2] §2Orikal: §aThe small mining camp a little east of this village should have what you're looking for. Now Hurry!@§7[2/2] §2Orikal: §aНебольшой шахтерский лагерь, немного восточнее этой деревни, должен иметь то, что ты ищешь. А теперь поторопись!
 §7[1/1] §2Flendar §aGet out of here!@§7[1/1] §2Flendar §aВон отсюда!
 §7[1/1] §2Drale: §aStay off of the boat! It's for the cows! Wish I was a cow... §7[Right-Click the boat to push it]@§7[1/1] §2Drale: §aДержись подальше от лодки! Это для коров! Хотел бы я быть коровой... §7[Правый-Клик по лодке, чтобы толкнуть]
@@ -30,11 +22,8 @@
 §7[1/1] §2Bandit: §aEntering through there would be a mistake, weakling!@§7[1/1] §2Bandit: §aПроход через него был бы ошибкой, слабак!
 §7[1/1] §2Tinemild: §aI am still waiting for the scroll I asked you. Have you forgotten?@§7[1/1] §2Tinemild: §aЯ все еще жду свиток, о котором просил тебя. Ты что, забыл?
 §7[1/1] §2Captain Fenor: §aHey, don't go down there! it's full of many dangers!@§7[1/1] §2Captain Fenor: §aЭй,не ходи туда! Там полно опасностей!
-§7[1/1] §2Viraex: §aI asked around, Garoth was an important figure in Elkurn history, who knew!@§7[1/1] §2Viraex: §aЯ поспрашивал вокруг, Garoth был важной фигурой в истории Elkurn'а, кто же знал!
 §7[1/1] §2Scroll Merchant: §aHey! You can't go up there!@§7[1/1] §2Scroll Merchant: §aЭй! Ты не можешь подняться туда!
-§7[1/1] §2Adventuring Mage: §aWalk inside then, soldier! What are you standing around here for?@§7[1/1] §2Adventuring Mage: §aИди внутрь, солдат! Зачем ты здесь стоишь?
 §7[1/1] §2Ormrod: §aDon't stay close to me! Quick, run away, and kill the mummy!@§7[1/1] §2Ormrod: §aНе стой рядом со мной! Быстро, беги и убей мумию!
-§7[1/1] §2Enkser: §aHey, where do you think you're going? You can't just buy a horse like that! Talk to me if you want access... dang tourists...@§7[1/1] §2Enkser: §aЭй, что ты там делаешь? Ты не можешь просто так купить лошадь! Поговори со мной, если хочешь получить доступ... чертовы туристы...
 * §7[4/4] §2WynnExcavation Guard: §aYou will have to find another exit if you want to get out!@§7[4/4] §2WynnExcavation Guard: §aТебе придется найти другой путь, чтобы выбраться наружу!
 
 ============51-75.txt==============
@@ -119,8 +108,6 @@
 §7[1/1] §2Ghostly Voice: §aI will not let you stop me!@§7[1/1] §2Ghostly Voice: §aЯ не позволю тебе остановить меня!
 
 =================BaseQuestsSTU.txt=================
-§7[1/1]§2 Thief:§a§k .... §aI can't control myself...§a§kfjfjfj§a This rock...@§7[1/1]§2 Thief:§a§k ....§aЯ не могу контролировать себя...§kfjfjfj§a Этот камень...
-
 §7[1/1] §2Eltom Guard: §aThe guards here are only trained in combat, not in solving mysteries. That's why the mayor called you!@§7[1/1] §2Eltom Guard: §aЗдешние стражники обучены только бою, а не разгадыванию тайн. Вот почему мэр вызвал тебя!
 §7[1/1] §2Eoric: §aIf you have any questions, go to the waiting room and wait for your turn, not run into my office head-straight! You'd have to be level 88 for that luxury.@§7[1/1] §2Eoric: §aЕсли у тебя есть какие-либо вопросы, иди в зал ожидания и жди своей очереди, а не беги в мой кабинет! Ты должен быть минимум 88 уровня для этой роскоши.
 §7[1/1] §2Lumilda: §aCheck the Eastern Exit! I'm pretty sure that's where the hooded person keeps returning to.@§7[1/1] §2Lumilda: §aПроверь восточный выход! Я почти уверен, что именно туда продолжает возвращаться человек в капюшоне.
@@ -145,8 +132,6 @@
 §7[1/1] §2Corkus Delegate: §aI know you're eager to see more of the amazing Corkus Province, but please let me catch up!@§7[1/1] §2Corkus Delegate: §aЯ знаю, что ты хочешь увидеть больше удивительной провинции Corkus, но подожди, позволь мне догнать тебя!
 §7[1/4] §2Maxie: §aPst. You. Over here, behind the logs.@§7[1/4] §2Maxie: §aПст. Ты. Сюда, за бревнами.
 
-§7[1/1] §2Albert The Strong:§a Moo. Are you trying to run away, human? Moo. Only one of us can leave this place alive. Moo.@§7[1/1] §2Albert The Strong:§aМуу. Ты пытаешься убежать, человек? Муу. Только один из нас может покинуть это место живым. Муу.
-
 §7[2/6] §2Kelight: §aHm, yes, this bowl certainly §aseems...used§a. Only that loonie Yahya could use this thing upside down, and not spill a drop...@§7[2/6] §2Kelight: §aХмм, да, эта миска выглядит...использованной. Только этот псих Yahya мог использовать ее вверх тормашками, при этом не пролив ни капли...
 §7[6/6] §2Kelight: §aBring me §3[1 Bob's Crushed Soul]§a, §3[1 Sayleros' Brother Ashes]§a and §3[1 The Mummy's Bandage]§a. Only true heroes could manage this task.@§7[6/6] §2Kelight: §aПринеси мне §3[1 Измельченную Душу Bob'а]§a, §3[1 Прах Брата Sayleros' а]§a, и §3[1 Бинт Мумии]§a. Только настоящие герои справятся с этой задачей.
 §7[6/10] §2Garull: §aSo, for me to craft you this helmet, I'll need you to bring me not just the §3[Old Touroto Hide]§a, but also the means to restore it to its previous power. Do listen up, there's a lot to tell you!@§7[6/10] §2Garull: §aТак что для шлема мне понадобятся не только §3[Старая Кожа Touroto]§a - придется восстановить ее силу.
@@ -164,8 +149,6 @@
 §7[7/7] §2Gaclux: §aOrphion is probably at an all powerful state at the moment. If you wish to face him, you should bring your friends and face him together. He is too powerful to face alone. It will take me time to remove the seal.@§7[7/7] §2Gaclux: §aНет никого сильнее Orphion в нашем царстве. Если хочешь сразиться с ним, то приводи с собой своих друзей. Он слишком силен для тебя одного. Мне потребуется время, чтобы снять пломбу.
 
 §7[6/10] §2Cikal: §aOur victory over those orange skinned brutes brought about the creation of the Gylia Watch, where we now observe them day and night! Well, maybe not on poker night.@§7[6/10] §2Cikal: §aНаша победа над этими скотами с оранжевой кожей и привела к основанию этой Стражи Gylia. Где теперь мы наблюдаем за ними день и ночь! Ну, кроме ночи, когда мы играем в покер.
-
-§7[4/6] §2Likeru: §aLast thing we need is an uninvited 'guest', snooping around here, sticking their nose where it doesn't belong...@§7[4/6] §2Likeru: §aПоследнее, что нам нужно, это чтобы незваные "гости" шныряли здесь, совали свой нос куда не надо...
 
 §7[2/5] §2Orikal: §aThere are 3 main ingredients you will need to get me: §3[Unstable Corrupted Ore]§a, §3[Incendiary Fluid]§a, and a §3[Switch Fuse] §ato activate it.@§7[2/5] §2Orikal: §aЕсть 3 основных ингредиента, которые мне нужно достать: §3[Нестабильная руда]§a, §3[Зажигательная жидкость]§a, и §3[Переключатель с предохранителем]§a, чтобы активировать его.
 
