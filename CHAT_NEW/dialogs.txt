@@ -29,18 +29,13 @@
 §7[2/2] §2Orikal: §aThe small mining camp a little east of this village should have what you're looking for. Now Hurry!@§7[2/2] §2Orikal: §aНебольшой шахтерский лагерь, немного восточнее этой деревни, должен иметь то, что ты ищешь. А теперь поторопись!
 §7[1/1] §2Flendar §aGet out of here!@§7[1/1] §2Flendar §aВон отсюда!
 §7[1/1] §2Drale: §aStay off of the boat! It's for the cows! Wish I was a cow... §7[Right-Click the boat to push it]@§7[1/1] §2Drale: §aДержись подальше от лодки! Это для коров! Хотел бы я быть коровой... §7[Правый-Клик по лодке, чтобы толкнуть]
-
 §7[1/1] §2Farmer Cevalus: §aHey! Get away from my farm, this is a private property!@§7[1/1] §2Farmer Cevalus: §aЭй! Убирайся с моей фермы, это частная собственность!
 §7[1/1] §2Farmer Cevalus: §aI could really use some help right now, but you are too weak. Come back when you are level 2.@§7[1/1] §2Farmer Cevalus: §aМне бы сейчас не помешала помощь, но ты слишком слаб. Вернись, когда будешь 2 уровня.
-
-
-
 §7[1/1] §2Achper: §aHi! If you are looking for some information about mummies, I can help you!@§7[1/1] §2Achper: §aПривет! Если ты ищешь какую-то информацию о мумиях, я могу тебе помочь!
 §7[1/1] §2Excavator Lykron: §aHello there! We are working very hard here at this excavation site! We have one in Almuj as well, I think you should check it out!@§7[1/1] §2Excavator Lykron: §aПривет! Мы очень много работаем здесь, на этом месте раскопок! У нас также есть одно место в Almuj'е, думаю, ты должен проверить его!
 §7[1/1] §2Bandit: §aEntering through there would be a mistake, weakling!@§7[1/1] §2Bandit: §aПроход через него был бы ошибкой, слабак!
 §7[1/1] §2Tinemild: §aI am still waiting for the scroll I asked you. Have you forgotten?@§7[1/1] §2Tinemild: §aЯ все еще жду свиток, о котором просил тебя. Ты что, забыл?
 §7[1/1] §2Captain Fenor: §aHey, don't go down there! it's full of many dangers!@§7[1/1] §2Captain Fenor: §aЭй,не ходи туда! Там полно опасностей!
-§7[1/1] §2Yahya: §aH-... Hey! I'll need your help! Mushrooms. But right now you seem too weak. Come back to me when you're le-... level 12.@§7[1/1] §2Yahya: §aЭ...Эй! Мне понадобится твоя помощь! Грибы. Но сейчас ты кажешься слишком слабым. Вернись ко мне, когда будешь ур-...уровня 12.
 §7[1/1] §2Viraex: §aI asked around, Garoth was an important figure in Elkurn history, who knew!@§7[1/1] §2Viraex: §aЯ поспрашивал вокруг, Garoth был важной фигурой в истории Elkurn'а, кто же знал!
 §7[1/1] §2Scroll Merchant: §aHey! You can't go up there!@§7[1/1] §2Scroll Merchant: §aЭй! Ты не можешь подняться туда!
 §7[1/1] §2Adventuring Mage: §aWalk inside then, soldier! What are you standing around here for?@§7[1/1] §2Adventuring Mage: §aИди внутрь, солдат! Зачем ты здесь стоишь?
@@ -84,7 +79,6 @@
 §7[1/1] §2Heliolux Guard: §aHalt! I am not permitted to let you through this gate!@§7[1/1] §2Heliolux Guard: §aСтой! Мне не позволено пропускать тебя через эти ворота!
 §7[1/1] §2Isfurus: §aYour directions are in your quest book, friend. Always consult it if you are in a bind.@§7[1/1] §2Isfurus: §aТвои указания есть в твоей квестовой книге, друг. Всегда консультируйся с ней, если находишься в затруднительном положении.
 §7[1/1] §2Erisk: §aJust make sure to check back in with Isfurus before you leave!@§7[1/1] §2Erisk: §aПросто убедись, что ты вернулся к Isfurus'у перед уходом!
-§7[1/1] §2Captain Lorias: §aThis is a crime scene! Step away from there.@§7[1/1] §2Captain Lorias: §aЭто место преступления! Отойди оттуда.
 §7[1/1] §2Referick: §aHeeeellllllllppppp mmeeeeeeee... Saaaaaaavveeeee uuussssss...!@§7[1/1] §2Referick: §aПоооммммоооогггггииии ммннннееее......Сссппаааааасссссиии нннаааасссссс...!
 
 ===============76-100.txt===============
@@ -112,7 +106,6 @@
 §7[2/2]§2 Intelligent Mech-DM3:§a L.H. can continue to produce effectively. @§7[2/2]§2 Intelligent Mech-DM3:§a L.H. может продолжать эффективное производство.
 §7[1/2]§2 Fiery Mech-DM2:§a Tools acquired, delivered to L.H. Additional orders received.@§7[1/2]§2 Fiery Mech-DM2:§a Инструменты добыты, доставлены к L.H. Получены дополнительные заказы.
 §7[2/2]§2 Fiery Mech-DM2:§a Intruder detected. Camouflage ineffective. Defend.@§7[2/2]§2 Fiery Mech-DM2:§a Злоумышленник обнаружен. Камуфляж неэффективен. Защита.
-§7[1/1] §2Javen: §aAlways nice to see my favourite customer pay a visit!@§7[1/1] §2Javen: §aВсегда приятно видеть, как мой любимый клиент наносит визит!
 §7[1/1] §2Security Bot N4T17: §aNo entry without key!@§7[1/1] §2Security Bot N4T17: §aНет входа без ключа!
 §7[1/1] §2Grenot: §aWe need someone to help us contain the gas in the mines, but I'm sure it would kill anyone under level 85.@§7[1/1] §2Grenot: §aНам нужен кто-то, кто поможет нам сдержать газ в шахтах, но я уверен, что это убьет любого ниже 85 уровня.
 §7[2/2] §2Korun: §aShow me what you find at the source, and don't wear the helmet when you return, I'll need it back.@§7[2/2] §2Korun: §aПокажи мне, что ты нашел в источнике, и отдай мне шлем, когда вернешься, он мне понадобится.
@@ -148,10 +141,6 @@
 §7[1/2] §2Ghostly Voice: §aIt all seems clear to me now.. The struggle for life... It’s futile. There need only be peaceful darkness.@§7[1/2] §2Ghostly Voice: §aТеперь мне все кажется ясным.. Борьба за жизнь... это бесполезно. Здесь должна быть только мирная тьма
 §7[2/2] §2Ghostly Voice: §aOnce my transformation is complete I shall begin to cleanse the world of vile mortality.@§7[2/2] §2Ghostly Voice: §aКак только моя трансформация завершится, я начну очищать мир от мерзкой смертности.
 §7[1/1] §2Ghostly Voice: §aI will not let you stop me!@§7[1/1] §2Ghostly Voice: §aЯ не позволю тебе остановить меня!
-
-=================BaseQuestsIJKLM.txt===============
-
-§7[1/1] §2Rohem: §aHey, you up there! You know it's rude to rummage through people's rooms, right? Get away from there!@§7[1/1] §2Rohem: §aЭй, ты, там наверху! Ты же знаешь, что это невежливо - рыться в чужих комнатах, да? Уйти оттуда!
 
 =================BaseQuestsNOPQR.txt===============
 §7[1/1] §2Ahmas: §aWhat are ya standing around for! I wrote your orders in your book private!@§7[1/1] §2Ahmas: §aЧего ты тут стоишь! Я записал приказы в твою книгу, рядовой!
