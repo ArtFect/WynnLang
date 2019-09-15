@@ -22,14 +22,11 @@
 * §7[4/4] §2WynnExcavation Guard: §aYou will have to find another exit if you want to get out!@§7[4/4] §2WynnExcavation Guard: §aТебе придется найти другой путь, чтобы выбраться наружу!
 
 ============51-75.txt==============
-§7[1/1] §2Erlard: §aYou can't enter here! Didn't you listen? You need to aquire the veil buried in the catacombs of Olux! They are behind the bank, I believe.@§7[1/1] §2Erlard: §aТы не можешь войти сюда! Ты что, не слушал? Ты должен добыть вуаль, захороненную в катакомбах Olux'а! Они находятся за банком, я полагаю.
-§7[1/1] §2Erlard: §aAre you crazy? Don't enter that tower!@§7[1/1] §2Erlard: §aТы с ума сошел? Не входи в эту башню!
 §7[1/1] §2Czytash: §aMan, this crate reeks. I almost wish someone would come and take it from me.@§7[1/1] §2Czytash: §aЧувак, этот ящик воняет. Я почти хочу, чтобы кто-нибудь пришел и забрал его у меня.
 §7[1/1] §2Zhight: §aTerribly sorry but the Zhight Grand Exchange is under repairs right now! You can't go in yet!@§7[1/1] §2Zhight: §aУжасно сожалею, но Zhight Grand Exchange находится в ремонте прямо сейчас! Ты еще не можешь войти туда!
 §7[1/1] §2Zhight: §aThe staff around the island are always willing to help a customer in need. If you ever need any help, just talk to one of them!@§7[1/1] §2Zhight: §aПерсонал по всему острову всегда готов помочь нуждающемуся клиенту. Если тебе когда-нибудь понадобится помощь, просто поговори с одним из них!
 §7[1/1] §2Phief: §aI'm sure I can take it back somehow... if I just- Hey, get out of here! I'm trying to concentrate!@§7[1/1] §2Phief: §aЯ уверен, что смогу как-нибудь это вернуть... если я просто - Эй, убирайся отсюда! Я пытаюсь сосредоточиться!
 §7[1/1] §2Tirt: §aYar har fiddle dee dee, waiting for my Dad; he's roaming the sea!@§7[1/1] §2Tirt: §aЯр - Хар - скрипка - ди- ди, жду отца своего; океан позади!
-§7[1/1] §2Ildan: §aHave you found the shrine yet? I've heard that throwing something as tribute to it could do the trick... There should be clues about what it might be near the shrine.@§7[1/1] §2Ildan: §aТы уже нашел гробницу? Я слышал, что бросание чего-то в качестве дани ему может помочь... Там должны быть подсказки о том, что это может быть, рядом с гробницей.
 §7[1/1] §2Excavator Placardus: §aI'm a very busy man! I don't have time to talk to anyone below level 55!@§7[1/1] §2Excavator Placardus: §aЯ очень занятой человек! У меня нет времени разговаривать с кем-то ниже 55 уровня!
 §7[1/1] §2Receptionist: §aI'm sorry, but you cannot enter this area.@§7[1/1] §2Receptionist: §aИзвини, но ты не можешь войти туда.
 §7[3/3] §2Royal Advisor Carlos: §aAnd then he said "The order of the crystals will open the way". Maybe it's a clue as to how to find him?@§7[3/3] §2Royal Advisor Carlos: §aА затем он сказал: "Порядок кристаллов откроет путь". Может быть, это ключ к тому, как его найти?
@@ -74,19 +71,10 @@
 §7[1/1] §2Ghostly Voice: §aI will not let you stop me!@§7[1/1] §2Ghostly Voice: §aЯ не позволю тебе остановить меня!
 
 =================BaseQuestsSTU.txt=================
-§7[1/13] §2Yansur: §aI see another challenger has found their way to §a§lThe Qira Hive§a!@§7[1/13] §2Yansur: §aЯ смотрю еще один испытуемый нашел свой путь в §a§lУлей Qir'ы§a!
+
 
 §7[4/4] §2Kroac: §aI haven't got a clue where the beast is now... But I'm sure if you continue to follow those footprints you wouldn't have any problems in finding it. Not that you would want to...@§7[4/4] §2Kroac: §aЯ понятия не имею где зверь сейчас... но уверен, если ты продолжишь идти по этим следам, то без проблем найдешь его. Раз очень этого хочешь...
 §7[4/7] §2Rileen: §aI know where it is, but I cannot send you to it without knowing you are going into a fair fight.@§7[4/7] §2Rileen: §aЯ знаю где он, но я не могу отправить тебя к нему, не убедившись, что ты готов к схватке.
-
-§7[6/10] §2Ildan: §aThey quickly realised that it was a bad idea, so they locked him in a tomb.@§7[6/10] §2Ildan: §aНо быстро осознав, что это было большой ошибкой, они запечатали его в гробнице.
-
-
-§7[1/3] §2Rasalux: §aHave you seen the monsters that roam the realm?@§7[1/3] §2Rasalux: §aТы видел тех монстров, что наводнили царство?
-§7[7/7] §2Gaclux: §aOrphion is probably at an all powerful state at the moment. If you wish to face him, you should bring your friends and face him together. He is too powerful to face alone. It will take me time to remove the seal.@§7[7/7] §2Gaclux: §aНет никого сильнее Orphion в нашем царстве. Если хочешь сразиться с ним, то приводи с собой своих друзей. Он слишком силен для тебя одного. Мне потребуется время, чтобы снять пломбу.
-
-
-
 
 §7[1/1] §2Krattson: §aI admit I am intimidated by their presence, but I cannot take my eyes off of them. Did you see that? That one just climbed a tree using just his feet.@§7[1/1] §2Krattson: §aПризнаю, что меня пугает их присутствие, но я не могу отвести от них глаз. Ты это видел? Тот просто залез на дерево, используя только свои ноги.
 §7[1/7] §2Inrekei: §aOui ryja y bufanvim vaam ypuid oui, cdnyhkan. So baubma yna eh tyhkan. Bmayca, dyga drec yht ramb dras.@§7[1/7] §2Inrekei: §aОуи руджа и буфанвим ваам юпиуд оуи, цденихкан. Со баубма юна эх тухкан. Бмаюка, дига дрек юхт рамб бас.
