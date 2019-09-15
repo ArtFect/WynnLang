@@ -64,7 +64,7 @@
 §b(.*)§3 has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@§b(r1)§3 бросил §bProfession Speed Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
 §7\[Daily Rewards: §a(.*) emeralds§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7]
 §5Blacksmith: §dYou scrapped: §e(.*)§d for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Blacksmith: §dТы утилизировал: §e(r1)§d в общей сумме на §e(r2)§d скрапа. Было приятно иметь с тобой дело.
-§5Blacksmith: §dYou scrapped: §3(.*)§d and §3(.*)§d for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Blacksmith: §dТы утилизировал: §3(r1)§d и §3(r2)§d в общей сумме на §e(r3)§d скрапа. Было приятно иметь с тобой дело.
+§5Blacksmith: §dYou scrapped: (.*) and (.*) for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Blacksmith: §dТы утилизировал: (r1) и (r2) в общей сумме на §e(r3)§d скрапа. Было приятно иметь с тобой дело.
 §b(.*)§7 has given you §b(.*)% resistance§7.@§b(r1)§7 дал тебе §b(r2)% защиты§7.
 §7\+ New Quest §8\[(.*)\]@§7+ Новый квест §8[(r1)]
 §4You need to be §cCombat Lv. (.*) §4to start this Mini-Quest@§4Тебе нужно быть §c(r1) Комбат уровня §4для старта этого Мини-квеста
