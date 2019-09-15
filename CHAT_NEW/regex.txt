@@ -114,6 +114,11 @@
 §5Only (.*) more levels §5until you can use the (.*)@§5Еще §d(r1) уровня §5и ты сможешь использовать §d(r2)
 §5Only (.*) more level §5until you can use the (.*)@§5Еще §d(r1) уровень §5и ты сможешь использовать §d(r2)
 §dFinished buying (.*) for (.*)@§dЗавершена покупка (r1) за (r2)
+§7\+ Faster Gathering §8\[(.*)\]@§7+ Более быстрая добыча §8[(r1)]
+§7\+ Faster Refining §8\[(.*)\]@§7+ Более быстрая переработка §8[(r1)]
+§7\+ Higher Refining Success §8\[(.*)\]@§7+ Шанс на успех при переработке §8[(r1)]
+§7\+ New Tool §8\[(.*)\]@§7+ Новый инструмент §8[(r1)]
+§7\+ Higher Recipe Level §8\[(.*)\]@§7+ Рецепты повышенных уровней §8[(r1)]
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aTasim: Don't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
