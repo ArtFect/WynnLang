@@ -39,17 +39,9 @@
 §7[1/1] §2Heliolux Guard: §aHalt! I am not permitted to let you through this gate!@§7[1/1] §2Heliolux Guard: §aСтой! Мне не позволено пропускать тебя через эти ворота!
 §7[1/1] §2Isfurus: §aYour directions are in your quest book, friend. Always consult it if you are in a bind.@§7[1/1] §2Isfurus: §aТвои указания есть в твоей квестовой книге, друг. Всегда консультируйся с ней, если находишься в затруднительном положении.
 §7[1/1] §2Erisk: §aJust make sure to check back in with Isfurus before you leave!@§7[1/1] §2Erisk: §aПросто убедись, что ты вернулся к Isfurus'у перед уходом!
-§7[1/1] §2Referick: §aHeeeellllllllppppp mmeeeeeeee... Saaaaaaavveeeee uuussssss...!@§7[1/1] §2Referick: §aПоооммммоооогггггииии ммннннееее......Сссппаааааасссссиии нннаааасссссс...!
 
 ===============76-100.txt===============
-§7[1/3] §2Kalert's Notes: §aPage 1 - A hooded figure came to my door today and asked me the size of my basement. Couldn't quite see the face. After I answered, he left in hurry.@§7[1/3] §2Kalert's Notes: §aСтраница 1 - Сегодня к моей двери подошла фигура в капюшоне и спросила, какой у меня подвал. Я не мог разглядеть его лица. После того, как я ответил, он поспешно ушел.
-§7[2/3] §2Kalert's Notes: §aPage 2 - The figure that I met just a week ago is here again. This time he's looking at the soil and... Testing the hardness of the rocks? I'm starting to get worried.@§7[2/3] §2Kalert's Notes: §aСтраница 2 - Фигура, которую я встретил всего неделю назад, снова здесь. На этот раз он смотрит на землю и ...проверяет твердость камней? Я начинаю волноваться.
-§7[3/3] §2Kalert's Notes: §aPage 3 - That thing. It's broken into my house. I think he might want to kill me. For now, I'm safe. I've blocked my self off inside of my attic. To anyone who finds this, report my murder to the authorities! I'm positive he's here to kill me.@§7[3/3] §2Kalert's Notes: §aСтраница 3 - Снова он. Он вломился в мой дом. Думаю, что он может хотеть убить меня. Сейчас я в безопасности. Я забарикодировался внутри моего чердака. Всем, кто найдет это, доложите о моем убийстве властям! Я уверен, что он здесь, чтобы убить меня.
-§7[1/1] §2???: §aIn order to gain access to the exit, one must put §3[1 Security Card]§a into the Security Machine.@§7[1/1] §2???: §aЧтобы получить доступ к выходу, необходимо поместить §3[1 Карточку Безопасности]§a в машину безопасности.
-§7[1/1] §2Yuge: §aKeep searching, looks like you've got to deliver more of those letters.@§7[1/1] §2Yuge: §aПродолжай искать, похоже, тебе нужно доставить больше этих писем.
-§7[1/1] §2Dejol: §aHo, traveller! I could use your help with something, but I need someone more familiar with the canyon. Come back when you're level 85.@§7[1/1] §2Dejol: §aЭй, путешественник! Мне бы не помешала твоя помощь, но мне нужен кто-то более знакомый с каньоном. Возвращайся, когда достигнешь 85-го уровня.
 §7[1/1] §2Dolem: §aOh come on, have you not gotten any gold from the secret vault? If you've forgotten already, it's in the back of the treasure room.@§7[1/1] §2Dolem: §aДа ладно тебе, разве ты не достал золота из секретного хранилища? Если ты уже забыл, оно находится в задней части сокровищницы.
-§7[1/1] §2???: §aYou have been granted access to leave the room.@§7[1/1] §2???: §aТебе был предоставлен доступ, чтобы покинуть комнату.
 
 =================Discoveries.txt=============
 §7[1/2] §2???: §aAh§a§kh§ah@§7[1/2] §2???: §aАх§a§kх§aх
@@ -82,17 +74,6 @@
 §7[1/1] §2Ghostly Voice: §aI will not let you stop me!@§7[1/1] §2Ghostly Voice: §aЯ не позволю тебе остановить меня!
 
 =================BaseQuestsSTU.txt=================
-§7[1/1] §2Eltom Guard: §aThe guards here are only trained in combat, not in solving mysteries. That's why the mayor called you!@§7[1/1] §2Eltom Guard: §aЗдешние стражники обучены только бою, а не разгадыванию тайн. Вот почему мэр вызвал тебя!
-§7[1/1] §2Eoric: §aIf you have any questions, go to the waiting room and wait for your turn, not run into my office head-straight! You'd have to be level 88 for that luxury.@§7[1/1] §2Eoric: §aЕсли у тебя есть какие-либо вопросы, иди в зал ожидания и жди своей очереди, а не беги в мой кабинет! Ты должен быть минимум 88 уровня для этой роскоши.
-§7[1/1] §2Lumilda: §aCheck the Eastern Exit! I'm pretty sure that's where the hooded person keeps returning to.@§7[1/1] §2Lumilda: §aПроверь восточный выход! Я почти уверен, что именно туда продолжает возвращаться человек в капюшоне.
-§7[1/1] §2Hilan: §aHe climbed the t-tower... Go!@§7[1/1] §2Hilan: §aОн взобрался на б-башню... Иди же!
-
-§7[1/1] §2Gerten Hunter: §aGert see human! I kill human!@§7[1/1] §2Gerten Hunter: §aГерт видеть человек! Моя убить человек!
-§7[1/1] §2Jitak: §aTo create the Gert mask, I will need §3[6 Gert Skin]§a. Kill a few Gerts in the camp to the west.@§7[1/1] §2Jitak: §aЧтобы создать маску Герта, мне понадобится §3[6 Кожи Герта]§a. Убей несколько Гертов в лагере на западе.
-§7[1/1] §2Gerten Hunter: §aGert no allow to enter tunnel! Gert talk to me first!!@§7[1/1] §2Gerten Hunter: §aГерт не позволять входить тоннель! Сначала Герт говорить со мной!!
-§7[1/1] §2Gerten Captain: §aGert no enter tunnel without password! Solitary gert have password! Ask solitary gert password!@§7[1/1] §2Gerten Captain: §aГерт не входить тоннель без пароль! Одинокий Герт знать пароль! Спросить одинокий Герт пароль!
-§7[1/1] §2Gerten Excavator: §aYou not allow to enter!@§7[1/1] §2Gerten Excavator: §aТебе нельзя входить!
-
 §7[1/13] §2Yansur: §aI see another challenger has found their way to §a§lThe Qira Hive§a!@§7[1/13] §2Yansur: §aЯ смотрю еще один испытуемый нашел свой путь в §a§lУлей Qir'ы§a!
 
 §7[4/4] §2Kroac: §aI haven't got a clue where the beast is now... But I'm sure if you continue to follow those footprints you wouldn't have any problems in finding it. Not that you would want to...@§7[4/4] §2Kroac: §aЯ понятия не имею где зверь сейчас... но уверен, если ты продолжишь идти по этим следам, то без проблем найдешь его. Раз очень этого хочешь...
@@ -100,19 +81,11 @@
 
 §7[6/10] §2Ildan: §aThey quickly realised that it was a bad idea, so they locked him in a tomb.@§7[6/10] §2Ildan: §aНо быстро осознав, что это было большой ошибкой, они запечатали его в гробнице.
 
-* §7[4/4] §2Kofis: §aI guess you better go on and find the rest of the crew. Judging by those letters you have there, you still need to find 4 more of us.@§7[4/4] §2Kofis: §aДумаю, тебе лучше пойти и найти остальных членов команды. Судя по тем письмам, которые у тебя есть, тебе все еще нужно найти 4 из нас.
-* §7[4/4] §2Sytis: §aI see you were delivering the same message to the entire crew. Well, looks like you only need to deliver it to 3 more of us.@§7[4/4] §2Sytis: §aЯ вижу, ты передал то же самое сообщение всей команде. Ну, похоже, тебе нужно только доставить его еще троим из нас.
-* §7[4/4] §2Felim: §aSo you were delivering that message to the entire crew? Well, looks like you only need to get to 2 more of us.@§7[4/4] §2Felim: §aТак ты доставил это сообщение всему экипажу? Ну, похоже, тебе нужно только добраться еще до 2 из нас.
-* §7[4/4] §2Yuge: §aHm, so I see you still have more letters. So you're giving them to the entire crew, I suppose. Well, looks like there's only 1 of us to go.@§7[4/4] §2Yuge: §aХм, я вижу, у тебя еще есть письма. Значит, ты отдаешь их всей команде, я полагаю. Ну, похоже, что тебе осталось найти 1 из нас.
-* §7[4/4] §2Ansei: §aLooks like you're all out of letters there, make sure to tell Dejol everyone's all right!@§7[4/4] §2Ansei: §aПохоже, у тебя там все письма закончились, не забудь сказать Dejol'у, что все в порядке!
-§7[4/4] §2Ansei: §aLooks like you still have some more letters there, I guess you still need to deliver them to 3 more members of the crew.@§7[4/4] §2Ansei: §aПохоже, что у тебя все еще есть еще несколько писем, думаю, тебе все еще нужно доставить их еще 3 участникам команды.
-§7[4/4] §2Yuge: §aHm, so I see you still have more letters. So you're giving them to the entire crew, I suppose. Well, looks like there's only 2 of us to go.@§7[4/4] §2Yuge: §aХм, я вижу, у тебя еще есть письма. Значит, ты отдаешь их всей команде, я полагаю. Ну, похоже, что тебе осталось найти 2 из нас.
-§7[4/4] §2Felim: §aLooks like I was the last one you delivered the message to. Tell Dejol that I'm surviving, though it was a narrow escape. The bear gives me some great meat, however.@§7[4/4] §2Felim: §aПохоже, я был последним, кому ты передал сообщение. Скажи Dejol'у, что я выжил, хотя это был непростой путь к спасению. Однако, из медведя получается отличное мясо.
 
 §7[1/3] §2Rasalux: §aHave you seen the monsters that roam the realm?@§7[1/3] §2Rasalux: §aТы видел тех монстров, что наводнили царство?
 §7[7/7] §2Gaclux: §aOrphion is probably at an all powerful state at the moment. If you wish to face him, you should bring your friends and face him together. He is too powerful to face alone. It will take me time to remove the seal.@§7[7/7] §2Gaclux: §aНет никого сильнее Orphion в нашем царстве. Если хочешь сразиться с ним, то приводи с собой своих друзей. Он слишком силен для тебя одного. Мне потребуется время, чтобы снять пломбу.
 
-§7[6/10] §2Cikal: §aOur victory over those orange skinned brutes brought about the creation of the Gylia Watch, where we now observe them day and night! Well, maybe not on poker night.@§7[6/10] §2Cikal: §aНаша победа над этими скотами с оранжевой кожей и привела к основанию этой Стражи Gylia. Где теперь мы наблюдаем за ними день и ночь! Ну, кроме ночи, когда мы играем в покер.
+
 
 
 §7[1/1] §2Krattson: §aI admit I am intimidated by their presence, but I cannot take my eyes off of them. Did you see that? That one just climbed a tree using just his feet.@§7[1/1] §2Krattson: §aПризнаю, что меня пугает их присутствие, но я не могу отвести от них глаз. Ты это видел? Тот просто залез на дерево, используя только свои ноги.
