@@ -32,19 +32,12 @@
 
 §7[1/1] §2Farmer Cevalus: §aHey! Get away from my farm, this is a private property!@§7[1/1] §2Farmer Cevalus: §aЭй! Убирайся с моей фермы, это частная собственность!
 §7[1/1] §2Farmer Cevalus: §aI could really use some help right now, but you are too weak. Come back when you are level 2.@§7[1/1] §2Farmer Cevalus: §aМне бы сейчас не помешала помощь, но ты слишком слаб. Вернись, когда будешь 2 уровня.
-§7[1/2] §2Haily: §aWe're looking for volunteers for the holiday season.@§7[1/2] §2Haily: §aМы ищем добровольцев для праздничного сезона.
-§7[2/2] §2Haily: §aCome back when you're level 33.@§7[2/2] §2Haily: §aВернись, когда будешь 33-го уровня.
-§7[1/1] §2Haily: §aSo, how is it going? Did you find Nick in the slum?@§7[1/1] §2Haily: §aЧто ж, как дела? Ты нашел Nick'а в трущобах?
-§7[1/1] §2Nick: §aHey! Don't go down there, it's dangerous!@§7[1/1] §2Nick: §aЭй! Не ходи туда, это опасно!
-§7[1/1] §2Nick: §aMerry Craftmas.@§7[1/1] §2Nick: §aСчастливого Рождества.
-§7[1/1] §2Nick: §aWe still have a responsibility here, you can't give up!@§7[1/1] §2Nick: §aУ нас все еще есть дела здесь, мы не можем сдаваться!
-§7[1/2] §2Server: §aAre you back here again?@§7[1/2] §2Server: §aТы пришел сюда снова?
-§7[2/2] §2Server: §aNick really changed people's minds. Sorry about what I said.@§7[2/2] §2Server: §aNick действительно изменил мнение людей. Прости за то, что я говорил.
-§7[1/1] §2Server: §aHey! Don't you dare go stealing from the kitchen!@§7[1/1] §2Server: §aЭй! Не смей воровать на кухне!
+
+
+
 §7[1/1] §2Achper: §aHi! If you are looking for some information about mummies, I can help you!@§7[1/1] §2Achper: §aПривет! Если ты ищешь какую-то информацию о мумиях, я могу тебе помочь!
 §7[1/1] §2Excavator Lykron: §aHello there! We are working very hard here at this excavation site! We have one in Almuj as well, I think you should check it out!@§7[1/1] §2Excavator Lykron: §aПривет! Мы очень много работаем здесь, на этом месте раскопок! У нас также есть одно место в Almuj'е, думаю, ты должен проверить его!
 §7[1/1] §2Bandit: §aEntering through there would be a mistake, weakling!@§7[1/1] §2Bandit: §aПроход через него был бы ошибкой, слабак!
-§7[1/1] §2Flodur: §aI hope you find some food, Nick probably knows where to ask next.@§7[1/1] §2Flodur: §aЯ надеюсь, что ты найдешь немного еды. Nick, вероятно, знает, где просить дальше.
 §7[1/1] §2Tinemild: §aI am still waiting for the scroll I asked you. Have you forgotten?@§7[1/1] §2Tinemild: §aЯ все еще жду свиток, о котором просил тебя. Ты что, забыл?
 §7[1/1] §2Captain Fenor: §aHey, don't go down there! it's full of many dangers!@§7[1/1] §2Captain Fenor: §aЭй,не ходи туда! Там полно опасностей!
 §7[1/1] §2Yahya: §aH-... Hey! I'll need your help! Mushrooms. But right now you seem too weak. Come back to me when you're le-... level 12.@§7[1/1] §2Yahya: §aЭ...Эй! Мне понадобится твоя помощь! Грибы. Но сейчас ты кажешься слишком слабым. Вернись ко мне, когда будешь ур-...уровня 12.
@@ -71,12 +64,6 @@
 §7[1/1] §2Batelu: §aYou can't enter there yet!@§7[1/1] §2Batelu: §aТы пока не можешь войти туда!
 §7[1/1] §2Batelu: §aWe still have a lot to learn about Bob!@§7[1/1] §2Batelu: §aНам еще многое предстоит узнать о Bob'е!
 §7[1/1] §2Karkun: §aCome on, lad! The Black Ring is just down at the docks, in front o' the Seaskipper fella's vessel.@§7[1/1] §2Karkun: §aДавай, парнишка! Black Ring стоит в доках, прямо перед судном морского шкипера.
-* §7[2/4] §2Maid: §aAre you kidding me? Mr. Caritat is cloyingly sweet. I doubt he'd be upset, even if you'd thrown it down there on purpose.@§7[2/4] §2Maid: §aТы шутишь? Mr. Caritat приторно мил. Я сомневаюсь, что он расстроился бы, даже если бы ты бросил его туда нарочно.
-§7[1/1] §2Servant: §aThis house was supposed to be a icon of hope to the forest, now it is a symbol of its decay.@§7[1/1] §2Servant: §aЭтот дом должен был стать иконой надежды для леса, теперь он является символом его упадка.
-§7[1/1] §2Timothy: §aOh my god, look at this mess...@§7[1/1] §2Timothy: §aБоже мой, посмотри на этот беспорядок...
-§7[1/1] §2Atisun: §aAll you have to do, is go in there and find answers. I'm sure the past won't haunt us both. Something happened here all those years ago...I want to know what.@§7[1/1] §2Atisun: §aВсе, что тебе нужно сделать, это пойти туда и найти ответы. Я уверен, что прошлое не будет преследовать нас обоих. Что-то случилось здесь много лет назад...Я хочу знать, что именно.
-§7[2/2] §2Timothy: §aYou did §agr...okay§a, I swear I heard one of the chefs yelling in the kitchen. Is something happening in there?@§7[2/2] §2Timothy: §aТы сделал отл...хорошо, я слышал, как один из поваров кричал на кухне. Там что-то происходит?
-§7[1/1] §2Mr. Caritat: §aNever, never!! That study is off-limits to everyone, even Emily, and she's my wife! If I had known back then, I'd...I'd §ahave...urgh..§a.@§7[1/1] §2Mr. Caritat: §aНикогда, никогда!! Этот кабинет закрыт для всех, даже для Emily, а она моя жена! Если бы я знал тогда, я бы знал...Я бы так и сделал...эх...
 §7[1/3] §2Ahmas: §aAh, a Wynn soldier!@§7[1/3] §2Ahmas: §aАх, солдат из Wynn!
 §7[2/3] §2Ahmas: §aHold on just a minute, I don't think you're ready just yet.@§7[2/3] §2Ahmas: §aПодожди минутку, я не думаю, что ты уже готов.
 §7[3/3] §2Ahmas: §aPerhaps if you train until you are level 61, you will be able to help.@§7[3/3] §2Ahmas: §aВозможно, если ты будешь тренироваться до 61-го уровня, то сможешь помочь.
@@ -163,29 +150,6 @@
 §7[1/1] §2Ghostly Voice: §aI will not let you stop me!@§7[1/1] §2Ghostly Voice: §aЯ не позволю тебе остановить меня!
 
 =================BaseQuestsIJKLM.txt===============
-
-§7[1/10] §2Atisun: §aOh, a human? If I could beg your pardon a §amoment...could§a I talk to you about the mansion here?@§7[1/10] §2Atisun: §aО, человек? Если бы я мог попросить тебя...могу я поговорить с тобой о здешнем особняке?
-§7[2/10] §2Atisun: §aIt was not always so dilapidated. It once stood tall, a monument to the family of Caritat, who constructed it from the ground up.@§7[2/10] §2Atisun: §aОн не всегда был таким ветхим. Когда-то он был высоким, это ведь памятник семье Caritat, которая построила его с нуля.
-§7[4/10] §2Atisun: §aBut... Eventually... Erm, we’re not entirely sure what happened, only rumours have surfaced over the years, §abut...things§a took a turn, shall we say.@§7[4/10] §2Atisun: §aНо... В итоге... Эм, мы не совсем уверены, что произошло, только слухи всплывали на протяжении многих лет, но...все изменилось, скажем так.
-§7[5/10] §2Atisun: §aBecause, §aaah...how§a shall I put this... One day they were §aall...discovered§a dead. Murdered. By each other.@§7[5/10] §2Atisun: §aПотому что, эхх...как бы это сказать... В один прекрасный день они были все...обнаружены мертвыми. Убиты. Друг другом.
-§7[6/10] §2Atisun: §aI am the last remaining descendant, Atisun Caritat. I was the only survivor of the... §a§oincident§a. I was only an infant when I was found. by a passerby.@§7[6/10] §2Atisun: §aЯ их последний оставшийся потомок, Atisun Caritat. Я был единственным выжившим из этого... §a§oинцидента§a. Я был еще младенцем, когда меня нашли мимо проходящие люди.
-§7[7/10] §2Atisun: §aSince, §aerm...since§a there was no one alive to report the incident, it wasn't discovered until days later when a traveller passing by took notice of the mansion.@§7[7/10] §2Atisun: §aПоскольку, эм...поскольку в живых не было никого, кто мог бы сообщить об этом инциденте, все узнали об этом несколько дней спустя, когда проходящий мимо путешественник обратил внимание на особняк.
-§7[8/10] §2Atisun: §aI do not believe that my family simply went mad, but I do not know what happened. I want to know the truth. I think this mansion still holds the answers I'm looking for.@§7[8/10] §2Atisun: §aЯ не верю, что моя семья просто сошла с ума, но я не знаю, что случилось. Я хочу знать правду. Думаю, этот особняк все еще хранит ответы, которые я ищу.
-§7[9/10] §2Atisun: §aYet, I §aam...scared§a of this place. It is the ruins of the life I should have had. The spirits of the dead are still §athere...cursed§a. I need someone else to uncover my heritage.@§7[9/10] §2Atisun: §aИ пока я все же...боюсь этого места. Это руины той жизни, которую я должен был иметь. Духи умерших все еще там...прокляты. Мне нужен кто-то еще, чтобы раскрыть мое наследие.
-§7[10/10] §2Atisun: §aDon't you worry, like my ancestors, I'm a generous man. If you help me, I will reward you handsomely. All you have to do, is go in there and find answers. I'm sure the past won't haunt us both.@§7[10/10] §2Atisun: §aНе волнуйся, как и мои предки, я щедрый человек. Если ты поможешь мне, я щедро вознагражу тебя. Все, что тебе нужно сделать, это пойти туда и найти ответы. Я уверен, что прошлое не будет преследовать нас обоих.
-§7[3/3] §2Maid: §aI'll bet he's writing insults about us, or something. He can't be as nice as he appears, no one is!@§7[3/3] §2Maid: §aСтавлю на то, что он пишет обиды на нас, или что-то такое. Не может он быть таким идеальным, как все говорят!
-§7[1/2] §2Mr. Caritat: §aHE WHO STARTED THE §dWAR§a SHALL RISE ONCE MORE. FROM THE §dREALM OF SHADOWS§a, DECEIT AND PAIN.@§7[1/2] §2Mr. Caritat: §aТОТ, КТО НАЧАЛ §dВОЙНУ§a СНОВА ВОССТАНЕТ. ИЗ §dЦАРСТВА ТЕНЕЙ§a, ОБМАНА И БОЛИ.
-§7[4/8] §2Mr. Caritat: §aFROM SOILS OF DOOM THE §dSERVANT §aLAID@§7[4/8] §2Mr. Caritat: §aИЗ ЗЕМЛИ СУДЬБЫ, ЧТО §dСЛУГА §aЗАЛОЖИЛ
-§7[1/1] §2Atisun: §aHey! Human! Are you alright?! Please, calm down, quit flailing around, you're safe!@§7[1/1] §2Atisun: §aЭй! Человек! Ты в порядке?! Пожалуйста, успокойся, перестань метаться, ты в безопасности
-§7[1/8] §2Atisun: §aOh thank goodness, you're back to us. I was so §aworried...er§a, you might not recall. Let me explain...@§7[1/8] §2Atisun: §aО, слава богу, ты вернулся к нам. Я так волновался...эээм, ты наверно не помнишь. Позволь мне объяснить...
-§7[2/8] §2Atisun: §aIt...it§a seemed like you were possessed. You stood in the hall for...I don't know how long. I couldn't snap you out of it, no matter what I tried.@§7[2/8] §2Atisun: §aПохоже...казалось, что ты был одержим. Ты стоял в коридоре...Не знаю, как долго. Я не мог вытащить тебя из этого, что бы я ни пытался.
-§7[3/8] §2Atisun: §aVoices that weren't yours, you spoke out their moments and thoughts. The maids, my §afather...everyone§a. §aI...you§a said what I needed to hear.@§7[3/8] §2Atisun: §aГолоса, которые не были твоими, ты высказывал их моменты и мысли. Горничные, мой отец...всех. И...ты сказал то, что мне нужно было услышать.
-§7[4/8] §2Atisun: §aMy father, wanting to prove to everyone that the forest was still good, built his mansion atop the very spot that was acclaimed to be the cause of the decay.@§7[4/8] §2Atisun: §aМой отец, желая доказать всем, что лес все еще хорош, построил свой особняк на том самом месте, которое считалось причиной заражения.
-§7[5/8] §2Atisun: §aWhat emerged from that spot? Who §aknows...but§a, whatever it §awas...the§a darkness must have lingered, and drove them all to madness. I must consider myself lucky that I did not fall.@§7[5/8] §2Atisun: §aЧто появилось из этого места? Кто знает...но, что бы это ни было...должно быть, тьма рассеялась и довела их всех до безумия. Должен считать, что мне повезло, что я выжил.
-§7[6/8] §2Atisun: §aH-Hold on, where did that letter come from?! You never moved from the hall, but...I see the Caritat signature. Harold must have wrote that.@§7[6/8] §2Atisun: §aП-погоди, откуда это письмо?! Ты никогда не выходил из зала, но ... ..Я вижу подпись Caritat'а. Harold, должно быть, написал это.
-§7[7/8] §2Atisun: §aThis must hold the answers I am looking for. I'm sorry you went through that ordeal... I would suggest seeing a healer as soon as possible.@§7[7/8] §2Atisun: §aТут должно быть ответы, которые я ищу. Мне жаль, что ты прошел через это испытание... Я бы посоветовал как можно скорее обратиться к целителю.
-
-§7[1/1] §2Santa: §aHey, you. Come here.@§7[1/1] §2Santa: §aЭй, ты. Иди сюда.
 
 §7[1/1] §2Rohem: §aHey, you up there! You know it's rude to rummage through people's rooms, right? Get away from there!@§7[1/1] §2Rohem: §aЭй, ты, там наверху! Ты же знаешь, что это невежливо - рыться в чужих комнатах, да? Уйти оттуда!
 
