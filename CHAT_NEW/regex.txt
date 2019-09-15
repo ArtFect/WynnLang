@@ -109,6 +109,7 @@
 §7\[Daily Rewards: §a(.*) emeralds§7 and §b(.*) items§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7 и §b(r2) предмета§7]
 §b(.*)§3 has logged into server §b(.*)§3 as §ba (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
 §b(.*)§3 has logged into server §b(.*)§3 as §ban (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
+§7\+ New Recipe \[Lv. (.*)\]@§7+ Новые рецепты [Ур. (r1)]
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aTasim: Don't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
