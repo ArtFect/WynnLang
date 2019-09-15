@@ -16,21 +16,24 @@
 §7[3/20] §2Corkus Delegate: §aIf you follow me, I'll give you a tour of the city.@§7[3/20] §2Corkus Delegate: §aЕсли ты проследуй за мной, то я покажу тебе город.
 §7[4/20] §2Corkus Delegate: §aWe first arrived on Corkus 350 years ago.@§7[4/20] §2Corkus Delegate: §aВпервые мы прибыли в Corkus 350 лет назад.
 §7[5/20] §2Corkus Delegate: §aThe Corkians, like you, are from Fruma originally... @§7[5/20] §2Corkus Delegate: §aЖители Corkus'а, как и ты, когда-то прибыли из провинции Fruma...
+§7[6/20] §2Corkus Delegate: §a...But§a let's not talk about that.@§7[6/20] §2Corkus Delegate: §a...Но давай не будем говорить об этом.
 §7[7/20] §2Corkus Delegate: §aComing from Fruma, we of course knew no magic at all.@§7[7/20] §2Corkus Delegate: §aКогда мы пришли из Frum'ы, мы вообще не знали магию.
 §7[8/20] §2Corkus Delegate: §aWe soon developed our own. The rare power of Electromagic.@§7[8/20] §2Corkus Delegate: §aНо вскоре мы изобрели свою собственную. Редкая сила под названием 'Электромагия'.
 §7[9/20] §2Corkus Delegate: §aIt's a difficult modern branch of magic that allows us to create machines.@§7[9/20] §2Corkus Delegate: §aЭто очень сложный современный вид магии, которая позволяет нам создавать роботов.
 §7[10/20] §2Corkus Delegate: §aAh, here already. Welcome to Corkus City, Capital of our island.@§7[10/20] §2Corkus Delegate: §aО, мы уже пришли. Добро пожаловать в Corkus City, столица нашего острова.
 §7[11/20] §2Corkus Delegate: §aWe've come a long way in a short time.@§7[11/20] §2Corkus Delegate: §aМы достаточно сильно развились за все то время, что были здесь.
 §7[12/20] §2Corkus Delegate: §aLet me point out where the shops are.@§7[12/20] §2Corkus Delegate: §aДавай я покажу тебе, где у нас тут магазины.
+§7[13/20] §2Corkus Delegate: §aNorth, you can buy weapons and potions. If you continue through the gate you will find the native Avos.@§7[13/20] §2Corkus Delegate: §aСевер - там ты можешь купить оружия и зелья. Если пройдешь за ворота, то сможешь встретить коренных обитателей - Avos'ов.
+§7[14/20] §2Corkus Delegate: §aWest, you can buy armor, and there is another entrance to the potion shop.@§7[14/20] §2Corkus Delegate: §aЗапад - там ты можешь купить броню, и также там находиться другой вход в магазин зелий.
 §7[15/20] §2Corkus Delegate: §aTo the south is our bank, powder shop, scrolls, and our exclusive powder exchange!@§7[15/20] §2Corkus Delegate: §aНа юге находиться наш банк, магазин порошков, свитков телепортации и наш особенный обменный пункт порошков!
 §7[16/20] §2Corkus Delegate: §aOh! And speaking of the powder exchange, I'll start you off with some of these.@§7[16/20] §2Corkus Delegate: §aИ да, говоря об обмене порошков! Для начала я дам тебе немного этого.
 §7[17/20] §2Corkus Delegate: §aMoving on... The south gate leads to Relos. On your way there, you might pass by the-@§7[17/20] §2Corkus Delegate: §aТак, идем дальше... Южные ворота ведут в Relos. По пути туда ты можешь пройти мимо-
 §7[18/20] §2Corkus Delegate: §aUhm, nevermind. In fact, we have a gift for you.@§7[18/20] §2Corkus Delegate: §aУх, не важно. А вообще, у нас для тебя есть подарок.
-§7[3/8] §2Darnes: §a...@§7[3/8] §2Darnes: §a...
 §7[19/20] §2Corkus Delegate: §aThe Five Gears Diner is hosting any guests of the island.@§7[19/20] §2Corkus Delegate: §aСтоловая 'Пять шестеренок' принимает всех гостей острова.
 §7[20/20] §2Corkus Delegate: §aGo through the western gate and head to the diner for your free feast. Enjoy!@§7[20/20] §2Corkus Delegate: §aПройди через западные ворота и направляйся в столовую для бесплатного обеда. Наслаждайся!
 §7[1/2] §2Corkus Citizen: §aRUN!@§7[1/2] §2Corkus Citizen: §aБЕГИ!
 §7[2/2] §2Corkus Citizen: §aMechs at the Diner! Run!@§7[2/2] §2Corkus Citizen: §aРоботы в столовой! Беги!
+§7[1/4] §2Maxie: §aPst. You. Over here, behind the logs.@§7[1/4] §2Maxie: §aПст. Ты. Сюда, за бревнами.
 §7[2/4] §2Maxie: §aMo'in, Wynnian. Thank goodness I stopped you.@§7[2/4] §2Maxie: §aСалют, житель из Wynn. Слава богу я остановил тебя.
 §7[3/4] §2Maxie: §aThe diner is being raided by mechs..@§7[3/4] §2Maxie: §aСтоловая была захвачена роботами...
 §7[4/4] §2Maxie: §aBefore we do anything, I have to explain what's happening here...@§7[4/4] §2Maxie: §aПрежде чем мы что-то сделаем, я должен объяснить тебе, что здесь происходит...
@@ -78,3 +81,7 @@
 §7[8/9] §2Maxie: §aThey won't admit anything with you around. They want to become allies with Wynn.@§7[8/9] §2Maxie: §aОни не будут говорить о чем-то важном при тебе. Они хотят заключить союз с провинцией Wynn.
 §7[9/9] §2Maxie: §aCome to my house when you reach level 89, here's a key so you get in. We must prepare to break into the factory.@§7[9/9] §2Maxie: §aПриходи к моему дому, когда достигнешь 89 уровня, вот тебе ключ, чтобы ты мог войти. Мы должны подготовиться к вторжению на фабрику.
 §7[1/1] §2Mech Guard: §aEnemy spotted, defence system activated.@§7[1/1] §2Mech Guard: §aЗамечен враг, система защиты активирована.
+
+§7[1/1] §2Corkus Delegate: §aI know you're eager to see more of the amazing Corkus Province, but please let me catch up!@§7[1/1] §2Corkus Delegate: §aЯ знаю, что ты хочешь увидеть больше удивительной провинции Corkus, но подожди, позволь мне догнать тебя!
+§7[1/1] §2Corkus Delegate: §aI know you're eager to see more of the amazing Corkus Province, but wait until the tour is finished, please!@§7[1/1] §2Corkus Delegate: §aЯ знаю, что ты хочешь увидеть больше удивительной провинции Corkus, но подожди, пока тур не закончится, пожалуйста!
+§7[1/1] §2Corkus Delegate: §aHey! What are you doing back there? Follow me so I can show you the amazing Province of Corkus!@§7[1/1] §2Corkus Delegate: §aЭй! Что ты там делаешь? Следуй за мной, чтобы я мог показать тебе удивительную провинцию Corkus!
