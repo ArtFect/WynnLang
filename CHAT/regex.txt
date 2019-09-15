@@ -12,11 +12,6 @@ Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §
 Key Collector: You cannot enter this dungeon unless you give me \[(.*)\]@§5Key Collector: §dТы не можешь войти в этот данж, пока не дашь мне §3(r1).
 Only (.*) more combat levels until you earn the (.*) spell@§5Еще §d(r1) комбат уровня §5и ты изучишь §d(r2) заклинание
 This material cannot be used for (.*)@Этот ресурс не может быть использован для (r1)
-\+ Faster Gathering \[(.*)\]@§7+ Более быстрая добыча §8[(r1)]
-\+ Faster Refining \[(.*)\]@§7+ Более быстрая переработка §8[(r1)]
-\+ Higher Refining Success \[(.*)\]@§7+ Шанс на успех при переработке §8[(r1)]
-\+ New Tool \[(.*)\]@§7+ Новый инструмент §8[(r1)]
-\+ Higher Recipe Level \[(.*)\]@§7+ Рецепты повышенных уровней §8[(r1)]
 Only (.*) more levels until you can gather from (.*)@§5Еще §d(r1) уровня §5и ты сможешь собирать §d(r2)
 Only (.*) more level until you can gather from (.*)@§5Еще §d(r1) уровень §5и ты сможешь собирать §d(r2)
 \+ New Resource \[(.*)\]@§7+ Новый ресурс §8[(r1)]
