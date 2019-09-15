@@ -48,7 +48,7 @@
 §5Blacksmith: §dYou sold me: (.*) for a total of §e(\d+)§d emeralds. It was a pleasure doing business with you.@§5Blacksmith: §dТы продал мне (r1) за §e(r2)§d эмеральдов. Было приятно иметь с тобой дело.
 §cThe server is restarting in (\d+) seconds.@§cСервер перезагрузится через (r1) секунд
 §cThe server is restarting in (\d+) minutes.@§cСервер перезагрузится через (r1) минут
-§5\[(.*)§5\] §d([a-zA-Z0-9_]{1,16})§5 has just logged in!@§5\[(r1)§5\] §d(r2)§5 только что зашел!
+(.*) has just logged in!@(r1) только что зашел!
 §5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds.@§5Item Identifier: §dБоюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить §6(r1) эмеральдов
 §6([a-zA-Z0-9_]{1,16}) is now combat level (\d+)@§6(r1) достиг (r2) комбат уровня
 §6([a-zA-Z0-9_]{1,16})§9 has won the duel!@§6(r1)§9 выиграл дуэль!
@@ -60,7 +60,6 @@
 §5(.*): §dI'm afraid you cannot afford that item.@§5(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
 §5(.*): §dI'm afraid you don't have enough space in your inventory to buy that..@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
 §5(.*): §dThank you for your business. Come again!@@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
-
 §4(.*)§c is not currently online any Wynncraft servers....@§4(r1)§c сейчас ни на одном Wynncraft сервере...
 §b(.*)§3 has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@§b(r1)§3 бросил §bProfession Speed Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
 §7\[Daily Rewards: §a(.*) emeralds§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7]
