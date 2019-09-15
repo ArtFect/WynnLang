@@ -2,21 +2,11 @@
 
 §7[1/1] §2Sayrr: §aIf you want the helmet, bring me §3[3 Pigman's Meat]§a and §3[1 Milk]§a. What are you waiting for? I'm a growing man!@§7[1/1] §2Sayrr: §aЕсли ты хочешь шлем, принеси мне §3[3 Мяса Пигмена]§a и §3[1 Молоко]§a. Чего ждешь? Я растущий человек!
 §7[1/1] §2Omango: §aYou are too low level to help me, yet. Come back when you are level 8.@§7[1/1] §2Omango: §aТы пока слишком низкого уровня, чтобы помочь мне. Вернись, когда достигнешь 8 уровня.
-§7[1/1] §2Floormaster: §aYou may proceed.@§7[1/1] §2Floormaster: §aТы можешь пройти.
 §7[1/1] §2Omango: §aFind my friend Sayrr, he can give you the helmet. After that, explore the ship and bring me §3[4 Ancient Treasure]§a.@§7[1/1] §2Omango: §aНайди моего друга Sayrr'а, он может дать тебе шлем. После этого исследуй корабль и принеси мне §3[4 Древнего Сокровища]§a
-§7[1/1] §2Fredris: §aWhere is the §3[Breathing Helmet I] §aI asked you for?@§7[1/1] §2Fredris: §aГде §3[Шлем Подводника I] §aо котором я спрашивал?
 §7[1/1] §2Vade: §aHey, did you get the writing for me? I need the §3[Ancient Writing]§a!@§7[1/1] §2Vade: §aЭй, ты достал для меня письмена? Мне нужны §3[Древние Письмена]§a!
-§7[1/3] §2Eagle Tribesman: §aNot only did the Owl Tribe steal our totem but also stole one of our Idol's eye!@§7[1/3] §2Eagle Tribesman: §aНе только Племя Сов украло наш тотем, но они также украли и один глаз нашего идола!
-§7[2/3] §2Eagle Tribesman: §aThe totems hold great protective magical power. Without all the parts, it can not function.@§7[2/3] §2Eagle Tribesman: §aТотемы обладают огромной защитной магической силой. Без всех частей они не могут функционировать.
-§7[3/3] §2Eagle Tribesman: §aIt is probably hiding away somewhere at the Owl Tribe. Maybe if there's peace we can return it.@§7[3/3] §2Eagle Tribesman: §aВероятно, они прячут его где-то в Совином лагере. Может быть, если будет мир, мы сможем вернуть его.
-§7[1/1] §2Favian: §aYou may go now traveler, farewell.@§7[1/1] §2Favian: §aТеперь может идти путешественник, прощай.
-§7[1/1] §2Tinemild: §aI am glad to see you. I have a quest for you, but you aren't strong enough yet. However, I feel like you are very close! Come back when you are level 25.@§7[1/1] §2Tinemild: §aЯ рад тебя видеть. У меня есть задание для тебя, но ты еще недостаточно силен. Тем не менее, я чувствую, что ты очень близок! Вернись, когда будешь 25 уровня.
-§7[1/1] §2Calamaro: §aIt's such a joy to see somebody, sometimes we feel lonely down here.@§7[1/1] §2Calamaro: §aЭто такая радость видеть кого-то, иногда мы чувствуем себя здесь одинокими.
 §7[1/1] §2Flendar §aGet out of here!@§7[1/1] §2Flendar §aВон отсюда!
-§7[1/1] §2Drale: §aStay off of the boat! It's for the cows! Wish I was a cow... §7[Right-Click the boat to push it]@§7[1/1] §2Drale: §aДержись подальше от лодки! Это для коров! Хотел бы я быть коровой... §7[Правый-Клик по лодке, чтобы толкнуть]
 §7[1/1] §2Achper: §aHi! If you are looking for some information about mummies, I can help you!@§7[1/1] §2Achper: §aПривет! Если ты ищешь какую-то информацию о мумиях, я могу тебе помочь!
 §7[1/1] §2Excavator Lykron: §aHello there! We are working very hard here at this excavation site! We have one in Almuj as well, I think you should check it out!@§7[1/1] §2Excavator Lykron: §aПривет! Мы очень много работаем здесь, на этом месте раскопок! У нас также есть одно место в Almuj'е, думаю, ты должен проверить его!
-§7[1/1] §2Captain Fenor: §aHey, don't go down there! it's full of many dangers!@§7[1/1] §2Captain Fenor: §aЭй,не ходи туда! Там полно опасностей!
 §7[1/1] §2Ormrod: §aDon't stay close to me! Quick, run away, and kill the mummy!@§7[1/1] §2Ormrod: §aНе стой рядом со мной! Быстро, беги и убей мумию!
 * §7[4/4] §2WynnExcavation Guard: §aYou will have to find another exit if you want to get out!@§7[4/4] §2WynnExcavation Guard: §aТебе придется найти другой путь, чтобы выбраться наружу!
 
@@ -31,7 +21,6 @@
 §7[3/3] §2Royal Advisor Carlos: §aAnd then he said "The order of the crystals will open the way". Maybe it's a clue as to how to find him?@§7[3/3] §2Royal Advisor Carlos: §aА затем он сказал: "Порядок кристаллов откроет путь". Может быть, это ключ к тому, как его найти?
 §7[1/1] §2Traitor Thomas: §aI'm sorry, I can't let you in there until you prove yourself!@§7[1/1] §2Traitor Thomas: §aПрости, я не могу впустить тебя туда, пока ты не проявишь себя!
 §7[1/1] §2Amadel's Assistant: §aAmadel couldn't be defeated....@§7[1/1] §2Amadel's Assistant: §aAmadel не мог быть побежден...
-§7[1/1] §2Malo: §aHey kid, watch out you can't do that! This isn't a place to play!@§7[1/1] §2Malo: §aЭй, парень, берегись, ты не можешь этого сделать! Здесь не место для игр!
 §7[1/1] §2Isfurus: §aYour directions are in your quest book, friend. Always consult it if you are in a bind.@§7[1/1] §2Isfurus: §aТвои указания есть в твоей квестовой книге, друг. Всегда консультируйся с ней, если находишься в затруднительном положении.
 §7[1/1] §2Erisk: §aJust make sure to check back in with Isfurus before you leave!@§7[1/1] §2Erisk: §aПросто убедись, что ты вернулся к Isfurus'у перед уходом!
 
@@ -65,12 +54,6 @@
 §7[1/2] §2Ghostly Voice: §aIt all seems clear to me now.. The struggle for life... It’s futile. There need only be peaceful darkness.@§7[1/2] §2Ghostly Voice: §aТеперь мне все кажется ясным.. Борьба за жизнь... это бесполезно. Здесь должна быть только мирная тьма
 §7[2/2] §2Ghostly Voice: §aOnce my transformation is complete I shall begin to cleanse the world of vile mortality.@§7[2/2] §2Ghostly Voice: §aКак только моя трансформация завершится, я начну очищать мир от мерзкой смертности.
 §7[1/1] §2Ghostly Voice: §aI will not let you stop me!@§7[1/1] §2Ghostly Voice: §aЯ не позволю тебе остановить меня!
-
-=================BaseQuestsSTU.txt=================
-
-§7[1/1] §2Krattson: §aI admit I am intimidated by their presence, but I cannot take my eyes off of them. Did you see that? That one just climbed a tree using just his feet.@§7[1/1] §2Krattson: §aПризнаю, что меня пугает их присутствие, но я не могу отвести от них глаз. Ты это видел? Тот просто залез на дерево, используя только свои ноги.
-§7[1/7] §2Inrekei: §aOui ryja y bufanvim vaam ypuid oui, cdnyhkan. So baubma yna eh tyhkan. Bmayca, dyga drec yht ramb dras.@§7[1/7] §2Inrekei: §aОуи руджа и буфанвим ваам юпиуд оуи, цденихкан. Со баубма юна эх тухкан. Бмаюка, дига дрек юхт рамб бас.
-§7[4/4] §2Inrekei: §aPlease take this. It is but a small gift. Your currency is meaningless to us. In times of peril, few step forward and risk their lives to save those they do not know.@§7[4/4] §2Inrekei: §aПожалуйста, прими это. Это всего лишь небольшой подарок. Ваша валюта бессмысленна для нас. Спасибо, что рисковал своей жизнью, чтобы спасти людей, которых даже не знаешь.
 
 =================BaseQuestsVWXYZ.txt==================
 §7[3/5] §2Excavator Lykron: §aDon't pretend like you don't know what it is, you know as well as I do combining the four crystal shards is told to bring unlimited power!@§7[3/5] §2Excavator Lykron: §aНе прикидывайся, как-будто не знаешь что это. Ты знаешь, так же как и я, что соединение четырех осколков несет безграничную мощь!
