@@ -15,10 +15,6 @@
 §7[1/1] §2Guard: §aYou three should head on towards the castle.@§7[1/1] §2Guard: §aВы трое должны направиться к замку.
 §7[1/2] §2Orikal: §aAah, I'm busy. Get out.@§7[1/2] §2Orikal: §aЭх, я занят. Уйди.
 §7[2/2] §2Orikal: §aCome back when you are level 26.@§7[2/2] §2Orikal: §aВернись, когда будешь 26 уровня.
-§7[1/1] §2The Assistant: §aQuickly, get me...§3[8 Red Mushroom]§a. I §acan...alter§a the potion to §abe...less§a effective.@§7[1/1] §2The Assistant: §aБыстрее, принеси мне...§3[8 Красных Грибов]§a. Я могу...сделать зелье...менее эффективным.
-§7[1/1] §2Merloni: §aAh yes, hello! I don't think you should go down there.. It's a bit out of your league, come back when you are level 23.@§7[1/1] §2Merloni: §aАх да, здравствуй! Не думаю, что тебе стоит туда спускаться.. Это место тебе немного не по зубам, вернись, когда будешь 23 уровня.
-§7[1/1] §2Merloni: §aHey! You down there! How 'bout you come talk to me before throwing your life away?@§7[1/1] §2Merloni: §aэй! Ты там, внизу! Как насчет того, чтобы поговорить со мной, прежде чем закончить свою жизнь?
-§7[1/1] §2The Assistant: §aYou...you§a can't go §adown...there§a!@§7[1/1] §2The Assistant: §aТы...ты не можешь спуститься...вниз!
 §7[1/1] §2Tinemild: §aI am glad to see you. I have a quest for you, but you aren't strong enough yet. However, I feel like you are very close! Come back when you are level 25.@§7[1/1] §2Tinemild: §aЯ рад тебя видеть. У меня есть задание для тебя, но ты еще недостаточно силен. Тем не менее, я чувствую, что ты очень близок! Вернись, когда будешь 25 уровня.
 §7[1/1] §2Bugabo: §aGroookk... Zzzz... yummy... Zzzz....@§7[1/1] §2Bugabo: §aГрууукк...Хрр-пфф...кусно....Хрр-пфф...
 §7[1/1] §2Bugabo: §aNo entry without authorized permission! This cave here is private!@§7[1/1] §2Bugabo: §aНет входа без разрешения! Эта пещера здесь частная!
@@ -29,8 +25,6 @@
 §7[2/2] §2Orikal: §aThe small mining camp a little east of this village should have what you're looking for. Now Hurry!@§7[2/2] §2Orikal: §aНебольшой шахтерский лагерь, немного восточнее этой деревни, должен иметь то, что ты ищешь. А теперь поторопись!
 §7[1/1] §2Flendar §aGet out of here!@§7[1/1] §2Flendar §aВон отсюда!
 §7[1/1] §2Drale: §aStay off of the boat! It's for the cows! Wish I was a cow... §7[Right-Click the boat to push it]@§7[1/1] §2Drale: §aДержись подальше от лодки! Это для коров! Хотел бы я быть коровой... §7[Правый-Клик по лодке, чтобы толкнуть]
-§7[1/1] §2Farmer Cevalus: §aHey! Get away from my farm, this is a private property!@§7[1/1] §2Farmer Cevalus: §aЭй! Убирайся с моей фермы, это частная собственность!
-§7[1/1] §2Farmer Cevalus: §aI could really use some help right now, but you are too weak. Come back when you are level 2.@§7[1/1] §2Farmer Cevalus: §aМне бы сейчас не помешала помощь, но ты слишком слаб. Вернись, когда будешь 2 уровня.
 §7[1/1] §2Achper: §aHi! If you are looking for some information about mummies, I can help you!@§7[1/1] §2Achper: §aПривет! Если ты ищешь какую-то информацию о мумиях, я могу тебе помочь!
 §7[1/1] §2Excavator Lykron: §aHello there! We are working very hard here at this excavation site! We have one in Almuj as well, I think you should check it out!@§7[1/1] §2Excavator Lykron: §aПривет! Мы очень много работаем здесь, на этом месте раскопок! У нас также есть одно место в Almuj'е, думаю, ты должен проверить его!
 §7[1/1] §2Bandit: §aEntering through there would be a mistake, weakling!@§7[1/1] §2Bandit: §aПроход через него был бы ошибкой, слабак!
@@ -108,7 +102,7 @@
 §7[2/2]§2 Fiery Mech-DM2:§a Intruder detected. Camouflage ineffective. Defend.@§7[2/2]§2 Fiery Mech-DM2:§a Злоумышленник обнаружен. Камуфляж неэффективен. Защита.
 §7[1/1] §2Security Bot N4T17: §aNo entry without key!@§7[1/1] §2Security Bot N4T17: §aНет входа без ключа!
 §7[1/1] §2Grenot: §aWe need someone to help us contain the gas in the mines, but I'm sure it would kill anyone under level 85.@§7[1/1] §2Grenot: §aНам нужен кто-то, кто поможет нам сдержать газ в шахтах, но я уверен, что это убьет любого ниже 85 уровня.
-§7[2/2] §2Korun: §aShow me what you find at the source, and don't wear the helmet when you return, I'll need it back.@§7[2/2] §2Korun: §aПокажи мне, что ты нашел в источнике, и отдай мне шлем, когда вернешься, он мне понадобится.
+
 §7[1/1] §2Dolem: §aOh come on, have you not gotten any gold from the secret vault? If you've forgotten already, it's in the back of the treasure room.@§7[1/1] §2Dolem: §aДа ладно тебе, разве ты не достал золота из секретного хранилища? Если ты уже забыл, оно находится в задней части сокровищницы.
 §7[1/1] §2???: §aYou have been granted access to leave the room.@§7[1/1] §2???: §aТебе был предоставлен доступ, чтобы покинуть комнату.
 
@@ -145,16 +139,7 @@
 =================BaseQuestsNOPQR.txt===============
 §7[1/1] §2Ahmas: §aWhat are ya standing around for! I wrote your orders in your book private!@§7[1/1] §2Ahmas: §aЧего ты тут стоишь! Я записал приказы в твою книгу, рядовой!
 
-§7[4/4] §2Dr Essren: §aAa§a§kaa§aa§a§kar§a§krrg§agg!@§7[4/4] §2Dr. Essren: §aАа§a§kaа§aа§a§kар§a§kрг§aгг!
-
-§7[7/9] §2Damiral: §aThis first riddle goes like so: “§e§oToward the sunset, among northern flowers shaded by quartz§a”.@§7[7/9] §2Damiral: §aПервая загадка звучит так: "§e§oВ направлении заката, среди северных цветов в тени кварца§a".
-§7[8/9] §2Damiral: §aI've heard rumours that the others are engraved on blocks of black stone; it may be a good idea to look for those.@§7[8/9] §2Damiral: §aДо меня дошли слухи, что остальные выгравированы на блоках черного камня; думаю хорошей идеей будет найти их.
-
 §7[2/4] §2Martim: §aWait, there be a clue on the key; §a§oWhen leaving the hidden island, the real treasure will be found if you can look closely enough.@§7[2/4] §2Martim: §aПодожди, на одном из ключей подсказка: §a§oКогда покинешь тайный остров, настоящее сокровище будет найдено, если ты достаточно близко ищешь.
-
-§7[10/10] §2Nedlom: §aWhen you uncast the spell, go to the exit, it is located behind me.@§7[10/10] §2Nedlom: §aИспользовав его, пройди к выходу, что позади меня.
-***§7[3/4] §2Nedlom: §aThe chief injured me, and I bled all the way here. If you want to find him, just follow the trail I left behind.@§7[3/4] §2Nedlom: §aГлаварь ранил меня, и я истекал кровью всю дорогу сюда. Если ты хочешь найти его, просто иди по следу, который я оставил.
-§7[1/1] §2Nedlom: §aAre you even listening? Help!@§7[1/1] §2Nedlom: §aТы вообще слушаешь? Помоги!
 
 =================BaseQuestsSTU.txt=================
 §7[1/1]§2 Thief:§a§k .... §aI can't control myself...§a§kfjfjfj§a This rock...@§7[1/1]§2 Thief:§a§k ....§aЯ не могу контролировать себя...§kfjfjfj§a Этот камень...
