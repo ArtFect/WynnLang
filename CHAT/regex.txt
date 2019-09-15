@@ -17,6 +17,5 @@ Only (.*) more level until you can gather from (.*)@§5Еще §d(r1) урове
 \+ New Resource \[(.*)\]@§7+ Новый ресурс §8[(r1)]
 You've revealed: (.*) for a total of (.*) emeralds.@§dТы раскрыл: §b(r1) в сумме за §e(r2) эмеральдов.
 Great job! You've completed the (.*) Dungeon!@§6Отличная работа! Ты прошел (r1) данж!
-\[+(.*) falling emeralds\]@§7[+(r1) падающих эмеральдов]
 You need (.*) level of (.*) to use this tool!@§4Тебе нужен §c(r2)§4 уровень в §c(r1), §4чтобы использовать этот инструмент!
 (.*) is for combat level (.*)\+ only.@§c(r1) §4только для комбат уровня §c(r2).
