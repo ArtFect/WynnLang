@@ -1,4 +1,3 @@
-(.*) is for level (.*) only@§7(r1) только для уровней (r2)+
 (.*) has given you 20% resistance and 10% strength.@§b(r1) §7дал тебе 20% к сопротивлению и 10% к силе.
 You will now contribute (.*)% of your XP to (.*)@§bТеперь ты вносишь (r1)% от своих очков опыта в (r2)
 Please wait an additional (.*) minutes before opening this chest.@§7Пожалуйста, подожди еще (r1) минут, прежде чем открывать этот сундук.
