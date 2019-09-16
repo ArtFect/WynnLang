@@ -131,6 +131,7 @@
 (.*) is for combat level (.*) only.@(r1) только для уровней (r2)+
 §4Your account is now linked to (.*)@§4Твой аккаунт связан теперь с (r1)
 §3You will now contribute (.*) of your XP to (.*)@§3Теперь ты вносишь (r1) от своих очков опыта в (r2)
+(.*) for (.*) seconds\]@(r1) на (r2) секунд]
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aTasim: Don't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
