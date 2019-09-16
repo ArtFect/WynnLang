@@ -1,10 +1,5 @@
-§7[1/7] §2Old Siwel: §aWhat do you want? I'm busy. Brewing potions takes focus, you know....@§7[1/7] §2Old Siwel: §aЧто тебе надо? Я занят. Приготовление зелий требует внимания, знаешь ли...
-§7[1/1] §2Siwel: §aPlease go check out that egg. I am very worried about its behavior. Don't forget the §3[5 Monster Hides]§a as evidence.@§7[1/1] §2Siwel: §aПожалуйста, проверь то яйцо. Меня очень беспокоит его поведение. Не забудь про §3[5 шкур монстров]§a в качестве доказательства. 
-§7[7/8] §2Old Siwel: §aI leave the bones of the beast as a reminder of my failure, the destruction it brought still... lingers in the monsters it left behind.@§7[7/8] §2Old Siwel: §aЯ оставил кости зверя как напоминание о моей неудаче, разрушения, которые он принес... сохранились в монстрах, которых он оставил после себя.
-§7[1/1] §2Old Siwel: §aIf you die in the memory, you die in reality too.... Best of luck....@§7[1/1] §2Old Siwel: §aЕсли ты умрешь в памяти, то также умрешь и в реальности... Удачи тебе...
-§7[1/1] §2Cinfras: §aThank you for your work! I will be returning home. Perhaps we will meet again!@§7[1/1] §2Cinfras: §aСпасибо за твою работу! Я буду возвращаться домой. Возможно, мы еще встретимся!
 §7[1/1] §2Kelight: §aOnly brave warriors of level 68 may attempt to join this Temple.@§7[1/1] §2Kelight: §aТолько храбрые воины 68 уровня могут попытаться присоединиться к этому храму.
-§7[1/1] §2Worid: §aI feel so much better now, thank you for the cure!@§7[1/1] §2Worid: §aТеперь я чувствую себя намного лучше, спасибо за лекарство!
+
 §7[1/1] §2Gracen: §aWelcome back to the village, friend. May good fortune always find you.@§7[1/1] §2Gracen: §aС возвращением в деревню, друг. Пусть удача всегда найдет тебя.
 §7[1/1] §2Kelight: §aI am proud to have you in our temple! Perhaps one day you shall be almost as great as I am!@§7[1/1] §2Kelight: §aЯ горжусь тем, что ты в нашем храме! Возможно, однажды ты станешь таким же великим, как я!
 §7[1/1] §2Baron Axol: §aGreetings, young adventurer. You haven't seen my glasses, have you?@§7[1/1] §2Baron Axol: §aПриветствую тебя, юный искатель приключений. Ты случайно не видел мои очки?
@@ -18,10 +13,9 @@
 §7[1/2] §2Aluxander: §aOh thank goodness. Someone has finally arrived to save us.@§7[1/2] §2Aluxander: §aОх, слава богу. Наконец кто-то прибыл, чтобы спасти нас.
 §7[2/2] §2Aluxander: §aWait, what has Tiek sent us? You don't look strong enough to tackle this realm. Please return when you are level 74. We need you.@§7[2/2] §2Aluxander: §aМинутку, кого прислала нам Tiek? Ты не выглядишь достаточно сильным, чтобы справиться с этим царством. Пожалуйста, вернись когда достигнешь 74 уровня. Ты нам нужен.
 §7[1/1] §2Dereg: §aHave you found a use for those crushed bones yet? I'm sure you can find someone who wants it.@§7[1/1] §2Dereg: §aТы уже нашел применение этой измельченной кости? Уверен, ты найдешь того, кто ее захочет.
-§7[1/2] §2The Banker: §aDid you know you can stash your items in your bank? You can even get them back at any other bank, any time!@§7[1/2] §2The Banker: §aТы знаешь, что можно хранить свои предметы в банке? Ты можешь даже забрать их из любого другого банка, в любое время!
-§7[2/2] §2The Banker: §aNow, I'm not sure how that works, but it's best to not ask any questions.@§7[2/2] §2The Banker: §aЯ не знаю, как это работает, но лучше не задавать мне вопросов.
+
 §7[1/1] §2Rileen: §aWelcome to our little village!@§7[1/1] §2Rileen: §aДобро пожаловать в нашу деревушку!
-§7[1/1] §2Nitram: §aGo and find a way into the catacombs and retrieve the §3[Sound Proof Earmuff] §afrom the scientist. You can then go straight to the Banshee and kill it.@§7[1/1] §2Nitram: §aИди найди путь в катакомбы, и забери §3[Наушники]§a у ученого. Затем ты сможешь отправиться прямо к Банши и убить ее.
+
 §7[1/1] §2Likeru?: §aWell?! Did you find the rabbit yet? No?! Then go find it! It went in the house, by the big frog! HELLO FROG!@§7[1/1] §2Likeru?: §aНу?! Ты уже нашел кролика? Нет?! Тогда иди и найди его! Он пошел в дом, рядом с большой лягушкой! ПРИВЕТ, ЛЯГУШКА!
 §7[1/1] §2Likeru: §aWhat are you hanging around here for? The job's done, I don't have anything more for you.@§7[1/1] §2Likeru: §aЗачем ты здесь торчишь? Работа выполнена. У меня для тебя больше ничего нет.
 §7[1/1] §2Malo: §aHurry check the holes around here for the things I asked.@§7[1/1] §2Malo: §aПоспеши проверить дыры здесь на предмет того, что я просил.
@@ -32,7 +26,7 @@
 §7[1/1] §2Dereg: §aFollow the strange blood out into the swamp, see what you can find. Don't come back until you have found 3 separate pieces of proof that what I saw is real!@§7[1/1] §2Dereg: §aСледуй за странной кровью на болото, и посмотри, что можешь найти. Не возвращайся, пока не найдешь 3 различных доказательства того, что то, что я видел, реально!
 §7[1/1] §2Kroac: §aKeep following the footprints I'm sure you will find the beast!@§7[1/1] §2Kroac: §aПродолжай идти по следам, я уверен, ты найдешь зверя!
 §7[1/1] §2Rileen: §aBring me back the tongue of the toad I keep out back!@§7[1/1] §2Rileen: §aПринеси мне язык жабы, которую я держу на заднем дворе!
-§7[1/1] §2Laloire: §aIt's you! Thanks again for everything! The healer should be able to cure me!@§7[1/1] §2Laloire: §aЭто ты! Еще раз спасибо за все! Целитель теперь сможет вылечить меня!
+
 §7[1/1] §2Rileen: §aJust follow the road, I put candles on the fence to lead the way...@§7[1/1] §2Rileen: §aПросто следуй по дороге, я поставил свечи на забор, чтобы они указывали путь...
 §7[6/6] §2Krattson: §aFollow this path to the north. Keep going past the pond and the path will split to the West and to the East. Take the West path, and you will see the Shaman.@§7[6/6] §2Krattson: §aСледуй по этому пути на север. Продолжай идти мимо пруда, пока путь не разделится на западный и восточный. Иди по западному пути, и ты увидишь Шамана
 §7[1/1] §2Inrekei: §aWhat did Ka L'argwit have to say? ...I see... please go and speak with him as soon as possible.@§7[1/1] §2Inrekei: §aЧто Ka L'argwit должен был сказать?... Я вижу...пожалуйста, иди и поговори с ним как можно скорее.
@@ -74,10 +68,9 @@
 §7[1/1] §2Elio: §aChip! Donnie! Seize this intruder!@§7[1/1] §2Elio: §aChip! Donnie! Схватить нарушителя!
 §7[1/1] §2Vowr: §aI am running low on some of my supplies, but I'm afraid the journey is a bit... How should I say? Too much, for someone of your size. Come back when you are level 53.@§7[1/1] §2Vowr: §aУ меня заканчиваются некоторые запасы, но я боюсь, что такое путешествие немного... Как бы это сказать? Слишком большое, для кого-то вроде твоего размера. Возвращайся, когда будешь 53-го уровня.
 §7[1/1] §2Doubiss: §aAh, good day to ya! What is it ye be needin' from ol' Doubiss' stock?@§7[1/1] §2Doubiss: §aАх, добрый день! Что ты желаешь получить со склада старенького Doubiss'а?
-§7[1/1] §2The Banker: §aI can't believe you helped this guy. He was obviously lying.@§7[1/1] §2The Banker: §aНе могу поверить, что ты помог этому парню. Очевидно же, что он лгал.
+
 §7[1/1] §2Rayshyroth: §aOh? Well, greetings. What brings you all the way up here?@§7[1/1] §2Rayshyroth: §aМм? Что ж, привет. Что привело тебя сюда?
-§7[1/2] §2Worid: §a*cough* I am horribly sick! Though, I do not want to send someone this weak to find the cure, you could die!@§7[1/2] §2Worid: §a*кашляет* Я ужасно болен! Хотя, я не хочу посылать кого-то слабого, чтобы найти лекарство, ты же можешь умереть!
-§7[2/2] §2Worid: §a*cough* Come back to me when you are level 52.@§7[2/2] §2Worid: §a*кашляет* Вернись ко мне, когда достигнешь 52 уровня.
+
 §7[1/1] §2Argus: §aCor §alad...ye§a don' look like a pirate ta me, and I be but a young lass! Get outta here!@§7[1/1] §2Argus: §aПривет парнишка...ты не выглядишь как пират для меня, а я всего лишь молодая девчушка! Проваливай!
 §7[1/1] §2Argus: §aOh shoot.@§7[1/1] §2Argus: §aОх блин.
 §7[6/6] §2Aryn: §aTell the tribe that I will return on my own. I made it back once, I can do it again once I am prepared.@§7[6/6] §2Aryn: §aСкажи племени, что я вернусь сам. Я делал это уже один раз, и смогу сделать это снова, как только буду готов.
@@ -88,7 +81,6 @@
 §7[1/2] §2Mr. Caritat: §aHow was my speech?@§7[1/2] §2Mr. Caritat: §aКак была моя речь?
 §7[1/1] §2Kroac: §aIf you will excuse me, I'm dealing with a mid life crisis.@§7[1/1] §2Kroac: §aИзвини меня, я пытаюсь справиться с кризисом среднего возраста.
 §7[1/1] §2Kroac: §aBring me back §3[32 Cobblestone] §aplease, you can find some in Olux!@§7[1/1] §2Kroac: §aПринеси мне §3[32 Булыжника]§a пожалуйста, который ты можешь найти в Olux'e! 
-§7[1/1] §2Burtur: §aThey're callin' me nuts for going out there after I died, but you gotta keep tryin' if you want results, bucko! Never forget that.@§7[1/1] §2Burtur: §aОни называют меня чокнутым за то, что я пошел туда после смерти, но ты должен продолжать пытаться, если хочешь результатов, приятель! Никогда не забывай об этом.
 §7[1/1] §2Hazel: §aThe decay of the forest is spreading. The only place that is not is Tiek's house. If you want to find out more, I guess that is a good place to start, just follow the road to the east into the forest.@§7[1/1] §2Hazel: §aЗаражение леса распространяется. Единственное место, где его нет, это дом Tiek. Если ты хочешь узнать больше, думаю это хорошее место, чтобы начать; просто следуй по дороге на восток в лес.
 §7[1/1] §2Tiek: §aThe flowers we need are Ginseng, which grows in caves, Lobelia which grows on top of trees, and Vervain that lives with the dead. Perhaps look in a graveyard?@§7[1/1] §2Tiek: §aНам нужны цветы - Женьшень, который растет в пещерах, Лобелия, которая растет на деревьях, и Вербена, которая растет рядом с мертвыми. Может заглянуть на кладбище?
 §7[1/1] §2Tiek: §aI wrote down what you need to do in your book. The forest needs us!@§7[1/1] §2Tiek: §aЯ записала, что тебе нужно сделать в твоей книге. Лес нуждается в нас!
@@ -122,10 +114,7 @@
 §7[1/1] §2Tolem: §aSorry, I'm busy, my cows are so afraid! I need to take care of them.@§7[1/1] §2Tolem: §aИзвини, я занят, мои коровы так напуганы! Мне нужно позаботиться о них.
 §7[1/1] §2Rohem: §aWhat brings you here today, human?@§7[1/1] §2Rohem: §aЧто привело тебя сюда, человек?
 §7[1/1] §2Rileen: §aI'm glad you made it, human. Maybe you should consider a hunting career.@§7[1/1] §2Rileen: §aЯ рад, что ты сделал это, человек. Может, тебе стоит подумать о карьере охотника.
-§7[1/1] §2Cinfras: §aWoah! This island is really dangerous, you probably shouldn't be here. You can deal with this place when you are level 70.@§7[1/1] §2Cinfras: §aУх ты! Этот остров действительно опасен, тебе вероятно не стоит здесь находиться. Ты можешь иметь дело с этим местом, когда будешь 70 уровня.
 §7[1/1] §2Passenger Controllant: §aYou may now board the airship! Enjoy your flight!@§7[1/1] §2Passenger Controllant: §aТеперь ты можешь пройти на дирижабль! Приятного полета!
-§7[1/1] §2Laloire: §aPlease, you have to help me.@§7[1/1] §2Laloire: §aПожалуйста, ты должен помочь мне.
 §7[1/2] §2Todd: §aHow's it looking, found anything yet? We're waiting here eagerly for you! Be sure to check out that house near the spooky ruins outside of town.@§7[1/2] §2Todd: §aНашел что-нибудь, как он выглядит? Мы ждем здесь с нетерпением! Обязательно проверь тот дом возле странных руин за городом.
 §7[2/2] §2Todd: §aIn case you lost the key, we have some spares back inside our base.@§7[2/2] §2Todd: §aЕсли ты потерял ключ, то у нас есть запасной внутри нашей базы.
 §7[1/1] §2Marston: §aWhat are ye doin' here? I have a treasure map that leads to a real booty, but ye need to be level 61 to help.@§7[1/1] §2Marston: §aЧто ты здесь делаешь? У меня есть карта сокровищ, которая ведет к настоящей добыче, но тебе нужно быть 61-го уровня, чтобы помочь мне.
-§7[1/1] §2Cinfras: §aDid you talk with the old creepy man in the mansion yet? I'm sure he knows something.@§7[1/1] §2Cinfras: §aТы уже говорил со старым жутковатым мужчиной в особняке? Уверен, он что-то знает.
