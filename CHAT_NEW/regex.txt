@@ -129,6 +129,7 @@
 §6Great job! You've completed the (.*) Dungeon!@§6Отличная работа! Ты прошел (r1) данж!
 §7Bring \[(.*)\] to the (.*) at \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) на §2[(r3)]
 (.*) is for combat level (.*) only.@(r1) только для уровней (r2)+
+§4Your account is now linked to (.*)@§4Твой аккаунт связан теперь с (r1)
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aTasim: Don't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
