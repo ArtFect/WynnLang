@@ -180,7 +180,7 @@
 §7\[1\/2\] §2Axelus: §a(.*), over here! Near the skull.@§7[1/2] §2Axelus: §a(r1), сюда! Рядом с черепом.
 §7\[1\/3\] §2Barden: §aFantastic, (.*)! We got the bone! Couldn't have done it without you.@§7[1/3] §2Barden: §aОтличная работа, (r1)! Теперь у нас есть кость дракона! Без тебя я бы не справился.
 
-§7\[6\/16\] §2\?\?\?: §aWe heard what happened (.*).@§7[6/16] §2???: §aМы слышали, что случилось, (r1).
+§7\[6\/16\] §2\?\?\?: §aWe heard what happened, (.*).@§7[6/16] §2???: §aМы слышали, что случилось, (r1).
 §7\[16\/16\] §2Axelus: §a(.*), follow the southern road from Rodoroc, towards the Sky Islands entrance. I'll be waiting there for you near the armoury.@§7[16/16] §2Axelus: §a(r1), следуй по южной дороге от Rodoroc'а, в сторону входа на Летающие острова. Я буду ждать тебя возле оружейной.
 
 §7\[1\/5\] §2Korzim: §a(.*)...I take back my statement. They have already begun... There cannot be reasoning.@§7[1/5] §2Korzim: §a(r1)...Я беру свои слова обратно. Они уже начали... Здесь не может быть обсуждений.
