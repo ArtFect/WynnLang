@@ -7,6 +7,5 @@ Please wait an additional (.*) seconds before opening this chest.@§7Пожал�
 (.*) quest items have been returned. There was not room for an additional (.*) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
 Only (.*) more combat levels until you earn the (.*) spell@§5Еще §d(r1) комбат уровня §5и ты изучишь §d(r2) заклинание
 This material cannot be used for (.*)@Этот ресурс не может быть использован для (r1)
-You've revealed: (.*) for a total of (.*) emeralds.@§dТы раскрыл: §b(r1) в сумме за §e(r2) эмеральдов.
 You need (.*) level of (.*) to use this tool!@§4Тебе нужен §c(r2)§4 уровень в §c(r1), §4чтобы использовать этот инструмент!
 (.*) is for combat level (.*)\+ only.@§c(r1) §4только для комбат уровня §c(r2).
