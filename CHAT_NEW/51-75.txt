@@ -1,5 +1,4 @@
-§7[1/1] §2Kelight: §aOnly brave warriors of level 68 may attempt to join this Temple.@§7[1/1] §2Kelight: §aТолько храбрые воины 68 уровня могут попытаться присоединиться к этому храму.
-§7[1/1] §2Kelight: §aI am proud to have you in our temple! Perhaps one day you shall be almost as great as I am!@§7[1/1] §2Kelight: §aЯ горжусь тем, что ты в нашем храме! Возможно, однажды ты станешь таким же великим, как я!
+
 §7[1/1] §2Baron Axol: §aGreetings, young adventurer. You haven't seen my glasses, have you?@§7[1/1] §2Baron Axol: §aПриветствую тебя, юный искатель приключений. Ты случайно не видел мои очки?
 §7[1/1] §2Captured Prisoner: §aI have already made the base of the key. You just need to go back down the hall, and finish it.@§7[1/1] §2Captured Prisoner: §aЯ уже сделал основу ключа. Тебе просто нужно вернуться в коридор и закончить его.
 §7[1/2] §2Pilot: §aHowdy buddy, care to take a ride with me in my ship today?@§7[1/2] §2Pilot: §aПривет, приятель, не хочешь прокатиться со мной сегодня на моем корабле?
@@ -7,14 +6,9 @@
 §7[1/1] §2Dodegar: §aI can't let you help me making my masterpiece... You are too weak, come back when you're level 75 or higher.@§7[1/1] §2Dodegar: §aЯ не могу позволить тебе помочь мне сделать мой шедевр... Ты слишком слаб; возвращайся на 75 уровне или выше.
 §7[1/1] §2Tolem: §aBring me back what I requested! I'm waiting for you right here!@§7[1/1] §2Tolem: §aПринеси мне то, что я просил! Я жду тебя прямо здесь!
 §7[1/1] §2Tolem: §aFollow the footprints if you want to know more about the beast, but please stay away from here!@§7[1/1] §2Tolem: §aИди по следам, если ты хочешь узнать больше о звере, но, пожалуйста, держись подальше отсюда!
-§7[1/1] §2Aluxander: §aHey! What are you doing here?@§7[1/1] §2Aluxander: §aЭй! Что ты здесь делаешь?
-§7[1/2] §2Aluxander: §aOh thank goodness. Someone has finally arrived to save us.@§7[1/2] §2Aluxander: §aОх, слава богу. Наконец кто-то прибыл, чтобы спасти нас.
-§7[2/2] §2Aluxander: §aWait, what has Tiek sent us? You don't look strong enough to tackle this realm. Please return when you are level 74. We need you.@§7[2/2] §2Aluxander: §aМинутку, кого прислала нам Tiek? Ты не выглядишь достаточно сильным, чтобы справиться с этим царством. Пожалуйста, вернись когда достигнешь 74 уровня. Ты нам нужен.
 §7[1/1] §2Dereg: §aHave you found a use for those crushed bones yet? I'm sure you can find someone who wants it.@§7[1/1] §2Dereg: §aТы уже нашел применение этой измельченной кости? Уверен, ты найдешь того, кто ее захочет.
 §7[1/1] §2Rileen: §aWelcome to our little village!@§7[1/1] §2Rileen: §aДобро пожаловать в нашу деревушку!
 §7[1/1] §2Malo: §aHurry check the holes around here for the things I asked.@§7[1/1] §2Malo: §aПоспеши проверить дыры здесь на предмет того, что я просил.
-§7[1/1] §2Sherk: §aDid you visit the tower yet? It can be found north-east from here on a small hill near the road...@§7[1/1] §2Sherk: §aТы уже посетил башню? Ее можно найти на северо-востоке отсюда, на небольшом холме возле дороги...
-§7[1/1] §2Sherk: §aI'll figure out how to release her and get back my swamp!@§7[1/1] §2Sherk: §aЯ придумаю, как освободить ее и вернуть свое болото!
 §7[1/1] §2Charlie: §aMy house is number 10, perhaps you could see if you can find out where he went? There might be some clues in his room.@§7[1/1] §2Charlie: §aМой дом под номером 10, возможно, ты мог бы посмотреть и узнать, куда он пошел? В его комнате могут быть улики.
 §7[1/1] §2Dereg: §aFollow the strange blood out into the swamp, see what you can find. Don't come back until you have found 3 separate pieces of proof that what I saw is real!@§7[1/1] §2Dereg: §aСледуй за странной кровью на болото, и посмотри, что можешь найти. Не возвращайся, пока не найдешь 3 различных доказательства того, что то, что я видел, реально!
 §7[1/1] §2Kroac: §aKeep following the footprints I'm sure you will find the beast!@§7[1/1] §2Kroac: §aПродолжай идти по следам, я уверен, ты найдешь зверя!
@@ -33,17 +27,10 @@
 §7[1/1] §2Guard Klerodor: §aI can't let you through without a pass.@§7[1/1] §2Guard Klerodor: §aЯ не могу пропустить тебя без пропуска.
 §7[1/1] §2Excavator Placardus: §aWhat do you want?@§7[1/1] §2Excavator Placardus: §aЧего тебе?
 §7[1/1] §2Royal Advisor Carlos: §aHelp, the king is... wait. No you're not strong enough yet, come back when you reached Level 70.@§7[1/1] §2Royal Advisor Carlos: §aПомоги, король... подожди-ка. Нет, ты еще недостаточно силен, возвращайся когда достигнешь 70-го уровня.
-§7[1/1] §2Ildan: §aGlad to see you, citizen!@§7[1/1] §2Ildan: §aРад видеть тебя, горожанин!
-§7[1/1] §2Jorkin: §aYou may want to get out of here, traveller. The Nether is very dangerous!@§7[1/1] §2Jorkin: §aВозможно, ты захочешь выбраться оттуда, путешественник. Ад очень опасен!
-§7[1/1] §2Sherk: §aYou better go, no adventurer under the level 51 should be here!@§7[1/1] §2Sherk: §aТебе лучше уйти, ни один путешественник ниже 51 уровня не должен быть здесь!
-§7[1/1] §2Kelight: §aDo not waste my time. Bring me what I have asked of you.@§7[1/1] §2Kelight: §aНе трать мое время. Принеси мне то, о чем я тебя просил.
 §7[1/1] §2Dalben: §aI am glad to see you again, it has been a long time.@§7[1/1] §2Dalben: §aРад снова тебя видеть, прошло столько времени.
-§7[1/1] §2Passage Guard: §aOnly citizen of Troms can enter the passage! §7[Quest Req: The Passage]@§7[1/1] §2Passage Guard: §aOnly citizen of Troms can enter the passage! §7[Quest Req: §aТолько жители Troms'a могут войти в проход §7[Пройти квест: The Passage]
 §7[1/1] §2Czytash: §aBoy, he sure is taking his time. He's got seawater for blood though, I'm sure he's making his way back.@§7[1/1] §2Czytash: §aМальчик, он наверняка не торопится. У него морская вода в крови, я уверен, что он еще вернется.
-§7[1/1] §2Wirt: §aWell... I'm glad it worked out for you.@§7[1/1] §2Wirt: §aЧто ж... Я рад, что у тебя все получилось.
 §7[1/1] §2Elio: §aChip! Donnie! Seize this intruder!@§7[1/1] §2Elio: §aChip! Donnie! Схватить нарушителя!
 §7[1/1] §2Vowr: §aI am running low on some of my supplies, but I'm afraid the journey is a bit... How should I say? Too much, for someone of your size. Come back when you are level 53.@§7[1/1] §2Vowr: §aУ меня заканчиваются некоторые запасы, но я боюсь, что такое путешествие немного... Как бы это сказать? Слишком большое, для кого-то вроде твоего размера. Возвращайся, когда будешь 53-го уровня.
-§7[1/1] §2Rayshyroth: §aOh? Well, greetings. What brings you all the way up here?@§7[1/1] §2Rayshyroth: §aМм? Что ж, привет. Что привело тебя сюда?
 §7[1/1] §2Kroac: §aIf you will excuse me, I'm dealing with a mid life crisis.@§7[1/1] §2Kroac: §aИзвини меня, я пытаюсь справиться с кризисом среднего возраста.
 §7[1/1] §2Kroac: §aBring me back §3[32 Cobblestone] §aplease, you can find some in Olux!@§7[1/1] §2Kroac: §aПринеси мне §3[32 Булыжника]§a пожалуйста, который ты можешь найти в Olux'e! 
 §7[1/1] §2Kroac: §aI plan on fixing my house as soon as my legs start working.@§7[1/1] §2Kroac: §aЯ планирую починить свой дом, как только мои ноги начнут работать.
@@ -52,15 +39,11 @@
 §7[1/1] §2???: §aWhat are you still doing here? Get out of the city!@§7[1/1] §2???: §aПочему ты еще здесь? Выбирайся из города!
 §7[1/1] §2Traitor Amadel: §aQuickly, you must reach the last crystal before WynnExcavation! It's in the Dernel Jungle, there must be a building like the one on the map@§7[1/1] §2Traitor Amadel: §aБыстрее, ты должен добраться до последнего кристалла раньше WynnExcavation! Он в Dernel джунглях, там должно быть строение, как на этой карте.
 §7[1/1] §2Excavator Sean: §aMy boss Uci is a bit of a mean guy, but hey the perks of minionship aren't bad!@§7[1/1] §2Excavator Sean: §aМой босс Uci немного злой парень, но эй, зато льготы для миньонов не такие уж и плохие!
-§7[1/1] §2Wirt: §aYou can't enter this passage! You are way too weak to be a member of this town. Come back when you will be level 57.@§7[1/1] §2Wirt: §aТы не можешь войти в этот проход! Ты слишком слаб, чтобы быть жителем этого города. Вернись, когда будешь 57-го уровня.
 §7[1/1] §2Amadel's Assistant: §aAmadel can't be defeated!@§7[1/1] §2Amadel's Assistant: §aAmadel не может быть побежден!
 §7[1/1] §2Zhight: §aI hate to turn away a customer like this, but you need to be Level 55 or higher to make a reservation here.@§7[1/1] §2Zhight: §aЯ ненавижу отказывать клиенту, как сейчас, но ты должен быть 55 уровня или выше, чтобы сделать бронирование здесь.
 §7[1/1] §2Malo: §aHowdy friend. Sorry but this is a military operation, come back at level 54!@§7[1/1] §2Malo: §aПривет друг. Извини, но это военная операция, вернись на 54 уровне!
-§7[1/1] §2Erlard: §aThis tower holds many secrets...@§7[1/1] §2Erlard: §aЭта башня хранит много секретов...
 §7[1/2] §2Dereg: §aSeeing as what I just saw left a trail of blood, I think you will not be strong enough to help me.@§7[1/2] §2Dereg: §aУвидев то, что оставило такой кровавый след, я думаю, ты не будешь достаточно силен, чтобы помочь мне.
 §7[2/2] §2Dereg: §aMaybe when you will be level 54, you will be able to roam the swamp more freely.@§7[2/2] §2Dereg: §aМожет быть, когда ты будешь 54-го уровня, ты сможешь более свободно бродить по болоту.
-§7[1/1] §2Referick: §aTo this day, the last in the line of the Dullahan family rule this forest's people, even in death... He has taken thirty years of my life. To what do I owe the rest?@§7[1/1] §2Referick: §aДо сих пор последний из линии семьи Dullahan'ов управляет людьми этого леса, даже после смерти ... Он отнял тридцать лет моей жизни. Что я могу сделать для остальных?
-§7[1/1] §2Ildan: §aWhat a great day we are having!@§7[1/1] §2Ildan: §aКакой у нас замечательный день!
 §7[1/1] §2Tolem: §aSorry, I'm busy, my cows are so afraid! I need to take care of them.@§7[1/1] §2Tolem: §aИзвини, я занят, мои коровы так напуганы! Мне нужно позаботиться о них.
 §7[1/1] §2Rohem: §aWhat brings you here today, human?@§7[1/1] §2Rohem: §aЧто привело тебя сюда, человек?
 §7[1/1] §2Rileen: §aI'm glad you made it, human. Maybe you should consider a hunting career.@§7[1/1] §2Rileen: §aЯ рад, что ты сделал это, человек. Может, тебе стоит подумать о карьере охотника.
