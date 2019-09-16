@@ -1,6 +1,3 @@
-§7[1/2] §2Harker: §aDon't worry about me. I'll make sure you get back to the surface safe and sound.@§7[1/2] §2Harker: §aНе беспокойся насчет меня. Я прослежу, чтобы ты вернулся на поверхность целым и невредимым.
-§7[2/2] §2Harker: §aTake the §3[Eye of Blood] §aand bring it to Rismor back topside. He'll know how to keep it safe.@§7[2/2] §2Harker: §aВозьми §3[Глаз крови]§a и принеси его к Rismor'у назад на поверхность. Он знает, как сохранить его в безопасности.
-§7[1/1] §2Rismor: §aI regret not seeking you humans out sooner for help. I bet I could have resolved this months ago if I had done so...@§7[1/1] §2Rismor: §aСожалею, что не искал вас, людей, раньше для помощи. Бьюсь об заклад, я мог бы решить это несколько месяцев назад, если бы сделал это...
 §7[1/7] §2Old Siwel: §aWhat do you want? I'm busy. Brewing potions takes focus, you know....@§7[1/7] §2Old Siwel: §aЧто тебе надо? Я занят. Приготовление зелий требует внимания, знаешь ли...
 §7[1/1] §2Siwel: §aPlease go check out that egg. I am very worried about its behavior. Don't forget the §3[5 Monster Hides]§a as evidence.@§7[1/1] §2Siwel: §aПожалуйста, проверь то яйцо. Меня очень беспокоит его поведение. Не забудь про §3[5 шкур монстров]§a в качестве доказательства. 
 §7[7/8] §2Old Siwel: §aI leave the bones of the beast as a reminder of my failure, the destruction it brought still... lingers in the monsters it left behind.@§7[7/8] §2Old Siwel: §aЯ оставил кости зверя как напоминание о моей неудаче, разрушения, которые он принес... сохранились в монстрах, которых он оставил после себя.
@@ -8,35 +5,20 @@
 §7[1/1] §2Cinfras: §aThank you for your work! I will be returning home. Perhaps we will meet again!@§7[1/1] §2Cinfras: §aСпасибо за твою работу! Я буду возвращаться домой. Возможно, мы еще встретимся!
 §7[1/1] §2Kelight: §aOnly brave warriors of level 68 may attempt to join this Temple.@§7[1/1] §2Kelight: §aТолько храбрые воины 68 уровня могут попытаться присоединиться к этому храму.
 §7[1/1] §2Worid: §aI feel so much better now, thank you for the cure!@§7[1/1] §2Worid: §aТеперь я чувствую себя намного лучше, спасибо за лекарство!
-§7[1/1] §2Passenger Controllant: §aCan I see your passport please? Oh, without a passport, I'm afraid you can not board.@§7[1/1] §2Passenger Controllant: §aМогу я посмотреть ваш паспорт, пожалуйста? О, без паспорта, боюсь, вы не сможете сесть на борт.
-§7[1/1] §2Calo: §aHello there, pleasant day isn't it?@§7[1/1] §2Calo: §aСегодня отличный день, не так ли?
-§7[1/1] §2Controller: §aOh, seems like that was wrong. Too bad!@§7[1/1] §2Controller: §aКажется, это был неправильный ответ. Очень жаль!
-§7[1/1] §2Controller: §aThat is correct! Welcome inside!@§7[1/1] §2Controller: §aВерно! Добро пожаловать внутрь!
 §7[1/1] §2Gracen: §aWelcome back to the village, friend. May good fortune always find you.@§7[1/1] §2Gracen: §aС возвращением в деревню, друг. Пусть удача всегда найдет тебя.
-§7[1/1] §2Captain Ackbar: §aI wouldn't normally bother the passengers, but we're so short handed. Can you find the little boy? He must be hiding somewhere...@§7[1/1] §2Captain Ackbar: §aОбычно я не беспокою пассажиров, но у нас так мало людей. Ты поможешь найти маленького мальчика? Должно быть, он где-то прячется...
 §7[1/1] §2Kelight: §aI am proud to have you in our temple! Perhaps one day you shall be almost as great as I am!@§7[1/1] §2Kelight: §aЯ горжусь тем, что ты в нашем храме! Возможно, однажды ты станешь таким же великим, как я!
-§7[1/1] §2Captain Ackbar: §aThe engineer is just downstairs. Sorry to ask you for help again, but see if there is anything you can do.@§7[1/1] §2Captain Ackbar: §aИнженер только что спустился вниз. Извини, что снова прошу тебя о помощи, но посмотри, вдруг ты что-нибудь сможешь сделать.
-§7[1/1] §2Captain Ackbar: §aThe pressure in the engines is rising. Please go down to the engineer and see if you can help him.@§7[1/1] §2Captain Ackbar: §aДавление в двигателях растет. Пожалуйста, спустись к инженеру и посмотри, сможешь ли ты ему помочь.
-§7[1/1] §2Captain Ackbar: §aI thank you for helping us out so much!@§7[1/1] §2Captain Ackbar: §aЯ благодарю тебя за помощь!
 §7[1/1] §2Baron Axol: §aGreetings, young adventurer. You haven't seen my glasses, have you?@§7[1/1] §2Baron Axol: §aПриветствую тебя, юный искатель приключений. Ты случайно не видел мои очки?
 §7[1/1] §2Captured Prisoner: §aI have already made the base of the key. You just need to go back down the hall, and finish it.@§7[1/1] §2Captured Prisoner: §aЯ уже сделал основу ключа. Тебе просто нужно вернуться в коридор и закончить его.
 §7[1/2] §2Pilot: §aHowdy buddy, care to take a ride with me in my ship today?@§7[1/2] §2Pilot: §aПривет, приятель, не хочешь прокатиться со мной сегодня на моем корабле?
 §7[2/2] §2Pilot: §aWho knows where the winds will take us this time.@§7[2/2] §2Pilot: §aКто знает, куда занесет нас на этот раз.
-§7[1/1] §2Calo: §aYou are free to board. Next stop, Cinfras!@§7[1/1] §2Calo: §aМожешь спокойно заходить на борт. Следующая остановка - Cinfras!
-§7[1/1] §2Calo: §aAnd away we go to Cinfras!@§7[1/1] §2Calo: §aИ мы отправляемся в Cinfras!
 §7[1/1] §2Dodegar: §aI can't let you help me making my masterpiece... You are too weak, come back when you're level 75 or higher.@§7[1/1] §2Dodegar: §aЯ не могу позволить тебе помочь мне сделать мой шедевр... Ты слишком слаб; возвращайся на 75 уровне или выше.
-§7[1/1] §2Guardian of The Forest: §aYou wrote down what you have to do, right? Time is of the essence, hurry.@§7[1/1] §2Guardian of The Forest: §aТы записал, что ты должен сделать, не так ли? Время имеет значение, поторопись.
-§7[1/1] §2Dave: §aMy son Jack has gone missing. I heard something happening on the roof, can you help me?@§7[1/1] §2Dave: §aМой сын Jack пропал без вести. Я слышал, что-то происходит на крыше, ты можешь мне помочь?
 §7[1/1] §2Tolem: §aBring me back what I requested! I'm waiting for you right here!@§7[1/1] §2Tolem: §aПринеси мне то, что я просил! Я жду тебя прямо здесь!
 §7[1/1] §2Tolem: §aFollow the footprints if you want to know more about the beast, but please stay away from here!@§7[1/1] §2Tolem: §aИди по следам, если ты хочешь узнать больше о звере, но, пожалуйста, держись подальше отсюда!
 §7[1/1] §2Aluxander: §aHey! What are you doing here?@§7[1/1] §2Aluxander: §aЭй! Что ты здесь делаешь?
 §7[1/2] §2Aluxander: §aOh thank goodness. Someone has finally arrived to save us.@§7[1/2] §2Aluxander: §aОх, слава богу. Наконец кто-то прибыл, чтобы спасти нас.
 §7[2/2] §2Aluxander: §aWait, what has Tiek sent us? You don't look strong enough to tackle this realm. Please return when you are level 74. We need you.@§7[2/2] §2Aluxander: §aМинутку, кого прислала нам Tiek? Ты не выглядишь достаточно сильным, чтобы справиться с этим царством. Пожалуйста, вернись когда достигнешь 74 уровня. Ты нам нужен.
 §7[1/1] §2Dereg: §aHave you found a use for those crushed bones yet? I'm sure you can find someone who wants it.@§7[1/1] §2Dereg: §aТы уже нашел применение этой измельченной кости? Уверен, ты найдешь того, кто ее захочет.
-§7[1/1] §2Arwes: §aTime is of the essence, human. Your quest book should tell you what you need. I beg of you, for the good of all, help us...@§7[1/1] §2Arwes: §aВремя имеет существенное значение, человек. Твоя квестовая книга расскажет, что нужно делать. Умоляю тебя, на благо всех, помоги нам...
-§7[1/1] §2Ceyquin: §aGet into the house, now. I'm not sure I can fool the cultists again if they see you.@§7[1/1] §2Ceyquin: §aИди в дом, сейчас же. Я не уверен, что смогу снова одурачить культистов, если они увидят тебя.
 §7[1/1] §2Prison Guard: §aYou're under arrest! Don't try to escape!@§7[1/1] §2Prison Guard: §aТы арестован! Не пытайся сбежать!
-§7[1/1] §2Charlie: §aJACK? WHERE ARE YOU JACK?!@§7[1/1] §2Charlie: §aJACK? ГДЕ ЖЕ ТЫ, JACK?!
 §7[1/2] §2The Banker: §aDid you know you can stash your items in your bank? You can even get them back at any other bank, any time!@§7[1/2] §2The Banker: §aТы знаешь, что можно хранить свои предметы в банке? Ты можешь даже забрать их из любого другого банка, в любое время!
 §7[2/2] §2The Banker: §aNow, I'm not sure how that works, but it's best to not ask any questions.@§7[2/2] §2The Banker: §aЯ не знаю, как это работает, но лучше не задавать мне вопросов.
 §7[1/1] §2Rileen: §aWelcome to our little village!@§7[1/1] §2Rileen: §aДобро пожаловать в нашу деревушку!
@@ -67,14 +49,10 @@
 §7[1/1] §2Salesman: §aSorry man, if you haven't got any business with me then I can't talk.@§7[1/1] §2Salesman: §aИзвини, если у тебя нет со мной дел, нам не о чем разговаривать.
 §7[1/1] §2Caissop: §aLook in your quest book! I wrote the locations of the legendary creatures.@§7[1/1] §2Caissop: §aПосмотрите в своей квестовой книге! Я записал локации легендарных существ.
 §7[1/1] §2Caissop: §aSoon Gavel will open a museum for my art...@§7[1/1] §2Caissop: §aСкоро в Gavel'e откроют музей моего искусства...
-§7[1/2] §2Passenger Controllant: §aI am sorry, this is a private flight for experienced customers only.@§7[1/2] §2Passenger Controllant: §aИзвините, но это частный рейс только для опытных клиентов.
-§7[2/2] §2Passenger Controllant: §aThe minimum requirement is level 75 for this flight.@§7[2/2] §2Passenger Controllant: §aМинимальным требованием на этот рейс является 75 уровень.
-§7[1/1] §2Voer: §aI hope you spend that money wisely. The witch it came from sure didn't.@§7[1/1] §2Voer: §aНадеюсь, ты потратишь эти деньги с умом. Ведьма, от которой они пришли, так не сделала.
 §7[1/1] §2Malo: §aThose young Grootslangs must be out there still...@§7[1/1] §2Malo: §aЭти молодые Grootslang'и должны быть еще там...
 §7[1/1] §2Excavator Placardus: §aI hope all of our troubles have been settled. Now if you'll excuse me, I have a meeting to attend.@§7[1/1] §2Excavator Placardus: §aНадеюсь, все наши проблемы улажены. А теперь, извини меня, мне нужно на встречу.
 §7[1/1] §2Guard Klerodor: §aI can't let you through without a pass.@§7[1/1] §2Guard Klerodor: §aЯ не могу пропустить тебя без пропуска.
 §7[1/1] §2Excavator Placardus: §aWhat do you want?@§7[1/1] §2Excavator Placardus: §aЧего тебе?
-§7[1/1] §2Jack: §aHi Human! I got a cool bandage from my daddy. Wanna see?@§7[1/1] §2Jack: §aПривет, человек! У меня есть классная бандана от папы. Хочешь посмотреть?
 §7[1/1] §2Royal Advisor Carlos: §aHelp, the king is... wait. No you're not strong enough yet, come back when you reached Level 70.@§7[1/1] §2Royal Advisor Carlos: §aПомоги, король... подожди-ка. Нет, ты еще недостаточно силен, возвращайся когда достигнешь 70-го уровня.
 §7[1/1] §2Ildan: §aGlad to see you, citizen!@§7[1/1] §2Ildan: §aРад видеть тебя, горожанин!
 §7[1/1] §2Jorkin: §aYou may want to get out of here, traveller. The Nether is very dangerous!@§7[1/1] §2Jorkin: §aВозможно, ты захочешь выбраться оттуда, путешественник. Ад очень опасен!
@@ -89,7 +67,6 @@
 §7[1/2] §2Todd: §aWe need someone to help us out with a mystery, but you look like you couldn't even try solving it, and we're just kids!@§7[1/2] §2Todd: §aНам нужен кто-то, чтобы помочь разгадать тайну, но ты выглядишь так, будто даже не сможешь ее разгадать, а мы всего-лишь дети!
 §7[2/2] §2Prentiss: §aYeah! You gotta be at §a§lleast §alevel 63 to work with a presti- presgio- prestigous group like ours!@§7[2/2] §2Prentiss: §aАга! Ты должен быть по крайней мере 63-го уровня, чтобы работать с такой преси- пресиж- престижной группой, как наша!
 §7[1/1] §2Czytash: §aBoy, he sure is taking his time. He's got seawater for blood though, I'm sure he's making his way back.@§7[1/1] §2Czytash: §aМальчик, он наверняка не торопится. У него морская вода в крови, я уверен, что он еще вернется.
-§7[1/1] §2Arwes: §a...I cannot thank you enough. Lexdale is free, the Order is breaking §aup...and§a many of my brothers wish to return. Today is a bright day, even in this darkest forest.@§7[1/1] §2Arwes: §a...Я не могу отблагодарить тебя. Lexdale свободен, Орден распадается...и многие мои братья желают вернуться. Сегодня светлый день, даже в таком самом темном лесу.
 §7[1/1] §2Yavlis: §aHave you gotten the king's son freed yet? The jungle mercenaries most likely have him held near that run-down old farm.@§7[1/1] §2Yavlis: §aТы уже освободил сына короля? Наемники джунглей, скорее всего, держат его возле этой старой фермы за городом.
 §7[1/1] §2Mercenary Leader: §aOnce I use the talisman, my men will be so much stronger...@§7[1/1] §2Mercenary Leader: §aКак только я использую талисман, мои люди станут намного сильнее...
 §7[1/1] §2King's Son: §aI need my father to know that I want to leave.@§7[1/1] §2King's Son: §aМне нужно, чтобы мой отец знал, что я хочу уйти.
@@ -111,7 +88,6 @@
 §7[2/3] §2Viola: §aI thought we decided to pretend we forgot about that, Todd!@§7[2/3] §2Viola: §aЯ думала, мы решили притвориться, что забыли об этом, Todd!
 §7[3/3] §2Prentiss: §aOh my gosh Viola, you can't just say that! They're right in front of you!@§7[3/3] §2Prentiss: §aБоже мой, Viola, как ты можешь сказать такое! Он же прямо перед тобой!
 §7[1/1] §2Yavlis: §aHm...one§a problem, straight into another. The king's son is fine, but now the king himself is indisposed and unavailable...@§7[1/1] §2Yavlis: §aХм...одна проблема перетекла в другую. Сын короля в порядке, но теперь сам король нездоров и отсутствует...
-§7[1/1] §2Gardener: §aCan't you see I'm busy here?@§7[1/1] §2Gardener: §aРазве ты не видишь, что я занят?
 §7[1/2] §2Mr. Caritat: §aHow was my speech?@§7[1/2] §2Mr. Caritat: §aКак была моя речь?
 §7[1/1] §2Kroac: §aIf you will excuse me, I'm dealing with a mid life crisis.@§7[1/1] §2Kroac: §aИзвини меня, я пытаюсь справиться с кризисом среднего возраста.
 §7[1/1] §2Kroac: §aBring me back §3[32 Cobblestone] §aplease, you can find some in Olux!@§7[1/1] §2Kroac: §aПринеси мне §3[32 Булыжника]§a пожалуйста, который ты можешь найти в Olux'e! 
@@ -151,7 +127,6 @@
 §7[1/1] §2Ildan: §aWhat a great day we are having!@§7[1/1] §2Ildan: §aКакой у нас замечательный день!
 §7[1/1] §2Tolem: §aSorry, I'm busy, my cows are so afraid! I need to take care of them.@§7[1/1] §2Tolem: §aИзвини, я занят, мои коровы так напуганы! Мне нужно позаботиться о них.
 §7[1/1] §2Rohem: §aWhat brings you here today, human?@§7[1/1] §2Rohem: §aЧто привело тебя сюда, человек?
-§7[1/1] §2Ollie: §aDidn't you hear what I just said? Here, I'll write it down in your quest book.@§7[1/1] §2Ollie: §aРазве ты не слышал, что я только что сказал? Вот, я записал это в твоей квестовой книге. 
 §7[1/1] §2Prison Guard: §aYou are trespassing on private property. Just get out of here, our cells are too full.@§7[1/1] §2Prison Guard: §aТы вторгся на частную собственность. Просто убирайся отсюда, наши камеры переполнены.
 §7[1/1] §2Rileen: §aI'm glad you made it, human. Maybe you should consider a hunting career.@§7[1/1] §2Rileen: §aЯ рад, что ты сделал это, человек. Может, тебе стоит подумать о карьере охотника.
 §7[1/1] §2Cinfras: §aWoah! This island is really dangerous, you probably shouldn't be here. You can deal with this place when you are level 70.@§7[1/1] §2Cinfras: §aУх ты! Этот остров действительно опасен, тебе вероятно не стоит здесь находиться. Ты можешь иметь дело с этим местом, когда будешь 70 уровня.
@@ -159,12 +134,5 @@
 §7[1/1] §2Laloire: §aPlease, you have to help me.@§7[1/1] §2Laloire: §aПожалуйста, ты должен помочь мне.
 §7[1/2] §2Todd: §aHow's it looking, found anything yet? We're waiting here eagerly for you! Be sure to check out that house near the spooky ruins outside of town.@§7[1/2] §2Todd: §aНашел что-нибудь, как он выглядит? Мы ждем здесь с нетерпением! Обязательно проверь тот дом возле странных руин за городом.
 §7[2/2] §2Todd: §aIn case you lost the key, we have some spares back inside our base.@§7[2/2] §2Todd: §aЕсли ты потерял ключ, то у нас есть запасной внутри нашей базы.
-§7[1/1] §2Harker: §aGo, Naragath is just up ahead!@§7[1/1] §2Harker: §aИди, Naragath прямо впереди!
-§7[1/1] §2Harker: §aGet going to the ritual chamber, quickly! I'll meet you there!@§7[1/1] §2Harker: §aИди в ритуальную комнату, быстро! Я встречу тебя там!
-§7[1/1] §2Harker: §aYou must kill the demon! I've already been weakened, I don't know how much longer I can hold back his full power!@§7[1/1] §2Harker: §aты должен убить демона! Я уже ослаблен, и не знаю, как долго смогу сдерживать его полную силу!
 §7[1/1] §2Marston: §aWhat are ye doin' here? I have a treasure map that leads to a real booty, but ye need to be level 61 to help.@§7[1/1] §2Marston: §aЧто ты здесь делаешь? У меня есть карта сокровищ, которая ведет к настоящей добыче, но тебе нужно быть 61-го уровня, чтобы помочь мне.
 §7[1/1] §2Cinfras: §aDid you talk with the old creepy man in the mansion yet? I'm sure he knows something.@§7[1/1] §2Cinfras: §aТы уже говорил со старым жутковатым мужчиной в особняке? Уверен, он что-то знает.
-§7[1/2] §2Captain Ackbar: §aYou can just head down now! I will tell Calo about your arrival.@§7[1/2] §2Captain Ackbar: §aТы можешь уже спускаться вниз! Я скажу Calo о твоем прибытии.
-§7[2/2] §2Captain Ackbar: §aThanks for travelling with us!@§7[2/2] §2Captain Ackbar: §aСпасибо, что путешествовал с нами!
-§7[1/1] §2Captain Ackbar: §aI hope you enjoy the rest of your journey!@§7[1/1] §2Captain Ackbar: §aЯ надеюсь, тебе понравится оставшаяся часть твоего путешествия!
-§7[1/1] §2Captain Ackbar: §aThank you for travelling with us, but you do know that you can travel with Calo, do you not?@§7[1/1] §2Captain Ackbar: §aСпасибо, что путешествовал с нами. Но ты ведь знаешь, что можешь путешествовать и с Calo, не так ли?
