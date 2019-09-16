@@ -5,7 +5,6 @@ Please wait an additional (.*) minutes before opening this chest.@§7Пожал�
 Please wait an additional (.*) seconds before opening this chest.@§7Пожалуйста, подожди еще (r1) секунд, прежде чем открывать этот сундук.
 \[\+(.*) for (.*) seconds\]@§7[+(r1) на (r2) секунд]
 (.*) has thrown a combat XP Bomb! The entire server gets double xp for 20 minutes!@§7(r1) бросил XP Бомбу! Весь сервер получает удвоенные очки опыта на 20 минут!
-Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §2[(r3)]
 \[(.*)\] Cleared all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
 (.*) gave  you \[(.*)\].@§b(r1) дал тебе §c[(r2)].
 (.*) quest items have been returned. There was not room for an additional (.*) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
