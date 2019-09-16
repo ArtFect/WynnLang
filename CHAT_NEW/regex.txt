@@ -138,6 +138,7 @@
 §5Only (.*) more combat levels§5 until you earn the (.*) spell@§5Еще §d(r1) комбат уровня §5и ты изучишь §d(r2) заклинание
 §5Only (.*) more combat level§5 until you earn the (.*) spell@§5Еще §d(r1) комбат уровень §5и ты изучишь §d(r2) заклинание
 §4This item is for Combat Lv. (.*)\+ only.@§4Этот предмет только для Комбат Ур. (r1)+.
+§4You need a (.*) level of §c(.*)§4 to use this tool!@§4Тебе нужен §c(r2)§4 уровень в (r1) чтобы использовать этот инструмент!
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
