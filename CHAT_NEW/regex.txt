@@ -30,7 +30,7 @@
 §6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §f(.*)@§6(r1) достиг (r2) уровня в §f(r3)
 §7\[You have received (\d+) soul points while you were offline\]@§7[Ты заработал (r1) soul point'ов, пока был не в сети]
 §d( +)- §7\+(\d+) Experience Points@§d(r1)- §7\+(r2) Очков опыта
-§d( +)- §7\+28 Emeralds@§d(r1)- §7+(r2) Эмеральдов
+(.*) §7\+(.*) Emeralds@(r1) §7+(r2) Эмеральдов
 §7\+1 Maximum Soul Points §8\[Total: (\d+)\]@§7+1 к максимуму числа душ §8[Всего: (r1)]
 §a([a-zA-Z0-9_]{1,16}) left the game.@§a(r1) покинул игру.
 §5([a-zA-Z0-9_]{1,16}) would like to trade! Type §6/trade ([a-zA-Z0-9_]{1,16})§5 to accept.@§5(r1) хотел бы поторговать с тобой! Напиши §6/trade (r2) §5для принятия.
