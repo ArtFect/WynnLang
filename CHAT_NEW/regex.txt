@@ -127,6 +127,7 @@
 §7\+ New Resource §8\[(.*)\]@§7+ Новый ресурс §8[(r1)]
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3\[(.*)\]@§5Key Collector: §dТы не можешь войти в этот данж, пока не дашь мне §3[(r1)].
 §6Great job! You've completed the (.*) Dungeon!@§6Отличная работа! Ты прошел (r1) данж!
+§7Bring \[(.*)\] to the (.*) at \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) на §2[(r3)]
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aTasim: Don't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
