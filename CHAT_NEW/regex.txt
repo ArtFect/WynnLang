@@ -58,7 +58,7 @@
 §4This machine can only process §c(.*)@§4Эта машина перерабатывает только §c(r1)
 §4Did you mean §c(.*)\? §4If not, type \/help to see the commands!@§4Ты имел в виду §c(r1)? §4Если нет, напиши /help, чтобы увидеть список команд!
 §5(.*): §dI'm afraid you cannot afford that item.@§5(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
-§5(.*): §dI'm afraid you don't have enough space in your inventory to buy that..@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
+§5(.*): §dI'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
 §5(.*): §dThank you for your business. Come again!@@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
 §4(.*)§c is not currently online any Wynncraft servers....@§4(r1)§c сейчас ни на одном Wynncraft сервере...
 §b(.*)§3 has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@§b(r1)§3 бросил §bProfession Speed Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
