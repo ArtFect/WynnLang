@@ -135,6 +135,8 @@
 §4You need a (.*) level of §c(.*)§4 to gather from this resource!@§4Тебе нужен §c(r2)§4 уровень в (r1) чтобы собрать этот ресурс!
 §dYou've revealed: (.*) for a total of (.*) emeralds.@§dТы раскрыл: (r1) в сумме за §e(r2) эмеральдов.
 §6§l(.*)§e\[Tracking\]@§6§l(r1)§e[Отслеживание]
+§5Only (.*) more combat levels§5 until you earn the (.*) spell@§5Еще §d(r1) комбат уровня §5и ты изучишь §d(r2) заклинание
+§5Only (.*) more combat level§5 until you earn the (.*) spell@§5Еще §d(r1) комбат уровень §5и ты изучишь §d(r2) заклинание
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
