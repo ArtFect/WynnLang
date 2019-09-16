@@ -14,7 +14,7 @@
 §6\[Info\] §eLook at your own personal stats at §6(.*)§e!@§6[§eИнфо§6] §eПосмотри свою персональную статистику на §6(r1)§e!
 §4(.*)§c is currently on server (.*)@§4(r1)§c сейчас на сервере (r2)
 §b(.*)§7 gave you §c\[\+(.*)\].@§b(r1)§7 дал тебе §c[+(r2)].
-§b(.*)§7 gave you §b+3 minutes§7 speed boost.@§b(r1)§7 дал тебе §b+3 минуты§7 буста скорости.
+§b(.*)§7 gave you §b\+3 minutes§7 speed boost.@§b(r1)§7 дал тебе §b+3 минуты§7 буста скорости.
 §b(.*)§3 has thrown a §bCombat XP Bomb§3! The entire server gets §bdouble combat xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bCombat XP бомбу§3! Весь сервер получает §bдвойные combat xp §3на §b20 минут§3!
 §8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (.*) in §f(.*)§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §fуровня (r2) в §f(r3)§7!
 §8\[§7\!§8\] §7Congratulations to §f(.*)§7 for reaching combat §flevel (.*)§7\!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) комбат уровня§7!
