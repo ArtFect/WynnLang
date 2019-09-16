@@ -12,6 +12,5 @@ Bring \[(.*)\] to the (.*) \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) §
 Only (.*) more combat levels until you earn the (.*) spell@§5Еще §d(r1) комбат уровня §5и ты изучишь §d(r2) заклинание
 This material cannot be used for (.*)@Этот ресурс не может быть использован для (r1)
 You've revealed: (.*) for a total of (.*) emeralds.@§dТы раскрыл: §b(r1) в сумме за §e(r2) эмеральдов.
-Great job! You've completed the (.*) Dungeon!@§6Отличная работа! Ты прошел (r1) данж!
 You need (.*) level of (.*) to use this tool!@§4Тебе нужен §c(r2)§4 уровень в §c(r1), §4чтобы использовать этот инструмент!
 (.*) is for combat level (.*)\+ only.@§c(r1) §4только для комбат уровня §c(r2).
