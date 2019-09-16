@@ -18,7 +18,6 @@
 §7[1/2] §2Aluxander: §aOh thank goodness. Someone has finally arrived to save us.@§7[1/2] §2Aluxander: §aОх, слава богу. Наконец кто-то прибыл, чтобы спасти нас.
 §7[2/2] §2Aluxander: §aWait, what has Tiek sent us? You don't look strong enough to tackle this realm. Please return when you are level 74. We need you.@§7[2/2] §2Aluxander: §aМинутку, кого прислала нам Tiek? Ты не выглядишь достаточно сильным, чтобы справиться с этим царством. Пожалуйста, вернись когда достигнешь 74 уровня. Ты нам нужен.
 §7[1/1] §2Dereg: §aHave you found a use for those crushed bones yet? I'm sure you can find someone who wants it.@§7[1/1] §2Dereg: §aТы уже нашел применение этой измельченной кости? Уверен, ты найдешь того, кто ее захочет.
-§7[1/1] §2Prison Guard: §aYou're under arrest! Don't try to escape!@§7[1/1] §2Prison Guard: §aТы арестован! Не пытайся сбежать!
 §7[1/2] §2The Banker: §aDid you know you can stash your items in your bank? You can even get them back at any other bank, any time!@§7[1/2] §2The Banker: §aТы знаешь, что можно хранить свои предметы в банке? Ты можешь даже забрать их из любого другого банка, в любое время!
 §7[2/2] §2The Banker: §aNow, I'm not sure how that works, but it's best to not ask any questions.@§7[2/2] §2The Banker: §aЯ не знаю, как это работает, но лучше не задавать мне вопросов.
 §7[1/1] §2Rileen: §aWelcome to our little village!@§7[1/1] §2Rileen: §aДобро пожаловать в нашу деревушку!
@@ -46,7 +45,6 @@
 §7[1/1] §2Rohem: §aSome of those gamblers had a symbol built into their homes, shaped like a bat. If you find it, it'll show you the way into the sewers. Good luck, officer.@§7[1/1] §2Rohem: §aУ некоторых из этих игроков был символ, вмонтированный в их дома, в форме летучей мыши. Если ты найдешь его, я покажу тебе путь в канализацию. Удачи, офицер.
 §7[4/4] §2Servant: §aWell, the drainage pipes have probably taken the key to the basement in the southeast corner of the mansion by now, that's most likely where it is.@§7[4/4] §2Servant: §aЧто ж, дренажные трубы, вероятно, уже выбросили ключ в подвал в юго-восточном углу особняка; там, скорее всего, он сейчас и находится.
 §7[1/1] §2Charlie: §aI can't thank you enough for helping us find our son!@§7[1/1] §2Charlie: §aНе могу не поблагодарить тебя за то, что помог нам найти нашего сына!
-§7[1/1] §2Salesman: §aSorry man, if you haven't got any business with me then I can't talk.@§7[1/1] §2Salesman: §aИзвини, если у тебя нет со мной дел, нам не о чем разговаривать.
 §7[1/1] §2Caissop: §aLook in your quest book! I wrote the locations of the legendary creatures.@§7[1/1] §2Caissop: §aПосмотрите в своей квестовой книге! Я записал локации легендарных существ.
 §7[1/1] §2Caissop: §aSoon Gavel will open a museum for my art...@§7[1/1] §2Caissop: §aСкоро в Gavel'e откроют музей моего искусства...
 §7[1/1] §2Malo: §aThose young Grootslangs must be out there still...@§7[1/1] §2Malo: §aЭти молодые Grootslang'и должны быть еще там...
@@ -56,7 +54,6 @@
 §7[1/1] §2Royal Advisor Carlos: §aHelp, the king is... wait. No you're not strong enough yet, come back when you reached Level 70.@§7[1/1] §2Royal Advisor Carlos: §aПомоги, король... подожди-ка. Нет, ты еще недостаточно силен, возвращайся когда достигнешь 70-го уровня.
 §7[1/1] §2Ildan: §aGlad to see you, citizen!@§7[1/1] §2Ildan: §aРад видеть тебя, горожанин!
 §7[1/1] §2Jorkin: §aYou may want to get out of here, traveller. The Nether is very dangerous!@§7[1/1] §2Jorkin: §aВозможно, ты захочешь выбраться оттуда, путешественник. Ад очень опасен!
-§7[1/1] §2Anrod: §aI wonder how a Fleris got so lost it travelled halfway across the province... Oh well. At least I'm immortal now.@§7[1/1] §2Anrod: §aМне интересно, как Fleris так потерялся, что смог пройти половину провинции... Ну, по крайней мере, теперь я бессмертен.
 §7[1/2] §2Timmy: §aI've forgotten, where should I look for my Library Key?@§7[1/2] §2Timmy: §aЯ забыл, где мне искать ключ от библиотеки?
 §7[1/1] §2Atisun: §aI don't think it's wise you enter the mansion ever again...@§7[1/1] §2Atisun: §aНе думаю, что снова разумно входить в это поместье...
 §7[1/1] §2Sherk: §aYou better go, no adventurer under the level 51 should be here!@§7[1/1] §2Sherk: §aТебе лучше уйти, ни один путешественник ниже 51 уровня не должен быть здесь!
@@ -100,8 +97,6 @@
 §7[1/1] §2Doubiss: §aWell, glad I can start sellin' again without him shoutin' "Fraud! Con! Cheat!" in the distance! Thanks fer that, mate.@§7[1/1] §2Doubiss: §aЧто ж, я рад, и теперь снова могу начать продажи без его криков " Обманщик! Аферист! Мошенник!" издалека! Спасибо за это, приятель.
 §7[1/1] §2Kroac: §aI plan on fixing my house as soon as my legs start working.@§7[1/1] §2Kroac: §aЯ планирую починить свой дом, как только мои ноги начнут работать.
 §7[1/1] §2Ferndor: §aNow that the boots are back in place, we only need to repair the mansion, and we can live normally again!@§7[1/1] §2Ferndor: §aТеперь, когда ботинки вернулись на место, нам нужно только отремонтировать особняк, и мы сможем снова нормально жить!
-§7[1/1] §2Rynver: §aLdhst mghq afhng!@§7[1/1] §2Rynver: §aЛдхст мгхк афхнг!
-§7[1/1] §2Rynver: §aFdght thgih sghti!@§7[1/1] §2Rynver: §aФдгхт тхгих ыгхти!
 §7[1/3] §2Royal Advisor Carlos: §aThe panic room is hidden somewhere in here, we just need to figure out how to open it...@§7[1/3] §2Royal Advisor Carlos: §aКомната страха спрятана где-то здесь, нам просто нужно выяснить, как ее открыть... 
 §7[2/3] §2Royal Advisor Carlos: §aLast I heard from His Majesty, he was muttering something about a §a§lfourth crystal§a... a §a§lgreen§a one.@§7[2/3] §2Royal Advisor Carlos: §aПоследнее, что я слышал от Его Величества - он бормотал что-то о §lчетвертом кристалле...§a вроде §lзеленом§a.
 §7[1/1] §2???: §aWhat are you still doing here? Get out of the city!@§7[1/1] §2???: §aПочему ты еще здесь? Выбирайся из города!
@@ -116,7 +111,6 @@
 §7[1/2] §2Dereg: §aSeeing as what I just saw left a trail of blood, I think you will not be strong enough to help me.@§7[1/2] §2Dereg: §aУвидев то, что оставило такой кровавый след, я думаю, ты не будешь достаточно силен, чтобы помочь мне.
 §7[2/2] §2Dereg: §aMaybe when you will be level 54, you will be able to roam the swamp more freely.@§7[2/2] §2Dereg: §aМожет быть, когда ты будешь 54-го уровня, ты сможешь более свободно бродить по болоту.
 §7[2/2] §2Anast: §aYou...get§a back here at level 52. I need some help!@§7[2/2] §2Anast: §aТы...возвращайся на 52 уровне. Мне нужна помощь!
-§7[1/1] §2Monte: §aThank you so much, for aiding our village. I know we our smaller than our brothers from Iboju, but you are always welcome here.@§7[1/1] §2Monte: §aБольшое спасибо за помощь нашей деревне. Я знаю, что мы меньше, чем наши братья из Iboju, но ты всегда желанный гость здесь.
 §7[1/2] §2Ahmas: §aGood work soldier, but don't spend too long celebrating!@§7[1/2] §2Ahmas: §aХорошая работа солдат, но не трать слишком много времени на празднование!
 §7[2/2] §2Ahmas: §aYou have many tasks ahead of you, young recruit!@§7[2/2] §2Ahmas: §aУ тебя впереди еще много задач, молодой рекрут!
 §7[1/1] §2Captain Lorias: §aThank you for your help in catching the perpetrator!@§7[1/1] §2Captain Lorias: §aСпасибо за помощь в поимке преступника!
@@ -127,7 +121,6 @@
 §7[1/1] §2Ildan: §aWhat a great day we are having!@§7[1/1] §2Ildan: §aКакой у нас замечательный день!
 §7[1/1] §2Tolem: §aSorry, I'm busy, my cows are so afraid! I need to take care of them.@§7[1/1] §2Tolem: §aИзвини, я занят, мои коровы так напуганы! Мне нужно позаботиться о них.
 §7[1/1] §2Rohem: §aWhat brings you here today, human?@§7[1/1] §2Rohem: §aЧто привело тебя сюда, человек?
-§7[1/1] §2Prison Guard: §aYou are trespassing on private property. Just get out of here, our cells are too full.@§7[1/1] §2Prison Guard: §aТы вторгся на частную собственность. Просто убирайся отсюда, наши камеры переполнены.
 §7[1/1] §2Rileen: §aI'm glad you made it, human. Maybe you should consider a hunting career.@§7[1/1] §2Rileen: §aЯ рад, что ты сделал это, человек. Может, тебе стоит подумать о карьере охотника.
 §7[1/1] §2Cinfras: §aWoah! This island is really dangerous, you probably shouldn't be here. You can deal with this place when you are level 70.@§7[1/1] §2Cinfras: §aУх ты! Этот остров действительно опасен, тебе вероятно не стоит здесь находиться. Ты можешь иметь дело с этим местом, когда будешь 70 уровня.
 §7[1/1] §2Passenger Controllant: §aYou may now board the airship! Enjoy your flight!@§7[1/1] §2Passenger Controllant: §aТеперь ты можешь пройти на дирижабль! Приятного полета!
