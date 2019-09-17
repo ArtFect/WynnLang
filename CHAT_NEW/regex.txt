@@ -66,6 +66,7 @@
 §5Blacksmith: §dYou scrapped: (.*) for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Blacksmith: §dТы утилизировал: (r1) в общей сумме на §e(r2)§d скрапа. Было приятно иметь с тобой дело.
 §5Blacksmith: §dYou scrapped: (.*) and (.*) for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Blacksmith: §dТы утилизировал: (r1) и (r2) в общей сумме на §e(r3)§d скрапа. Было приятно иметь с тобой дело.
 §b(.*)§7 has given you §b(.*)% resistance§7.@§b(r1)§7 дал тебе §b(r2)% защиты§7.
+(.*) has given you 20% resistance and 10% strength.@§b(r1) §7дал тебе §b20% к сопротивлению и 10% к силе.
 §7\+ New Quest §8\[(.*)\]@§7+ Новый квест §8[(r1)]
 §4You need to be §cCombat Lv. (.*) §4to start this Mini-Quest@§4Тебе нужно быть §c(r1) Комбат уровня §4для старта этого Мини-квеста
 §2You have unlocked §apage (.*)§2 in your bank@§2Ты разблокировал §aс(r1) страницу§2 в своем банке
