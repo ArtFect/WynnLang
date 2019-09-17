@@ -73,8 +73,8 @@
 §e(.*) has been added to your friends!@§e(r1) был добавлен в друзья!
 §e(.*) has been removed from your friends!@§e(r1) был убран из друзей!
 §7\[Begin Floor: Floor (.*)\]@§7[Начат Этаж: Этаж (r1)]
-§dSuccessfully cancelled §5buying §b(.*)§d.@§dУспешно отменена §5покупка §b(r1)§d.
-§dSuccessfully cancelled §5selling §d(.*)§d.@§dУспешно отменена §5продажа §d(r1)§d.
+§dSuccessfully cancelled §5buying (.*).@§dУспешно отменена §5покупка (r1).
+§dSuccessfully cancelled §5selling (.*).@§dУспешно отменена §5продажа (r1).
 §b(.*)§3 has disguised as a §b(.*)§3!@§b(r1)§3 замаскировался под §b(r2)§3!
 §4You can't hold any more unprocessed resources §c(.*)§4! Refine your materials or stash them in your bank to free some space.@§4Ты не можешь удержать больше непереработанных ресурсов §c(r1)§4! Переработай их или переложи в банк, чтобы освободить немного места.
 §c\[(.*)\] §bCleared §7all potion effects §bRemoved §7all fire.@§c[(r1)] §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
@@ -139,6 +139,12 @@
 §5Only (.*) more combat level§5 until you earn the (.*) spell@§5Еще §d(r1) комбат уровень §5и ты изучишь §d(r2) заклинание
 §4This item is for Combat Lv. (.*)\+ only.@§4Этот предмет только для Комбат Ур. (r1)+.
 §4You need a (.*) level of §c(.*)§4 to use this tool!@§4Тебе нужен §c(r2)§4 уровень в (r1) чтобы использовать этот инструмент!
+§3\[§3WAR\]§c §cLocals report an army is headed for (.*)!@§3[§3WAR]§c §cРазведка сообщает, что армия надвигается на (r1)!
+§3\[§3WAR\]§c §cThe war for (.*) will start soon!@§3[§3WAR]§c §cБитва за (r1) скоро начнется!
+§3\[§3WAR\]§c §cYou have taken control of (.*) from \[(.*)\]!@§3[§3WAR]§c §cТы забрал контроль над (r1) у [(r2)]!
+§3\[§3WAR\]§c §c(.*) emeralds were looted and added to your guild bank.@§3[§3WAR]§c §c(r1) эмеральдов было собрано и добавлено в ваш банк гильдии.
+§3\[§3WAR\]§c §cYour guild has lost the war for (.*).@§3[§3WAR]§c §cВаша гильдия проиграла битву за (r1).
+§3\[§3WAR\]§c §c\[(.*)\] was victorious!@§3[§3WAR]§c §c[(r1)] одержала победу!
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
