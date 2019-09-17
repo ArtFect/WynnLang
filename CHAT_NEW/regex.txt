@@ -148,6 +148,10 @@
 §3\[§3WAR\]§c §c(.*) emeralds were looted and added to your guild bank.@§3[§3WAR]§c §c(r1) эмеральдов было собрано и добавлено в ваш банк гильдии.
 §3\[§3WAR\]§c §cYour guild has lost the war for (.*).@§3[§3WAR]§c §cВаша гильдия проиграла битву за (r1).
 §3\[§3WAR\]§c §c\[(.*)\] was victorious!@§3[§3WAR]§c §c[(r1)] одержала победу!
+§3\[§3WAR\]§c §cYour guild has successfully defended (.*).@§3[§3WAR]§c §cВаша гильдия успешно защитила (r1).
+§3\[§3WAR\]§c §c\[(.*)\] has lost the war!@§3[§3WAR]§c §c[(r1)] Проиграла битву!
+§3\[§3WAR\]§c §c\[(.*)\] mobs remain defending the region.@§3[§3WAR]§c §c[(r1)] мобов осталось защищать территорию.
+§3\[§3WAR\]§c §c(.*) emeralds were picked up and added to your guild bank.@§3[§3WAR]§c §c(r1) эмеральдов было подобрано и добавлено в банк вашей гильдии.
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
