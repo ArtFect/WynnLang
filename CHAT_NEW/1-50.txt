@@ -122,7 +122,7 @@
 §7[1/1] §2Reshad: §aWish I still had some crops for you, adventurer, but sadly you're going to have to wait till the next harvest.@§7[1/1] §2Reshad: §aХотел бы я, чтобы у меня осталось немного еды для тебя, путешественник, но к сожалению, тебе придется подождать до следующего урожая.
 §7[1/2] §2Ellen: §aThere is a lot to do before Craftmas!@§7[1/2] §2Ellen: §aНужно сделать многое до Рождества!
 §7[2/2] §2Ellen: §aThank god it's only once a year.@§7[2/2] §2Ellen: §aСлава богу, оно только раз в год.
-§7[1/1] §2Santa: §aHohoho. Merry Craftmas!@§7[1/1] §2Santa: §aХохохо. Веселого Рождества!
+
 §7[1/2] §2Kamoth: §aI can't give away free food! This is the biggest feast of the year!@§7[1/2] §2Kamoth: §aЯ не могу отдать бесплатную еду! Это самый большой праздник в году!
 §7[2/2] §2Kamoth: §aYou should go and ask charities for that.@§7[2/2] §2Kamoth: §aТы должен пойти и попросить об этом благотворительные организации.
 §7[1/2] §2Salath: §aYou want food for the poor? They should get jobs and help themselves!@§7[1/2] §2Salath: §aТы хочешь еды для бедных? Они должны найти работу и помочь себе сами!
@@ -138,9 +138,7 @@
 §7[1/1] §2Excavator Lykron: §aAnd don't come back!@§7[1/1] §2Excavator Lykron: §aИ не возвращайся!
 §7[1/2] §2General Graken: §aAh, hello chap! Might I inquire as to whether you've found that blasted little ruby yet?@§7[1/2] §2General Graken: §aАх, привет приятель! Могу я узнать, ты уже нашел этот чертов маленький рубин?
 §7[2/2] §2General Graken: §aI found the other in the house just up the road here, impossible to miss since it's the only one that bloody-well still has a solid floor!@§7[2/2] §2General Graken: §aЯ нашел другой в доме, прямо по дороге сюда. Его невозможно пропустить, так как это единственный дом, у которого, черт возьми, все еще твердый пол!
-§7[1/1] §2Tom: §aHead east of here to the icy island village. Santa is rumored to live there now. Go find out what is going on there.@§7[1/1] §2Tom: §aНаправляйся на восток отсюда, в деревню на ледяном острове. Ходят слухи, что Santa теперь живет там. Иди и узнай, что там происходит.
 §7[1/1] §2Adigard: §aThank you so much for bringing peace between our nations!@§7[1/1] §2Adigard: §aБольшое спасибо за то, что принес мир между нашими народами!
-§7[1/1] §2Tom: §aHello...? Wait, I feel like I know you from somewhere...@§7[1/1] §2Tom: §aПривет...? Подожди, я чувствую, что знаю тебя откуда-то...
 §7[1/2] §2Ope: §aHey you! I was attacked by a spider just now.@§7[1/2] §2Ope: §aЭй ты! На меня только что напал паук.
 §7[2/2] §2Ope: §aCome back when you are a bit stronger than... that. Level 6 should work.@§7[2/2] §2Ope: §aВернись, когда станешь немного сильнее, чем... сейчас. 6 уровень подойдет.
 §7[1/1] §2Omango: §aIt would be madness to explore this hole without a breathing helmet!@§7[1/1] §2Omango: §aБыло бы безумием исследовать эту дыру без шлема для дыхания!
@@ -179,10 +177,6 @@
 §7[1/2] §2Flodur: §a'ello.@§7[1/2] §2Flodur: §aПривет.
 §7[2/2] §2Flodur: §aI 'heard the news. Glad ye were able to help out those people.@§7[2/2] §2Flodur: §aЯ слышал новости. Рад, что ты смог помочь этим людям.
 §7[1/1] §2Haily: §aThe world needs more people like you, so selfless.@§7[1/1] §2Haily: §aМиру нужно больше людей, вроде тебя, таких бескорыстных.
-§7[1/1] §2Old Tom: §aWe can finally rebuild this city now. Thank you very much, young hero!@§7[1/1] §2Old Tom: §aМы наконец-то сможем восстановить этот город. Большое спасибо, юный герой!
-§7[1/1] §2Santa: §aHo ho ho! Go in my fireplace to go back 30 years to Selchar and see why I can't get there.@§7[1/1] §2Santa: §aХо-хо-хо! Иди в мой камин, чтобы вернуться на 30 лет назад в Selchar и посмотри, почему я не могу туда попасть.
-§7[1/1] §2Tommy: §aWendy is sure a good hider, this is going to be so much fun!@§7[1/1] §2Tommy: §aWendy очень хорошо прячется, это будет очень весело!
-§7[1/1] §2Santa: §aDon't worry about the crystal, I'll make sure it stays hidden and protected! Merry Christmas and thank you!@§7[1/1] §2Santa: §aНе беспокойся о кристалле, я позабочусь, чтобы он оставался в тайне и под защитой! Спасибо и Счастливого Рождества!
 §7[1/1] §2Rinire: §aMagnificent, Acromantula venom is really delicious!@§7[1/1] §2Rinire: §aВеликолепно, яд Acromantula очень-очень вкусный!
 §7[1/1] §2Laen: §aPlease, find the tower and the §3[1 Book of the Bones]§a and bring it back to me.@§7[1/1] §2Laen: §aПожалуйста, найди башню вместе с §3[1 Книгой костей]§a, и принеси ее мне.
 §7[1/1] §2Dado: §aWho are you? Look, I don't have time to chat. I have several shipments to get through.@§7[1/1] §2Dado: §aКто ты такой? Слушай, у меня нет времени болтать. Мне нужно перевезти несколько грузов.
