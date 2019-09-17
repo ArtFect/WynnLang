@@ -12,10 +12,8 @@ Traitor Thomas: I can't let you in, we're busy looking for an important document
 Traitor Thomas: Thanks for helping with that long task...@Спасибо, что помог с этим долгим заданием...
 Excavator Admin Uci: As fun as it would be to kill you, my boss wants you alive. He's in the temple already...@Было бы весело убить тебя, но мой босс хочет видеть тебя живым. Он уже находится в храме...
 Excavator Scientist Azure: This leads deeper into this dungeon, but it seems like it has to be activated from the other side.@Эта штука ведет глубоко в подземелье, но кажется, что она должна быть активирована с другой стороны.
-Traitor Amadel: Quickly, you must reach the last crystal before Wynnexcavation! It's in the Dernel Junglee, there must be a building like the one on the map@Быстрее, ты должен добраться до последнего кристалла раньше Wynnexcavation! Это в Dernel джунглях, там должно быть здание, похожее на то, что на карте
 Ragni's King: Ah, welcome my young recr-... my young master.@Ах, добро пожаловать, мой юный рекр... мой юный мастер.
 King of Troms: I did what I did for my people. Not out of personal values. I can now rule the city free of influence.@Я сделал то, что должен был сделать для своих людей. Не из-за личных побуждений. Теперь я могу управлять городом без внешнего влияния.
-Monte: Thanks again for saving the last of my family, we're more than grateful.@Еще раз спасибо за спасение моей семьи, мы более чем благодарны.
 Isfurus: I hope the child's grandfather is alright...@Надеюсь, дедушка ребенка в порядке...
 Salesman: Sorry again about trying to fool you. I hope my information helped you!@Еще раз извиняюсь за попытку одурачить тебя. Надеюсь, моя информация помогла тебе!
 Monte: I still need the water for my grandfather, please get it.@Пожалуйста, мне все еще нужна вода для моего дедушки.
@@ -31,12 +29,8 @@ Ka L'argwit: You are always welcome here. We extend our absolute hospitality...t
 Mercenary Leader: Hah, if only ol' Saunny could see us now. I bet he wouldn't even recognize us, we've gotten so strong now!@Ха, если бы только старый Saunny мог видеть нас сейчас. Бьюсь об заклад, он даже бы не узнал нас, мы стали такими сильными!
 King's Son: I am so grateful that my father understands now. I swear one day I'll be a great hero! I'll defend all the cities in Wynn from evil!@Я так благодарен, что мой отец все понял. Клянусь, однажды я стану великим героем! Я буду защищать все города в Wynn от зла!
 Siwel: Things are getting even worse! I'm affraid of what the egg will become!@Дела становятся еще хуже! Я боюсь того, во что может превратиться яйцо!
-Ahmas: What are you ya standing around for! I wrote your orders in your book private! @Почему ты еще стоишь здесь? Я записал приказы в твоей книге, рядовой!
-Zhight: Thank you again for your help!@Еще раз спасибо за помощь!
-Zhight: As much as I need help, I would hate for you to get hurt. Come back when you are level 55.@Как бы мне ни была нужна помощь, мне бы не хотелось, чтобы ты пострадал. Возвращайся, когда будешь на 55 уровне.
 Rayshyroth: You're a rather impressive one, aren't you! I'm glad to see you survived, and no worse for wear!@Ты выглядишь довольно впечатленным, не так ли! Я рад, что ты выжил, и не пострадал!
 Caissop: Oh, I'm so ready for my next piece! If you want to help me, come back when you're level 53...@Ох, я уже готов к своей следующей работе! Если хочешь мне помочь, возвращайся, когда будешь 53 уровня...
-Erlard: You can't enter here! Didn't you listen? You need to acquire the veil buried in the catacombs of Olux! They are behind the bank, I believe.@Ты не можешь войти сюда! Разве ты не слушал? Тебе нужно раздобыть вуаль, погребенную в катакомбах Olux'a! Они находятся за банком, я полагаю.
 Elio: UNTIE ME!@РАЗВЯЖИ МЕНЯ!
 Daxe: I am sad to learn the dark truth of the Iron Golems. Olux citizens have begun a rumor that I'm involved, so I do believe I'll be moving away soon.@Мне грустно знать темную правду о железных Големах. Жители Olux'a пустили слух, что я причастен к этому, так что похоже я скоро перееду.
 Tolem: Not you again, stay away, my poor cows have been through enough!@Только не ты, держись подальше, достаточно моих бедных коров!
@@ -46,17 +40,15 @@ Vesdar: Enter the mountain to the east, and climb to the top, there you will fin
 Burtur: By the light! You have done it! I cannot believe such a pit exists! I wonder if the forest will ever be cured.@Во имя света! Ты сделал это! Не могу поверить, что такая яма существует! Интересно, вылечится ли когда-нибудь лес.
 Burtur: Quick, human. I don't have much time. See if you can figure out the late man's riddle at the grave north of here. The strange writing must mean something! @Быстрее, человек. У меня не так много времени. Посмотри, сможешь ли ты разгадать загадку покойного на могиле к северу отсюда. Странные надписи на надгробиях должны что-то значить! 
 Sesad: I hope you find a good use for that water.@Надеюсь, что ты найдешь хорошее применение для этой воды.
-Burtur: Ugh, stay away from me. I have Kerasot poisoning. Not even you can help me, especially since you're not even level 69.@Угх, держись от меня подальше. Я заражен лихорадкой Kerasot. Даже ты не сможешь помочь мне, тем более, что ты даже не 69-го уровня.
 Ceyquin: The cultists have either left or actually started to try and help repair the town. I don't know what came over them, but I'm certainly not complaining!@Культисты либо уехали, либо начали пытаться помочь восстановить город. Я не знаю, что на них нашло, но точно не жалуюсь на это!
 Harker: Well, the cultists seem to be turning over a new leaf, but Rismor is having me stay down here to keep them in line. Hopefully you won't hear so much as a peep from them!@Что ж, культисты, кажется, решили начать новую жизнь, но Rismor заставляет меня оставаться здесь, чтобы приглядеть за ними. Надеюсь, ты больше не услышишь ничего от них, даже писка!
-Talos: Thanks for your help, human. Please tell Arwes that i'm alright. I'll make sure these scumbags stay here until I can fetch the police.@Спасибо за помощь, человек. Пожалуйста, скажи Arwes'у, что я в порядке. Я прослежу, чтобы эти отморозки остались здесь, пока я не приведу полицию.
 Rismor: Go, now! Go into the Pit of Despair, and meet Harker at the bottom. Our time is running short!@Иди, сейчас же! Иди в Яму Отчаяния и встреть Harker'а на ее дне. У нас мало времени! 
 Missing Child: Do you see that ship in the distance? I don't recognise it.@Ты видишь тот корабль вдалеке? Я не могу его распознать.
 Engineer Eric: I can't thank ye enough. You saved me job. Go back to your quarters, I promise we won't bother you again.@Не могу тебя не отблагодарить. Ты спас мою работу. Возвращайся в свою каюту, обещаю, мы больше не будем тебя беспокоить.
 Passenger Jeremy: That ship the little kid that was talking about...@Тот корабль, о котором говорил маленький мальчик...
 Passenger Jeremy: It's much closer now... I think you can see it from downstairs.@Теперь он гораздо ближе... Думаю, что ты можешь увидеть его, спустившись  вниз.
 Rohem: I'll get you back for this someday... as soon as I finish my drink, I swear it...@Я отомщу тебе за это когда-нибудь... как только закончу пить, клянусь...
-Rohem: Hey, you up there! You know it's rude to rummage through people's room, right? Get away from there!@Эй ты, наверху! Ты же знаешь, что грубо рыться в чужой комнате, да? Убирайся оттуда!
+
 Valimare: What are ya lingerin' around ‘ere for? ‘ve told ya all I know. Now either take a seat or get out.@Что-то ты засиделся здесь? я рассказал тебе все, что знаю. Теперь можешь либо присесть либо уйти.
 Valimare: What brings ya down 'ere again, officer? Come to test your luck?@Что привело вас снова сюда, офицер? Пришли испытать свою удачу?
 Valimare: What are ya lingerin' around 'ere for? I've told ya all I know. Now either take a seat or get out.@Зачем ты здесь задерживаешься? Я рассказал тебе все, что знаю. А теперь либо садись, либо уходи.
@@ -67,10 +59,7 @@ Elder Berusia: GAH! Don't spook me like that man! I'm uh...busy. Go back and tal
 Elder Berusia: She's got your hippopotamus for you@У нее для тебя есть гиппопотам.
 Elder Berusia: Oh uh... I meant reward. Yeah...reward..@Ох... Я имел в виду награда. Да...награда..
 Nitram: May the light return to the forest on day.@Пусть свет вернется в этот лес однажды.
-Timothy: You did great! By the way, I was told something is happening in the kitchen.@Ты отлично справился! Кстати, мне сказали, что что-то происходит на кухне.
 Atisun: The past is not something that should be talked about lightly, especially with someone as weak as yourself. Come back when you are level 67.@Прошлое - это не то, о чем стоит говорить легкомысленно, особенно с таким слабым человеком, как ты. Возвращайся, когда будешь 67 уровня.
-Anrod: Please, hurry! I don't have long left!@Пожалуйста, быстрее! Мне недолго осталось!
-Darnes: The 4 forces of the Gavelian army thank you for your service.@4 объединенных армии Gavel'a благодарят тебя за службу.
 Batelu: How is your quest going along?@Как продвигаются твои поиски?
 Argus: I be waitin' down at me ship, the Black Ring.@Я жду внизу на своем корабле Black Ring.
 Marston: Thank ye for thee help. Ye can probably trade thee fish at Pirate Cove?@Спасибо тебе за помощь. Ты сможешь продать эту рыбу в Пиратской бухте?
