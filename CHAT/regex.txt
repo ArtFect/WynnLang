@@ -1,6 +1,4 @@
 (.*) has given you 20% resistance and 10% strength.@§b(r1) §7дал тебе 20% к сопротивлению и 10% к силе.
-Please wait an additional (.*) minutes before opening this chest.@§7Пожалуйста, подожди еще (r1) минут, прежде чем открывать этот сундук.
-Please wait an additional (.*) seconds before opening this chest.@§7Пожалуйста, подожди еще (r1) секунд, прежде чем открывать этот сундук.
 (.*) has thrown a combat XP Bomb! The entire server gets double xp for 20 minutes!@§7(r1) бросил XP Бомбу! Весь сервер получает удвоенные очки опыта на 20 минут!
 \[(.*)\] Cleared all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
 (.*) gave  you \[(.*)\].@§b(r1) дал тебе §c[(r2)].
