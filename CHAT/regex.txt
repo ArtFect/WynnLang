@@ -2,6 +2,5 @@
 (.*) has thrown a combat XP Bomb! The entire server gets double xp for 20 minutes!@§7(r1) бросил XP Бомбу! Весь сервер получает удвоенные очки опыта на 20 минут!
 \[(.*)\] Cleared all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
 (.*) gave  you \[(.*)\].@§b(r1) дал тебе §c[(r2)].
-(.*) quest items have been returned. There was not room for an additional (.*) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
 This material cannot be used for (.*)@Этот ресурс не может быть использован для (r1)
 (.*) is for combat level (.*)\+ only.@§c(r1) §4только для комбат уровня §c(r2).
