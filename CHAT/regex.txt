@@ -1,6 +1,1 @@
-(.*) has given you 20% resistance and 10% strength.@§b(r1) §7дал тебе 20% к сопротивлению и 10% к силе.
-(.*) has thrown a combat XP Bomb! The entire server gets double xp for 20 minutes!@§7(r1) бросил XP Бомбу! Весь сервер получает удвоенные очки опыта на 20 минут!
-\[(.*)\] Cleared all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
-(.*) gave  you \[(.*)\].@§b(r1) дал тебе §c[(r2)].
-This material cannot be used for (.*)@Этот ресурс не может быть использован для (r1)
-(.*) is for combat level (.*)\+ only.@§c(r1) §4только для комбат уровня §c(r2).
+
