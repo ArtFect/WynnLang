@@ -80,6 +80,7 @@
 §4You can't hold any more unprocessed resources §c(.*)§4! Refine your materials or stash them in your bank to free some space.@§4Ты не можешь удержать больше непереработанных ресурсов §c(r1)§4! Переработай их или переложи в банк, чтобы освободить немного места.
 §c\[(.*)\] §bCleared §7all potion effects §bRemoved §7all fire.@§c[(r1)] §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
 §c\[(.*)\] §bRemoved §7all fire.@§c[(r1)] §bУбран §7весь огонь.
+§c\[(.*)\] §bCleared §7all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
 §5Only §d(.*) more combat levels§5 until you earn the §d(.*) upgrade@§5Еще §d(r1) комбат уровня§5 и ты изучишь апгрейд §d(r2)
 §5Only §d(.*) more combat level§5 until you earn the §d(.*) upgrade@§5Еще §d(r1) комбат уровень§5 и ты изучишь апгрейд §d(r2)
 §d     -§7 Location: §fWynn Plains \[(.*)\]@§d     -§7 Локация: §fWynn Plains [(r1)]
