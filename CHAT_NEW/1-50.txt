@@ -1,8 +1,6 @@
 §7[1/1] §2Jenprest: §aI fear we face a much worse enemy than a blocked drain..@§7[1/1] §2Jenprest: §aБоюсь, что мы столкнулись с более опасным врагом, чем засоренные трубы..
 §7[1/1] §2Laen: §aThank you for your help!@§7[1/1] §2Laen: §aСпасибо за твою помощь!
-§7[1/1] §2Detective Jackson: §aI would kill them myself, if it wasn't for the treaty. If you help me, I can help you. Bring me §3[5 Axe Heads]§a from the Green, Red and Black Orc camps.@§7[1/1] §2Detective Jackson: §aZ бы убил их сам, если бы не договор. Если ты поможешь мне, я смогу помочь тебе. Принеси мне §3[5 лезвий топоров]§a из зеленого, красного и черного лагерей Орков.
 §7[1/1] §2Captain Fenor: §aWelcome back, soldier! Great job clearing out that cave, we can finally use it for great things now!@§7[1/1] §2Captain Fenor: §aС возвращением, солдат! Отличная работа по очистке этой пещеры, мы можем, наконец, использовать ее сейчас для великих целей!
-§7[1/1] §2Piere: §aHave you found Detective Jackson yet? He went to scout out the camps I think, to the south east.@§7[1/1] §2Piere: §aТы уже нашел Detective Jackson'а? Думаю, он отправился разведывать лагеря, на юго-восток.
 §7[1/1] §2Duvale: §aI could really use some assistance with a defective piece of hardware, but it would be a suicide mission for someone of your skill. Please come back at level 49.@§7[1/1] §2Duvale: §aМне бы действительно пригодилась некоторая помощь с дефектной частью оборудования, но это было бы самоубийством для кого-то с твоими навыками. Пожалуйста, вернись на 49 уровне.
 §7[1/1] §2Jenprest: §aThe sewer entrance is just right of the big gate. I'll meet you there.@§7[1/1] §2Jenprest: §aВход в канализацию справа от этих больших ворот. Я встречу тебя там.
 §7[1/1] §2Amerigo: §aI have no time for you, stranger! Run along.@§7[1/1] §2Amerigo: §aУ меня нет на тебя времени, незнакомец! Уходи.
@@ -23,7 +21,6 @@
 §7[1/1] §2Farmer Cevalus: §aI thank you greatly for your actions. My crops should grow back soon!@§7[1/1] §2Farmer Cevalus: §aБлагодарю тебя за твои действия. Мой урожай должен скоро вырасти!
 §7[1/1] §2Twendle: §aThank you again for all of your help!@§7[1/1] §2Twendle: §aЕще раз спасибо за твою помощь!
 §7[1/1] §2Sayrr: §aThanks again for the food! I think I may have grown an inch already!@§7[1/1] §2Sayrr: §aСпасибо за еду! Думаю, я уже подрос на пару сантиметров!
-§7[1/1] §2Piere: §aThey retrieved the Axe, but I still lost my house. Rebuilding it will cost me a fortune...@§7[1/1] §2Piere: §aОни нашли топор, но я все равно потерял свой дом. Восстановление его будет стоить мне целое состояние...
 §7[1/1] §2Duvale: §aHave you taken a look at the Guard Golem Factory yet? You really should, great business. Lots of money to be made!@§7[1/1] §2Duvale: §aВы уже посмотрел фабрику охранников големов? Очень советую, отличный бизнес. Можно сделать много денег! 
 §7[1/1] §2Nasea: §aCome back when you have a solid lead on the missing quartz.@§7[1/1] §2Nasea: §aВозвращайся, когда у тебя будет серьезная зацепка о пропавшем кварце.
 §7[1/1] §2Dado: §aTo tell you the truth, I hate Quartz.@§7[1/1] §2Dado: §aЧестно тебе говоря, я ненавижу кварц.
@@ -35,21 +32,17 @@
 §7[1/1] §2Enkser: §aHey! Look who's here! So, how's the horse doing?@§7[1/1] §2Enkser: §aПривет! Посмотрите-ка кто здесь! Так что, как поживает твоя лошадь?
 §7[1/1] §2Favian: §aAh, this is how I appreciate it, peace and harmony...@§7[1/1] §2Favian: §aАх, вот как я это ценю, мир и согласие...
 §7[1/1] §2Mansion Guard: §aOut with yer!@§7[1/1] §2Mansion Guard: §aВон отсюда!
-§7[1/1] §2Tarek: §aWhat yer waiting for, get in here!@§7[1/1] §2Tarek: §aЧего ты ждешь, залезай!
 §7[1/1] §2Ormrod: §aThank you so much for removing the curse!@§7[1/1] §2Ormrod: §aБольшое спасибо за снятие проклятия!
 §7[1/1] §2The Assistant: §aNever speak of this §aagain...stranger§a.@§7[1/1] §2The Assistant: §aНикогда не говори об этом снова... странник.
 §7[1/1] §2Damiral: §aHow is your search going? I've written the first clue into your quest book. I've heard that the others are engraved on blocks of black stone; maybe you should look for those.@§7[1/1] §2Damiral: §aКак продвигаются поиски? Я написал первую подсказку в твоей квестовой книге. Слышал, что остальные выгравированы на блоках из черного камня; может быть, тебе стоит поискать их.
 §7[1/1] §2Damiral: §aThank you for your help in finding Hastor's treasure. Have you visited the rest of Llevigar yet? It is a very beautiful place.@§7[1/1] §2Damiral: §aСпасибо за твою помощь в поиске сокровищ Hastor'a. Ты посетил уже остальную часть Llevigar'a? Это очень красивое место.
-§7[1/1] §2Adigard: §aHave you made any progress?@§7[1/1] §2Adigard: §aЕсть какой-нибудь прогресс?
 §7[1/1] §2Summoner: §aHeheheh, what are you waiting for? Go ahead and escape. Heh heh heh heh!@§7[1/1] §2Summoner: §aХехехехе, чего же ты ждешь? Иди вперед и уходи. Хех хех хех хех!
 §7[1/1] §2Merloni: §aGlad to see you again!@§7[1/1] §2Merloni: §aРад снова тебя видеть!
-§7[1/1] §2Vault Guard: §aNice work, kid.@§7[1/1] §2Vault Guard: §aОтличная работа, парниша.
 §7[1/1] §2Favian: §aAre you going to get the totem back or not? It's located at the Owl Camp right now.@§7[1/1] §2Favian: §aТы собираешься вернуть наш тотем или нет? Он сейчас находится в лагере Сов.
 §7[1/1] §2Caras: §aHave you gotten our totem back yet? The Eagle camp is across the river, on the other side of the canyon.@§7[1/1] §2Caras: §aТы уже вернул наш тотем? Лагерь Орлов находится через реку, на другой стороне каньона.
 §7[1/1] §2Caras: §aOh thank you so much for helping us! It's so nice to see you again, owl brother.@§7[1/1] §2Caras: §aБольшое спасибо, что помог нам! Так приятно снова тебя видеть, совиный брат.
 §7[1/1] §2Tesha: §aTake that to vade, and don't read it!@§7[1/1] §2Tesha: §aОтнеси это Vade, и не читай!
 §7[1/1] §2Vade: §aWhat are you still doing over here? Go finish your assignment! It's written in your quest book.@§7[1/1] §2Vade: §aПочему ты все еще здесь? Иди заканчивай свое задание! Оно написано в твоей квестовой книге.
-§7[1/1] §2Zenam: §aThe system is going crazy! We don't even know how it works, we've never had a problem! There is a secret entrance to the heart of the system opposite the bank, hurry!@§7[1/1] §2Zenam: §aСистема сходит с ума! Мы даже не знаем, как она работает, у нас никогда не было проблем с ней! Есть секретный вход в сердце системы прямо напротив банка, поторопись!
 §7[1/1] §2Vade: §aWell, I figured it out soon after you got back. We possess the crystal, don't go looking for Wynn Excavation again, all is not what it seems. Take that as a friendly warning.@§7[1/1] §2Vade: §aЧто ж, я все понял вскоре после твоего возвращения. Мы завладели кристаллом, не пытайся мешать WynnExcavation снова; все не так, как кажется. Прими это как дружеское предупреждение.
 §7[1/1] §2Bandit: §aI'm not letting you in, unless you can pay me.@§7[1/1] §2Bandit: §aЯ не пущу тебя внутрь, пока ты мне не заплатишь.
 §7[1/1] §2Hermit: §aWhat are you here for, eh kid? Get out. Get!@§7[1/1] §2Hermit: §aЗачем ты здесь, а парнишка? Уходи. Сейчас же!
@@ -69,7 +62,6 @@
 §7[1/1] §2The Assistant: §aHeeh...stranger§a. §aI...may§a need your §aassistance...return§a when you §aare...Level§a 15.@§7[1/1] §2The Assistant: §aХех...незнакомец. Мне...может понадобиться твоя помощь...возвращайся, когда будешь...15 уровня.
 §7[1/1] §2Tinemild: §aFinish my quest and you will be worthy of entering the tower.@§7[1/1] §2Tinemild: §aЗакончи мой квест и ты будешь достоен войти в башню.
 §7[1/1] §2Floormaster: §aI need one token from the boss in this room as evidence that you are strong enough to ascend.@§7[1/1] §2Floormaster: §aМне нужен один жетон от босса в этой комнате, как доказательство того, что ты достаточно силен, чтобы вознестись.
-§7[1/1] §2Adigard: §aOur nation greatly needs help, but I'm afraid you aren't strong enough. Come back to me when you are level 40.@§7[1/1] §2Adigard: §aНаша нация очень нуждается в помощи, но боюсь, что ты недостаточно силен. Возвращайся ко мне, когда будешь 40 уровня.
 §7[1/2] §2Damiral: §aWelcome to the great province of Gavel, adventurer! You know, I have a job you might be interested in…@§7[1/2] §2Damiral: §aДобро пожаловать в великую провинцию Gavel, путешественник! Знаешь, у меня есть работа, которая может тебя заинтересовать....
 §7[2/2] §2Damiral: §aBut no, you seem too weak at the moment. Come talk to me again at Level 39!@§7[2/2] §2Damiral: §aНо нет, ты кажешься слишком слабым в данный момент. Поговори со мной еще раз на 39 уровне!
 §7[1/1] §2Mylo: §aThese are dark times, weary traveler! Too dark for you. Come back when you are at least level 28.@§7[1/1] §2Mylo: §aЭто темные времена, уставший путешественник! Слишком темные для тебя. Возвращайся, когда будешь 28 уровня.
@@ -90,7 +82,6 @@
 §7[2/2] §2Retarc: §aMy hands are starting to hurt!@§7[2/2] §2Retarc: §aМои руки начинают болеть!
 §7[1/1] §2Nick: §aThank you so much! I couldn't have done it without you.@§7[1/1] §2Nick: §aБольшое тебе спасибо! Я не смог бы сделать это без тебя.
 §7[1/1] §2Flodur: §aWhat brings you 'ere?@§7[1/1] §2Flodur: §aЧто привело тебя сюда?
-§7[1/1] §2Piere: §aHow could this happen to me! I know I've made my mistakes, but life goes on... I guess you could help me, but only when you are level 44.@§7[1/1] §2Piere: §aКак такое могло случиться со мной! Я знаю, что совершил ошибки, но жизнь продолжается... Я думаю, ты мог бы помочь мне, но только на 44 уровне.
 §7[1/1] §2Nick: §aHave you found any food?@§7[1/1] §2Nick: §aТы нашел какую-нибудь еду?
 §7[1/1] §2Reshad: §aWish I still had some crops for you, adventurer, but sadly you're going to have to wait till the next harvest.@§7[1/1] §2Reshad: §aХотел бы я, чтобы у меня осталось немного еды для тебя, путешественник, но к сожалению, тебе придется подождать до следующего урожая.
 §7[1/2] §2Ellen: §aThere is a lot to do before Craftmas!@§7[1/2] §2Ellen: §aНужно сделать многое до Рождества!
@@ -104,15 +95,11 @@
 §7[1/1] §2Nick: §aPlease, ask around for food. Any donation at all will help.@§7[1/1] §2Nick: §aПожалуйста, поспрашивай вокруг о еде. Любое пожертвование поможет нам.
 §7[1/1] §2Server: §aGet out before I call the guards!@§7[1/1] §2Server: §aУходи, пока я не вызвал охрану!
 §7[1/1] §2Squiddles: §aHave you seen that weird structure near the lake? I heard quite a lot of stories about it, but nobody is sure about what you can find there.@§7[1/1] §2Squiddles: §aТы уже видел это странное сооружение возле озера? Я слышал довольно много историй об этом, но никто не уверен в том, что можно там найти.
-§7[1/1] §2Detective Jackson: §aTruth be told, I can see another Orc war on the horizon. They used to be so peaceful until the forest started to decay...@§7[1/1] §2Detective Jackson: §aПо правде говоря, я предвижу еще одну войну с орками уже скоро. Раньше они были такими спокойными, пока лес не начал заражаться...
 §7[1/1] §2Gernald: §aI wonder how Strato made that bait...@§7[1/1] §2Gernald: §aИнтересно, как Strato сделал эту приманку...
 §7[1/1] §2Fredris: §aAre you really trying to dive in that without the proper equipment?@§7[1/1] §2Fredris: §aТы действительно пытаешься погрузиться туда без надлежащей экипировки?
 §7[1/1] §2Excavator Lykron: §aAnd don't come back!@§7[1/1] §2Excavator Lykron: §aИ не возвращайся!
 §7[1/2] §2General Graken: §aAh, hello chap! Might I inquire as to whether you've found that blasted little ruby yet?@§7[1/2] §2General Graken: §aАх, привет приятель! Могу я узнать, ты уже нашел этот чертов маленький рубин?
 §7[2/2] §2General Graken: §aI found the other in the house just up the road here, impossible to miss since it's the only one that bloody-well still has a solid floor!@§7[2/2] §2General Graken: §aЯ нашел другой в доме, прямо по дороге сюда. Его невозможно пропустить, так как это единственный дом, у которого, черт возьми, все еще твердый пол!
-§7[1/1] §2Adigard: §aThank you so much for bringing peace between our nations!@§7[1/1] §2Adigard: §aБольшое спасибо за то, что принес мир между нашими народами!
-§7[1/2] §2Ope: §aHey you! I was attacked by a spider just now.@§7[1/2] §2Ope: §aЭй ты! На меня только что напал паук.
-§7[2/2] §2Ope: §aCome back when you are a bit stronger than... that. Level 6 should work.@§7[2/2] §2Ope: §aВернись, когда станешь немного сильнее, чем... сейчас. 6 уровень подойдет.
 §7[1/1] §2Omango: §aIt would be madness to explore this hole without a breathing helmet!@§7[1/1] §2Omango: §aБыло бы безумием исследовать эту дыру без шлема для дыхания!
 §7[1/1] §2Lil: §aOur city has some work for you, but I am afraid you are too low level. Come back to me when you are level 28.@§7[1/1] §2Lil: §aВ нашем городе есть работа для тебя, но я боюсь, что ты слишком низкого уровня. Возвращайся ко мне, когда будешь 28 уровня.
 §7[1/1] §2Ticket Merchant: §aExcuse me, you can't go in without a ticket. This event is invite-only.@§7[1/1] §2Ticket Merchant: §aИзвини, ты не можешь войти без билета. Это мероприятие только для приглашенных.
@@ -133,16 +120,11 @@
 §7[1/1] §2Favian: §aWhat are you doing, get away from there!@§7[1/1] §2Favian: §aЧто ты делаешь, убирайся оттуда!
 §7[1/2] §2Excavator Lykron: §aGood day! Can you help me out with a problem I have?@§7[1/2] §2Excavator Lykron: §aДобрый день! Можешь ли ты помочь мне с моей проблемой?
 §7[2/2] §2Excavator Lykron: §aHmm, it seems you will be unable to help us. We need someone at least level 46.@§7[2/2] §2Excavator Lykron: §aХм, кажется, ты не сможешь нам помочь. Нам нужен кто-то как минимум 46 уровня.
-§7[1/1] §2Hallfred: §aI am glad everything is back to normal.@§7[1/1] §2Hallfred: §aЯ рад, что все вернулось на круги своя.
 §7[1/1] §2Twendle: §aGreetings traveller! I am on a personal quest, but I'm not sure you're any use to me. I doubt you can even enter the mansion. Come back when you are level 49.@§7[1/1] §2Twendle: §aПривет путешественник! Я тут ищу кое-что, но не уверен, что ты мне поможешь. Сомневаюсь, что ты сможешь войти в поместье. Возвращайся, когда будешь 49-го уровня.
 §7[1/1] §2Enkser: §aHey, have you found my §3[1 Stable Key]§a yet? It should be somewhere in this tunnel right there.@§7[1/1] §2Enkser: §aЭй, ты уже нашел мой §3[1 Ключ от конюшни]§a? Он должен быть где-то в этом туннеле.
 §7[1/1] §2Tesha: §aOh hey it's you! Wynn Excavation has its eye on you.@§7[1/1] §2Tesha: §aО, привет, это ты! Wynn Excavation следит за тобой.
-§7[1/1] §2Head Engineer: §aSorry, I'm not used to such a big mess, just follow the instructions I gave you.@§7[1/1] §2Head Engineer: §aИзвини, я не привык к такому большому беспорядку; просто следуй инструкциям, которые я тебе дал.
-§7[1/1] §2Zenam: §aThe system is self-repairing itself. This magical technology is remarkable, whoever designed this was amazing. I just wish they had left the blueprints somewhere where we could find them.@§7[1/1] §2Zenam: §aСистема сама себя ремонтирует. Эта волшебная технология изумительна и замечательна, кто бы ее ни конструировал. Я надеюсь, они оставили чертежи где-нибудь, чтобы мы могли их найти.
-§7[1/1] §2Zenam: §aYou can't be the expert we're expecting, we were told he was level 41. I'm afraid you will have to come back later.@§7[1/1] §2Zenam: §aТы не можешь быть тем экспертом, которого мы ожидаем; нам сказали, что он был 41-го уровня. Боюсь, тебе придется вернуться позже.
 §7[1/1] §2Vade: §aHey kid, can't you see I'm busy here? Come back when you're level 35.@§7[1/1] §2Vade: §aЭй, парень, разве ты не видишь я занят? Возвращайся, когда достигнешь 35 уровня.
 §7[1/1] §2Mylo: §aYour deeds bring me great relief! Thank you, my friend.@§7[1/1] §2Mylo: §aТвои поступки принесли мне огромное облегчение! Спасибо тебе, мой друг.
-§7[1/1] §2Lanu: §aI wrote down the coordinates in your questbook; shouldn't be hard to find!@§7[1/1] §2Lanu: §aЯ написала координаты в твоей квестовой книге; не сложно будет найти!
 §7[1/2] §2Flodur: §a'ello.@§7[1/2] §2Flodur: §aПривет.
 §7[2/2] §2Flodur: §aI 'heard the news. Glad ye were able to help out those people.@§7[2/2] §2Flodur: §aЯ слышал новости. Рад, что ты смог помочь этим людям.
 §7[1/1] §2Haily: §aThe world needs more people like you, so selfless.@§7[1/1] §2Haily: §aМиру нужно больше людей, вроде тебя, таких бескорыстных.
@@ -150,5 +132,4 @@
 §7[1/1] §2Laen: §aPlease, find the tower and the §3[1 Book of the Bones]§a and bring it back to me.@§7[1/1] §2Laen: §aПожалуйста, найди башню вместе с §3[1 Книгой костей]§a, и принеси ее мне.
 §7[1/1] §2Dado: §aWho are you? Look, I don't have time to chat. I have several shipments to get through.@§7[1/1] §2Dado: §aКто ты такой? Слушай, у меня нет времени болтать. Мне нужно перевезти несколько грузов.
 §7[1/1] §2Bandit: §aHeh... I forgot to mention the mummy, didn't I? Don't know how you made it out on your own.@§7[1/1] §2Bandit: §aХех... Я забыл упомянуть про мумию, не так ли? Не знаю, как ты там справился самостоятельно.
-§7[1/1] §2Detective Jackson: §aWhat to do, what to do!@§7[1/1] §2Detective Jackson: §aЧто же делать, что же делать!
 §7[1/1] §2Favian: §aWhat are you doing here? Be gone!@§7[1/1] §2Favian: §aЧто ты здесь делаешь? Уходи!
