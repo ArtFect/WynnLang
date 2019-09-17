@@ -90,3 +90,37 @@
 §7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Guard: §aВстань перед стеной и используй свое заклинание, кликнув §bПравая-Левая-Правая§a!
 §7[1/1] §2Tasim: §aHey, where are you going? We need you to use your spell on that boulder!@§7[1/1] §2Tasim: §aЭй, куда ты идешь? Нам нужно, чтобы ты использовал свое заклинание на этом валуне!
 §7[1/1] §2Guard: §aYou three should head on towards the castle.@§7[1/1] §2Guard: §aВы трое должны направиться к замку.
+§7[1/1] §2Aledar: §aDon't leave yet! I'd love to keep going, but first we need you to harvest §3[2 Wheat]§a for this guy.@§7[1/1] §2Aledar: §aНе уходи пока! Я бы с удовольствием продолжил, но сначала нам нужно, чтобы ты собрал §b[2 пшеницы]§a для этого парня.
+§7[1/1] §2Aledar: §aWhat are you doing? Don't go wandering off!@§7[1/1] §2Aledar: §aЧто ты делаешь? Не уходи далеко!
+§7[3/3] §2Aledar: §aUse §b1 string§a and §b2 wood§a to craft §3[1 Wand]§a and then show it to the guard.@§7[3/3] §2Aledar: §aИспользуй §b1 нитку§a и §b2 доски§a чтобы скрафтить §3[1 Посох]§a и затем покажи его охраннику.
+§7[1/1] §2Aledar: §aHurry up, you two! Get over here!@§7[1/1] §2Aledar: §aПобыстрее, вы двое! Идите сюда!
+§7[2/2] §2Aledar: §aUse it to make §3[2 Copper Ingots]§a and then show them to me. There's some ore nearby if you need any more.@§7[2/2] §2Aledar: §aИспользуй его, чтобы сделать себе §b[2 медных слитка]§a и затем покажи их мне. Здесь есть руда поблизости, если тебе понадобится еще.
+§7[2/3] §2Aledar: §aThe last thing we need to do is use this anvil to forge a weapon.@§7[2/3] §2Aledar: §aПоследнее, что нам нужно сделать – это использовать эту наковальню, чтобы выковать себе оружия.
+§7[3/3] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a to forge §3[1 Spear]§a and then show it to the guard.@§7[3/3] §2Aledar: §aИспользуй §b1 медный слиток§a и §b2 доски§a чтобы скрафтить §3[1 Копье]§a и затем покажи его охраннику.
+§7[3/3] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a to forge §3[1 Dagger]§a and then show it to the guard.@§7[3/3] §2Aledar: §aИспользуй §b2 медных слитка§a и §b1 доску§a чтобы скрафтить §3[1 Кинжал]§a и затем покажи его охраннику.
+§7[1/1] §2Aledar: §aDon't leave yet! I'd love to keep going, but first we need you to mine §3[2 Copper]§a for this guy.@§7[1/1] §2Aledar: §aНе уходи пока! Я бы с удовольствием продолжил, но сначала нам нужно, чтобы ты добыл §b[2 меди]§a для этого парня.
+§7[1/1] §2Aledar: §aWe're going to need to craft weapons. Follow me.@§7[1/1] §2Aledar: §aНам необходимо скрафтить оружия. Следуйте за мной.
+§7[1/1] §2Aledar: §aWhat are you doing? We're going the §a§oother§a way!@§7[1/1] §2Aledar: §aЧто ты делаешь? Мы идем в §a§oдругую§a сторону!
+§7[1/1] §2Tasim: §b§lRight-click§a on the old man to talk to him.@§7[1/1] §2Tasim: §b§lПравый клик§a по старику, чтобы поговорить с ним.
+§7[1/1] §2Tasim: §aHey, don't leave yet! Let's help out this guard.@§7[1/1] §2Tasim: §aЭй, не уходи пока! Давай поможем этому охраннику.
+§7[1/1] §2Tasim: §aHey, don't leave yet! We still need to check out the bridge!@§7[1/1] §2Tasim: §aЭй, не уходи пока! Нам нужно проверить мост!
+§7[1/1] §2Tasim: §aHey, don't leave yet! We still need to figure out a way across the gap.@§7[1/1] §2Tasim: §aЭй, не уходи пока! Нам по-прежнему нужно найти способ перебраться через ущелье.
+§7[1/1] §2Tasim: §aThe old man said something about the bridge being broken. Let's go and take a look.@§7[1/1] §2Tasim: §aСтарик сказал что-то о том, что мост сломан. Пойдем посмотрим.
+§7[1/1] §2Old Man: §aI left my scythe by the crops over yonder. Use it to harvest some wheat and bring it back here.@§7[1/1] §2Old Man: §aЯ оставил свою мотыгу у поля вон там. Используй ее, чтобы собрать немного пшеницы и принеси ее сюда.
+§7[1/1] §2Old Man: §aHarvest §3[2 Wheat]§a and then bring it to me.@§7[1/1] §2Old Man: §aСобери §b[2 Пшеницы]§a и принеси их мне.
+§7[5/5] §2Old Man: §aI left my pickaxe by the ore over yonder. Punch it and pick it up. Then mine §3[2 Copper Ore]§a and bring it back here.@§7[5/5] §2Old Man: §aЯ оставил свою кирку у залежи вон там. Ударь и подбери ее. Затем добудь §3[2 Медной руды]§a и принеси ее сюда.
+§7[1/1] §2Old Man: §aJust hit the pickaxe to pick it up. Then whack the ore with it to mine it!@§7[1/1] §2Old Man: §aПросто ударь кирку, чтобы подобрать ее. Затем нажми ей на руду, чтобы добыть ее!
+§7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that copper so you can get yourself kitted out.@§7[4/6] §2Old Man: §aОхранники сказали мне отправить тебя вперед с этой медью, чтобы ты смог снарядить себя.
+§7[1/1] §2Old Man: §aMine §3[2 Copper Ore]§a and then bring it to me.@§7[1/1] §2Old Man: §aДобудь §3[2 Медной руды]§a и принеси их мне.
+§7[8/8] §2Guard: §aNow, cast your Heal spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое Heal заклинание, кликнув §b§lПравая-Левая-Правая!§a
+§7[1/2] §2Guard: §aThat's done it! All healed up. Now let me take care of this.@§7[1/2] §2Guard: §aГотово! Все вылечены. Теперь дайте мне позаботиться об этом.
+§7[2/2] §2Guard: §aNow, you three should head on towards the castle.@§7[2/2] §2Guard: §aТеперь вы трое должны направиться к замку.
+§7[8/8] §2Guard: §aNow, cast your Bash spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое Bash заклинание, кликнув §b§lПравая-Левая-Правая§a!
+§7[8/8] §2Guard: §aNow, cast your Spin Attack spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое Spin Attack заклинание, кликнув §b§lПравая-Левая-Правая§a!
+§7[1/1] §2Guard: §aHalt! You can't enter the cave until you craft a weapon!@§7[1/1] §2Guard: §aСтоять! Вы не можете войти в пещеру, пока не скрафтите оружие!
+§7[8/8] §2Guard: §aNow, cast your Holy Blast spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое Holy Blast заклинание, кликнув §b§lПравая-Левая-Правая§a!
+§7[1/1] §2Guard: §aCast your spell by clicking §bLeft-Right-Left§a!@§7[1/1] §2Guard: §aИспользуй свое заклинание, кликнув §b§lЛевая-Правая-Левая§a!
+§7[1/1] §2Guard: §aHalt! Before you enter, show me your weapon by §b§lright-clicking§a on me!@§7[1/1] §2Guard: §aСтоять! Прежде чем войдешь, покажи мне свое оружие, §b§lкликнув§a на меня!
+§7[1/1] §2Guard: §aCast your spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Guard: §aИспользуй свое заклинание, кликнув §b§lПравая-Левая-Правая§a!
+§7[1/1] §2Guard: §aHey, you guys, the castle's this way!@§7[1/1] §2Guard: §aЭй, ребята, замок в той стороне!
+§7[8/8] §2Guard: §aNow, cast your Remedy spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое Remedy заклинание, кликнув §b§lПравая-Левая-Правая§a!
