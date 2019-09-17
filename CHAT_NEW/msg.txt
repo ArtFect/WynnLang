@@ -1005,7 +1005,10 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §4An invisible force pushes you back...@§4Невидимая сила толкает тебя назад...
 §4You haven't messaged anyone! Type /msg to do so.@§4Ты никому не писал! Напиши /msg для этого.
 §4This is not a §cArcher§4 weapon. You must use a §cbow.@§4Это не оружие дляa §cЛучника§4. Ты должен использовать §cлук.
-§4This is not a §cMage§4 weapon. You must use a §cstick.@§4Это не оружие дляa §cМага§4. Ты должен использовать §cпосох.
+§4This is not a §cMage§4 weapon. You must use a §cwand.@§4Это не оружие дляa §cМага§4. Ты должен использовать §cпосох.
+§4This is not a §cAssassin§4 weapon. You must use a §cshear.@§4Это не оружие дляa §cАссасина§4. Ты должен использовать §cкинжал.
+§4This is not a §cAssassin§4 weapon. You must use a §cdagger.@§4Это не оружие дляa §cАссасина§4. Ты должен использовать §cкинжал.
+§4This is not a §cWarrior§4 weapon. You must use a §cspear.@§4Это не оружие дляa §cВоина§4. Ты должен использовать §cкопье.
 §4/guild join §c[guild] §8-§6 Join a guild@§4/guild join §c[гильдия] §8-§6 Вступить в гильдию
 §4You need to find all of the discoveries in §cWynn Plains§4 before you can enter this area.@§4Тебе нужно найти все открытия в §Cwynn Plains§4, прежде чем ты сможешь войти в эту территорию.
 §4You need to find all of the discoveries in §cDesert§4 before you can enter this area.@§4Тебе нужно найти все открытия в §CПустыне§4, прежде чем ты сможешь войти в эту территорию.
