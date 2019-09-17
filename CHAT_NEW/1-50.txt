@@ -2,14 +2,6 @@
 §7[1/1] §2Jenprest: §aI fear we face a much worse enemy than a blocked drain..@§7[1/1] §2Jenprest: §aБоюсь, что мы столкнулись с более опасным врагом, чем засоренные трубы..
 §7[1/2] §2Enduyn: §aHere we go!@§7[1/2] §2Enduyn: §aПрекрасно!
 §7[2/2] §2Enduyn: §aNow head on in and finish off these pests!@§7[2/2] §2Enduyn: §aТеперь иди внутрь и прикончи этих паразитов!
-§7[1/1] §2Old Man: §aI left my scythe by the crops over yonder. Use it to harvest some wheat and bring it back here.@§7[1/1] §2Old Man: §aЯ оставил свою мотыгу у поля вон там. Используй ее, чтобы собрать немного пшеницы и принеси ее сюда.
-§7[1/1] §2Aledar: §aDon't leave yet! I'd love to keep going, but first we need you to harvest §3[2 Wheat]§a for this guy.@§7[1/1] §2Aledar: §aНе уходи пока! Я бы с удовольствием продолжил, но сначала нам нужно, чтобы ты собрал §b[2 пшеницы]§a для этого парня.
-§7[1/1] §2Old Man: §aHarvest §3[2 Wheat]§a and then bring it to me.@§7[1/1] §2Old Man: §aСобери §b[2 Пшеницы]§a и принеси их мне.
-§7[1/1] §2Aledar: §aWhat are you doing? Don't go wandering off!@§7[1/1] §2Aledar: §aЧто ты делаешь? Не уходи далеко!
-§7[3/3] §2Aledar: §aUse §b1 string§a and §b2 wood§a to craft §3[1 Wand]§a and then show it to the guard.@§7[3/3] §2Aledar: §aИспользуй §b1 нитку§a и §b2 доски§a чтобы скрафтить §3[1 Посох]§a и затем покажи его охраннику.
-§7[8/8] §2Guard: §aNow, cast your Heal spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое Heal заклинание, кликнув §b§lПравая-Левая-Правая!§a
-§7[1/2] §2Guard: §aThat's done it! All healed up. Now let me take care of this.@§7[1/2] §2Guard: §aГотово! Все вылечены. Теперь дайте мне позаботиться об этом.
-§7[2/2] §2Guard: §aNow, you three should head on towards the castle.@§7[2/2] §2Guard: §aТеперь вы трое должны направиться к замку.
 §7[1/1] §2The Cook: §aYou should practice your cooking, maybe one day you'll become a master chef like myself!@§7[1/1] §2The Cook: §aТы должен практиковать свое искусство кулинарии; быть может, в один прекрасный день ты станешь таким же шеф-поваром, как я!
 §7[1/1] §2Laen: §aThank you for your help!@§7[1/1] §2Laen: §aСпасибо за твою помощь!
 §7[1/1] §2Detective Jackson: §aI would kill them myself, if it wasn't for the treaty. If you help me, I can help you. Bring me §3[5 Axe Heads]§a from the Green, Red and Black Orc camps.@§7[1/1] §2Detective Jackson: §aZ бы убил их сам, если бы не договор. Если ты поможешь мне, я смогу помочь тебе. Принеси мне §3[5 лезвий топоров]§a из зеленого, красного и черного лагерей Орков.
@@ -20,14 +12,6 @@
 §7[1/1] §2Thomas: §aThanks again for your help. Now we can truly say creepers exist here in the ravines.@§7[1/1] §2Thomas: §aЕще раз спасибо за помощь. Теперь мы действительно можем сказать, что криперы существуют здесь, в оврагах.
 §7[1/1] §2Enduyn: §aI'm counting on you, soldier. Get some lava from the top of Mount Wynn! It's not far from here.@§7[1/1] §2Enduyn: §aЯ рассчитываю на тебя, солдат. Добудь немного лавы с вершины Mount Wynn! Это недалеко отсюда.
 §7[1/1] §2Enduyn: §aThink you can handle the spider queen on your own? Well, head inside and we'll find out!@§7[1/1] §2Enduyn: §aДумаешь, ты справишься с королевой пауков самостоятельно? Ну, иди внутрь, и мы узнаем!
-§7[1/1] §2Aledar: §aHurry up, you two! Get over here!@§7[1/1] §2Aledar: §aПобыстрее, вы двое! Идите сюда!
-§7[5/5] §2Old Man: §aI left my pickaxe by the ore over yonder. Punch it and pick it up. Then mine §3[2 Copper Ore]§a and bring it back here.@§7[5/5] §2Old Man: §aЯ оставил свою кирку у залежи вон там. Ударь и подбери ее. Затем добудь §b[2 Медной руды]§a и принеси ее сюда.
-§7[1/1] §2Old Man: §aJust hit the pickaxe to pick it up. Then whack the ore with it to mine it!@§7[1/1] §2Old Man: §aПросто ударь кирку, чтобы подобрать ее. Затем нажми ей на руду, чтобы добыть ее!
-§7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that copper so you can get yourself kitted out.@§7[4/6] §2Old Man: §aОхранники сказали мне отправить тебя вперед с этой медью, чтобы ты смог снарядить себя.
-§7[2/2] §2Aledar: §aUse it to make §3[2 Copper Ingots]§a and then show them to me. There's some ore nearby if you need any more.@§7[2/2] §2Aledar: §aИспользуй его, чтобы сделать себе §b[2 медных слитка]§a и затем покажи их мне. Здесь есть руда поблизости, если тебе понадобится еще.
-§7[2/3] §2Aledar: §aThe last thing we need to do is use this anvil to forge a weapon.@§7[2/3] §2Aledar: §aПоследнее, что нам нужно сделать – это использовать эту наковальню, чтобы выковать себе оружия.
-§7[3/3] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a to forge §3[1 Spear]§a and then show it to the guard.@§7[3/3] §2Aledar: §aИспользуй §b1 медный слиток§a и §b2 доски§a чтобы скрафтить §3[1 Копье]§a и затем покажи его охраннику.
-§7[8/8] §2Guard: §aNow, cast your Bash spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое Bash заклинание, кликнув §b§lПравая-Левая-Правая§a!
 §7[1/1] §2Ragni's King: §aOff you go, I've said everything I have to say.@§7[1/1] §2Ragni's King: §aУходи, я сказал все, что должен был сказать.
 §7[1/2] §2Therck: §aGo on, I don't have time for you. My brother keeps sending me people all the time.@§7[1/2] §2Therck: §aИди уже, у меня нет на тебя времени. Мой брат постоянно посылает людей ко мне.
 §7[2/2] §2Therck: §aThey keep coming expecting free stuff! What a cruel joke he is pulling on me...@§7[2/2] §2Therck: §aОни продолжают приходить, ожидая бесплатные вещи! Какую жестокую шутку он решил пошутить надо мной...
@@ -47,10 +31,6 @@
 §7[1/1] §2Lil: §aThank you for your help. Our hourglass is working better than ever!@§7[1/1] §2Lil: §aСпасибо за твою помощь. Наши песочные часы работают лучше, чем когда-либо!
 §7[1/1] §2General Graken: §aI'll do a spot of scouting ahead, and then meet you in there! I must admit this place does give me the habdabs though, wot wot?@§7[1/1] §2General Graken: §aЯ пока займусь разведкой здесь, а потом встречу тебя там! Должен признать, что это место меня немного пугает; а тебе как?
 §7[1/1] §2Svin: §aI hope you have learned much from your adventures, courageous traveler!@§7[1/1] §2Svin: §aНадеюсь, ты многому научился из своих приключений, отважный путешественник!
-§7[1/1] §2Tasim: §b§lRight-click§a on the old man to talk to him.@§7[1/1] §2Tasim: §a§b§lПравый клик§a по старику, чтобы поговорить с ним.
-§7[1/1] §2Old Man: §aMine §3[2 Copper Ore]§a and then bring it to me.@§7[1/1] §2Old Man: §aДобудь §b[2 Медной руды]§a и принеси их мне.
-§7[3/3] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a to forge §3[1 Dagger]§a and then show it to the guard.@§7[3/3] §2Aledar: §aИспользуй §b2 медных слитка§a и §b1 доску§a чтобы скрафтить §3[1 Кинжал]§a и затем покажи его охраннику.
-§7[8/8] §2Guard: §aNow, cast your Spin Attack spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое Spin Attack заклинание, кликнув §b§lПравая-Левая-Правая§a!
 §7[1/1] §2Gernald: §aDon't you just love fishing? The little waves in the river, the wind and the rewarding feeling when you catch something, those are my favorite things about it.@§7[1/1] §2Gernald: §aРазве ты не любишь рыбалку? Маленькие волны в реке, ветер и приятное чувство, когда ты что-то выловив - это мои любимые моменты.
 §7[1/2] §2The Cook: §aI urgently need help! But you aren't experienced enough to help me, yet.@§7[1/2] §2The Cook: §aМне срочно нужна помощь! Но у тебя еще недостаточно опыта, чтобы помочь мне.
 §7[2/2] §2The Cook: §aCome back as soon as you reach level 4.@§7[2/2] §2The Cook: §aВозвращайся, как только достигнешь 4 уровня.
@@ -64,7 +44,6 @@
 §7[1/1] §2Ragon: §aOh, it's you, nice to see you again. You know, the §c✹ Fire§a weapons almost burned down my tent, These elemental weapons are very powerful.@§7[1/1] §2Ragon: §aОх, это ты, рад снова тебя видеть. Знаешь, это оружие огня чуть не сожгло мою палатку. Эти элементальные оружия очень мощные.
 §7[6/6] §2Captain Kymer: §aYou can find the orcs in camps near the city or along the paths, I'm not sure exactly where they hide these days. Come back when you have the heads of Dolg, Visbe, and Elak.@§7[6/6] §2Captain Kymer: §aТы можешь найти орков в лагерях возле города, либо вдоль дорог. Я не уверен, где именно они прячутся сейчас. Возвращайся, когда у тебя будут головы Dolg'a, Visbe и Elak'a.
 §7[1/1] §2Omango: §aGlad to see you again!@§7[1/1] §2Omango: §aРад снова тебя видеть!
-§7[1/1] §2Tasim: §aHey, don't leave yet! Let's help out this guard.@§7[1/1] §2Tasim: §aЭй, не уходи пока! Давай поможем этому охраннику.
 §7[1/1] §2Farmer Cevalus: §aI thank you greatly for your actions. My crops should grow back soon!@§7[1/1] §2Farmer Cevalus: §aБлагодарю тебя за твои действия. Мой урожай должен скоро вырасти!
 §7[1/4] §2The Cook: §aI still need §3[2 Eggs]§a, §3[1 Milk]§a and §3[3 Unprocessed Wheat]§a.@§7[1/4] §2The Cook: §aМне все еще нужны §3[2 Яйца]§a, §3[1 Молоко]§a и §3[3 Необработанной пшеницы]§a.
 §7[2/4] §2The Cook: §aYou can get eggs at the ranch north of ragni, by killing some chickens.@§7[2/4] §2The Cook: §aТы можешь получить яйца на ранчо к северу от Ragni, убив несколько куриц.
@@ -123,12 +102,10 @@
 §7[1/1] §2Floormaster: §aWell done, adventurer, you have successfully completed this floor! You may proceed.@§7[1/1] §2Floormaster: §aОтличная работа, путешественник, ты успешно прошел этот этаж! Можешь проходить дальше.
 §7[1/1] §2Sergeant Klafson: §aI'm sorry, recruit, but that passage is blocked. We used to use it, but not anymore...@§7[1/1] §2Sergeant Klafson: §aИзвини, рекрут, но этот проход заблокирован. Мы использовали его раньше, но это было давно...
 §7[1/1] §2Orikal: §aDid you do what I asked? No? Check your quest book.@§7[1/1] §2Orikal: §aТы сделал то, что я просил? Нет? Проверь свою квестовую книгу.
-§7[1/1] §2Aledar: §aDon't leave yet! I'd love to keep going, but first we need you to mine §3[2 Copper]§a for this guy.@§7[1/1] §2Aledar: §aНе уходи пока! Я бы с удовольствием продолжил, но сначала нам нужно, чтобы ты добыл §b[2 меди]§a для этого парня.
 §7[1/1] §2Orikal: §aIt will take a while for these people to recover, so I'll stay here watching over them while they do.@§7[1/1] §2Orikal: §aЭто займет некоторое время, чтобы эти люди выздоровели, поэтому я пока останусь здесь наблюдать за ними, и смотреть, что они делают.
 §7[1/1] §2Merloni: §aIf you are too scared to go down there, I understand. Dealing with the souls of the dead isn't for everyone.@§7[1/1] §2Merloni: §aЕсли ты слишком напуган, чтобы пойти туда, я понимаю. Иметь дело с душами мертвых - это не для всех.
 §7[1/1] §2Leucsaa: §aHave you gotten §3[1 Leucsaa's Journal]§a yet from the mansion? I don't blame you, it's an udder nightmare!@§7[1/1] §2Leucsaa: §aТы уже достал из этого дома §3[1 журнал Leucsaa]§a? Я не виню тебя. Это просто кошмар!
 §7[1/1] §2Leucsaa: §aThank you for retrieving my journal from the mansion, I hope nobody else is tricked into buying this evil piece of property!@§7[1/1] §2Leucsaa: §aСпасибо, что забрал мой журнал из дома, надеюсь, никто больше не будет с помощью обмана покупать этот дьявольский кусок собственности!
-§7[1/1] §2Guard: §aHalt! You can't enter the cave until you craft a weapon!@§7[1/1] §2Guard: §aСтоять! Вы не можете войти в пещеру, пока не скрафтите оружие!
 §7[1/1] §2Nohno: §aSometimes I wish animals could respawn... hey! What are you doing here? Go away!@§7[1/1] §2Nohno: §aИногда мне хочется, чтобы животные могли возрождаться... Эй! Что ты здесь делаешь? Уходи!
 §7[1/3] §2Adventuring Mage: §aWhat business does a Ragni soldier have here? These are restricted grounds!@§7[1/3] §2Adventuring Mage: §aКакое дело здесь у солдата из Ragni? Это запретная территория!
 §7[2/3] §2Adventuring Mage: §aFinding Garoth's old camp? Yes, it's been said to be around here, but it's old, and the entrance has probably fallen apart.@§7[2/3] §2Adventuring Mage: §aИщешь старый лагерь Garoth'a? Ага. Говорят, что он был где-то здесь, но он старый, и вход в него, вероятно, уже завалило.
@@ -152,7 +129,6 @@
 §7[1/1] §2Almuj Bank Guard: §aHave you been reading the witness reports?@§7[1/1] §2Almuj Bank Guard: §aТы уже читал отчет свидетеля?
 §7[1/1] §2Yahya: §aI could r-really use a new spoon to eat my m-m-mushroom soup with. Maybe... yellow- no wait, black!@§7[1/1] §2Yahya: §aЯ действительно м-могу использовать новую ложку, чтобы есть мой г-г-грибной суп. Может... желтую- нет, подожди, черную!
 §7[1/1] §2Captain Enduyn: §aHey, be careful! You don't want to get stuck in those webs!@§7[1/1] §2Captain Enduyn: §aЭй, поосторожнее! Ты же не хочешь застрять в этой паутине!
-§7[1/1] §2Tasim: §aHey, don't leave yet! We still need to check out the bridge!@§7[1/1] §2Tasim: §aЭй, не уходи пока! Нам нужно проверить мост!
 §7[1/1] §2Captain Kymer: §aI wish you the best of luck in your travels.@§7[1/1] §2Captain Kymer: §aЖелаю тебе удачи в твоих путешествиях.
 §7[1/1] §2Fredris: §aHave you found the issue yet? I'm still waiting!@§7[1/1] §2Fredris: §aТы уже нашел проблему? Я все еще жду!
 §7[1/1] §2Calamaro: §aI wish we could have avoided this whole scenario.@§7[1/1] §2Calamaro: §aХотелось бы, чтобы мы избежали всей этой ситуации.
@@ -185,7 +161,6 @@
 §7[1/1] §2Nick: §aPlease, ask around for food. Any donation at all will help.@§7[1/1] §2Nick: §aПожалуйста, поспрашивай вокруг о еде. Любое пожертвование поможет нам.
 §7[1/1] §2Server: §aGet out before I call the guards!@§7[1/1] §2Server: §aУходи, пока я не вызвал охрану!
 §7[1/1] §2Squiddles: §aHave you seen that weird structure near the lake? I heard quite a lot of stories about it, but nobody is sure about what you can find there.@§7[1/1] §2Squiddles: §aТы уже видел это странное сооружение возле озера? Я слышал довольно много историй об этом, но никто не уверен в том, что можно там найти.
-§7[8/8] §2Guard: §aNow, cast your Holy Blast spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое Holy Blast заклинание, кликнув §b§lПравая-Левая-Правая§a!
 §7[1/1] §2Detective Jackson: §aTruth be told, I can see another Orc war on the horizon. They used to be so peaceful until the forest started to decay...@§7[1/1] §2Detective Jackson: §aПо правде говоря, я предвижу еще одну войну с орками уже скоро. Раньше они были такими спокойными, пока лес не начал заражаться...
 §7[1/1] §2Gernald: §aI wonder how Strato made that bait...@§7[1/1] §2Gernald: §aИнтересно, как Strato сделал эту приманку...
 §7[1/1] §2Fredris: §aAre you really trying to dive in that without the proper equipment?@§7[1/1] §2Fredris: §aТы действительно пытаешься погрузиться туда без надлежащей экипировки?
@@ -205,22 +180,16 @@
 §7[1/1] §2Nasea: §aOh no, these shipments don't add up at all.. Something is horribly wrong. Huh? Who are you? Go away, you won't be able to help me until you are level 49.@§7[1/1] §2Nasea: §aО нет, что-то вообще не складывается с этими поставками. Что-то точно не так. А? Кто ты такой? Уходи, ты не сможешь помочь мне, пока не достигнешь 49 уровня.
 §7[1/2] §2Jenprest: §aHello, I am a lieutenant in the Ragni army. I have a job for you soldier.@§7[1/2] §2Jenprest: §aПриветствую, я лейтенант армии Ragni. У меня есть работа для тебя, солдат.
 §7[2/2] §2Jenprest: §aWait, you aren't level 5 yet! Come back to me when you get stronger.@§7[2/2] §2Jenprest: §aМинутку, ты еще не достиг 5 уровня! Возвращайся ко мне, когда станешь сильнее.
-§7[1/1] §2Aledar: §aWe're going to need to craft weapons. Follow me.@§7[1/1] §2Aledar: §aНам необходимо скрафтить оружия. Следуйте за мной.
-§7[1/1] §2Guard: §aCast your spell by clicking §bLeft-Right-Left§a!@§7[1/1] §2Guard: §aИспользуй свое заклинание, кликнув §b§lЛевая-Правая-Левая§a!
 §7[1/1] §2Wedyf: §aWelcome back to our humble little town!@§7[1/1] §2Wedyf: §aДобро пожаловать снова в наш скромный городок!
 §7[1/1] §2Excavator Lykron: §aGo on now! Off you go! Remember to speak to my colleague at the bottom of the cave!@§7[1/1] §2Excavator Lykron: §aДавай, давай! Марш отсюда! И не забудь поговорить с моим коллегой на дне пещеры!
 §7[1/1] §2Achper: §aGlad to hear you came back alive! Those mummies aren't always easy, eh?@§7[1/1] §2Achper: §aРад слышать, что ты вернулся живым! Эти мумии не такие уж и легкие, да?
 §7[1/1] §2Nohno: §aHave you taken care of Cluckles yet? If you can't find him, I hid him in my basement.@§7[1/1] §2Nohno: §aТы уже позаботился о Cluckles'e? Если не можешь его найти, я спрятал его в подвале.
-§7[1/1] §2Tasim: §aHey, don't leave yet! We still need to figure out a way across the gap.@§7[1/1] §2Tasim: §aЭй, не уходи пока! Нам по-прежнему нужно найти способ перебраться через ущелье.
-§7[1/1] §2Guard: §aHalt! Before you enter, show me your weapon by §b§lright-clicking§a on me!@§7[1/1] §2Guard: §aСтоять! Прежде чем войдешь, покажи мне свое оружие, §b§lкликнув§a на меня!
 §7[1/2] §2Telvu: §aI'm trying to find a way to undo the curse blocking this entrance.@§7[1/2] §2Telvu: §aЯ пытаюсь найти способ снять это проклятие, блокирующее вход.
 §7[2/2] §2Telvu: §aYou can come help me when you're level 43@§7[2/2] §2Telvu: §aТы можешь прийти помочь мне, когда будешь 43 уровня
-§7[1/1] §2Guard: §aCast your spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Guard: §aИспользуй свое заклинание, кликнув §b§lПравая-Левая-Правая§a!
 §7[1/1] §2Tinemild: §aI haven't forgotten you. You may access the tower if you wish.@§7[1/1] §2Tinemild: §aЯ не забыл тебя. Ты можешь пройти в башню, если хочешь.
 §7[1/1] §2Reshad: §aWelcome to my farm! I'm currently preparing a large harvest for a big feast happening in Detlas soon.@§7[1/1] §2Reshad: §aДобро пожаловать на мою ферму! В настоящее время я готовлю крупный урожай для большого праздника, который будет в Detlas'e скоро.
 §7[1/1] §2Tinemild: §aCongratulations. You can now access the tower to purify your mind from your past mistakes.@§7[1/1] §2Tinemild: §aПоздравляю. Теперь ты можешь получить доступ к башне, чтобы очистить свой разум от прошлых ошибок.
 §7[1/1] §2Fredris: §aI need your help, come back to me when you are level 43! Also bring a §3[Breathing Helmet] §aif you can!@§7[1/1] §2Fredris: §aМне нужна твоя помощь, возвращайся ко мне, когда будешь 43 уровня! Также возьми с собой §3[шлем подводника]§a, если сможешь!
-§7[1/1] §2Tasim: §aThe old man said something about the bridge being broken. Let's go and take a look.@§7[1/1] §2Tasim: §aСтарик сказал что-то о том, что мост сломан. Пойдем посмотрим.
 §7[1/2] §2Orikal: §aI need §3[Unstable Corrupted Ore]§a, §3[Incendiary Fluid]§a, and §3[Switch Fuse] §ato create the explosive.@§7[1/2] §2Orikal: §aМне нужны §3[Нестабильная руда]§a, §3[Зажигательная жидкость]§a и §3[Переключатель с предохранителем]§a, чтобы создать взрывчатку
 §7[1/2] §2Brank: §aHow am I supposed to feed my family?@§7[1/2] §2Brank: §aКак мне прокормить мою семью?
 §7[2/2] §2Brank: §aI really need a Craftmas miracle...@§7[2/2] §2Brank: §aМне очень нужно Рождественское чудо...
@@ -234,7 +203,6 @@
 §7[1/1] §2Hallfred: §aI am glad everything is back to normal.@§7[1/1] §2Hallfred: §aЯ рад, что все вернулось на круги своя.
 §7[1/1] §2Twendle: §aGreetings traveller! I am on a personal quest, but I'm not sure you're any use to me. I doubt you can even enter the mansion. Come back when you are level 49.@§7[1/1] §2Twendle: §aПривет путешественник! Я тут ищу кое-что, но не уверен, что ты мне поможешь. Сомневаюсь, что ты сможешь войти в поместье. Возвращайся, когда будешь 49-го уровня.
 §7[1/1] §2Enkser: §aHey, have you found my §3[1 Stable Key]§a yet? It should be somewhere in this tunnel right there.@§7[1/1] §2Enkser: §aЭй, ты уже нашел мой §3[1 Ключ от конюшни]§a? Он должен быть где-то в этом туннеле.
-§7[1/1] §2Aledar: §aWhat are you doing? We're going the §a§oother§a way!@§7[1/1] §2Aledar: §aЧто ты делаешь? Мы идем в другую сторону!
 §7[1/1] §2Tesha: §aOh hey it's you! Wynn Excavation has its eye on you.@§7[1/1] §2Tesha: §aО, привет, это ты! Wynn Excavation следит за тобой.
 §7[1/1] §2Head Engineer: §aSorry, I'm not used to such a big mess, just follow the instructions I gave you.@§7[1/1] §2Head Engineer: §aИзвини, я не привык к такому большому беспорядку; просто следуй инструкциям, которые я тебе дал.
 §7[1/1] §2Zenam: §aThe system is self-repairing itself. This magical technology is remarkable, whoever designed this was amazing. I just wish they had left the blueprints somewhere where we could find them.@§7[1/1] §2Zenam: §aСистема сама себя ремонтирует. Эта волшебная технология изумительна и замечательна, кто бы ее ни конструировал. Я надеюсь, они оставили чертежи где-нибудь, чтобы мы могли их найти.
@@ -252,9 +220,7 @@
 §7[1/1] §2Santa: §aDon't worry about the crystal, I'll make sure it stays hidden and protected! Merry Christmas and thank you!@§7[1/1] §2Santa: §aНе беспокойся о кристалле, я позабочусь, чтобы он оставался в тайне и под защитой! Спасибо и Счастливого Рождества!
 §7[1/1] §2Rinire: §aMagnificent, Acromantula venom is really delicious!@§7[1/1] §2Rinire: §aВеликолепно, яд Acromantula очень-очень вкусный!
 §7[1/1] §2Laen: §aPlease, find the tower and the §3[1 Book of the Bones]§a and bring it back to me.@§7[1/1] §2Laen: §aПожалуйста, найди башню вместе с §3[1 Книгой костей]§a, и принеси ее мне.
-§7[1/1] §2Guard: §aHey, you guys, the castle's this way!@§7[1/1] §2Guard: §aЭй, ребята, замок в той стороне!
 §7[1/1] §2Dado: §aWho are you? Look, I don't have time to chat. I have several shipments to get through.@§7[1/1] §2Dado: §aКто ты такой? Слушай, у меня нет времени болтать. Мне нужно перевезти несколько грузов.
-§7[8/8] §2Guard: §aNow, cast your Remedy spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое Remedy заклинание, кликнув §b§lПравая-Левая-Правая§a!
 §7[1/1] §2Bandit: §aHeh... I forgot to mention the mummy, didn't I? Don't know how you made it out on your own.@§7[1/1] §2Bandit: §aХех... Я забыл упомянуть про мумию, не так ли? Не знаю, как ты там справился самостоятельно.
 §7[1/1] §2Detective Jackson: §aWhat to do, what to do!@§7[1/1] §2Detective Jackson: §aЧто же делать, что же делать!
 §7[1/1] §2Favian: §aWhat are you doing here? Be gone!@§7[1/1] §2Favian: §aЧто ты здесь делаешь? Уходи!
