@@ -84,6 +84,7 @@
 §d     -§7 Location: §fWynn Plains \[(.*)\]@§d     -§7 Локация: §fWynn Plains [(r1)]
 §d     -§7 Discoveries Found: §f(.*)@§d     -§7 Открытий Найдено: §f(r1)
 §d     -§7 Location: §fDesert \[(.*)\]@§d     -§7 Локация: §fПустыня [(r1)]
+§d     -§7 Location: §fCorkus \[(.*)\]@§d     -§7 Локация: §fCorkus [(r1)]
 §a(.*) quest items have been returned. @§a(r1) квестовых предметов было возвращено.
 §a(.*) quest items have been returned. There was not room for an additional (.*) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
 §b(.*)§3 has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@§b(r1)§3 Бросил §bДанж Бомбу§3! Каждый вход в данж бесплатен на следующие §b10 минут§3!
@@ -153,6 +154,9 @@
 §3\[§3WAR\]§c §c\[(.*)\] has lost the war!@§3[§3WAR]§c §c[(r1)] Проиграла битву!
 §3\[§3WAR\]§c §c\[(.*)\] mobs remain defending the region.@§3[§3WAR]§c §c[(r1)] мобов осталось защищать территорию.
 §3\[§3WAR\]§c §c(.*) emeralds were picked up and added to your guild bank.@§3[§3WAR]§c §c(r1) эмеральдов было подобрано и добавлено в банк вашей гильдии.
+§b(.*)§3 has placed a mob totem in §b(.*) §3at §b(.*)§3!@§b(r1)§3 поставил моб тотем в §b(r2) §3на §b(r3)§3!
+§3(.*) Mob Totem has run out. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3(r1) Моб Тотем закончился. Получи свой собственный моб тотем при покупке ранга, на §bwynncraft.com/store
+§7(.*)said thank you for supporting Wynncraft!@§7(r1) сказал тебе спасибо за поддержку Wynncraft!
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
