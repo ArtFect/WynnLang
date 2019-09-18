@@ -162,6 +162,15 @@
 §4You need §c(.*)§4 emeralds to unlock this page!@§4Тебе нужно §c(r1)§4 эмеральдов, чтобы разблокировать эту страницу!
 §3You have been invited to join §b(.*)§3 by §b(.*)§3! Type §b/guild join (.*)§3 to accept!@§3Ты получил приглашение от §b(r2)§3 присоединиться к §b(r1)§3! Напиши §b/guild join (r3)§3 для принятия!
 §3You have joined §b(.*)§3!@§3Ты присоединился к §b(r1)§3!
+§4(.*) is not a real guild.@§4(r1) гильдии не существует.
+(.*) has purchased (.*) mobs for (.*), costing (.*) emeralds.@§b(r1) купил (r2) мобов для (r3), заплатив (r4) эмеральдов.
+§c(.*) attacked (.*) owned by \[(.*)\]!@§c(r1) атаковал (r2) захваченную [(r3)]!
+§c\[(.*)\] has taken control of (.*)!@§c[(r1)] захватили контроль над (r2)!
+§b(.*) has invited (.*) to the guild.@§b(r1) пригласил (r2) в гильдию.
+§b(.*) has kicked (.*) from the guild@§b(r1) кикнул (r2) из гильдии
+§b(.*) has set (.*) guild rank from (.*) to (.*)@§b(r1) поменял ранг в гильдии (r2) с (r3) на (r4)
+§b(.*) has joined the guild! Say hello!@§b(r1) присоединился к гильдии! Скажите привет!
+§b(.*) has left the guild.@§b(r1) вышел из гильдии.
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
