@@ -172,6 +172,8 @@
 §b(.*) has joined the guild! Say hello!@§b(r1) присоединился к гильдии! Скажите привет!
 §b(.*) has left the guild.@§b(r1) вышел из гильдии.
 §e(.*) friends ((.*)): (.*)@§e(r1) друзья ((r2)): (r3)
+§e(.*) is not a friend! Type §6/friend list§e.@§e(r1) не является другом! Напиши §6/friend list§e.
+§e(.*) is already a friend! Type §6/friend list§e.@§e(r1) уже твой друг! Напиши §6/friend list§e.
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
