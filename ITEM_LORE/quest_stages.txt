@@ -115,6 +115,7 @@ QUESTS/A_Sandy_Scandal.txt
 §7Read the witness report @Прочитай отчет 
 §7Open the vault in the @§7Открой хранилище 
 §7basement [Code: 7812] @§7в подвале [Код: 7812] 
+§7Inspect the vault @§7Исследуй хранилище
 §7Find the source of the @§7Найди источник 
 §7detonation @§7взрыва 
 §7Look for signs of the @§7Ищи следы того, 
@@ -1873,7 +1874,7 @@ QUESTS/﻿Wrath_of_the_Mummy.txt =====
 §7Show proof of the death @§7Покажи доказательство смерти 
 §7of the Mummy to Ormrod @§7мумии Ormrod'у 
  
-QUESTS/WynnExcavation_Site_A.txt 
+QUESTS/WynnExcavation_Site_A.txt =====
 §7Speak to Excavator Vade at @§7Поговори с Excavator Vade на 
 §7[1150,54,-1771]@ 
 §7Bring the Ancient Writing to @§7Принеси Древний Текст 
@@ -1881,6 +1882,7 @@ QUESTS/WynnExcavation_Site_A.txt
 §7[1082,69,-1799]@ 
 §7Return to Excavator Vade with @§7Вернись к Excavator Vade 
 §7the translated writing @§7с переведенным текстом 
+§7Search the tombs @§7Обыщи гробницу
 §7Solve this riddle in the @§7Разгадай загадку в 
 §7tomb: "Throw tribute an item @§7гробнице: "Брось ценный предмет 
 §7to the wood that stands @§7на деревянную плиту, 
