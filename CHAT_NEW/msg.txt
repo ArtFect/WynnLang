@@ -2,7 +2,6 @@
 §cThe server is restarting in 1 second.@§cСервер перезагрузится через 1 секунду
 §cThe server is restarting@§cСервер перезагружается
 §bServer restarting!@§4Перезагрузка сервера!
-§6[Info] §7Use "/party create" and "/party invite [name]" to create a party with friends and get bonus XP! §fFor more information, visit §fwynncraft.com§f!@§6[§eИнфо§6] §7Используй "/party create" и "/party invite [name]" для создания пати с друзьями и получения бонусных XP! §fДля большей информации, посети §6wynncraft.com!
 §7[Quest Book Updated]@§7[Квестовая книга обновлена]
 §7The pillar seems very unstable...@§7Эта опора выглядит крайне нестабильно.
 §7What is this weird sound? It sounds like running water.@§7Что это за странный звук? Звучит как бегущая вода.
@@ -12,7 +11,6 @@
 §d            Rewards:@§d            Награда:
 §5As the sun rises, you feel a little bit safer...@§5С восходом солнца ты чувствуешь себя немного безопаснее...
 §d[+1 Soul Point]@§d[+1 Очко душ]
-§5[Info] §dPurchase crates for cosmetic items like Weapon Skins, Wybels, Particle Effects, Hats and much more! §5Visit §5store.wynncraft.com§5 for more!@§5[§dИнфо§5] §dПокупай контейнеры ради косметических вещей, например Скинов для оружия, Wybel'ов, Эффектов частиц, Шляп и многого другого! §fДля большей информации, посети §6wynncraft.com!
 §7A massive tremor suddenly rocks the hill, and a wave of despair washes over you. This feels somehow familiar...@§7Началась массивная тряска, неожиданно камни попадали с гор, и волна отчаяния накатила на тебя. Это выглядит как-то знакомо...
                            §7[Area Discovered]@                           §r§6[Открыта территория]
 §d     Info:@§d     Инфо:
@@ -20,7 +18,6 @@
 §eYou've been rocketed by the great web.@§7Ты был подброшен великой паутиной.
 §7This platform is surrounded by lava. You should collect some at the edge of it.@§7Эта платформа вся окружена лавой. Ты должен собрать немного на ее краю.
 §7This should be more than enough lava, you should report back to Captain Enduyn.@§7Этого количества лавы будет более чем достаточно, ты должен вернуться обратно к Captain Enduyn'у.
-§6[Info] §7Use "/friend add [name]" to add other players as friends! §fFor more information, visit §fwynncraft.com§f!@§6[§eИнфо§6] §7Используй "/friend add [name]" для добавления других игроков в друзья! §fДля большей информации, посети §6wynncraft.com!
 §d     -§7 Lore: §f§oThis hellish pit is being used by the cultists of the Kander Forest to summon the powerful demon, Naragath.@§d     -§r§7 Лор: §r§f§oЭта адская яма используется сектантами Kander леса, чтобы вызвать могущественного демона -  Naragath'a.
 §d     -§7 Lore: §f§oPure dark magic is all that exists in this magical trap, laid by a sadistic denizen from the Realm of Darkness.@§d     -§r§7 Лор: §r§f§oЧистая темная магия - это все, что существует в этой магической ловушке, сделанной садистским обитателем из царства Тьмы
 §7[Please empty some space in your inventory first]@§7[Пожалуйста, сначала освободи немного места в своем инвентаре]
@@ -194,14 +191,13 @@
 §4You can still hear an eerie howl flowing through the thin air and cold chill running through your veins.@§7Ты по-прежнему слышишь жуткий вой, протекающий через разреженный воздух и холодно проходящий по венам.
 §4More spirits are appearing as you walk through the cave.@§7Еще больше духов появляется по мере прохождения пещеры.
 §4You can feel your ear ringing as the banshee howls eeriely.@§7Ты чувствуешь, как звенят твои уши, когда Банши воет поблизости.
-§6[§eInfo§6] §7You can find Boss Altars in the world requiring ingredients to fight powerful bosses! They give you exclusive items and ingredients! §fFor more information, visit §fwynncraft.com§f!@§6[§eИнфо§6] §7Ты можешь найти босс алтари по всему миру, для битвы против которых нужны ингредиенты! Они дают эксклюзивные предметы и ингредиенты!§fДля большей информации, посети §6wynncraft.com!
 §5Powder Master: §dGreat doing business with you, adventurer. Come back any time!@§5Powder Master: §dС тобой приятно иметь дело, путешественник. Возвращайся в любое время!
 §7Open the gates of the cow pens to free them! Don't let the farmer see you!@§7Открой ворота в загонах коров, чтобы освободить их! Не позволяй фермеру увидеть себя!
 §7Looks like you freed the cows successfully. You should return back to Drale.@§7Похоже, ты успешно освободил коров. Тебе нужно вернуться к Drale.
 §7How long have you been helping this lunatic steal cows? you realize you should probably get back to Linton.@§7Как долго ты помогал этому сумасшедшему красть коров? Ты понимаешь, что тебе, вероятно, стоит вернуться к Linton'у.
 §4You hit an invisible barrier, but you don't see anything around anyways.@§7Ты уткнулся в невидимый барьер, но ты не видишь ничего вокруг, что тебя останавливает.
 §7You were caught! Try again!@§7Тебя поймали! Попробуй снова!
-§6[Info] §7Scared you'll accidentally drop your item? Try /itemlock! §fFor more information, visit §fwynncraft.com§f!@§4[Инфо] §cБоишься случайно выбросить свой предмет? Попробуй /itemlock! Для большей информации, посети §6wynncraft.com 
+
 §2                         [Mini-Quest Completed]@                         §2[Мини-Квест Пройден]
 §4You've already finished this Mini-Quest@§4Ты уже завершил этот мини-квест
 §7You successfully broke through the cobwebs.@§7Ты успешно пробрался через паутину
@@ -265,7 +261,7 @@
 §2§lmortal.@§aСмертным.
 §7This door appears to be locked. Perhaps a key could be used...@Похоже дверь заперта. Возможно, можно было бы использовать ключ...
 §d     -§7 Lore: §f§oThis road leads to the town of Ternaves and its nearby mine. It is inhabited by strange mushroom-cow hybrids, and a mysterious scientist.@§d     -§r§7 Лор: §r§f§oЭта дорога ведет к городку Ternaves и ближайшим шахтам. Здесь обитают странные гибриды грибных коров, а также таинственный ученый
-§6[Info] §7Notice somebody breaking the rules? Type "/report [name] [reason]" to anonymously report them! §fFor more information, visit §fwynncraft.com§f!@§6[§eИнфо§6] §7Заметил, что кто-то нарушает правила? Пиши "/report [ник] [причина] для анонимного репорта!§fДля большей информации, посети §6wynncraft.com!
+
 §7Your class has automatically been selected. Use /class to change your class, or /toggle autojoin to turn this feature off.@§7Твой класс был автоматически выбран. Напиши /class, чтобы сменить класс, или /toggle autojoin чтобы отключить эту функцию.
 §5Item Identifier: §dI can't identify this item! Only items with a §eunique§d, §5rare§d, §blegendary§d, and §aset§d tags can be identified.@§5Item Identifier: §dЯ не могу идентифицировать этот предмет! Только предметы с §eunique§d, §5rare§d, §blegendary§d, и §aset§d тэгами можно идентифицировать.
 §d     -§7 Lore: §f§oThis farm is most famous for its milk, though recently the cows that produce it have been going missing.@§d     -§r§7 Лор: §r§f§oЭта ферма наиболее известна своим молоком, хотя в последнее время коровы, которые его производят, начали пропадать.
@@ -282,7 +278,6 @@
 §7Seems like that note might give you a clue...@§7Похоже, что эта записка дала тебе зацепку...
 §7You should probably return to the tomb now.@§7Тебе лучше вернуться назад к данжу.
 §4As you approach the tomb, your fears become greater, and you decide to stay away from this place... for now...@§7Когда ты приближаешься к гробнице, твои страхи усиливаются, и ты решаешь держаться подальше от этого места... пока что...
-§6[Info] §7You can skip the class selection by typing "/toggle autojoin"! §fFor more information, visit §fwynncraft.com§f!@§6[§eИнфо§6] §7Ты можешь пропускать выбор класса командой /toggle autojoin!§fДля большей информации, посети §6wynncraft.com!
 §d     -§7 Lore: §f§oOlux is a poor town, one that has suffered the effects of the Decay, a force that has caused all of north-western Gavel to begin to wither.@§d     -§r§7 Лор: §r§f§oOlux - бедный город, который пострадал от последствий заражения - силы, которая заставила всю северо-западную часть Gavel'a начать увядать.
 §d     -§7 Lore: §f§oHundreds of years ago, the original stone city of Nemract was ravaged by a swarm of the undead. Now it is only inhabited by the corpses of those who died that day.@§d     -§r§7 Лор: §r§f§oСотни лет назад первоначально каменный город Nemract был разорен роем нежити. Сейчас его населяют только трупы погибших в тот день.
 §7The cannon cannot be fired in its current state. Looks like you'll need something to activate it.@Пушка не может быть запущена в ее текущем состоянии. Похоже тебе понадобится что-то, чтобы активировать ее.
@@ -657,9 +652,6 @@ To repair the mechanical core, select a color and connect the clay with the same
 §cA strange time force pushes you away.@§cСтранная сила времени отталкивает тебя.
 §7You should tell Grandon about your discoveries.@§7Ты должен рассказать Grandon'у о своих находках
 §4This path looks shaky and dangerous...@§7Этот путь выглядит ненадежным и опасным...
-§6[Info] §7Stuck? Use /kill to slay yourself for 2 Soul Poits! §fFor more information, visit §fwynncraft.com§f!@§6[§eИнфо§6] §7Застрял? Используй команду /kill, чтобы убить себя за 2 Soul Point'a!§fДля большей информации, посети §6wynncraft.com!
-§6[Info] §7Low tier items are a great source of scrap! §fFor more information, visit §fwynncraft.com§f!@§6[§eИнфо§6] §7Предметы низких уровней - это отличный источник скрапа! §fДля большей информации, посети §6wynncraft.com!
-§6[Info] §eStay up to date with Wynncraft on our official discord at §6discord.gg/ccZPK8Z§e!@§6[§eИнфо§6] §eОбщайся с другими игроками в нашем русскоязычном Discord'е §6http://discord.gg/QukGp6a
 §7§oThe voice of the past echoes on the wind...@§7Голос прошлого перекликается с ветром...
 §7Towers Found: §f4/4@§fБашен найдено: §74/4
 §d     -§7 About Discovery: §f§oFrom the watch towers set up across the province, scouts were able to spot an incoming horde from miles away, helping to prepare for countless battles.@§d     -§r§7Об открытии: §r§f§oСо смотровых башен, расставленных по провинции, скауты могли сообщить о приближающейся толпе монстров заранее, чтобы армия могла лучше подготовиться к битве 
