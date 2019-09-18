@@ -106,6 +106,7 @@
 §eParty members: §b(.*), §f(.*)@§eУчастники пати: §b(r1), §f(r2)
 §eYou have been invited to join (.*) party.@§eТы был приглашен присоединиться к (r1) пати.
 §eType the command §6\/party join (.*)§e to join!@§eНапиши команду §6/party join (r1)§e чтобы присоединиться!
+§e(.*) has left the party.@§e(r1) покинул пати.
 §b(.*)§3 has used a §bSoul Point Bomb§3 and given you §b\[\+2 Soul Points\]@§b(r1)§3 использовал §bSoul Point Бомбу§3 и дал тебе §b[+2 Soul Point'а]
 §3You are inside of §b(.*)§3 mob totem. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3Ты внутри §b(r1)§3 моб тотема. Получи свой моб тотем при покупке ранга на §bwynncraft.com/store
 §4You cannot afford that! Removing powders from all items will cost (.*)@§4Ты не можешь себе этого позволить! Удаление порошков из всех предметов будет стоить (r1)
@@ -157,6 +158,10 @@
 §b(.*)§3 has placed a mob totem in §b(.*) §3at §b(.*)§3!@§b(r1)§3 поставил моб тотем в §b(r2) §3на §b(r3)§3!
 §3(.*) Mob Totem has run out. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3(r1) Моб Тотем закончился. Получи свой собственный моб тотем при покупке ранга, на §bwynncraft.com/store
 §7(.*)said thank you for supporting Wynncraft!@§7(r1) сказал тебе спасибо за поддержку Wynncraft!
+§eYour account has already been linked to (.*).@§eТвоя учетная запись уже была привязана к (r1).
+§4You need §c(.*)§4 emeralds to unlock this page!@§4Тебе нужно §c(r1)§4 эмеральдов, чтобы разблокировать эту страницу!
+§3You have been invited to join §b(.*)§3 by §b(.*)§3! Type §b/guild join (.*)§3 to accept!@§3Ты получил приглашение от §b(r2)§3 присоединиться к §b(r1)§3! Напиши §b/guild join (r3)§3 для принятия!
+§3You have joined §b(.*)§3!@§3Ты присоединился к §b(r1)§3!
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
