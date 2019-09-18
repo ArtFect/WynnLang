@@ -171,6 +171,7 @@
 §b(.*) has set (.*) guild rank from (.*) to (.*)@§b(r1) поменял ранг в гильдии (r2) с (r3) на (r4)
 §b(.*) has joined the guild! Say hello!@§b(r1) присоединился к гильдии! Скажите привет!
 §b(.*) has left the guild.@§b(r1) вышел из гильдии.
+§e(.*) friends ((.*)): (.*)@§e(r1) друзья ((r2)): (r3)
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
