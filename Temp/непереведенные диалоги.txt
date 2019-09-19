@@ -5,6 +5,7 @@
 §7Dogun Chieftain: §aThank you... again, soldier. For helping us make... peace.@§2Dogun Chieftain: §aСпасибо тебе снова...солдат. Что помог нам достичь...мира.
 
 §7???: Finally, I thought he'd never leave. Come on in!@§7???: Наконец-то. Я думал, что он никогда не уйдет. Ты можешь зайти!
+
 §2Summoner: §aDo you think you can escape that easily? Hah! Come here and fight, fool!@§2Summoner: §aТы думаешь, что можешь сбежать так легко? Ха! Иди сюда и сражайся, глупец!
 
 §7[1/3] §2Selchar Citizen: §aThere is an old mining colony up north in Maro Peaks, but it’s been abandoned now and all that is left are the sheep and rams.@§7[1/3] §2Selchar Citizen: §aЕсть старая добывающая колония на севере на Maro Peaks, но теперь она заброшена, и все, что осталось - это овцы и бараны.
@@ -18,19 +19,26 @@
 §7[12/23] §4Demon: §cMOAHAHAHA. WE WILL KILL ALL OF YOU.@§7[12/23] §4Demon: §cМУАХАХХАХА. МЫ ВАС ВСЕХ УБЬЕМ.
 §7[15/23] §4Demon: §cYOU CANNOT BEAT US, WE CAN SUMMON DRAGONS WITH OUR MAGIC.@§7[15/23] §4Demon: §cВЫ НЕ СМОЖЕТЕ ПОБЕДИТЬ НАС, МЫ МОЖЕМ ПРИЗЫВАТЬ ДРАКОНОВ С ПОМОЩЬЮ НАШЕЙ МАГИИ.
 
-§7[1/3] §2Rausan: §aThe pond across the bridge has always enchanted oneself.@
-§7[2/3] §2Rausan: §aThe lily pads seem to have a soul of their own. It looks like they are trying to form a pattern.
-§7[3/3] §2Rausan: §aBotanical magic has always captured elf kind. We are masters of flowers, and enchanters of vegetation. Plant life has a magic like no other.
-§7[1/1] §2Corrupted Arakadicus: §aAh, the main course has arrived. You look so good, I think I'll have a taste of you myself!
-§7[1/2] §2Seaskipper Captain: §aWe're headin' towards the Durum Isles. If farmin' is your thing, there's no better place to go!
-§7[2/2] §2Seaskipper Captain: §aBut if you're interested in explorin', I heard there's somethin' interestin' in the barn...
-§7[1/1] §2Major: §aThank goodness that shape-shifter has been dealt with, hopefully things will begin to return around here very soon!
-§7[1/1] §2Private: §aI'm glad the real General Lecade is back. I'll still be here to blow up that wall if I'm ever needed, though!
-§7[3/7] §2Hive Servant: §aDepending on the division you have cleared, you may redeem your voucher for different prizes, and you may exchange a prize for another voucher within this Hive Exchange.
-§7[3/3] §2Ahmsord Citizen: §aThere's an entire island filled with wild Wybels on the lower level of the skylands. It's rather tricky to get to, though.
-§7[10/13] §2Batelu: §aBut I can. I know how to open the passage to Bob. This is where the animals will come in useful...  
-§7[1/1] §2Plario: §aTo the §acaverns...with§a us.
-§7[1/1] §2Axelus: §aTry to destroy each machine. Stone is used for ammo while tnt will blow up the machine. Good luck!
+§7[1/3] §2Rausan: §aThe pond across the bridge has always enchanted oneself.@§7[1/3] §2Rausan: §aЭтот пруд за мостом всегда очаровывал.
+§7[2/3] §2Rausan: §aThe lily pads seem to have a soul of their own. It looks like they are trying to form a pattern.@§7[2/3] §2Rausan: §aКувшинки, кажется, имеют свою собственную душу. Похоже, они пытаются сформировать шаблон.
+§7[3/3] §2Rausan: §aBotanical magic has always captured elf kind. We are masters of flowers, and enchanters of vegetation. Plant life has a magic like no other.@§7[3/3] §2Rausan: §aБотаническая магия всегда захватывала эльфийский вид. Мы - мастера цветов и чародеи растительности. Растительная жизнь обладает магией, как никакая другая.
+
+§7[1/1] §2Corrupted Arakadicus: §aAh, the main course has arrived. You look so good, I think I'll have a taste of you myself!@§7[1/1] §2Corrupted Arakadicus: §aАх, основное блюдо прибыло. Ты так хорошо выглядишь, думаю, я сама попробую тебя!
+
+§7[1/2] §2Seaskipper Captain: §aWe're headin' towards the Durum Isles. If farmin' is your thing, there's no better place to go!@§7[1/2] §2Seaskipper Captain: §aМы направляемся прямиком к Durum Isles. Если фермерство - это твоя страсть, то лучшего места нет!
+§7[2/2] §2Seaskipper Captain: §aBut if you're interested in explorin', I heard there's somethin' interestin' in the barn...@§7[2/2] §2Seaskipper Captain: §aНо если тебе интересно исследовать, я слышал, что в сарае есть кое-что интересное...
+
+§7[1/1] §2Major: §aThank goodness that shape-shifter has been dealt with, hopefully things will begin to return around here very soon!@§7[1/1] §2Major: §aСлава богу, что с этим оборотнем уже разобрались, надеюсь, все начнут возвращаться сюда очень скоро!
+§7[1/1] §2Private: §aI'm glad the real General Lecade is back. I'll still be here to blow up that wall if I'm ever needed, though!@§7[1/1] §2Private: §aРад, что настоящий генерал Lecade вернулся. Я все еще буду здесь, чтобы взорвать эту стену, если я когда-нибудь понадоблюсь!
+
+§7[3/7] §2Hive Servant: §aDepending on the division you have cleared, you may redeem your voucher for different prizes, and you may exchange a prize for another voucher within this Hive Exchange.@§7[3/7] §2Hive Servant: §aВ зависимости от зачищенного тобой дивизиона, ты можешь обменять ваучер на различные призы, либо же обменять приз на другой ваучер в Обменнике Улья.
+
+§7[3/3] §2Ahmsord Citizen: §aThere's an entire island filled with wild Wybels on the lower level of the skylands. It's rather tricky to get to, though.@§7[3/3] §2Ahmsord Citizen: §aНа нижнем уровне летающих островов есть целый остров, наполненный дикими Wybel'ами. Хотя, туда немного сложно добраться.
+
+§7[10/13] §2Batelu: §aBut I can. I know how to open the passage to Bob. This is where the animals will come in useful... @§7[10/13] §2Batelu: §aНо я могу это сделать. И знаю, как открыть проход к Bob'у. Вот где эти животные пригодятся...
+
+§7[1/1] §2Plario: §aTo the §acaverns...with§a us.@§7[1/1] §2Plario: §aК пещерам...с нами.
+§7[1/1] §2Axelus: §aTry to destroy each machine. Stone is used for ammo while tnt will blow up the machine. Good luck!@
 §7[1/2] §2King of Rodoroc: §aLeave now and I won't send the Dwarven army on you. You don't want to get hunted like the Doguns, do you?
 §7[2/2] §2King of Rodoroc: §aAnd Axelus, leave the city. You are no longer my son.
 §7[1/1] §2Reder: §aA new face is always welcome in Eltom.
