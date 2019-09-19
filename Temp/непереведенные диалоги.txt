@@ -38,23 +38,28 @@
 §7[10/13] §2Batelu: §aBut I can. I know how to open the passage to Bob. This is where the animals will come in useful... @§7[10/13] §2Batelu: §aНо я могу это сделать. И знаю, как открыть проход к Bob'у. Вот где эти животные пригодятся...
 
 §7[1/1] §2Plario: §aTo the §acaverns...with§a us.@§7[1/1] §2Plario: §aК пещерам...с нами.
-§7[1/1] §2Axelus: §aTry to destroy each machine. Stone is used for ammo while tnt will blow up the machine. Good luck!@
-§7[1/2] §2King of Rodoroc: §aLeave now and I won't send the Dwarven army on you. You don't want to get hunted like the Doguns, do you?
-§7[2/2] §2King of Rodoroc: §aAnd Axelus, leave the city. You are no longer my son.
-§7[1/1] §2Reder: §aA new face is always welcome in Eltom.
-§7[1/1] §2Nichye: §aAre you new here? You don't seem familiar.
-§7[1/1] §2Sybeth: §aHave you visited Lumilda's bakery? Trust me, no one in all four provinces makes better apple pies than her.
-§7[1/1] §2Lumilda: §aAh, it's always nice to see a new face around here.
-§7[1/1] §2Hilan: §aOnly the airbase employees are allowed in the airbase.
-§7[1/1] §2Security Bot N4T17: §aYou need to be level 89 and have a key to enter...
-§7[1/1] §2Security Bot N4T17: §aWelcome inside...
-§7[3/7] §2Maxie: §aThe idea was that both species had equal roles in the factory's operations.
-§7[4/7] §2Maxie: §aWe need those keys to get in and shut down the factory once more.
-§7[7/7] §2Maxie: §aFortunately there is a catapult that can help us in a village north-west of here. Let's meet there.
-§7[1/1] §2Maxie: §aWe need to stop the Factory, now!
-§7[1/1] §2Chief Avos: §aJust follow the road to the north to find my friend. Watch out, she doesn't like humans much.
-§7[1/1] §2Grandmaster Shaman: §aCan't you humans see I'm meditating?
-§7[1/1] §2Maxie: §aWe have everything we need. Let's get to the factory! Follow the road to the northwest, it's just south of the city.
+
+§7[1/2] §2King of Rodoroc: §aLeave now and I won't send the Dwarven army on you. You don't want to get hunted like the Doguns, do you?@§7[1/2] §2King of Rodoroc: §aУходи сейчас же, и я не пошлю на тебя армию гномов. Ты же не хочешь, чтобы на тебя охотились, как на Dogun'ов?
+§7[2/2] §2King of Rodoroc: §aAnd Axelus, leave the city. You are no longer my son.@§7[2/2] §2King of Rodoroc: §aИ Axelus, покинь город. Ты больше не мой сын.
+
+§7[1/1] §2Axelus: §aTry to destroy each machine. Stone is used for ammo while tnt will blow up the machine. Good luck!@§7[1/1] §2Axelus: §aПостарайся уничтожить каждую машину. Используй камень для боеприпасов, а динамит, чтобы взорвать машину. Удачи!
+
+§7[1/1] §2Reder: §aA new face is always welcome in Eltom.@§7[1/1] §2Reder: §aНовые лица всегда приветствуются в Eltom'е.
+§7[1/1] §2Nichye: §aAre you new here? You don't seem familiar.@§7[1/1] §2Nichye: §aТы здесь новенький? Ты не кажешься мне знакомым.
+§7[1/1] §2Sybeth: §aHave you visited Lumilda's bakery? Trust me, no one in all four provinces makes better apple pies than her.@§7[1/1] §2Sybeth: §aТы уже бывал в булочной Lumild'ы? Поверь мне, никто во всех четырех провинциях не делает лучше яблочных пирогов, чем она.
+§7[1/1] §2Lumilda: §aAh, it's always nice to see a new face around here.@§7[1/1] §2Lumilda: §aОх, всегда приятно видеть здесь новое лицо.
+§7[1/1] §2Hilan: §aOnly the airbase employees are allowed in the airbase.@§7[1/1] §2Hilan: §aТолько сотрудники авиабазы допускаются на авиабазу.
+
+§7[1/1] §2Security Bot N4T17: §aYou need to be level 89 and have a key to enter...@§7[1/1] §2Security Bot N4T17: §aТы должен быть 89 уровня и иметь ключ для входа...
+§7[1/1] §2Security Bot N4T17: §aWelcome inside...@§7[1/1] §2Security Bot N4T17: §aДобро пожаловать внутрь...
+§7[3/7] §2Maxie: §aThe idea was that both species had equal roles in the factory's operations.@§7[3/7] §2Maxie: §aИзначально все было задумано так, чтобы обе расы имели равные роли на фабрике.
+§7[4/7] §2Maxie: §aWe need those keys to get in and shut down the factory once more.@§7[4/7] §2Maxie: §aНам нужны эти ключи, чтобы пробраться внутрь и еще раз остановить фабрику.
+§7[7/7] §2Maxie: §aFortunately there is a catapult that can help us in a village north-west of here. Let's meet there.@§7[7/7] §2Maxie: §aК счастью есть катапульта, которая может нам помочь, в деревне на северо-западе отсюда. Давай встретимся там.
+§7[1/1] §2Maxie: §aWe need to stop the Factory, now!@§7[1/1] §2Maxie: §aНам нужно остановить фабрику, сейчас же! 
+§7[1/1] §2Chief Avos: §aJust follow the road to the north to find my friend. Watch out, she doesn't like humans much.@§7[1/1] §2Chief Avos: §aПросто следуй по дороге на север, чтобы найти моего друга. Берегись, она не очень любит людей.
+§7[1/1] §2Grandmaster Shaman: §aCan't you humans see I'm meditating?@§7[1/1] §2Grandmaster Shaman: §aРазве ты, человек, не видишь, что я медитирую?
+§7[1/1] §2Maxie: §aWe have everything we need. Let's get to the factory! Follow the road to the northwest, it's just south of the city.@§7[1/1] §2Maxie: §aУ нас есть все, что нам нужно. Идем к фабрике! Следуй по дороге на северо-запад, это к югу от города.
+
 §7[2/2] §2????: §aEXCEPT FOR YOU OF COURSE. BUT YOU'RE ABOUT TO DIE ANYWAY. SO THAT HARDLY MATTERS.
 §7[1/4] §2????: §a§oActivating Main Production Line.
 §7[2/4] §2????: §aSINCE YOU SEEM TO BE INSISTENT ON STAYING, PERHAPS YOU WOULD BE INTERESTED IN TAKING A LOOK AT SOME OF THE MACHINERY CLOSE UP.
