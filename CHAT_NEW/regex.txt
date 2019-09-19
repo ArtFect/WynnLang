@@ -111,7 +111,7 @@
 §3You are inside of §b(.*)§3 mob totem. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3Ты внутри §b(r1)§3 моб тотема. Получи свой моб тотем при покупке ранга на §bwynncraft.com/store
 §4You cannot afford that! Removing powders from all items will cost (.*)@§4Ты не можешь себе этого позволить! Удаление порошков из всех предметов будет стоить (r1)
 §4You cannot afford that! Adding these powders will cost (.*)@§4Ты не можешь себе этого позволить! Добавление порошков на предмет будет стоить (r1)
-(.*) You are now combat level (.*)@§e                      Ты достиг (r1) комбат уровня
+(.*) You are now combat level (.*)@§e                      Ты достиг (r2) комбат уровня
 §7\[Daily Rewards: §a(.*) emeralds§7 and §b(.*) items§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7 и §b(r2) предмета§7]
 (.*) has logged into server (.*) as §ba (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
 (.*) has logged into server (.*) as §ban (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
