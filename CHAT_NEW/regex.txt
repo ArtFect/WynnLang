@@ -156,10 +156,10 @@
 §3\[§3WAR\]§c §c\[(.*)\] mobs remain defending the region.@§3[§3WAR]§c §c[(r1)] мобов осталось защищать территорию.
 §3\[§3WAR\]§c §c(.*) emeralds were picked up and added to your guild bank.@§3[§3WAR]§c §c(r1) эмеральдов было подобрано и добавлено в банк вашей гильдии.
 §3\[§3WAR\]§c §cThe war for (.*) is not responding.@§3[§3WAR]§c §cБитва за (r1) не отвечает.
-(.*)§fMost Damage Done: §b(.*) \((.*)\)@              §fБольше нанес урона: §b(r2) ((r3))
-(.*)§fMost Damage Taken: §b(.*) \((.*)\)@                  §fБольше получил урона: §b(r2) ((r3))
-(.*)§fMost Damage Healed: §b(.*) \((.*)\)@             §fБольше урона вылечил: §b(r2) ((r3))
-(.*)§fMost Mobs Killed: §b(.*) \((.*)\)@                     §fБольше убил мобов: §b(r2) ((r3))
+(.*)§fMost Damage Done: §b(.*) \((.*)\)@(r1)§fБольше нанес урона: §b(r2) ((r3))
+(.*)§fMost Damage Taken: §b(.*) \((.*)\)@(r1)§fБольше получил урона: §b(r2) ((r3))
+(.*)§fMost Damage Healed: §b(.*) \((.*)\)@(r1)§fБольше урона вылечил: §b(r2) ((r3))
+(.*)§fMost Mobs Killed: §b(.*) \((.*)\)@(r1)§fБольше убил мобов: §b(r2) ((r3))
 §b(.*)§3 has placed a mob totem in §b(.*) §3at §b(.*)§3!@§b(r1)§3 поставил моб тотем в §b(r2) §3на §b(r3)§3!
 §3(.*) Mob Totem has run out. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3(r1) Моб Тотем закончился. Получи свой собственный моб тотем при покупке ранга, на §bwynncraft.com/store
 §7(.*)said thank you for supporting Wynncraft!@§7(r1) сказал тебе спасибо за поддержку Wynncraft!
