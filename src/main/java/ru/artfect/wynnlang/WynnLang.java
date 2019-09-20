@@ -30,7 +30,6 @@ import ru.artfect.wynnlang.command.WynnLangCommand;
 
 @Mod(modid = WynnLang.MOD_ID, name = WynnLang.NAME, version = WynnLang.VERSION)
 public class WynnLang {
-		QUEST, // TODO: Перенести в CHAT_NEW
     public static final String VERSION = "1.5";
     public static final String MOD_ID = "wynnlang";
     public static final String NAME = "WynnLang";
