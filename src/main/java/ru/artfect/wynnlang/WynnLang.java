@@ -27,7 +27,7 @@ import ru.artfect.wynnlang.command.WynnLangCommand;
 
 @Mod(modid = WynnLang.MOD_ID, name = WynnLang.NAME, version = WynnLang.VERSION)
 public class WynnLang{
-	public static final String VERSION = "1.4";
+	public static final String VERSION = "1.5";
 	public static final String MOD_ID = "wynnlang";
 	public static final String NAME = "WynnLang";
 	
@@ -52,7 +52,6 @@ public class WynnLang{
 	public enum MessageType {
 		CHAT,    //TODO: Перенести в CHAT_NEW
 		QUEST,   //TODO: Перенести в CHAT_NEW
-		BOOK,	 //TODO: Объединить с ITEM_LORE
 		ITEM_LORE,
 		ITEM_NAME,
 		ENTITY_NAME,
@@ -105,13 +104,11 @@ public class WynnLang{
             		loadt = 2;
             	} else if(type == MessageType.QUEST){
             		loadt = 1;
-            	} else if(type == MessageType.BOOK){
-            		loadt = 2;
             	}
             	HashMap map = common.get(type);
             	loadFile(type.name() + "/" + line, map, loadt);
             }
-            if(type != MessageType.BOOK && type != MessageType.QUEST) loadFile(type.name() + "/regex.txt", regex.get(type), 3);
+            if(type != MessageType.QUEST) loadFile(type.name() + "/regex.txt", regex.get(type), 3);
     	} catch (IOException e) {
 			e.printStackTrace();
 		}

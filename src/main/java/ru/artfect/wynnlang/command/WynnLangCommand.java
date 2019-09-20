@@ -106,8 +106,9 @@ public class WynnLangCommand implements ICommand {
 
 	@Override
 	public List<String> getTabCompletions(MinecraftServer server, ICommandSender sender, String[] args, BlockPos targetPos) {
-		return null;
+		List l = new ArrayList<String>();
+		l.add("toggle");
+		l.add("log");
+		return l;
 	}
-
-    
 }

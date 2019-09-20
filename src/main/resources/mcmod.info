@@ -3,7 +3,7 @@
   "name": "WynnLang",
   "authorList": ["Gegaba", "Fiw"],
   "url": "https://vk.com/wynncraft_ru",
-  "version": "1.4",
+  "version": "1.5",
   "logoFile": "logo.png",
   "dependencies": ["wynntils"]
 }]

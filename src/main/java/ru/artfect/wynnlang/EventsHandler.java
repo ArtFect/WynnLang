@@ -39,11 +39,10 @@ import ru.artfect.wynnlang.WynnLang.MessageType;
 public class EventsHandler {
 	@SubscribeEvent
     public void onMessage(ClientChatReceivedEvent e){
-    	if(e.getType() == ChatType.GAME_INFO || !WynnLang.onWynncraft) return;
+    	if(e.getType() == ChatType.GAME_INFO || !WynnLang.onWynncraft || !WynnLang.enabled) return;
     	ITextComponent rawMsg = e.getMessage();
     	String message = rawMsg.getFormattedText();
-    	if(!WynnLang.enabled) return;
-    	String replace = WynnLang.findReplace(MessageType.CHAT_NEW, message);
+    	String replace = WynnLang.findReplace(MessageType.CHAT_NEW, message.replace("§r", ""));
     	if(replace != null){
     		if(!replace.isEmpty()) e.setMessage(new TextComponentString(replace));
     		return;
@@ -75,7 +74,8 @@ public class EventsHandler {
 	
     @SubscribeEvent
     public void joinServer(FMLNetworkEvent.ClientConnectedToServerEvent e) {
-    	if(!WynnLang.mc.isSingleplayer() && WynnLang.mc.getCurrentServerData() != null && Objects.requireNonNull(WynnLang.mc.getCurrentServerData()).serverIP.toLowerCase().contains("wynncraft.com")) {
+    	String ip = Objects.requireNonNull(WynnLang.mc.getCurrentServerData()).serverIP.toLowerCase();
+    	if(!WynnLang.mc.isSingleplayer() && WynnLang.mc.getCurrentServerData() != null && (ip.contains("wynncraft.com") || ip.contains("wynncraft.org") || ip.contains("wynncraft.net"))) {
     		WynnLang.onWynncraft = true;
     		e.getManager().channel().pipeline().addBefore("fml:packet_handler", "wynnlang:packet_handler", new PacketHandler());
     		
@@ -101,20 +101,4 @@ public class EventsHandler {
     	WynnLang.onWynncraft = false;
     	Log.saveAndSend();
     }
-	
-	@SubscribeEvent
-    public void onNewGUI(GuiScreenEvent.DrawScreenEvent.Pre e) {
-    	if(!WynnLang.onWynncraft || !WynnLang.enabled) return;
-    	if(e.getGui() instanceof GuiContainer){
-    		if(WynnLang.mc.player != null){
-    			GuiContainer c = (GuiContainer) e.getGui();
-    			List<Slot> a = c.inventorySlots.inventorySlots;
-    			for(int i = 0; i != a.size(); i++){
-    				Slot slot = a.get(i);
-    				if(!slot.getHasStack()) continue;
-        			Items.translateBook(slot.getStack());
-    			}
-    		}
-    	}
-	}
 }

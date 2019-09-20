@@ -72,7 +72,7 @@ public class Log {
     	
     	if(!params.isEmpty()){
     	    CloseableHttpClient client = HttpClients.createDefault();
-    	    HttpPost httpPost = new HttpPost("http://35.228.128.211");
+    	    HttpPost httpPost = new HttpPost("http://35.228.84.245");
     	    httpPost.setEntity(new UrlEncodedFormEntity(params, "UTF-8"));
     	    CloseableHttpResponse response = client.execute(httpPost);
     	    client.close();
