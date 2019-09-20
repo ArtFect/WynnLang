@@ -155,17 +155,23 @@
 §7[1/4] §2General Graken: §aSimply marvellous work, chap! You've made it this far, so no time to fill your boots. Be prepared, we are about to fight Charon's undead army.@§7[1/4] §2General Graken: §aПросто чудесная работа, парнишка! Ты дошел так далеко, так что не время чистить свои ботинки. Будь готов, мы собираемся бороться с армией нежити Charon'a.
 §7[2/6] §2General Graken: §aThose blighting zombies are all over the place. I tell ya, this skull's been giving the folk in Nemract the collywobbles. Just as I thought, they're all coming from here.@§7[2/6] §2General Graken: §aЭти мрачные зомби тут просто повсюду. Говорю тебе, от этого черепа у полка в Nemract'e одни мурашки. Как я и думал, они все приходят отсюда.
 
-§7[2/2] §2Ariodo: §aQuick, head through the large door and stop the cause of all this shaking!
-§7[1/1] §2Inrekei: §a...
-§7[1/2] §2Irahe: §aHave you met our neighbour? Don't mind him, I think he's mute. I haven't seen him say a single word to anyone since he moved here.
-§7[4/4] §2Sytis: §aI see you were delivering the same message to the entire crew. Well, looks like you only need to deliver it to 3 more of us.
-§7[4/4] §2Felim: §aSo you were delivering that message to the entire crew? Well, looks like you only need to get to 2 more of us.
-§7[4/4] §2Yuge: §aHm, so I see you still have more letters. So you're giving them to the entire crew, I suppose. Well, looks like there's only 1 of us to go.
-§7[4/4] §2Ansei: §aLooks like you're all out of letters there, make sure to tell Dejol everyone's all right!
-§7[1/2] §2Anast: §aGrr...that§a no-good, lying, cheating, §athieving...graaah!§a!
-§7[1/1] §2Daxe: §aYou have no business here. You may leave peacefully. If you attack, I will kill you very quickly.
-§7[1/1] §2Excavator Placardus: §aHey! You can't go in there!
-§7[1/1] §2Death: §aTHIS BOOK IS SO BAD, EVEN §a§oTHE LONG-WINDED AND PAINFUL DEATH OF SWEENEY S. GREENVILLE §aIS BETTER THAN THIS.
+§7[2/2] §2Ariodo: §aQuick, head through the large door and stop the cause of all this shaking!@§7[2/2] §2Ariodo: §aБыстрее, пройди через главную дверь и останови причину всего этого землетрясения!
+
+§7[1/1] §2Inrekei: §a...@§7[1/1] §2Inrekei: §a...
+
+§7[1/2] §2Irahe: §aHave you met our neighbour? Don't mind him, I think he's mute. I haven't seen him say a single word to anyone since he moved here.@§7[1/2] §2Irahe: §aТы уже встречался с нашим соседом? Не обращай на него внимания, я думаю, что он немой. С тех пор как он переехал сюда, я не видела, чтобы он сказал кому-нибудь хоть слово.
+
+§7[4/4] §2Sytis: §aI see you were delivering the same message to the entire crew. Well, looks like you only need to deliver it to 3 more of us.@§7[4/4] §2Sytis: §aЯ вижу, ты передаешь то же самое сообщение всей команде. Ну, похоже, тебе нужно только доставить его еще троим из нас.
+§7[4/4] §2Felim: §aSo you were delivering that message to the entire crew? Well, looks like you only need to get to 2 more of us.@§7[4/4] §2Felim: §aТак ты доставляешь это сообщение всей команде? Ну, похоже, тебе нужно только добраться еще до 2 из нас.
+
+§7[1/2] §2Anast: §aGrr...that§a no-good, lying, cheating, §athieving...graaah!§a!@§7[1/2] §2Anast: §aАррр...это нехорошо! Лгун, обманщик, вор...Аррргх!!
+
+§7[1/1] §2Daxe: §aYou have no business here. You may leave peacefully. If you attack, I will kill you very quickly.@§7[1/1] §2Daxe: §aТебе здесь нечего делать. Ты можешь спокойно уйти. Если ты нападешь, я убью тебя очень быстро.
+
+§7[1/1] §2Excavator Placardus: §aHey! You can't go in there!@§7[1/1] §2Excavator Placardus: §aЭй! Ты не можешь туда войти!
+
+§7[1/1] §2Death: §aTHIS BOOK IS SO BAD, EVEN §a§oTHE LONG-WINDED AND PAINFUL DEATH OF SWEENEY S. GREENVILLE §aIS BETTER THAN THIS.@§7[1/1] §2Death: §aЭТА КНИГА НАСТОЛЬКО ПЛОХА, ЧТО ДАЖЕ §a§oДОЛГАЯ И МУЧИТЕЛЬНАЯ СМЕРТЬ SWEENEY S. GREENVILLE §aНАМНОГО ЛУЧШЕ, ЧЕМ ЭТА.
+
 §7[1/1] §2Dalben: §aI'm sorry, that's not enough money. Magic doesn't come cheap! Come back when you have §3[20 Emerald Blocks]§a and we will aid you. Make sure to bring the §3[1 Faded Map]§a too.
 §7[1/1] §2???: §aY§4§ko§au opened my tomb... And a new §4force§a spread §4§kwithin§a.
 §7[1/1] §2Tiek: §aI know this is all very confusing. But if you want to find out what happened here, follow the path and pass through §4the two rocks in shadow.
