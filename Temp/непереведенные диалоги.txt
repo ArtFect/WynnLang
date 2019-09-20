@@ -91,7 +91,22 @@
 §7[1/2] §2Antikythera Core A: §a§lOh, heya doc. Lemme tell ya, weirdest thing! Some bozo just ran up and shoved a bunch of scrap metal in my vent-@§7[1/2] §2Antikythera Core A: §a§lО, приветик, док. Дай-ка расскажу тебе одну странную вещь! Какой-то придурок подбежал и засунул кучу металлолома в мою вентил-
 §7[2/2] §2Antikythera Core A: §a§lWait a sec, you aren't an official maintenance worker! Get out of here or I use force! No entry unless registered, ya hear?!@§7[2/2] §2Antikythera Core A: §a§lПодожди секунду, ты же не работник техобслуживания! Убирайся отсюда или я применю силу! Не зарегистрированным лицам входа нет, слышишь?!
 §7[2/2] §2Antikythera Supercomputer: §aHOW LOVELY. YOU DESTROYED MY AUXILIARY MEMORY BANK. TOO BAD IT WAS ONLY AUXILIARY. I WILL STILL REMEMBER THIS. I WISH I COULD FORGET ABOUT YOU.@§7[2/2] §2Antikythera Supercomputer: §aКАК МИЛО. ТЫ УНИЧТОЖИЛ МОЙ ВСПОМОГАТЕЛЬНЫЙ БАНК ПАМЯТИ. ЖАЛЬ, ЧТО ОН БЫЛ ТОЛЬКО ВСПОМОГАТЕЛЬНЫМ. Я ВСЕ ЕЩЕ БУДУ ПОМНИТЬ ЭТО. КАК БЫ МНЕ НЕ ХОТЕЛОСЬ ЗАБЫТЬ О ТЕБЕ.
-
+§7[2/2] §2????: §aSPEAKING OF WHICH, WHY DON'T YOU JUST KEEP CRAWLING THROUGH THESE VENTS AND JUST BURN YOURSELF UP FOR ME? IT WOULD MAKE MY LIFE MUCH EASIER.@§7[2/2] §2????: §aКСТАТИ ГОВОРЯ, ПОЧЕМУ БЫ ТЕБЕ ПРОСТО НЕ ПОЛЗТИ ПО ЭТИМ ВЕНТИЛЯЦИОННЫМ ОТВЕРСТИЯМ И НЕ СЖЕЧЬ СЕБЯ РАДИ МЕНЯ? ЭТО СДЕЛАЛО БЫ МОЮ ЖИЗНЬ НАМНОГО ЛЕГЧЕ.
+§7[1/3]§2 Antikythera Supercomputer: §aI SEE MY PERSUASIVE SKILLS HAVE NOT MOVED YOU. I THINK I'LL TRY AGAIN IN A LANGUAGE YOU SEEM TO KNOW INTIMATELY.@§7[1/3]§2 Antikythera Supercomputer: §aВИЖУ, МОИ НАВЫКИ УБЕЖДЕНИЯ ТЕБЯ НЕ ТРОНУЛИ. ДУМАЮ, Я ПОПРОБУЮ ЕЩЕ РАЗ НА ЯЗЫКЕ, КОТОРЫЙ ТЫ, КАЖЕТСЯ, ЗНАЕШЬ ХОРОШО.
+§7[2/3]§2 Antikythera Supercomputer: §aTHAT IS TO SAY, UNRELENTING AND EXCESSIVE FORCE. WITH RAILGUNS. AND A SIEGE ENGINE.@§7[2/3]§2 Antikythera Supercomputer: §aТО ЕСТЬ ЧЕРЕЗ ЖЕСТОКУЮ И ЧРЕЗМЕРНУЮ СИЛУ. С РЕЙЛГАНАМИ. НУ И ОСАДНЫМ ОРУДИЕМ.
+§7[3/3]§2 Antikythera Supercomputer: §aIF THAT STILL ISN'T ENOUGH TO GET THE MESSAGE OF “I AM GOING TO KILL YOU” THROUGH YOUR SKULL, I'LL HAVE TO DEVOTE SERIOUS TIME TO LEARNING HOW TO COMMUNICATE WITH YOU.@§7[3/3]§2 Antikythera Supercomputer: §aЕСЛИ ЭТОГО ВСЕ ЕЩЕ НЕДОСТАТОЧНО, ЧТОБЫ ДО ТВОЕЙ ГОЛОВЫ ДОШЛО СООБЩЕНИЕ" Я СОБИРАЮСЬ УБИТЬ ТЕБЯ ", МНЕ ПРИДЕТСЯ ПОСВЯТИТЬ СЕРЬЕЗНОЕ ВРЕМЯ ОБУЧЕНИЮ ТОМУ, КАК ОБЩАТЬСЯ С ТОБОЙ.
+=========================================================
+§7[1/4]§f §2????:§f §a§oActivating Main Production Line.@§7[1/4]§f §2????:§f §a§oАктивация Основной Производственной Линии.
+§7[2/4]§f §2????:§f §aSINCE YOU SEEM TO BE INSISTENT ON STAYING, PERHAPS YOU WOULD BE INTERESTED IN TAKING A LOOK AT SOME OF THE MACHINERY CLOSE UP.@§7[2/4]§f §2????:§f §aПОСКОЛЬКУ ТЫ, КАЖЕТСЯ, НАСТАИВАЕШЬ НА ТОМ, ЧТОБЫ ОСТАТЬСЯ, ВОЗМОЖНО, ТЕБЕ БУДЕТ ИНТЕРЕСНО ВЗГЛЯНУТЬ НА НЕКОТОРЫЕ ИЗ МАШИН ВБЛИЗИ.
+§7[4/4]§f §2????:§f §aSO GO AHEAD - DON'T WORRY ABOUT MAKING A MESS, THE FACTORY'S CLEANING BOTS HAVE HAD PLENTY OF EXPERIENCE WASHING OUT RED STAINS.@§7[4/4]§f §2????:§f §aТАК ЧТО ВПЕРЕД - И НЕ БЕСПОКОЙСЯ О ТОМ, ЧТОБЫ НАВЕСТИ БЕСПОРЯДОК, У ОЧИСТИТЕЛЬНЫХ РОБОТОВ ФАБРИКИ ИМЕЕТСЯ БОЛЬШОЙ ОПЫТ ПО ОТМЫВАНИЮ КРАСНЫХ ПЯТЕН.
+§7[1/1]§f §2E-403 Sentry Bot:§f §aDANGER! THREAT HAS BEEN DETECTED ON MAIN PRODUCTION LINE. EXECUTING SUBROUTINE 66; LOCATE AND ELIMINATE THREAT.@§7[1/1]§f §2E-403 Sentry Bot:§f §aОПАСНОСТЬ! УГРОЗА БЫЛА ОБНАРУЖЕНА НА ГЛАВНОЙ ПРОИЗВОДСТВЕННОЙ ЛИНИИ. ВЫПОЛНЕНИЕ ПОДПРОГРАММЫ 66; ОБНАРУЖЕНИЕ И УСТРАНЕНИЕ УГРОЗЫ.
+§7[1/1]§f §2????:§f §aIF I WERE YOU, NOW WOULD BE A GOOD TIME TO RUN.@§7[1/1]§f §2????:§f §aЕСЛИ БЫ Я БЫЛ НА ТВОЕМ МЕСТЕ, СЕЙЧАС САМОЕ ВРЕМЯ БЕЖАТЬ.
+§7[1/1]§f §2????:§f §aI'VE HAD ENOUGH OF YOU.@§7[1/1]§f §2????:§f §aТЫ МЕНЯ ДОСТАЛ.
+§7[1/4]§f §2????:§f §aTHAT WAS A LIE. I'M ACTUALLY STARTING TO ENJOY THIS.@§7[1/4]§f §2????:§f §aЭТО БЫЛА ЛОЖЬ. Я ДЕЙСТВИТЕЛЬНО НАЧИНАЮ НАСЛАЖДАТЬСЯ ЭТИМ.
+§7[2/4]§f §2????:§f §aTHERE'S SOMETHING VERY AMUSING ABOUT WATCHING YOU SCURRY AROUND IN HOPES OF ACHIEVING SOMETHING.@§7[2/4]§f §2????:§f §aЕСТЬ ЧТО-ТО ОЧЕНЬ ЗАБАВНОЕ В ТОМ, ЧТОБЫ НАБЛЮДАТЬ, КАК ТЫ СУЕТИШЬСЯ В НАДЕЖДЕ ЧЕГО-ТО ДОСТИЧЬ.
+§7[1/2]§f §2????:§f §aYOU KNOW, THERE ISN'T A WAY FOR YOU TO GO FORWARD HERE. I COULD JUST KEEP THE DOOR LOCKED UNTIL YOU DROP FROM HUNGER.@§7[1/2]§f §2????:§f §aЗНАЕШЬ, У ТЕБЯ ЗДЕСЬ НЕТ ВОЗМОЖНОСТИ ДВИГАТЬСЯ ДАЛЬШЕ. Я МОГУ ПРОСТО ДЕРЖАТЬ ДВЕРЬ ЗАКРЫТОЙ, ПОКА ТЫ НЕ УМРЕШЬ ОТ ГОЛОДА.
+§7[1/2]§f §2????:§f §aWHOOPSIE-DOODLES. MY METAPHORICAL FINGER SLIPPED. AND BY THAT I MEAN I CLOSED THE DOOR MANUALLY.@§7[1/2]§f §2????:§f §aУПС-ОШИБОЧКА. МОЙ МЕТАФОРИЧЕСКИЙ ПАЛЕЦ СОСКОЛЬЗНУЛ. В СМЫСЛЕ, ЧТО Я ЗАКРЫЛ ЭТУ ДВЕРЬ ВРУЧНУЮ.
+===================================================================
 §7[1/1] §2Nitram: §aMay the light return to the forest one day.
 §7[1/1] §2Chielma: §aI heard you got rid of the banshee, nice job!.
 §7[1/1]§2 ???: §aHow §4§lfoolish. §aJust because you have overcome §4§ksomething §a§aonce does not mean it will happen §4again.
@@ -151,16 +166,6 @@
 §7[1/1] §2Rayshyroth: §aRemember, check your quest book for guidance.
 §7[3/12] §2???: §aI will never understand why some Avos decided to let you live here. Those who welcomed you stayed on the surface.
 §7[11/12] §2Phoenix Prince: §aYou're an invader, just like the rest of your people. They do not deserve to live on this island... on §oour§a island.
-§7[1/4]§f §2????:§f §a§oActivating Main Production Line.
-§7[2/4]§f §2????:§f §aSINCE YOU SEEM TO BE INSISTENT ON STAYING, PERHAPS YOU WOULD BE INTERESTED IN TAKING A LOOK AT SOME OF THE MACHINERY CLOSE UP.
-§7[4/4]§f §2????:§f §aSO GO AHEAD - DON'T WORRY ABOUT MAKING A MESS, THE FACTORY'S CLEANING BOTS HAVE HAD PLENTY OF EXPERIENCE WASHING OUT RED STAINS.
-§7[1/1]§f §2E-403 Sentry Bot:§f §aDANGER! THREAT HAS BEEN DETECTED ON MAIN PRODUCTION LINE. EXECUTING SUBROUTINE 66; LOCATE AND ELIMINATE THREAT.
-§7[1/1]§f §2????:§f §aIF I WERE YOU, NOW WOULD BE A GOOD TIME TO RUN.
-§7[1/1]§f §2????:§f §aI'VE HAD ENOUGH OF YOU.
-§7[1/4]§f §2????:§f §aTHAT WAS A LIE. I'M ACTUALLY STARTING TO ENJOY THIS.
-§7[2/4]§f §2????:§f §aTHERE'S SOMETHING VERY AMUSING ABOUT WATCHING YOU SCURRY AROUND IN HOPES OF ACHIEVING SOMETHING.
-§7[1/2]§f §2????:§f §aYOU KNOW, THERE ISN'T A WAY FOR YOU TO GO FORWARD HERE. I COULD JUST KEEP THE DOOR LOCKED UNTIL YOU DROP FROM HUNGER.
-§7[1/2]§f §2????:§f §aWHOOPSIE-DOODLES. MY METAPHORICAL FINGER SLIPPED. AND BY THAT I MEAN I CLOSED THE DOOR MANUALLY.
 §7[1/3] §2Ahmsord Citizen: §aWhat looks like a village to the south-east is actually something more. It's a base filled with sky pirates!
 §7[3/3] §2Ahmsord Citizen: §aI hope someone deals with them some day. They could come in here and steal all of my money!
 §7[1/1] §2Ceyquin: §aIt's not safe for you here. Get out of this town before you get seen. Lexdale isn't my town to govern anymore...
@@ -254,10 +259,6 @@
 §7[8/10] §2Scientist Ynnos: §a...
 §7[9/10] §2Scientist Ynnos: §aWell I'll be damned. I'll start sending post down there! We can work together.
 §7[10/10] §2Scientist Ynnos: §aBetter to keep everything that happened here a secret. I don't want to lose what little funding I have. This recipe is genius! Here, take this, as well as your money.
-§7[2/2] §2????: §aSPEAKING OF WHICH, WHY DON'T YOU JUST KEEP CRAWLING THROUGH THESE VENTS AND JUST BURN YOURSELF UP FOR ME? IT WOULD MAKE MY LIFE MUCH EASIER.
-§7[1/3]§2 Antikythera Supercomputer: §aI SEE MY PERSUASIVE SKILLS HAVE NOT MOVED YOU. I THINK I'LL TRY AGAIN IN A LANGUAGE YOU SEEM TO KNOW INTIMATELY.
-§7[2/3]§2 Antikythera Supercomputer: §aTHAT IS TO SAY, UNRELENTING AND EXCESSIVE FORCE. WITH RAILGUNS. AND A SIEGE ENGINE.
-§7[3/3]§2 Antikythera Supercomputer: §aIF THAT STILL ISN'T ENOUGH TO GET THE MESSAGE OF “I AM GOING TO KILL YOU” THROUGH YOUR SKULL, I'LL HAVE TO DEVOTE SERIOUS TIME TO LEARNING HOW TO COMMUNICATE WITH YOU.
 §7[1/1] §2Burtur: §aPlease...the§a grave site's just north of here, across the busted bridge. Help a poor ol' dyin' man out...
 §7[1/1] §2???: §aWhoever you are, leave! You're not welcome here!
 §7[1/1] §2The Secretary: §aHow's the mission going?
