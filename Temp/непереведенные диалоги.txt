@@ -107,26 +107,35 @@
 §7[1/2]§f §2????:§f §aYOU KNOW, THERE ISN'T A WAY FOR YOU TO GO FORWARD HERE. I COULD JUST KEEP THE DOOR LOCKED UNTIL YOU DROP FROM HUNGER.@§7[1/2]§f §2????:§f §aЗНАЕШЬ, У ТЕБЯ ЗДЕСЬ НЕТ ВОЗМОЖНОСТИ ДВИГАТЬСЯ ДАЛЬШЕ. Я МОГУ ПРОСТО ДЕРЖАТЬ ДВЕРЬ ЗАКРЫТОЙ, ПОКА ТЫ НЕ УМРЕШЬ ОТ ГОЛОДА.
 §7[1/2]§f §2????:§f §aWHOOPSIE-DOODLES. MY METAPHORICAL FINGER SLIPPED. AND BY THAT I MEAN I CLOSED THE DOOR MANUALLY.@§7[1/2]§f §2????:§f §aУПС-ОШИБОЧКА. МОЙ МЕТАФОРИЧЕСКИЙ ПАЛЕЦ СОСКОЛЬЗНУЛ. В СМЫСЛЕ, ЧТО Я ЗАКРЫЛ ЭТУ ДВЕРЬ ВРУЧНУЮ.
 ===================================================================
-§7[1/1] §2Nitram: §aMay the light return to the forest one day.
-§7[1/1] §2Chielma: §aI heard you got rid of the banshee, nice job!.
-§7[1/1]§2 ???: §aHow §4§lfoolish. §aJust because you have overcome §4§ksomething §a§aonce does not mean it will happen §4again.
-§7[1/5] §2General Graken: §aOld chap, I can only hope you find this scribble in my absence. Of course I hope that you did not have to return at all.
-§7[2/5] §2General Graken: §aI must say chum, I haven't got good news. I know we fought bravely and most admirably against the evil that is Charon, and won. Or so we thought... I was evacuating the last of the boys after you departed when the Grook really croaked.
-§7[3/5] §2General Graken: §aAll around me the walls shifted in colour. The dead rose once more. Charon made a return in a blaze of bloody mist. We did all we could, but we were done up like a kipper. I am all that is left, hiding in a corner of this red cave.
-§7[4/5] §2General Graken: §aI hope to give you my final note of advice, should it ever be needed. Charon reunited the corpses of his army to bring them back, so don't let him do this if you must fight him again. If only I were able to reunite the fellows so we could all walk free...
-§7[5/5] §2General Graken: §aNevertheless, whatever happens, I'll keep fighting! Even if my life goes down the pan, you got back from that once before! I'll keep on dragging myself back together from the brink to throw as heavy a punch as I can manage.
-§7[1/1]§2 Deceased Buccaneer: §aGood luck on that petty journey of yers. Just find the whole path, and yerself'll be just fine...
-§7[1/1] §2Relend: §aThere's a Crafting Table at the back near all the crates. Now hurry up, our valuable treasure awaits!
-§7[3/9] §2Maxie: §a...
-§7[2/3] §2Llevigar Citizen: §aCerid is a famous electromagic inventor who has created powerful weapons and armor. From...I think it was, §aer...Corko§a? Carper? Someplace like that.
-§7[1/2] §2Corkus Delegate: §aWe're throwing you a feast at the luxurious Five Gears Diner!
-§7[2/2] §2Corkus Delegate: §aJust head through the western gate and follow the signs to get there.
-§7[1/4] §2Edula: §aYou will need §3[10 Fire Webs] §a. The Heatscar Spiders under the town make them, there's a cave right by the entrance arch.
-§7[2/4] §2Edula: §aThen, §3[3 Magmatic Crystals] §afrom the Maex mines. I'd get them myself, but...I'm banned from there since the rubber mallet incident.
-§7[3/4] §2Edula: §aLastly, §3[1 Crystallized Lava]§a. The closest source is in the lava lake just outside Maex. There's a protruding crater in the lake.
-§7[4/4] §2Edula: §aIf you're having trouble finding the crater, look for the reddest rocks in amongst the others in the lake. They should lead you to it.
-§7[1/2] §2Maex Citizen: §aMaex is very different from Rodoroc. We don't have the Kings guard overlooking us.
-§7[2/2] §2Maex Citizen: §aWe're able to live a more liberal existence from our neighbours.
+§7[1/1] §2Nitram: §aMay the light return to the forest one day.@§7[1/1] §2Nitram: §aПусть свет вернется в этот лес однажды.
+
+§7[1/1] §2Chielma: §aI heard you got rid of the banshee, nice job!.@§7[1/1] §2Chielma: §aЯ слышал, что ты избавился от Банши, отличная работа!
+
+§7[1/1]§2 ???: §aHow §4§lfoolish. §aJust because you have overcome §4§ksomething §a§aonce does not mean it will happen §4again.@§7[1/1]§2 ???: §aКак §4§lглупо. §aПросто потому, что ты преодолел §4§kчто-то §aодин раз, не означает, что это произойдет §4снова.
+
+§7[1/5] §2General Graken: §aOld chap, I can only hope you find this scribble in my absence. Of course I hope that you did not have to return at all.@§7[1/5] §2General Graken: §aСтарина, я могу только надеяться, что ты найдешь эти каракули в мое отсутствие. Конечно, я надеюсь, что тебе вообще не пришлось возвращаться.
+§7[2/5] §2General Graken: §aI must say chum, I haven't got good news. I know we fought bravely and most admirably against the evil that is Charon, and won. Or so we thought... I was evacuating the last of the boys after you departed when the Grook really croaked.@§7[2/5] §2General Graken: §aДолжен сказать, приятель, у меня нет хороших новостей. Я знаю, что мы храбро и превосходно сражались против зла, которым является Charon, и победили. Или мы так думали... Я эвакуировал последних ребят после твоего ухода, когда уже даже Grook перестал квакать.
+§7[3/5] §2General Graken: §aAll around me the walls shifted in colour. The dead rose once more. Charon made a return in a blaze of bloody mist. We did all we could, but we were done up like a kipper. I am all that is left, hiding in a corner of this red cave.@§7[3/5] §2General Graken: §aСтены вокруг меня поменяли цвет. Мертвые снова поднялись. Charon вернулся в кровавом тумане. Мы сделали все, что могли, но нас прикончили, как копченую рыбу. Я - единственный, что остался, прячусь в углу этой красной пещеры.
+§7[4/5] §2General Graken: §aI hope to give you my final note of advice, should it ever be needed. Charon reunited the corpses of his army to bring them back, so don't let him do this if you must fight him again. If only I were able to reunite the fellows so we could all walk free...@§7[4/5] §2General Graken: §aЯ надеюсь дать тебе свой последний совет, если он когда-нибудь понадобится. Charon воссоединил трупы своей армии, чтобы вернуть их, так что не позволяй ему сделать это, если будешь бороться с ним снова. Если бы только я мог воссоединить ребят, чтобы мы все могли идти свободно...
+§7[5/5] §2General Graken: §aNevertheless, whatever happens, I'll keep fighting! Even if my life goes down the pan, you got back from that once before! I'll keep on dragging myself back together from the brink to throw as heavy a punch as I can manage.@§7[5/5] §2General Graken: §aНесмотря ни на что, что бы ни случилось, я буду продолжать бороться! Даже если моя жизнь рухнет, ты ведь уже однажды вернулся оттуда! Я буду продолжать тащить себя назад от края, чтобы напоследок нанести такой тяжелый удар, на который у меня хватит сил.
+
+§7[1/1]§2 Deceased Buccaneer: §aGood luck on that petty journey of yers. Just find the whole path, and yerself'll be just fine...@§7[1/1]§2 Deceased Buccaneer: §aУдачи тебе в твоем прекрасном путешествии. Просто найди весь путь, и с тобой все будет в порядке...
+
+§7[1/1] §2Relend: §aThere's a Crafting Table at the back near all the crates. Now hurry up, our valuable treasure awaits!@§7[1/1] §2Relend: §aЗнаю, есть неподалеку тут верстак! Поторопись, ценные сокровища нас ждут, в них то я мастак!
+
+§7[3/9] §2Maxie: §a...@§7[3/9] §2Maxie: §a...
+
+§7[1/2] §2Corkus Delegate: §aWe're throwing you a feast at the luxurious Five Gears Diner!@§7[1/2] §2Corkus Delegate: §aМы устраиваем тебе пир в роскошной столовой "Пять Шестеренок"!
+§7[2/2] §2Corkus Delegate: §aJust head through the western gate and follow the signs to get there.@§7[2/2] §2Corkus Delegate: §aПросто пройди через западные ворота и следуй указателям, чтобы попасть туда.
+
+§7[1/4] §2Edula: §aYou will need §3[10 Fire Webs] §a. The Heatscar Spiders under the town make them, there's a cave right by the entrance arch.@§7[1/4] §2Edula: §aТебе понадобятся §3[10 огненных паутин]§a. Их делают пауки Heatscar Spiders под городом, прямо у входной арки есть пещера.
+§7[2/4] §2Edula: §aThen, §3[3 Magmatic Crystals] §afrom the Maex mines. I'd get them myself, but...I'm banned from there since the rubber mallet incident.@§7[2/4] §2Edula: §aЗатем §3[3 магматических Кристалла]§a из шахт Maex'a. Я бы сам их достал, но...меня туда не пускают после инцидента с резиновым молотком.
+§7[3/4] §2Edula: §aLastly, §3[1 Crystallized Lava]§a. The closest source is in the lava lake just outside Maex. There's a protruding crater in the lake.@§7[3/4] §2Edula: §aНаконец, §3[1 Кристаллизованная Лава]§a. Ближайший источник находится в озере лавы недалеко от Maex'а. Там в озере есть выступающий кратер.
+§7[4/4] §2Edula: §aIf you're having trouble finding the crater, look for the reddest rocks in amongst the others in the lake. They should lead you to it.@§7[4/4] §2Edula: §aЕсли у тебя возникли проблемы с поиском кратера, ищи самые красные камни среди других в озере. Они должны привести тебя к нему.
+
+§7[1/2] §2Maex Citizen: §aMaex is very different from Rodoroc. We don't have the Kings guard overlooking us.@§7[1/2] §2Maex Citizen: §aMaex очень отличается от Rodoroc'а. У нас нет королевской гвардии, наблюдающей за нами.
+§7[2/2] §2Maex Citizen: §aWe're able to live a more liberal existence from our neighbours.@§7[2/2] §2Maex Citizen: §aМы можем жить более либеральной жизнью, чем наши соседи.
+
 §7[1/2] §2Edula: §aGood job collecting the tools needed to destroy the demon.
 §7[2/2] §2Edula: §aMe and my husband will support the coalition as long as we live.
 §7[1/1] §2Secretary: §aHey! Don't just enter like that!
