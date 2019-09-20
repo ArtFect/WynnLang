@@ -60,37 +60,38 @@
 §7[1/1] §2Grandmaster Shaman: §aCan't you humans see I'm meditating?@§7[1/1] §2Grandmaster Shaman: §aРазве ты, человек, не видишь, что я медитирую?
 §7[1/1] §2Maxie: §aWe have everything we need. Let's get to the factory! Follow the road to the northwest, it's just south of the city.@§7[1/1] §2Maxie: §aУ нас есть все, что нам нужно. Идем к фабрике! Следуй по дороге на северо-запад, это к югу от города.
 
-§7[2/2] §2????: §aEXCEPT FOR YOU OF COURSE. BUT YOU'RE ABOUT TO DIE ANYWAY. SO THAT HARDLY MATTERS.
-§7[1/4] §2????: §a§oActivating Main Production Line.
-§7[2/4] §2????: §aSINCE YOU SEEM TO BE INSISTENT ON STAYING, PERHAPS YOU WOULD BE INTERESTED IN TAKING A LOOK AT SOME OF THE MACHINERY CLOSE UP.
-§7[4/4] §2????: §aSO GO AHEAD - DON'T WORRY ABOUT MAKING A MESS, THE FACTORY'S CLEANING BOTS HAVE HAD PLENTY OF EXPERIENCE WASHING OUT RED STAINS.
-§7[1/1] §2E-403 Sentry Bot: §aDANGER! THREAT HAS BEEN DETECTED ON MAIN PRODUCTION LINE. EXECUTING SUBROUTINE 66; LOCATE AND ELIMINATE THREAT.
-§7[1/1] §2????: §aIF I WERE YOU, NOW WOULD BE A GOOD TIME TO RUN.
-§7[1/1] §2????: §aI'VE HAD ENOUGH OF YOU.
-§7[1/4] §2????: §aTHAT WAS A LIE. I'M ACTUALLY STARTING TO ENJOY THIS.
-§7[2/4] §2????: §aTHERE'S SOMETHING VERY AMUSING ABOUT WATCHING YOU SCURRY AROUND IN HOPES OF ACHIEVING SOMETHING.
-§7[3/4] §2????: §aAND ALL THE WHILE, AS YOU HAVE JUST OBSERVED, I COULD KILL YOU AS SOON AS I GET BORED OF THIS.
-§7[4/4] §2????: §aSO, FOR YOUR SAKE, YOU SHOULD TRY AND STAY ENTERTAINING.
-§7[3/4]§2 Antikythera Supercomputer: §aGOOD WORK. BRILLIANT. I SHOULD PUT A TRAP AT THE FRONT OF THE FACTORY THAT IS NOTHING BUT A MASHY SPIKE PLATE ABOVE A SHINY BUTTON, IT WOULD SURELY KILL ANY HUMAN WHO COMES IN.
-§7[4/4]§2 Antikythera Supercomputer: §aPLEASE WAIT THERE FOR A REGISTERED REPAIR PERSON OR MAINTENANCE UNIT TO ARRIVE BEFORE YOU ATTEMPT TO RECKLESSLY CLIMB THE PARTS, AS YOU OBVIOUSLY ARE ABOUT TO.
-§7[1/3] §2Antikythera Supercomputer: §aYOU KNOW, YOU COULD SPARE ME A LOT OF TROUBLE IF YOU JUST JUMPED OFF THIS BRIDGE RIGHT NOW. IT WOULD MOST LIKELY SPARE A LOT OF PEOPLE A LOT OF TROUBLE, ACTUALLY.
-§7[2/3] §2Antikythera Supercomputer: §aGIVEN YOUR APPARENT DISREGARD FOR REGULATIONS AND CEASELESS BREAKING OF EVERYTHING YOU TOUCH, I BET YOU HAVE A LOT OF ENEMIES OUT THERE.
-§7[3/3] §2Antikythera Supercomputer: §aIT WOULD BE A SIGH OF RELIEF TO ALL THOSE KIND RIGHTEOUS FOLKS. YOU'VE PROBABLY MADE ENEMIES OF CHARITY WORKERS OR SCIENTISTS OR DOCTORS OR ACTUAL IMPORTANT PEOPLE, UNLIKE YOURSELF.
-§7[1/1] §2Antikythera Supercomputer: §aWELL THEN. EVEN THOUGH YOU GOT THROUGH THERE, YOU'LL BE SURPRISED TO KNOW I STILL HAVE ONE LAST LINE OF DEFENSE. I DOUBT EVEN YOU CAN GET PAST IT.
-§7[1/3]§0 §2Antikythera Supercomputer:§0 §aIF YOU ARE REALLY SO DESPERATE TO GET AT ME, THE KEY TO THE DOOR IS IN THIS PUPPY. EVEN SEEING YOUR ACTIONS THROUGHOUT THE REST OF MY FACTORY, I HAVE FAITH YOU WON'T KILL IT.
-§7[2/3]§0 §2Antikythera Supercomputer:§0 §a CERID'S POOR, DEFENSELESS, HUNGRY LITTLE PUPPY WHO ATE THE KEY. I DIDN'T EVEN INTEND FOR IT TO DO THAT, IT FELL INTO HIS FOOD. BUT YOU WOULDN'T BE SO HEARTLESS AS TO HURT THE LITTLE GUY.
-§7[3/3]§0 §2Antikythera Supercomputer:§0 §a SO YOU CAN EITHER GO AHEAD AND GLARE AT THE CAMERA UNTIL ONE OF US DROPS DEAD, OR YOU CAN LEAVE. AND WE BOTH KNOW WHICH ONE WOULD BE BETTER FOR YOU.
-§7[1/4] §2Antikythera Supercomputer: §aWELL. WELL WELL WELL. WELL WELL WELL WELLY WELL WELL. I AM HONESTLY SHOCKED. REALLY, I AM. I TRULY STILL HAD SOME FAITH IN HUMANS. BEFORE YOU SHOWED UP.
-§7[3/4] §2Antikythera Supercomputer: §aAFTER SEEING HOW THE HUMANS WERE TREATING THE AVOS, I DECIDED THEY WERE THE BIGGER THREAT. BUT I DOUBTED MY DECISION FOR A WHILE. NOT ANYMORE THOUGH.
-§7[1/3] §2Antikythera Supercomputer:§a THAT TRICK WON'T WORK, YOU KNOW. THERE'S NO VITAL PART OR DUCT ABOVE THERE TO ENTER. WHAT DID YOU HOPE TO ACCOMPLISH?
-§7[2/3] §2Antikythera Supercomputer:§a§o Primary ventilation duct B blocked. Opening emergency maintenance hatch. Registered maintenance unit and/or worker, please enter the emergency maintenance hatch and remove the foreign blockage.
-§7[1/1] §2Antikythera Supercomputer:§a§o Primary ventilation duct B unblocked. Closing emergency maintenance hatch.
-§7[2/2] §2Antikythera Supercomputer: §aTHERE AREN'T ANY SHINY BUTTONS TO PRESS, BUT I CAN PUT SOME OUTSIDE UNDER THE BOMBS IF YOU WANT. WOULD YOU LIKE THAT INSTEAD?
-§7[1/2] §2Antikythera Core B: §a§oUnauthorized personnel detected in Antikythera Auxiliary Core Duct A. Leave immediately, or be faced with lethal force and negative marks on your career record.
-§7[2/2] §2Antikythera Core B: §a§oUnauthorized personnel still detected. We here at the Corkus Manufactory are sorry, but your position is officially terminated for failure to comply to orders. Please remain still so lethal force may be applied.
-§7[1/2] §2Antikythera Core A: §a§lOh, heya doc. Lemme tell ya, weirdest thing! Some bozo just ran up and shoved a bunch of scrap metal in my vent-
-§7[2/2] §2Antikythera Core A: §a§lWait a sec, you aren't an official maintenance worker! Get out of here or I use force! No entry unless registered, ya hear?!
-§7[2/2] §2Antikythera Supercomputer: §aHOW LOVELY. YOU DESTROYED MY AUXILIARY MEMORY BANK. TOO BAD IT WAS ONLY AUXILIARY. I WILL STILL REMEMBER THIS. I WISH I COULD FORGET ABOUT YOU.
+§7[2/2] §2????: §aEXCEPT FOR YOU OF COURSE. BUT YOU'RE ABOUT TO DIE ANYWAY. SO THAT HARDLY MATTERS.@§7[2/2] §2????: §a
+§7[1/4] §2????: §a§oActivating Main Production Line.@§7[1/4] §2????: §a§o
+§7[2/4] §2????: §aSINCE YOU SEEM TO BE INSISTENT ON STAYING, PERHAPS YOU WOULD BE INTERESTED IN TAKING A LOOK AT SOME OF THE MACHINERY CLOSE UP.@§7[2/4] §2????: §a
+§7[4/4] §2????: §aSO GO AHEAD - DON'T WORRY ABOUT MAKING A MESS, THE FACTORY'S CLEANING BOTS HAVE HAD PLENTY OF EXPERIENCE WASHING OUT RED STAINS.@§7[4/4] §2????: §a
+§7[1/1] §2E-403 Sentry Bot: §aDANGER! THREAT HAS BEEN DETECTED ON MAIN PRODUCTION LINE. EXECUTING SUBROUTINE 66; LOCATE AND ELIMINATE THREAT.@§7[1/1] §2E-403 Sentry Bot: §a
+§7[1/1] §2????: §aIF I WERE YOU, NOW WOULD BE A GOOD TIME TO RUN.@§7[1/1] §2????: §a
+§7[1/1] §2????: §aI'VE HAD ENOUGH OF YOU.@§7[1/1] §2????: §a
+§7[1/4] §2????: §aTHAT WAS A LIE. I'M ACTUALLY STARTING TO ENJOY THIS.@§7[1/4] §2????: §a
+§7[2/4] §2????: §aTHERE'S SOMETHING VERY AMUSING ABOUT WATCHING YOU SCURRY AROUND IN HOPES OF ACHIEVING SOMETHING.@§7[2/4] §2????: §a
+§7[3/4] §2????: §aAND ALL THE WHILE, AS YOU HAVE JUST OBSERVED, I COULD KILL YOU AS SOON AS I GET BORED OF THIS.@§7[3/4] §2????: §a
+§7[4/4] §2????: §aSO, FOR YOUR SAKE, YOU SHOULD TRY AND STAY ENTERTAINING.@§7[4/4] §2????: §a
+§7[3/4]§2 Antikythera Supercomputer: §aGOOD WORK. BRILLIANT. I SHOULD PUT A TRAP AT THE FRONT OF THE FACTORY THAT IS NOTHING BUT A MASHY SPIKE PLATE ABOVE A SHINY BUTTON, IT WOULD SURELY KILL ANY HUMAN WHO COMES IN.@§7[3/4]§2 Antikythera Supercomputer: §a
+§7[4/4]§2 Antikythera Supercomputer: §aPLEASE WAIT THERE FOR A REGISTERED REPAIR PERSON OR MAINTENANCE UNIT TO ARRIVE BEFORE YOU ATTEMPT TO RECKLESSLY CLIMB THE PARTS, AS YOU OBVIOUSLY ARE ABOUT TO.@§7[4/4]§2 Antikythera Supercomputer: §a
+§7[1/3] §2Antikythera Supercomputer: §aYOU KNOW, YOU COULD SPARE ME A LOT OF TROUBLE IF YOU JUST JUMPED OFF THIS BRIDGE RIGHT NOW. IT WOULD MOST LIKELY SPARE A LOT OF PEOPLE A LOT OF TROUBLE, ACTUALLY.@§7[1/3] §2Antikythera Supercomputer: §a
+§7[2/3] §2Antikythera Supercomputer: §aGIVEN YOUR APPARENT DISREGARD FOR REGULATIONS AND CEASELESS BREAKING OF EVERYTHING YOU TOUCH, I BET YOU HAVE A LOT OF ENEMIES OUT THERE.@§7[2/3] §2Antikythera Supercomputer: §a
+§7[3/3] §2Antikythera Supercomputer: §aIT WOULD BE A SIGH OF RELIEF TO ALL THOSE KIND RIGHTEOUS FOLKS. YOU'VE PROBABLY MADE ENEMIES OF CHARITY WORKERS OR SCIENTISTS OR DOCTORS OR ACTUAL IMPORTANT PEOPLE, UNLIKE YOURSELF.@§7[3/3] §2Antikythera Supercomputer: §a
+§7[1/1] §2Antikythera Supercomputer: §aWELL THEN. EVEN THOUGH YOU GOT THROUGH THERE, YOU'LL BE SURPRISED TO KNOW I STILL HAVE ONE LAST LINE OF DEFENSE. I DOUBT EVEN YOU CAN GET PAST IT.@§7[1/1] §2Antikythera Supercomputer: §a
+§7[1/3]§0 §2Antikythera Supercomputer:§0 §aIF YOU ARE REALLY SO DESPERATE TO GET AT ME, THE KEY TO THE DOOR IS IN THIS PUPPY. EVEN SEEING YOUR ACTIONS THROUGHOUT THE REST OF MY FACTORY, I HAVE FAITH YOU WON'T KILL IT.@§7[1/3]§0 §2Antikythera Supercomputer:§0 §a
+§7[2/3]§0 §2Antikythera Supercomputer:§0 §a CERID'S POOR, DEFENSELESS, HUNGRY LITTLE PUPPY WHO ATE THE KEY. I DIDN'T EVEN INTEND FOR IT TO DO THAT, IT FELL INTO HIS FOOD. BUT YOU WOULDN'T BE SO HEARTLESS AS TO HURT THE LITTLE GUY.@§7[2/3]§0 §2Antikythera Supercomputer:§0 §a
+§7[3/3]§0 §2Antikythera Supercomputer:§0 §a SO YOU CAN EITHER GO AHEAD AND GLARE AT THE CAMERA UNTIL ONE OF US DROPS DEAD, OR YOU CAN LEAVE. AND WE BOTH KNOW WHICH ONE WOULD BE BETTER FOR YOU.@§7[3/3]§0 §2Antikythera Supercomputer:§0 §a
+§7[1/4] §2Antikythera Supercomputer: §aWELL. WELL WELL WELL. WELL WELL WELL WELLY WELL WELL. I AM HONESTLY SHOCKED. REALLY, I AM. I TRULY STILL HAD SOME FAITH IN HUMANS. BEFORE YOU SHOWED UP.@§7[1/4] §2Antikythera Supercomputer: §a
+§7[3/4] §2Antikythera Supercomputer: §aAFTER SEEING HOW THE HUMANS WERE TREATING THE AVOS, I DECIDED THEY WERE THE BIGGER THREAT. BUT I DOUBTED MY DECISION FOR A WHILE. NOT ANYMORE THOUGH.@§7[3/4] §2Antikythera Supercomputer: §a
+§7[1/3] §2Antikythera Supercomputer:§a THAT TRICK WON'T WORK, YOU KNOW. THERE'S NO VITAL PART OR DUCT ABOVE THERE TO ENTER. WHAT DID YOU HOPE TO ACCOMPLISH?@§7[1/3] §2Antikythera Supercomputer:§a
+§7[2/3] §2Antikythera Supercomputer:§a§o Primary ventilation duct B blocked. Opening emergency maintenance hatch. Registered maintenance unit and/or worker, please enter the emergency maintenance hatch and remove the foreign blockage.@§7[2/3] §2Antikythera Supercomputer:§a§o 
+§7[1/1] §2Antikythera Supercomputer:§a§o Primary ventilation duct B unblocked. Closing emergency maintenance hatch.@§7[1/1] §2Antikythera Supercomputer:§a§o
+§7[2/2] §2Antikythera Supercomputer: §aTHERE AREN'T ANY SHINY BUTTONS TO PRESS, BUT I CAN PUT SOME OUTSIDE UNDER THE BOMBS IF YOU WANT. WOULD YOU LIKE THAT INSTEAD?@§7[2/2] §2Antikythera Supercomputer: §a
+§7[1/2] §2Antikythera Core B: §a§oUnauthorized personnel detected in Antikythera Auxiliary Core Duct A. Leave immediately, or be faced with lethal force and negative marks on your career record.@§7[1/2] §2Antikythera Core B: §a§o
+§7[2/2] §2Antikythera Core B: §a§oUnauthorized personnel still detected. We here at the Corkus Manufactory are sorry, but your position is officially terminated for failure to comply to orders. Please remain still so lethal force may be applied.@§7[2/2] §2Antikythera Core B: §a§o
+§7[1/2] §2Antikythera Core A: §a§lOh, heya doc. Lemme tell ya, weirdest thing! Some bozo just ran up and shoved a bunch of scrap metal in my vent-@§7[1/2] §2Antikythera Core A: §a§l
+§7[2/2] §2Antikythera Core A: §a§lWait a sec, you aren't an official maintenance worker! Get out of here or I use force! No entry unless registered, ya hear?!@§7[2/2] §2Antikythera Core A: §a§l
+§7[2/2] §2Antikythera Supercomputer: §aHOW LOVELY. YOU DESTROYED MY AUXILIARY MEMORY BANK. TOO BAD IT WAS ONLY AUXILIARY. I WILL STILL REMEMBER THIS. I WISH I COULD FORGET ABOUT YOU.@§7[2/2] §2Antikythera Supercomputer: §a
+
 §7[1/1] §2Nitram: §aMay the light return to the forest one day.
 §7[1/1] §2Chielma: §aI heard you got rid of the banshee, nice job!.
 §7[1/1]§2 ???: §aHow §4§lfoolish. §aJust because you have overcome §4§ksomething §a§aonce does not mean it will happen §4again.
