@@ -229,19 +229,26 @@
 §7[4/5] §2Llevigar Citizen: §aSome kind of plant monster, sent to spy on us! There have been a rash of sightings recently, and the gardeners are lodging complaints.@§7[4/5] §2Llevigar Citizen: §aКакой-то растительный монстр, посланный шпионить за нами! В последнее время было много таких замечено, и садовники подают жалобы.
 §7[5/5] §2Llevigar Citizen: §aIf you have any sense, you'll follow my advice: Do not go anywhere near that blasted Hive of hers! You'll end up dead, or enslaved, §aor...or...or§a worse!!@§7[5/5] §2Llevigar Citizen: §aЕсли у тебя есть хоть капля здравого смысла, последуй моему совету: не приближайся к ее проклятому Улью! В конце концов ты умрешь или станешь рабом, или...или даже хуже!!
 
-§7[1/1] §2Edula: §aWhat is a Wynn warrior doing all the way over here?@§7[1/1] §2Edula: §a
-§7[1/2] §2Arzul: §aWe have §aseparate...sleeping§a §aquarters...for§a Doguns and Dwarves.@§7[1/2] §2Arzul: §a
-§7[2/2] §2Arzul: §aWe §awould...melt§a the §abeds...they§a sleep in... After §aall...we§a §aare...molten§a rock.@§7[2/2] §2Arzul: §a
-§7[1/3] §2Adoda: §aA fire starter? Yeah, I think I left one on the roof.@§7[1/3] §2Adoda: §a
-§7[2/3] §2Adoda: §aIf you can get up there you can help yourself to it.@§7[2/3] §2Adoda: §a
-§7[3/3] §2Adoda: §aI wasted a lot of money on that thing. Turns out lava does the same job.@§7[3/3] §2Adoda: §a
-§7[1/1] §2Aledar: §aNo no no, these are gems! I said to make §3[2 Ingots]§a! Make sure to §bleft-click§a when refining.@§7[1/1] §2Aledar: §a
-§7[1/1] §2Yansur: §aCome back when you are level 80. We will not accept applicants of the challenge who are not thoroughly prepared.@§7[1/1] §2Yansur: §a
-§7[1/1] §2Grenot: §aHey! Don't go in there, the mine is too dangerous!@§7[1/1] §2Grenot: §a
-§7[1/3] §2Aledar: §aOkay, you've refined the string. Follow me for the next step in the crafting process.@§7[1/3] §2Aledar: §a
-§7[1/1] §2Eltom Guard: §aGreetings, citi- hold on a second, you're not from here, are you?@§7[1/1] §2Eltom Guard: §a
-§7[1/1] §2Salesman: §aThose tightwad mages are out in Dernel, on the lake with the big island. I doubt you'll convince them to give you any healing water, though.@§7[1/1] §2Salesman: §a
-§7[1/1] §2Office Manager: §aHey! you are not permitted to enter the office!@§7[1/1] §2Office Manager: §a
+§7[1/1] §2Edula: §aWhat is a Wynn warrior doing all the way over here?@§7[1/1] §2Edula: §aЧто воин Wynn делает здесь?
+§7[1/2] §2Arzul: §aWe have §aseparate...sleeping§a §aquarters...for§a Doguns and Dwarves.@§7[1/2] §2Arzul: §aУ нас есть отдельное...спальное помещение...для Dogun'ов и Гномов.
+§7[2/2] §2Arzul: §aWe §awould...melt§a the §abeds...they§a sleep in... After §aall...we§a §aare...molten§a rock.@§7[2/2] §2Arzul: §aМы бы...расплавили кровати...в которых они там спят... В конце концов...мы ведь... состоим из расплавленной породы.
+§7[1/3] §2Adoda: §aA fire starter? Yeah, I think I left one on the roof.@§7[1/3] §2Adoda: §aЗажигалка? Да, кажется, я оставил одну на крыше.
+§7[2/3] §2Adoda: §aIf you can get up there you can help yourself to it.@§7[2/3] §2Adoda: §aЕсли ты сможешь подняться туда, то можешь ее забрать.
+§7[3/3] §2Adoda: §aI wasted a lot of money on that thing. Turns out lava does the same job.@§7[3/3] §2Adoda: §aЯ потратил кучу денег на эту штуку. А оказалось, лава делает ту же работу.
+
+§7[1/1] §2Aledar: §aNo no no, these are gems! I said to make §3[2 Ingots]§a! Make sure to §bleft-click§a when refining.@§7[1/1] §2Aledar: §aНет нет нет, это драгоценные камни! Я сказал сделать §3[2 Слитка]§a! Убедись, что жмешь §bлевый-клик§ при переработке.
+§7[1/3] §2Aledar: §aOkay, you've refined the string. Follow me for the next step in the crafting process.@§7[1/3] §2Aledar: §aХорошо, ты переработал нитки. Следуй за мной для следующего шага в процессе крафта.
+
+§7[1/1] §2Yansur: §aCome back when you are level 80. We will not accept applicants of the challenge who are not thoroughly prepared.@§7[1/1] §2Yansur: §aВозвращайся, когда достигнешь 80-го уровня. Мы не будем принимать претендентов на челлендж, которые не полностью подготовлены.
+
+§7[1/1] §2Grenot: §aHey! Don't go in there, the mine is too dangerous!@§7[1/1] §2Grenot: §aЭй! Не ходи туда, шахта слишком опасна!
+
+§7[1/1] §2Eltom Guard: §aGreetings, citi- hold on a second, you're not from here, are you?@§7[1/1] §2Eltom Guard: §aПриветствую, горожа- Подожди секунду, ты ведь не отсюда, не так ли?
+
+§7[1/1] §2Salesman: §aThose tightwad mages are out in Dernel, on the lake with the big island. I doubt you'll convince them to give you any healing water, though.@§7[1/1] §2Salesman: §aЭти скупердяи-маги сейчас в Dernel, на озере с большим островом. Хотя я сомневаюсь, что ты убедишь их дать тебе целебную воду.
+
+§7[1/1] §2Office Manager: §aHey! you are not permitted to enter the office!@§7[1/1] §2Office Manager: §aЭй! Тебе не разрешается входить в офис!
+
 §7[1/11]§0 §2Scientist Ynnos:§a *Ahem* Welcome, everyone.
 §7[2/11]§0 §2Scientist Ynnos:§0 §aI am Ynnos, one of the leading scientists in Gavel. You’re here because.. Well you read the help wanted sign.
 §7[3/11]§0 §2Scientist Ynnos:§0 §aAllow me to explain the situation we’re in. It’s a series of unfortunate events. I study the amazing properties of crystals and other geodes.
