@@ -145,13 +145,13 @@
 
 §7[1/3] §2Legendary Attendant: §aHello, are you here to forfeit? If you quit now you will receive...@§7[1/3] §2Legendary Attendant: §aЗдравствуй, ты здесь, чтобы проиграть? Если ты уйдешь сейчас, ты получишь...
 §7[2/3] §2Legendary Attendant: §61 Bronze Token§a.@§7[2/3] §2Legendary Attendant: §61 Бронзовый Жетон§a.
-[2/3] Legendary Attendant: 3 Bronze Tokens.
-[2/3] Legendary Attendant: 5 Bronze Tokens.
-[2/3] Legendary Attendant: 1 Silver Token and 7 Bronze Tokens.
-[2/3] Legendary Attendant: 3 Silver Tokens and 9 Bronze Tokens.
-[2/3] Legendary Attendant: 5 Silver Tokens and 12 Bronze Tokens.
-[2/3] Legendary Attendant: 1 Gold Token, 7 Silver Tokens, and 15 Bronze Tokens.
-[2/3] Legendary Attendant: 3 Gold Tokens, 9 Silver Tokens, and 18 Bronze Tokens.
+§7[2/3] §2Legendary Attendant: §63 Bronze Tokens§a.@§7[2/3] §2Legendary Attendant: §63 Бронзовых Жетона§a.
+§7[2/3] §2Legendary Attendant: §65 Bronze Tokens§a.@§7[2/3] §2Legendary Attendant: §65 Бронзовых Жетонов§a.
+§7[2/3] §2Legendary Attendant: §f1 Silver Token§a and §67 Bronze Tokens§a.@§7[2/3] §2Legendary Attendant: §f1 Серебрянный Жетон§a и §67 Бронзовых Жетонов§a.
+§7[2/3] §2Legendary Attendant: §f3 Silver Tokens§a and §69 Bronze Tokens§a.@§7[2/3] §2Legendary Attendant: §f3 Серебрянных Жетона§a и §69 Бронзовых Жетонов§a.
+§7[2/3] §2Legendary Attendant: §f5 Silver Tokens§a and §612 Bronze Tokens§a.@§7[2/3] §2Legendary Attendant: §f5 Серебрянных Жетонов§a и §612 Бронзовых Жетонов§a.
+§7[2/3] §2Legendary Attendant: §e1 Gold Token§a, §f7 Silver Tokens§a, and §615 Bronze Tokens§a.@§7[2/3] §2Legendary Attendant: §e1 Золотой Жетон§a, §f7 Серебрянных Жетонов§a, и §615 Бронзовых Жетонов§a.
+§7[2/3] §2Legendary Attendant: §e3 Gold Tokens§a, §f9 Silver Tokens§a, and §618 Bronze Tokens§a.@§7[2/3] §2Legendary Attendant: §e3 Золотых Жетонов§a, §f9 Серебрянных Жетонов§a, и §618 Бронзовых Жетонов§a.
 §7[3/3] §2Legendary Attendant: §aYou may either go through this door to claim your reward and turn back and continue the challenge.@§7[3/3] §2Legendary Attendant: §aТы можешь либо пройти через эту дверь, чтобы получить свою награду, либо повернуть назад и продолжить челлендж.
 
 §7[1/2] §2Soway: §aI need you to infiltrate the embassy; and kill Togak. Be warned, Elves are different to other species - and their defences are also different.@§7[1/2] §2Soway: §aТы должен проникнуть в Посольство и убить Togak'а. Осторожнее, эльфы отличаются от других рас – как и их защита.
@@ -179,51 +179,51 @@
 
 §7[1/1] §2Death: §aTHIS BOOK IS SO BAD, EVEN §a§oTHE LONG-WINDED AND PAINFUL DEATH OF SWEENEY S. GREENVILLE §aIS BETTER THAN THIS.@§7[1/1] §2Death: §aЭТА КНИГА НАСТОЛЬКО ПЛОХА, ЧТО ДАЖЕ §a§oДОЛГАЯ И МУЧИТЕЛЬНАЯ СМЕРТЬ SWEENEY S. GREENVILLE §aНАМНОГО ЛУЧШЕ, ЧЕМ ЭТА.
 
-§7[1/1] §2Dalben: §aI'm sorry, that's not enough money. Magic doesn't come cheap! Come back when you have §3[20 Emerald Blocks]§a and we will aid you. Make sure to bring the §3[1 Faded Map]§a too.
-§7[1/1] §2???: §aY§4§ko§au opened my tomb... And a new §4force§a spread §4§kwithin§a.
-§7[1/1] §2Tiek: §aI know this is all very confusing. But if you want to find out what happened here, follow the path and pass through §4the two rocks in shadow.
-§7[1/1] §2Corkus Delegate: §aTry following the trail outside the castle, it might lead you to the key.
-§7[1/1] §2Atisun: §aOh, a human? If I could beg your pardon a §amoment...could§a I talk to you about the mansion here, when you are level 67 or so?
-§7[1/3] §2Corkus Guard: §aMo'in! You are a traveler, aren't you? If only I could just leave this island and explore...
-§7[2/3] §2Corkus Guard: §aI could be just like §bSiegfried§a, a travelling hero who left his home, Corkus, to help those in danger.
-§7[3/3] §2Corkus Guard: §aI wonder if he misses Corkus, I definitely would. Maybe I'm not made for adventure.
-§7[1/1] §2Hot Air Balloon Captain: §aAlrighty, we are almost in Gavel, hold tight.
-§7[1/1] §2Hot Air Balloon Captain: §aAlrighty, we are almost in Corkus, hold tight.
-§7[2/3] §2C.S.S Wavebreaker Captain: §aThe only boat that 'll take ye directly to Selchar.
-§7[3/3] §2C.S.S Wavebreaker Captain: §aJust hop aboard and make yerself comfy,
-§7[1/1] §2Relend: §aThat is my ship, the Little Wing. But I'm afraid it's not ready for boarding.
-§7[1/1] §2Rayshyroth: §aRemember, check your quest book for guidance.
-§7[3/12] §2???: §aI will never understand why some Avos decided to let you live here. Those who welcomed you stayed on the surface.
-§7[11/12] §2Phoenix Prince: §aYou're an invader, just like the rest of your people. They do not deserve to live on this island... on §oour§a island.
-§7[1/3] §2Ahmsord Citizen: §aWhat looks like a village to the south-east is actually something more. It's a base filled with sky pirates!
-§7[3/3] §2Ahmsord Citizen: §aI hope someone deals with them some day. They could come in here and steal all of my money!
-§7[1/1] §2Ceyquin: §aIt's not safe for you here. Get out of this town before you get seen. Lexdale isn't my town to govern anymore...
-§7[1/2] §2Acolyte Lanarch: §aLexdale is off limits to all those not a part of the Order of the Abyss. I do not recognize you, so you may not enter the town.
-§7[2/2] §2Acolyte Lanarch: §aIf you trespass, we will not hesitate to kill you. Thus, it may be best if you simply leave, and forget this ever happened.
-§7[1/1] §2Talos: §aAh! Kill the hellhound, I can't defend myself tied up like this!
-§7[1/1] §2Avos Citizen: §aI'm so jealous of the chief, he gets to live in the fanciest house on the hill!
-§7[3/4] §2????: §aPERSONALLY, I FIND THE BEST VIEW IS FROM WITHIN THE WORKING PARTS.
-§7[1/1] §2Prison Guard: §aYou are trespassing on private property. Just get out of here, our cells are too full. We prefer 72's and up anyway.
-§7[1/1] §2Prison Guard: §aNo trespassing!
-§7[1/1] §2The Guardian: §aStranger! If you value your life, you will walk away, and never return!
-§7[1/5] §2Llevigar Citizen: §aNo, no, no, that can't be right... She couldn't have possibly gotten them into the city yet...
-§7[2/5] §2Llevigar Citizen: §aHm- Whuh! H-Human! My land, but you can be quiet with all that armour on! §aEr...how§a much §adid...you§a hear, of that?
-§7[3/5] §2Llevigar Citizen: §aY-Yes, well... You're probably new to Gavel, so I'll inform you. I was worrying over a creation of 'Mistress' Qira.
-§7[4/5] §2Llevigar Citizen: §aSome kind of plant monster, sent to spy on us! There have been a rash of sightings recently, and the gardeners are lodging complaints.
-§7[5/5] §2Llevigar Citizen: §aIf you have any sense, you'll follow my advice: Do not go anywhere near that blasted Hive of hers! You'll end up dead, or enslaved, §aor...or...or§a worse!!
-§7[1/1] §2Edula: §aWhat is a Wynn warrior doing all the way over here?
-§7[1/2] §2Arzul: §aWe have §aseparate...sleeping§a §aquarters...for§a Doguns and Dwarves.
-§7[2/2] §2Arzul: §aWe §awould...melt§a the §abeds...they§a sleep in... After §aall...we§a §aare...molten§a rock.
-§7[1/3] §2Adoda: §aA fire starter? Yeah, I think I left one on the roof.
-§7[2/3] §2Adoda: §aIf you can get up there you can help yourself to it.
-§7[3/3] §2Adoda: §aI wasted a lot of money on that thing. Turns out lava does the same job.
-§7[1/1] §2Aledar: §aNo no no, these are gems! I said to make §3[2 Ingots]§a! Make sure to §bleft-click§a when refining.
-§7[1/1] §2Yansur: §aCome back when you are level 80. We will not accept applicants of the challenge who are not thoroughly prepared.
-§7[1/1] §2Grenot: §aHey! Don't go in there, the mine is too dangerous!
-§7[1/3] §2Aledar: §aOkay, you've refined the string. Follow me for the next step in the crafting process.
-§7[1/1] §2Eltom Guard: §aGreetings, citi- hold on a second, you're not from here, are you?
-§7[1/1] §2Salesman: §aThose tightwad mages are out in Dernel, on the lake with the big island. I doubt you'll convince them to give you any healing water, though.
-§7[1/1] §2Office Manager: §aHey! you are not permitted to enter the office!
+§7[1/1] §2Dalben: §aI'm sorry, that's not enough money. Magic doesn't come cheap! Come back when you have §3[20 Emerald Blocks]§a and we will aid you. Make sure to bring the §3[1 Faded Map]§a too.@§7[1/1] §2Dalben: §a
+§7[1/1] §2???: §aY§4§ko§au opened my tomb... And a new §4force§a spread §4§kwithin§a.@§7[1/1] §2???: §a
+§7[1/1] §2Tiek: §aI know this is all very confusing. But if you want to find out what happened here, follow the path and pass through §4the two rocks in shadow.@§7[1/1] §2Tiek: §a
+§7[1/1] §2Corkus Delegate: §aTry following the trail outside the castle, it might lead you to the key.@§7[1/1] §2Corkus Delegate: §a
+§7[1/1] §2Atisun: §aOh, a human? If I could beg your pardon a §amoment...could§a I talk to you about the mansion here, when you are level 67 or so?@§7[1/1] §2Atisun: §a
+§7[1/3] §2Corkus Guard: §aMo'in! You are a traveler, aren't you? If only I could just leave this island and explore...@§7[1/3] §2Corkus Guard: §a
+§7[2/3] §2Corkus Guard: §aI could be just like §bSiegfried§a, a travelling hero who left his home, Corkus, to help those in danger.@§7[2/3] §2Corkus Guard: §a
+§7[3/3] §2Corkus Guard: §aI wonder if he misses Corkus, I definitely would. Maybe I'm not made for adventure.@§7[3/3] §2Corkus Guard: §a
+§7[1/1] §2Hot Air Balloon Captain: §aAlrighty, we are almost in Gavel, hold tight.@§7[1/1] §2Hot Air Balloon Captain: §a
+§7[1/1] §2Hot Air Balloon Captain: §aAlrighty, we are almost in Corkus, hold tight.@§7[1/1] §2Hot Air Balloon Captain: §a
+§7[2/3] §2C.S.S Wavebreaker Captain: §aThe only boat that 'll take ye directly to Selchar.@§7[2/3] §2C.S.S Wavebreaker Captain: §a
+§7[3/3] §2C.S.S Wavebreaker Captain: §aJust hop aboard and make yerself comfy,@§7[3/3] §2C.S.S Wavebreaker Captain: §a
+§7[1/1] §2Relend: §aThat is my ship, the Little Wing. But I'm afraid it's not ready for boarding.@§7[1/1] §2Relend: §a
+§7[1/1] §2Rayshyroth: §aRemember, check your quest book for guidance.@§7[1/1] §2Rayshyroth: §a
+§7[3/12] §2???: §aI will never understand why some Avos decided to let you live here. Those who welcomed you stayed on the surface.@§7[3/12] §2???: §a
+§7[11/12] §2Phoenix Prince: §aYou're an invader, just like the rest of your people. They do not deserve to live on this island... on §oour§a island.@§7[11/12] §2Phoenix Prince: §a
+§7[1/3] §2Ahmsord Citizen: §aWhat looks like a village to the south-east is actually something more. It's a base filled with sky pirates!@§7[1/3] §2Ahmsord Citizen: §a
+§7[3/3] §2Ahmsord Citizen: §aI hope someone deals with them some day. They could come in here and steal all of my money!@§7[3/3] §2Ahmsord Citizen: §a
+§7[1/1] §2Ceyquin: §aIt's not safe for you here. Get out of this town before you get seen. Lexdale isn't my town to govern anymore...@§7[1/1] §2Ceyquin: §a
+§7[1/2] §2Acolyte Lanarch: §aLexdale is off limits to all those not a part of the Order of the Abyss. I do not recognize you, so you may not enter the town.@§7[1/2] §2Acolyte Lanarch: §a
+§7[2/2] §2Acolyte Lanarch: §aIf you trespass, we will not hesitate to kill you. Thus, it may be best if you simply leave, and forget this ever happened.@§7[2/2] §2Acolyte Lanarch: §a
+§7[1/1] §2Talos: §aAh! Kill the hellhound, I can't defend myself tied up like this!@§7[1/1] §2Talos: §a
+§7[1/1] §2Avos Citizen: §aI'm so jealous of the chief, he gets to live in the fanciest house on the hill!@§7[1/1] §2Avos Citizen: §a
+§7[3/4] §2????: §aPERSONALLY, I FIND THE BEST VIEW IS FROM WITHIN THE WORKING PARTS.@§7[3/4] §2????: §a
+§7[1/1] §2Prison Guard: §aYou are trespassing on private property. Just get out of here, our cells are too full. We prefer 72's and up anyway.@§7[1/1] §2Prison Guard: §a
+§7[1/1] §2Prison Guard: §aNo trespassing!@§7[1/1] §2Prison Guard: §a
+§7[1/1] §2The Guardian: §aStranger! If you value your life, you will walk away, and never return!@§7[1/1] §2The Guardian: §a
+§7[1/5] §2Llevigar Citizen: §aNo, no, no, that can't be right... She couldn't have possibly gotten them into the city yet...@§7[1/5] §2Llevigar Citizen: §a
+§7[2/5] §2Llevigar Citizen: §aHm- Whuh! H-Human! My land, but you can be quiet with all that armour on! §aEr...how§a much §adid...you§a hear, of that?@§7[2/5] §2Llevigar Citizen: §a
+§7[3/5] §2Llevigar Citizen: §aY-Yes, well... You're probably new to Gavel, so I'll inform you. I was worrying over a creation of 'Mistress' Qira.@§7[3/5] §2Llevigar Citizen: §a
+§7[4/5] §2Llevigar Citizen: §aSome kind of plant monster, sent to spy on us! There have been a rash of sightings recently, and the gardeners are lodging complaints.@§7[4/5] §2Llevigar Citizen: §a
+§7[5/5] §2Llevigar Citizen: §aIf you have any sense, you'll follow my advice: Do not go anywhere near that blasted Hive of hers! You'll end up dead, or enslaved, §aor...or...or§a worse!!@§7[5/5] §2Llevigar Citizen: §a
+§7[1/1] §2Edula: §aWhat is a Wynn warrior doing all the way over here?@§7[1/1] §2Edula: §a
+§7[1/2] §2Arzul: §aWe have §aseparate...sleeping§a §aquarters...for§a Doguns and Dwarves.@§7[1/2] §2Arzul: §a
+§7[2/2] §2Arzul: §aWe §awould...melt§a the §abeds...they§a sleep in... After §aall...we§a §aare...molten§a rock.@§7[2/2] §2Arzul: §a
+§7[1/3] §2Adoda: §aA fire starter? Yeah, I think I left one on the roof.@§7[1/3] §2Adoda: §a
+§7[2/3] §2Adoda: §aIf you can get up there you can help yourself to it.@§7[2/3] §2Adoda: §a
+§7[3/3] §2Adoda: §aI wasted a lot of money on that thing. Turns out lava does the same job.@§7[3/3] §2Adoda: §a
+§7[1/1] §2Aledar: §aNo no no, these are gems! I said to make §3[2 Ingots]§a! Make sure to §bleft-click§a when refining.@§7[1/1] §2Aledar: §a
+§7[1/1] §2Yansur: §aCome back when you are level 80. We will not accept applicants of the challenge who are not thoroughly prepared.@§7[1/1] §2Yansur: §a
+§7[1/1] §2Grenot: §aHey! Don't go in there, the mine is too dangerous!@§7[1/1] §2Grenot: §a
+§7[1/3] §2Aledar: §aOkay, you've refined the string. Follow me for the next step in the crafting process.@§7[1/3] §2Aledar: §a
+§7[1/1] §2Eltom Guard: §aGreetings, citi- hold on a second, you're not from here, are you?@§7[1/1] §2Eltom Guard: §a
+§7[1/1] §2Salesman: §aThose tightwad mages are out in Dernel, on the lake with the big island. I doubt you'll convince them to give you any healing water, though.@§7[1/1] §2Salesman: §a
+§7[1/1] §2Office Manager: §aHey! you are not permitted to enter the office!@§7[1/1] §2Office Manager: §a
 §7[1/11]§0 §2Scientist Ynnos:§a *Ahem* Welcome, everyone.
 §7[2/11]§0 §2Scientist Ynnos:§0 §aI am Ynnos, one of the leading scientists in Gavel. You’re here because.. Well you read the help wanted sign.
 §7[3/11]§0 §2Scientist Ynnos:§0 §aAllow me to explain the situation we’re in. It’s a series of unfortunate events. I study the amazing properties of crystals and other geodes.
