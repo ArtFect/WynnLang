@@ -7,54 +7,51 @@
 §cCannot start...@§cНельзя начать...
 §aCompleted!@§aПройден!
 
-§7Enter the ritual chamber @§7
-§7Approach Naragath's Altar @§7
-§7Travel deeper into the cave @§7
-§7Give the [Eye of Blood] @§7
-§7to Rismor @§7
+§7Enter the ritual chamber @§7Войди в ритуальную комнату
+§7Approach Naragath's Altar @§7Подойди к алтарю Naragath'а
+§7Travel deeper into the cave @§7Продвигайся вглубь пещеры
+§7Give the [Eye of Blood] @§7Отдай [Глаз Крови]
+§7to Rismor @§7Rismor'у
 
-§7seeds of corruption and destroy @§7
-§7Heliorion at @§7
+§7Mine [2 Copper Ore] and @§7Добудь [2 Медной Руды] и 
+§7bring it to the Old@§7принеси ее 
 
-§7Mine [2 Copper Ore] and @§7
-§7bring it to the Old@§7
+§7Oh no, you've shrunk again! @§7О нет, ты уменьшился снова! 
+§7What now? @§7Что теперь?
 
-§7Oh no, you've shrunk again! @§7
-§7What now? @§7
+§7Infiltrate the administrational office in @§7Проникни в административный офис 
+§7order to bring back the @§7и принеси
 
-§7Infiltrate the administrational office in @§7
-§7order to bring back the @§7
+§7Clue I: Toward the sunset, @§7Подсказка I: В направлении заката,
+§7among northern flowers shaded by @§7 среди северных цветов 
+§7quartz @§7в тени кварца
+§7Clue II: In a place @§7Подсказка II:В месте 
+§7of identity, above the leaves @§7идентификации, над листьями 
+§7and between the glass @§7и между стеклом
 
-§7the strange forest @§7
+§7Investigate the cave @§7Посети пещеру
 
-§7Clue I: Toward the sunset, @§7
-§7among northern flowers shaded by @§7
-§7quartz @§7
-§7Clue II: In a place @§7
-§7of identity, above the leaves @§7
-§7and between the glass @§7
+§7Eavesdrop on WynnExcavation's plans @§7Подслушай планы раскопщиков. 
 
-§7Investigate the cave @§7
+§7Find the house with a @§7Найди дом 
+§7way leading to a cave @§7со входом в пещеру 
+§7in the Orc's fortress @§7в лагере орков
 
-§7Eavesdrop on WynnExcavation's plans @§7
-
-§7Find the house with a @§7
-§7way leading to a cave @§7
-§7in the Orc's fortress @§7
-§7Investigate the ancient wizard's house @§7
-§7for clues at @§7
+§7Investigate the ancient wizard's house @§7Исследуй старый дом 
+§7for clues at @§7мага в поисках подсказок на
 §7[-163,29,-5388]@ 
-§7Follow the hints in the @§7
-§7cellar to find the mysterious @§7
-§7Follow the blood trail to @§7
-§7the Gryndilin chief's room @§7
-§7Defeat the Gryndilin chief, and @§7
-§7uncast the spell using Nedlom's @§7
-§7instructions @§7
-§7Enter the Embassy's lair through @§7
-§7the cherry blossom tree @§7
-§7Enter the chamber behind Togak @§7
-§7Choose @§7
+§7Follow the hints in the @§7С помощью подсказок в подвале
+§7cellar to find the mysterious @§7найди загадочную
+§7Follow the blood trail to @§7Иди по следу крови 
+§7the Gryndilin chief's room @§7в комнату шефа Gryndilin'а
+§7Defeat the Gryndilin chief, and @§7Победи Gryndilin шефа
+§7uncast the spell using Nedlom's @§7и используй заклинание по 
+§7instructions @§7инструкции Nedlom'а.
+
+§7Enter the Embassy's lair through @§7Войди в логово Посольства 
+§7the cherry blossom tree @§7через вишневое дерево
+§7Enter the chamber behind Togak @§7Войди в комнату позади Togak'а
+§7Choose @§7Выбери
 §7Find the envelope in the @§7
 §7cellar and return it to @§7
 §7the sender @§7
@@ -67,7 +64,8 @@
 §7the map to Relend @§7
 §7Set sail aboard Relend's ship @§7
 §7Bring a [Wooden Board], a @§7
- , and a 
+§7[Center Piece], and a @§7
+§7[String]@§7
 §7to the Crafting Table @§7
 §7Bring the [Steering Wheel] to @§7
 §7Captain Relend @§7
