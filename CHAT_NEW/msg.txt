@@ -742,7 +742,6 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Rynver'а снов
 §7§l§nThe End.@§7§l§nКонец.
 §fChicken Disguise@§fПеревоплощение в курицу
 §7Disguise yourself as a chicken@§7Перевоплощение себя в курицу
-§7It feels as though demons are starting to consume your mind... Maybe it wasn't a good idea to enter this place...@§7Такое чувство, что демоны начинают поглощать твой разум... может быть это не лучшая идея, чтобы идти в это место...
 §d     -§7 Lore: §f§oThis strange island is home to the province's one and only zoo. The owner thought out in the ocean the creatures would be safe from the corruption, but the zoo doesn't get many visitors.@§d     -§r§7 Лор: §r§f§oЭтот странный остров является домом для одного и единственного зоопарка в провинции. Владелец продумал, что в океане существа будут в безопасности от порчи, однако зоопарк не пользуется популярностью у посетителей.
 §d     -§7 Lore: §f§oIt is said that the Leaf Crystal was buried here. Once WynnExcavation finds it, they'll have all four of the crystals scattered across Wynn, granting them unfathomable power.@§d     -§r§7 Лор: §r§f§oПо слухам, земляной кристалл был закопан здесь. Если WynnExcavation найдут его, то получат все четыре кристалла из провинции Wynn, что гарантирует им безграничную власть
 §7Two fundamental forces exist in our world. One of Darkness, and one of Light.@§7Две основные силы, которые существуют в нашем мире. Одна из Тьмы, и одна из Света.
@@ -759,7 +758,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Rynver'а снов
 §7Hello! This is engineer Buine. I have installed the "STOP ENGINE" button, just like you asked.@§7Привет! Это инженер Buine. Я установил кнопку остановки двигателя "STOP ENGINE", как ты и просил.
 §7It was supposed to be in the cargo hold, right? That room by the stairs? Anyways, it's there. @§7Она должна быть в грузовом отсеке, верно? В комнате по лестнице? Неважно, она уже там.
 §7My job is done, I'll be expecting my payment by this time next week.@§7Моя работа завершена, так что жду оплаты на следующей неделе.
-§4You hit an invisible barrier, but you don't see anything around anyways.@§7Ты уткнулся в невидимый барьер, но ты не видишь ничего вокруг.
+§4You hit an invisible barrier, but you don't see anything around anyways.@§4Ты уткнулся в невидимый барьер, но ты не видишь ничего вокруг.
 §d     -§7 Lore: §f§oOnly the most revered of scholars and adventurers are allowed inside of the Temple of Legends. Just entering this place is a testament to your victory against the Corrupter of Worlds.@§d     -§r§7 Лор: §r§f§oВнутрь храма легенд допускаются только самые почитаемые ученые и искатели приключений. Сам вход в это место уже является доказательством вашей победы против Разрушителя Миров
 §d     -§7 Lore: §f§oIt is said that each province has a magical spring that grants people eternal life.@§d     -§r§7 Лор: §r§f§oГоворят, что в каждой провинции есть волшебный источник, дающий людям вечную жизнь.
 §d     -§7 Lore: §f§oAn arena for those who wish to truly test their mettle after being admitted into the Temple of the Legends, where fierce training takes place.@§d     -§r§7 Лор: §r§f§oАрена для тех, кто хочет по-настоящему испытать свою храбрость после принятия в Храм Легенд - места, где проходит ожесточенное обучение.
@@ -769,36 +768,36 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Rynver'а снов
 §71 Minute Remaining...@§71 Минута осталась
 §730 Seconds Remaining...@§730 Секунд осталось
 §715 Seconds Remaining...@§715 Секунд осталось
-§6§lThe Mysterious Manor §a§lSUCCESS@§6§lЗагадочное Поместье §2§lУСПЕХ
+§6§lThe Mysterious Manor §a§lSUCCESS@§6§lЗагадочное Поместье §a§lУСПЕХ
 §7Meet the owner of the manor in the courtyard.@§7Встреть хозяина поместья во дворе.
 §d     -§7 About Discovery: §f§oThis library tells a tale that the government of Corkus has kept secret. Rumors tell that more mysterious libraries like this one are hidden across the world.@§d     -§r§7Об открытии: §r§f§oЭта библиотека расскажет тебе историю о том, что у правительства Corkus'а есть свои секреты. По слухам во всем мире есть еще несколько таких скрытых библиотек.
 §f885 AP (After Portal)@§f885 ПП (После Портала)
-§d                  §d§lSiegfried, Hero of Gavel@§7Siegfried - герой Gavel'a
-§7    §7§oIn recent times, Gavel has been threatened by many monsters. But wherever trouble lurks, the province can always depend on its legendary hero, Siegfried.@§7В последнее время Gavel был под угрозой со стороны многих монстров. Но где бы ни скрывалась беда, провинция всегда может рассчитывать на своего легендарного героя - Siegfried'a.
-§7    §7§oEveryone in Gavel has their own tale to tell about Siegfried’s tremendous strength and skill. He has saved many lives.@§7У каждого в Gavel'e есть своя история с рассказом об огромной силе и мастерстве Siegfried'a. Он спас много жизней.
-§7    §7§oWynn may have had Bob as its hero, but Gavel has Siegfried. His books are all province wide best sellers! Bob doesn't even have a book!@§7У провинции Wynn был Bob в качестве героя, а у Gavel'a есть Siegfried. Его книги -  бестселлеры по всей провинции! У Bob'a даже нет своей книги!
+§d                  §d§lSiegfried, Hero of Gavel@                 §d§lSiegfried - герой Gavel'a
+§7    §7§oIn recent times, Gavel has been threatened by many monsters. But wherever trouble lurks, the province can always depend on its legendary hero, Siegfried.@§7§oВ последнее время Gavel был под угрозой со стороны многих монстров. Но где бы ни скрывалась беда, провинция всегда может рассчитывать на своего легендарного героя - Siegfried'a.
+§7    §7§oEveryone in Gavel has their own tale to tell about Siegfried’s tremendous strength and skill. He has saved many lives.@§7§oУ каждого в Gavel'e есть своя история с рассказом об огромной силе и мастерстве Siegfried'a. Он спас много жизней.
+§7    §7§oWynn may have had Bob as its hero, but Gavel has Siegfried. His books are all province wide best sellers! Bob doesn't even have a book!@§7§oУ провинции Wynn был Bob в качестве героя, а у Gavel'a есть Siegfried. Его книги -  бестселлеры по всей провинции! У Bob'a даже нет своей книги!
 §7Theorists explain of a world in the distant future of advanced supertechnology downsized to small portable devices containing endless knowledge and information all at the tip of your fingers, yet this shows little to no promise of becoming reality.@§7Теоретики описывают мир далекого будущего, в котором будут продвинутые супертехнологии со знаниями всего мира, помещающиеся на руке. Но пока неизвестно, станет ли это реальностью и стоит ли этому доверять.
 §7The sheep raises its head to look at you, then returns to its business.@§7Овца поднимает голову, чтобы посмотреть на тебя, а затем возвращается к своему делу.
 §4You should not go into this mansion without permission.@§7Ты не должен заходить в это поместье без разрешения.
 §dLetter Swirl Effect@§dЭффект вращающихся букв
-§7Create a letters effect around your character@Создает эффект вращающихся букв вокруг игрока
+§7Create a letters effect around your character@§7Создает эффект вращающихся букв вокруг игрока
 §d     -§7 About Discovery: §f§oThe history of the Avos has remained largely unknown, but this monument of Avos ancestry might hold the ancient secrets that historians have been looking for.@§d     -§r§7Об открытии: §r§f§oИстория расы Avos'ов мало известна, однако этот монумент их происхождения может содержать древние секреты, которые так ищут историки. 
 §7The cow raises its head to look at you, its eyes flare at the sight of the green tea.@§7Корова поднимает голову чтобы посмотреть на тебя, ее глаза направлены на кружку чая.
 §7You gesture the tea generously towards the cow, and place it on the ground for it to drink. The cow nods respectively to you.@§7Ты подносишь чай к корове и аккуратно ставишь его на землю, чтобы выпить. Корова поклоняется, чтобы отблагодарить тебя.
 §7The cow raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@§7Корова поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
-§fPig Disguise@§dПеревоплощение в свинью
-§7Disguise yourself as a pig@Перевоплощение себя в свинью
-§7    §7§oA long, long time ago. Our people, the Avos, hid a very powerful accessory.@§7Давным-давным-давно наши люди, Avos'ы, спрятали очень мощный аксессуар.
-§7    §7§oNo one really knows where it is, only the chosen ones, the ones who hid it.@§7Никто на самом деле не знает, где он, только избранные - те, кто его спрятал.
-§7    §7§oHowever, various clues have been scattered around our island. In case we needed the necklace again.@§7Однако, различные подсказки были разбросаны по всему нашему острову. На случай, если нам снова понадобится амулет.
-§7    §7§oThe necklace was sealed away because of the Corkians increased power. The necklace cannot be used in the wrong hands.@§7Амулет был запечатан из-за того, что Corkian'цы повысили свою мощь. Амулет не должен попасть не в те руки.
-§7    §7§oIt's infused with our own nature magic, we charged the necklace with the strongest winds.@§7Он наполнен нашей собственной магией природы, мы заряжали ожерелье сильнейшими ветрами.
-§7    §7§oThe first clue lays behind the hut with red cloth, in a cave with torturous rocks.@§7Первая подсказка лежит за хижиной с красной тканью, в пещере с мучительными камнями.
+§fPig Disguise@§fМаскировка в свинью
+§7Disguise yourself as a pig@§7Маскировка себя в свинью
+§7    §7§oA long, long time ago. Our people, the Avos, hid a very powerful accessory.@§7§oДавным-давным-давно наши люди, Avos'ы, спрятали очень мощный аксессуар.
+§7    §7§oNo one really knows where it is, only the chosen ones, the ones who hid it.@§7§oНикто на самом деле не знает, где он, только избранные - те, кто его спрятал.
+§7    §7§oHowever, various clues have been scattered around our island. In case we needed the necklace again.@§7§oОднако, различные подсказки были разбросаны по всему нашему острову. На случай, если нам снова понадобится амулет.
+§7    §7§oThe necklace was sealed away because of the Corkians increased power. The necklace cannot be used in the wrong hands.@§7§oАмулет был запечатан из-за того, что Corkian'цы повысили свою мощь. Амулет не должен попасть не в те руки.
+§7    §7§oIt's infused with our own nature magic, we charged the necklace with the strongest winds.@§7§oОн наполнен нашей собственной магией природы, мы заряжали ожерелье сильнейшими ветрами.
+§7    §7§oThe first clue lays behind the hut with red cloth, in a cave with torturous rocks.@§7§oПервая подсказка лежит за хижиной с красной тканью, в пещере с мучительными камнями.
 §d     -§7 About Discovery: §f§oLong ago, the Avos hid away a powerful necklace. Despite the many tales and legends of it, it has never been located until now.@§d     -§r§7Об открытии: §r§f§oДавным-давно Avos'ы спрятали мощный амулет. Несмотря на множество сказаний и легенд о нем, он никогда не был найден до этого момента.
-§3You are no longer disguised as a §bpig@§3Ты больше не маскируешьсяь под §bсвинью
+§3You are no longer disguised as a §bpig@§3Ты больше не маскируешься под §bсвинью
 §d     -§7 Lore: §f§oThe entryway to the Molten Heights, a fiery den of volcanoes. It's the home of the Dwarves, and the last remaining Doguns.@§d     -§r§7 Лор: §r§f§oВход в Molten Heights - огненное логово вулканов. Это дом гномов, и остатков выживших Dogun'ов'' 
 §d     -§7 Lore: §f§oThis massive statue is often thought not to be merely a still monument, but actually a living being.@§d     -§r§7 Лор: §r§f§oЭта массивная статуя часто считается не просто памятником, а на самом деле живым существом
-§7§lHelp wanted.@§l§7Требуется помощь.
+§7§lHelp wanted.@§l§7§lТребуется помощь.
 §7Employer: Scientist Ynnos.@§7Работодатель: Ученый Ynnos.
 §7Job Description: Manual labour, exploration, protection.@§7Описание работы: Ручной труд, исследования, защита.
 §7Location: Ahmsord Research facility [1118,101,-4520] .@§7Расположение: Исследовательский центр Ahmsord'a [1118, 101, -4520].
@@ -811,7 +810,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Rynver'а снов
 §7The submarine starts moving again.@§7Субмарина снова начинает двигаться.
 §7Report to the sleeping quarters until you reach the next island.@§7Сообщи спящим пассажирам, когда достигнете следующего острова.
 §7The submarine grinds to a halt.@§7Подлодка со скрипом останавливается.
-§f§nExperiment Notes: Project "Slingra"§r@§f§nЭкспериментальные Записи: Проект "Slingra"§r
+§f§nExperiment Notes: Project "Slingra"§r@§f§nЭкспериментальные Записи: Проект "Slingra"§
 §7You try to read the label, but it strains your eyes just looking at it. All you can make out is "Vial of D§r§7§kern§r§7§k§mic E§r§7§o§k§mss§r§4§o§k§mence§r"§r§7...§r@§7Ты пытаешься прочитать этикетку, но даже взгляд на нее напрягает глаза. Все что ты можешь прочитать это "Пробирка D§r§7§kern§r§7§k§mic E§r§7§o§k§mss§r§4§o§k§mence§r"§r§7...§r
 §7Entry 6: I have discovered something darker. Stronger. If I can harness this power, I can be§r§7§kcome the GOD of this world.§r@§7Запись 6: Я открыл нечто темное. Сильное. Если мне удастся впитать эту силу, то я смогу стать §r§7§kБОГОМ этого мира.
 §4A strong gust of magical wind prevents you from going further into the cave...@§4Сильный порыв магического ветра мешает тебе пройти дальше в пещеру...
