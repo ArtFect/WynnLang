@@ -1,4 +1,3 @@
-§6\[Info\] §eWatch your personal progress at §6wynncraft.com\/stats\/player\/([a-zA-Z0-9_]{1,16})§e!@§6[Инфо] §eСмотри свою персональную статистику на §6(r1)§e!
 общий
 §(7|e)\[(.*)\](.*): §(f|7)(.*)@ 
 гильдия
@@ -11,6 +10,7 @@
 §3(.*) \[WC(.*)\] shouts: §b(.*)@ 
 лобби
 §7\[(.*)§7\] §f(.*)@ 
+§6\[Info\] §eWatch your personal progress at §6(.*)§e!@§6[Инфо] §eСмотри свою персональную статистику на §6(r1)§e!
 §6\[Info\] §eLook at your own personal stats at §6(.*)§e!@§6[§eИнфо§6] §eПосмотри свою персональную статистику на §6(r1)§e!
 §4(.*)§c is currently on server (.*)@§4(r1)§c сейчас на сервере (r2)
 §b(.*)§7 gave you §c\[\+(.*)\].@§b(r1)§7 дал тебе §c[+(r2)].
