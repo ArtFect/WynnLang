@@ -701,23 +701,23 @@ To repair the mechanical core, select a color and connect the clay with the same
 §7It is dated 78 AP (After Portal). This is how the last entry reads.@§7Это датировано 78 ПП (После Портала). Так заканчивается последняя запись.
 §7[+1 Selchar Teleportation Scroll]@§7[+1 Selchar свиток телепортации]
 §cYou must be a Chief to use this command.@§cТы должен быть Шефом чтобы использовать эту команду.
-§5Guild Master: §dYou must leave your current guild before making your own. Type /guild leave@§7Guild Master: Ты должен выйти из своей текущей гильдии, чтобы создать свою. Напиши /guild leave
+§5Guild Master: §dYou must leave your current guild before making your own. Type /guild leave@§5Guild Master: §dТы должен выйти из своей текущей гильдии, чтобы создать свою. Напиши /guild leave
 §7May the woman who died here in tonight's raid rest in peace. Though we did not know her name, her memory will live on through her son.@§7Пусть женщина, которая умерла здесь сегодня во время ночной осады, покоится с миром. Хоть мы не знали ее имени, память о ней будет жить через ее сына.
 §d     -§7 About Discovery: §f§oThis ancient monument only opens to those it deems worthy. Inside is contained secrets of the Wynn Plains that few eyes have ever seen.@§d     -§r§7Об открытии: §r§f§o
-§7§oBy 886 AP, years of attacks left Ragni on its knees.@§7К 886 году ПП, годы атак поставили Ragni на грань уничтожения.
-§7§oBak'al, leader of the corrupt, lead one final attack on the fort to finish it.@§7Bak'al, лидер порчи, возглавил последнюю атаку на город, чтобы прекратить его существование.
-§7§oHowever, a hero fresh from his training around the province, returned.@§7Однако герой, только что прошедший обучение по всей провинции, вернулся.
-§7§oBob stood against Bak'al for the first time and demonstrated magic unseen by human eyes.@§7Bob впервые выступил против Bak'al'a и продемонстрировал неведомую человеческим глазам магию.
-§7§oSince then, Bak'al has not been able to enter a city and the Human population began to recover.@§7С тех пор Bak'al не смог войти в город, и человеческая популяция начала восстанавливаться.
-§7§oOnly Bob has ever been able to effectively stand against Bak'al.@§7Только Bob смог эффективно противостоять Bak'al'у.
-§7§oBob has been missing since 984 AP.@§7Bob пропал без вести в 984 году ПП.
+§7§oBy 886 AP, years of attacks left Ragni on its knees.@§7§oК 886 году ПП, годы атак поставили Ragni на грань уничтожения.
+§7§oBak'al, leader of the corrupt, lead one final attack on the fort to finish it.@§7§oBak'al, лидер порчи, возглавил последнюю атаку на город, чтобы прекратить его существование.
+§7§oHowever, a hero fresh from his training around the province, returned.@§7§oОднако герой, только что прошедший обучение по всей провинции, вернулся.
+§7§oBob stood against Bak'al for the first time and demonstrated magic unseen by human eyes.@§7§oBob впервые выступил против Bak'al'a и продемонстрировал неведомую человеческим глазам магию.
+§7§oSince then, Bak'al has not been able to enter a city and the Human population began to recover.@§7§oС тех пор Bak'al не смог войти в город, и человеческая популяция начала восстанавливаться.
+§7§oOnly Bob has ever been able to effectively stand against Bak'al.@§7§oТолько Bob смог эффективно противостоять Bak'al'у.
+§7§oBob has been missing since 984 AP.@§7§oBob пропал без вести в 984 году ПП.
 §cLooking for missing quest items...@§cИщем пропавшие квестовые предметы...
-§4You can hear a loud humming coming from the hole, you should not go in there.@§7Ты слышишь громкое гудение, идущее из этого отверстия; ты не должен идти туда.
-§cYou have no missing quest items... Check your bank and other class inventories@§7У тебя нет пропавших квестовых предметов... Проверь свой банк и инвентари других классов
+§4You can hear a loud humming coming from the hole, you should not go in there.@§4Ты слышишь громкое гудение, идущее из этого отверстия; ты не должен идти туда.
+§cYou have no missing quest items... Check your bank and other class inventories@§cУ тебя нет пропавших квестовых предметов... Проверь свой банк и инвентари других классов
 §4This mine looks abandoned and dangerous, you should best stay away from it.@§4Эта шахта выглядит заброшенной и опасной, тебе лучше держаться от нее подальше.
 §d     -§7 About Discovery: §f§oFollowing the death of the Emperor, sandstorms raged across the land, and the Eagle Tribe was forced to take refuge in an abandoned prayer cave.@§d     -§r§7Об открытии: §r§f§oПосле смерти императора песчаные бури бушевали по всей земле, и племя Орлов было вынуждено укрыться в заброшенной молитвенной пещере. 
-§7Even though you can clearly hear the tribesmen talking they appear to be speaking in a language you've never heard before.@§7Даже при том, что вы можете ясно слышать, как говорят соплеменники, они, кажется, говорят на языке, который вы никогда не слышали раньше.
-§7It's a child's book. It's covered in pictures of sandstorms featuring some kind of stick.@Это детская книжка. Онf покрытf изображениями песчаных бурь с неким подобием палки.
+§7Even though you can clearly hear the tribesmen talking they appear to be speaking in a language you've never heard before.@§7Даже при том, что ты не можешь ясно слышать, как говорят соплеменники, они, кажется, говорят на языке, который ты никогда не слышал раньше.
+§7It's a child's book. It's covered in pictures of sandstorms featuring some kind of stick.@§7Это детская книжка. Она покрыта изображениями песчаных бурь с неким подобием палки.
 §d     -§7 About Discovery: §f§oWhen the Creden Tibus discovered the Emperor's Sceptre in an ancient, hidden temple, they decided to hide it closer to home. After many generations, they grew paranoid, and moved it once more.@§d     -§r§7Об открытии: §r§f§oКогда Creden Tibus обнаружили скипетр императора в скрытом древнем храме, они решили спрятать его ближе к дому. Через много поколений у них развилась паранойя, и они перепрятали его еще раз. 
 §7It appears that the bandits took some of your money while you were unconscious@§7Похоже, что бандиты забрали часть твоих денег, пока ты был без сознания
 §d     -§7 About Discovery: §f§oAfter being kicked out of the Wynn cities during the Corruption War, a growing number of bandits began to reassimilate in the desert and mesa.@§d     -§r§7Об открытии: §r§f§oПосле изгнания из городов провинции Wynn, во время войны с порчей, все большее число бандитов начали переселяться в пустыню и на плато. 
@@ -732,17 +732,17 @@ To repair the mechanical core, select a color and connect the clay with the same
 §7You realize you should probably make sure Aryn is all right before continuing...@§7Тебе нужно удостовериться, что с Aryn все в порядке, прежде чем уйти...
 §d     -§7 Lore: §f§oThe largest greenskin base in Gavel, the fortress has been overtaken by Orcs under their leader, Gorgu.@§d     -§r§7 Лор: §r§f§oКрупнейшая база зеленокожих в провинции Gavel.Крепость была захвачена орками под командованием их предводителя, Gorgu
 §d     -§7 Lore: §f§oGavel's counterpart to Wynn's Fountain of Youth, the Lazarus Pit has been resurrecting the dead inmates of the nearby prison.@§d     -§r§7 Лор: §r§f§oАналог фонтана молодости из провинции Wynn. Яма воскрешала мертвецов из ближайшей тюрьмы
-§4It doesn't look like he can speak. His throat looks terribly swollen. You offer him the bottle...@§7Не похоже, что он может говорить. У него ужасно распухло горло. Ты предлагаешь ему бутылку...
-§4He snatches it out of your hands and chugs the entire bottle down. You can see the swelling reduce, and color return to his face.@§7Он выхватывает ее у тебя из рук и выпивает всю бутылку. Ты можешь видеть, как опухоль уменьшается, и цвет возвращается к его лицу."
+§4It doesn't look like he can speak. His throat looks terribly swollen. You offer him the bottle...@§4Не похоже, что он может говорить. У него ужасно распухло горло. Ты предлагаешь ему бутылку...
+§4He snatches it out of your hands and chugs the entire bottle down. You can see the swelling reduce, and color return to his face.@§4Он выхватывает ее у тебя из рук и выпивает всю бутылку. Ты можешь видеть, как опухоль уменьшается, и цвет возвращается к его лицу."
 §4You hear a buzzing sound, so you don't enter.@§4Ты слышишь жужжащий звук, поэтому решаешь не идти туда
-§4The spot gurgles and the ground bubbles around you. A dead bush slowly grows from the center.@§7Место булькает и образуются пузыри вокруг тебя. Мертвый куст медленно растет из центра.
+§4The spot gurgles and the ground bubbles around you. A dead bush slowly grows from the center.@§4Место булькает и образуются пузыри вокруг тебя. Мертвый куст медленно растет из центра.
 §d     -§7 Lore: §f§oIn the midst of Decay, a massive amount of light is emanating from this root.@§d     -§r§7 Лор: §r§f§oВ самом центре заражения есть большой поток света, излучающийся из этого корня
 §7The roots of the tree grasp your feet and plunge you into a mysterious fog.@§7Корни дерева схватили тебя за ноги и погрузили в таинственный туман.
 Rynver's teeth fall out of his mouth as he talks.@§7Зубы Rynver'а снова выпадают изо рта во время разговора
-§7§l§nThe End.@§7Конец.
-§fChicken Disguise@§dПеревоплощение в курицу
+§7§l§nThe End.@§7§l§nКонец.
+§fChicken Disguise@§fПеревоплощение в курицу
 §7Disguise yourself as a chicken@§7Перевоплощение себя в курицу
-§7It feels as though demons are starting to consume your mind... Maybe it wasn't a good idea to enter this place...@Такое чувство, что демоны начинают поглощать твой разум... может быть это не лучшая идея, чтобы идти в это место...
+§7It feels as though demons are starting to consume your mind... Maybe it wasn't a good idea to enter this place...@§7Такое чувство, что демоны начинают поглощать твой разум... может быть это не лучшая идея, чтобы идти в это место...
 §d     -§7 Lore: §f§oThis strange island is home to the province's one and only zoo. The owner thought out in the ocean the creatures would be safe from the corruption, but the zoo doesn't get many visitors.@§d     -§r§7 Лор: §r§f§oЭтот странный остров является домом для одного и единственного зоопарка в провинции. Владелец продумал, что в океане существа будут в безопасности от порчи, однако зоопарк не пользуется популярностью у посетителей.
 §d     -§7 Lore: §f§oIt is said that the Leaf Crystal was buried here. Once WynnExcavation finds it, they'll have all four of the crystals scattered across Wynn, granting them unfathomable power.@§d     -§r§7 Лор: §r§f§oПо слухам, земляной кристалл был закопан здесь. Если WynnExcavation найдут его, то получат все четыре кристалла из провинции Wynn, что гарантирует им безграничную власть
 §7Two fundamental forces exist in our world. One of Darkness, and one of Light.@§7Две основные силы, которые существуют в нашем мире. Одна из Тьмы, и одна из Света.
