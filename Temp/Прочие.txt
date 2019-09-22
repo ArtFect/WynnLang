@@ -23,6 +23,43 @@
 §aYour particle limit is now §fhighest (-1)
 §d            - §7+Elven Medallion / Receipt
 §d            - §7+Access to Aldorei Town
+§d            - §7+1 Undergrowth Ruins Key
+§d            - §7+Dusty Passport
+§d            - §7+Access to fast-travel between Cinfras and Detlas
+§d            - §7+Access to the Undergrowth Ruins Dungeon
+§d            - §7+Access to the Ingredient shop in Maex
+§d            - §7+A gift from Likeru
+§d            - §7+Access to Outpost
+§d            - §7+Access to the Realm of Light
+§d            - §7+1 Crushed Bigfoot Bone
+§d            - §7+1 Guard's Uniform
+§d            - §7+1 Mummy's Rag
+§d            - §7+Caissop's Master Piece
+§d            - §7+Access to the Dernel Tribe shop
+§d            - §7+Access to Zhight Grand Exchange
+§d            - §7+Access to Zhight Treasure Tour
+§d            - §7+16 Zhight Money
+§d            - §7+1 Dodegar's Ultimate Weapon
+§d            - §7+ Access to fast travel between Thesead and Eltom
+§d            - §7+ Access to Rymek elevators
+§d            - §7+1 Corrupted Potato
+§d            - §7+42 Gold Bars
+§d            - §7+ Access to The Passage
+§d            - §7+1 Red Crystal Shard
+§d            - §7+1 Troll Hair
+§d            - §7+1 Dogun Badge of Trust
+§d            - §7+Access to the Molten Heights elevators
+§d            - §7+1 Emerald
+§d            - §7+1 Galleon's Graveyard Key
+§d            - §7+1 Fallen Factory Key
+§d            - §7+Access to the hot air balloon quick-travel
+§d            - §7+Access to the Fallen Factory Dungeon
+§d            - §7+1 Letter to Korzim
+§d            - §7+Access to the Thanos-Rodoroc trading tunnel
+§d            - §7+1 Corrupted Treasure
+§d            - §7+1 Mech Core
+§d            - §7+1 Maxie's House Key
+§d            - §7+1 Royal Token of Gratitude
 §7[+Witherhead's Rib]
 §7[+Decrepit Sewers Fragment]
 §a                            Slay Lv. 10+ Mobs
@@ -37,7 +74,6 @@
 §6You've lost:
 §4You make your way out of the cave...
 §4A bunch of slimes line the floor of the cave. It's probably best not to get stuck in there...
-§d            - §7+1 Undergrowth Ruins Key
 §4You need a progressed character to unlock skip!
 §7[+Theorick's Ice Shard]
 §7[+Ice Barrows Fragment]
@@ -48,7 +84,6 @@
 §4You can not board the ship before speaking to the controllant!
 §7Sneak around the guards in the darkness, and they will not see you...
 §c[Click to Stop Tracking]§4 or hold the book to track
-§d            - §7+Dusty Passport
 §4You still have more important things to do! You can only sleep it through when it is all finished.
 §4You need to speak to the missing child before you go back!
 §7After a few hours sleep...
@@ -62,8 +97,6 @@ Kill the queen in order to obtain it.
 §aYou have the key! You opened the door.
 §7Head down to the entrance deck, and get off
 §7[Quest book updated]
-§d            - §7+Access to fast-travel between Cinfras and Detlas
-§d            - §7+Access to the Undergrowth Ruins Dungeon
 §4Looks like the gerts are having a meeting. Step back before they see you!
 §4Don't run too fast! You'll miss out on some information.
 §4The camp is filled with gerts. You should probably get a mask first, if you want to enter.
@@ -86,10 +119,7 @@ Kill the queen in order to obtain it.
 §dYou have been given a §bdouble XP boost§d for 24 hours.
 §4You can't continue until you've destroyed the first organ.
 §7You must be holding The Staff of True Ice to destroy the organs.
-§d            - §7+Access to the Ingredient shop in Maex
-§d            - §7+A gift from Likeru
 §7[You need §3[1 Taproot]§7 and §3something as loud as §3§lthunder§7 to start this quest]
-§d            - §7+Access to Outpost
 §7E
 §7F P
 §7T O Z
@@ -99,8 +129,6 @@ Kill the queen in order to obtain it.
 §7F E L O P Z D
 §7D E F P O T E C
 §4Breaking and entering is illegal.
-§d            - §7+Access to the Realm of Light
-§d            - §7+1 Crushed Bigfoot Bone
 §4ERROR
 §c                               Win Dungeons
 §7One of these tunnels must be the correct one...
@@ -114,37 +142,26 @@ Kill the queen in order to obtain it.
 §7A massive corrupted pit is visible in the distance, to the north-east. A similarly huge dark hand seems to be sprouting from within it. It strains your mind to view...
 §4., §4§lSTAY§4;.  '§4§lAWAY§4:, .§4§lFROM§4;,  ,.; §4§l[157,78,-377] §4':,
 §4.;§4§lI§4. ,§4§ltold§4;. .,§4§lyou§4; :§4§lto§4, .,§4§lstay§4; .§4§laway§4';
-§d            - §7+1 Guard's Uniform
 §4You can feel the magic coming from the catacombs...
 §5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour, ingredients, resources, and crafted items.
 §3[§3WAR]§c §cThey will be there in 45 seconds.
 §4There is no more room in this trade, sorry!
-§d            - §7+1 Mummy's Rag
 §7[+Arakadicus' Eye]
 §7[+Infested Pit Fragment]
-§d            - §7+Caissop's Master Piece
 §4This isn't the kind of place to play in...
 §7[+Access To The Resources Tunnels]
 §5That player is too far away! Get closer...
-§d            - §7+Access to the Dernel Tribe shop
 §7[+1 Potion of Drunkness]
 §7[+3 Zhight Money]
-§d            - §7+Access to Zhight Grand Exchange
-§d            - §7+Access to Zhight Treasure Tour
-§d            - §7+16 Zhight Money
-§d            - §7+1 Dodegar's Ultimate Weapon
 §4You may only contribute emeralds to the guild.
 §7To escape your cell you must pick this weird lock. It seems that spinning a ring will spin the rings next to it the other way.
 §cI'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
-§d            - §7+ Access to fast travel between Thesead and Eltom
-§d            - §7+ Access to Rymek elevators
 §7A message is carved into the obsidian: “§e§oBeneath the cowl of an eastern titan, keeping watch over our heads§7”
 §7You should return to Damiral and tell him where Hastor's treasure is hidden.
 §7[+1 Thunder Powder II]
 §bYou have received:
 §fFire Attack Effect
 §7Create a fire effect whenever you hit!
-§d            - §7+42 Gold Bars
 §7[Required: Breathing Helmet II]
 §4The hill is too steep. You should try and go through the entrance in the side of the mountain.
 §a- §7Ice Snake will throw a snake of ice, freezing your enemies over a long distance
@@ -180,7 +197,6 @@ Kill the queen in order to obtain it.
 §7[+Hashr's Bone]
 §7[+Sand-Swept Tomb Fragment]
                          §4[Objective Completed]
-§d            - §7+1 Corrupted Potato
 §4The hostility you once felt now faded away...
 §7[+1 Skill Reset Scroll]
 §c                           Gather Resources
@@ -190,7 +206,6 @@ Kill the queen in order to obtain it.
 §4You successfully escaped.
 §4You got past the guards, you must retrieve the crystal.
 §4You make your way out of the cave.
-§d            - §7+1 Red Crystal Shard
 §4A Factory Helmet is required to enter.
 §4INTRUDER ALERT
 §a>All systems online.
@@ -198,7 +213,6 @@ Kill the queen in order to obtain it.
 §a>Warp chamber now ready for use.
 §a>Commencing warp sequence...
 §c§kThe forgotten scientist requested a utensil.
-§d            - §7+ Access to The Passage
 §a>Starting up...
 §a>Permissions update requested. Beginning process...
 §a>Processes complete. Permissions successfully updated.
@@ -281,7 +295,6 @@ Kill the queen in order to obtain it.
 §7[+Corrupted Infested Pit Fragment]
 §4Even though the guard is sleeping, it'd probably be impolite to pass.
 §d     -§7 Lore: §f§oThe only residence of dwarves outside of the Molten Heights, Thanos has been decimated by Ozoth, a powerful dragon feared across the entire province.
-§d            - §7+1 Troll Hair
 §7[+1 Old Pirate Hook]
 §a                            Slay Lv. 30+ Mobs
 §7The barrier seems to push you back.
@@ -291,17 +304,11 @@ Kill the queen in order to obtain it.
 §7[+Underworld Crypt Fragment] 
 Unknown command. Type "/help" for help.
 §4A creepy sound is heard from the storage room.
-§d            - §7+1 Dogun Badge of Trust
-§d            - §7+Access to the Molten Heights elevators
 §7The Doguns are discussing plans on how to fight back...
 §4You shouldn't enter this place yet!
 §e§oAre you sure you want to §e§o§nreset§e§o the puzzle?
 §7 >Left-click again to continue
-§d            - §7+1 Letter to Korzim
-§d            - §7+Access to the Thanos-Rodoroc trading tunnel
-§d            - §7+1 Corrupted Treasure
 §4You notice a villager exploring this cave. You shouldn't bother him.
-§d            - §7+1 Mech Core
 §3[§3WAR]§c §cUse /guild defend to defend this territory.
 §3[§3WAR]§c §cYour guild bank will receive a portion of the emeralds
 §3[§3WAR]§c §cfrom mob drops and 3x the xp earned in the territory.
@@ -311,9 +318,6 @@ Unknown command. Type "/help" for help.
 §7The basement door has been opened.
 §3[§3WAR]§c §cThe war will start in 4 minutes.
 §3[§3WAR]§c §cThe war will start in 3 minutes and 30 seconds.
-§d            - §7+1 Fallen Factory Key
-§d            - §7+Access to the hot air balloon quick-travel
-§d            - §7+Access to the Fallen Factory Dungeon
 §3[§3WAR]§c §cThe war will start in 3 minutes.
 §3[§3WAR]§c §cThe war will start in 2 minutes and 30 seconds.
 §3[§3WAR]§c §cThe war will start in 2 minutes.
@@ -340,7 +344,6 @@ Unknown command. Type "/help" for help.
 §4A frosty wind is coming from the tunnel and pushing you back.
 §c                              Gather Crops
 §7A weird sound can be heard in the distance.
-§d            - §7+1 Maxie's House Key
 §4You've already linked your Minecraft account to the forums
 §cInvalid Arguments. Example: /guild join [Guild Prefix]
 §cInvalid price! Please try again with a number.
@@ -412,8 +415,6 @@ You are not whitelisted on this server!
 §4The mines look extremely dark. Better not risk getting lost without a good reason.
 §a- §7Spider Jump will throw yourself backwards, giving you time to escape. You can hold shift to quickly drop down.
 §4This command is VIP+ only! Buy VIP+ at §cstore.wynncraft.com
-§d            - §7+1 Emerald
-§d            - §7+1 Galleon's Graveyard Key
 §7[+1 Map Piece]
 §7[+1 Treasure Map]
 §d            - §7+1 Golden Pirate Fish
@@ -527,7 +528,6 @@ Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.
 §7Disguise your wand as a piece of food
 §3You are now disguised as a §bpig
 §7The Corners Hold The Key
-§d            - §7+1 Royal Token of Gratitude
 §dAir Aura Effect
 §7Create a air aura effect around your character
 §aSending you our custom resource pack...
