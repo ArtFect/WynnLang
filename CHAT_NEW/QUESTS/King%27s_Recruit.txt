@@ -81,6 +81,7 @@
 §7[1/1] §2Aledar: §bLeft-click§a on the refinery, then follow the instructions to make §3[2 String]§a for your weapon.@§7[1/1] §2Aledar: §bЛевый-клик§a по машине, а затем следуй инструкциям чтобы сделать §3[2 Нитки]§a для твоего оружия.
 §7[1/1] §2Aledar: §aShow your weapon to the guard so he'll let us through.@§7[1/1] §2Aledar: §aПокажи свое оружие охраннику, чтобы он пропустил нас.
 §7[1/1] §2Aledar: §aNo no no, this is paper! I said to make §3[2 Wood]§a! Make sure to §bleft-click§a when refining.@§7[1/1] §2Aledar: §aНет нет нет, это бумага! Я сказал сделать §3[2 Дерева]§a! Убедись, что жмешь §bлевый-клик§a при переработке.
+§7[1/1] §2Aledar: §aNo no no, these are gems! I said to make §3[2 Ingots]§a! Make sure to §bleft-click§a when refining.@§7[1/1] §2Aledar: §aНет нет нет, это драгоценные камни! Я сказал сделать §3[2 Слитка]§a! Убедись, что жмешь §bлевый-клик§ при переработке.
 §7[1/1] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a at the avil to create §3[1 Spear]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b1 слиток§a и §b2 дерева§a на наковальне, чтобы создать §3[1 Копье]§a и затем покажи его мне.
 §7[1/1] §2Aledar: §aUse §b2 string§a and §b1 wood§a at the workbench to create §3[1 Bow]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b2 нитки§a и §b1 дерево§a на верстаке, чтобы создать §3[1 Лук]§a и затем покажи его мне.
 §7[1/1] §2Aledar: §aUse §b1 string§a and §b2 wood§a at the workbench to create §3[1 Wand]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b1 нитку§a и §b2 дерева§a на верстаке, чтобы создать §3[1 Посох]§a и затем покажи его мне.
@@ -125,3 +126,4 @@
 §7[1/1] §2Guard: §aHey, you guys, the castle's this way!@§7[1/1] §2Guard: §aЭй, ребята, замок в той стороне!
 §7[8/8] §2Guard: §aNow, cast your Remedy spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое Remedy заклинание, кликнув §b§lПравая-Левая-Правая§a!
 §7[1/1] §2Ragni's King: §aOff you go, I've said everything I have to say.@§7[1/1] §2Ragni's King: §aУходи, я сказал все, что должен был сказать.
+§7[1/3] §2Aledar: §aOkay, you've refined the string. Follow me for the next step in the crafting process.@§7[1/3] §2Aledar: §aХорошо, ты переработал нитки. Следуй за мной для следующего шага в процессе крафта.
