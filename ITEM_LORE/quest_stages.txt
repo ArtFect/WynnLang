@@ -7,6 +7,8 @@ QUESTS/﻿Acquiring_Credentials.txt
 §7thieves might be @§7пойти воры 
 §7Find a way to find @§7Найди способ 
 §7out about the password @§7узнать пароль
+§7Infiltrate the administrational office in @§7Проникни в административный офис 
+§7order to bring back the @§7и принеси
 §7Go to the storage area @§7Иди в хранилище
 §7that contains the passport, and @§7 с паспортами, и найди 
 §7find a way in @§7путь внутрь
@@ -31,6 +33,10 @@ QUESTS/Aldorei%27s_Secret_Part_II.txt
 §7him of your findings @§7расскажи ему о находках 
 §7Activate the device beneath the @§7Активируй устройство под святыней 
 §7shrine in Aldorei Town @§7в городе Aldorei 
+§7Enter the Embassy's lair through @§7Войди в логово Посольства 
+§7the cherry blossom tree @§7через вишневое дерево
+§7Enter the chamber behind Togak @§7Войди в комнату позади Togak'а
+§7Choose @§7Выбери
  
 QUESTS/An_Iron_Heart_Part_I.txt ===== 
 §7Speak with Duvale at @§7Поговори с Duvale на 
@@ -70,7 +76,7 @@ QUESTS/Arachnids%27_Ascent.txt
 §7through the cave at @§7Mount Wynn через пещеру на 
 §7[-120,76,-1888]@ 
  
-QUESTS/A_Fighting_Species.txt 
+QUESTS/A_Fighting_Species.txt =====
 §7Talk to Darnes in the @§7Поговори с Darnes'ом 
 §7villager camp at @§7в лагере жителей на 
 §7[-1406,43,-5073]@ 
@@ -81,6 +87,9 @@ QUESTS/A_Fighting_Species.txt
 §7fortress, at @§7Leadin на 
 §7[-1310,57,-4869]@ 
 §7wearing the [Orc Mask] @§7надев [Маску Орка] 
+§7Find the house with a @§7Найди дом 
+§7way leading to a cave @§7со входом в пещеру 
+§7in the Orc's fortress @§7в лагере орков
 §7Find the way leading to @§7Найди путь, ведущий 
 §7Gorgu's room in the cave @§7к комнате Gorgu в пещере 
 §7Win the duel versus Gorgu @§7Выиграй дуэль у Gorgu 
@@ -487,11 +496,16 @@ QUESTS/Eye_of_the_Storm.txt
 §7[-461,56,-5397]@ 
 §7Find a passage deeper into @§7Найди проход
 §7the Pit @§7вглубь Ямы
+§7Enter the ritual chamber @§7Войди в ритуальную комнату
+§7Approach Naragath's Altar @§7Подойди к алтарю Naragath'а
+§7Travel deeper into the cave @§7Продвигайся вглубь пещеры
 §7Kill Naragath and give the @§7Убей Naragath'а 
 §7[Eye of Blood] to Harker @§7и отдай [Глаз Крови] Harker'у
 §7Leave the Pit of Despair @§7Покинь Яму Отчаяния
+§7Give the [Eye of Blood] @§7Отдай [Глаз Крови]
+§7to Rismor @§7Rismor'у
  
-QUESTS/Fallen_Delivery.txt 
+QUESTS/Fallen_Delivery.txt =====
 §7Talk to Bricot at @§7Поговори с Bricot'ом на 
 §7[65,42,-4844]@ 
 §7Scale the house and search @§7Заберись на дом и обыщи 
@@ -509,25 +523,44 @@ QUESTS/Fallen_Delivery.txt
 §7Find a way to enter @§7Найди способ попасть 
 §7the representative's office @§7в офис представителей 
 §7Enter the representative's office @§7Войди в офис представителей 
+§7Defeat the representative and bring @§7Победи представителя 
+§7back the stolen scroll to @§7и верни украденный свиток 
+§7Gawrick @§7Gawrick'у
  
 QUESTS/Fantastic_Voyage.txt 
 §7Speak to Relend at @§7Поговори с Relend'ом на 
 §7[1304,35,-4043]@ 
+§7Defeat Captain Goldenclaw and give @§7Победи Капитана Goldenclaw 
+§7the map to Relend @§7и отдай карту Relend'у
+§7Set sail aboard Relend's ship @§7Отплыви на корабле Relend'а
+§7Bring a [Wooden Board], a @§7Принеси [Деревянную Доску], 
+§7[Center Piece], and a @§7[Центральную Часть], и
+§7[String]@§7 [Нитку] 
+§7to the Crafting Table @§7к верстаку
+§7Bring the [Steering Wheel] to @§7Отдай [Штурвал] 
+§7Captain Relend @§7капитану Relend'у
 §7Man the wheel of the @§7Встань за штурвал 
 §7Little Wing @ 
 §7Find Relend inside of the @§7Найди Relend'а под обломками 
 §7wreck of the Little Wing @§7корабля Little Wing 
+§7Exit the shipwrecked Little Wing @§7Покинь потонувший корабль Little Wing
 §7Bring [10 Raw Mutton], [5 @§7Принеси [10 Сырая Лопатка], [5 
 §7Edible Mushrooms], [1 Coconut], and @§7Съедобных Грибов], [1 Кокос], и 
 §7[7 Berries] to the Cooking @§7[7 Ягод] к котлу для 
 §7Pot @§7готовки 
 §7Give the [Odd Stew] to @§7Отдай [Странное Рагу] 
 §7Relend @§7Relend'у 
+§7Check out the tent to @§7Проверь палатку 
+§7the east @§7на востоке
+§7Report back to Relend @§7Сообщи обо всем Relend'у
 §7Bring [5 Gritty Sand], [3 @§7Принеси 5 [Зернистого Песка], 
 §7Saw Dust], and [1 Black @§73 [Деревянных Опилки], 
 §7Powder] to the Crafting Table @§7и 1 [Черный Порох] к верстаку 
 §7Use the explosive on the @§7Используй взрывчатку на камне 
 §7boulder and enter the cave @§7и войди в пещеру 
+§7boulder at the center of @§7камень в центре
+§7the island @§7острова
+§7Advance deeper into the cave@§7Продвигайся вглубь пещеры
 §7Accompany Relend through the strange @§7В компании с Relend'ом пройди 
 §7place @§7это странное место 
  
@@ -864,6 +897,8 @@ QUESTS/King%27s_Recruit.txt =====
 §7Mine [2 Copper Ore] and bring @§7Добудь [2 Медной Руды] 
 §7it to the Old @§7и принеси ее 
 §7Man @§7старику 
+§7Mine [2 Copper Ore] and @§7Добудь [2 Медной Руды] и 
+§7bring it to the Old@§7принеси ее 
 §7Investigate the broken bridge @§7Осмотри разрушенный мост 
 §7Search for another way across @§7Найди способ перебраться на ту сторону 
 §7Process your copper ore into @§7Переработай свою руду 
@@ -1033,6 +1068,8 @@ QUESTS/Meaningful_Holiday.txt
 §7Nick's friend at [780,70,-1618]. @§7друга Nick'a на [780,70,-1618] 
 §7Explore the area and look @§7Исследуй территорию 
 §7for Santa. @§7в поисках Sant'ы 
+§7Enter Santa's home and speak @§7Войди в дом Sant'ы 
+§7to him. @§7и поговори с ним
 §7Leave through the portal behind @§7Уйди через портал камин 
 §7Santa. @§7позади Sant'ы 
 §7Enter the ball room. @§7Войди в бальный зал [422, 65, -1561] 
@@ -1117,6 +1154,15 @@ QUESTS/Out_of_my_Mind.txt =====
 QUESTS/Pirate%27s_Trove.txt 
 §7Talk to Damiral, outside Llevigar @§7Поговори с Damiral'ом снаружи Llevigar'a 
 §7at [-1937, 38, -4260] @§7на [-1937, 38, -4260] 
+§7Clue I: Toward the sunset, @§7Подсказка I: В направлении заката,
+§7among northern flowers shaded by @§7 среди северных цветов 
+§7quartz @§7в тени кварца
+§7Clue II: In a place @§7Подсказка II:В месте 
+§7of identity, above the leaves @§7идентификации, над листьями 
+§7and between the glass @§7и между стеклом
+§7Clue IV: Beneath the cowl @§7Подсказка IV: Под шлемом 
+§7of an eastern titan, keeping @§7восточного титана, охраняющего 
+§7watch over our heads@§7наши головы
 §7Tell Damiral where the treasure @§7Расскажи Damiral'у где 
 §7is hidden @§7спрятаны сокровища 
  
@@ -1155,6 +1201,16 @@ QUESTS/Purple_and_Blue.txt
 §7Talk to Korun near lake @§7Поговори с Korun'ом 
 §7Gylia at @§7у озера Gylia на 
 §7[-236,36,-5225]@ 
+§7Investigate the ancient wizard's house @§7Исследуй старый дом 
+§7for clues at @§7мага в поисках подсказок на
+§7[-163,29,-5388]@ 
+§7Follow the hints in the @§7С помощью подсказок в подвале
+§7cellar to find the mysterious @§7найди загадочную
+§7Follow the blood trail to @§7Иди по следу крови 
+§7the Gryndilin chief's room @§7в комнату шефа Gryndilin'а
+§7Defeat the Gryndilin chief, and @§7Победи Gryndilin шефа
+§7uncast the spell using Nedlom's @§7и используй заклинание по 
+§7instructions @§7инструкции Nedlom'а.
  
 QUESTS/Recipe_for_Disaster.txt 
 §7Meet up with Chef Hamsey @§7Встреться с Шефом Hamsey 
@@ -1401,6 +1457,8 @@ QUESTS/The_Bigger_Picture.txt
 §7Find the Subtraxerim Utilium mushroom @§7Найди Subtraxerim Utilium гриб 
 §7in the cave and bring @§7в пещере и принеси его
 §7it back to Psilo. @§7 обратно к Psilo
+§7Oh no, you've shrunk again! @§7О нет, ты уменьшился снова! 
+§7What now? @§7Что теперь?
  
 QUESTS/The_Canary_Calls.txt 
 §7Speak to Grenot outside the @§7Поговори с Grenot'ом 
@@ -1677,15 +1735,16 @@ QUESTS/The_Realm_of_Light_(Quest).txt
 §7[-1164,57,-6759]@ 
 §7(Requires completion of Finding the @§7(Необходимо пройти квест 
 §7Light) @§7Finding of Light) 
+§7Investigate the cave @§7Посети пещеру
 §7Speak to Heliorion at @§7Поговори с Heliorion'ом 
 §7[-1068,50,-7001]@ 
-§7Speak to Gaclux in front @§7Поговори с Gaclux'ом 
-§7of the rune at @§7перед руной на 
-§7[-366,59,-6733]@ 
 §7Follow the trails to the @§7Следуй по пути 
 §7seeds of corruption and destroy@§7 к семенам и уничтожь их,
 §7them, then report back to @§7 затем сообщи 
 §7Heliorion at@§7об этом Heliorion'у
+§7Speak to Gaclux in front @§7Поговори с Gaclux'ом 
+§7of the rune at @§7перед руной на 
+§7[-366,59,-6733]@ 
  
 QUESTS/The_Shadow_of_the_Beast.txt 
 §7Talk to Dereg in his @§7Поговори с Dereg'ом 
@@ -1903,6 +1962,7 @@ QUESTS/WynnExcavation_Site_C.txt
 §7[-1061,42,-3742]@ 
 §7(Requires shard from Site B) @§7(Необходим осколок из Site B) 
 §7Infiltrate the Excavation Meeting @§7Проникни на встречу раскопщиков 
+§7Eavesdrop on WynnExcavation's plans @§7Подслушай планы раскопщиков. 
 §7Escape the WynnExcavation guards @§7Сбеги от WynnExcavation охранников 
 §7Explore the area and search @§7Исследуй территорию 
 §7for the traitor @§7в поисках предателя 
