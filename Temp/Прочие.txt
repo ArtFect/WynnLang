@@ -6,48 +6,48 @@
                   §6§nClick here to claim your rewards!
 
 
-§4/g §c[message]§8-§6 Talk globally with your guild
-§4/guild leaderboard §8-§6 View the guild leaderboard
-§4/guild leave §8-§6 Leave the guild
-§4/guild list §8-§6 List members of the guild
-§4/guild stats §8-§6 View stats for the guild
-§4/guild log §8-§6 View the guild moderation log
-§4/guild xp §c[amt] §8-§6 Set the % of XP to contribute to the guild
-§4/guild contribute §8-§6 Donate emeralds to the guild
-§4/guild rank §c[name] [rank] §8-§6 Rank up a guild member
-§4/guild invite §c[name] §8-§6 Invite a member to the guild
-§4/guild attack§8-§6 Attack the territory you are in
-§4/guild defend §8-§6 Buy mobs for the territory you are in
-§7A warming comfort suddenly washes over your body. The despair filling the air before seems distant now.
-§7You may now exit.
-§4It would take a powerful light to dispel the darkness surrounding this area.
-§6Usage: §f/particles <off/low/medium/high/veryhigh/highest/[particles per tick]>
-§aYour particle limit is now §fhighest (-1)
-§d            - §7+Elven Medallion / Receipt
-§d            - §7+Access to Aldorei Town
-§d            - §7+1 Undergrowth Ruins Key
-§d            - §7+Dusty Passport
-§d            - §7+Access to fast-travel between Cinfras and Detlas
-§d            - §7+Access to the Undergrowth Ruins Dungeon
-§d            - §7+Access to the Ingredient shop in Maex
-§d            - §7+A gift from Likeru
-§d            - §7+Access to Outpost
-§d            - §7+Access to the Realm of Light
-§d            - §7+1 Crushed Bigfoot Bone
-§d            - §7+1 Guard's Uniform
-§d            - §7+1 Mummy's Rag
-§d            - §7+Caissop's Master Piece
-§d            - §7+Access to the Dernel Tribe shop
-§d            - §7+Access to Zhight Grand Exchange
-§d            - §7+Access to Zhight Treasure Tour
-§d            - §7+16 Zhight Money
-§d            - §7+1 Dodegar's Ultimate Weapon
-§d            - §7+ Access to fast travel between Thesead and Eltom
-§d            - §7+ Access to Rymek elevators
-§d            - §7+1 Corrupted Potato
-§d            - §7+42 Gold Bars
-§d            - §7+ Access to The Passage
-§d            - §7+1 Red Crystal Shard
+§4/g §c[message]§8-§6 Talk globally with your guild@§4/g §c[сообщение]§8-§6 Поговорить глобально с гильдией
+§4/guild leaderboard §8-§6 View the guild leaderboard@§4/guild leaderboard §8-§6 Посмотреть таблицу лидеров гильдий
+§4/guild leave §8-§6 Leave the guild@§4/guild leave §8-§6 Покинуть гильдию
+§4/guild list §8-§6 List members of the guild@§4/guild list §8-§6 Посмотреть список игроков гильдии
+§4/guild stats §8-§6 View stats for the guild@§4/guild stats §8-§6 Посмотреть статистику гильдии
+§4/guild log §8-§6 View the guild moderation log@§4/guild log §8-§6 Посмотреть журнал изменений гильдии
+§4/guild xp §c[amt] §8-§6 Set the % of XP to contribute to the guild@§4/guild xp §c[число] §8-§6 Установить % внесения своих XP в гильдию
+§4/guild contribute §8-§6 Donate emeralds to the guild@§4/guild contribute §8-§6 Пожертвовать эмеральды в гильдию
+§4/guild rank §c[name] [rank] §8-§6 Rank up a guild member@§4/guild rank §c[ник] [ранг] §8-§6 Изменить ранг участника гильдии
+§4/guild invite §c[name] §8-§6 Invite a member to the guild@§4/guild invite §c[name] §8-§6 Пригласить игрока в гильдию
+§4/guild attack§8-§6 Attack the territory you are in@§4/guild attack§8-§6 Атаковать территорию гильдий
+§4/guild defend §8-§6 Buy mobs for the territory you are in@§4/guild defend §8-§6 Купить мобов для защиты территории
+§7A warming comfort suddenly washes over your body. The despair filling the air before seems distant now.@§7Комфортная теплота внезапно пробежала по твоему телу. Отчаяние, витавшее в воздухе, кажется теперь далеко.
+§7You may now exit.@§7Теперь ты можешь уйти.
+§4It would take a powerful light to dispel the darkness surrounding this area.@§4Нужен мощный свет, чтобы рассеять тьму, окружающую это место.
+§6Usage: §f/particles <off/low/medium/high/veryhigh/highest/[particles per tick]>@§6Использование: §f/particles <off/low/medium/high/veryhigh/highest/[частицы за тик]>
+§aYour particle limit is now §fhighest (-1)@§aТвой лимит частиц теперь §fсамый высокий (-1)
+§d            - §7+Elven Medallion / Receipt@
+§d            - §7+Access to Aldorei Town@
+§d            - §7+1 Undergrowth Ruins Key@
+§d            - §7+Dusty Passport@
+§d            - §7+Access to fast-travel between Cinfras and Detlas@
+§d            - §7+Access to the Undergrowth Ruins Dungeon@
+§d            - §7+Access to the Ingredient shop in Maex@
+§d            - §7+A gift from Likeru@
+§d            - §7+Access to Outpost@
+§d            - §7+Access to the Realm of Light@
+§d            - §7+1 Crushed Bigfoot Bone@
+§d            - §7+1 Guard's Uniform@
+§d            - §7+1 Mummy's Rag@
+§d            - §7+Caissop's Master Piece@
+§d            - §7+Access to the Dernel Tribe shop@
+§d            - §7+Access to Zhight Grand Exchange@
+§d            - §7+Access to Zhight Treasure Tour@
+§d            - §7+16 Zhight Money@
+§d            - §7+1 Dodegar's Ultimate Weapon@
+§d            - §7+ Access to fast travel between Thesead and Eltom@
+§d            - §7+ Access to Rymek elevators@
+§d            - §7+1 Corrupted Potato@
+§d            - §7+42 Gold Bars@
+§d            - §7+ Access to The Passage@
+§d            - §7+1 Red Crystal Shard@
 §d            - §7+1 Troll Hair
 §d            - §7+1 Dogun Badge of Trust
 §d            - §7+Access to the Molten Heights elevators
