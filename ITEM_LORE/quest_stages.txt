@@ -1066,11 +1066,13 @@ QUESTS/Lazarus_Pit.txt =====
 §7Return to Burtur with [Healing @§7Вернись к Burtur'у с [Целебной 
 §7Water] @§7Водой] 
  
-QUESTS/Lost_in_the_Jungle.txt 
+QUESTS/Lost_in_the_Jungle.txt =====
 §7Speak to Gracen at @§7Поговори с Gracen'ом на 
 §7[-738,80,-655]@ 
 §7Search the Dernel Jungle for @§7Отыщи в Dernel джунглях 
 §7Aryn @§7Aryn'а 
+§7Bring the Mysterious Gemstone to @§7Принеси загадочный драгоценный камень 
+§7Gracen @§7Gracen'у
  
 QUESTS/Lost_Royalty.txt ===== 
 §7Talk to Yavlis in Troms @§7Поговори с Yavlis'ом в Troms'е 
@@ -1226,6 +1228,8 @@ QUESTS/Murder_Mystery.txt
 §7Talk to Captain Lorias in @§7Поговори с Капитаном Lorias'ом 
 §7Cinfras suburbs at @§7в окрестностях Cinfras'а на 
 §7[-592,45,-4972]@ 
+§7Return to the victim's house @§7Вернись на место преступления 
+§7to find a bat symbol @§7и найди символ мыши
  
 QUESTS/Mushroom_Man.txt ===== 
 §7Talk to Yahya "The Mushroom @§7Поговори с Yahya "Грибной 
@@ -1364,6 +1368,8 @@ QUESTS/Reincarnation.txt
 §7[372,54,-775]@ 
 §7Feather], [1 Baab's Wool] & @§7Cluckles'а], [1 Шерсть Baab'а], 
 §7[1 Mooington's Skin] to Batelu @§7и [1 Кожу Mooington'а] к Batelu
+§7Bring back [1 Bob's Seal @§7Принеси [1 Печать одобрения 
+§7of Approval] to Batelu @§7Bob'a] к Batelu
  
 QUESTS/Rise_of_the_Quartron.txt ===== 
 §7Talk to Nasea in @§7Поговори с Nasea на 
@@ -1655,24 +1661,32 @@ QUESTS/The_Envoy_Part_II.txt
 §7Meet the grandmaster behind her @§7Встреться с магистром позади дома, 
 §7house and get over the @§7чтобы пройти через каньон 
 §7gap and enter the temple. @§7и попасть в храм 
+§7Find the key inside the @§7Найди ключ внутри 
 §7Return to Maxie in his @§7Вернись к Maxie в его доме 
 §7house with the first key. @§7с первым ключем 
 §7Find the vault in Corkus @§7Найди хранилище 
-§7City at [-1498,69,-2910]. @§7в Corkus City на [-1498,69,-2910]. 
+§7City at [-1498,69,-2910]. @§7в Corkus City на [-1498,69,-2910].
+§7Look for the hidden mech @§7Отыщи тайную базу роботов
 §7Retrieve the key from the @§7Забери ключ с роботов
 §7base. @§7базы
-§7progress in the Fallen Factory @§7пройди в Fallen Factory 
+§7Find Maxie at @§7Найди Maxie на
+§7[-1396,66,-2400]@ 
+§7and give him the key. @§7и отдай ему ключ.
+§7Find Maxie outside the Factory @§7Найди Maxie снаружи фабрики 
+§7at [-1707,75,-2610]. @§7на [-1707,75,-2610].
  
 QUESTS/The_Fortuneteller.txt 
 §7Talk to Jill in Kandon-Beda @§7Поговори с Jill в Kandon-Beda на 
 §7[746,150,-4468]@ 
  
-QUESTS/The_Headless_Hunt.txt 
+QUESTS/The_Headless_Hunt.txt =====
 §7Talk to Referick in the @§7Поговори с Referick'ом 
 §7dark forest at @§7в Dark Forest'е на 
 §7[-1081,48,-5368]@ 
 §7Investigate the strange cave under @§7Посети странную пещеру 
 §7the castle further @§7под замком неподалеку 
+§7Return the Lost Soul of @§7Верни пропавшую душу 
+§7Referick to its owner @§7Referick'а ее владельцу
 §7Search for any potential source @§7Отыщи потенциальный источник 
 §7of problems with Referick @§7проблем с Referick'ом 
 §7Go to the Dullahan's old @§7Иди в старое поместье 
@@ -1680,6 +1694,10 @@ QUESTS/The_Headless_Hunt.txt
 §7Search the Dullahan's old mansion @§7Обыщи старое поместье  
 §7for the story of the @§7Dullahan'а и найди историю 
 §7Dullahan @§7Dullahan'а 
+§7Go underneath the Dullahan's mansion @§7Иди под поместье Dullahan'а 
+§7to investigate the blood altar @§7и исследуй кровавый алтарь
+§7Destroy the Lost Spirits to @§7Уничтожь Lost Spirits 
+§7free them @§7чтобы освободить всех
 §7Show Referick proof that you @§7Покажи Referick'у доказательства, 
 §7have freed the spirits of @§7что ты освободил души 
 §7the Dullahan's victims @§7жертв Dullahan'а 
@@ -1726,14 +1744,26 @@ QUESTS/The_Hunger_of_Gerts_Part_I.txt
 §7the lake Gylia @§7озера Gylia
 §7Inspect the Gerten forwarding camp @§7Посети небольшой 
 §7nearby @§7лагерь Гертов поблизости
+§7Enter the dark cave in @§7Зайди в темную пещеру 
+§7the back of the camp @§7в конце лагеря
+§7Explore the Gerten cave @§7Исследуй пещеру Гертов
+§7Spy on the Gerten meeting @§7Подслушай встречу Гертов
 §7Tell farmer Jitak about the @§7Расскажи фермеру Jitak'у 
 §7tunnel @§7насчет тоннеля
 §7Bring Jitak [6 Gert Skin] @§7Принеси Jitak'у 6 [Кожи Герта]
 §7Go to the Gerten Camp @§7Иди в лагерь Гертов
 §7[18,34,-5343] @ 
+§7Talk to the Gerten Captain @§7Поговори с Gerten Капитаном
+§7[31,34,-5339]@ 
 §7Find the password and return @§7Найди пароль и вернись
 §7to the Gerten Captain @§7к Капитану Гертов
+§7Inspect the tunnel at @§7Исследуй тоннель на
+§7[27,31,-5336]@ 
 §7Escape your cell @§7Сбеги из клетки
+§7Escape the Gerten prison @§7Сбеги из тюрьмы Гертов
+§7Head to the cell at @§7Подойди к клетке на
+§7[-808,47,-8217]@ 
+§7and investigate @§7и исследуй
 §7Leave the Gerten prison and @§7Покинь тюрьму Гертов 
 §7return to Cikal to tell @§7и вернись к Cikal'у 
 §7him about the tunnels @§7с рассказом о тоннелях
@@ -1775,7 +1805,7 @@ QUESTS/The_Lost.txt =====
 §7Return to Dejol to tell @§7Вернись к Dejol'у, и расскажи 
 §7him of your success @§7что все прошло успешно 
  
-QUESTS/The_Maiden_Tower.txt 
+QUESTS/The_Maiden_Tower.txt =====
 §7Visit Sherk at @§7Посети Sherk'а на 
 §7[-2172,54,-5118]@ 
 §7Find the tower and ask @§7Найди башню и попроси 
@@ -1786,6 +1816,8 @@ QUESTS/The_Maiden_Tower.txt
 §7Retrieve the Black Veil and @§7Отыщи Черную Вуаль 
 §7return to the tower at @§7и вернись к башне на 
 §7[-1949,63,-5347]@ 
+§7Bring back the [Cursed Maiden @§7Принеси [Проклятую Девичью 
+§7Essence] to Sherk at @§7Эссенцию] к Sherk'у на
  
 QUESTS/The_Mercenary.txt ===== 
 §7Talk to Mylo in Nemract @§7Поговори с Mylo в Nemract'е на 
@@ -1852,6 +1884,8 @@ QUESTS/The_Realm_of_Light_(Quest).txt
 §7Investigate the cave @§7Посети пещеру
 §7Speak to Heliorion at @§7Поговори с Heliorion'ом 
 §7[-1068,50,-7001]@ 
+§7Bring [7 Light Residue] and @§7Принеси [7 Остатков света] и 
+§7[3 Illuminated Mushrooms] to Heliorion @§7[3 Освещенных гриба] к Heliorion'у
 §7Follow the trails to the @§7Следуй по пути 
 §7seeds of corruption and destroy@§7 к семенам и уничтожь их,
 §7them, then report back to @§7 затем сообщи 
@@ -2075,6 +2109,7 @@ QUESTS/WynnExcavation_Site_B.txt
 §7to Excavator Lykron at @§7к Excavator Lykron'у на 
 §7[39,62,-526]@ 
 §7Find the crystal @§7Найди кристалл 
+§7Talk to Excavator Lykron @§7Поговори с Excavator Lykron
  
 QUESTS/WynnExcavation_Site_C.txt 
 §7Talk to Excavator Placardus at @§7Поговори с Excavator Placardus'ом на 
