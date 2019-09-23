@@ -12,6 +12,8 @@ QUESTS/﻿Acquiring_Credentials.txt
 §7Go to the storage area @§7Иди в хранилище
 §7that contains the passport, and @§7 с паспортами, и найди 
 §7find a way in @§7путь внутрь
+§7Inspect the vault @§7Исследуй хранилище
+§7[922,79,-1927]@ 
  
 QUESTS/Aldorei%27s_Secret_Part_I.txt 
 §7Speak to Elrund outside Aldorei @§7Поговори с Elrund'ом снаружи 
@@ -464,9 +466,34 @@ QUESTS/Dwarves_and_Doguns_Part_II.txt =====
 §7Leave the Royal Palace at @§7Покинь королевский дворец через
 §7the end of the palace.@§7выход в конце дворца.
  
-QUESTS/Dwarves_and_Doguns_Part_III.txt 
+QUESTS/Dwarves_and_Doguns_Part_III.txt =====
 §7with the letter and speak @§7с письмом и поговори 
 §7to Korzim at [1436,134,-5388]. @§7с Korzim'ом на [1436,134,-5388] 
+§7Investigate the structure to the @§7Посети сооружение 
+§7south at @§7на юге на
+§7[1467,136,-5200]@ 
+§7Travel to Maex and meet @§7Отправься в Maex и встреться
+§7Korzim at the entrance. @§7с Korzim'ом у входа
+§7Talk to the blacksmith in @§7Поговори с кузнецом 
+§7Maex. @§7в Maex'e
+§7Bring back [10 Fire Webs] @§7Принеси [10 Fire Webs]
+§7from @§7из
+§7[1458,15,-5352]@ 
+§7and [3 Magmatic Crystals] from @§7 [3 Magmatic Crystals] из 
+§7the Maex mines and [1 @§7шахт Maex'а и [1 
+§7Crystallized lava] from @§7Crystallized lava] из
+§7[1346,5,-5409]@ 
+§7Craft the amulet in the @§7Скрафти амулет 
+§7crafting table at [1503,45,-5303]. @§7на верстаке [1503,45,-5303].
+§7Go to the enchanter and @§7Иди к чародею 
+§7enchant the amulet at [1509,45,-5339]. @§7и зачаруй амулет на [1509,45,-5339].
+§7Enter the storage room in @§7Войди в кладовую 
+§7the enchanter's house. @§7в доме чародея.
+§7Travel to the frozen heights @§7Иди к замерзшим пещерам 
+§7and find the True Ice @§7и найди Чистый Лед 
+§7at [1590,107,-5445]. @§7на [1590,107,-5445].
+§7Return to the enchanter with @§7Вернись к чародею 
+§7the True Ice. @§7с Чистым Льдом
  
 QUESTS/Dwarves_and_Doguns_Part_IV.txt 
 §7Return to Korzim at [1514, @§7Вернись к Korzim'у на [1514, 
@@ -478,8 +505,15 @@ QUESTS/Dwarves_and_Doguns_Part_IV.txt
 §7Head to Rodoroc and look @§7Иди в Rodoroc 
 §7for Axelus @§7и отыщи Axelus'a на
 §7[1117,11,-5190]@ 
+§7Return back to the Dogun @§7Вернись в деревню
+§7village at [1338,147,-5305]. @§7Dogun'ов на [1338,147,-5305].
 §7Reach the portal and stop @§7Достигни портала и останови 
 §7Garaheth @§7Garaheth'a
+§7Enter the body of Garaheth. @§7Войди в тело Garaheth'a
+§7Find all 4 organs and @§7Найди все 4 органа 
+§7destroy them. @§7и уничтожь их
+§7Leave Garaheth and exit his @§7Выйди из Garaheth'а и 
+§7realm.     @§7покинь его царство.
  
 QUESTS/Dwelling_Walls.txt ===== 
 §7Talk to Leucsaa at @§7Поговори с Leucsaa на 
@@ -545,6 +579,8 @@ QUESTS/Eye_of_the_Storm.txt
 §7Search the ruins at @§7Обыщи руины на 
 §7[-714,43,-5385]@ 
 §7to find the cultists @§7и найди культистов 
+§7Talk to Ceyquin in Lexdale @§7Поговори с Ceyquin'ом в Lexdale
+§7[-611,46,-5458]@ 
 §7Escape through the cavern and @§7Сбеги через пещеру 
 §7find Rismor in his house @§7и найди Rismor'а в его доме на
 §7[-472,66,-5536]@ 
@@ -552,11 +588,17 @@ QUESTS/Eye_of_the_Storm.txt
 §7ancient blood oak, south of @§7на древнем кровавом дереве, 
 §7Rismor's house at @§7на юге от дома Rismor'а
 §7[-461,56,-5397]@ 
+§7Kill the Guardian and bring @§7Убей Guardian of the Order 
+§7the [Lost Spell Scroll] to @§7и принеси [Потерянный Свиток Заклинания] 
+§7Rismor @§7к Rismor'у
 §7Find a passage deeper into @§7Найди проход
 §7the Pit @§7вглубь Ямы
 §7Enter the ritual chamber @§7Войди в ритуальную комнату
 §7Approach Naragath's Altar @§7Подойди к алтарю Naragath'а
 §7Travel deeper into the cave @§7Продвигайся вглубь пещеры
+§7Collect [5 Icons of Naragath] @§7обери [5 икон Naragath'a] 
+§7from the Hierophants and give @§7с иерофантов и отдай 
+§7them to Harker @§7их Harker'у
 §7Kill Naragath and give the @§7Убей Naragath'а 
 §7[Eye of Blood] to Harker @§7и отдай [Глаз Крови] Harker'у
 §7Leave the Pit of Despair @§7Покинь Яму Отчаяния
@@ -903,12 +945,17 @@ QUESTS/Heart_of_Llevigar.txt =====
 QUESTS/Hollow_Sirene.txt 
 §7Talk to Laloire at @§7Поговори с Laloire на 
 §7[-660,43,-5199]@ 
+§7Return to Laloire and tell @§7Вернись к Laloire и расскажи
+§7him about the eerie howl. @§7ему о жутком вое.
 §7Find a way to open @§7Найди способ открыть
 §7the secret door inside the @§7секретную дверь внутри
 §7cemetery. @§7кладбища
 §7Recover the [Sound Proof Earmuff] @§7Добудь [Наушники]
 §7and go into the banshee's @§7и иди в пещеру 
 §7cave while wearing it. @§7Банши, надев их
+§7Exterminate the banshee and give @§7Убей Банши и отдай 
+§7Laloire a memento from the @§7Laloire сувенир 
+§7Banshee as proof. @§7в качестве доказательства
 
 QUESTS/﻿Ice_Nations.txt ===== 
 §7Talk to Adigard on the @§7Поговори с Adigard'ом 
@@ -1005,7 +1052,8 @@ QUESTS/Lazarus_Pit.txt =====
 §7graveyard at @§7на кладбище 
 §7[-998,48,-5340]@ 
 §7Go to the location shown @§7Иди по координатам 
-§7on the gravestone @§7указанным на плите 
+§7on the gravestone @§7указанным на плите
+§7Find a way into the @§7Найди путь попасть 
 §7Find the "Wandering Man" @§7Найди "блуждающего человека" 
 §7Return to Vesdar with [16 @§7Вернись к Vesdar'у с [16 
 §7Rotten Skin] @ 
@@ -1155,6 +1203,7 @@ QUESTS/Memory_Paranoia.txt
 §7Unlock the Study @§7Открой кабинет 
 §7Bring the key to the @§7Принеси ключ 
 §7Master Bedroom @§7к главной спальне 
+§7Enter the Master Bedroom @§7Войди в главную спальню
 §7Bring the key to Timmy's @§7Принеси ключ к 
 §7bedroom @§7спальне Timmy 
 §7Navigate the Caritat's basement @§7Пройдись по подвалу Caritat'ов 
