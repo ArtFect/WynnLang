@@ -23,31 +23,31 @@
 §4It would take a powerful light to dispel the darkness surrounding this area.@§4Нужен мощный свет, чтобы рассеять тьму, окружающую это место.
 §6Usage: §f/particles <off/low/medium/high/veryhigh/highest/[particles per tick]>@§6Использование: §f/particles <off/low/medium/high/veryhigh/highest/[частицы за тик]>
 §aYour particle limit is now §fhighest (-1)@§aТвой лимит частиц теперь §fсамый высокий (-1)
-§d            - §7+Elven Medallion / Receipt@
-§d            - §7+Access to Aldorei Town@
-§d            - §7+1 Undergrowth Ruins Key@
-§d            - §7+Dusty Passport@
-§d            - §7+Access to fast-travel between Cinfras and Detlas@
-§d            - §7+Access to the Undergrowth Ruins Dungeon@
-§d            - §7+Access to the Ingredient shop in Maex@
-§d            - §7+A gift from Likeru@
-§d            - §7+Access to Outpost@
-§d            - §7+Access to the Realm of Light@
-§d            - §7+1 Crushed Bigfoot Bone@
-§d            - §7+1 Guard's Uniform@
-§d            - §7+1 Mummy's Rag@
-§d            - §7+Caissop's Master Piece@
-§d            - §7+Access to the Dernel Tribe shop@
-§d            - §7+Access to Zhight Grand Exchange@
-§d            - §7+Access to Zhight Treasure Tour@
-§d            - §7+16 Zhight Money@
-§d            - §7+1 Dodegar's Ultimate Weapon@
-§d            - §7+ Access to fast travel between Thesead and Eltom@
-§d            - §7+ Access to Rymek elevators@
-§d            - §7+1 Corrupted Potato@
-§d            - §7+42 Gold Bars@
-§d            - §7+ Access to The Passage@
-§d            - §7+1 Red Crystal Shard@
+§d            - §7+Elven Medallion / Receipt@§d            - §7+Медальон Эльфов / Рецепт
+§d            - §7+Access to Aldorei Town@§d            - §7+Доступ в город Aldorei
+§d            - §7+1 Undergrowth Ruins Key@§d            - §7+1 Undergrowth Ruins Ключ
+§d            - §7+Dusty Passport@§d            - §7+Пыльный Паспорт
+§d            - §7+Access to fast-travel between Cinfras and Detlas@§d            - §7+Доступ к быстрым путешествиям между Cinfras'ом и Detlas'ом
+§d            - §7+Access to the Undergrowth Ruins Dungeon@§d            - §7+Доступ в Undergrowth Ruins Данж
+§d            - §7+Access to the Ingredient shop in Maex@§d            - §7+Доступ к магазину ингредиентов в Maex'е
+§d            - §7+A gift from Likeru@§d            - §7+Подарок от Likeru
+§d            - §7+Access to Outpost@§d            - §7+Доступ к Заставе
+§d            - §7+Access to the Realm of Light@§d            - §7+Доступ в Царство Света
+§d            - §7+1 Crushed Bigfoot Bone@§d            - §7+1 Измельченная Кость Йети
+§d            - §7+1 Guard's Uniform@§d            - §7+1 Униформа Охранника
+§d            - §7+1 Mummy's Rag@§d            - §7+1 Бинт Мумии
+§d            - §7+Caissop's Master Piece@§d            - §7+Шедевр Caissop'а
+§d            - §7+Access to the Dernel Tribe shop@§d            - §7+Доступ к торговцу Dernel Tribe
+§d            - §7+Access to Zhight Grand Exchange@§d            - §7+Доступ в Zhight Grand Exchange
+§d            - §7+Access to Zhight Treasure Tour@§d            - §7+Доступ к Zhight Treasure Tour
+§d            - §7+16 Zhight Money@§d            - §7+16 Zhight Денег
+§d            - §7+1 Dodegar's Ultimate Weapon@§d            - §7+1 Смертельное оружие Dodegar'a
+§d            - §7+ Access to fast travel between Thesead and Eltom@§d            - §7+ Доступ к быстрым путешествиям между Thesead'ом и Eltom'ом
+§d            - §7+ Access to Rymek elevators@§d            - §7+ Доступ к лифтам в Rymek'е
+§d            - §7+1 Corrupted Potato@§d            - §7+1 Испорченная Картошка
+§d            - §7+42 Gold Bars@§d            - §7+42 Слитка Золота
+§d            - §7+ Access to The Passage@§d            - §7+ Доступ к Проходу
+§d            - §7+1 Red Crystal Shard@§d            - §7+1 Красный Осколок Кристалла
 §d            - §7+1 Troll Hair
 §d            - §7+1 Dogun Badge of Trust
 §d            - §7+Access to the Molten Heights elevators
