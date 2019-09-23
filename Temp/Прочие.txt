@@ -93,25 +93,26 @@
 §7[+Corrupted Sand-Swept Tomb Fragment]@[+Испорченный Sand-Swept Tomb Фрагмент]
 §7[+Redbeard's Hair]@§7[+Волос Redbeard'а]
 §7[+Galleon's Graveyard Fragment]@§7[+Galleon's Graveyard Фрагмент]
-§a                            Slay Lv. 10+ Mobs@§a                            Убей Ур. 10+ Мобов
 §a                             Find Discoveries@§a                             Нахождение Открытий
 §a                               Loot Chests@§a                               Открытие Сундуков
 §c                               Win Dungeons@§c                               Прохождение Данжей
 §a                               Win Dungeons@§a                               Прохождение Данжей
-§c                           Gather Resources
+§a                            Slay Lv. 10+ Mobs@§a                            Убей Ур. 10+ Мобов
+§c                            Slay Lv. 50+ Mobs
 §c                            Slay Lv. 90+ Mobs
 §c                            Slay Lv. 70+ Mobs
-§c                                Gather Fish
 §a                            Slay Lv. 30+ Mobs
-§c                                Gather Ore
-§c                             Buy from Market
-§c                              Gather Crops
 §c                            Slay Lv. 20+ Mobs
-§c                               Gather Wood
-§c                            Loot Chests T3+
 §c                            Slay Lv. 80+ Mobs
 §c                           Slay Lv. 100+ Mobs
 §c                            Slay Lv. 30+ Mobs
+§c                           Gather Resources
+§c                                Gather Ore
+§c                             Buy from Market
+§c                              Gather Crops
+§c                               Gather Wood
+§c                                Gather Fish
+§c                            Loot Chests T3+
 §c                   Trade 24² with Lv. 1-10 Newbie
 §7-------------§4 Wynncraft Help §7-------------
 §cYou are not in a guild.
@@ -421,7 +422,6 @@ You are not whitelisted on this server!
 §5Can't find that player! Try again?
 §cYou already have a Potion active...
 §4The glare from the cave's lights is extremely harsh. Perhaps you should not enter yet.
-§c                            Slay Lv. 50+ Mobs
 §4This is a crime scene, you shouldn't enter.
 §cYou need at least 3 soul points to reset your skills.
 §4Peculiar magic is refusing to let you through...
