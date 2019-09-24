@@ -98,32 +98,31 @@
 §c                               Win Dungeons@§c                               Прохождение Данжей
 §a                               Win Dungeons@§a                               Прохождение Данжей
 §a                            Slay Lv. 10+ Mobs@§a                            Убей Ур. 10+ Мобов
-§c                            Slay Lv. 50+ Mobs
-§c                            Slay Lv. 90+ Mobs
-§c                            Slay Lv. 70+ Mobs
-§a                            Slay Lv. 30+ Mobs
-§c                            Slay Lv. 20+ Mobs
-§c                            Slay Lv. 80+ Mobs
-§c                           Slay Lv. 100+ Mobs
-§c                            Slay Lv. 30+ Mobs
-§c                           Gather Resources
-§c                                Gather Ore
-§c                             Buy from Market
-§c                              Gather Crops
-§c                               Gather Wood
-§c                                Gather Fish
-§c                            Loot Chests T3+
-§c                   Trade 24² with Lv. 1-10 Newbie
-§7-------------§4 Wynncraft Help §7-------------
-§cYou are not in a guild.
-§4You are not at the start of the tutorial area!
-§3Visit §bwynncraft.com/store§b §3to get your own!
-                           §6[Area Discovered]
-§8§kYou pass through the memory.
-§6You've lost:
-§4You make your way out of the cave...
-§4A bunch of slimes line the floor of the cave. It's probably best not to get stuck in there...
-§4You need a progressed character to unlock skip!
+§c                            Slay Lv. 50+ Mobs@§c                            Убей Ур. 50+ Мобов
+§c                            Slay Lv. 90+ Mobs@§c                            Убей Ур. 90+ Мобов
+§c                            Slay Lv. 70+ Mobs@§c                            Убей Ур. 70+ Мобов
+§a                            Slay Lv. 30+ Mobs@§a                            Убей Ур. 30+ Мобов
+§c                            Slay Lv. 20+ Mobs@§c                            Убей Ур. 20+ Мобов
+§c                            Slay Lv. 80+ Mobs@§c                            Убей Ур. 80+ Мобов
+§c                           Slay Lv. 100+ Mobs@§c                           Убей Ур. 100+ Мобов
+§c                            Slay Lv. 30+ Mobs@§c                            Убей Ур. 30+ Мобов
+§c                           Gather Resources@§c                           Сбор Ресурсов
+§c                                Gather Ore@§c                                Сбор Руды
+§c                             Buy from Market@§c                             Покупки с Маркета
+§c                              Gather Crops@§c                              Сбор Урожая
+§c                               Gather Wood@§c                               Сбор Дерева
+§c                                Gather Fish@§c                                Ловля Рыбы
+§c                            Loot Chests T3+@§c                            Открытие Сундуков T3+
+§c                   Trade 24² with Lv. 1-10 Newbie@§c                   Торговля с новичком Ур. 1-10
+§7-------------§4 Wynncraft Help §7-------------@§7-------------§4 Wynncraft Помощь §7-------------
+§cYou are not in a guild.@§cТы не состоишь в гильдии.
+§4You are not at the start of the tutorial area!@§4Ты не находишься на старте туториала!
+§3Visit §bwynncraft.com/store§b §3to get your own!@§3Посети §bwynncraft.com/store§b §3чтобы получить свою!
+§8§kYou pass through the memory.@§8§kТы прошел через память.
+§6You've lost:@§6Ты потерял:
+§4You make your way out of the cave...@§4Ты вышел из пещеры...
+§4A bunch of slimes line the floor of the cave. It's probably best not to get stuck in there...@§4Множество слизней устилают пол пещеры. Наверное, лучше там не застревать...
+§4You need a progressed character to unlock skip!@§4Тебе нужен персонаж более высокого уровня, чтобы разблокировать пропуск!
 §4This shrine seems like sacred ground, you should probably avoid it.
 §4The trail of blood makes this house seem rather dangerous, you should probably avoid it for now.
 §7Return to Psilo immediately.
