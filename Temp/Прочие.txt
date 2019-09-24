@@ -107,6 +107,7 @@
 §c                           Slay Lv. 100+ Mobs@§c                           Убей Ур. 100+ Мобов
 §c                            Slay Lv. 30+ Mobs@§c                            Убей Ур. 30+ Мобов
 §c                           Gather Resources@§c                           Сбор Ресурсов
+§c                                Craft Items@§c                                Крафт Предметов
 §c                                Gather Ore@§c                                Сбор Руды
 §c                             Buy from Market@§c                             Покупки с Маркета
 §c                              Gather Crops@§c                              Сбор Урожая
@@ -173,32 +174,30 @@ Kill the queen in order to obtain it.@§7Убей королеву, чтобы �
 §7D E F P O T E C@Н К И Б М Ш Ы Б
 §4Breaking and entering is illegal.@§4Взлом и проникновение является незаконным.
 §4ERROR@§4ОШИБКА
-§7One of these tunnels must be the correct one...
-§c                                Craft Items
-§cYou need to be at least combat level 2 to reset your skills.
-§4Something is crawling up in the trees..
-§2Online §aFriends:
-§4The cultists are staring at you hostilely, and one begins to chant a dangerous-sounding incantation. You think it best not to risk entering directly. Perhaps there is a way to sneak in...
-§4You probably shouldn't snoop around in the basement. The people here seem to have enough to worry about.
-§7A massive corrupted pit is visible in the distance, to the north-east. A similarly huge dark hand seems to be sprouting from within it. It strains your mind to view...
-§4., §4§lSTAY§4;.  '§4§lAWAY§4:, .§4§lFROM§4;,  ,.; §4§l[157,78,-377] §4':,
-§4.;§4§lI§4. ,§4§ltold§4;. .,§4§lyou§4; :§4§lto§4, .,§4§lstay§4; .§4§laway§4';
-§4You can feel the magic coming from the catacombs...
-§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour, ingredients, resources, and crafted items.
-§3[§3WAR]§c §cThey will be there in 45 seconds.
-§4There is no more room in this trade, sorry!
-§4This isn't the kind of place to play in...
-§7[+Access To The Resources Tunnels]
-§5That player is too far away! Get closer...
-§7[+1 Potion of Drunkness]
-§7[+3 Zhight Money]
-§4You may only contribute emeralds to the guild.
-§7To escape your cell you must pick this weird lock. It seems that spinning a ring will spin the rings next to it the other way.
-§cI'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.
-§7A message is carved into the obsidian: “§e§oBeneath the cowl of an eastern titan, keeping watch over our heads§7”
-§7You should return to Damiral and tell him where Hastor's treasure is hidden.
-§7[+1 Thunder Powder II]
-§bYou have received:
+§7One of these tunnels must be the correct one...@§7Один из этих туннелей должен быть правильным...
+§cYou need to be at least combat level 2 to reset your skills.@§cТебе нужен хотя бы 2 комбат уровень, чтобы сбросить свои навыки.
+§4Something is crawling up in the trees..@§4Что-то ползет вверх по деревьям..
+§2Online §aFriends:@§2Онлайн §aДрузья:
+§4The cultists are staring at you hostilely, and one begins to chant a dangerous-sounding incantation. You think it best not to risk entering directly. Perhaps there is a way to sneak in...@§4Культисты смотрят на тебя враждебно, и один начинает произносить опасное заклинание. Ты считаешь, что лучше не рисковать, входя напрямую. Возможно, есть другой способ проникнуть внутрь...
+§4You probably shouldn't snoop around in the basement. The people here seem to have enough to worry about.@§4Тебе наверное не стоит рыскать в подвале. Похоже, у здешних людей и без того хватает поводов для беспокойства.
+§7A massive corrupted pit is visible in the distance, to the north-east. A similarly huge dark hand seems to be sprouting from within it. It strains your mind to view...@§7Вдалеке, на северо-востоке, видна массивная разрушенная яма. Такая же огромная темная рука, кажется, прорастает из нее. Это напрягает твой разум...
+§4., §4§lSTAY§4;.  '§4§lAWAY§4:, .§4§lFROM§4;,  ,.; §4§l[157,78,-377] §4':,@§4., §4§lДЕРЖИСЬ§4;.  '§4§lПОДАЛЬШЕ§4:, .§4§lОТ§4;,  ,.; §4§l[157,78,-377] §4':,
+§4.;§4§lI§4. ,§4§ltold§4;. .,§4§lyou§4; :§4§lto§4, .,§4§lstay§4; .§4§laway§4';@§4.;§4§lЯ§4. ,§4§lГОВОРИЛ§4;. .,§4§lТЕБЕ§4; .,§4§lДЕРЖАТЬСЯ§4; .§4§lПОДАЛЬШЕ§4';
+§4You can feel the magic coming from the catacombs...@§4Ты можешь почувствовать магию, идущую из катакомб...
+§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour, ingredients, resources, and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню, ингредиенты, ресурсы и крафтовые предметы.
+§3[§3WAR]§c §cThey will be there in 45 seconds.@§3[§3WAR]§c §cОни будут там через 45 секунд.
+§4There is no more room in this trade, sorry!@§4В этой торговле больше нет места, извини!
+§4This isn't the kind of place to play in...@§4Это не то место, где можно играть...
+§7[+Access To The Resources Tunnels]@§7[+Доступ к тоннелю с ресурсами]
+§5That player is too far away! Get closer...@§5Этот игрок слишком далеко! Встань ближе...
+§7[+1 Potion of Drunkness]@§7[+1 Зелье Опьянения]
+§7[+3 Zhight Money]@§7[+3 Zhight Денег]
+§4You may only contribute emeralds to the guild.@§4Ты можешь только вносить эмеральды в гильдию.
+§7To escape your cell you must pick this weird lock. It seems that spinning a ring will spin the rings next to it the other way.@§7Чтобы сбежать из камеры ты должен выковырять этот странный замок. Кажется, что вращение кольца будет вращать кольца рядом с ним в другую сторону.
+§cI'm sorry, but you do not have permission to perform this command. Please contact the server administrators if you believe that this is in error.@§cУ тебя нет прав на использование этой команды.
+§7A message is carved into the obsidian: “§e§oBeneath the cowl of an eastern titan, keeping watch over our heads§7”@§7Сообщение выгравировано на обсидиане: “§e§oПод шлемом восточного титана, охраняющего наши головы§7”
+§7You should return to Damiral and tell him where Hastor's treasure is hidden.@§7Ты должен вернуться к Damiral'у и сказать ему где спрятано сокровище Hastor'а.
+§bYou have received:@§bТы получил:
 §fFire Attack Effect
 §7Create a fire effect whenever you hit!
 §7[Required: Breathing Helmet II]
