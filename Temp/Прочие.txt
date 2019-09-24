@@ -349,30 +349,30 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §3[§3WAR]§c §cThe war will start in 2 minutes.@§3[§3WAR]§c §cБитва начнется через 2 минуты.
 §3[§3WAR]§c §cThe war will start in 1 minute and 30 seconds.@§3[§3WAR]§c §cБитва начнется через 1 минуту и 30 секунд.
 §3[§3WAR]§c §cThe war will start in 50 seconds.@§3[§3WAR]§c §cБитва начнется через 50 секунд.
-§2Music is now fading out...
-§2You will now hear music again!
-§7Mobs will start spawning in 30 seconds...
-§7Mobs will start spawning in 10 seconds...
-                             §fBattle Summary
-§7You will be teleported back to your last server in a few seconds...
-§d     -§7 Lore: §f§oThis massive factory, built by the engineer Cerid, was once hailed as the national monument of Corkus. Ever since it was closed down, it has fallen into disrepair.
-§7You really don't see a reason to go in there at the moment.
-§7After witnessing your crash into the cliff, Corkian citizens informed the government.
-§4The sound of electricity scares you from walking any closer to the Factory. §7[Quest Req: The Envoy Part II]
-§4That territory is already in a battle!
-§4The echos of the dead ring sharp in your ears.
-§4The angered screams and pleas of the spirits in this place drive you away..
-§4Those who do not know the story of the Dullahan are not worthy to enter.
-§7You go on as you can hear laughter spreading through the walls...
-§d     -§7 Lore: §f§oHome of the Legendary Challenge, a test for those who think that they are the strongest in the world. It is named for its designer, the eccentric Dr. Legendary.
-§4You hear the sound of bones rattling, sounds like this area could be dangerous.
-§4A frosty wind is coming from the tunnel and pushing you back.
-§7A weird sound can be heard in the distance.
-§4You've already linked your Minecraft account to the forums
-§cInvalid Arguments. Example: /guild join [Guild Prefix]
-§cInvalid price! Please try again with a number.
-§7This lava is fairly useless now, so you should probably leave.
-§7[+4 Coral Sapphire]
+§2Music is now fading out...@§2Музыка теперь исчезает...
+§2You will now hear music again!@§2Теперь ты снова слышишь музыку!
+§7Mobs will start spawning in 30 seconds...@§7Мобы начнут спавниться через 30 секунд...
+§7Mobs will start spawning in 10 seconds...@§7Мобы начнут спавниться через 10 секунд...
+                             §fBattle Summary@                             §fИтоги Битвы
+§7You will be teleported back to your last server in a few seconds...@§7Ты будешь телепортирован обратно на свой последний сервер через несколько секунд...
+§d     -§7 Lore: §f§oThis massive factory, built by the engineer Cerid, was once hailed as the national monument of Corkus. Ever since it was closed down, it has fallen into disrepair.@§d     -§7 Lore: §f§oЭта массивная фабрика, построенная инженером Cerid'ом, когда-то была провозглашена национальным памятником Corkus'а. С тех пор, как она был закрыта, она пришла в упадок.
+§7You really don't see a reason to go in there at the moment.@§7Ты действительно не видишь причин идти туда в данный момент.
+§7After witnessing your crash into the cliff, Corkian citizens informed the government.@§7После того, как ты стал свидетелем удара о скалу, граждане Corkus'а проинформировали правительство.
+§4The sound of electricity scares you from walking any closer to the Factory. §7[Quest Req: The Envoy Part II]@§4Звук электричества пугает тебя, когда ты приближаешься к Фабрике. §7[Нужен Квест: The Envoy Part II]
+§4That territory is already in a battle!@§4За эту территорию уже идет битва!
+§4The echos of the dead ring sharp in your ears.@§4Эхо мертвого кольца звенит в твоих ушах.
+§4The angered screams and pleas of the spirits in this place drive you away..@§4Разгневанные крики и мольбы духов в этом месте прогоняют тебя прочь..
+§4Those who do not know the story of the Dullahan are not worthy to enter.@§4Те, кто не знает историю Dullahan'а, не достойны войти.
+§7You go on as you can hear laughter spreading through the walls...@§7Ты идешь дальше, так как слышишь смех, распространяющийся по стенам...
+§d     -§7 Lore: §f§oHome of the Legendary Challenge, a test for those who think that they are the strongest in the world. It is named for its designer, the eccentric Dr. Legendary.@§d     -§7 Lore: §f§oДом легендарного челленджа - испытание для тех, кто думает, что он сильнейший в мире. Он назван так в честь своего конструктора, эксцентричного Dr. Legendary.
+§4You hear the sound of bones rattling, sounds like this area could be dangerous.@§4Ты слышишь звук гремящих костей, звучит так, как будто эта область может быть опасной.
+§4A frosty wind is coming from the tunnel and pushing you back.@§4Морозный ветер дует из туннеля и толкает тебя назад.
+§7A weird sound can be heard in the distance.@§7Странный звук можно услышать на расстоянии.
+§4You've already linked your Minecraft account to the forums@§4Ты уже привязал свой Майнкрафт аккаунт к форуму
+§cInvalid Arguments. Example: /guild join [Guild Prefix]@§cНедопустимый аргумент. Пример /guild join [Префикс Гильдии]
+§cInvalid price! Please try again with a number.@§cНедопустимая цена! Пожалуйста, попробуй еще раз числом.
+§7This lava is fairly useless now, so you should probably leave.@§7Эта лава довольно бесполезна сейчас, поэтому тебе, вероятно, следует уйти.
+§7[+4 Coral Sapphire]@§7[+4 Коралловых Сапфира]
 §5Item Identifier: §dThere was no space in your inventory. I dropped your items on the ground.
 §4You can't just use an abandoned catapult like that!
 §3[§3WAR]§c §cTrying again in 30 seconds.
