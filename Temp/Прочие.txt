@@ -248,31 +248,31 @@ Kill the queen in order to obtain it.@§7Убей королеву, чтобы �
 §a>Warp chamber now ready for use.@Камера телепортации готова к использованию.
 §a>Commencing warp sequence...@§a>Начинаем процесс телепортации...
 §c§kThe forgotten scientist requested a utensil.@§c§kЗабытому ученому необходима посуда.
-§a>Starting up...
-§a>Permissions update requested. Beginning process...
-§a>Processes complete. Permissions successfully updated.
-§a>WARNING: Systems overloading!
-§a>ERROR.
-§a>§a§kBring §a§kthe §a§kkeys §a§kto §a§kwhere §a§kmadman §a§kdwells.
-§7[§7§kNew §7§kQuest §7§kStarted§7: §7§k???§7]
-§a>Commencing warp to Lab N...
-§a>Warping...
-§a>Permissions updated.
-§a>Too few users detected. The user minimum is 4!
-§a>Now accepting user input. Jump to reset configurations.
-§a>Sealing capsule...
-§a>Teleporter capsule online. Step inside to exit lab.
-§a>Scanning...
-§a>Access granted.
-§a>Systems starting up...
-§a>Calculating destination...
-§6                            [§6§kQuest Completed§6]
-§e                                       §e§l§k???
-§d            §d§kRewards:
-§d            §d§k- §7§k+1400000 Experience Points
-§d            §d§k- §7§k+6144 Emeralds
-§f883 AP
-§f                           §6[Area Discovered]
+§a>Starting up...@§a>Запуск...
+§a>Permissions update requested. Beginning process...@§a>Запрошено обновление разрешений. Начало процесса...
+§a>Processes complete. Permissions successfully updated.@§a>Процессы завершены. Разрешения успешно обновлены.
+§a>WARNING: Systems overloading!@§a>ПРЕДУПРЕЖДЕНИЕ: перегрузка систем!
+§a>ERROR.@§a>ОШИБКА.
+§a>§a§kBring §a§kthe §a§kkeys §a§kto §a§kwhere §a§kmadman §a§kdwells.@§a>§a§kПринеси §a§kключи §a§kтуда §a§kгде §a§kбезумец §a§kживет.
+§7[§7§kNew §7§kQuest §7§kStarted§7: §7§k???§7]@§7[§7§kНовый §7§kКвест §7§kНачат§7: §7§k???§7]
+§a>Commencing warp to Lab N...@§a>Открытие телепорта в Lab N...
+§a>Warping...@§a>Телепортация...
+§a>Permissions updated.@§a>Разрешения обновлены.
+§a>Too few users detected. The user minimum is 4!@§a>Слишком мало пользователей обнаружено. Минимум 4 пользователя!
+§a>Now accepting user input. Jump to reset configurations.@§a>Теперь принимаем пользовательский ввод. Перейти к сбросу настроек.
+§a>Sealing capsule...@§a>Запечатывание капсулы...
+§a>Teleporter capsule online. Step inside to exit lab.@§a>Капсула телепорта онлайн. Зайди внутрь, чтобы выйти из лаборатории.
+§a>Scanning...@§a>Сканирование...
+§a>Access granted.@§a>Доступ разрешен.
+§a>Systems starting up...@§a>Запуск систем...
+§a>Calculating destination...@§a>Расчет пункта назначения...
+§6                            [§6§kQuest Completed§6]@§6                            [§6§kКвест Пройден§6]
+§e                                       §e§l§k???@ 
+§d            §d§kRewards:@§d            §d§kНаграда:
+§d            §d§k- §7§k+1400000 Experience Points@§d            §d§k- §7§k+1400000 Очков Опыта
+§d            §d§k- §7§k+6144 Emeralds@§d            §d§k- §7§k+6144 Эмеральда
+§f883 AP@§f883 ПП
+§f                           §6[Area Discovered]@§f                           §6[Открыта Территория]
 §3You are no longer disguised as a §bspider
 §7[+3 Sunken Block of Gold]
 §4GEEETT OUTT! ORC NO LIKE HUMAN!
