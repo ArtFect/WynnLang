@@ -148,31 +148,31 @@ Kill the queen in order to obtain it.@§7Убей королеву, чтобы �
 §4You promised the villager to get him out of here. You shouldn't leave this place yet.@§4Ты обещал жителю вытащить его отсюда. Тебе пока не стоит покидать это место.
 §7The barricade has been opened. You may pass now.@§7Баррикада была открыта. Ты можешь пройти.
 §7[+4 Blank Powder IV]@§7[+4 Пустой Порошок IV]
-§5Item Identifier: §dI can only identify 8 items at a time.
-§7The tree appears to be in a deep sleep. You require a §3[Taproot]§7, something to wake him up and to be level 71.
-§7[+1 Saccharum]
-§f                         §2[Objective Completed]
-§cYou no longer have any effects.
-§7[-1 Rusty Shovel]
-§6                    [Quest Complete]
-§d               Rewards:
-§4To hop on the Minecart you need to complete the puzzle and get the lava
-§7[+1 Bucket of Blazing Lava]
-§eTo link your account, join our Discord at §6discord.gg/yJkSQwp§e and read the §6#discord_link§e channel.
-§dYou have been given a §bdouble XP boost§d for 24 hours.
-§4You can't continue until you've destroyed the first organ.
-§7You must be holding The Staff of True Ice to destroy the organs.
-§7[You need §3[1 Taproot]§7 and §3something as loud as §3§lthunder§7 to start this quest]
-§7E
-§7F P
-§7T O Z
-§7L P E D
-§7P E C F D
-§7E D F C Z P
-§7F E L O P Z D
-§7D E F P O T E C
-§4Breaking and entering is illegal.
-§4ERROR
+§5Item Identifier: §dI can only identify 8 items at a time.@§5Item Identifier: §dЯ могу идентифицировать только 8 предметов за раз.
+§7The tree appears to be in a deep sleep. You require a §3[Taproot]§7, something to wake him up and to be level 71.@§7Дерево, кажется, находится в глубоком сне. Тебе необходим §3[Стержневой Корень]§7, 71 уровень и что-то, чтобы разбудить его.
+§7[+1 Saccharum]@§7[+1 Сахар]
+§f                         §2[Objective Completed]@§f                         §2[Цель Выполнена]
+§cYou no longer have any effects.@§cУ тебя нет никаких эффектов.
+§7[-1 Rusty Shovel]@§7[-1 Ржавая Лопата]
+§6                    [Quest Complete]@§6                    [Квест Пройден]
+§d               Rewards:@§d               Награда:
+§4To hop on the Minecart you need to complete the puzzle and get the lava@§4Чтобы запрыгнуть на вагонетку тебе нужно завершить головоломку и добыть лаву
+§7[+1 Bucket of Blazing Lava]@§7[+1 Ведро Пылающей Лавы]
+§eTo link your account, join our Discord at §6discord.gg/yJkSQwp§e and read the §6#discord_link§e channel.@§eЧтобы привязать твой аккаунт, зайди в Дискорд §6discord.gg/yJkSQwp§e и прочитай §6#discord_link§e канал.
+§dYou have been given a §bdouble XP boost§d for 24 hours.@§dТы получил §bудвоенный XP буст§d на 24 часа.
+§4You can't continue until you've destroyed the first organ.@§4Ты не можешь продолжать, пока не уничтожишь первый орган.
+§7You must be holding The Staff of True Ice to destroy the organs.@§7Ты должен держать Предмет Чистого Льда, чтобы уничтожить органы.
+§7[You need §3[1 Taproot]§7 and §3something as loud as §3§lthunder§7 to start this quest]@§7[Тебе нужен §3[1 Стержневой Корень]§7 и §3что-то громкое как §3§lгром§7 для старта этого квеста]
+§7E@Ш
+§7F P@Б М
+§7T O Z@Н К Ы
+§7L P E D@М Б Ш Б
+§7P E C F D@Ы Н К М Н Ш
+§7E D F C Z P@И К Б Ш И Н
+§7F E L O P Z D@Б К Ы К Н Ш М
+§7D E F P O T E C@Н К И Б М Ш Ы Б
+§4Breaking and entering is illegal.@§4Взлом и проникновение является незаконным.
+§4ERROR@§4ОШИБКА
 §7One of these tunnels must be the correct one...
 §c                                Craft Items
 §cYou need to be at least combat level 2 to reset your skills.
