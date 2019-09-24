@@ -71,6 +71,7 @@
 §d            - §7+1 Taproot@§d            - §7+1 Стержневой корень
 §d            - §7+1 Canyon Chart@§d            - §7+1 Карта Каньона
 §d            - §7+Troms Kid Badge@§d            - §7+Детский значок Troms'а
+§d            - §7+1 The Staff of the True Ice@§d            - §7+1 Предмет Чистого Льда
 §7[+Witherhead's Rib]@§7[+Ребро Witherhead'а]
 §7[+Decrepit Sewers Fragment]@§7[+Decrepit Sewers Фрагмент]
 §7[+Theorick's Ice Shard]@§7[+Осколок Льда Theorick'а]
@@ -324,30 +325,30 @@ Kill the queen in order to obtain it.@§7Убей королеву, чтобы �
 §4The exit is blocked by a barricade. You can see a keyhole in there. Maybe the warden has a key to the barricade?@§4выход заблокирован баррикадой. Ты можешь увидеть замочную скважину там. Может у начальника тюрьмы есть ключ от баррикады?
 §4Even though the guard is sleeping, it'd probably be impolite to pass.@§4Даже если охранник спит, было бы невежливо пройти мимо.
 §d     -§7 Lore: §f§oThe only residence of dwarves outside of the Molten Heights, Thanos has been decimated by Ozoth, a powerful dragon feared across the entire province.@§d     -§7 Лор: §f§oЕдинственная резиденция гномов за пределами Molthen Heights, Thanos был уничтожен Ozoth'oм - могущественным драконом, которого боялись по всей провинции.
-§7[+1 Old Pirate Hook]
-§7The barrier seems to push you back.
-§7[+1 Galleon's Graveyard Key]
-§4You shouldn't be swimming in the bank's fountain.
-Unknown command. Type "/help" for help.
-§4A creepy sound is heard from the storage room.
-§7The Doguns are discussing plans on how to fight back...
-§4You shouldn't enter this place yet!
-§e§oAre you sure you want to §e§o§nreset§e§o the puzzle?
-§7 >Left-click again to continue
-§4You notice a villager exploring this cave. You shouldn't bother him.
-§3[§3WAR]§c §cUse /guild defend to defend this territory.
-§3[§3WAR]§c §cYour guild bank will receive a portion of the emeralds
-§3[§3WAR]§c §cfrom mob drops and 3x the xp earned in the territory.
-§4The Avos seem very hostile. Stay away!
-§7Maxie doesn't seem to be here, maybe you can start the catapult by yourself? 
-§7The basement door has been opened.
-§3[§3WAR]§c §cThe war will start in 4 minutes.
-§3[§3WAR]§c §cThe war will start in 3 minutes and 30 seconds.
-§3[§3WAR]§c §cThe war will start in 3 minutes.
-§3[§3WAR]§c §cThe war will start in 2 minutes and 30 seconds.
-§3[§3WAR]§c §cThe war will start in 2 minutes.
-§3[§3WAR]§c §cThe war will start in 1 minute and 30 seconds.
-§3[§3WAR]§c §cThe war will start in 50 seconds.
+§7[+1 Old Pirate Hook]@§7[+1 Старый Пиратский Крюк]
+§7The barrier seems to push you back.@§7Кажется барьер отталкивает тебя назад.
+§7[+1 Galleon's Graveyard Key]@§7[+1 Galleon's Graveyard Ключ]
+§4You shouldn't be swimming in the bank's fountain.@§4Ты не должен плавать в фонтане банка.
+Unknown command. Type "/help" for help.@Неизвестная команда. Напиши "/help" для помощи.
+§4A creepy sound is heard from the storage room.@§4Жуткий звук доносится из кладовки.
+§7The Doguns are discussing plans on how to fight back...@§7Dogun'ы обсуждают планы, как дать отпор...
+§4You shouldn't enter this place yet!@§4Ты еще не должен входить в это место!
+§e§oAre you sure you want to §e§o§nreset§e§o the puzzle?@§e§oТы уверен, что хочешь §e§o§nперезагрузить§e§o пазл?
+§7 >Left-click again to continue@§7 >Левый-клик снова для продолжения
+§4You notice a villager exploring this cave. You shouldn't bother him.@§4Ты заметил жителя, исследующего эту пещеру. Не стоит его беспокоить.
+§3[§3WAR]§c §cUse /guild defend to defend this territory.@§3[§3WAR]§c §cНапиши /guild defend для защиты этой территории.
+§3[§3WAR]§c §cYour guild bank will receive a portion of the emeralds@§3[§3WAR]§c §cВаш банк гильдии получит часть эмеральдов
+§3[§3WAR]§c §cfrom mob drops and 3x the xp earned in the territory.@§3[§3WAR]§c §cиз дропа мобов и 3x XP, полученные на этой территории.
+§4The Avos seem very hostile. Stay away!@§4Avos кажутся очень враждебными. Держись подальше!
+§7Maxie doesn't seem to be here, maybe you can start the catapult by yourself? @§7Кажется Maxie еще нет здесь, может быть, ты можешь запустить катапульту самостоятельно?
+§7The basement door has been opened.@§7Дверь подвала была открыта.
+§3[§3WAR]§c §cThe war will start in 4 minutes.@§3[§3WAR]§c §cБитва начнется через 4 минуты.
+§3[§3WAR]§c §cThe war will start in 3 minutes and 30 seconds.@§3[§3WAR]§c §cБитва начнется через 3 минуты и 30 секунд.
+§3[§3WAR]§c §cThe war will start in 3 minutes.@§3[§3WAR]§c §cБитва начнется через 3 минуты.
+§3[§3WAR]§c §cThe war will start in 2 minutes and 30 seconds.@§3[§3WAR]§c §cБитва начнется через 2 минуты и 30 секунд.
+§3[§3WAR]§c §cThe war will start in 2 minutes.@§3[§3WAR]§c §cБитва начнется через 2 минуты.
+§3[§3WAR]§c §cThe war will start in 1 minute and 30 seconds.@§3[§3WAR]§c §cБитва начнется через 1 минуту и 30 секунд.
+§3[§3WAR]§c §cThe war will start in 50 seconds.@§3[§3WAR]§c §cБитва начнется через 50 секунд.
 §2Music is now fading out...
 §2You will now hear music again!
 §7Mobs will start spawning in 30 seconds...
@@ -374,7 +375,6 @@ Unknown command. Type "/help" for help.
 §7[+4 Coral Sapphire]
 §5Item Identifier: §dThere was no space in your inventory. I dropped your items on the ground.
 §4You can't just use an abandoned catapult like that!
-§d            - §7+1 The Staff of the True Ice
 §3[§3WAR]§c §cTrying again in 30 seconds.
 §4You can't continue until you've destroyed the second organ.
 §4You cannot duel during a guild war.
