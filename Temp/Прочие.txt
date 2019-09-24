@@ -198,56 +198,56 @@ Kill the queen in order to obtain it.@§7Убей королеву, чтобы �
 §7A message is carved into the obsidian: “§e§oBeneath the cowl of an eastern titan, keeping watch over our heads§7”@§7Сообщение выгравировано на обсидиане: “§e§oПод шлемом восточного титана, охраняющего наши головы§7”
 §7You should return to Damiral and tell him where Hastor's treasure is hidden.@§7Ты должен вернуться к Damiral'у и сказать ему где спрятано сокровище Hastor'а.
 §bYou have received:@§bТы получил:
-§fFire Attack Effect
-§7Create a fire effect whenever you hit!
-§7[Required: Breathing Helmet II]
-§4The hill is too steep. You should try and go through the entrance in the side of the mountain.
-§a- §7Ice Snake will throw a snake of ice, freezing your enemies over a long distance
-§bYour skill points have been reset.
-§7As you water the flower, steam billows off the petals. One of the brilliant red petals shrivels into ash.
-§4This old mansion seems really creepy...
-§4This old basement probably isn't useful to you yet.
-§4You need a key to use this door!
-§7They appear to be chatting about local politics.
-§7It appears everyone but the Caritats have fled. They're probably talking about what just §7happened...you§7 should listen in.
-§7This door is unlocked, you can open it now.
-§7There doesn't seem to be anything of interest in this room, although Mr. Caritat has some odd obsessions...
-§4It's so hot in here! You can barely breathe!
-§7You are now free to exit.
-§5Key Collector: §dYou are free to enter the dungeon at no cost for the duration of the dungeon bomb. §3[Purchase your own at §bstore.wynncraft.com§3]
-§7To brew one cup green tea, you will need §3[1 Water Bucket]§7, §3[1 Ginger Root]§7, §3[1 Sugar]§7, and §3[1 Lemongrass]§7.
-§4This tunnel looks dangerous. It would probably be best to keep out of it.
-§4You must bring the Keystone Guardian to the door in order to proceed!
-§4You must defeat the Seed of Corruption to proceed!
-§4Something tells you that you should go in the other direction...
-§4You must defeat the Devourer of Light to proceed!
-§4You must defeat the Devourer of Light in order to exit!
-§7Buy VIP+ now at §fwynncraft.com/store§7!
-§3[§3WAR]§c §cFollow your compass to get there.
-§3[§3WAR]§c §cThe war will start in 40 seconds.
-§3[§3WAR]§c §cThe war will start in 30 seconds.
-§3[§3WAR]§c §cThe war will start in 20 seconds.
-§3[§3WAR]§c §cThe war will start in 5 seconds.
-§3You were not in the territory.
-§cYou need more soul points...
-§4The sound of the dead echoes harshly in your ears. Perhaps you should discover more about what is going on.
-§4This cave seems dangerous, better leave it for now.
-                         §4[Objective Completed]
-§4The hostility you once felt now faded away...
-§7[+1 Skill Reset Scroll]
-§3Visit §bwynncraft.com/store§b §3to buy your own.
-§4You must talk to the Guard!
-§4You don't want to get caught!
-§4You successfully escaped.
-§4You got past the guards, you must retrieve the crystal.
-§4You make your way out of the cave.
-§4A Factory Helmet is required to enter.
-§4INTRUDER ALERT
-§a>All systems online.
-§a>Teleporter activating...
-§a>Warp chamber now ready for use.
-§a>Commencing warp sequence...
-§c§kThe forgotten scientist requested a utensil.
+§fFire Attack Effect@§fЭффект Атаки Огня
+§7Create a fire effect whenever you hit!@§7Создает эффект огня при атаке!
+§7[Required: Breathing Helmet II]@§7[Необходим: Шлем Подводника II]
+§4The hill is too steep. You should try and go through the entrance in the side of the mountain.@§4Холм слишком крутой. Ты должен попробовать пройти через вход в стороне от горы.
+§a- §7Ice Snake will throw a snake of ice, freezing your enemies over a long distance@§a- §7Ice Snake выпускает ледяную змею, замораживая врагов на большом расстоянии
+§bYour skill points have been reset.@§bТвои очки навыков были сброшены.
+§7As you water the flower, steam billows off the petals. One of the brilliant red petals shrivels into ash.@§7Как только ты полил цветок, пар вздымается от лепестков. Один из блестящих красных лепестков сморщивается в пепел.
+§4This old mansion seems really creepy...@§4Этот старый особняк кажется действительно жутким...
+§4This old basement probably isn't useful to you yet.@§4Этот старый подвал пока еще тебе не нужен.
+§4You need a key to use this door!@§4Тебе нужен ключ, чтобы использовать эту дверь!
+§7They appear to be chatting about local politics.@§7Кажется, они болтают о местной политике.
+§7It appears everyone but the Caritats have fled. They're probably talking about what just §7happened...you§7 should listen in.@§7Похоже все, кроме Caritat'ов, разбежались. Они, наверное, говорят о том, что только что произошло...тебе стоит прислушаться.
+§7This door is unlocked, you can open it now.@§7Эта дверь разблокирована, ты можешь открыть ее сейчас.
+§7There doesn't seem to be anything of interest in this room, although Mr. Caritat has some odd obsessions...@§7Кажется, в этой комнате нет ничего интересного, хотя у Мистера Caritat есть странные одержимости...
+§4It's so hot in here! You can barely breathe!@§4Здесь так жарко! Ты едва можешь дышать!
+§7You are now free to exit.@§7Теперь ты можешь выйти.
+§5Key Collector: §dYou are free to enter the dungeon at no cost for the duration of the dungeon bomb. §3[Purchase your own at §bstore.wynncraft.com§3]@§5Key Collector: §dТы можешь бесплатно войти в подземелье на время действия данж бомбы. §3[Купи свою на §bstore.wynncraft.com§3]
+§7To brew one cup green tea, you will need §3[1 Water Bucket]§7, §3[1 Ginger Root]§7, §3[1 Sugar]§7, and §3[1 Lemongrass]§7.@§7Чтобы сварить кружку зеленого чая, тебе нужно §3[1 Ведро Воды]§7, §3[1 Корень Имбиря]§7, §3[1 Сахар]§7, и §3[1 Лемонграсс]§7.
+§4This tunnel looks dangerous. It would probably be best to keep out of it.@§4Этот туннель выглядит опасным. Вероятно, было бы лучше держаться подальше от него.
+§4You must bring the Keystone Guardian to the door in order to proceed!@§4Ты должен привести Хранителя Ключей к двери для того, чтобы продолжить!
+§4You must defeat the Seed of Corruption to proceed!@§4Ты должен победить Семя Порчи, чтобы продолжить!
+§4Something tells you that you should go in the other direction...@§4Что-то подсказывает тебе, что ты должен идти в другом направлении...
+§4You must defeat the Devourer of Light to proceed!@§4Ты должен победить Пожирателя Света, чтобы продолжить!
+§4You must defeat the Devourer of Light in order to exit!@§4Ты должен победить Пожирателя Света, чтобы уйти!
+§7Buy VIP+ now at §fwynncraft.com/store§7!@§7Купи VIP+ сейчас на §fwynncraft.com/store§7!
+§3[§3WAR]§c §cFollow your compass to get there.@
+§3[§3WAR]§c §cThe war will start in 40 seconds.@
+§3[§3WAR]§c §cThe war will start in 30 seconds.@
+§3[§3WAR]§c §cThe war will start in 20 seconds.@
+§3[§3WAR]§c §cThe war will start in 5 seconds.@
+§3You were not in the territory.@
+§cYou need more soul points...@
+§4The sound of the dead echoes harshly in your ears. Perhaps you should discover more about what is going on.@
+§4This cave seems dangerous, better leave it for now.@
+                         §4[Objective Completed]@
+§4The hostility you once felt now faded away...@
+§7[+1 Skill Reset Scroll]@
+§3Visit §bwynncraft.com/store§b §3to buy your own.@
+§4You must talk to the Guard!@
+§4You don't want to get caught!@
+§4You successfully escaped.@
+§4You got past the guards, you must retrieve the crystal.@
+§4You make your way out of the cave.@
+§4A Factory Helmet is required to enter.@
+§4INTRUDER ALERT@
+§a>All systems online.@
+§a>Teleporter activating...@
+§a>Warp chamber now ready for use.@
+§a>Commencing warp sequence...@
+§c§kThe forgotten scientist requested a utensil.@
 §a>Starting up...
 §a>Permissions update requested. Beginning process...
 §a>Processes complete. Permissions successfully updated.
