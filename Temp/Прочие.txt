@@ -123,31 +123,31 @@
 §4You make your way out of the cave...@§4Ты вышел из пещеры...
 §4A bunch of slimes line the floor of the cave. It's probably best not to get stuck in there...@§4Множество слизней устилают пол пещеры. Наверное, лучше там не застревать...
 §4You need a progressed character to unlock skip!@§4Тебе нужен персонаж более высокого уровня, чтобы разблокировать пропуск!
-§4This shrine seems like sacred ground, you should probably avoid it.
-§4The trail of blood makes this house seem rather dangerous, you should probably avoid it for now.
-§7Return to Psilo immediately.
-§7Oh no, you've shrunk again! What now?
-§4You can not board the ship before speaking to the controllant!
-§7Sneak around the guards in the darkness, and they will not see you...
-§4You still have more important things to do! You can only sleep it through when it is all finished.
-§4You need to speak to the missing child before you go back!
-§7After a few hours sleep...
-§4Speak to the engineer before going to sleep!
-§4The barrier pushes you away with its immense force, almost as if you were made of paper.
-§4You don't have the correct key!§7
-Sneak and walk towards the door to look inside the keyhole.
-§aYou have the correct key! You opened the door.
-§4You don't have the key!§7
-Kill the queen in order to obtain it.
-§aYou have the key! You opened the door.
-§7Head down to the entrance deck, and get off
-§7[Quest book updated]
-§4Looks like the gerts are having a meeting. Step back before they see you!
-§4Don't run too fast! You'll miss out on some information.
-§4The camp is filled with gerts. You should probably get a mask first, if you want to enter.
-§4You promised the villager to get him out of here. You shouldn't leave this place yet.
-§7The barricade has been opened. You may pass now.
-§7[+4 Blank Powder IV]
+§4This shrine seems like sacred ground, you should probably avoid it.@§4Эта святыня кажется священной землей, тебе, вероятно, следует избегать ее.
+§4The trail of blood makes this house seem rather dangerous, you should probably avoid it for now.@§4След крови делает этот дом довольно опасным, тебе вероятно следует избегать его сейчас.
+§7Return to Psilo immediately.@§7Вернись к Psilo немедленно.
+§7Oh no, you've shrunk again! What now?@§7О нет, ты опять уменьшился! Что теперь?
+§4You can not board the ship before speaking to the controllant!@§4Ты не можешь сесть на дирижабль не поговорив с контролером!
+§7Sneak around the guards in the darkness, and they will not see you...@§7Прокрадись мимо охранников в темноте, и они тебя не увидят...
+§4You still have more important things to do! You can only sleep it through when it is all finished.@§4У тебя еще есть более важные дела! Ты можешь поспать только тогда, когда все будет закончено.
+§4You need to speak to the missing child before you go back!@§4Тебе нужно поговорить с пропавшим ребенком, прежде чем вернуться!
+§7After a few hours sleep...@§7После пары часов сна...
+§4Speak to the engineer before going to sleep!@§4Поговори с инженером, прежде чем идти спать!
+§4The barrier pushes you away with its immense force, almost as if you were made of paper.@§4Барьер отталкивает тебя своей огромной силой, почти как если бы ты был сделан из бумаги.
+§4You don't have the correct key!§7@§4У тебя нет правильного ключа!
+Sneak and walk towards the door to look inside the keyhole.@§7Прокрадись и подойди к двери, чтобы заглянуть в замочную скважину.
+§aYou have the correct key! You opened the door.@§aУ тебя правильный ключ! Ты открыл дверь.
+§4You don't have the key!§7@§4У тебя нет ключа!
+Kill the queen in order to obtain it.@§7Убей королеву, чтобы получить его.
+§aYou have the key! You opened the door.@§aУ тебя есть ключ! Ты открыл дверь.
+§7Head down to the entrance deck, and get off@§7Спустись на входную палубу и выходи.
+§7[Quest book updated]@§7[Квестовая книга обновлена]
+§4Looks like the gerts are having a meeting. Step back before they see you!@§4Похоже, что у Гертов идет втсреча. Отойди, пока они тебя не увидели!
+§4Don't run too fast! You'll miss out on some information.@§4Не беги слишком быстро! Ты пропустишь некоторую информацию.
+§4The camp is filled with gerts. You should probably get a mask first, if you want to enter.@§4Лагерь заполнен гертами. Тебе, вероятно, следует получить маску в первую очередь, если ты хочешь войти.
+§4You promised the villager to get him out of here. You shouldn't leave this place yet.@§4Ты обещал жителю вытащить его отсюда. Тебе пока не стоит покидать это место.
+§7The barricade has been opened. You may pass now.@§7Баррикада была открыта. Ты можешь пройти.
+§7[+4 Blank Powder IV]@§7[+4 Пустой Порошок IV]
 §5Item Identifier: §dI can only identify 8 items at a time.
 §7The tree appears to be in a deep sleep. You require a §3[Taproot]§7, something to wake him up and to be level 71.
 §7[+1 Saccharum]
