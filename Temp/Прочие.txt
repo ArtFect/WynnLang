@@ -273,31 +273,38 @@ Kill the queen in order to obtain it.@§7Убей королеву, чтобы �
 §d            §d§k- §7§k+6144 Emeralds@§d            §d§k- §7§k+6144 Эмеральда
 §f883 AP@§f883 ПП
 §f                           §6[Area Discovered]@§f                           §6[Открыта Территория]
-§3You are no longer disguised as a §bspider
-§7[+3 Sunken Block of Gold]
-§4GEEETT OUTT! ORC NO LIKE HUMAN!
-§c[§4!§c]§c You're under attack! Defend yourself by aiming and firing your ship's cannons.
-§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||||||||§4|§7]
-§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||||||||§4||§7]
-§7[5/15]
-§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||||||§4|||§7]
-§7[10/15]
-§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||||||§4||||§7]
-§7[15/15]
-§7Get to the §6§lTreasure Vault §7in §4§l20 §7seconds before it closes!
-§4On second thought, maybe exploring a skull-shaped cave for no reason is a bad idea...
-§f                           §7[Area Discovered]
-§c§lYou've gotten a godly§c§l reward!
-§cPhoenix Spear
-§7Disguise your spear with a fiery flair
-§7An explosion can be heard from inside the tree!
-§4Stay near and talk to the Almuj Bank Guard to progress the quest!
-§4The gert at the end of this tunnel doesn't look too friendly.
-§4Get out
-§4A lot of machines here. Those could be very dangerous, knowing how crazy Big Butch is.
-§4You have died...
-§4§lDeath claims your soul.
-§cIn order to craft a §3[Steering Wheel]§c, you'll need §3[1 Wooden Board]§c, §3[1 Center Piece]§c, and §3[1 String]§c. Try looking around the ship to find the remaining materials.
+§3You are no longer disguised as a §bspider@§3Ты больше не маскируешься под §bпаука
+§7[+3 Sunken Block of Gold]@§7[+3 Затонувших Блока Золота]
+§4GEEETT OUTT! ORC NO LIKE HUMAN!@§4ИДИИИ ПРООЧЬ!ОРКИ НЕ ЛЮБЯТ ЛЮДЕЙ!
+§c[§4!§c]§c You're under attack! Defend yourself by aiming and firing your ship's cannons.@§c[§4!§c]§c Ты находишься под атакой! Защити себя, путем прицеливания и стрельбы из пушек своего корабля.
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||||||||§4|§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||||||||§4|§7]
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||||||||§4||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||||||||§4||§7]
+§7[5/15]@ 
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||||||§4|||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||||||§4|||§7]
+§7[10/15]@ 
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||||||§4||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||||||§4||||§7]
+§7[15/15]@ 
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||||§4|||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||||§4|||||§7]
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||||§4||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||||§4||||||§7]
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||§4|||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||§4|||||||§7]
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||§4||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||§4||||||||§7]
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§A§a|§4|||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§A§a|§4|||||||||§7]
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a§4||||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a§4||||||||||§7]
+§c[§4!§c] §7Align your cannon with an attacking pirate and fire to destroy them, but be careful - if one reaches your ship you will be boarded!@§c[§4!§c] §7Выровняй свою пушку с атакующим пиратом, используя элементы управления, и стреляй, чтобы уничтожить их. Но будь осторожен - если кто-то достигнет твоего корабля, он будет поврежден!
+§7Get to the §6§lTreasure Vault §7in §4§l20 §7seconds before it closes!@§7Доберись до §6§lХранилища с сокровищами§7 за §4§l20 §7 секунд, прежде чем оно закроется!
+§4On second thought, maybe exploring a skull-shaped cave for no reason is a bad idea...@§4С другой стороны, быть может исследовать пещеру в форме черепа без причины - плохая идея...
+§f                           §7[Area Discovered]@§f                           §7[Открыта Территория]
+§c§lYou've gotten a godly§c§l reward!@§c§lТы получил godly§c§l награду!
+§cPhoenix Spear@§cКопье Феникса
+§7Disguise your spear with a fiery flair@§7Замаскируй свое копье огненной способностью
+§7An explosion can be heard from inside the tree!@§7Взрыв можно услышать изнутри дерева!
+§4Stay near and talk to the Almuj Bank Guard to progress the quest!@
+§4The gert at the end of this tunnel doesn't look too friendly.@
+§4Get out@
+§4A lot of machines here. Those could be very dangerous, knowing how crazy Big Butch is.@
+§4You have died...@
+§4§lDeath claims your soul.@
+§cIn order to craft a §3[Steering Wheel]§c, you'll need §3[1 Wooden Board]§c, §3[1 Center Piece]§c, and §3[1 String]§c. Try looking around the ship to find the remaining materials.@
 §d§lYou've gotten a rare§d§l reward!
 §dViolet Wybel Token
 §7This token can be redeemed for one wybel. Be careful, this item can not be scrapped after use
@@ -457,13 +464,6 @@ You are not whitelisted on this server!
 §4Are you sure you want to leave?
 §43 soul point have been lost...
 §3[INFO] §bYou have left the guild.
-§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||||§4|||||§7]
-§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||||§4||||||§7]
-§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||§4|||||||§7]
-§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||§4||||||||§7]
-§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§A§a|§4|||||||||§7]
-§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a§4||||||||||§7]
-§c[§4!§c] §7Align your cannon with an attacking pirate and fire to destroy them, but be careful - if one reaches your ship you will be boarded!
 §7You failed to get to the vault in time!
 §2You will now see the combat levels of players in chat!
 §7[+1 Selchar Boat Pass]
