@@ -23,6 +23,7 @@
 §4It would take a powerful light to dispel the darkness surrounding this area.@§4Нужен мощный свет, чтобы рассеять тьму, окружающую это место.
 §6Usage: §f/particles <off/low/medium/high/veryhigh/highest/[particles per tick]>@§6Использование: §f/particles <off/low/medium/high/veryhigh/highest/[частицы за тик]>
 §aYour particle limit is now §fhighest (-1)@§aТвой лимит частиц теперь §fсамый высокий (-1)
+§d            - §7+512 Emeralds / 768 Emeralds@§d            - §7+512 Эмеральдов / 768 Эмеральдов
 §d            - §7+Elven Medallion / Receipt@§d            - §7+Медальон Эльфов / Рецепт
 §d            - §7+Access to Aldorei Town@§d            - §7+Доступ в город Aldorei
 §d            - §7+1 Undergrowth Ruins Key@§d            - §7+1 Undergrowth Ruins Ключ
@@ -498,31 +499,33 @@ Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.@Процесс заве�
 §2You can now see level 100 popups again!@§2Ты видишь сообщения о 100 уровнях снова!
 §2You will no longer see the task scoreboard!@§2Ты больше не будешь видеть табло с заданиями!
 §2You can now see the task scoreboard!@§2Ты видишь табло с заданиями снова!
-§dSteampunk Dagger
-§7Disguise your dagger with a steampunk flair
-§3You are now disguised as a §bspider
-§4Something is crawling in the dark...
-§dSpider Disguise
-§7Disguise yourself as a spider
-§4The player 'Sambrerro' does not exist!
-§dCandle Staff
-§7Disguise your staff as a candle
-§fSlime Effect
-§7Give your character the Slime effect
-§7This cabinet is locked. Maybe Veekhat has the key?
-§fGray Wybel Token
-§3You now have a §bGray Wybel
-§dFood Wand
-§7Disguise your wand as a piece of food
-§3You are now disguised as a §bpig
-§7The Corners Hold The Key
-§dAir Aura Effect
-§7Create a air aura effect around your character
-§aSending you our custom resource pack...
-§d     -§7 About Discovery: §f§oNemract was one of the cities attacked most often. The people would hide in the gutters and sewers until it was over. However, corrupt enemies are not without intelligence, and they were quickly discovered by the enemy.
-§4You have no reason to go up this tower.
-§4Magic in this cave is too intense for mortals to withstand.
-§2You will now see the class selection screen again!
+§2You will now see the class selection screen again!@§2Ты видишь экран выбора класса снова!
+§dSteampunk Dagger@§dСтимпанк Кинжал
+§7Disguise your dagger with a steampunk flair@Маскирует твой кинжал под стиль стимпанк
+§3You are now disguised as a §bspider@§3Ты замаскировался под §bпаука
+§4Something is crawling in the dark...@§4Что-то ползет в темноте...
+§dSpider Disguise@§dМаскировка в паука
+§7Disguise yourself as a spider@§7Маскировка себя под паука
+§dCandle Staff@§dОружие Свеча
+§7Disguise your staff as a candle@§7Маскирует твое оружие под свечу
+§fSlime Effect@§fЭффект Слайма
+§7Give your character the Slime effect@§7Дает твоему персонажу эффект слайма
+§7This cabinet is locked. Maybe Veekhat has the key?@§7Этот кабинет заперт. Может у Veekhat'а есть ключ?
+§fGray Wybel Token@§fСерый Wybel Жетон
+§3You now have a §bGray Wybel@§3Теперь у тебя есть §bСерый Wybel
+§dFood Wand@ 
+§dFood Spear@ 
+§dFood Dagger@ 
+§dFood Bow@ 
+§7Disguise your wand as a piece of food@Замаскируй свой посох под кусок еды
+§3You are now disguised as a §bpig@§3Ты замаскировался под §bсвинью
+§7The Corners Hold The Key@§7Углы Это Ключ
+§dAir Aura Effect@§dЭффект Ауры Воздуха
+§7Create a air aura effect around your character@§7Создает эффект воздушной ауры вокруг персонажа
+§aSending you our custom resource pack...@§aОтправляем тебе пользовательский ресурспак...
+§d     -§7 About Discovery: §f§oNemract was one of the cities attacked most often. The people would hide in the gutters and sewers until it was over. However, corrupt enemies are not without intelligence, and they were quickly discovered by the enemy.@§d     -§7 Об открытии: §f§oNemract был одним из самых часто атакуемых городов. Люди прятались в канавах и канализациях, пока атаки не заканчивались. Однако, монстры были не глупы, и они быстро находили своих жертв здесь. 
+§4You have no reason to go up this tower.@§4У тебя нет причин подниматься на эту башню.
+§4Magic in this cave is too intense for mortals to withstand.@§4Магия в этой пещере слишком сильна для смертных, чтобы выдержать ее.
 §4You hear cracks and stones falling within the tunnel. It isn't safe to explore it.
 §6Notes:
 §6Note:
