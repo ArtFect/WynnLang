@@ -194,6 +194,7 @@
 §4You seem to have found something interesting, but you cannot register this discovery until you are at least combat level §c(.*)@§4Похоже ты нашел что-то интересное, но ты не можешь зарегистрировать это открытие, пока не будешь §c(r1)§4 комбат уровня.
 §4You need §c(.*)§4 more gold coins to buy that pet!@§4Тебе нужно еще §c(r1)§4 золотых монет, чтобы купить этого питомца!
 §2 - §a(.*)§2 \[Server: §a(.*)§2\]@§2 - §a(r1)§2 \[Сервер: §a(r2)§2\]
+§4The player '(.*)' does not exist!@§4Игрока '(r1)' не существует!
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
