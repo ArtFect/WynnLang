@@ -398,39 +398,31 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §f                         §4[Objective Completed]@§f                         §4[Цель Выполнена]
 §4Talk to the mage!@§4Поговори с магом!
 §fPotion Swirl Effect@§fЭффект Вихря Зелий
-§7Clue I: Toward the sunset, among northern flowers shaded by quartz
-§eYou must be in a party to leave.
-§7[+1 Fire Powder II]
-§7[+1 Llevigar Boat Pass]
-§a>ERROR: Insufficient permissions. Access denied!
-§7You should go back and get that gem, regardless of the strange figure's ominous comments.
-§7The cannon is loaded! Now it needs to be activated with a key...
-§fSpark Attack Effect
-§f                           §3[Discovery Found]
-§f                                §bBoulder Pit
-§6Golden Wand
-§7§oIf you're lookin' fer the power sceptre, yer better ferget it! We will neva let it be used again.
-§7§oSincerely, §7Creden Tibus.
-§7+7 Emeralds
-You are not whitelisted on this server!
-§dSteampunk Sword
-§7Disguise your spear with a steampunk flair
-§7[+1 Air Powder II]
-§7Grab the journal and exit the mansion
-§a- §7War Scream will make a loud screech, hurting mobs and buffing all nearby players
-§4A strong force is preventing your entry
-§eYou must be in a party to list.
-§5Can't find that player! Try again?
-§cYou already have a Potion active...
-§4The glare from the cave's lights is extremely harsh. Perhaps you should not enter yet.
-§4This is a crime scene, you shouldn't enter.
-§cYou need at least 3 soul points to reset your skills.
-§4Peculiar magic is refusing to let you through...
-§4The air is too heavy in this cave, it's better to stay away from it.
-§4The mines look extremely dark. Better not risk getting lost without a good reason.
-§a- §7Spider Jump will throw yourself backwards, giving you time to escape. You can hold shift to quickly drop down.
-§4This command is VIP+ only! Buy VIP+ at §cstore.wynncraft.com
-§7[+1 Map Piece]
+§eYou must be in a party to leave.@§eТы должен быть в пати, чтобы выйти.
+§7[+1 Llevigar Boat Pass]@§7[+1 Llevigar Билет]
+§a>ERROR: Insufficient permissions. Access denied!@§a>ОШИБКА: Недостаточно разрешений. Доступ запрещен!
+§7You should go back and get that gem, regardless of the strange figure's ominous comments.@§7Ты должен вернуться и получить этот камень, независимо от зловещих комментариев странной фигуры.
+§7The cannon is loaded! Now it needs to be activated with a key...@§7Пушка заряжена! Теперь ее нужно активировать с помощью ключа...
+§fSpark Attack Effect@§fЭффект Искра
+§f                           §3[Discovery Found]@§f                           §3[Открытие Найдено]
+§6Golden Wand@§6Золотой Посох
+§7+7 Emeralds@§7+7 Эмеральдов
+§dSteampunk Sword@§dСтимпанк Меч
+§7Disguise your spear with a steampunk flair@Маскирует твое копье под стиль стимпанк
+§a- §7War Scream will make a loud screech, hurting mobs and buffing all nearby players@§a- §7War Scream будет издавать громкий крик, причиняя боль мобам и бафая всех ближайших игроков
+§4A strong force is preventing your entry@§4Мощная сила мешает тебе войти
+§eYou must be in a party to list.@§eТы должен быть в пати, чтобы посмотреть список.
+§5Can't find that player! Try again?@§5Не можем найти этого игрока! Попробуй еще?
+§cYou already have a Potion active...@§cНа тебя уже действует зелье...
+§4The glare from the cave's lights is extremely harsh. Perhaps you should not enter yet.@§4Блики от света пещеры чрезвычайно резкие. Возможно, тебе пока не стоит входить.
+§4This is a crime scene, you shouldn't enter.@§4Это место преступления, ты не должен входить.
+§cYou need at least 3 soul points to reset your skills.@§cТебе нужно как минимум 3 очка душ, чтобы сбросить очки умений.
+§4Peculiar magic is refusing to let you through...@§4Странная магия не дает тебе пройти...
+§4The air is too heavy in this cave, it's better to stay away from it.@§4В этой пещере слишком тяжелый воздух, лучше держаться от нее подальше.
+§4The mines look extremely dark. Better not risk getting lost without a good reason.§4Шахты выглядят очень темными. Лучше не рисковать заблудиться без уважительной причины.
+§a- §7Spider Jump will throw yourself backwards, giving you time to escape. You can hold shift to quickly drop down.@§a- §7Spider Jump отбрасывает назад, давая тебе время убежать. Ты можете удерживать шифт, чтобы быстро спуститься.
+§4This command is VIP+ only! Buy VIP+ at §cstore.wynncraft.com@§4Эта команда только для VIP+! Купи VIP+ на §cstore.wynncraft.com
+§7[+1 Map Piece]@§7[+1 Кусок Карты]
 §7[+1 Treasure Map]
 §cInvalid command. /report [name] [reason]
 §cYour report is being processed.
