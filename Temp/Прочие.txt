@@ -94,6 +94,8 @@
 §7[+Corrupted Sand-Swept Tomb Fragment]@[+Испорченный Sand-Swept Tomb Фрагмент]
 §7[+Redbeard's Hair]@§7[+Волос Redbeard'а]
 §7[+Galleon's Graveyard Fragment]@§7[+Galleon's Graveyard Фрагмент]
+§7[+Corrupted Garoth's Breath]@§7[+Испорченное Дыхание Garoth'а]
+§7[+Corrupted Lost Sanctuary Fragment]@§7[+Испорченный Lost Sanctuary Фрагмент]
 §a                             Find Discoveries@§a                             Нахождение Открытий
 §a                               Loot Chests@§a                               Открытие Сундуков
 §c                               Win Dungeons@§c                               Прохождение Данжей
@@ -423,55 +425,52 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §a- §7Spider Jump will throw yourself backwards, giving you time to escape. You can hold shift to quickly drop down.@§a- §7Spider Jump отбрасывает назад, давая тебе время убежать. Ты можете удерживать шифт, чтобы быстро спуститься.
 §4This command is VIP+ only! Buy VIP+ at §cstore.wynncraft.com@§4Эта команда только для VIP+! Купи VIP+ на §cstore.wynncraft.com
 §7[+1 Map Piece]@§7[+1 Кусок Карты]
-§7[+1 Treasure Map]
-§cInvalid command. /report [name] [reason]
-§cYour report is being processed.
-§cYou can only report players once every 2 minutes.
-§4The temple seems very ominous, you think it's best not to enter for now.
-§4/toggle [chatlevel/swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100/sb]
-§4The temple emanates an air of danger. It feels like a bit too much for you right now.
-§7So this must be the house that the kids were talking about.. perhaps there is a way inside?
-§7Explore the hidden lab in search of information
-§7As Ariodo continues to tell every excrutiating detail of the book, you start to notice some of the library's residents.
-§7'Painting By Numbers for Children'? 'Alchemical Circles for Dummies'? This person isn't the ordinary chap he made himself out to be!
-§7Perhaps it is best to stay quiet until the exit.
-§7As you are about to leave the lab, an issue arises.
-§7The entrance has been cleared. What could lay behind it?
-§7After whatever that was, nothing could possibly surprise you. Time to get back to the Troms Kids before things go awry again.
-§7You tell the group of kids your experiences of strange creatures, even stranger men as well as a hazy memory about... a coconut?
-§4You should collect some lava before leaving!
-§3[Parkour]§b You can not fly in parkour!
-§4It looks like there's something in the fireplace, maybe you should grab it...
-§4That fallen chandelier by the staircase looks odd, maybe you should give it a look...
-§fSheep Disguise
-§7Disguise yourself as a sheep
-§3You are now disguised as a §bsheep
-§4§lWARNING
-§4You will lose 3 soul points for leaving the guild.
-§4You will need to be re-invited to rejoin the guild.
-§4Are you sure you want to leave?
-§43 soul point have been lost...
-§3[INFO] §bYou have left the guild.
-§7You failed to get to the vault in time!
-§2You will now see the combat levels of players in chat!
-§7[+1 Selchar Boat Pass]
-§4The water is deep here, it might be dangerous to swim here.
-§cInvalid number input. Please use a number between 0-100.
-§4You are missing the basement key!
-§4Strange sounds come out of the cave, maybe you shouldn't investigate it.
-§4This command is VIP only! Buy VIP at §cstore.wynncraft.com
-§a- §7Creeper Dart will throw a creeper dart, demolishing anything in its path
-§cAlready connecting to this server!
-§4The groans of the undead echo in your ears...
-§cYou are not allowed to sell currency on the market!
-§4Jumping off of the tower would probably hurt.
-§4A boss token is required to go through.
-§4A revolting odor is emanating from inside the cave. You don't think you should enter without a reason, lest you get sick.
-§4The lake is emanating a putrid smell...
-§7You make your way into the ventilation system.
-§7[+Corrupted Garoth's Breath]
-§7[+Corrupted Lost Sanctuary Fragment]
-§4You don't see any use in climbing on the walls, but you do spy a few suspicious-looking journal pages lying around...
+§7[+1 Treasure Map]@§7[+1 Карта Сокровищ]
+§cInvalid command. /report [name] [reason]@§cНеправильная команда. /report [ник] [причина]
+§cYour report is being processed.@§cТвой репорт рассматривается.
+§cYou can only report players once every 2 minutes.@§cТы можешь репортить игроков раз в 2 минуты.
+§4The temple seems very ominous, you think it's best not to enter for now.@§4Храм кажется очень зловещим, ты думаешь, что лучше пока не входить туда.
+§4The temple emanates an air of danger. It feels like a bit too much for you right now.@§4От храма веет опасностью. Для тебя сейчас это будет слишком опасно.
+§7So this must be the house that the kids were talking about.. perhaps there is a way inside?@§7Это, должно быть, тот самый дом, о котором говорили дети... возможно, есть путь внутрь?
+§7Explore the hidden lab in search of information@§7Исследуй скрытую лабораторию в поисках информации
+§7As Ariodo continues to tell every excrutiating detail of the book, you start to notice some of the library's residents.@§7По мере того как Ariodo продолжает рассказывать каждую волнующую деталь книги, ты начинаешь замечать некоторых жителей библиотеки.
+§7'Painting By Numbers for Children'? 'Alchemical Circles for Dummies'? This person isn't the ordinary chap he made himself out to be!@§7"Раскраски с числами для детей"? "Алхимические круги для чайников"? Этот житель не тот обычный парень, каким он себя выставил!
+§7Perhaps it is best to stay quiet until the exit.@§7Пожалуй, лучше всего промолчать до самого выхода.
+§7As you are about to leave the lab, an issue arises.@§7Когда ты уже собираешься покинуть лабораторию, возникает проблема.
+§7The entrance has been cleared. What could lay behind it?@§7Вход был очищен. Что могло стоять за этим?
+§7After whatever that was, nothing could possibly surprise you. Time to get back to the Troms Kids before things go awry again.@§7После того, что бы это ни было, ничто не может тебя удивить. Пора возвращаться к детям в Troms, пока все снова не пошло наперекосяк.
+§7You tell the group of kids your experiences of strange creatures, even stranger men as well as a hazy memory about... a coconut?@§7Ты рассказываешь группе детей о своем опыте общения со странными существами, еще более странным жителем, а также туманные воспоминания... о кокосе?
+§4You should collect some lava before leaving!@§4Ты должен собрать немного лавы перед уходом!
+§3[Parkour]§b You can not fly in parkour!@§3[Паркур]§b Ты не можешь летать во время паркура!
+§4It looks like there's something in the fireplace, maybe you should grab it...@§4Похоже, в камине что-то есть, может тебе стоит взять это...
+§4That fallen chandelier by the staircase looks odd, maybe you should give it a look...@§4Эта упавшая люстра у лестницы выглядит странно, может тебе стоит взглянуть на нее...
+§fSheep Disguise@§fМаскировка в овцу
+§7Disguise yourself as a sheep@§7Маскировка себя под овцу
+§3You are now disguised as a §bsheep@§3Ты замаскировался в §bовцу
+§4§lWARNING@§4§lВНИМАНИЕ
+§4You will lose 3 soul points for leaving the guild.@§4Ты потеряешь 3 очка душ при выходе из гильдии.
+§4You will need to be re-invited to rejoin the guild.@
+§4Are you sure you want to leave?@
+§43 soul point have been lost...@
+§3[INFO] §bYou have left the guild.@
+§7You failed to get to the vault in time!@
+§2You will now see the combat levels of players in chat!@
+§7[+1 Selchar Boat Pass]@
+§4The water is deep here, it might be dangerous to swim here.@
+§cInvalid number input. Please use a number between 0-100.@
+§4You are missing the basement key!@
+§4Strange sounds come out of the cave, maybe you shouldn't investigate it.@
+§4This command is VIP only! Buy VIP at §cstore.wynncraft.com@
+§a- §7Creeper Dart will throw a creeper dart, demolishing anything in its path@
+§cAlready connecting to this server!@
+§4The groans of the undead echo in your ears...@
+§cYou are not allowed to sell currency on the market!@
+§4Jumping off of the tower would probably hurt.@
+§4A boss token is required to go through.@
+§4A revolting odor is emanating from inside the cave. You don't think you should enter without a reason, lest you get sick.@
+§4The lake is emanating a putrid smell...@
+§7You make your way into the ventilation system.@
+§4You don't see any use in climbing on the walls, but you do spy a few suspicious-looking journal pages lying around...@
 §4It appears Mister Caritat is about to make an announcement.
 §4You're moving too fast!
 §4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7
