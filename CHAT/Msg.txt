@@ -14,7 +14,6 @@ Type yes or no.@§7Напиши yes или no.
 Shouting!@§7Отправлено!
 You now have the letters effect.@§cВыбран эффект букв.
 Blacksmith: I can't buy that item! I only accept weapons, accessories, potions, armour, resources and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню, ресурсы и крафтовые предметы.
-— For a proper help guide, visit our website —@§7— §4Для полного гайда о помощи посетите наш сайт §7—
 You fully completed the Legendary Challenge!@§6Ты полностью прошел §bЛегендарный Челлендж§7!
     +25 Bronze Tokens@    §6+25 Бронзовых жетонов
     +15 Silver Tokens@    §f+15 Серерянных жетонов
@@ -26,25 +25,15 @@ The Mysterious Manor FAILED@§6§lЗагадочное Поместье §c§lП
 You've been captured by pirates. Try again!@Ты был пойман пиратами. Попробуй еще раз!
 Demon Wings Effect@§cЭффект Крыльев Демона
 Give your character demon wings@§7Дает твоему персонажу крылья демона
-The spiritual pull towards the graveyard loses its effect, making travelling easier.@§7Духовная сила кладбища ослабла, теперь ты можешь выйти.
 As you open the door, you feel some soft wind running past you. The temptations have stopped...@§7Когда ты открыл дверь, ты чувствуешь, как легкий ветерок пролетает мимо тебя. Искушения прекратились...
-If you want to know the truth, find me and talk to me...@§7Если ты хочешь знать правду, найди и поговори со мной...
-The truth lies at the Library of Flames. The caves south of the bank...@§7Истина лежит в библиотеке пламени. Пещеры к югу от банка...
-To brew one cup green tea, you will need 1 Water Bucket, 1 Ginger Root, 1 Sugar, and 1 Lemongrass. Boil ingredients in cauldron.@§7Чтобы сварить одну кружку зеленого чая, тебе нужно 1 Ведро воды, 1 Корень имбиря, 1 Сахар, и 1 лимонная трава. Свари ингредиенты в котле.
 The sheep raises its head to look at you, its eyes flare at the sight of the green tea.@§7Овца поднимает голову чтобы посмотреть на тебя, ее глаза направлены на кружку чая.
 You gesture the tea generously towards the sheep, and place it on the ground for it to drink. The sheep nods respectively to you.@§7Ты подносишь чай к овце и аккуратно ставишь его на землю, чтобы выпить. Овца поклоняется, чтобы отблагодарить тебя.
-A massive corrupted pit is visible in the distance, to the north-east. A similarly huge dark hand seems to be sprounting from within it. It strains your mind to view...@§7Массивная яма виднеется вдалеке на северо-востоке. Такая же огромная темная рука растет изнутри ее. Выглядит очень впечатляюще...
 589 AP@§7589 год после открытия портала
 411 years ago@§7411 лет назад
 You successfully protected the Portal!@§7Ты успешно защитил портал!
 After a few hours of sleep...@§7После нескольких часов сна...
 Seems like something is going on at the tomb.@§7Похоже что-то происходит у данжа.
 Seems like there's a discussion going on...@§7Похоже, тут кто-то с кем-то дискутирует...
-It appears everyone has fled. Perhaps you should see what the remaining people are talking about...@§7Оказывается все сбежали. Возможно, ты должен расспросить, что остальные люди говорят об этом...
-There doesn't seem to be anything of interest in this room, although Mr. Caritat does have some weird hobbies...@§7Там, кажется, нет ничего интересного в этой комнате... Хотя, у господина Caritat действительно странные увлечения...
-After witnessing your crash into the cliff, A Corkian citizen informed the government.@§7После того, как ты врезался в скалу, видевший это житель Corkus'а доложил об этом правительству.
-Reward: Should you survive, 32 EB.@§7Награда: Если выживете - 32 EB.
-After successfully fixing the rope you find one leftover piece, you should give it to the mechanic.@§7После успешной починки цепи, у тебя остался один лишний кусочек. Отдай его механику.
 The crystal you're looking for is purple, not blue.@§7Кристалл что вы ищете фиолетового цвета, а не синего.
 Head back to the submarine and keep looking.@§7Возвращайся на подлодку и продолжай поиски.
 This isn't good. You're the only survivor... You need to continue the mission, it's better to just leave this place...@§7Это не есть хорошо. Ты единственный выживший... Тебе нужно продолжать миссию. Это лучше, чем просто уйти с этого места...
@@ -68,7 +57,6 @@ Press the button under the TNT.@§7Нажми на кнопку под TNT.
 You have to try to escape the water again.@§7Ты должен попробовать сбежать от воды еще раз.
 His final notes...@§7Его последняя запись...
 Dried stains of red can be seen on the page...@§7Высохшие пятна красного цвета видны на странице...
-As you enter the tomb, a putrid smell filled your nostrils...@§7При входе в гробницу, гнилой запах наполнил твои ноздри...
 The putrid smell coming out of this hole does not make you want to explore it.@§7Гнилой запах, выходящий из этой дыры, отбивает все желание исследовать ее.
 The spiritual pull towards the graveyard loses its effect, making travelling easier.@§7Духовное притяжение перед кладбищем теряет свой эффект, облегчая путешествие.
 Inrekei is not responding. You feel it's best to leave him be.@§7Inrekei не отвечает. Ты чувствуешь, что лучше оставить его в покое.
@@ -78,7 +66,6 @@ The pig raises its head to look at you, and nods respectively. You have successf
 The sheep raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@§7Овца поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
 A Cannibal Ambush@Засада Каннибалов
 They'll eat you alive.@Они съедят тебя живьем.
-A message is carved into the obsidian: "Beneath the cowl of the eastern titan, keeping watch over our heads"@Сообщение выгравировано на обсидиане: "§eПод шлемом восточного титана, охраняющего наши головы§7"
 There is no time for resting now!@§4Сейчас не время для отдыха!
 The inscription on the gravestone reads "Here lies our great founder, Tisaun Sodeta. May he guide us through the endless fight."@§7Надпись на надгробии гласит "Здесь лежит наш великий основатель, Sodeta Tisaun. Пусть он проведет нас через бесконечную битву."
 An unsettlingly powerful energy seems to blanket the area. There is potential here for...something. But not yet...@§7Похоже, что мощная тревожная энергия покрывает эту область. Здесь есть потенциал для... чего-то. Но еще слишком рано...
