@@ -473,33 +473,31 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §4You don't see any use in climbing on the walls, but you do spy a few suspicious-looking journal pages lying around...@§4Ты не видишь никакого смысла в лазании по стенам, но ты замечаешь несколько подозрительных страниц журнала, лежащих вокруг...
 §4It appears Mister Caritat is about to make an announcement.@§4похоже Мистер Caritat собирается сделать объявление.
 §4You're moving too fast!@§4Ты двигаешься слишком быстро!
-§4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7
-Resetting systems §8<*> §7Loading "§7§oUnbeatable AI§7" preset...
-Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.
-§7[+1 Water Powder II]
-§4You do not have enough space in your bank!
-§2You now have a §azombie horse
-§2You now have a regular horse
-§4The noise of a strange creature discourages you from entering.
-§dFood Bow
-§7Disguise your bow as a piece of food
-§2You will now see the total levels of players in chat!
-§fEmerald Swirl Effect
-§7Create a emerald effect around your character
-§3You are now disguised as a §bchicken
-§4Weird sounds can be heard from above...
-§3You are no longer disguised as a §bchicken
-§2You can no longer see insults in chat!
-§2You can now see insults again!
-§2You can no longer see blood in game!
-§2You can now see blood again!
-§4You're not a vet... Sorry!
-§2You can no longer see war messages in game!
-§2You can now see war messages again!
-§2You can no longer see level 100 popups in game!
-§2You can now see level 100 popups again!
-§2You will no longer see the task scoreboard!
-§2You can now see the task scoreboard!
+§4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7@§4[ §c§lWynntron §4| §8Версия: §8§n9001.14§4 ] §7
+Resetting systems §8<*> §7Loading "§7§oUnbeatable AI§7" preset...@Сброс систем §8<*> §7Загрузка "§7§oНепобедимый ИИ§7" пресета...
+Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.@Процесс завершен §8<*>§7 "§7§oНепобедимый ИИ§7" выиграл.
+§4You do not have enough space in your bank!@§4У тебя недостаточно места в банке!
+§2You now have a §azombie horse@§2Теперь у тебя §aзомби лошадь
+§2You now have a regular horse@§2Теперь у тебя обычная лошадь
+§4The noise of a strange creature discourages you from entering.@§4Шум странного существа мешает тебе войти.
+§7Disguise your bow as a piece of food@§7Замаскируй свой лук под кусок еды
+§2You will now see the total levels of players in chat!@§2Теперь ты видишь общий уровень игроков в чате!
+§fEmerald Swirl Effect@§fЭффект эмеральдного вихря
+§7Create a emerald effect around your character@§7Создает эффект эмеральдов вокруг персонажа
+§3You are now disguised as a §bchicken@§3Ты замаскировался под §bкурицу
+§4Weird sounds can be heard from above...@§4Сверху доносятся странные звуки...
+§3You are no longer disguised as a §bchicken@§3Ты больше не маскируешься под §bкурицу
+§2You can no longer see insults in chat!@§2Ты больше не будешь видеть оскорбления в чате!
+§2You can now see insults again!@§2Ты видишь оскорбления снова!
+§2You can no longer see blood in game!@§2Ты больше не будешь видеть кровь в игре!
+§2You can now see blood again!@§2Ты видишь кровь снова!
+§4You're not a vet... Sorry!@§4Ты не ветеран...Прости!
+§2You can no longer see war messages in game!@§2Ты больше не будешь видеть сообщения о захватах в чате!
+§2You can now see war messages again!@§2Ты видишь сообщения о захватах снова!
+§2You can no longer see level 100 popups in game!@§2Ты больше не будешь видеть сообщения о 100 уровнях в чате!
+§2You can now see level 100 popups again!@§2Ты видишь сообщения о 100 уровнях снова!
+§2You will no longer see the task scoreboard!@§2Ты больше не будешь видеть табло с заданиями!
+§2You can now see the task scoreboard!@§2Ты видишь табло с заданиями снова!
 §dSteampunk Dagger
 §7Disguise your dagger with a steampunk flair
 §3You are now disguised as a §bspider
