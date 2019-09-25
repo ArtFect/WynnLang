@@ -97,6 +97,8 @@
 §7[+Galleon's Graveyard Fragment]@§7[+Galleon's Graveyard Фрагмент]
 §7[+Corrupted Garoth's Breath]@§7[+Испорченное Дыхание Garoth'а]
 §7[+Corrupted Lost Sanctuary Fragment]@§7[+Испорченный Lost Sanctuary Фрагмент]
+§7[+Antikythera Supercomputer's Chip]@§7[+Antikythera Supercomputer Чип]
+§7[+Fallen Factory Dungeon Fragment]@§7[+Fallen Factory Фрагмент]
 §a                             Find Discoveries@§a                             Нахождение Открытий
 §a                               Loot Chests@§a                               Открытие Сундуков
 §c                               Win Dungeons@§c                               Прохождение Данжей
@@ -576,27 +578,26 @@ Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.@Процесс заве�
 §7    §7§oRumours float around in the eternal winter village of Nesaak that there are still secrets to be discovered, as Mael had a lot to hide. The house of Twain stood for several years protecting this province, but now no original Twain remains.@§7    §7§oВ вечно зимней деревне Nesaak ходят слухи о том, что еще остались секреты, которые можно открыть, так как Mael’у пришлось скрыть многое. Дом Twain’ов потратил много лет на защиту этой провинции, но теперь уже не осталось потомков рода Twain.
 §7    §7§oHowever, Mael left a will to the last remaining honorary Twai-@§7    §7§oТем не менее, Mael оставил завещание для последнего оставшегося почетного Twai-
 §7§l§nThe remainder of the last page has been torn out.@§7§l§nОстальная часть последней страницы была вырвана.
-§4Magical powers assemble as you try and enter, making you unable to approach the cave.
-§dMusic Swirl Effect
-§7Create a music effect around your character
-§4The player 'xx_dj_dragon_xx' does not exist!
-§4Fierce growls echo within the cave. It doesn't feel safe to enter yet.
-§dSteampunk Bow
-§7Disguise your bow with a steampunk flair
-§5Guild Master: §dCome back when you're combat level 40
-§5Guild Master: §dCome back when you have 5 soul points
-§fWitch Brew Effect
-§7Give your character the Witch Brew effect
-§fMagic Swirl Effect
-§7Create a magic effect around your character
-§4[ §c§lWynntron §4| §8Ver§8§ksio§8n: §8§n9ERrOR.4§4 ] §7
-Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI§7" ER§7§kLOL @Lotem
-§cNo moves left to undo.
-§e§kOn the island of insanity lies the jewel of the eye.
-§7This nonsense is all that appears on the screen. The machine must be broken, there's nothing else you can do with it now.
-§cInvalid price! Please try again with a lower number.
-§4You feel a dark force push you back away from the house. Something doesn't want you in there, yet...
-§4This tunnel seems to be under construction at the moment.
+§4Magical powers assemble as you try and enter, making you unable to approach the cave.@§4Магические силы соединяются, когда ты пытаешься войти, что делает тебя неспособным приблизиться к пещере.
+§dMusic Swirl Effect@§dЭффект Круговорота Музыки
+§7Create a music effect around your character@§7Создает эффект музыки вокруг персонажа
+§4Fierce growls echo within the cave. It doesn't feel safe to enter yet.@§4Яростное рычание эхом отдается в пещере. Похоже это не безопасно входить туда.
+§dSteampunk Bow@§dСтимпанк Лук
+§7Disguise your bow with a steampunk flair@§7Маскирует твой лук под стимпанк стиль
+§5Guild Master: §dCome back when you're combat level 40@§5Guild Master: §dВозвращайся когда достигнешь 40 комбат уровня
+§5Guild Master: §dCome back when you have 5 soul points@§5Guild Master: §dВозвращайся когда у тебя будет 5 очков душ
+§fWitch Brew Effect@§fЭффект Зелья Ведьмы
+§7Give your character the Witch Brew effect@§7Дает втоему персонажу эффект зелья ведьмы
+§fMagic Swirl Effect@§fЭффект Магического Круговорота
+§7Create a magic effect around your character@§7Создает эффект магии вокруг персонажа
+§4[ §c§lWynntron §4| §8Ver§8§ksio§8n: §8§n9ERrOR.4§4 ] §7@§4[ §c§lWynntron §4| §8Вер§8§kси§8я: §8§n0LIIИБI<А.4§4 ] §7
+Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI§7" ER§7§kLOL @Lotem@Ошибка О§7§kшиб§7ка 30LIIИ§7§kБКа§8 <*>§7"§7§o§mНе§7§o§kпобе§7§oдимый ИИ§7" 0LII§7§kLOL @Lotem
+§cNo moves left to undo.@§cНикаких движений не осталось для отмены.
+§e§kOn the island of insanity lies the jewel of the eye.@§e§kНа острове безумия лежит жемчужина глаз.
+§7This nonsense is all that appears on the screen. The machine must be broken, there's nothing else you can do with it now.@§7Эта ерунда - все, что появлялось на экране. Машина, должно быть, сломалась, больше с ней ничего не поделаешь.
+§cInvalid price! Please try again with a lower number.@§cНеверная цена! Попробуй еще раз с более меньшим числом.
+§4You feel a dark force push you back away from the house. Something doesn't want you in there, yet...@§4Ты чувствуешь, как темная сила отталкивает тебя от дома. Что-то пока не хочет, чтобы ты был там...
+§4This tunnel seems to be under construction at the moment.@§4Этот туннель, кажется, в настоящее время ремонтируется.
 §9The duel has expired! Nobody has won the duel.
 §4Weird metallic noises can be heard in the distance. It doesn't seem safe.
 §d                    §d§lThe Isle of Industry
@@ -699,8 +700,6 @@ This book's title reads...
 §aA §6Epic Golden Bow§a!
 §7You do not know how to boil tea just yet..
 §4There's some chaotic force emanating from the basement. It would probably be best to stay away.
-§7[+Antikythera Supercomputer's Chip]
-§7[+Fallen Factory Dungeon Fragment]
 §4Please have only the pet you want to rename spawned.
 §7You have immodestly thanked yourself!
 §4Some kind of powerful dark force is preventing you from progressing.
@@ -708,7 +707,6 @@ This book's title reads...
 §3You now have a §bCream Wybel
 §6Hand Cannon
 §7Disguise your bow with a corrupted flair
-§7Speak to Relend at [1304,35,-4043]
 §7§kUse §kthis §kto §kgain §kanswers: §khttp://jumla.in/Km
 §4As you near the edge of the pit, hopelessness begins to overwhelm you. It would be wise to stay back.
 §4It looks like the ship is going to fall apart, any second. Better get away.
@@ -783,5 +781,4 @@ This book's title reads...
 §3You must capture the territory before you can buy mobs for it
 §7It looks like the sky kitchen throws out their garbage through a window...
 §7You failed in protecting the windshield!
-§7Find Bob's corpse in his tomb
 §cYou do not hold enough of that item to sell! Try again.
