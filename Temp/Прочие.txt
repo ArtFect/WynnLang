@@ -449,30 +449,30 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §3You are now disguised as a §bsheep@§3Ты замаскировался в §bовцу
 §4§lWARNING@§4§lВНИМАНИЕ
 §4You will lose 3 soul points for leaving the guild.@§4Ты потеряешь 3 очка душ при выходе из гильдии.
-§4You will need to be re-invited to rejoin the guild.@
-§4Are you sure you want to leave?@
-§43 soul point have been lost...@
-§3[INFO] §bYou have left the guild.@
-§7You failed to get to the vault in time!@
-§2You will now see the combat levels of players in chat!@
-§7[+1 Selchar Boat Pass]@
-§4The water is deep here, it might be dangerous to swim here.@
-§cInvalid number input. Please use a number between 0-100.@
-§4You are missing the basement key!@
-§4Strange sounds come out of the cave, maybe you shouldn't investigate it.@
-§4This command is VIP only! Buy VIP at §cstore.wynncraft.com@
-§a- §7Creeper Dart will throw a creeper dart, demolishing anything in its path@
-§cAlready connecting to this server!@
-§4The groans of the undead echo in your ears...@
-§cYou are not allowed to sell currency on the market!@
-§4Jumping off of the tower would probably hurt.@
-§4A boss token is required to go through.@
-§4A revolting odor is emanating from inside the cave. You don't think you should enter without a reason, lest you get sick.@
-§4The lake is emanating a putrid smell...@
-§7You make your way into the ventilation system.@
-§4You don't see any use in climbing on the walls, but you do spy a few suspicious-looking journal pages lying around...@
-§4It appears Mister Caritat is about to make an announcement.
-§4You're moving too fast!
+§4You will need to be re-invited to rejoin the guild.@§4Тебе нужно повторное приглашение, чтобы присоединиться к гильдии.
+§4Are you sure you want to leave?@§4Ты уверен, что хочешь выйти?
+§43 soul point have been lost...@§43 очка душ было потрачено...
+§3[INFO] §bYou have left the guild.@§3[ИНФО] §bТы вышел из гильдии.
+§7You failed to get to the vault in time!@§7Ты не смог добраться до хранилища вовремя!
+§2You will now see the combat levels of players in chat!@§2Теперь ты видишь комбат уровень игроков в чате!
+§7[+1 Selchar Boat Pass]@§7[+1 Selchar Билет]
+§4The water is deep here, it might be dangerous to swim here.@§4Вода здесь глубокая, плавать здесь может быть опасно.
+§cInvalid number input. Please use a number between 0-100.@§cНеверный ввод числа. Пожалуйста, используй число от 0 до 100.
+§4You are missing the basement key!@§4Тебе не хватает ключа от подвала!
+§4Strange sounds come out of the cave, maybe you shouldn't investigate it.@§4Из пещеры доносятся странные звуки, может не стоит ее исследовать.
+§4This command is VIP only! Buy VIP at §cstore.wynncraft.com@§4Эта команда только для VIP! Купи VIP на §cstore.wynncraft.com
+§a- §7Creeper Dart will throw a creeper dart, demolishing anything in its path@§a- §7Creeper Dart выпускает ползучий дротик, уничтожая все на своем пути
+§cAlready connecting to this server!@§cУже подключаюсь к этому серверу!
+§4The groans of the undead echo in your ears...@§4Скрипы нежити эхом отдаются в ушах...
+§cYou are not allowed to sell currency on the market!@§cТы не можешь продавать валюту через маркет!
+§4Jumping off of the tower would probably hurt.@§4Если спрыгнуть с башни, наверное, будет больно.
+§4A boss token is required to go through.@§4Для прохождения требуется жетон босса.
+§4A revolting odor is emanating from inside the cave. You don't think you should enter without a reason, lest you get sick.@§4Отвратительный запах исходит изнутри пещеры. Ты не думаешь, что тебе следует входить туда без причины, чтобы не заболеть.
+§4The lake is emanating a putrid smell...@§4От озера исходит гнилостный запах...
+§7You make your way into the ventilation system.@§7Ты пробираешься в вентиляционную систему.
+§4You don't see any use in climbing on the walls, but you do spy a few suspicious-looking journal pages lying around...@§4Ты не видишь никакого смысла в лазании по стенам, но ты замечаешь несколько подозрительных страниц журнала, лежащих вокруг...
+§4It appears Mister Caritat is about to make an announcement.@§4похоже Мистер Caritat собирается сделать объявление.
+§4You're moving too fast!@§4Ты двигаешься слишком быстро!
 §4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7
 Resetting systems §8<*> §7Loading "§7§oUnbeatable AI§7" preset...
 Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.
