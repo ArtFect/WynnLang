@@ -58,7 +58,7 @@
 §4Did you mean §c(.*)\? §4If not, type \/help to see the commands!@§4Ты имел в виду §c(r1)? §4Если нет, напиши /help, чтобы увидеть список команд!
 §5(.*): §dI'm afraid you cannot afford that item.@§5(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
 §5(.*): §dI'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
-§5(.*): §dThank you for your business. Come again!@@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
+§5(.*): §dThank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
 §4(.*)§c is not currently online any Wynncraft servers....@§4(r1)§c сейчас ни на одном Wynncraft сервере...
 §7\[Daily Rewards: §a(.*) emeralds§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7]
 §5Blacksmith: §dYou scrapped: (.*) for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Blacksmith: §dТы утилизировал: (r1) в общей сумме на §e(r2)§d скрапа. Было приятно иметь с тобой дело.
