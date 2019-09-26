@@ -199,6 +199,7 @@
 §b - §7(.*)x Combat XP Bomb@§b - §7(r1)x Комбат XP Бомб
 §b - §7(.*)x Item Bomb@§b - §7(r1)x Предметных Бомб
 §b - §7(.*) Crates@§b - §7(r1) Контейнеров
+§5Guild Master: §dExcellent. You have named your guild "§b(.*)§d".@§5Guild Master: §dОтлично. Ты назвал свою гильдию "§b(r1)§d".
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
