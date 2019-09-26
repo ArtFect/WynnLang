@@ -654,7 +654,8 @@ Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.@Процесс заве�
 §a- §7Blink will teleport to the location that you're looking at@§a- §7Blink  будет телепортировать тебя в место, на которое ты смотришь
 §c§7The lift has been called down...@§c§7Лифт был вызван вниз...
 §c§7The lift has been called up...@§c§7Лифт был вызван вверх...
-§a§7The lift has successfully ascended!@c§7Лифт успешно поднялся!
+§a§7The lift has successfully ascended!@§c§7Лифт успешно поднялся!
+§a§7The lift has successfully descended!@§c§7Лифт успешно опустился!
 §3You now have a §bWhite Wybel@§3Теперь у тебя есть §bБелый Wybel
 §cInvalid pet name entry.@§cНедопустимое имя питомца.
 §cThat really doesn't look like a place to explore right now...@§cЭто не похоже на  то место, чтобы исследовать его прямо сейчас...
@@ -698,82 +699,76 @@ This book's title reads...@Названия этих книг гласят...
 §4Please have only the pet you want to rename spawned.@§4Пожалуйста, оставь заспавненным только одного питомца, которого ты хочешь переименовать.
 §7You have immodestly thanked yourself!@§7Ты нескромно поблагодарил себя!
 §4Some kind of powerful dark force is preventing you from progressing.@§4Какая-то мощная темная сила мешает тебе продвинуться дальше.
-§fCream Wybel Token
-§3You now have a §bCream Wybel
-§6Hand Cannon
-§7Disguise your bow with a corrupted flair
-§7§kUse §kthis §kto §kgain §kanswers: §khttp://jumla.in/Km
-§4As you near the edge of the pit, hopelessness begins to overwhelm you. It would be wise to stay back.
-§4It looks like the ship is going to fall apart, any second. Better get away.
-§a- §7Crystal Reptile will throw a snake of death, freezing your enemies over a long distance
-§4You shouldn't leave until you have finished reading the witness report...
-§a§7The lift has successfully descended!
-§cCould not connect to target server, you have been moved to a fallback server.
-§4It's probably best not to flee when Aryn is clearly in trouble.
-§dSteampunk Wand
-§7Disguise your wand with a steampunk flair
-§fSmoke Swirl Effect
-§7Create a smoke effect around your character
-§4'§4§lI§4, :§4§ltold§4.; .§4§lyou§4; '§4§lto§4;. ,§4§lstay§4' .§4§laway§4;
-§dHeart Swirl Effect
-§7Create a heart effect around your character
-§dTornado Effect
-§7Create a tornado effect around your character
-§aYour particle limit is now §foff (0)
-§4The deep hole doesn't seem too welcoming, better stay away.
-§dZombie Horse Cloak
-§7Disguise your horses into a zombie beast
-§4You should talk to Grandon first.
-§7[+1 Nemract Boat Pass]
-§4You must defeat the Remains of Mr. Caritat to exit!
-§fEmerald Attack Effect
-§7Create a Emerald effect whenever you hit!
-§d                          §d§lThe Tale of the Lost Necklace
-§a                                     Chapter I
-§7The crystals in the room lights up... They are blinking in a strange pattern.
-§7You pass out and one phrase is on your mind 'In the house, that guides you through the night.'
-                            §bNecklace Chamber
-§b - §72x Combat XP Bomb
-§b - §72x Item Bomb
-§b - §75 Crates
-§b - §7VIP Rank
-§dCreeper Disguise
-§7Disguise yourself as a creeper
-§3You are now disguised as a §bcreeper
-§cOzoth Effect
-§7Give your character a dragon-like appearance
-§dMint Wybel Token
-§3You now have a §bMint Wybel
-§5Guild Master: §dHello adventurer! I see you're interested in making a guild. What do you want to name it?
+§fCream Wybel Token@§fКремовый Wybel Жетон
+§3You now have a §bCream Wybel@§3Теперь у тебя есть §bКремовый Wybel
+§6Hand Cannon@§6Ручная Пушка
+§7Disguise your bow with a corrupted flair@§7Маскирует твой лук под стиль порчи
+§7§kUse §kthis §kto §kgain §kanswers: §khttp://jumla.in/Km@§7§kИспользуй §kэто §kчтобы §kполучить §kответы: §khttp://jumla.in/Km
+§4As you near the edge of the pit, hopelessness begins to overwhelm you. It would be wise to stay back.@§4Когда ты приближаешься к краю ямы, безнадежность начинает переполнять тебя. Было бы разумно остаться в стороне.
+§4It looks like the ship is going to fall apart, any second. Better get away.@§4Похоже, подлодка может развалиться в любую секунду. Лучше уходить.
+§a- §7Crystal Reptile will throw a snake of death, freezing your enemies over a long distance@§a- §7Crystal Reptile выпускает смертоносную змею, замораживая врагов на большом расстоянии
+§4You shouldn't leave until you have finished reading the witness report...@§4Ты не должен уходить, пока не закончишь читать отчет свидетеля...
+§cCould not connect to target server, you have been moved to a fallback server.@§cНе удалось подключиться к выбраному серверу, ты был перемещен на резервный сервер.
+§4It's probably best not to flee when Aryn is clearly in trouble.@§4Наверное, лучше не убегать, когда Aryn явно в беде.
+§dSteampunk Wand@§dСтимпанк Посох
+§7Disguise your wand with a steampunk flair@§7Маскирует твой посох под стимпанк стиль
+§fSmoke Swirl Effect@§fЭффект Кругворота Дыма
+§7Create a smoke effect around your character@§7Создает эффект дыма вокруг персонажа
+§dHeart Swirl Effect@§dЭффект Круговорота Сердец
+§7Create a heart effect around your character@§7Создает эффект сердечек вокруг персонажа
+§dTornado Effect@§dЭффект Торнадо
+§7Create a tornado effect around your character@§7Создает эффект торнадо вокруг персонажа
+§aYour particle limit is now §foff (0)@§aТвой лимит частиц теперь §fотключен (0)
+§4The deep hole doesn't seem too welcoming, better stay away.@§4Глубокая дыра не кажется слишком гостеприимной, лучше держаться подальше.
+§dZombie Horse Cloak@§dЗомби Плащ Для Коня
+§7Disguise your horses into a zombie beast@§7Маскирует твою лошадь под зомби зверя
+§4You should talk to Grandon first.@§4Ты должен поговорить сначала с Grandon'ом.
+§7[+1 Nemract Boat Pass]@§7[+1 Nemract Билет]
+§4You must defeat the Remains of Mr. Caritat to exit!@§4Ты должен победить останки Мистера Caritat, чтобы уйти!
+§fEmerald Attack Effect@§fЭмеральдный Эффект Атаки
+§7Create a Emerald effect whenever you hit!@§7Создает эффект эмеральдов при атаке!
+§d                          §d§lThe Tale of the Lost Necklace@§d                          §d§lСказка о Потерянном Амулете
+§a                                     Chapter I@§a                                     Глава I
+§7The crystals in the room lights up... They are blinking in a strange pattern.@§7Кристаллы в комнате загораются... Они мигают в странном порядке.
+§7You pass out and one phrase is on your mind 'In the house, that guides you through the night.'@§7Ты теряешь сознание, и одна фраза остается в твоей голове 'в доме, который ведет тебя через ночь.'
+§b - §7VIP Rank@§b - §7VIP Ранг
+§dCreeper Disguise@§dКрипер Маскировка
+§7Disguise yourself as a creeper@§7Замаскируй себя под крипера
+§3You are now disguised as a §bcreeper@
+§cOzoth Effect@
+§7Give your character a dragon-like appearance@
+§dMint Wybel Token@
+§3You now have a §bMint Wybel@
+§5Guild Master: §dHello adventurer! I see you're interested in making a guild. What do you want to name it?@
 §5Guild Master: §dExcellent. You have named your guild "§bssss§d".
-§5Guild Master: §dNow, what prefix do you want for your guild? It will appear next to the names of your members.
-§5Guild Master: §dFor an example, a guild with the name "§bExample Guild Name§d" should have the prefix "§bEGN§d".
-§5Guild Master: §dYour prefix must have exactly 3 characters.
-§5Guild Master: §dIt seems that there is already a guild with that prefix... Try again!
-§4The cannon doesn't seem to move further into this direction.
-§4The rift pushes you back...
-§aA §dRare Lava Attack Effect§a!
-§aA §dRare Food Wand§a!
-§aA §6Epic Half-Moon Spear§a!
-§4An intense magical force prevents you from entering.
-§4While this secret room looks interesting, you probably shouldn't be inside.
-§4You're supposed to explore, not leave the basement.
-§4It seems too dangerous to climb through the leaves here.
-§6Usage: §f/rename <name>
-§cYou can only use letters and spaces in item names!
-§aRenamed!
-§7Reward: Should you survive, 5LE.
-§4Looks likes a witch lives here. You shouldn't interrupt her.
-§7After succesfully fixing the rope you find one left over piece, you should give it to the mechanic
-§7You have unlocked the trapdoor make it to the end of the room in §410 §7seconds!
-§7You successfully closed the vents in time! 
-§7The crystal you're looking for is purple, not blue.
-§7Head back to the submarine and keep looking.
-§7This is the wrong crystal, head back to the submarine.
-§7The ropes of the submarine have snapped, the submarine is going to crash!
-§7This isn't good. You're the only survivor... You need to continue the mission, it's better to just leave this place...
-§7You see a platform next to the submarine, this is your way out!
-§3You must capture the territory before you can buy mobs for it
-§7It looks like the sky kitchen throws out their garbage through a window...
-§7You failed in protecting the windshield!
-§cYou do not hold enough of that item to sell! Try again.
+§5Guild Master: §dNow, what prefix do you want for your guild? It will appear next to the names of your members.@
+§5Guild Master: §dFor an example, a guild with the name "§bExample Guild Name§d" should have the prefix "§bEGN§d".@
+§5Guild Master: §dYour prefix must have exactly 3 characters.@
+§5Guild Master: §dIt seems that there is already a guild with that prefix... Try again!@
+§4The cannon doesn't seem to move further into this direction.@
+§4The rift pushes you back...@
+§aA §dRare Lava Attack Effect§a!@
+§aA §dRare Food Wand§a!@
+§aA §6Epic Half-Moon Spear§a!@
+§4An intense magical force prevents you from entering.@
+§4While this secret room looks interesting, you probably shouldn't be inside.@
+§4You're supposed to explore, not leave the basement.@
+§4It seems too dangerous to climb through the leaves here.@
+§6Usage: §f/rename <name>@
+§cYou can only use letters and spaces in item names!@
+§aRenamed!@
+§7Reward: Should you survive, 5LE.@
+§4Looks likes a witch lives here. You shouldn't interrupt her.@
+§7After succesfully fixing the rope you find one left over piece, you should give it to the mechanic@
+§7You have unlocked the trapdoor make it to the end of the room in §410 §7seconds!@
+§7You successfully closed the vents in time! @
+§7The crystal you're looking for is purple, not blue.@
+§7Head back to the submarine and keep looking.@
+§7This is the wrong crystal, head back to the submarine.@
+§7The ropes of the submarine have snapped, the submarine is going to crash!@
+§7This isn't good. You're the only survivor... You need to continue the mission, it's better to just leave this place...@
+§7You see a platform next to the submarine, this is your way out!@
+§3You must capture the territory before you can buy mobs for it@
+§7It looks like the sky kitchen throws out their garbage through a window...@
+§7You failed in protecting the windshield!@
+§cYou do not hold enough of that item to sell! Try again.@
