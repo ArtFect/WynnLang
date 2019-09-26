@@ -137,7 +137,7 @@
 §7\+ New Resource §8\[(.*)\]@§7+ Новый ресурс §8[(r1)]
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3\[(.*)\]@§5Key Collector: §dТы не можешь войти в этот данж, пока не дашь мне §3[(r1)].
 §6Great job! You've completed the (.*) Dungeon!@§6Отличная работа! Ты прошел (r1) данж!
-§7Bring \[(.*)\] to the (.*) at \[(.*)\]@§7Принеси §3[(r1)]§7 к §a(r2) на §2[(r3)]
+§7Bring §3\[(.*)\] §7to the §aSlaying Post §2\[Combat Lv. (.*)\]@§7Принеси §3[(r1)] §7к §aSlaying Post §2[Combat Lv. (r2)]
 (.*) is for combat level (.*) only.@(r1) §4только для уровней (r2)
 §4Your account is now linked to (.*)@§4Твой аккаунт связан теперь с (r1)
 §3You will now contribute (.*) of your XP to (.*)@§3Теперь ты вносишь (r1) от своих очков опыта в (r2)
