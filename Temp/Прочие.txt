@@ -734,41 +734,40 @@ This book's title reads...@Названия этих книг гласят...
 §b - §7VIP Rank@§b - §7VIP Ранг
 §dCreeper Disguise@§dКрипер Маскировка
 §7Disguise yourself as a creeper@§7Замаскируй себя под крипера
-§3You are now disguised as a §bcreeper@
-§cOzoth Effect@
-§7Give your character a dragon-like appearance@
-§dMint Wybel Token@
-§3You now have a §bMint Wybel@
-§5Guild Master: §dHello adventurer! I see you're interested in making a guild. What do you want to name it?@
-§5Guild Master: §dExcellent. You have named your guild "§bssss§d".
-§5Guild Master: §dNow, what prefix do you want for your guild? It will appear next to the names of your members.@
-§5Guild Master: §dFor an example, a guild with the name "§bExample Guild Name§d" should have the prefix "§bEGN§d".@
-§5Guild Master: §dYour prefix must have exactly 3 characters.@
-§5Guild Master: §dIt seems that there is already a guild with that prefix... Try again!@
-§4The cannon doesn't seem to move further into this direction.@
-§4The rift pushes you back...@
-§aA §dRare Lava Attack Effect§a!@
-§aA §dRare Food Wand§a!@
-§aA §6Epic Half-Moon Spear§a!@
-§4An intense magical force prevents you from entering.@
-§4While this secret room looks interesting, you probably shouldn't be inside.@
-§4You're supposed to explore, not leave the basement.@
-§4It seems too dangerous to climb through the leaves here.@
-§6Usage: §f/rename <name>@
-§cYou can only use letters and spaces in item names!@
-§aRenamed!@
-§7Reward: Should you survive, 5LE.@
-§4Looks likes a witch lives here. You shouldn't interrupt her.@
-§7After succesfully fixing the rope you find one left over piece, you should give it to the mechanic@
-§7You have unlocked the trapdoor make it to the end of the room in §410 §7seconds!@
-§7You successfully closed the vents in time! @
-§7The crystal you're looking for is purple, not blue.@
-§7Head back to the submarine and keep looking.@
-§7This is the wrong crystal, head back to the submarine.@
-§7The ropes of the submarine have snapped, the submarine is going to crash!@
-§7This isn't good. You're the only survivor... You need to continue the mission, it's better to just leave this place...@
-§7You see a platform next to the submarine, this is your way out!@
-§3You must capture the territory before you can buy mobs for it@
-§7It looks like the sky kitchen throws out their garbage through a window...@
-§7You failed in protecting the windshield!@
-§cYou do not hold enough of that item to sell! Try again.@
+§3You are now disguised as a §bcreeper@§3Ты замаскировался под §bкрипера
+§cOzoth Effect@§cOzoth Эффект
+§7Give your character a dragon-like appearance@§7Дает твоему персонажу драконоподобный внешний вид
+§dMint Wybel Token@§dМятный Wybel Жетон
+§3You now have a §bMint Wybel@§3Теперь у тебя есть §bМятный Wybel
+§5Guild Master: §dHello adventurer! I see you're interested in making a guild. What do you want to name it?@§5Guild Master: §dПривет путешественник! Вижу, ты заинтересован в создании гильдии. Как ты хочешь ее назвать?
+§5Guild Master: §dNow, what prefix do you want for your guild? It will appear next to the names of your members.@§5Guild Master: §dТеперь какой префикс ты хочешь для своей гильдии? Он появится рядом с никами твоих участников.
+§5Guild Master: §dFor an example, a guild with the name "§bExample Guild Name§d" should have the prefix "§bEGN§d".@§5Guild Master: §dК примеру, у гильдии с названием "§bExample Guild Name§d" должен быть префикс "§bEGN§d".
+§5Guild Master: §dYour prefix must have exactly 3 characters.@§5Guild Master: §dПрефикс должен содержать ровно 3 символа.
+§5Guild Master: §dIt seems that there is already a guild with that prefix... Try again!@§5Guild Master: §dПохоже уже есть такая гильдия с этим префиксом... Попробуй еще раз!
+§4The cannon doesn't seem to move further into this direction.@§4Пушка, кажется, не движется дальше в этом направлении.
+§4The rift pushes you back...@§4Разлом отталкивает тебя назад...
+§aA §dRare Lava Attack Effect§a!@§aA §dRare Эффект Атаки Лавы§a!
+§aA §dRare Food Wand§a!@§aA §dRare Рыба-меч Посох§a!
+§aA §6Epic Half-Moon Spear§a!@§aA §6Epic Полу-месяц Копье§a!
+§4An intense magical force prevents you from entering.@§4Интенсивная магическая сила мешает тебе войти.
+§4While this secret room looks interesting, you probably shouldn't be inside.@§4Хотя эта секретная комната и выглядит интересно, тебе вероятно не следует быть внутри.
+§4You're supposed to explore, not leave the basement.@§4Ты должен исследовать, а не покидать подвал.
+§4It seems too dangerous to climb through the leaves here.@§4Здесь слишком опасно лазить по листьям.
+§6Usage: §f/rename <name>@§6Использование: §f/rename <имя>
+§cYou can only use letters and spaces in item names!@§cТы можешь использовать только буквы и пробелы в названии предмета!
+§aRenamed!@§aПереименован!
+§7Reward: Should you survive, 5LE.@§7Награда: Если выживете, 32 EB.
+§4Looks likes a witch lives here. You shouldn't interrupt her.@§4Похоже, здесь живет ведьма. Ты не должен беспокоить ее.
+§7After succesfully fixing the rope you find one left over piece, you should give it to the mechanic@§7После успешной фиксации веревки ты нашел один оставшийся кусок, ты должен дать его механику
+§7You have unlocked the trapdoor make it to the end of the room in §410 §7seconds!@§7Ты должен открыть люк в конце комнаты за §410 §7секунд!
+§7You successfully closed the vents in time! @§7Ты успешно закрыл вентиляционные отверстия вовремя!
+§7The crystal you're looking for is purple, not blue.@§7Кристалл, который вы ищете, фиолетовый, а не синий.
+§7Head back to the submarine and keep looking.@§7Возвращайся на субмарину и продолжай поиски.
+§7This is the wrong crystal, head back to the submarine.@§7Это неправильный кристалл, возвращайся на субмарину.
+§7The ropes of the submarine have snapped, the submarine is going to crash!@§7Канаты субмарины оборвались, она собирается разбиться!
+§7This isn't good. You're the only survivor... You need to continue the mission, it's better to just leave this place...@§7Это нехорошо. Ты единственный, кто выжил... Тебе нужно продолжить миссию. Это лучше, чем просто покинуть это место...
+§7You see a platform next to the submarine, this is your way out!@§7Ты видишь платформу рядом с субмариной, это твой выход!
+§3You must capture the territory before you can buy mobs for it@§3Ты должен захватить территорию, прежде чем покупать мобов для нее
+§7It looks like the sky kitchen throws out their garbage through a window...@§7Похоже, что небесная кухня выбрасывает свой мусор через окно...
+§7You failed in protecting the windshield!@§7Ты не смог защитить лобовое стекло!
+§cYou do not hold enough of that item to sell! Try again.@§cУ тебя недостаточно этого предмета для продажи! Попробуй еще раз.
