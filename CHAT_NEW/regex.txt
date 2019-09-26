@@ -96,8 +96,8 @@
 §b(.*)§3bomb has expired. You can buy (.*) Bombs at our website, §bwynncraft.com\/store@§b(r1)§3бомба закончилась. Ты можешь купить (r2) бомбу на нашем сайте, §bwynncraft.com/store
 §b(.*)§3 has thrown a §bParty Bomb§3! Enjoy the madness!@§b(r1)§3 бросил §bПати Бомбу§3! Наслаждайся безумием!
 §b(.*) Party Bomb §3has run out! Visit §bwynncraft.com/store§b §3to get your own!@§b(r1) Пати Бомба §3закончилась! Посети §bwynncraft.com/store§b §3чтобы купить свою!
-§dFinished selling (.*)§d for §5(.*)@§dЗавершена продажа (r1)§d за §5(r2)
 §dFinished selling (.*)§d for §5(.*) each §dfor a total of §5(.*)@§dЗавершена продажа (r1)§d за §5(r2) каждый, §dв сумме на §5(r3)
+§dFinished selling (.*)§d for §5(.*)@§dЗавершена продажа (r1)§d за §5(r2)
 §c(.*)§4 is not online the Wynncraft network.@§c(r1)§4 нет в сети Wynncraft.
 §4You must complete the §c(.*)§4 quest before you can use §c(.*).@§4Ты должен пройти §c(r1)§4 квест, прежде чем использовать §c(r2).
 §7Please wait an additional (.*) minutes before opening this chest.@§7Пожалуйста подожди еще (r1) минут, прежде чем открывать сундук.
