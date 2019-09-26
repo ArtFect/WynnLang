@@ -241,7 +241,7 @@
 §7\[1\/1\] §2Rhudya: §aWatch your step next time, (.*)!@§7[1/1] §2Rhudya: §aОсторожнее в следующий раз, (r1)!
 
 §7\[4\/4\] §2Axelus: §aHopefully I will see you soon, (.*).@§7[4/4] §2Axelus: §aНадеюсь увижу тебя скоро, (r1).
-§7\[1\/2\] §2Axelus: §a(.*), over here! Near the skull.@§7[1/2] §2Axelus: §a(r1), сюда! Рядом с черепом.
+§7\[1\/2\] §2Axelus: §a(.*), Over here! Near the skull.@§7[1/2] §2Axelus: §a(r1), сюда! Рядом с черепом.
 §7\[1\/3\] §2Barden: §aFantastic, (.*)! We got the bone! Couldn't have done it without you.@§7[1/3] §2Barden: §aОтличная работа, (r1)! Теперь у нас есть кость дракона! Без тебя я бы не справился.
 
 §7\[6\/16\] §2\?\?\?: §aWe heard what happened, (.*).@§7[6/16] §2???: §aМы слышали, что случилось, (r1).
