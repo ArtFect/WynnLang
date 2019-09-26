@@ -597,65 +597,64 @@ Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.@Процесс заве�
 §cInvalid price! Please try again with a lower number.@§cНеверная цена! Попробуй еще раз с более меньшим числом.
 §4You feel a dark force push you back away from the house. Something doesn't want you in there, yet...@§4Ты чувствуешь, как темная сила отталкивает тебя от дома. Что-то пока не хочет, чтобы ты был там...
 §4This tunnel seems to be under construction at the moment.@§4Этот туннель, кажется, в настоящее время ремонтируется.
-§9The duel has expired! Nobody has won the duel.
-§4Weird metallic noises can be heard in the distance. It doesn't seem safe.
-§d                    §d§lThe Isle of Industry
-§d                        §d§lThe Isle of Industry
-§7    §7§oNo one knows exactly when the province borders formed between Fruma and Wynn; such tales are lost to time.
-§7    §7§oThe Ragni mountains that dominate the landscape have served as a natural barrier between the contrasting lands.
-§7    §7§oThere is only a single, well travelled passage through them to connect the two.
-§7    §7§oThe border has been closed for over a thousand years and is strictly regulated by the mysterious governing force of Fruma.
-§7    §7§oImmigration has always been entirely a one way system. People leave Fruma, and enter Wynn.
-§7    §7§oPeople who wish to attempt the opposite are more than welcome to try, however they are met with a hail of aggression from the Kai Shi, the Fruman royal guard.
+§9The duel has expired! Nobody has won the duel.@§9Дуэль закончилась! Никто не выиграл.
+§4Weird metallic noises can be heard in the distance. It doesn't seem safe.@§4В отдалении слышны странные металлические звуки. Это кажется небезопасным.
+§d                    §d§lThe Isle of Industry@§d                    §d§lОстров Промышленности
+§d                        §d§lThe Isle of Industry@§d                        §d§lОстров Промышленности
+§7    §7§oNo one knows exactly when the province borders formed between Fruma and Wynn; such tales are lost to time.@§7    §7§oНикто точно не знает, когда образовались границы между провинциями Fruma и Wynn; такие истории теряются со временем. 
+§7    §7§oThe Ragni mountains that dominate the landscape have served as a natural barrier between the contrasting lands.@§7    §7§oГоры Ragni, которые доминируют в ландшафте, служили естественным барьером между контрастирующими землями.
+§7    §7§oThere is only a single, well travelled passage through them to connect the two.@§7    §7§oЕсть только один хорошо изученный проход, через который соединяются эти две провинции. 
+§7    §7§oThe border has been closed for over a thousand years and is strictly regulated by the mysterious governing force of Fruma.@§7    §7§oГраница была закрыта более тысячи лет назад и строго регулируется таинственной руководящей силой Frum’ы.
+§7    §7§oImmigration has always been entirely a one way system. People leave Fruma, and enter Wynn.@§7    §7§oИммиграция всегда была полностью односторонней. Жители покидали Frum’у и уходили в Wynn. 
+§7    §7§oPeople who wish to attempt the opposite are more than welcome to try, however they are met with a hail of aggression from the Kai Shi, the Fruman royal guard.@§7    §7§oЛюди же, которые были бы рады пойти в обратном направлении, встречались с градом агрессии со стороны Kai Shi - королевской гвардии Frum’ы. 
+§7    §7§oThe slow release of the Fruman population into the province of Wynn began a thousand years ago, at the start of Wynn's corruption outbreak.@§7    §7§oМедленный отток населения Frum’ы в провинцию Wynn начался тысячу лет назад, в начале вспышки порчи в провинции.
+§7    §7§oWhat is most peculiar about the situation is that none of the “recruits” seem to know anything about their origins.@§7    §7§oЧто наиболее странно в этой ситуации, так это то, что ни один из "новобранцев", похоже, ничего не знает о своем происхождении.
+§7    §7§oInformation about Fruma is scarce to none due to this mysterious amnesia.@§7    §7§oИз-за этой таинственной амнезии информации о Frum’е крайне мало. 
+§7    §7§oThe one-way arrangement has been in place for so long that it has become entirely normal and mostly unquestioned.@§7    §7§oСоглашение об одностороннем проходе действовало так долго, что оно стало совершенно нормальным и практически неоспоримым. 
+§7    §7§o350 years ago, however, a splinter group left Fruma through the mountains on the northern coastline.@§7    §7§oОднако, 350 лет назад, группировка людей все же покинула Frum’у через горы на северном побережье.
+§7    §7§oThis was a feat previously thought impossible due to the unnatural mountain range and another, heavily guarded passage.@§7    §7§oЭто был подвиг, который раньше считался невозможным из-за неестественного горного хребта и из-за охраны главного прохода. 
+§7    §7§oThese rebels were highly skilled workers who, much like the Wynn recruits, lost the memories of their origins once they passed through the mountains.@§7    §7§oЭти повстанцы были высококвалифицированными рабочими, которые, подобно новобранцам из Wynn, потеряли воспоминания об их происхождении, как только прошли через горы.
+§7    §7§oConfused, scared and vulnerable, they migrated to a large island close to the northern gate: the island of Corkus.@§7    §7§oРастерянные, напуганные и уязвимые, они мигрировали на большой остров, расположенный недалеко от северных ворот - остров Corkus.
+§7    §7§oBack then, Corkus was an entirely independent, peaceful and self-sustaining nation.@§7    §7§oВ то время Corkus был полностью независимым, мирным и самодостаточным островом. 
+§7    §7§oIts sole inhabitants were the Avos, a bird-like humanoid that colonised the rocky terrain and steep cliffs long ago.@§7    §7§oЕго единственными обитателями были Avos’ы - птичие гуманоиды, которые давно колонизировали скалистую местность и крутые скалы.
+§7    §7§oAvos history is relatively unknown but their beliefs and practices are entrenched in spiritual and natural magic.@§7    §7§oИстория Avos’ов почти неизвестна, но их верования и практики отсылают к духовной и естественной магии. 
+§7    §7§oAvos are truly one with nature and respect all living things, which explained their willingness to grant asylum to any refugees who washed up on their shores, regardless of origin.@§7    §7§oAvos’ы поистине едины с природой и уважают всех живых существ, что объясняет их готовность предоставить убежище любым эмигрантам, которые прибывают на берега, независимо от их происхождения. 
+§7    §7§oThus began the era of the Corkians on the island. But, while the Avos gave an inch, the new humans took a foot.@§7    §7§oТак началась эпоха Corkian’цов на острове. Но, в то время как Avos’ы делали шаг, новые люди уже бежали вовсю.
+§7    §7§oThe Avos granted them their own borders, and they steadily grew over the years.@§7    §7§oAvos’ы предоставили им свои собственные границы, и те неуклонно росли на протяжении многих лет. 
+§7    §7§oToday, the humans occupy the majority of the island.@§7    §7§oСегодня, люди оккупировали большую часть острова. 
+§7    §7§oThe new Corkians, while still reserving the legal right to occupy and govern themselves, do not own the island.@§7    §7§oНовые Corkian’цы сохранили за собой законное право на оккупацию и самоуправление, но они не владели островом полностью. 
+§7    §7§oAlthough the lands are internationally recognised solely as Avos territory, a self sufficient neutral land, the real story is quite the opposite.@§7    §7§oХоть и земли признаны на международном уровне исключительно как нейтральная территория Avos’ов, на деле все оказалось по-другому. 
+§7    §7§oOver the 350 years of dual occupation, tensions have grown between the two civilizations.@§7    §7§oЗа 350 лет такой оккупации напряженность между двумя цивилизациями возросла. 
+§7    §7§oThe Avos, still clinging to their old spiritual beliefs, occupy the highest mountains where it is unfeasible for the Humans to live.@§7    §7§oAvos’ы, все еще цепляющиеся за свои старые духовные убеждения, заняли самые высокие горы, где невозможно жить людям. 
+§7    §7§oThe Corkians, in the lowlands, have forged a truly industrial nation.@§7    §7§o
+§7    §7§oThey did not possess any magical knowledge when they departed Fruma; such power was restricted only to those at the top of the Fruman hierarchy.@§7    §7§o
+§7    §7§oHowever, left to their own devices for a few hundred years, skilled Corkian workers soon discovered they were capable of harnessing the most obscure of the arts:@§7    §7§o
+§7    §7§oElectromagic, the magic of machines.@§7    §7§o
+§7    §7§oThey utilized the plentiful natural resources of the island to develop the most advanced and magnificent creations to aid them in everyday life.@§7    §7§o
+§7    §7§oCurrently, while tensions are at their most severe, neither the Avos nor the Corkians are seen as the enemy. Both have remained allies for the most part.@§7    §7§o
+§7    §7§oThe Avos have enjoyed the advanced medicine and aide from their industrially adept Human guests, while they have maintained their traditional hunter-gatherer lifestyle.@§7    §7§o
+§7    §7§oHowever, one major disagreement between the two groups has caused a rift between them.@§7    §7§o
+§7    §7§oThe Avos are fundamentally against the environmentally destructive wake left by Humans, and in response erected a wall as a symbol of their displeasure.@§7    §7§o
+§7    §7§oThe Corkians did not react at all, instead attempting to maintain their positive and peaceful relationship with the island owners without ceasing their industrial activities.@§7    §7§o
+§7    §7§oThe ocean has been considered a neutral buffer zone between the three provinces for some time, leaving the occupants of most islands somewhat unrepresented, with the exception of Selchar.@§7    §7§o
+§7    §7§oCorkus, however, is no exception. The Corkians seek international recognition from the other provinces as one of their own.@§7    §7§o
+§7    §7§oWhile the Avos simply wish to exist in harmony with the wind and waves, this was not enough for the new occupants.@§7    §7§o
+§7    §7§oThe basic Human need for recognition kicked in, and the Corkians were determined to get it.@§7    §7§o
+§7    §7§oTheir method is not through conquest or economic domination, but through the display of their technological might.@§7    §7§o
+§7    §7§oThe Corkians are indeed ahead of their time; the closest the Villagers ever got to a independent machine was a horrific mix of flesh and steel.@§7    §7§o
+§7    §7§oThough the machines of Corkus were impressive, they paled in comparison to what they called their national monument: The Factory.@§7    §7§o
+§7    §7§oThe Factory is a massive facility from which all of their machines originate. It is capable of producing an army in a matter of weeks.@§7    §7§o
+§7    §7§oIt would surely prove to the other provinces that Corkus is deserving of international representation, especially since it may prove to be indispensable as a tool against the corruption.@§7    §7§o
+§7    §7§oTeething problems have proved to hinder their plight for recognition.@§7    §7§o
+§7    §7§oThe electromagical force that governs the Factory seems to have an agenda of it’s own, and some machines have rebelled against their creators.@§7    §7§o
+§7    §7§oThe resourceful Corkians have since shut down the factory to fix the problem.@§7    §7§o
+§7    §7§oHowever, the land is still scattered with pockets of desperate mechanicals searching for much needed spare parts.@§7    §7§o
+§7    §7§oOnce they solve the problems of the Factory's governing force, Corkus is likely to become an international superpower.@§7    §7§o
+§7    §7§oTheir ingenuity and industrial progression can no longer be ignored, regardless of the Avos' situation.@§7    §7§o
+§a- §7Blink will teleport to the location that you're looking at
 §c§7The lift has been called down...
-§7    §7§oThe slow release of the Fruman population into the province of Wynn began a thousand years ago, at the start of Wynn's corruption outbreak.
-§7    §7§oWhat is most peculiar about the situation is that none of the “recruits” seem to know anything about their origins.
-§7    §7§oInformation about Fruma is scarce to none due to this mysterious amnesia.
-§7    §7§oThe one-way arrangement has been in place for so long that it has become entirely normal and mostly unquestioned.
-§7    §7§o350 years ago, however, a splinter group left Fruma through the mountains on the northern coastline.
-§7    §7§oThis was a feat previously thought impossible due to the unnatural mountain range and another, heavily guarded passage.
 §c§7The lift has been called up...
 §a§7The lift has successfully ascended!
-§7    §7§oThese rebels were highly skilled workers who, much like the Wynn recruits, lost the memories of their origins once they passed through the mountains.
-§7    §7§oConfused, scared and vulnerable, they migrated to a large island close to the northern gate: the island of Corkus.
-§7    §7§oBack then, Corkus was an entirely independent, peaceful and self-sustaining nation.
-§7    §7§oIts sole inhabitants were the Avos, a bird-like humanoid that colonised the rocky terrain and steep cliffs long ago.
-§7    §7§oAvos history is relatively unknown but their beliefs and practices are entrenched in spiritual and natural magic.
-§7    §7§oAvos are truly one with nature and respect all living things, which explained their willingness to grant asylum to any refugees who washed up on their shores, regardless of origin.
-§7    §7§oThus began the era of the Corkians on the island. But, while the Avos gave an inch, the new humans took a foot.
-§7    §7§oThe Avos granted them their own borders, and they steadily grew over the years.
-§7    §7§oToday, the humans occupy the majority of the island.
-§7    §7§oThe new Corkians, while still reserving the legal right to occupy and govern themselves, do not own the island.
-§7    §7§oAlthough the lands are internationally recognised solely as Avos territory, a self sufficient neutral land, the real story is quite the opposite.
-§7    §7§oOver the 350 years of dual occupation, tensions have grown between the two civilizations.
-
-§7    §7§oThe Avos, still clinging to their old spiritual beliefs, occupy the highest mountains where it is unfeasible for the Humans to live.
-§7    §7§oThe Corkians, in the lowlands, have forged a truly industrial nation.
-§7    §7§oThey did not possess any magical knowledge when they departed Fruma; such power was restricted only to those at the top of the Fruman hierarchy.
-§7    §7§oHowever, left to their own devices for a few hundred years, skilled Corkian workers soon discovered they were capable of harnessing the most obscure of the arts:
-§7    §7§oElectromagic, the magic of machines.
-§7    §7§oThey utilized the plentiful natural resources of the island to develop the most advanced and magnificent creations to aid them in everyday life.
-§7    §7§oCurrently, while tensions are at their most severe, neither the Avos nor the Corkians are seen as the enemy. Both have remained allies for the most part.
-§7    §7§oThe Avos have enjoyed the advanced medicine and aide from their industrially adept Human guests, while they have maintained their traditional hunter-gatherer lifestyle.
-§7    §7§oHowever, one major disagreement between the two groups has caused a rift between them.
-§7    §7§oThe Avos are fundamentally against the environmentally destructive wake left by Humans, and in response erected a wall as a symbol of their displeasure.
-§7    §7§oThe Corkians did not react at all, instead attempting to maintain their positive and peaceful relationship with the island owners without ceasing their industrial activities.
-§7    §7§oThe ocean has been considered a neutral buffer zone between the three provinces for some time, leaving the occupants of most islands somewhat unrepresented, with the exception of Selchar.
-§7    §7§oCorkus, however, is no exception. The Corkians seek international recognition from the other provinces as one of their own.
-§7    §7§oWhile the Avos simply wish to exist in harmony with the wind and waves, this was not enough for the new occupants.
-§7    §7§oThe basic Human need for recognition kicked in, and the Corkians were determined to get it.
-§7    §7§oTheir method is not through conquest or economic domination, but through the display of their technological might.
-§7    §7§oThe Corkians are indeed ahead of their time; the closest the Villagers ever got to a independent machine was a horrific mix of flesh and steel.
-§7    §7§oThough the machines of Corkus were impressive, they paled in comparison to what they called their national monument: The Factory.
-§7    §7§oThe Factory is a massive facility from which all of their machines originate. It is capable of producing an army in a matter of weeks.
-§7    §7§oIt would surely prove to the other provinces that Corkus is deserving of international representation, especially since it may prove to be indispensable as a tool against the corruption.
-§7    §7§oTeething problems have proved to hinder their plight for recognition.
-§7    §7§oThe electromagical force that governs the Factory seems to have an agenda of it’s own, and some machines have rebelled against their creators.
-§7    §7§oThe resourceful Corkians have since shut down the factory to fix the problem.
-§7    §7§oHowever, the land is still scattered with pockets of desperate mechanicals searching for much needed spare parts.
-§7    §7§oOnce they solve the problems of the Factory's governing force, Corkus is likely to become an international superpower.
-§7    §7§oTheir ingenuity and industrial progression can no longer be ignored, regardless of the Avos' situation.
-§a- §7Blink will teleport to the location that you're looking at
 §3You now have a §bWhite Wybel
 §cInvalid pet name entry.
 §cThat really doesn't look like a place to explore right now...
