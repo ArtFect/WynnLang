@@ -213,6 +213,7 @@
 §7\[1\/1\] §2Tasim: §aHey, (.*)! Come over here, we need to talk to you!@§7[1/1] §2Tasim: §aЭй, (r1)! Иди сюда, нам нужно поговорить с тобой!
 §7\[1\/1\] §2Tasim: §aHey, (.*)! Don't leave yet, let's talk to this old man. §b§lRight-click§a@§7[1/1] §2Tasim: §aЭй, (r1)! Не уходи пока, сначала нужно поговорить со стариком. §b§lПравый клик§a по нему, чтобы начать. 
 §7\[1\/1\] §2Aledar: §aHey, (.*)! Castle's the other way!@§7[1/1] §2Aledar: §aЭй, (r1)! Замок в другой стороне!
+§7\[1\/1\] §2Aledar: §aHey, (.*), the castle's the other way!@§7[1/1] §2Aledar: §aЭй, (r1), замок в другой стороне!
 §7\[1\/1\] §2Aledar: §aHey, (.*), follow me!@§7[1/1] §2Aledar: §aЭй, (r1), следуй за мной!
 §7\[1\/1\] §2Aledar: §aHey, (.*)! That's the wrong way!@§7[1/1] §2Aledar: §aЭй, (r1)! Это неправильный путь!
 §7\[7\/8\] §2Guard: §a(.*), you're an Assassin, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь ассасин, верно? Встань поближе к стене, ради меня.
