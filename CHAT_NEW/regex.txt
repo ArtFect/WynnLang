@@ -196,6 +196,9 @@
 §4You need §c(.*)§4 more gold coins to buy that pet!@§4Тебе нужно еще §c(r1)§4 золотых монет, чтобы купить этого питомца!
 §2 - §a(.*)§2 \[Server: §a(.*)§2\]@§2 - §a(r1)§2 \[Сервер: §a(r2)§2\]
 §4The player '(.*)' does not exist!@§4Игрока '(r1)' не существует!
+§b - §7(.*)x Combat XP Bomb@§b - §7(r1)x Комбат XP Бомб
+§b - §7(.*)x Item Bomb@§b - §7(r1)x Предметных Бомб
+§b - §7(.*) Crates@§b - §7(r1) Контейнеров
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
