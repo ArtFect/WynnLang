@@ -651,56 +651,53 @@ Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.@Процесс заве�
 §7    §7§oHowever, the land is still scattered with pockets of desperate mechanicals searching for much needed spare parts.@§7    §7§oОднако, их земли до сих пор усеяны управляемыми отчаянными роботами, которые ищут столь им необходимые запасные части. 
 §7    §7§oOnce they solve the problems of the Factory's governing force, Corkus is likely to become an international superpower.@§7    §7§oОднажды они решат проблемы с управляющей силой фабрики, и тогда Corkus, скорее всего, станет международной сверхдержавой. 
 §7    §7§oTheir ingenuity and industrial progression can no longer be ignored, regardless of the Avos' situation.@§7    §7§oИх изобретательность и промышленный прогресс больше нельзя игнорировать, независимо от ситуации с Avos’ами. 
-§a- §7Blink will teleport to the location that you're looking at
-§c§7The lift has been called down...
-§c§7The lift has been called up...
-§a§7The lift has successfully ascended!
-§3You now have a §bWhite Wybel
-§cInvalid pet name entry.
-§cThat really doesn't look like a place to explore right now...
-§bCeciliya§3 has thrown a §bLoot Bomb§3! The entire server gets §bdouble loot §3for §b20 minutes§3!
-§cInvalid Arguments. Example: /guild xp [XP Percent]
-§4You need to defeat the Corpus Accipientis in order to leave!
-§4What is that noise coming from the room to the right? Perhaps it is best to go there first.
-§6Usage: §f/particle <off/low/medium/high/veryhigh/highest/[particles per tick]>
-§fFire Swirl Effect
-§7Create a fire effect around your character
-§fWhite Wybel Token
-§eYou must be invited before joining this party.
-§eUsage: /party invite [username]
-§a- §7Dead Star will throw a powerful meteor from the sky, hitting anything in its path
-§7
-This book's title reads...
-    §aStrategical Placement Of The Undead§2§o
-        by Fiscarn Lixmaoul
-    §aLast Aid For Beginners: What To Do With 
-    Friends Coming Back To Life§2§o
-    §aAm I Dead? Coping With Your Newfound Unlife§2§o
-        by Death
-    §aSacrificial Pacts For Dummies§2§o
-        by Cihr Nettann
-    §aTimelapse Kingdom§2§o
-        by Nielad Serolfend
-    §aDeath: Portrayals in Global Cultures§2§o
-    §aThe Disconnected World§2§o
-        by Nardoj Thearendu
-    §aOne Second Is Enough To Die For§2§o
-        by Liza Seglend
-§eTo link your account, join our Discord at §6discord.gg/yJkSQwp§e.
-§7Tell Damiral where the treasure is hidden
-§d     -§7 Lore: §f§oThis tunnel seems to have been dug out unnaturally. The groans of the undead echo and clash in the fetid cavern air.
-§4The smell of old whiskey is nauseating around this building, driving you back.
-§4There are too many guards to sneak past, try finding a disguise
-§4It's locked! Look around for the key.
-§aYou've scrapped...
-§a...
-§aA §dRare Letter Swirl Effect§a!
-§aA §6Epic Golden Bow§a!
-§7You do not know how to boil tea just yet..
-§4There's some chaotic force emanating from the basement. It would probably be best to stay away.
-§4Please have only the pet you want to rename spawned.
-§7You have immodestly thanked yourself!
-§4Some kind of powerful dark force is preventing you from progressing.
+§a- §7Blink will teleport to the location that you're looking at@§a- §7Blink  будет телепортировать тебя в место, на которое ты смотришь
+§c§7The lift has been called down...@§c§7Лифт был вызван вниз...
+§c§7The lift has been called up...@§c§7Лифт был вызван вверх...
+§a§7The lift has successfully ascended!@c§7Лифт успешно поднялся!
+§3You now have a §bWhite Wybel@§3Теперь у тебя есть §bБелый Wybel
+§cInvalid pet name entry.@§cНедопустимое имя питомца.
+§cThat really doesn't look like a place to explore right now...@§cЭто не похоже на  то место, чтобы исследовать его прямо сейчас...
+§cInvalid Arguments. Example: /guild xp [XP Percent]@§cНедопустимый аргумент. Пример /guild xp [XP Процент]
+§4You need to defeat the Corpus Accipientis in order to leave!@§4Тебе нужно победить Corpus Accipientis прежде чем уйти!
+§4What is that noise coming from the room to the right? Perhaps it is best to go there first.@§4Что это за шум доносится из комнаты справа? Возможно, лучше всего сначала отправиться туда.
+§6Usage: §f/particle <off/low/medium/high/veryhigh/highest/[particles per tick]>@§6Использование: §f/particle <off/low/medium/high/veryhigh/highest/[частиц за тик]>
+§fFire Swirl Effect@§fЭффект Круговорота Огня
+§7Create a fire effect around your character@§7Создает эффект огня вокруг персонажа
+§fWhite Wybel Token@§fБелый Wybel Жетон
+§eYou must be invited before joining this party.@§eТы должен быть приглашен, прежде чем присоединиться к пати.
+§eUsage: /party invite [username]@§eИспользование: /party invite [ник]
+§a- §7Dead Star will throw a powerful meteor from the sky, hitting anything in its path@§a- §7Dead Star запускает мощный Метеор с неба, задевая все на своем пути
+§7@ 
+This book's title reads...@Названия этих книг гласят...
+    §aStrategical Placement Of The Undead§2§o@    §aStrategical Placement Of The Undead§2§oСтратегическое Размещение Нежити
+        by Fiscarn Lixmaoul@        автор Fiscarn Lixmaoul
+    §aLast Aid For Beginners: What To Do With @    §aПоследняя Помощь Для Начинающих: Что Делать
+    Friends Coming Back To Life§2§o@    С Друзьями, Возвращающимися К Жизни§2§o
+    §aAm I Dead? Coping With Your Newfound Unlife§2§o@    §aЯ Мертв? Справляюсь Со Своей Новообретенной Нежизнью
+        by Death@        автор Смерть
+    §aSacrificial Pacts For Dummies§2§o@    §aЗагробные Договора Для Чайников§2§o
+        by Cihr Nettann@        автор Cihr Nettann
+    §aTimelapse Kingdom§2§o@    §aТаймлапс Королевство§2§o
+        by Nielad Serolfend@        автор Nielad Serolfend
+    §aDeath: Portrayals in Global Cultures§2§o@    §aСмерть: Изображения В Глобальных Культурах§2§o
+    §aThe Disconnected World§2§o@    §aОтключенный Мир§2§o
+        by Nardoj Thearendu@        автор Nardoj Thearendu
+    §aOne Second Is Enough To Die For§2§o@    §aОдной Секунды Достаточно, Чтобы Умереть§2§o
+        by Liza Seglend@        автор Liza Seglend
+§eTo link your account, join our Discord at §6discord.gg/yJkSQwp§e.@§eДля привязки аккаунта, зайди в наш Дискорд §6discord.gg/yJkSQwp§e.
+§d     -§7 Lore: §f§oThis tunnel seems to have been dug out unnaturally. The groans of the undead echo and clash in the fetid cavern air.@§d     -§7 Лор: §f§oЭтот туннель, кажется, был вырыт неестественно. Крики нежити эхом отдаются в зловонном воздухе пещеры.
+§4The smell of old whiskey is nauseating around this building, driving you back.@§4Запах старого виски вызывает тошноту вокруг этого здания, заставляя тебя вернуться.
+§4There are too many guards to sneak past, try finding a disguise@§4Там слишком много охранников, чтобы проскользнуть мимо, попробуй найти маскировку
+§4It's locked! Look around for the key.@§4Заперто! Оглянись вокруг в поисках ключа.
+§aYou've scrapped...@§aТы утилизировал...
+§aA §dRare Letter Swirl Effect§a!@§dRare Эффект Водоворота Букв§a!
+§aA §6Epic Golden Bow§a!@§aA §6Epic Золотой Лук§a!
+§7You do not know how to boil tea just yet..@§7Ты еще пока что не знаешь, как сварить чай..
+§4There's some chaotic force emanating from the basement. It would probably be best to stay away.@§4Есть какая-то хаотическая сила, исходящая из подвала. Наверное, будет лучше держаться подальше.
+§4Please have only the pet you want to rename spawned.@§4Пожалуйста, оставь заспавненным только одного питомца, которого ты хочешь переименовать.
+§7You have immodestly thanked yourself!@§7Ты нескромно поблагодарил себя!
+§4Some kind of powerful dark force is preventing you from progressing.@§4Какая-то мощная темная сила мешает тебе продвинуться дальше.
 §fCream Wybel Token
 §3You now have a §bCream Wybel
 §6Hand Cannon
