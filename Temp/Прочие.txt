@@ -7,32 +7,28 @@
                   §6Click here to claim your rewards!
 
 
-§7Boil ingredients in cauldron.
-§7...
-Flying is not enabled on this server
-§d            - §7+1 Greaves of Honor / 1 Greaves of Shame
-§d            - §7+1 Restored Ancient Helmet
-§7Something is going on at the diner, you should hurry.
-§7§oIf you're lookin' fer the power sceptre, yer better ferget it! We will neva let it be used again.
-§7§oSincerely, §7Creden Tibus.
-You are not whitelisted on this server!
-§7[1/1] §2Tesha: §aTake that to Vade, and don't read it!
-§7Don't let the bandits escape!
-§7[1/1] §2Bandit: §aHey! Back off! I can't let anyone into the tomb!
-§fCloud Swirl Effect
-§7Create a cloud effect around your character
-§f    §6§l            Goal
-§f    §7Destroy all §c§n6§f §7war machines
-§f    §a§l         Goal Complete
-§f    §7You successfully sabotaged the armoury
-§7[1/2] §2Ellen: §aWhen Craftmas is over, I'm going to sleep. For a year...
-§7[1/7] §2Legendary Attendant: §aMo'in! Are you here to claim your rewards from the Legendary Challenge? Allow me to explain how the reward system works here.
-§7[2/7] §2Legendary Attendant: §aAs you probably already know, there are four tiers of tokens. Similarly, there are four merchants to match those.
-§7[3/7] §2Legendary Attendant: §aYou can purchase a base accessory at the Bronze Merchant.
-§7[4/7] §2Legendary Attendant: §aThen, at the Silver Merchant, you can upgrade your Bronze accessory into one of six types of Silver accessories.
-§7[5/7] §2Legendary Attendant: §aThe six types are based on the five elements, along with another type that combines all five.
-§7[6/7] §2Legendary Attendant: §aThe Gold Merchant allows you to upgrade a Silver accessory into a Gold accessory of the same element.
-§7[7/7] §2Legendary Attendant: §aThe Diamond Merchant functions similarly. Thank you for participating in the Legendary Challenge!
+§7Boil ingredients in cauldron.@§7Свари ингредиенты в котле.
+Flying is not enabled on this server@Нельзя летать на этом сервере
+§d            - §7+1 Restored Ancient Helmet@§d            - §7+1 Восстановленный Древний Шлем
+§7Something is going on at the diner, you should hurry.@§7Что-то происходит в столовой, тебе следует поторопиться.
+§7§oIf you're lookin' fer the power sceptre, yer better ferget it! We will neva let it be used again.@§7§oЕсли ты ищешь скипетр власти, тебе лучше забыть об этом! Мы не позволим использовать его снова.
+§7§oSincerely, §7Creden Tibus.@§7§oС уважением, §7Creden Tibus.
+You are not whitelisted on this server!@Тебя нет в вайтлисте этого сервера!
+§7[1/1] §2Bandit: §aHey! Back off! I can't let anyone into the tomb!@§7[1/1] §2Bandit: §aЭй! Назад! Я никого не могу впустить в гробницу!
+§fCloud Swirl Effect@§fЭффект Водворота Облаков
+§7Create a cloud effect around your character@§7Создает эффект облаков вокруг персонажа
+§f    §6§l            Goal@§f    §6§l            Цель
+§f    §7Destroy all §c§n6§f §7war machines@§f    §7Уничтожь все §c§n6§f §7машин
+§f    §a§l         Goal Complete@§f    §a§l         Цель Выполнена
+§f    §7You successfully sabotaged the armoury@§f    §7Ты успешно саботировал оружейную
+§7[1/2] §2Ellen: §aWhen Craftmas is over, I'm going to sleep. For a year...@§7[1/2] §2Ellen: §aКогда Рождество закончится, я пойду спать. Целый год...
+§7[1/7] §2Legendary Attendant: §aMo'in! Are you here to claim your rewards from the Legendary Challenge? Allow me to explain how the reward system works here.@§7[1/7] §2Legendary Attendant: §aСалют! Ты здесь, чтобы забрать свои награды от Легендарного Челленджа? Позволь мне объяснить, как здесь работает система вознаграждений.
+§7[2/7] §2Legendary Attendant: §aAs you probably already know, there are four tiers of tokens. Similarly, there are four merchants to match those.@§7[2/7] §2Legendary Attendant: §aКак ты наверное уже знаешь, существует четыре уровня жетонов. Точно так же есть четыре торговца, соответствующие им.
+§7[3/7] §2Legendary Attendant: §aYou can purchase a base accessory at the Bronze Merchant.@§7[3/7] §2Legendary Attendant: §aТы можежь приобрести базовые аксессуары у бронзового торговца.
+§7[4/7] §2Legendary Attendant: §aThen, at the Silver Merchant, you can upgrade your Bronze accessory into one of six types of Silver accessories.@§7[4/7] §2Legendary Attendant: §aЗатем, у серебряного торговца, ты можешь обновить свой бронзовый аксессуар до одного из шести типов серебряных аксессуаров.
+§7[5/7] §2Legendary Attendant: §aThe six types are based on the five elements, along with another type that combines all five.@§7[5/7] §2Legendary Attendant: §aШесть типов основаны на пяти элементах, наряду с другим типом, который объединяет все пять.
+§7[6/7] §2Legendary Attendant: §aThe Gold Merchant allows you to upgrade a Silver accessory into a Gold accessory of the same element.@§7[6/7] §2Legendary Attendant: §aЗолотой торговец позволит тебе модернизировать серебряный аксессуар в золотой аксессуар того же элемента.
+§7[7/7] §2Legendary Attendant: §aThe Diamond Merchant functions similarly. Thank you for participating in the Legendary Challenge!@§7[7/7] §2Legendary Attendant: §aАлмазный торговец функционирует аналогично. Спасибо за участие в Легендарном Челлендже!
 §aYour particle limit is now §flow (50)
 §7[1/1] §2Skyraider Guard: §aStop! The new Queen is being chosen here, and ye can only try out from level 98 onwards. Leave now! Ain't even a skyraider, bloody idiot!
 §3Your guild no longer owns this territory!
