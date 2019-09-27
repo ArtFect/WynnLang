@@ -29,26 +29,25 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7[5/7] §2Legendary Attendant: §aThe six types are based on the five elements, along with another type that combines all five.@§7[5/7] §2Legendary Attendant: §aШесть типов основаны на пяти элементах, наряду с другим типом, который объединяет все пять.
 §7[6/7] §2Legendary Attendant: §aThe Gold Merchant allows you to upgrade a Silver accessory into a Gold accessory of the same element.@§7[6/7] §2Legendary Attendant: §aЗолотой торговец позволит тебе модернизировать серебряный аксессуар в золотой аксессуар того же элемента.
 §7[7/7] §2Legendary Attendant: §aThe Diamond Merchant functions similarly. Thank you for participating in the Legendary Challenge!@§7[7/7] §2Legendary Attendant: §aАлмазный торговец функционирует аналогично. Спасибо за участие в Легендарном Челлендже!
-§aYour particle limit is now §flow (50)
-§7[1/1] §2Skyraider Guard: §aStop! The new Queen is being chosen here, and ye can only try out from level 98 onwards. Leave now! Ain't even a skyraider, bloody idiot!
-§3Your guild no longer owns this territory!
-§4Oof! This territory was just in a war! Please wait another 153 seconds before attacking.
-§7[1/2] §2Chef Hamsey: §aBonjour, adventurer! Welcome to mon restaurant. Oh, it seems all our seats are taken. Come back later!
-§7[2/2] §2Chef Hamsey: §aBy le temps you reach level 96, spaces should free up.
-§3Stand in a guild territory to buy mobs
-§7[1/1] §2Royal Advisor Carlos: §aThank you for helping find the king!
-§7The door seems locked
-§7[1/1] §2Edula: §aHey you! I want to talk to you.
-§7[3/3] §2Korzim: §aMove! Move! MOVE!
-§7[1/2] §2Crane Mechanic: §aI remember you! Guess what?
-§7[2/2] §2Crane Mechanic: §aI finally got the crane working! Just jump on and I'll take you right down to the void.
-§7You need to take out the organ before you can continue.
-§7[1/1] §2C.S.S Wavebreaker Captain: §aWait a minute! You ain't a friend of Corkus, I don't travel for free mate.
-§7[8/8] §2Guard: §aNow, cast your Bolt Blizzard spell by clicking §bLeft-Right-Left§a!
-§7[1/1] §2Nakoba: §aIt's been a pleasure doing business with you.
-§7[1/1] §2Vesdar: §aI can't be bothered repeating myself. Check that fancy little quest book of yours to see what you need to do.
-§2You can no longer see swear words in chat!
-§2You can now see swear words again!
+§aYour particle limit is now §flow (50)@§aТвой лимит частиц теперь §fнизкий (50)
+§7[1/1] §2Skyraider Guard: §aStop! The new Queen is being chosen here, and ye can only try out from level 98 onwards. Leave now! Ain't even a skyraider, bloody idiot!@§7[1/1] §2Skyraider Guard: §aСтоять! Новая королева выбирается здесь, и ты сможешь попробовать только с 98 уровня. Уходи сейчас же! Ты ведь даже не пират, чертов идиот!
+§3Your guild no longer owns this territory!@§3Твоя гильдия больше не владеет этой территорией!
+§7[1/2] §2Chef Hamsey: §aBonjour, adventurer! Welcome to mon restaurant. Oh, it seems all our seats are taken. Come back later!@§7[1/2] §2Chef Hamsey: §aБонжур, путисчественник. Ох, похосже все места сийчас заняти. Приходить посчже!
+§7[2/2] §2Chef Hamsey: §aBy le temps you reach level 96, spaces should free up.@§7[2/2] §2Chef Hamsey: §a§7[2/2] §2Chef Hamsey: §aКогда ти достич уровень 96, места должсчны освободитца.
+§3Stand in a guild territory to buy mobs@§3Стой на территории гильдии, чтобы купить мобов
+§7[1/1] §2Royal Advisor Carlos: §aThank you for helping find the king!@§7[1/1] §2Royal Advisor Carlos: §aСпасибо, что помог найти короля!
+§7The door seems locked@§7Похоже дверь заперта
+§7[1/1] §2Edula: §aHey you! I want to talk to you.@§7[1/1] §2Edula: §aЭй ты! Я хочу поговорить с тобой.
+§7[3/3] §2Korzim: §aMove! Move! MOVE!@§7[3/3] §2Korzim: §aПошел! Пошел! Вперед!
+§7[1/2] §2Crane Mechanic: §aI remember you! Guess what?@§7[1/2] §2Crane Mechanic: §aЯ тебя помню! Угадай что?
+§7[2/2] §2Crane Mechanic: §aI finally got the crane working! Just jump on and I'll take you right down to the void.@§7[2/2] §2Crane Mechanic: §aЯ наконец-то починил кран! Просто запрыгивай и я отвезу тебя вниз в пустоту.
+§7You need to take out the organ before you can continue.@§7Тебе нужно уничтожить орган, прежде чем сможешь продолжить.
+§7[1/1] §2C.S.S Wavebreaker Captain: §aWait a minute! You ain't a friend of Corkus, I don't travel for free mate.@§7[1/1] §2C.S.S Wavebreaker Captain: §aПодожди минутку! Ты не друг Corkus'а, я не вожу за бесплатно, приятель.
+§7[8/8] §2Guard: §aNow, cast your Bolt Blizzard spell by clicking §bLeft-Right-Left§a!@§7[8/8] §2Guard: §aТеперь используй свое Bolt Blizzard заклинание, кликнув §b§lЛевая-Правая-Левая§a!
+§7[1/1] §2Nakoba: §aIt's been a pleasure doing business with you.@§7[1/1] §2Nakoba: §aБыло приятно иметь с тобой дело.
+§7[1/1] §2Vesdar: §aI can't be bothered repeating myself. Check that fancy little quest book of yours to see what you need to do.@§7[1/1] §2Vesdar: §aЯ не могу утруждать себя повторением. Проверь эту причудливую маленькую квестовую книгу, чтобы увидеть, что тебе нужно сделать.
+§2You can no longer see swear words in chat!@§2Ты больше не видишь бранные слова в чате!
+§2You can now see swear words again!@§2Ты видишь бранные слова снова! 
 §7[1/1] §2Sesad: §aRemember, if you like that water, you come back and give me some company. That's a good deal, right?
 §aA §dRare Water Effect§a!
 §aA §dRare Zombie Horse Cloak§a!
@@ -84,7 +83,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §4The guards are blocking you from entering.
 §7[1/1] §2Rinire: §aI was exiled from a beautiful valley, with a not so beautiful secret.
 §7[1/1] §2Dado: §aThankfully I'm not going to be fired, as long as I keep my mouth shut about the illegal flower you used!
-§7[1/1] §2Kaosuw: §aOh god, why... I spent 3 years for nothing!
+§7[1/1] §2Kaosuw: §aOh god, why... I spent 3 years for nothing!@§7[1/1] §2Kaosuw: §aО боже, зачем... Я потратил 3 года впустую!
 §7Disguise your spear as a piece of food
 §7[1/1] §2Malize: §aI'm learning about “waking” magic in school, but I just can't see how it will ever be useful in real life!
 §7[1/2] §2Captain Lorias: §aStand back! This is a crime scene, under my authority. I cannot let you inside, not while you're this inexperienced, at least.
