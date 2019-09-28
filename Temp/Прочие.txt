@@ -123,31 +123,31 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7[1/1] §2Relend: §aNo need to worry about me, I swam back to shore! I haven't had enough adventure, I'm back for more!@§7[1/1] §2Relend: §aНе беспокойся обо мне, я выплыл на берег обратно! У меня не было достаточно приключений, я хочу еще, будет очень занятно!
 §7[1/2] §2Referick: §aHave you investigated the old mansion yet? It's south, and a little bit east, of here.@§7[1/2] §2Referick: §aТы уже исследовал старый особняк? Это к югу и немного к востоку отсюда.
 §7[2/2] §2Referick: §aThirty years ago, kids used to graffiti the story all over the walls, so maybe some is still there.@§7[2/2] §2Referick: §aТридцать лет назад дети рисовали эту историю на стенах, так что, возможно, некоторые из них все еще там.
-§dFire Effect
-§7Create an fire effect around your character
-§fRynver is pointing towards the deep hole behind him and then back at himself.
-§fRynver slides the dentures back into his mouth.
-§fRynver's teeth fall out of his mouth as he talks.
-§fRynver drops the tear into his bucket, which begins to glow.
-§7[1/7] §2Hive Servant: §aWelcome, champion, back to The Qira Hive. I must congratulate you on your momentous victory.
-§7[2/7] §2Hive Servant: §aIt is not often that one should defeat our Mistress... But it is not my job to commend you. It is my job to inform you of your rewards.
-§7[3/7] §2Hive Servant: §aYou may redeem the vouchers you have won for different prizes, and you may exchange a prize for another voucher within this Hive Exchange.
-§7[4/7] §2Hive Servant: §aHowever, the elemental energies of these items are strong enough that you cannot use more than one of the same division's prizes at once.
-§7[7/7] §2Hive Servant: §aI will be here if you should ever need this explanation again. I wish you luck in your future endeavours, champion of the Hive.
-§4You cannot trade with an ironman player!
-§a                            Slay Lv. 50+ Mobs
-§4You need a Legendary Challenge Ticket in order to participate in the challenge!
-§7[1/2]§2 Ghostly Voice:§a It all seems clear to me now.. The struggle for life… It’s futile. There need only be peaceful darkness.
-§7[2/2]§2 Ghostly Voice:§a Once my transformation is complete I shall begin to cleanse the world of vile mortality.
-§7[+Corrupted Theorick's Ice Shard]
-§7[+Corrupted Ice Barrows Fragment]
-§7[1/1] §2Sayleros: §aHow is your quest doing? Have you got the will? Did you made my brother Drucksh talk? Getting alcohol shouldn't be too hard in Nemract.
-§fFind where the bandits are breaking into the bank!
-§dPigman Disguise
-§7Disguise yourself as a pigman
-§4You are moving too fast!
-§7[1/2] §2Rodoroc Citizen: §aI can't wait to go to the annual Dogun festival. I've never seen an entombing before.
-§7[2/2] §2Rodoroc Citizen: §aI think it's important to celebrate our people's history.
+§dFire Effect@§dЭффект Огня
+§7Create an fire effect around your character@§7Создает эффект огня вокруг персонажа
+§fRynver is pointing towards the deep hole behind him and then back at himself.@§7Rynver показывает рукой в сторону глубокой дыры позади него, а затем обратно на себя.
+§fRynver slides the dentures back into his mouth.@§7Rynver вставляет зубной протез обратно в рот.
+§fRynver's teeth fall out of his mouth as he talks.@§7Зубы Rynverа выпадают изо рта, когда он заканчивает говорить
+§fRynver drops the tear into his bucket, which begins to glow.@§7Rynver роняет слезу в ведро, которое начинает светиться.
+§7[1/7] §2Hive Servant: §aWelcome, champion, back to The Qira Hive. I must congratulate you on your momentous victory.@§7[1/7] §2Hive Servant: §aДобро пожаловать, чемпион, обратно в Qira Улей. Я должен поздравить тебя с твоей знаменательной победой.
+§7[2/7] §2Hive Servant: §aIt is not often that one should defeat our Mistress... But it is not my job to commend you. It is my job to inform you of your rewards.@§7[2/7] §2Hive Servant: §aНе часто бывает так, что кто-то побеждает нашу Госпожу... Но в мои обязанности не входит хвалить тебя. Моя работа - информировать тебя о твоих наградах.
+§7[3/7] §2Hive Servant: §aYou may redeem the vouchers you have won for different prizes, and you may exchange a prize for another voucher within this Hive Exchange.@§7[3/7] §2Hive Servant: §aТы можешь обменять выигранные ваучеры на различные призы, а также обменять приз на другой ваучер в рамках данного Hive обменника.
+§7[4/7] §2Hive Servant: §aHowever, the elemental energies of these items are strong enough that you cannot use more than one of the same division's prizes at once.@§7[4/7] §2Hive Servant: §aОднако, элементальные энергии этих предметов достаточно сильны, поэтому ты не можешь использовать одновременно более одного из призов одной и той же дивизии.
+§7[7/7] §2Hive Servant: §aI will be here if you should ever need this explanation again. I wish you luck in your future endeavours, champion of the Hive.@§7[7/7] §2Hive Servant: §aЯ буду здесь, если тебе когда-нибудь понадобится это объяснение снова. Желаю тебе удачи в твоих будущих начинаниях, чемпион Улья.
+§4You cannot trade with an ironman player!@§4Ты не можешь торговать с игроком в режиме Ironman!
+§a                            Slay Lv. 50+ Mobs@§a                            Убей Ур. 50+ Мобов
+§4You need a Legendary Challenge Ticket in order to participate in the challenge!@§4Тебе нужен Легендарный Челлендж Билет, чтобы участвовать в этом челлендже!
+§7[1/2]§2 Ghostly Voice:§a It all seems clear to me now.. The struggle for life… It’s futile. There need only be peaceful darkness.@§7[1/2] §2Ghostly Voice: §aТеперь мне все кажется ясным.. Борьба за жизнь... это бесполезно. Здесь должна быть только мирная тьма.
+§7[2/2]§2 Ghostly Voice:§a Once my transformation is complete I shall begin to cleanse the world of vile mortality.@§7[2/2] §2Ghostly Voice: §aКак только моя трансформация завершится, я начну очищать мир от мерзкой смертности.
+§7[+Corrupted Theorick's Ice Shard]@§7[+Испорченный Осколок Льда Theorick'а]
+§7[+Corrupted Ice Barrows Fragment]@§7[+Испорченный Ice Barrows Фрагмент]
+§7[1/1] §2Sayleros: §aHow is your quest doing? Have you got the will? Did you made my brother Drucksh talk? Getting alcohol shouldn't be too hard in Nemract.@§7[1/1] §2Sayleros: §aКак продвигается твой квест? У тебя уже есть завещание? Ты заставил моего брата Drucksh'а говорить? Добыть алкоголь должно быть не слишком трудно в Nemract'е.
+§fFind where the bandits are breaking into the bank!@§fНайди где бандиты вломились в банк!
+§dPigman Disguise@§dПигмен Маскировка
+§7Disguise yourself as a pigman@§7Маскировка себя под пигмена
+§4You are moving too fast!@§4Ты двигаешься слишком быстро!
+§7[1/2] §2Rodoroc Citizen: §aI can't wait to go to the annual Dogun festival. I've never seen an entombing before.@§7[1/2] §2Rodoroc Citizen: §aМне не терпится попасть на ежегодный фестиваль Dogun'ов. Я никогда раньше не видел их погребения.
+§7[2/2] §2Rodoroc Citizen: §aI think it's important to celebrate our people's history.@§7[2/2] §2Rodoroc Citizen: §aДумаю, что это важно, чтобы отпраздновать историю нашего народа.
 §fYou flip through the pages of the old dusty book until you find something interesting...
 §7§oFeeding prisoners might seem like a hassle, why feed the prisoners when they are going to die anyway?
 §7§oHere's a few easy and quick recipes...
