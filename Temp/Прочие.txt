@@ -173,33 +173,33 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7[3/6] §2Yansur: §aWell, here is your Earth Voucher.@§7[3/6] §2Yansur: §aЧто же, вот твой Ваучер Земли.
 §7[5/6] §2Yansur: §aIt is impressive to see how far you have come. Many have failed at this point.@§7[5/6] §2Yansur: §aВпечатляет, что ты смог зайти так далеко. Многие умирают в этом месте.
 §7[6/6] §2Yansur: §aIt is of no consequence, however, for the Water division is your next challenge. I am sure you will not succeed.@§7[6/6] §2Yansur: §aНо это не имеет никакого значения, дивизия воды твой следующий вызов. Уверен, что ты не пройдешь ее.
-§7[1/1] §2Qira: §a§lBegin, the Water Division! If you will not withstand the crashing waves, the creatures that lurk within shall ensure you never emerge from the abyss!@
-§7[1/1] §2:????: §aYou have been judged worthy enough to face me in combat. However, I know your strength, and I do not believe it enough to defeat me. Come forth now. Make your attempt to prove me wrong.@
-§7[1/2] §2Oceanic Judge: §aSeems my judgment was incorrect. In this case, however, it is refreshing to see.@
-§7[2/2] §2Oceanic Judge: §aContinue forwards, honourable human. Perhaps your intellect and respect will rub off on that insufferable Yansur.@
-§7[1/6] §2Yansur: §aImpossible. Not even the most tactically advanced monsters could defeat you.@
-§7[2/6] §2Qira: §a§l...The§a§l Judge needs further tweaking, I am not satisfied with his current state. Nevertheless, I must admit I am impressed.@
-§7[2/6] §2Yansur: §a...Here's§a the Water Voucher you're expecting.@
-§7[3/6] §2Yansur: §aThe shop has your reward prepared. If you have not talked to the servant at the shop, do so next you go there.@
-§7[4/6] §2Yansur: §aWe are intrigued by your determination... But we are not worried. We do not expect you to make it past the next floor.@
-§7[5/6] §2Yansur: §aNow you must face some of the toughest creatures of Mistress Qira's imagination!@
-§7[6/6] §2Yansur: §aYou must now face the division of Fire, and it will be sure to burn you.@
-§7[1/1] §2Qira: §a§lBegin, the Fire Division! Summon your courage, and brave the heat of the volcanoes and stars for my amusement, else burn to cinders and blow away in the breeze!@
-§7[1/1] §2????: §aImpressive, making it this far. I am your final test. Let us fight fairly, then. An honourable end to your challenge is only fitting, whether that be triumph or defeat. Come forward and face me.@
-§4This note seems unimportant for now.@
-§7[1/2] §2Solar Vanguard: §aDefeat feels strange, after so long. You fought valiantly, and with great zeal, however. It would be a lie to say I am disappointed. Impart these traits onto Mistress's servant, if you would, and claim your final prize.@
-§7[2/2] §2Solar Vanguard: §aAll that is left is to talk to Mistress's servant, and claim your final prize. Surely he will not be as great an obstacle as I was.@
-§7[1/11] §2Yansur: §aThis is unprecedented. You have defeated some of the most recent and powerful creations.@
-§7[2/11] §2Qira: §a§lEven downed the Vanguard...? My word...@
-§7[3/11] §2Yansur: §aHere you are then, the Fire Voucher!@
-§7[4/11] §2Yansur: §aThe shop has your reward prepared. If you have not talked to the servant at the shop, do so next you go there.@
-§7[5/11] §2Yansur: §aThis is unorthodox, as no one has made it this far. But I suppose this means that you have earned an audience with-@
-§7[6/11] §2Qira: §a§lAllow me to stop you there, Yansur. I wish to make an exception for this challenger.@
-§7[7/11] §2Qira: §a§lYou have intrigued me, §a§ladventurer...and§a§l I want to put you to the truest test.@
-§7[8/11] §2Yansur: §aHah! Incredible! Mistress wishes to battle you herself! You astound me.@
-§7[9/11] §2Yansur: §aBe warned, however. This will be your toughest battle yet. Mistress Qira is the most feared being in Gavel.@
-§7[10/11] §2Yansur: §aYou will §adie...but§a consider it the greatest honour to die by her hand.
-§7[11/11] §2Qira: §a§lI await you in my chambers...
+§7[1/1] §2Qira: §a§lBegin, the Water Division! If you will not withstand the crashing waves, the creatures that lurk within shall ensure you never emerge from the abyss!@§7[1/1] §2Qira: §a§lНачни же дивизию воды! Если ты не будешь противостоять разбивающимся волнам, существа, которые скрываются внутри гарантируют тебе, что ты никогда не выйдешь из бездны!
+§7[1/1] §2:????: §aYou have been judged worthy enough to face me in combat. However, I know your strength, and I do not believe it enough to defeat me. Come forth now. Make your attempt to prove me wrong.@§7[1/1] §2:????: §aТебя сочли достойным сразиться со мной в бою. Однако, я знаю твою силу и не верю, что она способна победить меня. Выходи сейчас же. Попытайся доказать, что я ошибаюсь.
+§7[1/2] §2Oceanic Judge: §aSeems my judgment was incorrect. In this case, however, it is refreshing to see.@§7[1/2] §2Oceanic Judge: §aКажется, мое суждение было неверным. Но в этом случае, это приятно видеть.
+§7[2/2] §2Oceanic Judge: §aContinue forwards, honourable human. Perhaps your intellect and respect will rub off on that insufferable Yansur.@§7[2/2] §2Oceanic Judge: §aПродолжай двигаться вперед, почтенный человек. Возможно, твой интеллект и уважение передадутся этому невыносимому Yansur'у.
+§7[1/6] §2Yansur: §aImpossible. Not even the most tactically advanced monsters could defeat you.@§7[1/6] §2Yansur: §aЭто невозможно. Даже самые умные монстры не смогли победить тебя.
+§7[2/6] §2Qira: §a§l...The§a§l Judge needs further tweaking, I am not satisfied with his current state. Nevertheless, I must admit I am impressed.@§7[2/6] §2Qira: §a§l...Judge нужно поработать над собой. Я не довольна его нынешним состоянием. Тем не менее, признаю, меня впечатляет твой прогресс.
+§7[2/6] §2Yansur: §a...Here's§a the Water Voucher you're expecting.@§7[2/6] §2Yansur: §a...Вот твой заслуженный ваучер воды.
+§7[3/6] §2Yansur: §aThe shop has your reward prepared. If you have not talked to the servant at the shop, do so next you go there.@§7[3/6] §2Yansur: §aНаграда уже подготовлена в магазине. И если ты еще не поговорил со слугой в магазине, то обязательно сделай это как окажешься там.
+§7[4/6] §2Yansur: §aWe are intrigued by your determination... But we are not worried. We do not expect you to make it past the next floor.@§7[4/6] §2Yansur: §aМы заинтригованы твоим прогрессом... Но не волнуйся. Мы не ожидаем, что ты пройдешь дальше.
+§7[5/6] §2Yansur: §aNow you must face some of the toughest creatures of Mistress Qira's imagination!@§7[5/6] §2Yansur: §aТеперь ты столкнешься с одними из самых сложных созданий Госпожи Qira!
+§7[6/6] §2Yansur: §aYou must now face the division of Fire, and it will be sure to burn you.@§7[6/6] §2Yansur: §aМожешь проходить в дивизию огня, и будь уверены - ты сгоришь там.
+§7[1/1] §2Qira: §a§lBegin, the Fire Division! Summon your courage, and brave the heat of the volcanoes and stars for my amusement, else burn to cinders and blow away in the breeze!@§7[1/1] §2Qira: §a§lНачни же дивизию огня! Соберись и брось вызов жаре вулканов и звездам для моего развлечения, или же сгори дотла и унесись ветром!
+§7[1/1] §2????: §aImpressive, making it this far. I am your final test. Let us fight fairly, then. An honourable end to your challenge is only fitting, whether that be triumph or defeat. Come forward and face me.@§7[1/1] §2????: §aВпечатляет, что ты зашел так далеко. Я - твое последнее испытание. Будем тогда сражаться честно. Подходит к концу твой вызов - будет то триумф или поражение? Подойди же и сразись со мной.
+§4This note seems unimportant for now.@§4Эта записка кажется неважной на данный момент.
+§7[1/2] §2Solar Vanguard: §aDefeat feels strange, after so long. You fought valiantly, and with great zeal, however. It would be a lie to say I am disappointed. Impart these traits onto Mistress's servant, if you would, and claim your final prize.@§7[1/2] §2Solar Vanguard: §aПоражение кажется странным после стольких лет. Однако, ты сражался отважно и с большим рвением. Было бы ложью сказать, что я разочарован. Сообщи эти черты слуге госпожи, если хочешь, и получи свой последний приз.
+§7[2/2] §2Solar Vanguard: §aAll that is left is to talk to Mistress's servant, and claim your final prize. Surely he will not be as great an obstacle as I was.@§7[2/2] §2Solar Vanguard: §aВсе, что остается - это поговорить со слугой хозяйки и потребовать свой последний приз. Конечно, он не будет таким большим препятствием, как я.
+§7[1/11] §2Yansur: §aThis is unprecedented. You have defeated some of the most recent and powerful creations.@§7[1/11] §2Yansur: §aЭто беспрецедентно. Ты победил одних из самых последних и могучих созданий.
+§7[2/11] §2Qira: §a§lEven downed the Vanguard...? My word...@§7[2/11] §2Qira: §a§lДаже самого Vanguard'a...? Нет слов...
+§7[3/11] §2Yansur: §aHere you are then, the Fire Voucher!@§7[3/11] §2Yansur: §aВот, держи, ваучер огня!
+§7[4/11] §2Yansur: §aThe shop has your reward prepared. If you have not talked to the servant at the shop, do so next you go there.@§7[4/11] §2Yansur: §aНаграда уже подготовлена в магазине. И если ты еще не поговорил со слугой в магазине, то обязательно сделай это как окажешься там.
+§7[5/11] §2Yansur: §aThis is unorthodox, as no one has made it this far. But I suppose this means that you have earned an audience with-@§7[5/11] §2Yansur: §aЭто необычно, еще никто не заходил так далеко. Полагаю, это значит что-
+§7[6/11] §2Qira: §a§lAllow me to stop you there, Yansur. I wish to make an exception for this challenger.@§7[6/11] §2Qira: §a§lПозволь мне остановить тебя здесь, Yansur. Я хочу сделать исключение для этого испытуемого.
+§7[7/11] §2Qira: §a§lYou have intrigued me, §a§ladventurer...and§a§l I want to put you to the truest test.@§7[7/11] §2Qira: §a§lТы заинтриговал меня, путешественник...и теперь начнется настоящий тест
+§7[8/11] §2Yansur: §aHah! Incredible! Mistress wishes to battle you herself! You astound me.@§7[8/11] §2Yansur: §aХах! Невероятно! Госпожа хочет сразиться с тобой! Ты поражаешь меня.
+§7[9/11] §2Yansur: §aBe warned, however. This will be your toughest battle yet. Mistress Qira is the most feared being in Gavel.@§7[9/11] §2Yansur: §aБудь осторожен. Это будет самая жестокая битва. Госпожа Qira - самое могущественное зло в провинции Gavel.
+§7[10/11] §2Yansur: §aYou will §adie...but§a consider it the greatest honour to die by her hand.@§7[10/11] §2Yansur: §aТы умрешь...Но это величайшая честь – умереть от ее руки.
+§7[11/11] §2Qira: §a§lI await you in my chambers...@§7[11/11] §2Qira: §a§lЯ жду тебя в моей камере...
 §7[1/1] §2Qira: §a§lSo, you've arrived. You have proven yourself very capable... I am looking forward to this bout! Let's dance, mortal!!
 §7[1/1] §2Qira: §a§l...you§a§l. §a§lYou...ahaha...I§a§l like you. You're capable enough... Perhaps we could be allies in the future...
 §7You defeated Qira! All that's left to do is tell Yansur!
