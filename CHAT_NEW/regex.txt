@@ -40,6 +40,7 @@
 §7([a-zA-Z0-9_]{1,16}) has gotten a (.*)§7 from their crate. Buy your own at §7wynncraft.com\/store@§7(r1) получил (r2) из своего контейнера. Купи свой собственный на §7wynncraft.com/store
 §4This potion is for Combat Lv. (\d+)\+ only.@§4Это зелье только для уровней (r1)+
 §c(.*)§4 requires your (strength|dexterity|intelligence|defence|agility) skill to be at least §c(\d+).@§c(r1) §4требует, чтобы твое умение (r2) было не меньше §c(r3).
+§4This item requires your (strength|dexterity|intelligence|defence|agility) skill to be at least §c(\d+).@§4Этому предмету нужно, чтобы твое умение (r1) было не менее §c(r2).
 §cYou are no longer tracking §6§l(.*)@§cТы больше не отслеживаешь §a§l(r1)
 §a\+ Spell Upgrade §2\[(.*)\]@§a+ Апгрейд заклинания §2[(r1)]
 §a\+ New Spell §2\[(.*)]@§a+ Новое заклинание §2[(r1)]
