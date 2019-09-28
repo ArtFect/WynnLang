@@ -259,15 +259,15 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7Disguise yourself as a cow@§7Маскировка себя в корову
 §3You are now disguised as a §bcow@§3Ты замаскировался под §bкорову
 §d     -§7 Lore: §f§oA secluded gorge, rumored to be the territory of a notorious lone bandit. The stones turn a fiery spectrum of colors in the sunrise and set.@§d     -§7 Лор: §f§oУединенное ущелье, по слухам, является территорией пресловутого одинокого бандита. Камни здесь поворачивают огненный спектр цветов в восходе солнца.
-§7[1/2]§2 Rymek Luke:§a I hope you know yer trespassin' on private property. Either you get on out of here right now or draw.@§7[1/2]§2 Rymek Luke:§a
-§7[2/2]§2 Rymek Luke:§a And if you draw... You ain't leaving this here canyon alive!@§7[2/2]§2 Rymek Luke:§a
-§dThunder Effect@
-§7Create an thunder effect around your character@
-§4It's better not to wander too far from this island.@
-§7[1/1] §2Tommy: §aOh, hi again! I wonder what I am going to get this Christmas.@
-§4It isn't wise to barge in someone's house like this.@
-§7[1/1] §2Santa: §aHo ho ho! Merry Christmas and have a wonderful holiday!@
-§7[1/1] §2Caissop: §aOh, I'm so ready for my next piece! If you want to help me, come back when you're level 53...@
-§3You are now disguised as a §bpigman@
-§4You can smell the blood from here! It is looking dangerous... You had better to not go in.@
-§7[1/1] §2Tiek: §aI don't mean to be rude, but I'm trying to revive this forest. Please leave me in peace.@
+§7[1/2]§2 Rymek Luke:§a I hope you know yer trespassin' on private property. Either you get on out of here right now or draw.@§7[1/2]§2 Rymek Luke:§aНадеюсь, ты знаешь, что вторгся на частную собственность. Либо ты уходишь отсюда прямо сейчас, либо сдаешься. 
+§7[2/2]§2 Rymek Luke:§a And if you draw... You ain't leaving this here canyon alive!@§7[2/2]§2 Rymek Luke:§aИ если ты сдаешься... То все равно не покинешь этот каньон живым!
+§dThunder Effect@§dЭффект Грома
+§7Create an thunder effect around your character@§7Создает эффект грома вокруг персонажа
+§4It's better not to wander too far from this island.@§4Лучше не забредать слишком далеко от этого острова.
+§7[1/1] §2Tommy: §aOh, hi again! I wonder what I am going to get this Christmas.@§7[1/1] §2Tommy: §aО, привет еще раз! Интересно, что я получу на это Рождество.
+§4It isn't wise to barge in someone's house like this.@§4Неразумно врываться в чей-то дом вот так.
+§7[1/1] §2Santa: §aHo ho ho! Merry Christmas and have a wonderful holiday!@§7[1/1] §2Santa: §aХо-хо-хо! Счастливого Рождества и прекрасного праздника!
+§7[1/1] §2Caissop: §aOh, I'm so ready for my next piece! If you want to help me, come back when you're level 53...@§7[1/1] §2Caissop: §aОх, я так готов к своему следующему шедевру! Если ты хочешь мне помочь, возвращайся, когда достигнешь 53-го уровня...
+§3You are now disguised as a §bpigman@§3Ты замаскировался под §bпигмена
+§4You can smell the blood from here! It is looking dangerous... You had better to not go in.@§4Ты можешь чувствовать запах крови отсюда! Это выглядит опасным... Лучше не заходить туда.
+§7[1/1] §2Tiek: §aI don't mean to be rude, but I'm trying to revive this forest. Please leave me in peace.@§7[1/1] §2Tiek: §aНе хочу показаться грубой, но я пытаюсь оживить этот лес. Пожалуйста, оставь меня в покое.
