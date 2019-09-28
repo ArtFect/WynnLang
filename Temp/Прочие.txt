@@ -73,30 +73,29 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7[3/5]§f §2Slykaar:§f §aThen I found this place. A dark land. A dark god. A source of power.@§7[3/5]§f §2Slykaar:§f §aНо затем я нашел это место. Темная территория. Темное божество. Источник энергии.
 §7[4/5]§f §2Slykaar:§f §aYou mediocre wielders of magic have no idea what this world holds.@§7[4/5]§f §2Slykaar:§f §aВы, посредственные обладатели магии, понятия не имеете, что этот мир содержит в себе.
 §7[5/5]§f §2Slykaar:§f §aYou all strive to be that hero of heroes, “Bob”, but here's the truth. He’s lost. You’re lost. @§7[5/5]§f §2Slykaar:§f §aВы все стремитесь стать героем из героев, как “Bob”, но вот тебе правда. Он проиграл. Вы проиграли.
-§fRedstone Swirl Effect
-§7Create a redstone effect around your character
-§dLava Attack Effect
-§7Create a lava effect whenever you hit!
-§4The mechs seem dangerous, better not get too close.
-§4This mushroom seems dangerous.. better not touch it.
-§7[1/1] §2Aldorei Guard: §aI'm sorry, but no one may enter Aldorei Town without speaking to Elrund first. He is over at the western entrance.
-§4The guards are blocking you from entering.
-§7[1/1] §2Rinire: §aI was exiled from a beautiful valley, with a not so beautiful secret.
-§7[1/1] §2Dado: §aThankfully I'm not going to be fired, as long as I keep my mouth shut about the illegal flower you used!
+§fRedstone Swirl Effect@§fЭффект Редстоун Круговорта
+§7Create a redstone effect around your character@§7Создает редстоун эффект вокруг персонажа
+§dLava Attack Effect@§dЭффект Лава Атаки
+§7Create a lava effect whenever you hit!@§7Создает эффект лавы при ударе!
+§4The mechs seem dangerous, better not get too close.@§4Роботы кажутся опасными, лучше не подходить слишком близко.
+§4This mushroom seems dangerous.. better not touch it.@§4Этот гриб кажется опасным.. лучше его не трогать.
+§7[1/1] §2Aldorei Guard: §aI'm sorry, but no one may enter Aldorei Town without speaking to Elrund first. He is over at the western entrance.@§7[1/1] §2Aldorei Guard: §aЯ извиняюсь, но никто не сможет войти в город Aldorei, не поговорив сначала с Elrund'ом. Он стоит у западного входа.
+§4The guards are blocking you from entering.@§4Охранники блокируют тебе вход.
+§7[1/1] §2Rinire: §aI was exiled from a beautiful valley, with a not so beautiful secret.@§7[1/1] §2Rinire: §aЯ был изгнан из красивой долины, с не очень красивой тайной.
+§7[1/1] §2Dado: §aThankfully I'm not going to be fired, as long as I keep my mouth shut about the illegal flower you used!@§7[1/1] §2Dado: §aК счастью, меня не уволят, пока я буду держать рот на замке о незаконном цветке, который ты использовал!
 §7[1/1] §2Kaosuw: §aOh god, why... I spent 3 years for nothing!@§7[1/1] §2Kaosuw: §aО боже, зачем... Я потратил 3 года впустую!
-§7Disguise your spear as a piece of food
-§7[1/1] §2Malize: §aI'm learning about “waking” magic in school, but I just can't see how it will ever be useful in real life!
-§7[1/2] §2Captain Lorias: §aStand back! This is a crime scene, under my authority. I cannot let you inside, not while you're this inexperienced, at least.
-§7[2/2] §2Captain Lorias: §aCome talk to me again when you're level 74, and we may have need of you...
-§7[1/1] §2Hilan: §aThank you for chasing down that odd looking man, he really injured me. If I was a villager, I'd be suing someone!
-§4You shouldn't try and escape
-§4This item requires your strength skill to be at least §c50.
-§7[1/1] §2Sub-engineer Akot: §aI heard that a big ship was approaching from north. I saw it from the entrance deck. I wonder what they are doing.
-§7[1/2] §2Passenger Jeremy: §aThat ship the little kid that was talking about...
-§7[2/2] §2Passenger Jeremy: §aIt's much closer now... I think you can see it from downstairs.
-§7[1/1] §2Jill: §aI have a proposition for you, but I can't trust this information with anyone under level 97.
-§7It looks like the page has been taken off the wall.
-§7[1/7]§f §2???:§f §aArr-har! What 'ave we 'ere?
+§7Disguise your spear as a piece of food@
+§7[1/1] §2Malize: §aI'm learning about “waking” magic in school, but I just can't see how it will ever be useful in real life!@§7[1/1] §2Malize: §aЯ изучаю магию “пробуждения” в школе, но я просто не понимаю, как она мне когда-либо будет полезна в реальной жизни!
+§7[1/2] §2Captain Lorias: §aStand back! This is a crime scene, under my authority. I cannot let you inside, not while you're this inexperienced, at least.@§7[1/2] §2Captain Lorias: §aОтойди назад! Это место преступления под моим руководством. Я не могу впустить тебя внутрь, по крайней мере, пока ты неопытен.
+§7[2/2] §2Captain Lorias: §aCome talk to me again when you're level 74, and we may have need of you...@§7[2/2] §2Captain Lorias: §aПоговори со мной еще раз, когда будешь 74 уровня, и возможно, ты нам понадобишься...
+§7[1/1] §2Hilan: §aThank you for chasing down that odd looking man, he really injured me. If I was a villager, I'd be suing someone!@
+§4You shouldn't try and escape@§7[1/1] §2Hilan: §aСпасибо, что выследил этого странного мужчину, он действительно ранил меня. Если бы я был жителем, я бы подал на него в суд!
+§7[1/1] §2Sub-engineer Akot: §aI heard that a big ship was approaching from north. I saw it from the entrance deck. I wonder what they are doing.@§7[1/1] §2Sub-engineer Akot: §aЯ слышал, что с севера приближается большой корабль. Видел это с входной палубы. Интересно, что они собираются делать.
+§7[1/2] §2Passenger Jeremy: §aThat ship the little kid that was talking about...@§7[1/2] §2Passenger Jeremy: §aТот корабль, о котором говорил маленький мальчик...
+§7[2/2] §2Passenger Jeremy: §aIt's much closer now... I think you can see it from downstairs.@§7[2/2] §2Passenger Jeremy: §aТеперь он гораздо ближе... Думаю, что ты можешь увидеть его, спустившись вниз.
+§7[1/1] §2Jill: §aI have a proposition for you, but I can't trust this information with anyone under level 97.@§7[1/1] §2Jill: §aУ меня есть предложение для тебя, но я не могу доверять эту информацию никому ниже 97 уровня.
+§7It looks like the page has been taken off the wall.@§7Похоже, что страница была снята со стены
+§7[1/7]§f §2???:§f §aArr-har! What 'ave we 'ere?@
 §7[2/7]§f §2???:§f §aAnother filthy Landlubber come to steal 'ma booty?
 §7[3/7]§f §2???:§f §aBut alas, they'll be cut down soon en'uff - not one scurvy dog like 'em could stand a chance against ma' splendur!
 §7[4/7]§f §2???:§f §aAh, too long 'as it been since we'v been in a true battle o' the seas, pe'haps it's time for one more!
