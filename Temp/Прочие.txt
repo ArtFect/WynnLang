@@ -14,36 +14,29 @@ Flying is not enabled on this server@Нельзя летать на этом с�
 §7§oIf you're lookin' fer the power sceptre, yer better ferget it! We will neva let it be used again.@§7§oЕсли ты ищешь скипетр власти, тебе лучше забыть об этом! Мы не позволим использовать его снова.
 §7§oSincerely, §7Creden Tibus.@§7§oС уважением, §7Creden Tibus.
 You are not whitelisted on this server!@Тебя нет в вайтлисте этого сервера!
-§7[1/1] §2Bandit: §aHey! Back off! I can't let anyone into the tomb!@§7[1/1] §2Bandit: §aЭй! Назад! Я никого не могу впустить в гробницу!
+
 §fCloud Swirl Effect@§fЭффект Водворота Облаков
 §7Create a cloud effect around your character@§7Создает эффект облаков вокруг персонажа
 §f    §6§l            Goal@§f    §6§l            Цель
 §f    §7Destroy all §c§n6§f §7war machines@§f    §7Уничтожь все §c§n6§f §7машин
 §f    §a§l         Goal Complete@§f    §a§l         Цель Выполнена
 §f    §7You successfully sabotaged the armoury@§f    §7Ты успешно саботировал оружейную
-§7[1/2] §2Ellen: §aWhen Craftmas is over, I'm going to sleep. For a year...@§7[1/2] §2Ellen: §aКогда Рождество закончится, я пойду спать. Целый год...
-§7[1/7] §2Legendary Attendant: §aMo'in! Are you here to claim your rewards from the Legendary Challenge? Allow me to explain how the reward system works here.@§7[1/7] §2Legendary Attendant: §aСалют! Ты здесь, чтобы забрать свои награды от Легендарного Челленджа? Позволь мне объяснить, как здесь работает система вознаграждений.
-§7[2/7] §2Legendary Attendant: §aAs you probably already know, there are four tiers of tokens. Similarly, there are four merchants to match those.@§7[2/7] §2Legendary Attendant: §aКак ты наверное уже знаешь, существует четыре уровня жетонов. Точно так же есть четыре торговца, соответствующие им.
-§7[3/7] §2Legendary Attendant: §aYou can purchase a base accessory at the Bronze Merchant.@§7[3/7] §2Legendary Attendant: §aТы можежь приобрести базовые аксессуары у бронзового торговца.
-§7[4/7] §2Legendary Attendant: §aThen, at the Silver Merchant, you can upgrade your Bronze accessory into one of six types of Silver accessories.@§7[4/7] §2Legendary Attendant: §aЗатем, у серебряного торговца, ты можешь обновить свой бронзовый аксессуар до одного из шести типов серебряных аксессуаров.
-§7[5/7] §2Legendary Attendant: §aThe six types are based on the five elements, along with another type that combines all five.@§7[5/7] §2Legendary Attendant: §aШесть типов основаны на пяти элементах, наряду с другим типом, который объединяет все пять.
-§7[6/7] §2Legendary Attendant: §aThe Gold Merchant allows you to upgrade a Silver accessory into a Gold accessory of the same element.@§7[6/7] §2Legendary Attendant: §aЗолотой торговец позволит тебе модернизировать серебряный аксессуар в золотой аксессуар того же элемента.
-§7[7/7] §2Legendary Attendant: §aThe Diamond Merchant functions similarly. Thank you for participating in the Legendary Challenge!@§7[7/7] §2Legendary Attendant: §aАлмазный торговец функционирует аналогично. Спасибо за участие в Легендарном Челлендже!
+
+
 §aYour particle limit is now §flow (50)@§aТвой лимит частиц теперь §fнизкий (50)
-§7[1/1] §2Skyraider Guard: §aStop! The new Queen is being chosen here, and ye can only try out from level 98 onwards. Leave now! Ain't even a skyraider, bloody idiot!@§7[1/1] §2Skyraider Guard: §aСтоять! Новая королева выбирается здесь, и ты сможешь попробовать только с 98 уровня. Уходи сейчас же! Ты ведь даже не пират, чертов идиот!
+
 §3Your guild no longer owns this territory!@§3Твоя гильдия больше не владеет этой территорией!
-§7[1/2] §2Chef Hamsey: §aBonjour, adventurer! Welcome to mon restaurant. Oh, it seems all our seats are taken. Come back later!@§7[1/2] §2Chef Hamsey: §aБонжур, путисчественник. Ох, похосже все места сийчас заняти. Приходить посчже!
-§7[2/2] §2Chef Hamsey: §aBy le temps you reach level 96, spaces should free up.@§7[2/2] §2Chef Hamsey: §a§7[2/2] §2Chef Hamsey: §aКогда ти достич уровень 96, места должсчны освободитца.
+
 §3Stand in a guild territory to buy mobs@§3Стой на территории гильдии, чтобы купить мобов
-§7[1/1] §2Royal Advisor Carlos: §aThank you for helping find the king!@§7[1/1] §2Royal Advisor Carlos: §aСпасибо, что помог найти короля!
+
 §7The door seems locked@§7Похоже дверь заперта
-§7[1/1] §2Edula: §aHey you! I want to talk to you.@§7[1/1] §2Edula: §aЭй ты! Я хочу поговорить с тобой.
-§7[3/3] §2Korzim: §aMove! Move! MOVE!@§7[3/3] §2Korzim: §aПошел! Пошел! Вперед!
+
+
 §7[1/2] §2Crane Mechanic: §aI remember you! Guess what?@§7[1/2] §2Crane Mechanic: §aЯ тебя помню! Угадай что?
 §7[2/2] §2Crane Mechanic: §aI finally got the crane working! Just jump on and I'll take you right down to the void.@§7[2/2] §2Crane Mechanic: §aЯ наконец-то починил кран! Просто запрыгивай и я отвезу тебя вниз в пустоту.
 §7You need to take out the organ before you can continue.@§7Тебе нужно уничтожить орган, прежде чем сможешь продолжить.
 §7[1/1] §2C.S.S Wavebreaker Captain: §aWait a minute! You ain't a friend of Corkus, I don't travel for free mate.@§7[1/1] §2C.S.S Wavebreaker Captain: §aПодожди минутку! Ты не друг Corkus'а, я не вожу за бесплатно, приятель.
-§7[8/8] §2Guard: §aNow, cast your Bolt Blizzard spell by clicking §bLeft-Right-Left§a!@§7[8/8] §2Guard: §aТеперь используй свое Bolt Blizzard заклинание, кликнув §b§lЛевая-Правая-Левая§a!
+
 §7[1/1] §2Nakoba: §aIt's been a pleasure doing business with you.@§7[1/1] §2Nakoba: §aБыло приятно иметь с тобой дело.
 §7[1/1] §2Vesdar: §aI can't be bothered repeating myself. Check that fancy little quest book of yours to see what you need to do.@§7[1/1] §2Vesdar: §aЯ не могу утруждать себя повторением. Проверь эту причудливую маленькую квестовую книгу, чтобы увидеть, что тебе нужно сделать.
 §2You can no longer see swear words in chat!@§2Ты больше не видишь бранные слова в чате!
@@ -51,18 +44,11 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7[1/1] §2Sesad: §aRemember, if you like that water, you come back and give me some company. That's a good deal, right?@§7[1/1] §2Sesad: §aПомни, если тебе нравится эта вода, возвращайся и составь мне компанию. Это ведь хорошее предложение, правда?
 §aA §dRare Water Effect§a!@§aA §dRare Эффект Воды§a!
 §aA §dRare Zombie Horse Cloak§a!@§aA §dRare Зомби Плащ Для Коня§a!
-
 §cInvalid amount! Please try again with a lower number.@§cНеправильное количество! Попробуй еще раз с меньшим числом.
-
 §4You need the crystal shard from WynnExcavation Site C to start this quest!@§4Тебе нужен красный осколок кристалла из WynnExcavation Site C для старта квеста!
-§7[1/1] §2Traitor Buice: §aWynnExcavation have done really horrible things, and I used to help...@§7[1/1] §2Traitor Buice: §aWynnExcavation делает ужасные вещи, и я решил помочь...
-§7[1/1] §2Traitor Jaynar: §aWynnExcavation will be destroyed, no matter what!@§7[1/1] §2Traitor Jaynar: §aWynnExcavation будет уничтожена, неважно как!
-§7[1/1] §2Amadel's Assistant: §aTry to defend yourself!@§7[1/1] §2Amadel's Assistant: §aПопробуй защитить себя!
-§7[1/1] §2Amadel's Assistant: §aDo not run from your fate!@§7[1/1] §2Amadel's Assistant: §aНе беги от своей судьбы!
 §7The sheep raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@Овца поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
 §7The pig raises its head to look at you, and nods respectively. You have successfully gained peace and friendship with nature.@Свинья поднимает голову чтобы посмотреть на тебя, и с уважением кивает. Ты успешно обрел мир и дружбу с природой.
 §7[1/1] §2Nairg: §aFor centuries I have studied the likeness emblazoned upon this cake, but I’m still stumped!@§7[1/1] §2Nairg: §aСтолетиями я изучал как украшен этот торт, но я по-прежнему озадачен!
-§7[8/8] §2Guard: §aNow, cast your Whirlwind spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое Whirlwind заклинание, кликнув §b§lПравая-Левая-Правая§a!
 §7You try to read the label, but it strains your eyes just looking at it. All you can make out is "Vial of D§7§kern§7§k§mic E§7§o§k§mss§4§o§k§mence§f"§7...@§7Ты пытаешься прочитать этикетку, но даже взгляд на нее напрягает глаза. Все что ты можешь прочитать это "Пробирка D§r§7§kern§r§7§k§mic E§r§7§o§k§mss§r§4§o§k§mence§r"§r§7...
 §7[1/5] §2Slykaar:§f §aI experimented my shamanism for many years underground to create the perfect mix of monster.@§7[1/5] §2Slykaar:§f §aЯ экспериментировал с шаманизмом под землей многие годы, чтобы создать идеальный микс из монстров.
 §7[2/5]§f §2Slykaar:§f §aMost ended in horrific slimes. Aggressive and powerful, but alas, just slimes.@§7[2/5]§f §2Slykaar:§f §aБольшинство превращались в ужасных слаймов. Агрессивных и мощных, но увы, просто слаймов.
@@ -75,7 +61,6 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7Create a lava effect whenever you hit!@§7Создает эффект лавы при ударе!
 §4The mechs seem dangerous, better not get too close.@§4Роботы кажутся опасными, лучше не подходить слишком близко.
 §4This mushroom seems dangerous.. better not touch it.@§4Этот гриб кажется опасным.. лучше его не трогать.
-
 §4The guards are blocking you from entering.@§4Охранники блокируют тебе вход.
 §7[1/1] §2Rinire: §aI was exiled from a beautiful valley, with a not so beautiful secret.@§7[1/1] §2Rinire: §aЯ был изгнан из красивой долины, с не очень красивой тайной.
 §7[1/1] §2Dado: §aThankfully I'm not going to be fired, as long as I keep my mouth shut about the illegal flower you used!@§7[1/1] §2Dado: §aК счастью, меня не уволят, пока я буду держать рот на замке о незаконном цветке, который ты использовал!
@@ -84,15 +69,13 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7[1/1] §2Malize: §aI'm learning about “waking” magic in school, but I just can't see how it will ever be useful in real life!@§7[1/1] §2Malize: §aЯ изучаю магию “пробуждения” в школе, но я просто не понимаю, как она мне когда-либо будет полезна в реальной жизни!
 §7[1/2] §2Captain Lorias: §aStand back! This is a crime scene, under my authority. I cannot let you inside, not while you're this inexperienced, at least.@§7[1/2] §2Captain Lorias: §aОтойди назад! Это место преступления под моим руководством. Я не могу впустить тебя внутрь, по крайней мере, пока ты неопытен.
 §7[2/2] §2Captain Lorias: §aCome talk to me again when you're level 74, and we may have need of you...@§7[2/2] §2Captain Lorias: §aПоговори со мной еще раз, когда будешь 74 уровня, и возможно, ты нам понадобишься...
-§7[1/1] §2Hilan: §aThank you for chasing down that odd looking man, he really injured me. If I was a villager, I'd be suing someone!@
-§4You shouldn't try and escape@§7[1/1] §2Hilan: §aСпасибо, что выследил этого странного мужчину, он действительно ранил меня. Если бы я был жителем, я бы подал на него в суд!
+§7[1/1] §2Hilan: §aThank you for chasing down that odd looking man, he really injured me. If I was a villager, I'd be suing someone!@§7[1/1] §2Hilan: §aСпасибо тебе за то, что выследил этого странного человека, он действительно ранил меня. Если бы я был жителем, я бы кого-нибудь засудил!
+§4You shouldn't try and escape@§4Ты не должен пытаться сбежать
 §7[1/1] §2Sub-engineer Akot: §aI heard that a big ship was approaching from north. I saw it from the entrance deck. I wonder what they are doing.@§7[1/1] §2Sub-engineer Akot: §aЯ слышал, что с севера приближается большой корабль. Видел это с входной палубы. Интересно, что они собираются делать.
 §7[1/2] §2Passenger Jeremy: §aThat ship the little kid that was talking about...@§7[1/2] §2Passenger Jeremy: §aТот корабль, о котором говорил маленький мальчик...
 §7[2/2] §2Passenger Jeremy: §aIt's much closer now... I think you can see it from downstairs.@§7[2/2] §2Passenger Jeremy: §aТеперь он гораздо ближе... Думаю, что ты можешь увидеть его, спустившись вниз.
 §7[1/1] §2Jill: §aI have a proposition for you, but I can't trust this information with anyone under level 97.@§7[1/1] §2Jill: §aУ меня есть предложение для тебя, но я не могу доверять эту информацию никому ниже 97 уровня.
 §7It looks like the page has been taken off the wall.@§7Похоже, что страница была снята со стены
-
-
 §7The idol whirrs to life...@§7Идол начинает оживать...
 §7[1/8] §2Ariodo: §aOh my, a ghost? Wait, is this just you, my trusty friend, playing a prank on me? No? Well that certainly is a problem!@§7[1/8] §2Ariodo: §aО боже, призрак? Подожди, ты что, мой верный друг, решил меня разыграть? Нет? Что ж, значит у нас проблема!
 §7[6/8] §2Ariodo: §aThe §3[Cart]§a can carry the coconut from one end of the platform to another for a few tiles, while the §3[Fan]§a can push the coconut even further.§aThe §3[Cart]§a can carry the coconut from one end of the platform to another for a few tiles, while the §3[Fan]§a can push the coconut even further.@§7[6/8] §2Ariodo: §a§3[Вагонетка]§a может провезти кокос на несколько клеток вперед, а вот §3[фен]§a сможет зашвырнуть кокос намного дальше.
@@ -152,7 +135,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §aA §dRare Thunder Effect§a!@§aA §dRare Эффект Грома§a!
 §aA §dRare Steampunk Dagger§a!@§aA §dRare Стимпанк Кинжал§a!
 §aA §6Epic Half-Moon Bow§a!@§aA §6Epic Полу-месяц Лук§a!
-§7[1/1] §2Rismor: §aGo, now! Go into the Pit of Despair, and meet Harker at the bottom. Our time is running short!@§7[1/1] §2Rismor: §aИди, сейчас же! Иди в Яму Отчаяния и встреть Harker'а на ее дне. У нас мало времени! 
+
 §7[1/1] §2Gardener: §aI never was an honest man. I guess it took a slap to the face to really make me realise.@§7[1/1] §2Gardener: §aЯ никогда не был честным человеком. Думаю, мне нужна была эта пощечина, чтобы понять по-настоящему.
 §7[1/1] §2Valley Guard: §aI'm sorry, but no one may enter Aldorei without speaking to Elrund first. He is over at the western entrance.@§7[1/1] §2Valley Guard: §aМне очень жаль, но никто не может войти в Aldorei, не поговорив сначала с Elrund'ом. Он стоит у западного входа.
 §4You cannot use horses during a guild war.@§4Ты не можешь пользоваться лошадью во время захвата.
@@ -161,16 +144,13 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7[1/1] §2Mining Mech TERA-4M: §aINTRUDER DETECTED. OBJECTIVE: REMOVE FOREIGN PRESENCE FROM MINING OPERATION.@§7[1/1] §2Mining Mech TERA-4M: §aНАРУШИТЕЛЬ ОБНАРУЖЕН. ЦЕЛЬ: ИСКЛЮЧИТЬ ЧУЖОЕ ПРИСУТСТВИЕ НА ГОРНОДОБЫВАЮЩИХ РАБОТАХ.
 §6Corrupted Dagger@§6Испорченный Кинжал
 §7Disguise your dagger with a corrupted flair@§7Маскирует твой кинжал под стиль порчи
-§7[1/2] §2Goben: §aWe don't care whether you're Dogun or Dwarf or Human or anything.@§7[1/2] §2Goben: §aНам все равно, Dogun ты или гном, или человек, или еще кто-нибудь.
-§7[2/2] §2Goben: §aWe just want to not be treated like vermin. Maybe we have something in common with the Doguns.@§7[2/2] §2Goben: §aМы просто не хотим, чтобы с нами обращались как с паразитами. Может быть, у нас есть что-то общее с Dogun'ами.
+
 §cYou need to hold an item in your hand to change its lore!@§cТебе нужно держать предмет в руке, чтобы изменить его лор!
 §7[1/2] §2???: §a§4§kBLARGH§4!§a My §4minions §ashall §4not §alet you pass!@§7[1/2] §2???: §a§4§kБЛАРГХ§4!§a Мои §4миньоны §aне дадут §4тебе§a пройти!
 §7[2/2] §2???: §a§4§kAahrg§4, §4get the human! §aWe can't let it pass by §4again!@§7[2/2] §2???: §a§4§kАргкх§4, §4взять человека! §aМы не можем дать ему пройти §4снова!
 §7[1/1] §2Corrupted Charon: §aDo you really think I will §4f§4§ka§4ll §afor that one §4again? §aAn army likes yours is §4ch§4§kild§4splay afor me! However, how do you plan to §4defeat an army that is §4§lalready §4d§4§ke§4a§4§kd§4?@§7[1/1] §2Corrupted Charon: §aТы действительно думаешь что я §4сн§4§kо§4ва §aпопадусь на эту §4удочку? §aАрмия вроде вашей-это §4дет§4§kска§4я §aигра для меня! §aТем более, как ты планируешь §4победить мою армию, которая §4§lуже §4м§4§kер§4т§4§kва§4?
 §7[+Corrupted Charon's Brain]@§7[+Испорченный Мозг Charon'а]
 §7[+Corrupted Underworld Crypt Fragment]@§7[+Испорченный Underworld Crypt Фрагмент]
-§7[1/1] §2Traitor Thomas: §aThanks for helping with that long task...@§7[1/1] §2Traitor Thomas: §aСпасибо, что помог с этой долгой задачей...
-§7[1/1] §2WynnExcavation Leader Amadel: §aStep into this hole, and accept your fate. It's over, you've lost!@§7[1/1] §2WynnExcavation Leader Amadel: §aВойди в эту дыру и прими свою судьбу. Все кончено, ты проиграл!
 §aA §6Epic Golden Spear§a!@§aA §6Epic Золотое Копье§a!
 §6Ripple Effect@§6Эффект Пульсации
 §7Create a ripple effect around your character@§7Создает эффект пульсации вокруг персонажа
@@ -179,15 +159,9 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7Disguise yourself as a cow@§7Маскировка себя в корову
 §3You are now disguised as a §bcow@§3Ты замаскировался под §bкорову
 §d     -§7 Lore: §f§oA secluded gorge, rumored to be the territory of a notorious lone bandit. The stones turn a fiery spectrum of colors in the sunrise and set.@§d     -§7 Лор: §f§oУединенное ущелье, по слухам, является территорией пресловутого одинокого бандита. Камни здесь поворачивают огненный спектр цветов в восходе солнца.
-§7[1/2]§2 Rymek Luke:§a I hope you know yer trespassin' on private property. Either you get on out of here right now or draw.@§7[1/2]§2 Rymek Luke:§aНадеюсь, ты знаешь, что вторгся на частную собственность. Либо ты уходишь отсюда прямо сейчас, либо сдаешься. 
-§7[2/2]§2 Rymek Luke:§a And if you draw... You ain't leaving this here canyon alive!@§7[2/2]§2 Rymek Luke:§aИ если ты сдаешься... То все равно не покинешь этот каньон живым!
 §dThunder Effect@§dЭффект Грома
 §7Create an thunder effect around your character@§7Создает эффект грома вокруг персонажа
 §4It's better not to wander too far from this island.@§4Лучше не забредать слишком далеко от этого острова.
-§7[1/1] §2Tommy: §aOh, hi again! I wonder what I am going to get this Christmas.@§7[1/1] §2Tommy: §aО, привет еще раз! Интересно, что я получу на это Рождество.
 §4It isn't wise to barge in someone's house like this.@§4Неразумно врываться в чей-то дом вот так.
-§7[1/1] §2Santa: §aHo ho ho! Merry Christmas and have a wonderful holiday!@§7[1/1] §2Santa: §aХо-хо-хо! Счастливого Рождества и прекрасного праздника!
-§7[1/1] §2Caissop: §aOh, I'm so ready for my next piece! If you want to help me, come back when you're level 53...@§7[1/1] §2Caissop: §aОх, я так готов к своему следующему шедевру! Если ты хочешь мне помочь, возвращайся, когда достигнешь 53-го уровня...
 §3You are now disguised as a §bpigman@§3Ты замаскировался под §bпигмена
 §4You can smell the blood from here! It is looking dangerous... You had better to not go in.@§4Ты можешь чувствовать запах крови отсюда! Это выглядит опасным... Лучше не заходить туда.
-§7[1/1] §2Tiek: §aI don't mean to be rude, but I'm trying to revive this forest. Please leave me in peace.@§7[1/1] §2Tiek: §aНе хочу показаться грубой, но я пытаюсь оживить этот лес. Пожалуйста, оставь меня в покое.
