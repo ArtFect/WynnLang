@@ -1,14 +1,26 @@
+###################Decrepit Sewers##########################
 §7[1/1] §2???: §aYou dare enter these sewers, human? These pipes once hid the civilians of Ragni during raids… Now it just holds corpses.@§7[1/1] §2???: §aТы осмелился войти в канализацию, человек? Эти трубы когда-то прятали мирных жителей Ragni во время набегов...Теперь здесь остались только трупы.
 §7[1/1] §2???: §aThe forces of the Humans could not save me when I hid here, and they can’t save you either.@§7[1/1] §2???: §aСилы людей не смогли спасти меня, когда я спрятался здесь, они тем более не помогут спасти тебя...
 §7[1/1] §2Witherhead: §aYou persist through the sludge, now you will join me like the rest!@§7[1/1] §2Witherhead: §aТы упорно прошел через сточные воды, теперь ты присоединишься ко мне, как и остальные!
+
+########################Infested Pit#########################
 §7[1/2] §2???: §aOh, it seems I have a guest. You're just in time for dinner... hehe..@§7[1/2] §2???: §aОх, похоже у меня гость. Ты как раз вовремя, к ужину... хехе...
 §7[2/2] §2???: §aMy poor babies are starving. But what shall they feast on? How about... you?@§7[2/2] §2???: §aМои бедные дети голодают. Но чем же они будут питаться? Как насчет... тебя?
+§7[1/3] §2Hanged Man: §aAh- Adventurer!... I b- beg you.. do not c- continue on your quest...@§7[1/3] §2Hanged Man: §aПу- Путешественник!... Я у- умоляю тебя.. не п- продолжай путь дальше...
+§7[2/3] §2Hanged Man: §aYou might believe you c- can fight t- this monster... b- but you can't...@§7[2/3] §2Hanged Man: §aТы можешь поверить, что с- сможешь сразиться с этим монстром... Н- но ты не сможешь...
+§7[3/3] §2Hanged Man: §a§lArakadicus §ais.. is a coward... it traps you and f- feed you to its... children...@§7[3/3] §2Hanged Man: §a§lArakadicus§a.. она трусиха... она поймает тебя и с- скормит тебя своим... детям...
+§7[1/1] §2Arakadicus: §aDon't mind our other guest back there. He had such a bitter taste. However, my babies think you look delicious... hehehe...@§7[1/1] §2Arakadicus: §aНе обращай внимания на того другого гостя. Он был такой горький на вкус. Тем не менее, мои дети думают, что ты выглядишь аппетитно...хехехе...
+§7[1/1] §2Arakadicus: §aAh, the main course has arrived. You look so good, I think I'll have a taste of you myself!@§7[1/1] §2Arakadicus: §aАх, основное блюдо прибыло. Ты так хорошо выглядишь, думаю, я сама попробую тебя!
+
+########################Ice Barrows###########################
 §7[1/2] §2Ghostly Voice: §aSoldier! I'm not sure it is wise to be here... An icy death awaits you if you proceed. A death that I will cause..@§7[1/2] §2Ghostly Voice: §aСолдат! Я не уверен, что разумно быть здесь... Ледяная смерть ждет тебя, если ты продолжишь. Смерть, которую причиню я..
 §7[2/2] §2Ghostly Voice: §aI have many regrets of my time spent alive in Wynn. I do not wish for my lingering mistakes to harm anyone else. Turn back.@§7[2/2] §2Ghostly Voice: §aУ меня есть много сожалений о моем времени, проведенном при жизни в Wynn. Я не хочу, чтобы мои давние ошибки навредили кому-то еще. Поверни назад.
 §7[1/2]§2 Ghostly Voice:§a You must think you can save me? There is no cure for what I have. @§7[1/2]§2 Ghostly Voice:§a §aТы должно быть думаешь, что можешь спасти меня? Нет лекарства от того, чем я заражен.
 §7[2/2]§2 Ghostly Voice:§a Unless.. You want to set me free?@§7[2/2]§2 Ghostly Voice:§a §aРазве что... Ты хочешь освободить меня?
 §7[2/2]§2 Ghostly Voice:§a Of course, just like you.. They can not leave. Their souls are stuck here. For the spell must not be broken.@§7[2/2]§2 Ghostly Voice:§a §aКонечно, как и ты... Они не могут уйти. Их души застряли здесь. Ибо заклинание не должно быть нарушено.
 §7[1/1] §2Ghostly Voice: §aEven if you think you can cure me.. I can not allow you to try for if it were to fail my corrupted body would wreak havoc on the world!@§7[1/1] §2Ghostly Voice: §aДаже если ты думаешь, что можешь меня вылечить... Я не могу позволить тебе попытаться. Если все провалится, мое испорченное тело посеет хаос в этом мире!
+
+
 §7[1/1] §2???: §aI can sense your life force... it is very powerful. I shall take pleasure in draining it from your body!@§7[1/1] §2???: §aЯ чувствую твою жизненную силу... она очень мощная. С удовольствием вытяну ее его из твоего тела!
 §7[1/2] §2Slykaar: §aTroms used to beckon to my every need and desire... Even sacrifice it’s own children for my magical defense!@§7[1/2] §2Slykaar: §aTroms привык потакать мне в каждой моей потребности и желаниях... Даже если нужно пожертвовать своими детьми ради моей магической защиты!
 §7[2/2] §2Slykaar: §aBut as soon as that hero of heroes turned up... I was cast away.@§7[2/2] §2Slykaar: §aНо как только этот герой из героев появился... Я был изгнан.
@@ -16,16 +28,14 @@
 §7[2/2] §2Slykaar: §aThen the corruption will take over the city. Then who will they call? Bob has been missing for years. Fools!@§7[2/2] §2Slykaar: §aКогда порча возьмет контроль над городом. Кого они тогда будут звать? Bob пропал уже много лет назад. Глупцы!
 §7[1/1] §2Slykaar: §aNothing and no one will stop me from sieging the city. Not even you!@§7[1/1] §2Slykaar: §aНикто и ничто не остановит меня от осады города. Даже ты!
 §7[1/1]§2 ???: §aHow foolish. You might think you are strong, adventurer, but you have no idea what you are about to face...@§7[1/1]§2 ???: §aКак глупо. Ты можешь думать, что ты сильный, путешественник, но ты и понятия не имеешь, с чем тебе придется столкнуться...
-§7[1/3] §2Hanged Man: §aAh- Adventurer!... I b- beg you.. do not c- continue on your quest...@§7[1/3] §2Hanged Man: §aПу- Путешественник!... Я у- умоляю тебя.. не п- продолжай путь дальше...
-§7[2/3] §2Hanged Man: §aYou might believe you c- can fight t- this monster... b- but you can't...@§7[2/3] §2Hanged Man: §aТы можешь поверить, что с- сможешь сразиться с этим монстром... Н- но ты не сможешь...
-§7[3/3] §2Hanged Man: §a§lArakadicus §ais.. is a coward... it traps you and f- feed you to its... children...@§7[3/3] §2Hanged Man: §a§lArakadicus§a.. она трусиха... она поймает тебя и с- скормит тебя своим... детям...
-§7[1/1] §2Arakadicus: §aDon't mind our other guest back there. He had such a bitter taste. However, my babies think you look delicious... hehehe...@§7[1/1] §2Arakadicus: §aНе обращай внимания на того другого гостя. Он был такой горький на вкус. Тем не менее, мои дети думают, что ты выглядишь аппетитно...хехехе...
-§7[1/1] §2Arakadicus: §aAh, the main course has arrived. You look so good, I think I'll have a taste of you myself!@§7[1/1] §2Arakadicus: §aАх, основное блюдо прибыло. Ты так хорошо выглядишь, думаю, я сама попробую тебя!
+
 §7[1/1] §2Corrupted Arakadicus: §aAh, the main course has arrived. You look so good, I think I'll have a taste of you myself!@§7[1/1] §2Corrupted Arakadicus: §aАх, основное блюдо прибыло. Ты так хорошо выглядишь, думаю, я сама попробую тебя!
 §7[1/1] §2Hashr: §aNow you have come to release me from my tomb so that I may rule once more!@§7[1/1] §2Hashr: §aТеперь ты пришел освободить меня из моей могилы, чтобы я мог править снова!
 §7[1/1] §2Garoth:§a I think you know who I am. The second human ever to be liberated by the portal. I now seek to purify this world.@§7[1/1] §2Garoth:§a §aДумаю, ты знаешь, кто я такой. Второй человек, когда-либо освобожденный порталом. Теперь я стремлюсь очистить этот мир.
 §7[1/1] §2Garoth:§a There is still a lot to be done it seems.@§7[1/1] §2Garoth:§a §aКажется, еще многое предстоит сделать.
 §7§7[1/1] §2Garoth: §aThere is still a lot to be done it seems.@§7[1/1] §2Garoth:§a §aКажется, еще многое предстоит сделать.
+
+#########################Galleon's Graveyard########################
 §7[1/1] §2???: §aWell, shiver me timbers! Some swashbuckler has come to plunder me treasure. But ye'll have to get through me crew and I if you want me booty!@§7[1/1] §2???: §aРазрази меня гром! Какой-то головорез пришел грабить мои богатства. Но сначала тебе придется пройти через меня и мою команду, если ты хочешь моих сокровищ!
 §7[1/2] §2???: §aAcross the seas, me name is feared. A landlubber like you won't lay a hand on me treasure!@§7[1/2] §2???: §aПлавая по морям, мое имя пугало. Такой салага, как ты, не притронется к моим сокровищам!
 §7[2/2] §2???: §aBut if yer really fixin' to get me booty, ye'll have to face me in combat!@§7[2/2] §2???: §aНо если ты действительно хочешь получить награбленное мной, тебе придется встретиться со мной в бою!
@@ -50,6 +60,25 @@
 §7[3/3] §2Prisoner: §aBut challenging him is nearly impossible. He can only be defeated with his own enchanted cannons...@§7[3/3] §2Prisoner: §aНо бросить ему вызов почти невозможно. Его можно победить только с помощью своих заколдованных пушек...
 §7[1/1] §2Redbeard: §aArghh... there's a stowaway on me ship! Do ye know what I do with stowaways, landlubber? I make them walk the plank!@§7[1/1] §2Redbeard: §aАргхх...на моем корабле есть безбилетник! Ты знаешь, что я делаю с безбилетниками, салага? Я отправляю их за борт!
 §7[1/1] §2Redbeard: §aHehe... I'll cut off yer head and mount it on me ship!@§7[1/1] §2Redbeard: §aХехе... Я отрежу тебе голову и повешу ее на своем корабле!
+===========================================================================
+§7[1/7]§f §2???:§f §aArr-har! What 'ave we 'ere?@§7[1/7]§f §2???:§f §aАрр-хрр! Кто у нас тут?
+§7[2/7]§f §2???:§f §aAnother filthy Landlubber come to steal 'ma booty?@§7[2/7]§f §2???:§f §aЕще один грязный салага пришел украсть мои сокровища?
+§7[3/7]§f §2???:§f §aBut alas, they'll be cut down soon en'uff - not one scurvy dog like 'em could stand a chance against ma' splendur!@§7[3/7]§f §2???:§f §aУвы, он отдаст концы слишком скоро - ни одна презренная собака, вроде него, не сможет выстоять против моего великолепия!
+§7[4/7]§f §2???:§f §aAh, too long 'as it been since we'v been in a true battle o' the seas, pe'haps it's time for one more!@§7[4/7]§f §2???:§f §aАх, слишком много лет прошло с тех пор, как мы были в настоящей морской битве, возможно, пришло время для еще одной!
+§7[5/7]§f §2???:§f §aYa' hear what ah' said? Move yerselves, get tha' ships!@§7[5/7]§f §2???:§f §aВы слышали, что я сказал? Двигайтесь, все на борт!
+§7[6/7]§f §2???:§f §aAND AS FOR YE OVER THAR'....@§7[6/7]§f §2???:§f §aА ВОТ ЧТО КАСАЕТСЯ ТЕБЯ ВНИЗУ...
+§7[7/7]§f §2???:§f §aPREPARE TO BE BOARDED!@§7[7/7]§f §2???:§f §aГОТОВЬСЯ ПОДНЯТЬСЯ НА ПАЛУБУ!
+§7[1/2]§f §2???:§f §aGar, that dirt-rat be still standin'!@§7[1/2]§f §2???:§f §aГар, эта грязная крыса еще на плаву!
+§7[2/2]§f §2???:§f §aC'mon, tear that vessel ta' shreds!@§7[2/2]§f §2???:§f §aДавайте, разорвите эту посудину в клочья!
+§7[1/3]§f §2???:§f §aWORTHLESS RATS!@§7[1/3]§f §2???:§f §aБЕСПОЛЕЗНЫЕ КРЫСЫ!
+§7[2/3]§f §2???:§f §aGET THAT LANDLUBBER OVER THAR OR AH'LL BE FEEDIN' YER BONES TO THE SHARKS MESELF@§7[2/3]§f §2???:§f §aДОСТАНЬТЕ ЭТОГО САЛАГУ ОТТУДА, ИЛИ Я САМОЛИЧНО СКОРМЛЮ ВАШИ КОСТИ АКУЛАМ.
+§7[3/3]§f §2???:§f §aFASTER, I TELL YA@§7[3/3]§f §2???:§f §aБЫСТРЕЕ, РАЗРАЗИ МЕНЯ ГРОМ
+§7[1/4]§f §2???:§f §aEh? out o' ships?@§7[1/4]§f §2???:§f §aЧто? закончились лодки?
+§7[2/4]§f §2???:§f §aCurses! Ye salty dogs really ar' wort'less!@§7[2/4]§f §2???:§f §aЯкорь мне в бухту! Вы бесполезная куча морских волков!
+§7[3/4]§f §2???:§f §aAND YA MAY 'AVE WON THIS DUEL, BUT JUST MARK MA' WORDS...@§7[3/4]§f §2???:§f §aМОЖЕТ ТЫ И ВЫИГРАЛ ЭТУ БИТВУ, НО ЗАПОМНИ МОИ СЛОВА...
+§7[4/4]§f §2???:§f §aYER'LL BE RESTING IN OL' DAVEY'S LOCKER BEFORE LONG! ARR-HA!@§7[4/4]§f §2???:§f §aСКОРО ТЫ СОСТАВИШЬ КОМПАНИЮ ДЕЙВИ ДЖОНСУ! АРР-ХА!
+===================================================================================
+
 §7[1/1] §2Garoth: §aWell, looks like I get to finally find out what humans are made of.@§7[1/1] §2Garoth: §aПохоже, я наконец-то выясню, из чего сделаны люди.
 §7[1/1] §2???: §aWho dares enter the resting place of the once great ruler of the sands?@§7[1/1] §2???: §aКто осмелился войти в место упокоения некогда великого правителя песков?
 §7[1/1] §2Corrupted Witherhead: §4You... y§co§4u'v§ce §4come §chere§4 befor§ce. §4You shou§4§kl§4dn't be aliv§4§ke....@§7[1/1] §2Corrupted Witherhead: §4Ты... ты у§cж§4е §cприходил §4сюда рань§cше. Ты не до§4§kлже§4н был выжи§4§kть....
