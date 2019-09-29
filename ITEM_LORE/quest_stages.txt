@@ -509,6 +509,8 @@ QUESTS/Dwarves_and_Doguns_Part_IV.txt
 §7Head to Rodoroc and look @§7Иди в Rodoroc 
 §7for Axelus @§7и отыщи Axelus'a на
 §7[1117,11,-5190]@ 
+§7Free Axelus and escape the @§7Спаси Axelus'a и сбеги 
+§7city. @§7из города
 §7Return back to the Dogun @§7Вернись в деревню
 §7village at [1338,147,-5305]. @§7Dogun'ов на [1338,147,-5305].
 §7Reach the portal and stop @§7Достигни портала и останови 
@@ -690,7 +692,7 @@ QUESTS/Fate_of_the_Fallen.txt =====
 §7Tell Telvu the mage what @§7Расскажи магу Telvu 
 §7happened. @§7что произошло 
  
-QUESTS/Finding_The_Light.txt 
+QUESTS/Finding_The_Light.txt =====
 §7Talk to the Guardian of @§7Поговори с Guardian of The Forest 
 §7The Forest in the Light @§7в Light Forest'е на 
 §7[-1128,49,-4778]@ 
@@ -703,6 +705,7 @@ QUESTS/Finding_The_Light.txt
 §7[-1130,49,-4781]@ 
 §7Find someone in Cinfras who @§7Найди кого-то в Cinfras'е, 
 §7can help you SEE @§7кто поможет тебе УВИДЕТЬ 
+§7Get an Eye Exam @§7Пройди проверку зрения
 §7Talk to Ollie at @§7Поговори с Ollie на 
 §7[-430,46,-4855]@ 
 §7Talk to Charlie outside of @§7Поговори с Charlie снаружи 
@@ -720,12 +723,16 @@ QUESTS/Finding_The_Light.txt
 §7in Cinfras at @§7в Cinfras'е на 
 §7[-431,46,-4993]@ 
 §7Break into Sasha's basement @§7Проникни в подвал Sasha 
+§7Talk to Sasha about her @§7Поговори с Sasha насчет ее 
+§7debt @§7долга
 §7Find Gardener in The Cinfras @§7Найди Gardener'а 
 §7Gardens at @§7в саду Cinfras'а на
 §7[-391,45,-4917]@ 
 §7Search the Gardener's cart for @§7Обыщи повозку Gardener'а 
 §7evidence of his lies at @§7и найди доказательства его лжи 
 §7[-376,50,-4937]@ 
+§7Talk to Sasha the Apothacary @§7Поговори с Sasha Аптекарем 
+§7and get the medicine at @§7и получи лекарства на
 §7Give the medicine to Damien @§7Отдай лекарства Damien'у 
 §7Tell Charlie his son Jack @§7Скажи Charlie, что его 
 §7is okay at [-444 47 @§7сын Jack впорядке [-444, 47, 
@@ -734,6 +741,7 @@ QUESTS/Finding_The_Light.txt
 §7[-430,47,-4854]@ 
 §7Return to the Guardian of @§7Вернись к Guardian of The Forest 
 §7Forest with the helmet at @§7в Light Forest'е вместе с шлемом 
+§7Head back to the Arch @§7Вернись к Арке
 §7Enter The Light Realm @§7Войди в Царство Света 
  
 QUESTS/Flight_in_Distress.txt 
@@ -765,11 +773,16 @@ QUESTS/Flight_in_Distress.txt
 §7the little ship at the @§7рядом с небольшим кораблем 
 §7Detlas docks @§7в доках Detlas'а
  
-QUESTS/Forbidden_Prison.txt 
+QUESTS/Forbidden_Prison.txt =====
 §7Something looks suspicious in the @§7Что-то подозрительное 
 §7prison at @§7происходит в тюрьме на 
 §7[-829,83,-5539]@ 
+§7Escape the prison @§7Сбеги из тюрьмы
+§7Find a disguise @§7Найди форму для маскировки
 §7Don't alert the dogs @§7Не потревожь собак 
+§7Run through the door in @§7Пройди через дверь 
+§7the center of the room @§7в центре комнаты
+§7Escape @§7Сбеги
  
 QUESTS/From_the_Bottom.txt ===== 
 §7Find someone in Thanos who @§7Найди кого-то в Thanos'е 
@@ -818,17 +831,17 @@ QUESTS/From_the_Mountains.txt =====
 §7Fleris Cream] to prove you @§7с [1 Fleris Кремом]для 
 §7solved the problem @§7доказательства решения проблемы 
  
-QUESTS/Frost_Bite.txt 
+QUESTS/Frost_Bite.txt =====
 §7Find Eppo at [-207, 37, @§7Найди Eppo на [-207, 37, 
 §7-531] @ 
 §7Go deeper into the cave @§7Иди глубже в пещеру 
 §7and speak to Rhudya. @§7и поговори с Rhudya 
+§7Return to Eppo with the @§7Вернись к Eppo вместе с
+§7tnt. @§7динамитом.
 §7Travel to the lava springs @§7Пройди к озерам лавы 
 §7through the mineshaft. @§7через шахту 
 §7Complete the puzzle and bring @§7Пройди пазл 
 §7the lava back to Eppo. @§7и принеси лаву к Eppo 
-§7Investigate the depths of the @§7Исследуй глубины 
-§7cave @§7пещеры 
 §7Melt the ice and find @§7Расплавь лед 
 §7the Servant's corpse. @§7и найди останки слуги 
 §7Enter Theorick's mansion. @§7Войди в поместье Theorick'а 
@@ -865,6 +878,9 @@ QUESTS/Grand_Youth.txt =====
 §7near the fountain @§7рядом с фонтаном 
 §7Talk to Isfurus in Dernel @§7Поговори с Isfurus'ом в Dernel
 §7[-803,33,-374]@ 
+§7Get the bottles filled by @§7Попроси Erisk'а наполнить бутылку 
+§7Erisk in the heart of @§7в сердце фонтана, 
+§7the fountain to give Isfurus @§7которую тебе дал Isfurus
 §7Talk to Isfurus for Erisk @§7Поговори с Isfurus'ом по просьбе Erisk'а
 §7Give the bottle of healing @§7Отдай бутылку с лечащей 
 §7water to Monte @§7водой Monte 
@@ -962,11 +978,16 @@ QUESTS/Heart_of_Llevigar.txt =====
 §7Engineer @§7Head Engineer'у 
 §7Ask Zenam for your reward @§7Спроси Zenam'а о награде 
  
-QUESTS/Hollow_Sirene.txt 
+QUESTS/Hollow_Sirene.txt =====
 §7Talk to Laloire at @§7Поговори с Laloire на 
 §7[-660,43,-5199]@ 
+§7Investigate the supernatural cave at @§7Посети сверхъестественную пещеру на
+§7[-739,43,-5271]@ 
 §7Return to Laloire and tell @§7Вернись к Laloire и расскажи
 §7him about the eerie howl. @§7ему о жутком вое.
+§7Talk to the Pastor Nitram @§7Поговори с Pastor Nitram'ом
+§7about the problem at @§7насчет проблемы на
+§7[-620,42,-5351]@ 
 §7Find a way to open @§7Найди способ открыть
 §7the secret door inside the @§7секретную дверь внутри
 §7cemetery. @§7кладбища
@@ -1700,9 +1721,12 @@ QUESTS/The_Envoy_Part_I.txt =====
 §7[-1882,40,-3146]@ 
 §7Tell the delegate what happened. @§7Расскажи делегату что произошло 
  
-QUESTS/The_Envoy_Part_II.txt 
+QUESTS/The_Envoy_Part_II.txt =====
 §7Enter Maxie's house at [-1571,68,-2876]. @§7Войди в дом Maxie на [-1571,68,-2876] 
+§7Talk to Maxie on the @§7Поговори с Maxie
 §7Find the catapult at [-1712,38,-3100]. @§7Найди катапульту на [-1712,38,-3100]. 
+§7Locate the Avos Chief by @§7Найди главаря Avos'ов,
+§7asking the Avos citizens. @§7 опрашивая жителей.
 §7Talk to the chief's friend @§7Поговори с другом главаря 
 §7at [-1587,147,-3321]. @§7на [-1587,147,-3321]. 
 §7Meet the grandmaster behind her @§7Встреться с магистром позади дома, 
@@ -2152,14 +2176,16 @@ QUESTS/WynnExcavation_Site_A.txt =====
 §7Return and talk to Excavator @§7Вернись и поговори 
 §7Vade @§7с Excavator Vade 
  
-QUESTS/WynnExcavation_Site_B.txt 
+QUESTS/WynnExcavation_Site_B.txt =====
 §7Bring the Yellow Crystal Shard @§7Принеси [Желтый Осколок Кристалла] 
 §7to Excavator Lykron at @§7к Excavator Lykron'у на 
 §7[39,62,-526]@ 
+§7Investigate the depths of the @§7Исследуй глубины 
+§7cave @§7пещеры 
 §7Find the crystal @§7Найди кристалл 
 §7Talk to Excavator Lykron @§7Поговори с Excavator Lykron
  
-QUESTS/WynnExcavation_Site_C.txt 
+QUESTS/WynnExcavation_Site_C.txt =====
 §7Talk to Excavator Placardus at @§7Поговори с Excavator Placardus'ом на 
 §7[-1061,42,-3742]@ 
 §7(Requires shard from Site B) @§7(Необходим осколок из Site B) 
@@ -2168,17 +2194,44 @@ QUESTS/WynnExcavation_Site_C.txt
 §7Escape the WynnExcavation guards @§7Сбеги от WynnExcavation охранников 
 §7Explore the area and search @§7Исследуй территорию 
 §7for the traitor @§7в поисках предателя 
+§7Explore the depths of the @§7Исследуй глубины 
+§7volcano @§7вулкана
+§7Report back to Excavator Placardus @§7Сообщи обо всем Excavator Placardus'у
+§7with a [Red Crystal Shard] @§7с [Красным Осколком Кристалла]
  
 QUESTS/WynnExcavation_Site_D.txt 
 §7Talk to Royal Advisor Carlos @§7Поговори с Royal Advisor Carlos'ом 
 §7in Troms Castle @§7в замке Troms'a 
 §7[-848,98,-789]@ 
 §7(Requires shard from Site C) @§7(Необходим осколок из Site C) 
+§7Find the secret passageway inside @§7Найди секретный проход внутри
+§7of the throne room @§7тронного зала
+§7Talk to the King @§7Поговори с Королем
+§7Exit the King's room @§7Покинь комнату Короля
+§7Escape Troms @§7Сбеги из Troms'а
 §7Head to the location on @§7Следуй по координатам 
 §7the note @§7на записке 
+§7Speak to Traitor Thomas @§7Поговори с Предателем Thomas'ом
+§7Find the three map fragments @§7Найди 3 фрагмента карты, 
+§7by following the eyes and @§7идя по следу глаз, 
+§7return to Thomas. @§7и вернись к Thomas'у
+§7Enter the traitor camp @§7Войди в лагерь предателей
+§7Speak to Rebel Leader Amadel @§7Поговори с их лидером Amadel'ем
+§7Go to Site D @§7Иди к Site D
+§7[-874,22,-349]@ 
 §7Search the excavation site @§7Продвигайся вдоль раскопок 
+§7Talk to Excavator Admin Uci @§7Поговори с Excavator Admin Uci
+§7Enter The Ancient Dungeon @§7Войди в Древний Данж
+§7Teleport to the Ancient City @§7Телепортируйся в Древний Город
+§7Explore The Ancient City @§7Исследуй Древний Город
+§7Speak to Amadels assistant @§7Поговори с Ассистентом Amadel'а
+§7Fight Corrupted Amadel @§7Сразись с Corrupted Amadel
+§7Kill Corruped Amadel @§7Убей Corruped Amadel
+§7Fight Shadow Amadel @§7Сразись с Shadow Amadel
 §7Kill Shadow Amadel @§7Убей Shadow Amadel'а 
- 
+§7Fight Amadel @§7Сразись с Amadel
+§7Kill Amadel @§7Убей Amadel
+
 QUESTS/Zhight_Island_(Quest).txt ===== 
 §7Talk to Zhight of Zhight @§7Поговори с Zhight'ом на Zhight 
 §7[-542,38,-2755]@ 
