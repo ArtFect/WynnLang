@@ -1764,6 +1764,11 @@ QUESTS/The_Envoy_Part_II.txt =====
 QUESTS/The_Fortuneteller.txt 
 §7Talk to Jill in Kandon-Beda @§7Поговори с Jill в Kandon-Beda на 
 §7[746,150,-4468]@ 
+§7Search the Castle near Kandon-Beda@§7Обыщи замок рядом с Kandon-Beda
+§7for a treasure map at@§7и найди карту сокровищ на
+§7[901,96,-4406]@ 
+§7Return to Jill in Kandon-Beda@Вернись к Jill в Kandon-Beda
+§7with the treasure@вместе с сокровищем
  
 QUESTS/The_Headless_Hunt.txt =====
 §7Talk to Referick in the @§7Поговори с Referick'ом 
