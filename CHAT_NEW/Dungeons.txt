@@ -225,7 +225,8 @@
 #######################Corrupted Sand-Swept Tomb#######################
 §7[1/1] §2???: §aY§4§ko§au opened my tomb... And a new §4force§a spread §4§kwithin§a.@§7[1/1] §2???: §aТ§4§kы §aоткрыл мою гробницу... И новая §4сила§a начала §4§kраспространяться§a.
 
-###################Legendary Island###########################
+#############################Legendary Island###########################
+
 §7[1/1] §2The Mummyboard: §aOS Version M-37 is now online. Systems estimate a 96.286573628% chance of success.@§7[1/1] §2The Mummyboard: §aОС Версия M-37 включена. Системы оценивают вероятность успеха в 96.286573628%.
 §7[1/5] §2Dr. Legendary: §aImpressive work against the Mummyboard, but that was only the first challenger! Things have only just begun!@§7[1/5] §2Dr. Legendary: §aВпечатляющая работа против Mummyboard'а, но это был только первый претендент! Все только начинается!
 §7[2/5] §2Dr. Legendary: §aDuring my expedition across the world, funded by the amazing future province of Corkus, I happened upon a story about a doctor in Olux.@§7[2/5] §2Dr. Legendary: §aВо время моей экспедиции по всем провинциям, финансируемой удивительной провинцией будущего Corkus'a, я случайно наткнулся на историю о докторе в Olux'е.
@@ -239,7 +240,11 @@
 §7[3/5] §2Dr. Legendary: §aThanks to funding from Corkus, I managed to find it, the Corpus Accipientis, and created a golem with similar abilities.@§7[3/5] §2Dr. Legendary: §aБлагодаря финансированию от Corkus'а, мне удалось найти его - Corpus Accipientis'а, и создать голема с аналогичными способностями.
 §7[4/5] §2Dr. Legendary: §aI call it the §6§lCorkus Accipientis§a! This will be the final battle of the Bronze tier!@§7[4/5] §2Dr. Legendary: §aЯ называю его §6§lCorkus Accipientis§a! Это будет последняя битва бронзового уровня!
 §7[5/5] §2Dr. Legendary: §aYou can continue and challenge it now, or you can forfeit to your right for a small reward. It's up to you!@§7[5/5] §2Dr. Legendary: §aТы можешь продолжить и сразиться с ним сейчас, или можешь уйти направо с небольшой наградой. Это зависит от тебя!
-
+§7[1/5] §2Dr. Legendary: §aCongratulations on defeating the Corkus Accipientis and completing the Bronze tier! If you win the next fight, you can start getting Silver tokens.@§7[1/5] §2Dr. Legendary: §aПоздравляю с победой над Corkus Accipientis и завершением бронзового уровня! Если ты выиграешь следующий бой, то можешь начать получать Серебряные жетоны.
+§7[2/5] §2Dr. Legendary: §aMy expedition, which was sponsored by Corkus, by the way, eventually lead me to the jungles of Wynn, where I heard rumors of an ancient idol.@§7[2/5] §2Dr. Legendary: §aМоя экспедиция, которую спонсировал Corkus, кстати, в итоге привела меня в джунгли Wynn, где до меня дошли слухи о древнем идоле.
+§7[3/5] §2Dr. Legendary: §aThough its name is rather hard to pronounce, I eventually managed to find and study the Matryoshka Idol.@§7[3/5] §2Dr. Legendary: §aХоть его имя и довольно трудно произнести, мне в конце концов удалось найти и изучить Matryoshka Idol.
+§7[4/5] §2Dr. Legendary: §aAnd now you can fight one of my most resilient creations, the §f§lMatrojan Idol§a!@§7[4/5] §2Dr. Legendary: §aИ теперь ты можешь сразиться с одним из моих самых стойких созданий - §6§lMatrojan Idol§a!
+§7[5/5] §2Dr. Legendary: §aYou can give it a shot now, or forfeit for a reward to your right, as usual.@§7[5/5] §2Dr. Legendary: §aТы можешь дать ему шанс сейчас, или справа отказаться от вознаграждения, как обычно.
 §7[1/3] §2Legendary Attendant: §aHello, are you here to forfeit? If you quit now you will receive...@§7[1/3] §2Legendary Attendant: §aЗдравствуй, ты здесь, чтобы расплатиться? Если ты уйдешь сейчас, ты получишь...
 =======================================================================================
 §7[2/3] §2Legendary Attendant: §61 Bronze Token§a.@§7[2/3] §2Legendary Attendant: §61 Бронзовый Жетон§a.
@@ -254,5 +259,5 @@
 §7[2/4] §2Legendary Attendant: §e5 Gold Tokens§a, §f12 Silver Tokens§a, and §621 Bronze Tokens§a.@§e5 Золотых Жетонов§a, §f12 Серебрянных Жетонов§a, и §621 Бронзовый Жетон§a.
 §7[3/4] §2Legendary Attendant: §aYou may either go through this door to claim your reward and turn back and continue the challenge.@§7[3/4] §2Legendary Attendant: §aТы можешь либо пройти через эту дверь, чтобы получить свою награду, либо повернуть назад и продолжить челлендж.
 §7[4/4] §2Legendary Attendant: §aDr. Legendary will inform you of your rewards for defeating him.@§7[4/4] §2Legendary Attendant: §aDr. Legendary сообщит тебе о награде за победу над ним.
-==============================================================================================
+========================================================================================
 §7[3/3] §2Legendary Attendant: §aYou may either go through this door to claim your reward and turn back and continue the challenge.@§7[3/3] §2Legendary Attendant: §aТы можешь либо пройти через эту дверь, чтобы получить свою награду, либо повернуть назад и продолжить челлендж.
