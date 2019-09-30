@@ -23,6 +23,17 @@
 §7[3/3] §2Hanged Man: §a§lArakadicus §ais.. is a coward... it traps you and c- corrupts...@§7[3/3] §2Hanged Man: §a§lArakadicus§a она..трусиха...она поймает тебя и ис-испорт...
 §7[1/1] §2Corrupted Arakadicus: §aAh, the main course has arrived. You look so good, I think I'll have a taste of you myself!@§7[1/1] §2Corrupted Arakadicus: §aАх, основное блюдо прибыло. Ты так хорошо выглядишь, думаю, я сама попробую тебя!
 
+#########################Lost Sanctuary###############################
+§7[1/1] §2???: §aAhhh.. Good timing. I needed someone to test my defenses.@§7[1/1] §2???: §aАхх...Как раз вовремя. Мне нужен был кто-то, чтобы проверить мою защиту.
+§7[1/1] §2Garoth:§a I think you know who I am. The second human ever to be liberated by the portal. I now seek to purify this world.@§7[1/1] §2Garoth:§a §aДумаю, ты знаешь, кто я такой. Второй человек, когда-либо освобожденный порталом. Теперь я стремлюсь очистить этот мир.
+§7[1/1] §2Garoth:§a There is still a lot to be done it seems.@§7[1/1] §2Garoth:§a §aКажется, еще многое предстоит сделать.
+§7[1/1] §2Garoth:§a I keep a lot of living creatures here to conduct my experiments on, to test their vulnerabilities. I can’t wait to find yours.@§7[1/1] §2Garoth:§aЯ держу здесь много существ, чтобы проводить свои эксперименты на них, и найти их уязвимости. Не могу дождаться, когда найду твою.
+§7[1/1] §2Garoth: §aSpecies are nothing to me. Thousands of creepers used to live here, I decimated them like it was nothing.@§7[1/1] §2Garoth: §aВиды - для меня они ничего не значат. Тысячи криперов жили здесь, я уничтожил весь вид, как будто ничего не было.
+§7[1/1] §2Garoth: §aWell, looks like I get to finally find out what humans are made of.@§7[1/1] §2Garoth: §aПохоже, я наконец-то выясню, из чего сделаны люди.
+============================================================================================================================
+§7§7[1/1] §2Garoth: §aThere is still a lot to be done it seems.@§7[1/1] §2Garoth:§a §aКажется, еще многое предстоит сделать.
+============================================================================================================================
+
 ########################Ice Barrows###########################
 §7[1/2] §2Ghostly Voice: §aSoldier! I'm not sure it is wise to be here... An icy death awaits you if you proceed. A death that I will cause..@§7[1/2] §2Ghostly Voice: §aСолдат! Я не уверен, что разумно быть здесь... Ледяная смерть ждет тебя, если ты продолжишь. Смерть, которую причиню я..
 §7[2/2] §2Ghostly Voice: §aI have many regrets of my time spent alive in Wynn. I do not wish for my lingering mistakes to harm anyone else. Turn back.@§7[2/2] §2Ghostly Voice: §aУ меня есть много сожалений о моем времени, проведенном при жизни в Wynn. Я не хочу, чтобы мои давние ошибки навредили кому-то еще. Поверни назад.
@@ -41,9 +52,6 @@
 §7[1/1]§2 ???: §aHow foolish. You might think you are strong, adventurer, but you have no idea what you are about to face...@§7[1/1]§2 ???: §aКак глупо. Ты можешь думать, что ты сильный, путешественник, но ты и понятия не имеешь, с чем тебе придется столкнуться...
 
 §7[1/1] §2Hashr: §aNow you have come to release me from my tomb so that I may rule once more!@§7[1/1] §2Hashr: §aТеперь ты пришел освободить меня из моей могилы, чтобы я мог править снова!
-§7[1/1] §2Garoth:§a I think you know who I am. The second human ever to be liberated by the portal. I now seek to purify this world.@§7[1/1] §2Garoth:§a §aДумаю, ты знаешь, кто я такой. Второй человек, когда-либо освобожденный порталом. Теперь я стремлюсь очистить этот мир.
-§7[1/1] §2Garoth:§a There is still a lot to be done it seems.@§7[1/1] §2Garoth:§a §aКажется, еще многое предстоит сделать.
-§7§7[1/1] §2Garoth: §aThere is still a lot to be done it seems.@§7[1/1] §2Garoth:§a §aКажется, еще многое предстоит сделать.
 
 #########################Galleon's Graveyard########################
 §7[1/1] §2???: §aWell, shiver me timbers! Some swashbuckler has come to plunder me treasure. But ye'll have to get through me crew and I if you want me booty!@§7[1/1] §2???: §aРазрази меня гром! Какой-то головорез пришел грабить мои богатства. Но сначала тебе придется пройти через меня и мою команду, если ты хочешь моих сокровищ!
@@ -89,7 +97,6 @@
 §7[4/4]§f §2???:§f §aYER'LL BE RESTING IN OL' DAVEY'S LOCKER BEFORE LONG! ARR-HA!@§7[4/4]§f §2???:§f §aСКОРО ТЫ СОСТАВИШЬ КОМПАНИЮ ДЕЙВИ ДЖОНСУ! АРР-ХА!
 ===================================================================================
 
-§7[1/1] §2Garoth: §aWell, looks like I get to finally find out what humans are made of.@§7[1/1] §2Garoth: §aПохоже, я наконец-то выясню, из чего сделаны люди.
 §7[1/1] §2???: §aWho dares enter the resting place of the once great ruler of the sands?@§7[1/1] §2???: §aКто осмелился войти в место упокоения некогда великого правителя песков?
 §7[1/1] §2???: §aIntruder detected. All drones reactivated. Directive: Kill on sight.@§7[1/1] §2???: §aОбнаружен нарушитель. Все дроны реактивированы. Директива: Убить при первой возможности.
 §7[1/2] §2????: §aFINE. I’M OPENING THE DOOR FOR YOU. TAKE A SHORT LOOK AROUND AND THEN LEAVE. THERE IS DANGEROUS EQUIPMENT HERE THAT ONLY OFFICIAL FACTORY ASSOCIATES SHOULD HANDLE.@§7[1/2] §2????: §aХОРОШО, Я ОТКРОЮ ДЛЯ ТЕБЯ ДВЕРЬ. ОСМОТРИСЬ, А ПОТОМ УХОДИ. ЗДЕСЬ ЕСТЬ ОПАСНОЕ ОБОРУДОВАНИЕ, С КОТОРЫМ МОГУТ СПРАВИТЬСЯ ТОЛЬКО ОФИЦИАЛЬНЫЕ СОТРУДНИКИ ФАБРИКИ.
@@ -182,10 +189,7 @@
 §7[1/1] §2Corrupted Garoth:§a §aEven §4now§a, you §4continue§a to §4terrorise§a §amy den. I truly ca§4§kn§an§4§kf§at wait to meet with you face to §4§kdhry§a again.@§7[1/1] §2Corrupted Garoth:§a Даже §4сейчас§a, ты §4продолжаешь§a §4терроризировать§a мое логово. Я действительно не §4§kм§aо§4§kг§aу снова дождаться нашей встречи лицом к §4§kлицу§a.
 §7[1/1] §2Corrupted Garoth: §aNo matter what you try, the §4§kfhwisbk4§a §astand no §4chance§a of surviving. I willl track down every last one §aof §4§kfue: §aif it’s the last thing I do. §4Admit it,§a you’ve §4lost.@§7[1/1] §2Corrupted Garoth: §aНе важно что ты пытаешься, у §4§kтебя§a нет §4шанса§a выжить. Я выслежу каждого §4§kиз вас: §a даже если это будет последнее, что я сделаю. §4Признайся, §aты §4проиграл.
 §7[1/1] §2Garoth: §aDid you not learn to not put your hand in a §4fire §afor the se§4§kc§ao§4§kn§ad t§4§ki§am§4§ke§a? §4Fool§a, prepare yourself for §4§kGaia§4's §4most §4powerful §4force §a- §4§lfire§4!@§7[1/1] §2Garoth: §aРазве ты не научился не класть руку в §4огонь§af со вт§4§kо§aро§4§kго§a раза? §4Глупец§a, готовься узнать §4§kсамую§4 мощную силу §a- §4§lогонь§4!
-§7[1/1] §2???: §aAhhh.. Good timing. I needed someone to test my defenses.@§7[1/1] §2???: §aАхх...Как раз вовремя. Мне нужен был кто-то, чтобы проверить мою защиту.
 §7[1/4] §2General Graken: §aSimply marvellous work, chap! You've made it this far, so no time to fill your boots. Be prepared, we are about to fight Charon's undead army.@§7[1/4] §2General Graken: §aПросто чудесная работа, парнишка! Ты дошел так далеко, так что не время чистить свои ботинки. Будь готов, мы собираемся бороться с армией нежити Charon'a.
-§7[1/1] §2Garoth:§a I keep a lot of living creatures here to conduct my experiments on, to test their vulnerabilities. I can’t wait to find yours.@§7[1/1] §2Garoth:§aЯ держу здесь много существ, чтобы проводить свои эксперименты на них, и найти их уязвимости. Не могу дождаться, когда найду твою.
-§7[1/1] §2Garoth: §aSpecies are nothing to me. Thousands of creepers used to live here, I decimated them like it was nothing.@§7[1/1] §2Garoth: §aВиды - для меня они ничего не значат. Тысячи криперов жили здесь, я уничтожил весь вид, как будто ничего не было.
 §7[1/2]§2 Ghostly Voice:§a I froze this land to allow it to heal.. People did not understand.. They came for me here, seeking revenge.@§7[1/2]§2 Ghostly Voice:§aЯ заморозил эту землю, чтобы позволить ей исцелиться... Люди не понимали... Они пришли за мной сюда, чтобы отомстить.
 §7[1/2] §2Ghostly Voice: §aI told you it would fail.@§7[1/2] §2Ghostly Voice: §aЯ говорил тебе, что это не сработает.
 §7[2/2] §2Ghostly Voice: §aYour noble deeds have allowed the darkness to take over my mind.@§7[2/2] §2Ghostly Voice: §aТвои благородные поступки позволили тьме завладеть моим разумом.
