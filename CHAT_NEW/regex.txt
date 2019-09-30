@@ -204,6 +204,7 @@
 §5Guild Master: §dExcellent. You have named your guild "§b(.*)§d".@§5Guild Master: §dОтлично. Ты назвал свою гильдию "§b(r1)§d".
 §7You have thanked (.*)@§7Ты поблагодарил (r1)
 §4Oof! This territory was just in a war! Please wait another (.*) seconds before attacking.@§4Упс! За эту территорию только что была битва! Подожди еще (r1) секунд перед атакой.
+§7Want to thank §f(.*)§7? §b§nClick here to thank them!@§7хочешь поблагодарить §f(r1)§7? §b§nНажми сюда, чтобы поблагодарить!
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
