@@ -3,6 +3,11 @@
 §7[1/1] §2???: §aThe forces of the Humans could not save me when I hid here, and they can’t save you either.@§7[1/1] §2???: §aСилы людей не смогли спасти меня, когда я спрятался здесь, они тем более не помогут спасти тебя...
 §7[1/1] §2Witherhead: §aYou persist through the sludge, now you will join me like the rest!@§7[1/1] §2Witherhead: §aТы упорно прошел через сточные воды, теперь ты присоединишься ко мне, как и остальные!
 
+###################Corrupted Decrepit Sewers##########################
+§7[1/1] §2???: §aY§a§kk§ao dare §a§kkk§aer these s§a§kk:;DJkkkAJEkkkk§aTh§4§kkksad:ek§a§kghakk§4§kkkkreid:@§7[1/1] §2???: §aТ§a§kk§aы посмелился §a§kвой§aти в это п§a§kk:;DJkkkAJEkkkk§aме§4§kkksad:ek§a§kghakk§4§kkkkreid:
+§7[1/1] §2???: §4... How fool§4§kk§ah of you... to come back he§4re.§4§k:5tykkk§after what §4happene§4§ki:@§7[1/1] §2???: §4Как глупо§4§kk§aс твоей стороны... возвращаться сю§4да.§4§k:5tykkk§после того что §4случи§4§ki:
+§7[1/1] §2Corrupted Witherhead: §4You... y§co§4u'v§ce §4come §chere§4 befor§ce. §4You shou§4§kl§4dn't be aliv§4§ke....@§7[1/1] §2Corrupted Witherhead: §4Ты... ты у§cж§4е §cприходил §4сюда рань§cше. Ты не до§4§kлже§4н был выжи§4§kть....
+
 ########################Infested Pit#########################
 §7[1/2] §2???: §aOh, it seems I have a guest. You're just in time for dinner... hehe..@§7[1/2] §2???: §aОх, похоже у меня гость. Ты как раз вовремя, к ужину... хехе...
 §7[2/2] §2???: §aMy poor babies are starving. But what shall they feast on? How about... you?@§7[2/2] §2???: §aМои бедные дети голодают. Но чем же они будут питаться? Как насчет... тебя?
@@ -81,7 +86,6 @@
 
 §7[1/1] §2Garoth: §aWell, looks like I get to finally find out what humans are made of.@§7[1/1] §2Garoth: §aПохоже, я наконец-то выясню, из чего сделаны люди.
 §7[1/1] §2???: §aWho dares enter the resting place of the once great ruler of the sands?@§7[1/1] §2???: §aКто осмелился войти в место упокоения некогда великого правителя песков?
-§7[1/1] §2Corrupted Witherhead: §4You... y§co§4u'v§ce §4come §chere§4 befor§ce. §4You shou§4§kl§4dn't be aliv§4§ke....@§7[1/1] §2Corrupted Witherhead: §4Ты... ты у§cж§4е §cприходил §4сюда рань§cше. Ты не до§4§kлже§4н был выжи§4§kть....
 §7[1/1] §2???: §aIntruder detected. All drones reactivated. Directive: Kill on sight.@§7[1/1] §2???: §aОбнаружен нарушитель. Все дроны реактивированы. Директива: Убить при первой возможности.
 §7[1/2] §2????: §aFINE. I’M OPENING THE DOOR FOR YOU. TAKE A SHORT LOOK AROUND AND THEN LEAVE. THERE IS DANGEROUS EQUIPMENT HERE THAT ONLY OFFICIAL FACTORY ASSOCIATES SHOULD HANDLE.@§7[1/2] §2????: §aХОРОШО, Я ОТКРОЮ ДЛЯ ТЕБЯ ДВЕРЬ. ОСМОТРИСЬ, А ПОТОМ УХОДИ. ЗДЕСЬ ЕСТЬ ОПАСНОЕ ОБОРУДОВАНИЕ, С КОТОРЫМ МОГУТ СПРАВИТЬСЯ ТОЛЬКО ОФИЦИАЛЬНЫЕ СОТРУДНИКИ ФАБРИКИ.
 §7[2/2] §2????: §aAND YOU LOOK LIKE ANYTHING BUT A FULL-TIME EMPLOYEE. DO NOT TOUCH ANYTHING IN THIS ROOM. AM I UNDERSTOOD?@§7[2/2] §2????: §aА ТЫ ВЫГЛЯДИШЬ СОВСЕМ НЕ КАК ШТАТНЫЙ СОТРУДНИК. НЕ ТРОГАЙ НИЧЕГО В ЭТОЙ КОМНАТЕ. ПОНЯЛ МЕНЯ?
@@ -178,8 +182,6 @@
 §7[1/1] §2Garoth:§a I keep a lot of living creatures here to conduct my experiments on, to test their vulnerabilities. I can’t wait to find yours.@§7[1/1] §2Garoth:§aЯ держу здесь много существ, чтобы проводить свои эксперименты на них, и найти их уязвимости. Не могу дождаться, когда найду твою.
 §7[1/1] §2Garoth: §aSpecies are nothing to me. Thousands of creepers used to live here, I decimated them like it was nothing.@§7[1/1] §2Garoth: §aВиды - для меня они ничего не значат. Тысячи криперов жили здесь, я уничтожил весь вид, как будто ничего не было.
 §7[1/2]§2 Ghostly Voice:§a I froze this land to allow it to heal.. People did not understand.. They came for me here, seeking revenge.@§7[1/2]§2 Ghostly Voice:§aЯ заморозил эту землю, чтобы позволить ей исцелиться... Люди не понимали... Они пришли за мной сюда, чтобы отомстить.
-§7[1/1] §2???: §aY§a§kk§ao dare §a§kkk§aer these s§a§kk:;DJkkkAJEkkkk§aTh§4§kkksad:ek§a§kghakk§4§kkkkreid:@§7[1/1] §2???: §aТ§a§kk§aы посмелился §a§kвой§aти в это п§a§kk:;DJkkkAJEkkkk§aме§4§kkksad:ek§a§kghakk§4§kkkkreid:
-§7[1/1] §2???: §4... How fool§4§kk§ah of you... to come back he§4re.§4§k:5tykkk§after what §4happene§4§ki:@§7[1/1] §2???: §4Как глупо§4§kk§aс твоей стороны... возвращаться сю§4да.§4§k:5tykkk§после того что §4случи§4§ki:
 §7[1/2] §2Ghostly Voice: §aI told you it would fail.@§7[1/2] §2Ghostly Voice: §aЯ говорил тебе, что это не сработает.
 §7[2/2] §2Ghostly Voice: §aYour noble deeds have allowed the darkness to take over my mind.@§7[2/2] §2Ghostly Voice: §aТвои благородные поступки позволили тьме завладеть моим разумом.
 §7[1/2] §2Ghostly Voice: §aIt all seems clear to me now.. The struggle for life... It’s futile. There need only be peaceful darkness.@§7[1/2] §2Ghostly Voice: §aТеперь мне все кажется ясным.. Борьба за жизнь... это бесполезно. Здесь должна быть только мирная тьма.
