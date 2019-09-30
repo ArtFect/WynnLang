@@ -17,6 +17,12 @@
 §7[1/1] §2Arakadicus: §aDon't mind our other guest back there. He had such a bitter taste. However, my babies think you look delicious... hehehe...@§7[1/1] §2Arakadicus: §aНе обращай внимания на того другого гостя. Он был такой горький на вкус. Тем не менее, мои дети думают, что ты выглядишь аппетитно...хехехе...
 §7[1/1] §2Arakadicus: §aAh, the main course has arrived. You look so good, I think I'll have a taste of you myself!@§7[1/1] §2Arakadicus: §aАх, основное блюдо прибыло. Ты так хорошо выглядишь, думаю, я сама попробую тебя!
 
+#########################Corrupted Infested Pit#######################
+§7[1/2] §2???: §aThis §4is a fam§4§kil§4iar face... hehe... @§7[1/2] §2???: §aЗна§4ком§kо§4е лицо...хехе...
+§7[2/2] §2???: §aWe've ha§4ve§4§kn'§at had a warm meal in §cmany years§4..§4§kl.. §4you've come at the right §ctime.§4.. hehe.§4§k..@§7[2/2] §2???: §aУ нас уже §4мно§4§kг§aо лет не было §cтеплой еды§4..§4§kИ.. §4ты пришел в нужное §cвремя.§4.. хехе.§4§k..
+§7[3/3] §2Hanged Man: §a§lArakadicus §ais.. is a coward... it traps you and c- corrupts...@§7[3/3] §2Hanged Man: §a§lArakadicus§a она..трусиха...она поймает тебя и ис-испорт...
+§7[1/1] §2Corrupted Arakadicus: §aAh, the main course has arrived. You look so good, I think I'll have a taste of you myself!@§7[1/1] §2Corrupted Arakadicus: §aАх, основное блюдо прибыло. Ты так хорошо выглядишь, думаю, я сама попробую тебя!
+
 ########################Ice Barrows###########################
 §7[1/2] §2Ghostly Voice: §aSoldier! I'm not sure it is wise to be here... An icy death awaits you if you proceed. A death that I will cause..@§7[1/2] §2Ghostly Voice: §aСолдат! Я не уверен, что разумно быть здесь... Ледяная смерть ждет тебя, если ты продолжишь. Смерть, которую причиню я..
 §7[2/2] §2Ghostly Voice: §aI have many regrets of my time spent alive in Wynn. I do not wish for my lingering mistakes to harm anyone else. Turn back.@§7[2/2] §2Ghostly Voice: §aУ меня есть много сожалений о моем времени, проведенном при жизни в Wynn. Я не хочу, чтобы мои давние ошибки навредили кому-то еще. Поверни назад.
@@ -34,7 +40,6 @@
 §7[1/1] §2Slykaar: §aNothing and no one will stop me from sieging the city. Not even you!@§7[1/1] §2Slykaar: §aНикто и ничто не остановит меня от осады города. Даже ты!
 §7[1/1]§2 ???: §aHow foolish. You might think you are strong, adventurer, but you have no idea what you are about to face...@§7[1/1]§2 ???: §aКак глупо. Ты можешь думать, что ты сильный, путешественник, но ты и понятия не имеешь, с чем тебе придется столкнуться...
 
-§7[1/1] §2Corrupted Arakadicus: §aAh, the main course has arrived. You look so good, I think I'll have a taste of you myself!@§7[1/1] §2Corrupted Arakadicus: §aАх, основное блюдо прибыло. Ты так хорошо выглядишь, думаю, я сама попробую тебя!
 §7[1/1] §2Hashr: §aNow you have come to release me from my tomb so that I may rule once more!@§7[1/1] §2Hashr: §aТеперь ты пришел освободить меня из моей могилы, чтобы я мог править снова!
 §7[1/1] §2Garoth:§a I think you know who I am. The second human ever to be liberated by the portal. I now seek to purify this world.@§7[1/1] §2Garoth:§a §aДумаю, ты знаешь, кто я такой. Второй человек, когда-либо освобожденный порталом. Теперь я стремлюсь очистить этот мир.
 §7[1/1] §2Garoth:§a There is still a lot to be done it seems.@§7[1/1] §2Garoth:§a §aКажется, еще многое предстоит сделать.
@@ -217,11 +222,6 @@
 §7[1/3] §2Old Man: §aI appreciate your help here. The pirates attempt something like this all the time, but you surely have scared them off for good.@§7[1/3] §2Old Man: §aЯ ценю твою помощь здесь. Пираты пытаются что-то подобное все время, но ты наверняка отпугнул их навсегда.
 §7[2/3] §2Old Man: §aIt is understandable that you'd expect payment, but unfortunately I am not a man of many fortunes.@§7[2/3] §2Old Man: §aПонятно, что ты ожидаешь оплаты, но, к сожалению, я не человек с большим состоянием.
 §7[3/3] §2Old Man: §aAll that I can offer is my humble farm. You may use it as you please. Once you're done, you may come back any time.@§7[3/3] §2Old Man: §aВсе, что я могу предложить - это моя скромная ферма. Ты можешь использовать ее по своему усмотрению. Как только закончишь, ты можешь вернуться в любое время.
-
-#########################Corrupted Infested Pit#######################
-§7[1/2] §2???: §aThis §4is a fam§4§kil§4iar face... hehe... @§7[1/2] §2???: §aЗна§4ком§kо§4е лицо...хехе...
-§7[2/2] §2???: §aWe've ha§4ve§4§kn'§at had a warm meal in §cmany years§4..§4§kl.. §4you've come at the right §ctime.§4.. hehe.§4§k..@§7[2/2] §2???: §aУ нас уже §4мно§4§kг§aо лет не было §cтеплой еды§4..§4§kИ.. §4ты пришел в нужное §cвремя.§4.. хехе.§4§k..
-§7[3/3] §2Hanged Man: §a§lArakadicus §ais.. is a coward... it traps you and c- corrupts...@§7[3/3] §2Hanged Man: §a§lArakadicus§a она..трусиха...она поймает тебя и ис-испорт...
 
 ##########################Corrupted Underworld Crypt###########################
 §7[1/1]§2 ???: §aHow §4§lfoolish. §aJust because you have overcome §4§ksomething §a§aonce does not mean it will happen §4again.@§7[1/1]§2 ???: §aКак §4§lглупо. §aПросто потому, что ты преодолел §4§kчто-то §aодин раз, не означает, что это произойдет §4снова.
