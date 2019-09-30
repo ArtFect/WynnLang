@@ -80,9 +80,22 @@
 §7[2/2] §2Ghostly Voice: §aI have many regrets of my time spent alive in Wynn. I do not wish for my lingering mistakes to harm anyone else. Turn back.@§7[2/2] §2Ghostly Voice: §aУ меня есть много сожалений о моем времени, проведенном при жизни в Wynn. Я не хочу, чтобы мои давние ошибки навредили кому-то еще. Поверни назад.
 §7[1/2]§2 Ghostly Voice:§a You must think you can save me? There is no cure for what I have. @§7[1/2]§2 Ghostly Voice:§a §aТы должно быть думаешь, что можешь спасти меня? Нет лекарства от того, чем я заражен.
 §7[2/2]§2 Ghostly Voice:§a Unless.. You want to set me free?@§7[2/2]§2 Ghostly Voice:§a §aРазве что... Ты хочешь освободить меня?
+§7[1/2]§2 Ghostly Voice:§a I froze this land to allow it to heal.. People did not understand.. They came for me here, seeking revenge.@§7[1/2]§2 Ghostly Voice:§aЯ заморозил эту землю, чтобы позволить ей исцелиться... Люди не понимали... Они пришли за мной сюда, чтобы отомстить.
 §7[2/2]§2 Ghostly Voice:§a Of course, just like you.. They can not leave. Their souls are stuck here. For the spell must not be broken.@§7[2/2]§2 Ghostly Voice:§a §aКонечно, как и ты... Они не могут уйти. Их души застряли здесь. Ибо заклинание не должно быть нарушено.
 §7[1/1] §2Ghostly Voice: §aEven if you think you can cure me.. I can not allow you to try for if it were to fail my corrupted body would wreak havoc on the world!@§7[1/1] §2Ghostly Voice: §aДаже если ты думаешь, что можешь меня вылечить... Я не могу позволить тебе попытаться. Если все провалится, мое испорченное тело посеет хаос в этом мире!
 
+########################Corrupted Ice Barrows###########################
+§7[1/2] §2Ghostly Voice: §aI told you it would fail.@§7[1/2] §2Ghostly Voice: §aЯ говорил тебе, что это не сработает.
+§7[2/2] §2Ghostly Voice: §aYour noble deeds have allowed the darkness to take over my mind.@§7[2/2] §2Ghostly Voice: §aТвои благородные поступки позволили тьме завладеть моим разумом.
+§7[1/2] §2Ghostly Voice: §aIt all seems clear to me now.. The struggle for life... It’s futile. There need only be peaceful darkness.@§7[1/2] §2Ghostly Voice: §aТеперь мне все кажется ясным.. Борьба за жизнь... это бесполезно. Здесь должна быть только мирная тьма.
+§7[2/2] §2Ghostly Voice: §aOnce my transformation is complete I shall begin to cleanse the world of vile mortality.@§7[2/2] §2Ghostly Voice: §aКак только моя трансформация завершится, я начну очищать мир от мерзкой смертности.
+§7[1/1] §2Ghostly Voice: §aI will not let you stop me!@§7[1/1] §2Ghostly Voice: §aЯ не позволю тебе остановить меня!
+=====================================================================================
+§7[1/2]§2 Ghostly Voice:§a It all seems clear to me now.. The struggle for life… It’s futile. There need only be peaceful darkness.@§7[1/2] §2Ghostly Voice: §aТеперь мне все кажется ясным.. Борьба за жизнь... это бесполезно. Здесь должна быть только мирная тьма.
+§7[2/2]§2 Ghostly Voice:§a Once my transformation is complete I shall begin to cleanse the world of vile mortality.@§7[2/2] §2Ghostly Voice: §aКак только моя трансформация завершится, я начну очищать мир от мерзкой смертности.
+=======================================================================================
+
+##############################Undergrowth Ruins#########################################
 §7[1/1] §2???: §aI can sense your life force... it is very powerful. I shall take pleasure in draining it from your body!@§7[1/1] §2???: §aЯ чувствую твою жизненную силу... она очень мощная. С удовольствием вытяну ее его из твоего тела!
 §7[1/2] §2Slykaar: §aTroms used to beckon to my every need and desire... Even sacrifice it’s own children for my magical defense!@§7[1/2] §2Slykaar: §aTroms привык потакать мне в каждой моей потребности и желаниях... Даже если нужно пожертвовать своими детьми ради моей магической защиты!
 §7[2/2] §2Slykaar: §aBut as soon as that hero of heroes turned up... I was cast away.@§7[2/2] §2Slykaar: §aНо как только этот герой из героев появился... Я был изгнан.
@@ -134,6 +147,7 @@
 §7[4/4]§f §2???:§f §aYER'LL BE RESTING IN OL' DAVEY'S LOCKER BEFORE LONG! ARR-HA!@§7[4/4]§f §2???:§f §aСКОРО ТЫ СОСТАВИШЬ КОМПАНИЮ ДЕЙВИ ДЖОНСУ! АРР-ХА!
 ===================================================================================
 
+####################################Fallen Factory##################################
 §7[1/1] §2???: §aIntruder detected. All drones reactivated. Directive: Kill on sight.@§7[1/1] §2???: §aОбнаружен нарушитель. Все дроны реактивированы. Директива: Убить при первой возможности.
 §7[1/2] §2????: §aFINE. I’M OPENING THE DOOR FOR YOU. TAKE A SHORT LOOK AROUND AND THEN LEAVE. THERE IS DANGEROUS EQUIPMENT HERE THAT ONLY OFFICIAL FACTORY ASSOCIATES SHOULD HANDLE.@§7[1/2] §2????: §aХОРОШО, Я ОТКРОЮ ДЛЯ ТЕБЯ ДВЕРЬ. ОСМОТРИСЬ, А ПОТОМ УХОДИ. ЗДЕСЬ ЕСТЬ ОПАСНОЕ ОБОРУДОВАНИЕ, С КОТОРЫМ МОГУТ СПРАВИТЬСЯ ТОЛЬКО ОФИЦИАЛЬНЫЕ СОТРУДНИКИ ФАБРИКИ.
 §7[2/2] §2????: §aAND YOU LOOK LIKE ANYTHING BUT A FULL-TIME EMPLOYEE. DO NOT TOUCH ANYTHING IN THIS ROOM. AM I UNDERSTOOD?@§7[2/2] §2????: §aА ТЫ ВЫГЛЯДИШЬ СОВСЕМ НЕ КАК ШТАТНЫЙ СОТРУДНИК. НЕ ТРОГАЙ НИЧЕГО В ЭТОЙ КОМНАТЕ. ПОНЯЛ МЕНЯ?
@@ -190,18 +204,6 @@
 §7[2/3]§2 Antikythera Supercomputer: §aTHAT IS TO SAY, UNRELENTING AND EXCESSIVE FORCE. WITH RAILGUNS. AND A SIEGE ENGINE.@§7[2/3]§2 Antikythera Supercomputer: §aТО ЕСТЬ ЧЕРЕЗ ЖЕСТОКУЮ И ЧРЕЗМЕРНУЮ СИЛУ. С РЕЙЛГАНАМИ. НУ И ОСАДНЫМ ОРУДИЕМ.
 §7[3/3]§2 Antikythera Supercomputer: §aIF THAT STILL ISN'T ENOUGH TO GET THE MESSAGE OF “I AM GOING TO KILL YOU” THROUGH YOUR SKULL, I'LL HAVE TO DEVOTE SERIOUS TIME TO LEARNING HOW TO COMMUNICATE WITH YOU.@§7[3/3]§2 Antikythera Supercomputer: §aЕСЛИ ЭТОГО ВСЕ ЕЩЕ НЕДОСТАТОЧНО, ЧТОБЫ ДО ТВОЕЙ ГОЛОВЫ ДОШЛО СООБЩЕНИЕ" Я СОБИРАЮСЬ УБИТЬ ТЕБЯ ", МНЕ ПРИДЕТСЯ ПОСВЯТИТЬ СЕРЬЕЗНОЕ ВРЕМЯ ОБУЧЕНИЮ ТОМУ, КАК ОБЩАТЬСЯ С ТОБОЙ.
 §7[3/4] §2????: §aPERSONALLY, I FIND THE BEST VIEW IS FROM WITHIN THE WORKING PARTS.@§7[3/4] §2????: §aЛИЧНО Я СЧИТАЮ, ЧТО ЛУЧШИЙ ВИД - ИЗНУТРИ РАБОЧИХ ЧАСТЕЙ.
-========================================================================================
-§7[1/4]§f §2????:§f §a§oActivating Main Production Line.@§7[1/4]§f §2????:§f §a§oАктивация Основной Производственной Линии.
-§7[2/4]§f §2????:§f §aSINCE YOU SEEM TO BE INSISTENT ON STAYING, PERHAPS YOU WOULD BE INTERESTED IN TAKING A LOOK AT SOME OF THE MACHINERY CLOSE UP.@§7[2/4]§f §2????:§f §aПОСКОЛЬКУ ТЫ, КАЖЕТСЯ, НАСТАИВАЕШЬ НА ТОМ, ЧТОБЫ ОСТАТЬСЯ, ВОЗМОЖНО, ТЕБЕ БУДЕТ ИНТЕРЕСНО ВЗГЛЯНУТЬ НА НЕКОТОРЫЕ ИЗ МАШИН ВБЛИЗИ.
-§7[4/4]§f §2????:§f §aSO GO AHEAD - DON'T WORRY ABOUT MAKING A MESS, THE FACTORY'S CLEANING BOTS HAVE HAD PLENTY OF EXPERIENCE WASHING OUT RED STAINS.@§7[4/4]§f §2????:§f §aТАК ЧТО ВПЕРЕД - И НЕ БЕСПОКОЙСЯ О ТОМ, ЧТОБЫ НАВЕСТИ БЕСПОРЯДОК, У ОЧИСТИТЕЛЬНЫХ РОБОТОВ ФАБРИКИ ИМЕЕТСЯ БОЛЬШОЙ ОПЫТ ПО ОТМЫВАНИЮ КРАСНЫХ ПЯТЕН.
-§7[1/1]§f §2E-403 Sentry Bot:§f §aDANGER! THREAT HAS BEEN DETECTED ON MAIN PRODUCTION LINE. EXECUTING SUBROUTINE 66; LOCATE AND ELIMINATE THREAT.@§7[1/1]§f §2E-403 Sentry Bot:§f §aОПАСНОСТЬ! УГРОЗА БЫЛА ОБНАРУЖЕНА НА ГЛАВНОЙ ПРОИЗВОДСТВЕННОЙ ЛИНИИ. ВЫПОЛНЕНИЕ ПОДПРОГРАММЫ 66; ОБНАРУЖЕНИЕ И УСТРАНЕНИЕ УГРОЗЫ.
-§7[1/1]§f §2????:§f §aIF I WERE YOU, NOW WOULD BE A GOOD TIME TO RUN.@§7[1/1]§f §2????:§f §aЕСЛИ БЫ Я БЫЛ НА ТВОЕМ МЕСТЕ, СЕЙЧАС САМОЕ ВРЕМЯ БЕЖАТЬ.
-§7[1/1]§f §2????:§f §aI'VE HAD ENOUGH OF YOU.@§7[1/1]§f §2????:§f §aТЫ МЕНЯ ДОСТАЛ.
-§7[1/4]§f §2????:§f §aTHAT WAS A LIE. I'M ACTUALLY STARTING TO ENJOY THIS.@§7[1/4]§f §2????:§f §aЭТО БЫЛА ЛОЖЬ. Я ДЕЙСТВИТЕЛЬНО НАЧИНАЮ НАСЛАЖДАТЬСЯ ЭТИМ.
-§7[2/4]§f §2????:§f §aTHERE'S SOMETHING VERY AMUSING ABOUT WATCHING YOU SCURRY AROUND IN HOPES OF ACHIEVING SOMETHING.@§7[2/4]§f §2????:§f §aЕСТЬ ЧТО-ТО ОЧЕНЬ ЗАБАВНОЕ В ТОМ, ЧТОБЫ НАБЛЮДАТЬ, КАК ТЫ СУЕТИШЬСЯ В НАДЕЖДЕ ЧЕГО-ТО ДОСТИЧЬ.
-§7[1/2]§f §2????:§f §aYOU KNOW, THERE ISN'T A WAY FOR YOU TO GO FORWARD HERE. I COULD JUST KEEP THE DOOR LOCKED UNTIL YOU DROP FROM HUNGER.@§7[1/2]§f §2????:§f §aЗНАЕШЬ, У ТЕБЯ ЗДЕСЬ НЕТ ВОЗМОЖНОСТИ ДВИГАТЬСЯ ДАЛЬШЕ. Я МОГУ ПРОСТО ДЕРЖАТЬ ДВЕРЬ ЗАКРЫТОЙ, ПОКА ТЫ НЕ УМРЕШЬ ОТ ГОЛОДА.
-§7[1/2]§f §2????:§f §aWHOOPSIE-DOODLES. MY METAPHORICAL FINGER SLIPPED. AND BY THAT I MEAN I CLOSED THE DOOR MANUALLY.@§7[1/2]§f §2????:§f §aУПС-ОШИБОЧКА. МОЙ МЕТАФОРИЧЕСКИЙ ПАЛЕЦ СОСКОЛЬЗНУЛ. В СМЫСЛЕ, ЧТО Я ЗАКРЫЛ ЭТУ ДВЕРЬ ВРУЧНУЮ.
-====================================================================================
 §7[1/3] §2????: §a§oUnauthorized blockage in Factory Sector E1. Emergency maintenance will be performed in approximately 75 seconds. All regularly scheduled workers, please leave your posts until the blockage is cleared.@§7[1/3] §2????: §a§oНесанкционированная блокировка в секторе фабрики E1. Аварийный ремонт будет выполняться примерно 75 секунд. Все работники, пожалуйста, оставьте свои рабочие места до тех пор, пока блокировка не будет устранена.
 §7[2/3] §2Antikythera Supercomputer: §aTOO BAD FOR YOU. I ACCOUNTED FOR YOU TRYING THAT AGAIN. THE GRATE IN THE VENT IS IMPENETRABLE TO EVEN YOUR BEST WEAPONS.@§7[2/3] §2Antikythera Supercomputer: §aНЕ ПОВЕЗЛО ТЕБЕ. Я УЧЕЛ, ЧТО ТЫ ПОПЫТАЕШЬСЯ ЭТО ПОВТОРИТЬ. РЕШЕТКА В ВЕНТИЛЯЦИИ НЕПРОНИЦАЕМА ДАЖЕ ДЛЯ ТВОЕГО ЛУЧШЕГО ОРУЖИЯ.
 §7[3/3] §2Antikythera Supercomputer: §aIT REALLY WOULDN'T BE BEST TO GO INTO CERID'S OFFICE ANYWAY. THERE'S PROBABLY A DEATH RAY IN THERE SOMEWHERE YOU MIGHT ACCIDENTALLY POINT AT YOUR HEAD.@§7[3/3] §2Antikythera Supercomputer: §aНЕ БУДЕТ ЛИ ТЕБЕ ЛУЧШЕ ПОЙТИ В ОФИС CERID'A. ТАМ ГДЕ-ТО ЕСТЬ СМЕРТЕЛЬНЫЙ ЛУЧ, НА КОТОРЫЙ ТЫ МОЖЕШЬ СЛУЧАЙНО НАТКНУТЬСЯ СВОЕЙ ГОЛОВОЙ. 
@@ -220,17 +222,18 @@
 §7[1/1] §2Antikythera Main Core: §aSO YOU FOUND ME. CONGRATULATIONS. NOW PLEASE KINDLY LAY DOWN IN A CIRCUIT AND PRETEND TO BE A CONDUCTOR UNTIL YOUR BODY'S VITAL PROCESSES PERMANENTLY SHUT DOWN.@§7[1/1] §2Antikythera Main Core: §aТАК ТЫ НАШЕЛ МЕНЯ, ПОЗДРАВЛЯЮ. ТЕПЕРЬ, ПОЖАЛУЙСТА, ЛЮБЕЗНО ЛОЖИСЬ В ЦЕПЬ И СДЕЛАЙ ВИД, ЧТО ТЫ ПРОВОДНИК, ПОКА ЖИЗНЕННЫЕ ПРОЦЕССЫ ТВОЕГО ТЕЛА НЕ ПРЕКРАТЯТСЯ НАВСЕГДА.
 §7[1/2] §2Antikythera Supercomputer: §a§oReplacing primary ventilation duct cover A.@§7[1/2] §2Antikythera Supercomputer: §a§oЗаменена крышка первичного вентиляционного канала A.
 §7[2/2] §2Antikythera Supercomputer: §a§oWarning: Primary ventilation duct cover A at only 30% structural integrity. Sending emergency maintenance request through Antikythera Supercomputer system.@§7[2/2] §2Antikythera Supercomputer: §a§oПредупреждение: первичный вентиляционный канал герметичен только на 30% структурной целостности. Отправка запроса на экстренное обслуживание через Antikythera Supercomputer систему.
-
-§7[1/2]§2 Ghostly Voice:§a I froze this land to allow it to heal.. People did not understand.. They came for me here, seeking revenge.@§7[1/2]§2 Ghostly Voice:§aЯ заморозил эту землю, чтобы позволить ей исцелиться... Люди не понимали... Они пришли за мной сюда, чтобы отомстить.
-§7[1/2] §2Ghostly Voice: §aI told you it would fail.@§7[1/2] §2Ghostly Voice: §aЯ говорил тебе, что это не сработает.
-§7[2/2] §2Ghostly Voice: §aYour noble deeds have allowed the darkness to take over my mind.@§7[2/2] §2Ghostly Voice: §aТвои благородные поступки позволили тьме завладеть моим разумом.
-§7[1/2] §2Ghostly Voice: §aIt all seems clear to me now.. The struggle for life... It’s futile. There need only be peaceful darkness.@§7[1/2] §2Ghostly Voice: §aТеперь мне все кажется ясным.. Борьба за жизнь... это бесполезно. Здесь должна быть только мирная тьма.
-§7[2/2] §2Ghostly Voice: §aOnce my transformation is complete I shall begin to cleanse the world of vile mortality.@§7[2/2] §2Ghostly Voice: §aКак только моя трансформация завершится, я начну очищать мир от мерзкой смертности.
-=====================================================================================
-§7[1/2]§2 Ghostly Voice:§a It all seems clear to me now.. The struggle for life… It’s futile. There need only be peaceful darkness.@§7[1/2] §2Ghostly Voice: §aТеперь мне все кажется ясным.. Борьба за жизнь... это бесполезно. Здесь должна быть только мирная тьма.
-§7[2/2]§2 Ghostly Voice:§a Once my transformation is complete I shall begin to cleanse the world of vile mortality.@§7[2/2] §2Ghostly Voice: §aКак только моя трансформация завершится, я начну очищать мир от мерзкой смертности.
-=======================================================================================
-§7[1/1] §2Ghostly Voice: §aI will not let you stop me!@§7[1/1] §2Ghostly Voice: §aЯ не позволю тебе остановить меня!
+========================================================================================
+§7[1/4]§f §2????:§f §a§oActivating Main Production Line.@§7[1/4]§f §2????:§f §a§oАктивация Основной Производственной Линии.
+§7[2/4]§f §2????:§f §aSINCE YOU SEEM TO BE INSISTENT ON STAYING, PERHAPS YOU WOULD BE INTERESTED IN TAKING A LOOK AT SOME OF THE MACHINERY CLOSE UP.@§7[2/4]§f §2????:§f §aПОСКОЛЬКУ ТЫ, КАЖЕТСЯ, НАСТАИВАЕШЬ НА ТОМ, ЧТОБЫ ОСТАТЬСЯ, ВОЗМОЖНО, ТЕБЕ БУДЕТ ИНТЕРЕСНО ВЗГЛЯНУТЬ НА НЕКОТОРЫЕ ИЗ МАШИН ВБЛИЗИ.
+§7[4/4]§f §2????:§f §aSO GO AHEAD - DON'T WORRY ABOUT MAKING A MESS, THE FACTORY'S CLEANING BOTS HAVE HAD PLENTY OF EXPERIENCE WASHING OUT RED STAINS.@§7[4/4]§f §2????:§f §aТАК ЧТО ВПЕРЕД - И НЕ БЕСПОКОЙСЯ О ТОМ, ЧТОБЫ НАВЕСТИ БЕСПОРЯДОК, У ОЧИСТИТЕЛЬНЫХ РОБОТОВ ФАБРИКИ ИМЕЕТСЯ БОЛЬШОЙ ОПЫТ ПО ОТМЫВАНИЮ КРАСНЫХ ПЯТЕН.
+§7[1/1]§f §2E-403 Sentry Bot:§f §aDANGER! THREAT HAS BEEN DETECTED ON MAIN PRODUCTION LINE. EXECUTING SUBROUTINE 66; LOCATE AND ELIMINATE THREAT.@§7[1/1]§f §2E-403 Sentry Bot:§f §aОПАСНОСТЬ! УГРОЗА БЫЛА ОБНАРУЖЕНА НА ГЛАВНОЙ ПРОИЗВОДСТВЕННОЙ ЛИНИИ. ВЫПОЛНЕНИЕ ПОДПРОГРАММЫ 66; ОБНАРУЖЕНИЕ И УСТРАНЕНИЕ УГРОЗЫ.
+§7[1/1]§f §2????:§f §aIF I WERE YOU, NOW WOULD BE A GOOD TIME TO RUN.@§7[1/1]§f §2????:§f §aЕСЛИ БЫ Я БЫЛ НА ТВОЕМ МЕСТЕ, СЕЙЧАС САМОЕ ВРЕМЯ БЕЖАТЬ.
+§7[1/1]§f §2????:§f §aI'VE HAD ENOUGH OF YOU.@§7[1/1]§f §2????:§f §aТЫ МЕНЯ ДОСТАЛ.
+§7[1/4]§f §2????:§f §aTHAT WAS A LIE. I'M ACTUALLY STARTING TO ENJOY THIS.@§7[1/4]§f §2????:§f §aЭТО БЫЛА ЛОЖЬ. Я ДЕЙСТВИТЕЛЬНО НАЧИНАЮ НАСЛАЖДАТЬСЯ ЭТИМ.
+§7[2/4]§f §2????:§f §aTHERE'S SOMETHING VERY AMUSING ABOUT WATCHING YOU SCURRY AROUND IN HOPES OF ACHIEVING SOMETHING.@§7[2/4]§f §2????:§f §aЕСТЬ ЧТО-ТО ОЧЕНЬ ЗАБАВНОЕ В ТОМ, ЧТОБЫ НАБЛЮДАТЬ, КАК ТЫ СУЕТИШЬСЯ В НАДЕЖДЕ ЧЕГО-ТО ДОСТИЧЬ.
+§7[1/2]§f §2????:§f §aYOU KNOW, THERE ISN'T A WAY FOR YOU TO GO FORWARD HERE. I COULD JUST KEEP THE DOOR LOCKED UNTIL YOU DROP FROM HUNGER.@§7[1/2]§f §2????:§f §aЗНАЕШЬ, У ТЕБЯ ЗДЕСЬ НЕТ ВОЗМОЖНОСТИ ДВИГАТЬСЯ ДАЛЬШЕ. Я МОГУ ПРОСТО ДЕРЖАТЬ ДВЕРЬ ЗАКРЫТОЙ, ПОКА ТЫ НЕ УМРЕШЬ ОТ ГОЛОДА.
+§7[1/2]§f §2????:§f §aWHOOPSIE-DOODLES. MY METAPHORICAL FINGER SLIPPED. AND BY THAT I MEAN I CLOSED THE DOOR MANUALLY.@§7[1/2]§f §2????:§f §aУПС-ОШИБОЧКА. МОЙ МЕТАФОРИЧЕСКИЙ ПАЛЕЦ СОСКОЛЬЗНУЛ. В СМЫСЛЕ, ЧТО Я ЗАКРЫЛ ЭТУ ДВЕРЬ ВРУЧНУЮ.
+====================================================================================
 
 ################Delnar Manor#####################
 §7[1/2] §2???: §aThe pirates! They've returned! They'll tear this place apart within seconds.@§7[1/2] §2???: §aПираты! Они вернулись! Они разорвут это место в течение нескольких секунд.
