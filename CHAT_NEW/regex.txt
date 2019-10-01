@@ -53,7 +53,7 @@
 §6([a-zA-Z0-9_]{1,16}) is now combat level (\d+)@§6(r1) достиг (r2) комбат уровня
 §6([a-zA-Z0-9_]{1,16})§9 has won the duel!@§6(r1)§9 выиграл дуэль!
 §4This material cannot be used for (.*)@§4Этот материал не может использоваться для (r1)
-§6#(\d+)§f ([a-zA-Z0-9_]{1,16})§8 - §7(\d+) XP§8 - §7(\d+)²§8 - §7Joined (.*)@§6#(r1)§f (r2)§8 - §7(r3) XP§8 - §7(r4)²§8 - §7Joined (r5)
+§6#(\d+)§f ([a-zA-Z0-9_]{1,16})§8 - §7(\d+) XP§8 - §7(\d+)²§8 - §7Joined (.*)@§6#(r1)§f (r2)§8 - §7(r3) XP§8 - §7(r4)²§8 - §7Принят (r5)
 §4You need to use §c(?:a|an) (.*)§4 to gather from this resource!@§4Тебе нужно использовать §c(r1) §4чтобы собрать этот ресурс
 §4This machine can only process §c(.*)@§4Эта машина перерабатывает только §c(r1)
 §4Did you mean §c(.*)\? §4If not, type \/help to see the commands!@§4Ты имел в виду §c(r1)? §4Если нет, напиши /help, чтобы увидеть список команд!
