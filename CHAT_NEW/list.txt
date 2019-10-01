@@ -1,6 +1,3 @@
-1-50.txt
-51-75.txt
-76-100.txt
 Altars.txt
 Boat.txt
 Discoveries.txt
@@ -9,6 +6,7 @@ GavelNPC.txt
 info.txt
 msg.txt
 Mushroom.txt
+Notranslate.txt
 WynnNPC.txt
 QUESTS/Acquiring_Credentials.txt
 QUESTS/Aldorei%27s_Secret_Part_I.txt
@@ -87,10 +85,12 @@ QUESTS/Poisoning_the_Pest.txt
 QUESTS/Potion_Making.txt
 QUESTS/Purple_and_Blue.txt
 QUESTS/qqq.txt
+QUESTS/Recipe_for_Disaster.txt
 QUESTS/Reclaiming_the_House.txt
 QUESTS/Redbeard%27s_Booty.txt
 QUESTS/Reincarnation.txt
 QUESTS/Rise_of_the_Quartron.txt
+QUESTS/Royal_Trials.txt
 QUESTS/Sewers_of_Ragni.txt
 QUESTS/Shattered_Minds.txt
 QUESTS/Sister_City.txt
@@ -107,6 +107,7 @@ QUESTS/The_Corrupted_Village.txt
 QUESTS/The_Dark_Descent.txt
 QUESTS/The_Envoy_Part_I.txt
 QUESTS/The_Envoy_Part_II.txt
+QUESTS/The_Fortuneteller.txt
 QUESTS/The_Headless_Hunt.txt
 QUESTS/The_Hidden_City.txt
 QUESTS/The_House_of_Twain_(Quest).txt
