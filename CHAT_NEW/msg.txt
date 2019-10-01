@@ -157,6 +157,15 @@
 §d     -§7 About Discovery: §f§oNemract was one of the cities attacked most often. The people would hide in the gutters and sewers until it was over. However, corrupt enemies are not without intelligence, and they were quickly discovered by the enemy.@§d     -§7 Об открытии: §f§oNemract был одним из самых часто атакуемых городов. Люди прятались в канавах и канализациях, пока атаки не заканчивались. Однако, монстры были не глупы, и они быстро находили своих жертв здесь. 
 §d     -§7 About Discovery: §f§oThis old library has been slumbering beneath Lusuco for years. It tells the story of the legendary Twain children.@§d     -§7 Об открытии: §f§oЭта старая библиотека под городом Lusuco была заброшена годами. Она расскажет тебе историю легендарных детей семейства Twain. 
 §7Ye who seek knowledge, follow in my footsteps and gain wisdom.@§7Тот, кто ищет знания - иди по моим стопам и обрети мудрость.
+§7The voice of the past echoes on the wind...@§7Голос прошлого перекликается с ветром...
+§f886 AP (After Portal)@§f886 ПП (После Портала)
+§7§o''Sir, they’ve breached Nivla!''@§7§o"Сэр, они пробились через лес Nivla!"
+§7Towers Found: §f1/4@§7Башен найдено: §f1/4
+§7§o''All the outer checkpoints have been overrun!''@§7§o"Все внешние контрольно-пропускные пункты были захвачены!"
+§7§o''He's there sir, I see him.''@§7§o"Он там, сэр, я вижу его."
+§7§o''Bak'al, sir. He's.. leading thousands.''@§7§o"Bak'al, сэр. Он.. ведет тысячи."
+§7§o''This could mark the fall of Ragni.''@§7§o"Это может значить падение Ragni."
+§7§o''We've held this forest for years. There is no one left to save us.''@§7§o"Мы держали этот лес годами. Больше нет никого, кто бы мог спасти нас."
 
 
 ###################################Квесты##################################
@@ -187,12 +196,56 @@
 §7§o...the§7§o §7§obottom...has§7§o a weird §7§l§opit§7§o...maybe§7§o used to §7§l§osacrifice§7§o something...@§7§o...на дне...есть странная §7§l§oяма§7§o...возможно, когда-то использовалась для §7§l§oжертвоприношений§7§o...
 §7§o...maybe...if§7§o you §7§l§obring a mob there§7§o...by§7§o §7§l§oletting it follow you§7§o...you§7§o can do something...§7§l§odark§7§o...@§7§o...быть может...если ты §7§l§oприведешь сюда моба§7§o...§7§l§oпозволяя ему следовать за тобой§7§o... то можно создать нечто...§7§l§oтемное§7§o...
 §7It would be rude to go inside without Asher's permission.@§7Было бы невежливо войти внутрь без разрешения Asher'а.
+§7This cave must lead to the secret dwarven vaults. But walking there would probably take a while...@§7Это пещера ведет в секретное хранилище гномов. Но вход туда может занять некоторое время...
+§7Oh no! Something has changed. You should hurry back to Psilo.@§7Ох, нет! Что-то пошло не так. Ты должен быстрее вернуться к Psilo.
+§7Oh no! The shrinking effects have worsened!@§7О нет! Эффект уменьшения усугубился!
+§7Your surroundings shrink around you.@§7Окружение сжимается вокруг тебя.
+§7Your size has returned to normal! You should return to Psilo.@§7Ты вернулся в свое обычное состояние! Теперь вернись к Psilo
+§4A strange force prevents you from entering. You can hear some soft laments in the distance...@§4Странная сила мешает тебе войти. Ты можешь слышать некий мягкий плач вдалеке...
+§7The old man whispers you the password...@§7Старый человек прошептал тебе пароль...
+§4You shouldn't turn on the sprinkler system without poisoning the water!@§4Ты не можешь включить систему опрыскивания, не отравив воду!
+§7A few hours of sleep later...@§7После пары часов сна...
+§7You wake up when you hear a sudden, loud sound...@§7Ты проснулся от внезапного, громкого звука...
+§7You fall onto the balloon, and make your way back to the ship...@§7Ты падаешь на воздушном шаре, найдите способ вернуться на корабль...
+§7You seem to have fallen into an ancient ruin of some sort. Maybe the incantation is somewhere inside...@§7Похоже, ты попал в некое подобие древних руин. Быть может, заклинание где-то внутри...
+§7In 831 AP, Troms was on its knees. Hordes of undead were crippling the army and castle.@§7В 831 году после открытия портала, Troms был в упадке. Орды мертвецов нападали на армию и замок.
+§7The King sought the help of a shaman, Slykaar. Shamans use the life of sacrifices to inflict damage. Dark magic. @§7Король обратился за помощью к шаману – Slykaar'у. Шаман использовал жертвоприношения для отражения нападений. Темная магия.
+§7Slykaar defended Troms. At an immense cost. Slykaar loved the attention and power. He controlled the city.@§7Slykaar защищал Troms. Но за огромную цену. Slykaar любил внимание и власть. Он контролировал город.
+§7Troms had suffered from the hordes and from the endless sacrifices of Slykaar for years.@§7Troms страдал от орд мертвецов и от бесконечных жертвоприношений Slykaar'а в течение многих лет.
+§7Then... §7§lBob§7 appeared. The people of Troms instantly dropped their horrible shaman for the pure hero.@§7Но затем... Появился §7§lBob§7. Народ Troms'а немедленно бросил своего ужасного шамана ради чистого героя.
+§7Slykaar, bitter and humiliated, sunk underground to restart his demonic experiments for an army. @§7Slykaar, обиженный и униженный, ушел в подземелья, чтобы возобновить свои демонические эксперименты для создания армии.
+§7It's an old, dusty journal. It seems to be left open to a page. You begin to read it out of curiosity...@§7Это старый, пыльный дневник. Кажется, он остался открытым на одной из страниц. Ты начинаешь читать его из любопытства...
+§7§o...Troms§7§o is beginning to grow suspicious of §7§ome...some§7§o guy named Robert came into town...@§7§o...В Troms'е начали подозрительно ко мне относиться...некий парень по имени Robert пришел в город...
+§7§o...I know they will banish §7§ome...he§7§o is too §7§ogood...too§7§o nice...@§7§o...Я знал, что они прогонят меня...он был слишком хорош...слишком правильный...
+§7§o...I must open a §7§oportal...make§7§o a dimension to become more powerful...@§7§o...Я должен открыть портал...создать измерение, чтобы стать еще сильнее...
+§7§o...the§7§o books...I have prepared well for this...@§7§o...Книги...я хорошо подготовился для этого...
+§7§o...I will carve a §7§l§ohidden room§7§o...§7§l§obehind a visible wall§7§o...to§7§o create my §7§oworld...my§7§o §7§l§orevenge§7§o...@§7§o...Я создам §7§l§oтайную комнату§7§o...§7§l§oпозади видимой стены§7§o...чтобы создать мой мир...мою §7§l§oместь§7§o...
+§7You should probably head back to the Mage to show her what you found...@§7Вероятно, ты должен вернуться назад к магу, и показать ей то, что нашел...
+§7You really don't have a reason to go in here@§7У тебя действительно нет причин идти туда
+§7The blood is still fresh. This can't be good. Looks like the blood is leading to that narrow tunnel in the back of the cell. I should check it out.@§7Кровь еще свежая. Это не хорошо. Похоже, кровь ведет в тоннель позади клетки. Ты должен проверить.
+§4The barricade opens before you, as you put the key in the keyhole. You may go now.@§4Баррикада открылась, как только ты приложил ключ к ней. Можешь идти.
+§4You can still hear an eerie howl flowing through the thin air and cold chill running through your veins.@§4Ты по-прежнему слышишь жуткий вой, протекающий через разреженный воздух и холодно проходящий по венам.
+§4More spirits are appearing as you walk through the cave.@§4Еще больше духов появляется по мере прохождения пещеры.
+§4You can feel your ear ringing as the banshee howls eeriely.@§4Ты чувствуешь, как звенят твои уши, когда Банши воет поблизости.
+§7Open the gates of the cow pens to free them! Don't let the farmer see you!@§7Открой ворота в загонах коров, чтобы освободить их! Не позволяй фермеру увидеть себя!
+§7Looks like you freed the cows successfully. You should return back to Drale.@§7Похоже, ты успешно освободил коров. Тебе нужно вернуться к Drale.
+§7How long have you been helping this lunatic steal cows? you realize you should probably get back to Linton.@§7Как долго ты помогал этому сумасшедшему красть коров? Ты понимаешь, что тебе, вероятно, стоит вернуться к Linton'у.
+§4You hit an invisible barrier, but you don't see anything around anyways.@§4Ты уткнулся в невидимый барьер, но ты не видишь ничего вокруг, что тебя останавливает.
+§7You were caught! Try again!@§7Тебя поймали! Попробуй снова!
+§7You should rendezvous with Ragon back at camp to let him know you are alive.@§7Тебе следует встретиться с Ragon'ом, что бы дать знать ему, что ты жив.
+§4,:§4§lStay§4' .§4§laway§4;:@§4§l,:Держись подальше;:
+§7Whatever that odd feeling was, it's over now. And there's Asher's shovel! Better return this to him.@§7Что бы это ни было за странное чувство, теперь все закончилось. А вот и лопата Asher'а! Лучше вернуть ее ему.
+§7The cannon is activated! Now it needs to be loaded with a cannonball...@§7Пушка активирована! Теперь ее нужно зарядить пушечным ядром...
+§7The cannon is ready to fire!@§7Пушка готова к стрельбе!
+§7You should return to Eppo with the lava after you've completed the puzzle.@§7Тебе стоит вернуться к Eppo с лавой, как только ты разгадаешь загадку.
+§7The water is freezing to ice, maybe it opens something?@§7Вода превратилась в лед, может она что-то открыла?
 
 ###################################Гильдия##################################
 
 ###################################Награды из контейнера##################################
 
 ###################################Данжи##################################
+§7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Keystone Guardian'а активировало ее...
 
 ###################################Библиотеки и тексты##################################
 §e                         §e§lPowder Manual@§eРуководство о порошках
@@ -202,6 +255,12 @@
 §7    §7§oCertain items have a higher magical capacity, and thusly are able to hold more powders within them. Some have many, some have few, others still have none.@§7§oРазличные предметы имеют более высокую магическую вместимость, и таким образом, способны вмещать больше порошков внутри себя. Некоторые вмещают много, некоторые мало, другие вообще не вмещают.
 §7    §7§oShould a §7§l§oweapon §7be enchanted with a powder, the powder will imbue the item with a slight amount of elemental damage, but also transfer basic neutral damage into its element.@§7§oЕсли §7§l§oоружие§7 будет зачаровано порошком, то порошок наполнит предмет небольшим количеством элементального урона, и также перенесет основной нейтральный урон в его элемент.
 §7    §7§oShould a piece of §7§l§oarmour §7be enchanted with a powder, the garment will gain a resistance towards that powder's element, at the cost of an elemental weakness.@§7§oЕсли часть §7§l§oброни§7 будет зачарована порошком, предмет получит сопротивление к элементу этого порошка, ценой элементальной слабости.
+§6                  Chapter 3 - Elemental Abilities@§6Глава 3 - Элементальные Способности
+§2    ✤§2§l Earth: §7§o Earth-imbued weapons will unleash a powerful quake, rupturing the nearby ground and disorienting enemies. Earth-augmented armors produce a rage-state in the user as they near death, turning Earth-based attacks more potent, and more violent.@§2    ✤§2§lЗемля:§7§o Наполненное землей оружие позволяет выпустить мощное землетрясение, разрушающее земли поблизости, и дезориентирующее врагов. Дополненная землей броня приводит в состояние ярости игрока, когда он близок к смерти, и делает земляные атаки более мощными и более жестокими.
+§e    ✦§e§l Thunder: §7§o Thunder-imbued weapons can release a streak of lightning that seeks enemies, bouncing from one foe to the next nearby. Thunder-augmented armors will steal the life force of the slain, and in kind increase the power of Thunder-based attacks temporarily.@§e    ✦§e§l Гром:§7§o Наполненное громом оружие может выпустить череду молний, которые ищут врагов, отражаясь от одного ближайшего врага к другому. Дополненная громом броня крадет жизненную силу при убийстве, и ненадолго увеличивает силу громовых атак.
+§b    ❉§b§l Water: §7§o Water-imbued weapons will curse one's nearby enemies. This curse weakens armor, and turns them vulnerable to further attack. Water-augmented armors recycle used mana, transferring it into a short boost to Water-affiliated techniques, depending on how much mana was consumed.@§b    ❉§b§l Вода:§7§o Наполненное водой оружие проклинает ближайших врагов. Это проклятие ослабляет броню и делает их уязвимыми для дальнейших атак. Дополненные водой доспехи перерабатывают использованную ману, переводя ее в короткий рост урона к атакам, в зависимости от того, сколько маны было использовано. Также увеличивает силу водных атак.
+§c    ✹§c§l Fire: §7§o Fire-imbued weapons will generate a fan of flames that burn one's enemies and empower one's allies. Fire-augmented armors react to being struck, turning the impact of the blow, no matter how weak, into a temporary power boost to Fire-based attacks.@§c    ✹§c§l Огонь:§7§o Наполненное огнем оружие генерирует вихрь пламени, который сжигает врагов и расширяет возможности ваших союзников. Дополненные огнем доспехи реагируют на полученный урон, повышая силу удара, и временно увеличивая силу огненных атак.
+§f    ❋§f§l Air: §7§o Air-imbued weapons trap nearby enemies in a vortex of wind, and blow the victims away when struck. Air-augmented armors will, so long as they are kept close, leach energy from nearby foes to improve the strength of Air-based attacks.@§f    ❋§f§l Воздух:§7§o Наполненное воздухом оружие ловит близлежащих врагов в воронку ветра, и сдувает жертв прочь при ударе. Дополненные воздухом доспехи будут высасывать энергию из близлежащих врагов, пока они находятся рядом. Также улучшают силу воздушных атак.
 
 ###################################Прочие##################################
 §7You walk away wondering if the citizen stands all day long welcoming adventurers...@§7Ты уходишь, задаваясь вопросом - стоит ли этот житель здесь весь день, приветствуя путешественников...
@@ -269,19 +328,7 @@
 §5Item Identifier: §dIt is done. Your items has been identified. The magic they contain will now blossom.@§5Item Identifier: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
 §41 soul point has been lost...@§41 очко душ было потрачено...
 §4You can skip the tutorial by typing: §c/skiptutorial§4. You will not receive resources, tools, or a crafted item by doing this.@§cТы можешь пропустить туториал командой /skiptutorial. Ты не получишь ресурсы, инструменты, или крафтовые предметы, сделав это.
-§6                  Chapter 3 - Elemental Abilities@§6Глава 3 - Элементальные Способности
-§2    ✤§2§l Earth: §7§o Earth-imbued weapons will unleash a powerful quake, rupturing the nearby ground and disorienting enemies. Earth-augmented armors produce a rage-state in the user as they near death, turning Earth-based attacks more potent, and more violent.@§2    ✤§2§lЗемля:§7§o Наполненное землей оружие позволяет выпустить мощное землетрясение, разрушающее земли поблизости, и дезориентирующее врагов. Дополненная землей броня приводит в состояние ярости игрока, когда он близок к смерти, и делает земляные атаки более мощными и более жестокими.
-§e    ✦§e§l Thunder: §7§o Thunder-imbued weapons can release a streak of lightning that seeks enemies, bouncing from one foe to the next nearby. Thunder-augmented armors will steal the life force of the slain, and in kind increase the power of Thunder-based attacks temporarily.@§e    ✦§e§l Гром:§7§o Наполненное громом оружие может выпустить череду молний, которые ищут врагов, отражаясь от одного ближайшего врага к другому. Дополненная громом броня крадет жизненную силу при убийстве, и ненадолго увеличивает силу громовых атак.
-§b    ❉§b§l Water: §7§o Water-imbued weapons will curse one's nearby enemies. This curse weakens armor, and turns them vulnerable to further attack. Water-augmented armors recycle used mana, transferring it into a short boost to Water-affiliated techniques, depending on how much mana was consumed.@§b    ❉§b§l Вода:§7§o Наполненное водой оружие проклинает ближайших врагов. Это проклятие ослабляет броню и делает их уязвимыми для дальнейших атак. Дополненные водой доспехи перерабатывают использованную ману, переводя ее в короткий рост урона к атакам, в зависимости от того, сколько маны было использовано. Также увеличивает силу водных атак.
-§c    ✹§c§l Fire: §7§o Fire-imbued weapons will generate a fan of flames that burn one's enemies and empower one's allies. Fire-augmented armors react to being struck, turning the impact of the blow, no matter how weak, into a temporary power boost to Fire-based attacks.@§c    ✹§c§l Огонь:§7§o Наполненное огнем оружие генерирует вихрь пламени, который сжигает врагов и расширяет возможности ваших союзников. Дополненные огнем доспехи реагируют на полученный урон, повышая силу удара, и временно увеличивая силу огненных атак.
-§f    ❋§f§l Air: §7§o Air-imbued weapons trap nearby enemies in a vortex of wind, and blow the victims away when struck. Air-augmented armors will, so long as they are kept close, leach energy from nearby foes to improve the strength of Air-based attacks.@§f    ❋§f§l Воздух:§7§o Наполненное воздухом оружие ловит близлежащих врагов в воронку ветра, и сдувает жертв прочь при ударе. Дополненные воздухом доспехи будут высасывать энергию из близлежащих врагов, пока они находятся рядом. Также улучшают силу воздушных атак.
-§7This cave must lead to the secret dwarven vaults. But walking there would probably take a while...@§7Это пещера ведет в секретное хранилище гномов. Но вход туда может занять некоторое время...
 §4There is no room for a horse.@§4Здесь нет места для лошади.
-§7Oh no! Something has changed. You should hurry back to Psilo.@§7Ох, нет! Что-то пошло не так. Ты должен быстрее вернуться к Psilo.
-§7Oh no! The shrinking effects have worsened!@§7О нет! Эффект уменьшения усугубился!
-§7Your surroundings shrink around you.@§7Окружение сжимается вокруг тебя.
-§7Your size has returned to normal! You should return to Psilo.@§7Ты вернулся в свое обычное состояние! Теперь вернись к Psilo
-§4A strange force prevents you from entering. You can hear some soft laments in the distance...@§4Странная сила мешает тебе войти. Ты можешь слышать некий мягкий плач вдалеке...
 §cYou cannot drop locked items! Use /itemlock while holding the item again to unlock it.@§cТы не можешь выбросить заблокированные предметы! Используй /itemlock, держа предмет в руке, чтобы разблокировать его.
 §6Your horse has become stronger!@§6Твоя лошадь стала сильнее!
 §7[+1 Speed]@§7[+1 к Скорости]
@@ -289,70 +336,23 @@
 §9The duel request has been sent! Waiting for them to accept...@§bЗапрос на дуэль отправлен! Подожди, пока его примут...
 §9The duel is starting in §e10 seconds§9...@§9Дуэль начнется через §e10 секунд§9...
 §9The duel has started! Fight to the death...@§9Дуэль началась! Бейся до смерти...
-§7The old man whispers you the password...@§7Старый человек прошептал тебе пароль...
-§4You shouldn't turn on the sprinkler system without poisoning the water!@§4Ты не можешь включить систему опрыскивания, не отравив воду!
-§7The voice of the past echoes on the wind...@§7Голос прошлого перекликается с ветром...
-§f886 AP (After Portal)@§f886 ПП (После Портала)
-§7§o''Sir, they’ve breached Nivla!''@§7§o"Сэр, они пробились через лес Nivla!"
-§7Towers Found: §f1/4@§7Башен найдено: §f1/4
-§7§o''All the outer checkpoints have been overrun!''@§7§o"Все внешние контрольно-пропускные пункты были захвачены!"
-§7§o''He's there sir, I see him.''@§7§o"Он там, сэр, я вижу его."
-§7§o''Bak'al, sir. He's.. leading thousands.''@§7§o"Bak'al, сэр. Он.. ведет тысячи."
-§7§o''This could mark the fall of Ragni.''@§7§o"Это может значить падение Ragni."
-§7§o''We've held this forest for years. There is no one left to save us.''@§7§o"Мы держали этот лес годами. Больше нет никого, кто бы мог спасти нас."
 §dSince you interacted with your inventory, your horse has despawned.@§dПоскольку ты взаимодействовал с инвентарем, твоя лошадь была убрана.
 §dYour horse is scared to come out right now, too many mobs are nearby.@§dТвоя лошадь напугана сейчас, чтобы выходить, поскольку слишком много мобов рядом.
 §cYou already have that potion active...@§cЭто зелье уже действует на тебя...
-§7A few hours of sleep later...@§7После пары часов сна...
-§7You wake up when you hear a sudden, loud sound...@§7Ты проснулся от внезапного, громкого звука...
-§7You fall onto the balloon, and make your way back to the ship...@§7Ты падаешь на воздушном шаре, найдите способ вернуться на корабль...
 §cYou can't sell this item!@§cТы не можешь продать этот предмет!
-§7You seem to have fallen into an ancient ruin of some sort. Maybe the incantation is somewhere inside...@§7Похоже, ты попал в некое подобие древних руин. Быть может, заклинание где-то внутри...
-§7In 831 AP, Troms was on its knees. Hordes of undead were crippling the army and castle.@§7В 831 году после открытия портала, Troms был в упадке. Орды мертвецов нападали на армию и замок.
-§7The King sought the help of a shaman, Slykaar. Shamans use the life of sacrifices to inflict damage. Dark magic. @§7Король обратился за помощью к шаману – Slykaar'у. Шаман использовал жертвоприношения для отражения нападений. Темная магия.
-§7Slykaar defended Troms. At an immense cost. Slykaar loved the attention and power. He controlled the city.@§7Slykaar защищал Troms. Но за огромную цену. Slykaar любил внимание и власть. Он контролировал город.
-§7Troms had suffered from the hordes and from the endless sacrifices of Slykaar for years.@§7Troms страдал от орд мертвецов и от бесконечных жертвоприношений Slykaar'а в течение многих лет.
-§7Then... §7§lBob§7 appeared. The people of Troms instantly dropped their horrible shaman for the pure hero.@§7Но затем... Появился §7§lBob§7. Народ Troms'а немедленно бросил своего ужасного шамана ради чистого героя.
-§7Slykaar, bitter and humiliated, sunk underground to restart his demonic experiments for an army. @§7Slykaar, обиженный и униженный, ушел в подземелья, чтобы возобновить свои демонические эксперименты для создания армии.
-§7It's an old, dusty journal. It seems to be left open to a page. You begin to read it out of curiosity...@§7Это старый, пыльный дневник. Кажется, он остался открытым на одной из страниц. Ты начинаешь читать его из любопытства...
-§7§o...Troms§7§o is beginning to grow suspicious of §7§ome...some§7§o guy named Robert came into town...@§7§o...В Troms'е начали подозрительно ко мне относиться...некий парень по имени Robert пришел в город...
-§7§o...I know they will banish §7§ome...he§7§o is too §7§ogood...too§7§o nice...@§7§o...Я знал, что они прогонят меня...он был слишком хорош...слишком правильный...
-§7§o...I must open a §7§oportal...make§7§o a dimension to become more powerful...@§7§o...Я должен открыть портал...создать измерение, чтобы стать еще сильнее...
-§7§o...the§7§o books...I have prepared well for this...@§7§o...Книги...я хорошо подготовился для этого...
-§7§o...I will carve a §7§l§ohidden room§7§o...§7§l§obehind a visible wall§7§o...to§7§o create my §7§oworld...my§7§o §7§l§orevenge§7§o...@§7§o...Я создам §7§l§oтайную комнату§7§o...§7§l§oпозади видимой стены§7§o...чтобы создать мой мир...мою §7§l§oместь§7§o...
-§7You should probably head back to the Mage to show her what you found...@§7Вероятно, ты должен вернуться назад к магу, и показать ей то, что нашел...
-§7You really don't have a reason to go in here@§7У тебя действительно нет причин идти туда
 §5Key Collector: §dYou have access to the dungeon... This time only.@§5Key Collector: §dТы можешь войти в данж... Но только в этот раз.
-§7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Keystone Guardian'а активировало ее...
 §5The trade has been completed!@§5Торговля успешно завершена!
-§7The blood is still fresh. This can't be good. Looks like the blood is leading to that narrow tunnel in the back of the cell. I should check it out.@§7Кровь еще свежая. Это не хорошо. Похоже, кровь ведет в тоннель позади клетки. Ты должен проверить.
-§4The barricade opens before you, as you put the key in the keyhole. You may go now.@§4Баррикада открылась, как только ты приложил ключ к ней. Можешь идти.
 §cThere are aggressive mobs nearby...@§cПоблизости есть агрессивные мобы...
 §d[+2 Soul Points]@§d[+2 Очка душ]
-§4You can still hear an eerie howl flowing through the thin air and cold chill running through your veins.@§4Ты по-прежнему слышишь жуткий вой, протекающий через разреженный воздух и холодно проходящий по венам.
-§4More spirits are appearing as you walk through the cave.@§4Еще больше духов появляется по мере прохождения пещеры.
-§4You can feel your ear ringing as the banshee howls eeriely.@§4Ты чувствуешь, как звенят твои уши, когда Банши воет поблизости.
 §5Powder Master: §dGreat doing business with you, adventurer. Come back any time!@§5Powder Master: §dС тобой приятно иметь дело, путешественник. Возвращайся в любое время!
-§7Open the gates of the cow pens to free them! Don't let the farmer see you!@§7Открой ворота в загонах коров, чтобы освободить их! Не позволяй фермеру увидеть себя!
-§7Looks like you freed the cows successfully. You should return back to Drale.@§7Похоже, ты успешно освободил коров. Тебе нужно вернуться к Drale.
-§7How long have you been helping this lunatic steal cows? you realize you should probably get back to Linton.@§7Как долго ты помогал этому сумасшедшему красть коров? Ты понимаешь, что тебе, вероятно, стоит вернуться к Linton'у.
-§4You hit an invisible barrier, but you don't see anything around anyways.@§4Ты уткнулся в невидимый барьер, но ты не видишь ничего вокруг, что тебя останавливает.
-§7You were caught! Try again!@§7Тебя поймали! Попробуй снова!
 §2                         [Mini-Quest Completed]@                         §2[Мини-Квест Пройден]
 §4You've already finished this Mini-Quest@§4Ты уже завершил этот мини-квест
 §7You successfully broke through the cobwebs.@§7Ты успешно пробрался через паутину
 §a- §7Spell Usage: §fRight-Right-Right@§a- §7Использование заклинания: §fПравая-Правая-Правая
-§7You should rendezvous with Ragon back at camp to let him know you are alive.@§7Тебе следует встретиться с Ragon'ом, что бы дать знать ему, что ты жив.
 §7+ Spell clicking notification moved to info bar@§7+ Уведомление о наборе заклинаний передвинуто на панель информации
 §cSorry, you can't teleport... Try moving away from blocks.@§cИзвини, ты не можешь телепортироваться... Попробуй отойти от блоков
 §7Warning: As you lose soul points, you will drop more items when you die.@§7Предупреждение: Чем больше очков душ ты теряешь, тем больше предметов выпадает с тебя при смерти.
-§4,:§4§lStay§4' .§4§laway§4;:@§4§l,:Держись подальше;:
-§7Whatever that odd feeling was, it's over now. And there's Asher's shovel! Better return this to him.@§7Что бы это ни было за странное чувство, теперь все закончилось. А вот и лопата Asher'а! Лучше вернуть ее ему.
 §5Wait a bit before trying to duel again!@§5Подожди немного, прежде чем снова предлагать дуэль!
-§7The cannon is activated! Now it needs to be loaded with a cannonball...@§7Пушка активирована! Теперь ее нужно зарядить пушечным ядром...
-§7The cannon is ready to fire!@§7Пушка готова к стрельбе!
-§7You should return to Eppo with the lava after you've completed the puzzle.@§7Тебе стоит вернуться к Eppo с лавой, как только ты разгадаешь загадку.
-§7The water is freezing to ice, maybe it opens something?@§7Вода превратилась в лед, может она что-то открыла?
 §a- §7Charge will make you run quickly in a particular direction@§a- §7Charge поможет тебе быстро передвигаться в определенном направлении
 §7You suddenly feel very strange...@§7Ты почувствовал себя очень странно...
 §7A hole in the wall has been opened...@§7Дыра в стене была открыта...
