@@ -179,7 +179,7 @@
 §b(.*) has set (.*) guild rank from (.*) to (.*)@§b(r1) поменял ранг в гильдии (r2) с (r3) на (r4)
 §b(.*) has joined the guild! Say hello!@§b(r1) присоединился к гильдии! Скажите привет!
 §b(.*) has left the guild.@§b(r1) вышел из гильдии.
-§e(.*) friends \((.*)\): (.*)@§e(r1) друзья ((r2)): (r3)
+§e(.*)'s friends \((.*)\): (.*)@§e(r1)'а друзья ((r2)): (r3)
 §e(.*) is not a friend! Type §6\/friend list§e.@§e(r1) не является другом! Напиши §6/friend list§e.
 §e(.*) is already a friend! Type §6\/friend list§e.@§e(r1) уже твой друг! Напиши §6/friend list§e.
 §e(.*) joined the game@§e(r1) присоединился к игре
