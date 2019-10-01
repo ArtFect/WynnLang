@@ -118,10 +118,10 @@
 §4You cannot afford that! Adding these powders will cost (.*)@§4Ты не можешь себе этого позволить! Добавление порошков на предмет будет стоить (r1)
 (.*) You are now combat level (.*)@§e                      Ты достиг (r2) комбат уровня
 §7\[Daily Rewards: §a(.*) emeralds§7 and §b(.*) items§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7 и §b(r2) предмета§7]
-(.*) has logged into server (.*) as §ba (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
-(.*) has logged into server (.*) as §ban (.*)@§b(r1) §3зашел на сервер §b(r2) §3классом §b(r3)
-(.*) has logged into server (.*) as §aa (.*)@§a(r1) §3зашел на сервер §r(r2) §3классом §a(r3)
-(.*) has logged into server (.*) as §aan (.*)@§a(r1) §3зашел на сервер §r(r2) §3классом §a(r3)
+(.*) has logged into server (.*) as §ba (.*)@(r1) §3зашел на сервер (r2) §3классом §b(r3)
+(.*) has logged into server (.*) as §ban (.*)@(r1) §3зашел на сервер (r2) §3классом §b(r3)
+(.*) has logged into server (.*) as §aa (.*)@(r1) §3зашел на сервер (r2) §3классом §a(r3)
+(.*) has logged into server (.*) as §aan (.*)@(r1) §3зашел на сервер (r2) §3классом §a(r3)
 §7\+ New Recipe \[Lv. (.*)\]@§7+ Новые рецепты [Ур. (r1)]
 §e(.*) You are now level (.*) in (.*)@§e                  Ты достиг (r2) уровня в (r3)
 §5Only (.*) more levels §5until you can use the (.*)@§5Еще §d(r1) уровня §5и ты сможешь использовать §d(r2)
