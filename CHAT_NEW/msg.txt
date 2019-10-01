@@ -156,58 +156,45 @@
 §d     -§7 About Discovery: §f§oIn the year 854 AP (After Portal), a massive horde of undead lead by Bak’al attacked Ragni. The people of the city sought refuge in the sewer, the only safe place left.@§d     -§7 Об открытии: §r§f§oВ 854 году после открытия портала огромная толпа мертвецов под руководством Bak'al'a напала на Ragni. Люди из города нашли убежище в канализации - единственном оставшемся безопасном месте.
 §d     -§7 About Discovery: §f§oNemract was one of the cities attacked most often. The people would hide in the gutters and sewers until it was over. However, corrupt enemies are not without intelligence, and they were quickly discovered by the enemy.@§d     -§7 Об открытии: §f§oNemract был одним из самых часто атакуемых городов. Люди прятались в канавах и канализациях, пока атаки не заканчивались. Однако, монстры были не глупы, и они быстро находили своих жертв здесь. 
 §d     -§7 About Discovery: §f§oThis old library has been slumbering beneath Lusuco for years. It tells the story of the legendary Twain children.@§d     -§7 Об открытии: §f§oЭта старая библиотека под городом Lusuco была заброшена годами. Она расскажет тебе историю легендарных детей семейства Twain. 
-
-
 §7Ye who seek knowledge, follow in my footsteps and gain wisdom.@§7Тот, кто ищет знания - иди по моим стопам и обрети мудрость.
 
+
 ###################################Квесты##################################
-###################################Гильдия##################################
-###################################Награды из контейнера##################################
-###################################Данжи##################################
-###################################Библиотеки##################################
-###################################Системные##################################
 §4You must talk to the King first. Right-click on him to start a conversation.@§4Ты должен сначала поговорить с Королем. Правый клик по нему, чтобы начать разговор.
-§cThe server is restarting in 1 minute.@§cСервер перезагрузится через 1 минуту
-§cThe server is restarting in 1 second.@§cСервер перезагрузится через 1 секунду
-§cThe server is restarting@§cСервер перезагружается
-§bServer restarting!@§bПерезагрузка сервера!
-§7[Quest Book Updated]@§7[Квестовая книга обновлена]
 §7The pillar seems very unstable...@§7Эта опора выглядит крайне нестабильно.
 §7What is this weird sound? It sounds like running water.@§7Что это за странный звук? Звучит как бегущая вода.
 §7The pipe is flooding! Run!@§7Труба наполняется! Беги!
 §7The explosion appears to be more powerful than expected!@§7Взрыв оказался мощнее, чем ожидалось!
-§6                            [Quest Completed]@§6                              [Квест пройден]
-§d            Rewards:@§d            Награда:
-§5As the sun rises, you feel a little bit safer...@§5С восходом солнца ты чувствуешь себя немного безопаснее...
-§d[+1 Soul Point]@§d[+1 Очко душ]
 §7A massive tremor suddenly rocks the hill, and a wave of despair washes over you. This feels somehow familiar...@§7Началась массивная тряска, неожиданно камни попадали с гор, и волна отчаяния накатила на тебя. Это выглядит как-то знакомо...
-                           §6[Area Discovered]@                           §6[Открыта Территория]
-§d     Info:@§d     Инфо:
-§4You must identify this item before using it.@§4Ты должен идентифицировать этот предмет, прежде чем использовать.
-§eYou've been rocketed by the great web.@§eТы был подброшен великой паутиной.
 §7This platform is surrounded by lava. You should collect some at the edge of it.@§7Эта платформа вся окружена лавой. Ты должен собрать немного на ее краю.
 §7This should be more than enough lava, you should report back to Captain Enduyn.@§7Этого количества лавы будет более чем достаточно, ты должен вернуться обратно к Captain Enduyn'у.
-§7[Please empty some space in your inventory first]@§7[Пожалуйста, сначала освободи немного места в своем инвентаре]
 §4The screams of an unknown creature echo in your ears. It is not safe to continue without proper protection. You should report back to Laloire.@§4Ты услышал крик неизвестного существа. Будет опасно продолжать без должной защиты. Ты должен сообщить обо всем Laloire.
 §4There must be a way to open the door to the scientist's secret grave.@§4Должен быть способ открыть дверь в секретную гробницу ученого.
 §4There is an odd skeleton wearing earmuffs ahead.@§4Впереди странный скелет с надетыми наушниками.
-§7Loading Resource Pack...@§7Загружаем Текстурпак...
-§cLoading the WynnPack...@§cЗагружаем WynnPack...
-§6Thank you for using the WynnPack. Enjoy the game!@§6Спасибо, что используешь WynnPack. Наслаждайся игрой!
-§cSelect a class! Each class is saved individually across all servers, you can come back at any time with /class and select another class!@§cВыбери класс! Каждый класс сохраняется индивидуально на всех серверах, ты можешь в любой момент набрать /class и выбрать другой!
-§4You need to wait §c60 seconds§4 after logging in to gather from this resource!@§4Тебе нужно подождать §c60 секунд §4после 
-§4You need to wait §c30 seconds§4 after logging in to gather from this resource!@§4Тебе нужно подождать §c30 секунд§4 после входа на сервер чтобы собрать этот ресурс!
 §7The light dog lunges towards you!@§7Собака света напала на тебя!
-§4Invalid command... Type /help for a list of commands@§4Неизвестная команда... Напиши /help для списка команд
-§4§lYou have died...@§4§lТы погиб...
-§72 soul points have been lost...@§72 очка душ было утеряно...
-§6                                §6§lLevel Up!@                          §6§lУровень повышен!
-§7+ 1 Max Unrefined Material Weight@§7+ 1 К максимальному весу ресурсов
 §7The seed must have hatched! But if something hatched from the seed... then where did it go?@§7Семя выглядит так, как будто кто-то вылупился из него! Но если оно вылупилось...куда же оно делось?
-§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню и крафтовые предметы.
-§4You are not in a guild!@§4Ты не состоишь в гильдии!
-§4You will need this item in later quests!@§4Этот предмет понадобится тебе в будущих квестах!
-§7You walk away wondering if the citizen stands all day long welcoming adventurers...@§7Ты уходишь, задаваясь вопросом - стоит ли этот житель здесь весь день, приветствуя путешественников...
+§7A piece of the creeper came along with you after the blast catapulted you here. Maybe Thomas would like to take a look at it.@Кусочек крипера прилетел вместе с тобой после того, как взрыв катапультировал тебя сюда. Может быть, Thomas хотел бы взглянуть на него.
+§7You should head back to the mage with the wand.@§7Ты должен вернуться с посохом назад к магу.
+§7This is the Temple of Time...@§7Это Храм Времени...
+§7Here you can visit the memories of this land...@§7Здесь ты можешь посетить воспоминания об этой земле...
+§7The altar requires an item from the time you desire to access...@§7Для алтаря необходим предмет из того времени, которое ты хочешь посетить...
+§7You can not return until your goal is fulfilled...@§7Ты не сможешь вернуться, пока твоя цель не будет выполнена...
+§7You will access a memory as if you were present, but when you return it will be as if you were never there.@§7Ты получишь доступ к памяти, как будто для тебя это будет настоящее, но когда ты вернешься, все будет так, будто ты никогда не был здесь.
+§7You should stick around to find out how to reverse the spell.@§7Ты должен походить вокруг и узнать, как обратить заклинание вспять.
+§aThe bridge has been fixed!@§7Мост был восстановлен!
+§7You find a tattered journal on the ground in front of this slimy cave. You skim through some of the pages...@§7Ты нашел разорванный журнал перед входом в эту слизкую пещеру. Ты начал просматривать несколько страниц...
+§7§o...this§7§o §7§ocave...for§7§o some reason it seems to §7§l§oerupt§7§o with fresh slime masses every minute...@§7§o...эта пещера...по какой-то причине она §7§l§oизвергает§7§o свежую массу из слаймов каждую минуту...
+§7§o...the§7§o §7§obottom...has§7§o a weird §7§l§opit§7§o...maybe§7§o used to §7§l§osacrifice§7§o something...@§7§o...на дне...есть странная §7§l§oяма§7§o...возможно, когда-то использовалась для §7§l§oжертвоприношений§7§o...
+§7§o...maybe...if§7§o you §7§l§obring a mob there§7§o...by§7§o §7§l§oletting it follow you§7§o...you§7§o can do something...§7§l§odark§7§o...@§7§o...быть может...если ты §7§l§oприведешь сюда моба§7§o...§7§l§oпозволяя ему следовать за тобой§7§o... то можно создать нечто...§7§l§oтемное§7§o...
+§7It would be rude to go inside without Asher's permission.@§7Было бы невежливо войти внутрь без разрешения Asher'а.
+
+###################################Гильдия##################################
+
+###################################Награды из контейнера##################################
+
+###################################Данжи##################################
+
+###################################Библиотеки и тексты##################################
 §e                         §e§lPowder Manual@§eРуководство о порошках
 §6                     Chapter 1 - The Basics@§fГлава 1 - Основы
 §7    §7§oThere exist five varieties of magic powder, each corresponding to one of five different elements; §c✹ Fire§7, §b❉ Water§7, §e✦ Thunder§7, §2✤ Earth§7§o, and §f❋ Air§7.@§7§oСуществуют пять разновидностей магических порошков, каждый из которых соответствует одному из пяти различных элементов: §f❋ Воздух§a, §e✦ Гром§a, §2✤ Земля§a, §4✹ Огонь§a, и §b❉ Вода§a.
@@ -215,8 +202,40 @@
 §7    §7§oCertain items have a higher magical capacity, and thusly are able to hold more powders within them. Some have many, some have few, others still have none.@§7§oРазличные предметы имеют более высокую магическую вместимость, и таким образом, способны вмещать больше порошков внутри себя. Некоторые вмещают много, некоторые мало, другие вообще не вмещают.
 §7    §7§oShould a §7§l§oweapon §7be enchanted with a powder, the powder will imbue the item with a slight amount of elemental damage, but also transfer basic neutral damage into its element.@§7§oЕсли §7§l§oоружие§7 будет зачаровано порошком, то порошок наполнит предмет небольшим количеством элементального урона, и также перенесет основной нейтральный урон в его элемент.
 §7    §7§oShould a piece of §7§l§oarmour §7be enchanted with a powder, the garment will gain a resistance towards that powder's element, at the cost of an elemental weakness.@§7§oЕсли часть §7§l§oброни§7 будет зачарована порошком, предмет получит сопротивление к элементу этого порошка, ценой элементальной слабости.
+
+###################################Прочие##################################
+§7You walk away wondering if the citizen stands all day long welcoming adventurers...@§7Ты уходишь, задаваясь вопросом - стоит ли этот житель здесь весь день, приветствуя путешественников...
+
+###################################Системные##################################
+§cThe server is restarting in 1 minute.@§cСервер перезагрузится через 1 минуту
+§cThe server is restarting in 1 second.@§cСервер перезагрузится через 1 секунду
+§cThe server is restarting@§cСервер перезагружается
+§bServer restarting!@§bПерезагрузка сервера!
+§7[Quest Book Updated]@§7[Квестовая книга обновлена]
+§6                            [Quest Completed]@§6                              [Квест пройден]
+§d            Rewards:@§d            Награда:
+§5As the sun rises, you feel a little bit safer...@§5С восходом солнца ты чувствуешь себя немного безопаснее...
+§d[+1 Soul Point]@§d[+1 Очко душ]
+                           §6[Area Discovered]@                           §6[Открыта Территория]
+§d     Info:@§d     Инфо:
+§4You must identify this item before using it.@§4Ты должен идентифицировать этот предмет, прежде чем использовать.
+§eYou've been rocketed by the great web.@§eТы был подброшен великой паутиной.
+§7[Please empty some space in your inventory first]@§7[Пожалуйста, сначала освободи немного места в своем инвентаре]
+§7Loading Resource Pack...@§7Загружаем Текстурпак...
+§cLoading the WynnPack...@§cЗагружаем WynnPack...
+§6Thank you for using the WynnPack. Enjoy the game!@§6Спасибо, что используешь WynnPack. Наслаждайся игрой!
+§cSelect a class! Each class is saved individually across all servers, you can come back at any time with /class and select another class!@§cВыбери класс! Каждый класс сохраняется индивидуально на всех серверах, ты можешь в любой момент набрать /class и выбрать другой!
+§4You need to wait §c60 seconds§4 after logging in to gather from this resource!@§4Тебе нужно подождать §c60 секунд §4после 
+§4You need to wait §c30 seconds§4 after logging in to gather from this resource!@§4Тебе нужно подождать §c30 секунд§4 после входа на сервер чтобы собрать этот ресурс!
+§4Invalid command... Type /help for a list of commands@§4Неизвестная команда... Напиши /help для списка команд
+§4§lYou have died...@§4§lТы погиб...
+§72 soul points have been lost...@§72 очка душ было утеряно...
+§6                                §6§lLevel Up!@                          §6§lУровень повышен!
+§7+ 1 Max Unrefined Material Weight@§7+ 1 К максимальному весу ресурсов
+§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню и крафтовые предметы.
+§4You are not in a guild!@§4Ты не состоишь в гильдии!
+§4You will need this item in later quests!@§4Этот предмет понадобится тебе в будущих квестах!
 §6[§e!§6] §7Opening door...@§6[§e!§6] §7Открытие двери...
-§7A piece of the creeper came along with you after the blast catapulted you here. Maybe Thomas would like to take a look at it.@Кусочек крипера прилетел вместе с тобой после того, как взрыв катапультировал тебя сюда. Может быть, Thomas хотел бы взглянуть на него.
 §6      Manage your friends@§6Управление друзьями 
 §6      Manage your ignored players@§6Управление игнорируемыми игроками 
 §6      Manage your party@§6Управление пати 
@@ -232,7 +251,8 @@
 §6      Lock / unlock the item in your hand, making it so you can't accidentally drop it@§6Заблокировать / разблокировать предмет в твоей руке, чтобы случайно его не выбросить 
 §6      Choose a class to play as@§6Выбрать класс для игры  
 §6      Toggle gameplay items on or off@§6Включить или отключить элементы геймплея
-§4You have no items of this type to use. Buy some at our website, §cwynncraft.com/store@§4У вас нет предметов этого типа для использования. Можете купить их на нашем сайте §cwynncraft.com/store
+§4You have no items of this type to use. Buy some at our website, §cwynncraft.com/store@§4У тебя нет предметов этого типа для использования. Можешь купить их на нашем сайте §cwynncraft.com/store
+§dVisit the Trade Market to claim your item@§dПосети Trade Market, чтобы забрать свой предмет
 §dVisit the Trade Market to claim your items@§dПосети Trade Market, чтобы забрать свои предметы
 §6Type the item name or type 'cancel' to cancel:@§6Напиши название предмета, или 'cancel' для отмены:
 §4You have not unlocked this spell!@§4Ты еще не открыл это заклинание!
@@ -247,22 +267,8 @@
 §cYour Crafted Items are damaged and have become less effective. Bring them to a Blacksmith to repair them.@§cТвои крафтовые предметы повредились и стали менее эффективными. Принеси их к Blacksmith'у, чтобы починить.
 §5Item Identifier: §dIt is done. Your item has been identified. The magic it contains will now blossom.@§5Item Identifier: §dГотово. Твой предмет был идентифицирован. Магия, содержащаяся в нем, теперь раскрыта.
 §5Item Identifier: §dIt is done. Your items has been identified. The magic they contain will now blossom.@§5Item Identifier: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
-§dVisit the Trade Market to claim your item@§dПосети Trade Market, чтобы забрать свой предмет
-§7You should head back to the mage with the wand.@§7Ты должен вернуться с посохом назад к магу.
 §41 soul point has been lost...@§41 очко душ было потрачено...
-§7This is the Temple of Time...@§7Это Храм Времени...
-§7Here you can visit the memories of this land...@§7Здесь ты можешь посетить воспоминания об этой земле...
-§7The altar requires an item from the time you desire to access...@§7Для алтаря необходим предмет из того времени, которое ты хочешь посетить...
-§7You can not return until your goal is fulfilled...@§7Ты не сможешь вернуться, пока твоя цель не будет выполнена...
-§7You will access a memory as if you were present, but when you return it will be as if you were never there.@§7Ты получишь доступ к памяти, как будто для тебя это будет настоящее, но когда ты вернешься, все будет так, будто ты никогда не был здесь.
-§7You should stick around to find out how to reverse the spell.@§7Ты должен походить вокруг и узнать, как обратить заклинание вспять.
-§aThe bridge has been fixed!@§7Мост был восстановлен!
 §4You can skip the tutorial by typing: §c/skiptutorial§4. You will not receive resources, tools, or a crafted item by doing this.@§cТы можешь пропустить туториал командой /skiptutorial. Ты не получишь ресурсы, инструменты, или крафтовые предметы, сделав это.
-§7You find a tattered journal on the ground in front of this slimy cave. You skim through some of the pages...@§7Ты нашел разорванный журнал перед входом в эту слизкую пещеру. Ты начал просматривать несколько страниц...
-§7§o...this§7§o §7§ocave...for§7§o some reason it seems to §7§l§oerupt§7§o with fresh slime masses every minute...@§7§o...эта пещера...по какой-то причине она §7§l§oизвергает§7§o свежую массу из слаймов каждую минуту...
-§7§o...the§7§o §7§obottom...has§7§o a weird §7§l§opit§7§o...maybe§7§o used to §7§l§osacrifice§7§o something...@§7§o...на дне...есть странная §7§l§oяма§7§o...возможно, когда-то использовалась для §7§l§oжертвоприношений§7§o...
-§7§o...maybe...if§7§o you §7§l§obring a mob there§7§o...by§7§o §7§l§oletting it follow you§7§o...you§7§o can do something...§7§l§odark§7§o...@§7§o...быть может...если ты §7§l§oприведешь сюда моба§7§o...§7§l§oпозволяя ему следовать за тобой§7§o... то можно создать нечто...§7§l§oтемное§7§o...
-§7It would be rude to go inside without Asher's permission.@§7Было бы невежливо войти внутрь без разрешения Asher'а.
 §6                  Chapter 3 - Elemental Abilities@§6Глава 3 - Элементальные Способности
 §2    ✤§2§l Earth: §7§o Earth-imbued weapons will unleash a powerful quake, rupturing the nearby ground and disorienting enemies. Earth-augmented armors produce a rage-state in the user as they near death, turning Earth-based attacks more potent, and more violent.@§2    ✤§2§lЗемля:§7§o Наполненное землей оружие позволяет выпустить мощное землетрясение, разрушающее земли поблизости, и дезориентирующее врагов. Дополненная землей броня приводит в состояние ярости игрока, когда он близок к смерти, и делает земляные атаки более мощными и более жестокими.
 §e    ✦§e§l Thunder: §7§o Thunder-imbued weapons can release a streak of lightning that seeks enemies, bouncing from one foe to the next nearby. Thunder-augmented armors will steal the life force of the slain, and in kind increase the power of Thunder-based attacks temporarily.@§e    ✦§e§l Гром:§7§o Наполненное громом оружие может выпустить череду молний, которые ищут врагов, отражаясь от одного ближайшего врага к другому. Дополненная громом броня крадет жизненную силу при убийстве, и ненадолго увеличивает силу громовых атак.
