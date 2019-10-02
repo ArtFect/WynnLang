@@ -9,8 +9,10 @@ import org.apache.http.client.ClientProtocolException;
 import net.minecraft.client.Minecraft;
 import net.minecraft.util.text.ChatType;
 import net.minecraft.util.text.ITextComponent;
+import net.minecraft.util.text.Style;
 import net.minecraft.util.text.TextComponentString;
 import net.minecraft.util.text.event.ClickEvent;
+import net.minecraft.util.text.event.HoverEvent;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.network.FMLNetworkEvent;
@@ -24,10 +26,21 @@ public class EventsHandler {
         }
         ITextComponent rawMsg = e.getMessage();
         String message = rawMsg.getFormattedText();
+
+        ClickEvent clickEvent = null;
+        HoverEvent hoverEvent = null;
+        for (ITextComponent part : rawMsg.getSiblings()) {
+            Style st = part.getStyle();
+            if (st.getClickEvent() != null || st.getHoverEvent() != null) {
+                clickEvent = st.getClickEvent();
+                hoverEvent = st.getHoverEvent();
+            }
+        }
+
         String replace = WynnLang.findReplace(MessageType.CHAT_NEW, message.replace("§r", ""));
         if (replace != null) {
             if (!replace.isEmpty()) {
-                e.setMessage(new TextComponentString(replace));
+                e.setMessage(newMessage(replace, clickEvent, hoverEvent));
             }
             return;
         } else {
@@ -41,6 +54,7 @@ public class EventsHandler {
             replace = WynnLang.findReplace(MessageType.QUEST, format);
             if (replace != null) {
                 e.setMessage(new TextComponentString(message.replace(questMsg.group(2), "§a" + replace)));
+                return;
             }
         } else {
             String format = WynnLang.format(message);
@@ -55,6 +69,17 @@ public class EventsHandler {
                 }
             }
         }
+    }
+
+    private TextComponentString newMessage(String replace, ClickEvent clickEvent, HoverEvent hoverEvent) {
+        TextComponentString msg = new TextComponentString(replace);
+        if (clickEvent != null || hoverEvent != null) {
+            Style style = new Style();
+            style.setClickEvent(clickEvent);
+            style.setHoverEvent(hoverEvent);
+            msg.setStyle(style);
+        }
+        return msg;
     }
 
     @SubscribeEvent

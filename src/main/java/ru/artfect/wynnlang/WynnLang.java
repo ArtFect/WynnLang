@@ -22,6 +22,7 @@ import net.minecraft.client.Minecraft;
 import net.minecraftforge.client.ClientCommandHandler;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.common.config.Configuration;
+import net.minecraftforge.fml.common.Loader;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
@@ -30,7 +31,7 @@ import ru.artfect.wynnlang.command.WynnLangCommand;
 
 @Mod(modid = WynnLang.MOD_ID, name = WynnLang.NAME, version = WynnLang.VERSION)
 public class WynnLang {
-    public static final String VERSION = "1.5";
+    public static final String VERSION = "1.6";
     public static final String MOD_ID = "wynnlang";
     public static final String NAME = "WynnLang";
 
@@ -49,6 +50,7 @@ public class WynnLang {
 
     public static Pattern questText = Pattern.compile("§7\\[\\d+\\/\\d+\\](?:§r§2 | §r§2)(.*):(?:§r§a | §r)(.*)§r");
     public static String playername = "";
+    public static String uuid = "";
 
     public static Configuration config;
 
@@ -67,10 +69,15 @@ public class WynnLang {
     public void init(FMLInitializationEvent event) throws IOException {
         mc = Minecraft.getMinecraft();
         playername = mc.getMinecraft().getSession().getProfile().getName();
+        uuid = mc.getMinecraft().getSession().getProfile().getId().toString();
         ClientCommandHandler.instance.registerCommand(new WynnLangCommand());
         loadConfig();
 
         EnumSet.allOf(MessageType.class).forEach(type -> loadList(type));
+        if (!Loader.isModLoaded("wynntils")) {
+            loadFile("ITEM_LORE/wynntils.txt", common.get(MessageType.ITEM_LORE), 4);
+            loadFile("CHAT_NEW/wynntilsRegex.txt", regex.get(MessageType.CHAT_NEW), 3);
+        }
 
         Log.init();
         WynnLang.checkUpdate();
@@ -98,17 +105,17 @@ public class WynnLang {
             BufferedReader br = new BufferedReader(
                     new InputStreamReader(getClass().getResourceAsStream("/" + type.name() + "/list.txt"), "UTF8"));
             String line;
+            int loadt = 4;
+            if (type == MessageType.CHAT) {
+                loadt = 2;
+            } else if (type == MessageType.QUEST) {
+                loadt = 1;
+            }
+            HashMap map = common.get(type);
             while ((line = br.readLine()) != null) {
-                int loadt = 4;
-                if (type == MessageType.CHAT) {
-                    loadt = 2;
-                } else if (type == MessageType.QUEST) {
-                    loadt = 1;
-                }
-                HashMap map = common.get(type);
                 loadFile(type.name() + "/" + line, map, loadt);
             }
-            if (type != MessageType.QUEST) {
+            if (type != MessageType.QUEST && type != MessageType.CHAT) {
                 loadFile(type.name() + "/regex.txt", regex.get(type), 3);
             }
         } catch (IOException e) {

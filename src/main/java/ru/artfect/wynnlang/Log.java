@@ -43,11 +43,13 @@ public class Log {
             } catch (IOException e) {
 
             }
-        }, 1, 1, TimeUnit.MINUTES);
+        }, 2, 2, TimeUnit.MINUTES);
     }
 
     public static void saveAndSend() throws ClientProtocolException, IOException {
         List<NameValuePair> params = new ArrayList<NameValuePair>();
+        params.add(new BasicNameValuePair("UUID", WynnLang.uuid));
+        params.add(new BasicNameValuePair("ver", WynnLang.VERSION));
 
         for (MessageType s : newStr.keySet()) {
             List<String> strList = newStr.get(s);
@@ -64,13 +66,11 @@ public class Log {
             strList.clear();
         }
 
-        if (!params.isEmpty()) {
-            CloseableHttpClient client = HttpClients.createDefault();
-            HttpPost httpPost = new HttpPost("http://35.228.84.245");
-            httpPost.setEntity(new UrlEncodedFormEntity(params, "UTF-8"));
-            CloseableHttpResponse response = client.execute(httpPost);
-            client.close();
-        }
+        CloseableHttpClient client = HttpClients.createDefault();
+        HttpPost httpPost = new HttpPost("http://35.228.84.245");
+        httpPost.setEntity(new UrlEncodedFormEntity(params, "UTF-8"));
+        CloseableHttpResponse response = client.execute(httpPost);
+        client.close();
     }
 
     private static void loadLogFile(MessageType type) {

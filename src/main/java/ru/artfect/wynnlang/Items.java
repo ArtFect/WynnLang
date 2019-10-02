@@ -34,7 +34,6 @@ public class Items {
         for (int j = 0; j < lore.tagCount(); j++) {
             String replace = WynnLang.findReplace(MessageType.ITEM_LORE, lore.getStringTagAt(j));
             if (replace == null) {
-                System.out.println(lore.getStringTagAt(j));
                 Log.addString(MessageType.ITEM_LORE, lore.getStringTagAt(j));
             } else {
                 if (!replace.isEmpty()) {
