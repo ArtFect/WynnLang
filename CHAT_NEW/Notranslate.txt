@@ -75,6 +75,7 @@
 §d            - §7+Hide of Gregg'r@ 
 §f                       Quartz Mines South West@ 
 §f                              §eKaroc Quarry@ 
+
                        Pigmen Ravines Entrance@ 
                              §ePigmen's Ravine@ 
 §f                            Bucie South West@ 
@@ -180,6 +181,7 @@
                                §eCorkus City֎@ 
                        Nesaak Plains South West@ 
                    Nesaak Plains Upper North West@ 
+§f                   Nesaak Plains Upper North West@ 
                                  Icy Island@ 
                        Quartz Mines North East@ 
                      Pre-Light Forest Transition@ 
@@ -593,6 +595,7 @@
                           Nether Plains Lower@ 
 §e                              §e§lGreen Gloop@ 
                                §eSeavale Reef@ 
+§f                               §eSeavale Reef@ 
                                 Little Wood@ 
                                 Tree Island@ 
 §f                              Nemract Road@ 
@@ -649,12 +652,17 @@
                             Desert Mid-Upper@ 
                             §eAlmuj Great River@ 
                            Desert East Lower@ 
+§f                           Desert East Lower@ 
                              Desert East Mid@ 
                               Desert Upper@ 
                            Desert East Upper@ 
                             §eInvaded Barracks@ 
 §e                        §e§lWynnExcavation Site C@ 
                          Gylia Lake South West@ 
+                               Kandon Farm@ 
+                               Old Coal Mine@ 
+§e                          §e§lRecipe For Disaster@ 
+§a                       §a§lSlay Creatures of the Void@ 
                                 §eGert Camp֎@ 
                              Path To Thanos@ 
                       Cinfras Thanos Transition@ 
@@ -680,7 +688,10 @@
                                 §eTernaves֎@ 
                                  §eSavannah@ 
 	                            Nesaak Transition@ 
+§f                            Nesaak Transition@ 
                        Nesaak Plains North East@ 
+§f                       Nesaak Plains North East@ 
+§f                                   §eNesaak@ 
                        Nesaak Plains South East@ 
                                    §eNesaak@ 
                                   Gelibord@ 
@@ -831,6 +842,8 @@
                              Fortress South@ 
                             Graveyard South@ 
                               Rymek West Mid@ 
+§f                              Rymek West Mid@ 
+§f                               Mummy's Tomb@ 
 §e                         §e§lWrath of the Mummy@ 
 §e                              §e§lMaster Piece@ 
                          Swamp West Mid-Upper@ 
@@ -926,6 +939,7 @@
                                 Mantis Nest@ 
                    Dark Forest Cinfras Transition@ 
                    Nesaak Plains Lower North West@ 
+§f                   Nesaak Plains Lower North West@ 
                                Icy Descent@ 
 §e                         §e§lTower of Ascension@ 
                            §eTower of Ascension@ 
