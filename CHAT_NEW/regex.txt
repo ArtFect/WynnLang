@@ -107,7 +107,7 @@
 §7You have set your weapon skin to (.*)@§7Ты установил на свое оружие (r1) скин
 §4Try adding some more §c(.*)§4 items.@§4Попробуй добавить больше §c(r1)§4 наград.
 §e(.*) has joined the party.@§e(r1) присоединился к пати.
-§eParty members: §b(.*), §f(.*)@§eУчастники пати: §b(r1), §f(r2)
+§eParty members: (.*)@§eУчастники пати: (r1)
 §eYou have been invited to join (.*) party.@§eТы был приглашен присоединиться к (r1) пати.
 §eType the command §6\/party join (.*)§e to join!@§eНапиши команду §6/party join (r1)§e чтобы присоединиться!
 §e(.*) has left the party.@§e(r1) покинул пати.
