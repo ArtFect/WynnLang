@@ -64,43 +64,44 @@
 §7[9/9] §2Frank: §aGot all that? If you need a refresher, hit me up again. Just be sure to check your map if you get lost looking for all this stuff.@§7[9/9] §2Frank: §aВсе запомнил? Если что-то забыл, спроси меня снова. И обязательно смотри на карту, если потеряешься в поисках.
 §7[1/1] §2Frank: §aIn case ya forgot, the ingredients are §3[Sunrise Flour]§a, §3[Blue-Ring Grook Egg]§a and §3[Skyhigh Raspberry]§a.@§7[1/1] §2Frank: §aЕсли ты забыл, нужные ингредиенты §3[Очищенная Мука]§a, §3[Синее Яйцо Grook'a]§a и §3[Высокорастущая Малина].
 §7Looking at your map, these ingredients should be at [1103,113,-4434], [626,43,-4645] and [1400,102,-3940] respectively.@§7Посмотрев на свою карту, нужные ингредиенты должны быть на координатах [1103,113,-4434], [626,43,-4645] и [1400,102,-3940] соответственно.
-§7[1/7] §2Baker: §aHello there! I can see you knead some sunrise flour, don't you?@§7[1/7] §2Baker: §aПривет! Я вижу, ты любишь месить муку, не так ли?
+§7You hear faint clucking up ahead.. The Grooks seem to be angry with you for taking an egg.@§7Ты слышишь слабое кудахтанье впереди.. Похоже Grook'и обозлились на тебя, за то что ты взял яйцо.
+§7[1/1] §2Chef Hamsey: §aCome into the kitchen, mon ami.@§7[1/1] §2Chef Hamsey: §aПроходи на мой кухня, мой друк.
+§7[1/2] §2Frank: §aWell done on getting them items, some of 'em are pretty tough to find!@§7[1/2] §2Frank: §aОтличная работа, ты все достал! Думаю, это было не так-то просто!
+§7You use the oven to bake a simple egg and flour dough filled with Skyhigh Raspberries. Smells like... pie?@§7Ты использовал духовку, чтобы запечь муку с яйцом и малиной. Пахнет как... пирог?
+§7[2/2] §2Frank: §aGo on ahead into Hamsey's private dining area, over there to my left. Good luck.@§7[2/2] §2Frank: §aИди в комнату для дегустации к Hamsey. Она слева от меня. Удачи.
+§7[1/4] §2Chef Hamsey: §aI see you've returned, and not empty handed. Please, show me what you've created!@§7[1/4] §2Chef Hamsey: §aЯ вижу, ти вернутца не с пустими руками. Просчу, показать мне, счто ти приготовить!
+§7[2/4] §2Chef Hamsey: §aA pie? Why, you must have been helped by Frank. He always has a thing for making pie!@§7[2/4] §2Chef Hamsey: §aПирог? Далжно бить Frank помогать тибе. Он всегда любить приготовить пирог!
+§7You barely take your first bite into Chef Hamsey's dish before it melts in your mouth... Will the pie manage to match Hamsey's skills?@§7Как только ты сделал первый укус блюда шефа Hamsey, оно растаяло у тебя во рту... Сможет ли твой пирог соответствовать умениям Hamsey?
+§7[3/4] §2Chef Hamsey: §aI can see that your compétences culinaires are almost at par with mine!@§7[3/4] §2Chef Hamsey: §aЯ вижу, счто твой уровень кулинария на равне со мной!
+§7[4/4] §2Chef Hamsey: §aThough I will not truly call you a chef quite yet, you are très bien! Have this reward as congratulations!@§7[4/4] §2Chef Hamsey: §aКонечно, я ни давать тибе счеф прямо сейчас, но ти уже очень хорошь! Возьми это награда в качистве поздравлении!
+§7[1/2] §2Antrus: §aThe void does strange things toooo our bodies. Just look at us! We've lived down here for one thousand years without dying.@§7[1/2] §2Antrus: §aПустота делает странные вещи с нааааашими телами. Только посмотри на нас! Мы прожили здесь тысячу лет, не умирая.
+§7[2/2] §2Antrus: §aIt's like we haven't even aged.@§7[2/2] §2Antrus: §aКак будто мы даже не постарели.
+§7[1/1] §2Valimare: §aEy, where do ya think you're goin'?@§7[1/1] §2Valimare: §aЭй, куда это ты собрался?
+§7[1/1] §2Celuuse: §aBack here again? I thought Rontaid got everything sorted out for youuuuuu.@§7[1/1] §2Celuuse: §aОпять вернулся? Я думал Rontaid все уладил для теееебя.
+§7[1/2] §2Rontaid: §aBack again, I see. That Ynnos is a rather kind fellow.@§7[1/2] §2Rontaid: §aЯ вижу, снова вернулся. Этот Ynnos довольно добрый малый.
+§7[2/2] §2Rontaid: §aHe is trying to make arrangements to send proper shipments of supplies down here.@§7[2/2] §2Rontaid: §aОн пытается договориться о том, чтобы отправить сюда соответствующие партии припасов.
+§7[1/1]§2 Seaskipper Captain: §aFriend, have you been drinkin' a lot? That pass yer tryin' to use, you are already here! @§7[1/1]§2 Seaskipper Captain: §aДружище, ты что, много выпил? Билет, который ты пытаешься использовать - ты ведь уже здесь!
+§7[1/1] §2Captain Ackbar: §aThe engines are now fully operational! I have to thank you once again. I you should go to your cabin, and rest. I hope there are no more issues in our flight.@§7[1/1] §2Captain Ackbar: §aДвигатели теперь полностью работоспособны! Я должен поблагодарить тебя еще раз. Думаю, тебе лучше пойти в свою каюту и отдохнуть. Я надеюсь, что в нашем полете больше не будет проблем.
+§4You must be at least level 90 to participate in the Legendary Challenge!@§4Ты должен быть минимум 90 уровня для участия в Легендарном Челлендже!
+§7[2/4] §2Nick: §aWe can't get §a§oany§f §afood? We're running out of options here...@§7[2/4] §2Nick: §aПолучается, мы §a§oне можем §aдостать еду? У нас заканчиваются варианты...
+§3You are now disguised as a §bzombie@§3Ты замаскировался под §bзомби
+§3You are no longer disguised as a §bsheep@§3Ты больше не маскируешься под §bовцу
+§3You are no longer disguised as a §bzombie@§3Ты больше не маскируешься под §bзомби
+§7[1/1] §2Guard: §aHey, don't leave just yet! I need you to come over here and see this!@§7[1/1] §2Guard: §aЭй, не уходи пока! Мне нужно, чтобы ты подошел сюда и увидел это!
+§7[1/1] §2Engineer Eric: §aI can't thank ye enough. You saved me job. Go back to your quarters, I promise we won't bother you again.@§7[1/1] §2Engineer Eric: §aНе могу тебя не отблагодарить. Ты спас мою работу. Возвращайся в свою каюту, обещаю, мы больше не будем тебя беспокоить.
+§7We did not count this death towards your hardcore status.@§7Мы не засчитаем эту смерть в твой хардкор статус.
+§7[1/1] §2Summoner: §aCurses, not you again! What do you want? I stopped as you wish, now go away!@§7[1/1] §2Summoner: §aПроклятие, только не ты снова! Что тебе надо? Я остановился, как ты и хотел, а теперь уходи!
+§7[1/2] §2Psilo: §aJust as a reminder, here’s what you need to do: If you find any bits of cheese, follow the trail. The razorice leave food everywhere they go..@§7[1/2] §2Psilo: §aПросто напоминаю, что тебе нужно сделать: если ты найдешь какие-либо кусочки сыра, следуй за ними по тропе. Razorice оставляют еду везде, куда они идут.
+§7[2/2] §2Psilo: §aOnce you’ve done that, find the blue mushroom I mentioned. It should restore your size to normal. Hurry, time is of the essence.@§7[2/2] §2Psilo: §aКак только это сделаешь, найди синий гриб, который я упомянул. Он должен восстановить твой размер до нормального. Поспеши, время идет.
+§dEarth Effect@Эффект Земли
+§7Create an earth effect around your character@§7Создает эффект земли вокруг персонажа
+§7[1/1] §2Comor: §aWhere are you going? Talk to me first!@§7[1/1] §2Comor: §aКуда ты собрался? Поговори со мной сначала!
+§7[1/3] §2Aledar: §aOkay, you've refined the ingots. Follow me for the next step in the crafting process.@§7[1/3] §2Aledar: §aХорошо, ты переработал слитки. Следуй за мной для следующего шага в процессе крафта.
+
+§7[1/7] §2Baker: §aHello there! I can see you knead some sunrise flour, don't you?@§7[1/7] §2Baker: §a
 §7[2/7] §2Baker: §aIt's needed rye away? Well no worries, friend!@§7[2/7] §2Baker: §a
 §7[3/7] §2Baker: §aWell butter me up and call me toast, it seems I ran out of the stuff, there's none left.@§7[3/7] §2Baker: §a
 §7[4/7] §2Baker: §aI'm sorry if I seem to be just loafing around, but at yeast I know how to make some more.@§7[4/7] §2Baker: §a
 §7[5/7] §2Baker: §aCan you see that wheat field over there, next to the bakery? You can collect some wheat and throw it on the grinding wheel in the bakery.@§7[5/7] §2Baker: §a
 §7[6/7] §2Baker: §aYou are going to knead some §3[High Quality Sunrise Wheat]§a to make it, however.@§7[6/7] §2Baker: §a
 §7[7/7] §2Baker: §aMake as much as you want, I've made all the bread I need for today already.@§7[7/7] §2Baker: §a
-§7You hear faint clucking up ahead.. The Grooks seem to be angry with you for taking an egg.@
-§7[1/1] §2Chef Hamsey: §aCome into the kitchen, mon ami.@
-§7[1/2] §2Frank: §aWell done on getting them items, some of 'em are pretty tough to find!@
-§7You use the oven to bake a simple egg and flour dough filled with Skyhigh Raspberries. Smells like... pie?@
-§7[2/2] §2Frank: §aGo on ahead into Hamsey's private dining area, over there to my left. Good luck.@
-§7[1/4] §2Chef Hamsey: §aI see you've returned, and not empty handed. Please, show me what you've created!@
-§7[2/4] §2Chef Hamsey: §aA pie? Why, you must have been helped by Frank. He always has a thing for making pie!@
-§7You barely take your first bite into Chef Hamsey's dish before it melts in your mouth... Will the pie manage to match Hamsey's skills?@
-§7[3/4] §2Chef Hamsey: §aI can see that your compétences culinaires are almost at par with mine!@
-§7[4/4] §2Chef Hamsey: §aThough I will not truly call you a chef quite yet, you are très bien! Have this reward as congratulations!@
-§7[1/2] §2Antrus: §aThe void does strange things toooo our bodies. Just look at us! We've lived down here for one thousand years without dying.@
-§7[2/2] §2Antrus: §aIt's like we haven't even aged.@
-§7[1/1] §2Valimare: §aEy, where do ya think you're goin'?@
-§7[1/1] §2Celuuse: §aBack here again? I thought Rontaid got everything sorted out for youuuuuu.@
-§7[1/2] §2Rontaid: §aBack again, I see. That Ynnos is a rather kind fellow.@
-§7[2/2] §2Rontaid: §aHe is trying to make arrangements to send proper shipments of supplies down here.@
-§7[1/1]§2 Seaskipper Captain: §aFriend, have you been drinkin' a lot? That pass yer tryin' to use, you are already here! @
-§7[1/1] §2Captain Ackbar: §aThe engines are now fully operational! I have to thank you once again. I you should go to your cabin, and rest. I hope there are no more issues in our flight.@
-§4You must be at least level 90 to participate in the Legendary Challenge!@
-§7[2/4] §2Nick: §aWe can't get §a§oany§f §afood? We're running out of options here...@
-§3You are now disguised as a §bzombie@
-§3You are no longer disguised as a §bsheep@
-§3You are no longer disguised as a §bzombie@
-§7[1/1] §2Guard: §aHey, don't leave just yet! I need you to come over here and see this!@
-§7[1/1] §2Engineer Eric: §aI can't thank ye enough. You saved me job. Go back to your quarters, I promise we won't bother you again.@
-§7We did not count this death towards your hardcore status.@
-§7[1/1] §2Summoner: §aCurses, not you again! What do you want? I stopped as you wish, now go away!@
-§7[1/2] §2Psilo: §aJust as a reminder, here’s what you need to do: If you find any bits of cheese, follow the trail. The razorice leave food everywhere they go..@
-§7[2/2] §2Psilo: §aOnce you’ve done that, find the blue mushroom I mentioned. It should restore your size to normal. Hurry, time is of the essence.@
-§dEarth Effect@
-§7Create an earth effect around your character@
-§7[1/1] §2Comor: §aWhere are you going? Talk to me first!@
-§7[1/3] §2Aledar: §aOkay, you've refined the ingots. Follow me for the next step in the crafting process.@
