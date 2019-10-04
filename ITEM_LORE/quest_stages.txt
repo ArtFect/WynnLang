@@ -85,16 +85,20 @@ QUESTS/An_Iron_Heart_Part_II.txt =====
 §7I) @ 
 §7Find the hidden entrance to @§7Найди скрытый вход 
 §7the factory @§7на фабрику 
+§7Talk to Dr. Urelix in@§7Поговори с Dr. Urelix'ом в 
+§7his office @§7его офисе
 §7Either take the bribe or @§7Возьми взятку или вернись 
 §7return to Detective Hart @§7к Детективу Hart'у 
  
-QUESTS/Arachnids%27_Ascent.txt 
+QUESTS/Arachnids%27_Ascent.txt =====
 §7Speak to Captain Enduyn at @§7Поговори с Капитаном Enduyn'ом на 
 §7[-192,44,-1822]@ 
 §7Enter and climb Mount Wynn @§7Войди и заберись на вершину 
 §7through the cave at @§7Mount Wynn через пещеру на 
 §7[-120,76,-1888]@ 
- 
+§7Return to Captain Enduyn with @§7Вернись к Капитану Enduyn'у 
+§7the lava @§7с лавой
+
 QUESTS/A_Fighting_Species.txt =====
 §7Talk to Darnes in the @§7Поговори с Darnes'ом 
 §7villager camp at @§7в лагере жителей на 
@@ -755,19 +759,20 @@ QUESTS/Flight_in_Distress.txt
 §7Speak to the Passenger Controllant @§7Поговори с Passenger Controllant'ом на 
 §7[-172,108,-4946]@ 
 §7Enter the airship @§7Войди на дирижабль
+§7Speak to Captain Ackbar regarding @§7Поговори с Капитаном Ackbar'ом по поводу
+§7the missing child @§7пропавшего ребенка
 §7Try and find out where @§7Узнай о местонахождении 
 §7the missing child is located @§7пропавшего ребенка 
 §7by speaking to the passengers @§7расспрашивая пассажиров
-§7Speak to Captain Ackbar regarding @§7Поговори с Капитаном Ackbar'ом по поводу
-§7the missing child @§7пропавшего ребенка
 §7Return back to the captain @§7Вернись обратно к капитану
-§7Return back to your cabin @§7Вернись в свою каюту
+§7Go back to your cabin @§7Вернись в свою каюту
 §7Speak to the captain regarding @§7Поговори с капитаном насчет 
 §7the sudden noises @§7внезапного шума
 §7Complete the sound coded system @§7Пройди систему рестарта,
 §7by checking the Engineer's Note, @§7используя записку Engineer'а, 
-§7and return back to the @§7 затем вернись обратно
-§7engineer @§7 к нему
+§7and return back to the @§7 затем вернись обратно к
+§7engineer @§7инженеру
+§7Return back to your cabin @§7Вернись в свою каюту
 §7Explore the lower deck; something @§7Исследуй нижнюю палубу; что-то 
 §7big is approaching @§7большое приближается
 §7Escape your cell and find @§7Сбеги из клетки 
@@ -776,6 +781,13 @@ QUESTS/Flight_in_Distress.txt
 §7Escape the cell, and finalize @§7Сбеги из тюрьмы, и доделай 
 §7the key to reach the @§7ключ к комнате 
 §7pirate queen@§7королевы пиратов
+§7Fight the pirate queen, take @§7Сразись с королевой пиратов,
+§7one of her personal treasures @§7забери ее сокровища 
+§7with you, and escape @§7и сбеги
+§7Speak to Captain Ackbar about @§7Поговори с Капитаном Ackbar'ом 
+§7the findings and the battles @§7о находках и битве
+§7Head down to the entrance @§7Спустись вниз ко входу 
+§7deck, and get off @§7и выйди с корабля
 §7Speak to Calo next to @§7Поговори с Calo 
 §7the little ship at the @§7рядом с небольшим кораблем 
 §7Detlas docks @§7в доках Detlas'а
