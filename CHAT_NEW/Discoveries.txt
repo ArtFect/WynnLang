@@ -35,7 +35,12 @@
 §7[5/7] §2Harv: §aFeh! Not like those big-nosed Grooks are doing a thing to help! Half those golems up there are rusted shut and useless!@§7[5/7] §2Harv: §aФе! Но только не эти большеносые петухи, делающие вид, что помогают! Половина их бесполезных големов наверху проржавели!
 §7[6/7] §2Harv: §aI'd rather take the risk and die buying someone else a few more minutes than waste away down in this rotten hole!@§7[6/7] §2Harv: §aЯ предпочел бы рискнуть и умереть, прожив еще те несколько минут, чем чахнуть в этой гнилой дыре! 
 §7[7/7] §2Marlow: §aWell then, you're a better man than I. Honestly, if I were them, I'da ran for the hills at the sight of this town too. Can't really bring myself to say I blame 'em much.@§7[7/7] §2Marlow: §aНу, тогда ты больше человек, чем я. Если честно, будь я на их месте, я бы тоже бежал на ту гору, не оглядываясь назад на город. Не могу заставить себя сказать, что сильно виню их в этом.
+§7[1/4] §2Poe: §aOh! A visitor! We rarely get people down here. For obvious reasons.@§7[1/4] §2Poe: §aОх! Посетитель! Мы редко видим здесь людей. По понятным причинам.
+§7[2/4] §2Poe: §aI have nothing to offer you, but please, make yourself comfortable. Warm yourself by the fire.@§7[2/4] §2Poe: §aМне нечего тебе предложить, но, пожалуйста, устраивайся поудобнее. Можешь погреться у костра.
+§7[3/4] §2Poe: §aWe need to keep each other's spirits up. After all, when all's said and done, what else do we have?@§7[3/4] §2Poe: §aМы должны поддерживать настроение друг другу. В конце концов, когда все сказано и сделано, что еще нам делать?
+§7[4/4] §2Poe: §aI consider myself lucky to be alive. So many lives were lost in that attack...@§7[4/4] §2Poe: §aЯ считаю, что мне повезло остаться в живых. Так много жизней погибло в той атаке...
 
+#######################Temple of Swords######################
 §7[1/11] §2Junes: §aHow did you open this door? It's been sealed for as long as I remember.@§7[1/11] §2Junes: §aКак ты открыл эту дверь? Она была всегда запечатана, сколько я себя помню. 
 §7[2/11] §2Junes: §aHowever.. This barrier doesn't look like it was made by the empire.@§7[2/11] §2Junes: §aОднако.. Этот барьер не похож на то, что он был сделан империей. 
 §7[3/11] §2Junes: §aIt's still old, though. Let's give it a little nudge.@§7[3/11] §2Junes: §aХотя, он все еще старый. Давай немного подтолкнем его. 
@@ -47,6 +52,11 @@
 §7[9/11] §2Junes: §aBut why would they take whatever was here, but not all the gold?@§7[9/11] §2Junes: §aНо почему они взяли то, что было здесь, а не все золото?
 §7[10/11] §2Junes: §aWhatever was kept here, I think we can assume it was of great value to the Emperor.@§7[10/11] §2Junes: §aЧто бы здесь ни хранилось, думаю, мы можем предположить, что это имело большую ценность для Императора. 
 §7[11/11] §2Junes: §aWe better get out of here, and don't even think about taking this gold - They are artifacts!@§7[11/11] §2Junes: §aНам лучше убраться отсюда и даже не думать о том, чтобы взять это золото - это артефакты! 
+
+#######################Temple Ruin######################
+§7[1/3] §2Cactus Expert: §aHowdy feller! This here is my cactus stand.@§7[1/3] §2Cactus Expert: §aПривет приятель! Это мой стенд с кактусами
+§7[2/3] §2Cactus Expert: §aI travel all across the desert, cutting down cactus for the juice!@§7[2/3] §2Cactus Expert: §aЯ путешествую по всей пустыне, и срубаю кактусы ради их сока!
+§7[3/3] §2Cactus Expert: §aOnly the sharpest blades'll cut these cactus though. My collection's out back. You can look, but §a§ldon't touch§a!@§7[3/3] §2Cactus Expert: §aТолько самые острые лезвия порежут эти кактусы. Моя коллекция на заднем дворе. Можешь посмотреть, но §a§lне трогать§a!
 §7[1/3] §2Junes: §aDid you open this place up? You've done some serious damage!@§7[1/3] §2Junes: §aТы открыл это место? И похоже, получил некоторые повреждения! 
 §7[2/3] §2Junes: §aIt might not look like much, but these ruins were left by a now extinct empire.@§7[2/3] §2Junes: §aДа, это место выглядит не так обширно, но эти руины были оставлены ныне вымершей империей. 
 §7[3/3] §2Junes: §aI spent half a year excavating this place.. I must admit it would have taken me 2 years to finish. Alright, let's go deeper. Try to keep up.@§7[3/3] §2Junes: §aЯ потратил полгода на раскопки этого места.. Должен признать, что это заняло бы у меня 2 года, чтобы закончить это дело до конца. Хорошо, давай пойдем глубже. Постарайся не отставать. 
@@ -58,9 +68,8 @@
 §7[6/8] §2Junes:§a We know that there was an emperor that ruled these lands, this must be the source of his power.@§7[6/8] §2Junes:§a §aМы знаем, что был император, который правил этими землями, и это должно быть источник его силы. 
 §7[7/8] §2Junes:§a Hmm, I'm going to continue researching this place, but I think I might be able to figure a way out for you.@§7[7/8] §2Junes:§a §aХм, я собираюсь продолжить исследование этого места, но думаю, что смогу найти выход и для тебя. 
 §7[8/8] §2Junes: §aOh DEAR!@§7[8/8] §2Junes: §aО боже! 
-§7[1/3] §2Cactus Expert: §aHowdy feller! This here is my cactus stand.@§7[1/3] §2Cactus Expert: §aПривет приятель! Это мой стенд с кактусами
-§7[2/3] §2Cactus Expert: §aI travel all across the desert, cutting down cactus for the juice!@§7[2/3] §2Cactus Expert: §aЯ путешествую по всей пустыне, и срубаю кактусы ради их сока!
-§7[3/3] §2Cactus Expert: §aOnly the sharpest blades'll cut these cactus though. My collection's out back. You can look, but §a§ldon't touch§a!@§7[3/3] §2Cactus Expert: §aТолько самые острые лезвия порежут эти кактусы. Моя коллекция на заднем дворе. Можешь посмотреть, но §a§lне трогать§a!
+
+#######################Boulder Pit######################
 §7[1/11] §2Junes: §aWoah! What did you push this for?@§7[1/11] §2Junes: §aВоу! Зачем ты его толкнул? 
 §7[2/11] §2Junes: §aThere were markings all over it.. And a small entrance to the inside.@§7[2/11] §2Junes: §aТам были отметки на всем протяжении.. И маленький вход внутрь. 
 §7[3/11] §2Junes: §aI wonder why... Wait - Where are we?@§7[3/11] §2Junes: §aИнтересно, почему... Подожди, где это мы находимся? 
@@ -72,14 +81,20 @@
 §7[9/11] §2Junes: §aThere must be hundreds of convenient hiding places, this poor guy must have got trapped.@§7[9/11] §2Junes: §aТам должно быть сотни удобных укрытий, а этот бедный парень, должно быть, попал в ловушку. 
 §7[10/11] §2Junes: §aSeems like he couldn't get the door open. Maybe the wood has rotted by now...@§7[10/11] §2Junes: §aКажется, он не смог открыть дверь. Может, дерево уже сгнило... 
 §7[11/11] §2Junes: §aHUP!@§7[11/11] §2Junes: §aХоп! 
+
+#######################Ruins of Detlas######################
 §7[1/2] §2Basement Dweller: §a*Hic* Wha, whozit? Oh geez, I should lay off tha old *hic* Nemract Whiskey.  I'm startin' to see things.@§7[1/2] §2Basement Dweller: §a*Ик* Че за? О черт, пора бы завязывать со старым *ик* Nemract виски. Мерещатся тут всякие.
 §7[2/2] §2Basement Dweller: §aWha, yer *hic* real?  Wha're ya doin' in mah house then?!@§7[2/2] §2Basement Dweller: §aТы что *ик* настоящий? Тогда какого ты делаешь в моем доме?!
+
+#######################Bak'al's Destruction 1######################
 §7[1/1] §2Guard: §aNOW!@§7[1/1] §2Guard: §aСЕЙЧАС ЖЕ!
 §7[1/1] §2Guard: §aGet them off me!@§7[1/1] §2Guard: §aУберите их от меня!
 §7[1/2] §2Guard: §aSeems like we fended them off this time... those were the last.@§7[1/2] §2Guard: §aПохоже в этот раз мы отразили атаку... это были последние.
 §7[2/2] §2Guard: §aWe better get started repairing all this, who knows whe-@§7[2/2] §2Guard: §aНам лучше начать чинить все это, кто знает, когд-
 §7[1/1] §2Guard: §aIT'S HIM! We gotta take him out!@§7[1/1] §2Guard: §aЭТО ОН! Нам нужно уничтожить его!
 §7[1/1] §2Bak'al: §aFools! Courage won't help you as a corpse.@§7[1/1] §2Bak'al: §aГлупцы! Храбрость не поможет, когда ты мертв.
+
+#######################Wynn Plains Monument######################
 §7[1/7] §2Soldier 1: §aI-I can’t run anymore. Get back to Ragni and close the gates! We might be able to hold him the-@§7[1/7] §2Soldier 1: §aЯ-я не могу больше бежать. Возвращайся в Ragni и закройте ворота! Мы попробуем задержать его зде-
 §7[2/7] §2Soldier 2: §aAre you mad? You saw our whole regiment fall to his magic. I think we’re don-@§7[2/7] §2Soldier 2: §aТы с ума сошел? Видел, как весь наш полк пал под его магией. Я думаю, мы не смо-
 §7[3/7] §2Soldier 1: §aOh no.. He’s here.@§7[3/7] §2Soldier 1: §aО нет...Он здесь.
@@ -95,6 +110,8 @@
 §7[1/3] §2Bob: §aI have trained 20 years for this. The Wynn Province will never fall.@§7[1/3] §2Bob: §aЯ тренировался для этого 20 лет. Провинция Wynn никогда не падет.
 §7[2/3] §2Bak'al: §aJust like the Twains, you will fall. And once again the province will be helpless.@§7[2/3] §2Bak'al: §aКак и Twain'ы, ты падешь. И тогда провинция снова будет беспомощной.
 §7[3/3] §2Bob: §aUnlike the Twains, I was not born with magic, I learnt it!@§7[3/3] §2Bob: §aВ отличие от Twain'ов, я не родился с магией, я обучился ей!
+
+#######################Totem Pole######################
 §7[1/8] §2Tribe Member: §aThe sandstorm has been raging on for months, we HAVE to leave.@§7[1/8] §2Tribe Member: §aПесчаная буря бушует уже несколько месяцев, мы ДОЛЖНЫ уйти. 
 §7[2/8] §2Tribe Member: §aWe won't make it out there.. @§7[2/8] §2Tribe Member: §aМы не сможем добраться до туда.. 
 §7[3/8] §2Tribe Member: §aWe won't make it in here.. We're almost out of food.@§7[3/8] §2Tribe Member: §aМы не сможем выбраться отсюда.. У нас почти закончилась еда. 
@@ -103,6 +120,8 @@
 §7[6/8] §2Tribe Member: §aThis is a magical storm. We need to find a magical solution.@§7[6/8] §2Tribe Member: §aЭто магическая буря. И нам нужно найти магическое решение. 
 §7[7/8] §2Tribe Member: §aEither way, we need to leave, or we're dead.@§7[7/8] §2Tribe Member: §aВ любом случае, мы должны уйти, или мы умрем. 
 §7[8/8] §2Tribe Member: §aI wonder what is happening out there in the citadel?@§7[8/8] §2Tribe Member: §aИнтересно, что же произошло там, в цитадели? 
+
+#######################Rymek Thief######################
 §7[1/2] §2Shopkeeper: §aHey there friend! Looking teh barter fer some weapons or trinkets?@§7[1/2] §2Shopkeeper: §aПривет дружище! Ищешь для покупки какое-нибудь оружие или безделушки? 
 §7[2/2] §2Shopkeeper: §aScum! That guy jus' stole a necklace! Catch 'im and jus' take this as payment!!@§7[2/2] §2Shopkeeper: §aСволочь! Этот парень украл ожерелье! Поймай его, а пока прими вот это в качестве оплаты!! 
 §7[2/2] §2Shopkeeper: §aScum! That guy jus' stole a necklace! Catch 'im!!@§7[2/2] §2Shopkeeper: §aСволочь! Этот парень украл ожерелье! Поймай его!!
@@ -116,6 +135,8 @@
 §7[7/9] §2Bandit Leader: §aSo, let's just let this go and you can go back to yer war.@§7[7/9] §2Bandit Leader: §aТак что давай просто забудем об этом, и ты сможешь вернуться к своей войне. 
 §7[8/9] §2Bandit Leader: §aWe'll let yer go without a fight, and you keep yer mouth shut.@§7[8/9] §2Bandit Leader: §aМы отпустим тебя без боя, а ты держи рот на замке.
 §7[9/9] §2Bandit Leader: §aBoys, show him out.@§7[9/9] §2Bandit Leader: §aМальчики, проводите его. 
+
+#######################Desert Royal Residence######################
 §7[1/11] §2Emperor: §aAh, bright days, my 26th son is here..@§7[1/11] §2Emperor: §aАх, прекрасный день, мой 26-й сын здесь.. 
 §7[2/11] §2Emperor: §aHow were your travels beyond the walls, Hashr?@§7[2/11] §2Emperor: §aКак прошло твое путешествие за стены, Hashr? 
 §7[3/11] §2Hashr: §aLife beyond the walls is different, vibrant, but most importantly - magical.@§7[3/11] §2Hashr: §aЖизнь за стенами другая, яркая, но самое главное - волшебная. 
@@ -127,6 +148,8 @@
 §7[9/11] §2Almighty Hashr: §aMy father was mortal like us all. His power came from this sceptre. He is a false God.@§7[9/11] §2Almighty Hashr: §aМой отец был смертным, как и мы все. Его сила исходила от этого скипетра. Он - ложный Бог. 
 §7[10/11] §2Almighty Hashr: §aNow I will be able to rule- Wait, what's happening..?@§7[10/11] §2Almighty Hashr: §aТеперь я смогу править - Подождите, что происходит..? 
 §7[11/11] §2Almighty Hashr: §aDo you hear that? What did my father do to himself?!@§7[11/11] §2Almighty Hashr: §aТы слышишь это? Что мой отец сделал с собой?! 
+
+#######################Bak'al's Destruction 2######################
 §7[1/4] §2Town Guard: §aHas everyone gotten to safety?@§7[1/4] §2Town Guard: §aВсе дошли до безопасного места?
 §7[2/4] §2Guard Leader: §aThere was no time to evacuate, so I told them to go inside and block their doors. I just hope they all listened.@§7[2/4] §2Guard Leader: §aВремени на эвакуацию не было, поэтому я сказал им зайти внутрь и закрыть двери. Надеюсь, они все послушались.
 §7[3/4] §2Town Guard: §aBut is it enough? I don't know if the three of us are going to be enough to protect the town from...@§7[3/4] §2Town Guard: §aНо достаточно ли этого? Я не знаю, хватит ли нас троих, чтобы защитить город от...
@@ -144,12 +167,12 @@
 §7[2/4] §2Bak'al: §aBurn it all. Leave nothing.@§7[2/4] §2Bak'al: §aСожгите здесь все. Ничего не оставляйте.
 §7[3/4] §2Bak'al: §aLet the ashes serve as a reminder that...@§7[3/4] §2Bak'al: §aПусть пепел послужит напоминанием о том...
 §7[4/4] §2Bak'al: §aEvery city will suffer the same fate.@§7[4/4] §2Bak'al: §aЧто каждый город постигнет та же участь.
-§7[1/4] §2Poe: §aOh! A visitor! We rarely get people down here. For obvious reasons.@§7[1/4] §2Poe: §aОх! Посетитель! Мы редко видим здесь людей. По понятным причинам.
-§7[2/4] §2Poe: §aI have nothing to offer you, but please, make yourself comfortable. Warm yourself by the fire.@§7[2/4] §2Poe: §aМне нечего тебе предложить, но, пожалуйста, устраивайся поудобнее. Можешь погреться у костра.
-§7[3/4] §2Poe: §aWe need to keep each other's spirits up. After all, when all's said and done, what else do we have?@§7[3/4] §2Poe: §aМы должны поддерживать настроение друг другу. В конце концов, когда все сказано и сделано, что еще нам делать?
-§7[4/4] §2Poe: §aI consider myself lucky to be alive. So many lives were lost in that attack...@§7[4/4] §2Poe: §aЯ считаю, что мне повезло остаться в живых. Так много жизней погибло в той атаке...
+
+#######################Bak'al's Destruction 3######################
 §7[1/1] §2Farmer: §aGods, NO!@§7[1/1] §2Farmer: §aБоже, НЕТ!
 §7[1/1] §2Bak'al: §aThe darkness must spread.@§7[1/1] §2Bak'al: §aТьма должна распространяться.
+
+#######################Lost Avos City######################
 §7[1/12] §2???: §aIt was 350 years ago when I last saw a human. And I will never forget.@§7[1/12] §2???: §aЭто было 350 лет назад, когда я в последний раз видел человека. И я никогда этого не забуду.
 §7[2/12] §2???: §aYour kind had already dominated Wynn and Fruma. But you decided to come to this island. Our island.@§7[2/12] §2???: §aВаша раса уже доминировала над Wynn и Fruma. Но вы решили приехать на этот остров. Наш остров.
 §7[3/12] §2???: §aI will never understand why some Avos decided to let you live here. Those who welcomed you stayed on the surface.@§7[3/12] §2???: §aЯ никогда не пойму, почему некоторые Avos'ы решили позволить вам жить здесь.
@@ -162,4 +185,6 @@
 §7[10/12] §2Phoenix Prince: §aBut unbeknownst to them, I was still here. Trapped forever, without even the escape of death. And it is all the fault of the humans who drove us here.@§7[10/12] §2Phoenix Prince: §aНо они не знали, что я все еще был здесь. Навсегда в ловушке, даже без спасения смертью. И во всем виноваты люди, которые привели нас сюда.
 §7[11/12] §2Phoenix Prince: §aYou're an invader, just like the rest of your people. They do not deserve to live on this island... on §oour§a island.@§7[11/12] §2Phoenix Prince: §aТы захватчик, как и остальные твои люди. Они не достойны жить на этом острове... на §oнашем острове.
 §7[12/12] §2Phoenix Prince: §aPrepare for our revenge. Prepare to DIE!@§7[12/12] §2Phoenix Prince: §aПриготовься к нашей мести. Приготовься к СМЕРТИ!
+
+#######################Timeless Ruin######################
 §7[1/2] §2???: §aAh§a§kh§ah@§7[1/2] §2???: §aАх§a§kх§aх
