@@ -1048,6 +1048,13 @@ This book's title reads...@Названия этих книг гласят...
 §7After succesfully fixing the rope you find one left over piece, you should give it to the mechanic@§7После успешной фиксации веревки ты нашел один оставшийся кусок, ты должен дать его механику
 §7The door seems locked@§7Похоже дверь заперта
 §4It's better not to wander too far from this island.@§4Лучше не забредать слишком далеко от этого острова.
+§7After looking at your map, you conclude that you need to go to [1103,113,-4434] to obtain the §3[Sunrise Flour]§7.@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1103,113,-4434], чтобы добыть §3[очищенной муки]§7.
+§7After looking at your map, you conclude that you need to go to [626,43,-4645] to obtain the §3[Blue-Ring Grook Egg]§7.@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [626,43,-4645] чтобы добыть §3[Синее Яйцо Grook'a].
+§7After looking at your map, you conclude that you need to go to [1400,102,-3940] to obtain the §3[Skyhigh Raspberry]§7.@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1400,102,-3940] чтобы добыть §3[высокорастущей малины].
+§7Looking at your map, these ingredients should be at [1103,113,-4434], [626,43,-4645] and [1400,102,-3940] respectively.@§7Посмотрев на свою карту, нужные ингредиенты должны быть на координатах [1103,113,-4434], [626,43,-4645] и [1400,102,-3940] соответственно.
+§7You hear faint clucking up ahead.. The Grooks seem to be angry with you for taking an egg.@§7Ты слышишь слабое кудахтанье впереди.. Похоже Grook'и обозлились на тебя, за то что ты взял яйцо.
+§7You use the oven to bake a simple egg and flour dough filled with Skyhigh Raspberries. Smells like... pie?@§7Ты использовал духовку, чтобы запечь муку с яйцом и малиной. Пахнет как... пирог?
+§4Can't be wandering about someone's property all willy-nilly! Better stay away for now.@§4Нельзя бродить по чьей-то собственности по своему желанию! Лучше держаться подальше.
 
 ###################################Гильдия##################################
 §4You can join someone else's guild or make a guild in §cCinfras [Lv. 70]@§4Ты можешь присоединиться к чьей-нибудь гильдии, или создать свою в §cCinfras'е [Ур. 70]
@@ -1103,6 +1110,7 @@ This book's title reads...@Названия этих книг гласят...
 §3[§3WAR]§c §cThey will be there in 1 minute.@§3[§3WAR]§c §cОни будут там через 1 минуту.
 §4You cannot use horses during a guild war.@§4Ты не можешь пользоваться лошадью во время захвата.
 §4You are not in a guild!@§4Ты не состоишь в гильдии!
+§4This guild is full.@§4Эта гильдия заполнена.
 
 ###################################Награды квесты/данжи##################################
 §7+ 1 Max Unrefined Material Weight@§7+ 1 К максимальному весу ресурсов
@@ -1385,6 +1393,13 @@ This book's title reads...@Названия этих книг гласят...
 §dThunder Effect@§dЭффект Грома
 §3You are now disguised as a §bpigman@§3Ты замаскировался под §bпигмена
 §3You are no longer disguised as a §bspider@§3Ты больше не маскируешься под §bпаука
+§cPhoenix Dagger@§cКинжал Феникса
+§7Disguise your dagger with a fiery flair@Замаскируй свое копье огненной способностью
+§3You are now disguised as a §bzombie@§3Ты замаскировался под §bзомби
+§3You are no longer disguised as a §bsheep@§3Ты больше не маскируешься под §bовцу
+§3You are no longer disguised as a §bzombie@§3Ты больше не маскируешься под §bзомби
+§dEarth Effect@Эффект Земли
+§7Create an earth effect around your character@§7Создает эффект земли вокруг персонажа
 
 ###################################Данжи##################################
 §7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Keystone Guardian'а активировало ее...
@@ -1426,6 +1441,7 @@ This book's title reads...@Названия этих книг гласят...
 §715 Seconds Remaining...@§715 Секунд осталось
 §6§lThe Mysterious Manor §a§lSUCCESS@§6§lЗагадочное Поместье §a§lУСПЕХ
 §7Meet the owner of the manor in the courtyard.@§7Встреть хозяина поместья во дворе.
+§4You must be at least level 90 to participate in the Legendary Challenge!@§4Ты должен быть минимум 90 уровня для участия в Легендарном Челлендже!
 
 ###################################Библиотеки и тексты##################################
 §e                         §e§lPowder Manual@§eРуководство о порошках
@@ -2035,3 +2051,6 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §cInvalid amount! Please try again with a lower number.@§cНеправильное количество! Попробуй еще раз с меньшим числом.
 §4You cannot trade with an ironman player!@§4Ты не можешь торговать с игроком в режиме Ironman!
 §cYou need to hold an item in your hand to change its lore!@§cТебе нужно держать предмет в руке, чтобы изменить его лор!
+§7We did not count this death towards your hardcore status.@§7Мы не засчитаем эту смерть в твой хардкор статус.
+§cYou cannot report yourself.@§cТы не можешь отправить репорт на себя.
+§4You have already progressed too far to use skip!@§4Ты уже продвинулся слишком далеко, чтобы использовать пропуск!
