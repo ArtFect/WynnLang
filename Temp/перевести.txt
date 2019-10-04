@@ -97,11 +97,10 @@
 §7Create an earth effect around your character@§7Создает эффект земли вокруг персонажа
 §7[1/1] §2Comor: §aWhere are you going? Talk to me first!@§7[1/1] §2Comor: §aКуда ты собрался? Поговори со мной сначала!
 §7[1/3] §2Aledar: §aOkay, you've refined the ingots. Follow me for the next step in the crafting process.@§7[1/3] §2Aledar: §aХорошо, ты переработал слитки. Следуй за мной для следующего шага в процессе крафта.
-
-§7[1/7] §2Baker: §aHello there! I can see you knead some sunrise flour, don't you?@§7[1/7] §2Baker: §a
-§7[2/7] §2Baker: §aIt's needed rye away? Well no worries, friend!@§7[2/7] §2Baker: §a
-§7[3/7] §2Baker: §aWell butter me up and call me toast, it seems I ran out of the stuff, there's none left.@§7[3/7] §2Baker: §a
-§7[4/7] §2Baker: §aI'm sorry if I seem to be just loafing around, but at yeast I know how to make some more.@§7[4/7] §2Baker: §a
-§7[5/7] §2Baker: §aCan you see that wheat field over there, next to the bakery? You can collect some wheat and throw it on the grinding wheel in the bakery.@§7[5/7] §2Baker: §a
-§7[6/7] §2Baker: §aYou are going to knead some §3[High Quality Sunrise Wheat]§a to make it, however.@§7[6/7] §2Baker: §a
-§7[7/7] §2Baker: §aMake as much as you want, I've made all the bread I need for today already.@§7[7/7] §2Baker: §a
+§7[1/7] §2Baker: §aHello there! I can see you knead some sunrise flour, don't you?@§7[1/7] §2Baker: §aПривет! Вижу тебе нужно немного муки, не так ли?
+§7[2/7] §2Baker: §aIt's needed rye away? Well no worries, friend!@§7[2/7] §2Baker: §aТебе нужно с собой? Ну не беспокойся, друг!
+§7[3/7] §2Baker: §aWell butter me up and call me toast, it seems I ran out of the stuff, there's none left.@§7[3/7] §2Baker: §aЭх, намазать меня маслом и назвать булочкой, кажется, у меня кончилось все, ничего не осталось.
+§7[4/7] §2Baker: §aI'm sorry if I seem to be just loafing around, but at yeast I know how to make some more.@§7[4/7] §2Baker: §aМне жаль, если я, кажется, просто бездельничаю, но думаю знаю, как сделать еще немного.
+§7[5/7] §2Baker: §aCan you see that wheat field over there, next to the bakery? You can collect some wheat and throw it on the grinding wheel in the bakery.@§7[5/7] §2Baker: §aВидишь вон то пшеничное поле, рядом с пекарней? Ты можешь собрать немного пшеницы и бросить ее на шлифовальный круг в пекарне.
+§7[6/7] §2Baker: §aYou are going to knead some §3[High Quality Sunrise Wheat]§a to make it, however.@§7[6/7] §2Baker: §aТы как раз получишь §3[Муку высокого качества]§a.
+§7[7/7] §2Baker: §aMake as much as you want, I've made all the bread I need for today already.@§7[7/7] §2Baker: §aДелай столько, сколько хочешь, я уже испек весь хлеб, который мне сегодня нужен.
