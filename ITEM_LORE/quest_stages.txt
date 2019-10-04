@@ -1438,11 +1438,14 @@ QUESTS/Purple_and_Blue.txt
 §7Bring back a magical fragment @§7Принеси назад магический фрагмент
 §7and the helmet to Korun @§7и шлем к Korun'у
 
- 
 QUESTS/Recipe_for_Disaster.txt 
 §7Meet up with Chef Hamsey @§7Встреться с Шефом Hamsey 
 §7[949,129,-4475]@ 
- 
+§7Choose the chef you want @§7Выбери того шефа, с кем 
+§7to work with @§7ты будешь работать
+§7Present the ingredients to your @§7Отдай найденные ингредиенты 
+§7chosen chef @§7выбранному шефу
+
 QUESTS/Reclaiming_the_House.txt 
 §7Talk to Ahmas at @§7Поговори с Ahmas'ом на 
 §7[-1494,47,-5360]@ 
@@ -2467,3 +2470,6 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7[1348,124,-4470]@ 
  
 §7Exit the house @§7Покинь дом
+§7Solve the puzzle to open @§7Пройди пазл чтобы открыть
+§7the door that locks the @§7дверь закрывающую
+§7heirloom. @§7реликвию.
