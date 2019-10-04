@@ -13,6 +13,8 @@ QUESTS/﻿Acquiring_Credentials.txt
 §7the passport @§7о паспорте
 §7Infiltrate the administrational office in @§7Проникни в административный офис 
 §7order to bring back the @§7и принеси
+§7Return to the Document Merchant @§7Вернись к Document Merchant 
+§7with the [Secret Documents] @§7с [Секретными Документами]
 §7Go to the storage area @§7Иди в хранилище
 §7that contains the passport, and @§7 с паспортами, и найди 
 §7find a way in @§7путь внутрь
@@ -51,6 +53,7 @@ QUESTS/Aldorei%27s_Secret_Part_II.txt
 §7shrine in Aldorei Town @§7в городе Aldorei 
 §7Enter the Embassy's lair through @§7Войди в логово Посольства 
 §7the cherry blossom tree @§7через вишневое дерево
+§7Speak to Togak @§7Поговори с Togak'ом
 §7Enter the chamber behind Togak @§7Войди в комнату позади Togak'а
 §7Choose @§7Выбери
 §7Turn in your receipt to @§7Верни свою квитанцию 
@@ -596,6 +599,7 @@ QUESTS/Eye_of_the_Storm.txt
 §7[-611,46,-5458]@ 
 §7Climb to the balcony in @§7Поднимись на балкон 
 §7Ceyquin's house @§7в доме Ceyquin'а
+§7Return to Ceyquin@§7Вернись к Ceyquin'у
 §7Enter the tunnel under Ceyquin's @§7Войди в тоннель под Ceyquin'а
 §7house @§7домом 
 §7Escape through the cavern and @§7Сбеги через пещеру 
@@ -768,6 +772,9 @@ QUESTS/Flight_in_Distress.txt
 §7Go back to your cabin @§7Вернись в свою каюту
 §7Speak to the captain regarding @§7Поговори с капитаном насчет 
 §7the sudden noises @§7внезапного шума
+§7Look if the engineer has@§7 @§7Посмотри, есть ли у инженера 
+§7something for you to do @§7что-то для тебя, 
+§7in order to help @§7чтобы помочь
 §7Complete the sound coded system @§7Пройди систему рестарта,
 §7by checking the Engineer's Note, @§7используя записку Engineer'а, 
 §7and return back to the @§7 затем вернись обратно к
@@ -1013,6 +1020,9 @@ QUESTS/Hollow_Sirene.txt =====
 §7Recover the [Sound Proof Earmuff] @§7Добудь [Наушники]
 §7and go into the banshee's @§7и иди в пещеру 
 §7cave while wearing it. @§7Банши, надев их
+§7Chase down the banshee by @§7Уничтожь Банши, 
+§7following the source of the @§7следуя за источником 
+§7noise. @§7звука.
 §7Exterminate the banshee and give @§7Убей Банши и отдай 
 §7Laloire a memento from the @§7Laloire сувенир 
 §7Banshee as proof. @§7в качестве доказательства
@@ -1414,13 +1424,20 @@ QUESTS/Purple_and_Blue.txt
 §7[-163,29,-5388]@ 
 §7Follow the hints in the @§7С помощью подсказок в подвале
 §7cellar to find the mysterious @§7найди загадочную
+§7Return to Korun with the @§7Вернись к Korun'у вместе со
+§7helmet @§7шлемом
+§7Enter the center spire from @§7Войди в центр прохода 
+§7under the lake @§7под озером. 
+§7Go deeper into the heart @§7Продвигайся дальше к центру
+§7of the lake @§7озера
 §7Follow the blood trail to @§7Иди по следу крови 
 §7the Gryndilin chief's room @§7в комнату шефа Gryndilin'а
 §7Defeat the Gryndilin chief, and @§7Победи Gryndilin шефа
 §7uncast the spell using Nedlom's @§7и используй заклинание по 
 §7instructions @§7инструкции Nedlom'а.
-§7Return to Korun with the @§7Вернись к Korun'у вместе со
-§7helmet @§7шлемом
+§7Bring back a magical fragment @§7Принеси назад магический фрагмент
+§7and the helmet to Korun @§7и шлем к Korun'у
+
  
 QUESTS/Recipe_for_Disaster.txt 
 §7Meet up with Chef Hamsey @§7Встреться с Шефом Hamsey 
@@ -1671,8 +1688,11 @@ QUESTS/The_Bigger_Picture.txt
 §7Find the Subtraxerim Utilium mushroom @§7Найди Subtraxerim Utilium гриб 
 §7in the cave and bring @§7в пещере и принеси его
 §7it back to Psilo. @§7 обратно к Psilo
+§7Return to Psilo immediately. @§7Вернись к Psilo немедленно.
 §7Oh no, you've shrunk again! @§7О нет, ты уменьшился снова! 
 §7What now? @§7Что теперь?
+§7Get to the blue mushroom @§7Найди синий гриб 
+§7and return to normal size.@§7и вернись к обычному размеру
  
 QUESTS/The_Canary_Calls.txt 
 §7Speak to Grenot outside the @§7Поговори с Grenot'ом 
@@ -2163,6 +2183,11 @@ QUESTS/Troubled_Tribesmen.txt
 §7Speak with Ka L'argwit at @§7Поговори с Ka L'argwit'ом на 
 §7[-545,52,-313]@ 
 §7in Dernel. @§7в Dernel джунглях. 
+§7Talk to Krattson in the @§7Поговори с Krattson'ом в
+§7Dernel Village @§7Деревне Dernel
+§7Find the Tribe Shaman at @§7Найди Шамана племени на
+§7the fork in the road @§7развилке дороги
+§7Return to Ka L'argwit @§7Вернись к Ka L'argwit'у
  
 QUESTS/Tunnel_Trouble.txt ===== 
 §7Talk to Captain Fenor in @§7Поговори с Капитаном Fenor'ом 
