@@ -15,7 +15,7 @@
 §4(.*)§c is currently on server (.*)@§4(r1)§c сейчас на сервере (r2)
 §b(.*)§7 gave you §c\[\+(.*)\].@§b(r1)§7 дал тебе §c[+(r2)].
 §b(.*)§7 gave you §b\+3 minutes§7 speed boost.@§b(r1)§7 дал тебе §b+3 минуты§7 буста скорости.
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (.*) in §f(.*)§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §fуровня (r2) в §f(r3)§7!
+§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (.*) in §f(.*)§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §f(r3)§7!
 §8\[§7\!§8\] §7Congratulations to §f(.*)§7 for reaching combat §flevel (.*)§7\!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) комбат уровня§7!
 §3\[Parkour\] §bCongratulations! §3([a-zA-Z0-9_]{1,16})§b finished the parkour in §3(.*) seconds§b!@§3[Паркур] §bПоздравляем! §3(r1)§b закончил паркур за §3(r2) секунд§b!
 §5Key Collector: §dYou do not yet have a high enough combat level to access this dungeon. Come back when you're at least combat level (.*).@§5Key Collector: §dУ тебя недостаточный комбат уровень для доступа в этот данж. Возвращайся, когда будешь (r1) комбат уровня.
