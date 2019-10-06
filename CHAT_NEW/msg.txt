@@ -1692,40 +1692,40 @@ This book's title reads...@Названия этих книг гласят...
 §5Guild Master: §dIt seems that there is already a guild with that prefix... Try again!@§5Guild Master: §dПохоже уже есть такая гильдия с этим префиксом... Попробуй еще раз!
 
 ###################################Цели##################################
-§a                           Gather Resources@                           §aСбор ресурсов
-§c                            Slay Lv. 40+ Mobs@§c                            Убийство Ур. 40+ Мобов
-§a                            Slay Lv. 20+ Mobs@§a                            Убийство Ур. 20+ Мобов
-§a                                Craft Items@§a                                Крафт предметов
-§a                               Finish Quests@§a                               Прохождение квестов
-§c                               Loot Chests@§c                               Нахождение сундуков
-§a                             Slay Lv. 1+ Mobs@§a                            Убийство Ур. 1+ Мобов
-§c                            Slay Lv. 60+ Mobs@§c                            Убийство Ур. 60+ Мобов
-§a                             Buy from Market@§a                             Покупка на маркете
-§a                             Gather Resources@§a                             Сбор ресурсов
-§a                             Win Dungeons@§a                             Прохождение данжей
-§a                             Find Discoveries@§a                             Нахождение Открытий
-§a                               Loot Chests@§a                               Открытие Сундуков
-§c                               Win Dungeons@§c                               Прохождение Данжей
-§a                               Win Dungeons@§a                               Прохождение Данжей
-§a                            Slay Lv. 10+ Mobs@§a                            Убей Ур. 10+ Мобов
-§c                            Slay Lv. 50+ Mobs@§c                            Убей Ур. 50+ Мобов
-§a                            Slay Lv. 50+ Mobs@§a                            Убей Ур. 50+ Мобов
-§c                            Slay Lv. 90+ Mobs@§c                            Убей Ур. 90+ Мобов
-§c                            Slay Lv. 70+ Mobs@§c                            Убей Ур. 70+ Мобов
-§a                            Slay Lv. 30+ Mobs@§a                            Убей Ур. 30+ Мобов
-§c                            Slay Lv. 20+ Mobs@§c                            Убей Ур. 20+ Мобов
-§c                            Slay Lv. 80+ Mobs@§c                            Убей Ур. 80+ Мобов
-§c                           Slay Lv. 100+ Mobs@§c                           Убей Ур. 100+ Мобов
-§c                            Slay Lv. 30+ Mobs@§c                            Убей Ур. 30+ Мобов
-§c                           Gather Resources@§c                           Сбор Ресурсов
-§c                                Craft Items@§c                                Крафт Предметов
-§c                                Gather Ore@§c                                Сбор Руды
-§c                             Buy from Market@§c                             Покупки с Маркета
-§c                              Gather Crops@§c                              Сбор Урожая
-§c                               Gather Wood@§c                               Сбор Дерева
-§c                                Gather Fish@§c                                Ловля Рыбы
-§c                            Loot Chests T3+@§c                            Открытие Сундуков T3+
-§c                   Trade 24² with Lv. 1-10 Newbie@§c                   Торговля с новичком Ур. 1-10
+§a                           Gather Resources@                        §aСбор ресурсов
+§c                            Slay Lv. 40+ Mobs@§c                         Убийство Ур. 40+ Мобов
+§a                            Slay Lv. 20+ Mobs@§a                         Убийство Ур. 20+ Мобов
+§a                                Craft Items@§a                             Крафт предметов
+§a                               Finish Quests@§a                            Прохождение квестов
+§c                               Loot Chests@§c                            Нахождение сундуков
+§a                             Slay Lv. 1+ Mobs@§a                         Убийство Ур. 1+ Мобов
+§c                            Slay Lv. 60+ Mobs@§c                         Убийство Ур. 60+ Мобов
+§a                             Buy from Market@§a                          Покупка на маркете
+§a                             Gather Resources@§a                          Сбор ресурсов
+§a                             Win Dungeons@§a                          Прохождение данжей
+§a                             Find Discoveries@§a                          Нахождение Открытий
+§a                               Loot Chests@§a                            Открытие Сундуков
+§c                               Win Dungeons@§c                            Прохождение Данжей
+§a                               Win Dungeons@§a                            Прохождение Данжей
+§a                            Slay Lv. 10+ Mobs@§a                         Убей Ур. 10+ Мобов
+§c                            Slay Lv. 50+ Mobs@§c                         Убей Ур. 50+ Мобов
+§a                            Slay Lv. 50+ Mobs@§a                         Убей Ур. 50+ Мобов
+§c                            Slay Lv. 90+ Mobs@§c                         Убей Ур. 90+ Мобов
+§c                            Slay Lv. 70+ Mobs@§c                         Убей Ур. 70+ Мобов
+§a                            Slay Lv. 30+ Mobs@§a                         Убей Ур. 30+ Мобов
+§c                            Slay Lv. 20+ Mobs@§c                         Убей Ур. 20+ Мобов
+§c                            Slay Lv. 80+ Mobs@§c                         Убей Ур. 80+ Мобов
+§c                           Slay Lv. 100+ Mobs@§c                         Убей Ур. 100+ Мобов
+§c                            Slay Lv. 30+ Mobs@§c                         Убей Ур. 30+ Мобов
+§c                           Gather Resources@§c                        Сбор Ресурсов
+§c                                Craft Items@§c                             Крафт Предметов
+§c                                Gather Ore@§c                             Сбор Руды
+§c                             Buy from Market@§c                          Покупки с Маркета
+§c                              Gather Crops@§c                           Сбор Урожая
+§c                               Gather Wood@§c                            Сбор Дерева
+§c                                Gather Fish@§c                             Ловля Рыбы
+§c                            Loot Chests T3+@§c                         Открытие Сундуков T3+
+§c                   Trade 24² with Lv. 1-10 Newbie@§c                 Торговля с новичком Ур. 1-10
 
 ###################################Прочие##################################
 §7You walk away wondering if the citizen stands all day long welcoming adventurers...@§7Ты уходишь, задаваясь вопросом - стоит ли этот житель здесь весь день, приветствуя путешественников...
