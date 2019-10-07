@@ -1068,7 +1068,7 @@ This book's title reads...@Названия этих книг гласят...
 §4/guild xp §c[amt] §8-§6 Set the % of XP to contribute to the guild@§4/guild xp §c[число] §8-§6 Установить % внесения своих XP в гильдию
 §4/guild contribute §8-§6 Donate emeralds to the guild@§4/guild contribute §8-§6 Пожертвовать эмеральды в гильдию
 §4/guild rank §c[name] [rank] §8-§6 Rank up a guild member@§4/guild rank §c[ник] [ранг] §8-§6 Изменить ранг участника гильдии
-§4/guild invite §c[name] §8-§6 Invite a member to the guild@§4/guild invite §c[name] §8-§6 Пригласить игрока в гильдию
+§4/guild invite §c[name] §8-§6 Invite a member to the guild@§4/guild invite §c[ник] §8-§6 Пригласить игрока в гильдию
 §4/guild attack§8-§6 Attack the territory you are in@§4/guild attack§8-§6 Атаковать территорию гильдий
 §4/guild defend §8-§6 Buy mobs for the territory you are in@§4/guild defend §8-§6 Купить мобов для защиты территории
 §cYou are not in a guild.@§cТы не состоишь в гильдии.
