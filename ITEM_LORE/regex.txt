@@ -1,3 +1,11 @@
+регексы от мусора
+§(f|a)     (.*)%§a   >§2>§a>§2>§a(.*)§e(.*)%@ 
+§6 - §7(.*) x §f(.*)§7² §8\((.*)\)@ 
+§6 - §7(.*) x §f(.*)§7²@ 
+§(4|6|2)\[§(.*)%(.*)\]@ 
+§7 - §f(\d+) §(.*)@ 
+§7\[(.*)\]@ 
+§6 - §f(\d+)§7² @ 
 
 
 §7(.*) §7Attack Speed@ 
@@ -53,11 +61,6 @@
 §7\[(\d+)\/(\d+)\] Powder Slots@ 
 (§a✔|§c✖)§7 Crafting Lv. Min: (.*)@ 
 §bXp: (.*)@ 
-§a(.*)§2 to §a(.*)§7 Air Defence@ 
-§a(.*)§2 to §a(.*)§7 Water Defence@ 
-§a(.*)§2 to §a(.*)§7 Fire Defence@ 
-§a(.*)§2 to §a(.*)§7 Earth Defence@ 
-§a(.*)§2 to §a(.*)§7 Thunder Defence@ 
 §5- §7Territorial: §f(.*)§7 \[(.*)\]@ 
 §6Total Discoveries: §e\[(.*)\]@ 
 §bTotal Quests: §3\[(.*)\]@ 
@@ -107,7 +110,6 @@
 §e- §7XP: §f(.*)@ 
 §e- §7Soul Points: §f(.*)@ 
 §e- §7Finished Quests: §f(.*)@ 
-§b- Total Damage \(\+Bonus\): (\d+)-(\d+)@ 
 §5\[RRR\] §dTeleport Spell: §f§f(\d+)-(\d+)@ 
 §5\[RLL\] §dMeteor Spell: §f§f(\d+)-(\d+)@ 
 §5\[RRL\] §dIce Snake Spell: §f§f(\d+)-(\d+)@ 
@@ -138,7 +140,6 @@
 §5\[RRL\] §dCrystal Reptile Spell: §f§f(.*)@ 
 §7Price: §a(\d+) emeralds@ 
 §7You have: §a(\d+) emeralds@ 
-§7    (\d+) points      §6(\d+) points@ 
 §7Total Lv: §f(\d+)@ 
 §7Combat Lv: §f(\d+)@ 
 §7Quests: §f(\d+)\/(\d+)@ 
@@ -154,3 +155,146 @@
 §7([a-zA-Z0-9_]{1,16})'s Side §f>>@ 
 §7§c§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 (.*)@ 
 §7- (§e|§f|§c|§b|§d|)(.*) \[(\d+)\]@ 
+§cExchange§7 - §4(.*) Days Remaining@ 
+§3Marketplace§7 - §4(.*) Days Remaining@ 
+§(c-|a\+)(\d+)s Duration@ 
+§(7|4|2)Price: §(c|a)(.*)@ 
+§6 - §(a|c)(.*)§7 Price: §f(.*)§7²@ 
+§a(.*)§2 to §a(.*)§7 Intelligence@ 
+§f(.*) §7each - §f(.*)§7\/(.*) Purchased@ 
+§f(.*) §7each - §f(.*)§7\/(.*) Sold@ 
+§d- §7Poison: §f(.*)/3s@ 
+§cDeletion in (.*)d\/(.*)h\/(.*)m@ 
+§7 - §f(.*)§7² \(\+(.*) tax\): §a(.*)§2² each §8\((.*)\)@ 
+§7 - §f(.*)§7² \(\+(.*) tax\): §a(.*)§2² §8\((.*)\)@ 
+§7 - §f(.*)§7² \(\+(.*) tax\): §a(.*)§2² each@ 
+§7 - §f(.*)§7² \(\+(.*) tax\): §a(.*)§2² @ 
+§7 - §f(.*)§7² Each §8\((.*)\)@ 
+§7 - §f(.*)§7² Total@ 
+§7 - §f(.*)§7² Each @ 
+§4- §7Duration: §f(.*) Seconds@ 
+§(f|e)- ( |§f)Lv. (.*) §7\[(.*)\] §(2|4|6)\[§(.*)§(2|4|6)\]@ 
+§7Success Chance: §f(\d+)%@ 
+§7Refine Time: §f(.*)s@ 
+§6- §f(\d+)% §7of your IDed items@ 
+§6- §f(\d+)% §7of your other items@ 
+§6- §f(\d+)% §7of your un-IDed items@ 
+§6- §f(\d+)% §7of your emeralds@ 
+§6- §f(.*)% §7of your materials/ingredients items@ 
+§(a|c)(✔|✖)§(7|f) Lv. (\d+) to (\d+)@ 
+§bTotal Secret Discoveries: §3\[(.*)\]@ 
+§7You require §a(.*)@ 
+§(7|d)- §7\+(\d+)% §6✣ Neutral§7 to §f❋ Air@ 
+§(d|a)- §7\+(\d+)% §6✣ Neutral§7 to §2✤ Earth@ 
+§(d|4)- §7\+(\d+)% §6✣ Neutral§7 to §c✹ Fire@ 
+§(d|6)- §7\+(\d+)% §6✣ Neutral§7 to §e✦ Thunder@ 
+§(d|3)- §7\+(\d+)% §6✣ Neutral§7 to §b❉ Water@ 
+§(c|a)(.*) Durability§7 or §(c|a)(.*)s Duration@ 
+§c(.*) Durability§7 or @ 
+§(c|a)(.*) Durability@ 
+§7Unprocessed Material \[Weight: (\d+)\]@ 
+§4- §7Heal: §f(\d+)§c ❤@ 
+§fWynn Plains §7\[(.*)\] §(2|6)\[(.*)\]@ 
+§fDesert §7\[(.*)\] §(2|6)\[(.*)\]@ 
+§a- §3Weapon Skins§7 \[Rare to Godly (.*)\]@ 
+§a- §cWybels§7 \[Common to Godly (.*)\]@ 
+§a- §6Special Particles§7 \[Rare to Godly (.*)\]@ 
+§a- §bMob Disguises§7 \[Common to Rare (.*)\]@ 
+§a- §eSwirl Particles§7 \[Common to Rare (.*)\]@ 
+§a- §aAttack Effects§7 \[Common to Rare (.*)\]@ 
+§3Crafted by (.*)@ 
+§(d|6)- §7\+(.*)§e ✦ Thunder§7 Damage@ 
+§(d|3)- §7\+(.*)§b ❉ Water§7 Damage@ 
+§(d|4)- §7\+(.*)§c ✹ Fire§7 Damage@ 
+§(d|a)- §7\+(.*)§2 ✤ Earth§7 Damage@ 
+§(7|d)- §7\+(.*)§f ❋ Air§7 Damage@ 
+§3- §7Teleports to: §f(.*)@ 
+§7Level: §f(.*)@ 
+§7 - §fHelmet §7\[Lv. (\d+) to (\d+)\]@ 
+§7 - §fChestplate §7\[Lv. (\d+) to (\d+)\]@ 
+§7 - §fBoots §7\[Lv. (\d+) to (\d+)\]@ 
+§7 - §fPants §7\[Lv. (\d+) to (\d+)\]@ 
+§7 - §fScroll §7\[Lv. (\d+) to (\d+)\]@ 
+§7 - §fBracelet §7\[Lv. (\d+) to (\d+)\]@ 
+§7 - §fNecklace §7\[Lv. (\d+) to (\d+)\]@ 
+§7 - §fFood §7\[Lv. (\d+) to (\d+)\]@ 
+§7 - §fPotion §7\[Lv. (\d+) to (\d+)\]@ 
+§7 - §fBow §7\[Lv. (\d+) to (\d+)\]@ 
+§7 - §fSpear §7\[Lv. (\d+) to (\d+)\]@ 
+§7 - §fDagger §7\[Lv. (\d+) to (\d+)\]@ 
+§7 - §fWand §7\[Lv. (\d+) to (\d+)\]@ 
+§7Name: (.*)@ 
+§7\[Active Weapon Skin: (.*)\]@ 
+§7 (.*) points (.*)    §6(.*) points@ 
+§a- §7Lv. Range: §f(.*)@ 
+§(c|a)(.*)§f(.*)§7 Mining Lv. Min: (\d+)@ 
+§(c|a)(.*)§f(.*)§7 Fishing Lv. Min: (\d+)@ 
+§(c|a)(.*)§f(.*)§7 Farming Lv. Min: (\d+)@ 
+§(c|a)(.*)§f(.*)§7 Woodcutting Lv. Min: (\d+)@ 
+§7This will delete your: §fLv. (\d+) Knight@ 
+§7This will delete your: §fLv. (\d+) Archer@ 
+§7This will delete your: §fLv. (\d+) Mage@ 
+§7This will delete your: §fLv. (\d+) Warrior@ 
+§7This will delete your: §fLv. (\d+) Assassin@ 
+§7This will delete your: §fLv. (\d+) Dark Wizard@ 
+§7This will delete your: §fLv. (\d+) Ninja@ 
+§7This will delete your: §fLv. (\d+) Hunter@ 
+§7Left click to add §f(\d+)§7 mobs for §f(\d+)§7²@ 
+§7Right click to add §f(\d+)§7 mobs for §f(\d+)§7²@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 XP Bonus@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Health Regen@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Life Steal@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Melee Damage@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Spell Damage@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Poison@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Health@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Walk Speed@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Fire Defence@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Mana Steal@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Mana Regen@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Earth Damage@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Defence@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Thorns@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Loot Bonus@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Exploding@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Water Damage@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Thunder Damage@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Fire Damage@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Strength@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Air Damage@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Reflection@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Agility@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Water Defence@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Stealing@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Dexterity@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Soul Point Regen@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Air Defence@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Intelligence@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Thunder Defence@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Earth Defence@ 
+§(c|a)(.*)§(4|2) to §(c|a)(.*) tier§7 Attack Speed@ 
+§(c|a)(.*) Dexterity Min.@ 
+§(c|a)(.*) Agility Min.@ 
+§(c|a)(.*) Strength Min.@ 
+§(c|a)(.*) Intelligence Min.@ 
+§(c|a)(.*) Defence Min.@ 
+§(3|d|4)- §7(.*) §b❉ Water§7 Defence@ 
+§(3|d|6)- §7(.*) §e✦ Thunder§7 Defence@ 
+§(a|d|6)- §7(.*) §2✤ Earth§7 Defence@ 
+§(4|d|7)- §7(.*) §c✹ Fire§7 Defence@ 
+§(a|d|7)- §7(.*) §f❋ Air§7 Defence@ 
+§d- §7Mana Steal: §f(.*)4s@ 
+§d- §7Stealing: §f(.*)%@ 
+§e- §7Class: §(.*) §fAssassin@ 
+§e- §7Class: §(.*) §fArcher@ 
+§e- §7Class: §(.*) §fMage@ 
+§e- §7Class: §(.*) §fWarrior@ 
+§e- §7Class: §(.*) §fKnight@ 
+§e- §7Class: §(.*) §fHunter@ 
+§e- §7Class: §(.*) §fDark Wizard@ 
+§e- §7Class: §(.*) §fNinja@ 
+§6 - §(a|c)(.*) §f(\d+)§3 Scrap@ 
+§7Total Scrap: §a(\d+)§2 scrap@ 
+§(c|e|2|f)   - §7Damage: (.*)@ 
+§b- Total Damage \(\+Bonus\): (.*)@ 
+§7Price: §f(\d+)§7 gold coins@ 
