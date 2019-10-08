@@ -1,3 +1,5 @@
+
+
 §7(.*) §7Attack Speed@ 
 §7(.*) §7Melee Damage@ 
 §7(.*) §7XP Bonus@ 
@@ -31,7 +33,7 @@
 §7(.*) §7Fire Defence@ 
 §7(.*) §7Stealing@ 
 §2Players: §a(.*)@ 
-(§2|§6)Lag: (§a|§e)(.*)%@ 
+§(2|6|4)Lag: §(a|e|c)(\d+)%@ 
 §2§m----§2\[ §a(.*)²§2 \]§m----@ 
 §6 - (§a✔|§c✖) §f(.*)§7²@ 
 (§a✔|§c✖)§7 Combat Lv. Min: (.*)@ 
@@ -48,7 +50,7 @@
 §e✦ Thunder§7 Defence: (.*)@ 
 §c✹ Fire§7 Defence: (.*)@ 
 §6 - §f(.*)§7(.*) §8(.*)@ 
-§7\[(.*)\] Powder Slots \[(.*)\]@ 
+§7\[(\d+)\/(\d+)\] Powder Slots@ 
 (§a✔|§c✖)§7 Crafting Lv. Min: (.*)@ 
 §bXp: (.*)@ 
 §a(.*)§2 to §a(.*)§7 Air Defence@ 
@@ -120,6 +122,20 @@
 §5\[LLR\] §dArrow Shield Spell: §f§f(\d+)-(\d+)@ 
 §5\[LLL\] §dEscape Spell: §f§f(\d+)-(\d+)@ 
 §5\[RRL\] §dSmoke Bomb Spell: §f§f(\d+)-(\d+)@ 
+§5\[RLR\] §dHeal Spell: §f§f(.*)@ 
+§5\[RLL\] §dDead Star Spell: §f§f(.*)@ 
+§5\[RRR\] §dBlink Spell: §f§f(.*)@ 
+§5\[RLR\] §dHoly Blast Spell: §f§f(.*)@ 
+§5\[RRR\] §dLeap Spell: §f§f(.*)@ 
+§5\[RLL\] §dHeaven Jolt Spell: §f§f(.*)@ 
+§5\[RRL\] §dCry of the Gods Spell: §f§f(.*)@ 
+§5\[RLR\] §dWhirlwind Spell: §f§f(.*)@ 
+§5\[LRL\] §dBolt Blizzard Spell: §f§f(.*)@ 
+§5\[LRR\] §dCreeper Dart Spell: §f§f(.*)@ 
+§5\[RRR\] §dVanish Spell: §f§f(.*)@ 
+§5\[LLL\] §dSpider Jump Spell: §f§f(.*)@ 
+§5\[RLR\] §dRemedy Spell: §f§f(.*)@ 
+§5\[RRL\] §dCrystal Reptile Spell: §f§f(.*)@ 
 §7Price: §a(\d+) emeralds@ 
 §7You have: §a(\d+) emeralds@ 
 §7    (\d+) points      §6(\d+) points@ 
