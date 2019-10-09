@@ -1759,7 +1759,13 @@ This book's title reads...@Названия этих книг гласят...
 §a- §7Crystal Reptile will throw a snake of death, freezing your enemies over a long distance@§a- §7Crystal Reptile выпускает смертоносную змею, замораживая врагов на большом расстоянии
 
 ###################################Системные##################################
+§cThe server is restarting in 4 minutes.@§cСервер перезагрузится через 4 минуты
+§cThe server is restarting in 3 minutes.@§cСервер перезагрузится через 3 минуты
+§cThe server is restarting in 2 minutes.@§cСервер перезагрузится через 2 минуты
 §cThe server is restarting in 1 minute.@§cСервер перезагрузится через 1 минуту
+§cThe server is restarting in 4 seconds.@§cСервер перезагрузится через 4 секунды
+§cThe server is restarting in 3 seconds.@§cСервер перезагрузится через 3 секунды
+§cThe server is restarting in 2 seconds.@§cСервер перезагрузится через 2 секунды
 §cThe server is restarting in 1 second.@§cСервер перезагрузится через 1 секунду
 §cThe server is restarting@§cСервер перезагружается
 §bServer restarting!@§bПерезагрузка сервера!
