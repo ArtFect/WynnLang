@@ -1299,7 +1299,7 @@ QUESTS/Murder_Mystery.txt =====
 §7Talk to Captain Lorias in @§7Поговори с Капитаном Lorias'ом 
 §7Cinfras suburbs at @§7в окрестностях Cinfras'а на 
 §7[-592,45,-4972]@ 
-§7Investigate the crime scene for @§7Посети место преступления
+§7Investigate the crime scene for @§7Посети место преступления и найди 
 §7Return to the victim's house @§7Вернись на место преступления 
 §7to find a bat symbol @§7и найди символ мыши
 §7Find the gamblers in the @§7Найди игроков в 
@@ -1423,8 +1423,8 @@ QUESTS/Purple_and_Blue.txt
 §7Investigate the ancient wizard's house @§7Исследуй старый дом 
 §7for clues at @§7мага в поисках подсказок на
 §7[-163,29,-5388]@ 
-§7Follow the hints in the @§7С помощью подсказок в подвале
-§7cellar to find the mysterious @§7найди загадочную
+§7Follow the hints in the @§7С помощью подсказок в подвале 
+§7cellar to find the mysterious @§7найди загадочную 
 §7Return to Korun with the @§7Вернись к Korun'у вместе со
 §7helmet @§7шлемом
 §7Enter the center spire from @§7Войди в центр прохода 
