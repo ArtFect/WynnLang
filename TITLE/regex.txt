@@ -6,3 +6,17 @@
 §cThe cave collapses in (\d+) second(|s)@ 
 §6Bridge deploys in (\d+) second(|s)@ 
 §c(\d+)@ 
+§b(.*) has been killed@ 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@ 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching combat §flevel (\d+)§7!@ 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒷ§7 Mining§7!@ 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒿ§7 Farming§7!@ 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒸ§7 Woodcutting§7!@ 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒹ§7 Jeweling§7!@ 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⓁ§7 Alchemism§7!@ 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⓀ§7 Fishing§7!@ 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒽ§7 Armouring§7!@ 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒼ§7 Weaponsmithing§7!@  
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒶ§7 Cooking§7!@ 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒻ§7 Tailoring§7!@ 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒺ§7 Scribing§7!@ 
