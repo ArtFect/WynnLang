@@ -1,6 +1,88 @@
+От мусора
+§3(.*)§b \[(.*)\]À@ 
+^§(2|a|6|4)§l(.*)@ 
+
 §fUnprocessed (.*)§8 \[(.*)\]@ 
 §a§lWorld (\d+)@ 
 §(e|d|b|a)Unidentified (.*)@ 
 §4([a-zA-Z0-9_]{1,16}): §cClick here to continue the trade.@ 
 §6([a-zA-Z0-9_]{1,16}): §eClick here to accept the trade.@ 
 §2([a-zA-Z0-9_]{1,16})§a has accepted the trade!@ 
+§f§lPage (\d+)§(c|a) >§(4|2)>§(c|a)>§(4|2)>§(c|a)>@ 
+§f§lPage (\d+)§a <§2<§a<§2<§a<@ 
+§7Forward to §fPage (\d+)@ 
+§7Back to §fPage (\d+)@ 
+§7Bash spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Multi Hit spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7War Scream spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Charge spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Ice Snake spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Teleport spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Meteor spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Escape spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Arrow Shield spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Bomb spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Arrow Storm spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Heal spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Vanish spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Smoke Bomb spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Leap spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Uppercut spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Holy Blast spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Spin Attack spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Spider Jump spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Bolt Blizzard spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Creeper Dart spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Remedy spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Blink spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Dead Star spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Crystal Reptile spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Whirlwind spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§l(.*)'s Info@ 
+§f<< §7(.*)'s Side@ 
+§(2|a|6)§l(.*)À §e\[Tracked\]@ 
+§l(\d+)§b Soul Points@ 
+§5(.*) Shard §d\[Floor (\d+) -(| )(Lv.|Level) (\d+)\]@ 
+§6Increase §ePotion§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §ePotion§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §eRing§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §eRing§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §eWand§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §eWand§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §ePants§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §ePants§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §eBow§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §eBow§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §eSpear§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §eSpear§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §eChestplate§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §eChestplate§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §eScroll§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §eScroll§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §eDagger§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §eDagger§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §eBoots§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §eBoots§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §eBracelet§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §eBracelet§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §eNecklace§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §eNecklace§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §eFood§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §eFood§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Increase §eHelmet§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§6Decrease §eHelmet§6 Level §8\[Lv. (\d+) to (\d+)\]@ 
+§7Cry of the Gods spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§7Heaven Jolt spell cast!§3 \[§b-(\d+) ✺§3\]@ 
+§6Selling §f(.*) §(a|b|c|d|e|f|2|5|6|7)(.*)§6 for §f(.*)§7² Each@ 
+§6Selling (.*) \[§e(.*)\]À@ 
+§6Buying §f(.*) §(a|b|c|d|e|f|2|5|6|7)(.*)§6 for §f(.*)§7² Each@ 
+§(7|6)Buying (.*) \[§e(.*)\]À@ 
+§(7|6)Selling (.*)@ 
+§(7|6)Buying (.*)@ 
+§7§lOwned by \[(.*)\]@ 
+§(6|4|2|a)§lMini-Quest - (.*)@ 
+(.*) \[§e(.*)\](.*)@ 
+§fⓀ Gathering Rod T(.*)@ 
+§fⒸ Gathering Axe T(.*)@ 
+§fⒷ Gathering Pickaxe T(.*)@ 
+§fⒿ Gathering Scythe T(.*)@ 
