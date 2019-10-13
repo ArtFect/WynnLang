@@ -88,7 +88,7 @@
 §a(.*) quest items have been returned. @§a(r1) квестовых предметов было возвращено.
 §a(.*) quest items have been returned. There was not room for an additional (.*) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
 §b(.*)§3 has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@§b(r1)§3 Бросил §bДанж Бомбу§3! Каждый вход в данж бесплатен на следующие §b10 минут§3!
-§b(.*)§3 has thrown a §bCombat XP Bomb§3! The entire server gets §bdouble combat xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bCombat XP бомбу§3! Весь сервер получает §bдвойные комбат xp §3на §b20 минут§3!
+§b(.*)§3 has thrown a §bCombat XP Bomb§3! The entire server gets §bdouble combat xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bКомбат XP бомбу§3! Весь сервер получает §bдвойные комбат xp §3на §b20 минут§3!
 §b(.*)§3 has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@§b(r1)§3 бросил §bProfession Speed Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
 §b(.*)§3 has thrown an §bItem Bomb§3!@§b(r1)§3 бросил §bПредметную Бомбу§3!
 §b(.*)§3 has thrown a §bProfession XP Bomb§3! The entire server gets §bdouble profession xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bProfession XP бомбу§3! Весь сервер получает §bдвойные xp профессий §3на §b20 минут§3!
