@@ -10,6 +10,16 @@
 §3(.*) \[(.*)\] shouts: §b(.*)@ 
 лобби
 §7\[(.*)§7\] §f(.*)@ 
+§7\[\+(.*) XP\]@ 
+§c\[\+(.*) ❤\].@ 
+§6- §f(.*) \[(.*)\]@ 
+§(6|b)- §f(.*)@ 
+§7\[(.*)/(.*)\]§(b|5|2) \[§(.*)§(5|2|b)\] §(5|b|2)(.*): §(.*)@ 
+§(.*)\[(.*)\/(Ar|Ma|Wa|As)\] §(f|7)(.*): §(f|7|8)(.*)@ 
+§(a|e|7)\[(.*)\/(.*)\]§(a|e|7) §(7|f)(.*): §(.*)@ 
+§(e|a|7|b)\[(.*)\/(.*)\/(.*)\] §(.*): §(.*)@ 
+§(.*)\[(.*)\/(.*)\/(.*)\] §(.*): §(.*)@ 
+
 §6\[Info\] §eWatch your personal progress at §6(.*)§e!@§6[Инфо] §eСмотри свою персональную статистику на §6(r1)§e!
 §6\[Info\] §eLook at your own personal stats at §6(.*)§e!@§6[§eИнфо§6] §eПосмотри свою персональную статистику на §6(r1)§e!
 §4(.*)§c is currently on server (.*)@§4(r1)§c сейчас на сервере (r2)
@@ -201,6 +211,28 @@
 §4Oof! This territory was just in a war! Please wait another (.*) seconds before attacking.@§4Упс! За эту территорию только что была битва! Подожди еще (r1) секунд перед атакой.
 §7Want to thank §f(.*)§7\? §b§nClick here to thank them!@§7хочешь поблагодарить §f(r1)§7? §b§nНажми сюда, чтобы поблагодарить!
 §c(.*) is not an online player.@§c(r1) не является онлайн-игроком.
+§b (.*) can now support (\d+) players!@§b (r1) теперь поддерживает (r2) игроков!
+§b Level Up! (.*) is now level (\d+)!@§b Уровень повышен! (r1) достигла уровня (r2)!
+§4You were not invited to join §c(.*)@§4Тебе нужно приглашение для вступления в §c(r1)
+§5Guild Master: §dYour Guild's name will be: §b(.*).@§5Guild Master: §dНазвание вашей гильдии будет: §b(r1).
+§5Guild Master: §dYour Guild's prefix will be: §b(.*).@§5Guild Master: §dПрефикс вашей гильдии будет: §b(r1).
+§5Guild Master: §dCongratulations! You are the new proud owner of §b(.*).@§5Guild Master: §dПоздравляем! Ты новый счастливый обладатель гильдии §b(r1).
+§7\[(.*) created\]@§7[(r1) создана]
+§b(.*) changed the guild banner, costing (.*) emeralds.@§b(r1) изменил баннер гильдии, это стоило (r2) эмеральдов.
+§c(.*)§4 is already in a guild.@§c(r1)§4 уже находится в гильдии.
+§b(.*) has taken control of (.*)!@§b(r1) захватили контроль над (r2)!
+§b(.*)§3 has thrown an §bIngredient Bomb§3!@§b(r1)§3 бросил §bИнгредиентную Бомбу§3!
+§b(.*) just contributed (.*) emeralds to the guild!@§b(r1) внес (r2) эмеральдов в гильдию!
+§b(.*) just contributed 1 emerald to the guild!@§b(r1) внес 1 эмеральд в гильдию!
+§bCongratulations! The guild has taken control of (.*) from (.*)!!!@§bПоздравляем! Гильдия взяла контроль над (r1) у (r2)!!!
+§b(.*) has set (.*) rank from (.*) to (.*)@§b(r1) изменил ранг (r2) с (r3) на (r4)
+§7\[\+(.*) §fⒹ §7Jeweling XP\] §6\[(\d+)%\]@ 
+§7\[\+(.*) §fⒶ §7Cooking XP\] §6\[(\d+)%\]@ 
+§7\[\+(.*) §fⒻ §7Tailoring XP\] §6\[(\d+)%\]@ 
+§7\[\+(.*) §fⒺ §7Scribing XP\] §6\[(\d+)%\]@ 
+§7\[\+(.*) §fⒽ §7Armouring XP\] §6\[(\d+)%\]@ 
+§7\[\+(.*) §fⒼ §7Weaponsmithing XP\] §6\[(\d+)%\]@ 
+§7\[\+(.*) §fⒾ §7Woodworking XP\] §6\[(\d+)%\]@ 
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
