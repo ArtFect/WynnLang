@@ -267,6 +267,7 @@
 §7\[7\/8\] §2Guard: §a(.*), you're an Archer, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь лучник, верно? Встань поближе к стене, ради меня.
 §7\[5\/5\] §2Aledar: §aFine. I know what to do. (.*), Tasim, follow me.@§7[5/5] §2Aledar: §aХорошо, я знаю, что нужно делать. (r1), Tasim, следуйте за мной.
 §7\[1\/1\] §2Tasim: §aBe careful, (.*)! Don't want you falling off the edge.@§7[1/1] §2Tasim: §aБудь осторожнее, (r1)! Я не хочу, чтобы ты упал с обрыва.
+§7[1/1] §2Tasim: §aHey, don't leave yet, (.*)!@§7[1/1] §2Tasim: §aЭй, не уходи пока, (r1)!
 
 §7\[1\/4\] §2Nick: §aHey, (.*)! Any luck\?@§7[1/4] §2Nick: §aЭй, (r1)! Ну что, как успехи?
 
