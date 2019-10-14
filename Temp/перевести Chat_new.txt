@@ -98,24 +98,22 @@
 §7[3/3] §2Selchar Citizen: §aYou look strong enough to survive there now, but I still wouldn't risk it if I were you.@§7[3/3] §2Selchar Citizen: §aТы выглядишь достаточно сильным, чтобы выжить там сейчас, но я все равно не стал бы рисковать, будь я на твоем месте.
 §4You have no reason to go here.@§4У тебя нет причин идти туда.
 §4Power Problem@§4Проблема с энергией
-§7[1/5] §2Camar: §aGah! You gave me quite the scare there, human! Don't see many people walking through here, mostly sentient stone.
-§7[2/5] §2Camar: §aYou see, I've been observing these creatures for years now. They fascinate me, especially that big one that comes out only once in a while.
-§7[3/5] §2Camar: §aNow, these here golems walking the Cinfras Plains are ancient, but the big guy makes them look like newborns. That one is at least one millennia old!
-§7[4/5] §2Camar: §aHe's made out of metal that not even the dwarves recognize and covered in runes not even the elves can decipher.
-§7[5/5] §2Camar: §aIf I were you, I'd admire it from afar, like me. I've seen the thing tear bandits into bits without hesitation!
-§7[1/4] §2????: §aOh... Looks like you found me out. I had been expecting you not to find this place. Ah awell!
-§7[2/4] §2????: §aYou know, I'll give you a chance to leave. Just turn around. We can just forget this ever happened.
-§7[3/4] §2????: §aIf you come into my room, I won't hesitate to kill you. Are you really gonna throw away your life just to see me?
-§7[4/4] §2????: §aThis is your last chance, I'm telling you. Turn right back around the way you came, or I can't be held responsible for what happens next.
-§7[1/1] §2King of Troms: §aPlease just leave my presence...
-§4You have died...
-§4§lDeath claims your soul.
-§7[1/1] §2Death: §aIS MY MANSION SO DULL YOU WOULD RATHER GO ROCK CLIMBING?
-§7[1/1] §2Excavator Admin Uci: §aAs fun as it would be to kill you, my boss wants you alive. He's in the temple already....
-§7[1/1] §2WynnExcavation Scientist Azure: §aThis leads deeper into this dungeon, but it seems like it has to be activated from the other side.
-§aA §dRare Steampunk Wand§a!
-§7[1/1] §2Head Engineer: §aI'm just here making sure the system self-repairs properly before I return to my office life of doing nothing again! I must remember to write down the restart instructions.
-§4You should not be entering here yet...
-§7[1/1] §2Guardian of The Forest: §aI really overslept. There is a lot to catch up on. Gavel is a very different place than I remember. Oh, the poor people...
-§7[1/2] §2Rodoroc Dwarf: §aAt the opposite end of the Molten Heights lies an area that has been frozen over. It's crawling with Ice Drakes now.
-§7[2/2] §2Rodoroc Dwarf: §aJust nearby lies the skeleton of a great beast. Ahh, war memories.
+§7[1/5] §2Camar: §aGah! You gave me quite the scare there, human! Don't see many people walking through here, mostly sentient stone.@§7[1/5] §2Camar: §aБоже! Ты меня здорово напугал, человек! Я вижу не так много людей, проходящих здесь, в основном лишь это разумные камни.
+§7[2/5] §2Camar: §aYou see, I've been observing these creatures for years now. They fascinate me, especially that big one that comes out only once in a while.@§7[2/5] §2Camar: §aВидишь ли, я наблюдаю за этими существами уже много лет. Они очаровывают меня, особенно тот большой, который выходил только один раз за все время.
+§7[3/5] §2Camar: §aNow, these here golems walking the Cinfras Plains are ancient, but the big guy makes them look like newborns. That one is at least one millennia old!@§7[3/5] §2Camar: §aГолемы, гуляющие по равнинам Cinfras'а, очень древние, но тот большой парень делает их похожими на младенцев. Этому по меньшей мере одно тысячелетие!
+§7[4/5] §2Camar: §aHe's made out of metal that not even the dwarves recognize and covered in runes not even the elves can decipher.@§7[4/5] §2Camar: §aОн сделан из металла, который даже гномы не узнают, и покрыт рунами, которые даже эльфы не могут расшифровать.
+§7[5/5] §2Camar: §aIf I were you, I'd admire it from afar, like me. I've seen the thing tear bandits into bits without hesitation!@§7[5/5] §2Camar: §aНа твоем месте я бы восхищался им издалека, как и я. Я видел, как эта тварь без колебаний разорвала бандитов на куски!
+§7[1/4] §2????: §aOh... Looks like you found me out. I had been expecting you not to find this place. Ah awell!@§7[1/4] §2????: §aОх... Похоже, ты меня нашел. Я ожидал, что ты не сможешь найти это место. Ну что ж!
+§7[2/4] §2????: §aYou know, I'll give you a chance to leave. Just turn around. We can just forget this ever happened.@§7[2/4] §2????: §aЗнаешь, я просто дам тебе шанс уйти. Просто развернись. Мы можем просто забыть об этом.
+§7[3/4] §2????: §aIf you come into my room, I won't hesitate to kill you. Are you really gonna throw away your life just to see me?@§7[3/4] §2????: §aЕсли ты войдешь в мою комнату, я без колебаний убью тебя. Ты правда собираешься расстаться со своей жизнью, чтобы увидеть меня?
+§7[4/4] §2????: §aThis is your last chance, I'm telling you. Turn right back around the way you came, or I can't be held responsible for what happens next.@§7[4/4] §2????: §aЭто твой последний шанс. Говорю же тебе. Поверни назад, откуда пришел, или я не отвечаю за то, что будет дальше.
+§7[1/1] §2King of Troms: §aPlease just leave my presence...@§7[1/1] §2King of Troms: §aПожалуйста, оставь меня...
+§7[1/1] §2Death: §aIS MY MANSION SO DULL YOU WOULD RATHER GO ROCK CLIMBING?@§7[1/1] §2Death: §aНЕУЖЕЛИ В МОЕМ ОСОБНЯКЕ ТАК СКУЧНО, ЧТО ТЫ ПРЕДПОЧЕЛ ЗАНЯТЬСЯ СКАЛОЛАЗАНИЕМ?
+§7[1/1] §2Excavator Admin Uci: §aAs fun as it would be to kill you, my boss wants you alive. He's in the temple already....@§7[1/1] §2Excavator Admin Uci: §aБыло бы весело убить тебя, но мой босс хочет видеть тебя живым. Он уже находится в храме...
+§7[1/1] §2WynnExcavation Scientist Azure: §aThis leads deeper into this dungeon, but it seems like it has to be activated from the other side.@§7[1/1] §2WynnExcavation Scientist Azure: §aЭта штука ведет глубоко в подземелье, но кажется, что она должна быть активирована с другой стороны.
+§aA §dRare Steampunk Wand§a!@§aA §dRare Стимпанк Посох§a!
+§7[1/1] §2Head Engineer: §aI'm just here making sure the system self-repairs properly before I return to my office life of doing nothing again! I must remember to write down the restart instructions.@§7[1/1] §2Head Engineer: §aЯ просто здесь, чтобы убедиться, что система саморемонтируется должным образом, прежде чем я вернусь к своей офисной жизни, снова ничего не делая! Должен не забыть записать инструкцию по перезапуску.
+§4You should not be entering here yet...@§4Ты не должен пока входить сюда... 
+§7[1/1] §2Guardian of The Forest: §aI really overslept. There is a lot to catch up on. Gavel is a very different place than I remember. Oh, the poor people...@§7[1/1] §2Guardian of The Forest: §aЯ действительно многое проспал. Есть много чего наверстать упущенного. Gavel уже совсем другое место, чем помню я. Ох, бедные люди...
+§7[1/2] §2Rodoroc Dwarf: §aAt the opposite end of the Molten Heights lies an area that has been frozen over. It's crawling with Ice Drakes now.@§7[1/2] §2Rodoroc Dwarf: §aНа противоположном конце Molten Heights лежит область, которая была заморожена. Сейчас она кишит ледяными селезнями.
+§7[2/2] §2Rodoroc Dwarf: §aJust nearby lies the skeleton of a great beast. Ahh, war memories.@§7[2/2] §2Rodoroc Dwarf: §aА совсем рядом лежит скелет огромного зверя. Эх, воспоминания о войне.
