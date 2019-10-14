@@ -23,31 +23,31 @@
 §7[1/1] §2Marden: §aBullseye! Nailed it. Huh, how did you get up here?! Shoo!@§7[1/1] §2Marden: §aВ яблочко! Ты успешно справился. А как ты сюда попал?! Кыш!
 §7[1/1] §2Tesha: §aTake that to vade, and don't read it!@§7[1/1] §2Tesha: §aОтнеси это Vade, и не читай!
 §7[1/1] §2Daxe: §aI am sad to learn the dark truth of the Iron Golems. Olux citizens have begun a rumor that I'm involved, so I do believe I'll be moving away soon.@§7[1/1] §2Daxe: §aМне грустно знать темную правду о железных Големах. Жители Olux'a пустили слух, что я причастен к этому, так что похоже я скоро перееду.
-§4The floorboards are creaking under your weight...
-§7[1/1] §2Javen: §aNo need for any deliveries anymore ever since I got my own brewery, thanks to you!
-§7[1/2] §2Lexas: §aSomeone got my message! You found me! Please tell the captain about me, don't let Gorgu eat me!
-§7[2/2] §2Lexas: §aHe loves nothing more than a fresh villager for dinner! Well, except maybe pig...
-§4You have not donated to rename your animals.
-§7[1/1] §2???: §aThe rest of the city is blocked off. You're trapped if you go down that way!
-§7[1/1] §2Traitor Thomas: §aI can't let you in, we're busy looking for an important document, I’m sure these eyes have something to do with it...
-§4To use this it needs to be activated later on...
-§dWater Effect
-§7Create an water effect around your character
-§5Guild Master: §dThere is a 4 character minimum for guild names. Make it a bit longer!
-§5Guild Master: §dPlease only use english characters A-Z in your guild name.
-§5Guild Master: §dOkay, great! Does this look right?
-§5Guild Master: §dNo? Alright! Come back when you're ready!
-§5Guild Master: §dType /guild to see your guild menu!
-§7[-5 Soul Points]
-§7[-5 Liquid Emeralds]
-§4/guild kick §c[name] §8-§6 Kick a guild member
-§4/guild banner §8-§6 Modify your guild banner
-§cInvalid Arguments. Example: /guild rank [player] [rank]
-§7[1/1] §2Nitram: §aHow may I help you, my child?
-§7[1/1] §2Arwes: §aSeems you humns really are very strong. I can't say as though I expected anyone below Level 72 to survive here, though I must still recommend you leave for your own safety.
-§7[1/1] §2Cikal: §aYou are not allowed to be in this tower. Here, at Gylia Watch, we only accept recruits with a minimum level of 77.
-§7[Banner created]
-§3You are no longer disguised as a §bcow
+§4The floorboards are creaking under your weight...@§4Половицы скрипят под твоим весом...
+§7[1/1] §2Javen: §aNo need for any deliveries anymore ever since I got my own brewery, thanks to you!@§7[1/1] §2Javen: §aБольше нет необходимости в каких-либо поставках с тех пор, как я получил свой собственный пивоваренный завод, благодаря тебе!
+§7[1/2] §2Lexas: §aSomeone got my message! You found me! Please tell the captain about me, don't let Gorgu eat me!@§7[1/2] §2Lexas: §aКто-то получил мое сообщение! Ты нашел меня! Пожалуйста, расскажи обо мне капитану, не дай Gorgu съесть меня!
+§7[2/2] §2Lexas: §aHe loves nothing more than a fresh villager for dinner! Well, except maybe pig...@§7[2/2] §2Lexas: §aОн не любит ничего больше, чем свежий житель на ужин! Ну, кроме разве что свинины...
+§4You have not donated to rename your animals.@§4Ты не донатил, чтобы переименовать своих животных.
+§7[1/1] §2???: §aThe rest of the city is blocked off. You're trapped if you go down that way!@§7[1/1] §2???: §aОстальная часть города заблокирована. Ты попадешь в ловушку, если пойдешь туда!
+§7[1/1] §2Traitor Thomas: §aI can't let you in, we're busy looking for an important document, I’m sure these eyes have something to do with it...@§7[1/1] §2Traitor Thomas: §aЯ не могу тебя впустить, мы заняты поисками важного документа. Уверен, что эти глаза имеют к нему какое-то отношение...
+§4To use this it needs to be activated later on...@§4Чтобы использовать это, оно должно быть активировано позже...
+§dWater Effect@§dЭффект Воды
+§7Create an water effect around your character@§7Создает эффект воды вокруг персонажа
+§5Guild Master: §dThere is a 4 character minimum for guild names. Make it a bit longer!@§5Guild Master: §dНеобходимо минимум 4 символа для названия гильдии. Сделай его немного длиннее!
+§5Guild Master: §dPlease only use english characters A-Z in your guild name.@§5Guild Master: §dПожалуйста используй только английские буквы A-Z в названии гильдии.
+§5Guild Master: §dOkay, great! Does this look right?@§5Guild Master: §dХорошо, здорово! Проверь, все ли правильно?
+§5Guild Master: §dNo? Alright! Come back when you're ready!@§5Guild Master: §dНет? Хорошо! Возвращайся когда будешь готов!
+§5Guild Master: §dType /guild to see your guild menu!@§5Guild Master: §dНапиши /guild для просмотра меню гильдии!
+§7[-5 Soul Points]@§7[-5 Очков Душ]
+§7[-5 Liquid Emeralds]@§7[-5 Жидких Эмеральдов]
+§4/guild kick §c[name] §8-§6 Kick a guild member@§4/guild kick §c[ник] §8-§6 Кикнуть участника гильдии
+§4/guild banner §8-§6 Modify your guild banner@§4/guild banner §8-§6 Изменить баннер гильдии
+§cInvalid Arguments. Example: /guild rank [player] [rank]@§cНеправильные аргументы. Пример: /guild rank [игрок] [ранг]
+§7[1/1] §2Nitram: §aHow may I help you, my child?@§7[1/1] §2Nitram: §aЧем я могу помочь тебе, мое дитя?
+§7[1/1] §2Arwes: §aSeems you humns really are very strong. I can't say as though I expected anyone below Level 72 to survive here, though I must still recommend you leave for your own safety.@§7[1/1] §2Arwes: §aПохоже, вы, люди, действительно очень сильны. Не могу сказать, что ожидал, что кто-то ниже 72 уровня выживет здесь, хотя я все еще должен порекомендовать тебе уйти для твоей же собственной безопасности.
+§7[1/1] §2Cikal: §aYou are not allowed to be in this tower. Here, at Gylia Watch, we only accept recruits with a minimum level of 77.@§7[1/1] §2Cikal: §aТебе нельзя находиться в этой башне. Здесь, в Башне Gylia, мы принимаем только рекрутов с минимальным уровнем 77.
+§7[Banner created]@§7[Баннер Создан]
+§3You are no longer disguised as a §bcow@§3Ты больше не маскируешься под §bкорову
 §4Inrekei is not responding. You feel it's best to leave him be.
 §7[1/1] §2Amadel's Assistant: §aYou will die!
 §7[1/1] §2Ragni's King: §aAh, welcome my young recr-... my young master.
