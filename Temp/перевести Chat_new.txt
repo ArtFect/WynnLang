@@ -73,33 +73,31 @@
 §7[1/1] §2Engineer Eric: §aI ran up here to check on the engines and machinery... It just doesn't seem right...@§7[1/1] §2Engineer Eric: §aЯ побежал сюда, чтобы проверить двигатели и механизмы... Кажется что-то не так...
 §4The spirits lurking in this cave is preventing you from entering further.@§4Духи, скрывающиеся в этой пещере, мешают тебе пройти дальше.
 §4The screams of an unknown creature echo in your ears. It is not safe to continue without proper protection.@§4Крики неизвестного существа эхом отдаются в твоих ушах. Будет опасно продолжать без должной защиты.
-§4A guttural screech emanates from below you. It may be best not to jump headlong down there.
-§fChocolate Wybel Token
-§7There is a small note on this sign.
-§7”All applicants must be at least level 95.”
-§bNobody logged in for the battle.
-§bYour guild will receive a portion of the loot and XP dropped by all creatures slain in that territory
-§7[1/1] §2Gawrick: §aI'm working on hitherto unknown and dangerous experimental spells, please leave me in peace.
-§7[1/1] §2Korun: §aHey! Don't go in there!
-§4The crane isn't in use at the moment, come back later...
-§7[1/1] §2Togak: §aI wish to speak with you first.
-§7[1/1] §2Corak: §aDo you have a §3[Receipt]§a? If you need to retrieve it from your bank, you can exit through this door.
-§dPink Wybel Token
-§3You now have a §bPink Wybel
-§7[1/1] §2Bugabo: §aGo on, looks like I don't need to help Dado pirating anymore.
-§7[1/1] §2Ka L'argwit: §aOui yna hud cdnuhk ahuikr du ramb ic nekrd huf. Lusa pylg yd level 73.
-§7[1/1] §2Lecade: §aWhat are you standing around for? Bring me what I asked for, soldier!
-§7[4/4] §2Ansei: §aLooks like you still have some more letters there, I guess you still need to deliver them to 4 more members of the crew.
-§7[4/4] §2Kofis: §aI guess you better go on and find the rest of the crew. Judging by those letters you have there, you still need to find 3 more of us.
-§7[1/1] §2Felim: §aKeep on looking, you still have to deliver those letters to more of us.
-§7[4/4] §2Yuge: §aHm, so I see you're out of letters. Guess everyone has the message, so go and tell Dejol we're all okay.
-§7Escape the hideout!
-§7Return to Drale about your success.
-§7[1/3] §2Selchar Citizen: §aThat island to the northeast, Skien's Island... don't ever go there. It's doomed desolation..
-§7[2/3] §2Selchar Citizen: §aGeneral Skien moved to that island because one of his men got corrupted during a siege and attacked his forces. But I don't know the full story.
-§7[3/3] §2Selchar Citizen: §aYou look strong enough to survive there now, but I still wouldn't risk it if I were you.
-§4You have no reason to go here.
-§4Power Problem
+§4A guttural screech emanates from below you. It may be best not to jump headlong down there.@§4Из-под тебя доносится гортанный визг. Может быть, лучше не прыгать туда сломя голову.
+§fChocolate Wybel Token@§fШоколадный Wybel Жетон
+§7There is a small note on this sign.@§7На этой табличке есть небольшая заметка.
+§7”All applicants must be at least level 95.”@§7”Все кандидаты должны быть не ниже 95 уровня.”
+§bNobody logged in for the battle.@§bНикто не пришел для участия в захвате.
+§bYour guild will receive a portion of the loot and XP dropped by all creatures slain in that territory@§bВаша гильдия будет получать часть лута и XP, добытые со всех убитых созданий на этой территории
+§7[1/1] §2Gawrick: §aI'm working on hitherto unknown and dangerous experimental spells, please leave me in peace.@§7[1/1] §2Gawrick: §aЯ работаю над до сих пор неизвестным и опасным экспериментальным заклинанием, пожалуйста, оставь меня в покое.
+§7[1/1] §2Korun: §aHey! Don't go in there!@§7[1/1] §2Korun: §aЭй! Не ходи туда!
+§4The crane isn't in use at the moment, come back later...@§4Кран сейчас не используется, приходи позже...
+§7[1/1] §2Togak: §aI wish to speak with you first.@§7[1/1] §2Togak: §aЯ хочу поговорить с тобой сначала.
+§7[1/1] §2Corak: §aDo you have a §3[Receipt]§a? If you need to retrieve it from your bank, you can exit through this door.@§7[1/1] §2Corak: §aУ тебя есть §3[Квитанция]§a? Если тебе нужно забрать ее из твоего банка, ты можешь выйти через эту дверь.
+§dPink Wybel Token@§dРозовый Wybel Жетон
+§3You now have a §bPink Wybel@§3Теперь у тебя есть §bРозовый Wybel
+§7[1/1] §2Bugabo: §aGo on, looks like I don't need to help Dado pirating anymore.@§7[1/1] §2Bugabo: §aПроходи, похоже, мне больше не нужно помогать Dado пиратствовать.
+§7[1/1] §2Ka L'argwit: §aOui yna hud cdnuhk ahuikr du ramb ic nekrd huf. Lusa pylg yd level 73.@§7[1/1] §2Ka L'argwit: §aОуи уна худ кдхунк ахиукр ду рамб ик некрд хуф. Луса пилг уд уровень 73.
+§7[1/1] §2Lecade: §aWhat are you standing around for? Bring me what I asked for, soldier!@§7[1/1] §2Lecade: §aЧего ты ждешь? Принеси мне то, что я просил, солдат!
+§7[4/4] §2Ansei: §aLooks like you still have some more letters there, I guess you still need to deliver them to 4 more members of the crew.@§7[4/4] §2Ansei: §aПохоже, что у тебя все еще есть еще несколько писем, думаю, тебе все еще нужно доставить их еще 4 участникам команды.
+§7[4/4] §2Kofis: §aI guess you better go on and find the rest of the crew. Judging by those letters you have there, you still need to find 3 more of us.@§7[4/4] §2Kofis: §aДумаю, тебе лучше пойти и найти остальных членов команды. Судя по тем письмам, которые у тебя есть, тебе все еще нужно найти 3 из нас.
+§7[1/1] §2Felim: §aKeep on looking, you still have to deliver those letters to more of us.@§7[1/1] §2Felim: §aПродолжай искать, ты все еще должен доставить эти письма большинству из нас.
+§7[4/4] §2Yuge: §aHm, so I see you're out of letters. Guess everyone has the message, so go and tell Dejol we're all okay.@§7[4/4] §2Yuge: §aХм, я вижу, что у тебя закончились письма. Полагаю у всех есть сообщения, так что иди скажи Dejol'у, что мы все в порядке.
+§7[1/3] §2Selchar Citizen: §aThat island to the northeast, Skien's Island... don't ever go there. It's doomed desolation..@§7[1/3] §2Selchar Citizen: §aЭтот остров на северо-востоке, Skien's Island... никогда туда не ходи. Там обреченное отчаяние..
+§7[2/3] §2Selchar Citizen: §aGeneral Skien moved to that island because one of his men got corrupted during a siege and attacked his forces. But I don't know the full story.@§7[2/3] §2Selchar Citizen: §aГенерал Skien переехал на этот остров, потому что один из его солдат был заражен порчей во время осады и напал на свои же отряды. Но я не знаю всей истории.
+§7[3/3] §2Selchar Citizen: §aYou look strong enough to survive there now, but I still wouldn't risk it if I were you.@§7[3/3] §2Selchar Citizen: §aТы выглядишь достаточно сильным, чтобы выжить там сейчас, но я все равно не стал бы рисковать, будь я на твоем месте.
+§4You have no reason to go here.@§4У тебя нет причин идти туда.
+§4Power Problem@§4Проблема с энергией
 §7[1/5] §2Camar: §aGah! You gave me quite the scare there, human! Don't see many people walking through here, mostly sentient stone.
 §7[2/5] §2Camar: §aYou see, I've been observing these creatures for years now. They fascinate me, especially that big one that comes out only once in a while.
 §7[3/5] §2Camar: §aNow, these here golems walking the Cinfras Plains are ancient, but the big guy makes them look like newborns. That one is at least one millennia old!
