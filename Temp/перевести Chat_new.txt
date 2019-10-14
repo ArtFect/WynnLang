@@ -48,36 +48,31 @@
 §7[1/1] §2Cikal: §aYou are not allowed to be in this tower. Here, at Gylia Watch, we only accept recruits with a minimum level of 77.@§7[1/1] §2Cikal: §aТебе нельзя находиться в этой башне. Здесь, в Башне Gylia, мы принимаем только рекрутов с минимальным уровнем 77.
 §7[Banner created]@§7[Баннер Создан]
 §3You are no longer disguised as a §bcow@§3Ты больше не маскируешься под §bкорову
-§4Inrekei is not responding. You feel it's best to leave him be.
-§7[1/1] §2Amadel's Assistant: §aYou will die!
-§7[1/1] §2Ragni's King: §aAh, welcome my young recr-... my young master.
-§6Half-Moon Bow
-§7Disguise your bow with a lunar flair
-§aA §dRare Spider Disguise§a!
-§7[1/1] §2Zhight Tour Guide: §aSorry, but the Zhight Treasure Tour is undergoing some renovations at the moment, so we can't let you inside.
-§7[1/3] §2Elder Berusia: §aGAH! Don’t spook me like that man! I’m uh... busy. Go back and talk with Likeru.
-§7[2/3] §2Elder Berusia: §aShe’s got your hippopotamus for you.
-§7[3/3] §2Elder Berusia: §aOh uh... I meant reward. Yeah... reward..
-§7[1/1] §2???: §4… How fool§4§kk§ah of you… to come back he§4re.§4§k:5tykkk§after what §4happene§4§ki:
-§7[1/1] §2Kaosuw: §aBehold! The Hisou-Gavolku!
-§4An eerie feeling radiates from this room...
-§7[1/1] §2????: §a§lYou are not worth my time to see. What could a peon such as you possibly hope to request? Prove yourself §a§lworthy...and§a§l then we will see what I may do for you.
-§7[1/1] §2Aluxander: §aHey! You're supposed to be following the red trail!
-§4Maybe you should read that note first...
-§eDesc.: This command will let you add friends.
-§eUsage: /friend [add/remove/list] [arguments]
-§7Everybody gets:
-§7 - §f2 Random Ingredients
-§7 - §f6 Random Materials
-§e§nClick here to claim them!
-§7[1/1] §2Harker: §aYou must kill Naragath! I've already been weakened, I don't know how much longer I can hold back its full power!
-§7[1/1] §2Engineer Eric: §aI ran up here to check on the engines and machinery... It just doesn't seem right...
-§4You don't have the correct key!§7
-Sneak and walk towards the door to look inside the keyhole.
-§4You don't have the key!§7
-Kill the queen in order to obtain it.
-§4The spirits lurking in this cave is preventing you from entering further.
-§4The screams of an unknown creature echo in your ears. It is not safe to continue without proper protection.
+§4Inrekei is not responding. You feel it's best to leave him be.@§4Inrekei не отвечает. Ты чувствуешь, что лучше оставить его в покое.
+§7[1/1] §2Amadel's Assistant: §aYou will die!@§7[1/1] §2Amadel's Assistant: §aТы умрешь!
+§7[1/1] §2Ragni's King: §aAh, welcome my young recr-... my young master.@§7[1/1] §2Ragni's King: §aАх, добро пожаловать, мой юный рекр... мой юный мастер.
+§6Half-Moon Bow@§6Полу-месяц Лук
+§7Disguise your bow with a lunar flair@Маскирует твой лук под лунный стиль
+§aA §dRare Spider Disguise§a!@§aA §dRare Маскировка Паука§a!
+§7[1/1] §2Zhight Tour Guide: §aSorry, but the Zhight Treasure Tour is undergoing some renovations at the moment, so we can't let you inside.@§7[1/1] §2Zhight Tour Guide: §aИзвини, но в данный момент в Zhight Treasure Tour проводятся некоторые ремонтные работы, поэтому мы не можем впустить тебя внутрь.
+§7[1/3] §2Elder Berusia: §aGAH! Don’t spook me like that man! I’m uh... busy. Go back and talk with Likeru.@§7[1/3] §2Elder Berusia: §aЧЕРТ! Не пугай меня так, человек! Я эмм...занят. Иди и поговори с Likeru.
+§7[2/3] §2Elder Berusia: §aShe’s got your hippopotamus for you.@§7[2/3] §2Elder Berusia: §aУ нее для тебя есть гиппопотам.
+§7[3/3] §2Elder Berusia: §aOh uh... I meant reward. Yeah... reward..@§7[3/3] §2Elder Berusia: §aОх... Я имел в виду награда. Да...награда..
+§7[1/1] §2Kaosuw: §aBehold! The Hisou-Gavolku!@§7[1/1] §2Kaosuw: §aУзрите! Хисоу-Гаволку!
+§4An eerie feeling radiates from this room...@§4Жуткое чувство исходит из этой комнаты...
+§7[1/1] §2????: §a§lYou are not worth my time to see. What could a peon such as you possibly hope to request? Prove yourself §a§lworthy...and§a§l then we will see what I may do for you.@§7[1/1] §2????: §a§lТы не стоишь моего времени. Что может просить такой пехотинец, как ты? Докажи, что ты достоин...а потом посмотрим, что я могу для тебя сделать.
+§7[1/1] §2Aluxander: §aHey! You're supposed to be following the red trail!@§7[1/1] §2Aluxander: §aЭй! Ты должен идти по красному следу!
+§4Maybe you should read that note first...@§4Может тебе стоит сначала прочитать эту записку...
+§eDesc.: This command will let you add friends.@§eОписание: Эта команда позволяет тебе добавлять друзей.
+§eUsage: /friend [add/remove/list] [arguments]@§eИспользование: /friend [add/remove/list] [аргументы]
+§7Everybody gets:@§7Каждый получает:
+§7 - §f2 Random Ingredients@§7 - §f2 Рандомных Ингредиента
+§7 - §f6 Random Materials@§7 - §f6 Рандомных Материалов
+§e§nClick here to claim them!@§e§nКликни сюда, чтобы получить их!
+§7[1/1] §2Harker: §aYou must kill Naragath! I've already been weakened, I don't know how much longer I can hold back its full power!@§7[1/1] §2Harker: §aТы должен убить Naragath'а! Я уже ослабел, не знаю, сколько еще смогу сдерживать его полную мощь!
+§7[1/1] §2Engineer Eric: §aI ran up here to check on the engines and machinery... It just doesn't seem right...@§7[1/1] §2Engineer Eric: §aЯ побежал сюда, чтобы проверить двигатели и механизмы... Кажется что-то не так...
+§4The spirits lurking in this cave is preventing you from entering further.@§4Духи, скрывающиеся в этой пещере, мешают тебе пройти дальше.
+§4The screams of an unknown creature echo in your ears. It is not safe to continue without proper protection.@§4Крики неизвестного существа эхом отдаются в твоих ушах. Будет опасно продолжать без должной защиты.
 §4A guttural screech emanates from below you. It may be best not to jump headlong down there.
 §fChocolate Wybel Token
 §7There is a small note on this sign.
