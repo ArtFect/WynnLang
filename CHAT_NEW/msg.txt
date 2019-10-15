@@ -246,6 +246,9 @@
 §7''He mentioned that the undead attacks are growing more frequent all over Wynn. Even Ragni is straining under the pressure.''@§7''Он упомянул, что нападения нежити становятся все более частыми по всей провинции Wynn. Даже Ragni страдает под давлением.''
 §7''Detlas has managed to avoid the worst of the scourge. But how much longer will our luck last?''@§7''Detlas'у удалось избежать самого страшного бедствия. Но сколько еще продлится наша удача?''
 §7''We only have enough for about a day or so. We have no choice: we need to leave for a fortress.''@§7''У нас их хватит только на день или около того. У нас нет выбора: мы должны идти в крепость.''
+§6§lA Cannibal Ambush@§6§lЗасада Каннибалов
+§7They'll eat you alive.@§7Они съедят тебя живьем.
+
 
 ###################################Квесты##################################
 §4You must talk to the King first. Right-click on him to start a conversation.@§4Ты должен сначала поговорить с Королем. Правый клик по нему, чтобы начать разговор.
@@ -1055,6 +1058,20 @@ This book's title reads...@Названия этих книг гласят...
 §7You hear faint clucking up ahead.. The Grooks seem to be angry with you for taking an egg.@§7Ты слышишь слабое кудахтанье впереди.. Похоже Grook'и обозлились на тебя, за то что ты взял яйцо.
 §7You use the oven to bake a simple egg and flour dough filled with Skyhigh Raspberries. Smells like... pie?@§7Ты использовал духовку, чтобы запечь муку с яйцом и малиной. Пахнет как... пирог?
 §4Can't be wandering about someone's property all willy-nilly! Better stay away for now.@§4Нельзя бродить по чьей-то собственности по своему желанию! Лучше держаться подальше.
+§4The tribesmen will not let you enter this building.@§4Соплеменники не позволят тебе войти в это здание.
+§4You have no reason to go here.@§4У тебя нет причин идти туда.
+§4Power Problem@§4Проблема с энергией
+§4You should not be entering here yet...@§4Ты не должен пока входить сюда... 
+§7There is a small note on this sign.@§7На этой табличке есть небольшая заметка.
+§7”All applicants must be at least level 95.”@§7”Все кандидаты должны быть не ниже 95 уровня.”
+§4The spirits lurking in this cave is preventing you from entering further.@§4Духи, скрывающиеся в этой пещере, мешают тебе пройти дальше.
+§4The screams of an unknown creature echo in your ears. It is not safe to continue without proper protection.@§4Крики неизвестного существа эхом отдаются в твоих ушах. Будет опасно продолжать без должной защиты.
+§4A guttural screech emanates from below you. It may be best not to jump headlong down there.@§4Из-под тебя доносится гортанный визг. Может быть, лучше не прыгать туда сломя голову.
+§4Maybe you should read that note first...@§4Может тебе стоит сначала прочитать эту записку...
+§4Inrekei is not responding. You feel it's best to leave him be.@§4Inrekei не отвечает. Ты чувствуешь, что лучше оставить его в покое.
+§4To use this it needs to be activated later on...@§4Чтобы использовать это, оно должно быть активировано позже...
+§4The floorboards are creaking under your weight...@§4Половицы скрипят под твоим весом...
+§4You should probably pick up that incantation behind you. It might be useful for something later on...@§4Тебе стоит забрать это заклинание у себя за спиной. Оно может быть полезно для чего-то позже...
 
 ###################################Гильдия##################################
 §4You can join someone else's guild or make a guild in §cCinfras [Lv. 70]@§4Ты можешь присоединиться к чьей-нибудь гильдии, или создать свою в §cCinfras'е [Ур. 70]
@@ -1071,6 +1088,8 @@ This book's title reads...@Названия этих книг гласят...
 §4/guild invite §c[name] §8-§6 Invite a member to the guild@§4/guild invite §c[ник] §8-§6 Пригласить игрока в гильдию
 §4/guild attack§8-§6 Attack the territory you are in@§4/guild attack§8-§6 Атаковать территорию гильдий
 §4/guild defend §8-§6 Buy mobs for the territory you are in@§4/guild defend §8-§6 Купить мобов для защиты территории
+§4/guild kick §c[name] §8-§6 Kick a guild member@§4/guild kick §c[ник] §8-§6 Кикнуть участника гильдии
+§4/guild banner §8-§6 Modify your guild banner@§4/guild banner §8-§6 Изменить баннер гильдии
 §cYou are not in a guild.@§cТы не состоишь в гильдии.
 §3[§3WAR]§c §cThey will be there in 45 seconds.@§3[§3WAR]§c §cОни будут там через 45 секунд.
 §4You may only contribute emeralds to the guild.@§4Ты можешь только вносить эмеральды в гильдию.
@@ -1111,6 +1130,17 @@ This book's title reads...@Названия этих книг гласят...
 §4You cannot use horses during a guild war.@§4Ты не можешь пользоваться лошадью во время захвата.
 §4You are not in a guild!@§4Ты не состоишь в гильдии!
 §4This guild is full.@§4Эта гильдия заполнена.
+§5Guild Master: §dThere is a 4 character minimum for guild names. Make it a bit longer!@§5Guild Master: §dНеобходимо минимум 4 символа для названия гильдии. Сделай его немного длиннее!
+§5Guild Master: §dPlease only use english characters A-Z in your guild name.@§5Guild Master: §dПожалуйста используй только английские буквы A-Z в названии гильдии.
+§5Guild Master: §dOkay, great! Does this look right?@§5Guild Master: §dХорошо, здорово! Проверь, все ли правильно?
+§5Guild Master: §dNo? Alright! Come back when you're ready!@§5Guild Master: §dНет? Хорошо! Возвращайся когда будешь готов!
+§5Guild Master: §dType /guild to see your guild menu!@§5Guild Master: §dНапиши /guild для просмотра меню гильдии!
+§7[-5 Soul Points]@§7[-5 Очков Душ]
+§7[-5 Liquid Emeralds]@§7[-5 Жидких Эмеральдов]
+§cInvalid Arguments. Example: /guild rank [player] [rank]@§cНеправильные аргументы. Пример: /guild rank [игрок] [ранг]
+§7[Banner created]@§7[Баннер Создан]
+§bNobody logged in for the battle.@§bНикто не пришел для участия в захвате.
+§bYour guild will receive a portion of the loot and XP dropped by all creatures slain in that territory@§bВаша гильдия будет получать часть лута и XP, добытые со всех убитых созданий на этой территории
 
 ###################################Награды квесты/данжи##################################
 §7+ 1 Max Unrefined Material Weight@§7+ 1 К максимальному весу ресурсов
@@ -1399,6 +1429,19 @@ This book's title reads...@Названия этих книг гласят...
 §3You are no longer disguised as a §bzombie@§3Ты больше не маскируешься под §bзомби
 §dEarth Effect@Эффект Земли
 §7Create an earth effect around your character@§7Создает эффект земли вокруг персонажа
+§dZombie Disguise@§dЗомби Маскировка
+§7Disguise yourself as a zombie@§7Замаскируй себя под зомби
+§3You are no longer disguised as a §bpigman@Ты больше не маскируешься под §bпигмена
+§dWater Effect@§dЭффект Воды
+§7Create an water effect around your character@§7Создает эффект воды вокруг персонажа
+§3You are no longer disguised as a §bcow@§3Ты больше не маскируешься под §bкорову
+§6Half-Moon Bow@§6Полу-месяц Лук
+§7Disguise your bow with a lunar flair@Маскирует твой лук под лунный стиль
+§aA §dRare Spider Disguise§a!@§aA §dRare Маскировка Паука§a!
+§fChocolate Wybel Token@§fШоколадный Wybel Жетон
+§dPink Wybel Token@§dРозовый Wybel Жетон
+§3You now have a §bPink Wybel@§3Теперь у тебя есть §bРозовый Wybel
+§aA §dRare Steampunk Wand§a!@§aA §dRare Стимпанк Посох§a!
 
 ###################################Данжи##################################
 §7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Keystone Guardian'а активировало ее...
@@ -1786,6 +1829,7 @@ This book's title reads...@Названия этих книг гласят...
 §d               Rewards:@§d               Награда:
 §f                           §6[Area Discovered]@§f                           §6[Открыта Территория]
 §f                           §7[Area Discovered]@§f                           §7[Открыта Территория]
+                           §7[Area Discovered]@                           §7[Открыта Территория]
 §f                           §3[Discovery Found]@§f                           §3[Открытие Найдено]
 §a§l         Click here to link your forum account@§a§l         Нажми сюда для привязки форум аккаунта
 §7Everybody gets §f2 Random Items§7! §e§nClick here to claim them!@§7Каждый получает §f2 Случайных Предмета§7! §e§nНажми сюда, чтобы забрать их!
@@ -1793,6 +1837,8 @@ This book's title reads...@Названия этих книг гласят...
                   §6§nClick here to claim your rewards!@                  §6§nНажми сюда, чтобы забрать награду!
                   §6Click here to claim your rewards!@                  §6Нажми сюда, чтобы забрать награду!
 §c[Click to Stop Tracking]§4 or hold the book to track@§c[Кликни для отмены отслеживания]§4 или держи книгу для отслеживания
+§a§l         Click here to link your forum account@§a§l         Кликни сюда для привязки форум аккаунта
+§e§nClick here to claim them!@§e§nКликни сюда, чтобы получить их!
 §5As the sun rises, you feel a little bit safer...@§5С восходом солнца ты чувствуешь себя немного безопаснее...
 §d[+1 Soul Point]@§d[+1 Очко душ]
 §4You must identify this item before using it.@§4Ты должен идентифицировать этот предмет, прежде чем использовать.
@@ -1870,7 +1916,14 @@ This book's title reads...@Названия этих книг гласят...
 §eYou must be in a party to leave.@§eТы должен быть в пати, чтобы выйти.
 §eYou must be in a party to list.@§eТы должен быть в пати, чтобы посмотреть список.
 §eYou must be invited before joining this party.@§eТы должен быть приглашен, прежде чем присоединиться к пати.
+§eDesc.: This command will let you add friends.@§eОписание: Эта команда позволяет тебе добавлять друзей.
+§eUsage: /friend [add/remove/list] [arguments]@§eИспользование: /friend [add/remove/list] [аргументы]
+§7Everybody gets:@§7Каждый получает:
+§7 - §f2 Random Ingredients@§7 - §f2 Рандомных Ингредиента
+§7 - §f6 Random Materials@§7 - §f6 Рандомных Материалов
 §b - §71 Crates@§b- §71 Контейнер
+§4You have not donated to rename your animals.@§4Ты не донатил, чтобы переименовать своих животных.
+§9Can't find that player! Try again?@§9Не можем найти этого игрока! Попробуй еще раз?
 §7[Drunkness for 120 seconds]@§7[Опьянение на 120 секунд]
 §aYou can now no longer drop your item!@§aТеперь ты не можешь выбросить этот предмет!
 §aYou can now drop your item again!@§aТеперь ты можешь выбросить этот предмет!
