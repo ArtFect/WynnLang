@@ -79,24 +79,25 @@
 §7- Unprocessed Spruce Log@§7- Необработанное Бревно Ели
 
 ##########################################################
-§7Currency
-§7[Put an allowed weapon 
-§7in your hotbar]
-§7Give double mob drops to the entire server for 20 minutes!
-§aOne time use
-§6Price: 50 gold coins
-§6Buy more GC at §cwynncraft.com/store
-§7Give everyone online 2 soul points!
-§6Price: 40 gold coins
-§7Grant free dungeon access to the entire server for 10 minutes!
-§7Throw a crazy party!
-§6Price: 20 gold coins
-§7Disguise everyone around you!
-§7Rename your pets and horses
-§6Price: 110 gold coins
-§7Open the buy pet menu
-§7Buy 5 loot bombs!
-§6Price: 200 gold coins
+§7Currency@§7Валюта
+§7[Put an allowed weapon @§7[Помести разрешеннное оружие
+§7in your hotbar]@§7в свой хотбар]
+§7Give double Combat XP to the entire server for 20 minutes!@§7Дает двойные Комбат XP всему серверу на 20 минут!
+§7Give double mob drops to the entire server for 20 minutes!@§7Дает двойной лут с мобов всему серверу на 20 минут!
+§aOne time use@§aОдноразовое использование
+§6Price: 50 gold coins@§6Цена: 50 золотых монет
+§6Buy more GC at §cwynncraft.com/store@§6Купи больше монет на §cwynncraft.com/store
+§7Give everyone online 2 soul points!@§7Дает каждому онлайн игроку 2 очка душ!
+§6Price: 40 gold coins@§6Цена: 40 золотых монет
+§7Grant free dungeon access to the entire server for 10 minutes!@§7Дает бесплатный вход в данжи всему серверу на 10 минут!
+§7Throw a crazy party!@§7Закатить сумасшедшую вечеринку!
+§6Price: 20 gold coins@§6Цена: 20 золотых монет
+§7Disguise everyone around you!@§7Замаскировать всех вокруг тебя!
+§7Rename your pets and horses@§7Переименовать твоих питомцев и лошадей
+§6Price: 110 gold coins@§6Цена: 110 золотых монет
+§7Open the buy pet menu@§7Открыть меню покупки питомцев
+§7Buy 5 loot bombs!@§7Купить 5 лут бомб!
+§6Price: 200 gold coins@§6Цена: 200 золотых монет
 §7Buy 5 ingredient bombs!
 §6Price: 160 gold coins
 §7Buy 5 Profession Speed bombs!
@@ -112,12 +113,10 @@
 §76 disguise bombs, 2 loot bombs, and 10 party bombs!
 §6Price: 400 gold coins
 §6Price: 260 gold coins
-§7Create a emerald effect
 §6Price: 220 gold coins
 §7Buy 10 global shouts
 §7Buy 10 world shouts!
 §6Price: 24 gold coins
-§7Create a redstone effect
 §6Price: 280 gold coins
 §7Create a cloud effect
 §7Shout a message to the
@@ -126,8 +125,6 @@
 §6Price: 10 gold coins
 §7entire world!
 §6Price: 3 gold coins
-§4Right click to stop tracking
-§cHold the book to track
 §7Could break something
 §7Use on what blocks your
 §7path
@@ -1890,7 +1887,8 @@
 §7Add 10 random songs
 §7to your playlist
 §cRemove §7from your playlist
-§7Give double Combat XP to the entire server for 20 minutes! 
+§4Right click to stop tracking
+§cHold the book to track
 §7 - §fRefined Hops String  
 §7 - §fRefined Hops Grains  
 §7Maximum: §f20
@@ -2007,7 +2005,8 @@
 §7Create a potion effect
 §7around your character
 §fCommon Reward
-
+§7Create a emerald effect
+§7Create a redstone effect
 
 #########################продажа блексмиту##########################
 §e- §eUnidentified Spear
