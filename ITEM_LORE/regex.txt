@@ -298,3 +298,4 @@
 §(c|e|2|f)   - §7Damage: (.*)@ 
 §b- Total Damage \(\+Bonus\): (.*)@ 
 §7Price: §f(\d+)§7 gold coins@ 
+§a(.*) Set §7\((\d+)\/(\d+)\)@ 
