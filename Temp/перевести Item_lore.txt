@@ -98,37 +98,36 @@
 §7Open the buy pet menu@§7Открыть меню покупки питомцев
 §7Buy 5 loot bombs!@§7Купить 5 лут бомб!
 §6Price: 200 gold coins@§6Цена: 200 золотых монет
-§7Buy 5 ingredient bombs!
-§6Price: 160 gold coins
-§7Buy 5 Profession Speed bombs!
-§7Buy 5 party bombs!
-§6Price: 80 gold coins
-§7Buy 5 disguise bombs!
-§7Buy 3 item bombs, 2 XP bombs,
-§72 disguise bombs, and 5 party bombs!
-§7Buy 5 item bombs, 3 XP bombs,
-§74 disguise bombs, 1 loot bomb, and 8 party bombs!
-§6Price: 300 gold coins
-§7Buy 8 item bombs, 5 XP bombs,
-§76 disguise bombs, 2 loot bombs, and 10 party bombs!
-§6Price: 400 gold coins
-§6Price: 260 gold coins
-§6Price: 220 gold coins
-§7Buy 10 global shouts
-§7Buy 10 world shouts!
-§6Price: 24 gold coins
-§6Price: 280 gold coins
-§7Create a cloud effect
-§7Shout a message to the
-§7entire network!
-§7No external advertising (twitch, youtube, etc) - strictly enforced
-§6Price: 10 gold coins
-§7entire world!
-§6Price: 3 gold coins
-§7Could break something
-§7Use on what blocks your
-§7path
-§cSale Ended
+§7Buy 5 ingredient bombs!@§7Купить 5 ингредиент бомб!
+§6Price: 160 gold coins@§6Цена: 160 золотых монет
+§7Buy 5 Profession Speed bombs!@§7Купить 5 Profession Speed бомбу!
+§7Buy 5 party bombs!@§7Купить 5 пати бомб!
+§6Price: 80 gold coins@§6Цена: 80 золотых монет
+§7Buy 5 disguise bombs!@§7Купить 5 маскировочных бомб!
+§7Buy 3 item bombs, 2 XP bombs,@§7Купить 3 предметных бомбы, 2 XP бомбы,
+§72 disguise bombs, and 5 party bombs!@§72 маскировочных бомбы, и 5 пати бомб!
+§7Buy 5 item bombs, 3 XP bombs,@§7Купить 5 предметных бомб, 3 XP бомбы,
+§74 disguise bombs, 1 loot bomb, and 8 party bombs!@§74 маскировочных бомбы, 1 лут бомбу и 8 пати бомб!
+§6Price: 300 gold coins@§6Цена: 300 золотых монет
+§7Buy 8 item bombs, 5 XP bombs,@§7Купить 8 предметных бомб, 5 XP бомб,
+§76 disguise bombs, 2 loot bombs, and 10 party bombs!@§76 маскировочных бомб, 2 лут бомбы и 10 пати бомб!
+§6Price: 400 gold coins@§6Цена: 400 золотых монет
+§6Price: 260 gold coins@§6Цена: 260 золотых монет
+§6Price: 220 gold coins@§6Цена: 220 золотых монет
+§7Buy 10 global shouts@§7Купить 10 глобальных шаутов
+§7Buy 10 world shouts!@§7Купить 10 серверных шаутов!
+§6Price: 24 gold coins@§6Цена: 24 золотые монеты
+§6Price: 280 gold coins@§6Цена: 280 золотых монет
+§7Shout a message to the@§7Отправить сообщение на
+§7entire network!@§7всю сеть серверов!
+§7No external advertising (twitch, youtube, etc) - strictly enforced@§7Никаких внешних реклам (твич, ютуб и т.д.)
+§6Price: 10 gold coins@§6Цена: 10 золотых монет
+§7entire world!@§7весь сервер!
+§6Price: 3 gold coins@§6Цена: 3 золотые монеты
+§7Could break something@§7Может что-то сломать
+§7Use on what blocks your@§7Используй на том, что блокирует твой
+§7path@§7путь
+§cSale Ended@§cРаспродажа Завершена
 
 
 #######################Квестовые предметы#######################
@@ -2007,6 +2006,7 @@
 §fCommon Reward
 §7Create a emerald effect
 §7Create a redstone effect
+§7Create a cloud effect
 
 #########################продажа блексмиту##########################
 §e- §eUnidentified Spear
