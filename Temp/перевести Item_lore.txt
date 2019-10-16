@@ -131,35 +131,35 @@
 
 
 #######################Квестовые предметы#######################
-§7Deliver Goods to:
-§7Signed, Kaosuw
-§7We hid the sceptre in the house next to that cart.
-§7No one would supsect it that close to the trap.
-§7[...] was hard enough to get rid of.
-§7Give this shard to the
-§7Floor Master to ascend!
-§7The riddle is neatly written as follows:
-§3Near a corrupted bridge, a ruin past its prime
-§3lives a cursed sheep, with the color of lime
-§3lead it down the trail, heading to the slime
-§3sacrifice its soul, in the blood and grime.
-§7The letter says in faded letters:
-§7"The King of Troms has hereby invited you
-§7to help assist in fighting off the undead.
-§7As a gift, we have lent a house to you
-§7so you can live near Troms for the time being.
-§7Your house will be at the coordinates:
-§3[-732, 65, -974]
-§7Signed,
-§7Carlos, Adviser for the King of Troms"
-§7§oWhen leaving the island, the real
-§7§otreasure will be found, buried deep.
-§7This rusted old hook is useless to you.
-§7Maybe someone would be willing to buy it...
-§7One-way ticket to:
-§7Detlas, Wynn
-§7Sounds, order first to last:
-§72,1,5,3,6,4
+§7Deliver Goods to:@§7Доставить товары на:
+§7Signed, Kaosuw@§7Подпись, Kaosuw
+§7We hid the sceptre in the house next to that cart.@§7Мы спрятали скипетр в доме рядом с этой повозкой.
+§7No one would supsect it that close to the trap.@§7Никто бы не заподозрил его искать так близко к ловушке.
+§7[...] was hard enough to get rid of.@§7[...] was hard enough to get rid of.
+§7Give this shard to the@§7Отдай этот осколок 
+§7Floor Master to ascend!@§7Мастеру Этажа для вознесения!
+§7The riddle is neatly written as follows:@§7Загадка аккуратно написана следующим образом:
+§3Near a corrupted bridge, a ruin past its prime@§3§3Рядом с испорченным мостом, на руинах прошлого расцвета
+§3lives a cursed sheep, with the color of lime@§3живет проклятая овца, лаймового цвета
+§3lead it down the trail, heading to the slime@§3ведет она к к слайму, что вниз по пути
+§3sacrifice its soul, in the blood and grime.@§3пожертвует свою душу, если туда ее привести.
+§7The letter says in faded letters:@§7Письмо написано выцветшими буквами:
+§7"The King of Troms has hereby invited you@§7"Король Troms'а настоящим приглашает вас
+§7to help assist in fighting off the undead.@§7чтобы помочь в борьбе с нежитью.
+§7As a gift, we have lent a house to you@§7В качестве подарка, мы одолжили вам дом
+§7so you can live near Troms for the time being.@§7чтобы вы могли жить рядом с Troms'ом в настоящее время.
+§7Your house will be at the coordinates:@§7Ваш дом будет на координатах:
+§3[-732, 65, -974]@ 
+§7Signed,@§7Подпись,
+§7Carlos, Adviser for the King of Troms"@§7Carlos, Советник Короля Troms'а"
+§7§oWhen leaving the island, the real@§7§oКогда покинешь остров, настоящее
+§7§otreasure will be found, buried deep.@§7§oсокровище будет найдено, похоронено глубоко.
+§7This rusted old hook is useless to you.@§7Этот ржавый старый крюк бесполезен для тебя.
+§7Maybe someone would be willing to buy it...@§7Может быть, кто-то захочет его купить...
+§7One-way ticket to:@§7Билет в один конец до:
+§7Detlas, Wynn@ 
+§7Sounds, order first to last:@§7Звуки, порядок от первого до последнего:
+§72,1,5,3,6,4@ 
 §7Used to access most areas on the pirate ship.
 §7A key designed to open the queen's room,
 §7if it fits inside the lock...
