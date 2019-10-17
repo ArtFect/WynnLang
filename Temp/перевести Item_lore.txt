@@ -198,56 +198,55 @@
 §7This key can be used to open the door to the Library.@§7Этим ключом можно открыть дверь в Библиотеку.
 §7You should probably return this to the Kitchen...@§7Наверное, тебе стоит вернуть это на Кухню...
 §7This key can be used to open the door to the Study.@§7Этим ключом можно открыть дверь в Кабинет.
-§7This key can be used to open the door to Timmy's Bedroom.
-§7Throw §3[30 Token] §7into the hopper
-§7to progress to the next challenge
-§7This key can be used to open the door to the Master Bedroom.
-§7This ore is about to explode!
-§7The explosive properties of this ore has been subdued temporarily.
-§7It would be rude to read it...
-§7The shard is already
-§7starting to cloud your mind...
-§7This clean white key is used to operate
-§7minecart dispensing units.
-§7Behind the one who watches the §oblue§7,
-§7Near the §ored§7 and §obrown§7,
-§7And under the §oyellow§7.
-§7Addressed to Mashord
-§7Return to:
-§7Gawrick, Cinfras, House Num. 03
-§7It contains some sort of powerful spell...
-§7The crate is filled with christmas
-§7goodies.
-§7These fragments are hot to the touch
-§7The map shows the
-§7entrance at
-§7-187,16,-3452
-§7A key found near a mysterious house...
-§7Could it lead inside?
-§7An old key acquired from a
-§7mysterious laboratory.
-§7§oIf you want to know the truth,
-§7§ofind me and talk to me...
-§7§oThe truth lies at the
-§7§oLibrary of Flames.
-§7§oThe caves south of the bank...
-§7Use this map to navigate the sewers.
-§8Can be used with §ncannons
-§8to destroy other war machines
-§8which results to selfdestruct
-§7the end of the palace. 
-§7The letter is made out of stone.
-§7This seems to be some kind of
-§7power source...
-§7window... It looks like it's not
-§7in use.
-§7light source. Could this be used,
-§7or is it broken...
-§7The core is filled with electro magic
-§7Vadas! For the last time,
-§7the button to open the
-§7basement door is on the
-§7second floor!
+§7This key can be used to open the door to Timmy's Bedroom.@§7Этим ключом можно открыть дверь в спальню Timmy.
+§7Throw §3[30 Token] §7into the hopper@§7Брось §3[30 Жетонов] §7 в воронку
+§7to progress to the next challenge@§7для перехода к седующему челленджу
+§7This key can be used to open the door to the Master Bedroom.@§7Этим ключом можно открыть дверь в Главную спальню.
+§7This ore is about to explode!@§7Эта руда вот-вот взорвется!
+§7The explosive properties of this ore has been subdued temporarily.@§7Взрывоопасные свойства этой руды были временно подавлены.
+§7It would be rude to read it...@§7Было бы невежливо читать это...
+§7The shard is already@§7Осколок уже
+§7starting to cloud your mind...@§7начинает затуманивать твой разум...
+§7This clean white key is used to operate@§7Этот чистый белый ключ используется для работы
+§7minecart dispensing units.@§7распределения вагонеток.
+§7Behind the one who watches the §oblue§7,@§7Позади того, кто наблюдает за §oсиним§7,
+§7Near the §ored§7 and §obrown§7,@§7Рядом с §oкрасным§7 и §oкоричневым§7, 
+§7And under the §oyellow§7.@§7И под §oжелтым§7.
+§7Addressed to Mashord@§7Адресовано Mashord'у
+§7Return to:@§7Вернуть:
+§7Gawrick, Cinfras, House Num. 03@§7Gawrick, Cinfras, Дом номер 03
+§7It contains some sort of powerful spell...@§7Содержит какое-то мощное заклинание...
+§7The crate is filled with christmas@§7Ящик наполнен рождественскими 
+§7goodies.@§7лакомствами.
+§7These fragments are hot to the touch@§7Эти фрагменты горячие на ощупь
+§7The map shows the@§7Карта показывает
+§7entrance at@§7вход на
+§7-187,16,-3452@ 
+§7A key found near a mysterious house...@§7Ключ найденный возле загадочного дома...
+§7Could it lead inside?@§7Может, он ведет внутрь?
+§7An old key acquired from a@§7Старый ключ, добытый из
+§7mysterious laboratory.@§7загадочной лаборатории.
+§7§oIf you want to know the truth,@§7§oЕсли ты хочешь знать правду,
+§7§ofind me and talk to me...@§7§oнайди и поговори со мной...
+§7§oThe truth lies at the@§7§oПравда находится в
+§7§oLibrary of Flames.@§7§oБиблиотеке Пламени.
+§7§oThe caves south of the bank...@§7§oВ пещерах к югу от банка...
+§7Use this map to navigate the sewers.@§7Используй эту карту для навигации по канализации.
+§8Can be used with §ncannons@§7Может быть использовано с §nпушками
+§8to destroy other war machines@§7для уничтожения других машин
+§8which results to selfdestruct@§7что приводит к самоуничтожению
+§7The letter is made out of stone.@§7Gисьмо сделано из камня/
+§7This seems to be some kind of@§7Это похоже на некий
+§7power source...@§7источник энергии...
+§7window... It looks like it's not@§7окно... Похоже оно не
+§7in use.@§7используется
+§7light source. Could this be used,@§7источник света. Можно ли его использовать,
+§7or is it broken...@§7или он сломан...
+§7The core is filled with electro magic@§7Ядро заполнено электромагией
+§7Vadas! For the last time,@§7Vadas! В последний раз,
+§7the button to open the@§7кнопка для открытия
+§7basement door is on the@§7двери подвала находится на
+§7second floor!@§7втором этаже!
 §7§oA cave west of the lab contains
 §7§oa boulder you must destroy to enter
 §7§othe lab you are so seeking. 
