@@ -184,11 +184,6 @@
 §(a|c)(✔|✖)§(7|f) Lv. (\d+) to (\d+)@ 
 §bTotal Secret Discoveries: §3\[(.*)\]@ 
 §7You require §a(.*)@ 
-§(7|d)- §7\+(\d+)% §6✣ Neutral§7 to §f❋ Air@ 
-§(d|a)- §7\+(\d+)% §6✣ Neutral§7 to §2✤ Earth@ 
-§(d|4)- §7\+(\d+)% §6✣ Neutral§7 to §c✹ Fire@ 
-§(d|6)- §7\+(\d+)% §6✣ Neutral§7 to §e✦ Thunder@ 
-§(d|3)- §7\+(\d+)% §6✣ Neutral§7 to §b❉ Water@ 
 §(c|a)(.*) Durability§7 or §(c|a)(.*)s Duration@ 
 §c(.*) Durability§7 or @ 
 §(c|a)(.*) Durability@ 
@@ -203,11 +198,6 @@
 §a- §eSwirl Particles§7 \[Common to Rare (.*)\]@ 
 §a- §aAttack Effects§7 \[Common to Rare (.*)\]@ 
 §3Crafted by (.*)@ 
-§(d|6)- §7\+(.*)§e ✦ Thunder§7 Damage@ 
-§(d|3)- §7\+(.*)§b ❉ Water§7 Damage@ 
-§(d|4)- §7\+(.*)§c ✹ Fire§7 Damage@ 
-§(d|a)- §7\+(.*)§2 ✤ Earth§7 Damage@ 
-§(7|d)- §7\+(.*)§f ❋ Air§7 Damage@ 
 §3- §7Teleports to: §f(.*)@ 
 §7Level: §f(.*)@ 
 §7 - §fHelmet §7\[Lv. (\d+) to (\d+)\]@ 
@@ -278,11 +268,6 @@
 §(c|a)(.*) Strength Min.@ 
 §(c|a)(.*) Intelligence Min.@ 
 §(c|a)(.*) Defence Min.@ 
-§(3|d|4)- §7(.*) §b❉ Water§7 Defence@ 
-§(3|d|6)- §7(.*) §e✦ Thunder§7 Defence@ 
-§(a|d|6)- §7(.*) §2✤ Earth§7 Defence@ 
-§(4|d|7)- §7(.*) §c✹ Fire§7 Defence@ 
-§(a|d|7)- §7(.*) §f❋ Air§7 Defence@ 
 §d- §7Mana Steal: §f(.*)4s@ 
 §d- §7Stealing: §f(.*)%@ 
 §e- §7Class: §(.*) §fAssassin@ 
@@ -299,3 +284,28 @@
 §b- Total Damage \(\+Bonus\): (.*)@ 
 §7Price: §f(\d+)§7 gold coins@ 
 §a(.*) Set §7\((\d+)\/(\d+)\)@ 
+
+############################Порошки#################################
+§(7|d)- §7\+(\d+)% §6✣ Neutral§7 to §f❋ Air@ 
+§(d|a)- §7\+(\d+)% §6✣ Neutral§7 to §2✤ Earth@ 
+§(d|4)- §7\+(\d+)% §6✣ Neutral§7 to §c✹ Fire@ 
+§(d|6)- §7\+(\d+)% §6✣ Neutral§7 to §e✦ Thunder@ 
+§(d|3)- §7\+(\d+)% §6✣ Neutral§7 to §b❉ Water@ 
+§(d|6)- §7\+(.*)§e ✦ Thunder§7 Damage@ 
+§(d|3)- §7\+(.*)§b ❉ Water§7 Damage@ 
+§(d|4)- §7\+(.*)§c ✹ Fire§7 Damage@ 
+§(d|a)- §7\+(.*)§2 ✤ Earth§7 Damage@ 
+§(7|d)- §7\+(.*)§f ❋ Air§7 Damage@ 
+§(3|d|4)- §7(.*) §b❉ Water§7 Defence@ 
+§(3|d|6)- §7(.*) §e✦ Thunder§7 Defence@ 
+§(a|d|6)- §7(.*) §2✤ Earth§7 Defence@ 
+§(4|d|7)- §7(.*) §c✹ Fire§7 Defence@ 
+§(a|d|7)- §7(.*) §f❋ Air§7 Defence@ 
+§7Tier (\d+) \[§(6|4|7|3|a)(.*)§7\]@ 
+§(a|3|7|6|4)Effect on Weapons:@ 
+§(a|3|7|6|4)Effect on Armour:@ 
+§b§l(\d+)% §b❉ Water Powder Tier (.*)@ 
+§c§l(\d+)% §c✹ Fire Powder Tier (.*)@ 
+§f§l(\d+)% §f❋ Air Powder Tier (.*)@ 
+§2§l(\d+)% §2✤ Earth Powder Tier (.*)@ 
+§e§l(\d+)% §e✦ Thunder Powder Tier (.*)@ 
