@@ -318,9 +318,9 @@
 
 #####################Рецепты################################
 §6§lRing Recipes:@§6§lРецепты Колец:
-§a✔ Lv. 1: §f1§7 Refined Copper Gem§f Ⓑ@§a✔ Lv. 1: §f1§7 Переработанный Медный Камень§f Ⓑ 
+§a✔ Lv. 1: §f1§7 Refined Copper Gem§f Ⓑ@§a✔ Ур. 1: §f1§7 Переработанный Медный Камень§f Ⓑ 
           §f1§7 Refined Gudgeon Oil§f Ⓚ@          §f1§7 Переработанный Жир Пескаря§f Ⓚ
-§c✖ Lv. 10: §f2§7 Refined Granite Gem§f Ⓑ@§c✖ Lv. 10: §f2§7 Переработанный Гранитный Камень§f Ⓑ
+§c✖ Lv. 10: §f2§7 Refined Granite Gem§f Ⓑ@§c✖ Ур. 10: §f2§7 Переработанный Гранитный Камень§f Ⓑ
             §f2§7 Refined Trout Oil§f Ⓚ@            §f2§7 Переработанный Жир Форели§f Ⓚ
 §6§lBracelet Recipes:@§6§lРецепты Браслетов:
           §f2§7 Refined Gudgeon Oil§f Ⓚ@          §f2§7 Переработанный Жир Пескаря§f Ⓚ
@@ -329,75 +329,75 @@
           §f3§7 Refined Gudgeon Oil§f Ⓚ@          §f3§7 Переработанный Жир Пескаря§f Ⓚ
             §f6§7 Refined Trout Oil§f Ⓚ@            §f6§7 Переработанный Жир Форели§f Ⓚ
 §6§lBow Recipes:@§6§lРецепты Луков:
-§a✔ Lv. 1: §f2§7 Refined Wheat String§f Ⓙ@§a✔ Lv. 1: §f2§7 Переработанная Пшеничная Нить§f Ⓙ
+§a✔ Lv. 1: §f2§7 Refined Wheat String§f Ⓙ@§a✔ Ур. 1: §f2§7 Переработанная Пшеничная Нить§f Ⓙ
           §f1§7 Refined Oak Wood§f Ⓒ@          §f1§7 Переработанное Бревно Дуба§f Ⓒ
-§c✖ Lv. 10: §f4§7 Refined Barley String§f Ⓙ@§c✖ Lv. 10: §f4§7 Переработанная Ячменная Нить§f Ⓙ
+§c✖ Lv. 10: §f4§7 Refined Barley String§f Ⓙ@§c✖ Ур. 10: §f4§7 Переработанная Ячменная Нить§f Ⓙ
             §f2§7 Refined Birch Wood§f Ⓒ@            §f2§7 Переработанное Бревно Березы§f Ⓒ
 §6§lWand Recipes:@§6§lРецепты Посохов:
-§a✔ Lv. 1: §f1§7 Refined Wheat String§f Ⓙ@§a✔ Lv. 1: §f1§7 Переработанная Пшеничная Нить§f Ⓙ
+§a✔ Lv. 1: §f1§7 Refined Wheat String§f Ⓙ@§a✔ Ур. 1: §f1§7 Переработанная Пшеничная Нить§f Ⓙ
           §f2§7 Refined Oak Wood§f Ⓒ@          §f2§7 Переработанное Бревно Дуба§f Ⓒ
-§c✖ Lv. 10: §f2§7 Refined Barley String§f Ⓙ@§c✖ Lv. 10: §f2§7 Переработанная Ячменная Нить§f Ⓙ
+§c✖ Lv. 10: §f2§7 Refined Barley String§f Ⓙ@§c✖ Ур. 10: §f2§7 Переработанная Ячменная Нить§f Ⓙ
             §f4§7 Refined Birch Wood§f Ⓒ@            §f4§7 Переработанное Бревно Березы§f Ⓒ
 §6§lFood Recipes:@§6§lРецепты Еды:
-§a✔ Lv. 1: §f2§7 Refined Gudgeon Meat§f Ⓚ@§a✔ Lv. 1: §f2§7 Переработанное Мясо Пескаря§f Ⓚ
+§a✔ Lv. 1: §f2§7 Refined Gudgeon Meat§f Ⓚ@§a✔ Ур. 1: §f2§7 Переработанное Мясо Пескаря§f Ⓚ
           §f1§7 Refined Wheat Grains§f Ⓙ@          §f1§7 Переработанное Пшеничное Зерно§f Ⓙ
-§c✖ Lv. 10: §f4§7 Refined Trout Meat§f Ⓚ@§c✖ Lv. 10: §f4§7 Переработанное Мясо Форели§f Ⓚ
+§c✖ Lv. 10: §f4§7 Refined Trout Meat§f Ⓚ@§c✖ Ур. 10: §f4§7 Переработанное Мясо Форели§f Ⓚ
             §f2§7 Refined Barley Grains§f Ⓙ@            §f2§7 Переработанное Ячменное Зерно§f Ⓙ
 §6§lScroll Recipes:@§6§lРецепты Свитков:
-§a✔ Lv. 1: §f1§7 Refined Gudgeon Oil§f Ⓚ@§a✔ Lv. 1: §f1§7 Переработанный Жир Пескаря§f Ⓚ
+§a✔ Lv. 1: §f1§7 Refined Gudgeon Oil§f Ⓚ@§a✔ Ур. 1: §f1§7 Переработанный Жир Пескаря§f Ⓚ
           §f1§7 Refined Oak Paper§f Ⓒ@          §f1§7 Переработанная Дубовая Бумага§f Ⓒ
-§c✖ Lv. 10: §f2§7 Refined Trout Oil§f Ⓚ@§c✖ Lv. 10: §f2§7 Переработанный Жир Форели§f Ⓚ
+§c✖ Lv. 10: §f2§7 Refined Trout Oil§f Ⓚ@§c✖ Ур. 10: §f2§7 Переработанный Жир Форели§f Ⓚ
             §f2§7 Refined Birch Paper§f Ⓒ@            §f2§7 Переработанная Березовая Бумага§f Ⓒ
-§6§lSpear Recipes:
-§a✔ Lv. 1: §f1§7 Refined Copper Ingot§f Ⓑ
-§c✖ Lv. 10: §f2§7 Refined Granite Ingot§f Ⓑ
-§6§lDagger Recipes:
-§a✔ Lv. 1: §f2§7 Refined Copper Ingot§f Ⓑ
-§c✖ Lv. 10: §f4§7 Refined Granite Ingot§f Ⓑ
-§6§lBoots Recipes:
-          §f2§7 Refined Wheat String§f Ⓙ
-            §f4§7 Refined Barley String§f Ⓙ
-§6§lPants Recipes:
-          §f1§7 Refined Wheat String§f Ⓙ
-            §f2§7 Refined Barley String§f Ⓙ
-§6§lHelmet Recipes:
-          §f2§7 Refined Oak Paper§f Ⓒ
-            §f4§7 Refined Birch Paper§f Ⓒ
-§6§lPotion Recipes:
-          §f2§7 Refined Wheat Grains§f Ⓙ
-            §f4§7 Refined Barley Grains§f Ⓙ
-§a✔ Lv. 10: §f2§7 Refined Granite Ingot§f Ⓑ
-§c✖ Lv. 20: §f2§7 Refined Gold Ingot§f Ⓑ
-            §f4§7 Refined Willow Wood§f Ⓒ
-§a✔ Lv. 10: §f4§7 Refined Granite Ingot§f Ⓑ
-§c✖ Lv. 20: §f4§7 Refined Gold Ingot§f Ⓑ
-            §f2§7 Refined Willow Wood§f Ⓒ
-§a✔ Lv. 10: §f4§7 Refined Trout Meat§f Ⓚ
-§c✖ Lv. 20: §f4§7 Refined Salmon Meat§f Ⓚ
-            §f2§7 Refined Oat Grains§f Ⓙ
-§a✔ Lv. 10: §f4§7 Refined Barley String§f Ⓙ
-§c✖ Lv. 20: §f4§7 Refined Oat String§f Ⓙ
-§a✔ Lv. 10: §f2§7 Refined Barley String§f Ⓙ
-§c✖ Lv. 20: §f2§7 Refined Oat String§f Ⓙ
-§a✔ Lv. 20: §f4§7 Refined Oat String§f Ⓙ
-§c✖ Lv. 30: §f6§7 Refined Malt String§f Ⓙ
-            §f3§7 Refined Acacia Wood§f Ⓒ
-§a✔ Lv. 20: §f2§7 Refined Oat String§f Ⓙ
-§c✖ Lv. 30: §f3§7 Refined Malt String§f Ⓙ
-            §f6§7 Refined Acacia Wood§f Ⓒ
-§a✔ Lv. 10: §f2§7 Refined Granite Gem§f Ⓑ
-§c✖ Lv. 20: §f2§7 Refined Gold Gem§f Ⓑ
-            §f2§7 Refined Salmon Oil§f Ⓚ
-            §f4§7 Refined Salmon Oil§f Ⓚ
-            §f6§7 Refined Salmon Oil§f Ⓚ
-§a✔ Lv. 20: §f2§7 Refined Gold Gem§f Ⓑ
-§c✖ Lv. 30: §f3§7 Refined Sandstone Gem§f Ⓑ
-            §f3§7 Refined Carp Oil§f Ⓚ
-            §f6§7 Refined Carp Oil§f Ⓚ
-            §f9§7 Refined Carp Oil§f Ⓚ
-§a✔ Lv. 30: §f3§7 Refined Sandstone Gem§f Ⓑ
-§c✖ Lv. 40: §f3§7 Refined Iron Gem§f Ⓑ
-            §f3§7 Refined Icefish Oil§f Ⓚ
+§6§lSpear Recipes:@§6§lРецепты Копьев:
+§a✔ Lv. 1: §f1§7 Refined Copper Ingot§f Ⓑ@§a✔ Ур. 1: §f1§7 Переработанный Слиток Меди§f Ⓑ
+§c✖ Lv. 10: §f2§7 Refined Granite Ingot§f Ⓑ@§c✖ Ур. 10: §f2§7 Переработанный Гранитный Слиток§f Ⓑ
+§6§lDagger Recipes:@§6§lРецепты Кинжалов:
+§a✔ Lv. 1: §f2§7 Refined Copper Ingot§f Ⓑ@§a✔ Ур. 1: §f2§7 Переработанный Слиток Меди§f Ⓑ
+§c✖ Lv. 10: §f4§7 Refined Granite Ingot§f Ⓑ@§c✖ Ур. 10: §f4§7 Переработанный Гранитный Слиток§f Ⓑ
+§6§lBoots Recipes:@§6§lРецепты Ботинок:
+          §f2§7 Refined Wheat String§f Ⓙ@          §f2§7 Переработанная Пшеничная Нить§f Ⓙ
+            §f4§7 Refined Barley String§f Ⓙ@            §f4§7 Переработанная Ячменная Нить§f Ⓙ
+§6§lPants Recipes:@§6§lРецепты Штанов:
+          §f1§7 Refined Wheat String§f Ⓙ@          §f1§7 Переработанная Пшеничная Нить§f Ⓙ
+            §f2§7 Refined Barley String§f Ⓙ@            §f2§7 Переработанная Ячменная Нить§f Ⓙ
+§6§lHelmet Recipes:@§6§lРецепты Шлемов:
+          §f2§7 Refined Oak Paper§f Ⓒ@          §f2§7 Переработанная Дубовая Бумага§f Ⓒ
+            §f4§7 Refined Birch Paper§f Ⓒ@            §f4§7 Переработанная Березовая Бумага§f Ⓒ
+§6§lPotion Recipes:@§6§lРецепты Зелий:
+          §f2§7 Refined Wheat Grains§f Ⓙ@          §f2§7 Переработанное Пшеничное Зерно§f Ⓙ
+            §f4§7 Refined Barley Grains§f Ⓙ@            §f4§7 Переработанное Ячменное Зерно§f Ⓙ
+§a✔ Lv. 10: §f2§7 Refined Granite Ingot§f Ⓑ@§a✔ Ур. 10: §f2§7 Переработанный Гранитный Слиток§f Ⓑ
+§c✖ Lv. 20: §f2§7 Refined Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f2§7 Переработанный Слиток Золота§f Ⓑ
+            §f4§7 Refined Willow Wood§f Ⓒ@            §f4§7 Переработанное Бревно Ивы§f Ⓒ
+§a✔ Lv. 10: §f4§7 Refined Granite Ingot§f Ⓑ@§a✔ Ур. 10: §f4§7 Переработанный Гранитный Слиток§f Ⓑ
+§c✖ Lv. 20: §f4§7 Refined Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f4§7 Переработанный Слиток Золота§f Ⓑ
+            §f2§7 Refined Willow Wood§f Ⓒ@            §f2§7 Переработанное Бревно Ивы§f Ⓒ
+§a✔ Lv. 10: §f4§7 Refined Trout Meat§f Ⓚ@§a✔ Ур. 10: §f4§7 Переработанное Мясо Форели§f Ⓚ
+§c✖ Lv. 20: §f4§7 Refined Salmon Meat§f Ⓚ@§c✖ Ур. 20: §f4§7 Переработанное Мясо Лосося§f Ⓚ
+            §f2§7 Refined Oat Grains§f Ⓙ@            §f2§7 Переработанное Овсяное Зерно§f Ⓙ
+§a✔ Lv. 10: §f4§7 Refined Barley String§f Ⓙ@§a✔ Ур. 10: §f4§7 Переработанная Ячменная Нить§f Ⓙ
+§c✖ Lv. 20: §f4§7 Refined Oat String§f Ⓙ@§c✖ Ур. 20: §f4§7 Переработанная Овсяная Нить§f Ⓙ
+§a✔ Lv. 10: §f2§7 Refined Barley String§f Ⓙ@§a✔ Ур. 10: §f2§7 Переработанная Ячменная Нить§f Ⓙ
+§c✖ Lv. 20: §f2§7 Refined Oat String§f Ⓙ@§c✖ Ур. 20: §f2§7 Переработанная Овсяная Нить§f Ⓙ
+§a✔ Lv. 20: §f4§7 Refined Oat String§f Ⓙ@§a✔ Ур. 20: §f4§7 Переработанная Овсяная Нить§f Ⓙ
+§c✖ Lv. 30: §f6§7 Refined Malt String§f Ⓙ@§c✖ Ур. 30: §f6§7 Переработанная Солодовая Нить§f Ⓙ
+            §f3§7 Refined Acacia Wood§f Ⓒ@            §f3§7 Переработанное Бревно Акации§f Ⓒ
+§a✔ Lv. 20: §f2§7 Refined Oat String§f Ⓙ@§a✔ Ур. 20: §f2§7 Переработанная Овсяная Нить§f Ⓙ
+§c✖ Lv. 30: §f3§7 Refined Malt String§f Ⓙ@§c✖ Ур. 30: §f3§7 Переработанная Солодовая Нить§f Ⓙ
+            §f6§7 Refined Acacia Wood§f Ⓒ@            §f6§7 Переработанное Бревно Акации§f Ⓒ
+§a✔ Lv. 10: §f2§7 Refined Granite Gem§f Ⓑ@§a✔ Ур. 10: §f2§7 Переработанный Гранитный Камень§f Ⓑ
+§c✖ Lv. 20: §f2§7 Refined Gold Gem§f Ⓑ@§c✖ Ур. 20: §f2§7 Переработанный Золотой Камень§f Ⓑ
+            §f2§7 Refined Salmon Oil§f Ⓚ@            §f2§7 Переработанный Жир Лосося§f Ⓚ
+            §f4§7 Refined Salmon Oil§f Ⓚ@            §f4§7 Переработанный Жир Лосося§f Ⓚ
+            §f6§7 Refined Salmon Oil§f Ⓚ@            §f6§7 Переработанный Жир Лосося§f Ⓚ
+§a✔ Lv. 20: §f2§7 Refined Gold Gem§f Ⓑ@§a✔ Ур. 20: §f2§7 Переработанный Золотой Камень§f Ⓑ
+§c✖ Lv. 30: §f3§7 Refined Sandstone Gem§f Ⓑ@§c✖ Ур. 30: §f3§7 Переработанный Песчаный Камень§f Ⓑ
+            §f3§7 Refined Carp Oil§f Ⓚ@            §f3§7 Переработанный Жир Карпа§f Ⓚ
+            §f6§7 Refined Carp Oil§f Ⓚ@            §f6§7 Переработанный Жир Карпа§f Ⓚ
+            §f9§7 Refined Carp Oil§f Ⓚ@            §f9§7 Переработанный Жир Карпа§f Ⓚ
+§a✔ Lv. 30: §f3§7 Refined Sandstone Gem§f Ⓑ@§a✔ Ур. 30: §f3§7 Переработанный Песчаный Камень§f Ⓑ
+§c✖ Lv. 40: §f3§7 Refined Iron Gem§f Ⓑ@§c✖ Ур. 40: §f3§7 Переработанный Железный Камень§f Ⓑ
+            §f3§7 Refined Icefish Oil§f Ⓚ@            §f3§7 
             §f6§7 Refined Icefish Oil§f Ⓚ
             §f9§7 Refined Icefish Oil§f Ⓚ
             §f4§7 Refined Oat String§f Ⓙ
