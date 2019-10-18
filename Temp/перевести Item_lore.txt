@@ -458,46 +458,6 @@
 §6§lChestplate Recipes:@§6§lРецепты Нагрудников:
 
 #############################Порошки#############################
-§7Tier 2 [§4■■§8■■■■§7]
-§7Tier 2 [§6■■§8■■■■§7]
-§7Tier 4 [§7■■■■§8■■§7]
-§7Tier 3 [§7■■■§8■■■§7]
-§7Tier 2 [§7■■§8■■■■§7]
-§7Tier 5 [§3■■■■■§8■§7]
-§7Tier 4 [§3■■■■§8■■§7]
-§7Tier 3 [§3■■■§8■■■§7]
-§7Tier 1 [§3■§8■■■■■§7]
-§7Tier 2 [§3■■§8■■■■§7]
-§7Tier 3 [§6■■■§8■■■§7]
-§7Tier 1 [§6■§8■■■■■§7]
-§7Tier 4 [§4■■■■§8■■§7]
-§7Tier 3 [§4■■■§8■■■§7]
-§7Tier 1 [§4■§8■■■■■§7]
-§7Tier 4 [§a■■■■§8■■§7]
-§7Tier 2 [§a■■§8■■■■§7]
-§7Tier 1 [§a■§8■■■■■§7]
-§7Tier 1 [§7■§8■■■■■§7]
-§7Tier 4 [§6■■■■§8■■§7]
-§7Tier 5 [§6■■■■■§8■§7]
-§7Tier 3 [§a■■■§8■■■§7]
-§7Tier 5 [§a■■■■■§8■§7]
-§7Tier 5 [§7■■■■■§8■§7]
-§7Tier 5 [§4■■■■■§8■§7]
-§7Tier 6 [§4■■■■■■§8§7]
-§7Tier 6 [§7■■■■■■§8§7]
-§7Tier 6 [§6■■■■■■§8§7]
-§7Tier 6 [§a■■■■■■§8§7]
-§7Tier 6 [§3■■■■■■§8§7]
-§4Effect on Weapons:
-§4Effect on Armour:
-§6Effect on Weapons:
-§6Effect on Armour:
-§7Effect on Weapons:
-§7Effect on Armour:
-§3Effect on Weapons:
-§3Effect on Armour:
-§aEffect on Weapons:
-§aEffect on Armour:
 §8Adding 2 powders of tier 4-6
 §8at the powder master will
 §8unlock a special attack/effect.
@@ -505,84 +465,6 @@
 §8by visiting a Powder Master
 §8or use it as an ingredient
 §8when crafting.
-§b§l100% §b❉ Water Powder Tier IV
-§c§l25% §c✹ Fire Powder Tier IV
-§b§l75% §b❉ Water Powder Tier IV
-§b§l50% §b❉ Water Powder Tier IV
-§f§l25% §f❋ Air Powder Tier IV
-§2§l25% §2✤ Earth Powder Tier IV
-§e§l100% §e✦ Thunder Powder Tier V
-§b§l100% §b❉ Water Powder Tier V
-§f§l100% §f❋ Air Powder Tier III
-§2§l100% §2✤ Earth Powder Tier II
-§f§l100% §f❋ Air Powder Tier II
-§c§l75% §c✹ Fire Powder Tier II
-§b§l25% §b❉ Water Powder Tier II
-§f§l100% §f❋ Air Powder Tier IV
-§c§l100% §c✹ Fire Powder Tier II
-§b§l100% §b❉ Water Powder Tier II
-§e§l100% §e✦ Thunder Powder Tier III
-§e§l100% §e✦ Thunder Powder Tier II
-§f§l75% §f❋ Air Powder Tier II
-§2§l25% §2✤ Earth Powder Tier II
-§c§l50% §c✹ Fire Powder Tier II
-§e§l50% §e✦ Thunder Powder Tier II
-§c§l100% §c✹ Fire Powder Tier III
-§e§l25% §e✦ Thunder Powder Tier III
-§2§l75% §2✤ Earth Powder Tier III
-§b§l25% §b❉ Water Powder Tier III
-§f§l50% §f❋ Air Powder Tier III
-§e§l50% §e✦ Thunder Powder Tier IV
-§c§l50% §c✹ Fire Powder Tier IV
-§b§l25% §b❉ Water Powder Tier V
-§f§l25% §f❋ Air Powder Tier V
-§e§l25% §e✦ Thunder Powder Tier V
-§2§l25% §2✤ Earth Powder Tier V
-§c§l100% §c✹ Fire Powder Tier V
-§2§l100% §2✤ Earth Powder Tier III
-§2§l100% §2✤ Earth Powder Tier V
-§b§l100% §b❉ Water Powder Tier III
-§c§l100% §c✹ Fire Powder Tier IV
-§c§l75% §c✹ Fire Powder Tier V
-§f§l75% §f❋ Air Powder Tier III
-§c§l25% §c✹ Fire Powder Tier II
-§e§l25% §e✦ Thunder Powder Tier II
-§e§l100% §e✦ Thunder Powder Tier IV
-§2§l100% §2✤ Earth Powder Tier IV
-§e§l50% §e✦ Thunder Powder Tier III
-§2§l50% §2✤ Earth Powder Tier III
-§b§l50% §b❉ Water Powder Tier III
-§c§l75% §c✹ Fire Powder Tier III
-§f§l25% §f❋ Air Powder Tier III
-§e§l100% §e✦ Thunder Powder Tier VI
-§b§l75% §b❉ Water Powder Tier II
-§f§l25% §f❋ Air Powder Tier II
-§f§l100% §f❋ Air Powder Tier V
-§b§l100% §b❉ Water Powder Tier VI
-§c§l75% §c✹ Fire Powder Tier IV
-§b§l25% §b❉ Water Powder Tier IV
-§e§l75% §e✦ Thunder Powder Tier II
-§e§l75% §e✦ Thunder Powder Tier III
-§f§l75% §f❋ Air Powder Tier IV
-§c§l50% §c✹ Fire Powder Tier III
-§e§l25% §e✦ Thunder Powder Tier IV
-§f§l50% §f❋ Air Powder Tier II
-§2§l50% §2✤ Earth Powder Tier II
-§b§l50% §b❉ Water Powder Tier II
-§2§l25% §2✤ Earth Powder Tier III
-§c§l25% §c✹ Fire Powder Tier III
-§f§l50% §f❋ Air Powder Tier IV
-§c§l25% §c✹ Fire Powder Tier V
-§b§l50% §b❉ Water Powder Tier V
-§2§l75% §2✤ Earth Powder Tier IV
-§2§l50% §2✤ Earth Powder Tier IV
-§c§l50% §c✹ Fire Powder Tier V
-§f§l50% §f❋ Air Powder Tier V
-§e§l50% §e✦ Thunder Powder Tier V
-§b§l75% §b❉ Water Powder Tier III
-§2§l100% §2✤ Earth Powder Tier VI
-§2§l75% §2✤ Earth Powder Tier II
-
 
 #####################Цены у торговцев##################
 §6 - §c✖ §41 Witherhead's Rib
