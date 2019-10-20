@@ -873,31 +873,31 @@
 §7Requires:@§7Необходим:
 §7- §4Lv. 30+ Character §l✖@§7- §4Ур. 30+ Персонаж §l✖
 §7Most of your items will drop@§7Большинство твоих предметов выпадет
-§7upon death and your icon
-§7will be changed to gray.
-§7- §4Lv. 50+ Character §l✖
-§7You will not be able to trade
-§7with other players, including
-§7the trade market.
-§a§l   VIP Class §2[Archer Clone]
-§a§l   VIP Class §2[Warrior Clone]
-§b§l  VIP+ Class §3[Mage Clone]
-§b§lVIP+ Class §3[Assassin Clone]
-§7You will only be allowed
-§7to use crafted items.
-§e- §7Class: §fAssassin
-§6- §fSpin Attack§7 [Lv. 1]
-§6- §7Vanish§8 [Lv. 11]
-§6- §7Multi Hit§8 [Lv. 21]
-§6- §7Smoke Bomb§8 [Lv. 31]
-§5- §7Vanish Spell §8[Lv. 11]
-§7Class: §fWarrior
-§7- §aLv. 50+ Character §l✔
-§6- §7Escape§8 [Lv. 11]
-§6- §7Bomb§8 [Lv. 21]
-§6- §7Arrow Shield§8 [Lv. 31]
-§5- §7Escape Spell §8[Lv. 11]
-§4Click §cCancel Class Deletion
+§7upon death and your icon@после смерти и твоя иконка
+§7will be changed to gray.@изменит цвет на серый.
+§7- §4Lv. 50+ Character §l✖@§7- §4Ур. 50+ Персонаж §l✖
+§7You will not be able to trade@§7Ты не сможешь торговать с 
+§7with other players, including@§7другими игроками, включая трейд
+§7the trade market.@§7маркет, и пользоваться банком.
+§a§l   VIP Class §2[Archer Clone]@§a§l   VIP Класс §2[Клон Лучника]
+§a§l   VIP Class §2[Warrior Clone]@§a§l   VIP Класс §2[Клон Воина]
+§b§l  VIP+ Class §3[Mage Clone]@§b§l  VIP+ Класс §3[Клон Мага]
+§b§lVIP+ Class §3[Assassin Clone]@§b§lVIP+ Класс §3[Клон Ассасина]
+§7You will only be allowed@§7Ты сможешь использовать
+§7to use crafted items.@§7только крафтовые предметы.
+§e- §7Class: §fAssassin@§e- §7Класс: §fАссасин
+§6- §fSpin Attack§7 [Lv. 1]@§6- §fКруговая Атака§7 [Ур. 1]
+§6- §7Vanish§8 [Lv. 11]@§6- §7Исчезновение§8 [Ур. 11]
+§6- §7Multi Hit§8 [Lv. 21]@§6- §7Мега Удар§8 [Ур. 21]
+§6- §7Smoke Bomb§8 [Lv. 31]@§6- §7Дымовая Бомба§8 [Ур. 31]
+§5- §7Vanish Spell §8[Lv. 11]@§5- §7Исчезновение Заклинание §8[Ур. 11]
+§7Class: §fWarrior@§7Класс: §fВоин
+§7- §aLv. 50+ Character §l✔@§7- §aУр. 50+ Персонаж §l✔
+§6- §7Escape§8 [Lv. 11]@§6- §7Побег§8 [Ур. 11]
+§6- §7Bomb§8 [Lv. 21]@§6- §7Бомба§8 [Ур. 21]
+§6- §7Arrow Shield§8 [Lv. 31]@§6- §7Щит Стрел§8 [Ур. 31]
+§5- §7Escape Spell §8[Lv. 11]@§5- §7Побег Заклинание §8[Lv. 11]
+§4Click §cCancel Class Deletion@§4Кликни §cОтмена Удаления Класса
 §4on the right to cancel deletion
 §6- §fVanish§7 [Lv. 11]
 §6- §fMulti Hit§7 [Lv. 21]
