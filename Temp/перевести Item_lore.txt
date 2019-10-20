@@ -962,7 +962,7 @@
 §5- §7Dagger Aura Spell §8[Lv. 31]@§5- §7Кинжальная Аура Заклинание §8[Ур. 31]
 §6- §fHeaven Jolt§7 [Lv. 21]@§6- §fНебесный Удар§7 [Ур. 21]
 §5- §7Leap Upgrade II §8[Lv. 26]@§5- §7Прыжок Апгрейд II §8[Ур. 26]
-§e- §7Class: §fDark Wizard@§e- §7Класс: §fТемный Маг
+§e- §7Class: §fDark Wizard@§e- §7Класс: §fТемный Волшебник
 §6- §fRemedy§7 [Lv. 1]@§6- §fЛечение§7 [Ур. 1]
 §6- §7Blink§8 [Lv. 11]@§6- §7Ослепление§8 [Ур. 11]
 §6- §7Dead Star§8 [Lv. 21]@§6- §7Мертвая Звезда§8 [Ур. 21]
@@ -991,39 +991,39 @@
 
 
 ##########################Предметы#########################
-§a- §7Tier: §dRare
-§c✖§7 Class Req: Mage/Dark Wizard
-§bLegendary Item [2]
-§aSet Item [2]
-§cQuest Item
-§7Super Fast Attack Speed
-§7Slow Attack Speed
-§dRare Item [2]
-§7Very Slow Attack Speed
-§c✖§7 Class Req: Archer/Hunter
-§eUnique Item [2]
-§eUnique Item [3]
-§7Super Slow Attack Speed
-§3Crafted Scroll
-§c✖§7 Class Req: Warrior/Knight
-§b   Concentration [Mana Used]
-§b   - §7Damage: +1% ❉ / Mana Used
-§b   - §7Duration: 1 Sec. / Mana Used
-§7Tier 2
-§bLegendary Item [3]
-§2   Quake
-§2   - §7Radius: 7 blocks
-§2   - §7Radius: 5 blocks
-§5Mythic Item [2]
-§2   Rage [% ❤ Missing]
-§dRare Item [3]
- §c0s Duration
-   §8✔ §fⓁ §7Alchemism
-§6Gathering Speed: 16§7 (Slow)
-§bLegendary Item
-§dRare Item
-§aSet Item
-§cUntradable Item
+§a- §7Tier: §dRare@§a- §7Уровень: §dРедкий
+§c✖§7 Class Req: Mage/Dark Wizard@§c✖§7 Класс Необ.: Маг/Темный Волшебник
+§bLegendary Item [2]@§bЛегендарный Предмет [2]
+§aSet Item [2]@§aСет Предмет [2]
+§cQuest Item@§cКвестовый Предмет
+§7Super Fast Attack Speed@§7Супер Быстрая Скорость Атаки
+§7Slow Attack Speed@§7Медленная Скорость Атаки
+§dRare Item [2]@§dРедкий Предмет [2]
+§7Very Slow Attack Speed@§7Очень Медленная Скорость Атаки
+§c✖§7 Class Req: Archer/Hunter@§c✖§7 Класс Необ.: Лучник/Охотник
+§eUnique Item [2]@§eУникальный Предмет [2]
+§eUnique Item [3]@§eУникальный Предмет [3]
+§7Super Slow Attack Speed@§7Супер Медленная Скорость Атаки
+§3Crafted Scroll@§3Крафтовый Свиток
+§c✖§7 Class Req: Warrior/Knight@§c✖§7 Класс Необ.: Воин/Рыцарь
+§b   Concentration [Mana Used]@§b   Концентрация [Использованая Мана]
+§b   - §7Damage: +1% ❉ / Mana Used@§b   - §7Урон: +1% ❉ / Использованной Маны
+§b   - §7Duration: 1 Sec. / Mana Used@§b   - §7Длительность: 1 Сек. / Использованной Маны
+§7Tier 2@§7Уровень 2
+§bLegendary Item [3]@§bЛегендарный Предмет [3]
+§2   Quake@§2   Землетрясение
+§2   - §7Radius: 7 blocks@§2   - §7Радиус: 7 блоков
+§2   - §7Radius: 5 blocks@§2   - §7Радиус: 5 блоков
+§5Mythic Item [2]@§5Мифический Предмет [2]
+§2   Rage [% ❤ Missing]@§2   Ярость [% ❤ Потерянных]
+§dRare Item [3]@§dРедкий Предмет [3]
+ §c0s Duration@ §c0с Длительность
+   §8✔ §fⓁ §7Alchemism@   §8✔ §fⓁ §7Алхимия
+§6Gathering Speed: 16§7 (Slow)@§6Скорость Сбора: 16§7 (Медленная)
+§bLegendary Item@§bЛегендарный Предмет
+§dRare Item@§dРедкий Предмет
+§aSet Item@§aСет Предмет
+§cUntradable Item@§cНепродаваемый Предмет
 §eUnique Item
 §8Crafting Ingredient
 §7This item's powers have
