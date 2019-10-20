@@ -789,40 +789,40 @@
 
 
 #######################Класс и заклинания###################
-§eCharacter Info:
-§e- §7Class: §fMage
-§6Spells:
-§6- §fHeal§7 [Lv. 1]
-§6- §fTeleport§7 [Lv. 11]
-§6- §fMeteor§7 [Lv. 21]
-§6- §fIce Snake§7 [Lv. 31]
-§5Next Upgrade:
-§5- §7Ice Snake Upgrade III §8[Lv. 66]
-§4[Right-Click to Delete]
-§e- §7Class: §fArcher
-§6- §fArrow Storm§7 [Lv. 1]
-§6- §fEscape§7 [Lv. 11]
-§6- §fBomb§7 [Lv. 21]
-§6- §fArrow Shield§7 [Lv. 31]
-§5- §7Arrow Storm Upgrade III §8[Lv. 36]
-§e- §7Class: §fWarrior
-§6- §fBash§7 [Lv. 1]
-§6- §7Charge§8 [Lv. 11]
-§6- §7Uppercut§8 [Lv. 21]
-§6- §7War Scream§8 [Lv. 31]
-§5- §7Charge Spell §8[Lv. 11]
-§cYou need to have the
-§2VIP Rank §cor higher
-§cto use this slot
-§3Check §bstore.wynncraft.com
-§bVIP+ Rank §cor higher
-§5HERO Rank §cor higher
-§6- §fCharge§7 [Lv. 11]
-§6- §fUppercut§7 [Lv. 21]
-§6- §fWar Scream§7 [Lv. 31]
-§5- §7Arrow Storm Upgrade II §8[Lv. 16]
-§5- §7None
-§6§l⚔§6 Damage            §a■§a■§a■§a■§7■
+§eCharacter Info:@§eИнфо о персонаже:
+§e- §7Class: §fMage@§e- §7Класс: §fМаг
+§6Spells:@§6Заклинания:
+§6- §fHeal§7 [Lv. 1]@§6- §fИсцеление§7 [Ур. 1]
+§6- §fTeleport§7 [Lv. 11]@§6- §fТелепорт§7 [Ур. 11]
+§6- §fMeteor§7 [Lv. 21]@§6- §fМетеор§7 [Ур. 21]
+§6- §fIce Snake§7 [Lv. 31]@§6- §fЛедяная Змея§7 [Ур. 31]
+§5Next Upgrade:@§5Следующий Апгрейд:
+§5- §7Ice Snake Upgrade III §8[Lv. 66]@§5- §7Ледяная Змея Апгрейд III §8[Ур. 66]
+§4[Right-Click to Delete]@§4[Правый Клик для Удаления]
+§e- §7Class: §fArcher@§e- §7Класс: §fЛучник
+§6- §fArrow Storm§7 [Lv. 1]@§6- §fШторм Стрел§7 [Ур. 1]
+§6- §fEscape§7 [Lv. 11]@§6- §fПобег§7 [Ур. 11]
+§6- §fBomb§7 [Lv. 21]@§6- §fБомба§7 [Ур. 21]
+§6- §fArrow Shield§7 [Lv. 31]@§6- §fЩит Стрел§7 [Ур. 31]
+§5- §7Arrow Storm Upgrade III §8[Lv. 36]@§5- §7Шторм Стрел Апгрейд III §8[Ур. 36]
+§e- §7Class: §fWarrior@§e- §7Класс: §fВоин
+§6- §fBash§7 [Lv. 1]@§6- §fОглушение§7 [Ур. 1]
+§6- §7Charge§8 [Lv. 11]@§6- §7Заряд§8 [Ур. 11]
+§6- §7Uppercut§8 [Lv. 21]@§6- §7Апперкот§8 [Ур. 21]
+§6- §7War Scream§8 [Lv. 31]@§6- §7Крик Войны§8 [Ур. 31]
+§5- §7Charge Spell §8[Lv. 11]@§5- §7Заряд Заклинание §8[Ур. 11]
+§cYou need to have the@§cТебе нужно иметь
+§2VIP Rank §cor higher@§2VIP Ранг §cили выше
+§cto use this slot@§cдля использования этого слота
+§3Check §bstore.wynncraft.com@§3Посмотри §bstore.wynncraft.com
+§bVIP+ Rank §cor higher@§bVIP+ Ранг §cили выше
+§5HERO Rank §cor higher@§5HERO Ранг §cили выше
+§6- §fCharge§7 [Lv. 11]@§6- §fЗаряд§7 [Ур. 11]
+§6- §fUppercut§7 [Lv. 21]@§6- §fАпперкот§7 [Ур. 21]
+§6- §fWar Scream§7 [Lv. 31]@§6- §fКрик Войны§7 [Ур. 31]
+§5- §7Arrow Storm Upgrade II §8[Lv. 16]@§5- §7Шторм Стрел Апгрейд II §8[Ур. 16]
+§5- §7None@§5- §7Нет
+§6§l⚔§6 Damage            §a■§a■§a■§a■§7■@§6§l⚔§6 Урон            §a■§a■§a■§a■§7■
 §c❤ Defence          §a■§7■§7■§7■§7■
 §a➽ Range             §a■§a■§a■§a■§a■
 §d✺ Spells             §a■§a■§a■§7■§7■
