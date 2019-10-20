@@ -823,56 +823,56 @@
 §5- §7Arrow Storm Upgrade II §8[Lv. 16]@§5- §7Шторм Стрел Апгрейд II §8[Ур. 16]
 §5- §7None@§5- §7Нет
 §6§l⚔§6 Damage            §a■§a■§a■§a■§7■@§6§l⚔§6 Урон            §a■§a■§a■§a■§7■
-§c❤ Defence          §a■§7■§7■§7■§7■
-§a➽ Range             §a■§a■§a■§a■§a■
-§d✺ Spells             §a■§a■§a■§7■§7■
-§7§7Benefiting from the highest
-§7range in the game, Archers
-§7can comfortably keep their
-§7distance from enemies while
-§7dishing out high levels
-§7of damage. But they must
-§7be wary of attacks, as their
-§7defence is low.
-§eLearn more on our website
-§6         wynncraft.com
-§c❤ Defence          §a■§a■§a■§a■§a■
-§a➽ Range             §a■§a■§7■§7■§7■
-§d✺ Spells             §a■§a■§7■§7■§7■
-§7§7The Warrior offers the
-§7mightiest enemies to take
-§7them on, as they boast the
-§7highest defence value in
-§7the game and deal a fair
-§7amount of damage. However,
-§7for what they have in raw
-§7power, they lack in magical
-§7prowess.
-§6§l⚔§6 Damage            §a■§a■§7■§7■§7■
-§c❤ Defence          §a■§a■§a■§7■§7■
-§a➽ Range             §a■§a■§a■§7■§7■
-§d✺ Spells             §a■§a■§a■§a■§a■
-§7§7Mages are naturally talented
-§7in the magical arts. While
-§7their raw damage may be
-§7considered weaker, they
-§7offer a great amount of
-§7utility and versatility
-§7with their spells.
-§6§l⚔§6 Damage            §a■§a■§a■§a■§a■
-§c❤ Defence          §a■§a■§a■§a■§7■
-§a➽ Range             §a■§7■§7■§7■§7■
-§7§7The Assassin is the deadliest
-§7of all the classes, exploiting
-§7enemies weak spots to deal
-§7massive amounts of damage
-§7from the shadows, however
-§7they endanger themselves
-§7by having to get extremely
-§7close to the enemy.
-§7Requires:
-§7- §4Lv. 30+ Character §l✖
-§7Most of your items will drop
+§c❤ Defence          §a■§7■§7■§7■§7■@§c❤ Защита          §a■§7■§7■§7■§7■
+§a➽ Range             §a■§a■§a■§a■§a■@§a➽ Дальность             §a■§a■§a■§a■§a■
+§d✺ Spells             §a■§a■§a■§7■§7■@§d✺ Заклинания             §a■§a■§a■§7■§7■
+§7§7Benefiting from the highest@§7§7Пользуясь самой высокой 
+§7range in the game, Archers@§7дальностью в игре, лучники 
+§7can comfortably keep their@§7могут комфортно держать 
+§7distance from enemies while@§7дистанцию от врагов, одновременно 
+§7dishing out high levels@§7нанося много 
+§7of damage. But they must@§7урона. Но они должны 
+§7be wary of attacks, as their@§7остерегаться нападений, так как 
+§7defence is low.@§7их защита слаба.
+§eLearn more on our website@§eУзнай больше на нашем сайте
+§6         wynncraft.com@ 
+§c❤ Defence          §a■§a■§a■§a■§a■@§c❤ Защита          §a■§a■§a■§a■§a■
+§a➽ Range             §a■§a■§7■§7■§7■@§a➽ Дальность             §a■§a■§7■§7■§7■
+§d✺ Spells             §a■§a■§7■§7■§7■@§d✺ Заклинания             §a■§a■§7■§7■§7■
+§7§7The Warrior offers the@§7§7Воин может взять на себя 
+§7mightiest enemies to take@§7самых могущественных врагов, 
+§7them on, as they boast the@§7так как они могут похвастаться 
+§7highest defence value in@§7самым высоким количеством защиты 
+§7the game and deal a fair@§7в игре и наносят достаточное 
+§7amount of damage. However,@§7количество урона. Однако, 
+§7for what they have in raw@§7несмотря на их грубую 
+§7power, they lack in magical@§7силу, им не хватает магического
+§7prowess.@§7мастерства.
+§6§l⚔§6 Damage            §a■§a■§7■§7■§7■@§6§l⚔§6 Урон            §a■§a■§7■§7■§7■
+§c❤ Defence          §a■§a■§a■§7■§7■@§c❤ Защита          §a■§a■§a■§7■§7■
+§a➽ Range             §a■§a■§a■§7■§7■@§a➽ Дальность             §a■§a■§a■§7■§7■
+§d✺ Spells             §a■§a■§a■§a■§a■@§d✺ Заклинания             §a■§a■§a■§a■§a■
+§7§7Mages are naturally talented@§7§7Маги от природы талантливы 
+§7in the magical arts. While@§7в магическом искусстве. В то время 
+§7their raw damage may be@§7как их грубый урон может считаться 
+§7considered weaker, they@§7более слабым, они 
+§7offer a great amount of@§7предлагают большое количество 
+§7utility and versatility@§7полезности и универсальности 
+§7with their spells.@§7с их заклинаниями.
+§6§l⚔§6 Damage            §a■§a■§a■§a■§a■@§6§l⚔§6 Урон            §a■§a■§a■§a■§a■
+§c❤ Defence          §a■§a■§a■§a■§7■@§c❤ Защита          §a■§a■§a■§a■§7■
+§a➽ Range             §a■§7■§7■§7■§7■@§a➽ Дальность             §a■§7■§7■§7■§7■
+§7§7The Assassin is the deadliest@§7§7Ассасин является самым смертоносным 
+§7of all the classes, exploiting@§7из всех классов, используя 
+§7enemies weak spots to deal@§7слабые места врагов для нанесения 
+§7massive amounts of damage@§7большого количество урона 
+§7from the shadows, however@§7из тени, однако 
+§7they endanger themselves@§7они подвергают себя опасности, 
+§7by having to get extremely@§7подбираясь очень 
+§7close to the enemy.@§7близко к врагу.
+§7Requires:@§7Необходим:
+§7- §4Lv. 30+ Character §l✖@§7- §4Ур. 30+ Персонаж §l✖
+§7Most of your items will drop@§7Большинство твоих предметов выпадет
 §7upon death and your icon
 §7will be changed to gray.
 §7- §4Lv. 50+ Character §l✖
