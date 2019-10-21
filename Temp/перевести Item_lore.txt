@@ -1373,56 +1373,56 @@
 §a- §7Effect: §f+27§f ❋ Agility@§a- §7Эффект: §f+27§f ❋ Ловкость
 §a- §7Effect: §f+6% Walk Speed@§a- §7Эффект: §f+6% Скорость
 §8boost your ❋ Agility by@§8увеличивает твою ❋ Ловкость на
-§827 and boost your Walk Speed
-§8by +6% for 60 seconds
-§a- §7Effect: §f+27§c ✹ Defence
-§a- §7Effect: §f+80 Health
-§827 and boost your Health
-§8by +80 for 60 seconds
-§a- §7Effect: §f+160 Health
-§a- §7Duration: §f120 Seconds
-§8by +160 for 120 seconds
-§a- §7Effect: §f+30§2 ✤ Strength
-§a- §7Effect: §f+18% Melee Damage
-§a- §7Duration: §f180 Seconds
-§830 and boost your Melee
-§8Damage by +18% for 180 seconds
-§a- §7Effect: §f+10% Walk Speed
-§8by +10% for 120 seconds
-§a- §7Effect: §f+4 Melee Damage
-§8Damage by +4 for 120 seconds
-§a- §7Effect: §f+12% Melee Damage
-§8Damage by +12% for 120 seconds
-§a- §7Effect: §f+8% Spell Damage
-§8Damage by +8% for 120 seconds
-§fEffect:
-§f- §7Effect: §fDrunkness
-§f- §7Duration: §f120 Seconds
-§8make you drunk over 120
-§8seconds.
-§3- §7Mana: §f66§b ✺
-§3- §7Duration: §f22 Seconds
-§822 seconds.
-§a- §7Effect: §f+40§f ❋ Agility
-§a- §7Effect: §f+28% Walk Speed
-§840 and boost your Walk Speed
-§8by +28% for 300 seconds
-§a- §7Effect: §f+40§e ✦ Dexterity
-§a- §7Effect: §f+28 Melee Damage
-§8Damage by +28 for 300 seconds
-§a- §7Effect: §f+40§b ❉ Intelligence
-§a- §7Effect: §f+26% Spell Damage
-§8by 40 and boost your Spell
-§8Damage by +26% for 300 seconds
-§a- §7Effect: §f+47§f ❋ Agility
-§a- §7Effect: §f+34% Walk Speed
-§847 and boost your Walk Speed
-§8by +34% for 360 seconds 
-§3- §7Mana: §f54§b ✺
-§3- §7Duration: §f18 Seconds
-§818 seconds.
-§a- §7Effect: §f+57§e ✦ Dexterity
-§a- §7Effect: §f+64 Melee Damage
+§827 and boost your Walk Speed@§827 и увеличивает твою Скорость
+§8by +6% for 60 seconds@§8на +6% в течение 60 секунд
+§a- §7Effect: §f+27§c ✹ Defence@§a- §7Эффект: §f+27§c ✹ Защита
+§a- §7Effect: §f+80 Health@§a- §7Эффект: §f+80 Здоровье
+§827 and boost your Health@§827 и увеличивает твое Здоровье
+§8by +80 for 60 seconds@§8на +80 в течение 60 секунд
+§a- §7Effect: §f+160 Health@§a- §7Эффект: §f+160 Здоровье
+§a- §7Duration: §f120 Seconds@§a- §7Длительность: §f120 Секунд
+§8by +160 for 120 seconds@§8на +160 в течение 120 секунд
+§a- §7Effect: §f+30§2 ✤ Strength@§a- §7Эффект: §f+30§2 ✤ Сила
+§a- §7Effect: §f+18% Melee Damage@§a- §7Эффект: §f+18% Ближний Урон
+§a- §7Duration: §f180 Seconds@§a- §7Длительность: §f180 Секунд
+§830 and boost your Melee@§830 и увеличивает твой Ближний
+§8Damage by +18% for 180 seconds@§8Урон на +18% в течение 180 секунд
+§a- §7Effect: §f+10% Walk Speed@§a- §7Эффект: §f+10% Скорость
+§8by +10% for 120 seconds@§8на +10% в течение 120 секунд
+§a- §7Effect: §f+4 Melee Damage@§a- §7Эффект: §f+4 Ближний Урон
+§8Damage by +4 for 120 seconds@§8Урон на +4 в течение 120 секунд
+§a- §7Effect: §f+12% Melee Damage@§a- §7Эффект:  §f+12% Ближний Урон
+§8Damage by +12% for 120 seconds@§8Урон на +12% в течение 120 секунд
+§a- §7Effect: §f+8% Spell Damage@§a- §7Эффект: §f+8% Урон Заклинаний
+§8Damage by +8% for 120 seconds@§8Урон на +8% в течение 120 секунд
+§fEffect:@§fЭффект:
+§f- §7Effect: §fDrunkness@§f- §7Эффект: §fОпьянение
+§f- §7Duration: §f120 Seconds@§f- §7Длительность: §f120 Секунд
+§8make you drunk over 120@§8делает тебя пьяным на 120
+§8seconds.@§8секунд.
+§3- §7Mana: §f66§b ✺@§3- §7Мана: §f66§b ✺
+§3- §7Duration: §f22 Seconds@§3- §7Длительность: §f22 Секунды
+§822 seconds.@§822 секунд.
+§a- §7Effect: §f+40§f ❋ Agility@§a- §7Эффект: §f+40§f ❋ Ловкость
+§a- §7Effect: §f+28% Walk Speed@§a- §7Эффект: §f+28% Скорость
+§840 and boost your Walk Speed@§840 и увеличивает твою Скорость
+§8by +28% for 300 seconds@§8на +28% в течение 300 секунд
+§a- §7Effect: §f+40§e ✦ Dexterity@§a- §7Эффект: §f+40§e ✦ Сноровка
+§a- §7Effect: §f+28 Melee Damage@§a- §7Эффект: §f+28 Ближний Урон
+§8Damage by +28 for 300 seconds@§8Урон на +28 в течение 300 секунд
+§a- §7Effect: §f+40§b ❉ Intelligence@§a- §7Эффект: §f+40§b ❉ Интеллект
+§a- §7Effect: §f+26% Spell Damage@§a- §7Эффект: §f+26% Урон Заклинаний
+§8by 40 and boost your Spell@§8на 40 и увеличивает твой Заклинаний
+§8Damage by +26% for 300 seconds@§8Урон на +26% в течение 300 секунд
+§a- §7Effect: §f+47§f ❋ Agility@§a- §7Эффект: §f+47§f ❋ Ловкость
+§a- §7Effect: §f+34% Walk Speed@§a- §7Эффект: §f+34% Скорость
+§847 and boost your Walk Speed@§847 и увеличивает твою Скорость
+§8by +34% for 360 seconds@§8на +34% в течение 360 секунд
+§3- §7Mana: §f54§b ✺@§3- §7Мана: §f54§b ✺
+§3- §7Duration: §f18 Seconds@§3- §7Длительность: §f18 Секунд
+§818 seconds.@§818 секунд.
+§a- §7Effect: §f+57§e ✦ Dexterity@§a- §7Эффект: §f+57§e ✦ Сноровка
+§a- §7Effect: §f+64 Melee Damage@§a- §7Эффект: §f+64 Ближний Урон
 §8Damage by +64 for 420 seconds
 §a- §7Effect: §f+34§f ❋ Agility
 §a- §7Effect: §f+22% Walk Speed
