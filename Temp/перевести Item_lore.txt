@@ -1486,68 +1486,68 @@
 §8Damage by +100 for 480 seconds@§8Урон на +100 в течение 480 секунд
 
 #########################Интерфейсы#############################
-§7Left-Click to change
-§7Right-Click to set default*
-§6- §7Lv. 1-19 §8(+I - III)
-§6- §7Lv. 20-39 §8(+I - III)
-§6- §7Lv. 40-59 §8(+II - IV)
-§6- §7Lv. 60-79 §8(+III - V)
-§6- §fLv. 80+ §7(+IV - VI)
-§6- §7Show All
-§6- §fShow All§c*
-§6- §fLv. 1-19 §7(+I - III)
-§6- §7Lv. 80+ §8(+IV - VI)
-§6- §fLv. 20-39 §7(+I - III)
-§6- §fLv. 40-59 §7(+II - IV)
-§6- §fLv. 60-79 §7(+III - V)
-§6- §fShow All
-§6- §fLv. 40-59 §7(+II - IV)§c*
-§6- §fLv. 80+ §7(+IV - VI)§c*
-§6- §7Lv. 80+ §8(+IV - VI)§c*
-§6- §fLv. 1-19 §7(+I - III)§c*
-§6- §7Lv. 1-19 §8(+I - III)§c*
-§6- §fLv. 20-39 §7(+I - III)§c*
-§6- §fLv. 60-79 §7(+III - V)§c*
-§6- §7Lv. 60-79 §8(+III - V)§c*
-§6- §7Lv. 20-39 §8(+I - III)§c*
-§6- §7Show All§c*
-§6- §7Lv. 40-59 §8(+II - IV)§c*
-§7Reveal an unidentified item's name
-§7allowing it to be sold on the
-§7exchange without revealing its
-§7identifications
-§7Click here to search
-§7for an item to buy
-§7Click here to sell
-§7an item on the market
-§7Click here to view your
-§7trades and claim your
-§7items and emeralds
-§7Purchase the page
-§7to unlock it
-§7Transfer §f64²½§7 into §f1¼²
-§7Transfer §f1¼²§7 into §f64²½
-§7Click to join!
-§7Having less soul points increases
-§7the chance of dropping items upon
-§7death
-§6Drop chance:
-§5Armour: None
-§6View and manage your skills
-§7Hold and Right-click to see quests
-§5Discoveries:
-§aSet Bonus:
-§fTerritories:
-§eWorld:
-§fCorkus  
-§fWynn Plains  
-§fNesaak Tundra  
-§fDesert  
-§7§lLeft click to sort by: §fName
-§7§lRight click to sort by: §fLevel
-§7Rank: §fNone
-§7Class: §fMage
-§dID Bonuses:
+§7Left-Click to change@§7Левый клик для смены
+§7Right-Click to set default*@Правый клик для установки по умолчанию*
+§6- §7Lv. 1-19 §8(+I - III)@§6- §7Ур. 1-19 §8(+I - III)
+§6- §7Lv. 20-39 §8(+I - III)@§6- §7Ур. 20-39 §8(+I - III)
+§6- §7Lv. 40-59 §8(+II - IV)@§6- §7Ур. 40-59 §8(+II - IV)
+§6- §7Lv. 60-79 §8(+III - V)@§6- §7Ур. 60-79 §8(+III - V)
+§6- §fLv. 80+ §7(+IV - VI)@§6- §fУр. 80+ §7(+IV - VI)
+§6- §7Show All@§6- §7Показать Все
+§6- §fShow All§c*@§6- §fПоказать Все§c*
+§6- §fLv. 1-19 §7(+I - III)@§6- §fУр. 1-19 §7(+I - III)
+§6- §7Lv. 80+ §8(+IV - VI)@§6- §7Ур. 80+ §8(+IV - VI)
+§6- §fLv. 20-39 §7(+I - III)@§6- §fУр. 20-39 §7(+I - III)
+§6- §fLv. 40-59 §7(+II - IV)@§6- §fУр. 40-59 §7(+II - IV)
+§6- §fLv. 60-79 §7(+III - V)@§6- §fУр. 60-79 §7(+III - V)
+§6- §fShow All@§6- §fПоказать Все
+§6- §fLv. 40-59 §7(+II - IV)§c*@§6- §fУр. 40-59 §7(+II - IV)§c*
+§6- §fLv. 80+ §7(+IV - VI)§c*@§6- §fУр. 80+ §7(+IV - VI)§c*
+§6- §7Lv. 80+ §8(+IV - VI)§c*@§6- §7Ур. 80+ §8(+IV - VI)§c*
+§6- §fLv. 1-19 §7(+I - III)§c*@§6- §fУр. 1-19 §7(+I - III)§c*
+§6- §7Lv. 1-19 §8(+I - III)§c*@§6- §7Ур. 1-19 §8(+I - III)§c*
+§6- §fLv. 20-39 §7(+I - III)§c*@§6- §fУр. 20-39 §7(+I - III)§c*
+§6- §fLv. 60-79 §7(+III - V)§c*@§6- §fУр. 60-79 §7(+III - V)§c*
+§6- §7Lv. 60-79 §8(+III - V)§c*@§6- §7Ур. 60-79 §8(+III - V)§c*
+§6- §7Lv. 20-39 §8(+I - III)§c*@§6- §7Ур. 20-39 §8(+I - III)§c*
+§6- §7Show All§c*@§6- §7Показать Все§c*
+§6- §7Lv. 40-59 §8(+II - IV)§c*@§6- §7Ур. 40-59 §8(+II - IV)§c*
+§7Reveal an unidentified item's name@§7Раскрытие названия неидентифицированных предметов
+§7allowing it to be sold on the@§7позволяет продавать их на
+§7exchange without revealing its@§7маркете без раскрытия их
+§7identifications@§7идентификаций
+§7Click here to search@§7Кликни здесь для поиска
+§7for an item to buy@§7предмета для покупки
+§7Click here to sell@§7Кликни здесь для продажи
+§7an item on the market@§7предмета на маркете
+§7Click here to view your@§7Кликни здесь, чтобы посмотреть свои
+§7trades and claim your@§7торги и забрать свои
+§7items and emeralds@§7предметы и эмеральды
+§7Purchase the page@§7Купи страницу
+§7to unlock it@§7для ее разблокировки
+§7Transfer §f64²½§7 into §f1¼²@§7Перевести §f64²½§7 в §f1¼²
+§7Transfer §f1¼²§7 into §f64²½@§7Перевести §f1¼²§7 в §f64²½
+§7Click to join!@§7Кликни, чтобы присоединиться!
+§7Having less soul points increases@Уменьшение количества очков душ повышает
+§7the chance of dropping items upon@шанс выпадения предметов при
+§7death@смерти
+§6Drop chance:@§6Шансы выпадения:
+§5Armour: None@§5Броня: Нет
+§6View and manage your skills@§6Просмотр и распределение твоих умений
+§7Hold and Right-click to see quests@§7
+§5Discoveries:@
+§aSet Bonus:@
+§fTerritories:@
+§eWorld:@
+§fCorkus@
+§fWynn Plains@ 
+§fNesaak Tundra@
+§fDesert@
+§7§lLeft click to sort by: §fName@
+§7§lRight click to sort by: §fLevel@
+§7Rank: §fNone@
+§7Class: §fMage@
+§dID Bonuses:@
 §bBasic Defence:
 §3[L]§b Main Attack:
 §7      §lNow          §6§lNext
