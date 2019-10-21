@@ -1348,31 +1348,31 @@
 §8Damage by +14% for 180 seconds@§8Урон на +14% в течение 180 секунд
 §a- §7Effect: §f+30§c ✹ Defence@§a- §7Эффект: §f+30§c ✹ Защита
 §a- §7Effect: §f+280 Health@§a- §7Эффект: §f+280 Здоровье
-§830 and boost your Health
-§8by +280 for 180 seconds
-§3- §7Mana: §f12§b ✺
-§3- §7Duration: §f4 Seconds
-§84 seconds.
-§aEffect:
-§a- §7Effect: §f+27§2 ✤ Strength
-§a- §7Effect: §f+6% Melee Damage
-§a- §7Duration: §f60 Seconds
-§8boost your ✤ Strength by
-§827 and boost your Melee
-§8Damage by +6% for 60 seconds
-§dEffects: 
-§a- §7Effect: §f+27§e ✦ Dexterity
-§a- §7Effect: §f+2 Melee Damage
-§8boost your ✦ Dexterity by
-§8Damage by +2 for 60 seconds
-§a- §7Effect: §f+27§b ❉ Intelligence
-§a- §7Effect: §f+4% Spell Damage
-§8boost your ❉ Intelligence
-§8by 27 and boost your Spell
-§8Damage by +4% for 60 seconds
-§a- §7Effect: §f+27§f ❋ Agility
-§a- §7Effect: §f+6% Walk Speed
-§8boost your ❋ Agility by
+§830 and boost your Health@§830 и увеличивает твое Здоровье
+§8by +280 for 180 seconds@§8на +280 в течение 180 секунд
+§3- §7Mana: §f12§b ✺@§3- §7Мана: §f12§b ✺
+§3- §7Duration: §f4 Seconds@§3- §7Длительность: §f4 секунды
+§84 seconds.@§84 секунд.
+§aEffect:@§aЭффект:
+§a- §7Effect: §f+27§2 ✤ Strength@§a- §7Эффект: §f+27§2 ✤ Сила
+§a- §7Effect: §f+6% Melee Damage@§a- §7Эффект: §f+6% Ближний Урон
+§a- §7Duration: §f60 Seconds@§a- §7Длительность: §f60 Секунд
+§8boost your ✤ Strength by@§8увеличивает твою ✤ Силу на
+§827 and boost your Melee@§827 и увеличивает твой Ближний
+§8Damage by +6% for 60 seconds@§8Урон на +6% в течение 60 секунд
+§dEffects:@§dЭффекты:
+§a- §7Effect: §f+27§e ✦ Dexterity@§a- §7Эффект: §f+27§e ✦ Сноровка
+§a- §7Effect: §f+2 Melee Damage@§a- §7Эффект: §f+2 Ближний Урон
+§8boost your ✦ Dexterity by@§8увеличивает твою ✦ Сноровку на
+§8Damage by +2 for 60 seconds@§8Урон на +2 в течение 60 секунд
+§a- §7Effect: §f+27§b ❉ Intelligence@§a- §7Эффект: §f+27§b ❉ Интеллекта
+§a- §7Effect: §f+4% Spell Damage@§a- §7Эффект: §f+4% Урон Заклинаний
+§8boost your ❉ Intelligence@§8увеличивает твой ❉ Интеллект
+§8by 27 and boost your Spell@§8на 27 и увеличивает твой Заклинаний
+§8Damage by +4% for 60 seconds@§8Урон на +4% в течение 60 секунд
+§a- §7Effect: §f+27§f ❋ Agility@§a- §7Эффект: §f+27§f ❋ Ловкость
+§a- §7Effect: §f+6% Walk Speed@§a- §7Эффект: §f+6% Скорость
+§8boost your ❋ Agility by@§8увеличивает твою ❋ Ловкость на
 §827 and boost your Walk Speed
 §8by +6% for 60 seconds
 §a- §7Effect: §f+27§c ✹ Defence
