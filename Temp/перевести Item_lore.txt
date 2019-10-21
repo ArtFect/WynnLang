@@ -1532,42 +1532,42 @@
 §7the chance of dropping items upon@шанс выпадения предметов при
 §7death@смерти
 §6Drop chance:@§6Шансы выпадения:
-§5Armour: None@§5Броня: Нет
+§5Armour: None@§5Броня: Отсутствует
 §6View and manage your skills@§6Просмотр и распределение твоих умений
-§7Hold and Right-click to see quests@§7
-§5Discoveries:@
-§aSet Bonus:@
-§fTerritories:@
-§eWorld:@
-§fCorkus@
+§7Hold and Right-click to see quests@§7Зажми + Правый клик для просмотра квестов
+§5Discoveries:@§5Открытия:
+§aSet Bonus:@§aСет Бонус:
+§fTerritories:@§fТерритории:
+§eWorld:@§eМировые:
+§fCorkus@ 
 §fWynn Plains@ 
-§fNesaak Tundra@
-§fDesert@
-§7§lLeft click to sort by: §fName@
-§7§lRight click to sort by: §fLevel@
-§7Rank: §fNone@
-§7Class: §fMage@
-§dID Bonuses:@
-§bBasic Defence:
-§3[L]§b Main Attack:
-§7      §lNow          §6§lNext
-§7§7Each point in this skill
-§7will §dincrease§7 any damage
-§7you deal and increase the §2✤ Earth§7
-§7damage you may inflict.
-§8Left click to add 1 point
-§8Right click to add 5 points
-§7will §dincrease§7 the chance
-§7to do a critical hit (doubling
-§7damage), and increase the §e✦ Thunder§7
-§7will §dreduce§7 mana used by
-§7spells and increase the §b❉ Water§7
-§7will §dreduce§7 any damage
-§7you take and increase the §c✹ Fire§7
-§aThis skill was modified by your equipment
-§7to dodge attacks and increase
-§7the §f❋ Air§7 damage you may
-§7inflict.
+§fNesaak Tundra@ 
+§fDesert@ 
+§7§lLeft click to sort by: §fName@§7§lЛевый клик для сортировки по: §fИмени
+§7§lRight click to sort by: §fLevel@§7§lПравый клик для сортировки по: §fУровню
+§7Rank: §fNone@§7Ранг: §fОтсутствует
+§7Class: §fMage@§7Класс: §fМаг
+§dID Bonuses:@§dID Бонусы:
+§bBasic Defence:@§bБазовая Защита:
+§3[L]§b Main Attack:@§3[Л]§b Основная Атака:
+§7      §lNow          §6§lNext@§7      §lСейчас          §6§lДалее
+§7§7Each point in this skill@§7§7Каждое очко в этом умении
+§7will §dincrease§7 any damage@§7будет §dувеличивать§7 любой урон
+§7you deal and increase the §2✤ Earth§7@§7нанесенный тобой, а также увеличивать §2✤ Земля§7
+§7damage you may inflict.@урон, который ты можешь нанести.
+§8Left click to add 1 point@§8Левый клик для добавления 1 очка
+§8Right click to add 5 points@§8Правый клик для добавления 5 очков
+§7will §dincrease§7 the chance@§7будет §dувеличивать§7 шанс
+§7to do a critical hit (doubling@§7нанести критический удар (двойной
+§7damage), and increase the §e✦ Thunder§7@§7урон), а также увеличивать §e✦ Гром§7
+§7will §dreduce§7 mana used by@§7будет §dуменьшать§7 использование маны на
+§7spells and increase the §b❉ Water§7@§7заклинания, а также увеличивать §b❉ Вода§7
+§7will §dreduce§7 any damage@§7будет §dуменьшать§7 любой урон
+§7you take and increase the §c✹ Fire§7@полученный тобой, а также увеличивать §c✹ Огонь§7
+§aThis skill was modified by your equipment@§aЭто умение модифицировано твоим снаряжением
+§7to dodge attacks and increase@§7уклониться от атак, а также увеличивать
+§7the §f❋ Air§7 damage you may@§7§f❋ Воздух§7 урон, который ты можешь
+§7inflict.@§7нанести.
 §7Can gather Unprocessed Fish
 §7Can make Scrolls
 §7Can make Spears and Daggers
