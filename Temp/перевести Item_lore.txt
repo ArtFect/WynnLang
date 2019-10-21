@@ -1098,89 +1098,89 @@
 §e   - §7Chains: 8@§e   - §7Цепей: 8
 §a- §7Tier: §aSet@§a- §7Уровень: §aСет
 §3Crafted Potion@§3Крафтовое Зелье
-§a+25% §7Ingredient Effectiveness
-§7(To ingredients under this one)
-§7Tier 8
-§6Gathering Speed: 150§7 (Very Fast)
-§d- §7Attack Speed: §f+1 tier
-§a✔§7 Class Req: Assassin/Ninja
-§c-40% §7Ingredient Effectiveness
-§f   Wind Prison
-§f   - §7Duration: 3 seconds
-§f   - §7Damage Boost: +60%
-§f   - §7Knockback: 8 blocks
-   §8✔ §fⒺ §7Scribing
-§6Gathering Speed: 28§7 (Slow)
-§a+33% §7Ingredient Effectiveness
-   §8✔ §fⒶ §7Cooking
-§f   - §7Duration: 4 seconds
-§f   - §7Damage Boost: +120%
-§f   - §7Knockback: 16 blocks
-§f   - §7Duration: 5 seconds
-§f   - §7Damage Boost: +180%
-§f   - §7Knockback: 24 blocks
-§5Mythic Item [5]
-§b   - §7Duration: 9 seconds
-§b   - §7Damage Boost: +210%
-§c   - §7Duration: 6.5 seconds
-§c   - §7Damage Boost: +90%
-§e   - §7Chains: 9
-§7Tier 12
-§6Gathering Speed: 330§7 (Very Fast)
-§c-1 Charge
-§2   - §7Radius: 5.5 blocks
-§aSet Item [3]
-§7(To ingredients to the right of this one)
-§a+2 Charges
-§bLegendary Item [4]
-§c   - §7Duration: 6 seconds
-§c   - §7Damage Boost: +70%
-§a+40% §7Ingredient Effectiveness
-§a+80% §7Ingredient Effectiveness
-§dRare Item [4]
-§6Gathering Speed: 45§7 (Normal)
-§c-180% §7Ingredient Effectiveness
-§7(To ingredients to the left of this one)
-§7Tier 9
-§6Gathering Speed: 190§7 (Very Fast)
-§e   - §7Chains: 7
-§e   - §7Chains: 5
-§b   - §7Duration: 7 seconds
-§b   - §7Damage Boost: +90%
-§a+1 Charge
-§c   Endurance [Hit Taken]
-§c   - §7Duration: 8 Sec.
-§aSet Item [4]
-§7Tier 11
-§6Gathering Speed: 275§7 (Very Fast)
-§7Tier 10
-§6Gathering Speed: 230§7 (Very Fast)
-§d- §7Attack Speed: §f-1 tier
-   §8✔ §fⒹ §7Jeweling
-§f   - §7Duration: 3.5 seconds
-§f   - §7Damage Boost: +90%
-§f   - §7Knockback: 12 blocks
-§e   - §7Chains: 6
-§2   - §7Radius: 6 blocks
-§a+12% §7Ingredient Effectiveness
-§c-15% §7Ingredient Effectiveness
-§c-110% §7Ingredient Effectiveness
-§c-20% §7Ingredient Effectiveness
-§a+35% §7Ingredient Effectiveness
-§c-30% §7Ingredient Effectiveness
-§b   - §7Damage: +4% ❉ / Mana Used
-§f   - §7Duration: 6.0 Sec.
-§dRare Item [5]
-§7Junk Item
-§3Crafting Item
-§f   - §7Duration: 4.0 Sec.
-§b   - §7Duration: 7.5 seconds
-§b   - §7Damage Boost: +120%
-§d- §7Attack Speed: §f+2 tier
-§f   - §7Duration: 4.5 seconds
-§f   - §7Damage Boost: +150%
-§f   - §7Knockback: 20 blocks
-§2   - §7Radius: 6.5 blocks
+§a+25% §7Ingredient Effectiveness@§a+25% §7Эффективность Ингредиентов
+§7(To ingredients under this one)@§7(Для ингредиентов ниже него)
+§7Tier 8@§7Уровень 8
+§6Gathering Speed: 150§7 (Very Fast)@§6Скорость Сбора: 150§7 (Очень Быстрая)
+§d- §7Attack Speed: §f+1 tier@§d- §7Скорость Атаки: §f+1 уровень
+§a✔§7 Class Req: Assassin/Ninja@§a✔§7 Класс Необ.: Ассасин/Ниндзя
+§c-40% §7Ingredient Effectiveness@§c-40% §7Эффективность Ингредиентов
+§f   Wind Prison@§f   Воздушная Тюрьма
+§f   - §7Duration: 3 seconds@§f   - §7Длительность: 3 секунды
+§f   - §7Damage Boost: +60%@§f   - §7Увеличение Урона: +60%
+§f   - §7Knockback: 8 blocks@§f   - §7Отдача: 8 блоков
+   §8✔ §fⒺ §7Scribing@   §8✔ §fⒺ §7Изготовление свитков
+   §8✔ §fⒶ §7Cooking@   §8✔ §fⒶ §7Кулинария
+§6Gathering Speed: 28§7 (Slow)@§6Скорость Сбора: 28§7 (Медленная)
+§a+33% §7Ingredient Effectiveness@§a+33% §7Эффективность Ингредиентов
+§f   - §7Duration: 4 seconds@§f   - §7Длительность: 4 секунды
+§f   - §7Damage Boost: +120%@§f   - §7Увеличение Урона: +120%
+§f   - §7Knockback: 16 blocks@§f   - §7Отдача: 16 блоков
+§f   - §7Duration: 5 seconds@§f   - §7Длительность: 5 секунд
+§f   - §7Damage Boost: +180%@§f   - §7Увеличение Урона: +180%
+§f   - §7Knockback: 24 blocks@§f   - §7Отдача: 24 блока
+§5Mythic Item [5]@§5Мифический Предмет [5]
+§b   - §7Duration: 9 seconds@§b   - §7Длительность: 9 секунд
+§b   - §7Damage Boost: +210%@§b   - §7Увеличение Урона: +210%
+§c   - §7Duration: 6.5 seconds@§c   - §7Длительность: 6.5 секунд
+§c   - §7Damage Boost: +90%@§c   - §7Увеличение Урона: +90%
+§e   - §7Chains: 9@§e   - §7Цепей: 9
+§7Tier 12@§7Уровень 12
+§6Gathering Speed: 330§7 (Very Fast)@§6Скорость Сбора: 330§7 (Очень Быстрая)
+§c-1 Charge@§c-1 Использование
+§2   - §7Radius: 5.5 blocks@§2   - §7Радиус: 5.5 блоков
+§aSet Item [3]@§aСет Предмет [3]
+§7(To ingredients to the right of this one)@§7(Для ингредиентов справа от него)
+§a+2 Charges@§a+2 Использования
+§bLegendary Item [4]@§bЛегендарный Предмет [4]
+§c   - §7Duration: 6 seconds@§c   - §7Длительность: 6 секунд
+§c   - §7Damage Boost: +70%@§c   - §7Увеличение Урона: +70%
+§a+40% §7Ingredient Effectiveness@§a+40% §7Эффективность Ингредиентов
+§a+80% §7Ingredient Effectiveness@§a+80% §7Эффективность Ингредиентов
+§dRare Item [4]@§dРедкий Предмет [4]
+§6Gathering Speed: 45§7 (Normal)@§6Скорость Сбора: 45§7 (Обычная)
+§c-180% §7Ingredient Effectiveness@§c-180% §7Эффективность Ингредиентов
+§7(To ingredients to the left of this one)@§7(Для ингредиентов слева от него)
+§7Tier 9@§7Уровень 9
+§6Gathering Speed: 190§7 (Very Fast)@§6Скорость Сбора: 190§7 (Очень Быстрая)
+§e   - §7Chains: 7@§e   - §7Цепей: 7
+§e   - §7Chains: 5@§e   - §7Цепей: 5
+§b   - §7Duration: 7 seconds@§b   - §7Длительность: 7 секунд
+§b   - §7Damage Boost: +90%@§b   - §7Увеличение Урона: +90%
+§a+1 Charge@§a+1 Использование
+§c   Endurance [Hit Taken]@§c   Выносливость [Урона Получено]
+§c   - §7Duration: 8 Sec.@§c   - §7Длительность: 8 Сек.
+§aSet Item [4]@§aСет Предмет [4]
+§7Tier 11@§7Уровень 11
+§6Gathering Speed: 275§7 (Very Fast)@§6Скорость Сбора: 275§7 (Очень Быстрая)
+§7Tier 10@§7Уровень 10
+§6Gathering Speed: 230§7 (Very Fast)@§6Скорость Сбора: 230§7 (Очень Быстрая)
+§d- §7Attack Speed: §f-1 tier@§d- §7Скорость Атаки: §f-1 уровень
+   §8✔ §fⒹ §7Jeweling@   §8✔ §fⒹ §7Изготовление аксессуаров
+§f   - §7Duration: 3.5 seconds@§f   - §7Длительность: 3.5 секунд
+§f   - §7Damage Boost: +90%@§f   - §7Увеличение Урона: +90%
+§f   - §7Knockback: 12 blocks@§f   - §7Отдача: 12 блоков
+§e   - §7Chains: 6@§e   - §7Цепей: 6
+§2   - §7Radius: 6 blocks@§2   - §7Радиус: 6 блоков
+§a+12% §7Ingredient Effectiveness@§a+12% §7Эффективность Ингредиентов
+§c-15% §7Ingredient Effectiveness@§c-15% §7Эффективность Ингредиентов
+§c-110% §7Ingredient Effectiveness@§c-110% §7Эффективность Ингредиентов
+§c-20% §7Ingredient Effectiveness@§c-20% §7Эффективность Ингредиентов
+§a+35% §7Ingredient Effectiveness@§a+35% §7Эффективность Ингредиентов
+§c-30% §7Ingredient Effectiveness@§c-30% §7Эффективность Ингредиентов
+§b   - §7Damage: +4% ❉ / Mana Used@§b   - §7Урон: +4% ❉ / Использованной Маны
+§f   - §7Duration: 6.0 Sec.@§f   - §7Длительность: 6.0 Сек.
+§dRare Item [5]@§dРедкий Предмет [5]
+§7Junk Item@§7Мусорный Предмет
+§3Crafting Item@§3Предмет для Крафта
+§f   - §7Duration: 4.0 Sec.@§f   - §7Длительность: 4.0 Сек.
+§b   - §7Duration: 7.5 seconds@§b   - §7Длительность: 7.5 секунд
+§b   - §7Damage Boost: +120%@§b   - §7Увеличение Урона: +120%
+§d- §7Attack Speed: §f+2 tier@§d- §7Скорость Атаки: §f+2 уровня
+§f   - §7Duration: 4.5 seconds@§f   - §7Длительность: 4.5 секунд
+§f   - §7Damage Boost: +150%@§f   - §7Увеличение Урона: +150%
+§f   - §7Knockback: 20 blocks@§f   - §7Отдача: 20 блоков
+§2   - §7Radius: 6.5 blocks@§2   - §7Радиус: 6.5 блоков
 
 ###########################Свитки/ключи/билеты#######################
 §7Teleports to: Selchar
