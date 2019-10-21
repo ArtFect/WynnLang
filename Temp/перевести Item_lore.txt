@@ -1248,57 +1248,56 @@
 §a - §7Coordinates: §f3533, 2374@§a - §7Координаты: §f3533, 2374
 §4CorruptedÀÀÀLostÀÀÀSanctuary Key@§4Corrupted Lost Sanctuary Ключ
 §a - §7Coordinates: §f3025, 6329@§a - §7Координаты: §f3025, 6329
-§7to fast-travel to §fMage Island  
-§a- §7Coords: §f870, -2830
-§a - §7Coordinates: §f2960, 8120
-§7to fast-travel to §fHalf Moon Island
-§a- §7Coords: §f-2530, -2527
-§4CorruptedÀÀÀIceÀÀÀBarrows Key
-§7to fast-travel to §fRooster Island
-§a- §7Coords: §f-100, -2475
-§a- §7Coords: §f-450, -2850
-§4CorruptedÀÀÀUnderworldÀÀÀCrypt Key
-§7to fast-travel to the §fBear Zoo 
-§a- §7Coords: §f-300, -2500
-§7to fast-travel to §fDurum Isles
-§a- §7Coords: §f500, -2900
-§7to fast-travel to §fZhight Island
-§fFallenÀÀÀFactory§7 once
-§a - §7Coordinates: §f-1646, -2608
-§fGalleon's Graveyard §7once.
-§a- §7Coords: §f-583, -3468
-§fSand-Swept Tomb §7once.
-§a- §7Coords: §f1409, -1830
-§7Right-click to use
-§7Cost: §f2 Soul Points
-
+§7to fast-travel to §fMage Island@§7для быстрой телепортации на §fMage Island
+§a- §7Coords: §f870, -2830@§a- §7Координаты: §f870, -2830
+§a - §7Coordinates: §f2960, 8120@§a - §7Координаты: §f2960, 8120
+§7to fast-travel to §fHalf Moon Island@§7для быстрой телепортации на §fHalf Moon Island
+§a- §7Coords: §f-2530, -2527@§a- §7Координаты: §f-2530, -2527
+§4CorruptedÀÀÀIceÀÀÀBarrows Key@§4Corrupted Ice Barrows Ключ
+§7to fast-travel to §fRooster Island@§7для быстрой телепортации на §fRooster Island
+§a- §7Coords: §f-100, -2475@§a- §7Координаты: §f-100, -2475
+§a- §7Coords: §f-450, -2850@§a- §7Координаты: §f-450, -2850
+§4CorruptedÀÀÀUnderworldÀÀÀCrypt Key@§4Corrupted Underworld Crypt Ключ
+§7to fast-travel to the §fBear Zoo@§7для быстрой телепортации на §fBear Zoo
+§a- §7Coords: §f-300, -2500@§a- §7Координаты: §f-300, -2500
+§7to fast-travel to §fDurum Isles@§7для быстрой телепортации на §fDurum Isles
+§a- §7Coords: §f500, -2900@§a- §7Координаты: §f500, -2900
+§7to fast-travel to §fZhight Island@§7для быстрой телепортации на §fZhight Island
+§fFallenÀÀÀFactory§7 once@§fFallen Factory§7 единожды
+§a - §7Coordinates: §f-1646, -2608@§a - §7Координаты: §f-1646, -2608
+§fGalleon's Graveyard §7once.@§fGalleon's Graveyard §7единожды
+§a- §7Coords: §f-583, -3468@§a- §7Координаты: §f-583, -3468
+§fSand-Swept Tomb §7once.@§fSand-Swept Tomb §7единожды
+§a- §7Coords: §f1409, -1830@§a- §7Координаты: §f1409, -1830
+§7Right-click to use@§7Правый клик для использования
+§7Cost: §f2 Soul Points@§7Цена: §f2 Очка Душ
 
 ############################Зелья###########################
-§4Effect:
-§8§8Drinking this potion will
-§8regenerate your health over
-§83 seconds.
-§3Effect:
-§3- §7Mana: §f30§b ✺
-§3- §7Duration: §f10 Seconds
-§8regenerate your mana over
-§810 seconds.
-§3- §7Mana: §f18§b ✺
-§3- §7Duration: §f6 Seconds
-§86 seconds.
-§6- §7Effect: §f20% XP
-§6- §7Duration: §f150 Seconds
-§8boost your XP bonus by 20%
-§8for 150 seconds.
-§8boost your ✹ Defence by
-§a- §7Effect: §f+40§c ✹ Defence
-§a- §7Effect: §f+1300 Health
-§a- §7Duration: §f300 Seconds
-§840 and boost your Health
-§8by +1300 for 300 seconds
-§a- §7Effect: §f+71§2 ✤ Strength
-§a- §7Effect: §f+50% Melee Damage
-§a- §7Duration: §f480 Seconds
+§4Effect:@§4Эффект:
+§8§8Drinking this potion will@§8§8Употребление этого зелья 
+§8regenerate your health over@§8восстановит твое здоровье в течение 
+§83 seconds.@§83 секунд.
+§3Effect:@§3Эффект:
+§3- §7Mana: §f30§b ✺@§3- §7Мана: §f30§b ✺
+§3- §7Duration: §f10 Seconds@§3- §7Длительность: §f10 Секунд
+§8regenerate your mana over@§8восстановит твою ману в течение
+§810 seconds.@§810 секунд.
+§3- §7Mana: §f18§b ✺@§3- §7Мана: §f18§b ✺
+§3- §7Duration: §f6 Seconds@§3- §7Длительность: §f6 Секунд
+§86 seconds.@§86 секунд.
+§6- §7Effect: §f20% XP@§6- §7Эффект: §f20% XP
+§6- §7Duration: §f150 Seconds@§6- §7Длительность: §f150 Секунд
+§8boost your XP bonus by 20%@§8увеличит твой XP бонус на 20%
+§8for 150 seconds.@§8в течение 150 секунд.
+§8boost your ✹ Defence by@§8увеличит твою ✹ Защиту на
+§a- §7Effect: §f+40§c ✹ Defence@§a- §7Эффект: §f+40§c ✹ Защита
+§a- §7Effect: §f+1300 Health@§a- §7Эффект: §f+1300 Здоровья
+§a- §7Duration: §f300 Seconds@§a- §7Длительность: §f300 Секунд
+§840 and boost your Health@§840 и увеличит твое Здоровье
+§8by +1300 for 300 seconds@§8на +1300 в течение 300 секунд
+§a- §7Effect: §f+71§2 ✤ Strength@§a- §7Эффект: §f+71§2 ✤ Силы
+§a- §7Effect: §f+50% Melee Damage@§a- §7Эффект: §f+50% Ближнего Урона
+§a- §7Duration: §f480 Seconds@§a- §7Длительность: §f480 Секунд
 §871 and boost your Melee
 §8Damage by +50% for 480 seconds
 §a- §7Effect: §f+40§2 ✤ Strength
