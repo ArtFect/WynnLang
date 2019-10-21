@@ -1024,30 +1024,30 @@
 §dRare Item@§dРедкий Предмет
 §aSet Item@§aСет Предмет
 §cUntradable Item@§cНепродаваемый Предмет
-§eUnique Item
-§8Crafting Ingredient
-§7This item's powers have
-§7been sealed. Take it to
-§7an identifier to
-§7unlock its potential.
-§aInfo:
-§a- §7Tier: §eUnique
-§fNormal Item
-§7Fast Attack Speed
-§a✔§7 Class Req: Mage/Dark Wizard
-§7Tier 3
-§7Tier 1
-§6Gathering Speed: 8§7 (Slow)
-§3Gathering Tool
-§7Normal Attack Speed
-   §8✖ §fⒺ §7Scribing
-   §8✔ §fⒻ §7Tailoring
-   §8✔ §fⒽ §7Armouring
-§a- §7Tier: §bLegendary
-   §8✖ §fⒾ §7Woodworking
-   §8✖ §fⒻ §7Tailoring
-   §8✖ §fⒶ §7Cooking
-   §8✖ §fⓁ §7Alchemism
+§eUnique Item@§eУникальный Предмет
+§8Crafting Ingredient@§8Ингредиент для крафта
+§7This item's powers have@§7Сила этого предмета
+§7been sealed. Take it to@§7запечатана. Отнеси его к
+§7an identifier to@§7идентификатору, чтобы
+§7unlock its potential.@§7раскрыть его потенциал.
+§aInfo:@§aИнфо:
+§a- §7Tier: §eUnique@§a- §7Уровень: §eУникальный
+§fNormal Item@§fОбычный Предмет
+§7Fast Attack Speed@§7Быстрая Скорость Атаки
+§a✔§7 Class Req: Mage/Dark Wizard@§a✔§7 Класс Необ.: Маг/Темный Волшебник
+§7Tier 3@§7Уровень 3
+§7Tier 1@§7Уровень 1
+§6Gathering Speed: 8§7 (Slow)@§6Скорость Сбора: 8§7 (Медленная)
+§3Gathering Tool@§3Инструмент для Сбора
+§7Normal Attack Speed@§7Обычная Скорость Атаки
+   §8✖ §fⒺ §7Scribing@   §8✖ §fⒺ §7Изготовление свитков
+   §8✔ §fⒻ §7Tailoring@   §8✔ §fⒻ §7Портняжное дело
+   §8✔ §fⒽ §7Armouring@   §8✔ §fⒽ §7Изготовление брони
+§a- §7Tier: §bLegendary@§a- §7Уровень: §bЛегендарный
+   §8✖ §fⒾ §7Woodworking@   §8✖ §fⒾ §7Деревообработка
+   §8✖ §fⒻ §7Tailoring@   §8✖ §fⒻ §7Портняжное дело
+   §8✖ §fⒶ §7Cooking@   §8✖ §fⒶ §7Кулинария
+   §8✖ §fⓁ §7Alchemism@   §8✖ §fⓁ §7Алхимия
    §8✖ §fⒽ §7Armouring
    §8✔ §fⒼ §7Weaponsmithing
    §8✔ §fⒾ §7Woodworking
