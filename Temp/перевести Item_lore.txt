@@ -1048,56 +1048,56 @@
    §8✖ §fⒻ §7Tailoring@   §8✖ §fⒻ §7Портняжное дело
    §8✖ §fⒶ §7Cooking@   §8✖ §fⒶ §7Кулинария
    §8✖ §fⓁ §7Alchemism@   §8✖ §fⓁ §7Алхимия
-   §8✖ §fⒽ §7Armouring
-   §8✔ §fⒼ §7Weaponsmithing
-   §8✔ §fⒾ §7Woodworking
-§cUntradable
-§8Junk Item
-   §8✖ §fⒹ §7Jeweling
-§eUnique Item [4]
-§7Tier 7
-§6Gathering Speed: 120§7 (Very Fast)
-§f   Dodge [Near Mobs]
-§f   - §7Duration: 2.0 Sec.
-§c   - §7Duration: 7 seconds
-§c   - §7Damage Boost: +110%
-§c-200% §7Ingredient Effectiveness
-§3Crafted Food
-§a✔§7 Class Req: Warrior/Knight
-§7Very Fast Attack Speed
-§c✖§7 Class Req: Assassin/Ninja
-   §8✖ §fⒼ §7Weaponsmithing
-§a✔§7 Class Req: Archer/Hunter
-§7Tier 5
-§6Gathering Speed: 65§7 (Fast)
-§b   Curse
-§b   - §7Duration: 8 seconds
-§b   - §7Damage Boost: +150%
-§c   Courage
-§c   - §7Duration: 8 seconds
-§c   - §7Damage Boost: +150%
-§5Mythic Item
-§5Mythic Item [3]
-§5Mythic Item [4]
-§a+130% §7Ingredient Effectiveness
-§7Tier 6
-§6Gathering Speed: 90§7 (Fast)
-§c-100% §7Ingredient Effectiveness
-§a+75% §7Ingredient Effectiveness
-§b   - §7Damage: +3% ❉ / Mana Used
-§a+30% §7Ingredient Effectiveness
-§7(To ingredients touching this one)
-§e   Kill Streak [Mob Killed]
-§e   - §7Duration: 5 Sec.
-§7(To ingredients above this one)
-§7Misc. Item
-§b   - §7Damage: +5% ❉ / Mana Used
-§7Tier 4
-§7(To ingredients not touching this one)
-§e   Chain Lightning
-§e   - §7Chains: 8
-§a- §7Tier: §aSet
-§3Crafted Potion
+   §8✖ §fⒽ §7Armouring@   §8✖ §fⒽ §7Изготовление брони
+   §8✔ §fⒼ §7Weaponsmithing@   §8✔ §fⒼ §7Оружейное дело
+   §8✔ §fⒾ §7Woodworking@   §8✔ §fⒾ §7Деревообработка
+   §8✖ §fⒹ §7Jeweling@   §8✖ §fⒹ §7Изготовление аксессуаров
+   §8✖ §fⒼ §7Weaponsmithing@   §8✖ §fⒼ §7Оружейное дело
+§cUntradable@§cНепродаваемый
+§8Junk Item@§8Мусорный Предмет
+§eUnique Item [4]@§eУникальный Предмет [4]
+§7Tier 7@§7Уровень 7
+§6Gathering Speed: 120§7 (Very Fast)@§6Скорость Сбора: 120§7 (Очень Быстрая)
+§f   Dodge [Near Mobs]@§f   Уклонение [Рядом с Мобами]
+§f   - §7Duration: 2.0 Sec.@§f   - §7Длительность: 2.0 Сек.
+§c   - §7Duration: 7 seconds@§c   - §7Длительность: 7 секунд
+§c   - §7Damage Boost: +110%@§c   - §7Увеличение Урона: +110%
+§c-200% §7Ingredient Effectiveness@§c-200% §7Эффективность Ингредиентов
+§3Crafted Food@§3Крафтовая Еда
+§a✔§7 Class Req: Warrior/Knight@§a✔§7 Класс Необ.: Воин/Рыцарь
+§7Very Fast Attack Speed@§7Очень Быстрая Скорость Атаки
+§c✖§7 Class Req: Assassin/Ninja@§c✖§7 Класс Необ.: Ассасин/Ниндзя
+§a✔§7 Class Req: Archer/Hunter@§a✔§7 Класс Необ.: Лучник/Охотник
+§7Tier 5@§7Уровень 5
+§6Gathering Speed: 65§7 (Fast)@§6Скорость Сбора: 65§7 (Быстрая)
+§b   Curse@§b   Проклятие
+§b   - §7Duration: 8 seconds@§b   - §7Длительность: 8 секунд
+§b   - §7Damage Boost: +150%@§b   - §7Увеличение Урона: +150%
+§c   Courage@§c   Кураж
+§c   - §7Duration: 8 seconds@§c   - §7Длительность: 8 секунд
+§c   - §7Damage Boost: +150%@§c   - §7Увеличение Урона: +150%
+§5Mythic Item@§5Мифический Предмет
+§5Mythic Item [3]@§5Мифический Предмет [3]
+§5Mythic Item [4]@§5Мифический Предмет [4]
+§a+130% §7Ingredient Effectiveness@§a+130% §7Эффективность Ингредиентов
+§7Tier 6@§7Уровень 6
+§6Gathering Speed: 90§7 (Fast)@§6Скорость Сбора: 90§7 (Быстрая)
+§c-100% §7Ingredient Effectiveness@§c-100% §7Эффективность Ингредиентов
+§a+75% §7Ingredient Effectiveness@§a+75% §7Эффективность Ингредиентов
+§b   - §7Damage: +3% ❉ / Mana Used@§b   - §7Урон: +3% ❉ / Использованной Маны
+§a+30% §7Ingredient Effectiveness@§a+30% §7Эффективность Ингредиентов
+§7(To ingredients touching this one)@§7(Для ингредиентов касающихся него)
+§e   Kill Streak [Mob Killed]@§e   Серия Убийств [Убитые Мобы]
+§e   - §7Duration: 5 Sec.@§e   - §7Длительность: 5 Сек.
+§7(To ingredients above this one)@§7(Для ингредиентов выше него)
+§7Misc. Item@§7Прочий Предмет
+§b   - §7Damage: +5% ❉ / Mana Used@§b   - §7Урон: +5% ❉ / Использованной Маны
+§7Tier 4@§7Уровень 4
+§7(To ingredients not touching this one)@§7(Для ингредиентов не касающихся него)
+§e   Chain Lightning@§e   Цепная Молния
+§e   - §7Chains: 8@§e   - §7Цепей: 8
+§a- §7Tier: §aSet@§a- §7Уровень: §aСет
+§3Crafted Potion@§3Крафтовое Зелье
 §a+25% §7Ingredient Effectiveness
 §7(To ingredients under this one)
 §7Tier 8
