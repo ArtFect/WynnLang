@@ -1295,59 +1295,59 @@
 §a- §7Duration: §f300 Seconds@§a- §7Длительность: §f300 Секунд
 §840 and boost your Health@§840 и увеличит твое Здоровье
 §8by +1300 for 300 seconds@§8на +1300 в течение 300 секунд
-§a- §7Effect: §f+71§2 ✤ Strength@§a- §7Эффект: §f+71§2 ✤ Силы
-§a- §7Effect: §f+50% Melee Damage@§a- §7Эффект: §f+50% Ближнего Урона
+§a- §7Effect: §f+71§2 ✤ Strength@§a- §7Эффект: §f+71§2 ✤ Сила
+§a- §7Effect: §f+50% Melee Damage@§a- §7Эффект: §f+50% Ближний Урон
 §a- §7Duration: §f480 Seconds@§a- §7Длительность: §f480 Секунд
-§871 and boost your Melee
-§8Damage by +50% for 480 seconds
-§a- §7Effect: §f+40§2 ✤ Strength
-§a- §7Effect: §f+30% Melee Damage
-§840 and boost your Melee
-§8Damage by +30% for 300 seconds
-§a- §7Effect: §f+57§2 ✤ Strength
-§a- §7Effect: §f+42% Melee Damage
-§a- §7Duration: §f420 Seconds
-§857 and boost your Melee
-§8Damage by +42% for 420 seconds
-§7+15% Speed boost per
-§7boat within 20 blocks of you
-§6Effect:
-§6- §7Effect: §f15% XP
-§6- §7Duration: §f90 Seconds
-§8boost your XP bonus by 15%
-§8for 90 seconds.
-§3- §7Mana: §f42§b ✺
-§3- §7Duration: §f14 Seconds
-§814 seconds.
-§a- §7Effect: §f+34§2 ✤ Strength
-§a- §7Effect: §f+24% Melee Damage
-§a- §7Duration: §f240 Seconds
-§834 and boost your Melee
-§8Damage by +24% for 240 seconds
-§a- §7Effect: §f+34§e ✦ Dexterity
-§a- §7Effect: §f+16 Melee Damage
-§8Damage by +16 for 240 seconds
-§a- §7Effect: §f+34§b ❉ Intelligence
-§a- §7Effect: §f+20% Spell Damage
-§8by 34 and boost your Spell
-§8Damage by +20% for 240 seconds
-§a- §7Effect: §f+34§c ✹ Defence
-§a- §7Effect: §f+600 Health
-§834 and boost your Health
-§8by +600 for 240 seconds
-§a- §7Effect: §f+30§e ✦ Dexterity
-§a- §7Effect: §f+8 Melee Damage
-§8Damage by +8 for 180 seconds
-§a- §7Effect: §f+30§f ❋ Agility
-§a- §7Effect: §f+16% Walk Speed
-§830 and boost your Walk Speed
-§8by +16% for 180 seconds
-§a- §7Effect: §f+30§b ❉ Intelligence
-§a- §7Effect: §f+14% Spell Damage
-§8by 30 and boost your Spell
-§8Damage by +14% for 180 seconds
-§a- §7Effect: §f+30§c ✹ Defence
-§a- §7Effect: §f+280 Health
+§871 and boost your Melee@§871 и увеличит твой Ближний
+§8Damage by +50% for 480 seconds@§8Урон на +50% в течение 480 секунд
+§a- §7Effect: §f+40§2 ✤ Strength@§a- §7Эффект: §f+40§2 ✤ Сила
+§a- §7Effect: §f+30% Melee Damage@§a- §7Эффект: §f+30% Ближний Урон
+§840 and boost your Melee@§840 и увеличит твой Ближний
+§8Damage by +30% for 300 seconds@§8Урон на +30% в течение 300 секунд
+§a- §7Effect: §f+57§2 ✤ Strength@§a- §7Эффект: §f+57§2 ✤ Сила
+§a- §7Effect: §f+42% Melee Damage@§a- §7Эффект: §f+42% Ближний Урон
+§a- §7Duration: §f420 Seconds@§a- §7Длительность: §f420 Секунд
+§857 and boost your Melee@§857 и увеличит твой Ближний
+§8Damage by +42% for 420 seconds@§8Урон на +42% в течение 420 секунд
+§7+15% Speed boost per@§7+15% увеличения Скорости на
+§7boat within 20 blocks of you@§7лодку в пределах 20 блоков от тебя
+§6Effect:@§6Эффект:
+§6- §7Effect: §f15% XP@§6- §7Эффект: §f15% XP
+§6- §7Duration: §f90 Seconds@§6- §7Длительность: §f90 Секунд
+§8boost your XP bonus by 15%@§8увеличит твой XP бонус на 15%
+§8for 90 seconds.@§8в течение 90 секунд.
+§3- §7Mana: §f42§b ✺@§3- §7Мана: §f42§b ✺
+§3- §7Duration: §f14 Seconds@§3- §7Длительность: §f14 Секунд
+§814 seconds.@§814 секунд.
+§a- §7Effect: §f+34§2 ✤ Strength@§a- §7Эффект: §f+34§2 ✤ Сила
+§a- §7Effect: §f+24% Melee Damage@§a- §7Эффект: §f+24% Ближний Урон
+§a- §7Duration: §f240 Seconds@§a- §7Длительность: §f240 Секунд
+§834 and boost your Melee@§834 и увеличит твой Ближний
+§8Damage by +24% for 240 seconds@§8Урон на +24% в течение 240 секунд
+§a- §7Effect: §f+34§e ✦ Dexterity@§a- §7Эффект: §f+34§e ✦ Сноровка
+§a- §7Effect: §f+16 Melee Damage@§a- §7Эффект: §f+16 Ближний Урон
+§8Damage by +16 for 240 seconds@§8Урон на +16 в течение 240 секунд
+§a- §7Effect: §f+34§b ❉ Intelligence@§a- §7Эффект: §f+34§b ❉ Интеллекта
+§a- §7Effect: §f+20% Spell Damage@§a- §7Эффект: §f+20% Урон Заклинаний
+§8by 34 and boost your Spell@§8на 34 и увеличивает твой Заклинаний
+§8Damage by +20% for 240 seconds@§8Урон на +20% в течение 240 секунд
+§a- §7Effect: §f+34§c ✹ Defence@§a- §7Эффект: §f+34§c ✹ Защита
+§a- §7Effect: §f+600 Health@§a- §7Эффект: §f+600 Здоровье
+§834 and boost your Health@§834 и увеличивает твое Здоровье
+§8by +600 for 240 seconds@§8на +600 в течение 240 секунд
+§a- §7Effect: §f+30§e ✦ Dexterity@§a- §7Эффект: §f+30§e ✦ Сноровка
+§a- §7Effect: §f+8 Melee Damage@§a- §7Эффект: §f+8 Ближний Урон
+§8Damage by +8 for 180 seconds@§8Урон на +8 в течение 180 секунд
+§a- §7Effect: §f+30§f ❋ Agility@§a- §7Эффект: §f+30§f ❋ Ловкость
+§a- §7Effect: §f+16% Walk Speed@§a- §7Эффект: §f+16% Скорость
+§830 and boost your Walk Speed@§830 и увеличивает твою Скорость
+§8by +16% for 180 seconds@§8на +16% в течение 180 секунд
+§a- §7Effect: §f+30§b ❉ Intelligence@§a- §7Эффект: §f+30§b ❉ Интеллекта
+§a- §7Effect: §f+14% Spell Damage@§a- §7Эффект: §f+14% Урон Заклинаний
+§8by 30 and boost your Spell@§8на 30 и увеличивает твой Заклинаний
+§8Damage by +14% for 180 seconds@§8Урон на +14% в течение 180 секунд
+§a- §7Effect: §f+30§c ✹ Defence@§a- §7Эффект: §f+30§c ✹ Защита
+§a- §7Effect: §f+280 Health@§a- §7Эффект: §f+280 Здоровье
 §830 and boost your Health
 §8by +280 for 180 seconds
 §3- §7Mana: §f12§b ✺
