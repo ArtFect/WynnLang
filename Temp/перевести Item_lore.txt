@@ -1423,67 +1423,67 @@
 §818 seconds.@§818 секунд.
 §a- §7Effect: §f+57§e ✦ Dexterity@§a- §7Эффект: §f+57§e ✦ Сноровка
 §a- §7Effect: §f+64 Melee Damage@§a- §7Эффект: §f+64 Ближний Урон
-§8Damage by +64 for 420 seconds
-§a- §7Effect: §f+34§f ❋ Agility
-§a- §7Effect: §f+22% Walk Speed
-§834 and boost your Walk Speed
-§8by +22% for 240 seconds
-§a- §7Duration: §f360 Seconds
-§a- §7Effect: §f+47§2 ✤ Strength
-§a- §7Effect: §f+36% Melee Damage
-§847 and boost your Melee
-§8Damage by +36% for 360 seconds
-§a- §7Effect: §f+47§e ✦ Dexterity
-§a- §7Effect: §f+44 Melee Damage
-§8Damage by +44 for 360 seconds
-§a- §7Effect: §f+47§b ❉ Intelligence
-§a- §7Effect: §f+32% Spell Damage
-§8by 47 and boost your Spell
-§8Damage by +32% for 360 seconds
-§a- §7Effect: §f+47§c ✹ Defence
-§a- §7Effect: §f+1880 Health
-§847 and boost your Health
-§8by +1880 for 360 seconds
-§a- §7Effect: §f+57§b ❉ Intelligence
-§a- §7Effect: §f+38% Spell Damage
-§8by 57 and boost your Spell
-§8Damage by +38% for 420 seconds
-§a- §7Effect: §f+57§f ❋ Agility
-§a- §7Effect: §f+40% Walk Speed
-§857 and boost your Walk Speed
-§8by +40% for 420 seconds
-§a- §7Effect: §f+57§c ✹ Defence
-§a- §7Effect: §f+3400 Health
-§857 and boost your Health
-§8by +3400 for 420 seconds
-§a- §7Effect: §f+14§2 ✤ Strength
-§814 and boost your Melee
-§a- §7Effect: §f+14§e ✦ Dexterity
-§a- §7Effect: §f+14§b ❉ Intelligence
-§8by 14 and boost your Spell
-§a- §7Effect: §f+14§c ✹ Defence
-§814 and boost your Health
-§a- §7Effect: §f+14§f ❋ Agility
-§814 and boost your Walk Speed
-§6- §7Effect: §f25% XP
-§6- §7Duration: §f210 Seconds
-§8boost your XP bonus by 25%
-§8for 210 seconds.
-§a- §7Effect: §f+71§b ❉ Intelligence
-§a- §7Effect: §f+44% Spell Damage
-§8by 71 and boost your Spell
-§8Damage by +44% for 480 seconds
-§a- §7Effect: §f+71§c ✹ Defence
-§a- §7Effect: §f+6000 Health
-§871 and boost your Health
-§8by +6000 for 480 seconds
-§a- §7Effect: §f+71§f ❋ Agility
-§a- §7Effect: §f+50% Walk Speed
-§871 and boost your Walk Speed
-§8by +50% for 480 seconds
-§a- §7Effect: §f+71§e ✦ Dexterity
-§a- §7Effect: §f+100 Melee Damage
-§8Damage by +100 for 480 seconds
+§8Damage by +64 for 420 seconds@§8Урон на +64 в течение 420 секунд
+§a- §7Effect: §f+34§f ❋ Agility@§a- §7Эффект: §f+34§f ❋ Ловкость
+§a- §7Effect: §f+22% Walk Speed@§a- §7Эффект: §f+22% Скорость
+§834 and boost your Walk Speed@§834 и увеличивает твою Скорость
+§8by +22% for 240 seconds@§8на +22% в течение 240 секунд
+§a- §7Duration: §f360 Seconds@§a- §7Длительность: §f360 Секунд
+§a- §7Effect: §f+47§2 ✤ Strength@§a- §7Эффект: §f+47§2 ✤ Сила
+§a- §7Effect: §f+36% Melee Damage@§a- §7Эффект: §f+36% Ближний Урон
+§847 and boost your Melee@§847 и увеличивает твой Ближний
+§8Damage by +36% for 360 seconds@§8Урон на +36% в течение 360 секунд
+§a- §7Effect: §f+47§e ✦ Dexterity@§a- §7Эффект: §f+47§e ✦ Сноровка
+§a- §7Effect: §f+44 Melee Damage@§a- §7Эффект: §f+44 Ближний Урон
+§8Damage by +44 for 360 seconds@§8Урон на +44 в течение 360 секунд
+§a- §7Effect: §f+47§b ❉ Intelligence@§a- §7Эффект: §f+47§b ❉ Интеллект
+§a- §7Effect: §f+32% Spell Damage@§a- §7Эффект: §f+32% Урон Заклинаний
+§8by 47 and boost your Spell@§8на 47 и увеличивает твой Заклинаний
+§8Damage by +32% for 360 seconds@§8Урон на +32% в течение 360 секунд
+§a- §7Effect: §f+47§c ✹ Defence@§a- §7Эффект: §f+47§c ✹ Защита
+§a- §7Effect: §f+1880 Health@§a- §7Эффект: §f+1880 Здоровье
+§847 and boost your Health@§847 и увеличивает твое Здоровье
+§8by +1880 for 360 seconds@§8на +1880 в течение 360 секунд
+§a- §7Effect: §f+57§b ❉ Intelligence@§a- §7Эффект: §f+57§b ❉ Интеллект
+§a- §7Effect: §f+38% Spell Damage@§a- §7Эффект: §f+38% Урон Заклинаний
+§8by 57 and boost your Spell@§8на 57 и увеличивает твой Заклинаний
+§8Damage by +38% for 420 seconds@§8Урон на +38% в течение 420 секунд
+§a- §7Effect: §f+57§f ❋ Agility@§a- §7Эффект: §f+57§f ❋ Ловкость
+§a- §7Effect: §f+40% Walk Speed@§a- §7Эффект: §f+40% Скорость
+§857 and boost your Walk Speed@§857 и увеличивает твою Скорость
+§8by +40% for 420 seconds@§8на +40% в течение 420 секунд
+§a- §7Effect: §f+57§c ✹ Defence@§a- §7Эффект: §f+57§c ✹ Защита
+§a- §7Effect: §f+3400 Health@§a- §7Эффект: §f+3400 Здоровье
+§857 and boost your Health@§857 и увеличивает твое Здоровье
+§8by +3400 for 420 seconds@§8на +3400 в течение 420 секунд
+§a- §7Effect: §f+14§2 ✤ Strength@§a- §7Эффект: §f+14§2 ✤ Сила
+§814 and boost your Melee@§814 и увеличивает твой Ближний
+§a- §7Effect: §f+14§e ✦ Dexterity@§a- §7Эффект: §f+14§e ✦ Сноровка
+§a- §7Effect: §f+14§b ❉ Intelligence@§a- §7Эффект: §f+14§b ❉ Интеллект
+§8by 14 and boost your Spell@§8на 14 и увеличивает твой Заклинаний
+§a- §7Effect: §f+14§c ✹ Defence@§a- §7Эффект: §f+14§c ✹ Защита
+§814 and boost your Health@§814 и увеличивает твое Здоровье
+§a- §7Effect: §f+14§f ❋ Agility@§a- §7Эффект: §f+14§f ❋ Ловкость
+§814 and boost your Walk Speed@§814 и увеличивает твою Скорость
+§6- §7Effect: §f25% XP@§6- §7Эффект: §f25% XP
+§6- §7Duration: §f210 Seconds@§6- §7Длительность: §f210 Секунд
+§8boost your XP bonus by 25%@§8увеличивает твой XP бонус на 25%
+§8for 210 seconds.@§8в течение 210 секунд.
+§a- §7Effect: §f+71§b ❉ Intelligence@§a- §7Эффект: §f+71§b ❉ Интеллект
+§a- §7Effect: §f+44% Spell Damage@§a- §7Эффект: §f+44% Урон Заклинаний
+§8by 71 and boost your Spell@§8на 71 и увеличивает твой Заклинаний
+§8Damage by +44% for 480 seconds@§8Урон на +44% в течение 480 секунд
+§a- §7Effect: §f+71§c ✹ Defence@§a- §7Эффект: §f+71§c ✹ Защита
+§a- §7Effect: §f+6000 Health@§a- §7Эффект: §f+6000 Здоровье
+§871 and boost your Health@§871 и увеличивает твое Здоровье
+§8by +6000 for 480 seconds@§8на +6000 в течение 480 секунд
+§a- §7Effect: §f+71§f ❋ Agility@§a- §7Эффект: §f+71§f ❋ Ловкость
+§a- §7Effect: §f+50% Walk Speed@§a- §7Эффект: §f+50% Скорость
+§871 and boost your Walk Speed@§871 и увеличивает твою Скорость
+§8by +50% for 480 seconds@§8на +50% в течение 480 секунд
+§a- §7Effect: §f+71§e ✦ Dexterity@§a- §7Эффект: §f+71§e ✦ Сноровка
+§a- §7Effect: §f+100 Melee Damage@§a- §7Эффект: §f+100 Ближний Урон
+§8Damage by +100 for 480 seconds@§8Урон на +100 в течение 480 секунд
 
 #########################Интерфейсы#############################
 §7Left-Click to change
