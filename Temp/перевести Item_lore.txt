@@ -1183,71 +1183,71 @@
 §2   - §7Radius: 6.5 blocks@§2   - §7Радиус: 6.5 блоков
 
 ###########################Свитки/ключи/билеты#######################
-§7Teleports to: Selchar
-§4Cost: §c1 Soul Point
-§fDecrepitÀÀÀSewers§7 once
-§a - §7Coordinates: §f-936, -1888
-§fInfestedÀÀÀPit§7 once
-§a - §7Coordinates: §f-293, -1834
-§3Info:
-§3- §7Cost: §f1 Soul Point
-§7Grants access to the
-§fUndergrowthÀÀÀRuins§7 once
-§aDungeon Info:
-§a - §7Coordinates: §f-638, -856
-§7Use this at the §fV.S.S. Seaskipper
-§7to fast-travel to §fSelchar
-§aIsland Info:
-§a- §7Coords: §f70, -3070
-§a- §7Status: §fPeaceful
-§fSand-SweptÀÀÀTomb§7 once
-§a - §7Coordinates: §f1432, -1830
-§fLostÀÀÀSanctuary§7 once
-§a - §7Coordinates: §f-264, -1054
-§fUnderworldÀÀÀCrypt§7 once
-§a - §7Coordinates: §f290, -1950
-§fIceÀÀÀBarrows§7 once
-§a - §7Coordinates: §f179, -665
-§fCorruptedÀÀÀUnderworldÀÀÀCrypt§7 once
-§fCorruptedÀÀÀSand-SweptÀÀÀTomb§7 once
-§fCorruptedÀÀÀInfestedÀÀÀPit§7 once
-§fCorruptedÀÀÀIceÀÀÀBarrows§7 once
-§fCorruptedÀÀÀLostÀÀÀSanctuary§7 once
-§a- §7Coords: §f-600, -3550
-§7to fast-travel to §fZight Island
-§fCorruptedÀÀÀDecrepitÀÀÀSewers§7 once
-§7to fast-travel to §fNemract 
-§a- §7Coords: §f60, -2215
-§7to fast-travel to §fPirate Cove
-§a- §7Coords: §f-730, -3115
-§7to fast-travel to §fVolcanic Isles 
-§a- §7Coords: §f-800, -3775
-§a- §7Status: §fHostile
-§7to fast-travel to §fGalleon's Graveyard
-§a-§7 Level: §f60
-§a-§7 Coords: §f-600, -3550
-§a-§7 Status: §fPeaceful
-§7to fast-travel to §fMaro Peaks
-§a- §7Coords: §f130, -3770
-§7to fast-travel to §fDead Island 
-§a- §7Coords: §f770, -3880
-§7to fast-travel to §fJofash Dock  
-§a- §7Coords: §f1315, -4065
-§fGalleon'sÀÀÀGraveyard§7 once
-§a - §7Coordinates: §f-584, -3486
-§7to fast-travel to §fLlevigar 
-§a- §7Coords: §f-2125, -4275
-§a - §7Coordinates: §f3424, 3510
-§7to fast-travel to §fNodguj Island  
-§a- §7Coords: §f700, -3330
-§7to fast-travel to §fSkiens Island
-§a- §7Coords: §f370, -3470
-§a - §7Coordinates: §f3313, 5346
-§a - §7Coordinates: §f3331, 4184
-§4CorruptedÀÀÀDecrepitÀÀÀSewers Key
-§a - §7Coordinates: §f3533, 2374
-§4CorruptedÀÀÀLostÀÀÀSanctuary Key
-§a - §7Coordinates: §f3025, 6329
+§7Teleports to: Selchar@§7Телепорт в: Selchar
+§4Cost: §c1 Soul Point@§4Цена: §c1 Очко Душ
+§fDecrepitÀÀÀSewers§7 once@§fDecrepit Sewers§7 единожды
+§a - §7Coordinates: §f-936, -1888@§a - §7Координаты: §f-936, -1888
+§fInfestedÀÀÀPit§7 once@§fInfested Pit§7 единожды
+§a - §7Coordinates: §f-293, -1834@§a - §7Координаты: §f-293, -1834
+§3Info:@§3Инфо:
+§3- §7Cost: §f1 Soul Point@§3- §7Цена: §f1 Очко Душ
+§7Grants access to the@§7Гарантирует доступ в
+§fUndergrowthÀÀÀRuins§7 once@§fUndergrowth Ruins§7 единожды
+§aDungeon Info:@§aДанж Инфо:
+§a - §7Coordinates: §f-638, -856@§a - §7Координаты: §f-638, -856
+§7Use this at the §fV.S.S. Seaskipper@§7Используй это у §fКорабельщика
+§7to fast-travel to §fSelchar@§7для быстрой телепортации в §fSelchar
+§aIsland Info:@§aОстров Инфо:
+§a- §7Coords: §f70, -3070@§a- §7Координаты: §f70, -3070
+§a- §7Status: §fPeaceful@§a- §7Статус: §fМирный
+§fSand-SweptÀÀÀTomb§7 once@§fSand-Swept Tomb§7 единожды
+§a - §7Coordinates: §f1432, -1830@§a - §7Координаты: §f1432, -1830
+§fLostÀÀÀSanctuary§7 once@§fLost Sanctuary§7 единожды
+§a - §7Coordinates: §f-264, -1054@§a - §7Координаты: §f-264, -1054
+§fUnderworldÀÀÀCrypt§7 once@§fUnderworld Crypt§7 единожды
+§a - §7Coordinates: §f290, -1950@§a - §7Координаты: §f290, -1950
+§fIceÀÀÀBarrows§7 once@§fIce Barrows§7 единожды
+§a - §7Coordinates: §f179, -665@§a - §7Координаты: §f179, -665
+§fCorruptedÀÀÀUnderworldÀÀÀCrypt§7 once@§fCorruptedÀÀÀUnderworldÀÀÀCrypt§7 единожды
+§fCorruptedÀÀÀSand-SweptÀÀÀTomb§7 once@§fCorruptedÀÀÀSand-SweptÀÀÀTomb§7 единожды
+§fCorruptedÀÀÀInfestedÀÀÀPit§7 once@§fCorruptedÀÀÀInfestedÀÀÀPit§7 единожды
+§fCorruptedÀÀÀIceÀÀÀBarrows§7 once@§fCorruptedÀÀÀIceÀÀÀBarrows§7 единожды
+§fCorruptedÀÀÀLostÀÀÀSanctuary§7 once@§fCorruptedÀÀÀLostÀÀÀSanctuary§7 единожды
+§a- §7Coords: §f-600, -3550@§a- §7Координаты: §f-600, -3550
+§7to fast-travel to §fZight Island@§7для быстрой телепортации на §fZhight Island
+§fCorruptedÀÀÀDecrepitÀÀÀSewers§7 once@§fCorruptedÀÀÀDecrepitÀÀÀSewers§7 единожды
+§7to fast-travel to §fNemract@§7для быстрой телепортации в §fNemract
+§a- §7Coords: §f60, -2215@§a- §7Координаты: §f60, -2215
+§7to fast-travel to §fPirate Cove@§7для быстрой телепортации в §fPirate Cove
+§a- §7Coords: §f-730, -3115@§a- §7Координаты: §f-730, -3115
+§7to fast-travel to §fVolcanic Isles@§7для быстрой телепортации на §fVolcanic Isles
+§a- §7Coords: §f-800, -3775@§a- §7Координаты: §f-800, -3775
+§a- §7Status: §fHostile@§a- §7Статус: §fВраждебный
+§7to fast-travel to §fGalleon's Graveyard@§7для быстрой телепортации в §fGalleon's Graveyard
+§a-§7 Level: §f60@§a-§7 Уровень: §f60
+§a-§7 Coords: §f-600, -3550@§a-§7 Координаты: §f-600, -3550
+§a-§7 Status: §fPeaceful@§a-§7 Статус: §fМирный
+§7to fast-travel to §fMaro Peaks@§7для быстрой телепортации на §fMaro Peaks
+§a- §7Coords: §f130, -3770@§a- §7Координаты: §f130, -3770
+§7to fast-travel to §fDead Island@§7для быстрой телепортации на §fDead Island
+§a- §7Coords: §f770, -3880@§a- §7Координаты: §f770, -3880
+§7to fast-travel to §fJofash Dock@§7для быстрой телепортации в §fJofash Dock
+§a- §7Coords: §f1315, -4065@§a- §7Координаты: §f1315, -4065
+§fGalleon'sÀÀÀGraveyard§7 once@§fGalleon's Graveyard§7 единожды
+§a - §7Coordinates: §f-584, -3486@§a - §7Координаты: §f-584, -3486
+§7to fast-travel to §fLlevigar@§7для быстрой телепортации в §fLlevigar
+§a- §7Coords: §f-2125, -4275@§a- §7Координаты: §f-2125, -4275
+§a - §7Coordinates: §f3424, 3510@§a - §7Координаты: §f3424, 3510
+§7to fast-travel to §fNodguj Island@§7для быстрой телепортации на §fNodguj Island
+§a- §7Coords: §f700, -3330@§a- §7Координаты: §f700, -3330
+§7to fast-travel to §fSkiens Island@§7для быстрой телепортации на §fSkiens Island
+§a- §7Coords: §f370, -3470@§a- §7Координаты: §f370, -3470
+§a - §7Coordinates: §f3313, 5346@§a - §7Координаты: §f3313, 5346
+§a - §7Coordinates: §f3331, 4184@§a - §7Координаты: §f3331, 4184
+§4CorruptedÀÀÀDecrepitÀÀÀSewers Key@§4Corrupted Decrepit Sewers Ключ
+§a - §7Coordinates: §f3533, 2374@§a - §7Координаты: §f3533, 2374
+§4CorruptedÀÀÀLostÀÀÀSanctuary Key@§4Corrupted Lost Sanctuary Ключ
+§a - §7Coordinates: §f3025, 6329@§a - §7Координаты: §f3025, 6329
 §7to fast-travel to §fMage Island  
 §a- §7Coords: §f870, -2830
 §a - §7Coordinates: §f2960, 8120
