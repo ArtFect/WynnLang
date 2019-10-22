@@ -56,7 +56,7 @@
 §7- Refined Oat String 1@§7- Переработанная Овсяная Нить 1
 §7- Refined Oat String 2@§7- Переработанная Овсяная Нить 2
 §7- Refined Oat String 3@§7- Переработанная Овсяная Нить 3
-§7- Refined Hops String 3@§7- Переработанная Нить Хмеля 3
+§7- Refined Hops String 3@§7- Переработанная Хмельная Нить 3
 §7- Unprocessed Salmon@§7- Необработанная Форель
 §7- Refined Salmon Oil 2@§7- Переработанный Жир Лосося 2
 §7- Refined Salmon Oil 3@§7- Переработанный Жир Лосося 3
@@ -1748,63 +1748,63 @@
 §dRare reward.@§dРедкую награду.
 §dRare rewards§7  for 1@§dРедких наград§7 на 1
 §6Epic reward.@§6Эпическую награду.
-§7Place a mob totem at 
-§7your current location,
-§7increasing the spawn rate
-§7of nearby mobs
-§aAdd §7to your playlist
-§cStop playing
-§7Add 10 random songs
-§7to your playlist
-§cRemove §7from your playlist
-§4Right click to stop tracking
-§cHold the book to track
-§7 - §fRefined Hops String  
-§7 - §fRefined Hops Grains  
-§7Maximum: §f20
-§7Maximum: §f100
-§7Class: §fNinja
-§2Rank: §aVIP
-§7 - §fRefined Millet String  
-§7 - §fRefined Millet Grains  
-§7 - §fRefined Decay String  
-§7 - §fRefined Decay Grains  
+§7Place a mob totem at @§7Поставить моб тотем на
+§7your current location,@§7твою текущую позицию,
+§7increasing the spawn rate@§7увеличив скорость появления
+§7of nearby mobs@§7ближайших мобов
+§aAdd §7to your playlist@§aДобавить §7в твой плейлист
+§cStop playing@§cОстановить воспроизведение
+§7Add 10 random songs@§7Добавить 10 случайных песен
+§7to your playlist@§7в твой плейлист
+§cRemove §7from your playlist@§cУбрать §7из твоего плейлиста
+§4Right click to stop tracking@§4Правый клик для отмены отслеживания
+§cHold the book to track@§cДержи книгу для отслеживания
+§7 - §fRefined Hops String  @§7 - §fПереработанная Хмельная Нить 
+§7 - §fRefined Hops Grains  @§7 - §fПереработанное Хмелевое Зерно
+§7Maximum: §f20@§7Максимум: §f20
+§7Maximum: §f100@§7Максимум: §f100
+§7Class: §fNinja@§7Класс: §fНиндзя
+§2Rank: §aVIP@§2Ранг: §aVIP
+§7 - §fRefined Millet String  @§7 - §fПереработанная Просо Нить 
+§7 - §fRefined Millet Grains  @§7 - §fПереработанное Просо Зерно
+§7 - §fRefined Decay String  @§7 - §fПереработанная Гнилая Нить 
+§7 - §fRefined Decay Grains  @§7 - §fПереработанное Гнилое Зерно
 
-§8Mercenaries are cheap, bulky
-§8melee attackers, perfect for
-§8swarming your opponents
+§8Mercenaries are cheap, bulky@
+§8melee attackers, perfect for@
+§8swarming your opponents@
 
-§8Rogues move and strike
-§8quickly, but are light
-§8and easily pushed around
+§8Rogues move and strike@
+§8quickly, but are light@
+§8and easily pushed around@
 
-§8Barbarians are slow
-§8with a crushing offense
-§8for beating tough opponents
+§8Barbarians are slow@
+§8with a crushing offense@
+§8for beating tough opponents@
 
-§8Rangers are a basic
-§8ranged attacker with
-§8balanced stats
+§8Rangers are a basic@
+§8ranged attacker with@
+§8balanced stats@
 
-§8Snipers shoot slow and sure,
-§8letting loose extremely
-§8strong arrows at long distances
+§8Snipers shoot slow and sure,@
+§8letting loose extremely@
+§8strong arrows at long distances@
 
-§8Clerics are bulky
-§8crowd healers, but
-§8have poor offenses
+§8Clerics are bulky@
+§8crowd healers, but@
+§8have poor offenses@
 
-§8Witches have low health,
-§8but use powerful ranged
-§8attacks and debuffs
+§8Witches have low health,@
+§8but use powerful ranged@
+§8attacks and debuffs@
 
-§8Bishops support their armies
-§8with potent healing
-§8and high elemental bulk
+§8Bishops support their armies@
+§8with potent healing@
+§8and high elemental bulk@
 
-§8Honour Guards have a
-§8powerful defence and
-§8unshakable combat presence
+§8Honour Guards have a@
+§8powerful defence and@
+§8unshakable combat presence@
 
 ###############################Контейнеры##############################
 §7Create a fire effect whenever you hit!
