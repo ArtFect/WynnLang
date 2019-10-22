@@ -1697,7 +1697,6 @@
 §6Scrap needed:@§6Скрапа Необходимо:
 §7Click to open it!@§7Кликни для открытия!
 §aContains...@§aСодержит...
-§a- §dHorse Cloaks§7 [Rare to Epic 0/2]@§a- §dЛошадиная Маскировка§7 [от Редкой до Эпической 0/2]
 §7Add 2 powders to your item@§7Добавить 2 порошка на твой предмет
 §7Add 3 powders to your item@§7Добавить 3 порошка на твой предмет
 §7Add 4 powders to your item@§7Добавить 4 порошка на твой предмет
@@ -1807,77 +1806,79 @@
 §8unshakable combat presence@§8непоколебимое боевое присутствие
 
 ###############################Контейнеры##############################
-§7Create a fire effect whenever you hit!
-§aInfinite uses
-§7This token can be redeemed
-§7for one wybel. Be careful,
-§7this item can not be scrapped
-§7after use
-§dRare Reward
-§7Great if you want
-§7your enemies scrambled
-§7or fried!
-§7Create a pentagram effect
-§6Epic Reward
-§7Create a Letter effect whenever you hit!
-§7Create a cloud effect whenever you hit!
-§7Give your character
-§7the Wet Drip effect
-§7Disguise your dagger
-§7with a steampunk flair
-§7Disguise your spear
-§7with a corrupted flair
-§7Create a letters effect
-§7Create an fire effect
-§7Disguise your staff
-§7as a candle
-§7Create a Emerald effect whenever you hit!
-§7Create a spark effect whenever you hit!
-§7Create a fire effect
-§7demon wings
-§cGodly Reward
-§7Disguise your bow
-§7with a fiery flair 
-§7as a piece of food
-§7Create an water effect
-§7Create a air aura effect
-§7Create an thunder effect
-§7the Slime effect
-§7Disguise your wand
-§7Disguise yourself as a sheep
-§7Create a smoke effect
-§7Create a magic effect
-§7Disguise your horses into a zombie beast
-§7Disguise yourself as a chicken
-§a- §dHorse Cloaks§7 [Rare to Epic 1/2]
-§7Disguise yourself as a spider
-§7Disguise yourself as a pig
-§7Create a music effect
-§7the Witch Brew effect
-§7Create a lava effect whenever you hit!
-§7Create an earth effect
-§7with a dark flair
-§7Create a storm effect
-§7Disguise yourself as a cow
-§7Create a heart effect
-§7Create a tornado effect
-§7Disguise yourself as a creeper
-§7a dragon-like appearance
-§7with a lunar flair
-§7Disguise your dagger/spear
-§7as a banana sword
-§7with a adventurous flair
-§7Create a ripple effect
-§7with a futuristic flair
-§7a fairy companion
-§7Disguise yourself as a pigman
-§7Disguise yourself as a zombie
-§7Create a potion effect
-§7around your character
-§fCommon Reward
-§7Create a emerald effect
-§7Create a redstone effect
-§7Create a cloud effect
+§7Create a fire effect whenever you hit!@§7Создает эффект огня при ударе!
+§aInfinite uses@§aБесконечное использование
+§7This token can be redeemed@§7Этот жетон может быть обменян
+§7for one wybel. Be careful,@§7на одного wybel'а. Осторожнее,
+§7this item can not be scrapped@§7этот предмет не может быть утилизирован
+§7after use@§7после использования
+§dRare Reward@§dРедкая Награда
+§7Great if you want@§7Хороша, если ты 
+§7your enemies scrambled@§7хочешь прожарить 
+§7or fried!@§7своих врагов!
+§7Create a pentagram effect@§7Создает эффект пентаграммы
+§6Epic Reward@§6Эпическая Награда
+§7Create a Letter effect whenever you hit!@§7Создает эффект букв при ударе!
+§7Create a cloud effect whenever you hit!@§7Создает эффект облака при ударе!
+§7Give your character@§7Создает вокруг персонажа 
+§7the Wet Drip effect@§7эффект мокрых капель
+§7Disguise your dagger@§7Маскирует твой кинжал
+§7with a steampunk flair@§7под стиль стимпанк
+§7Disguise your spear@§7Маскирует твое копье
+§7with a corrupted flair@§7под стиль порчи
+§7Create a letters effect@§7Создает эффект букв
+§7Create an fire effect@§7Создает эффект огня
+§7Disguise your staff@§7Маскирует твое оружие 
+§7as a candle@§7под свечу
+§7Create a Emerald effect whenever you hit!@§7Создает эффект эмеральда при ударе!
+§7Create a spark effect whenever you hit!@§7Создает эффект искр при ударе!
+§7Create a fire effect@§7Создает эффект огня
+§7demon wings@§7крылья демона
+§cGodly Reward@§cБожественная Награда
+§7Disguise your bow@§7Маскирует твой лук
+§7with a fiery flair @§7огненной способностью
+§7as a piece of food@§7под кусок еды
+§7Create an water effect@§7Создает эффект воды
+§7Create a air aura effect@§7Создает эффект воздушной ауры
+§7Create an thunder effect@§7Создает эффект грома
+§7the Slime effect@§7Эффект слайма
+§7Disguise your wand@§7Маскирует твой посох
+§7Disguise yourself as a sheep@§7Маскировка себя под овцу
+§7Create a smoke effect@§7Создает эффект дыма
+§7Create a magic effect@§7Создает эффект магии
+§7Disguise your horses into a zombie beast@§7Маскирует твою лошадь под зомби зверя
+§7Disguise yourself as a chicken@§7Маскировка себя под курицу
+§a- §dHorse Cloaks§7 [Rare to Epic 0/2]@§a- §dЛошадиная Маскировка§7 [от Редкой до Эпической 0/2]
+§a- §dHorse Cloaks§7 [Rare to Epic 1/2]@§a- §dЛошадиная Маскировка§7 [от Редкой до Эпической 1/2]
+§a- §dHorse Cloaks§7 [Rare to Epic 2/2]@§a- §dЛошадиная Маскировка§7 [от Редкой до Эпической 2/2]
+§7Disguise yourself as a spider@§7Маскировка себя под паука
+§7Disguise yourself as a pig@§7Маскировка себя под свинью
+§7Create a music effect@§7Создает эффект музыки
+§7the Witch Brew effect@§7Эффект Зелья Ведьмы
+§7Create a lava effect whenever you hit!@§7Создает эффект лавы при ударе!
+§7Create an earth effect@§7Создает эффект земли 
+§7with a dark flair@§7под темный стиль
+§7Create a storm effect@§7Создает эффект шторма
+§7Disguise yourself as a cow@§7Маскировка себя под корову
+§7Create a heart effect@§7Создает эффект сердец
+§7Create a tornado effect@§7Создает эффект торнадо
+§7Disguise yourself as a creeper@§7Маскировка себя под крипера
+§7a dragon-like appearance@§7драконоподобный внешний вид
+§7with a lunar flair@§7под лунный стиль
+§7Disguise your dagger/spear@§7Маскировка твоего кинжала/копья
+§7as a banana sword@§7под банановый меч
+§7with a adventurous flair@§7под приключенческий стиль
+§7Create a ripple effect@§7Создает эффект пульсации
+§7with a futuristic flair@§7под футуристический стиль
+§7a fairy companion@§7волшебный компаньон
+§7Disguise yourself as a pigman@§7Маскировка себя под пигмена
+§7Disguise yourself as a zombie@§7Маскировка себя под зомби
+§7Create a potion effect@§7Создает эффект зелья
+§7around your character@§7вокруг персонажа
+§fCommon Reward@§fОбычная Награда
+§7Create a emerald effect@§7Создает эффект эмеральда
+§7Create a redstone effect@§7Создает эффект редстоуна
+§7Create a cloud effect@§7Создает эффект облака
 
 #########################продажа блексмиту##########################
 §e- §eUnidentified Spear
