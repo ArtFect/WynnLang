@@ -1632,47 +1632,47 @@
 §8Open the §7mob totem§8 menu@§8Открыть меню §7моб тотемов
 §8Open the §7bomb§8 menu@§8Открыть меню §7бомб
 §7 - §fRefined Copper Ingot  @§7 - §fПереработанный Слиток Меди
-§7 - §fRefined Copper Gem  @
-§7Click to confirm@
-§7 - §fRefined Granite Ingot  @
-§7 - §fRefined Granite Gem  @
-§7 - §fRefined Birch Wood  @
-§7 - §fRefined Birch Paper  @
-§7You will NOT be able to get it back later@
-§cRefining...@
-§7 - §fRefined Gold Ingot  @
-§7 - §fRefined Gold Gem  @
-§7 - §fRefined Gudgeon Oil  @
-§7 - §fRefined Gudgeon Meat  @
-§7Class: §fArcher@
-§3[R]§b Main Attack:@
-§6Buying:@
-§6For:@
-§cExchange:@
-§3Marketplace:@
-§7Click to View@
-§7Left-Click to sell an item@
-§7Right-Click to buy an item@
-§aPurchased@
-§7 - §fRing@
-§fDesert  @
-§7Right-click to reset@
-§7your skill points@
-§7Click to set the amount in chat@
-§7Click to set the price in chat@
-§6Selling:@
-§7Cancel current trade@
-§7and get your items back@
-§aSold Out@
-§6Lose all of these and you'll drop your items!@
-§6They will regenerate 1 point per minecraft day.@
-§7You can buy a revealed@
-§7version of this item@
-§7on the Exchange in bulk@
-§fPowder Exchange §7to get a@
-§7free §6T4 Powder §7of your choice@
-§7Class: §fAssassin@
-§7§lLeft click to sort by: §fLevel@
+§7 - §fRefined Copper Gem  @§7 - §fПереработанный Медный Камень 
+§7Click to confirm@§7Кликни для подтверждения
+§7 - §fRefined Granite Ingot  @§7 - §fПереработанный Гранитный Слиток
+§7 - §fRefined Granite Gem  @§7 - §fПереработанный Гранитный Камень
+§7 - §fRefined Birch Wood  @§7 - §fПереработанная Древесина Березы
+§7 - §fRefined Birch Paper  @§7 - §fПереработанная Березовая Бумага
+§7You will NOT be able to get it back later@§7Ты НЕ сможешь получить их обратно
+§cRefining...@§cПереработка...
+§7 - §fRefined Gold Ingot  @§7 - §fПереработанный Слиток Золота
+§7 - §fRefined Gold Gem  @§7 - §fПереработанный Золотой Камень
+§7 - §fRefined Gudgeon Oil  @§7 - §fПереработанный Жир Пескаря
+§7 - §fRefined Gudgeon Meat  @§7 - §fПереработанное Мясо Пескаря
+§7Class: §fArcher@§7Класс: §fЛучник
+§3[R]§b Main Attack:@§3[П]§b Основная Атака:
+§6Buying:@§6Покупка:
+§6For:@§6За:
+§cExchange:@§cОбменник:
+§3Marketplace:@§3Рынок:
+§7Click to View@§7Кликни для Просмотра
+§7Left-Click to sell an item@§7Левый клик для продажи предмета
+§7Right-Click to buy an item@§7Правый клик для покупки предмета
+§aPurchased@§aКуплено
+§7 - §fRing@§7 - §fКольцо
+§fDesert  @§fПустыня
+§7Right-click to reset@§7Правый клик для сброса
+§7your skill points@§7твоих очков умений
+§7Click to set the amount in chat@§7Кликни для установления количества в чат
+§7Click to set the price in chat@§7Кликни для установления цены в чат
+§6Selling:@§6Продажа:
+§7Cancel current trade@§7Отменить текущие торги
+§7and get your items back@§7и получить свои предметы обратно
+§aSold Out@§aРаспродано
+§6Lose all of these and you'll drop your items!@§6Потеряй их все и твои предметы выпадут!
+§6They will regenerate 1 point per minecraft day.@§6Они восстанавливаются, 1 очко за каждый майнкрафт день.
+§7You can buy a revealed@§7Ты можешь купить раскрытую
+§7version of this item@§7версию этого предмета
+§7on the Exchange in bulk@§7в Обменнике оптом
+§fPowder Exchange §7to get a@§fОбменник Порошков §7чтобы получить
+§7free §6T4 Powder §7of your choice@§7бесплатный §6У4 Порошок §7на твой выбор
+§7Class: §fAssassin@§7Класс: §fАссасин
+§7§lLeft click to sort by: §fLevel@§7§lЛевый клик для сортировки по: §fУровню
 §7§lRight click to sort by: §fStarted
 §7§lLeft click to sort by: §fStarted
 §7§lRight click to sort by: §fName
