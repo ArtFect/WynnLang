@@ -1673,81 +1673,81 @@
 §7free §6T4 Powder §7of your choice@§7бесплатный §6У4 Порошок §7на твой выбор
 §7Class: §fAssassin@§7Класс: §fАссасин
 §7§lLeft click to sort by: §fLevel@§7§lЛевый клик для сортировки по: §fУровню
-§7§lRight click to sort by: §fStarted
-§7§lLeft click to sort by: §fStarted
-§7§lRight click to sort by: §fName
-§7Add Powders >
-§7Click on an item and
-§7powders to add them
-§7to your item
-§7Add 1 powder to your item
-§7      §lNow           §6§lNext
-§cSome ingredients don't
-§cmatch the level or the
-§cskill of the recipe
-§cyou are trying to craft
-§7This will remove all powders
-§7from your items. You will not
-§7be able to get them back.
-§6Streak Multiplier: §e4
-§7You are scrapping:
-§6Scrap needed:
-§6Streak Multiplier: §e2
-§6Streak Multiplier: §e5
-§7Click to open it!
-§aContains...
-§a- §dHorse Cloaks§7 [Rare to Epic 0/2]
-§7Add 2 powders to your item
-§7Add 3 powders to your item
-§6Streak Multiplier: §e3
-§7You must add 5 rewards
-§7of the same tier to scrap
-§7 - §fRefined Trout Oil  
-§7 - §fRefined Trout Meat  
-§cCancelled
-§7 - §fRefined Rye String  
-§7 - §fRefined Rye Grains  
-§7You are revealing:
-§7free §6T5 Powder §7of your choice
-§7free §6T6 Powder §7of your choice
-§7Class: §fKnight
-§7 - §fRefined Barley String  
-§7 - §fRefined Barley Grains  
-§7 - §fRefined Salmon Oil  
-§7 - §fRefined Salmon Meat  
-§7 - §fRefined Oat String  
-§7 - §fRefined Oat Grains  
-§fWynn Plains  
-§7 - §fRefined Sandstone Ingot  
-§7 - §fRefined Sandstone Gem  
-§7Shift click to remove mobs
-§7Maximum: §f300
-§6Total Price:
-§7Maximum: §f30
-§6View your quests and discover new ones
-§7Add 4 powders to your item
-§7 - §fRefined Willow Wood  
-§7 - §fRefined Willow Paper  
-§7 - §fRefined Acacia Wood  
-§7 - §fRefined Acacia Paper  
-§7Your can buy a revealed
-§fNesaak Tundra  
-§7 - §fRefined Avo Wood  
-§7 - §fRefined Avo Paper  
-§7 - §fRefined Malt String  
-§7 - §fRefined Malt Grains  
-§7Class: §fHunter
-§7 - §fRefined Carp Oil  
-§7 - §fRefined Carp Meat  
-§5Rank: §dHERO
-§7Class: §fDark Wizard
-§fCorkus  
-§3Rank: §bVIP+
-§7By clicking, you sacrifice 5 
-§fCommon rewards§7  for 1
-§dRare reward.
-§dRare rewards§7  for 1
-§6Epic reward.
+§7§lRight click to sort by: §fStarted@§7§lПравый клик для сортировки по: §fНачат
+§7§lLeft click to sort by: §fStarted@§7§lЛевый клик для сортировки по: §fНачат
+§7§lRight click to sort by: §fName@§7§lПравый клик для сортировки по: §fИмени
+§7Add Powders >@§7Добавить Порошки >
+§7Click on an item and@§7Кликни на предмет и
+§7powders to add them@§7порошки, чтобы добавить их
+§7to your item@§7на твой предмет
+§7Add 1 powder to your item@§7Добавить 1 порошок на твой предмет
+§7      §lNow           §6§lNext@§7      §lСейчас           §6§lДалее
+§cSome ingredients don't@§cНекоторые ингредиенты не
+§cmatch the level or the@§cоответствуют уровню или 
+§cskill of the recipe@§cумению рецепта,
+§cyou are trying to craft@§cкоторый ты пытаешься крафтить
+§7This will remove all powders@§7Это удалит все порошки 
+§7from your items. You will not@§7с твоих предметов. Ты не сможешь
+§7be able to get them back.@§7получить их обратно.
+§6Streak Multiplier: §e4@§6Множитель Лута: §e4
+§6Streak Multiplier: §e2@§6Множитель Лута: §e2
+§6Streak Multiplier: §e3@§6Множитель Лута: §e3
+§6Streak Multiplier: §e5@§6Множитель Лута: §e5
+§7You are scrapping:@§7Ты утилизируешь:
+§6Scrap needed:@§6Скрапа Необходимо:
+§7Click to open it!@§7Кликни для открытия!
+§aContains...@§aСодержит...
+§a- §dHorse Cloaks§7 [Rare to Epic 0/2]@§a- §dЛошадиная Маскировка§7 [от Редкой до Эпической 0/2]
+§7Add 2 powders to your item@§7Добавить 2 порошка на твой предмет
+§7Add 3 powders to your item@§7Добавить 3 порошка на твой предмет
+§7Add 4 powders to your item@§7Добавить 4 порошка на твой предмет
+§7You must add 5 rewards@§7Ты должен добавить 5 наград
+§7of the same tier to scrap@§7того же уровня для утилизации
+§7 - §fRefined Trout Oil  @§7 - §fПереработанный Жир Форели 
+§7 - §fRefined Trout Meat  @§7 - §fПереработанное Мясо Форели
+§cCancelled@§cОтменено
+§7 - §fRefined Rye String  @§7 - §fПереработанная Ржаная Нить
+§7 - §fRefined Rye Grains  @§7 - §fПереработанное Ржаное Зерно
+§7You are revealing:@§7Ты раскрываешь:
+§7free §6T5 Powder §7of your choice@§7бесплатный §6У5 Порошок §7на твой выбор
+§7free §6T6 Powder §7of your choice@§7бесплатный §6У6 Порошок §7на твой выбор
+§7Class: §fKnight@§7Класс: §fРыцарь
+§7 - §fRefined Barley String  @§7 - §fПереработанная Ячменная Нить
+§7 - §fRefined Barley Grains  @§7 - §fПереработанное Ячменное Зерно
+§7 - §fRefined Salmon Oil  @§7 - §fПереработанный Жир Лосося
+§7 - §fRefined Salmon Meat  @§7 - §fПереработанное Мясо Лосося
+§7 - §fRefined Oat String  @§7 - §fПереработанная Овсяная Нить
+§7 - §fRefined Oat Grains  @§7 - §fПереработанное Овсяное Зерно
+§fWynn Plains  @§fРавнины Wynn  
+§7 - §fRefined Sandstone Ingot  @§7 - §fПереработанный Слиток Песчаника
+§7 - §fRefined Sandstone Gem  @§7 - §fПереработанный Песчаный Камень
+§7Shift click to remove mobs@§7Шифт клик для удаления мобов
+§7Maximum: §f300@§7Максимум: §f300
+§6Total Price:@§6Итоговая Цена:
+§7Maximum: §f30@§7Максимум: §f30
+§6View your quests and discover new ones@§6Просматривай свои квесты и открывай новые
+§7 - §fRefined Willow Wood  @§7 - §fПереработанная Древесина Ивы
+§7 - §fRefined Willow Paper  @§7 - §fПереработанная Ивовая Бумага
+§7 - §fRefined Acacia Wood  @§7 - §fПереработанная Древесина Акации
+§7 - §fRefined Acacia Paper  @§7 - §fПереработанная Акациевая Бумага
+§7Your can buy a revealed@Ты можешь купить раскрытую
+§fNesaak Tundra  @§fNesaak Тундра
+§7 - §fRefined Avo Wood  @§7 - §fПереработанная Древесина Авокадо
+§7 - §fRefined Avo Paper  @§7 - §fПереработанная Авокадовая Бумага
+§7 - §fRefined Malt String  @§7 - §fПереработанная Солодовая Нить
+§7 - §fRefined Malt Grains  @§7 - §fПереработанное Солодовое Зерно
+§7Class: §fHunter@§7Класс: §fОхотник
+§7 - §fRefined Carp Oil  @§7 - §fПереработанный Жир Карпа
+§7 - §fRefined Carp Meat  @§7 - §fПереработанное Мясо Карпа
+§5Rank: §dHERO@§5Ранг: §dHERO
+§7Class: §fDark Wizard@§7Класс: §fТемный Волшебник
+§fCorkus  @ 
+§3Rank: §bVIP+@§3Ранг: §bVIP+
+§7By clicking, you sacrifice 5 @§7Кликнув, ты обменяешь 5
+§fCommon rewards§7  for 1@§fОбычных наград§7 на 1
+§dRare reward.@§dРедкую награду.
+§dRare rewards§7  for 1@§dРедких наград§7 на 1
+§6Epic reward.@§6Эпическую награду.
 §7Place a mob totem at 
 §7your current location,
 §7increasing the spawn rate
