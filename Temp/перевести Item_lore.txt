@@ -18,9 +18,9 @@
 §7- Refined Oak Paper 1@§7- Переработанная Дубовая Бумага 1
 §7- Refined Oak Paper 2@§7- Переработанная Дубовая Бумага 2
 §7- Refined Oak Paper 3@§7- Переработанная Дубовая Бумага 3
-§7- Refined Oak Wood 1@§7- Переработанное Бревно Дуба 1
-§7- Refined Oak Wood 2@§7- Переработанное Бревно Дуба 2
-§7- Refined Oak Wood 3@§7- Переработанное Бревно Дуба 3
+§7- Refined Oak Wood 1@§7- Переработанная Древесина Дуба 1
+§7- Refined Oak Wood 2@§7- Переработанная Древесина Дуба 2
+§7- Refined Oak Wood 3@§7- Переработанная Древесина Дуба 3
 §7- Unprocessed Granite Ore@§7- Необработанная Гранитная Руда
 §7- Refined Granite Gem 1@§7- Переработанный Гранитный Камень 1
 §7- Refined Granite Gem 3@§7- Переработанный Гранитный Камень 3
@@ -49,9 +49,9 @@
 §7- Unprocessed Willow Log@§7- Необработанное Бревно Ивы
 §7- Refined Willow Paper 1@§7- Переработанная Ивовая Бумага 1
 §7- Refined Willow Paper 2@§7- Переработанная Ивовая Бумага 2
-§7- Refined Willow Wood 1@§7- Переработанное Бревно Ивы 1
-§7- Refined Willow Wood 2@§7- Переработанное Бревно Ивы 2
-§7- Refined Willow Wood 3@§7- Переработанное Бревно Ивы 3
+§7- Refined Willow Wood 1@§7- Переработанная Древесина Ивы 1
+§7- Refined Willow Wood 2@§7- Переработанная Древесина Ивы 2
+§7- Refined Willow Wood 3@§7- Переработанная Древесина Ивы 3
 §7- Unprocessed Oat@§7- Необработанный Овес
 §7- Refined Oat String 1@§7- Переработанная Овсяная Нить 1
 §7- Refined Oat String 2@§7- Переработанная Овсяная Нить 2
@@ -67,14 +67,14 @@
 §7- Refined Gudgeon Oil 1@§7- Переработанный Жир Пескаря 1
 §7- Refined Gudgeon Oil 2@§7- Переработанный Жир Пескаря 2
 §7- Unprocessed Birch Log@§7- Необработанное Бревно Березы
-§7- Refined Birch Wood 1@§7- Переработанное Бревно Березы 1
-§7- Refined Birch Wood 2@§7- Переработанное Бревно Березы 2
-§7- Refined Birch Wood 3@§7- Переработанное Бревно Березы 3
+§7- Refined Birch Wood 1@§7- Переработанная Древесина Березы 1
+§7- Refined Birch Wood 2@§7- Переработанная Древесина Березы 2
+§7- Refined Birch Wood 3@§7- Переработанная Древесина Березы 3
 §7- Refined Birch Paper 1@§7- Переработанная Березовая Бумага 1
 §7- Refined Birch Paper 2@§7- Переработанная Березовая Бумага 2
 §7- Refined Birch Paper 3@§7- Переработанная Березовая Бумага 3
 §7- Unprocessed Acacia Log@§7- Необработанное Бревно Акации
-§7- Refined Acacia Wood 2@§7- Переработанное Бревно Акации 2
+§7- Refined Acacia Wood 2@§7- Переработанная Древесина Акации 2
 §7- Refined Iron Ingot 3@§7- Переработанный Слиток Железа 3
 §7- Unprocessed Spruce Log@§7- Необработанное Бревно Ели
 
@@ -330,14 +330,14 @@
             §f6§7 Refined Trout Oil§f Ⓚ@            §f6§7 Переработанный Жир Форели§f Ⓚ
 §6§lBow Recipes:@§6§lРецепты Луков:
 §a✔ Lv. 1: §f2§7 Refined Wheat String§f Ⓙ@§a✔ Ур. 1: §f2§7 Переработанная Пшеничная Нить§f Ⓙ
-          §f1§7 Refined Oak Wood§f Ⓒ@          §f1§7 Переработанное Бревно Дуба§f Ⓒ
+          §f1§7 Refined Oak Wood§f Ⓒ@          §f1§7 Переработанная Древесина Дуба§f Ⓒ
 §c✖ Lv. 10: §f4§7 Refined Barley String§f Ⓙ@§c✖ Ур. 10: §f4§7 Переработанная Ячменная Нить§f Ⓙ
-            §f2§7 Refined Birch Wood§f Ⓒ@            §f2§7 Переработанное Бревно Березы§f Ⓒ
+            §f2§7 Refined Birch Wood§f Ⓒ@            §f2§7 Переработанная Древесина Березы§f Ⓒ
 §6§lWand Recipes:@§6§lРецепты Посохов:
 §a✔ Lv. 1: §f1§7 Refined Wheat String§f Ⓙ@§a✔ Ур. 1: §f1§7 Переработанная Пшеничная Нить§f Ⓙ
-          §f2§7 Refined Oak Wood§f Ⓒ@          §f2§7 Переработанное Бревно Дуба§f Ⓒ
+          §f2§7 Refined Oak Wood§f Ⓒ@          §f2§7 Переработанная Древесина Дуба§f Ⓒ
 §c✖ Lv. 10: §f2§7 Refined Barley String§f Ⓙ@§c✖ Ур. 10: §f2§7 Переработанная Ячменная Нить§f Ⓙ
-            §f4§7 Refined Birch Wood§f Ⓒ@            §f4§7 Переработанное Бревно Березы§f Ⓒ
+            §f4§7 Refined Birch Wood§f Ⓒ@            §f4§7 Переработанная Древесина Березы§f Ⓒ
 §6§lFood Recipes:@§6§lРецепты Еды:
 §a✔ Lv. 1: §f2§7 Refined Gudgeon Meat§f Ⓚ@§a✔ Ур. 1: §f2§7 Переработанное Мясо Пескаря§f Ⓚ
           §f1§7 Refined Wheat Grains§f Ⓙ@          §f1§7 Переработанное Пшеничное Зерно§f Ⓙ
@@ -368,10 +368,10 @@
             §f4§7 Refined Barley Grains§f Ⓙ@            §f4§7 Переработанное Ячменное Зерно§f Ⓙ
 §a✔ Lv. 10: §f2§7 Refined Granite Ingot§f Ⓑ@§a✔ Ур. 10: §f2§7 Переработанный Гранитный Слиток§f Ⓑ
 §c✖ Lv. 20: §f2§7 Refined Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f2§7 Переработанный Слиток Золота§f Ⓑ
-            §f4§7 Refined Willow Wood§f Ⓒ@            §f4§7 Переработанное Бревно Ивы§f Ⓒ
+            §f4§7 Refined Willow Wood§f Ⓒ@            §f4§7 Переработанная Древесина Ивы§f Ⓒ
 §a✔ Lv. 10: §f4§7 Refined Granite Ingot§f Ⓑ@§a✔ Ур. 10: §f4§7 Переработанный Гранитный Слиток§f Ⓑ
 §c✖ Lv. 20: §f4§7 Refined Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f4§7 Переработанный Слиток Золота§f Ⓑ
-            §f2§7 Refined Willow Wood§f Ⓒ@            §f2§7 Переработанное Бревно Ивы§f Ⓒ
+            §f2§7 Refined Willow Wood§f Ⓒ@            §f2§7 Переработанная Древесина Ивы§f Ⓒ
 §a✔ Lv. 10: §f4§7 Refined Trout Meat§f Ⓚ@§a✔ Ур. 10: §f4§7 Переработанное Мясо Форели§f Ⓚ
 §c✖ Lv. 20: §f4§7 Refined Salmon Meat§f Ⓚ@§c✖ Ур. 20: §f4§7 Переработанное Мясо Лосося§f Ⓚ
             §f2§7 Refined Oat Grains§f Ⓙ@            §f2§7 Переработанное Овсяное Зерно§f Ⓙ
@@ -381,10 +381,10 @@
 §c✖ Lv. 20: §f2§7 Refined Oat String§f Ⓙ@§c✖ Ур. 20: §f2§7 Переработанная Овсяная Нить§f Ⓙ
 §a✔ Lv. 20: §f4§7 Refined Oat String§f Ⓙ@§a✔ Ур. 20: §f4§7 Переработанная Овсяная Нить§f Ⓙ
 §c✖ Lv. 30: §f6§7 Refined Malt String§f Ⓙ@§c✖ Ур. 30: §f6§7 Переработанная Солодовая Нить§f Ⓙ
-            §f3§7 Refined Acacia Wood§f Ⓒ@            §f3§7 Переработанное Бревно Акации§f Ⓒ
+            §f3§7 Refined Acacia Wood§f Ⓒ@            §f3§7 Переработанная Древесина Акации§f Ⓒ
 §a✔ Lv. 20: §f2§7 Refined Oat String§f Ⓙ@§a✔ Ур. 20: §f2§7 Переработанная Овсяная Нить§f Ⓙ
 §c✖ Lv. 30: §f3§7 Refined Malt String§f Ⓙ@§c✖ Ур. 30: §f3§7 Переработанная Солодовая Нить§f Ⓙ
-            §f6§7 Refined Acacia Wood§f Ⓒ@            §f6§7 Переработанное Бревно Акации§f Ⓒ
+            §f6§7 Refined Acacia Wood§f Ⓒ@            §f6§7 Переработанная Древесина Акации§f Ⓒ
 §a✔ Lv. 10: §f2§7 Refined Granite Gem§f Ⓑ@§a✔ Ур. 10: §f2§7 Переработанный Гранитный Камень§f Ⓑ
 §c✖ Lv. 20: §f2§7 Refined Gold Gem§f Ⓑ@§c✖ Ур. 20: §f2§7 Переработанный Золотой Камень§f Ⓑ
             §f2§7 Refined Salmon Oil§f Ⓚ@            §f2§7 Переработанный Жир Лосося§f Ⓚ
@@ -409,17 +409,17 @@
 §c✖ Lv. 30: §f3§7 Refined Carp Oil§f Ⓚ@§c✖ Ур. 30: §f3§7 Переработанный Жир Карпа§f Ⓚ
             §f3§7 Refined Acacia Paper§f Ⓒ@            §f3§7 Переработанная Акациевая Бумага§f Ⓒ
 §a✔ Lv. 80: §f10§7 Refined Rice String§f Ⓙ@§a✔ Ур. 80: §f10§7 Переработанная Рисовая Нить§f Ⓙ 
-            §f5§7 Refined Pine Wood§f Ⓒ@            §f5§7 Переработанное Бревно Сосны§f Ⓒ
+            §f5§7 Refined Pine Wood§f Ⓒ@            §f5§7 Переработанная Древесина Сосны§f Ⓒ
 §a✔ Lv. 90: §f12§7 Refined Sorghum String§f Ⓙ@§a✔ Ур. 90: §f12§7 Переработанная Сорго Нить§f Ⓙ
-            §f6§7 Refined Avo Wood§f Ⓒ@            §f6§7 Переработанное Бревно Авокадо§f Ⓒ
+            §f6§7 Refined Avo Wood§f Ⓒ@            §f6§7 Переработанная Древесина Авокадо§f Ⓒ
 §c✖ Lv. 100: §f12§7 Refined Hemp String§f Ⓙ@§c✖ Ур. 100: §f12§7 Переработанная Конопляная Нить§f Ⓙ
-             §f6§7 Refined Sky Wood§f Ⓒ@            §f6§7 Переработанное Бревно Лиственницы§f Ⓒ
+             §f6§7 Refined Sky Wood§f Ⓒ@            §f6§7 Переработанная Древесина Лиственницы§f Ⓒ
 §a✔ Lv. 80: §f5§7 Refined Rice String§f Ⓙ@§a✔ Ур. 80: §f5§7 Переработанная Рисовая Нить§f Ⓙ
-            §f10§7 Refined Pine Wood§f Ⓒ@            §f10§7 Переработанное Бревно Сосны§f Ⓒ
+            §f10§7 Refined Pine Wood§f Ⓒ@            §f10§7 Переработанная Древесина Сосны§f Ⓒ
 §a✔ Lv. 90: §f6§7 Refined Sorghum String§f Ⓙ@§a✔ Ур. 90: §f6§7 Переработанная Сорго Нить§f Ⓙ
-            §f12§7 Refined Avo Wood§f Ⓒ@            §f12§7 Переработанное Бревно Авокадо§f Ⓒ
+            §f12§7 Refined Avo Wood§f Ⓒ@            §f12§7 Переработанная Древесина Авокадо§f Ⓒ
 §c✖ Lv. 100: §f6§7 Refined Hemp String§f Ⓙ@§c✖ Ур. 100: §f6§7 Переработанная Конопляная Нить§f Ⓙ
-             §f12§7 Refined Sky Wood§f Ⓒ@             §f12§7 Переработанное Бревно Лиственницы§f Ⓒ
+             §f12§7 Refined Sky Wood§f Ⓒ@             §f12§7 Переработанная Древесина Лиственницы§f Ⓒ
 §a✔ Lv. 20: §f2§7 Refined Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f2§7 Переработанный Слиток Золота§f Ⓑ
 §c✖ Lv. 30: §f3§7 Refined Sandstone Ingot§f Ⓑ@§c✖ Ур. 30: §f3§7 Переработанный Слиток Песчаника§f Ⓑ
 §a✔ Lv. 20: §f4§7 Refined Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f4§7 Переработанный Слиток Золота§f Ⓑ
@@ -427,10 +427,10 @@
             §f4§7 Refined Oat Grains§f Ⓙ@            §f4§7 Переработанное Овсяное Зерно§f Ⓙ
 §a✔ Lv. 30: §f3§7 Refined Sandstone Ingot§f Ⓑ@§a✔ Ур. 30: §f3§7 Переработанный Слиток Песчаника§f Ⓑ
 §c✖ Lv. 40: §f3§7 Refined Iron Ingot§f Ⓑ@§c✖ Ур. 40: §f3§7 Переработанный Слиток Железа§f Ⓑ
-            §f6§7 Refined Spruce Wood§f Ⓒ@            §f6§7 Переработанное Бревно Ели§f Ⓒ
+            §f6§7 Refined Spruce Wood§f Ⓒ@            §f6§7 Переработанная Древесина Ели§f Ⓒ
 §a✔ Lv. 30: §f6§7 Refined Sandstone Ingot§f Ⓑ@§a✔ Ур. 30: §f6§7 Переработанный Слиток Песчаника§f Ⓑ
 §c✖ Lv. 40: §f6§7 Refined Iron Ingot§f Ⓑ@§c✖ Ур. 40: §f6§7 Переработанный Слиток Железа§f Ⓑ
-            §f3§7 Refined Spruce Wood§f Ⓒ@            §f3§7 Переработанное Бревно Ели§f Ⓒ
+            §f3§7 Refined Spruce Wood§f Ⓒ@            §f3§7 Переработанная Древесина Ели§f Ⓒ
 §a✔ Lv. 30: §f3§7 Refined Carp Oil§f Ⓚ@§a✔ Ур. 30: §f3§7 Переработанный Жир Карпа§f Ⓚ
 §c✖ Lv. 40: §f3§7 Refined Icefish Oil§f Ⓚ@§c✖ Ур. 40: §f3§7 Переработанный Жир Щуки§f Ⓚ
             §f3§7 Refined Spruce Paper§f Ⓒ@            §f3§7 Переработанная Еловая Бумага§f Ⓒ
@@ -441,10 +441,10 @@
             §f6§7 Refined Malt Grains§f Ⓙ@            §f6§7 Переработанное Солодовое Зерно§f Ⓙ
 §a✔ Lv. 40: §f3§7 Refined Iron Ingot§f Ⓑ@§a✔ Ур. 40: §f3§7 Переработанный Слиток Железа§f Ⓑ
 §c✖ Lv. 50: §f4§7 Refined Silver Ingot§f Ⓑ@§c✖ Ур. 50: §f4§7 Переработанный Слиток Серебра§f Ⓑ
-            §f8§7 Refined Jungle Wood§f Ⓒ@            §f8§7 Переработанное Бревно Амаранта§f Ⓒ
+            §f8§7 Refined Jungle Wood§f Ⓒ@            §f8§7 Переработанная Древесина Амаранта§f Ⓒ
 §a✔ Lv. 40: §f6§7 Refined Iron Ingot§f Ⓑ@§a✔ Ур. 40: §f6§7 Переработанный Слиток Железа§f Ⓑ
 §c✖ Lv. 50: §f8§7 Refined Silver Ingot§f Ⓑ@§c✖ Ур. 50: §f8§7 Переработанный Слиток Серебра§f Ⓑ
-            §f4§7 Refined Jungle Wood§f Ⓒ@            §f4§7 Переработанное Бревно Амаранта§f Ⓒ
+            §f4§7 Refined Jungle Wood§f Ⓒ@            §f4§7 Переработанная Древесина Амаранта§f Ⓒ
 §a✔ Lv. 20: §f4§7 Refined Salmon Meat§f Ⓚ@§a✔ Ур. 20: §f4§7 Переработанное Мясо Лосося§f Ⓚ
 §c✖ Lv. 30: §f6§7 Refined Carp Meat§f Ⓚ@§c✖ Ур. 30: §f6§7 Переработанное Мясо Карпа§f Ⓚ
             §f3§7 Refined Malt Grains§f Ⓙ@            §f3§7 Переработанное Солодовое Зерно§f Ⓙ
@@ -1540,9 +1540,9 @@
 §fTerritories:@§fТерритории:
 §eWorld:@§eМировые:
 §fCorkus@ 
-§fWynn Plains@ 
-§fNesaak Tundra@ 
-§fDesert@ 
+§fWynn Plains@§fРавнины Wynn
+§fNesaak Tundra@§fNesaak Тундра
+§fDesert@§fПустыня
 §7§lLeft click to sort by: §fName@§7§lЛевый клик для сортировки по: §fИмени
 §7§lRight click to sort by: §fLevel@§7§lПравый клик для сортировки по: §fУровню
 §7Rank: §fNone@§7Ранг: §fОтсутствует
@@ -1599,7 +1599,7 @@
 §a✔§6 Right-Click §7to refine to:@§a✔§6 Правый Клик §7для переработки в:
 §7 - §fRefined Wheat Grains  @§7 - §fПереработанное Пшеничное Зерно
 §fShift-Click§7 to refine non-stop@§fШифт-Клик§7 для переработки нон-стоп
-§7 - §fRefined Oak Wood  @§7 - §fПереработанное Бревно Дуба
+§7 - §fRefined Oak Wood  @§7 - §fПереработанная Древесина Дуба
 §7 - §fRefined Oak Paper  @§7 - §fПереработанная Дубовая Бумага
 §7Ingredient Slots ->@§7Слоты для Ингредиентов ->
 §8Items you craft@§8Скрафченные тобой предметы
@@ -1623,56 +1623,56 @@
 §7get a powder of a@§7получения порошка более
 §7higher tier@§7высокого уровня
 §7You cannot afford this!@§7Ты не можешь себе позволить это!
-§fWynn Plains  
-§8Open the §7attack effect§8 menu
-§8Open the §7player effect§8 menu
-§8Open the §7pet§8 menu
-§8Open the §7gear skin§8 menu
-§8Open the §7disguise§8 menu
-§8Open the §7mob totem§8 menu
-§8Open the §7bomb§8 menu
-§7 - §fRefined Copper Ingot  
-§7 - §fRefined Copper Gem  
-§7Click to confirm
-§7 - §fRefined Granite Ingot  
-§7 - §fRefined Granite Gem  
-§7 - §fRefined Birch Wood  
-§7 - §fRefined Birch Paper  
-§7You will NOT be able to get it back later
-§cRefining...
-§7 - §fRefined Gold Ingot  
-§7 - §fRefined Gold Gem  
-§7 - §fRefined Gudgeon Oil  
-§7 - §fRefined Gudgeon Meat  
-§7Class: §fArcher
-§3[R]§b Main Attack:
-§6Buying:
-§6For:
-§cExchange:
-§3Marketplace:
-§7Click to View
-§7Left-Click to sell an item
-§7Right-Click to buy an item
-§aPurchased
-§7 - §fRing
-§fDesert  
-§7Right-click to reset
-§7your skill points
-§7Click to set the amount in chat
-§7Click to set the price in chat
-§6Selling:
-§7Cancel current trade
-§7and get your items back
-§aSold Out
-§6Lose all of these and you'll drop your items!
-§6They will regenerate 1 point per minecraft day.
-§7You can buy a revealed
-§7version of this item
-§7on the Exchange in bulk
-§fPowder Exchange §7to get a
-§7free §6T4 Powder §7of your choice
-§7Class: §fAssassin
-§7§lLeft click to sort by: §fLevel
+§fWynn Plains@§fРавнины Wynn
+§8Open the §7attack effect§8 menu@§8Открыть меню §7эффектов атаки
+§8Open the §7player effect§8 menu@§8Открыть меню §7эффектов игрока
+§8Open the §7pet§8 menu@§8Открыть меню §7питомцев
+§8Open the §7gear skin§8 menu@§8Открыть меню §7скинов оружия
+§8Open the §7disguise§8 menu@§8Открыть меню §7маскировок
+§8Open the §7mob totem§8 menu@§8Открыть меню §7моб тотемов
+§8Open the §7bomb§8 menu@§8Открыть меню §7бомб
+§7 - §fRefined Copper Ingot  @§7 - §fПереработанный Слиток Меди
+§7 - §fRefined Copper Gem  @
+§7Click to confirm@
+§7 - §fRefined Granite Ingot  @
+§7 - §fRefined Granite Gem  @
+§7 - §fRefined Birch Wood  @
+§7 - §fRefined Birch Paper  @
+§7You will NOT be able to get it back later@
+§cRefining...@
+§7 - §fRefined Gold Ingot  @
+§7 - §fRefined Gold Gem  @
+§7 - §fRefined Gudgeon Oil  @
+§7 - §fRefined Gudgeon Meat  @
+§7Class: §fArcher@
+§3[R]§b Main Attack:@
+§6Buying:@
+§6For:@
+§cExchange:@
+§3Marketplace:@
+§7Click to View@
+§7Left-Click to sell an item@
+§7Right-Click to buy an item@
+§aPurchased@
+§7 - §fRing@
+§fDesert  @
+§7Right-click to reset@
+§7your skill points@
+§7Click to set the amount in chat@
+§7Click to set the price in chat@
+§6Selling:@
+§7Cancel current trade@
+§7and get your items back@
+§aSold Out@
+§6Lose all of these and you'll drop your items!@
+§6They will regenerate 1 point per minecraft day.@
+§7You can buy a revealed@
+§7version of this item@
+§7on the Exchange in bulk@
+§fPowder Exchange §7to get a@
+§7free §6T4 Powder §7of your choice@
+§7Class: §fAssassin@
+§7§lLeft click to sort by: §fLevel@
 §7§lRight click to sort by: §fStarted
 §7§lLeft click to sort by: §fStarted
 §7§lRight click to sort by: §fName
