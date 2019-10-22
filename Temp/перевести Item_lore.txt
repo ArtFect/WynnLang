@@ -1568,61 +1568,61 @@
 §7to dodge attacks and increase@§7уклониться от атак, а также увеличивать
 §7the §f❋ Air§7 damage you may@§7§f❋ Воздух§7 урон, который ты можешь
 §7inflict.@§7нанести.
-§7Can gather Unprocessed Fish
-§7Can make Scrolls
-§7Can make Spears and Daggers
-§7Come back everyday for
-§7amazing daily rewards
-§6Streak Multiplier: §e1
-§7Log in everyday to increase
-§7your reward multiplier!
-§7Can gather Unprocessed Logs
-§7Can make Accessories
-§7Can make Boots and Pants
-§7Can gather Unprocessed Ores
-§7Can make Potions
-§7Can make Bows and Wands
-§7Scrap & Open Crates
-§3Buy more crates at 
-§bwynncraft.com/store
-§7Use the §aperks§7 you 
-§7bought in the §6store!
-§3VIP+§7 & §5HERO §7Only
-§7Can gather Unprocessed Crops
-§7Can make Food
-§7Can make Helmets and Chestplates
-§7Click an unprocessed
-§7item in your inventory
-§7to refine it
-§a✔§a Left-Click §7to refine to:
-§7 - §fRefined Wheat String  
-§a✔§6 Right-Click §7to refine to:
-§7 - §fRefined Wheat Grains  
-§fShift-Click§7 to refine non-stop
-§7 - §fRefined Oak Wood  
-§7 - §fRefined Oak Paper  
-§7Ingredient Slots ->
-§8Items you craft
-§8will show up here
-§a✔ Left-Click §7to craft:
-§7Crafting Time: §f5.0s
-§fShift-Click§7 to craft non-stop
-§cClick to cancel
-§cYou do not have enough
-§citems to craft from this
-§crecipe template
-§7§lRight-Click to dump §c§lall items §7§linto your bank
-§7Transfer §f64²§7 into §f1²½
-§fClick §7to buy§f 1
-§fShift + Left-Click §7to buy§f 5
-§fShift + Right-Click §7to buy§f All
-§7Transfer §f1²½§7 into §f64²
-§6Price:
-§7You are selling:
-§7Upgrade §f4 powders§7 to
-§7get a powder of a
-§7higher tier
-§7You cannot afford this!
+§7Can gather Unprocessed Fish@§7Может собирать Необработанную Рыбу
+§7Can make Scrolls@§7Может делать Свитки
+§7Can make Spears and Daggers@§7Может делать Копья и Кинжалы
+§7Come back everyday for@§7Возвращайся каждый день за
+§7amazing daily rewards@§7чудесной ежедневной наградой
+§6Streak Multiplier: §e1@§6Множитель Лута: §e1
+§7Log in everyday to increase@§7Заходи каждый день для повышения
+§7your reward multiplier!@твоего множителя награды!
+§7Can gather Unprocessed Logs@§7Может собирать Необработанные Бревна 
+§7Can make Accessories@§7Может делать Аксессуары
+§7Can make Boots and Pants@§7Может делать Ботинки и Штаны
+§7Can gather Unprocessed Ores@§7Может собирать Необработанные Руды
+§7Can make Potions@§7Может делать Зелья
+§7Can make Bows and Wands@§7Может делать Луки и Посохи
+§7Scrap & Open Crates@§7Утилизация и Открытие Контейнеров
+§3Buy more crates at @§3Купи больше контейнеров на
+§bwynncraft.com/store@ 
+§7Use the §aperks§7 you @§7Используй §aпривилегии§7 тобой
+§7bought in the §6store!@§7купленные в §6магазине!
+§3VIP+§7 & §5HERO §7Only@§3VIP+§7 и §5HERO §7Только
+§7Can gather Unprocessed Crops@§7Может собирать Необработанный Урожай
+§7Can make Food@§7Может делать Еду
+§7Can make Helmets and Chestplates@§7Может делать Шлема и Нагрудники
+§7Click an unprocessed@§7Кликни на необработанный
+§7item in your inventory@§7предмет в твоем инвентаре
+§7to refine it@§7для его переработки
+§a✔§a Left-Click §7to refine to:@§a✔§a Левый Клик §7для переработки в:
+§7 - §fRefined Wheat String  @§7 - §fПереработанная Пшеничная Нить  
+§a✔§6 Right-Click §7to refine to:@§a✔§6 Правый Клик §7для переработки в:
+§7 - §fRefined Wheat Grains  @§7 - §fПереработанное Пшеничное Зерно
+§fShift-Click§7 to refine non-stop@§fШифт-Клик§7 для переработки нон-стоп
+§7 - §fRefined Oak Wood  @§7 - §fПереработанное Бревно Дуба
+§7 - §fRefined Oak Paper  @§7 - §fПереработанная Дубовая Бумага
+§7Ingredient Slots ->@§7Слоты для Ингредиентов ->
+§8Items you craft@§8Скрафченные тобой предметы
+§8will show up here@§8окажутся здесь
+§a✔ Left-Click §7to craft:@§a✔ Левый Клик §7для крафта:
+§7Crafting Time: §f5.0s@§7Время Крафта: §f5.0с
+§fShift-Click§7 to craft non-stop@§fШифт-Клик§7 для крафта нон-стоп
+§cClick to cancel@§cКликни для отмены
+§cYou do not have enough@§cУ тебя недостаточно
+§citems to craft from this@§cпредметов для крафта из этого
+§crecipe template@§cшаблона рецепта
+§7§lRight-Click to dump §c§lall items §7§linto your bank@§7§lПравый Клик для сброса §c§lвсех предметов §7§lв твой банк
+§7Transfer §f64²§7 into §f1²½@§7Перевести §f64²§7 в §f1²½
+§fClick §7to buy§f 1@§fКликни §7для покупки§f 1
+§fShift + Left-Click §7to buy§f 5@§fШифт + Левый Клик §7для покупки§f 5
+§fShift + Right-Click §7to buy§f All@§fШифт + Правый Клик §7для покупки§f Всего
+§7Transfer §f1²½§7 into §f64²@§7Перевести §f1²½§7 в §f64²
+§6Price:@§6Цена:
+§7You are selling:@§7Ты продаешь:
+§7Upgrade §f4 powders§7 to@§7Скомбинируй §f4 порошка§7 для
+§7get a powder of a@§7получения порошка более
+§7higher tier@§7высокого уровня
+§7You cannot afford this!@§7Ты не можешь себе позволить это!
 §fWynn Plains  
 §8Open the §7attack effect§8 menu
 §8Open the §7player effect§8 menu
