@@ -1881,86 +1881,86 @@
 §7Create a cloud effect@§7Создает эффект облака
 
 #########################продажа блексмиту##########################
-§e- §eUnidentified Spear
-§e- §eUnidentified Leggings
-§7- §eUnidentified Spear
-§7- §eUnidentified Leggings
-§e- §eUnidentified Helmet
-§7- §eUnidentified Helmet
-§e- §aUnidentified Leggings
-§e- §bUnidentified Leggings
-§e- §dUnidentified Chestplate
-§e- §dUnidentified Dagger
-§7- §aUnidentified Leggings
-§7- §bUnidentified Leggings
-§7- §dUnidentified Chestplate
-§7- §dUnidentified Dagger
-§e- §eUnidentified Ring
-§7- §eUnidentified Ring
-§e- §aUnidentified Necklace
-§e- §bUnidentified Chestplate
-§7- §aUnidentified Necklace
-§7- §bUnidentified Chestplate
-§e- §eUnidentified Chestplate
-§7- §eUnidentified Chestplate
-§e- §dUnidentified Spear
-§7- §dUnidentified Spear
-§e- §eUnidentified Wand
-§e- §dUnidentified Helmet
-§7- §eUnidentified Wand
-§7- §dUnidentified Helmet
-§e- §eUnidentified Dagger
-§7- §eUnidentified Dagger
-§e- §bUnidentified Wand
-§e- §bUnidentified Bow
-§7- §bUnidentified Wand
-§7- §bUnidentified Bow
-§e- §dUnidentified Wand
-§7- §dUnidentified Wand
-§e- §dUnidentified Bow
-§7- §dUnidentified Bow
-§e- §aUnidentified Helmet
-§7- §aUnidentified Helmet
-§e- §dUnidentified Ring
-§e- §bUnidentified Boots
-§e- §bUnidentified Helmet
-§e- §eUnidentified Boots
-§7- §eUnidentified Boots
-§e- §bUnidentified Spear
-§7- §bUnidentified Spear
-§e- §dUnidentified Boots
-§e- §dUnidentified Bracelet
-§e- §dUnidentified Leggings
-§e- §aUnidentified Boots
-§7- §dUnidentified Leggings
-§7- §aUnidentified Boots
-§e- §eUnidentified Bow
-§7- §eUnidentified Bow
-§e- §dUnidentified Necklace
-§7- §dUnidentified Necklace
-§7- §bUnidentified Helmet
-§7- §bUnidentified Dagger
-§7- §dUnidentified Bracelet
-§e- §bUnidentified Dagger
-§e- §eUnidentified Necklace
-§7- §eUnidentified Necklace
-§7- §dUnidentified Boots
-§e- §aUnidentified Chestplate
-§7- §aUnidentified Chestplate
-§e- §aUnidentified Bracelet
-§7- §aUnidentified Bracelet
-§7- §bUnidentified Boots
-§e- §aUnidentified Spear
-§7- §aUnidentified Spear
-§7- §dUnidentified Ring
-§e- §eUnidentified Bracelet
-§7- §eUnidentified Bracelet
-§e- §aUnidentified Ring
-§7- §aUnidentified Ring
-§e- §bUnidentified Ring
-§7- §bUnidentified Ring
-§e- §bUnidentified Bracelet
-§7- §bUnidentified Bracelet
+§e- §eUnidentified Spear@§e- §eНеидентифицированное Копье
+§7- §eUnidentified Spear@§7- §eНеидентифицированное Копье
+§e- §eUnidentified Helmet@§e- §eНеидентифицированный Шлем
+§7- §eUnidentified Helmet@§7- §eНеидентифицированный Шлем
+§e- §eUnidentified Leggings@§e- §eНеидентифицированные Штаны
+§7- §aUnidentified Leggings@§7- §aНеидентифицированные Штаны
+§7- §bUnidentified Leggings@§7- §bНеидентифицированные Штаны
+§7- §eUnidentified Leggings@§7- §eНеидентифицированные Штаны
+§e- §aUnidentified Leggings@§e- §aНеидентифицированные Штаны
+§e- §bUnidentified Leggings@§e- §bНеидентифицированные Штаны
+§e- §eUnidentified Dagger@§e- §eНеидентифицированный Кинжал
+§7- §eUnidentified Dagger@§7- §eНеидентифицированный Кинжал
+§e- §dUnidentified Dagger@§e- §dНеидентифицированный Кинжал
+§7- §dUnidentified Dagger@§7- §dНеидентифицированный Кинжал
+§e- §eUnidentified Ring@§e- §eНеидентифицированное Кольцо
+§7- §eUnidentified Ring@§7- §eНеидентифицированное Кольцо
+§e- §aUnidentified Necklace@§e- §aНеидентифицированный Амулет
+§7- §aUnidentified Necklace@§7- §aНеидентифицированный Амулет
+§e- §dUnidentified Chestplate@§e- §dНеидентифицированный Нагрудник
+§e- §bUnidentified Chestplate@§e- §bНеидентифицированный Нагрудник
+§7- §dUnidentified Chestplate@§7- §dНеидентифицированный Нагрудник
+§7- §bUnidentified Chestplate@§7- §bНеидентифицированный Нагрудник
+§e- §eUnidentified Chestplate@§e- §eНеидентифицированный Нагрудник
+§7- §eUnidentified Chestplate@§7- §eНеидентифицированный Нагрудник
+§e- §dUnidentified Spear@§e- §dНеидентифицированное Копье
+§7- §dUnidentified Spear@§7- §dНеидентифицированное Копье
+§e- §eUnidentified Wand@§e- §eНеидентифицированный Посох
+§e- §dUnidentified Helmet@§e- §dНеидентифицированный Шлем
+§7- §eUnidentified Wand@§7- §eНеидентифицированный Посох
+§7- §dUnidentified Helmet@§7- §dНеидентифицированный Шлем
+§e- §bUnidentified Wand@§e- §bНеидентифицированный Посох
+§e- §bUnidentified Bow@§e- §bНеидентифицированный Лук
+§7- §bUnidentified Wand@§7- §bНеидентифицированный Посох
+§7- §bUnidentified Bow@§7- §bНеидентифицированный Лук
+§e- §dUnidentified Wand@§e- §dНеидентифицированный Посох
+§7- §dUnidentified Wand@§7- §dНеидентифицированный Посох
+§e- §dUnidentified Bow@§e- §dНеидентифицированный Лук
+§7- §dUnidentified Bow@§7- §dНеидентифицированный Лук
+§e- §aUnidentified Helmet@§e- §aНеидентифицированный Шлем
+§7- §aUnidentified Helmet@§7- §aНеидентифицированный Шлем
+§e- §dUnidentified Ring@§e- §dНеидентифицированное Кольцо
+§e- §bUnidentified Boots@§e- §bНеидентифицированные Ботинки
+§e- §bUnidentified Helmet@§e- §bНеидентифицированный Шлем
+§e- §eUnidentified Boots@§e- §eНеидентифицированные Ботинки
+§7- §eUnidentified Boots@§7- §eНеидентифицированные Ботинки
+§e- §bUnidentified Spear@§e- §bНеидентифицированное Копье
+§7- §bUnidentified Spear@§7- §bНеидентифицированное Копье
+§e- §dUnidentified Boots@§e- §dНеидентифицированные Ботинки
+§e- §dUnidentified Bracelet@§e- §dНеидентифицированный Браслет
+§e- §dUnidentified Leggings@§e- §dНеидентифицированные Штаны
+§e- §aUnidentified Boots@§e- §aНеидентифицированные Ботинки
+§7- §dUnidentified Leggings@§7- §dНеидентифицированные Штаны
+§7- §aUnidentified Boots@§7- §aНеидентифицированные Ботинки
+§e- §eUnidentified Bow@§e- §eНеидентифицированный Лук
+§7- §eUnidentified Bow@§7- §eНеидентифицированный Лук
+§e- §dUnidentified Necklace@§e- §dНеидентифицированный Амулет
+§7- §dUnidentified Necklace@§7- §dНеидентифицированный Амулет
+§7- §bUnidentified Helmet@§7- §bНеидентифицированный Шлем
+§7- §bUnidentified Dagger@§7- §bНеидентифицированный Кинжал
+§7- §dUnidentified Bracelet@§7- §dНеидентифицированный Браслет
+§e- §bUnidentified Dagger@§e- §bНеидентифицированный Кинжал
+§e- §eUnidentified Necklace@§e- §eНеидентифицированный Амулет
+§7- §eUnidentified Necklace@§7- §eНеидентифицированный Амулет
+§7- §dUnidentified Boots@§7- §dНеидентифицированные Ботинки
+§e- §aUnidentified Chestplate@§e- §aНеидентифицированный Нагрудник
+§7- §aUnidentified Chestplate@§7- §aНеидентифицированный Нагрудник
+§e- §aUnidentified Bracelet@§e- §aНеидентифицированный Браслет
+§7- §aUnidentified Bracelet@§7- §aНеидентифицированный Браслет
+§7- §bUnidentified Boots@§7- §bНеидентифицированные Ботинки
+§e- §aUnidentified Spear@§e- §aНеидентифицированное Копье
+§7- §aUnidentified Spear@§7- §aНеидентифицированное Копье
+§7- §dUnidentified Ring@§7- §dНеидентифицированное Кольцо
+§e- §eUnidentified Bracelet@§e- §eНеидентифицированный Браслет
+§7- §eUnidentified Bracelet@§7- §eНеидентифицированный Браслет
+§e- §aUnidentified Ring@§e- §aНеидентифицированное Кольцо
+§7- §aUnidentified Ring@§7- §aНеидентифицированное Кольцо
+§e- §bUnidentified Ring@§e- §bНеидентифицированное Кольцо
+§7- §bUnidentified Ring@§7- §bНеидентифицированное Кольцо
+§e- §bUnidentified Bracelet@§e- §bНеидентифицированный Браслет
+§7- §bUnidentified Bracelet@§7- §bНеидентифицированный Браслет
 
 ############################Обычные предметы#######################
 §7Crafting Material
