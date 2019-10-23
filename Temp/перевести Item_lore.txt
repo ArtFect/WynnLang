@@ -100,7 +100,7 @@
 §6Price: 200 gold coins@§6Цена: 200 золотых монет
 §7Buy 5 ingredient bombs!@§7Купить 5 ингредиент бомб!
 §6Price: 160 gold coins@§6Цена: 160 золотых монет
-§7Buy 5 Profession Speed bombs!@§7Купить 5 Profession Speed бомбу!
+§7Buy 5 Profession Speed bombs!@§7Купить 5 Профессии Скоростная бомб!
 §7Buy 5 party bombs!@§7Купить 5 пати бомб!
 §6Price: 80 gold coins@§6Цена: 80 золотых монет
 §7Buy 5 disguise bombs!@§7Купить 5 маскировочных бомб!
@@ -132,7 +132,7 @@
 
 #######################Квестовые предметы#######################
 §7Deliver Goods to:@§7Доставить товары на:
-§7Signed, Kaosuw@§7Подпись, Kaosuw
+§7Signed, Kaosuw@§7Подпись, Каосув
 §7We hid the sceptre in the house next to that cart.@§7Мы спрятали скипетр в доме рядом с этой повозкой.
 §7No one would supsect it that close to the trap.@§7Никто бы не заподозрил его искать так близко к ловушке.
 §7[...] was hard enough to get rid of.@§7[...] was hard enough to get rid of.
@@ -144,14 +144,14 @@
 §3lead it down the trail, heading to the slime@§3ведет она к к слайму, что вниз по пути
 §3sacrifice its soul, in the blood and grime.@§3пожертвует свою душу, если туда ее привести.
 §7The letter says in faded letters:@§7Письмо написано выцветшими буквами:
-§7"The King of Troms has hereby invited you@§7"Король Troms'а настоящим приглашает вас
+§7"The King of Troms has hereby invited you@§7"Король Тромса настоящим приглашает вас
 §7to help assist in fighting off the undead.@§7чтобы помочь в борьбе с нежитью.
 §7As a gift, we have lent a house to you@§7В качестве подарка, мы одолжили вам дом
-§7so you can live near Troms for the time being.@§7чтобы вы могли жить рядом с Troms'ом в настоящее время.
+§7so you can live near Troms for the time being.@§7чтобы вы могли жить рядом с Тромсом в настоящее время.
 §7Your house will be at the coordinates:@§7Ваш дом будет на координатах:
 §3[-732, 65, -974]@ 
 §7Signed,@§7Подпись,
-§7Carlos, Adviser for the King of Troms"@§7Carlos, Советник Короля Troms'а"
+§7Carlos, Adviser for the King of Troms"@§7Карлос, Советник Короля Тромса"
 §7§oWhen leaving the island, the real@§7§oКогда покинешь остров, настоящее
 §7§otreasure will be found, buried deep.@§7§oсокровище будет найдено, похоронено глубоко.
 §7This rusted old hook is useless to you.@§7Этот ржавый старый крюк бесполезен для тебя.
@@ -190,7 +190,7 @@
 §7duplicate itself infinitely, allowing@§7дублировать себя бесконечно, позволяя
 §7it to feed thousands of@§7кормить тысячи
 §7people for years.@§7людей годами.
-§7Addressed to Rohem, House No. 09, Cinfras@§7Адресовано Rohem'у, Дом номер 09, Cinfras
+§7Addressed to Rohem, House No. 09, Cinfras@§7Адресовано Рохему, Дом номер 09, Цинфрас
 §8Throw tribute an item to the wood that stands out.@§8Брось предмет-дань на древесину, которая выделяется.
 §8The right angle will open the way@§8Правильный угол откроет путь
 §7It feels extremely worn-down@§7По ощущениям это очень изношенное
@@ -198,9 +198,9 @@
 §7This key can be used to open the door to the Library.@§7Этим ключом можно открыть дверь в Библиотеку.
 §7You should probably return this to the Kitchen...@§7Наверное, тебе стоит вернуть это на Кухню...
 §7This key can be used to open the door to the Study.@§7Этим ключом можно открыть дверь в Кабинет.
-§7This key can be used to open the door to Timmy's Bedroom.@§7Этим ключом можно открыть дверь в спальню Timmy.
+§7This key can be used to open the door to Timmy's Bedroom.@§7Этим ключом можно открыть дверь в спальню Тимми.
 §7Throw §3[30 Token] §7into the hopper@§7Брось §3[30 Жетонов] §7 в воронку
-§7to progress to the next challenge@§7для перехода к седующему челленджу
+§7to progress to the next challenge@§7для перехода к следующему челленджу
 §7This key can be used to open the door to the Master Bedroom.@§7Этим ключом можно открыть дверь в Главную спальню.
 §7This ore is about to explode!@§7Эта руда вот-вот взорвется!
 §7The explosive properties of this ore has been subdued temporarily.@§7Взрывоопасные свойства этой руды были временно подавлены.
@@ -212,9 +212,9 @@
 §7Behind the one who watches the §oblue§7,@§7Позади того, кто наблюдает за §oсиним§7,
 §7Near the §ored§7 and §obrown§7,@§7Рядом с §oкрасным§7 и §oкоричневым§7, 
 §7And under the §oyellow§7.@§7И под §oжелтым§7.
-§7Addressed to Mashord@§7Адресовано Mashord'у
+§7Addressed to Mashord@§7Адресовано Машорду
 §7Return to:@§7Вернуть:
-§7Gawrick, Cinfras, House Num. 03@§7Gawrick, Cinfras, Дом номер 03
+§7Gawrick, Cinfras, House Num. 03@§7Гаврик, Цинфрас, Дом номер 03
 §7It contains some sort of powerful spell...@§7Содержит какое-то мощное заклинание...
 §7The crate is filled with christmas@§7Ящик наполнен рождественскими 
 §7goodies.@§7лакомствами.
@@ -235,7 +235,7 @@
 §8Can be used with §ncannons@§7Может быть использовано с §nпушками
 §8to destroy other war machines@§7для уничтожения других машин
 §8which results to selfdestruct@§7что приводит к самоуничтожению
-§7The letter is made out of stone.@§7Gисьмо сделано из камня/
+§7The letter is made out of stone.@§7Письмо сделано из камня/
 §7This seems to be some kind of@§7Это похоже на некий
 §7power source...@§7источник энергии...
 §7window... It looks like it's not@§7окно... Похоже оно не
@@ -250,18 +250,18 @@
 §7§oA cave west of the lab contains@§7§oВ пещере к западу от лаборатории есть
 §7§oa boulder you must destroy to enter@§7§oкамень, который ты должен уничтожить, чтобы войти
 §7§othe lab you are so seeking.@§7§oв лабораторию, что ты ищешь.
-§7Dear Nilrem...@§7Дорогой Nilrem...
+§7Dear Nilrem...@§7Дорогой Нилрем...
 §7The map is too tattered to make out, but it@§7Карта слишком потрепана, чтобы разобраться в ней, но
-§7is signed by someone named Seluc. He must@§7на ней стоит подпись некого Seluc'а. Он должен
+§7is signed by someone named Seluc. He must@§7на ней стоит подпись некого Селука. Он должен
 §7be nearby.@§7быть поблизости.
 §7Ingredients:@§7Ингредиенты:
 §7Snail Slime: 1003 139 -4853@§7Слизь Змеи: 1003 139 -4853
 §7Voidroot: 965 42 -4443@§7Корень Пустоты: 965 42 -4443
-§7Zork Rinds: 1217 126 -4929@§7Шкура Zork'а: 1217 126 -4929
+§7Zork Rinds: 1217 126 -4929@§7Шкура Зорка: 1217 126 -4929
 §7Quicksalt: 1217 126 -4929@§7Быстрая Соль: 1217 126 -4929
 §7It's a rusty piece of metal@§7Это ржавый кусок металла
 §7A strong rope capable of@§7Сильная веревка, способная
-§7holding a lot of weight.@§7выдержать много веса.
+§7holding a lot of weight.@§7выдержать большое количество веса.
 §7Use to open a nearby@§7Используй для открытия ближайшей
 §7door@§7двери
 §7Allows you to go through@§7Позволяет тебе пройти через
@@ -291,7 +291,7 @@
 §7Its written in some kind of foreign language.@§7Он написан на неком странном языке.
 §7Ingriedients:@§7§7Ингредиенты:
 §7Sunrise Flour: 1103 113 -4434@§7Очищенная Мука: 1103 113 -4434
-§7Blue-Ring Grook Egg: 626 43 -4645@§7Синее Яйцо Grook'а: 626 43 -4645
+§7Blue-Ring Grook Egg: 626 43 -4645@§7Синее Яйцо Грука: 626 43 -4645
 §7Skyhigh Raspberry: 1400 102 -3940@§7Высокорастущая Малина: 1400 102 -3940
 §7Talking Mushroom: 1100 124 -4869@§7Говорящий Гриб: 1100 124 -4869
 §7as a golden masterpiece@§7как золотой шедевр
@@ -300,7 +300,7 @@
 §7You feel the love growing as you hold it@§7Ты чувствуешь, как растет любовь, когда ты держишь это.
 §7A set of coordinates is carved into it:@§7Набор координат вырезан в нем:
 §f-701,15,-275@ 
-§7With the help of chef Frank,@§7С помощью шефа Frank'а,
+§7With the help of chef Frank,@§7С помощью шефа Франка,
 §7you have created a pie which he calls@§7ты создал пирог, который он назвал
 §7"Pretty high on the pie spectrum."@§7"Довольно высоко по шкале пирогов."
 §8This carved wood must be important to the tribe.@§7Эта резная древесина должно быть важна для племени.
@@ -459,56 +459,56 @@
 
 #############################Порошки#############################
 §8Adding 2 powders of tier 4-6@§8Добавление 2 порошков уровня 4-6
-§8at the powder master will@§8у powder master'а
+§8at the powder master will@§8у мастера порошков
 §8unlock a special attack/effect.@§8разблокирует специальную атаку/эффект.
 §8Add this powder to your items@§8Добавь этот порошок на свои предметы
-§8by visiting a Powder Master@§8посетив Powder Master'а,
+§8by visiting a Powder Master@§8посетив Мастера Порошков,
 §8or use it as an ingredient@§8или используй его как ингредиент
 §8when crafting.@§8при крафте.
 
 #####################Цены у торговцев##################
-§6 - §c✖ §41 Witherhead's Rib@§6 - §c✖ §41 Ребро Witherhead'а
-§6 - §c✖ §42 Witherhead's Rib@§6 - §c✖ §42 Ребро Witherhead'а
-§6 - §c✖ §43 Witherhead's Rib@§6 - §c✖ §43 Ребро Witherhead'а
-§6 - §a✔ §21 Witherhead's Rib@§6 - §a✔ §21 Ребро Witherhead'а
-§6 - §a✔ §22 Witherhead's Rib@§6 - §a✔ §22 Ребро Witherhead'а
-§6 - §a✔ §23 Witherhead's Rib@§6 - §a✔ §23 Ребро Witherhead'а
-§6 - §c✖ §44 Decrepit Sewers Fragment@§6 - §c✖ §44 Decrepit Sewers Фрагмент
-§6 - §c✖ §41 Decrepit Sewers Fragment@§6 - §c✖ §41 Decrepit Sewers Фрагмент
-§6 - §a✔ §24 Decrepit Sewers Fragment@§6 - §a✔ §24 Decrepit Sewers Фрагмент
-§6 - §a✔ §21 Decrepit Sewers Fragment@§6 - §a✔ §21 Decrepit Sewers Фрагмент
+§6 - §c✖ §41 Witherhead's Rib@§6 - §c✖ §41 Ребро Визерхеда
+§6 - §c✖ §42 Witherhead's Rib@§6 - §c✖ §42 Ребро Визерхеда
+§6 - §c✖ §43 Witherhead's Rib@§6 - §c✖ §43 Ребро Визерхеда
+§6 - §a✔ §21 Witherhead's Rib@§6 - §a✔ §21 Ребро Визерхеда
+§6 - §a✔ §22 Witherhead's Rib@§6 - §a✔ §22 Ребро Визерхеда
+§6 - §a✔ §23 Witherhead's Rib@§6 - §a✔ §23 Ребро Визерхеда
+§6 - §c✖ §44 Decrepit Sewers Fragment@§6 - §c✖ §44 Ветхая Канализация Фрагмент
+§6 - §c✖ §41 Decrepit Sewers Fragment@§6 - §c✖ §41 Ветхая Канализация Фрагмент
+§6 - §a✔ §24 Decrepit Sewers Fragment@§6 - §a✔ §24 Ветхая Канализация Фрагмент
+§6 - §a✔ §21 Decrepit Sewers Fragment@§6 - §a✔ §21 Ветхая Канализация Фрагмент
 §6 - §a✔ §21 Creeper Skin@§6 - §a✔ §21 Кожа Крипера
 §6 - §c✖ §41 Creeper Skin@§6 - §c✖ §41 Кожа Крипера
 §6 - §a✔ §21 Pigman Hide@§6 - §a✔ §21 Шкура Пигмена
 §6 - §c✖ §41 Pigman Hide@§6 - §c✖ §41 Шкура Пигмена
 §6 - §c✖ §41 Slime Scooper@§6 - §c✖ §41 Совок для слизи
 §6 - §c✖ §41 Brown Horse@§6 - §c✖ §41 Коричневая Лошадь
-§6 - §c✖ §41 Theorick's Ice Shard@§6 - §c✖ §41 Осколок Льда Theorick'а
-§6 - §c✖ §43 Theorick's Ice Shard@§6 - §c✖ §43 Осколок Льда Theorick'а
-§6 - §c✖ §46 Theorick's Ice Shard@§6 - §c✖ §46 Осколок Льда Theorick'а
-§6 - §a✔ §21 Theorick's Ice Shard@§6 - §a✔ §21 Осколок Льда Theorick'а
-§6 - §a✔ §23 Theorick's Ice Shard@§6 - §a✔ §23 Осколок Льда Theorick'а
-§6 - §a✔ §26 Theorick's Ice Shard@§6 - §a✔ §26 Осколок Льда Theorick'а
-§6 - §c✖ §44 Ice Barrows Fragment@§6 - §c✖ §44 Ice Barrows Фрагмент
-§6 - §c✖ §42 Ice Barrows Fragment@§6 - §c✖ §42 Ice Barrows Фрагмент
-§6 - §a✔ §22 Ice Barrows Fragment@§6 - §a✔ §22 Ice Barrows Фрагмент
-§6 - §a✔ §24 Ice Barrows Fragment@§6 - §a✔ §24 Ice Barrows Фрагмент
-§6 - §c✖ §41 Caissop's Master Piece@§6 - §c✖ §41 Шедевр Caissop'а
-§6 - §a✔ §21 Caissop's Master Piece@§6 - §a✔ §21 Шедевр Caissop'а
-§6 - §c✖ §43 Siegfried Cookies@§6 - §c✖ §43 Печенья Siegfried'а
+§6 - §c✖ §41 Theorick's Ice Shard@§6 - §c✖ §41 Осколок Льда Теорика
+§6 - §c✖ §43 Theorick's Ice Shard@§6 - §c✖ §43 Осколок Льда Теорика
+§6 - §c✖ §46 Theorick's Ice Shard@§6 - §c✖ §46 Осколок Льда Теорика
+§6 - §a✔ §21 Theorick's Ice Shard@§6 - §a✔ §21 Осколок Льда Теорика
+§6 - §a✔ §23 Theorick's Ice Shard@§6 - §a✔ §23 Осколок Льда Теорика
+§6 - §a✔ §26 Theorick's Ice Shard@§6 - §a✔ §26 Осколок Льда Теорика
+§6 - §c✖ §44 Ice Barrows Fragment@§6 - §c✖ §44 Ледяной Курган Фрагмент
+§6 - §c✖ §42 Ice Barrows Fragment@§6 - §c✖ §42 Ледяной Курган Фрагмент
+§6 - §a✔ §22 Ice Barrows Fragment@§6 - §a✔ §22 Ледяной Курган Фрагмент
+§6 - §a✔ §24 Ice Barrows Fragment@§6 - §a✔ §24 Ледяной Курган Фрагмент
+§6 - §c✖ §41 Caissop's Master Piece@§6 - §c✖ §41 Шедевр Каизопа
+§6 - §a✔ §21 Caissop's Master Piece@§6 - §a✔ §21 Шедевр Каизопа
+§6 - §c✖ §43 Siegfried Cookies@§6 - §c✖ §43 Печенья Зигфрида
 §6 - §c✖ §41 Dragon's Tooth@§6 - §c✖ §41 Зуб Дракона
-§6 - §c✖ §41 Siegfried's Autograph@§6 - §c✖ §41 Автограф Siegfried'а
+§6 - §c✖ §41 Siegfried's Autograph@§6 - §c✖ §41 Автограф Зигфрида
 §6 - §c✖ §41 Unknown Currency@§6 - §c✖ §41 Неизвестная Валюта
 §6 - §c✖ §43 Jungle Jet Shard@§6 - §c✖ §43 Джунглевый Осколок Янтаря
 §6 - §c✖ §43 Jungle Turquoise Shard@§6 - §c✖ §43 Джунглевый Осколок Бирюзы
 §6 - §c✖ §43 Jungle Topaz Shard@§6 - §c✖ §43 Джунглевый Осколок Топаза
 §6 - §c✖ §43 Jungle Jade Shard@§6 - §c✖ §43 Джунглевый Осколок Нефрита
 §6 - §c✖ §43 Jungle Pearl Shard@§6 - §c✖ §43 Джунглевый Осколок Жемчужины
-§6 - §c✖ §43 Slykaar's Heart@§6 - §c✖ §43 Сердце Slykaar'а
-§6 - §c✖ §44 Slykaar's Heart@§6 - §c✖ §44 Сердце Slykaar'а
-§6 - §a✔ §22 Undergrowth Ruins Fragment@§6 - §a✔ §22 Undergrowth Ruins Фрагмент
-§6 - §c✖ §410 Undergrowth Ruins Fragment@§6 - §c✖ §410 Undergrowth Ruins Фрагмент
-§6 - §c✖ §45 Undergrowth Ruins Fragment@§6 - §c✖ §45 Undergrowth Ruins Фрагмент
+§6 - §c✖ §43 Slykaar's Heart@§6 - §c✖ §43 Сердце Слайкаара
+§6 - §c✖ §44 Slykaar's Heart@§6 - §c✖ §44 Сердце Слайкаара
+§6 - §a✔ §22 Undergrowth Ruins Fragment@§6 - §a✔ §22 Заросшие Руины Фрагмент
+§6 - §c✖ §410 Undergrowth Ruins Fragment@§6 - §c✖ §410 Заросшие Руины Фрагмент
+§6 - §c✖ §45 Undergrowth Ruins Fragment@§6 - §c✖ §45 Заросшие Руины Фрагмент
 §6 - §a✔ §21 Small Pearl@§6 - §a✔ §21 Маленький Жемчуг
 §6 - §a✔ §21 Glowing Pearl@§6 - §a✔ §21 Светящийся Жемчуг
 §6 - §a✔ §21 Large Glowing Pearl@§6 - §a✔ §21 Большой Светящийся Жемчуг
@@ -544,133 +544,133 @@
 §6 - §c✖ §41 Sunken Block of Gold@§6 - §c✖ §41 Затонувший Блок Золота
 §6 - §c✖ §41 Sunken Artifact@§6 - §c✖ §41 Затонувший Артефакт
 §6 - §a✔ §21 Sunken Artifact@§6 - §a✔ §21 Затонувший Артефакт
-§6 - §c✖ §42 Lost Sanctuary Fragment@§6 - §c✖ §42 Lost Sanctuary Фрагмент
+§6 - §c✖ §42 Lost Sanctuary Fragment@§6 - §c✖ §42 Затерянное Святилище Фрагмент
 §6 - §a✔ §21 Study Results@§6 - §a✔ §21 Результаты Исследования
 §6 - §c✖ §41 Study Results@§6 - §c✖ §41 Результаты Исследования
-§6 - §c✖ §41 Arakadicus' Eye@§6 - §c✖ §41 Глаз Arakadicus
-§6 - §c✖ §42 Arakadicus' Eye@§6 - §c✖ §42 Глаз Arakadicus
-§6 - §c✖ §44 Arakadicus' Eye@§6 - §c✖ §44 Глаз Arakadicus
-§6 - §a✔ §21 Arakadicus' Eye@§6 - §a✔ §21 Глаз Arakadicus
-§6 - §c✖ §42 Infested Pit Fragment@§6 - §c✖ §42 Infested Pit Фрагмент
-§6 - §c✖ §41 Infested Pit Fragment@§6 - §c✖ §41 Infested Pit Фрагмент
+§6 - §c✖ §41 Arakadicus' Eye@§6 - §c✖ §41 Глаз Аракадикус
+§6 - §c✖ §42 Arakadicus' Eye@§6 - §c✖ §42 Глаз Аракадикус
+§6 - §c✖ §44 Arakadicus' Eye@§6 - §c✖ §44 Глаз Аракадикус
+§6 - §a✔ §21 Arakadicus' Eye@§6 - §a✔ §21 Глаз Аракадикус
+§6 - §c✖ §42 Infested Pit Fragment@§6 - §c✖ §42 Зараженная Яма Фрагмент
+§6 - §c✖ §41 Infested Pit Fragment@§6 - §c✖ §41 Зараженная Яма Фрагмент
 §6 - §c✖ §41 OUT OF STOCK@§6 - §c✖ §41 НЕТ В НАЛИЧИИ
 §6 - §c✖ §41 Royal Token of Gratitude@§6 - §c✖ §41 Королевский Жетон Благодарности
 §6 - §a✔ §21 Royal Token of Gratitude@§6 - §a✔ §21 Королевский Жетон Благодарности
-§6 - §c✖ §42 Galleon's Graveyard Fragment@§6 - §c✖ §42 Galleon's Graveyard Фрагмент
+§6 - §c✖ §42 Galleon's Graveyard Fragment@§6 - §c✖ §42 Кладбище Галеона Фрагмент
 §6 - §a✔ §21 Crushed Bigfoot Bone@§6 - §a✔ §21 Измельченная Кость Йети
-§6 - §c✖ §42 Underworld Crypt Fragment@§6 - §c✖ §42 Underworld Crypt Фрагмент
-§6 - §c✖ §42 Sand-Swept Tomb Fragment@§6 - §c✖ §42 Sand-Swept Tomb Фрагмент
-§6 - §c✖ §42 Undergrowth Ruins Fragment@§6 - §c✖ §42 Undergrowth Ruins Фрагмент
+§6 - §c✖ §42 Underworld Crypt Fragment@§6 - §c✖ §42 Подземный Склеп Фрагмент
+§6 - §c✖ §42 Sand-Swept Tomb Fragment@§6 - §c✖ §42 Песчаная Гробница Фрагмент
+§6 - §c✖ §42 Undergrowth Ruins Fragment@§6 - §c✖ §42 Заросшие Руины Фрагмент
 §6 - §c✖ §41 Crushed Bigfoot Bone@§6 - §c✖ §41 Измельченная Кость Йети
 §6 - §c✖ §420 Antic Bead@§6 - §c✖ §420 Древние Бусы
-§6 - §a✔ §21 Zhight Money@§6 - §a✔ §21 Zhight Деньги
-§6 - §a✔ §22 Zhight Money@§6 - §a✔ §22 Zhight Деньги
-§6 - §a✔ §24 Zhight Money@§6 - §a✔ §24 Zhight Деньги
-§6 - §a✔ §25 Zhight Money@§6 - §a✔ §25 Zhight Деньги
-§6 - §a✔ §21 Dodegar's Ultimate Weapon@§6 - §a✔ §21 Абсолютное Оружие Dodegar'а
-§6 - §c✖ §41 Dodegar's Ultimate Weapon@§6 - §c✖ §41 Абсолютное Оружие Dodegar'а
-§6 - §a✔ §22 Charon's Brain@§6 - §a✔ §22 Мозг Charon'а
-§6 - §a✔ §23 Charon's Brain@§6 - §a✔ §23 Мозг Charon'а
-§6 - §a✔ §25 Charon's Brain@§6 - §a✔ §25 Мозг Charon'а
-§6 - §c✖ §41 Broken CorruptedÀÀÀDecrepitÀÀÀSewers Key@§6 - §c✖ §41 Разбитый Испорченный Decrepit Sewers Ключ
-§6 - §c✖ §42 Nii Rune@§6 - §c✖ §42 Nii Руна
-§6 - §c✖ §41 Broken CorruptedÀÀÀInfestedÀÀÀPit Key@§6 - §c✖ §41 Разбитый Испорченный Infested Pit Ключ
-§6 - §c✖ §43 Nii Rune@§6 - §c✖ §43 Nii Руна
-§6 - §c✖ §41 Broken CorruptedÀÀÀLostÀÀÀSanctuary Key@§6 - §c✖ §41 Разбитый Испорченный Lost Sanctuary Ключ
-§6 - §c✖ §44 Nii Rune@§6 - §c✖ §44 Nii Руна
-§6 - §c✖ §41 Broken CorruptedÀÀÀUnderworldÀÀÀCrypt Key@§6 - §c✖ §41 Разбитый Испорченный Underworld Crypt Ключ
-§6 - §c✖ §42 Uth Rune@§6 - §c✖ §42 Nii Руна
-§6 - §c✖ §41 Broken CorruptedÀÀÀSand-SweptÀÀÀTomb Key@§6 - §c✖ §41 Разбитый Испорченный Sand-Swept Tomb Ключ
-§6 - §c✖ §43 Uth Rune@§6 - §c✖ §43 Nii Руна
-§6 - §c✖ §41 Broken CorruptedÀÀÀIceÀÀÀBarrows Key@§6 - §c✖ §41 Разбитый Испорченный Ice Barrows Ключ
-§6 - §c✖ §44 Uth Rune@§6 - §c✖ §44 Nii Руна
-§6 - §c✖ §42 Corrupted Decrepit Sewers Fragment@§6 - §c✖ §42 Испорченный Decrepit Sewers Фрагмент
-§6 - §c✖ §42 Corrupted Infested Pit Fragment@§6 - §c✖ §42 Испорченный Infested Pit Фрагмент
-§6 - §c✖ §42 Corrupted Lost Sanctuary Fragment@§6 - §c✖ §42 Испорченный Lost Sanctuary Фрагмент
-§6 - §c✖ §42 Corrupted Underworld Crypt Fragment@§6 - §c✖ §42 Испорченный Underworld Crypt Фрагмент
-§6 - §c✖ §42 Corrupted Sand-Swept Tomb Fragment@§6 - §c✖ §42 Испорченный Sand-Swept Tomb Фрагмент
-§6 - §c✖ §42 Corrupted Ice Barrows Fragment@§6 - §c✖ §42 Испорченный Ice Barrows Фрагмент
-§6 - §a✔ §22 Infested Pit Fragment@§6 - §a✔ §22 Infested Pit Фрагмент
-§6 - §a✔ §21 Infested Pit Fragment@§6 - §a✔ §21 Infested Pit Фрагмент
-§6 - §a✔ §22 Sand-Swept Tomb Fragment@§6 - §a✔ §22 Sand-Swept Tomb Фрагмент
-§6 - §a✔ §23 Sand-Swept Tomb Fragment@§6 - §a✔ §23 Sand-Swept Tomb Фрагмент
-§6 - §a✔ §22 Underworld Crypt Fragment@§6 - §a✔ §22 Underworld Crypt Фрагмент
+§6 - §a✔ §21 Zhight Money@§6 - §a✔ §21 Жигт Деньги
+§6 - §a✔ §22 Zhight Money@§6 - §a✔ §22 Жигт Деньги
+§6 - §a✔ §24 Zhight Money@§6 - §a✔ §24 Жигт Деньги
+§6 - §a✔ §25 Zhight Money@§6 - §a✔ §25 Жигт Деньги
+§6 - §a✔ §21 Dodegar's Ultimate Weapon@§6 - §a✔ §21 Абсолютное Оружие Додегара
+§6 - §c✖ §41 Dodegar's Ultimate Weapon@§6 - §c✖ §41 Абсолютное Оружие Додегара
+§6 - §a✔ §22 Charon's Brain@§6 - §a✔ §22 Мозг Харона
+§6 - §a✔ §23 Charon's Brain@§6 - §a✔ §23 Мозг Харона
+§6 - §a✔ §25 Charon's Brain@§6 - §a✔ §25 Мозг Харона
+§6 - §c✖ §41 Broken CorruptedÀÀÀDecrepitÀÀÀSewers Key@§6 - §c✖ §41 Разбитый Испорченный Ветхая Канализация Ключ
+§6 - §c✖ §42 Nii Rune@§6 - §c✖ §42 Нии Руна
+§6 - §c✖ §41 Broken CorruptedÀÀÀInfestedÀÀÀPit Key@§6 - §c✖ §41 Разбитый Испорченный Зараженная Яма Ключ
+§6 - §c✖ §43 Nii Rune@§6 - §c✖ §43 Нии Руна
+§6 - §c✖ §41 Broken CorruptedÀÀÀLostÀÀÀSanctuary Key@§6 - §c✖ §41 Разбитый Испорченный Затерянное Святилище Ключ
+§6 - §c✖ §44 Nii Rune@§6 - §c✖ §44 Нии Руна
+§6 - §c✖ §41 Broken CorruptedÀÀÀUnderworldÀÀÀCrypt Key@§6 - §c✖ §41 Разбитый Испорченный Подземный Склеп Ключ
+§6 - §c✖ §42 Uth Rune@§6 - §c✖ §42 Нии Руна
+§6 - §c✖ §41 Broken CorruptedÀÀÀSand-SweptÀÀÀTomb Key@§6 - §c✖ §41 Разбитый Испорченный Песчаная Гробница Ключ
+§6 - §c✖ §43 Uth Rune@§6 - §c✖ §43 Нии Руна
+§6 - §c✖ §41 Broken CorruptedÀÀÀIceÀÀÀBarrows Key@§6 - §c✖ §41 Разбитый Испорченный Ледяной Курган Ключ
+§6 - §c✖ §44 Uth Rune@§6 - §c✖ §44 Нии Руна
+§6 - §c✖ §42 Corrupted Decrepit Sewers Fragment@§6 - §c✖ §42 Испорченный Ветхая Канализация Фрагмент
+§6 - §c✖ §42 Corrupted Infested Pit Fragment@§6 - §c✖ §42 Испорченный Зараженная Яма Фрагмент
+§6 - §c✖ §42 Corrupted Lost Sanctuary Fragment@§6 - §c✖ §42 Испорченный Затерянное Святилище Фрагмент
+§6 - §c✖ §42 Corrupted Underworld Crypt Fragment@§6 - §c✖ §42 Испорченный Подземный Склеп Фрагмент
+§6 - §c✖ §42 Corrupted Sand-Swept Tomb Fragment@§6 - §c✖ §42 Испорченный Песчаная Гробница Фрагмент
+§6 - §c✖ §42 Corrupted Ice Barrows Fragment@§6 - §c✖ §42 Испорченный Ледяной Курган Фрагмент
+§6 - §a✔ §22 Infested Pit Fragment@§6 - §a✔ §22 Зараженная Яма Фрагмент
+§6 - §a✔ §21 Infested Pit Fragment@§6 - §a✔ §21 Зараженная Яма Фрагмент
+§6 - §a✔ §22 Sand-Swept Tomb Fragment@§6 - §a✔ §22 Песчаная Гробница Фрагмент
+§6 - §a✔ §23 Sand-Swept Tomb Fragment@§6 - §a✔ §23 Песчаная Гробница Фрагмент
+§6 - §a✔ §22 Underworld Crypt Fragment@§6 - §a✔ §22 Подземный Склеп Фрагмент
 §6 - §c✖ §41 Invitation Letter@§6 - §c✖ §41 Пригласительное Письмо
-§6 - §c✖ §42 Decrepit Sewers Fragment@§6 - §c✖ §42 Decrepit Sewers Фрагмент
-§6 - §c✖ §42 Garoth's Breath@§6 - §c✖ §42 Дыхание Garoth'а
-§6 - §c✖ §43 Garoth's Breath@§6 - §c✖ §43 Дыхание Garoth'а
-§6 - §c✖ §45 Garoth's Breath@§6 - §c✖ §45 Дыхание Garoth'а
-§6 - §a✔ §22 Arakadicus' Eye@§6 - §a✔ §22 Глаз Arakadicus 
-§6 - §a✔ §22 Lost Sanctuary Fragment@§6 - §a✔ §22 Lost Sanctuary Фрагмент
-§6 - §c✖ §42 Hashr's Bone@§6 - §c✖ §42 Кость Hashr'а
-§6 - §c✖ §43 Hashr's Bone@§6 - §c✖ §43 Кость Hashr'а
-§6 - §c✖ §45 Hashr's Bone@§6 - §c✖ §45 Кость Hashr'а
-§6 - §c✖ §43 Sand-Swept Tomb Fragment@§6 - §c✖ §43 Sand-Swept Tomb Фрагмент
-§6 - §c✖ §41 Calamaro's Slimy Token@§6 - §c✖ §41 Скользкий Жетон Calamaro
-§6 - §a✔ §21 Calamaro's Slimy Token@§6 - §a✔ §21 Скользкий Жетон Calamaro
+§6 - §c✖ §42 Decrepit Sewers Fragment@§6 - §c✖ §42 Ветхая Канализация Фрагмент
+§6 - §c✖ §42 Garoth's Breath@§6 - §c✖ §42 Дыхание Гарота
+§6 - §c✖ §43 Garoth's Breath@§6 - §c✖ §43 Дыхание Гарота
+§6 - §c✖ §45 Garoth's Breath@§6 - §c✖ §45 Дыхание Гарота
+§6 - §a✔ §22 Arakadicus' Eye@§6 - §a✔ §22 Глаз Аракадикус
+§6 - §a✔ §22 Lost Sanctuary Fragment@§6 - §a✔ §22 Затерянное Святилище Фрагмент
+§6 - §c✖ §42 Hashr's Bone@§6 - §c✖ §42 Кость Хашера
+§6 - §c✖ §43 Hashr's Bone@§6 - §c✖ §43 Кость Хашера
+§6 - §c✖ §45 Hashr's Bone@§6 - §c✖ §45 Кость Хашера
+§6 - §c✖ §43 Sand-Swept Tomb Fragment@§6 - §c✖ §43 Песчаная Гробница Фрагмент
+§6 - §c✖ §41 Calamaro's Slimy Token@§6 - §c✖ §41 Скользкий Жетон Каламаро
+§6 - §a✔ §21 Calamaro's Slimy Token@§6 - §a✔ §21 Скользкий Жетон Каламаро
 §6 - §c✖ §41 Wealth or Knowledge@§6 - §c✖ §41 Богатство или Знания
-§6 - §c✖ §41 Touroto Hide@§6 - §c✖ §41 Кожа  Touroto
+§6 - §c✖ §41 Touroto Hide@§6 - §c✖ §41 Кожа Тоурото
 §6 - §c✖ §41 Blank Powder IV@§6 - §c✖ §41 Пустой Порошок IV
 §6 - §c✖ §41 Blank Powder V@§6 - §c✖ §41 Пустой Порошок V
 §6 - §c✖ §41 Blank Powder VI@§6 - §c✖ §41 Пустой Порошок VI
-§6 - §a✔ §21 ❋ Air Powder IV@§6 - §a✔ §21 ❋ Air Порошок IV
-§6 - §c✖ §41 Nii Rune@§6 - §c✖ §41 Nii Руна
-§6 - §c✖ §41 ❋ Air Powder V@§6 - §c✖ §41 ❋ Air Порошок V
-§6 - §c✖ §41 Uth Rune@§6 - §c✖ §41 Uth Руна
-§6 - §c✖ §41 ❋ Air Powder VI@§6 - §c✖ §41 ❋ Air Порошок VI
-§6 - §c✖ §41 ✤ Earth Powder IV@§6 - §c✖ §41 ✤ Earth Порошок IV
-§6 - §c✖ §41 ✤ Earth Powder V@§6 - §c✖ §41 ✤ Earth Порошок V
-§6 - §c✖ §41 ✤ Earth Powder VI@§6 - §c✖ §41 ✤ Earth Порошок VI
-§6 - §a✔ §21 Broken CorruptedÀÀÀDecrepitÀÀÀSewers Key@§6 - §a✔ §21 Разбитый Испорченный Decrepit Sewers Ключ
-§6 - §a✔ §22 Nii Rune@§6 - §a✔ §22 Nii Руна
-§6 - §a✔ §23 Nii Rune@§6 - §a✔ §23 Nii Руна
-§6 - §a✔ §24 Nii Rune@§6 - §a✔ §24 Nii Руна
-§6 - §c✖ §43 Corrupted Witherhead's Rib@§6 - §c✖ §43 Испорченное Ребро Witherhead'а
+§6 - §a✔ §21 ❋ Air Powder IV@§6 - §a✔ §21 ❋ Воздушный Порошок IV
+§6 - §c✖ §41 Nii Rune@§6 - §c✖ §41 Нии Руна
+§6 - §c✖ §41 ❋ Air Powder V@§6 - §c✖ §41 ❋ Воздушный Порошок V
+§6 - §c✖ §41 Uth Rune@§6 - §c✖ §41 Утх Руна
+§6 - §c✖ §41 ❋ Air Powder VI@§6 - §c✖ §41 ❋ Воздушный Порошок VI
+§6 - §c✖ §41 ✤ Earth Powder IV@§6 - §c✖ §41 ✤ Земляной Порошок IV
+§6 - §c✖ §41 ✤ Earth Powder V@§6 - §c✖ §41 ✤ Земляной Порошок V
+§6 - §c✖ §41 ✤ Earth Powder VI@§6 - §c✖ §41 ✤ Земляной Порошок VI
+§6 - §a✔ §21 Broken CorruptedÀÀÀDecrepitÀÀÀSewers Key@§6 - §a✔ §21 Разбитый Испорченный Ветхая Канализация Ключ
+§6 - §a✔ §22 Nii Rune@§6 - §a✔ §22 Нии Руна
+§6 - §a✔ §23 Nii Rune@§6 - §a✔ §23 Нии Руна
+§6 - §a✔ §24 Nii Rune@§6 - §a✔ §24 Нии Руна
+§6 - §c✖ §43 Corrupted Witherhead's Rib@§6 - §c✖ §43 Испорченное Ребро Визерхеда
 §6 - §c✖ §41 Chestnut Horse@§6 - §c✖ §41 Каштановая Лошадь
-§6 - §c✖ §44 Corrupted Witherhead's Rib@§6 - §c✖ §44 Испорченное Ребро Witherhead'а
-§6 - §c✖ §46 Corrupted Witherhead's Rib@§6 - §c✖ §46 Испорченное Ребро Witherhead'а
-§6 - §c✖ §46 Corrupted Decrepit Sewers Fragment@§6 - §c✖ §46 Испорченный Decrepit Sewers Фрагмент
-§6 - §a✔ §21 Broken CorruptedÀÀÀInfestedÀÀÀPit Key@§6 - §a✔ §21 Разбитый Испорченный Infested Pit Ключ
-§6 - §c✖ §43 Corrupted Arakadicus' Eye@§6 - §c✖ §43 Испорченный Глаз Arakadicus
-§6 - §c✖ §44 Corrupted Arakadicus' Eye@§6 - §c✖ §44 Испорченный Глаз Arakadicus
-§6 - §c✖ §46 Corrupted Arakadicus' Eye@§6 - §c✖ §46 Испорченный Глаз Arakadicus
-§6 - §c✖ §46 Corrupted Infested Pit Fragment@§6 - §c✖ §46 Испорченный Infested Pit Фрагмент
-§6 - §c✖ §47 Corrupted Infested Pit Fragment@§6 - §c✖ §47 Испорченный Infested Pit Фрагмент
-§6 - §c✖ §43 Corrupted Garoth's Breath@§6 - §c✖ §43 Испорченное Дыхание Garoth'а
-§6 - §c✖ §46 Corrupted Garoth's Breath@§6 - §c✖ §46 Испорченное Дыхание Garoth'а
-§6 - §c✖ §46 Corrupted Lost Sanctuary Fragment@§6 - §c✖ §46 Испорченный Lost Sanctuary Фрагмент
-§6 - §c✖ §47 Corrupted Lost Sanctuary Fragment@§6 - §c✖ §47 Испорченный Lost Sanctuary Фрагмент
-§6 - §c✖ §43 Corrupted Charon's Brain@§6 - §c✖ §43 Испорченный Мозг Charon'а
-§6 - §c✖ §44 Corrupted Charon's Brain@§6 - §c✖ §44 Испорченный Мозг Charon'а
-§6 - §c✖ §46 Corrupted Charon's Brain@§6 - §c✖ §46 Испорченный Мозг Charon'а
-§6 - §c✖ §48 Corrupted Underworld Crypt Fragment@§6 - §c✖ §48 Испорченный Underworld Crypt Фрагмент
+§6 - §c✖ §44 Corrupted Witherhead's Rib@§6 - §c✖ §44 Испорченное Ребро Визерхеда
+§6 - §c✖ §46 Corrupted Witherhead's Rib@§6 - §c✖ §46 Испорченное Ребро Визерхеда
+§6 - §c✖ §46 Corrupted Decrepit Sewers Fragment@§6 - §c✖ §46 Испорченный Ветхая Канализация Фрагмент
+§6 - §a✔ §21 Broken CorruptedÀÀÀInfestedÀÀÀPit Key@§6 - §a✔ §21 Разбитый Испорченный Зараженная Яма Ключ
+§6 - §c✖ §43 Corrupted Arakadicus' Eye@§6 - §c✖ §43 Испорченный Глаз Аракадикус
+§6 - §c✖ §44 Corrupted Arakadicus' Eye@§6 - §c✖ §44 Испорченный Глаз Аракадикус
+§6 - §c✖ §46 Corrupted Arakadicus' Eye@§6 - §c✖ §46 Испорченный Глаз Аракадикус
+§6 - §c✖ §46 Corrupted Infested Pit Fragment@§6 - §c✖ §46 Испорченный Зараженная Яма Фрагмент
+§6 - §c✖ §47 Corrupted Infested Pit Fragment@§6 - §c✖ §47 Испорченный Зараженная Яма Фрагмент
+§6 - §c✖ §43 Corrupted Garoth's Breath@§6 - §c✖ §43 Испорченное Дыхание Гарота
+§6 - §c✖ §46 Corrupted Garoth's Breath@§6 - §c✖ §46 Испорченное Дыхание Гарота
+§6 - §c✖ §46 Corrupted Lost Sanctuary Fragment@§6 - §c✖ §46 Испорченный Затерянное Святилище Фрагмент
+§6 - §c✖ §47 Corrupted Lost Sanctuary Fragment@§6 - §c✖ §47 Испорченный Затерянное Святилище Фрагмент
+§6 - §c✖ §43 Corrupted Charon's Brain@§6 - §c✖ §43 Испорченный Мозг Харона
+§6 - §c✖ §44 Corrupted Charon's Brain@§6 - §c✖ §44 Испорченный Мозг Харона
+§6 - §c✖ §46 Corrupted Charon's Brain@§6 - §c✖ §46 Испорченный Мозг Харона
+§6 - §c✖ §48 Corrupted Underworld Crypt Fragment@§6 - §c✖ §48 Испорченный Подземный Склеп Фрагмент
 §6 - §a✔ §21 Brown Horse@§6 - §a✔ §21 Коричневая Лошадь
-§6 - §a✔ §26 Corrupted Decrepit Sewers Fragment@§6 - §a✔ §26 Испорченный Decrepit Sewers Фрагмент
-§6 - §c✖ §42 Thunder Catalyst X@§6 - §c✖ §42 Thunder Катализатор X
-§6 - §c✖ §41 Thunder Voucher@§6 - §c✖ §41 Thunder Ваучер
-§6 - §c✖ §41 Air Voucher@§6 - §c✖ §41 Air Ваучер
-§6 - §c✖ §42 Air Catalyst X@§6 - §c✖ §42 Air Катализатор X
-§6 - §c✖ §41 Earth Voucher@§6 - §c✖ §41 Earth Ваучер
-§6 - §c✖ §41 Water Voucher@§6 - §c✖ §41 Water Ваучер
-§6 - §c✖ §41 Fire Voucher@§6 - §c✖ §41 Fire Ваучер
+§6 - §a✔ §26 Corrupted Decrepit Sewers Fragment@§6 - §a✔ §26 Испорченный Ветхая Канализация Фрагмент
+§6 - §c✖ §42 Thunder Catalyst X@§6 - §c✖ §42 Громовой Катализатор X
+§6 - §c✖ §41 Thunder Voucher@§6 - §c✖ §41 Ваучер Грома
+§6 - §c✖ §41 Air Voucher@§6 - §c✖ §41 Ваучер Воздуха
+§6 - §c✖ §42 Air Catalyst X@§6 - §c✖ §42 Воздушный Катализатор X
+§6 - §c✖ §41 Earth Voucher@§6 - §c✖ §41 Ваучер Земли
+§6 - §c✖ §41 Water Voucher@§6 - §c✖ §41 Ваучер Воды
+§6 - §c✖ §41 Fire Voucher@§6 - §c✖ §41 Ваучер Огня
 §6 - §c✖ §41 Master Voucher@§6 - §c✖ §41 Мастер Ваучер
 §6 - §c✖ §43 Master Catalyst@§6 - §c✖ §43 Мастер Катализатор
-§6 - §c✖ §42 Charon's Brain@§6 - §c✖ §42 Мозг Charon'а
-§6 - §c✖ §43 Charon's Brain@§6 - §c✖ §43 Мозг Charon'а
-§6 - §c✖ §45 Charon's Brain@§6 - §c✖ §45 Мозг Charon'а
+§6 - §c✖ §42 Charon's Brain@§6 - §c✖ §42 Мозг Харона
+§6 - §c✖ §43 Charon's Brain@§6 - §c✖ §43 Мозг Харона
+§6 - §c✖ §45 Charon's Brain@§6 - §c✖ §45 Мозг Харона
 §6 - §a✔ §21 Coral Diamond@§6 - §a✔ §21 Коралловый Алмаз
 §6 - §a✔ §21 Corrupted Treasure@§6 - §a✔ §21 Испорченное Сокровище
 §6 - §c✖ §41 Corrupted Treasure@§6 - §c✖ §41 Испорченное Сокровище
-§6 - §c✖ §44 Antikythera Supercomputer's Chip@§6 - §c✖ §44 Antikythera Supercomputer Чип
-§6 - §c✖ §45 Antikythera Supercomputer's Chip@§6 - §c✖ §45 Antikythera Supercomputer Чип
-§6 - §c✖ §46 Antikythera Supercomputer's Chip@§6 - §c✖ §46 Antikythera Supercomputer Чип
-§6 - §c✖ §48 Antikythera Supercomputer's Chip@§6 - §c✖ §48 Antikythera Supercomputer Чип
-§6 - §c✖ §42 Fallen Factory Dungeon Fragment@§6 - §c✖ §42 Fallen Factory Фрагмент
-§6 - §c✖ §49 Fallen Factory Dungeon Fragment@§6 - §c✖ §49 Fallen Factory Фрагмент
-§6 - §a✔ §23 Corrupted Witherhead's Rib@§6 - §a✔ §23 Испорченное Ребро Witherhead'а
-§6 - §a✔ §24 Corrupted Witherhead's Rib@§6 - §a✔ §24 Испорченное Ребро Witherhead'а
-§6 - §a✔ §26 Corrupted Witherhead's Rib@§6 - §a✔ §26 Испорченное Ребро Witherhead'а
-§6 - §c✖ §41 ❋ Air Powder IV@§6 - §c✖ §41 ❋ Air Порошок IV
+§6 - §c✖ §44 Antikythera Supercomputer's Chip@§6 - §c✖ §44 Антикитера Суперкомпьютер Чип
+§6 - §c✖ §45 Antikythera Supercomputer's Chip@§6 - §c✖ §45 Антикитера Суперкомпьютер Чип
+§6 - §c✖ §46 Antikythera Supercomputer's Chip@§6 - §c✖ §46 Антикитера Суперкомпьютер Чип
+§6 - §c✖ §48 Antikythera Supercomputer's Chip@§6 - §c✖ §48 Антикитера Суперкомпьютер Чип
+§6 - §c✖ §42 Fallen Factory Dungeon Fragment@§6 - §c✖ §42 Заброшенная Фабрика Фрагмент
+§6 - §c✖ §49 Fallen Factory Dungeon Fragment@§6 - §c✖ §49 Заброшенная Фабрика Фрагмент
+§6 - §a✔ §23 Corrupted Witherhead's Rib@§6 - §a✔ §23 Испорченное Ребро Визерхеда
+§6 - §a✔ §24 Corrupted Witherhead's Rib@§6 - §a✔ §24 Испорченное Ребро Визерхеда
+§6 - §a✔ §26 Corrupted Witherhead's Rib@§6 - §a✔ §26 Испорченное Ребро Визерхеда
+§6 - §c✖ §41 ❋ Air Powder IV@§6 - §c✖ §41 ❋ Воздушный Порошок IV
 §6 - §c✖ §41 ❉ Water Powder IV@§6 - §c✖ §41 ❉ Water Порошок IV
 §6 - §c✖ §41 ❉ Water Powder V@§6 - §c✖ §41 ❉ Water Порошок V
 §6 - §c✖ §41 ❉ Water Powder VI@§6 - §c✖ §41 ❉ Water Порошок VI
