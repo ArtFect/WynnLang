@@ -1320,7 +1320,7 @@
 §a- §7Duration: §f240 Seconds@§a- §7Длительность: §f240 Секунд
 §834 and boost your Melee@§834 и увеличит твой Ближний
 §8Damage by +24% for 240 seconds@§8Урон на +24% в течение 240 секунд
-§a- §7Effect: §f+34§e ✦ Dexterity@§a- §7Эффект: §f+34§e ✦ Сноровка
+§a- §7Effect: §f+34§e ✦ Dexterity@§a- §7Эффект: §f+34§e ✦ Точность
 §a- §7Effect: §f+16 Melee Damage@§a- §7Эффект: §f+16 Ближний Урон
 §8Damage by +16 for 240 seconds@§8Урон на +16 в течение 240 секунд
 §a- §7Effect: §f+34§b ❉ Intelligence@§a- §7Эффект: §f+34§b ❉ Интеллекта
@@ -1331,7 +1331,7 @@
 §a- §7Effect: §f+600 Health@§a- §7Эффект: §f+600 Здоровье
 §834 and boost your Health@§834 и увеличивает твое Здоровье
 §8by +600 for 240 seconds@§8на +600 в течение 240 секунд
-§a- §7Effect: §f+30§e ✦ Dexterity@§a- §7Эффект: §f+30§e ✦ Сноровка
+§a- §7Effect: §f+30§e ✦ Dexterity@§a- §7Эффект: §f+30§e ✦ Точность
 §a- §7Effect: §f+8 Melee Damage@§a- §7Эффект: §f+8 Ближний Урон
 §8Damage by +8 for 180 seconds@§8Урон на +8 в течение 180 секунд
 §a- §7Effect: §f+30§f ❋ Agility@§a- §7Эффект: §f+30§f ❋ Ловкость
@@ -1357,9 +1357,9 @@
 §827 and boost your Melee@§827 и увеличивает твой Ближний
 §8Damage by +6% for 60 seconds@§8Урон на +6% в течение 60 секунд
 §dEffects:@§dЭффекты:
-§a- §7Effect: §f+27§e ✦ Dexterity@§a- §7Эффект: §f+27§e ✦ Сноровка
+§a- §7Effect: §f+27§e ✦ Dexterity@§a- §7Эффект: §f+27§e ✦ Точность
 §a- §7Effect: §f+2 Melee Damage@§a- §7Эффект: §f+2 Ближний Урон
-§8boost your ✦ Dexterity by@§8увеличивает твою ✦ Сноровку на
+§8boost your ✦ Dexterity by@§8увеличивает твою ✦ Точность на
 §8Damage by +2 for 60 seconds@§8Урон на +2 в течение 60 секунд
 §a- §7Effect: §f+27§b ❉ Intelligence@§a- §7Эффект: §f+27§b ❉ Интеллекта
 §a- §7Effect: §f+4% Spell Damage@§a- §7Эффект: §f+4% Урон Заклинаний
@@ -1403,7 +1403,7 @@
 §a- §7Effect: §f+28% Walk Speed@§a- §7Эффект: §f+28% Скорость
 §840 and boost your Walk Speed@§840 и увеличивает твою Скорость
 §8by +28% for 300 seconds@§8на +28% в течение 300 секунд
-§a- §7Effect: §f+40§e ✦ Dexterity@§a- §7Эффект: §f+40§e ✦ Сноровка
+§a- §7Effect: §f+40§e ✦ Dexterity@§a- §7Эффект: §f+40§e ✦ Точность
 §a- §7Effect: §f+28 Melee Damage@§a- §7Эффект: §f+28 Ближний Урон
 §8Damage by +28 for 300 seconds@§8Урон на +28 в течение 300 секунд
 §a- §7Effect: §f+40§b ❉ Intelligence@§a- §7Эффект: §f+40§b ❉ Интеллект
@@ -1417,7 +1417,7 @@
 §3- §7Mana: §f54§b ✺@§3- §7Мана: §f54§b ✺
 §3- §7Duration: §f18 Seconds@§3- §7Длительность: §f18 Секунд
 §818 seconds.@§818 секунд.
-§a- §7Effect: §f+57§e ✦ Dexterity@§a- §7Эффект: §f+57§e ✦ Сноровка
+§a- §7Effect: §f+57§e ✦ Dexterity@§a- §7Эффект: §f+57§e ✦ Точность
 §a- §7Effect: §f+64 Melee Damage@§a- §7Эффект: §f+64 Ближний Урон
 §8Damage by +64 for 420 seconds@§8Урон на +64 в течение 420 секунд
 §a- §7Effect: §f+34§f ❋ Agility@§a- §7Эффект: §f+34§f ❋ Ловкость
@@ -1429,7 +1429,7 @@
 §a- §7Effect: §f+36% Melee Damage@§a- §7Эффект: §f+36% Ближний Урон
 §847 and boost your Melee@§847 и увеличивает твой Ближний
 §8Damage by +36% for 360 seconds@§8Урон на +36% в течение 360 секунд
-§a- §7Effect: §f+47§e ✦ Dexterity@§a- §7Эффект: §f+47§e ✦ Сноровка
+§a- §7Effect: §f+47§e ✦ Dexterity@§a- §7Эффект: §f+47§e ✦ Точность
 §a- §7Effect: §f+44 Melee Damage@§a- §7Эффект: §f+44 Ближний Урон
 §8Damage by +44 for 360 seconds@§8Урон на +44 в течение 360 секунд
 §a- §7Effect: §f+47§b ❉ Intelligence@§a- §7Эффект: §f+47§b ❉ Интеллект
@@ -1454,7 +1454,7 @@
 §8by +3400 for 420 seconds@§8на +3400 в течение 420 секунд
 §a- §7Effect: §f+14§2 ✤ Strength@§a- §7Эффект: §f+14§2 ✤ Сила
 §814 and boost your Melee@§814 и увеличивает твой Ближний
-§a- §7Effect: §f+14§e ✦ Dexterity@§a- §7Эффект: §f+14§e ✦ Сноровка
+§a- §7Effect: §f+14§e ✦ Dexterity@§a- §7Эффект: §f+14§e ✦ Точность
 §a- §7Effect: §f+14§b ❉ Intelligence@§a- §7Эффект: §f+14§b ❉ Интеллект
 §8by 14 and boost your Spell@§8на 14 и увеличивает твой Заклинаний
 §a- §7Effect: §f+14§c ✹ Defence@§a- §7Эффект: §f+14§c ✹ Защита
@@ -1477,7 +1477,7 @@
 §a- §7Effect: §f+50% Walk Speed@§a- §7Эффект: §f+50% Скорость
 §871 and boost your Walk Speed@§871 и увеличивает твою Скорость
 §8by +50% for 480 seconds@§8на +50% в течение 480 секунд
-§a- §7Effect: §f+71§e ✦ Dexterity@§a- §7Эффект: §f+71§e ✦ Сноровка
+§a- §7Effect: §f+71§e ✦ Dexterity@§a- §7Эффект: §f+71§e ✦ Точность
 §a- §7Effect: §f+100 Melee Damage@§a- §7Эффект: §f+100 Ближний Урон
 §8Damage by +100 for 480 seconds@§8Урон на +100 в течение 480 секунд
 
