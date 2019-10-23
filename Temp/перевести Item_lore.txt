@@ -1963,105 +1963,105 @@
 §7- §bUnidentified Bracelet@§7- §bНеидентифицированный Браслет
 
 ############################Обычные предметы#######################
-§7Crafting Material
-§7Use this material to craft 
-§fⒺ Scrolls, Ⓓ Rings, Ⓓ Bracelets,
-§fⒹ Necklaces & Ⓛ Potions
-§7Use this item at
-§7the §fForgery §7to craft
-§7a §4Corrupted Dungeon Key
-§7Bring this material to a 
-§fFarming Refinery §7to process it
-§fWood Refinery §7to process it
-§fⒻ Boots, Ⓕ Leggings, Ⓘ Bows & Ⓘ Wands
-§fⒼ Spears, Ⓖ Daggers, Ⓘ Bows & Ⓘ Wands
-§7Exchange this for items
-§7at the §fDungeon Shop
-§cclicking them in your inventory
-§7Use scrap to repair
-§7Crafted Items
-§7progress in the §fDecrepit Sewers
-§7The fish is shining bright.
-§7Maybe someone wants to buy it?
-§7Maybe someone would be
-§7willing to trade with this...
-§7progress in the §fInfested Pit
-§fMining Refinery §7to process it
-§fⒼ Spears, Ⓖ Daggers, Ⓕ Boots, Ⓕ Leggings,
-§fⒽ Helmets & Ⓗ Chestplates
-§fFish Refinery §7to process it
-§8A key is required to enter the dungeon
-§7Use this at a §fBlacksmith
-§7to repair any crafted item
-§fⒺ Scrolls, Ⓗ Helmets & Ⓗ Chestplates
-§7progress in the §fIce Barrows
-§7progress in the Ice Barrows 
-§7a §3Corrupted Dungeon Key
-§7The hands don't move anymore.
-§7They seem to be stuck on 3:15.
-§7Use this item at the
-§fForgery§7 to craft a
-§4CorruptedÀÀÀInfestedÀÀÀPit Key
-§7Exchange for prizes at the
-§7Treasure Prize Merchants
-§fⒹ Rings, Ⓓ Bracelets & Ⓓ Necklaces
-§fⒶ Food
-§7Use this token to continue your
-§7progress in the §fUndergrowth Ruins
-§fⓁ Potions & Ⓐ Food
-§7§oIt's a tad firey to the touch.
-§7This sword resembles Siegfried's
-§7own famous blade.
-§7This item belongs to the
-§eLimited Siegfried Collection
-§8[Item 2/3]
-§7Spend five minutes in our deluxe-sized
-§7cave and find as many riches as you can!
-§7Only at §6§l§oZhight Island!
-§4[§cDanger§4]§7 Highly Explosive!
-§7These cookies are baked using
-§7a recipe from Siegfried's cooking
-§7book, now available in every library
-§8[Item 1/3]
-§7progress in the §fSand-Swept Tomb
-§7§kBe §ksure §kto §kdrink §kyour 
-§7§kNemract §kWhiskey 
-§7Use this item to continue your
-§7progress in the §fLost Sanctuary
-§4CorruptedÀÀÀSand-SweptÀÀÀTomb Key
-§7progress in the §fGalleon’s Graveyard
-§7Exchange this for an
-§7item at the §fSquid Shop
-§7Use on an obstacle
-§7Trade for prizes at the
-§7§lHive Shop!
-§7Trade for powerful
-§7prizes at the §lHive Shop!
-§7progress in the §fUnderworld Crypt
-§7progress in the Fallen Factory
-§7This ticket admits 1 person into the
-§fLegendary Challenge§7. One-time use only.
-§7progress in the §fLegendary Challenge
-§7They seem to be stuck on 7:35.
-§7at the Dungeon Shop
-§7Exchange this token at §fLegendary
-§fIsland §7for a number of different
-§7items and prizes!
-§7Show this to the §fPowder
-§fMerchant §7to get a free
-§7powder of your choice.
-§7A device capable of storing electromagical
-§7energy. Perhaps it could be used to
-§7activate something...
-§7All this book says inside is
-§7"Take your pick. Wealth or knowledge."
-§7HEY, QUIT HOLDING ME YOU §7NUMBSKULL!
-§7This tooth is a reference to the fight
-§7between Siegfried and a dragon, which
-§7Siegfried slayed, saving the city of Ahmsord
-§7This special bundle includes all
-§7of Siegfried's diaries up to #43
-§7§lＳＩＥＧＦＲＩＥＤ
-§8[Item 3/3]
-§7They seem to be stuck on 9:45.
-§7They seem to be stuck on 4:25.
+§7Crafting Material@§7Материал для Крафта
+§7Use this material to craft @§7Используй этот материал для крафта
+§fⒺ Scrolls, Ⓓ Rings, Ⓓ Bracelets,@§fⒺ Свитков, Ⓓ Колец, Ⓓ Браслетов,
+§fⒹ Necklaces & Ⓛ Potions@§fⒹ Амулетов и Ⓛ Зелий
+§7Use this item at@§7Используй этот предмет в
+§7the §fForgery §7to craft@§fКузнице §7для крафта
+§7a §4Corrupted Dungeon Key@§4Испорченного Данж Ключа
+§7Bring this material to a @§7Принеси этот материал к
+§fFarming Refinery §7to process it@§fПереработке Урожая §7для его обработки
+§fWood Refinery §7to process it@§fПереработке Дерева §7для его обработки
+§fⒻ Boots, Ⓕ Leggings, Ⓘ Bows & Ⓘ Wands@§fⒻ Ботинок, Ⓕ Штанов, Ⓘ Луков и Ⓘ Посохов
+§fⒼ Spears, Ⓖ Daggers, Ⓘ Bows & Ⓘ Wands@§fⒼ Копий, Ⓖ Кинжалов, Ⓘ Луков и Ⓘ Посохов
+§7Exchange this for items@§7Обменяй это на предметы
+§7at the §fDungeon Shop@§7в §fМагазине Данжа
+§cclicking them in your inventory@§cкликнув по ним в твоем инвентаре
+§7Use scrap to repair@§7Используй скрап для починки
+§7Crafted Items@§7Крафтовых Предметов
+§7progress in the §fDecrepit Sewers@§7прогресса в §fВетхой Канализации
+§7The fish is shining bright.@§7Эта рыба ярко сияет.
+§7Maybe someone wants to buy it?@§7Возможно кто-то захочет купить ее?
+§7Maybe someone would be@§7Возможно кто-то хотел бы
+§7willing to trade with this...@§7купить ее у тебя...
+§7progress in the §fInfested Pit@§7прогресса в §fЗараженной Яме
+§fMining Refinery §7to process it@§fПереработке Руды §7для его обработки
+§fⒼ Spears, Ⓖ Daggers, Ⓕ Boots, Ⓕ Leggings,@§fⒼ Копий, Ⓖ Кинжалов, Ⓕ Ботинок, Ⓕ Штанов,
+§fⒽ Helmets & Ⓗ Chestplates@§fⒽ Шлемов и Ⓗ Нагрудников
+§fFish Refinery §7to process it@§fПереработке Рыбы §7для его обработки
+§8A key is required to enter the dungeon@§8Ключ необходим для входа в данж
+§7Use this at a §fBlacksmith@§7Используй это у §fКузнеца
+§7to repair any crafted item@§7для починки любого крафтового предмета
+§fⒺ Scrolls, Ⓗ Helmets & Ⓗ Chestplates@§fⒺ Свитков, Ⓗ Шлемов и Ⓗ Нагрудников
+§7progress in the §fIce Barrows@§7прогресса в §fЛедяных Курганах
+§7progress in the Ice Barrows @§7прогресса в Ледяных Курганах
+§7a §3Corrupted Dungeon Key@§3Испорченного Данж Ключа
+§7The hands don't move anymore.@§7Стрелки больше не двигаются.
+§7They seem to be stuck on 3:15.@§7Похоже они застряли на 3:15.
+§7Use this item at the@§7Используй этот предмет в
+§fForgery§7 to craft a@§fКузнице§7 для крафта
+§4CorruptedÀÀÀInfestedÀÀÀPit Key@§4Испорченного Зараженная Яма Ключа
+§7Exchange for prizes at the@
+§7Treasure Prize Merchants@
+§fⒹ Rings, Ⓓ Bracelets & Ⓓ Necklaces@
+§fⒶ Food@
+§7Use this token to continue your@
+§7progress in the §fUndergrowth Ruins@
+§fⓁ Potions & Ⓐ Food@
+§7§oIt's a tad firey to the touch.@
+§7This sword resembles Siegfried's@
+§7own famous blade.@
+§7This item belongs to the@
+§eLimited Siegfried Collection@
+§8[Item 2/3]@
+§7Spend five minutes in our deluxe-sized@
+§7cave and find as many riches as you can!@
+§7Only at §6§l§oZhight Island!@
+§4[§cDanger§4]§7 Highly Explosive!@
+§7These cookies are baked using@
+§7a recipe from Siegfried's cooking@
+§7book, now available in every library@
+§8[Item 1/3]@
+§7progress in the §fSand-Swept Tomb@
+§7§kBe §ksure §kto §kdrink §kyour @
+§7§kNemract §kWhiskey @
+§7Use this item to continue your@
+§7progress in the §fLost Sanctuary@
+§4CorruptedÀÀÀSand-SweptÀÀÀTomb Key@
+§7progress in the §fGalleon’s Graveyard@
+§7Exchange this for an@
+§7item at the §fSquid Shop@
+§7Use on an obstacle@
+§7Trade for prizes at the@
+§7§lHive Shop!@
+§7Trade for powerful@
+§7prizes at the §lHive Shop!@
+§7progress in the §fUnderworld Crypt@
+§7progress in the Fallen Factory@
+§7This ticket admits 1 person into the@
+§fLegendary Challenge§7. One-time use only.@
+§7progress in the §fLegendary Challenge@
+§7They seem to be stuck on 7:35.@
+§7at the Dungeon Shop@
+§7Exchange this token at §fLegendary@
+§fIsland §7for a number of different@
+§7items and prizes!@
+§7Show this to the §fPowder@
+§fMerchant §7to get a free@
+§7powder of your choice.@
+§7A device capable of storing electromagical@
+§7energy. Perhaps it could be used to@
+§7activate something...@
+§7All this book says inside is@
+§7"Take your pick. Wealth or knowledge."@
+§7HEY, QUIT HOLDING ME YOU §7NUMBSKULL!@
+§7This tooth is a reference to the fight@
+§7between Siegfried and a dragon, which@
+§7Siegfried slayed, saving the city of Ahmsord@
+§7This special bundle includes all@
+§7of Siegfried's diaries up to #43@
+§7§lＳＩＥＧＦＲＩＥＤ@
+§8[Item 3/3]@
+§7They seem to be stuck on 9:45.@
+§7They seem to be stuck on 4:25.@
