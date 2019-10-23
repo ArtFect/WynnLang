@@ -739,20 +739,20 @@
 §6 - §a✔ §22 Fallen Factory Dungeon Fragment@§6 - §a✔ §22 Заброшенная Фабрика Фрагмент
 §6 - §a✔ §21 Blank Powder IV@§6 - §a✔ §21 Пустой Порошок IV
 §6 - §a✔ §21 Nii Rune@§6 - §a✔ §21 Нии Руна
-§6 - §a✔ §21 ❉ Water Powder IV@§6 - §a✔ §21 ❉ Water Порошок IV
+§6 - §a✔ §21 ❉ Water Powder IV@§6 - §a✔ §21 ❉ Водный Порошок IV
 §6 - §a✔ §22 Corrupted Decrepit Sewers Fragment@§6 - §a✔ §22 Испорченный Ветхая Канализация Фрагмент
 §6 - §a✔ §23 Corrupted Garoth's Breath@§6 - §a✔ §23 Испорченное Дыхание Гарота
 §6 - §a✔ §26 Corrupted Lost Sanctuary Fragment@§6 - §a✔ §26 Испорченный Затерянное Святилище Фрагмент
 §6 - §a✔ §27 Corrupted Lost Sanctuary Fragment@§6 - §a✔ §27 Испорченный Затерянное Святилище Фрагмент
-§6 - §c✖ §41 ✦ Thunder Powder IV@§6 - §c✖ §41 ✦ Thunder Порошок IV
-§6 - §c✖ §41 ✦ Thunder Powder V@§6 - §c✖ §41 ✦ Thunder Порошок V
-§6 - §c✖ §41 ✦ Thunder Powder VI@§6 - §c✖ §41 ✦ Thunder Порошок VI
-§6 - §a✔ §21 ✦ Thunder Powder IV@§6 - §a✔ §21 ✦ Thunder Порошок IV
-§6 - §a✔ §21 ✤ Earth Powder IV@§6 - §a✔ §21 ✤ Earth Порошок IV
-§6 - §a✔ §21 ✹ Fire Powder IV@§6 - §a✔ §21 ✹ Fire Порошок IV
-§6 - §c✖ §41 ✹ Fire Powder V@§6 - §c✖ §41 ✹ Fire Порошок V
-§6 - §c✖ §41 ✹ Fire Powder VI@§6 - §c✖ §41 ✹ Fire Порошок VI
-§6 - §c✖ §41 ✹ Fire Powder IV@§6 - §c✖ §41 ✹ Fire Порошок IV
+§6 - §c✖ §41 ✦ Thunder Powder IV@§6 - §c✖ §41 ✦ Громовой Порошок IV
+§6 - §c✖ §41 ✦ Thunder Powder V@§6 - §c✖ §41 ✦ Громовой Порошок V
+§6 - §c✖ §41 ✦ Thunder Powder VI@§6 - §c✖ §41 ✦ Громовой Порошок VI
+§6 - §a✔ §21 ✦ Thunder Powder IV@§6 - §a✔ §21 ✦ Громовой Порошок IV
+§6 - §a✔ §21 ✤ Earth Powder IV@§6 - §a✔ §21 ✤ Земляной Порошок IV
+§6 - §a✔ §21 ✹ Fire Powder IV@§6 - §a✔ §21 ✹ Огненный Порошок IV
+§6 - §c✖ §41 ✹ Fire Powder V@§6 - §c✖ §41 ✹ Огненный Порошок V
+§6 - §c✖ §41 ✹ Fire Powder VI@§6 - §c✖ §41 ✹ Огненный Порошок VI
+§6 - §c✖ §41 ✹ Fire Powder IV@§6 - §c✖ §41 ✹ Огненный Порошок IV
 §6 - §c✖ §45 Bronze Legendary Token@§6 - §c✖ §45 Бронзовый Легендарный Жетон
 §6 - §c✖ §410 Bronze Legendary Token@§6 - §c✖ §410 Бронзовый Легендарный Жетон
 §6 - §c✖ §43 Gold Legendary Token@§6 - §c✖ §43 Золотой Легендарный Жетон
@@ -1185,14 +1185,14 @@
 ###########################Свитки/ключи/билеты#######################
 §7Teleports to: Selchar@§7Телепорт в: Selchar
 §4Cost: §c1 Soul Point@§4Цена: §c1 Очко Душ
-§fDecrepitÀÀÀSewers§7 once@§fDecrepit Sewers§7 единожды
+§fDecrepitÀÀÀSewers§7 once@§fВетхая Канализация§7 единожды
 §a - §7Coordinates: §f-936, -1888@§a - §7Координаты: §f-936, -1888
-§fInfestedÀÀÀPit§7 once@§fInfested Pit§7 единожды
+§fInfestedÀÀÀPit§7 once@§fЗараженная Яма§7 единожды
 §a - §7Coordinates: §f-293, -1834@§a - §7Координаты: §f-293, -1834
 §3Info:@§3Инфо:
 §3- §7Cost: §f1 Soul Point@§3- §7Цена: §f1 Очко Душ
 §7Grants access to the@§7Гарантирует доступ в
-§fUndergrowthÀÀÀRuins§7 once@§fUndergrowth Ruins§7 единожды
+§fUndergrowthÀÀÀRuins§7 once@§fЗаросшие Руины§7 единожды
 §aDungeon Info:@§aДанж Инфо:
 §a - §7Coordinates: §f-638, -856@§a - §7Координаты: §f-638, -856
 §7Use this at the §fV.S.S. Seaskipper@§7Используй это у §fКорабельщика
@@ -1200,22 +1200,22 @@
 §aIsland Info:@§aОстров Инфо:
 §a- §7Coords: §f70, -3070@§a- §7Координаты: §f70, -3070
 §a- §7Status: §fPeaceful@§a- §7Статус: §fМирный
-§fSand-SweptÀÀÀTomb§7 once@§fSand-Swept Tomb§7 единожды
+§fSand-SweptÀÀÀTomb§7 once@§fПесчаная Гробница§7 единожды
 §a - §7Coordinates: §f1432, -1830@§a - §7Координаты: §f1432, -1830
-§fLostÀÀÀSanctuary§7 once@§fLost Sanctuary§7 единожды
+§fLostÀÀÀSanctuary§7 once@§fЗатерянное Святилище§7 единожды
 §a - §7Coordinates: §f-264, -1054@§a - §7Координаты: §f-264, -1054
-§fUnderworldÀÀÀCrypt§7 once@§fUnderworld Crypt§7 единожды
+§fUnderworldÀÀÀCrypt§7 once@§fПодземный Склеп§7 единожды
 §a - §7Coordinates: §f290, -1950@§a - §7Координаты: §f290, -1950
-§fIceÀÀÀBarrows§7 once@§fIce Barrows§7 единожды
+§fIceÀÀÀBarrows§7 once@§fЛедяной Курган§7 единожды
 §a - §7Coordinates: §f179, -665@§a - §7Координаты: §f179, -665
-§fCorruptedÀÀÀUnderworldÀÀÀCrypt§7 once@§fCorruptedÀÀÀUnderworldÀÀÀCrypt§7 единожды
-§fCorruptedÀÀÀSand-SweptÀÀÀTomb§7 once@§fCorruptedÀÀÀSand-SweptÀÀÀTomb§7 единожды
-§fCorruptedÀÀÀInfestedÀÀÀPit§7 once@§fCorruptedÀÀÀInfestedÀÀÀPit§7 единожды
-§fCorruptedÀÀÀIceÀÀÀBarrows§7 once@§fCorruptedÀÀÀIceÀÀÀBarrows§7 единожды
-§fCorruptedÀÀÀLostÀÀÀSanctuary§7 once@§fCorruptedÀÀÀLostÀÀÀSanctuary§7 единожды
+§fCorruptedÀÀÀUnderworldÀÀÀCrypt§7 once@§fИспорченный Подземный Склеп§7 единожды
+§fCorruptedÀÀÀSand-SweptÀÀÀTomb§7 once@§fИспорченную Песчаную Гробницу§7 единожды
+§fCorruptedÀÀÀInfestedÀÀÀPit§7 once@§fИспорченную Зараженную Яму§7 единожды
+§fCorruptedÀÀÀIceÀÀÀBarrows§7 once@§fИспорченный Ледяной Курган§7 единожды
+§fCorruptedÀÀÀLostÀÀÀSanctuary§7 once@§fИспорченное Затерянное Святилище§7 единожды
+§fCorruptedÀÀÀDecrepitÀÀÀSewers§7 once@§fИспорченную Ветхую Канализацию§7 единожды
 §a- §7Coords: §f-600, -3550@§a- §7Координаты: §f-600, -3550
 §7to fast-travel to §fZight Island@§7для быстрой телепортации на §fZhight Island
-§fCorruptedÀÀÀDecrepitÀÀÀSewers§7 once@§fCorruptedÀÀÀDecrepitÀÀÀSewers§7 единожды
 §7to fast-travel to §fNemract@§7для быстрой телепортации в §fNemract
 §a- §7Coords: §f60, -2215@§a- §7Координаты: §f60, -2215
 §7to fast-travel to §fPirate Cove@§7для быстрой телепортации в §fPirate Cove
@@ -1223,7 +1223,7 @@
 §7to fast-travel to §fVolcanic Isles@§7для быстрой телепортации на §fVolcanic Isles
 §a- §7Coords: §f-800, -3775@§a- §7Координаты: §f-800, -3775
 §a- §7Status: §fHostile@§a- §7Статус: §fВраждебный
-§7to fast-travel to §fGalleon's Graveyard@§7для быстрой телепортации в §fGalleon's Graveyard
+§7to fast-travel to §fGalleon's Graveyard@§7для быстрой телепортации в §fКладбище Галеона
 §a-§7 Level: §f60@§a-§7 Уровень: §f60
 §a-§7 Coords: §f-600, -3550@§a-§7 Координаты: §f-600, -3550
 §a-§7 Status: §fPeaceful@§a-§7 Статус: §fМирный
@@ -1233,7 +1233,7 @@
 §a- §7Coords: §f770, -3880@§a- §7Координаты: §f770, -3880
 §7to fast-travel to §fJofash Dock@§7для быстрой телепортации в §fJofash Dock
 §a- §7Coords: §f1315, -4065@§a- §7Координаты: §f1315, -4065
-§fGalleon'sÀÀÀGraveyard§7 once@§fGalleon's Graveyard§7 единожды
+§fGalleon'sÀÀÀGraveyard§7 once@§fКладбище Галеона§7 единожды
 §a - §7Coordinates: §f-584, -3486@§a - §7Координаты: §f-584, -3486
 §7to fast-travel to §fLlevigar@§7для быстрой телепортации в §fLlevigar
 §a- §7Coords: §f-2125, -4275@§a- §7Координаты: §f-2125, -4275
@@ -1244,20 +1244,16 @@
 §a- §7Coords: §f370, -3470@§a- §7Координаты: §f370, -3470
 §a - §7Coordinates: §f3313, 5346@§a - §7Координаты: §f3313, 5346
 §a - §7Coordinates: §f3331, 4184@§a - §7Координаты: §f3331, 4184
-§4CorruptedÀÀÀDecrepitÀÀÀSewers Key@§4Corrupted Decrepit Sewers Ключ
 §a - §7Coordinates: §f3533, 2374@§a - §7Координаты: §f3533, 2374
-§4CorruptedÀÀÀLostÀÀÀSanctuary Key@§4Corrupted Lost Sanctuary Ключ
 §a - §7Coordinates: §f3025, 6329@§a - §7Координаты: §f3025, 6329
 §7to fast-travel to §fMage Island@§7для быстрой телепортации на §fMage Island
 §a- §7Coords: §f870, -2830@§a- §7Координаты: §f870, -2830
 §a - §7Coordinates: §f2960, 8120@§a - §7Координаты: §f2960, 8120
 §7to fast-travel to §fHalf Moon Island@§7для быстрой телепортации на §fHalf Moon Island
 §a- §7Coords: §f-2530, -2527@§a- §7Координаты: §f-2530, -2527
-§4CorruptedÀÀÀIceÀÀÀBarrows Key@§4Corrupted Ice Barrows Ключ
 §7to fast-travel to §fRooster Island@§7для быстрой телепортации на §fRooster Island
 §a- §7Coords: §f-100, -2475@§a- §7Координаты: §f-100, -2475
 §a- §7Coords: §f-450, -2850@§a- §7Координаты: §f-450, -2850
-§4CorruptedÀÀÀUnderworldÀÀÀCrypt Key@§4Corrupted Underworld Crypt Ключ
 §7to fast-travel to the §fBear Zoo@§7для быстрой телепортации на §fBear Zoo
 §a- §7Coords: §f-300, -2500@§a- §7Координаты: §f-300, -2500
 §7to fast-travel to §fDurum Isles@§7для быстрой телепортации на §fDurum Isles
@@ -2028,7 +2024,11 @@
 §7§kNemract §kWhiskey @§7§kНемракт §kВиски
 §7Use this item to continue your@§7Используй этот предмет для продолжения твоего
 §7progress in the §fLost Sanctuary@§7прогресса в §fЗатерянном Святилище
-§4CorruptedÀÀÀSand-SweptÀÀÀTomb Key@§4Испорченный Песчаная Гробница Ключ
+§4CorruptedÀÀÀSand-SweptÀÀÀTomb Key@§4Испорченного Песчаная Гробница Ключа
+§4CorruptedÀÀÀDecrepitÀÀÀSewers Key@§4Испорченного Ветхая Канализация Ключа
+§4CorruptedÀÀÀUnderworldÀÀÀCrypt Key@§4Испорченного Подземный Склеп Ключа
+§4CorruptedÀÀÀIceÀÀÀBarrows Key@§4Испорченного Ледяной Курган Ключа
+§4CorruptedÀÀÀLostÀÀÀSanctuary Key@§4Испорченного Затерянное Святилище Ключа
 §7progress in the §fGalleon’s Graveyard@§7прогресса в §fКладбище Галеона
 §7Exchange this for an@§7Обменяй это на
 §7item at the §fSquid Shop@§7предмет в §fМагазине Кальмаров
