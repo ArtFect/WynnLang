@@ -458,46 +458,46 @@
 §bReveal Item Names@§bРаскрыть Название Предметов
 §7§lSearch Item@§7§lПоиск Предметов
 §7§lSell Item@§7§lПродажа Предметов
-§7§lView Your Trades
-§aQuick Connect
-§c§lNether (PvP)
-§e§lLobby 1
-§e§lLobby 2
-§e§lLobby 3
-§5§lHero Beta
-§l§6[>] Select This Character
-§7§lEdit Classes
-§2VIP Slots
-§bVIP+ Slots
-§5HERO Slots
-§7§lCancel Class Deletion
-§bCharacter Info
-§dQuest Book
-§b§lQuests
-§b§lSecret Discoveries
-§7§lClick to sort
-§eReset Skill Points
-§dUpgrade your §2✤ Strength§d skill
-§dUpgrade your §e✦ Dexterity§d skill
-§dUpgrade your §b❉ Intelligence§d skill
-§dUpgrade your §c✹ Defence§d skill
-§dUpgrade your §f❋ Agility§d skill
-§fⓀ §6Fishing Profession §8[Gathering]
-§fⒺ §6Scribing Profession §8[Crafting]
-§fⒼ §6Weaponsmithing Profession §8[Crafting]
-§fⒸ §6Woodcutting Profession §8[Gathering]
-§fⒹ §6Jeweling Profession §8[Crafting]
-§fⒻ §6Tailoring Profession §8[Crafting]
-§fⒷ §6Mining Profession §8[Gathering]
-§fⓁ §6Alchemism Profession §8[Crafting]
-§fⒾ §6Woodworking Profession §8[Crafting]
-§fⒿ §6Farming Profession §8[Gathering]
-§fⒶ §6Cooking Profession §8[Crafting]
-§fⒽ §6Armouring Profession §8[Crafting]
-§aDaily Rewards
-§e§lManage Your Crates
-§7Material Slot
-§7<- Material Slots
+§7§lView Your Trades@§7§lПросмотр Твоих Торгов
+§aQuick Connect@§aБыстрое Подключение
+§c§lNether (PvP)@§c§lАд (PvP)
+§e§lLobby 1@§e§lЛобби 1
+§e§lLobby 2@§e§lЛобби 2
+§e§lLobby 3@§e§lЛобби 3
+§5§lHero Beta@§5§lHero Бета
+§l§6[>] Select This Character@§l§6[>] Выбрать Этого Персонажа
+§7§lEdit Classes@§7§lРедактировать Классы
+§2VIP Slots@§2VIP Слоты
+§bVIP+ Slots@§bVIP+ Слоты
+§5HERO Slots@§5HERO Слоты
+§7§lCancel Class Deletion@§7§lОтмена Удаления Класса
+§bCharacter Info@§bИнфо о Персонаже
+§dQuest Book@§dКвестовая Книга
+§b§lQuests@§b§lКвесты
+§b§lSecret Discoveries@§b§lСекретные Открытия
+§7§lClick to sort@§7§lКликни для сортировки
+§eReset Skill Points@§eСброс Очков Умений
+§dUpgrade your §2✤ Strength§d skill@§dУлучши свое умение §2✤ Сила
+§dUpgrade your §e✦ Dexterity§d skill@§dУлучши свое умение §e✦ Точность
+§dUpgrade your §b❉ Intelligence§d skill@§dУлучши свое умение §b❉ Интеллект
+§dUpgrade your §c✹ Defence§d skill@§dУлучши свое умение §c✹ Защита
+§dUpgrade your §f❋ Agility§d skill@§dУлучши свое умение §f❋ Ловкость
+§fⓀ §6Fishing Profession §8[Gathering]@§fⓀ §6Профессия Рыболовство §8[Сбор]
+§fⒺ §6Scribing Profession §8[Crafting]@§fⒺ §6Профессия Изготовление Свитков §8[Крафт]
+§fⒼ §6Weaponsmithing Profession §8[Crafting]@§fⒼ §6Профессия Оружейное Дело §8[Крафт]
+§fⒸ §6Woodcutting Profession §8[Gathering]@§fⒸ §6Профессия Лесорубство §8[Сбор]
+§fⒹ §6Jeweling Profession §8[Crafting]@§fⒹ §6Профессия Изготовление Аксессуаров §8[Крафт]
+§fⒻ §6Tailoring Profession §8[Crafting]@§fⒻ §6Профессия Портняжное Дело §8[Крафт]
+§fⒷ §6Mining Profession §8[Gathering]@§fⒷ §6Профессия Добыча Руды §8[Сбор]
+§fⓁ §6Alchemism Profession §8[Crafting]@§fⓁ §6Профессия Алхимия §8[Крафт]
+§fⒾ §6Woodworking Profession §8[Crafting]@§fⒾ §6Профессия Деревообработка §8[Крафт]
+§fⒿ §6Farming Profession §8[Gathering]@§fⒿ §6Профессия Земледелие §8[Сбор]
+§fⒶ §6Cooking Profession §8[Crafting]@§fⒶ §6Профессия Кулинария §8[Крафт]
+§fⒽ §6Armouring Profession §8[Crafting]@§fⒽ §6Профессия Изготовление брони §8[Крафт]
+§aDaily Rewards@§aЕжедневная Награда
+§e§lManage Your Crates@§e§lУправление Контейнерами
+§7Material Slot@§7Слот для Материала
+§7<- Material Slots@§7<- Слоты для Материала
 §7Ingredient Slots §8(Optional)
 §7Crafted Item Slot
 §c§lIncomplete Recipe
