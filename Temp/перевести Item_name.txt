@@ -428,36 +428,36 @@
 §fRefined Dark Paper 2§6 [§e✫✫§8✫§6]À@§fПереработанная Каштановая Бумага 2§6 [§e✫✫§8✫§6]
 
 ######################Интерфейсы#########################3
-§a§lWynncraft
-§6§lDiscoveries
-§7§lClick to dump §c§lall items §4§l(except hotbar)§7§l into your bank
-§a§lClick to confirm
-§6§lIronman ❂
-§6§lIronman ❂§2 [Enabled]
-§c§lHardcore ☠
-§c§lHardcore ☠§2 [Enabled]
-§3§lCraftsman ✿
-§3§lCraftsman ✿§2 [Enabled]
-§a§lSearch
-§a§lClick to continue
-§a§lAttack
-§a§l45 seconds
-§a§l1 minute
-§a§l2 minutes
-§a§l3 minutes
-§a§l4 minutes
-§a§lGo back
-§f§lDefence Info
-§f§lDamage Info
-§f§lUse Menu
-§f§lJukebox Menu
-§f§lBack
-§f§lPrice Check
-§l§a[+] Create a new character
-§eFilter Frontpage
-§bReveal Item Names
-§7§lSearch Item
-§7§lSell Item
+§a§lWynncraft@ 
+§6§lDiscoveries@§6§lОткрытия
+§7§lClick to dump §c§lall items §4§l(except hotbar)§7§l into your bank@§7§lКликни для сброса §c§lвсех предметов §4§l(кроме хотбара)§7§l в свой банк
+§a§lClick to confirm@§a§lКликни для подтверждения
+§6§lIronman ❂@§6§lЖелезный Человек ❂
+§6§lIronman ❂§2 [Enabled]@§6§lЖелезный Человек ❂§2 [Включен]
+§c§lHardcore ☠@§c§lХардкор ☠
+§c§lHardcore ☠§2 [Enabled]@§c§lХардкор ☠§2 [Включен]
+§3§lCraftsman ✿@§3§lРемесленник ✿
+§3§lCraftsman ✿§2 [Enabled]@§3§lРемесленник ✿§2 [Включен]
+§a§lSearch@§a§lПоиск
+§a§lClick to continue@§a§lКликни для продолжения
+§a§lAttack@§a§lАтаковать
+§a§l45 seconds@§a§l45 секунд
+§a§l1 minute@§a§l1 минута
+§a§l2 minutes@§a§l2 минуты
+§a§l3 minutes@§a§l3 минуты
+§a§l4 minutes@§a§l4 минуты
+§a§lGo back@§a§lВернуться Назад
+§f§lDefence Info@§f§lЗащита Инфо
+§f§lDamage Info@§f§lУрон Инфо
+§f§lUse Menu@§f§lМеню Использований
+§f§lJukebox Menu@§f§lМеню Проигрывателя
+§f§lBack@§f§lНазад
+§f§lPrice Check@§f§lПроверка Цены
+§l§a[+] Create a new character@§l§a[+] Создать нового персонажа
+§eFilter Frontpage@§eФильтр Титульной Страницы
+§bReveal Item Names@§bРаскрыть Название Предметов
+§7§lSearch Item@§7§lПоиск Предметов
+§7§lSell Item@§7§lПродажа Предметов
 §7§lView Your Trades
 §aQuick Connect
 §c§lNether (PvP)
