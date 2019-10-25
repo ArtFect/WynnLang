@@ -674,47 +674,46 @@
 §aKey Forge Shop@§aМагазин Ковки Ключей
 §aFish Shop@§aМагазин Рыбы
 §aTicket Shop@§aМагазин Билетов
-§aSquid Shop
-§aLiterature Shop
-§aPowder Shop
-§aExchange Shop
-§aNecromancy Shop
-§aMelon Shop
-§aShifty Shop
-§aTransmutation Shop
-§aHive Thunder Shop
-§aHive Air Shop
-§aHive Earth Shop
-§aHive Water Shop
-§aHive Fire Shop
-§aMaster Trinket Shop
-§aMaster Weapon Shop
-§aMaster Armour Shop
-§aGift Shop
-§aLegendary Shop
-§aExplosives Shop
-§aTemple Shop
-§aReset Scroll Shop
-§aIngredient Shop
-§aQuartz Shop
-§aGold Dealer Shop
-§aGolden Fish Shop
-§aHook Shop
-§aBlack Market Shop
-§aSouvenir Shop
-§aBoat Shop
-§aBook Shop
-§aClock Shop
-§aWig Shop
-§aBanned Items Shop
-§aVoid Shop
-§aBronze Rewards Shop
-§aGold Rewards Shop
-§aSilver Rewards Shop
-§aDiamond Rewards Shop
-§aRecipe Shop
-§aGert Shop
-
+§aSquid Shop@§aМагазин Кальмара
+§aLiterature Shop@§aЛитературный Магазин
+§aPowder Shop@§aМагазин Порошков
+§aExchange Shop@§aОбменник
+§aNecromancy Shop@§aМагазин Некромантии
+§aMelon Shop@§aМагазин Арбузов
+§aShifty Shop@§aХитрый Магазин
+§aTransmutation Shop@§aМагазин Трансмутации
+§aHive Thunder Shop@§aУлей Гром Магазин
+§aHive Air Shop@§aУлей Воздух Магазин
+§aHive Earth Shop@§aУлей Земля Магазин
+§aHive Water Shop@§aУлей Вода Магазин
+§aHive Fire Shop@§aУлей Огонь Магазин
+§aMaster Trinket Shop@§aМагазин Мастера Безделушек
+§aMaster Weapon Shop@§aМагазин Мастер Оружий
+§aMaster Armour Shop@§aМагазин Мастер Брони
+§aGift Shop@§aМагазин Подарков
+§aLegendary Shop@§aЛегендарный Магазин
+§aExplosives Shop@§aМагазин Взрывчатки
+§aTemple Shop@§aМагазин Храма
+§aReset Scroll Shop@§aМагазин Свитков Сброса
+§aIngredient Shop@§aМагазин Ингредиентов
+§aQuartz Shop@§aМагазин Кварца
+§aGold Dealer Shop@§aМагазин Торговца Золотом
+§aGolden Fish Shop@§aМагазин Золотой Рыбы
+§aHook Shop@§aМагазин Крюков
+§aBlack Market Shop@§aМагазин Черного Рынка
+§aSouvenir Shop@§aМагазин Сувениров
+§aBoat Shop@§aМагазин Лодок
+§aBook Shop@§aКнижный Магазин
+§aClock Shop@§aМагазин Часов
+§aWig Shop@§aМагазин Париков
+§aBanned Items Shop@§aМагазин Запрещенных Предметов
+§aVoid Shop@§aПустотный Магазин
+§aBronze Rewards Shop@§aМагазин Бронзовых Наград
+§aGold Rewards Shop@§aМагазин Золотых Наград
+§aSilver Rewards Shop@§aМагазин Серебрянных Наград
+§aDiamond Rewards Shop@§aМагазин Алмазных Наград
+§aRecipe Shop@§aМагазин Рецептов
+§aGert Shop@§aГерт Магазин
 
 #####################Фильтры#############################
 §7§lAdd Level 91 to 104 Only Filter
