@@ -560,18 +560,6 @@
 §6Decrease Level §8[3]@§6Понизить Уровень §8[3]
 §6Increase Level §8[4]@§6Повысить Уровень §8[4]
 §6Decrease Level §8[4]@§6Понизить Уровень §8[4]
-§6Increase Level §8[5]@§6Повысить Уровень §8[5]
-§6Decrease Level §8[5]@§6Понизить Уровень §8[5]
-§6Increase Level §8[5]@§6Повысить Уровень §8[6]
-§6Decrease Level §8[5]@§6Понизить Уровень §8[6]
-§6Increase Level §8[5]@§6Повысить Уровень §8[7]
-§6Decrease Level §8[5]@§6Понизить Уровень §8[7]
-§6Increase Level §8[5]@§6Повысить Уровень §8[8]
-§6Decrease Level §8[5]@§6Понизить Уровень §8[8]
-§6Increase Level §8[5]@§6Повысить Уровень §8[9]
-§6Decrease Level §8[5]@§6Понизить Уровень §8[9]
-§6Increase Level §8[5]@§6Повысить Уровень §8[10]
-§6Decrease Level §8[5]@§6Понизить Уровень §8[10]
 §aConfirm@§aПодтвердить
 §7No Price Check Available@§7Проверка Цены Отсутствует
 §6Free Slot@§6Свободный Слот
@@ -599,43 +587,43 @@
 §aClick to Set Amount@§aКликни для Указания Количества
 §aClick to Set Price@§aКликни для Установления Цены
 §7§lClick the Emerald to Set a Price
-§c§lCancel
-§aOpen Crates
-§eScrap Rewards
-§7§lClick Items to Sell
-§f§lBuy on the Exchange
-§aAdd Powders To Your Items
-§eUpgrade Your Powders
-§cRemove Powders From Your Items
-§7Click on a powder to add it
-§7Confirm >
-§c✖ Cancel
-§7Click on an item to add it
-§7< Add Item
-§7✔ Add
-§a✔ Add
-§c§lInvalid Ingredients
-§7✔ Remove
-§a✔ Remove
-§7§lModify your Banner
-§7§lAttack Territory
-§c§lClose
-§e§lYou are scrapping:
-§7§lAdd items to reveal them
-§c✖ Upgrade
-§e§lYou are revealing:
-§6Close The Menu
-§c§lBack to Class Selection
-§bChoose Icon
-§7§lUse Crate Weapon Skin
-§bQuest Book
-§6Click to Search an Item
-§6Go To Next Page
-§7§lClear your §c§lentire §7§lplaylist
-§7§lSelect random music
-§7§lSearch for a song
-§7§lClick the Empty Slot to Search an Item
-§aPlayers ➠ Enabled
+§c§lCancel@§c§lОтмена
+§aOpen Crates@§aОткрыть Контейнеры
+§eScrap Rewards@§eУтилизировать Награды
+§7§lClick Items to Sell@§7§lКликни на Предметы для Продажи
+§f§lBuy on the Exchange@§f§lКупить в Обменнике
+§aAdd Powders To Your Items@§aДобавить Порошки на Предметы
+§eUpgrade Your Powders@§eУлучшить Порошки
+§cRemove Powders From Your Items@§cУбрать Порошки с Предметов
+§7Click on a powder to add it@§7Кликни на порошок для добавления
+§7Confirm >@§7Подтвердить >
+§c✖ Cancel@§c✖ Отмена
+§7Click on an item to add it@§7Кликни на предмет для добавления
+§7< Add Item@§7< Добавить Предмет
+§7✔ Add@§7✔ Добавить
+§a✔ Add@§a✔ Добавить
+§c§lInvalid Ingredients@§c§lНеподходящие Ингредиенты
+§7✔ Remove@§7✔ Убрать
+§a✔ Remove@§a✔ Убрать
+§7§lModify your Banner@§7§lМодифицировать Баннер
+§7§lAttack Territory@§7§lАтаковать Территорию
+§c§lClose@§c§lЗакрыть
+§e§lYou are scrapping:@§e§lТы утилизируешь:
+§7§lAdd items to reveal them@§7§lДобавь предметы для их раскрытия
+§c✖ Upgrade@§c✖ Улучшить
+§e§lYou are revealing:@§e§lТы раскрываешь:
+§6Close The Menu@§6Закрыть Меню
+§c§lBack to Class Selection@§c§lВернуться к Выбору Класса
+§bChoose Icon@§bВыбрать Иконку
+§7§lUse Crate Weapon Skin@§7§lИспользовать Скин Оружия
+§bQuest Book@§bКвестовая Книга
+§6Click to Search an Item@§6Кликни для Поиска Предмета
+§6Go To Next Page@§6Перейти на Следующую Страницу
+§7§lClear your §c§lentire §7§lplaylist@§7§lОчистить твой §c§lвесь §7§lплейлист
+§7§lSelect random music@§7§lВыбрать рандомную музыку
+§7§lSearch for a song@§7§lНайти трек
+§7§lClick the Empty Slot to Search an Item@§7§lКликни на Пустой Слот для Поиска Предмета
+§aPlayers ➠ Enabled@§aИгроки ➠ Включены
 
 #####################Торговцы############################
 §aMask Shop
