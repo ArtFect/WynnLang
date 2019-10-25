@@ -548,44 +548,56 @@
 §4You don't have enough mana to do that spell!@§4Недостаточно маны для этого заклинания!
 §aConfirm Identification@§aПодтвердить идентификацию
 §7Please wait...@§7Пожалуйста подожди...
-§cClick here to take all items
-§aConfirm §2[Delete Character]
-§cCancel §4[Do not delete]
-§cDeleting...
-§6Increase Level §8[1]
-§6Decrease Level §8[1]
-§6Increase Level §8[2]
-§6Decrease Level §8[2]
-§6Increase Level §8[3]
-§6Decrease Level §8[3]
-§6Increase Level §8[4]
-§6Decrease Level §8[4]
-§aConfirm
-§7No Price Check Available
-§6Free Slot
-§cNot Enough Emeralds
-§fLoot Bomb
-§fSoul Bomb
-§fDungeon Bomb
-§fShout Bomb
-§fWorld Shout
-§fParty Bomb
-§fDisguise Bomb
-§fNametag
-§fBuy a pet
-§fLoot Bomb Package
-§fIngredient Bomb Package
-§fProfession Speed Bomb Package
-§fParty Bomb Package
-§fDisguise Bomb Package
-§fLight Bomb Package
-§fMedium Bomb Package
-§fHeavy Bomb Package
-§fGlobal Shout Package
-§fWorld Shout Package
-§6Click an Item to Sell
-§aClick to Set Amount
-§aClick to Set Price
+§cClick here to take all items@§cКликни тут, чтобы забрать все предметы
+§aConfirm §2[Delete Character]@§aПодтвердить §2[Удалить Персонажа]
+§cCancel §4[Do not delete]@§cОтмена §4[Не удалять]
+§cDeleting...@§cУдаление...
+§6Increase Level §8[1]@§6Повысить Уровень §8[1]
+§6Decrease Level §8[1]@§6Понизить Уровень §8[1]
+§6Increase Level §8[2]@§6Повысить Уровень §8[2]
+§6Decrease Level §8[2]@§6Понизить Уровень §8[2]
+§6Increase Level §8[3]@§6Повысить Уровень §8[3]
+§6Decrease Level §8[3]@§6Понизить Уровень §8[3]
+§6Increase Level §8[4]@§6Повысить Уровень §8[4]
+§6Decrease Level §8[4]@§6Понизить Уровень §8[4]
+§6Increase Level §8[5]@§6Повысить Уровень §8[5]
+§6Decrease Level §8[5]@§6Понизить Уровень §8[5]
+§6Increase Level §8[5]@§6Повысить Уровень §8[6]
+§6Decrease Level §8[5]@§6Понизить Уровень §8[6]
+§6Increase Level §8[5]@§6Повысить Уровень §8[7]
+§6Decrease Level §8[5]@§6Понизить Уровень §8[7]
+§6Increase Level §8[5]@§6Повысить Уровень §8[8]
+§6Decrease Level §8[5]@§6Понизить Уровень §8[8]
+§6Increase Level §8[5]@§6Повысить Уровень §8[9]
+§6Decrease Level §8[5]@§6Понизить Уровень §8[9]
+§6Increase Level §8[5]@§6Повысить Уровень §8[10]
+§6Decrease Level §8[5]@§6Понизить Уровень §8[10]
+§aConfirm@§aПодтвердить
+§7No Price Check Available@§7Проверка Цены Отсутствует
+§6Free Slot@§6Свободный Слот
+§cNot Enough Emeralds@§cНедостаточно Эмеральдов
+§fLoot Bomb@§fЛут Бомба
+§fSoul Bomb@§fБомба Души
+§fDungeon Bomb@§fДанж Бомба
+§fShout Bomb@§fШаут Бомба
+§fWorld Shout@§fСерверный Шаут
+§fParty Bomb@§fПати Бомба
+§fDisguise Bomb@§fМаскировочная Бомба
+§fNametag@§fБирка
+§fBuy a pet@§fКупить питомца
+§fLoot Bomb Package@§fЛут Бомба Пакет
+§fIngredient Bomb Package@§fИнгредиент Бомба Пакет
+§fProfession Speed Bomb Package@§fПрофессии Скорость Бомба Пакет
+§fParty Bomb Package@§fПати Бомба Пакет
+§fDisguise Bomb Package@§fМаскировка Бомба Пакет
+§fLight Bomb Package@§fМаленький Пакет Бомб
+§fMedium Bomb Package@§fСредний Пакет Бомб
+§fHeavy Bomb Package@§fБольшой Пакет Бомб
+§fGlobal Shout Package@§fГлобальные Шауты Пакет
+§fWorld Shout Package@§fСерверные Шауты Пакет
+§6Click an Item to Sell@§6Кликни на Предмет для Продажи
+§aClick to Set Amount@§aКликни для Указания Количества
+§aClick to Set Price@§aКликни для Установления Цены
 §7§lClick the Emerald to Set a Price
 §c§lCancel
 §aOpen Crates
