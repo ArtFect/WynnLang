@@ -498,56 +498,56 @@
 §e§lManage Your Crates@§e§lУправление Контейнерами
 §7Material Slot@§7Слот для Материала
 §7<- Material Slots@§7<- Слоты для Материала
-§7Ingredient Slots §8(Optional)
-§7Crafted Item Slot
-§c§lIncomplete Recipe
-§fⒾ§l Craft Ⓘ
-§fⒼ§l Craft Ⓖ
-§fⒽ§l Craft Ⓗ
-§fⓁ§l Craft Ⓛ
-§fⒺ§l Craft Ⓔ
-§fⒻ§l Craft Ⓕ
-§fⒹ§l Craft Ⓓ
-§fⒶ§l Craft Ⓐ
-§cCrafting...
-§fⒸ§l Refine §fⒸ
-§fⒿ§l Refine §fⒿ
-§fⓀ§l Refine §fⓀ
-§fⒷ§l Refine §fⒷ
-§c§lNot enough items
-§7§lDump all §b§lworn equipment§7§l into your bank
-§7§lSearch for an item
-§7Click on an item to purchase it
-§cAdd items to identify by
-§6Sell Items
-§6Scrap Items
-§6Repair Items
-§7§lAdd items to sell them
-§e§lYou are selling:
-§7§lAdd items to scrap them
-§7< Add Powders
-§7✔ Upgrade
-§a✔ Upgrade
-§f        Select §6§lArcher
-§f        Select §6§lWarrior
-§f        Select §6§lMage
-§f        Select §6§lAssassin
-§f        Select §6§lHunter
-§f        Select §6§lKnight
-§f     Select §6§lDark Wizard
-§f        Select §6§lNinja
-§7Accessory Slot
-§lAttack Effect
-§lPlayer Effects
-§lPets
-§lGear Skins
-§lDisguises
-§lMob Totems
-§lBomb
-§4You have not unlocked this spell!
-§4You don't have enough mana to do that spell!
-§aConfirm Identification
-§7Please wait...
+§7Ingredient Slots §8(Optional)@§7Слоты для Ингредиентов §8(Опционально)
+§7Crafted Item Slot@§7Слот Крафтового Предмета
+§c§lIncomplete Recipe@§c§lНезавершенный Рецепт
+§fⒾ§l Craft Ⓘ@§fⒾ§l Крафт Ⓘ
+§fⒼ§l Craft Ⓖ@§fⒼ§l Крафт Ⓖ
+§fⒽ§l Craft Ⓗ@§fⒽ§l Крафт Ⓗ
+§fⓁ§l Craft Ⓛ@§fⓁ§l Крафт Ⓛ
+§fⒺ§l Craft Ⓔ@§fⒺ§l Крафт Ⓔ
+§fⒻ§l Craft Ⓕ@§fⒻ§l Крафт Ⓕ
+§fⒹ§l Craft Ⓓ@§fⒹ§l Крафт Ⓓ
+§fⒶ§l Craft Ⓐ@§fⒶ§l Крафт Ⓐ
+§cCrafting...@§cИдет Крафт...
+§fⒸ§l Refine §fⒸ@§fⒸ§l Переработка §fⒸ
+§fⒿ§l Refine §fⒿ@§fⒿ§l Переработка §fⒿ
+§fⓀ§l Refine §fⓀ@§fⓀ§l Переработка §fⓀ
+§fⒷ§l Refine §fⒷ@§fⒷ§l Переработка §fⒷ
+§c§lNot enough items@§c§lНедостаточно Предметов
+§7§lDump all §b§lworn equipment§7§l into your bank@§7§lСбросить все §b§lнадетое снаряжение§7§l в свой банк
+§7§lSearch for an item@§7§lНайти предмет
+§7Click on an item to purchase it@§7Кликни на предмет для его покупки
+§cAdd items to identify by@§cДобавь предметы для идентификации
+§6Sell Items@§6Продать Предметы
+§6Scrap Items@§6Утилизировать Предметы
+§6Repair Items@§6Починить Предметы
+§7§lAdd items to sell them@§7§lДобавь предметы для продажи
+§e§lYou are selling:@§e§lТы продаешь:
+§7§lAdd items to scrap them@§7§lДобавь предметы для утилизации
+§7< Add Powders@§7< Добавить Порошки
+§7✔ Upgrade@§7✔ Улучшить
+§a✔ Upgrade@§a✔ Улучшить
+§f        Select §6§lArcher@§f        Выбрать §6§lЛучника
+§f        Select §6§lWarrior@§f        Выбрать §6§lВоина
+§f        Select §6§lMage@§f        Выбрать §6§lМага
+§f        Select §6§lAssassin@§f        Выбрать §6§lАссасина
+§f        Select §6§lHunter@§f        Выбрать §6§lОхотника
+§f        Select §6§lKnight@§f        Выбрать §6§lРыцаря
+§f     Select §6§lDark Wizard@§f     Выбрать §6§lТемного Волшебника
+§f        Select §6§lNinja@§f        Выбрать §6§lНиндзя
+§7Accessory Slot@§7Слот для Аксессуара
+§lAttack Effect@§lЭффекты Атаки
+§lPlayer Effects@§lЭффекты Игрока
+§lPets@§lПитомцы
+§lGear Skins@§lОружейные Скины
+§lDisguises@§lМаскировки
+§lMob Totems@§lМоб Тотемы
+§lBomb@§lБомбы
+§4You have not unlocked this spell!@§4Ты не открыл это заклинание!
+§4You don't have enough mana to do that spell!@§4Недостаточно маны для этого заклинания!
+§aConfirm Identification@§aПодтвердить идентификацию
+§7Please wait...@§7Пожалуйста подожди...
 §cClick here to take all items
 §aConfirm §2[Delete Character]
 §cCancel §4[Do not delete]
