@@ -1085,69 +1085,69 @@ Underworld���Crypt���Entrance Teleportation Scroll@§bПодземн
 §bVolcanic Isles Boat PassÀ@§bВулканик Ислес Билет
 
 ########################Гильдия#################################
-§7§lMobs
-§7§lDefend Territory
-§7§lCurrent Army:
-§7§lMercenaries
-§7§lRogues
-§7§lBarbarians
-§7§lRangers
-§7§lSnipers
-§7§lClerics
-§7§lWitches
-§7§lBishops
-§7§lHonour Guards
-§7§lSelect some mobs...
-§e§lYou are buying:
-§7§lRogue Combat Lv. 50
-§7§lRogue Combat Lv. 60
-§7§lRogue Combat Lv. 70
-§7§lRogue Combat Lv. 80
-§7§lRogue Combat Lv. 90
-§7§lRogue Combat Lv. 100
-§7§lRanger Combat Lv. 50
-§7§lRanger Combat Lv. 60
-§7§lRanger Combat Lv. 70
-§7§lRanger Combat Lv. 80
-§7§lRanger Combat Lv. 90
-§7§lRanger Combat Lv. 100
-§7§lMercenary Combat Lv. 50
-§7§lMercenary Combat Lv. 60
-§7§lMercenary Combat Lv. 70
-§7§lMercenary Combat Lv. 80
-§7§lMercenary Combat Lv. 90
-§7§lMercenary Combat Lv. 100
-§7§lBarbarian Combat Lv. 50
-§7§lBarbarian Combat Lv. 60
-§7§lBarbarian Combat Lv. 70
-§7§lBarbarian Combat Lv. 80
-§7§lBarbarian Combat Lv. 90
-§7§lBarbarian Combat Lv. 100
-§7§lSniper Combat Lv. 50
-§7§lSniper Combat Lv. 60
-§7§lSniper Combat Lv. 70
-§7§lSniper Combat Lv. 80
-§7§lSniper Combat Lv. 90
-§7§lBishop Combat Lv. 50
-§7§lBishop Combat Lv. 60
-§7§lBishop Combat Lv. 70
-§7§lBishop Combat Lv. 80
-§7§lBishop Combat Lv. 90
-§7§lCleric Combat Lv. 50
-§7§lCleric Combat Lv. 60
-§7§lCleric Combat Lv. 70
-§7§lCleric Combat Lv. 80
-§7§lCleric Combat Lv. 90
-§7§lWitch Combat Lv. 50
-§7§lWitch Combat Lv. 60
-§7§lWitch Combat Lv. 70
-§7§lWitch Combat Lv. 80
-§7§lWitch Combat Lv. 90
-§7§lHonour Guard Combat Lv. 50
-§7§lHonour Guard Combat Lv. 60
-§7§lHonour Guard Combat Lv. 70
-§7§lHonour Guard Combat Lv. 80
-§7§lHonour Guard Combat Lv. 90
+§7§lMobs@§7§lМобы
+§7§lDefend Territory@§7§lЗащита Территории
+§7§lCurrent Army:@§7§lТекущая Армия:
+§7§lMercenaries@§7§lНаемники
+§7§lRogues@§7§lРазбойники
+§7§lBarbarians@§7§lВарвары
+§7§lRangers@§7§lРейнджеры
+§7§lSnipers@§7§lСнайперы
+§7§lClerics@§7§lКлерики
+§7§lWitches@§7§lВедьмы
+§7§lBishops@§7§lЕпископы
+§7§lHonour Guards@§7§lПочетные Защитники
+§7§lSelect some mobs...@§7§lВыбрать мобов...
+§e§lYou are buying:@§e§lТы покупаешь:
+§7§lRogue Combat Lv. 50@§7§lРазбойник Комбат Ур. 50
+§7§lRogue Combat Lv. 60@§7§lРазбойник Комбат Ур. 60
+§7§lRogue Combat Lv. 70@§7§lРазбойник Комбат Ур. 70
+§7§lRogue Combat Lv. 80@§7§lРазбойник Комбат Ур. 80
+§7§lRogue Combat Lv. 90@§7§lРазбойник Комбат Ур. 90
+§7§lRogue Combat Lv. 100@§7§lРазбойник Комбат Ур. 100
+§7§lRanger Combat Lv. 50@§7§lРейнджер Комбат Ур. 50
+§7§lRanger Combat Lv. 60@§7§lРейнджер Комбат Ур. 60
+§7§lRanger Combat Lv. 70@§7§lРейнджер Комбат Ур. 70
+§7§lRanger Combat Lv. 80@§7§lРейнджер Комбат Ур. 80
+§7§lRanger Combat Lv. 90@§7§lРейнджер Комбат Ур. 90
+§7§lRanger Combat Lv. 100@§7§lРейнджер Комбат Ур. 100
+§7§lMercenary Combat Lv. 50@§7§lНаемник Комбат Ур. 50
+§7§lMercenary Combat Lv. 60@§7§lНаемник Комбат Ур. 60
+§7§lMercenary Combat Lv. 70@§7§lНаемник Комбат Ур. 70
+§7§lMercenary Combat Lv. 80@§7§lНаемник Комбат Ур. 80
+§7§lMercenary Combat Lv. 90@§7§lНаемник Комбат Ур. 90
+§7§lMercenary Combat Lv. 100@§7§lНаемник Комбат Ур. 100
+§7§lBarbarian Combat Lv. 50@§7§lВарвар Комбат Ур. 50
+§7§lBarbarian Combat Lv. 60@§7§lВарвар Комбат Ур. 60
+§7§lBarbarian Combat Lv. 70@§7§lВарвар Комбат Ур. 70
+§7§lBarbarian Combat Lv. 80@§7§lВарвар Комбат Ур. 80
+§7§lBarbarian Combat Lv. 90@§7§lВарвар Комбат Ур. 90
+§7§lBarbarian Combat Lv. 100@§7§lВарвар Комбат Ур. 100
+§7§lSniper Combat Lv. 50@§7§lСнайпер Комбат Ур. 50
+§7§lSniper Combat Lv. 60@§7§lСнайпер Комбат Ур. 60
+§7§lSniper Combat Lv. 70@§7§lСнайпер Комбат Ур. 70
+§7§lSniper Combat Lv. 80@§7§lСнайпер Комбат Ур. 80
+§7§lSniper Combat Lv. 90@§7§lСнайпер Комбат Ур. 90
+§7§lBishop Combat Lv. 50@§7§lЕпископ Комбат Ур. 50
+§7§lBishop Combat Lv. 60@§7§lЕпископ Комбат Ур. 60
+§7§lBishop Combat Lv. 70@§7§lЕпископ Комбат Ур. 70
+§7§lBishop Combat Lv. 80@§7§lЕпископ Комбат Ур. 80
+§7§lBishop Combat Lv. 90@§7§lЕпископ Комбат Ур. 90
+§7§lCleric Combat Lv. 50@§7§lКлерик Комбат Ур. 50
+§7§lCleric Combat Lv. 60@§7§lКлерик Комбат Ур. 60
+§7§lCleric Combat Lv. 70@§7§lКлерик Комбат Ур. 70
+§7§lCleric Combat Lv. 80@§7§lКлерик Комбат Ур. 80
+§7§lCleric Combat Lv. 90@§7§lКлерик Комбат Ур. 90
+§7§lWitch Combat Lv. 50@§7§lВедьма Комбат Ур. 50
+§7§lWitch Combat Lv. 60@§7§lВедьма Комбат Ур. 60
+§7§lWitch Combat Lv. 70@§7§lВедьма Комбат Ур. 70
+§7§lWitch Combat Lv. 80@§7§lВедьма Комбат Ур. 80
+§7§lWitch Combat Lv. 90@§7§lВедьма Комбат Ур. 90
+§7§lHonour Guard Combat Lv. 50@§7§lПочетный Защитник Комбат Ур. 50
+§7§lHonour Guard Combat Lv. 60@§7§lПочетный Защитник Комбат Ур. 60
+§7§lHonour Guard Combat Lv. 70@§7§lПочетный Защитник Комбат Ур. 70
+§7§lHonour Guard Combat Lv. 80@§7§lПочетный Защитник Комбат Ур. 80
+§7§lHonour Guard Combat Lv. 90@§7§lПочетный Защитник Комбат Ур. 90
 
 ########################Ключи от данжа#################
 §6DecrepitÀÀÀSewers Key
