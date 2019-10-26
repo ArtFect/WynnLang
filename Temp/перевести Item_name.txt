@@ -1253,12 +1253,14 @@ Touroto Hide@Кожа Тоурото
 §fExplosive@§fВзрывчатка
 §fReaper's Skull@§fЧереп Жнеца
 Clearsight Spectacles@Прозрачные Очки
+§bClearsight Spectacles@§bПрозрачные Очки
 §fLost Spell Scroll@§fПотерянный Свиток Заклинания
 §fBucket of Lava@§fВедро Лавы
 §fGert Mask@§fМаска Герта
 §dRestored Ancient Helmet@§dВосстановленный Древний Шлем
 §eCreeper Mask@§eМаска Крипера
 Witness Report I@Отчет Свидетеля I
+Witness Report II@Отчет Свидетеля II
 §fIcon of Naragath@§fИкона Нарагата
 §fEye of Blood@§fГлаз Крови
 §dSound Proof Earmuff@§dНаушники
@@ -1272,6 +1274,7 @@ Witness Report I@Отчет Свидетеля I
 Helmet of Shimmering Light@Шлем Мерцающего Света
 §fSayleros' Brother Ashes@§fПрах Брата Сайлероса
 §eClimbing Helmet@§eАльпинистский Шлем
+§fClimbing Helmet@§fАльпинистский Шлем
 §fMaltic's Recommendation Letter@§fРекомендательное письмо Малтика
 §eFactory Helmet@§eФабричный Шлем
 §fQuartz Contract - Q Project@§fКварц Контракт - Проект Ы
@@ -1283,6 +1286,8 @@ Purple Crystal Shard@Фиолетовый Осколок Кристалла
 §fCluckles' Favourite Feather@§fЛюбимое Перо Клаклеса
 §fBreathing Helmet I@§fШлем Подводника I
 Visbe's Head@Голова Висбе
+Dolg's Head@Голова Долга
+Elak's Head@Голова Элака
 §fBook of the Bones@§fКнига Костей
 Slime Scooper@Совок для Слизи 
 §eBreathing Helmet II@§eШлем Подводника II
@@ -1298,57 +1303,51 @@ Scrawled Note@Нацарапанная Записка
 §7Sable Axe Head@§7Сабл Лезвие Топора
 The Axe of Llevigar@Топор Ллевигара
 §fCreeper Skin@§fКожа Крипера
-§fTreasure Map
-§fGolden Pirate Fish
-§fGemstone Dust
-§fCaissop's Master Piece
-§fCrushed Bigfoot Bone
-§fEmpty Bucket
-§fTheorick's Staff
-§fTwain Journal
-Creeper Mask
-§fAlmuj's Liquified Emerald
-§dCalamaro's StaffÀ
-§bClearsight Spectacles
-§dBlack Veil
-§7Old Basement Key
-§fHighly Explosive Magical TNT
-Witness Report II
-Aseado Leaf
-§fBob's Seal of Approval
-Broken Amulet
-§dTroms Kid Badge
-§aZhight Money
-§fAncient Ocean Key
-§fAntic Bead
-§fHourglass Sand
-§fGuard's Uniform
-Flight Ticket
-Guard Key
-Secret Documents
-Dusty Passport
-Passport
-Engineer's Note
-Captain's Key
-Dangerous Explosive
-Makeshift Key
-Queen's Treasure Stash Key
-§fBasement Storage Key
-§fGert Tunnel Password
-§fCell Key
-§fBarricade Key
-§fClimbing Helmet
-Crate of Rat Poison
-§fMechanical Piece
-§fPower Source
-Study Results
-Scorched Root
-Dolg's Head
-Elak's Head
-Rusty Shovel
-§fThe Staff of True Ice
-Cannon Key
-Cannonball
+§fTreasure Map@§fКарта Сокровищ
+§fGolden Pirate Fish@§fЗолотая Пиратская Рыба
+§fGemstone Dust@§fПыль Драгоценного Камня
+§fCaissop's Master Piece@§fШедевр Каизопа
+§fCrushed Bigfoot Bone@§fИзмельченная Кость Йети
+§fEmpty Bucket@§fПустое Ведро
+§fTheorick's Staff@§fПосох Теорика
+§fTwain Journal@§fЖурнал Твейна
+Creeper Mask@Маска Крипера
+§fAlmuj's Liquified Emerald@§fЖидкий Алмужский Эмеральд
+§dBlack Veil@§dЧерная Вуаль
+§7Old Basement Key@§7Старый Подвальный Ключ
+§fHighly Explosive Magical TNT@§fВзрывоопасный Магический Динамит
+Aseado Leaf@Лист Асеадо
+§fBob's Seal of Approval@§fПечать Одобрения Боба
+Broken Amulet@Сломанный Амулет
+§dTroms Kid Badge@§dДетский Значок Тромса
+§aZhight Money@§aЖигт Деньги
+§fAncient Ocean Key@§fДревний Океанический Ключ
+§fAntic Bead@§fДревние Бусы
+§fHourglass Sand@§fПесчинка для Часов
+§fGuard's Uniform@§fУниформа Охранника
+Flight Ticket@Билет на Дирижабль
+Guard Key@Ключ Охранника
+Secret Documents@Секретные Документы
+Dusty Passport@Пыльный Паспорт
+Passport@Паспорт
+Engineer's Note@Записка Инженера
+Captain's Key@Ключ Капитана
+Dangerous Explosive@опасная Взрывчатка
+Makeshift Key@Самодельный Ключ
+Queen's Treasure Stash Key@Ключ от Тайника Королевы
+§fBasement Storage Key@§fКлюч от Хранилища Подвала
+§fGert Tunnel Password@§fГерт Тоннель Пароль
+§fCell Key@§fКлюч от Клетки
+§fBarricade Key@§fКлюч от Баррикад
+Crate of Rat Poison@Контейнер Крысиного Яда
+§fMechanical Piece@§fМеханическая Деталь
+§fPower Source@§fИсточник Энергии
+Study Results@Результаты Исследований
+Scorched Root@Выжженный Корень
+Rusty Shovel@Ржавая Лопата
+§fThe Staff of True Ice@§fПредмет Чистого Льда
+Cannon Key@Ключ от Пушки
+Cannonball@Снаряд
 Mysterious Gem
 §fBucket of Blazing Lava
 §fRusty Mansion Key
