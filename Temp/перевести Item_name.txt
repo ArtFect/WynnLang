@@ -902,100 +902,101 @@
 §7§lRemove Earth Defence Identification Only Filter@§7§lУбрать Фильтр "Только Защита Земли Идентификация"
 
 #########################Зелья###############################
-§cPotion of Healing§4 [3/3]
-§cPotion of Healing§4 [2/3]
-§cPotion of Healing§4 [1/3]
-§cPotion of Healing§4 [3/3]À
-§cPotion of Healing§4 [1/3]À
-§cPotion of Healing§4 [2/3]À
-§bPotion of Mana§3 [2/2]
-§bPotion of Mana§3 [1/2]
-§bPotion of Mana§3 [2/2]À
-§bPotion of Mana§3 [1/2]À
-§aPotion of §c✹ Defence§a [1/2]
-§aPotion of §c✹ Defence§a [2/2]
-§aPotion of §c✹ Defence§a [2/2]À
-§aPotion of §c✹ Defence§a [1/2]À
-§aPotion of §2✤ Strength§a [1/2]
-§aPotion of §2✤ Strength§a [2/2]
-§aPotion of §2✤ Strength§a [2/2]À
-§aPotion of §2✤ Strength§a [1/2]À
-§aPotion of §e✦ Dexterity§a [2/2]
-§aPotion of §e✦ Dexterity§a [2/2]À
-§aPotion of §e✦ Dexterity§a [1/2]
-§aPotion of §e✦ Dexterity§a [1/2]À
-§aPotion of §b❉ Intelligence§a [2/2]À
-§aPotion of §b❉ Intelligence§a [1/2]
-§aPotion of §b❉ Intelligence§a [1/2]À
-§aPotion of §b❉ Intelligence§a [2/2]
-§aPotion of §f❋ Agility§a [2/2]
-§aPotion of §f❋ Agility§a [1/2]
-§aPotion of §f❋ Agility§a [2/2]À
+§cPotion of Healing§4 [3/3]@§cЗелье Лечения §4 [3/3]
+§cPotion of Healing§4 [2/3]@§cЗелье Лечения §4 [2/3]
+§cPotion of Healing§4 [1/3]@§cЗелье Лечения §4 [1/3]
+§cPotion of Healing§4 [3/3]À@§cЗелье Лечения §4 [3/3]
+§cPotion of Healing§4 [1/3]À@§cЗелье Лечения §4 [1/3]
+§cPotion of Healing§4 [2/3]À@§cЗелье Лечения §4 [2/3]
+§bPotion of Mana§3 [2/2]@§bЗелье Маны§3 [2/2]
+§bPotion of Mana§3 [1/2]@§bЗелье Маны§3 [1/2]
+§bPotion of Mana§3 [2/2]À@§bЗелье Маны§3 [2/2]
+§bPotion of Mana§3 [1/2]À@§bЗелье Маны§3 [1/2]
+§aPotion of §c✹ Defence§a [1/2]@§aЗелье §c✹ Защиты§a [1/2]
+§aPotion of §c✹ Defence§a [2/2]@§aЗелье §c✹ Защиты§a [2/2]
+§aPotion of §c✹ Defence§a [2/2]À@§aЗелье §c✹ Защиты§a [2/2]
+§aPotion of §c✹ Defence§a [1/2]À@§aЗелье §c✹ Защиты§a [1/2]
+§aPotion of §2✤ Strength§a [1/2]@§aЗелье §2✤ Силы§a [1/2]
+§aPotion of §2✤ Strength§a [2/2]@§aЗелье §2✤ Силы§a [2/2]
+§aPotion of §2✤ Strength§a [2/2]À@§aЗелье §2✤ Силы§a [2/2]
+§aPotion of §2✤ Strength§a [1/2]À@§aЗелье §2✤ Силы§a [1/2]
+§aPotion of §e✦ Dexterity§a [2/2]@§aЗелье §e✦ Точности§a [2/2]
+§aPotion of §e✦ Dexterity§a [2/2]À@§aЗелье §e✦ Точности§a [2/2]
+§aPotion of §e✦ Dexterity§a [1/2]@§aЗелье §e✦ Точности§a [1/2]
+§aPotion of §e✦ Dexterity§a [1/2]À@§aЗелье §e✦ Точности§a [1/2]
+§aPotion of §b❉ Intelligence§a [2/2]À@§aЗелье §b❉ Интеллекта§a [2/2]
+§aPotion of §b❉ Intelligence§a [1/2]@§aЗелье §b❉ Интеллекта§a [1/2]
+§aPotion of §b❉ Intelligence§a [1/2]À@§aЗелье §b❉ Интеллекта§a [1/2]
+§aPotion of §b❉ Intelligence§a [2/2]@§aЗелье §b❉ Интеллекта§a [2/2]
+§aPotion of §f❋ Agility§a [2/2]@§aЗелье §f❋ Ловкости§a [2/2]
+§aPotion of §f❋ Agility§a [1/2]@§aЗелье §f❋ Ловкости§a [1/2]
+§aPotion of §f❋ Agility§a [2/2]À@§aЗелье §f❋ Ловкости§a [2/2]
+§aPotion of §f❋ Agility§a [1/2]À@§aЗелье §f❋ Ловкости§a [1/2]
 
 #################Порошки############################
-§e✦ Thunder Powder I
-§e✦ Thunder Powder IÀ
-§e✦ Thunder Powder IIÀ
-§e✦ Thunder Powder II
-§e✦ Thunder Powder III
-§e✦ Thunder Powder IIIÀ
-§e✦ Thunder Powder IVÀ
-§e✦ Thunder Powder IV
-§e✦ Thunder Powder VÀ
-§e✦ Thunder Powder V
-§e✦ Thunder Powder VIÀ
-§e✦ Thunder Powder VI
-§f❋ Air Powder I
-§f❋ Air Powder IÀ
-§f❋ Air Powder II
-§f❋ Air Powder IIÀ
-§f❋ Air Powder III
-§f❋ Air Powder IIIÀ
-§f❋ Air Powder IVÀ
-§f❋ Air Powder IV
-§f❋ Air Powder VÀ
-§f❋ Air Powder V
-§f❋ Air Powder VIÀ
-§f❋ Air Powder VI
-§c✹ Fire Powder I
-§c✹ Fire Powder IÀ
-§c✹ Fire Powder IIÀ
-§c✹ Fire Powder II
-§c✹ Fire Powder III
-§c✹ Fire Powder IIIÀ
-§c✹ Fire Powder IV
-§c✹ Fire Powder IVÀ
-§c✹ Fire Powder V
-§c✹ Fire Powder VÀ
-§c✹ Fire Powder VIÀ
-§c✹ Fire Powder VI
-§b❉ Water Powder I
-§b❉ Water Powder IÀ
-§b❉ Water Powder IIÀ
-§b❉ Water Powder II
-§b❉ Water Powder III
-§b❉ Water Powder IIIÀ
-§b❉ Water Powder IV
-§b❉ Water Powder IVÀ
-§b❉ Water Powder V
-§b❉ Water Powder VÀ
-§b❉ Water Powder VIÀ
-§b❉ Water Powder VI
-§2✤ Earth Powder I
-§2✤ Earth Powder IÀ
-§2✤ Earth Powder IIÀ
-§2✤ Earth Powder II
-§2✤ Earth Powder IIIÀ
-§2✤ Earth Powder III
-§2✤ Earth Powder IV
-§2✤ Earth Powder IVÀ
-§2✤ Earth Powder VÀ
-§2✤ Earth Powder V
-§2✤ Earth Powder VI
-§2✤ Earth Powder VIÀ
-§8Blank Powder IV
-§7Blank Powder V
-§fBlank Powder VI
+§e✦ Thunder Powder I@§e✦ Порошок Грома I
+§e✦ Thunder Powder IÀ@§e✦ Порошок Грома I
+§e✦ Thunder Powder IIÀ@§e✦ Порошок Грома II
+§e✦ Thunder Powder II@§e✦ Порошок Грома II
+§e✦ Thunder Powder III@§e✦ Порошок Грома III
+§e✦ Thunder Powder IIIÀ@§e✦ Порошок Грома III
+§e✦ Thunder Powder IVÀ@§e✦ Порошок Грома IV
+§e✦ Thunder Powder IV@§e✦ Порошок Грома IV
+§e✦ Thunder Powder VÀ@§e✦ Порошок Грома V
+§e✦ Thunder Powder V@§e✦ Порошок Грома V
+§e✦ Thunder Powder VIÀ@§e✦ Порошок Грома VI
+§e✦ Thunder Powder VI@§e✦ Порошок Грома VI
+§f❋ Air Powder I@§f❋ Порошок Воздуха I
+§f❋ Air Powder IÀ@§f❋ Порошок Воздуха I
+§f❋ Air Powder II@§f❋ Порошок Воздуха II
+§f❋ Air Powder IIÀ@§f❋ Порошок Воздуха II
+§f❋ Air Powder III@§f❋ Порошок Воздуха III
+§f❋ Air Powder IIIÀ@§f❋ Порошок Воздуха III
+§f❋ Air Powder IVÀ@§f❋ Порошок Воздуха IV
+§f❋ Air Powder IV@§f❋ Порошок Воздуха IV
+§f❋ Air Powder VÀ@§f❋ Порошок Воздуха V
+§f❋ Air Powder V@§f❋ Порошок Воздуха V
+§f❋ Air Powder VIÀ@§f❋ Порошок Воздуха VI
+§f❋ Air Powder VI@§f❋ Порошок Воздуха VI
+§c✹ Fire Powder I@§c✹ Порошок Огня I
+§c✹ Fire Powder IÀ@§c✹ Порошок Огня I
+§c✹ Fire Powder IIÀ@§c✹ Порошок Огня II
+§c✹ Fire Powder II@§c✹ Порошок Огня II
+§c✹ Fire Powder III@§c✹ Порошок Огня III
+§c✹ Fire Powder IIIÀ@§c✹ Порошок Огня III
+§c✹ Fire Powder IV@§c✹ Порошок Огня IV
+§c✹ Fire Powder IVÀ@§c✹ Порошок Огня IV
+§c✹ Fire Powder V@§c✹ Порошок Огня V
+§c✹ Fire Powder VÀ@§c✹ Порошок Огня V
+§c✹ Fire Powder VIÀ@§c✹ Порошок Огня VI
+§c✹ Fire Powder VI@§c✹ Порошок Огня VI
+§b❉ Water Powder I@§b❉ Порошок Воды I
+§b❉ Water Powder IÀ@§b❉ Порошок Воды I
+§b❉ Water Powder IIÀ@§b❉ Порошок Воды II
+§b❉ Water Powder II@§b❉ Порошок Воды II
+§b❉ Water Powder III@§b❉ Порошок Воды III
+§b❉ Water Powder IIIÀ@§b❉ Порошок Воды III
+§b❉ Water Powder IV@§b❉ Порошок Воды IV
+§b❉ Water Powder IVÀ@§b❉ Порошок Воды IV
+§b❉ Water Powder V@§b❉ Порошок Воды V
+§b❉ Water Powder VÀ@§b❉ Порошок Воды V
+§b❉ Water Powder VIÀ@§b❉ Порошок Воды VI
+§b❉ Water Powder VI@§b❉ Порошок Воды VI
+§2✤ Earth Powder I@§2✤ Порошок Земли I
+§2✤ Earth Powder IÀ@§2✤ Порошок Земли I
+§2✤ Earth Powder IIÀ@§2✤ Порошок Земли II
+§2✤ Earth Powder II@§2✤ Порошок Земли II
+§2✤ Earth Powder IIIÀ@§2✤ Порошок Земли III
+§2✤ Earth Powder III@§2✤ Порошок Земли III
+§2✤ Earth Powder IV@§2✤ Порошок Земли IV
+§2✤ Earth Powder IVÀ@§2✤ Порошок Земли IV
+§2✤ Earth Powder VÀ@§2✤ Порошок Земли V
+§2✤ Earth Powder V@§2✤ Порошок Земли V
+§2✤ Earth Powder VI@§2✤ Порошок Земли VI
+§2✤ Earth Powder VIÀ@§2✤ Порошок Земли VI
+§8Blank Powder IV@§8Пустой Порошок IV
+§7Blank Powder V@§7Пустой Порошок V
+§fBlank Powder VI@§fПустой Порошок VI
 
 ##########################Свитки###########################
 §bCorkusÀÀÀCity Teleport ScrollÀ
