@@ -1283,6 +1283,7 @@ Helmet of Shimmering Light@Шлем Мерцающего Света
 §fCorrupted Potato@§fИспорченная Картошка
 Yellow Crystal Shard@Желтый Осколок Кристалла
 Purple Crystal Shard@Фиолетовый Осколок Кристалла
+Red Crystal Shard@Красный Осколок Кристалла
 §fCluckles' Favourite Feather@§fЛюбимое Перо Клаклеса
 §fBreathing Helmet I@§fШлем Подводника I
 Visbe's Head@Голова Висбе
@@ -1325,6 +1326,7 @@ Broken Amulet@Сломанный Амулет
 §fAntic Bead@§fДревние Бусы
 §fHourglass Sand@§fПесчинка для Часов
 §fGuard's Uniform@§fУниформа Охранника
+Guard's Uniform@Униформа Охранника
 Flight Ticket@Билет на Дирижабль
 Guard Key@Ключ Охранника
 Secret Documents@Секретные Документы
@@ -1348,56 +1350,54 @@ Rusty Shovel@Ржавая Лопата
 §fThe Staff of True Ice@§fПредмет Чистого Льда
 Cannon Key@Ключ от Пушки
 Cannonball@Снаряд
-Mysterious Gem
-§fBucket of Blazing Lava
-§fRusty Mansion Key
-Volt Goat Horn
-Head of the Gurg
-§fEscaped Cow Eye
-Note of the Selfless
-§fEscaped Cow Beef
-§fEscaped Cow Skin
-§fMarsh Robur
-Tears of the Honest
-§fStringy Hair
-Coin of the Charitable
-Canned Abis
-§fCobblestone
-§fMonster Toenail
-§fPoisonous Tongue
-§fPiece Of Bigfoot Bone
-§fLeg Core Omega
-§fHand Core Beta
-§fLeg Core Gamma
-§fHand Core Alpha
-§fAbandoned Key
-§fAttic Key
-Severed Arm
-§fOld Crypt Key
-§fWitch's Empty Bottle
-§fMaxie's House Key
-§fPotion of Drunkness
-Guard's Uniform
-§fMythic Everlasting Pufferfish
-§fMooington's Skin
-§fBaab's Wool
-§fMeteor Shard
-§fMysterious Feather
-Royal Token of Gratitude
-Red Crystal Shard
-Purple Gem
-Yellow Gem
-Blue Gem
-Red Gem
-Odd Scat
-Giant Teeth
-Sharp Scales
-Slimey Skin
-Unhatched Egg
-Rare Rose
-Beast Egg
-Cursed Maiden Essence
-§dPower CellÀ
+Mysterious Gem@Таинственный Камень
+§fBucket of Blazing Lava@§fВедро Пылающей Лавы
+§fRusty Mansion Key@§fРжавый Ключ от Поместья
+Volt Goat Horn@Овечий Горн Волта
+Head of the Gurg@Голова Гурга
+§fEscaped Cow Eye@§fГлаз Сбежавшей Коровы
+§fEscaped Cow Beef@§fТуша Сбежавшей Коровы
+§fEscaped Cow Skin@§fКожа Сбежавшей Коровы
+§fMarsh Robur@§fКусок Древесины
+§fStringy Hair@§fКлок Тягучих Волос
+§fCobblestone@§fБулыжник
+§fMonster Toenail@§fНоготь Монстра
+§fPoisonous Tongue@§fОтравленный язык
+§fPiece Of Bigfoot Bone@§fКусочек Кости Йети
+Note of the Selfless@Записка Самоотверженности
+Tears of the Honest@Слеза Честности
+Coin of the Charitable@Монетка Милосердия
+Canned Abis@Коно поля
+§fLeg Core Omega@§fОмега Ядро Ноги
+§fHand Core Beta@§fБета Ядро Руки
+§fLeg Core Gamma@§fГамма Ядро Ноги
+§fHand Core Alpha@§fАльфа Ядро Руки
+§fAbandoned Key@§fЗаброшенный Ключ
+§fAttic Key@§fКлюч от Чердака
+Severed Arm@Отрубленная Рука
+§fOld Crypt Key@§fКлюч от Старой Гробницы
+§fWitch's Empty Bottle@§fПустая Бутылка Ведьмы
+§fMaxie's House Key@§fКлюч от Дома Макси
+§fPotion of Drunkness@§fЗелье Опьянения
+§fMythic Everlasting Pufferfish@§fМифический Вечный Иглобрюх
+§fMooington's Skin@§fКожа Муингтона
+§fBaab's Wool@§fШерсть Бааба
+§fMeteor Shard@§fОсколок Метеора
+§fMysterious Feather@§fЗагадочное Перо
+Royal Token of Gratitude@Королевский Жетон Благодарности
+Purple Gem@Фиолетовый Камень
+Yellow Gem@Желтый Камень
+Blue Gem@Синий Камень
+Red Gem@Красный Камень
+Odd Scat@Странный Помет
+Giant Teeth@Гигантский Зуб
+Sharp Scales@Острая Чешуя
+Slimey Skin@Слизистая Кожа
+Unhatched Egg@Невылупившееся Яйцо
+Rare Rose@Редкая Роза
+Beast Egg@Яйцо Зверя
+Cursed Maiden Essence@Проклятая Девичья Эссенция
+§dPower CellÀ@§fБатарейка
 Polluted Sludge
 §7Putrefied Sludge
 §bDodegar's Ultimate Weapon
