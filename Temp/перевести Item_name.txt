@@ -1587,101 +1587,101 @@ Skyhigh Pie@Заоблачный Пирог
 §fFactory Helmet@§fФабричный Шлем
 
 ##########################Контейнеры##########################
-§e§lLoot Crate §6[Tier I]
-§d§lLoot Crate §5[Tier II]
-§b§lLoot Crate §3[Tier III]
-§e§lDaily Loot Crate §6[Tier I]
-§d§lDaily Loot Crate §5[Tier II]
-§dCandle Staff
-§dSteampunk Sword
-§6Banana Sword
-§dZombie Horse Cloak
-§4Despawn your Creeper
-§aSpawn a Creeper
-§fMob Totem
-§fCombat XP Bomb
-§6Hand Cannon
-§fFire Attack Effect
-§fLetter Attack Effect
-§fCloud Attack Effect
-§fWet Drip Effect
-§dLetter Swirl Effect
-§fEmerald Attack Effect
-§fSpark Attack Effect
-§fFire Swirl Effect
-§cDemon Wings Effect
-§dWater Effect
-§dAir Aura Effect
-§dThunder Effect
-§fSlime Effect
-§fSmoke Swirl Effect
-§fMagic Swirl Effect
-§dMusic Swirl Effect
-§fWitch Brew Effect
-§dLava Attack Effect
-§dEarth Effect
-§6Storm Effect
-§dHeart Swirl Effect
-§dTornado Effect
-§cOzoth Effect
-§6Ripple Effect
-§6Floating Fairy Effect
-§fRedstone Swirl Effect
-§fCloud Swirl Effect
-§fPotion Swirl Effect
-§fEmerald Swirl Effect
-§aSpawn a Chocolate Wybel
-§dViolet Wybel Token
-§aSpawn Violet Wybel§7 [Violet Wybel]
-§4Despawn your Violet Wybel
-§aSpawn Sky Blue Wybel§7 [Sky Blue Wybel]
-§4Despawn your Sky Blue Wybel
-§4Despawn your Chocolate Wybel
-§fGray Wybel Token
-§aSpawn Gray Wybel§7 [Gray Wybel]
-§4Despawn your White Wybel
-§aSpawn White Wybel§7 [White Wybel]
-§4Despawn your Gray Wybel
-§fWhite Wybel Token
-§4Despawn your Cream Wybel
-§aSpawn Cream Wybel§7 [Cream Wybel]
-§6Sky Blue Wybel Token
-§fCream Wybel Token
-§dMint Wybel Token
-§aSpawn Mint Wybel§7 [Mint Wybel]
-§4Despawn your Mint Wybel
-§4Despawn your Pink Wybel
-§aSpawn Pink Wybel§7 [Pink Wybel]
-§dPink Wybel Token
-§4Despawn your Carbon Fiber Cybel
-§4Despawn your Bronze Cybel
-§aSpawn Bronze Cybel§7 [Bronze Cybel]
-§aSpawn Carbon Fiber Cybel§7 [Carbon Fiber Cybel]
-§dSteampunk Bow
-§dFood Bow
-§6Half-Moon Bow
-§6Futuristic Bow
-§dSteampunk Dagger
-§dFood Dagger
-§cPhoenix Dagger
-§cDern Dagger
-§6Futuristic Dagger
-§6Golden Dagger
-§6Corrupted Dagger
-§6Corrupted Spear
-§6Half-Moon Spear
-§cPhoenix Spear
-§dSteampunk Wand
-§dFood Wand
-§cPhoenix Wand
-§6Corrupted Wand
-§fSheep Disguise
-§fChicken Disguise
-§fPig Disguise
-§fCow Disguise
-§dCreeper Disguise
-§dPigman Disguise
-§dZombie Disguise
+§e§lLoot Crate §6[Tier I]@§e§lЛут Контейнер §6[Уровень I]
+§d§lLoot Crate §5[Tier II]@§d§lЛут Контейнер §5[Уровень II]
+§b§lLoot Crate §3[Tier III]@§b§lЛут Контейнер §3[Уровень III]
+§e§lDaily Loot Crate §6[Tier I]@§e§lЕжедневный Лут Контейнер §6[Уровень I]
+§d§lDaily Loot Crate §5[Tier II]@§d§lЕжедневный Лут Контейнер §5[Уровень II]
+§dCandle Staff@§dОружие Свеча
+§dSteampunk Sword@§dСтимпанк Меч
+§6Banana Sword@§6Меч Банан
+§dZombie Horse Cloak@§dЗомби Плащ Для Коня
+§4Despawn your Creeper@§4Деспавнить твоего Крипера
+§aSpawn a Creeper@§Заспавнить Крипера
+§fMob Totem@§fМоб Тотем
+§fCombat XP Bomb@§fКомбат XP Бомба
+§6Hand Cannon@§6Ручная Пушка
+§fFire Attack Effect@§fЭффект Атаки Огня
+§fLetter Attack Effect@§fЭффект Атаки Букв
+§fCloud Attack Effect@§fЭффект Атаки Облака
+§fWet Drip Effect@§fЭффект Мокрых Капель
+§dLetter Swirl Effect@§dЭффект Водоворота Букв
+§fEmerald Attack Effect@§fЭффект Атаки Эмеральда
+§fSpark Attack Effect@§fЭффект Атаки Искр
+§fFire Swirl Effect@§fЭффект Круговорота Огня
+§cDemon Wings Effect@§cЭффект Крыльев Демона
+§dWater Effect@§dЭффект Воды
+§dAir Aura Effect@§dЭффект Ауры Воздуха
+§dThunder Effect@§dЭффект Грома
+§fSlime Effect@§fЭффект Слайма
+§fSmoke Swirl Effect@§fЭффект Круговорота Дыма
+§fMagic Swirl Effect@§fЭффект Магического Круговорота
+§dMusic Swirl Effect@§dЭффект Круговорота Музыки
+§fWitch Brew Effect@§fЭффект Зелья Ведьмы
+§dLava Attack Effect@§dЭффект Атаки Лавы
+§dEarth Effect@§dЭффект Земли
+§6Storm Effect@§6Эффект Шторма
+§dHeart Swirl Effect@§dЭффект Круговорота Сердец
+§dTornado Effect@§dЭффект Торнадо
+§cOzoth Effect@§cOzoth Эффект
+§6Ripple Effect@§6Эффект Пульсации
+§6Floating Fairy Effect@§6Эффект Плавающей Феи
+§fRedstone Swirl Effect@§fЭффект Редстоун Круговорта
+§fCloud Swirl Effect@§fЭффект Круговорота Облаков
+§fPotion Swirl Effect@§fЭффект Вихря Зелий
+§fEmerald Swirl Effect@§fЭффект Эмеральдного Вихря
+§aSpawn a Chocolate Wybel@§aЗаспавнить Шоколадного Вибеля
+§dViolet Wybel Token@§dФиолетовый Вибел Жетон
+§aSpawn Violet Wybel§7 [Violet Wybel]@§aЗаспавнить Фиолетового Вибеля §7 [Фиолетовый Вибел]
+§4Despawn your Violet Wybel@§4Деспавнить твоего Фиолетового Вибеля
+§aSpawn Sky Blue Wybel§7 [Sky Blue Wybel]@§a
+§4Despawn your Sky Blue Wybel@§4
+§4Despawn your Chocolate Wybel@§4
+§fGray Wybel Token@§f
+§aSpawn Gray Wybel§7 [Gray Wybel]@§a
+§4Despawn your White Wybel@§4
+§aSpawn White Wybel§7 [White Wybel]@§a
+§4Despawn your Gray Wybel@§4
+§fWhite Wybel Token@§f
+§4Despawn your Cream Wybel@§4
+§aSpawn Cream Wybel§7 [Cream Wybel]@§a
+§6Sky Blue Wybel Token@§6
+§fCream Wybel Token@§f
+§dMint Wybel Token@§d
+§aSpawn Mint Wybel§7 [Mint Wybel]@§a
+§4Despawn your Mint Wybel@§4
+§4Despawn your Pink Wybel@§4
+§aSpawn Pink Wybel§7 [Pink Wybel]@§a
+§dPink Wybel Token@§d
+§4Despawn your Carbon Fiber Cybel@§4
+§4Despawn your Bronze Cybel@§4
+§aSpawn Bronze Cybel§7 [Bronze Cybel]@§a
+§aSpawn Carbon Fiber Cybel§7 [Carbon Fiber Cybel]@§a
+§dSteampunk Bow@§d
+§dFood Bow@§d
+§6Half-Moon Bow@§6
+§6Futuristic Bow@§6
+§dSteampunk Dagger@§d
+§dFood Dagger@§d
+§cPhoenix Dagger@§c
+§cDern Dagger@§c
+§6Futuristic Dagger@§6
+§6Golden Dagger@§6
+§6Corrupted Dagger@§6
+§6Corrupted Spear@§6
+§6Half-Moon Spear@§6
+§cPhoenix Spear@§c
+§dSteampunk Wand@§d
+§dFood Wand@§d
+§cPhoenix Wand@§c
+§6Corrupted Wand@§6
+§fSheep Disguise@§f
+§fChicken Disguise@§f
+§fPig Disguise@§f
+§fCow Disguise@§f
+§dCreeper Disguise@§d
+§dPigman Disguise@§d
+§dZombie Disguise@§d
 
 
 ########################Обычные предметы########################
