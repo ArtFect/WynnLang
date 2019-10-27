@@ -1539,6 +1539,7 @@ Boot Container@Контейнер Для Ботинок
 §fBasement Key@§fКлюч от Подвала
 §6Door Key@§6Дверной Ключ
 Healing Water@Целебная Вода
+§fHealing Water@§fЦелебная Вода
 §fReceipt@§fКвитанция
 Old Key@Старый Ключ
 Taproot@Стержневой Корень
@@ -1548,42 +1549,42 @@ Quicksalt@Быстрая Соль
 Snail Slime@Слизь Змеи
 §fTherck's Note@§fЗаписка Терка
 §fFaded Map #1@§fВыцветшая Карта #1
-§fFaded Map #2
-§fFaded Map #3
-§fMysterious Gemstone
-Overgrown Lab Key
-§eUpgraded Orc Mask
-Upgraded Orc Mask
-§fHealing Water
-Wilted Lobelia
-Wilted Ginseng
-Wilted Vervain
-Lobelia
-Vervain
-Potion of Light
-Dead Plant
-Map Fragment 3
-Map Fragment 2
-Wealth or Knowledge
-Pigman Meat
-Old Treasure֎
-Talking Mushroom
-§fFallen Sand
-§fVoid Goo
-§fCrystal Recipe
-Recipe Token
-Skyhigh Pie Recipe
-Orc Mask
-§fPrison Key
-Omelette de Colère Recipe
-Sunrise Wheat
-High Quality Sunrise Wheat
-Sunrise Flour
-Blue-Ring Grook Egg
-Skyhigh Raspberry
-Skyhigh Pie
-§fRoyal Bug Blood
-§fFactory Helmet
+§fFaded Map #2@§fВыцветшая Карта #2
+§fFaded Map #3@§fВыцветшая Карта #3
+§fMysterious Gemstone@§fЗагадочный Драгоценный Камень
+Overgrown Lab Key@Заросший Лабораторный Ключ
+Orc Mask@Маска Орка
+§eUpgraded Orc Mask@§eУлучшенная Маска Орка
+Upgraded Orc Mask@Улучшенная Маска Орка
+Wilted Lobelia@Дикая Лобелия
+Wilted Ginseng@Дикий Женьшень
+Wilted Vervain@Дикая Вербена
+Lobelia@Лобелия
+Vervain@Вербена
+Ginseng@Женьшень
+Potion of Light@Зелье Света
+Dead Plant@Мертвый Куст
+Map Fragment 3@Фрагмент Карты 3
+Map Fragment 2@Фрагмент Карты 2
+Wealth or Knowledge@Богатство или Знания
+Pigman Meat@Мясо Пигмена
+Old Treasure֎@Старое Сокровище֎
+Talking Mushroom@Говорящий Гриб
+§fFallen Sand@§fУпавший Песок
+§fVoid Goo@§fПустотная Слизь
+§fCrystal Recipe@§fРецепт Кристалла
+Recipe Token@Жетон на Рецепт
+Skyhigh Pie Recipe@Рецепт Заоблачного Пирога
+§fPrison Key@§fТюремный Ключ
+Omelette de Colère Recipe@Рецепт Омлета
+Sunrise Wheat@Мука
+High Quality Sunrise Wheat@Мука Высокого Качества
+Sunrise Flour@Очищенная Мука
+Blue-Ring Grook Egg@Синее  Яйцо Грука
+Skyhigh Raspberry@Высокорастущая Малина
+Skyhigh Pie@Заоблачный Пирог
+§fRoyal Bug Blood@§fКровь Королевских Жуков
+§fFactory Helmet@§fФабричный Шлем
 
 ##########################Контейнеры##########################
 §e§lLoot Crate §6[Tier I]
