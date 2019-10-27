@@ -1,29 +1,28 @@
-§aScientist Remains§6 [Lv. 1]
-§aSeed of Corruption§6 [Lv. 75]
-§aTNT§6 [Lv. 1]
-§aStray Page§6 [Lv. 1]
-§aClump of Mud§6 [Lv. 15]
-§aLoose Icicle§6 [Lv. 15]
-§aCreeper Skin§6 [Lv. 1]
-§aBroken Sword§6 [Lv. 15]
-§aSuspicious Spot§6 [Lv. 68]
-§bSiegfried Figurine
-§aOdd Package§6 [Lv. 1]
-§aFlight Ticket§6 [Lv. 1]
-§aMap Fragment 3§6 [Lv. 70]
-Pink
-Grey
-§fSeaskipper Captain
-§7Bedtime stories about Siegfried
-§7Cooking with Siegfried
-§7The Life of Siegfried
-§4Zombie
-§4Undead
-§aStrange Key§6 [Lv. 1]
-§cBoot Container§6 [Lv. 68]
-§aClock§6 [Lv. 1]
-§bElven Archer§6 [Lv. 75]
-§aSealed Envelope§6 [Lv. 1]
+§aScientist Remains§6 [Lv. 1]@§aОстанки Ученого§6 [Ур. 1]
+§aSeed of Corruption§6 [Lv. 75]@§aСемя Порчи§6 [Ур. 75]
+§aTNT§6 [Lv. 1]@§aДинамит§6 [Ур. 1]
+§aStray Page§6 [Lv. 1]@§aБлуждающая Страница§6 [Ур. 1]
+§aClump of Mud§6 [Lv. 15]@§aКом Грязи§6 [Ур. 15]
+§aLoose Icicle§6 [Lv. 15]@§aШатающаяся Сосулька§6 [Ур. 15]
+§aCreeper Skin§6 [Lv. 1]@§aКожа Крипера§6 [Ур. 1]
+§aBroken Sword§6 [Lv. 15]@§aСломанный Меч§6 [Ур. 15]
+§aSuspicious Spot§6 [Lv. 68]@§aПодозрительное Место§6 [Ур. 68]
+§bSiegfried Figurine@§bСтатуэтка Зигфрида
+§aOdd Package§6 [Lv. 1]@§aСтранный Пакет§6 [Ур. 1]
+§aFlight Ticket§6 [Lv. 1]@§aБилет на Дирижабль§6 [Ур. 1]
+§aMap Fragment 3§6 [Lv. 70]@§aФрагмент Карты 3§6 [Ур. 70]
+Pink@Розовый
+Grey@Серый
+§fSeaskipper Captain@§fКорабельщик
+§7Bedtime stories about Siegfried@§7Сказки на ночь о Зигфриде 
+§7Cooking with Siegfried@§7Готовим с Зигфридом
+§7The Life of Siegfried@§7Жизнь Зигфрида
+§4Zombie@§4Зомби
+§4Undead@§4Нежить
+§aStrange Key§6 [Lv. 1]@§aСтранный Ключ§6 [Ур. 1]
+§cBoot Container§6 [Lv. 68]@§cКонтейнер для Ботинок§6 [Ур. 68]
+§aClock§6 [Lv. 1]@§aЧасы§6 [Ур. 1]
+§aSealed Envelope§6 [Lv. 1]@§aЗапечатанный Конверт§6 [Ур. 1]
 §aSecret Documents§6 [Lv. 1]
 §aSwitch Fuse§6 [Lv. 1]
 §aDusty Passport§6 [Lv. 1]
@@ -1088,6 +1087,7 @@ Gylia Farmer
 §2[§a+1§2 Brown Mushroom]
 
 ##############################С голубыми никами#####################
+§bElven Archer§6 [Lv. 75]
 §bHired Mercenary§6 [Lv. 10]
 §bBee§6 [Lv. 5]
 §bLonely Dog §6 [Lv. 1]
