@@ -1315,6 +1315,7 @@ The Axe of Llevigar@Топор Ллевигара
 Creeper Mask@Маска Крипера
 §fAlmuj's Liquified Emerald@§fЖидкий Алмужский Эмеральд
 §dBlack Veil@§dЧерная Вуаль
+Black Veil@Черная Вуаль
 §7Old Basement Key@§7Старый Подвальный Ключ
 §fHighly Explosive Magical TNT@§fВзрывоопасный Магический Динамит
 Aseado Leaf@Лист Асеадо
@@ -1454,6 +1455,7 @@ Krolton's Remains@Останки Кролтона
 §fMap of Gateway Island@§fКарта Острова Врат
 §fCenter Piece@§fЦентральная Часть
 §fWooden Board@§fДеревянная Часть
+§fString@§fНитка
 §fSteering Wheel@§fШтурвал
 §fCannonball@§fПушка
 Edible Mushroom@Съедобный Гриб
@@ -1471,6 +1473,7 @@ TNT@Динамит
 §fFood Crate@§fКонтейнер с Едой
 Stable Key@Ключ от Конюшни
 §eFemale Pirate WigÀ@§eЖенский Парик Пирата
+§eFemale Pirate Wig@§eЖенский Парик Пирата
 §fDisenchanted Map@§fРасколдованная Карта
 Lab Key@Ключ от Лаборатории
 §fFaded Map@§fВыцветшая Карта
@@ -1498,56 +1501,53 @@ Map Fragment 1@Фрагмент Карты 1
 §6Thunder Voucher@§6Ваучер Грома
 Air Voucher@Ваучер Воздуха
 §3Water Voucher@§3Ваучер Воды
-§bMaster Voucher
-§dLost SoulÀ
-§fFire Starter
-§fLetter to Korzim
-Meteor Shard
-§fEnchanted Flower
-§f§lL-I-G
-§f§lH-T H-O
-§f§lU-S-E
-§fAvos' Factory Key
-§fCorkian's Factory Key
-§fDrale's Permission
-§fSacred Hay
-§fSacred Advice From the Cow Gods
-§fOld Dynamite
-§fVeekhat's Cabinet Key
-§fVeekhat's Head
-§fString
-§6Unfinished Letter
-Seluc's Map
-§fDynamite
-Mechanical Key
-§fFire Web
-§fMagmatic Crystal
-§fCrystallized Lava
-§fFire Amulet
-§bTrue Ice
-Sacrifice's Blood
-Repair Kit
-§fLetter to Kofis
-§fLetter to Ansei
-§fLetter to Yuge
-§fLetter to Sytis
-§fLetter to Felim
-§fCanyon Chart
-§eFemale Pirate Wig
-Boot Container
-§fBasement Key
-§6Door Key
-Healing Water
-§fReceipt
-Old Key
-Taproot
-Voidroot
-Zork Rinds
-Quicksalt
-Snail Slime
-Black Veil
-§fTherck's Note
-§fFaded Map #1
+§bMaster Voucher@§bМастер Ваучер
+§dLost SoulÀ@§dПотерянная Душа
+§fFire Starter@§fЗажигалка
+§fLetter to Korzim@§fПисьмо для Корзима
+Meteor Shard@Осколок Метеора
+§fEnchanted Flower@§fЗачарованный Цветок
+§f§lL-I-G@§f§lЗ-Д-А
+§f§lH-T H-O@§f§lН-И-Е М-А
+§f§lU-S-E@§f§lЯ-К-А
+§fAvos' Factory Key@§fАвос Ключ от Фабрики
+§fCorkian's Factory Key@§fКоркус Ключ от Фабрики
+§fDrale's Permission@§fРазрешение Дрейла
+§fSacred Hay@§fСвященное Сено
+§fSacred Advice From the Cow Gods@§fСвященный Совет от Коровьего Бога
+§fOld Dynamite@§fСтарый Динамит
+§fVeekhat's Cabinet Key@§fКлюч от Кабинета Викхата
+§fVeekhat's Head@§fГолова Викхата
+§6Unfinished Letter@§6Недописанное Письмо
+Seluc's Map@Карта Селука
+§fDynamite@§fДинамит
+Mechanical Key@Механический Ключ
+§fFire Web@§fОгненная Паутина
+§fMagmatic Crystal@§fМагматический Кристалл
+§fCrystallized Lava@§fКристаллизованная Лава
+§fFire Amulet@§fАмулет Огня
+§bTrue Ice@§bЧистый Лед
+Sacrifice's Blood@Кровь Жертвы
+Repair Kit@Ремонтный Комплект
+§fLetter to Kofis@§fПисьмо для Кофиса
+§fLetter to Ansei@§fПисьмо для Ансея
+§fLetter to Yuge@§fПисьмо для Йуге
+§fLetter to Sytis@§fПисьмо для Ситиса
+§fLetter to Felim@§fПисьмо для Фелима
+§fCanyon Chart@§fКарта Каньона
+Boot Container@Контейнер Для Ботинок
+§fBasement Key@§fКлюч от Подвала
+§6Door Key@§6Дверной Ключ
+Healing Water@Целебная Вода
+§fReceipt@§fКвитанция
+Old Key@Старый Ключ
+Taproot@Стержневой Корень
+Voidroot@Корень Пустоты
+Zork Rinds@Шкура Зорка
+Quicksalt@Быстрая Соль
+Snail Slime@Слизь Змеи
+§fTherck's Note@§fЗаписка Терка
+§fFaded Map #1@§fВыцветшая Карта #1
 §fFaded Map #2
 §fFaded Map #3
 §fMysterious Gemstone
