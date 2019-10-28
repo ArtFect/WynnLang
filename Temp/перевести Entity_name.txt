@@ -202,37 +202,37 @@ Gylia Farmer@Гилия Фермер
 §dSquid Merchant@§dТорговец Кальмар
 §dFish Merchant@§dПродавец Рыбы
 §dGold Dealer Merchant@§dДилер Золота
-§dBook Merchant
-§dQuartz Merchant
-§dShifty Merchant
-§dGolden Fish Merchant
-§dSouvenir Merchant
-§dReset Scroll Merchant
-§dBronze Rewards Merchant
-§dExchange Merchant
-§dGift Merchant
-§dNecromancy Merchant
-§dMelon Merchant
-§dTransmutation Merchant
-§dHive Thunder Merchant
-§dHive Air Merchant
-§dHive Earth Merchant
-§dHive Water Merchant
-§dHive Fire Merchant
-§dMaster Trinket Merchant
-§dMaster Armour Merchant
-§dMaster Weapon Merchant
-§dLegendary Merchant
-§dGold Rewards Merchant
-§dLiterature Merchant
-§dWig Merchant
-§dTemple Merchant
-§dSilver Rewards Merchant
-§dDiamond Rewards Merchant
-§dIngredient Merchant
-§dBoat Merchant
-§dVoid Merchant
-§dRecipe Merchant
+§dBook Merchant@§dКнижный Торговец
+§dQuartz Merchant@§dПродавец Кварца
+§dShifty Merchant@§dХитрый Торговец
+§dGolden Fish Merchant@§dТорговец Золотой Рыбой
+§dSouvenir Merchant@§dПродавец Сувениров
+§dReset Scroll Merchant@§dПродавец Свитков Сброса
+§dBronze Rewards Merchant@§dПродавец Бронзовых Наград
+§dLegendary Merchant@§dЛегендарный Торговец
+§dGold Rewards Merchant@§dПродавец Золотых Наград
+§dSilver Rewards Merchant@§dПродавец Серебрянных Наград
+§dDiamond Rewards Merchant@§dПродавец Алмазных Наград
+§dExchange Merchant@§dОбменник
+§dGift Merchant@§dПродавец Подарков
+§dNecromancy Merchant@§dПродавец Некромантии
+§dMelon Merchant@§dПродавец Арбузов
+§dTransmutation Merchant@§dТорговец Трансмутациями
+§dHive Thunder Merchant@§dГром Торговец Улья
+§dHive Air Merchant@§dВоздух Торговец Улья
+§dHive Earth Merchant@§dЗемля Торговец Улья
+§dHive Water Merchant@§dВода Торговец Улья
+§dHive Fire Merchant@§dОгонь Торговец Улья
+§dMaster Trinket Merchant@§dПродавец Мастер Безделушек
+§dMaster Armour Merchant@§dПродавец Мастер Брони
+§dMaster Weapon Merchant@§dПродавец Мастер Оружия
+§dLiterature Merchant@§dТорговец Литературой
+§dWig Merchant@§dПродавец Париков
+§dTemple Merchant@§dТорговец Храма
+§dIngredient Merchant@§dПродавец Ингредиентов
+§dBoat Merchant@§dПродавец Лодок
+§dVoid Merchant@§dПустотный Торговец
+§dRecipe Merchant@§dПродавец Рецептов
 
 ############################Нпс###########################
 §2§aSlaying Post §2[Combat Lv. 73]
