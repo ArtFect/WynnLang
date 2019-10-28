@@ -98,41 +98,40 @@ Gylia Farmer@Гилия Фермер
 §aUnfinished Letter§6 [Lv. 0]@§aНезаконченное Письмо§6 [Ур. 0]
 §aGritty Sand§6 [Lv. 1]@§aЗернистый Песок§6 [Ур. 1]
 §aBlack Powder§6 [Lv. 0]@§aЧерный Порох§6 [Ур. 0]
-§aNote to Vadas§6 [Lv. 89]
-§aFood Crate§6 [Lv. 33]
-§aSunrise Wheat§6 [Lv. 1]
-§aFishing Rod§6 [Lv. 0]
-§a§aRaw Fish§6 [Lv. 0]
-§4Demon
-§4Dragon
-§aDogun Statue§6 [Lv. 90]
-§aMap Fragment 1§6 [Lv. 70]
-§aSewer Diagram§6 [Lv. 0]
-§aGood-Luck Charm§6 [Lv. 0]
-§aTattered Map§6 [Lv. 0]
-§aDragon Food§6 [Lv. 1]
-§aSacred Hay§6 [Lv. 0]
-§aOld Dynamite§6 [Lv. 1]
-§cEmerald Dragonling§6 [Lv. 98]
-§4✹ §cFire §4✹
-§6✦ §eThunder §6✦
-§3❉ §bWater §3❉
-§2✤ §aEarth §2✤
-§7❋ Air §7❋
-§aFire Starter§6 [Lv. 92]
-§aNorsten's Will§6 [Lv. 1]
-§aLonely Rose§6 [Lv. 1]
-§aTrue Ice§6 [Lv. 95]
-§cQira, Mistress of the Hive§6 [Lv. 150]
-§aAncient Wynnic Transcriber§6 [Lv. 0]
-§8Tribe Member
-§aWooden Planks§6 [Lv. 61]
-§aString§6 [Lv. 61]
-§aAncient Key§6 [Lv. 61]
-§aMap Fragment 2§6 [Lv. 70]
-§cCorrupter of Worlds§6 [Lv. 100]
-§aSmall Mushroom§6 [Lv. 0]
-§fOld Man
+§aNote to Vadas§6 [Lv. 89]@§aЗаписка для Вадаса§6 [Ур. 89]
+§aFood Crate§6 [Lv. 33]@§aКонтейнер с Едой§6 [Ур. 33]
+§aSunrise Wheat§6 [Lv. 1]@§aУтренняя Пшеница§6 [Lv. 1]
+§aFishing Rod§6 [Lv. 0]@§aУдочка§6 [Ур. 0]
+§a§aRaw Fish§6 [Lv. 0]@§a§aСырая Рыба§6 [Ур. 0]
+§4Demon@§4Демон
+§4Dragon@§4Дракон
+§aDogun Statue§6 [Lv. 90]@§aСтатуя Догуна§6 [Ур. 90]
+§aMap Fragment 1§6 [Lv. 70]@§aФрагмент Карты 1§6 [Ур. 70]
+§aSewer Diagram§6 [Lv. 0]@§aДиаграмма Канализации§6 [Ур. 0]
+§aGood-Luck Charm§6 [Lv. 0]@§aСчастливый Амулет§6 [Ур. 0]
+§aTattered Map§6 [Lv. 0]@§aПорванная Карта§6 [Ур. 0]
+§aDragon Food§6 [Lv. 1]@§aДраконья Еда§6 [Ур. 1]
+§aSacred Hay§6 [Lv. 0]@§aСвященное Сено§6 [Ур. 0]
+§aOld Dynamite§6 [Lv. 1]@§aСтарый Динамит§6 [Ур. 1]
+§4✹ §cFire §4✹@§4✹ §cОгонь §4✹
+§6✦ §eThunder §6✦@§6✦ §eГром §6✦
+§3❉ §bWater §3❉@§3❉ §bВода §3❉
+§2✤ §aEarth §2✤@§2✤ §aЗемля §2✤
+§7❋ Air §7❋@§7❋ Воздух §7❋
+§aFire Starter§6 [Lv. 92]@§aЗажигалка§6 [Ур. 92]
+§aNorsten's Will§6 [Lv. 1]@§aВольная Норстена§6 [Ур. 1]
+§aLonely Rose§6 [Lv. 1]@§aОдинокая Роза§6 [Ур. 1]
+§aTrue Ice§6 [Lv. 95]@§aЧистый Лед§6 [Ур. 95]
+§cQira, Mistress of the Hive§6 [Lv. 150]@§cКира, Госпожа Улья§6 [Ур. 150]
+§aAncient Wynnic Transcriber§6 [Lv. 0]@§aДревний Wynnic Переводчик§6 [Ур. 0]
+§8Tribe Member@§8Соплеменник
+§aWooden Planks§6 [Lv. 61]@§aДеревянные Брусья§6 [Ур. 61]
+§aString§6 [Lv. 61]@§aНитка§6 [Ур. 61]
+§aAncient Key§6 [Lv. 61]@§aДревний Ключ§6 [Ур. 61]
+§aMap Fragment 2§6 [Lv. 70]@§aФрагмент Карты 2§6 [Ур. 70]
+§cCorrupter of Worlds§6 [Lv. 100]@§cРазрушитель Миров§6 [Ур. 100]
+§aSmall Mushroom§6 [Lv. 0]@§aМаленький Гриб§6 [Ур. 0]
+§fOld Man@§fСтарик
 
 #####################Торговцы###########################
 §dDungeon Merchant
