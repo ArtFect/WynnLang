@@ -134,74 +134,74 @@ Gylia Farmer@Гилия Фермер
 §fOld Man@§fСтарик
 
 #####################Торговцы###########################
-§dDungeon Merchant
-§dKey Collector
-§dEgg Merchant
-§dTool Merchant
-§dArmour Merchant
-§dEmerald Merchant
-§dBlacksmith
-§dScroll Merchant
-§dPotion Merchant
-§dWeapon Merchant
-§bItem Identifier
-§dItem Identifier
-§dArt Merchant
-§dCollector Merchant
-§dMask Merchant
-§dClock Merchant
-§d§5Guild Master
-§dKing's Merchant
-§dSiegfried Fan Item Merchant
-§dPowder Master
-§dDungeon Scroll Merchant
-§dTicket Merchant
-§dLiquid Merchant
-§dSeasail Merchant
-§dSeaskipper Merchant
-§dExplosives Merchant
-§dTribal Merchant
-§dCharmcrafter Merchant
-§dAccessory Merchant
-§dMusical Merchant
-§dExotic Potions Merchant
-§dBanned Items Merchant
-§dTreasure Merchant
-§dConsumables Merchant
-§dHorse Merchant
-§dCobblestone Merchant
-§dGert Merchant
-§dPowder Merchant
-§dBucket Merchant
-§dSuri, the Study Merchant
-§dStiba, the Weapon Merchant
-§dBowl Merchant
-§dKey Forge Merchant
-§dBlack Market Merchant
-§dGlassblowing Merchant
-§dWater Merchant
-§dRymek Dealer Merchant
-§dMushroom Merchant
-§dFabrics Merchant
-§dApple Merchant
-§dPotato Merchant
-§dPink Wool Merchant
-§dFeather Merchant
-§dTribal Armour Merchant
-§dTribal Weapon Merchant
-§dBrew-it-Yourself Merchant
-§dZhight Exchange Merchant
-§dZhight Brew Merchant
-§dTreasure Prize Merchant
-§dTour Pass Merchant
-§dArtefact Merchant
-§dCraftmas Merchant
-§dWynnter 2016 Merchant
-§dWynnter 2017 Merchant
-§dHook Merchant
-§dSquid Merchant
-§dFish Merchant
-§dGold Dealer Merchant
+§dDungeon Merchant@§dДанж Торговец
+§dKey Collector@§dСборщик Ключей
+§dEgg Merchant@§dПродавец Яиц
+§dTool Merchant@§dПродавец Инструментов
+§dArmour Merchant@§dПродавец Брони
+§dEmerald Merchant@§dБанкир
+§dBlacksmith@§dКузнец
+§dScroll Merchant@§dПродавец Свитков
+§dPotion Merchant@§dПродавец Зелий
+§dWeapon Merchant@§dПродавец Оружия
+§bItem Identifier@§bИдентификатор Предметов
+§dItem Identifier@§dИдентификатор Предметов
+§dArt Merchant@§dСкупщик Искусства
+§dCollector Merchant@§dКоллекционер
+§dMask Merchant@§dПродавец Масок
+§dClock Merchant@§dПродавец Часов
+§d§5Guild Master@§dМастер Гильдий
+§dKing's Merchant@§dКоролевский Торговец
+§dSiegfried Fan Item Merchant@§dПродавец Фан Предметов Зигфрида
+§dPowder Master@§dМастер Порошков
+§dDungeon Scroll Merchant@§dПродавец Данж Свитков
+§dTicket Merchant@§dПродавец Билетов
+§dLiquid Merchant@§dТорговец Жидкими Эмеральдами
+§dSeasail Merchant@§dПродавец Морских Билетов
+§dSeaskipper Merchant@§dМорской Шкипер
+§dExplosives Merchant@§dПродавец Взрывчатки
+§dTribal Merchant@§d
+§dCharmcrafter Merchant@§d
+§dAccessory Merchant@§d
+§dMusical Merchant@§d
+§dExotic Potions Merchant@§d
+§dBanned Items Merchant@§d
+§dTreasure Merchant@§d
+§dConsumables Merchant@§d
+§dHorse Merchant@§d
+§dCobblestone Merchant@§d
+§dGert Merchant@§d
+§dPowder Merchant@§d
+§dBucket Merchant@§d
+§dSuri, the Study Merchant@
+§dStiba, the Weapon Merchant@
+§dBowl Merchant@
+§dKey Forge Merchant@
+§dBlack Market Merchant@
+§dGlassblowing Merchant@
+§dWater Merchant@
+§dRymek Dealer Merchant@
+§dMushroom Merchant@
+§dFabrics Merchant@
+§dApple Merchant@
+§dPotato Merchant@
+§dPink Wool Merchant@
+§dFeather Merchant@
+§dTribal Armour Merchant@
+§dTribal Weapon Merchant@
+§dBrew-it-Yourself Merchant@
+§dZhight Exchange Merchant@
+§dZhight Brew Merchant@
+§dTreasure Prize Merchant@
+§dTour Pass Merchant@
+§dArtefact Merchant@
+§dCraftmas Merchant@
+§dWynnter 2016 Merchant@
+§dWynnter 2017 Merchant@
+§dHook Merchant@
+§dSquid Merchant@
+§dFish Merchant@
+§dGold Dealer Merchant@
 §dBook Merchant
 §dQuartz Merchant
 §dShifty Merchant
