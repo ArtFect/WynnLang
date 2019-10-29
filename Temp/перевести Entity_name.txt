@@ -967,77 +967,77 @@ Gylia Farmer@Гилия Фермер
 §2Master Catalyst Collector@§2Сборщик Мастер Катализаторов
 
 ######################Профессии##################################
-§aCopper
-§2[§a+1§2 Unprocessed Copper Ore]
-§aGranite
-§2[§a+1§2 Unprocessed Granite Ore]
-§aGold
-§2[§a+1§2 Unprocessed Gold Ore]
-§aSandstone
-§2[§a+1§2 Unprocessed Sandstone Ore]
-§aIron
-§2[§a+1§2 Unprocessed Iron Ore]
-§aSilver
-§aCobalt
-§aKanderstone
-§aDiamond
-§aMolten
-§aVoidstone
-§aOak
-§2[§a+2§2 Unprocessed Oak Log]
-§2[§a+1§2 Unprocessed Oak Log]
-§aBirch
-§2[§a+1§2 Unprocessed Birch Log]
-§aWillow
-§2[§a+1§2 Unprocessed Willow Log]
-§aAcacia
-§2[§a+1§2 Unprocessed Acacia Log]
-§aSpruce
-§2[§a+1§2 Unprocessed Spruce Log]
-§aJungle
-§aDark
-§aLight
-§aPine
-§aBamboo
-§aAvo
-§2[§a+1§2 Unprocessed Avo Log]
-§aSky
-§aWheat
-§2[§a+1§2 Unprocessed Wheat]
-§aBarley
-§2[§a+1§2 Unprocessed Barley]
-§aOat
-§2[§a+1§2 Unprocessed Oat]
-§aMalt
-§2[§a+1§2 Unprocessed Malt]
-§aHops
-§2[§a+1§2 Unprocessed Hops]
-§aRye
-§2[§a+1§2 Unprocessed Rye]
-§aMillet
-§2[§a+1§2 Unprocessed Millet]
-§aDecay Roots
-§2[§a+1§2 Unprocessed Decay Roots]
-§aRice
-§aSorghum
-§aHemp
-§aGudgeon
-§2[§a+1§2 Unprocessed Gudgeon]
-§aTrout
-§2[§a+1§2 Unprocessed Trout]
-§aSalmon
-§2[§a+1§2 Unprocessed Salmon]
-§aCarp
-§2[§a+1§2 Unprocessed Carp]
-§aIcefish
-§2[§a+1§2 Unprocessed Icefish]
-§aPiranha
-§2[§a+1§2 Unprocessed Piranha]
-§aKoi
-§aGylia Fish
-§aBass
-§aMolten Eel
-§aStarfish
+§aCopper@§aМедь
+§2[§a+1§2 Unprocessed Copper Ore]@§2[§a+1§2 Необработанная Медная Руда]
+§aGranite@§aГранит
+§2[§a+1§2 Unprocessed Granite Ore]@§2[§a+1§2 Необработанная Гранитная Руда]
+§aGold@§aЗолото
+§2[§a+1§2 Unprocessed Gold Ore]@§2[§a+1§2 Необработанная Золотая Руда]
+§aSandstone@§aПесчаник
+§2[§a+1§2 Unprocessed Sandstone Ore]@§2[§a+1§2 Необработанная Песчаная Руда]
+§aIron@§aЖелезо
+§2[§a+1§2 Unprocessed Iron Ore]@§2[§a+1§2 Необработанная Железная Руда]
+§aSilver@§aСеребро
+§aCobalt@§aКобальт
+§aKanderstone@§aКандерстоун
+§aDiamond@§aАлмаз
+§aMolten@§aМолтен
+§aVoidstone@§aВойдстоун
+§aOak@§aДуб
+§2[§a+2§2 Unprocessed Oak Log]@§2[§a+2§2 Необработанное Бревно Дуба]
+§2[§a+1§2 Unprocessed Oak Log]@§2[§a+1§2 Необработанное Бревно Дуба]
+§aBirch@§aБереза
+§2[§a+1§2 Unprocessed Birch Log]@§2[§a+1§2 Необработанное Бревно Березы]
+§aWillow@§aИва
+§2[§a+1§2 Unprocessed Willow Log]@§2[§a+1§2 Необработанное Бревно Ивы]
+§aAcacia@§aАкация
+§2[§a+1§2 Unprocessed Acacia Log]@§2[§a+1§2 Необработанное Бревно Акации]
+§aSpruce@§aЕль
+§2[§a+1§2 Unprocessed Spruce Log]@§2[§a+1§2 Необработанное Бревно Ели]
+§aJungle@§aАмарант
+§aDark@§aКаштан
+§aLight@§aКлен
+§aPine@§aСосна
+§aBamboo@§aБамбук
+§aAvo@§aАвокадо
+§2[§a+1§2 Unprocessed Avo Log]@§2[§a+1§2 Необработанное Бревно Авокадо]
+§aSky@§aЛиственница
+§aWheat@§aПшеница
+§2[§a+1§2 Unprocessed Wheat]@§2[§a+1§2 Необработанная Пшеница]
+§aBarley@§aЯчмень
+§2[§a+1§2 Unprocessed Barley]@§2[§a+1§2 Необработанный Ячмень]
+§aOat@§aОвес
+§2[§a+1§2 Unprocessed Oat]@§2[§a+1§2 Необработанный Овес]
+§aMalt@§aСолод
+§2[§a+1§2 Unprocessed Malt]@§2[§a+1§2 Необработанный Солод]
+§aHops@§aХмель
+§2[§a+1§2 Unprocessed Hops]@§2[§a+1§2 Необработанный Хмель]
+§aRye@§aРожь
+§2[§a+1§2 Unprocessed Rye]@§2[§a+1§2 Необработанная Рожь]
+§aMillet@§aПросо
+§2[§a+1§2 Unprocessed Millet]@§2[§a+1§2 Необработанное Просо]
+§aDecay Roots@§aЗараженный Корень
+§2[§a+1§2 Unprocessed Decay Roots]@§2[§a+1§2 Необработанный Зараженный Корень]
+§aRice@§aРис
+§aSorghum@§aСорго
+§aHemp@§aКонопля
+§aGudgeon@§aПескарь
+§2[§a+1§2 Unprocessed Gudgeon]@§2[§a+1§2 Необработанный Пескарь]
+§aTrout@§aФорель
+§2[§a+1§2 Unprocessed Trout]@§2[§a+1§2 Необработанная Форель]
+§aSalmon@§aЛосось
+§2[§a+1§2 Unprocessed Salmon]@§2[§a+1§2 Необработанный Лосось]
+§aCarp@§aКарп
+§2[§a+1§2 Unprocessed Carp]@§2[§a+1§2 Необработанный Карп]
+§aIcefish@§aЩука
+§2[§a+1§2 Unprocessed Icefish]@§2[§a+1§2 Необработанная Щука]
+§aPiranha@§aПиранья
+§2[§a+1§2 Unprocessed Piranha]@§2[§a+1§2 Необработанная Пиранья]
+§aKoi@§aСазан
+§aGylia Fish@§aГилия
+§aBass@§aОкунь
+§aMolten Eel@§aМолтен Угорь
+§aStarfish@§aМорская Звезда
 §6[§e|||M§8ining|||§6]
 §6[§e|||Min§8ing|||§6]
 §6[§e|||Minin§8g|||§6]
