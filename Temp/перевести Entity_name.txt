@@ -378,6 +378,7 @@ Gylia Farmer@Гилия Фермер
 §2§fGelibord Child@§2§fГелиборд Дитя
 §2§fIrahe@§2§fИрахе
 §2§fOtenu@§2§fОтэну
+§2§fChallenger Apprentice@§2§fНачинающий Ученик
 §2§fChallenger ApprenticeÀ@§2§fНачинающий Ученик
 §2§fChallenger ApprenticeÀÀ@§2§fНачинающий Ученик
 §2§fChallenger ApprenticeÀÀÀ@§2§fНачинающий Ученик
@@ -398,67 +399,66 @@ Gylia Farmer@Гилия Фермер
 §2§fHive Servant@§2§fСлуга Улья
 §2§fBaker@§2§fПекарь
 §2§fGeneral Graken@§2§fГенерал Гракен
-§2§fAhmsord Child
-§2§fArzul
-§2§fKracken
-§2§fGamam
-§2§fAval
-§2§fRodoroc Guard
-§2§fCow
-§2§fAvos Citizen
-§2§fAvos Shaman
-§2§fWater
-§2§fHay
-§2§fCow Citizen
-§2§fRodoroc Citizen
-§2§fFood for Prisoners
-§2§fRodoroc Dwarf
-§2§fCorkian Security Executive
-§2§fDr. Legendary
-§2§fAnsei's Journal
-§2§fGoben
-§2§fAdoda
-§2§fBarckan
-§2§fMech Guard
-§2§fCrane Mechanic
-§2§fAhmsord Citizen
-§2§fCrank
-§2§fRelos Citizen
-§2§fRelos Mechanic
-§2§fMaex Citizen
-§2§fKorzim
-§2§fPhicx
-§2§fChapter I
-§2§fChapter II
-§2§fChapter III
-§2§fChapter IV
-§2§fChapter V
-§2§fChapter VI
-§2§fChapter VII
-§2§fChapter VIII
-§2§fChapter IX
-§2§fChapter X
-§2§fChapter XII
-§2§fChapter XI
-§2§fImperial Guard
-§2§fKandon-Beda Citizen
-§2§fDogun Delg
-§2§fTraitor Buice
-§2§fTraitor Jaynar
-§2§fExcavator Sean
-§2§fWynnExcavation Scientist Azure
-§2§fErd
-§2§fChallenger Apprentice
-§2§fThe Tale of the Lost Necklace
-§2§fArlene
-§2§fBurne
-§2§fManny
-§2§fRex
-§2§fJesp
-§2§fKantor
-§2§fAntrus
-§2§fVonlus
-§2§fGraken Note
+§2§fAhmsord Child@§2§fДитя Амсорда
+§2§fArzul@§2§fАрзул
+§2§fKracken@§2§fКракен
+§2§fGamam@§2§fГамам
+§2§fAval@§2§fАвал
+§2§fRodoroc Guard@§2§fРодорок Страж
+§2§fCow@§2§fКорова
+§2§fAvos Citizen@§2§fАвос Житель
+§2§fAvos Shaman@§2§fАвос Шаман
+§2§fWater@§2§fВода
+§2§fHay@§2§fСено
+§2§fCow Citizen@§2§fКорова Житель
+§2§fRodoroc Citizen@§2§fРодорок Житель
+§2§fFood for Prisoners@§2§fЕда для Заключенных
+§2§fRodoroc Dwarf@§2§fРодорок Гном
+§2§fCorkian Security Executive@§2§fУправляющий Коркус Охраны
+§2§fDr. Legendary@§2§fЛегендарный Доктор
+§2§fAnsei's Journal@§2§fЖурнал Ансея
+§2§fGoben@§2§fГобен
+§2§fAdoda@§2§fАдода
+§2§fBarckan@§2§fБаркан
+§2§fMech Guard@§2§fРобот Страж
+§2§fCrane Mechanic@§2§fКран Механик
+§2§fAhmsord Citizen@§2§fАмсорд Житель
+§2§fCrank@§2§fКрэнк
+§2§fRelos Citizen@§2§fРелос Житель
+§2§fRelos Mechanic@§2§fРелос Механик
+§2§fMaex Citizen@§2§fМаэкс Житель 
+§2§fKorzim@§2§fКорзим
+§2§fPhicx@§2§fФикс
+§2§fChapter I@§2§fГлава I
+§2§fChapter II@§2§fГлава II
+§2§fChapter III@§2§fГлава III
+§2§fChapter IV@§2§fГлава IV
+§2§fChapter V@§2§fГлава V
+§2§fChapter VI@§2§fГлава VI
+§2§fChapter VII@§2§fГлава VII
+§2§fChapter VIII@§2§fГлава VIII
+§2§fChapter IX@§2§fГлава IX
+§2§fChapter X@§2§fГлава X
+§2§fChapter XI@§2§fГлава XI
+§2§fChapter XII@§2§fГлава XII
+§2§fImperial Guard@§2§fКоролевский Страж
+§2§fKandon-Beda Citizen@§2§fКандон-Бэда Житель
+§2§fDogun Delg@§2§fДогун Делг
+§2§fTraitor Buice@§2§fПредатель Бучи
+§2§fTraitor Jaynar@§2§fПредатель Джайнар
+§2§fExcavator Sean@§2§fРаскопщик Шон
+§2§fWynnExcavation Scientist Azure@§2§fВиннЭкскавейшен Ученый Азуре
+§2§fErd@§2§fЭрд
+§2§fThe Tale of the Lost Necklace@§2§fСказка о Потерянном Амулете
+§2§fArlene@§2§fАрлен
+§2§fBurne@§2§fБурне
+§2§fManny@§2§fМэнни
+§2§fRex@§2§fРекс
+§2§fJesp@§2§fДжесп
+§2§fKantor@§2§fКантор
+§2§fAntrus@§2§fАнтрус
+§2§fVonlus@§2§fВонлус
+§2§fGraken Note@§2§fЗаписка Гракена
 §2Sergeant Klafson
 §2Farmer Cevalus
 §2Jenprest
