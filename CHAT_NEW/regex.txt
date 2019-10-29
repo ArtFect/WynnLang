@@ -103,7 +103,7 @@
 §b(.*)§3 has thrown an §bItem Bomb§3!@§b(r1)§3 бросил §bПредметную Бомбу§3!
 §b(.*)§3 has thrown a §bProfession XP Bomb§3! The entire server gets §bdouble profession xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bProfession XP бомбу§3! Весь сервер получает §bдвойные xp профессий §3на §b20 минут§3!
 §b(.*)§3 has thrown a §bLoot Bomb§3! The entire server gets §bdouble loot §3for §b20 minutes§3!@§b(r1)§3 бросил §bЛут бомбу§3! Весь сервер получает §bдвойной лут §3на §b20 минут§3!
-§b(.*)§3bomb has expired. You can buy (.*) (?:b|B)ombs at our website, §bwynncraft.com\/store@§b(r1)§3бомба закончилась. Ты можешь купить (r2) бомбу на нашем сайте, §bwynncraft.com/store
+§b(.*)§3bomb has expired. You can buy (.*) (b|B)ombs at our website, §bwynncraft.com\/store@§b(r1)§3бомба закончилась. Ты можешь купить (r2) бомбу на нашем сайте, §bwynncraft.com/store
 §b(.*)§3 has thrown a §bParty Bomb§3! Enjoy the madness!@§b(r1)§3 бросил §bПати Бомбу§3! Наслаждайся безумием!
 §b(.*) Party Bomb §3has run out! Visit §bwynncraft.com/store§b §3to get your own!@§b(r1) Пати Бомба §3закончилась! Посети §bwynncraft.com/store§b §3чтобы купить свою!
 §dFinished selling (.*)§d for §5(.*) each §dfor a total of §5(.*)@§dЗавершена продажа (r1)§d за §5(r2) каждый, §dв сумме на §5(r3)
