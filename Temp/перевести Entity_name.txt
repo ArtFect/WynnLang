@@ -1397,58 +1397,57 @@ mobs§7, cinematics §7& much more!@мобов§7, кат-сцен §7и мно�
 §7Get §e[40 Tokens]@§7Добудь §e[40 Жетонов]
 §7Get §6[Corrupted Flesh]@§7Добудь §6[Испорченную Плоть]
 §7Get §6[Corrupted Ice]@§7Добудь §6[Испорченный Лед]
-§bRight click with §3[1 Crate of Rat Poison] §bto poison the water
-§a§lRight-Click
-§7To destroy the debris
-§7To Push
-§aFree Cow §6[Lv. 1]
-§6Place
-§cReset
-§6Pick-up
-§2[§aGet Whiskey§2]
-§2[§aGet Water§2]
-§cKill enemies to destroy the wall.
-§cKill §6[Dwarven Generals] §cto open the gate.
-§cKill §61 [Elite Dogun] §cto melt the wall.
-§cClick with ammunition to load and fire cannon
-§cReturn to Rodoroc
-§7Get §e[Demonic Bacteria]
-§7to break the barrier
-§7Get §d[Lactic Acid Bacteria]
-§7to remove the protective wall
-§7Level: §f86
-§e§lSand-Swept Tomb
-§7Level: §f82
-§6§l§nThe Forgery
-§7Level: §f70
-§7Level: §f74
-§6§lLost Sanctuary
-§c§lInfested Pit
-§7Level: §f78
-§7Level: §f27
-§2§lUnderworld Crypt
-§7Difficulty: §eMedium
-§4§lEXIT
-§dLoot Crate T2
-§a Break window
-§aThrow potato
-§aPush crates
-§aSmash cake
-§aRip carpet
-§c§lBreak Furnace
-§cTake Sceptre
-§6Right-click to open
-§7Level: §f36
-§7Difficulty: §4Extreme
-§7Level: 90
-§4§lCorrupted §b§lIce Barrows
-§7Get §e[20 Tokens]
-§6Resource Tunnels
-§7Quest Required: §7§l[The Worm Holes]
-§7Get §6[4 Ironwood Hearts]
-§7to open the seal
-§7minecart with §6[Explosives]
-§7Right-click to fill
+§bRight click with §3[1 Crate of Rat Poison] §bto poison the water@§bПравый клик с §3[1 Контейнером Крысиного Яда] §bдля отравления воды
+§a§lRight-Click@§a§lПравый Клик
+§7To destroy the debris@§7Для уничтожения обломков
+§7To Push@§7Чтобы толкнуть
+§6Place@§6Поставить
+§cReset@§cСброс
+§6Pick-up@§6Подобрать
+§2[§aGet Whiskey§2]@§2[§aПолучить Виски§2]
+§2[§aGet Water§2]@§2[§aПолучить Воду§2]
+§cKill enemies to destroy the wall.@§cУбей врагов, чтобы уничтожить стену.
+§cKill §6[Dwarven Generals] §cto open the gate.@§cУбей §6[Гном Генералов] §cчтобы открыть ворота.
+§cKill §61 [Elite Dogun] §cto melt the wall.@§cУбей §61 [Элитного Догуна] §cчтобы расплавить стену.
+§cClick with ammunition to load and fire cannon@§cКликни боеприпасом для загрузки и выстрела из пушки
+§cReturn to Rodoroc@§cВернуться в Родорок
+§7Get §e[Demonic Bacteria]@§7Добудь §e[Демоническую Бактерию]
+§7to break the barrier@§7чтобы сломать барьер
+§7Get §d[Lactic Acid Bacteria]@§7Добудь §d[Молочнокислую Бактерию]
+§7to remove the protective wall@§7чтобы убрать защитную стену
+§7Level: §f86@§7Уровень: §f86
+§e§lSand-Swept Tomb@§e§lПесчаная Гробница
+§7Level: §f82@§7Уровень: §f82
+§6§l§nThe Forgery@§6§l§nКузница
+§7Level: §f70@§7Уровень: §f70
+§7Level: §f74@§7Уровень: §f74
+§6§lLost Sanctuary@§6§lЗатерянное Святилище
+§c§lInfested Pit@§c§lЗараженная Яма
+§7Level: §f78@§7Уровень: §f78
+§7Level: §f27@§7Уровень: §f27
+§2§lUnderworld Crypt@§2§lПодземный Склеп
+§7Difficulty: §eMedium@§7Сложность: §eСредний
+§4§lEXIT@§4§lВЫХОД
+§dLoot Crate T2@§dЛут Контейнер У2
+§a Break window@§a Сломать окно
+§aThrow potato@§aБросить картошку
+§aPush crates@§aТолкнуть контейнеры
+§aSmash cake@§aУдарить торт
+§aRip carpet@§aПорвать ковер
+§c§lBreak Furnace@§c§lСломать Печку
+§cTake Sceptre@§cВзять скипетр
+§6Right-click to open@§6Правый клик для открытия
+§7Level: §f36@§7Уровень: §f36
+§7Difficulty: §4Extreme@§7Сложность: §4Экстрим
+§7Level: 90@§7Уровень: §f90
+§4§lCorrupted §b§lIce Barrows@§4§lИспорченный §b§lЛедяной Курган
+§7Get §e[20 Tokens]@§7Добудь §e[20 Жетонов]
+§6Resource Tunnels@§6Тоннель с Ресурсами
+§7Quest Required: §7§l[The Worm Holes]@§7Нужен Квест: §7§l[The Worm Holes]
+§7Get §6[4 Ironwood Hearts]@§7Добудь §6[4 Железных Сердца]
+§7to open the seal@§7для открытия печати
+§7Right-click to fill@§7Правый клик для заполнения
+§7minecart with §6[Explosives]@§7вагонетки §6[Взрывчаткой]
 §c§lCaptain's Room
 §b§lRight
 §b§lStart / Reset
@@ -1724,6 +1723,7 @@ Level §c70-80
 §aVillager§6 [Lv. 70]
 §aServant§6 [Lv. 70]
 §aSheep§6 [Lv. 1]
+§aFree Cow §6[Lv. 1]
 §aSuburbs Farmer§6 [Lv. 10]
 §aDetlas Citizen§6 [Lv. 10]
 §aGrook§6 [Lv. 7]
