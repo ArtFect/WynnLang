@@ -1598,48 +1598,48 @@ Level §c70-80@Уровень §c70-80
 §6Cannon x0@§6Пушка x0
 §6Fan x0@§6Фен x0
 §6Hammer x0@§6Молот x0
-§6Right-click to dig
-§7Old Key
-§7Get §e[16 Scrap]
-§7Get §b[1 Core]
-§7Get the §6[Key]
-§fGet §e[16 Scraps]
-§fto continue
-§fto open the way
-§fGet §e[12 Scraps]
-§fGet §b[6 Cores]
-§7to open the way
-§7Get §b[6 Cores]
-§4§lEMERGENCY RETURN TO MAIN ROOM
-§7Get §a[Pass A]
-§7Get §c[Pass B]
-§6Who hid the necklace?
-§eThe Corkians
-§eThe Avos
-§eThe Frumans
-§eThe Gavelians
-§6Where was the second clue?
-§eIn a cave with cages
-§eIn a cave with lava
-§eIn a cave with Corkians
-§eIn a cave with water
-§6How many clues are there?
-§6How many blood items did you need under the lighthouse?
-§eOrb of the Water Winds
-§eOrb of the Water Storm
-§eOrb of the Whirlpool
-§eOrb of the Water Gale
-§6What was the orb needed in the ocean shrine called?
-§7Get §e[32 Tokens]
-§7Get §e[10 Tokens]
-§b[3 Blue Tokens]
-§fFind and bring
-§7to fight Boss 2
-§7to fight Boss 1
-§7to fight Boss 3
-§7Get §e[8 Tokens]
-§7to revive General Graken
-§7Get §e[4 Body Parts]
+§6Right-click to dig@§6Правый клик для копания
+§7Old Key@§7Старый Ключ
+§7Get §e[16 Scrap]@§7Добудь §e[16 Скрапа]
+§7Get §b[1 Core]@§7Добудь §b[1 Ядро]
+§7Get the §6[Key]@§7Добудь §6[Ключ]
+§fGet §e[16 Scraps]@§7Добудь §e[16 Скрапа]
+§fto continue@§fдля продолжения
+§fto open the way@§fдля открытия пути
+§fGet §e[12 Scraps]@§7Добудь §e[12 Скрапа]
+§fGet §b[6 Cores]@§fДобудь §b[6 Ядер]
+§7to open the way@§7для открытия пути
+§7Get §b[6 Cores]@§7Добудь §b[6 Ядер]
+§4§lEMERGENCY RETURN TO MAIN ROOM@§4§lАВАРИЙНЫЙ ВОЗВРАТ В ГЛАВНУЮ КОМНАТУ
+§7Get §a[Pass A]@§7Добудь §a[Пропуск А]
+§7Get §c[Pass B]@§7Добудь §a[Пропуск Б]
+§6Who hid the necklace?@§6Кто спрятал амулет?
+§eThe Corkians@§eКоркианцы
+§eThe Avos@§eАвосы
+§eThe Frumans@§eФруманы
+§eThe Gavelians@§eГавелианцы
+§6Where was the second clue?@§6Где была вторая подсказка?
+§eIn a cave with cages@§eВ пещере с клетками
+§eIn a cave with lava@§eВ пещере с лавой
+§eIn a cave with Corkians@§eВ пещере с Коркианцами
+§eIn a cave with water@§eВ пещере с водой
+§6How many clues are there?@§6Сколько там подсказок?
+§6How many blood items did you need under the lighthouse?@§6Сколько предметов крови тебе понадобилось под зданием маяка?
+§eOrb of the Water Winds@§eСфера Водных Ветров 
+§eOrb of the Water Storm@§eСфера Водного Шторма
+§eOrb of the Whirlpool@§eСфера Водоворота
+§eOrb of the Water Gale@§eСфера Водной Бури
+§6What was the orb needed in the ocean shrine called?@§6Какое название было у необходимой в океанической святыне сферы? 
+§7Get §e[32 Tokens]@§7Добудь §e[32 Жетона]
+§7Get §e[10 Tokens]@§7Добудь §e[10 Жетонов]
+§b[3 Blue Tokens]@§b[3 Синих Жетона]
+§fFind and bring@§fНайди и принеси
+§7to fight Boss 2@§7для битвы с Боссом 2
+§7to fight Boss 1@§7для битвы с Боссом 1
+§7to fight Boss 3@§7для битвы с Боссом 3
+§7Get §e[8 Tokens]@§7Добудь §e[8 Жетонов]
+§7to revive General Graken@§7для возрождения Генерала Гракена
+§7Get §e[4 Body Parts]@§7Добудь §e[4 Части Тела]
 
 ######################Охранники ключей###########################
 §cDecrepit Sewers Key Guardian§6 [Lv. 9]
