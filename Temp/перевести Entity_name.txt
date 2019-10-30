@@ -1348,55 +1348,55 @@ mobs§7, cinematics §7& much more!@мобов§7, кат-сцен §7и мно�
 §7§7Helmets and Chestplates@§7§7Шлема и Нагрудники
 §fⒻ §6§lTailoring§f Ⓕ@§fⒻ §6§lПортняжное дело§f Ⓕ
 §7§7Boots and Pants@§7§7Ботинки и Штаны
-§fⓁ §6§lAlchemism§f Ⓛ
-§7§7Potions
-§eLoot Crate T1
-§cGodly Reward
-§2[§aHarvest Saccharum§2]
-§fGet §a[Saccharum]
-§fto open the door
-§fRight-click to add
-§cTrade Market
-§7on the market
-§7Buy & sell items
-§fⒹ §6§lJeweling§f Ⓓ
-§7§7Accessories
-§7Durability:
-§6Right click §eto place the gem
-§fGet §e[32 Tokens]
-§fGet §e[10 Tokens]
-§4§lHUNT!
-§fGet §b[3 Tokens]
-§fto summon Boss 2
-§fGet §e[6 Tokens]
-§fto summon Boss 1
-§fto summon Boss 3
-§fGet §e[8 Tokens]
-§aDown
-§cPlace
-§aUp
-§aForwards
-§aBack
-§aRight
-§aLeft
-§7to blow up the fence
-§7Get §c[1 TNT]
-§eRight-click to
-§eplace §6[Large Rocks]
-§7Sacrifice a §eGolden Avia Feather§7
-§bUth Shrine
-§7to activate the shrine.
-§7Get §6[1 Key]
-§7to open one of the doors
-§c§lHUNT!
-§7Right-click to add
-§c§lSLAY!
-§7Get §e[5 Tokens]
-§7to break the tower
-§7Get §b[4 Blue Tokens]
-§7Get §e[40 Tokens]
-§7Get §6[Corrupted Flesh]
-§7Get §6[Corrupted Ice]
+§fⓁ §6§lAlchemism§f Ⓛ@§fⓁ §6§lАлхимия§f Ⓛ
+§7§7Potions@§7§7Зелья
+§eLoot Crate T1@§eЛут Контейнер У1
+§cGodly Reward@§cБожественная Награда
+§2[§aHarvest Saccharum§2]@§2[§aСбор Сахара§2]
+§fGet §a[Saccharum]@§fДобудь §a[Сахар]
+§fto open the door@§fчтобы открыть дверь
+§fRight-click to add@§fПравый клик для добавления
+§cTrade Market@§cТрейд Маркет
+§7Buy & sell items@§7Покупка и продажа предметов
+§7on the market@§7через маркет
+§fⒹ §6§lJeweling§f Ⓓ@§fⒹ §6§lИзготовление аксессуаров§f Ⓓ
+§7§7Accessories@§7§7Аксессуары
+§7Durability:@§7Прочность:
+§6Right click §eto place the gem@§6Правый клик §eдля установки камня
+§fGet §e[32 Tokens]@§fДобудь §e[32 Жетона]
+§fGet §e[10 Tokens]@§fДобудь §e[10 Жетонов]
+§4§lHUNT!@§4§lОХОТА!
+§fGet §b[3 Tokens]@§fДобудь §b[3 Жетона]
+§fGet §e[6 Tokens]@§fДобудь §b[6 Жетонов]
+§fto summon Boss 1@§fдля призыва 1 Босса
+§fto summon Boss 2@§fдля призыва 2 Босса
+§fto summon Boss 3@§fдля призыва 3 Босса
+§fGet §e[8 Tokens]@§fДобудь §e[8 Жетонов]
+§aDown@§aВниз
+§cPlace@§cПоставить
+§aUp@§aВверх
+§aForwards@§aВперед
+§aBack@§aНазад
+§aRight@§aВправо
+§aLeft@§aВлево
+§7Get §c[1 TNT]@§7Добудь §c[1 Динамит]
+§7to blow up the fence@§7чтобы взорвать забор
+§eRight-click to@§eПравый клик чтобы
+§eplace §6[Large Rocks]@§eпоставить §6[Большие Камни]
+§7Sacrifice a §eGolden Avia Feather§7@§7Пожертвуй §eЗолотое Перо Авиа§7
+§bUth Shrine@§bУтх Святыня
+§7to activate the shrine.@§7для активации святыни.
+§7Get §6[1 Key]@§7Добудь §6[1 Ключ]
+§7to open one of the doors@§7чтобы открыть одну из дверей
+§c§lHUNT!@§c§lОХОТА!
+§7Right-click to add@§7Правый клик для добавления
+§c§lSLAY!@§c§lУбийство!
+§7Get §e[5 Tokens]@§7Добудь §e[5 Жетонов]
+§7to break the tower@§7чтобы сломать башню
+§7Get §b[4 Blue Tokens]@§7Добудь §b[4 Синих Жетона]
+§7Get §e[40 Tokens]@§7Добудь §e[40 Жетонов]
+§7Get §6[Corrupted Flesh]@§7Добудь §6[Испорченную Плоть]
+§7Get §6[Corrupted Ice]@§7Добудь §6[Испорченный Лед]
 §bRight click with §3[1 Crate of Rat Poison] §bto poison the water
 §a§lRight-Click
 §7To destroy the debris
