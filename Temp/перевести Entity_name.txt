@@ -1198,27 +1198,26 @@ Gylia Farmer@Гилия Фермер
 §bMarketplace Guard§6 [Lv. 96]@§bСтраж Рынка§6 [Ур. 96]
 §bDwarven Guard§6 [Lv. 95]@§bГном Страж§6 [Ур. 95]
 §bKandon-Beda Watchman§6 [Lv. 95]@§bКандон-Бэда Стражник§6 [Ур. 95]
-§bThe Miller§6 [Lv. 90]@
-§bRocky§6 [Lv. 90]@
-§bMaex Guard§6 [Lv. 90]@
-§bPrototype Golem§6 [Lv. 90]@
-§bAhmsord Guard§6 [Lv. 110]@
-§bBluebell§6 [Lv. 90]@
-§bAffectionate Wybel§6 [Lv. 90]@
-§bGuard Scout§6 [Lv. 30]@
-§bGuard Slayer§6 [Lv. 30]@
-§bImperial Guard§6 [Lv. 60]@
-§broyal guard§6 [Lv. 1]@
-§bPrince Hashr§6 [Lv. 0]@
-§bWatchman§6 [Lv. 65]@
-§bWynnston§6 [Lv. 1]@
-§bAxelus§6 [Lv. 95]@
-§bCaptain Olof§6 [Lv. 95]@
-§bKantor§6 [Lv. 95]@
-§bVoid Wolf§6 [Lv. 95]@
-§bFallen Wybel§6 [Lv. 95]@
-§bVoid Archer§6 [Lv. 95]@
-§bGeneral Graken§6 [Lv. 150]@
+§bThe Miller§6 [Lv. 90]@§bМельник§6 [Ур. 90]
+§bMaex Guard§6 [Lv. 90]@§bМаэкс Страж§6 [Ур. 90]
+§bPrototype Golem§6 [Lv. 90]@§bПрототип Голема§6 [Ур. 90]
+§bAhmsord Guard§6 [Lv. 110]@§bАмсорд Страж§6 [Ур. 110]
+§bBluebell§6 [Lv. 90]@§bКолокольчик§6 [Ур. 90]
+§bAffectionate Wybel§6 [Lv. 90]@§bОзадаченный Вубел§6 [Ур. 90]
+§bGuard Scout§6 [Lv. 30]@§bСтраж Скаут§6 [Ур. 30]
+§bGuard Slayer§6 [Lv. 30]@§bСтраж Убийца§6 [Ур. 30]
+§bImperial Guard§6 [Lv. 60]@§bКоролевский Страж§6 [Ур. 60]
+§broyal guard§6 [Lv. 1]@§bимператорский страж§6 [Ур. 1]
+§bPrince Hashr§6 [Lv. 0]@§bПринц Хашр§6 [Ур. 0]
+§bWatchman§6 [Lv. 65]@§bСмотрящий§6 [Ур. 65]
+§bWynnston§6 [Lv. 1]@§bВиннстон§6 [Ур. 1]
+§bAxelus§6 [Lv. 95]@§bАкселус§6 [Ур. 95]
+§bCaptain Olof§6 [Lv. 95]@§bКапитан Олоф§6 [Ур. 95]
+§bKantor§6 [Lv. 95]@§bКантор§6 [Ур. 95]
+§bVoid Wolf§6 [Lv. 95]@§bПустотный Волк§6 [Ур. 95]
+§bFallen Wybel§6 [Lv. 95]@§bУпавший Вубел§6 [Ур. 95]
+§bVoid Archer§6 [Lv. 95]@§bПустотный Лучник§6 [Ур. 95]
+§bGeneral Graken§6 [Lv. 150]@§bГенерал Гракен§6 [Ур. 150]
 
 ############################Надписи################################
 §7[Left click to harvest]
