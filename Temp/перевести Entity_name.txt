@@ -1548,56 +1548,56 @@ Level §c70-80@Уровень §c70-80
 §7Get §e[24 Scrap]@§7Добудь §e[24 Скрапа]
 §7Get §b[4 Cores]@§7Добудь §b[4 Ядра]
 §4§lEMERGENCY RETURN TO FLOOR 1@§4§lАВАРИЙНЫЙ ВОЗВРАТ НА 1 ЭТАЖ
-§4§lEMERGENCY REBOOT OF SYSTEM
-§7Difficulty: §4§lExtreme
-§6Weight: 50
-§6Weight: 10
-§6Weight: 5
-§6Weight: 37
-§6Weight: 95
-§6Weight: 43
-§6Weight: 57
-§6Weight: 13
-§7Difficulty: §cExtreme
-§6Legendary Challenge
-§7Recommended Level: §f95+
-§cREQUIRES KEY
-§6Right-click
-§eto rotate
-§4Left-click
-§cto shoot
-§7to place ammo
-§7Right-click
-§ato take a piece of tnt
-§2[§aRight Click§2]
-§ato take a rock
-§cto reset
-§7Get §e[30 Tokens]
-§f§lA
-§8§lB
-§f§lC
-§8§lD
-§aFinish
-§6Submit
-§6Cannon x2
-§6Cart x1
-§6Fan x1
-§6Hammer x1
-§e§nChoose machine part
-§e§nChoose from 1 to 10
-§e§nChoose from A to D
-§6B
-§6A
-§6D
-§6C
-§6Left
-§e§nChoose facing
-§6Right
-§6Cart x0
-§6Cannon x1
-§6Cannon x0
-§6Fan x0
-§6Hammer x0
+§4§lEMERGENCY REBOOT OF SYSTEM@§4§lАВАРИЙНАЯ ПЕРЕЗАГРУЗКА СИСТЕМЫ
+§7Difficulty: §4§lExtreme@§7Сложность: §4§lЭкстрим
+§6Weight: 50@§6Вес: 50
+§6Weight: 10@§6Вес: 10
+§6Weight: 5@§6Вес: 5
+§6Weight: 37@§6Вес: 37
+§6Weight: 95@§6Вес: 95
+§6Weight: 43@§6Вес: 43
+§6Weight: 57@§6Вес: 57
+§6Weight: 13@§6Вес: 13
+§7Difficulty: §cExtreme@§7Сложность: §cЭкстрим
+§6Legendary Challenge@§6Легендарный Челлендж
+§7Recommended Level: §f95+@§7Рекомендуемый Уровень: §f95+
+§cREQUIRES KEY@§cНЕОБХОДИМ КЛЮЧ
+§6Right-click@§6Правый клик
+§eto rotate@§eдля поворота
+§4Left-click@§4Левый клик
+§cto shoot@§cдля выстрела
+§7to place ammo@§7для размещения боеприпаса
+§7Right-click@§7Правый клик
+§ato take a piece of tnt@§aчтобы взять кусок динамита
+§2[§aRight Click§2]@§2[§aПравый Клик§2]
+§ato take a rock@§aчтобы взять камень
+§cto reset@§cдля сброса
+§7Get §e[30 Tokens]@§7Добудь §e[30 Жетонов]
+§f§lA@ 
+§8§lB@ 
+§f§lC@ 
+§8§lD@ 
+§aFinish@§aФиниш
+§6Submit@§6Подтвердить
+§6Cannon x2@§6Пушка x2
+§6Cart x1@§6Вагонетка x1
+§6Fan x1@§6Фен x1
+§6Hammer x1@§6Молот x1
+§e§nChoose machine part@§e§nВыбрать часть машины
+§e§nChoose from 1 to 10@§e§nВыбрать от 1 до 10
+§e§nChoose from A to D@§e§nВыбрать от A до D
+§6B@ 
+§6A@ 
+§6D@ 
+§6C@ 
+§6Left@§6Влево
+§e§nChoose facing@§e§nВыбрать направление
+§6Right@§6Вправо
+§6Cart x0@§6Вагонетка x0
+§6Cannon x1@§6Пушка x1
+§6Cannon x0@§6Пушка x0
+§6Fan x0@§6Фен x0
+§6Hammer x0@§6Молот x0
 §6Right-click to dig
 §7Old Key
 §7Get §e[16 Scrap]
