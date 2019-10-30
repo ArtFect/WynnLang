@@ -1448,56 +1448,56 @@ mobs§7, cinematics §7& much more!@мобов§7, кат-сцен §7и мно�
 §7to open the seal@§7для открытия печати
 §7Right-click to fill@§7Правый клик для заполнения
 §7minecart with §6[Explosives]@§7вагонетки §6[Взрывчаткой]
-§c§lCaptain's Room
-§b§lRight
-§b§lStart / Reset
-§b§lForwards
-§b§lChange View
-§b§lBackwards
-§b§lDown
-§b§lLeft
-§b§lUp
-§bHarvest Water Bucket
-§bHarvest Ginger Root
-§bHarvest Lemongrass
-§bHarvest Sugar
-Floor §61
-Floor §66
-Level §c90-100
-Level §c40-50
-Level §c50-60
-Floor §65
-Floor §62
-Level §c80-90
-Floor §63
-Floor §67
-Level §c60-70
-Level §c100-110
-Floor §64
-Level §c70-80
-§7Difficulty: §6Hard
-§4§lCorrupted §7§lDecrepit Sewers
-§b§lIce Barrows
-§7Difficulty: §cHard
-§7Level: §f45
-§aCut cactus
-§6Press to start countdown
-§7Get §e[3 Tokens]
-§4EXIT
-§7Get §e[6 TNT]
-§7to blow up the wall
-§7Get §e[1 TNT]
-§7Get §e[5 TNT]
-§7Get §e[4 TNT]
-§7Get §e[9 TNT]
-§7to blow up the floor
-§7Place Sword
-§7Get §e[16 Tokens]
-§7Ship Integrity:
-§4Fire
-§7Get §e[2 Tokens]
-§6Loot Crate T3
-§6Epic Reward
+§c§lCaptain's Room@§c§lКомната Капитана
+§b§lRight@§b§lВправо
+§b§lStart / Reset@§b§lСтарт / Сброс
+§b§lForwards@§b§lВперед
+§b§lChange View@§b§lСменить Вид
+§b§lBackwards@§b§lНазад
+§b§lDown@§b§lВниз
+§b§lLeft@§b§lВлево
+§b§lUp@§b§lВверх
+§bHarvest Water Bucket@§bНабрать Ведро Воды
+§bHarvest Ginger Root@§bСобрать Корень Имбиря
+§bHarvest Lemongrass@§bСобрать Лемонграсс
+§bHarvest Sugar@§bСобрать Сахар
+Floor §61@Этаж §61
+Floor §62@Этаж §62
+Floor §63@Этаж §63
+Floor §64@Этаж §64
+Floor §65@Этаж §65
+Floor §66@Этаж §66
+Floor §67@Этаж §67
+Level §c90-100@Уровень §c90-100
+Level §c40-50@Уровень §c40-50
+Level §c50-60@Уровень §c50-60
+Level §c80-90@Уровень §c80-90
+Level §c60-70@Уровень §c60-70
+Level §c100-110@Уровень §c100-110
+Level §c70-80@Уровень §c70-80
+§7Difficulty: §6Hard@§7Сложность: §6Сложный
+§4§lCorrupted §7§lDecrepit Sewers@§4§lИспорченная §7§lВетхая Канализация
+§b§lIce Barrows@§b§lЛедяной Курган
+§7Difficulty: §cHard@§7Сложность: §cСложный
+§7Level: §f45@§7Уровень: §f45
+§aCut cactus@§aПорезать кактус
+§6Press to start countdown@§6Нажми для старта отсчета
+§7Get §e[3 Tokens]@§7Добудь §e[3 Жетона]
+§4EXIT@§4ВЫХОД
+§7Get §e[6 TNT]@§7Добудь §e[6 Динамитов]
+§7to blow up the wall@§7чтобы взорвать стену
+§7Get §e[1 TNT]@§7Добудь §e[1 Динамит]
+§7Get §e[5 TNT]@§7Добудь §e[5 Динамитов]
+§7Get §e[4 TNT]@§7Добудь §e[4 Динамита]
+§7Get §e[9 TNT]@§7Добудь §e[9 Динамитов]
+§7to blow up the floor@§7чтобы взорвать пол
+§7Place Sword@§7Поставить Меч
+§7Get §e[16 Tokens]@§7Добудь §e[16 Жетонов]
+§7Ship Integrity:@§7Прочность Корабля:
+§4Fire@§4Огонь
+§7Get §e[2 Tokens]@§7Добудь §e[2 Жетона]
+§6Loot Crate T3@§6Лут Контейнер У3
+§6Epic Reward@§6Эпическая Награда
 §4§8§k|||§4 Black Market §8§k|||§4 Reward
 §3§lCMD's §bLaboratory
 §6Welcome to the Update Plaza
