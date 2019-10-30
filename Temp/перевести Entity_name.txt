@@ -1498,56 +1498,56 @@ Level §c70-80@Уровень §c70-80
 §7Get §e[2 Tokens]@§7Добудь §e[2 Жетона]
 §6Loot Crate T3@§6Лут Контейнер У3
 §6Epic Reward@§6Эпическая Награда
-§4§8§k|||§4 Black Market §8§k|||§4 Reward
-§3§lCMD's §bLaboratory
-§6Welcome to the Update Plaza
-§7You get teleported here after
-§7a major Wynncraft update
-§bWalk through the door in front of
-§byou to exit back to the regular Wynncraft world
-§aExit to spawn
-§bThrow §3[1 TNT] §bto the hopper to continue.
-§7Get §e[1 Token]
-§7Get §e[15 Tokens]
-§7Get §e[6 Tokens]
-§bPress and hold to defuse.
-§aStart
-§4§lCorrupted §6§lLost Sanctuary
-§7Difficulty: §cVery Hard
-§4§lCorrupted Gate
-§4§lCorrupted §2§lUnderworld Crypt
-§7to pay your ride
-§f❋ §lScout
-§7Power: §fFast
-§7Cooldown: §f4sec
-§2✤ §lWarrior
-§7Cooldown: §f6sec
-§7Power: §fHigh Damage
-§c✹ §lDefender
-§7Power: §fTough
-§7Cooldown: §f8sec
-§e✦ §lSlayer
-§7Power: §fCrowd Control
-§6§lGeneral Graken
-§7Cooldown: §f14sec
-§7Power: §fHero
-§6Time
-§7Left-click
-§7to remove
-§7to rotate (§c5s§7)
-§7to rotate (§c4s§7)
-§7to rotate (§c3s§7)
-§7to rotate (§c2s§7)
-§7to rotate (§c1s§7)
-§7to rotate (§c5&s7)
-§7← Move Left
-§7Move Right →
-§4Reset
-§aSubmit
-§7to continue
-§7Get §e[24 Scrap]
-§7Get §b[4 Cores]
-§4§lEMERGENCY RETURN TO FLOOR 1
+§4§8§k|||§4 Black Market §8§k|||§4 Reward@§4§8§k|||§4 Черный Маркет §8§k|||§4 Награда
+§3§lCMD's §bLaboratory@§3§lКМД §bЛаборатория
+§6Welcome to the Update Plaza@§6Добро пожаловать на Апдейт Площадь
+§7You get teleported here after@§7Ты был телепортирован сюда после
+§7a major Wynncraft update@§7крупного Wynncraft обновления
+§bWalk through the door in front of@§bПройди через дверь перед
+§byou to exit back to the regular Wynncraft world@§bтобой для выхода в обычный Wynncraft мир
+§aExit to spawn@§aВыход на спавн
+§bThrow §3[1 TNT] §bto the hopper to continue.@§bСбрось §3[1 Динамит] §bв воронку для продолжения.
+§7Get §e[1 Token]@§7Добудь §e[1 Жетон]
+§7Get §e[15 Tokens]@§7Добудь §e[15 Жетонов]
+§7Get §e[6 Tokens]@§7Добудь §e[6 Жетонов]
+§bPress and hold to defuse.@§bНажми и держи для обезвреживания.
+§aStart@§aСтарт
+§4§lCorrupted §6§lLost Sanctuary@§4§lИспорченное §6§lЗатерянное Святилище
+§7Difficulty: §cVery Hard@§7Сложность: §cОчень Сложный
+§4§lCorrupted Gate@§4§lИспорченные Врата
+§4§lCorrupted §2§lUnderworld Crypt@§4§lИспорченный §2§lПодземный Склеп
+§7to pay your ride@§7чтобы оплатить поездку
+§f❋ §lScout@§f❋ §lСкаут
+§7Power: §fFast@§7Сила: §fБыстрый
+§7Cooldown: §f4sec@§7Перезарядка: §f4сек
+§2✤ §lWarrior@§2✤ §lВоин
+§7Cooldown: §f6sec@§7Перезарядка: §f6сек
+§7Power: §fHigh Damage@§7Сила: §fВысокий Урон
+§c✹ §lDefender@§c✹ §lЗащитник
+§7Power: §fTough@§7Сила: §fКрепкий
+§7Cooldown: §f8sec@§7Перезарядка: §f8сек
+§e✦ §lSlayer@§e✦ §lУбийца
+§7Power: §fCrowd Control@§7Сила: §fУправление Толпой
+§6§lGeneral Graken@§6§lГенерал Гракен
+§7Cooldown: §f14sec@§7Перезарядка: §f14сек
+§7Power: §fHero@§7Сила: §fГерой
+§6Time@§6Время
+§7Left-click@§7Левый клик
+§7to remove@§7для уборки
+§7to rotate (§c5s§7)@§7для поворота (§c5с§7)
+§7to rotate (§c4s§7)@§7для поворота (§c4с§7)
+§7to rotate (§c3s§7)@§7для поворота (§c3с§7)
+§7to rotate (§c2s§7)@§7для поворота (§c2с§7)
+§7to rotate (§c1s§7)@§7для поворота (§c1с§7)
+§7to rotate (§c5&s7)@§7для поворота (§c5&§7)
+§7← Move Left@§7← Повернуть Влево
+§7Move Right →@§7Повернуть Вправо →
+§4Reset@§4Сброс
+§aSubmit@§aПодтвердить
+§7to continue@§7для продолжения
+§7Get §e[24 Scrap]@§7Добудь §e[24 Скрапа]
+§7Get §b[4 Cores]@§7Добудь §b[4 Ядра]
+§4§lEMERGENCY RETURN TO FLOOR 1@§4§lАВАРИЙНЫЙ ВОЗВРАТ НА 1 ЭТАЖ
 §4§lEMERGENCY REBOOT OF SYSTEM
 §7Difficulty: §4§lExtreme
 §6Weight: 50
