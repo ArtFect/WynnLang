@@ -8,57 +8,57 @@
 §6 - §f(\d+)§7² @ 
 
 
-§7(.*) §7Attack Speed@ 
-§7(.*) §7Melee Damage@ 
-§7(.*) §7XP Bonus@ 
-§7(.*) §7Loot Bonus@ 
-§7(.*) §7Spell Damage@ 
-§7(.*) §7Strength@ 
-§7(.*) §7Walk Speed@ 
-§7(.*) §7Reflection@ 
-§7(.*) §7Exploding@ 
-§7(.*) §7Thorns@ 
-§7(.*) §7Mana Regen@ 
-§7(.*) §7Soul Point Regen@ 
-§7(.*) §7Poison@ 
-§7(.*) §7Life Steal@ 
-§7(.*) §7Mana Steal@ 
-§7(.*) §7Health Regen@ 
-§7(.*) §7Health@ 
-§7(.*) §7Agility@ 
-§7(.*) §7Dexterity@ 
-§7(.*) §7Intelligence@ 
-§7(.*) §7Defence@ 
-§7(.*) §7Thunder Damage@ 
-§7(.*) §7Air Damage@ 
-§7(.*) §7Water Damage@ 
-§7(.*) §7Earth Damage@ 
-§7(.*) §7Fire Damage@ 
-§7(.*) §7Thunder Defence@ 
-§7(.*) §7Air Defence@ 
-§7(.*) §7Water Defence@ 
-§7(.*) §7Earth Defence@ 
-§7(.*) §7Fire Defence@ 
-§7(.*) §7Stealing@ 
-§2Players: §a(.*)@ 
-§(2|6|4)Lag: §(a|e|c)(\d+)%@ 
+§7(.*) §7Attack Speed@§7(r1) §7Скорость Атаки
+§7(.*) §7Melee Damage@§7(r1) §7Ближний Урон
+§7(.*) §7XP Bonus@§7(r1) §7XP Бонус
+§7(.*) §7Loot Bonus@§7(r1) §7Лут Бонус
+§7(.*) §7Spell Damage@§7(r1) §7Урон Заклинаний
+§7(.*) §7Strength@§7(r1) §7Сила
+§7(.*) §7Walk Speed@§7(r1) §7Скорость
+§7(.*) §7Reflection@§7(r1) §7Отражение
+§7(.*) §7Exploding@§7(r1) §7Взрыв
+§7(.*) §7Thorns@§7(r1) §7Шипы
+§7(.*) §7Mana Regen@§7(r1) §7Мана Реген
+§7(.*) §7Soul Point Regen@§7(r1) §7Очки Душ Реген
+§7(.*) §7Poison@§7(r1) §7Яд
+§7(.*) §7Life Steal@§7(r1) §7Вампиризм
+§7(.*) §7Mana Steal@§7(r1) §7Кража Маны
+§7(.*) §7Health Regen@§7(r1) §7Реген Здоровья
+§7(.*) §7Health@§7(r1) §7Здоровья
+§7(.*) §7Agility@§7(r1) §7Ловкость
+§7(.*) §7Dexterity@§7(r1) §7Точность
+§7(.*) §7Intelligence@§7(r1) §7Интеллект
+§7(.*) §7Defence@§7(r1) §7Защита
+§7(.*) §7Thunder Damage@§7(r1) §7Гром Урон
+§7(.*) §7Air Damage@§7(r1) §7Воздух Урон
+§7(.*) §7Water Damage@§7(r1) §7Вода Урон
+§7(.*) §7Earth Damage@§7(r1) §7Земля Урон
+§7(.*) §7Fire Damage@§7(r1) §7Огонь Урон
+§7(.*) §7Thunder Defence@§7(r1) §7Гром Защита
+§7(.*) §7Air Defence@ §7(r1) §7Воздух Защита
+§7(.*) §7Water Defence@§7(r1) §7Вода Защита
+§7(.*) §7Earth Defence@§7(r1) §7Земля Защита
+§7(.*) §7Fire Defence@§7(r1) §7Огонь Защита
+§7(.*) §7Stealing@§7(r1) §7Воровство
+§2Players: §a(.*)@§2Игроков: §a(r1)
+§(2|6|4)Lag: §(a|e|c)(\d+)%@§(2|6|4)Лаги: §(a|e|c)(r1)%
 §2§m----§2\[ §a(.*)²§2 \]§m----@ 
 §6 - (§a✔|§c✖) §f(.*)§7²@ 
-(§a✔|§c✖)§7 Combat Lv. Min: (.*)@ 
-(§a✔|§c✖)§7 Quest Req: (.*)@ 
-(§a✔|§c✖)§7 Intelligence Min: (.*)@ 
-(§a✔|§c✖)§7 Agility Min: (.*)@ 
-(§a✔|§c✖)§7 Strength Min: (.*)@ 
-(§a✔|§c✖)§7 Defence Min: (.*)@ 
-(§a✔|§c✖)§7 Dexterity Min: (.*)@ 
-§4❤ Health: (.*)@ 
-§2✤ Earth§7 Defence: (.*)@ 
-§b❉ Water§7 Defence: (.*)@ 
-§f❋ Air§7 Defence: (.*)@ 
-§e✦ Thunder§7 Defence: (.*)@ 
-§c✹ Fire§7 Defence: (.*)@ 
+(§a✔|§c✖)§7 Combat Lv. Min: (.*)@(§a✔|§c✖)§7 Комбат Ур. Мин: (r1)
+(§a✔|§c✖)§7 Quest Req: (.*)@(§a✔|§c✖)§7 Квест Необ.: (r1)
+(§a✔|§c✖)§7 Intelligence Min: (.*)@(§a✔|§c✖)§7 Интеллект Мин: (r1)
+(§a✔|§c✖)§7 Agility Min: (.*)@(§a✔|§c✖)§7 Ловкость Мин: (r1)
+(§a✔|§c✖)§7 Strength Min: (.*)@(§a✔|§c✖)§7 Сила Мин: (r1)
+(§a✔|§c✖)§7 Defence Min: (.*)@(§a✔|§c✖)§7 Защита Мин: (r1)
+(§a✔|§c✖)§7 Dexterity Min: (.*)@(§a✔|§c✖)§7 Точность Мин: (r1)
+§4❤ Health: (.*)@§4❤ Здоровья: (r1)
+§2✤ Earth§7 Defence: (.*)@§2✤ Земля§7 Защита: (r1)
+§b❉ Water§7 Defence: (.*)@§b❉ Вода§7 Защита: (r1)
+§f❋ Air§7 Defence: (.*)@§f❋ Воздух§7 Защита: (r1)
+§e✦ Thunder§7 Defence: (.*)@§e✦ Гром§7 Защита: (r1)
+§c✹ Fire§7 Defence: (.*)@§c✹ Огонь§7 Защита: (r1)
 §6 - §f(.*)§7(.*) §8(.*)@ 
-§7\[(\d+)\/(\d+)\] Powder Slots@ 
+§7\[(\d+)\/(\d+)\] Powder Slots@§7[(r1)/(r2)] Порошок Слотов
 (§a✔|§c✖)§7 Crafting Lv. Min: (.*)@ 
 §bXp: (.*)@ 
 §5- §7Territorial: §f(.*)§7 \[(.*)\]@ 
