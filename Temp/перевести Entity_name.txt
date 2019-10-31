@@ -1748,56 +1748,56 @@ Level §c70-80@Уровень §c70-80
 §aJungle Native§6 [Lv. 50]@§aАбориген Джунглей§6 [Ур. 50]
 §aTromsi Macaw§6 [Lv. 50]@§aТромс Попугай§6 [Ур. 50]
 §aEngraved Keystone§6 [Lv. 60]@§aГравированный Замок§6 [Ур. 60]
-§aMercenary§6 [Lv. 67]@
-§aLegend Keeper§6 [Lv. 5]@
-§aVillager§6 [Lv. 5]@
-§aTromsian Lumber Llama§6 [Lv. 55]@
-§aTroms Citizen§6 [Lv. 50]@
-§aTroms Citizen§6 [Lv. 55]@
-§aNoble§6 [Lv. 60]@
-§aThanos Dwarf§6 [Lv. 80]@
-§aThanos Repair Crew§6 [Lv. 80]@
-§aMajor§6 [Lv. 80]@
-§aSergeant§6 [Lv. 80]@
-§aPrivate§6 [Lv. 80]@
-§aLieutenant§6 [Lv. 80]@
-§aPrisoner§6 [Lv. 42]@
-§aSuspicious Crate§6 [Lv. 75]@
-§aWalking Mushroom§6 [Lv. 70]@
-§aVault Guard§6 [Lv. 75]@
-§aSelchar Citizen§6 [Lv. 25]@
-§aTimekeeper§6 [Lv. 25]@
-§aSelchar Fisher§6 [Lv. 25]@
-§aSelchar Bovemist§6 [Lv. 25]@
-§aMerchant Captain§6 [Lv. 5]@
-§aFlight Passenger§6 [Lv. 75]@
-§aFlight Officer§6 [Lv. 75]@
-§aSilver Miner§6 [Lv. 50]@
-§aBlack Road Miner§6 [Lv. 20]
-§aTernaves Citizen§6 [Lv. 15]
-§aTernaves Bovemist§6 [Lv. 15]
-§aTamed Horse§6 [Lv. 30]
-§aShadow Slingra§6 [Lv. 0]
-§aShadow Slykaar§6 [Lv. 0]
-§aTroms Soldier§6 [Lv. 55]
-§aTerrified Pig§6 [Lv. 70]
-§aWeary Farmer§6 [Lv. 50]
-§aOlux Citizen§6 [Lv. 50]
-§aRusted Guard Golem§6 [Lv. 55]
-§aSwamp Lumberjack§6 [Lv. 50]
-§aLexdale Citizen§6 [Lv. 70]
-§aStarving Dog§6 [Lv. 70]
-§aHopeless Citizen§6 [Lv. 70]
-§aGerten Hunter§6 [Lv. 78]
-§aGerten Excavator§6 [Lv. 77]
-§aCaptured Cow§6 [Lv. 1]
-§aGert§6 [Lv. 78]
-§aCaptured Pig§6 [Lv. 1]
-§aCorkus City Citizen§6 [Lv. 80]
-§aCorkus Delegate§6 [Lv. 80]
-§aCorkus Citizen§6 [Lv. 80]
-§aKidnapped Princess§6 [Lv. 75]
-§aOrc Barbarian§6 [Lv. 60]
+§aMercenary§6 [Lv. 67]@§aНаемник§6 [Ур. 67]
+§aLegend Keeper§6 [Lv. 5]@§aХранитель Легенд§6 [Ур. 5]
+§aVillager§6 [Lv. 5]@§aЖитель§6 [Ур. 5]
+§aTromsian Lumber Llama§6 [Lv. 55]@§aЛесная Тромс Лама§6 [Ур. 55]
+§aTroms Citizen§6 [Lv. 50]@§aТромс Житель§6 [Ур. 50]
+§aTroms Citizen§6 [Lv. 55]@§aТромс Житель§6 [Ур. 55]
+§aNoble§6 [Lv. 60]@§aДворянин§6 [Ур. 60]
+§aThanos Dwarf§6 [Lv. 80]@§aТанос Гном§6 [Ур. 80]
+§aThanos Repair Crew§6 [Lv. 80]@§aРемонтник Таноса§6 [Ур. 80]
+§aMajor§6 [Lv. 80]@§aМайор§6 [Ур. 80]
+§aSergeant§6 [Lv. 80]@§aСержант§6 [Ур. 80]
+§aPrivate§6 [Lv. 80]@§aРядовой§6 [Ур. 80]
+§aLieutenant§6 [Lv. 80]@§aЛейтенант§6 [Ур. 80]
+§aPrisoner§6 [Lv. 42]@§aЗаключенный§6 [Ур. 42]
+§aSuspicious Crate§6 [Lv. 75]@§aПодозрительный Контейнер§6 [Ур. 75]
+§aWalking Mushroom§6 [Lv. 70]@§aХодячий Гриб§6 [Ур. 70]
+§aVault Guard§6 [Lv. 75]@§aСтраж Хранилища§6 [Ур. 75]
+§aSelchar Citizen§6 [Lv. 25]@§aСельчар Житель§6 [Ур. 25]
+§aTimekeeper§6 [Lv. 25]@§aХронометрист§6 [Ур. 25]
+§aSelchar Fisher§6 [Lv. 25]@§aСельчар Рыбак§6 [Ур. 25]
+§aSelchar Bovemist§6 [Lv. 25]@§aСельчар Бовемист§6 [Ур. 25]
+§aMerchant Captain§6 [Lv. 5]@§aКапитан Торговец§6 [Ур. 5]
+§aFlight Passenger§6 [Lv. 75]@§aЛетящий Пассажир§6 [Ур. 75]
+§aFlight Officer§6 [Lv. 75]@§aЛетящий Офицер§6 [Ур. 75]
+§aSilver Miner§6 [Lv. 50]@§aСеребрянный Шахтер§6 [Ур. 50]
+§aBlack Road Miner§6 [Lv. 20]@§aШахтер Черной Дороги§6 [Ур. 20]
+§aTernaves Citizen§6 [Lv. 15]@§aТернейвс Житель§6 [Ур. 15]
+§aTernaves Bovemist§6 [Lv. 15]@§aТернейвс Бовемист§6 [Ур. 15]
+§aTamed Horse§6 [Lv. 30]@§aПрирученная Лошадь§6 [Ур. 30]
+§aShadow Slingra§6 [Lv. 0]@§aТемная Слингра§6 [Ур. 0]
+§aShadow Slykaar§6 [Lv. 0]@§aТемный Слайкаар§6 [Ур. 0]
+§aTroms Soldier§6 [Lv. 55]@§aТромс Солдат§6 [Ур. 55]
+§aTerrified Pig§6 [Lv. 70]@§aИспуганная Свинья§6 [Ур. 70]
+§aWeary Farmer§6 [Lv. 50]@§aУсталый Фермер§6 [Ур. 50]
+§aOlux Citizen§6 [Lv. 50]@§aОлукс Житель§6 [Ур. 50]
+§aRusted Guard Golem§6 [Lv. 55]@§aРжавый Голем Страж§6 [Ур. 55]
+§aSwamp Lumberjack§6 [Lv. 50]@§aБолотный Лесоруб§6 [Ур. 50]
+§aLexdale Citizen§6 [Lv. 70]@§aЛексдейл Житель§6 [Ур. 70]
+§aStarving Dog§6 [Lv. 70]@§aГолодная Собака§6 [Ур. 70]
+§aHopeless Citizen§6 [Lv. 70]@§aБезнадежный Житель§6 [Ур. 70]
+§aGerten Hunter§6 [Lv. 78]@§aГерт Охотник§6 [Ур. 78]
+§aGerten Excavator§6 [Lv. 77]@§aГерт Раскопщик§6 [Ур. 77]
+§aCaptured Cow§6 [Lv. 1]@§aЗахваченная Корова§6 [Ур. 1]
+§aGert§6 [Lv. 78]@§aГерт§6 [Ур. 78]
+§aCaptured Pig§6 [Lv. 1]@§aЗахваченная Свинья§6 [Ур. 1]
+§aCorkus City Citizen§6 [Lv. 80]@§aКоркус Сити Житель§6 [Ур. 80]
+§aCorkus Delegate§6 [Lv. 80]@§aКоркус Делегат§6 [Ур. 80]
+§aCorkus Citizen§6 [Lv. 80]@§aКоркус Житель§6 [Ур. 80]
+§aKidnapped Princess§6 [Lv. 75]@§aПохищенная Принцесса§6 [Ур. 75]
+§aOrc Barbarian§6 [Lv. 60]@§aОрк Варвар§6 [Ур. 60]
 §aOrc Brawler§6 [Lv. 60]
 §aOrc Shaman§6 [Lv. 62]
 §aOrc Guard§6 [Lv. 64]
