@@ -6,63 +6,63 @@
 
 
 
-§7\[§(.*)Weak §(.*)Dam §(.*)Def§7\]@ 
-§7\[§(.*)Weak §(.*)Dam(| )§7\]@ 
-§7\[§(.*)Weak §(.*)Def§7\]@ 
-§7\[§(.*)Dam §(.*)Def§7\]@ 
-§7\[§(.*)Weak(| )§7\]@ 
-§7\[§(.*)Def(| )§7\]@ 
-§7\[§(.*)Dam(| )§7\]@ 
-§dx2 §7\[§f\+§d(\d+)§f Guild XP§7\]@ 
-§dx2(.0|) §7\[\+§d(\d+)§f Ⓙ§7 Farming§7 XP\] §6\[(\d+)%\]@ 
-§dx2(.0|) §7\[\+§d(\d+)§f Ⓚ§7 Fishing§7 XP\] §6\[(\d+)%\]@ 
-§dx2(.0|) §7\[\+§d(\d+)§f Ⓑ§7 Mining§7 XP\] §6\[(\d+)%\]@ 
-§dx2(.0|) §7\[\+§d(\d+)§f Ⓒ§7 Woodcutting§7 XP\] §6\[(\d+)%\]@ 
-§7Controlled by §b§l(.*)§7 \[Lv. (\d+)\]@ 
-§f§l(.*)'s§6§l Mob Totem@ 
-§bFree Entry from §3(.*)@ 
-§2Floormaster \[Floor (\d+), Level (\d+)\]@ 
-Level §a(\d+)§7/§210@ 
-(.*)§7 \[Disguised\]@ 
-§7(.*)'s White Wybel@ 
-§7(.*)'s Violet Wybel@ 
-§7(.*)'s Chocolate Wybel@ 
-§7(.*)'s Gray Wybel@ 
-§7(.*)'s Cream Wybel@ 
-§7(.*)'s Mint Wybel@ 
-§7(.*)'s Sky Blue Wybel@ 
-§7(.*)'s Pink Wybel@ 
-§7(.*)'s Sea Blue Wybel@ 
-§7(.*)'s Orange Wybel@ 
-§7(.*)'s Angel Wybel@ 
-§7(.*)'s Dragon Wybel@ 
-§7(.*)'s Carbon Fiber Cybel@ 
-§7(.*)'s Bronze Cybel@ 
-§7(.*)'s Orange Cybel@ 
-§7(.*)'s Chrome Cybel@ 
-§7(.*)'s Creeper@ 
-§7(.*)'s Baby Penguin@ 
-§7(.*)'s Rat@ 
-§7(.*)'s Snowman@ 
-§7(.*)'s Silverfish@ 
-§7(.*)'s Rolling Potato@ 
-§7(.*)'s Water Dragonling@ 
-§7(.*)'s Fire Dragonling@ 
-§7(.*)'s Spider@ 
-§7(.*)'s Sheep@ 
-§7(.*)'s Villager@ 
-§7(.*)'s Wasp@ 
-§7(.*)'s Pig@ 
-§7(.*)'s Singing Tiger@ 
-§7(.*)'s Grumpy Old Man@ 
-§7(.*)'s Playful Bear@ 
-(§4\[.*\|§4\])@ 
-(§(e|2|f|c|b)-\d+.*)@ 
-(§dx2 |)§7\[§f\+(§f|§d)(\d+)§f Combat XP§7\]@ 
+§7\[§(.*)Weak §(.*)Dam §(.*)Def§7\]@§7[§(r1)Слаб §(r2)Урон §(r3)Защ§7]
+§7\[§(.*)Weak §(.*)Dam(| )§7\]@§7[§(r1)Слаб §(r2)Урон(| )§7]
+§7\[§(.*)Weak §(.*)Def§7\]@§7[§(r1)Слаб §(r2)Защ§7]
+§7\[§(.*)Dam §(.*)Def§7\]@§7[§(r1)Урон §(r2)Защ§7]
+§7\[§(.*)Weak(| )§7\]@§7[§(r1)Слаб(| )§7]
+§7\[§(.*)Def(| )§7\]@§7[§(r1)Защ(| )§7]
+§7\[§(.*)Dam(| )§7\]@§7[§(r1)Урон(| )§7]
+§dx2 §7\[§f\+§d(\d+)§f Guild XP§7\]@§dx2 §7[§f+§d(r1)§f Гильдия XP§7]
+§dx2(.0|) §7\[\+§d(\d+)§f Ⓙ§7 Farming§7 XP\] §6\[(\d+)%\]@§dx2(.0|) §7[+§d(r1)§f Ⓙ§7 Земледелие§7 XP] §6[(r2)%]
+§dx2(.0|) §7\[\+§d(\d+)§f Ⓚ§7 Fishing§7 XP\] §6\[(\d+)%\]@§dx2(.0|) §7[+§d(r1)§f Ⓚ§7 Рыбалка§7 XP] §6[(r2)%]
+§dx2(.0|) §7\[\+§d(\d+)§f Ⓑ§7 Mining§7 XP\] §6\[(\d+)%\]@§dx2(.0|) §7[+§d(r1)§f Ⓑ§7 Добыча Руды§7 XP] §6[(r2)%]
+§dx2(.0|) §7\[\+§d(\d+)§f Ⓒ§7 Woodcutting§7 XP\] §6\[(\d+)%\]@§dx2(.0|) §7[+§d(r1)§f Ⓒ§7 Лесорубство§7 XP] §6[(r2)%]
+(§dx2 |)§7\[§f\+(§f|§d)(\d+)§f Combat XP§7\]@(§dx2 |)§7[§f+(§f|§d)(r1)§f Комбат XP§7]
 §7\[§f\+§f(\d+)§f Guild XP§7\]@ 
 §7\[\+(\d+)§f Ⓒ§7 Woodcutting§7 XP\] §6\[(.*)%\]@ 
 §7\[\+(\d+)§f Ⓙ§7 Farming§7 XP\] §6\[(.*)%\]@ 
 §7\[\+(\d+)§f Ⓑ§7 Mining§7 XP\] §6\[(.*)%\]@ 
 §7\[\+(\d+)§f Ⓚ§7 Fishing§7 XP\] §6\[(.*)\]@ 
-§f(.*)§7's horse@ 
-(§a✔|§c✖)§f (.*) Lv. Min: §f(\d+)@ 
+§7Controlled by §b§l(.*)§7 \[Lv. (\d+)\]@§7Под контролем §b§l(r1)§7 [Ур. (r2)]
+§f§l(.*)'s§6§l Mob Totem@§f§l(r1)§6§l Моб Тотем
+§bFree Entry from §3(.*)@§bБесплатный Вход от §3(r1)
+§2Floormaster \[Floor (\d+), Level (\d+)\]@§2Мастер Этажа [Этаж (r1), Уровень (r2)]
+Level §a(\d+)§7/§210@Уровень §a(r1)§7/§210
+(.*)§7 \[Disguised\]@(r1)§7 [Замаскирован]
+§7(.*)'s White Wybel@§7(r1) Белый Вубел
+§7(.*)'s Violet Wybel@§7(r1) Фиолетовый Вубел
+§7(.*)'s Chocolate Wybel@§7(r1) Шоколадный Вубел
+§7(.*)'s Gray Wybel@§7(r1) Серый Вубел
+§7(.*)'s Cream Wybel@§7(r1) Кремовый Вубел
+§7(.*)'s Mint Wybel@§7(r1) Мятный Вубел
+§7(.*)'s Sky Blue Wybel@§7(r1) Голубой Вубел
+§7(.*)'s Pink Wybel@§7(r1) Розовый Вубел
+§7(.*)'s Sea Blue Wybel@§7(r1) Морской Вубел
+§7(.*)'s Orange Wybel@§7(r1) Оранжевый Вубел
+§7(.*)'s Angel Wybel@§7(r1) Ангел Вубел
+§7(.*)'s Dragon Wybel@§7(r1) Дракон Вубел
+§7(.*)'s Carbon Fiber Cybel@§7(r1) Карбоновый Кубел
+§7(.*)'s Bronze Cybel@§7(r1) Бронзовый Кубел
+§7(.*)'s Orange Cybel@§7(r1) Оранжевый Кубел
+§7(.*)'s Chrome Cybel@§7(r1) Хромовый Кубел
+§7(.*)'s Creeper@§7(r1) Крипер
+§7(.*)'s Baby Penguin@§7(r1) Пингвин
+§7(.*)'s Rat@§7(r1) Крыса
+§7(.*)'s Snowman@§7(r1) Снеговик
+§7(.*)'s Silverfish@§7(r1) Чешуйница
+§7(.*)'s Rolling Potato@§7(r1) Крутящаяся Картошка
+§7(.*)'s Water Dragonling@§7(r1) Водный Драгонлинг
+§7(.*)'s Fire Dragonling@§7(r1) Огненный Драгонлинг
+§7(.*)'s Spider@§7(r1) Паук
+§7(.*)'s Sheep@§7(r1) Овца
+§7(.*)'s Villager@§7(r1) Житель
+§7(.*)'s Wasp@§7(r1) Оса
+§7(.*)'s Pig@§7(r1) Свинья
+§7(.*)'s Singing Tiger@§7(r1) Поющий Тигр
+§7(.*)'s Grumpy Old Man@§7(r1) Старик
+§7(.*)'s Playful Bear@§7(r1) Игривый Медведь
+(§4\[.*\|§4\])@ 
+(§(e|2|f|c|b)-\d+.*)@ 
+§f(.*)§7's horse@§f(r1)§7 лошадь
+(§a✔|§c✖)§f (.*) Lv. Min: §f(\d+)@(§a✔|§c✖)§f (r1) Ур. Мин: §f(r2)
