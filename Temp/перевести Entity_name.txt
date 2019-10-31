@@ -1723,56 +1723,56 @@ Level §c70-80@Уровень §c70-80
 §aVillager§6 [Lv. 70]@§aЖитель§6 [Ур. 70]
 §aServant§6 [Lv. 70]@§aСлуга§6 [Ур. 70]
 §aSheep§6 [Lv. 1]@§aОвечка§6 [Ур. 1]
-§aFree Cow §6[Lv. 1]
-§aSuburbs Farmer§6 [Lv. 10]
-§aDetlas Citizen§6 [Lv. 10]
-§aGrook§6 [Lv. 7]
-§aPrivate Pilot§6 [Lv. 10]
-§aReceptionist§6 [Lv. 75]
-§aPack Mule§6 [Lv. 13]
-§aTravelling Merchant§6 [Lv. 10]
-§aSeagull§6 [Lv. 50]
-§aVolcano Explorer§6 [Lv. 5]
-§aSeaskipper Captain§6 [Lv. 1]
-§aNemract Citizen§6 [Lv. 20]
-§aSpeedy Scarab§6 [Lv. 35]
-§aGardener§6 [Lv. 40]
-§aLlevigar Citizen§6 [Lv. 40]
-§aCinfras Tourist§6 [Lv. 70]
-§aEmerald Trader§6 [Lv. 40]
-§aGavel Sailor§6 [Lv. 40]
-§aNesaak Builder§6 [Lv. 45]
-§aNesaak Citizen§6 [Lv. 45]
-§aLusuco Citizen§6 [Lv. 45]
-§aExcavator§6 [Lv. 40]
-§aJungle Native§6 [Lv. 50]
-§aTromsi Macaw§6 [Lv. 50]
-§aEngraved Keystone§6 [Lv. 60]
-§aMercenary§6 [Lv. 67]
-§aLegend Keeper§6 [Lv. 5]
-§aVillager§6 [Lv. 5]
-§aTromsian Lumber Llama§6 [Lv. 55]
-§aTroms Citizen§6 [Lv. 50]
-§aTroms Citizen§6 [Lv. 55]
-§aNoble§6 [Lv. 60]
-§aThanos Dwarf§6 [Lv. 80]
-§aThanos Repair Crew§6 [Lv. 80]
-§aMajor§6 [Lv. 80]
-§aSergeant§6 [Lv. 80]
-§aPrivate§6 [Lv. 80]
-§aLieutenant§6 [Lv. 80]
-§aPrisoner§6 [Lv. 42]
-§aSuspicious Crate§6 [Lv. 75]
-§aWalking Mushroom§6 [Lv. 70]
-§aVault Guard§6 [Lv. 75]
-§aSelchar Citizen§6 [Lv. 25]
-§aTimekeeper§6 [Lv. 25]
-§aSelchar Fisher§6 [Lv. 25]
-§aSelchar Bovemist§6 [Lv. 25]
-§aMerchant Captain§6 [Lv. 5]
-§aFlight Passenger§6 [Lv. 75]
-§aFlight Officer§6 [Lv. 75]
-§aSilver Miner§6 [Lv. 50]
+§aFree Cow §6[Lv. 1]@§aСвободная Корова §6[Ур. 1]
+§aSuburbs Farmer§6 [Lv. 10]@§aПригородный Фермер§6 [Ур. 10]
+§aDetlas Citizen§6 [Lv. 10]@§aДетлас Житель§6 [Ур. 10]
+§aGrook§6 [Lv. 7]@§aГрук§6 [Ур. 7]
+§aPrivate Pilot§6 [Lv. 10]@§aЧастный Пилот§6 [Ур. 10]
+§aReceptionist§6 [Lv. 75]@§aСекретарь§6 [Ур. 75]
+§aPack Mule§6 [Lv. 13]@§aВьючный Мул§6 [Ур. 13]
+§aTravelling Merchant§6 [Lv. 10]@§aСтранствующий Торговец§6 [Ур. 10]
+§aSeagull§6 [Lv. 50]@§aЧайка§6 [Ур. 50]
+§aVolcano Explorer§6 [Lv. 5]@§aИсследователь Вулкана§6 [Ур. 5]
+§aSeaskipper Captain§6 [Lv. 1]@§aКорабельщик§6 [Ур. 1]
+§aNemract Citizen§6 [Lv. 20]@§aНемракт Житель§6 [Ур. 20]
+§aSpeedy Scarab§6 [Lv. 35]@§aБыстрый Скарабей§6 [Ур. 35]
+§aGardener§6 [Lv. 40]@§aСадовник§6 [Ур. 40]
+§aLlevigar Citizen§6 [Lv. 40]@§aЛлевигар Житель§6 [Ур. 40]
+§aCinfras Tourist§6 [Lv. 70]@§aЦинфрас Турист§6 [Ур. 70]
+§aEmerald Trader§6 [Lv. 40]@§aЭмеральд Купец§6 [Ур. 40]
+§aGavel Sailor§6 [Lv. 40]@§aГавел Моряк§6 [Ур. 40]
+§aNesaak Builder§6 [Lv. 45]@§aНесаак Строитель§6 [Ур. 45]
+§aNesaak Citizen§6 [Lv. 45]@§aНесаак Житель§6 [Ур. 45]
+§aLusuco Citizen§6 [Lv. 45]@§aЛусуко Житель§6 [Ур. 45]
+§aExcavator§6 [Lv. 40]@§aРаскопщик§6 [Ур. 40]
+§aJungle Native§6 [Lv. 50]@§aАбориген Джунглей§6 [Ур. 50]
+§aTromsi Macaw§6 [Lv. 50]@§aТромс Попугай§6 [Ур. 50]
+§aEngraved Keystone§6 [Lv. 60]@§aГравированный Замок§6 [Ур. 60]
+§aMercenary§6 [Lv. 67]@
+§aLegend Keeper§6 [Lv. 5]@
+§aVillager§6 [Lv. 5]@
+§aTromsian Lumber Llama§6 [Lv. 55]@
+§aTroms Citizen§6 [Lv. 50]@
+§aTroms Citizen§6 [Lv. 55]@
+§aNoble§6 [Lv. 60]@
+§aThanos Dwarf§6 [Lv. 80]@
+§aThanos Repair Crew§6 [Lv. 80]@
+§aMajor§6 [Lv. 80]@
+§aSergeant§6 [Lv. 80]@
+§aPrivate§6 [Lv. 80]@
+§aLieutenant§6 [Lv. 80]@
+§aPrisoner§6 [Lv. 42]@
+§aSuspicious Crate§6 [Lv. 75]@
+§aWalking Mushroom§6 [Lv. 70]@
+§aVault Guard§6 [Lv. 75]@
+§aSelchar Citizen§6 [Lv. 25]@
+§aTimekeeper§6 [Lv. 25]@
+§aSelchar Fisher§6 [Lv. 25]@
+§aSelchar Bovemist§6 [Lv. 25]@
+§aMerchant Captain§6 [Lv. 5]@
+§aFlight Passenger§6 [Lv. 75]@
+§aFlight Officer§6 [Lv. 75]@
+§aSilver Miner§6 [Lv. 50]@
 §aBlack Road Miner§6 [Lv. 20]
 §aTernaves Citizen§6 [Lv. 15]
 §aTernaves Bovemist§6 [Lv. 15]
