@@ -932,6 +932,8 @@
 §aPotion of §f❋ Agility§a [1/2]@§aЗелье §f❋ Ловкости§a [1/2]
 §aPotion of §f❋ Agility§a [2/2]À@§aЗелье §f❋ Ловкости§a [2/2]
 §aPotion of §f❋ Agility§a [1/2]À@§aЗелье §f❋ Ловкости§a [1/2]
+§6Potion of Wisdom@§6Зелье Мудрости
+§6Potion of WisdomÀ@§6Зелье Мудрости
 
 #################Порошки############################
 §e✦ Thunder Powder I@§e✦ Порошок Грома I
@@ -1585,6 +1587,64 @@ Skyhigh Raspberry@Высокорастущая Малина
 Skyhigh Pie@Заоблачный Пирог
 §fRoyal Bug Blood@§fКровь Королевских Жуков
 §fFactory Helmet@§fФабричный Шлем
+§fCreeper Powder@§fПорошок Крипера
+Warm Blood@Теплая Кровь
+Umbral Essence@Мрачная Эссенция
+Monster Hide@Шкура Монстра
+§dTroms Kid BadgeÀ@§dДетский Значок Тромса
+§fMolten Core@§fРасплавленное Ядро
+§fRickeo's Flame@§fОгонь Рикео
+§7Ghostly Seeds@§7Призрачные Семена
+§7Ghostly Ingredient@§7Призрачный Ингредиент
+§7Ghostly Quill@§7Призрачное Перо
+§fCorruption Relic Shard@§fИспорченный Осколок Кристалла
+Jungle Jet Shard@Джунглевый Осколок Янтаря
+Quarry's Old Clock@Старые Карьерные Часы
+Lexdale's Shattered Clock@Разрушенные Часы Лексдейла
+A Hobbit's Cracked Clock@Треснувшие Часы Хоббита
+Olux's Dusty Clock@Пыльные Часы Олукса
+§7Molten Sludge@§7Расплавленный Осадок
+§7Ogre Hide@§7Шкура Огра
+§7Golden Teeth@§7Золотой Зуб
+§7Troll Hide@§7Шкура Тролля
+§7Nether Dust@§7Адская Пыль
+§7Eternal Fire@§7Вечный Огонь
+§7Goblin Teeth@§7Зуб Гоблина
+§7Pirates' Cutlass@§7Пиратский Кортик
+Corrupted Remains@Испорченные Останки
+§7Tortured Soul@§7Измученная Душа
+§7Rock@§7Камень
+§cTNT@§7Динамит
+§7Rubble@§7Щебень
+§7Wooden Eye@§7Деревянный Глаз
+§7Warm Cinders@§7Теплый Пепел
+§7Rock Dust@§7Каменная Пыль
+§7Tanned Sunfish@§7Загорелая солнечная рыба
+§7Half-Eaten Skin@§7Наполовину Съеденная Кожа
+§7Vines@§7Лианы
+§aZhight Gold@§7Жигт Золото
+Metal Scrap@Металлический Скрап
+Rock Pile@Куча Камней
+§fSlykaar's Incantation@§fЗаклинание Слайкаара
+§fCorrupted TreasureÀ@§fИспорченное Сокровище
+§fSaccharum@§fСахар
+§fAnti-Ice TNT@§fПротиволедный Динамит
+§fBottle of Whiskey@§fБутылка Виски
+§fBottled Fresh Water@§fБутылка Свежей Воды
+Mauvelli Mushroom@Гриб Маувелли
+Bluecap Mushrooms@Гриб с Синей Шляпкой
+§fDwarven Cannon Ball@§fСнаряд Гномов
+§fDemonic Bacteria@§fДемоническая Бактерия
+§fEssren's Dusty Coat@§fПыльное Пальто Эссрена
+Prison Key@Тюремный Ключ
+Blackmail Journal@Журнал Шантажа
+Hay Sickle@Серп для Сена
+Howler Bait@Наживка для Howler'а 
+Corrupt Pendant@Испорченный Кулон
+Shadow Pendant@Темный Кулон
+Amadel's Pendant@Кулон Амаделя
+§fInsect of Corruption@§fИспорченное Насекомое
+§fOdd Smelling Crate@§fСтранно Пахнущий Контейнер
 
 ##########################Контейнеры##########################
 §e§lLoot Crate §6[Tier I]@§e§lЛут Контейнер §6[Уровень I]
@@ -1795,6 +1855,8 @@ Crafted BootsÀ@Крафтовые Ботинки
 Crafted Pants@Крафтовые Штаны
 Crafted Helmet@Крафтовый Шлем
 Crafted Boots@Крафтовые Ботинки
+Crafted Chestplate@Крафтовый Нагрудник
+Crafted ChestplateÀ@Крафтовый Нагрудник
 §3Repair ScrapÀ@§3Скрап для Починки
 §3Repair Scrap@§3Скрап для Починки
 Sunken Block of Gold@Затонувший Блок Золота
@@ -1829,3 +1891,33 @@ Book Binder@Переплет Книги
 Bunch O' Books@Множество Книг
 Mountain O' Books@Гора Книг
 §fLactic Acid Bacteria@§fМолочнокислая Бактерия
+
+###########################Открытия###########################
+§b§lRagni's Secret LibraryÀ@§b§lСекретная Библиотека Рагни
+§b§lA Hero's OriginÀ@§b§lПроисхождение Героя
+§b§lWatchmenÀ@§b§lХранители
+§b§lBak'al's Destruction 2À@§b§lРазрушения Бак'ала 2
+§b§lBak'al's Destruction 3À@§b§lРазрушения Бак'ала 3
+§b§lBeneath the RootsÀ@§b§lПод Корнями
+§b§lBoulder PitÀ@§b§lБулыжниковая Яма
+§b§lTemple RuinÀ@§b§lРуины Храма
+§b§lHistorical MalticÀ@§b§lИсторический Малтик
+§b§lCrate CraneÀ@§b§lКран Контейнер
+§b§lMining OperationÀ@§b§lГорные Работы
+§b§lTotem PoleÀ@§b§lТотемный Столб
+§b§lQuicksandÀ@§b§lЗыбучий Песок
+§b§lTemple of SwordsÀ@§b§lХрам Мечей
+§b§lDesert Royal ResidenceÀ@§b§lКоролевская Пустынная Резиденция
+§b§lWrecking BallÀ@§b§lРазрушительный Шар
+§b§lRymek ThiefÀ@§b§lРимек Вор
+§b§lRuins of DetlasÀ@§b§lРуины Детласа
+§b§lBoulder BreakerÀ@§b§lВалун Разрушитель
+§b§lTimeless RuinÀ@§b§lВечные Руины
+§b§lLusuco's Secret LibraryÀ@§b§lСекретная Библиотека Лусуко
+§b§lWater of the PastÀ@§b§lВода Прошлого
+§b§lBak'al's Destruction 1À@§b§lРазрушения Бак'ала 1
+§b§lSomewhere In BetweenÀ@§b§lГде-то Между
+§b§lWynn Plains MonumentÀ@§b§lМонумент Wynn Равнин
+§b§lRelos's Secret LibraryÀ@§b§lСекретная Библиотека Релос
+§b§lLost Avos CityÀ@§b§lПотерянный Авос Город
+§b§lNecklace ChamberÀ@§b§lКамера Амулета
