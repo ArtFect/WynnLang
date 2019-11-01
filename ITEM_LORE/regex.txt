@@ -59,59 +59,58 @@
 §c✹ Fire§7 Defence: (.*)@§c✹ Огонь§7 Защита: (r1)
 §6 - §f(.*)§7(.*) §8(.*)@ 
 §7\[(\d+)\/(\d+)\] Powder Slots@§7[(r1)/(r2)] Порошок Слотов
-(§a✔|§c✖)§7 Crafting Lv. Min: (.*)@ 
+(§a✔|§c✖)§7 Crafting Lv. Min: (.*)@(§a✔|§c✖)§7 Крафтинг Ур. Мин: (r1)
 §bXp: (.*)@ 
-§5- §7Territorial: §f(.*)§7 \[(.*)\]@ 
-§6Total Discoveries: §e\[(.*)\]@ 
-§bTotal Quests: §3\[(.*)\]@ 
-§6✣ Neutral Damage: (.*)@ 
-§e✦ Thunder§7 Damage: (.*)@ 
-§2✤ Earth§7 Damage: (.*)@ 
-§c✹ Fire§7 Damage: (.*)@ 
-§f❋ Air§7 Damage: (.*)@ 
-§b❉ Water§7 Damage: (.*)@ 
-§5Quests: §d(.*)§5 \[(.*)\]@ 
-§5- §6World: §e(.*)§6 \[(.*)\]@ 
-§5- §3Secret: §b(.*)§3 \[(.*)\]@ 
-§6Speed: (.*)@ 
-§6Jump: (.*)@ 
-§3Crafted (.*)§8 \[(.*) Durability\]@ 
-§7Potential Price: §a(\d+)§f-§a(\d+)§2²@ 
-§b- §c❤ Health: §f(\d+)\/(\d+)@ 
-§d- §7Health Regen: §f(.*)@ 
-§d- §7Mana Regen: §f(.*)@ 
-§d- §7Melee Damage: §f(.*)@ 
-§d- §7Life Steal: §f(.*)@ 
-§d- §7XP Bonus: §f(.*)@ 
-§d- §7Loot Bonus: §f(.*)@ 
-§d- §7Reflection: §f(.*)@ 
-§d- §7Thorns: §f(.*)@ 
-§d- §7Exploding: §f(.*)@ 
-§d- §7Walk Speed: §f(.*)@ 
-§d- §7Health: §f(.*)@ 
-§d- §7Soul Point Regen: §f(.*)@ 
-§d- §7Strength: §f(.*)@ 
-§d- §7Dexterity: §f(.*)@ 
-§d- §7Intelligence: §f(.*)@ 
-§d- §7Agility: §f(.*)@ 
-§d- §7Defence: §f(.*)@ 
-§d- §7Spell Damage: §f(.*)@ 
-§d- §7Fire Damage: §f(.*)@ 
-§d- §7Water Damage: §f(.*)@ 
-§d- §7Air Damage: §f(.*)@ 
-§d- §7Thunder Damage: §f(.*)@ 
-§d- §7Earth Damage: §f(.*)@ 
-§d- §7Fire Defence: §f(.*)@ 
-§d- §7Water Defence: §f(.*)@ 
-§d- §7Air Defence: §f(.*)@ 
-§d- §7Thunder Defence: §f(.*)@ 
-§d- §7Earth Defence: §f(.*)@ 
-§e- §7Level: §f(.*)@ 
+§5- §7Territorial: §f(.*)§7 \[(.*)\]@§5- §7Территориальных: §f(r1)§7 [(r2)]
+§6Total Discoveries: §e\[(.*)\]@§6Всего Открытий: §e[(r1)]
+§bTotal Quests: §3\[(.*)\]@§bВсего Квестов: §3[(r1)]
+§6✣ Neutral Damage: (.*)@§6✣ Нейтральный Урон: (r1)
+§e✦ Thunder§7 Damage: (.*)@§e✦ Гром§7 Урон: (r1)
+§2✤ Earth§7 Damage: (.*)@§2✤ Земля§7 Урон: (r1)
+§c✹ Fire§7 Damage: (.*)@§c✹ Огонь§7 Урон: (r1)
+§f❋ Air§7 Damage: (.*)@§f❋ Воздух§7 Урон: (r1)
+§b❉ Water§7 Damage: (.*)@§b❉ Вода§7 Урон: (r1)
+§5Quests: §d(.*)§5 \[(.*)\]@§5Квестов: §d(r1)§5 [(r2)]
+§5- §6World: §e(.*)§6 \[(.*)\]@§5- §6Мировых: §e(r1)§6 [(r2)]
+§5- §3Secret: §b(.*)§3 \[(.*)\]@§5- §3Секретных: §b(r1)§3 [(r2)]
+§6Speed: (.*)@§6Скорость: (r1)
+§6Jump: (.*)@§6Прыжок: (r1)
+§7Potential Price: §a(\d+)§f-§a(\d+)§2²@§7Возможная Цена: §a(r1)§f-§a(r2)§2²
+§b- §c❤ Health: §f(\d+)\/(\d+)@§b- §c❤ Здоровье: §f(r1)/(r2)
+§d- §7Health Regen: §f(.*)@§d- §7Реген Здоровья: §f(r1)
+§d- §7Mana Regen: §f(.*)@§d- §7Мана Реген: §f(r1)
+§d- §7Melee Damage: §f(.*)@§d- §7Ближний Урон: §f(r1)
+§d- §7Life Steal: §f(.*)@§d- §7Вампиризм: §f(r1)
+§d- §7XP Bonus: §f(.*)@§d- §7XP Бонус: §f(r1)
+§d- §7Loot Bonus: §f(.*)@§d- §7Лут Бонус: §f(r1)
+§d- §7Reflection: §f(.*)@§d- §7Отражение: §f(r1)
+§d- §7Thorns: §f(.*)@§d- §7Шипы: §f(r1)
+§d- §7Exploding: §f(.*)@§d- §7Взрыв: §f(r1)
+§d- §7Walk Speed: §f(.*)@§d- §7Скорость: §f(r1)
+§d- §7Health: §f(.*)@§d- §7Здоровье: §f(r1)
+§d- §7Soul Point Regen: §f(.*)@§d- §7Очки Душ Реген: §f(r1)
+§d- §7Strength: §f(.*)@§d- §7Сила: §f(r1)
+§d- §7Dexterity: §f(.*)@§d- §7Точность: §f(r1)
+§d- §7Intelligence: §f(.*)@§d- §7Интеллект: §f(r1)
+§d- §7Agility: §f(.*)@§d- §7Ловкость: §f(r1)
+§d- §7Defence: §f(.*)@§d- §7Защита: §f(r1)
+§d- §7Spell Damage: §f(.*)@§d- §7Урон Заклинаний: §f(r1)
+§d- §7Fire Damage: §f(.*)@§d- §7Огонь Урон: §f(r1)
+§d- §7Water Damage: §f(.*)@§d- §7Вода Урон: §f(r1)
+§d- §7Air Damage: §f(.*)@§d- §7Воздух Урон: §f(r1)
+§d- §7Thunder Damage: §f(.*)@§d- §7Гром Урон: §f(r1)
+§d- §7Earth Damage: §f(.*)@§d- §7Земля Урон: §f(r1)
+§d- §7Fire Defence: §f(.*)@§d- §7Огонь Защита: §f(r1)
+§d- §7Water Defence: §f(.*)@§d- §7Вода Защита: §f(r1)
+§d- §7Air Defence: §f(.*)@§d- §7Воздух Защита: §f(r1)
+§d- §7Thunder Defence: §f(.*)@§d- §7Гром Защита: §f(r1)
+§d- §7Earth Defence: §f(.*)@§d- §7Земля Защита: §f(r1)
+§e- §7Level: §f(.*)@§e- §7Уровень: §f(r1)
 §e- §7XP: §f(.*)@ 
-§e- §7Soul Points: §f(.*)@ 
-§e- §7Finished Quests: §f(.*)@ 
-§5\[RRR\] §dTeleport Spell: §f§f(\d+)-(\d+)@ 
-§5\[RLL\] §dMeteor Spell: §f§f(\d+)-(\d+)@ 
+§e- §7Soul Points: §f(.*)@§e- §7Очки Душ: §f(r1)
+§e- §7Finished Quests: §f(.*)@§e- §7Завершенных Квестов: §f(r1)
+§5\[RRR\] §dTeleport Spell: §f§f(\d+)-(\d+)@§5[ППП] §dТелепорт Заклинание: §f§f(r1)-(r2)
+§5\[RLL\] §dMeteor Spell: §f§f(\d+)-(\d+)@§5[ПЛЛ] §dМетеор Заклинание: §f§f(r1)-(r2)
 §5\[RRL\] §dIce Snake Spell: §f§f(\d+)-(\d+)@ 
 §5\[RLR\] §dBash Spell: §f§f(\d+)-(\d+)@ 
 §5\[RRR\] §dCharge Spell: §f§f(\d+)-(\d+)@ 
