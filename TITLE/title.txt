@@ -2,59 +2,60 @@
  @ 
 §c @ 
 §f @ 
-§7If these walls could talk...@ 
-§bServer restarting!@ 
-§6Area Discovered@ 
-§3Discovery Found:@ 
-§7See chat to claim your prize@ 
-§7Run to the end of the room!@ 
-§cRun!@ 
-§f §4Run!@ 
-§4RUN!@ 
-§cEscape!@ 
-§2You made it!@ 
-§aTNT successfully defused!@ 
-§4You didn't defuse the TNT in time! The bandits escaped!@ 
-§4You have died@ 
-§72 soul points have been lost@ 
-§6§lThank you!@ 
-§7Your purchase has been processed.@ 
-§7Click to stop the items@ 
-§cSlowing down...@ 
-§fCommon Tier@ 
-§6Epic Tier@ 
-§7Can you hear them whispering?@ 
-§cYou failed!@ 
-§aRight§7-§7§n?§7-§7?@ 
-§aLeft§7-§7§n?§7-§7?@ 
-§aLeft§7-§aLeft§7-§7§n?@ 
-§aLeft§7-§aLeft§7-§aLeft@ 
-§aLeft§7-§aRight§7-§7§n?@ 
-§aRight§7-§aLeft§7-§7§n?@ 
-§aLeft§7-§aRight§7-§aRight@ 
-§aL§7-§aL§7-§7§n?@ 
-§aL§7-§aL§7-§aL@ 
-§aL§7-§aR§7-§7§n?@ 
-§aL§7-§aR§7-§aL@ 
-§aL§7-§aL§7-§aR@ 
-§aL§7-§aR§7-§aR@ 
-§aR§7-§7§n?§7-§7?@ 
-§aR§7-§aR§7-§7§n?@ 
-§aR§7-§aR§7-§aR@ 
-§aR§7-§aR§7-§aL@ 
-§aR§7-§aL§7-§7§n?@ 
-§aR§7-§aL§7-§aL@ 
-§4You didn't make it!@ 
-§6Bridge has deployed!@ 
-§6The bridge has deployed!@ 
-§6Door Opens in....@ 
-§6Door Opening@ 
-§7Right into the lion's den...@ 
-§6Wave spawns in...@ 
-§6New wave in...@ 
-§6Boss spawns in...@ 
 §c!!!@ 
-§aTHEY ARE IN THERE!@ 
-§eTry to find a way out!@ 
-§7Seems like there's a discussion going on...@ 
-§eSeems like there's something going on at the tomb...@ 
+
+§7If these walls could talk...@§7Если бы эти стены могли говорить...
+§bServer restarting!@§bРестарт сервера!
+§6Area Discovered@§6Территория Открыта
+§3Discovery Found:@§3Открытие Найдено:
+§7See chat to claim your prize@§7Посмотри в чат, чтобы забрать приз
+§7Run to the end of the room!@§7Беги до конца комнаты! 
+§cRun!@§Беги!
+§f §4Run!@§f §4Беги!
+§4RUN!@§4Беги!
+§cEscape!@§cСбеги!
+§2You made it!@§2Ты сделал это!
+§aTNT successfully defused!@§aДинамит успешно обезврежен!
+§4You didn't defuse the TNT in time! The bandits escaped!@§4Ты не обезвредил динамит вовремя! Бандиты сбежали!
+§4You have died@§4Ты погиб
+§72 soul points have been lost@§72 очка душ было утеряно
+§6§lThank you!@§6§lСпасибо!
+§7Your purchase has been processed.@§7Твоя покупка была обработана.
+§7Click to stop the items@§7Кликни, чтобы остановить предметы
+§cSlowing down...@§cОстанавливаемся...
+§fCommon Tier@§fОбычный Уровень
+§6Epic Tier@§6Эпический Уровень
+§7Can you hear them whispering?@§7Слышишь как они шепчутся?
+§cYou failed!@§cТы не справился!
+§aRight§7-§7§n?§7-§7?@§aПравая§7-§7§n?§7-§7?
+§aLeft§7-§7§n?§7-§7?@§aЛевая§7-§7§n?§7-§7?
+§aLeft§7-§aLeft§7-§7§n?@§aЛевая§7-§aЛевая§7-§7§n?
+§aLeft§7-§aLeft§7-§aLeft@§aЛевая§7-§aЛевая§7-§aЛевая
+§aLeft§7-§aRight§7-§7§n?@§aЛевая§7-§aПравая§7-§7§n?
+§aRight§7-§aLeft§7-§7§n?@§aПравая§7-§aЛевая§7-§7§n?
+§aLeft§7-§aRight§7-§aRight@§aЛевая§7-§aПравая§7-§aПравая
+§aL§7-§aL§7-§7§n?@§aЛ§7-§aЛ§7-§7§n?
+§aL§7-§aL§7-§aL@§aЛ§7-§aЛ§7-§aЛ
+§aL§7-§aR§7-§7§n?@§aЛ§7-§aП§7-§7§n?
+§aL§7-§aR§7-§aL@§aЛ§7-§aП§7-§aЛ
+§aL§7-§aL§7-§aR@§aЛ§7-§aЛ§7-§aП
+§aL§7-§aR§7-§aR@§aЛ§7-§aП§7-§aП
+§aR§7-§7§n?§7-§7?@§aП§7-§7§n?§7-§7?
+§aR§7-§aR§7-§7§n?@§aП§7-§aП§7-§7§n?
+§aR§7-§aR§7-§aR@§aП§7-§aП§7-§aП
+§aR§7-§aR§7-§aL@§aП§7-§aП§7-§aЛ
+§aR§7-§aL§7-§7§n?@§aП§7-§aЛ§7-§7§n?
+§aR§7-§aL§7-§aL@§aП§7-§aЛ§7-§aЛ
+§4You didn't make it!@§4Ничего не вышло!
+§6Bridge has deployed!@§6Мост был достроен!
+§6The bridge has deployed!@§6Мост достроился!
+§6Door Opens in....@§6Дверь Откроется через....
+§6Door Opening@§6Дверь Открыта
+§7Right into the lion's den...@§7Прямиком в логово льва...
+§6Wave spawns in...@§6Волна заспавнится через...
+§6New wave in...@§6Новая волна через...
+§6Boss spawns in...@§6Босс заспавнится через...
+§aTHEY ARE IN THERE!@§aОНИ УЖЕ ТАМ!
+§eTry to find a way out!@§eПопробуй найти выход!
+§7Seems like there's a discussion going on...@§7Похоже, тут идет дискуссия...
+§eSeems like there's something going on at the tomb...@§eПохоже, в гробнице что-то происходит...
