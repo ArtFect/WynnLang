@@ -2,25 +2,17 @@
 §ePit of Despair@ 
 §eChallenge of the Blades@ 
 §eAldorei Valley@ 
-§8Decrepit Sewers@ 
-§4Witherhead@ 
-§7Black Plague of Ragni@ 
 §eKaroc Quarry@ 
 §ePigmen's Ravine@ 
 §eBucie@ 
 §l§c✹@ 
 §eLight Forest Gate@ 
-§cInfested Pit@ 
 §0@ 
 §eDelnar Manor@ 
 §eRagni@ 
 §eEmerald Trail֎@ 
-§eSand-Swept Tomb@ 
 §l§2✤@ 
-§aUndergrowth Ruins@ 
-§4Hashr@ 
 §eDead Island@ 
-§4Slykaar@ 
 §eNivla Woods@ 
 §eDetlas Suburbs֎@ 
 §eDetlas֎@ 
@@ -33,7 +25,6 @@
 §eTime Valley֎@ 
 §eLusuco@ 
 §4 §f @ 
-§bIce Barrows@ 
 §eThe House of Twain@ 
 §eCoastal Trail֎@ 
 §eWynnExcavation Site B@ 
@@ -43,7 +34,6 @@
 §eSavannah@ 
 §eTroms@ 
 §eTroms Castle@ 
-§4Theorick@ 
 §eAldorei Town@ 
 §eLetvus Airbase@ 
 §eThe Guild Hall@ 
@@ -55,8 +45,6 @@
 §eRiver Sage@ 
 §l§b❉@ 
 §eEfilim@ 
-§4Garaheth@ 
-§eThe Forgery@ 
 §eCinfras֎@ 
 §eLight's Secret@ 
 §eHouse of Talor@ 
@@ -69,18 +57,14 @@
 §6§l[4/4]@ 
 §eElkurn֎@ 
 §eSanctuary Bridge@ 
-§2Underworld Crypt@ 
-§4Charon@ 
+
 §eLexdale֎@ 
 §eRymek@ 
 §eHalf-Moon Island@ 
 §eOlux֎@ 
 §eAncient Nemract֎@ 
-§4Arakadicus@ 
 §eWorm Holes@ 
 §eEntamis Village@ 
-§4§lCorrupted §6Lost Sanctuary@ 
-§4Corrupted §cGaroth@ 
 §eZhight Island֎@ 
 §eMaro Peaks֎@ 
 §eThe Shiar@ 
@@ -137,16 +121,11 @@
 §eAlmuj@ 
 §eAlmuj Great River@ 
 §eInvaded Barracks@ 
-§4§lCorrupted §8Decrepit Sewers@ 
-§4Corrupted Witherhead@ 
 §eGert Camp֎@ 
 §eIron Golem Factory@ 
 §eTribal Sanctuary@ 
 §eRooster Island֎@ 
 §eRoots of Corruption@ 
-§6Lost Sanctuary@ 
-§bTemple of Swords@ 
-§9Galleon's Graveyard@ 
 §eSeavale Reef@ 
 0:20@ 
 0:19@ 
@@ -163,8 +142,6 @@
 0:08@ 
 0:07@ 
 0:06@ 
-§4Redbeard@ 
-§4Garoth@ 
 §eDurum Isles@ 
 §eBovine Barn@ 
 §eSkiens Island֎@ 
@@ -182,10 +159,7 @@
 §61@ 
 §7@ 
 §2@ 
-§bBoulder Pit@ 
 §eWynnExcavation Site A@ 
-§4§lCorrupted §cInfested Pit@ 
-§4Corrupted Arakadicus@ 
 §eKitrios Barracks@ 
 §eThanos֎@ 
 §eThe Qira Hive@ 
@@ -238,7 +212,6 @@
 §20:00@ 
 §2 @ 
 §fFallen Factory@ 
-§bTimeless Ruin@ 
 §eFallen Factory֎@ 
 §60:59@ 
 §60:58@ 
@@ -298,10 +271,6 @@
 §60:03@ 
 §60:02@ 
 §60:01@ 
-§4Corrupted §bIce Barrows@ 
-§4Corrupted Theorick@ 
-§4Corrupted§2 Underworld Crypt@ 
-§4Corrupted §cCharon@ 
 §eLegendary Island֎@ 
 §4The Mummyboard@ 
 §4Virus Doctor@ 
@@ -310,7 +279,7 @@
 §eRaiders' Port@ 
 §eJofash Tunnel@ 
 §eRodoroc@ 
-§bHistorical Maltic@ 
+
 §eNorth Lusuco@ 
 §f0:35@ 
 §f0:34@ 
@@ -328,44 +297,18 @@
 §f0:22@ 
 §f0:21@ 
 §4Corkus Accipientis@ 
-§bWatchmen@ 
-§bRuins of Detlas@ 
-§bWater of the Past@ 
-§bBak'al's Destruction 1@ 
-§bMining Operation@ 
-§bSomewhere In Between@ 
-§bRagni's Secret Library@ 
-§bA Hero's Origin@ 
-§bWynn Plains Monument@ 
 §fNivla Forest@ 
 §fRagni@ 
-§bTotem Pole@ 
-§bWrecking Ball@ 
-§bRymek Thief@ 
-§bDesert Royal Residence@ 
-§bBak'al's Destruction 2@ 
 §eLeadin Orc Fort@ 
 §4§l0:00@ 
 §eLazarus Pit@ 
 §eTaproot@ 
 §f0:36@ 
 §eWynnExcavation Site D@ 
-§bCrate Crane@ 
-§bBoulder Breaker@ 
-§bBak'al's Destruction 3@ 
-§bBeneath the Roots@ 
 §eTemple of Legends֎@ 
-§bLusuco's Secret Library@ 
 §eFountain of Youth@ 
 §eArena of the Legends@ 
-§bRelos's Secret Library@ 
-§4§lCorrupted §eSand-Swept Tomb@ 
-§4Corrupted Hashr@ 
 §eRotten Passage@ 
-§4Wynnston@ 
-§4Antikythera Supercomputer@ 
-§bLost Avos City@ 
-§bNecklace Chamber@ 
 §eMolten Heights Gate@ 
 §eLost Colossus@ 
 §7§l§m[1/10]@ 
