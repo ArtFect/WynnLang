@@ -1,22 +1,21 @@
-§7\[You are now leaving (.*)\]@ 
-§7\[You are now entering (.*)\]@ 
 §(4|7)0:(\d+)@ 
-§4 \[§c!§4\] §7Defuse the TNT! §8- (\d+)@ 
-§3(.*) threw an item bomb@ 
-§cThe cave collapses in (\d+) second(|s)@ 
-§6Bridge deploys in (\d+) second(|s)@ 
 §c(\d+)@ 
-§b(.*) has been killed@ 
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@ 
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching combat §flevel (\d+)§7!@ 
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒷ§7 Mining§7!@ 
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒿ§7 Farming§7!@ 
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒸ§7 Woodcutting§7!@ 
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒹ§7 Jeweling§7!@ 
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⓁ§7 Alchemism§7!@ 
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⓀ§7 Fishing§7!@ 
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒽ§7 Armouring§7!@ 
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒼ§7 Weaponsmithing§7!@  
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒶ§7 Cooking§7!@ 
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒻ§7 Tailoring§7!@ 
-§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒺ§7 Scribing§7!@ 
+
+§4 \[§c!§4\] §7Defuse the TNT! §8- (\d+)@§4 [§c!§4] §7Обезвредь динамит! §8- (r1)
+§3(.*) threw an item bomb@§3(r1) бросил предметную бомбу
+§cThe cave collapses in (\d+) second(|s)@§cПещера обрушится через (r1) секунд
+§6Bridge deploys in (\d+) second(|s)@§6Мост достроится через (r1) секунд
+§b(.*) has been killed@§b(r1) был убит
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒾ§7 Деревообработке§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching combat §flevel (\d+)§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) комбат уровня§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒷ§7 Mining§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒷ§7 Добыче Руды§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒿ§7 Farming§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒿ§7 Земледелии§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒸ§7 Woodcutting§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒸ§7 Лесорубстве§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒹ§7 Jeweling§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒹ§7 Изготовлении Аксессуаров§7! 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⓁ§7 Alchemism§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⓁ§7 Алхимии§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⓀ§7 Fishing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⓀ§7 Рыбалке§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒽ§7 Armouring§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒽ§7 Изготовлении Брони§7! 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒼ§7 Weaponsmithing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒼ§7 Оружейном Деле§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒶ§7 Cooking§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒶ§7 Кулинарии§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒻ§7 Tailoring§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒻ§7 Портняжном Деле§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒺ§7 Scribing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒺ§7 Изготовлении Свитков§7! 
