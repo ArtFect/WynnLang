@@ -111,46 +111,46 @@
 §e- §7Finished Quests: §f(.*)@§e- §7Завершенных Квестов: §f(r1)
 §5\[RRR\] §dTeleport Spell: §f§f(\d+)-(\d+)@§5[ППП] §dТелепорт Заклинание: §f§f(r1)-(r2)
 §5\[RLL\] §dMeteor Spell: §f§f(\d+)-(\d+)@§5[ПЛЛ] §dМетеор Заклинание: §f§f(r1)-(r2)
-§5\[RRL\] §dIce Snake Spell: §f§f(\d+)-(\d+)@ 
-§5\[RLR\] §dBash Spell: §f§f(\d+)-(\d+)@ 
-§5\[RRR\] §dCharge Spell: §f§f(\d+)-(\d+)@ 
-§5\[RLL\] §dUppercut Spell: §f§f(\d+)-(\d+)@ 
-§5\[RRL\] §dWar Scream Spell: §f§f(\d+)-(\d+)@ 
-§5\[RLR\] §dSpin Attack Spell: §f§f(\d+)-(\d+)@ 
-§5\[RLL\] §dMulti Hit Spell: §f§f(\d+)-(\d+)@ 
-§5\[LRL\] §dArrow Storm Spell: §f§f(\d+)-(\d+)@ 
-§5\[LRR\] §dBomb Spell: §f§f(\d+)-(\d+)@ 
-§5\[LLR\] §dArrow Shield Spell: §f§f(\d+)-(\d+)@ 
-§5\[LLL\] §dEscape Spell: §f§f(\d+)-(\d+)@ 
-§5\[RRL\] §dSmoke Bomb Spell: §f§f(\d+)-(\d+)@ 
-§5\[RLR\] §dHeal Spell: §f§f(.*)@ 
-§5\[RLL\] §dDead Star Spell: §f§f(.*)@ 
-§5\[RRR\] §dBlink Spell: §f§f(.*)@ 
-§5\[RLR\] §dHoly Blast Spell: §f§f(.*)@ 
-§5\[RRR\] §dLeap Spell: §f§f(.*)@ 
-§5\[RLL\] §dHeaven Jolt Spell: §f§f(.*)@ 
-§5\[RRL\] §dCry of the Gods Spell: §f§f(.*)@ 
-§5\[RLR\] §dWhirlwind Spell: §f§f(.*)@ 
-§5\[LRL\] §dBolt Blizzard Spell: §f§f(.*)@ 
-§5\[LRR\] §dCreeper Dart Spell: §f§f(.*)@ 
-§5\[RRR\] §dVanish Spell: §f§f(.*)@ 
-§5\[LLL\] §dSpider Jump Spell: §f§f(.*)@ 
-§5\[RLR\] §dRemedy Spell: §f§f(.*)@ 
-§5\[RRL\] §dCrystal Reptile Spell: §f§f(.*)@ 
-§7Price: §a(\d+) emeralds@ 
-§7You have: §a(\d+) emeralds@ 
-§7Total Lv: §f(\d+)@ 
-§7Combat Lv: §f(\d+)@ 
-§7Quests: §f(\d+)\/(\d+)@ 
+§5\[RRL\] §dIce Snake Spell: §f§f(\d+)-(\d+)@§5[ППЛ] §dЛедяная Змея Заклинание: §f§f(r1)-(r2)
+§5\[RLR\] §dBash Spell: §f§f(\d+)-(\d+)@§5[ПЛП] §dОглушение Заклинание: §f§f(r1)-(r2)
+§5\[RRR\] §dCharge Spell: §f§f(\d+)-(\d+)@§5[ППП] §dЗаряд Заклинание: §f§f(r1)-(r2)
+§5\[RLL\] §dUppercut Spell: §f§f(\d+)-(\d+)@§5[ПЛЛ] §dАпперкот Заклинание: §f§f(r1)-(r2)
+§5\[RRL\] §dWar Scream Spell: §f§f(\d+)-(\d+)@§5[ППЛ] §dКрик Войны Заклинание: §f§f(r1)-(r2)
+§5\[RLR\] §dSpin Attack Spell: §f§f(\d+)-(\d+)@§5[ПЛП] §dКруговая Атака Заклинание: §f§f(r1)-(r2)
+§5\[RLL\] §dMulti Hit Spell: §f§f(\d+)-(\d+)@§5[ПЛЛ] §dМега Удар Заклинание: §f§f(r1)-(r2)
+§5\[LRL\] §dArrow Storm Spell: §f§f(\d+)-(\d+)@§5[ЛПЛ] §dШторм Стрел Заклинание: §f§f(r1)-(r2)
+§5\[LRR\] §dBomb Spell: §f§f(\d+)-(\d+)@§5[ЛПП] §dБомба Заклинание: §f§f(r1)-(r2)
+§5\[LLR\] §dArrow Shield Spell: §f§f(\d+)-(\d+)@§5[ЛЛП] §dЩит Стрел Заклинание: §f§f(r1)-(r2)
+§5\[LLL\] §dEscape Spell: §f§f(\d+)-(\d+)@§5[ЛЛЛ] §dПобег Заклинание: §f§f(r1)-(r2)
+§5\[RRL\] §dSmoke Bomb Spell: §f§f(\d+)-(\d+)@§5[ППЛ] §dДымовая Бомба Заклинание: §f§f(r1)-(r2)
+§5\[RLR\] §dHeal Spell: §f§f(.*)@§5[ПЛП] §dИсцеление Заклинание: §f§f(r1)-(r2)
+§5\[RLL\] §dDead Star Spell: §f§f(.*)@§5[ПЛЛ] §dМертвая Звезда Заклинание: §f§f(r1)-(r2)
+§5\[RRR\] §dBlink Spell: §f§f(.*)@§5[ППП] §dОслепление Заклинание: §f§f(r1)-(r2)
+§5\[RLR\] §dHoly Blast Spell: §f§f(.*)@§5[ПЛП] §dСвятой Взрыв Заклинание: §f§f(r1)-(r2)
+§5\[RRR\] §dLeap Spell: §f§f(.*)@§5[ППП] §dПрыжок Заклинание: §f§f(r1)-(r2)
+§5\[RLL\] §dHeaven Jolt Spell: §f§f(.*)@§5[ПЛЛ] §dНебесный Удар Заклинание: §f§f(r1)-(r2)
+§5\[RRL\] §dCry of the Gods Spell: §f§f(.*)@§5[ППЛ] §dПлач Богов Заклинание: §f§f(r1)-(r2)
+§5\[RLR\] §dWhirlwind Spell: §f§f(.*)@§5[ПЛП] §dВихрь Заклинание: §f§f(r1)-(r2)
+§5\[LRL\] §dBolt Blizzard Spell: §f§f(.*)@§5[ЛПЛ] §dГрохот Бури Заклинание: §f§f(r1)-(r2)
+§5\[LRR\] §dCreeper Dart Spell: §f§f(.*)@§5[ЛПП] §dДротик Крипера Заклинание: §f§f(r1)-(r2)
+§5\[RRR\] §dVanish Spell: §f§f(.*)@§5[ППП] §dИсчезновение Заклинание: §f§f(r1)-(r2)
+§5\[LLL\] §dSpider Jump Spell: §f§f(.*)@§5[ЛЛЛ] §dПрыжок Паука Заклинание: §f§f(r1)-(r2)
+§5\[RLR\] §dRemedy Spell: §f§f(.*)@§5[ПЛП] §dЛечение Заклинание: §f§f(r1)-(r2)
+§5\[RRL\] §dCrystal Reptile Spell: §f§f(.*)@§5[ППЛ] §dКристальная Рептилия Заклинание: §f§f(r1)-(r2)
+§7Price: §a(\d+) emeralds@§7Цена: §a(r1) эмеральдов
+§7You have: §a(\d+) emeralds@§7У тебя: §a(r1) эмеральдов
+§7Total Lv: §f(\d+)@§7Общий Ур: §f(r1)
+§7Combat Lv: §f(\d+)@§7Комбат Ур: §f(r1)
+§7Quests: §f(\d+)\/(\d+)@§7Квесты: §f(r1)/(r2)
 §7XP: §f(\d+)%@ 
 \{".*\]\}@ 
-§7§lCurrently: §f(.*)§7² Each@ 
-§7 - Lowest Seller: §f(.*)²@ 
-§7 - Highest Seller: §f(.*)²@ 
-§7 - 2w Average: §f(.*)²@ 
-§7 - §f(.*)§7² Total §8\((.*)\)@ 
-§7 - Highest Buyer: §f(.*)²@ 
-§7§lTotal: §f(.*)§7²@ 
+§7§lCurrently: §f(.*)§7² Each@§7§lСейчас: §f(r1)§7² Каждый
+§7 - Lowest Seller: §f(.*)²@§7 - Минимальная Продажа: §f(r1)²
+§7 - Highest Seller: §f(.*)²@§7 - Максимальная Продажа: §f(r1)²
+§7 - 2w Average: §f(.*)²@§7 - Средняя за 2нед.: §f(r1)²
+§7 - §f(.*)§7² Total §8\((.*)\)@§7 - §f(r1)§7² Всего §8((r2))
+§7 - Highest Buyer: §f(.*)²@§7 - Максимальная Покупка: §f(r1)²
+§7§lTotal: §f(.*)§7²@§7§lВсего: §f(r1)§7²
 §7([a-zA-Z0-9_]{1,16})'s Side §f>>@ 
 §7§c§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 (.*)@ 
 §7- (§e|§f|§c|§b|§d|)(.*) \[(\d+)\]@ 
