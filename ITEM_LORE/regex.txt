@@ -261,49 +261,49 @@
 §(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Thunder Defence@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Гром Защита
 §(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Earth Defence@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Земля Защита
 §(c|a)(.*)§(4|2) to §(c|a)(.*) tier§7 Attack Speed@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 уровень §7Скорость Атаки
-§(c|a)(.*) Dexterity Min.@ 
-§(c|a)(.*) Agility Min.@ 
-§(c|a)(.*) Strength Min.@ 
-§(c|a)(.*) Intelligence Min.@ 
-§(c|a)(.*) Defence Min.@ 
-§d- §7Mana Steal: §f(.*)4s@ 
-§d- §7Stealing: §f(.*)%@ 
-§e- §7Class: §(.*) §fAssassin@ 
-§e- §7Class: §(.*) §fArcher@ 
-§e- §7Class: §(.*) §fMage@ 
-§e- §7Class: §(.*) §fWarrior@ 
-§e- §7Class: §(.*) §fKnight@ 
-§e- §7Class: §(.*) §fHunter@ 
-§e- §7Class: §(.*) §fDark Wizard@ 
-§e- §7Class: §(.*) §fNinja@ 
-§6 - §(a|c)(.*) §f(\d+)§3 Scrap@ 
-§7Total Scrap: §a(\d+)§2 scrap@ 
-§(c|e|2|f)   - §7Damage: (.*)@ 
-§b- Total Damage \(\+Bonus\): (.*)@ 
-§7Price: §f(\d+)§7 gold coins@ 
-§a(.*) Set §7\((\d+)\/(\d+)\)@ 
+§(c|a)(.*) Dexterity Min.@§(c|a)(r1) Точность Мин.
+§(c|a)(.*) Agility Min.@§(c|a)(r1) Ловкость Мин.
+§(c|a)(.*) Strength Min.@§(c|a)(r1) Сила Мин.
+§(c|a)(.*) Intelligence Min.@§(c|a)(r1) Интеллект Мин.
+§(c|a)(.*) Defence Min.@§(c|a)(r1) Защита Мин.
+§d- §7Mana Steal: §f(.*)4s@§d- §7Кража Маны: §f(r1)4с
+§d- §7Stealing: §f(.*)%@§d- §7Воровство: §f(r1)%
+§e- §7Class: §(.*) §fAssassin@§e- §7Класс: §(r1) §fАссасин
+§e- §7Class: §(.*) §fArcher@§e- §7Класс: §(r1) §fЛучник
+§e- §7Class: §(.*) §fMage@§e- §7Класс: §(r1) §fМаг
+§e- §7Class: §(.*) §fWarrior@§e- §7Класс: §(r1) §fВоин
+§e- §7Class: §(.*) §fKnight@§e- §7Класс: §(r1) §fРыцарь
+§e- §7Class: §(.*) §fHunter@§e- §7Класс: §(r1) §fОхотник
+§e- §7Class: §(.*) §fDark Wizard@§e- §7Класс: §(r1) §fТемный Волшебник
+§e- §7Class: §(.*) §fNinja@§e- §7Класс: §(r1) §fНиндзя
+§6 - §(a|c)(.*) §f(\d+)§3 Scrap@§6 - §(a|c)(r1) §f(r2)§3 Скрап
+§7Total Scrap: §a(\d+)§2 scrap@§7Всего Скрапа: §a(r1)§2 скрап
+§(c|e|2|f)   - §7Damage: (.*)@§(c|e|2|f)   - §7Урон: (r1)
+§b- Total Damage \(\+Bonus\): (.*)@§b- Общий Урон (+Бонус): (r1)
+§7Price: §f(\d+)§7 gold coins@§7Цена: §f(r1)§7 золотых монет
+§a(.*) Set §7\((\d+)\/(\d+)\)@§a(r1) Сет §7((r1)/(r2))
 
 ############################Порошки#################################
-§(7|d)- §7\+(\d+)% §6✣ Neutral§7 to §f❋ Air@ 
-§(d|a)- §7\+(\d+)% §6✣ Neutral§7 to §2✤ Earth@ 
-§(d|4)- §7\+(\d+)% §6✣ Neutral§7 to §c✹ Fire@ 
-§(d|6)- §7\+(\d+)% §6✣ Neutral§7 to §e✦ Thunder@ 
-§(d|3)- §7\+(\d+)% §6✣ Neutral§7 to §b❉ Water@ 
-§(d|6)- §7\+(.*)§e ✦ Thunder§7 Damage@ 
-§(d|3)- §7\+(.*)§b ❉ Water§7 Damage@ 
-§(d|4)- §7\+(.*)§c ✹ Fire§7 Damage@ 
-§(d|a)- §7\+(.*)§2 ✤ Earth§7 Damage@ 
-§(7|d)- §7\+(.*)§f ❋ Air§7 Damage@ 
-§(3|d|4)- §7(.*) §b❉ Water§7 Defence@ 
-§(3|d|6)- §7(.*) §e✦ Thunder§7 Defence@ 
-§(a|d|6)- §7(.*) §2✤ Earth§7 Defence@ 
-§(4|d|7)- §7(.*) §c✹ Fire§7 Defence@ 
-§(a|d|7)- §7(.*) §f❋ Air§7 Defence@ 
-§7Tier (\d+) \[§(6|4|7|3|a)(.*)§7\]@ 
-§(a|3|7|6|4)Effect on Weapons:@ 
-§(a|3|7|6|4)Effect on Armour:@ 
-§b§l(\d+)% §b❉ Water Powder Tier (.*)@ 
-§c§l(\d+)% §c✹ Fire Powder Tier (.*)@ 
-§f§l(\d+)% §f❋ Air Powder Tier (.*)@ 
-§2§l(\d+)% §2✤ Earth Powder Tier (.*)@ 
-§e§l(\d+)% §e✦ Thunder Powder Tier (.*)@ 
+§(7|d)- §7\+(\d+)% §6✣ Neutral§7 to §f❋ Air@§(7|d)- §7+(r1)% §6✣ Нейтральный§7 в §f❋ Воздух
+§(d|a)- §7\+(\d+)% §6✣ Neutral§7 to §2✤ Earth@§(d|a)- §7+(r1)% §6✣ Нейтральный§7 в §2✤ Земля
+§(d|4)- §7\+(\d+)% §6✣ Neutral§7 to §c✹ Fire@§(d|4)- §7+(r1)% §6✣ Нейтральный§7 в §c✹ Огонь
+§(d|6)- §7\+(\d+)% §6✣ Neutral§7 to §e✦ Thunder@§(d|6)- §7+(r1)% §6✣ Нейтральный§7 в §e✦ Гром
+§(d|3)- §7\+(\d+)% §6✣ Neutral§7 to §b❉ Water@§(d|3)- §7+(r1)% §6✣ Нейтральный§7 в §b❉ Вода
+§(d|6)- §7\+(.*)§e ✦ Thunder§7 Damage@§(d|6)- §7+(r1)§e ✦ Гром§7 Урон
+§(d|3)- §7\+(.*)§b ❉ Water§7 Damage@§(d|3)- §7+(r1)§b ❉ Вода§7 Урон
+§(d|4)- §7\+(.*)§c ✹ Fire§7 Damage@§(d|4)- §7+(r1)§c ✹ Огонь§7 Урон
+§(d|a)- §7\+(.*)§2 ✤ Earth§7 Damage@§(d|a)- §7+(r1)§2 ✤ Земля§7 Урон
+§(7|d)- §7\+(.*)§f ❋ Air§7 Damage@§(7|d)- §7+(r1)§f ❋ Воздух§7 Урон
+§(3|d|4)- §7(.*) §b❉ Water§7 Defence@§(3|d|4)- §7+(r1)§b ❉ Вода§7 Защита
+§(3|d|6)- §7(.*) §e✦ Thunder§7 Defence@§(3|d|6)- §7+(r1)§e ✦ Гром§7 Защита
+§(a|d|6)- §7(.*) §2✤ Earth§7 Defence@§(a|d|6)- §7+(r1)§2 ✤ Земля§7 Защита
+§(4|d|7)- §7(.*) §c✹ Fire§7 Defence@§(4|d|7)- §7+(r1)§c ✹ Огонь§7 Защита
+§(a|d|7)- §7(.*) §f❋ Air§7 Defence@§(a|d|7)- §7+(r1)§f ❋ Воздух§7 Защита
+§7Tier (\d+) \[§(6|4|7|3|a)(.*)§7\]@§7Уровень (r1) [§(6|4|7|3|a)(r2)§7]
+§(a|3|7|6|4)Effect on Weapons:@§(a|3|7|6|4)Эффект на Оружии:
+§(a|3|7|6|4)Effect on Armour:@§(a|3|7|6|4)Эффект на Броне:
+§b§l(\d+)% §b❉ Water Powder Tier (.*)@§b§l(r1)% §b❉ Вода порошок Уровень (r2)
+§c§l(\d+)% §c✹ Fire Powder Tier (.*)@§c§l(r1)% §c✹ Огонь порошок Уровень (r2)
+§f§l(\d+)% §f❋ Air Powder Tier (.*)@§f§l(r1)% §f❋ Воздух порошок Уровень (r2)
+§2§l(\d+)% §2✤ Earth Powder Tier (.*)@§2§l(r1)% §2✤ Земля порошок Уровень (r2)
+§e§l(\d+)% §e✦ Thunder Powder Tier (.*)@§e§l(r1)% §e✦ Гром порошок Уровень (r2)
