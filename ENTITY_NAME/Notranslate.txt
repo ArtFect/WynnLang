@@ -84,7 +84,6 @@ elisfelis@
 §cHierophant of the Order§6 [Lv. 75]@ 
 §f§lBanshees Cave@ 
 §f§lDark Forest Village@ 
-§aDark Forest Villager§6 [Lv. 60]@ 
 §f§lGraveyard South@ 
 §cNii Prime§6 [Lv. 75]@ 
 §2store.wynncraft.com@ 
@@ -139,7 +138,6 @@ RaveGhostTestBook@
 §cZombie§6 [Lv. 10]@ 
 §f§lPlains@ 
 §f§lOrphion's Seal@ 
-§aAldorei Elf§6 [Lv. 75]@ 
 §f§lAldorei Valley Lower@ 
 §e0§7/§62@ 
 §cShroom Sleeper§6 [Lv. 69]@ 
@@ -836,7 +834,6 @@ Count@
 §f§lSwamp Dark Forest Transition Mid@ 
 §cAncient Guardian§6 [Lv. 55]@ 
 §cSwamp Naga§6 [Lv. 55]@ 
-§aSwamp Dweller§6 [Lv. 50]@ 
 §cHanja Ranger§6 [Lv. 52]@ 
 §cHanja Brood Guard§6 [Lv. 51]@ 
 §cHanja Guardian§6 [Lv. 54]@ 
@@ -1931,7 +1928,6 @@ piraattipuhemies@
 §cPernix Monkey§6 [Lv. 92]@ 
 §cOutlaw§6 [Lv. 85]@ 
 §cTurret§6 [Lv. 1]@ 
-§aCold Blood§6 [Lv. 98]@ 
 §cKing Crab§6 [Lv. 85]@ 
 §cEnraged Polar Bear§6 [Lv. 44]@ 
 §f§lNesaak Plains South East@ 
@@ -2463,7 +2459,6 @@ Mark Zuckerberg@
 §cTreasure Guardian§6 [Lv. 70]@ 
 §cTrainer§6 [Lv. 70]@ 
 §f§lTree Island@ 
-Old Druid@ 
 §cSliding Gravel§6 [Lv. 17]@ 
 §cPhoenix Spear@ 
 §cAncient Nemract Resident§6 [Lv. 24]@ 
@@ -3308,7 +3303,7 @@ Pinkie Pie@
 §cMwanza Lizard§6 [Lv. 79]@ 
 §cBasilic Lizard§6 [Lv. 79]@ 
 §cSoldier Mogroth§6 [Lv. 79]@ 
-§aScared Creeper§6 [Lv. 78]@ 
+ 
 §cGila Lizard§6 [Lv. 79]@ 
 §cFiery Creeper§6 [Lv. 79]@ 
 §cReaper Carnisky§6 [Lv. 79]@ 
@@ -3665,7 +3660,6 @@ Parasite2@
 Parasite1@ 
 Parasite0@ 
 AndrQwQ@ 
-§a§cPirate Skirmisher§6 [Lv. 50]@ 
 Amalaisia@ 
 §cTemporal Devourer§6 [Lv. 70]@ 
 Craig@ 
@@ -3833,7 +3827,6 @@ VCSSTHatchPlaysound@
 §cBanished Legion Trooper§6 [Lv. 25]@ 
 §cBanished Legion Bolter§6 [Lv. 25]@ 
 §cHaros§6 [Lv. 30]@ 
-§aScion of Talor§6 [Lv. 65]@ 
 GREEN TURD@ 
 Geodeblock@ 
 tbgdsghsdgdsgsd@ 
