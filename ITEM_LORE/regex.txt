@@ -198,69 +198,69 @@
 §3Crafted by (.*)@§3Скрафтил (r1)
 §3- §7Teleports to: §f(.*)@§3- §7Телепортирует в: §f(r1)
 §7Level: §f(.*)@§7Уровень: §f(r1)
-§7 - §fHelmet §7\[Lv. (\d+) to (\d+)\]@ 
-§7 - §fChestplate §7\[Lv. (\d+) to (\d+)\]@ 
-§7 - §fBoots §7\[Lv. (\d+) to (\d+)\]@ 
-§7 - §fPants §7\[Lv. (\d+) to (\d+)\]@ 
-§7 - §fScroll §7\[Lv. (\d+) to (\d+)\]@ 
-§7 - §fBracelet §7\[Lv. (\d+) to (\d+)\]@ 
-§7 - §fNecklace §7\[Lv. (\d+) to (\d+)\]@ 
-§7 - §fFood §7\[Lv. (\d+) to (\d+)\]@ 
-§7 - §fPotion §7\[Lv. (\d+) to (\d+)\]@ 
-§7 - §fBow §7\[Lv. (\d+) to (\d+)\]@ 
-§7 - §fSpear §7\[Lv. (\d+) to (\d+)\]@ 
-§7 - §fDagger §7\[Lv. (\d+) to (\d+)\]@ 
-§7 - §fWand §7\[Lv. (\d+) to (\d+)\]@ 
-§7Name: (.*)@ 
-§7\[Active Weapon Skin: (.*)\]@ 
-§7 (.*) points (.*)    §6(.*) points@ 
-§a- §7Lv. Range: §f(.*)@ 
-§(c|a)(.*)§f(.*)§7 Mining Lv. Min: (\d+)@ 
-§(c|a)(.*)§f(.*)§7 Fishing Lv. Min: (\d+)@ 
-§(c|a)(.*)§f(.*)§7 Farming Lv. Min: (\d+)@ 
-§(c|a)(.*)§f(.*)§7 Woodcutting Lv. Min: (\d+)@ 
-§7This will delete your: §fLv. (\d+) Knight@ 
-§7This will delete your: §fLv. (\d+) Archer@ 
-§7This will delete your: §fLv. (\d+) Mage@ 
-§7This will delete your: §fLv. (\d+) Warrior@ 
-§7This will delete your: §fLv. (\d+) Assassin@ 
-§7This will delete your: §fLv. (\d+) Dark Wizard@ 
-§7This will delete your: §fLv. (\d+) Ninja@ 
-§7This will delete your: §fLv. (\d+) Hunter@ 
-§7Left click to add §f(\d+)§7 mobs for §f(\d+)§7²@ 
-§7Right click to add §f(\d+)§7 mobs for §f(\d+)§7²@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 XP Bonus@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Health Regen@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Life Steal@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Melee Damage@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Spell Damage@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Poison@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Health@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Walk Speed@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Fire Defence@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Mana Steal@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Mana Regen@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Earth Damage@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Defence@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Thorns@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Loot Bonus@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Exploding@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Water Damage@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Thunder Damage@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Fire Damage@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Strength@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Air Damage@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Reflection@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Agility@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Water Defence@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Stealing@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Dexterity@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Soul Point Regen@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Air Defence@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Intelligence@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Thunder Defence@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Earth Defence@ 
-§(c|a)(.*)§(4|2) to §(c|a)(.*) tier§7 Attack Speed@ 
+§7 - §fHelmet §7\[Lv. (\d+) to (\d+)\]@§7 - §fШлем §7[Ур. (r1) до (r2)]
+§7 - §fChestplate §7\[Lv. (\d+) to (\d+)\]@§7 - §fНагрудник §7[Ур. (r1) до (r2)]
+§7 - §fBoots §7\[Lv. (\d+) to (\d+)\]@§7 - §fБотинки §7[Ур. (r1) до (r2)]
+§7 - §fPants §7\[Lv. (\d+) to (\d+)\]@§7 - §fШтаны §7[Ур. (r1) до (r2)]
+§7 - §fScroll §7\[Lv. (\d+) to (\d+)\]@§7 - §fСвиток §7[Ур. (r1) до (r2)]
+§7 - §fBracelet §7\[Lv. (\d+) to (\d+)\]@§7 - §fБраслет §7[Ур. (r1) до (r2)]
+§7 - §fNecklace §7\[Lv. (\d+) to (\d+)\]@§7 - §fАмулет §7[Ур. (r1) до (r2)]
+§7 - §fFood §7\[Lv. (\d+) to (\d+)\]@§7 - §fЕда §7[Ур. (r1) до (r2)]
+§7 - §fPotion §7\[Lv. (\d+) to (\d+)\]@§7 - §fЗелье §7[Ур. (r1) до (r2)]
+§7 - §fBow §7\[Lv. (\d+) to (\d+)\]@§7 - §fЛук §7[Ур. (r1) до (r2)]
+§7 - §fSpear §7\[Lv. (\d+) to (\d+)\]@§7 - §fКопье §7[Ур. (r1) до (r2)]
+§7 - §fDagger §7\[Lv. (\d+) to (\d+)\]@§7 - §fКинжал §7[Ур. (r1) до (r2)]
+§7 - §fWand §7\[Lv. (\d+) to (\d+)\]@§7 - §fПосох §7[Ур. (r1) до (r2)]
+§7Name: (.*)@§7Имя: (r1)
+§7\[Active Weapon Skin: (.*)\]@§7[Активный Скин Оружия: (r1)]
+§7 (.*) points (.*)    §6(.*) points@§7    (r1) очков      §6(r3) очков
+§a- §7Lv. Range: §f(.*)@§a- §7Ур. Диапазон: §f(r1)
+§(c|a)(.*)§f(.*)§7 Mining Lv. Min: (\d+)@§(c|a)(r1)§f(r2)§7 Добыча Руды Ур. Мин: (r3)
+§(c|a)(.*)§f(.*)§7 Fishing Lv. Min: (\d+)@§(c|a)(r1)§f(r2)§7 Рыбалка Ур. Мин: (r3)
+§(c|a)(.*)§f(.*)§7 Farming Lv. Min: (\d+)@§(c|a)(r1)§f(r2)§7 Земледелие Ур. Мин: (r3)
+§(c|a)(.*)§f(.*)§7 Woodcutting Lv. Min: (\d+)@§(c|a)(r1)§f(r2)§7 Лесорубство Ур. Мин: (r3)
+§7This will delete your: §fLv. (\d+) Knight@§7Это удалит твоего: §fУр. (r1) Рыцаря
+§7This will delete your: §fLv. (\d+) Archer@§7Это удалит твоего: §fУр. (r1) Лучника
+§7This will delete your: §fLv. (\d+) Mage@§7Это удалит твоего: §fУр. (r1) Мага
+§7This will delete your: §fLv. (\d+) Warrior@§7Это удалит твоего: §fУр. (r1) Воина
+§7This will delete your: §fLv. (\d+) Assassin@§7Это удалит твоего: §fУр. (r1) Ассасина
+§7This will delete your: §fLv. (\d+) Dark Wizard@§7Это удалит твоего: §fУр. (r1) Темного Волшебника
+§7This will delete your: §fLv. (\d+) Ninja@§7Это удалит твоего: §fУр. (r1) Ниндзя
+§7This will delete your: §fLv. (\d+) Hunter@§7Это удалит твоего: §fУр. (r1) Охотника
+§7Left click to add §f(\d+)§7 mobs for §f(\d+)§7²@§7Левый клик для добавления §f(r1)§7 мобов за §f(r2)§7²
+§7Right click to add §f(\d+)§7 mobs for §f(\d+)§7²@§7Правый клик для добавления §f(r1)§7 мобов за §f(r2)§7²
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 XP Bonus@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 XP Бонус
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Health Regen@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Реген Здоровья
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Life Steal@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Вампиризм
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Melee Damage@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Ближний Урон
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Spell Damage@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Урон Заклинаний
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Poison@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Яд
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Health@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Здоровье
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Walk Speed@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Скорость
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Fire Defence@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Огонь Защита
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Mana Steal@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Кража Маны
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Mana Regen@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Реген Маны
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Earth Damage@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Земля Урон
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Defence@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Защита
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Thorns@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Шипы
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Loot Bonus@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Лут Бонус
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Exploding@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Взрыв
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Water Damage@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Вода Урон
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Thunder Damage@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Гром Урон
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Fire Damage@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Огонь Урон
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Strength@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Сила
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Air Damage@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Воздух Урон
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Reflection@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Отражение
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Agility@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Ловкость
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Water Defence@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Вода Защита
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Stealing@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Воровство
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Dexterity@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Точность
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Soul Point Regen@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Очки Душ Реген
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Air Defence@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Воздух Защита
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Intelligence@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Интеллект
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Thunder Defence@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Гром Защита
+§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Earth Defence@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 Земля Защита
+§(c|a)(.*)§(4|2) to §(c|a)(.*) tier§7 Attack Speed@§(c|a)(r1)§(4|2) до §(c|a)(r2)§7 уровень §7Скорость Атаки
 §(c|a)(.*) Dexterity Min.@ 
 §(c|a)(.*) Agility Min.@ 
 §(c|a)(.*) Strength Min.@ 
