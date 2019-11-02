@@ -353,32 +353,32 @@ QUESTS/Creeper_Infiltration.txt =====
 §7Bring back the [Creeper Skin] @§7Принеси [Кожу Крипера] 
 §7Retrieve [1 Pigman Hide] from @§7Добудь [1 Шкуру Пигмена] 
 §7the Pigman Overlord and return @§7с Pigman Overlord и вернись 
-§7to Thomas @§7к Thomas'у 
+§7to Thomas @§7к Томасу 
 §7Buy the creeper mask from @§7Купи маску крипера 
 §7the merchant and enter the @§7у торговца и войди 
 §7creeper hideout at @§7в убежище криперов 
 §7[-850,96,-1212]@ 
-§7Bring Thomas [1 Creeper Powder] @§7Принеси Thomas'у [1 Порошок крипера] 
+§7Bring Thomas [1 Creeper Powder] @§7Принеси Томасу [1 Порошок крипера] 
 §7to prove to him creepers @§7для доказательства существования 
 §7exist in Wynn @§7криперов в Wynn 
  
 QUESTS/Crop_Failure.txt ===== 
-§7Talk to Anast in Olux, @§7Поговори с Anast'ом в Olux'е на 
+§7Talk to Anast in Olux, @§7Поговори с Анастом в Олуксе на 
 §7[-1834,62,-5557]@ 
-§7Interrogate Doubiss the salesman somewhere @§7Допроси продавца Doubiss'а 
-§7in Olux @§7где-то в Olux'е 
+§7Interrogate Doubiss the salesman somewhere @§7Допроси продавца Дубиса 
+§7in Olux @§7где-то в Олуксе 
 §7Go to the wellspring cave @§7Иди к источнику в пещере 
-§7near the Olux Crypts at @§7рядом с кладбищем Olux'а 
+§7near the Olux Crypts at @§7рядом с кладбищем Олукса 
 §7[-1769,75,-5593]@ 
 §7Search inside the cave to @§7Обыщи пещеру 
 §7find the problem with the @§7и найди проблему 
 §7water @§7с водой 
 §7Kill the giant slime and @§7Убей гигантского слизня и покажи 
-§7show Anast the slime's remains @§7Anast'у его останки, как 
-§7as proof of Doubiss' innocence @§7доказательство невиновности Doubiss'а 
+§7show Anast the slime's remains @§7Анасту его останки, как 
+§7as proof of Doubiss' innocence @§7доказательство невиновности Дубиса 
  
 QUESTS/Death_Whistle.txt ==== 
-§7Talk to Voer at @§7Поговори с Voer'ом на 
+§7Talk to Voer at @§7Поговори с Войером на 
 §7[-2103,59,-5427]@ 
 §7Find the mountain at @§7Найди гору на 
 §7[-2064,56,-5190]@ 
@@ -387,37 +387,37 @@ QUESTS/Death_Whistle.txt ====
 §7Get to the top of @§7Иди на вершину 
 §7the mountain and get [1 @§7горы и добудь 
 §7Black Whistle Leaf] @§7[1 Лист Черного Свистка] 
-§7Return to Voer with [1 @§7Вернись к Voer'у с 
+§7Return to Voer with [1 @§7Вернись к Войеру с 
 §7Follow the path of residue @§7Иди по оставленному следу 
 §7to the witch's cave @§7в пещеру ведьмы 
 §7Kill the witch and return @§7Убей ведьму и вернись 
-§7to Voer with [1 Pink @§7к Voer'у с [1 Розовым Pelulite] 
-§7Pelulite] @ 
+§7to Voer with [1 Pink @§7к Войеру с [1 Розовым 
+§7Pelulite] @§7Пелулитом]
  
 QUESTS/Deja_Vu.txt ===== 
-§7Talk to Asher near Time @§7Поговори с Asher'ом 
-§7Valley at [-449,72,-1153]. @§7в Долине Времени на [-449,72,-1153] 
-§7Find Asher's Shovel. @§7Найди Лопату Asher'а 
-§7Return Asher's Shovel to Asher. @§7Верни лопату Asher'у 
-§7Enter Asher's house. @§7Войди в дом Asher'а 
-§7Talk to Old Man Martyn. @§7Поговори с Old Man Martyn'ом 
+§7Talk to Asher near Time @§7Поговори с Ашером в Тайм 
+§7Valley at [-449,72,-1153]. @§7Валлей на [-449,72,-1153] 
+§7Find Asher's Shovel. @§7Найди Лопату Ашера 
+§7Return Asher's Shovel to Asher. @§7Верни лопату Ашеру 
+§7Enter Asher's house. @§7Войди в дом Ашера 
+§7Talk to Old Man Martyn. @§7Поговори со Стариком Мартином 
 §7Find a way to save @§7Найди способы спасти 
-§7Asher from his death. @§7Asher'a от его смерти 
-§7Talk to Asher. @§7Поговори с Asher'ом 
+§7Asher from his death. @§7Ашерa от его смерти 
+§7Talk to Asher. @§7Поговори с Ашером.
  
 QUESTS/Desperate_Metal.txt ===== 
-§7Speak to Phinas on Corkus @§7Поговори с Phinas'ом на Corkus 
-§7Island at @§7Island на 
+§7Speak to Phinas on Corkus @§7Поговори с Финасом на Коркус 
+§7Island at @§7Исланде на 
 §7[-1672,38,-2083]@ 
 §7Locate the 3 mechs by @§7Найди трех роботов, следуя 
 §7following the trails of tools, @§7дорожке из инструментов, 
-§7return to Phinas with evidence @§7и вернись к Phinas'у с доказательствами 
-§7that you destroyed the mechs. @§7того, что ты уничтожил роботов 
+§7return to Phinas with evidence @§7и вернись к Финасу с доказательствами 
+§7that you destroyed the mechs. @§7того, что ты уничтожил роботов. 
 §7Find out where to go @§7Пойми, куда нужно 
-§7by looking at the pieces @§7идти, смотря на останки 
+§7by looking at the pieces @§7идти, рассмотрев останки 
 §7of junk. @§7роботов 
-§7Search Nettik's lighthouse. @§7Обыщи маяк Nettik 
-§7Report back to Phinas after @§7Поговори с Phinas'ом после 
+§7Search Nettik's lighthouse. @§7Обыщи маяк Неттик 
+§7Report back to Phinas after @§7Поговори с Финасом после 
 §7destroying the mech @§7уничтожения роботов 
  
 QUESTS/Dwarves_and_Doguns_Part_I.txt =====
@@ -426,49 +426,49 @@ QUESTS/Dwarves_and_Doguns_Part_I.txt =====
 §7[1024,17,-5143]@ 
 §7Watch the play. @§7Посмотри выступление
 §7Make your way to the @§7Дойди до 
-§7Dogun festival at @§7Фестиваля Dogun'ов на
+§7Dogun festival at @§7Фестиваля Догунов на
 §7[1522,78,-5055]@§7 
 §7by following the red banners @§7следуя красным банерам 
-§7outside Rodoroc.@§7снаружи Rodoroc'а
+§7outside Rodoroc.@§7снаружи Родорока
 §7Find out more about the @§7Узнай больше об истеричном 
-§7hysterical dwarf in Rodoroc's prison @§7гноме в тюрьме Rodoroc'а
+§7hysterical dwarf in Rodoroc's prison @§7гноме в тюрьме Родорока
 §7[1109,26,-5230]@ 
-§7Pick up Axelus' note and @§7Подбери записку Axelus'а
+§7Pick up Axelus' note and @§7Подбери записку Акселуса
 §7head to the location at @§7и отправься в локацию на
 §7[1024, 13, -5050]. @ 
 §7Explore the Library of Flames. @§7Исследуй Библиотеку Пламени.
 §7Exit the library. @§7Покинь библиотеку.
 §7Search for house number 81 @§7Отыщи дом номер 81 
-§7in Maex like Axelus said. @§7в Maex'e, как и сказал Axelus.
+§7in Maex like Axelus said. @§7в Маэксе, как и сказал Акселус.
 §7Follow the group on the @§7Следуй за группой 
 §7mission. @§7на миссию
 §7Meet the group at @§7Встреться с группой на
 §7[1460,18,-5494]@ 
 §7Head back to the coalition @§7Иди обратно к коалиции 
 §7through the tunnel at [1481,15,-5479]. @§7через тоннель на [1481,15,-5479].
-§7Retrieve the [Repair Kit] in @§7Принеси [ремонтный комплект] 
+§7Retrieve the [Repair Kit] in @§7Принеси [Ремонтный Комплект] 
 §7the eastern part of the @§7с восточной части 
 §7Find your way up to @§7Доберись вверх 
-§7the Dogun village through the @§7до убежища Dogun'ов через 
+§7the Dogun village through the @§7до убежища Догунов через 
 §7tunnel. @§7тоннель
-§7Talk to Plario.@§7Поговори с Plario
+§7Talk to Plario.@§7Поговори с Пларио
 
 QUESTS/Dwarves_and_Doguns_Part_II.txt =====
-§7Return to the Dogun village @§7Вернись в деревню Dogun'ов 
+§7Return to the Dogun village @§7Вернись в деревню Догунов 
 §7[1371,141,-5306]@ 
-§7with a Dogun Badge of @§7со Знаком Доверия Dogun'ов 
+§7with a Dogun Badge of @§7со Знаком Доверия Догунов 
 §7Trust and talk to the @§7и поговори 
 §7leader of the town. @§7с лидером деревни 
 §7Enter the meeting. @§7Войди на место встречи
-§7Meet up with Axelus at @§7Встреться с Axelus'ом на
+§7Meet up with Axelus at @§7Встреться с Акселусом на
 §7[1383,13,-5088]@ 
-§7Defeat the guards outside the @§7Победи охранников Rodoroc'a снаружи 
+§7Defeat the guards outside the @§7Победи охранников Родорокa снаружи 
 §7armory. @§7оружейной
 §7Find a way to break @§7Найди способ прорваться 
 §7through the black bricks outside @§7через черные кирпичи 
 §7the wooden door. @§7за деревянную дверь
 §7Sabotage the Dwarven armoury. @§7Саботируй оружейную гномов
-§7Follow Axelus deeper into Rodoroc @§7Следуй за Axelus'ом в Rodoroc
+§7Follow Axelus deeper into Rodoroc @§7Следуй за Акселусом в Родорок
 §7and destroy the power source @§7 и уничтожь источник энергии 
 §7of the city. @§7города
 §7the sewer system. @§7в систему канализаций.
@@ -482,20 +482,20 @@ QUESTS/Dwarves_and_Doguns_Part_II.txt =====
  
 QUESTS/Dwarves_and_Doguns_Part_III.txt =====
 §7with the letter and speak @§7с письмом и поговори 
-§7to Korzim at [1436,134,-5388]. @§7с Korzim'ом на [1436,134,-5388] 
+§7to Korzim at [1436,134,-5388]. @§7с Корзимом на [1436,134,-5388] 
 §7Investigate the structure to the @§7Посети сооружение 
 §7south at @§7на юге на
 §7[1467,136,-5200]@ 
-§7Travel to Maex and meet @§7Отправься в Maex и встреться
-§7Korzim at the entrance. @§7с Korzim'ом у входа
+§7Travel to Maex and meet @§7Отправься в Маэкс и встреться
+§7Korzim at the entrance. @§7с Корзимом у входа
 §7Talk to the blacksmith in @§7Поговори с кузнецом 
-§7Maex. @§7в Maex'e
-§7Bring back [10 Fire Webs] @§7Принеси [10 Fire Webs]
+§7Maex. @§7в Маэксe
+§7Bring back [10 Fire Webs] @§7Принеси [10 Огненных Паутин]
 §7from @§7из
 §7[1458,15,-5352]@ 
-§7and [3 Magmatic Crystals] from @§7 [3 Magmatic Crystals] из 
-§7the Maex mines and [1 @§7шахт Maex'а и [1 
-§7Crystallized lava] from @§7Crystallized lava] из
+§7and [3 Magmatic Crystals] from @§7 [3 Магматических Кристалла] из 
+§7the Maex mines and [1 @§7шахт Маэкса и [1 
+§7Crystallized lava] from @§7Кристаллизованную Лаву] из
 §7[1346,5,-5409]@ 
 §7Craft the amulet in the @§7Скрафти амулет 
 §7crafting table at [1503,45,-5303]. @§7на верстаке [1503,45,-5303].
@@ -510,57 +510,57 @@ QUESTS/Dwarves_and_Doguns_Part_III.txt =====
 §7the True Ice. @§7с Чистым Льдом
  
 QUESTS/Dwarves_and_Doguns_Part_IV.txt 
-§7Return to Korzim at [1514, @§7Вернись к Korzim'у на [1514, 
+§7Return to Korzim at [1514, @§7Вернись к Корзиму на [1514, 
 §751, -5342] on the second @§751, -5342], что на втором этаже дома 
-§7floor of the enchanter in @§7чародея в Maex'е 
+§7floor of the enchanter in @§7чародея в Маэксе 
 §7Maex with the Amulet of @§7с Амулетом Защиты от Огня 
 §7Fire and the Staff of @§7и Предметом 
 §7Ice. @§7Чистого Льда 
-§7Head to Rodoroc and look @§7Иди в Rodoroc 
-§7for Axelus @§7и отыщи Axelus'a на
+§7Head to Rodoroc and look @§7Иди в Родорок 
+§7for Axelus @§7и отыщи Акселусa на
 §7[1117,11,-5190]@ 
-§7Free Axelus and escape the @§7Спаси Axelus'a и сбеги 
+§7Free Axelus and escape the @§7Спаси Акселусa и сбеги 
 §7city. @§7из города
 §7Return back to the Dogun @§7Вернись в деревню
-§7village at [1338,147,-5305]. @§7Dogun'ов на [1338,147,-5305].
+§7village at [1338,147,-5305]. @§7Догунов на [1338,147,-5305].
 §7Reach the portal and stop @§7Достигни портала и останови 
-§7Garaheth @§7Garaheth'a
-§7Enter the body of Garaheth. @§7Войди в тело Garaheth'a
+§7Garaheth @§7Гарахетa
+§7Enter the body of Garaheth. @§7Войди в тело Гарахетa 
 §7Find all 4 organs and @§7Найди все 4 органа 
 §7destroy them. @§7и уничтожь их
-§7Leave Garaheth and exit his @§7Выйди из Garaheth'а и 
+§7Leave Garaheth and exit his @§7Выйди из Гарахетa и 
 §7realm. @§7покинь его царство.
  
 QUESTS/Dwelling_Walls.txt ===== 
-§7Talk to Leucsaa at @§7Поговори с Leucsaa на 
+§7Talk to Leucsaa at @§7Поговори с Леуксаа на 
 §7[201,38,-2173]@ 
 §7Enter the mansion @§7Войди в поместье
 §7Navigate the mansion to the @§7Найди способ попасть в 
 §7room holding the journal @§7комнату с журналом в поместье 
 §7Grab the journal and exit @§7Забери журнал и покинь 
 §7the mansion @§7поместье
-§7Talk to Leucsaa @§7Поговори с Leucsaa 
+§7Talk to Leucsaa @§7Поговори с Леуксаа 
  
 QUESTS/﻿Elemental_Exercise.txt ===== 
-§7Talk to Ragon on the @§7Поговори с Ragon'ом 
-§7south-east end of the Nivla @§7в юго-восточной части Nivla 
-§7Forest at @§7лесу на 
+§7Talk to Ragon on the @§7Поговори с Рагоном 
+§7south-east end of the Nivla @§7в юго-восточной части Нивла 
+§7Forest at @§7леса на 
 §7[-80,67,-1391]@ 
 §7Test your fire based weapon @§7Протестируй свое огненное оружие 
 §7on the captured creature by @§7на пойманном монстре 
 §7the tree @§7у дерева 
-§7Bring Ragon [10 Scorched Roots] @§7Принеси Ragon'у [10 выжженных корней] 
+§7Bring Ragon [10 Scorched Roots] @§7Принеси Рагону [10 Выжженных Корней] 
 §7from the cave at @§7из пещеры на 
 §7[-132,62,-1393]@ 
 §7Find another way out of @§7Найди другой выход 
 §7the cave @§7из пещеры 
-§7Return to Ragon's camp @§7Вернись в лагерь Ragon'а 
+§7Return to Ragon's camp @§7Вернись в лагерь Рагона 
 §7Trade in your fire weapon @§7Обменяй свое оружие 
-§7and give the [Study Results] @§7на [Результаты исследования] 
-§7to Ragon @§7и отдай их Ragon'у 
+§7and give the [Study Results] @§7на [Результаты Исследования] 
+§7to Ragon @§7и отдай их Рагону 
  
 QUESTS/Enter_the_Dojo.txt 
-§7Talk to Sensei Miyagi at @§7Поговори с Sensei Miyagi на 
+§7Talk to Sensei Miyagi at @§7Поговори с Сэнсей Мияги на 
 §7[495,109,-5571]@ 
 §7Jump down the water pit @§7Прыгни в яму с водой 
 §7to begin the challenges @§7чтобы начать испытания 
@@ -579,55 +579,55 @@ QUESTS/Enter_the_Dojo.txt
 §7tea @§7чаем 
 §7Exit the Xìngzhì cave through @§7Выйди из Xingzhi пещеры 
 §7the tunnel near the temple @§7через тоннель рядом с храмом 
-§7Speak to Sensei Miyagi @§7Поговори с Sensei Miyagi 
+§7Speak to Sensei Miyagi @§7Поговори с Сэнсей Мияги
  
 QUESTS/Enzan%27s_Brother.txt ===== 
-§7Talk to Enzan close to @§7Поговори с Enzan'ом 
-§7the exit of Ragni at @§7у выхода из Ragni на 
+§7Talk to Enzan close to @§7Поговори с Энзаном 
+§7the exit of Ragni at @§7у выхода из Рагни на 
 §7[-772,67,-1572]@ 
-§7Find Enzan's brother near Nivla @§7Найди брата Enzan'a 
-§7Forest @§7рядом с лесом Nivla 
+§7Find Enzan's brother near Nivla @§7Найди брата Энзанa 
+§7Forest @§7рядом с лесом Нивла 
  
 QUESTS/Eye_of_the_Storm.txt 
-§7Talk to Arwes in the @§7Поговори с Arwes'ом 
+§7Talk to Arwes in the @§7Поговори с Арвесом 
 §7ruined cathedral at @§7в разрушенном соборе на 
 §7[-683,45,-5347]@ 
 §7Search the ruins at @§7Обыщи руины на 
 §7[-714,43,-5385]@ 
 §7to find the cultists @§7и найди культистов 
-§7Talk to Ceyquin in Lexdale @§7Поговори с Ceyquin'ом в Lexdale
+§7Talk to Ceyquin in Lexdale @§7Поговори с Сейквином в Лексдейл 
 §7[-611,46,-5458]@ 
 §7Climb to the balcony in @§7Поднимись на балкон 
-§7Ceyquin's house @§7в доме Ceyquin'а
-§7Return to Ceyquin@§7Вернись к Ceyquin'у
-§7Enter the tunnel under Ceyquin's @§7Войди в тоннель под Ceyquin'а
+§7Ceyquin's house @§7в доме Сейквина
+§7Return to Ceyquin@§7Вернись к Сейквину 
+§7Enter the tunnel under Ceyquin's @§7Войди в тоннель под Сейквина 
 §7house @§7домом 
 §7Escape through the cavern and @§7Сбеги через пещеру 
-§7find Rismor in his house @§7и найди Rismor'а в его доме на
+§7find Rismor in his house @§7и найди Рисмора в его доме на
 §7[-472,66,-5536]@ 
-§7Find the Guardian and the @§7Найди Guardian of the Order'а 
+§7Find the Guardian and the @§7Найди Guardian of the Order 
 §7ancient blood oak, south of @§7на древнем кровавом дереве, 
-§7Rismor's house at @§7на юге от дома Rismor'а
+§7Rismor's house at @§7на юге от дома Рисмора 
 §7[-461,56,-5397]@ 
 §7Kill the Guardian and bring @§7Убей Guardian of the Order 
 §7the [Lost Spell Scroll] to @§7и принеси [Потерянный Свиток Заклинания] 
-§7Rismor @§7к Rismor'у
+§7Rismor @§7к Рисмору
 §7Find a passage deeper into @§7Найди проход 
 §7the Pit @§7вглубь Ямы
 §7Enter the ritual chamber @§7Войди в ритуальную комнату
-§7Approach Naragath's Altar @§7Подойди к алтарю Naragath'а
+§7Approach Naragath's Altar @§7Подойди к алтарю Нарагата
 §7Travel deeper into the cave @§7Продвигайся вглубь пещеры
-§7Collect [5 Icons of Naragath] @§7обери [5 икон Naragath'a] 
+§7Collect [5 Icons of Naragath] @§7Собери [5 икон Нарагатa] 
 §7from the Hierophants and give @§7с иерофантов и отдай 
-§7them to Harker @§7их Harker'у
-§7Kill Naragath and give the @§7Убей Naragath'а 
-§7[Eye of Blood] to Harker @§7и отдай [Глаз Крови] Harker'у
+§7them to Harker @§7их Харкеру
+§7Kill Naragath and give the @§7Убей Нарагата 
+§7[Eye of Blood] to Harker @§7и отдай [Глаз Крови] Харкеру
 §7Leave the Pit of Despair @§7Покинь Яму Отчаяния
 §7Give the [Eye of Blood] @§7Отдай [Глаз Крови]
-§7to Rismor @§7Rismor'у
+§7to Rismor @§7Рисмору
  
 QUESTS/Fallen_Delivery.txt =====
-§7Talk to Bricot at @§7Поговори с Bricot'ом на 
+§7Talk to Bricot at @§7Поговори с Брикотом на 
 §7[65,42,-4844]@ 
 §7Scale the house and search @§7Заберись на дом и обыщи 
 §7the fallen airship for survivors @§7упавший корабль в поисках выживших 
@@ -646,34 +646,34 @@ QUESTS/Fallen_Delivery.txt =====
 §7Enter the representative's office @§7Войди в офис представителей 
 §7Defeat the representative and bring @§7Победи представителя 
 §7back the stolen scroll to @§7и верни украденный свиток 
-§7Gawrick @§7Gawrick'у
+§7Gawrick @§7Гаврику
  
 QUESTS/Fantastic_Voyage.txt 
-§7Speak to Relend at @§7Поговори с Relend'ом на 
+§7Speak to Relend at @§7Поговори с Релендом на 
 §7[1304,35,-4043]@ 
 §7Defeat Captain Goldenclaw and give @§7Победи Капитана Goldenclaw 
-§7the map to Relend @§7и отдай карту Relend'у
-§7Set sail aboard Relend's ship @§7Отплыви на корабле Relend'а
+§7the map to Relend @§7и отдай карту Реленду
+§7Set sail aboard Relend's ship @§7Отплыви на корабле Реленда
 §7Bring a [Wooden Board], a @§7Принеси [Деревянную Доску], 
 §7[Center Piece], and a @§7[Центральную Часть], и
 §7[String]@§7 [Нитку] 
 §7to the Crafting Table @§7к верстаку
 §7Bring the [Steering Wheel] to @§7Отдай [Штурвал] 
-§7Captain Relend @§7капитану Relend'у
+§7Captain Relend @§7капитану Реленду
 §7Man the wheel of the @§7Встань за штурвал 
 §7Little Wing @ 
-§7Find Relend inside of the @§7Найди Relend'а под обломками 
+§7Find Relend inside of the @§7Найди Реленда под обломками 
 §7wreck of the Little Wing @§7корабля Little Wing 
 §7Exit the shipwrecked Little Wing @§7Покинь потонувший корабль Little Wing
 §7Bring [10 Raw Mutton], [5 @§7Принеси [10 Сырая Лопатка], [5 
 §7Edible Mushrooms], [1 Coconut], and @§7Съедобных Грибов], [1 Кокос], и 
-§7[7 Berries] to the Cooking @§7[7 Ягод] к котлу для 
+§7[7 Berries] to the Cooking @§7[7 Ягод] к горшку для 
 §7Pot @§7готовки 
 §7Give the [Odd Stew] to @§7Отдай [Странное Рагу] 
-§7Relend @§7Relend'у 
+§7Relend @§7Реленду 
 §7Check out the tent to @§7Проверь палатку 
 §7the east @§7на востоке
-§7Report back to Relend @§7Сообщи обо всем Relend'у
+§7Report back to Relend @§7Сообщи обо всем Реленду
 §7Bring [5 Gritty Sand], [3 @§7Принеси 5 [Зернистого Песка], 
 §7Saw Dust], and [1 Black @§73 [Деревянных Опилки], 
 §7Powder] to the Crafting Table @§7и 1 [Черный Порох] к верстаку 
@@ -683,11 +683,11 @@ QUESTS/Fantastic_Voyage.txt
 §7boulder at the center of @§7камень в центре
 §7the island @§7острова
 §7Advance deeper into the cave@§7Продвигайся вглубь пещеры
-§7Accompany Relend through the strange @§7В компании с Relend'ом пройди 
+§7Accompany Relend through the strange @§7В компании с Релендом пройди 
 §7place @§7это странное место 
  
 QUESTS/Fate_of_the_Fallen.txt ===== 
-§7Talk to Telvu the mage @§7Поговори с магом Telvu 
+§7Talk to Telvu the mage @§7Поговори с магом Телву 
 §7at @§7на 
 §7[165,74,-675]@ 
 §7Find the item the mage @§7Найди предмет 
@@ -697,66 +697,66 @@ QUESTS/Fate_of_the_Fallen.txt =====
 §7made. @§7сделал маг 
 §7Enter the Gate of Time @§7Войди в Ворота Времени 
 §7and travel back in time. @§7и вернись назад в прошлое 
-§7Explore Nesaak. @§7Исследуй Nesaak. 
-§7Find Theorick in the western @§7Найди Theorick'а 
+§7Explore Nesaak. @§7Исследуй Несаак. 
+§7Find Theorick in the western @§7Найди Теорика 
 §7forest at @§7в западном лесу на 
 §7[3651,69,1208]@ 
 §7Locate the base of the @§7Найди командный пункт 
 §7operation and join them at @§7и присоединись к группе на 
 §7[3738,67,1265]@ 
 §7Protect the portal. @§7Защищай портал 
-§7Tell Telvu the mage what @§7Расскажи магу Telvu 
+§7Tell Telvu the mage what @§7Расскажи магу Телву
 §7happened. @§7что произошло 
  
 QUESTS/Finding_The_Light.txt =====
-§7Talk to the Guardian of @§7Поговори с Guardian of The Forest 
-§7The Forest in the Light @§7в Light Forest'е на 
+§7Talk to the Guardian of @§7Поговори с Хранителем Леса
+§7The Forest in the Light @§7в Лайт Форесте на 
 §7[-1128,49,-4778]@ 
 §7(Requires completion of Taproot) @§7(Необходимо пройти квест Taproot) 
 §7Find the Arch in the @§7Найди Арку 
-§7Light Forest at @§7в Light Forest'е на
+§7Light Forest at @§7в Лайт Форесте на
 §7[-1038,44,-4447]@ 
-§7Return to the Guardian to @§7Вернись к Guardian'у 
+§7Return to the Guardian to @§7Вернись к Хранителю 
 §7seek guidance at @§7для дальнейших указаний
 §7[-1130,49,-4781]@ 
-§7Find someone in Cinfras who @§7Найди кого-то в Cinfras'е, 
+§7Find someone in Cinfras who @§7Найди кого-то в Цинфрасе, 
 §7can help you SEE @§7кто поможет тебе УВИДЕТЬ 
 §7Get an Eye Exam @§7Пройди проверку зрения
-§7Talk to Ollie at @§7Поговори с Ollie на 
+§7Talk to Ollie at @§7Поговори с Олли на 
 §7[-430,46,-4855]@ 
-§7Talk to Charlie outside of @§7Поговори с Charlie снаружи 
-§7Ollie's Optometry at @§7Ollie's Optometry на
+§7Talk to Charlie outside of @§7Поговори с Чарли снаружи 
+§7Ollie's Optometry at @§7Оптометрии Олли на
 §7[-449,46,-4840]@ 
-§7Read Jack's run away letter @§7Прочитай прощальное письмо Jack'а 
-§7in Charlie's house at @§7в доме Charlie на
+§7Read Jack's run away letter @§7Прочитай прощальное письмо Джека 
+§7in Charlie's house at @§7в доме Чарли на
 §7[-491,54,-4989]@ 
-§7Talk to Jack at @§7Поговори с Jack'ом на 
+§7Talk to Jack at @§7Поговори с Джеком на 
 §7[-448,33,-5092]@ 
-§7Find Damien near Kander Forest @§7Найди Damien'а около Kander Forest'а 
+§7Find Damien near Kander Forest @§7Найди Дамиена около Кандер Фореста 
 §7[-504,43,-5181]@ 
 §7Talk to the Apothecary about @§7Поговори с Аптекарем 
 §7getting medicine at house 19 @§7насчет лекарств в доме №19 
-§7in Cinfras at @§7в Cinfras'е на 
+§7in Cinfras at @§7в Цинфрасе на 
 §7[-431,46,-4993]@ 
-§7Break into Sasha's basement @§7Проникни в подвал Sasha 
-§7Talk to Sasha about her @§7Поговори с Sasha насчет ее 
+§7Break into Sasha's basement @§7Проникни в подвал Саша 
+§7Talk to Sasha about her @§7Поговори с Саша насчет ее 
 §7debt @§7долга
-§7Find Gardener in The Cinfras @§7Найди Gardener'а 
-§7Gardens at @§7в саду Cinfras'а на
+§7Find Gardener in The Cinfras @§7Найди Садовника 
+§7Gardens at @§7в саду Цинфраса на
 §7[-391,45,-4917]@ 
-§7Search the Gardener's cart for @§7Обыщи повозку Gardener'а 
+§7Search the Gardener's cart for @§7Обыщи повозку Садовника 
 §7evidence of his lies at @§7и найди доказательства его лжи 
 §7[-376,50,-4937]@ 
-§7Talk to Sasha the Apothacary @§7Поговори с Sasha Аптекарем 
+§7Talk to Sasha the Apothacary @§7Поговори с Саша Аптекарем 
 §7and get the medicine at @§7и получи лекарства на
-§7Give the medicine to Damien @§7Отдай лекарства Damien'у 
-§7Tell Charlie his son Jack @§7Скажи Charlie, что его 
-§7is okay at [-444 47 @§7сын Jack впорядке [-444, 47, 
+§7Give the medicine to Damien @§7Отдай лекарства Дамиену 
+§7Tell Charlie his son Jack @§7Скажи Чарли, что его 
+§7is okay at [-444 47 @§7сын Джек впорядке [-444, 47, 
 §7-4841] @ 
-§7Return to Ollie in Cinfras @§7Вернись к Ollie в Cinfras'е 
+§7Return to Ollie in Cinfras @§7Вернись к Олли в Цинфрасе 
 §7[-430,47,-4854]@ 
-§7Return to the Guardian of @§7Вернись к Guardian of The Forest 
-§7Forest with the helmet at @§7в Light Forest'е вместе с шлемом 
+§7Return to the Guardian of @§7Вернись к Хранителю Леса 
+§7Forest with the helmet at @§7в Лайт Форесте вместе со шлемом 
 §7Head back to the Arch @§7Вернись к Арке
 §7Enter The Light Realm @§7Войди в Царство Света 
  
