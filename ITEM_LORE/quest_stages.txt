@@ -2248,26 +2248,26 @@ QUESTS/Underice.txt =====
 §7Nesaak and claim your reward @§7и забери свою награду 
  
 QUESTS/Underwater.txt ===== 
-§7Talk to Omango located at @§7Поговори с Omango 
-§7the North of Maltic at @§7на севере от Maltic'a на 
+§7Talk to Omango located at @§7Поговори с Оманго 
+§7the North of Maltic at @§7на севере от Малтикa на 
 §7[-540,34,-2020]@ 
-§7Talk to Sayrr about the @§7Поговори с Sayrr'ом 
+§7Talk to Sayrr about the @§7Поговори с Сайаром 
 §7Breathing Cap @§7насчет Шлема Подводника 
 §7Bring back [3 Pigman's Meat] @§7Принеси [3 Мяса Пигмена] 
-§7and [1 Milk] to Sayrr @§7и [1 Молоко] Sayrr'у 
+§7and [1 Milk] to Sayrr @§7и [1 Молоко] Сайару 
 §7Explore the crashed ship for @§7Исследуй разбившийся корабль 
 §7a lost treasure @§7в поисках сокровища 
 §7Break the crate and bring @§7Сломай контейнер и принеси 
-§7[4 Old Treasure] to Omango @§7[4 Древних Сокровища] Omango 
+§7[4 Old Treasure] to Omango @§7[4 Старых Сокровища] Оманго
  
 QUESTS/﻿Wrath_of_the_Mummy.txt ===== 
-§7Talk to Ormrod in the @§7Поговори с Ormrod'ом 
-§7desert of Almuj at @§7в пустыне Almuj'a на 
+§7Talk to Ormrod in the @§7Поговори с Ормродом 
+§7desert of Almuj at @§7в пустыне Алмужa на 
 §7[979,69,-1808]@ 
-§7Talk to Achper in Almuj @§7Поговори с Achper'ом 
-§7about the curse at @§7в Almuj'е насчет проклятия 
+§7Talk to Achper in Almuj @§7Поговори с Ачпером 
+§7about the curse at @§7в Алмуже насчет проклятия 
 §7[872,67,-1932]@ 
-§7Go find the Mummy's Tomb @§7Найди Гробницу Мумии 
+§7Go find the Mummy's Tomb @§7Найди гробницу Мумии 
 §7Talk to the bandit preventing @§7Поговори с бандитом, мешающим 
 §7you from entering @§7тебе войти 
 §7Bring back [1 Block of @§7Принеси [1 Блок Розовой Шерсти] 
@@ -2275,15 +2275,15 @@ QUESTS/﻿Wrath_of_the_Mummy.txt =====
 §7Enter the tomb and kill @§7Войди в гробницу 
 §7the Mummy @§7и убей Мумию 
 §7Show proof of the death @§7Покажи доказательство смерти 
-§7of the Mummy to Ormrod @§7мумии Ormrod'у 
+§7of the Mummy to Ormrod @§7мумии Ормроду 
  
 QUESTS/WynnExcavation_Site_A.txt =====
-§7Speak to Excavator Vade at @§7Поговори с Excavator Vade на 
+§7Speak to Excavator Vade at @§7Поговори с Раскопщиком Вэйдом на 
 §7[1150,54,-1771]@ 
-§7Bring the Ancient Writing to @§7Принеси Древний Текст 
-§7Tesha in the tents at @§7Tesha в его палатке на 
+§7Bring the Ancient Writing to @§7Принеси Древние Письмена 
+§7Tesha in the tents at @§7Теше в его палатке на 
 §7[1082,69,-1799]@ 
-§7Return to Excavator Vade with @§7Вернись к Excavator Vade 
+§7Return to Excavator Vade with @§7Вернись к Раскопщику Вэйду 
 §7the translated writing @§7с переведенным текстом 
 §7Search the tombs @§7Обыщи гробницу
 §7Solve this riddle in the @§7Разгадай загадку в 
@@ -2292,77 +2292,77 @@ QUESTS/WynnExcavation_Site_A.txt =====
 §7out, the right angle will @§7правильный угол 
 §7open the way" @§7откроет путь" 
 §7Return and talk to Excavator @§7Вернись и поговори 
-§7Vade @§7с Excavator Vade 
+§7Vade @§7с Раскопщиком Вэйдом
  
 QUESTS/WynnExcavation_Site_B.txt =====
-§7Bring the Yellow Crystal Shard @§7Принеси [Желтый Осколок Кристалла] 
-§7to Excavator Lykron at @§7к Excavator Lykron'у на 
+§7Bring the Yellow Crystal Shard @§7Принеси Желтый Осколок Кристалла 
+§7to Excavator Lykron at @§7к Раскопщику Ликрону на 
 §7[39,62,-526]@ 
 §7Investigate the depths of the @§7Исследуй глубины, зайдя в 
 §7cave @§7пещеру 
 §7Find the crystal @§7Найди кристалл 
-§7Talk to Excavator Lykron @§7Поговори с Excavator Lykron
+§7Talk to Excavator Lykron @§7Поговори с Раскопщиком Ликроном
  
 QUESTS/WynnExcavation_Site_C.txt =====
-§7Talk to Excavator Placardus at @§7Поговори с Excavator Placardus'ом на 
+§7Talk to Excavator Placardus at @§7Поговори с Раскопщиком Плакардусом на 
 §7[-1061,42,-3742]@ 
 §7(Requires shard from Site B) @§7(Необходим осколок из Site B) 
 §7Infiltrate the Excavation Meeting @§7Проникни на встречу раскопщиков 
 §7Eavesdrop on WynnExcavation's plans @§7Подслушай планы раскопщиков. 
-§7Escape the WynnExcavation guards @§7Сбеги от WynnExcavation охранников 
+§7Escape the WynnExcavation guards @§7Сбеги от ВиннЭкскавейшен охранников 
 §7Explore the area and search @§7Исследуй территорию 
 §7for the traitor @§7в поисках предателя 
 §7Explore the depths of the @§7Исследуй глубины 
 §7volcano @§7вулкана
-§7Report back to Excavator Placardus @§7Сообщи обо всем Excavator Placardus'у
+§7Report back to Excavator Placardus @§7Сообщи обо всем Раскопщику Плакардусу 
 §7with a [Red Crystal Shard] @§7с [Красным Осколком Кристалла]
  
 QUESTS/WynnExcavation_Site_D.txt 
-§7Talk to Royal Advisor Carlos @§7Поговори с Royal Advisor Carlos'ом 
-§7in Troms Castle @§7в замке Troms'a 
+§7Talk to Royal Advisor Carlos @§7Поговори с Королевским Советником Карлосом
+§7in Troms Castle @§7в замке Тромсa 
 §7[-848,98,-789]@ 
 §7(Requires shard from Site C) @§7(Необходим осколок из Site C) 
 §7Find the secret passageway inside @§7Найди секретный проход внутри
 §7of the throne room @§7тронного зала
 §7Talk to the King @§7Поговори с Королем
 §7Exit the King's room @§7Покинь комнату Короля
-§7Escape Troms @§7Сбеги из Troms'а
+§7Escape Troms @§7Сбеги из Тромса
 §7Head to the location on @§7Следуй по координатам 
 §7the note @§7на записке 
-§7Speak to Traitor Thomas @§7Поговори с Предателем Thomas'ом
+§7Speak to Traitor Thomas @§7Поговори с предателем Томасом
 §7Find the three map fragments @§7Найди 3 фрагмента карты, 
 §7by following the eyes and @§7идя по следу глаз, 
-§7return to Thomas. @§7и вернись к Thomas'у
+§7return to Thomas. @§7и вернись к Томасу
 §7Enter the traitor camp @§7Войди в лагерь предателей
-§7Speak to Rebel Leader Amadel @§7Поговори с их лидером Amadel'ем
-§7Go to Site D @§7Иди к Site D
+§7Speak to Rebel Leader Amadel @§7Поговори с их лидером Амаделем
+§7Go to Site D @§7Иди к Site D 
 §7[-874,22,-349]@ 
 §7Search the excavation site @§7Продвигайся вдоль раскопок 
-§7Talk to Excavator Admin Uci @§7Поговори с Excavator Admin Uci
+§7Talk to Excavator Admin Uci @§7Поговори с Раскопщиком Админом Уки
 §7Enter The Ancient Dungeon @§7Войди в Древний Данж
 §7Teleport to the Ancient City @§7Телепортируйся в Древний Город
 §7Explore The Ancient City @§7Исследуй Древний Город
-§7Speak to Amadels assistant @§7Поговори с Ассистентом Amadel'а
+§7Speak to Amadels assistant @§7Поговори с Ассистентом Амадела
 §7Fight Corrupted Amadel @§7Сразись с Corrupted Amadel
 §7Kill Corruped Amadel @§7Убей Corruped Amadel
 §7Fight Shadow Amadel @§7Сразись с Shadow Amadel
-§7Kill Shadow Amadel @§7Убей Shadow Amadel'а 
+§7Kill Shadow Amadel @§7Убей Shadow Amadel 
 §7Fight Amadel @§7Сразись с Amadel
 §7Kill Amadel @§7Убей Amadel
 
 QUESTS/Zhight_Island_(Quest).txt ===== 
-§7Talk to Zhight of Zhight @§7Поговори с Zhight'ом на Zhight 
+§7Talk to Zhight of Zhight @§7Поговори с Жигтом на Жигт 
 §7[-542,38,-2755]@ 
-§7Look for Phief at Mage @§7Поищи Phief'a на Mage 
-§7Island @§7острове 
-§7Find Phief's ship, and return @§7Найди потерянный корабль Phief'а 
+§7Look for Phief at Mage @§7Поищи Пифa на Мейдж 
+§7Island @§7Исланде 
+§7Find Phief's ship, and return @§7Найди потерянный корабль Пифа 
 §7it to its rightful owner @§7и верни его владельцу 
-§7Get Zhight's supplies from Czytash @§7Получи запасы Zhight'а от 
-§7at Maro Peaks @§7Czytash'а на Maro Peaks 
-§7Give Zhight his supplies @§7Отдай Zhight'у его запасы 
+§7Get Zhight's supplies from Czytash @§7Получи запасы Жигта от 
+§7at Maro Peaks @§7Кзыташа на Маро Пикс 
+§7Give Zhight his supplies @§7Отдай Жигту его запасы 
  
 §7Bring [5 Forest Webs] to @§7Принеси [5 Forest Webs] к 
-§7the Slaying Post [Combat Lv. @§7Slaying Post [Combat Lv. 
+§7the Slaying Post [Combat Lv. @§7Доске Убийств [Комбат Ур. 
 §75] at @§75] на 
 §7[-362,67,-1577]@ 
  
@@ -2419,8 +2419,8 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7[-677,42,-4948]@ 
  
 §7Bring [18 Pure Rain Stone] @§7Принеси [18 Pure Rain Stone] к 
-§7to the Slaying Post [Combat @§7Slaying Post [Combat 
-§7Lv. 78] at @§7Lv. 78] на 
+§7to the Slaying Post [Combat @§7Доске Убийств [Комбат 
+§7Lv. 78] at @§7Ур. 78] на 
 §7[-163,33,-4812]@ 
  
 §7Bring [22 Goblin Teeth] to @§7Принеси [22 Goblin Teeth] к 
