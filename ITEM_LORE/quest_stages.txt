@@ -1496,14 +1496,14 @@ QUESTS/Reincarnation.txt
 §7of Approval] to Batelu @§7Бобa] к Батэлу
  
 QUESTS/Rise_of_the_Quartron.txt ===== 
-§7Talk to Nasea in @§7Поговори с Nasea на 
+§7Talk to Nasea in @§7Поговори с Насеа на 
 §7[-1673,52,-4370]@ 
-§7Talk to Dado at @§7Поговори с Dado 
+§7Talk to Dado at @§7Поговори с Дадо 
 §7[-1607,48,-4455]@ 
 §7and see if he is @§7и посмотри, 
 §7the culprit @§7виновен ли он 
-§7Go back to Nasea and @§7Вернись к Nasea 
-§7tell him about Dado's response @§7и скажи ему об ответе Dado 
+§7Go back to Nasea and @§7Вернись к Насеа 
+§7tell him about Dado's response @§7и скажи ему об ответе Дадо 
 §7Find the exiled Elf inside @§7Найди изгнанного эльфа 
 §7the web cavern at @§7внутри паучей пещеры на 
 §7[-1785,30,-4521]@ 
@@ -1514,20 +1514,20 @@ QUESTS/Rise_of_the_Quartron.txt =====
 §7and find the cave where @§7и найди пещеру 
 §7Popo is hiding at @§7в которой прячется Popo 
 §7Beat up Popo and return @§7Победи Popo и вернись 
-§7to Nasea with the contract @§7к Nasea с контрактом 
+§7to Nasea with the contract @§7к Насеа с контрактом 
 §7Go to the hidden bandit's @§7Проникни в тайную бандитскую 
 §7village and investigate the mansion @§7деревню и исследуй поместье 
 §7Break through the laboratory and @§7Проникни в лабораторию 
 §7destroy the giant robot @§7и уничтожь гигантского робота 
 §7Collect all 4 parts from @§7Собери все четыре части 
-§7the robot and show it @§7с робота, и покажи их Kaosuw'у 
+§7the robot and show it @§7с робота, и покажи их Каосаву 
 §7to Kaosuw to scare him @§7чтобы напугать 
 §7off @§7его 
-§7Report back to Nasea about @§7Сообщи Nasea 
+§7Report back to Nasea about @§7Сообщи Насеа 
 §7the whole incident @§7об этом инциденте 
  
 QUESTS/Royal_Trials.txt 
-§7Talk to the Skyraider Guard @§7Поговори с Skyraider Guard'ом 
+§7Talk to the Skyraider Guard @§7Поговори со Скайрайдер Стражем 
 §7[1476,84,-4336]@ 
  
 QUESTS/Sewers_of_Ragni.txt =====
@@ -1541,36 +1541,36 @@ QUESTS/Sewers_of_Ragni.txt =====
 §7Find a way to fix @§7Найди способ устранить 
 §7the blockage. @§7засор 
 §7the spooky sewer. @§7из загадочной канализации
-§7Talk to Jenprest @§7Поговори с Jenprest 
+§7Talk to Jenprest @§7Поговори с Дженпрест 
  
 QUESTS/Shattered_Minds.txt 
-§7Talk to Likeru in Efilim @§7Поговори с Likeru в Efilim'е 
+§7Talk to Likeru in Efilim @§7Поговори с Ликеру в Эфилиме 
 §7[-1058,44,-5008]@ 
 §7Look for the caves to @§7Найди пещеру 
-§7the northwest of Efilim @§7на северо-западе от Efilim'а 
+§7the northwest of Efilim @§7на северо-западе от Эфилима 
 §7Find the mushroom Likeru is @§7Найди гриб, который 
-§7looking for @§7ищет Likeru 
+§7looking for @§7ищет Ликеру 
 §7Investigate the giant blue mushroom @§7Посети гигантский синий гриб 
 §7Find a way to escape @§7Найди способ сбежать 
 §7Try to find civilization within @§7Попробуй найти цивилизацию 
 §7the strange forest@§7в странном лесу
 §7Enter the house by the @§7Войди в дом гигантской 
 §7giant frog in the village @§7лягушки в деревне 
-§7Talk to Elder Berusia @§7Поговори с Elder Berusia 
-§7Talk to Likeru @§7Поговори с Likeru 
+§7Talk to Elder Berusia @§7Поговори со Старцем Берусия 
+§7Talk to Likeru @§7Поговори с Ликеру
  
 QUESTS/Sister_City.txt ===== 
-§7Talk to Lil in Detlas @§7Поговори с Lil в Detlas'е на 
+§7Talk to Lil in Detlas @§7Поговори с Лил в Детласе на 
 §7[454,67,-1560]@ 
-§7Travel to Selchar and bring @§7Отправься в Selchar и принеси 
-§7back [12 Hourglass Sand] to @§7[12 Песка для часов] к 
-§7Lil @ 
+§7Travel to Selchar and bring @§7Отправься в Сельчар и принеси 
+§7back [12 Hourglass Sand] to @§7[12 Песчинок для часов] к 
+§7Lil @§7Лил
  
 QUESTS/Stable_Story.txt ===== 
-§7Talk to Enkser in Ternaves @§7Поговори с Enkser'ом в Ternaves на 
+§7Talk to Enkser in Ternaves @§7Поговори с Энксером в Тернейвс на 
 §7[828,69,-1636]@ 
-§7Bring back [1 Stable Key] @§7Принеси Enkser'у [1 ключ 
-§7to Enkser from the tunnel @§7от конюшни] обратно из тоннеля на 
+§7Bring back [1 Stable Key] @§7Принеси Энксеру [1 Ключ 
+§7to Enkser from the tunnel @§7от Конюшни] обратно из тоннеля на 
 §7[836,69,-1649]@ 
  
 QUESTS/Star_Thief.txt ===== 
@@ -1593,13 +1593,13 @@ QUESTS/Star_Thief.txt =====
 QUESTS/Studying_the_Corrupt.txt ===== 
 §7Something is going on at @§7Что-то происходит на 
 §7the big bridge near Time @§7большом мосту рядом 
-§7Valley. Go over there and @§7с Долиной Времени. 
+§7Valley. Go over there and @§7с Тайм Валлей. 
 §7see what's happening. @§7Иди туда и узнай что там. 
 §7[-258,80,-1046]@ 
-§7Head to Elkurn and see @§7Иди в Elkurn и узнай 
+§7Head to Elkurn and see @§7Иди в Элкурн и узнай 
 §7if any of the townsfolk @§7кто из жителей что-то 
 §7know anything about Garoth's old @§7знает о старом месте 
-§7study area. @§7учебы Garoth'а 
+§7study area. @§7учебы Гарота 
 §7Investigate the old underground area, @§7Посети старую подземную комнату 
 §7under the church to the @§7под церковью на 
 §7north at @§7севере 
@@ -1615,128 +1615,128 @@ QUESTS/Studying_the_Corrupt.txt =====
 §7mages at the sanctuary. @§7обратно к магам на мосту 
  
 QUESTS/Taproot_(Quest).txt ===== 
-§7Talk to Hazel in the @§7Поговори с Hazel 
-§7Dark Forest @§7в Dark Forest'е на 
+§7Talk to Hazel in the @§7Поговори с Хазелом 
+§7Dark Forest @§7в Дарк Форесте на 
 §7[-1445,46,-5509]@ 
 §7Find The Witch In The @§7Найди Ведьму 
 §7[-1260,44,-5465]@ 
-§7Grab Tiek [1 Ginseng], [1 @§7Собери для Tiek [1 Женьшень], 
+§7Grab Tiek [1 Ginseng], [1 @§7Собери для Тик [1 Женьшень], 
 §7Lobelia], and [1 Vervain] from @§7 [1 Лобелию], и [1 Вербену] 
 §7her garden @§7из ее сада 
-§7Return to Tiek with [1 @§7Вернись к Tiek с [1 Женьшенем], 
+§7Return to Tiek with [1 @§7Вернись к Тик с [1 Женьшенем], 
 §7Ginseng], [1 Lobelia], and [1 @§7 [1 Лобелией], 
 §7Vervain] @§7и [1 Вербеной] 
-§7Use The Potion on The @§7Используй зелье на The Black Spot 
-§7Black Spot near Tieks home @§7рядом с домом Tiek 
+§7Use The Potion on The @§7Используй зелье на Черном Пятне 
+§7Black Spot near Tieks home @§7рядом с домом Тик 
 §7Return the dead plant to @§7Отдай мертвый куст 
-§7Tiek @ 
+§7Tiek @§7Тик
 §7Throw away the plant @§7Брось куст в воронку 
-§7Press the button in Tiek's @§7Нажми на кнопку в подвале Tiek, 
+§7Press the button in Tiek's @§7Нажми на кнопку в подвале Тик, 
 §7basement then follow the rainbow @§7и затем иди за радужным 
 §7trail @§7следом 
 §7Enter The Taproot @§7Войди в стержневой корень 
 §7Complete the parkour @§7Пройди паркур 
-§7Speak to Tiek @§7Поговори с Tiek 
-§7Explore the Light Forest @§7Исследуй Light Forest 
-§7Talk to Tiek @§7Поговори с Tiek 
+§7Speak to Tiek @§7Поговори с Тик
+§7Explore the Light Forest @§7Исследуй Лайгт Форест 
+§7Talk to Tiek @§7Поговори с Тик 
  
 QUESTS/Temple_of_the_Legends_(Quest).txt ===== 
-§7Talk to Kelight at the @§7Поговори с Kelight'ом 
+§7Talk to Kelight at the @§7Поговори с Келайгтом 
 §7entrance of the Temple of @§7на входе в Храм 
-§7the Legends, close to Troms @§7Легенд, недалеко от Troms'а 
+§7the Legends, close to Troms @§7Легенд, недалеко от Тромса 
 §7[-693,68,-993]@ 
 §7Bring back [1 Yahya's Stained @§7Принеси [1 Использованную Миску 
-§7Bowl], [1 Maltic's Recommendation Letter] @§7 Yahya], [1 Рекомендательное Письмо 
-§7and [1 Corrupted Potato] to @§7из Maltic'a], и [1 Испорченную Картошку] 
-§7Kelight @§7Kelight'у 
-§7Soul], [1 Sayleros' Brother Ashes] @§7Боба], [1 Прах Брата Sayleros'а], 
+§7Bowl], [1 Maltic's Recommendation Letter] @§7 Йайа], [1 Рекомендательное Письмо 
+§7and [1 Corrupted Potato] to @§7Малтикa], и [1 Испорченную Картошку] 
+§7Kelight @§7Келайгту 
+§7Soul], [1 Sayleros' Brother Ashes] @§7Боба], [1 Прах Брата Сайлероса], 
 §7and [1 The Mummy's Bandage] @§7и [1 Бинт Мумии] 
-§7to Kelight @§7Kelight'у 
-§7Talk to Jorkin close to @§7Поговори с Jorkin'ом рядом с порталом 
+§7to Kelight @§7Келайгту 
+§7Talk to Jorkin close to @§7Поговори с Джоркином рядом с порталом 
 §7the Nether portal about lightdust @§7в ад насчет светопыли 
 §7Find the lightdust cavern located @§7Найди пещеру со светопылью 
 §7around the Nether Portal @§7рядом с порталом в Ад 
 §7Retrieve [1 Light Dust] for @§7Добудь [1 Светопыль] для 
-§7Jorkin to look at @§7Jorkin'а 
-§7Visit Rayshyroth on the Mage @§7Посети Rayshyroth'п на Mage Island 
+§7Jorkin to look at @§7Джоркина 
+§7Visit Rayshyroth on the Mage @§7Посети Рейзирота на Мейдж Исланде 
 §7Island to purify the dust @§7чтобы очистить пыль 
-§7Find the cave on Mage @§7Найди пещеру на Mage 
-§7Island where the Sky Flux @§7Island'е где спавнится Sky 
+§7Find the cave on Mage @§7Найди пещеру на Мейдж 
+§7Island where the Sky Flux @§7Исланде где спавнится Sky 
 §7gathers @§7Flux 
 §7Give [12 Sky Vapor] to @§7Принеси [12 Небесных Испарений] 
-§7Rayshyroth @§7Rayshyroth'у 
+§7Rayshyroth @§7Рейзироту 
 §7Show the [Purified Light Dust] @§7Покажи [Очищенную Светопыль] 
-§7to Kelight at the entrance @§7Kelight'у, что стоит на 
-§7of the Temple of the @§7входе в храм 
-§7Legends @§7легенд 
-§7Find Garull, the Creeper obsessed @§7Найди Garull'а - мастера, одержимого 
+§7to Kelight at the entrance @§7Келайгту, что стоит на 
+§7of the Temple of the @§7входе в Храм 
+§7Legends @§7Легенд 
+§7Find Garull, the Creeper obsessed @§7Найди Гарулла - мастера, одержимого 
 §7craftsman @§7криперами 
-§7Bring the [Old Touroto Hide], @§7Принеси [Старую Кожу Touroto], 
-§7[Aseado Leaf], [Maro's Eye Jewel], @§7[Лист Aseado], [Драгоценный Глаз Maro] 
-§7and [Coral of Nelfors] to @§7и [Коралл Nelfor'a] 
-§7Garull @§7Garull'у 
+§7Bring the [Old Touroto Hide], @§7Принеси [Старую Кожу Тоурото], 
+§7[Aseado Leaf], [Maro's Eye Jewel], @§7[Лист Асеадо], [Драгоценный Глаз Маро] 
+§7and [Coral of Nelfors] to @§7и [Коралл Нельфора] 
+§7Garull @§7Гаруллу 
 §7Bring the [Helmet of the @§7Принеси [Шлем Легенд] 
-§7Legends] to Kelight at the @§7Kelight'у 
+§7Legends] to Kelight at the @§7Келайгту 
 §7the Legends @§7Легенд 
 §7Kill the Corrupter of Worlds @§7Убей Разрушителя Миров 
 §7and bring proof of its @§7и принеси доказательство 
-§7death to Kelight @§7его смерти Kelight'у 
+§7death to Kelight @§7его смерти Келайгту 
  
 QUESTS/The_Belly_of_the_Beast.txt 
-§7Speak to King Burtan at @§7Поговори с Королем Burtan'ом на 
+§7Speak to King Burtan at @§7Поговори с Королем Буртаном на 
 §7[51,17,-5242]@ 
-§7Feed the Enchanted Flower to @§7Скорми зачарованный 
-§7Ozoth at @§7цветок Ozoth на 
+§7Feed the Enchanted Flower to @§7Скорми Зачарованный 
+§7Ozoth at @§7Цветок Ozoth на 
 §7[175,199,-5188]@ 
 §7Escape from the inside of @§7Выберись изнутри 
 §7Ozoth @ 
-§7Return to King Burtan to @§7Вернись к Королю Burtan'у 
+§7Return to King Burtan to @§7Вернись к Королю Буртану 
 §7tell him of your success @§7и расскажи ему об успехе 
  
 QUESTS/The_Bigger_Picture.txt 
-§7Talk to Psilo in the @§7Поговори с Psilo 
+§7Talk to Psilo in the @§7Поговори с Псило 
 §7mushroom cave at @§7в грибной пещере на 
 §7[-205,42,-4308]@ 
 §7Find the Subtraxerim Utilium mushroom @§7Найди Subtraxerim Utilium гриб 
 §7in the cave and bring @§7в пещере и принеси его
-§7it back to Psilo. @§7 обратно к Psilo
-§7Return to Psilo immediately. @§7Вернись к Psilo немедленно.
+§7it back to Psilo. @§7 обратно к Псило
+§7Return to Psilo immediately. @§7Вернись к Псило немедленно.
 §7Oh no, you've shrunk again! @§7О нет, ты уменьшился снова! 
 §7What now? @§7Что теперь?
 §7Get to the blue mushroom @§7Найди синий гриб 
-§7and return to normal size.@§7и вернись к обычному размеру
+§7and return to normal size.@§7и вернись к обычному размеру.
  
 QUESTS/The_Canary_Calls.txt 
-§7Speak to Grenot outside the @§7Поговори с Grenot'ом 
-§7Thesead coal mine at @§7снаружи угольной шахты Thesead'а 
+§7Speak to Grenot outside the @§7Поговори с Гренотом 
+§7Thesead coal mine at @§7снаружи угольной шахты Тесеада 
 §7[676,78,-5020]@ 
 §7Enter the coal mine @§7Войди в угольную шахту 
  
 QUESTS/The_Canyon_Guides.txt 
-§7Speak to Gana at @§7Поговори с Gana на 
+§7Speak to Gana at @§7Поговори с Ганой на 
 §7[444,104,-4805]@ 
-§7Find Seluc inside the cave @§7Найди Seluc'а внутри пещеры 
+§7Find Seluc inside the cave @§7Найди Селука внутри пещеры 
 §7[450,29,-5371]@ 
-§7Escort Seluc back to Gana @§7Приведи Seluc'а обратно к Gana 
+§7Escort Seluc back to Gana @§7Приведи Селука обратно к Гане 
  
 QUESTS/The_Corrupted_Village.txt 
-§7Speak to Orikal outside the @§7Поговори с Orikal'ом снаружи 
+§7Speak to Orikal outside the @§7Поговори с Орикалом снаружи 
 §7Angry Village at [318,78,-1097]. @§7Angry Village на [318,78,-1097] 
 §7Examine the nearby corrupted spike @§7Посети вершину ближайшего шипа 
 §7to the Northeast at [352,69,-1124]. @§7на северо-востоке [352,69,-1124] 
 §7Climb the spike to see @§7Залезь на шип, возможно 
 §7if you can find anything @§7удастся узнать что-то 
 §7useful about it's existance. @§7полезное о его существовании 
-§7Report back to Orikal about @§7Сообщи Orikal'у 
+§7Report back to Orikal about @§7Сообщи Орикалу 
 §7your observations. @§7о своих наблюдениях 
 §7Exit the cave and speak @§7Покинь пещеру и поговори 
-§7to Orikal in his tent @§7с Orikal'ом в палатке 
+§7to Orikal in his tent @§7с Орикалом в палатке 
 §7about his plan for destroying @§7по поводу планов уничтожения 
 §7the spike. @§7шипа 
 §7Find the excavators inside the @§7Найди землекопов внутри 
 §7nearby cave to the northeast @§7ближайшей пещеры на северо-востоке 
 §7at [338,70,-1113]. @§7на [338,70,-1113]. 
-§7Report to Orikal about your @§7Сообщи Orikal'у 
+§7Report to Orikal about your @§7Сообщи Орикалу 
 §7Find [Unstable Corrupted Ore], [Incendiary @§7Найди [Нестабильную руду], 
 §7Fluid] and [Switch Fuse] for @§7[Зажигательную жидкость], и [Переключатель 
 §7the TNT at the mining @§7с предохранителем] для изготовления 
@@ -1747,7 +1747,7 @@ QUESTS/The_Corrupted_Village.txt
 §7spike. @§7для уничтожения шипа 
  
 QUESTS/The_Dark_Descent.txt ===== 
-§7Talk to General Graken at @§7Поговори с Генералом Graken'ом на 
+§7Talk to General Graken at @§7Поговори с Генералом Гракеном на 
 §7[227,45,-1958]@ 
 §7Investigate the house in Ancient @§7Посети дом в Древнем 
 §7Nemract at @§7Nemract'e на 
