@@ -1432,7 +1432,6 @@ Pigman Helmet@
 SandStorm Walker@ 
 Noisemaker@ 
 §bLocrian@ 
-§fCorrupted Heart@ 
 §bLittle Inferno@ 
 §dBlindblight@ 
 §dPlague Mask@ 
@@ -1691,7 +1690,6 @@ Pigman's Loincloth@
 §bGiant Step@ 
 §eUpside Down Bucket@ 
 §eHilltop@ 
-§fGold Chunk@ 
 §eSteel Sabre@ 
 §dLydian@ 
 §dCypress@ 
@@ -1809,7 +1807,6 @@ Death's Toe@
 §fImpeccable Birch Spear@ 
 §fImpeccable Spruce Shears@ 
 §eHeart of FireÀ@ 
-§fLockpick@ 
 §fImpeccable Light Spruce Shears@ 
 §fBrilliant Diamond Boots@ 
 §fClear Diamond Leggings@ 
@@ -1941,11 +1938,9 @@ Ajax@
 §fFlawless Light Birch Spear@ 
 §fPlated Iron Helmet@ 
 §5ArchangelÀ@ 
-§fDropped Dentures@ 
 §dVirtue@ 
 §dPolar StarÀ@ 
 §eEnderman's FeetÀ@ 
-§fBloodied Hatchet@ 
 §dTriumph@ 
 Blessed Wrappings@ 
 §eDevil's Scissor@ 
@@ -2314,7 +2309,6 @@ Scarab@
 §dPine Bow@ 
 §dBete Noire@ 
 §eSowilo@ 
-§fRed Wire Piece@ 
 §bMeikyo ShisuiÀ@ 
 §dRelic SpearÀ@ 
 §fFlawless Diorite SpearÀ@ 
@@ -2413,7 +2407,6 @@ Oxidation@
 §dThe Sinner@ 
 §6Corrupted Flesh@ 
 §eHell Walk@ 
-§fOrc Mask@ 
 Sharp Heels@ 
 §dTherck's Irritation@ 
 §bArakadicus' BodyÀ@ 
@@ -2422,7 +2415,6 @@ Sharp Heels@
 §eDuskhelmÀ@ 
 §eVerstand@ 
 §aSilverfish Boots@ 
-§fAncient Sword@ 
 §dSilkwormÀ@ 
 §eKizuatoÀ@ 
 Stingy@ 
@@ -2660,7 +2652,6 @@ Gold Bar@
 §eMagnusÀ@ 
 §bCardiac ArrestÀ@ 
 §dOktavistÀ@ 
-§fRitual Stone@ 
 §fFlawless Stone Shears@ 
 §fPure Jungle Stick@ 
 §fImpeccable Jungle Shears@ 
@@ -2727,8 +2718,6 @@ Little Inferno@
 §bNeolithic@ 
 §eYahya's Nail Clipper@ 
 §dSilkwrap@ 
-§fMoldy Apple@ 
-§fBlanket@ 
 §fNew Golden Chestplate@ 
 §eThe Thief@ 
 §eKnight Boots@ 
@@ -2818,7 +2807,6 @@ Plain Leather Cap@
 §eLog SuitÀ@ 
 §eShining CloakÀ@ 
 §fTanned Leather LeggingsÀ@ 
-
 §aElf RobeÀ@ 
 §aGoblin CloakÀ@ 
 §dEnhanced PickpocketsÀ@ 
@@ -2954,7 +2942,6 @@ Thinking Helmet@
 §aBandit's RingÀ@ 
 §fAged Golden BootsÀ@ 
 §dCypressÀ@ 
-§fPile of Gold@ 
 §bYumeÀ@ 
 §eArcane Greaves@ 
 §eSnowslicer@ 
@@ -3250,10 +3237,6 @@ The Knight's Chestplate@
 §dAce of SpadesÀ@ 
 §eSorcerer's Stick@ 
 Used Golden Leggings@ 
-§fSoul of Ockar the Unseen Blade@ 
-§fSoul of Kiriost of the Molten Arrow@ 
-§fSoul of Abduce the Barbarian@ 
-§fSoul of Delinaed the Wise@ 
 §eDiamond Blade@ 
 §eOdin@ 
 §eSiege Ram@ 
