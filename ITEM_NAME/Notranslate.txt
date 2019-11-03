@@ -3252,15 +3252,11 @@ Used Golden Leggings@
 §dJolt of Inspiration@ 
 §eRonin@ 
 §dCross-Aegis@ 
-§fDragon Bone Shard@ 
-§fThe Dark Blade Badge@ 
-§fDogun Badge of Trust@ 
 Horse Hoof@ 
 §eDance BootsÀ@ 
 §eKelvik@ 
 §eFlamiche@ 
 §dJoker@ 
-§fRusty Pickaxe@ 
 §eFoot Warmers@ 
 §eCandlestick@ 
 §dFrozen Brook@ 
@@ -3289,9 +3285,6 @@ Balankia@
 §bBob's Mythic Daggers@ 
 §bBob's Mythic Wand@ 
 §bBob's Mythic Bow@ 
-§fDogun Ale@ 
-§fDemon Treat@ 
-§fDemonic Dogun Mask@ 
 §fImpeccable Jungle Stick@ 
 §ePetrichorÀ@ 
 §dShimmersightÀ@ 
@@ -3317,7 +3310,6 @@ Jike@
 §dDragon Hide Plate@ 
 §eMolten Flow@ 
 §eTopaz Staff@ 
-§fMechanical Core@ 
 §fSmoky Diamond Boots@ 
 §dAntipode@ 
 §dThrice@ 
@@ -3358,7 +3350,6 @@ Tanned Leather Boots@
 §eKrampusÀ@ 
 §dBullseye@ 
 §dRusherÀ@ 
-§fNote to Vadas@ 
 §dPsychomend VestÀ@ 
 §eCracked StonehallÀ@ 
 §aYellow OrnamentÀ@ 
@@ -3660,7 +3651,6 @@ Pickpockets@
 §dTesla@ 
 §eReminder@ 
 §ePetrichor@ 
-§fUnrefined Mysterious Metal@ 
 §fShaping Ice@ 
 §bAlka Cometflinger@ 
 §eWorshipÀ@ 
@@ -4011,9 +4001,6 @@ Dune Sandals@
 §eLucky CoinÀ@ 
 §dUrielÀ@ 
 §eBamboo CuffÀ@ 
-§fQuartz Block@ 
-§fQuartz Pillar@ 
-§fCarved Quartz Block@ 
 Gold Ingot@ 
 Adigard's Snowshoes@ 
 Zombified Pants@ 
@@ -4149,7 +4136,6 @@ Alligator@
 §dSandshooter@ 
 §eBlack Spear@ 
 §eCharm of the Leech@ 
-§fLava Essence@ 
 §eLong Bow@ 
 §fPure Andesite Shears@ 
 §ePetrified Bone@ 
@@ -4556,7 +4542,6 @@ Battle Bishop@
 Chipped Leather Boots@ 
 The Old King's Crown@ 
 §fGranite-hewn ShearsÀ@ 
-§fPotion of DrunknessÀ@ 
 §eButcher's CleverÀ@ 
 §eBantisu's Approach@ 
 §bSolar Pillar@ 
@@ -4621,16 +4606,12 @@ HEALING 3@
 §eVartija@ 
 §eFluffy Spear@ 
 Dust@ 
-§fOcean Treasure@ 
 §eStatic FloodÀ@ 
 §dOuragan@ 
 §dAlgaa@ 
 §dRumble@ 
 §dGrounder@ 
 §bRedbeard's Hand Cannon@ 
-§fMagical Thunder Shard@ 
-§fEssence of the Beast@ 
-§fWooden Planks@ 
 §dDrakenÀ@ 
 §eChaoticÀ@ 
 Mud Ball@ 
@@ -4865,7 +4846,6 @@ Mortar@
 §fImpeccable Birch SpearÀ@ 
 §bFrontliner@ 
 §bProxima@ 
-§fBlock of Red Wool@ 
 §eBurn@ 
 §dKapokÀ@ 
 §eAutumn Tree@ 
@@ -5076,11 +5056,9 @@ Rat's Infested Heart@
 §dThe Queen's HeadpieceÀ@ 
 §eCycloneÀ@ 
 §dPrismatic PendulumÀ@ 
-§fYellow Wire Piece@ 
 §eWayfinder@ 
 §dMagmatic Plate@ 
 §eGroundshakers@ 
-§fSmall Mushroom@ 
 §dStalactiteÀ@ 
 §eCielÀ@ 
 §dQuicksilverÀ@ 
@@ -5092,7 +5070,6 @@ Rat's Infested Heart@
 §dRycar's BravadoÀ@ 
 §bCloudburst@ 
 §ePenance@ 
-§fPigman's Meat@ 
 Nether Pants@ 
 Nether Tunic@ 
 §fPure Stone ShearsÀ@ 
@@ -5418,7 +5395,6 @@ Quicksand Crossers@
 §fImpeccable Stone SpearÀ@ 
 §eAldorei's VisionÀ@ 
 §eSublimatorÀ@ 
-§fOrb of the Water Winds@ 
 §eSquid AnkletÀ@ 
 Assassin's Hood@ 
 §eEradian Full Helm@ 
