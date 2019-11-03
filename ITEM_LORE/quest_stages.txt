@@ -1096,15 +1096,15 @@ QUESTS/King%27s_Recruit.txt =====
  
 QUESTS/Kingdom_of_Sand.txt ===== 
 §7Find out what's going on @§7Узнай, что происходит возле 
-§7at the Sand Swept Tomb @§7данжа Sand-Swept Tomb 
+§7at the Sand Swept Tomb @§7данжа Песчаная Гробница
 §7Attempt to enter the outlaw's @§7Попытайся войти в убежище 
 §7hideout at [1314, 90, -1660] @§7преступников на [1314, 90, -1660] 
-§7Meet with Geo & Tarek @§7Встреться с Geo и Tarek'ом 
+§7Meet with Geo & Tarek @§7Встреться с Гео и Тарэком 
 §7at the exit. @§7на выходе 
 §7Sneak into the highest room @§7Проникни в комнату поместья 
-§7of the Rymek Mansion at @§7в Rymek'е на последнем этаже 
+§7of the Rymek Mansion at @§7в Римеке на последнем этаже 
 §7[1180, 31, -1300]@ 
-§7Talk to the Vault Guard @§7Поговори с охранником Хранилища 
+§7Talk to the Vault Guard @§7Поговори со Стражем Хранилища 
 §7to enter the hideout @§7чтобы попасть внутрь 
 §7Look for the sceptre within @§7Поищи скипетр в 
 §7the bandit hideout @§7убежище бандитов 
@@ -1114,42 +1114,42 @@ QUESTS/Kingdom_of_Sand.txt =====
 §7abandoned house at [1220, 77, @§7из разрушенного дома на [1220, 77, 
 §7-1873] @ 
 §7Return to the tomb and @§7Вернись к гробнице 
-§7hand the sceptre to Lanu. @§7и передай скипетр Lanu 
+§7hand the sceptre to Lanu. @§7и передай скипетр Лану
  
 QUESTS/Lazarus_Pit.txt ===== 
-§7Talk to Burtur at @§7Поговори с Burtur'ом на 
+§7Talk to Burtur at @§7Поговори с Буртуром на 
 §7[-980,45,-5305]@ 
 §7Take a look at the @§7Посмотри 
 §7graveyard at @§7на кладбище 
 §7[-998,48,-5340]@ 
 §7Go to the location shown @§7Иди по координатам 
-§7on the gravestone @§7указанным на плите
+§7on the gravestone @§7указанным на надгробной плите
 §7Find a way into the @§7Найди путь попасть 
 §7Find the "Wandering Man" @§7Найди "блуждающего человека" 
-§7Return to Vesdar with [16 @§7Вернись к Vesdar'у с [16 
-§7Rotten Skin] @ 
+§7Return to Vesdar with [16 @§7Вернись к Весдару с [16 
+§7Rotten Skin]@§7Гнилой Кожи] 
 §7Find and enter the Lazarus @§7Найди и войди 
-§7Pit at @§7в Lazarus яму на 
+§7Pit at @§7в Лазарус яму на 
 §7[-953,81,-5465]@ 
 §7Explore the Pit @§7Исследуй яму 
 §7Inspect the house nearby @§7Посети ближайший дом 
-§7Talk to Sesad @§7Поговори с Sesad'ом 
-§7Return to Burtur with [Healing @§7Вернись к Burtur'у с [Целебной 
+§7Talk to Sesad @§7Поговори с Сесадом 
+§7Return to Burtur with [Healing @§7Вернись к Буртуру с [Целебной 
 §7Water] @§7Водой] 
  
 QUESTS/Lost_in_the_Jungle.txt =====
-§7Speak to Gracen at @§7Поговори с Gracen'ом на 
+§7Speak to Gracen at @§7Поговори с Граценом на 
 §7[-738,80,-655]@ 
-§7Search the Dernel Jungle for @§7Отыщи в Dernel джунглях 
-§7Aryn @§7Aryn'а 
+§7Search the Dernel Jungle for @§7Отыщи в Дернел джунглях 
+§7Aryn @§7Арина 
 §7Bring the Mysterious Gemstone to @§7Принеси загадочный драгоценный камень 
-§7Gracen @§7Gracen'у
+§7Gracen @§7Грацену
  
 QUESTS/Lost_Royalty.txt ===== 
-§7Talk to Yavlis in Troms @§7Поговори с Yavlis'ом в Troms'е 
+§7Talk to Yavlis in Troms @§7Поговори с Явлисом в Тромсе 
 §7[-848,85,-875]@ 
 §7Talk to the mercenary leader @§7Поговори с лидером наемников 
-§7in their hideout outside Troms @§7в их убежище, снаружи Troms'а 
+§7in their hideout outside Troms @§7в их убежище, снаружи Тромса 
 §7Go to the jungle temple @§7Иди в храм в джунглях 
 §7and retrieve the talisman at @§7и добудь талисман на 
 §7[-489,78,-889]@ 
@@ -1157,14 +1157,14 @@ QUESTS/Lost_Royalty.txt =====
 §7the mercenary leader @§7лидеру наемников 
 §7Talk to the king's son @§7Поговори с сыном короля 
 §7in the jail cell @§7в тюремной клетке 
-§7Report back to Yavlis with @§7Вернись к Yavlis'у 
+§7Report back to Yavlis with @§7Вернись к Явлису 
 §7the news @§7с новостями 
  
 QUESTS/Lost_Soles.txt 
-§7Talk to Ferndor at @§7Поговори с Ferndor'ом на 
+§7Talk to Ferndor at @§7Поговори с Ферндором на 
 §7[-915,33,-750]@ 
 §7Visit the mansion dining room @§7Посети столовую в поместье 
-§7and ask Grandon about the @§7и расспроси Grandon'а 
+§7and ask Grandon about the @§7и расспроси Грандона 
 §7book @§7по поводу книги 
 §7"The face above the hall @§7"Лицо жителя над залом 
 §7owns the nose that needs @§7ведет в нос, 
@@ -1180,35 +1180,35 @@ QUESTS/Lost_Soles.txt
 §7the flags by reaching into @§7над флагами и проберись 
 §7the unwanted hole @§7в дыру 
 §7Bring back [1 Boot Container] @§7Принеси обратно [1 Контейнер для Ботинок] 
-§7and [Abysso Galoshes] to Ferndor @§7и Abysso Galoshes Ferndor'у 
+§7and [Abysso Galoshes] to Ferndor @§7и [Abysso Galoshes] Ферндору 
  
 QUESTS/Lost_Tower.txt ===== 
-§7Talk to Laen in Nemract @§7Поговори с Laen в Nemract'е на 
+§7Talk to Laen in Nemract @§7Поговори с Лаэн в Немракте на 
 §7[24,37,-2199]@ 
 §7Find the lost tower in @§7Найди потерянную башню 
-§7Ancient Nemract @§7в Ancient Nemract'е 
+§7Ancient Nemract @§7в Древнем Немракте 
 §7Find the book in the @§7Найди книгу в башне 
 §7tower, and bring it back @§7и принеси ее обратно 
-§7to Laen @§7Laen'у 
+§7to Laen @§7Лаэну 
  
 QUESTS/Macabre_Masquerade.txt ===== 
-§7Find the Mask Salesman at @§7Найди продавца масок 
+§7Find the Mask Salesman at @§7Найди Продавца Масок 
 §7his caravan at @§7возле своего каравана на 
 §7[-328,61,-1973]@ 
 §7Find the Haunted Mask and @§7Найди маску 
 §7bring it back to the @§7и верни ее обратно 
-§7Mask Salesman @§7Mask Salesman'у 
+§7Mask Salesman @§7Продавцу 
  
 QUESTS/Maltic%27s_Well.txt ===== 
-§7Talk to Rynend located in @§7Поговори с Rynend'ом 
-§7Maltic at @§7в Maltic'е на 
+§7Talk to Rynend located in @§7Поговори с Ринендом 
+§7Maltic at @§7в Малтике на 
 §7[-568,48,-1922]@ 
 §7Investigate the old Maltic well @§7Посети старый колодец 
-§7and bring [1 Witch's Empty @§7в Maltic'е и принеси [1 Пустую 
-§7Bottle] to Rynend @§7Бутылку Ведьмы] Rynend'у 
+§7and bring [1 Witch's Empty @§7в Малтике и принеси [1 Пустую 
+§7Bottle] to Rynend @§7Бутылку Ведьмы] Риненду 
  
 QUESTS/Master_Piece.txt ===== 
-§7Talk to Caissop, the Artist, @§7Поговори с художником Caissop'ом 
+§7Talk to Caissop, the Artist, @§7Поговори с художником Кайзопом 
 §7in his tent at @§7в его палатке на 
 §7[-1802,55,-5190]@ 
 §7Search for the first mythical @§7Отыщи первое мифическое 
@@ -1216,7 +1216,7 @@ QUESTS/Master_Piece.txt =====
 §7[-1833,69,-5144]@ 
 §7Report back with the description @§7Вернись с описанием 
 §7of the legendary Villager Cow @§7легендарного корово-жителя 
-§7to Caissop @§7к Caissop'у 
+§7to Caissop @§7к Кайзопу 
 §7Search for the second mythical @§7Отыщи второе мифическое 
 §7beast in the cave at @§7животное в пещере на 
 §7[-1761,55,-5112]@ 
@@ -1226,13 +1226,13 @@ QUESTS/Master_Piece.txt =====
 §7cave at @§7в пещере на 
 §7[-1763,54,-5167]@ 
 §7of the amazing Pigasus to @§7великолепного свино-коня 
-§7Caissop @§7к Caissop'у 
+§7Caissop @§7к Кайзопу 
  
 QUESTS/Meaningful_Holiday.txt =====
-§7Talk to Haily in Almuj @§7Поговори с Haily в Almuj'е на 
+§7Talk to Haily in Almuj @§7Поговори с Хэйли в Алмуже на 
 §7[929,75,-1899]@ 
-§7Go talk to Haily's friend @§7Поговори с другом Haily 
-§7Nick at the poor area @§7Nick'ом в бедном районе 
+§7Go talk to Haily's friend @§7Поговори с другом Хэйли 
+§7Nick at the poor area @§7Ником в бедном районе 
 §7south of the city at @§7на юге от города 
 §7[936,68,-1841]. @ 
 §7Go to the budget store @§7Сходи на склад 
@@ -1240,31 +1240,31 @@ QUESTS/Meaningful_Holiday.txt =====
 §7and ask for food. @§7и попроси еды 
 §7Look for food on the @§7Поищи еду 
 §7second floor. @§7на втором этаже 
-§7Return to Nick and tell @§7Вернись к Nick'у 
+§7Return to Nick and tell @§7Вернись к Нику 
 §7him the bad news. @§7и расскажи ему плохие новости 
 §7Bring the blanket to the @§7Принеси одеяло женщине 
 §7woman in the tunnel south @§7в тоннеле на юге 
-§7of Nick. @§7от Nick'a 
+§7of Nick. @§7от Никa 
 §7Continue the tunnel and find @§7Продвигайся по тоннелю и найди 
-§7Nick's friend at [780,70,-1618]. @§7друга Nick'a на [780,70,-1618] 
+§7Nick's friend at [780,70,-1618]. @§7друга Никa на [780,70,-1618]. 
 §7Explore the area and look @§7Исследуй территорию 
-§7for Santa. @§7в поисках Sant'ы 
-§7Enter Santa's home and speak @§7Войди в дом Sant'ы 
+§7for Santa. @§7в поисках Санты 
+§7Enter Santa's home and speak @§7Войди в дом Санты 
 §7to him. @§7и поговори с ним
-§7Leave through the portal behind @§7Уйди через портал камин 
-§7Santa. @§7позади Sant'ы 
-§7Enter the ball room. @§7Войди в бальный зал [422, 65, -1561] 
+§7Leave through the portal behind @§7Уйди через портал-камин 
+§7Santa. @§7позади Санты 
+§7Enter the ball room. @§7Войди в бальный зал [422, 65, -1561]. 
 §7Ask the guests for food. @§7Попроси еды у гостей. 
 §7Steal the food from the @§7Укради еду с кухни 
-§7kitchen and talk to Nick. @§7и поговори с Nick'ом 
-§7Escape the ball with Nick. @§7Уйди из зала вместе с Nick'ом 
-§7Talk to Nick @§7Поговори с Nick'ом 
+§7kitchen and talk to Nick. @§7и поговори с Ником 
+§7Escape the ball with Nick. @§7Уйди из зала вместе с Ником 
+§7Talk to Nick @§7Поговори с Ником 
  
 QUESTS/Memory_Paranoia.txt 
-§7Speak to Atisun in front @§7Поговори с Atisun'ом 
-§7of Erca Mansion at @§7на входе в Поместье Erca 
+§7Speak to Atisun in front @§7Поговори с Атисуном 
+§7of Erca Mansion at @§7на входе в Поместье Эрка 
 §7[-1192,46,-5198]@ 
-§7Enter Erca Mansion @§7Войди в поместье Erca 
+§7Enter Erca Mansion @§7Войди в поместье Эрка 
 §7Enter the basement and recover @§7Войди в подвал 
 §7the Library Key @§7и добудь ключ от библиотеки 
 §7Enter the hole in the @§7Войди в дыру 
@@ -1278,15 +1278,15 @@ QUESTS/Memory_Paranoia.txt
 §7Master Bedroom @§7к главной спальне 
 §7Enter the Master Bedroom @§7Войди в главную спальню
 §7Bring the key to Timmy's @§7Принеси ключ к 
-§7bedroom @§7спальне Timmy 
-§7Navigate the Caritat's basement @§7Пройдись по подвалу Caritat'ов 
+§7bedroom @§7спальне Тимми
+§7Navigate the Caritat's basement @§7Пройдись по подвалу Каритатов 
 §7Escape through the mysterious rift @§7Сбеги через загадочную расщелину 
  
 QUESTS/Mixed_Feelings.txt 
 §7Go for a drink at @§7Пойди выпить 
-§7the Corkus Docks Inn, [-1414, @§7в Доках Corkus'a на [-1414, 
+§7the Corkus Docks Inn, [-1414, @§7в Доки Коркусa на [-1414, 
 §746, -2921] @ 
-§7Talk to Javen to find @§7Поговори с Javen'ом и узнай 
+§7Talk to Javen to find @§7Поговори с Джавеном и узнай 
 §7out more about what happened. @§7больше о том, что произошло 
 §7Talk to citizens around the @§7Поговори с другими жителями в доках 
 §7docks to find out more @§7и узнай больше о том, 
@@ -1296,7 +1296,7 @@ QUESTS/Mixed_Feelings.txt
 §7helping locals to find out @§7помогать местным, чтобы узнать 
 §7more. @§7больше.
 §7Someone told you more about @§7Кто-то рассказал тебе больше о 
-§7the patriots of corkus. You @§7патриотах corkus'а. Ты 
+§7the patriots of corkus. You @§7патриотах коркуса. Ты 
 §7should continue to find the @§7должен продолжать искать 
 §7clue missing.@§7подсказки.
 §7Follow the trail of blood @§7Иди по следу крови, 
@@ -1304,37 +1304,37 @@ QUESTS/Mixed_Feelings.txt
 §719, -2459] @ 
  
 QUESTS/Murder_Mystery.txt =====
-§7Talk to Captain Lorias in @§7Поговори с Капитаном Lorias'ом 
-§7Cinfras suburbs at @§7в окрестностях Cinfras'а на 
+§7Talk to Captain Lorias in @§7Поговори с Капитаном Лориасом 
+§7Cinfras suburbs at @§7в окрестностях Цинфраса на 
 §7[-592,45,-4972]@ 
 §7Investigate the crime scene for @§7Посети место преступления и найди 
 §7Return to the victim's house @§7Вернись на место преступления 
 §7to find a bat symbol @§7и найди символ мыши
 §7Find the gamblers in the @§7Найди игроков в 
-§7Cinfras sewers @§7канализации Cinfras'а
-§7Confront Rohem about the murder @§7Допроси Rohem'а насчет убийства 
-§7at house #09 in Cinfras @§7в доме #09 в Cinfras'е
+§7Cinfras sewers @§7канализации Цинфраса
+§7Confront Rohem about the murder @§7Допроси Рохема насчет убийства 
+§7at house #09 in Cinfras @§7в доме #09 в Цинфрасе
 §7Acquire the murder weapon at @§7Добудь орудие убийства в 
-§7Rohem's room, and talk to @§7комнате Rohem'а, и поговори 
-§7Captain Lorias to claim your @§7с Капитаном Lorias'ом, чтобы получить 
+§7Rohem's room, and talk to @§7комнате Рохема, и поговори 
+§7Captain Lorias to claim your @§7с Капитаном Лориасом, чтобы получить 
 §7reward @§7награду
 
 QUESTS/Mushroom_Man.txt ===== 
-§7Talk to Yahya "The Mushroom @§7Поговори с Yahya "Грибной 
-§7Man" in Nivla's Forest at @§7 человек" в лесу Nivla на 
+§7Talk to Yahya "The Mushroom @§7Поговори с Йайа "Грибной 
+§7Man" in Nivla's Forest at @§7 Человек" в лесу Нивла на 
 §7[-277,69,-1681]@ 
-§7Bring back [1 Red Mushrooms] @§7Принеси [1 Красный гриб] 
-§7and [1 Brown Mushrooms] to @§7и [1 Коричневый гриб] 
-§7Yahya @ 
-§7Bring back [3 Brown Mushrooms] @§7Принеси [3 Коричневых гриба] 
-§7and [3 Red Mushrooms]to Yahya @§7и [3 Красных гриба] к Yahya 
+§7Bring back [1 Red Mushrooms] @§7Принеси [1 Red Mushroom] 
+§7and [1 Brown Mushrooms] to @§7и [1 Brown Mushroom] для
+§7Yahya @§7Йайа
+§7Bring back [3 Brown Mushrooms] @§7Принеси [3 Brown Mushroom] 
+§7and [3 Red Mushrooms]to Yahya @§7и [3 Red Mushroom] к Йайа 
 §7Bring back [1 Bowl] to @§7Принеси [1 Миску] для 
  
 QUESTS/﻿One_Thousand_Meters_Under.txt =====
-§7Read the Help Wanted sign @§7Прочитай Help Wanted 
-§7in Ahmsord at @§7доску в Ahmsord'е на 
+§7Read the Help Wanted sign @§7Прочитай "Требуется Помощь" 
+§7in Ahmsord at @§7доску в Амсорде на 
 §7[1108,107,-4555]@ 
-§7Talk to The Secretary at @§7Поговори с The Secretary на
+§7Talk to The Secretary at @§7Поговори с Секретарем на
 §7[1121,101,-4525]@ 
 §7Enter the conferece room and @§7Войди в комнату конференций 
 §7listen to the scientist. @§7и послушай ученого
@@ -1356,18 +1356,18 @@ QUESTS/﻿One_Thousand_Meters_Under.txt =====
 §7the submarine. @§7подлодки
 §7Continue your mission and find @§7Продолжи свою миссию 
 §7the the crystal. @§7и найди кристалл
-§7Talk to Rontaid outside the @§7Поговори с Rontaid'ом снаружи 
+§7Talk to Rontaid outside the @§7Поговори с Ронтейдом снаружи 
 §7town at [14113,116,-4199]. @§7города на [14113,116,-4199].
 §7Return to the crash site @§7Вернись к месту аварии
 §7by following the road.@§7по короткому маршруту
  
 QUESTS/Out_of_my_Mind.txt ===== 
-§7Speak with the Troms children @§7Поговори с детьми в Troms'е 
+§7Speak with the Troms children @§7Поговори с детьми в Тромсе 
 §7[-860,93,-961]@ 
 §7inside the treehouse @§7внутри дома на дереве 
 §7Find the hidden door next @§7Найди потайную дверь 
-§7to the Undergrowth Ruins outside @§7рядом с Undergrowth Ruins данжем 
-§7Troms @§7снаружи Troms'а 
+§7to the Undergrowth Ruins outside @§7рядом с Заросшие Руины данжем 
+§7Troms @§7снаружи Тромса 
 §7Explore the hidden lab in @§7Исследуй тайную лабораторию 
 §7search of information @§7и найди информацию 
 §7Build a machine to hit @§7Построй машину, чтобы 
@@ -1375,11 +1375,11 @@ QUESTS/Out_of_my_Mind.txt =====
 §7to normal @§7и вернуться в себя 
 §7Find a way to destroy @§7Найди способ уничтожить  
 §7the plant monster, then return @§7растение-монстр, затем вернись 
-§7to the group in Troms @§7к детям в Troms'е 
+§7to the group in Troms @§7к детям в Тромсе 
 §7to report your findings @§7и сообщи о находках 
  
 QUESTS/Pirate%27s_Trove.txt 
-§7Talk to Damiral, outside Llevigar @§7Поговори с Damiral'ом снаружи Llevigar'a 
+§7Talk to Damiral, outside Llevigar @§7Поговори с Дамиралом снаружи Ллевигарa 
 §7at [-1937, 38, -4260] @§7на [-1937, 38, -4260] 
 §7Clue I: Toward the sunset, @§7Подсказка I: В направлении заката,
 §7among northern flowers shaded by @§7 среди северных цветов 
@@ -1390,18 +1390,18 @@ QUESTS/Pirate%27s_Trove.txt
 §7Clue IV: Beneath the cowl @§7Подсказка IV: Под шлемом 
 §7of an eastern titan, keeping @§7восточного титана, охраняющего 
 §7watch over our heads@§7наши головы
-§7Tell Damiral where the treasure @§7Расскажи Damiral'у где 
+§7Tell Damiral where the treasure @§7Расскажи Дамиралу где 
 §7is hidden @§7спрятаны сокровища 
  
 QUESTS/Pit_of_the_Dead_(Quest).txt ===== 
-§7Talk to Merloni at @§7Поговори с Merloni на 
+§7Talk to Merloni at @§7Поговори с Мерлони на 
 §7[343,59,-1915]@ 
 §7Explore the pit and find @§7Исследуй яму 
 §7the shrine @§7и найди святыню 
-§7Tell Merloni that you succeeded @§7Сообщи Merloni об успехе 
+§7Tell Merloni that you succeeded @§7Сообщи Мерлони об успехе 
  
 QUESTS/Poisoning_the_Pest.txt ===== 
-§7Talk to Farmer Cevalus at @§7Поговори с Фермером Cevalus'ом на 
+§7Talk to Farmer Cevalus at @§7Поговори с Фермером Цевалусом на 
 §7[-749,67,-1664]@ 
 §7Grab [1 Crate of Rat @§7Возьми [1 Контейнер Крысиного 
 §7Poison] and enter the farm @§7Яда] и войди на ферму 
@@ -1411,44 +1411,44 @@ QUESTS/Poisoning_the_Pest.txt =====
 §7the farm @§7фермы 
 §7Toggle the farm's irrigation sprinkler @§7Включи опрыскиватели на ферме 
 §7Exit the farm and talk @§7Выйди с фермы и поговори 
-§7to farmer Cevalus @§7с Фермером Cevalus'ом 
-§7Talk to Farmer Cevalus @§7Поговори с Фермером Cevalus'ом 
+§7to farmer Cevalus @§7с Фермером Цевалусом 
+§7Talk to Farmer Cevalus @§7Поговори с Фермером Цевалусом 
  
 QUESTS/Potion_Making.txt ===== 
-§7Talk to The Assistant on @§7Поговори с The Assistant 
+§7Talk to The Assistant on @§7Поговори с Ассистентом 
 §7the Black Road at @§7на дороге 
 §7[617,67,-1612]@ 
-§7Bring back [8 Red Mushrooms] @§7Принеси [8 Красных грибов] 
+§7Bring back [8 Red Mushrooms] @§7Принеси [8 Red Mushroom] 
 §7to The Assistant @§7Ассистенту 
 §7Enter the hut and slay @§7Войди в хижину 
-§7Essren @§7и убей Essren'а 
-§7Bring back Essren's Dusty Coat @§7Вернись с Пыльным Пальто Essren'а 
+§7Essren @§7и убей Эссрена 
+§7Bring back Essren's Dusty Coat @§7Вернись с Пыльным Пальто Эссрена 
  
 QUESTS/Purple_and_Blue.txt 
-§7Talk to Korun near lake @§7Поговори с Korun'ом 
-§7Gylia at @§7у озера Gylia на 
+§7Talk to Korun near lake @§7Поговори с Коруном 
+§7Gylia at @§7у озера Гилия на 
 §7[-236,36,-5225]@ 
 §7Investigate the ancient wizard's house @§7Исследуй старый дом 
 §7for clues at @§7мага в поисках подсказок на
 §7[-163,29,-5388]@ 
 §7Follow the hints in the @§7С помощью подсказок в подвале 
 §7cellar to find the mysterious @§7найди загадочную 
-§7Return to Korun with the @§7Вернись к Korun'у вместе со
+§7Return to Korun with the @§7Вернись к Коруну вместе со
 §7helmet @§7шлемом
 §7Enter the center spire from @§7Войди в центр прохода 
 §7under the lake @§7под озером. 
 §7Go deeper into the heart @§7Продвигайся дальше к центру
 §7of the lake @§7озера
 §7Follow the blood trail to @§7Иди по следу крови 
-§7the Gryndilin chief's room @§7в комнату шефа Gryndilin'а
-§7Defeat the Gryndilin chief, and @§7Победи Gryndilin шефа
+§7the Gryndilin chief's room @§7в комнату Gryndilin Chief'а
+§7Defeat the Gryndilin chief, and @§7Победи Gryndilin Chief
 §7uncast the spell using Nedlom's @§7и используй заклинание по 
-§7instructions @§7инструкции Nedlom'а.
+§7instructions @§7инструкции Нэдлома.
 §7Bring back a magical fragment @§7Принеси назад магический фрагмент
-§7and the helmet to Korun @§7и шлем к Korun'у
+§7and the helmet to Korun @§7и шлем к Коруну
 
 QUESTS/Recipe_for_Disaster.txt 
-§7Meet up with Chef Hamsey @§7Встреться с Шефом Hamsey 
+§7Meet up with Chef Hamsey @§7Встреться с Шефом Хемзи 
 §7[949,129,-4475]@ 
 §7Choose the chef you want @§7Выбери того шефа, с кем 
 §7to work with @§7ты будешь работать
@@ -1456,7 +1456,7 @@ QUESTS/Recipe_for_Disaster.txt
 §7chosen chef @§7выбранному шефу
 
 QUESTS/Reclaiming_the_House.txt 
-§7Talk to Ahmas at @§7Поговори с Ahmas'ом на 
+§7Talk to Ahmas at @§7Поговори с Ахмасом на 
 §7[-1494,47,-5360]@ 
 §7Scale the tower at @§7Залезь на башню 
 §7[-1433,69,-5394]@ 
@@ -1465,35 +1465,35 @@ QUESTS/Reclaiming_the_House.txt
 §7the basement at @§7через подвал на 
 §7[-1442,39,-5221]@ 
 §7Kill The Gurg and bring @§7Убей Gurg'а и принеси 
-§7back [Head of the Gurg] @§7[Голову Gurg'a] 
-§7to Ahmas @§7Ahmas'у 
+§7back [Head of the Gurg] @§7[Голову Гургa] 
+§7to Ahmas @§7Ахмасу 
  
 QUESTS/Redbeard%27s_Booty.txt ===== 
-§7Talk with Marston in the @§7Поговори с Marston'ом 
+§7Talk with Marston in the @§7Поговори с Марстоном 
 §7ocean at @§7в океане на 
 §7[-608,40,-3546]@ 
-§7Find Marston's crew on Pirate @§7Найди команду Marston'а 
-§7Cove at @§7в Pirate Cove бухте 
+§7Find Marston's crew on Pirate @§7Найди команду Марстона 
+§7Cove at @§7в Пайрат Коув бухте 
 §7[-659,43,-3154]@ 
 §7Hop aboard the Black Ring @§7Поднимайся на борт Black 
 §7down at the dock of @§7Ring, что стоит в доках 
-§7Pirate Cove. @ 
+§7Pirate Cove. @§7Пайрат Коув
 §7Find the treasure. @§7Найди сокровища 
 §7Leave the hidden island and @§7Покинь тайный остров и останови 
 §7stop the pirates from stealing @§7пиратов от кражи сокровищ 
-§7Redbeard's Booty. @§7Рыжей бороды 
-§7Talk to Marston about his @§7Поговори с Marston'ом насчет 
+§7Redbeard's Booty. @§7Рыжей Бороды 
+§7Talk to Marston about his @§7Поговори с Марстоном насчет 
 §7crew. Bring the two acquired @§7его команды. Принеси также две 
 §7maps. @§7добытые карты. 
  
 QUESTS/Reincarnation.txt 
-§7Talk to Batelu in Bob's @§7Поговори с Batelu 
-§7Tomb at @§7в Гробнице Bob'a 
+§7Talk to Batelu in Bob's @§7Поговори с Батэлу
+§7Tomb at @§7в Гробнице Бобa 
 §7[372,54,-775]@ 
-§7Feather], [1 Baab's Wool] & @§7Cluckles'а], [1 Шерсть Baab'а], 
-§7[1 Mooington's Skin] to Batelu @§7и [1 Кожу Mooington'а] к Batelu
+§7Feather], [1 Baab's Wool] & @§7Клаклеса], [1 Шерсть Бааба], 
+§7[1 Mooington's Skin] to Batelu @§7и [1 Кожу Муингтона] к Батэлу
 §7Bring back [1 Bob's Seal @§7Принеси [1 Печать одобрения 
-§7of Approval] to Batelu @§7Bob'a] к Batelu
+§7of Approval] to Batelu @§7Бобa] к Батэлу
  
 QUESTS/Rise_of_the_Quartron.txt ===== 
 §7Talk to Nasea in @§7Поговори с Nasea на 
