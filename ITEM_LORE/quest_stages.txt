@@ -2056,125 +2056,125 @@ QUESTS/The_Qira_Hive_(Quest).txt =====
 §7complete the Hive Challenge @§7заверши Челлендж Улья
 
 QUESTS/The_Realm_of_Light_(Quest).txt =====
-§7Speak to Aluxander in the @§7Поговори с Aluxander'ом 
+§7Speak to Aluxander in the @§7Поговори с Алуксандером 
 §7Realm of Light at @§7в Царстве Света на 
 §7[-1164,57,-6759]@ 
 §7(Requires completion of Finding the @§7(Необходимо пройти квест 
 §7Light) @§7Finding of Light) 
 §7Follow the trail of corruption @§7Следуй по пути порчи
 §7Investigate the cave @§7Посети пещеру
-§7Speak to Heliorion at @§7Поговори с Heliorion'ом 
+§7Speak to Heliorion at @§7Поговори с Хелиорионом 
 §7[-1068,50,-7001]@ 
 §7Bring [7 Light Residue] and @§7Принеси [7 Остатков света] и 
-§7[3 Illuminated Mushrooms] to Heliorion @§7[3 Освещенных гриба] к Heliorion'у
-§7Bring [10 Glowing Powder] to @§7Принеси [10 Светящегося Порошка] 
-§7Heliorion @§7Heliorion'у
+§7[3 Illuminated Mushrooms] to Heliorion @§7[3 Освещенных Гриба] к Хелиориону
+§7Bring [10 Glowing Powder] to @§7Принеси [10 Сияющего Порошка] 
+§7Heliorion @§7Хелиориону
 §7Follow the trails to the @§7Следуй по пути 
-§7seeds of corruption and destroy@§7 к семенам и уничтожь их,
-§7them, then report back to @§7 затем сообщи 
-§7Heliorion at@§7об этом Heliorion'у
-§7Speak to Gaclux in front @§7Поговори с Gaclux'ом 
+§7seeds of corruption and destroy@§7к семенам и уничтожь их, 
+§7them, then report back to @§7затем сообщи 
+§7Heliorion at@§7об этом Хелиориону
+§7Speak to Gaclux in front @§7Поговори с Гаклуксом 
 §7of the rune at @§7перед руной на 
 §7[-366,59,-6733]@ 
  
 QUESTS/The_Shadow_of_the_Beast.txt =====
-§7Talk to Dereg in his @§7Поговори с Dereg'ом 
+§7Talk to Dereg in his @§7Поговори с Дереком 
 §7house at @§7в его доме на 
 §7[-1483,47,-5218]@ 
 §7Search for evidence that the @§7Отыщи доказательства 
 §7beast exists by following the @§7существования зверя, идя по следу 
 §7blood on the ground @§7крови на земле 
-§7Talk to the farmer to @§7Поговори с Tolem'ом и получи 
+§7Talk to the farmer to @§7Поговори с Толемом и получи 
 §7get evidence about the beast @§7улику о существовании зверя
 §7Bring back the three escaped @§7Верни три сбежавших коровы, 
 §7cows near the two bridges @§7что рядом с двумя мостами 
 §7and in the cave under @§7и в пещере под фермой 
-§7the farm to Tolem @§7к Tolem'у 
+§7the farm to Tolem @§7к Толему 
 §7Go to the Lumber Yard @§7Иди на лесопилку 
 §7[-1770,54,-5244]@ 
 §7and bring back [6 Marsh @§7и принеси [6 Кусков Древесины] 
-§7Robur] to Tolem @§7к Tolem'у 
+§7Robur] to Tolem @§7к Толему 
 §7Follow the footprints to find @§7Иди по следам и найди 
 §7another victim of the beast @§7другую жертву зверя 
-§7Go to Olux, buy [32 @§7Иди в Olux, купи 
+§7Go to Olux, buy [32 @§7Иди в Олукс, купи 
 §7Cobblestone] and bring it back @§7[32 Булыжника] и принеси обратно 
-§7to Kroac @§7к Kroac'у 
+§7to Kroac @§7к Кроаку 
 §7Bring back a proof that @§7Принеси доказательство того, что 
 §7you beat the monster behind @§7ты убил монстра позади 
-§7Rileen's house @§7дома Rileen'а 
+§7Rileen's house @§7дома Райлена 
 §7Follow the candles and enter @§7Следуя за свечами 
 §7in the beast's cave @§7войди в пещеру зверя 
 §7Kill the beast and return @§7Убей зверя и вернись 
-§7to Dereg with the three @§7к Dereg'у с тремя 
+§7to Dereg with the three @§7к Дереку с тремя 
 §7pieces of evidence of the @§7уликами-доказательствами 
 §7beast's existence at @§7существования зверя на 
  
 QUESTS/The_Thanos_Vaults.txt ===== 
-§7Speak to Dolem at @§7Поговори с Dolem'ом на 
+§7Speak to Dolem at @§7Поговори с Долемом на 
 §7[131,2,-5295]@ 
 §7Enter the secret vault in @§7Войди в секретное хранилище 
-§7Thanos's treasure room at @§7в сокровищнице Thanos'а на 
+§7Thanos's treasure room at @§7в сокровищнице Таноса на 
 §7[153,6,-5434]@ 
-§7Collect the gold from the @§7Собери золота из
-§7Thanos's secret vault @§7секретного хранилища Thanos'а
+§7Collect the gold from the @§7Собери золота из 
+§7Thanos's secret vault @§7секретного хранилища Таноса
 §7Bring the gold back to @§7Принеси золото обратно 
-§7Dolem @§7Dolem'у 
+§7Dolem @§7Долему 
  
 QUESTS/The_Tower_of_Amnesia_(Quest).txt ===== 
-§7Talk to Tinemild near Elkurn @§7Поговори с Tinemild'ом около Elkurn'а 
+§7Talk to Tinemild near Elkurn @§7Поговори с Тинемилдом около Элкурна 
 §7[87,76,-1200]@ 
-§7Bring back [1 Ragni Teleportation @§7Принеси [1 Ragni свиток 
-§7Bring back [1 Detlas Teleportation @§7Принеси [1 Detlas свиток 
-§7Bring back [1 Nemract Teleportation @§7Принеси [1 Nemract свиток 
-§7Bring back [1 Selchar Teleportation @§7Принеси [1 Selchar свиток 
-§7Bring back [1 Almuj Teleportation @§7Принеси [1 Almuj свиток 
-§7Bring back [1 Nesaak Teleportation @§7Принеси [1 Nesaak свиток 
-§7Scroll] to Tinemild @§7телепортации] Tinemild'у 
+§7Bring back [1 Ragni Teleportation @§7Принеси [1 Рагни свиток 
+§7Bring back [1 Detlas Teleportation @§7Принеси [1 Делас свиток 
+§7Bring back [1 Nemract Teleportation @§7Принеси [1 Немракт свиток 
+§7Bring back [1 Selchar Teleportation @§7Принеси [1 Сельчар свиток 
+§7Bring back [1 Almuj Teleportation @§7Принеси [1 Алмуж свиток 
+§7Bring back [1 Nesaak Teleportation @§7Принеси [1 Несаак свиток 
+§7Scroll] to Tinemild @§7телепортации] Тинемилду 
  
 QUESTS/The_Ultimate_Weapon.txt =====
-§7Speak to Dodegar Bandysnoot at @§7Поговори с Dodegar Bandysnoot'ом на 
+§7Speak to Dodegar Bandysnoot at @§7Поговори с Додегаром на 
 §7[-987,42,-4593]@ 
-§7Collect [10 Wood Scrap] from @§7Собери [10 Обломков Древесины]
+§7Collect [10 Wood Scrap] from @§7Собери [10 Wood Scrap]
 §7Wood Sprites at @§7с Wood Sprites на
 §7[-1073,47,-4619]@ 
-§7and return them to Dodegar @§7затем вернись к Dodegar'у
-§7Dodegar needs [17 Gollier Iron] @§7Dodegar'у нужно 
-§7from the Golliers near @§7[17 Gollier Железа] с Golliers на
+§7and return them to Dodegar @§7затем вернись к Додегару
+§7Dodegar needs [17 Gollier Iron] @§7Додегару нужно 
+§7from the Golliers near @§7[17 Gollier Iron] с Golliers на 
 §7[-768,48,-4516]@ 
-§7Dodegar wants [30 Soft Whetstones] @§7Dodegar хочет [30 Мягких брусков] 
+§7Dodegar wants [30 Soft Whetstones] @§7Dodegar хочет [30 Мягких Брусков] 
 §7from the large waterfall, upstream @§7из большого водопада 
-§7to the south-west at @§7на юго-западе
+§7to the south-west at @§7на юго-западе 
 §7[-1142,58,-4432]@ 
 §7Bring back [24 Royal Bug @§7Принеси [24 Крови Королевских 
-§7Blood] to Dodegar from the @§7Жуков] к Dodegar'у
-§7Royal Bugs at @§7 с мобов Royal Bugs на
+§7Blood] to Dodegar from the @§7Жуков] к Додегару 
+§7Royal Bugs at @§7с мобов Royal Bugs на 
 §7[-642,47,-4735]@ 
  
 QUESTS/The_Worm_Holes.txt ===== 
-§7Talk to Malo in the @§7Поговори с Malo 
+§7Talk to Malo in the @§7Поговори с Мало 
 §7swamps at @§7на болоте 
 §7[-2062,56,-5415]@ 
-§7Find the Slimy Skin, Giant @§7Найди Слизкую Кожу, Гигантский 
-§7Teeth, Odd Scat and Sharp @§7 Зуб, Странный Помет и 
-§7Scales, then return to Malo @§7Острую Чешую, затем вернись к Malo 
+§7Find the Slimy Skin, Giant @§7Найди Слизистую Кожу, Гигантский 
+§7Teeth, Odd Scat and Sharp @§7Зуб, Странный Помет и 
+§7Scales, then return to Malo @§7Острую Чешую, затем вернись к Мало 
 §7Investigate the larger holes @§7Исследуй большие дыры поблизости 
-§7Return to Malo with an @§7Вернись к Malo 
+§7Return to Malo with an @§7Вернись к Мало 
 §7unhatched egg @§7с невылупившемся яйцом 
 §7Investigate the hole to the @§7Исследуй дыру 
 §7north in the lake @§7на севере в озере 
 §7[-2044,50,-5529]@ 
-§7Return to Malo @§7Вернись к Malo 
+§7Return to Malo @§7Вернись к Мало
  
 QUESTS/Tower_of_Ascension.txt 
-§7Talk to Ankou at @§7Поговори с Ankou на 
+§7Talk to Ankou at @§7Поговори с Анкоу на 
 §7[-350,14,-389]@ 
 §7Begin the First Floor @§7Начни Первый этаж 
 §7Begin the Second Floor @§7Начни Второй этаж 
 §7Collect 10 tokens and hand @§7Собери 10 жетонов и 
-§7them to the Floor Master @§7отдай их Floor Master'у 
+§7them to the Floor Master @§7отдай их Мастеру Этажа 
 §7Collect the boss token and @§7Собери жетон с босса и 
-§7hand it to the Floor @§7отдай его Floor 
-§7Master @§7Master'у 
+§7hand it to the Floor @§7отдай его Мастеру 
+§7Master @§7Этажа 
 §7Begin the Third Floor @§7Начни Третий этаж 
 §7Begin the Fourth Floor @§7Начни Четвертый этаж 
 §7Begin the Fifth Floor @§7Начни Пятый этаж 
@@ -2182,10 +2182,10 @@ QUESTS/Tower_of_Ascension.txt
 §7Begin the Seventh Floor @§7Начни Седьмой этаж 
  
 QUESTS/Tribal_Aggression.txt ===== 
-§7Talk to Caras at [1077, @§7Поговори с Caras'ом на [1077, 
+§7Talk to Caras at [1077, @§7Поговори с Карасом на [1077, 
 §784, -1613] @ 
 §7Enter the Eagle Camp and @§7Иди в лагерь Орлов 
-§7talk to Favian @§7и поговори с Favian'ом 
+§7talk to Favian @§7и поговори с Фавианом 
 §7Bring back the Eagle Totem @§7Принеси назад тотем Орлов 
 §7from the Owl Camp @§7из лагеря Сов 
 §7Retrieve the Owl Totem and @§7Забери тотем Сов 
@@ -2193,21 +2193,21 @@ QUESTS/Tribal_Aggression.txt =====
 §7Camp @§7Орлов 
  
 QUESTS/Troubled_Tribesmen.txt 
-§7Speak with Ka L'argwit at @§7Поговори с Ka L'argwit'ом на 
+§7Speak with Ka L'argwit at @§7Поговори с Ка Ларгвитом на 
 §7[-545,52,-313]@ 
-§7in Dernel. @§7в Dernel джунглях. 
-§7Talk to Krattson in the @§7Поговори с Krattson'ом в
-§7Dernel Village @§7Деревне Dernel
-§7Find the Tribe Shaman at @§7Найди Шамана племени на
+§7in Dernel. @§7в Дернел джунглях. 
+§7Talk to Krattson in the @§7Поговори с Краттсоном в
+§7Dernel Village @§7Деревне Дернел
+§7Find the Tribe Shaman at @§7Найди Шамана племени на 
 §7the fork in the road @§7развилке дороги
-§7Return to Ka L'argwit @§7Вернись к Ka L'argwit'у
+§7Return to Ka L'argwit @§7Вернись к Ка Ларгвиту
  
 QUESTS/Tunnel_Trouble.txt ===== 
-§7Talk to Captain Fenor in @§7Поговори с Капитаном Fenor'ом 
-§7front of Detlas at [379,67,-1569]. @§7перед Detlas'ом на [379,67,-1569] 
+§7Talk to Captain Fenor in @§7Поговори с Капитаном Фенором 
+§7front of Detlas at [379,67,-1569]. @§7перед Детласом на [379,67,-1569].
 §7Enter the cave behind Captain @§7Войди в пещеру позади 
-§7Fenor at [384,67,-1557]. @§7Капитана Fenor'а на [384,67,-1557] 
-§7Help Miner Linton remove the @§7Помоги Miner Linton'у 
+§7Fenor at [384,67,-1557]. @§7Капитана Фенора на [384,67,-1557].
+§7Help Miner Linton remove the @§7Помоги Шахтеру Линтону 
 §7debris blocking the path. @§7убрать мусор, блокирующий проход 
 §7Clear the cave of possible @§7Очисти пещеру от 
 §7roadblocks. @§7возможных препятствий 
@@ -2216,35 +2216,35 @@ QUESTS/Tunnel_Trouble.txt =====
 §7pile of debris. @§7обломков 
 §7Free the cows without being @§7Освободи коров, чтобы 
 §7seen by the farmer. @§7тебя не увидел фермер 
-§7Return to Drale about your @§7Расскажи Drale 
+§7Return to Drale about your @§7Расскажи Дрэйлу 
 §7success. @§7о своем успехе 
-§7Help Drale push the raft @§7Помоги Drale 
+§7Help Drale push the raft @§7Помоги Дрэйлу 
 §7with the cows out to @§7подтолкнуть плот с коровами 
 §7sea. @§7в море 
-§7Return to Miner Linton back @§7Вернись к Miner Linton'у обратно 
+§7Return to Miner Linton back @§7Вернись к Шахтеру Линтону обратно 
 §7in the abandoned cave. @§7в заброшенную пещеру 
-§7Speak to Sergeant Klafson next @§7Поговори с Сержантом Klafson'ом 
+§7Speak to Sergeant Klafson next @§7Поговори с Сержантом Клафсоном 
 §7to the Ragni entrance of @§7рядом со входом 
 §7the cave. @§7в пещеру 
  
 QUESTS/Underice.txt ===== 
-§7Talk to Fredris in Nesaak @§7Поговори с Fredris'ом в Nesaak'е на 
+§7Talk to Fredris in Nesaak @§7Поговори с Фредрисом в Несааке на 
 §7[157,73,-812]@ 
-§7Return to Nesaak and bring @§7Вернись в Nesaak и принеси 
-§7Fredris a [Breathing Helmet I] @§7Fredris'у [Шлем Подводника I] 
+§7Return to Nesaak and bring @§7Вернись в Несаак и принеси 
+§7Fredris a [Breathing Helmet I] @§7Фредрису [Шлем Подводника I] 
 §7Buy a [Breathing Helmet II] @§7Купи [Шлем Подводника II] 
 §7and find the underwater cave @§7и найди подводную пещеру 
 §7Explore the cave underneath the @§7Исследуй пещеру под 
-§7frozen lake in Nesaak @§7замерзшим озером в Nesaak'е 
+§7frozen lake in Nesaak @§7замерзшим озером в Несааке 
 §7Follow the river south to @§7Следуй по течению реки на юг, 
 §7find the fishing dock @§7пока не найдешь место для рыбалки 
 §7Obtain the bait at the @§7Найди наживку на лесопилке 
-§7woodcutting camp northwest of Nesaak, @§7на северо-западе от Nesaak'а, 
+§7woodcutting camp northwest of Nesaak, @§7на северо-западе от Несаака, 
 §7use it to catch the @§7используй ее для ловли 
 §7fish at the dock and @§7рыби в доках, затем  
-§7then give it to Calamaro @§7отдай ее Calamaro или 
-§7or Gernald @§7Gernald'у 
-§7Meet up with Fredris in @§7Встреться с Fredris'ом в Nesaak'е 
+§7then give it to Calamaro @§7отдай ее Каламаро или 
+§7or Gernald @§7Гернальду 
+§7Meet up with Fredris in @§7Встреться с Фредрисом в Несааке 
 §7Nesaak and claim your reward @§7и забери свою награду 
  
 QUESTS/Underwater.txt ===== 
