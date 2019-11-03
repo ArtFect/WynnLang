@@ -1750,7 +1750,7 @@ QUESTS/The_Dark_Descent.txt =====
 §7Talk to General Graken at @§7Поговори с Генералом Гракеном на 
 §7[227,45,-1958]@ 
 §7Investigate the house in Ancient @§7Посети дом в Древнем 
-§7Nemract at @§7Nemract'e на 
+§7Nemract at @§7Немрактe на 
 §7[226,49,-1910]@ 
 §7to find the second ruby @§7и найди второй рубин 
 §7Go through the tunnel in @§7Пройди через тоннель 
@@ -1760,15 +1760,15 @@ QUESTS/The_Dark_Descent.txt =====
 §7eyesocket of the dark skull @§7из левой глазницы 
 §7and leave the strange dark @§7черепа и покинь 
 §7realm @§7странную реальность 
-§7Return the ruby to Graken @§7Верни рубин Graken'у 
+§7Return the ruby to Graken @§7Верни рубин Гракену 
  
 QUESTS/The_Envoy_Part_I.txt ===== 
-§7Talk to Olivin in Selchar @§7Поговори с Olivin'ом в Selchar'e 
+§7Talk to Olivin in Selchar @§7Поговори с Оливином в Сельчарe 
 §7[112,66,-3173]@ 
 §7Hop aboard the Corkus sea @§7Зайди на борт капитана корабля 
 §7skipper ship at the dock @§7в доках и 
-§7and enter Corkus. @§7плыви в Corkus 
-§7Talk to the Corkus delegate. @§7Поговори с Делегатом Corkus'а 
+§7and enter Corkus. @§7плыви в Коркус 
+§7Talk to the Corkus delegate. @§7Поговори с Делегатом Коркуса 
 §7Find the Five Gears Diner @§7Найди столовую 'Пять Шестеренок' 
 §7[-1856,40,-3139]@ 
 §7Find your way out of @§7Найди способ выбраться 
@@ -1778,77 +1778,77 @@ QUESTS/The_Envoy_Part_I.txt =====
 §7Infiltrate the diner. @Проникни в столовую 
 §7Find the exit at @§7Найди выход на 
 §7[-1882,40,-3146]@ 
-§7Tell the delegate what happened. @§7Расскажи делегату что произошло 
+§7Tell the delegate what happened. @§7Расскажи делегату что произошло. 
  
 QUESTS/The_Envoy_Part_II.txt =====
-§7Enter Maxie's house at [-1571,68,-2876]. @§7Войди в дом Maxie на [-1571,68,-2876] 
-§7Talk to Maxie on the @§7Поговори с Maxie
+§7Enter Maxie's house at [-1571,68,-2876]. @§7Войди в дом Макси на [-1571,68,-2876] 
+§7Talk to Maxie on the @§7Поговори с Макси
 §7Find the catapult at [-1712,38,-3100]. @§7Найди катапульту на [-1712,38,-3100]. 
-§7Locate the Avos Chief by @§7Найди главаря Avos'ов,
-§7asking the Avos citizens. @§7 опрашивая жителей.
+§7Locate the Avos Chief by @§7Найди главаря Авосов, 
+§7asking the Avos citizens. @§7опрашивая жителей.
 §7Talk to the chief's friend @§7Поговори с другом главаря 
 §7at [-1587,147,-3321]. @§7на [-1587,147,-3321]. 
 §7Meet the grandmaster behind her @§7Встреться с магистром позади дома, 
 §7house and get over the @§7чтобы пройти через каньон 
 §7gap and enter the temple. @§7и попасть в храм 
 §7Find the key inside the @§7Найди ключ внутри 
-§7Return to Maxie in his @§7Вернись к Maxie в его доме 
+§7Return to Maxie in his @§7Вернись к Макси в его доме 
 §7house with the first key. @§7с первым ключем 
 §7Find the vault in Corkus @§7Найди хранилище 
-§7City at [-1498,69,-2910]. @§7в Corkus City на [-1498,69,-2910].
+§7City at [-1498,69,-2910]. @§7в Коркус Сити на [-1498,69,-2910].
 §7Look for the hidden mech @§7Отыщи тайную базу роботов
-§7Retrieve the key from the @§7Забери ключ с роботов
+§7Retrieve the key from the @§7Забери ключ с роботов 
 §7base. @§7базы
-§7Find Maxie at @§7Найди Maxie на
+§7Find Maxie at @§7Найди Макси на 
 §7[-1396,66,-2400]@ 
 §7and give him the key. @§7и отдай ему ключ.
-§7Find Maxie outside the Factory @§7Найди Maxie снаружи фабрики 
+§7Find Maxie outside the Factory @§7Найди Макси снаружи фабрики 
 §7at [-1707,75,-2610]. @§7на [-1707,75,-2610].
  
 QUESTS/The_Fortuneteller.txt 
-§7Talk to Jill in Kandon-Beda @§7Поговори с Jill в Kandon-Beda на 
+§7Talk to Jill in Kandon-Beda @§7Поговори с Джилл в Кандон-Бэда на 
 §7[746,150,-4468]@ 
-§7Search the Castle near Kandon-Beda@§7Обыщи замок рядом с Kandon-Beda
+§7Search the Castle near Kandon-Beda@§7Обыщи замок рядом с Кандон-Бэда 
 §7for a treasure map at@§7и найди карту сокровищ на
 §7[901,96,-4406]@ 
-§7Return to Jill in Kandon-Beda@Вернись к Jill в Kandon-Beda
+§7Return to Jill in Kandon-Beda@Вернись к Джилл в Кандон-Бэда 
 §7with the treasure@вместе с сокровищем
  
 QUESTS/The_Headless_Hunt.txt =====
-§7Talk to Referick in the @§7Поговори с Referick'ом 
-§7dark forest at @§7в Dark Forest'е на 
+§7Talk to Referick in the @§7Поговори с Рефериком 
+§7dark forest at @§7в Дарк Форесте на 
 §7[-1081,48,-5368]@ 
 §7Investigate the strange cave under @§7Посети странную пещеру 
 §7the castle further @§7под замком неподалеку 
 §7Return the Lost Soul of @§7Верни пропавшую душу 
-§7Referick to its owner @§7Referick'а ее владельцу
+§7Referick to its owner @§7Реферика ее владельцу
 §7Search for any potential source @§7Отыщи потенциальный источник 
-§7of problems with Referick @§7проблем с Referick'ом 
+§7of problems with Referick @§7проблем с Рефериком 
 §7Go to the Dullahan's old @§7Иди в старое поместье 
-§7mansion at [-816, 45, -5147] @§7Dullahan'а на [-816, 45, -5147] 
+§7mansion at [-816, 45, -5147] @§7Дуллахана на [-816, 45, -5147] 
 §7Search the Dullahan's old mansion @§7Обыщи старое поместье  
-§7for the story of the @§7Dullahan'а и найди историю 
-§7Dullahan @§7Dullahan'а 
-§7Go underneath the Dullahan's mansion @§7Иди под поместье Dullahan'а 
+§7for the story of the @§7Дуллахана и найди историю 
+§7Dullahan @§7Дуллахана 
+§7Go underneath the Dullahan's mansion @§7Иди под поместье Дуллахана 
 §7to investigate the blood altar @§7и исследуй кровавый алтарь
 §7Destroy the Lost Spirits to @§7Уничтожь Lost Spirits 
 §7free them @§7чтобы освободить всех
-§7Show Referick proof that you @§7Покажи Referick'у доказательства, 
+§7Show Referick proof that you @§7Покажи Реферику доказательства, 
 §7have freed the spirits of @§7что ты освободил души 
-§7the Dullahan's victims @§7жертв Dullahan'а 
+§7the Dullahan's victims @§7жертв Дуллахана 
  
 QUESTS/The_Hidden_City.txt 
-§7Talk to Narder at the @§7Поговори с Narder'ом возле 
-§7Thesead Coal Mines at @§7угольной шахты Thesead'a на 
+§7Talk to Narder at the @§7Поговори с Нардером возле 
+§7Thesead Coal Mines at @§7угольной шахты Тесеадa на 
 §7[661,78,-5070]@ 
 §7Head to @§7Отправляйся на 
 §7[890,47,-5388]@ 
 §7to find the human town @§7и найди город людей 
-§7Talk to Eltom Guard @Поговори с Eltom Guard'ом 
-§7Talk to Mayor Eoric in @§7Поговори с Мэром Eoric'ом 
+§7Talk to Eltom Guard @Поговори с Элтом Стражем 
+§7Talk to Mayor Eoric in @§7Поговори с Мэром Эориком 
 §7the town hall at @§7в ратуше на 
 §7[932,119,-5516]@ 
-§7Ask Eltom Citizens about the @§7Расспроси жителей Eltom насчет 
+§7Ask Eltom Citizens about the @§7Расспроси жителей Элтома насчет 
 §7note @§7записки 
 §7Inspect anything beyond the Eastern @§7Осмотри все, что находится 
 §7Exit at @§7за восточным выходом 
@@ -1856,69 +1856,69 @@ QUESTS/The_Hidden_City.txt
 §7Inspect the house @§7Посети дом 
 §7Read the note on the @§7Прочитай записку 
 §7table @§7на столе 
-§7Head to Eltom's Airbase at @§7Отправся на авиабазу Eltom'а 
+§7Head to Eltom's Airbase at @§7Отправся на авиабазу Элтома 
 §7[968,152,-5463]@ 
 §7Head up the Airbase's Tower @§7Поднимись на башню авиабазы 
 §7to confront the hooded man @§7и сразись с человеком в капюшоне 
-§7Board the Eltom Cargo Ship @§7Зайди на борт торгового корабля Eltom'а 
-§7Talk to Thesead's Mayor at @§7Поговори с Thesead's Мэром 
+§7Board the Eltom Cargo Ship @§7Зайди на борт торгового корабля Элтома 
+§7Talk to Thesead's Mayor at @§7Поговори с Мэром Тесеада 
 §7[832,113,-4994]@ 
-§7at the top of Thesead @§7в башне Thesead'а 
+§7at the top of Thesead @§7в башне Тесеада 
  
 QUESTS/The_House_of_Twain_(Quest).txt ===== 
-§7Talk to Twendle at the @§7Поговори с Twendle'ом 
-§7House of Twain at @§7у Поместья Twain'ов на 
+§7Talk to Twendle at the @§7Поговори с Твендлом 
+§7House of Twain at @§7у Поместья Твейнов на 
 §7[12,76,-456]@ 
-§7Bring [1 Twain Journal] to @§7Принеси [1 Журнал Twain'а] к 
-§7Twendle @ 
+§7Bring [1 Twain Journal] to @§7Принеси [1 Журнал Твейна] к 
+§7Twendle @§7Твендлу
  
 QUESTS/The_Hunger_of_Gerts_Part_I.txt 
-§7Talk to Cikal at @§7Поговори с Cikal'ом на 
+§7Talk to Cikal at @§7Поговори с Цикалом на 
 §7[-35,68,-5413]@ 
 §7Look around the farms near @§7Осмотри фермы около 
-§7the lake Gylia @§7озера Gylia
+§7the lake Gylia @§7озера Гилия
 §7Inspect the Gerten forwarding camp @§7Посети небольшой 
 §7nearby @§7лагерь Гертов поблизости
 §7Enter the dark cave in @§7Зайди в темную пещеру 
 §7the back of the camp @§7в конце лагеря
 §7Explore the Gerten cave @§7Исследуй пещеру Гертов
 §7Spy on the Gerten meeting @§7Подслушай встречу Гертов
-§7Tell farmer Jitak about the @§7Расскажи фермеру Jitak'у 
+§7Tell farmer Jitak about the @§7Расскажи фермеру Житаку 
 §7tunnel @§7насчет тоннеля
-§7Bring Jitak [6 Gert Skin] @§7Принеси Jitak'у 6 [Кожи Герта]
+§7Bring Jitak [6 Gert Skin] @§7Принеси Житаку 6 [Gert Skin]
 §7Go to the Gerten Camp @§7Иди в лагерь Гертов
 §7[18,34,-5343] @ 
-§7Talk to the Gerten Captain @§7Поговори с Gerten Капитаном
+§7Talk to the Gerten Captain @§7Поговори с Герт Капитаном
 §7[31,34,-5339]@ 
-§7Find the password and return @§7Найди пароль и вернись
+§7Find the password and return @§7Найди пароль и вернись 
 §7to the Gerten Captain @§7к Капитану Гертов
-§7Inspect the tunnel at @§7Исследуй тоннель на
+§7Inspect the tunnel at @§7Исследуй тоннель на 
 §7[27,31,-5336]@ 
 §7Escape your cell @§7Сбеги из клетки
 §7Escape the Gerten prison @§7Сбеги из тюрьмы Гертов
-§7Head to the cell at @§7Подойди к клетке на
+§7Head to the cell at @§7Подойди к клетке на 
 §7[-808,47,-8217]@ 
-§7and investigate @§7и исследуй
+§7and investigate @§7и исследуй 
 §7Leave the Gerten prison and @§7Покинь тюрьму Гертов 
-§7return to Cikal to tell @§7и вернись к Cikal'у 
+§7return to Cikal to tell @§7и вернись к Цикалу 
 §7him about the tunnels @§7с рассказом о тоннелях
 
 QUESTS/The_Hunger_of_Gerts_Part_II.txt 
-§7Talk to Gerten Chief Lobo @§7Поговори с Gerten Chief Lobo на 
+§7Talk to Gerten Chief Lobo @§7Поговори с Герт Шеф Лобо на 
 §7[-141,82,-5607]@ 
-§7Head to Jitaks house at @§7Отправляйся к дому Jitak'а на 
+§7Head to Jitaks house at @§7Отправляйся к дому Житака на 
 §7[-169,32,-5470]@ 
-§7Talk to Gerten Excavator at @§7Поговори с Gerten Excavator'ом на 
+§7Talk to Gerten Excavator at @§7Поговори с Герт Раскопщиком на 
 §7[-181,22,-5472]@ 
-§7Enter Jitaks basement using the @§7Войди в подвал дома Jitak'а 
-§7hole Gerten Excavator has dug @§7используя дыру Gerten Excavator'а 
+§7Enter Jitaks basement using the @§7Войди в подвал дома Житака 
+§7hole Gerten Excavator has dug @§7используя дыру Герт Раскопщика 
 §7Find a way in to @§7Найди путь 
 §7the battery farm from Jitaks @§7на птицефабрику 
-§7basement @§7из подвала Jitak'а 
+§7basement @§7из подвала Житака 
 §7Find a way out of @§7Найди выход 
 §7the first room of the @§7из первой комнаты 
 §7battery farm @§7птицефабрики 
-§7Talk to Captured Gert @§7Поговори с Заключенным Gert'ом 
+§7Talk to Captured Gert @§7Поговори с Заключенным Гертом 
 §7Turn off the power at @§7Отключи энергию на 
 §7[-1011,18,-7870]@ 
 §7the second room of the @§7из второй комнаты 
@@ -1929,130 +1929,130 @@ QUESTS/The_Hunger_of_Gerts_Part_II.txt
 §7Crate] @§7Высокого Качества] 
  
 QUESTS/The_Lost.txt ===== 
-§7Find Dejol at @§7Найди Dejol'а на 
+§7Find Dejol at @§7Найди Дежола на 
 §7[452,28,-4456]@ 
 §7Find the remaining 5 members @§7Найди оставшихся 5 участников 
-§7of Dejol's crew @§7команды Dejol'а 
+§7of Dejol's crew @§7команды Дежола 
 §7Find the remaining 4 members @§7Найди оставшихся 4 участника 
 §7Find the remaining 3 members @§7Найди оставшихся 3 участников 
 §7Find the remaining 2 members @§7Найди оставшихся 2 участников 
 §7Find the last missing member @§7Найди последнего оставшегося участника 
-§7Return to Dejol to tell @§7Вернись к Dejol'у, и расскажи 
+§7Return to Dejol to tell @§7Вернись к Дежолу, и расскажи 
 §7him of your success @§7что все прошло успешно 
  
 QUESTS/The_Maiden_Tower.txt =====
-§7Visit Sherk at @§7Посети Sherk'а на 
+§7Visit Sherk at @§7Посети Шерка на 
 §7[-2172,54,-5118]@ 
 §7Find the tower and ask @§7Найди башню и попроси 
 §7nearby villagers for help @§7ближайших жителей о помощи 
 §7[-1955,63,-5351]@ 
 §7Find the corpse of the @§7Найди труп колдуна 
-§7warlock in the Olux catacombs @§7в катакомбах Olux'а 
+§7warlock in the Olux catacombs @§7в катакомбах Олукса 
 §7Retrieve the Black Veil and @§7Отыщи Черную Вуаль 
 §7return to the tower at @§7и вернись к башне на 
 §7[-1949,63,-5347]@ 
 §7Bring back the [Cursed Maiden @§7Принеси [Проклятую Девичью 
-§7Essence] to Sherk at @§7Эссенцию] к Sherk'у на
+§7Essence] to Sherk at @§7Эссенцию] к Шерку на
  
 QUESTS/The_Mercenary.txt ===== 
-§7Talk to Mylo in Nemract @§7Поговори с Mylo в Nemract'е на 
+§7Talk to Mylo in Nemract @§7Поговори с Майло в Немракте на 
 §7[184,54,-2141]@ 
-§7Talk to Amerigo in Almuj @§7Поговори с Amerigo в Almuj'е 
+§7Talk to Amerigo in Almuj @§7Поговори с Америго в Алмуже 
 §7[978,83,-1973]@ 
 §7Sneak into the Barracks at @§7Проникни в барраки на 
 §7[1349,77,-2283]@ 
-§7and assassinate Takan @§7и скрытно убей Takan'a 
-§7Bring Takan's Badge back to @§7Принеси Значок Takan'a 
-§7Amerigo at @§7адмиралу Amerigo 
+§7and assassinate Takan @§7и скрытно убей Таканa 
+§7Bring Takan's Badge back to @§7Принеси Значок Таканa 
+§7Amerigo at @§7к Америго на 
  
 QUESTS/The_Passage_(Quest).txt ===== 
-§7Talk to Wirt in Troms @§7Поговори с Wirt'ом в Troms'е на 
+§7Talk to Wirt in Troms @§7Поговори с Виртом в Тромсе на 
 §7[-820,94,-1040]@ 
-§7Find Ildan in Troms at @§7Найди Ildan'а в Troms'е 
+§7Find Ildan in Troms at @§7Найди Илдана в Тромсе 
 §7[-870,94,-1034]@ 
 §7and ask to be a @§7и попроси разрешения стать 
 §7member of the town @§7жителем города 
 §7Search for clues near @§7Отыщи подсказки возле 
 §7[-712,57,-658]@ 
-§7and bring back [1 Antic @§7Tribal Sanctuary и принеси [1 Древние 
-§7Bead] to Ildan. @§7Бусы] Ildan'у 
+§7and bring back [1 Antic @§7и принеси [1 Древние 
+§7Bead] to Ildan. @§7Бусы] Илдану 
  
 QUESTS/The_Qira_Hive_(Quest).txt =====
-§7Talk to Yansur at @§7Поговори с Yansur'ом 
+§7Talk to Yansur at @§7Поговори с Янсуром 
 §7[372,66,-5501]@ 
-§7and begin the Hive Challenge @§7и начни Hive челлендж 
+§7and begin the Hive Challenge @§7и начни Челлендж Улья
 §7Prepare to enter the Thunder @§7Подготовься к прохождению Грома 
-§7Collect 5 Thunder Catalyst I @§7Собери 5 Thunder Catalyst I 
-§7Collect 5 Thunder Catalyst II @§7Собери 5 Thunder Catalyst II 
-§7Collect 5 Thunder Catalyst III @§7Собери 5 Thunder Catalyst III 
-§7Collect 5 Thunder Catalyst IV @§7Собери 5 Thunder Catalyst IV 
-§7Collect 5 Thunder Catalyst V @§7Собери 5 Thunder Catalyst V 
-§7Collect 5 Thunder Catalyst VI @§7Собери 5 Thunder Catalyst VI 
-§7Collect 5 Thunder Catalyst VII @§7Собери5 Thunder Catalyst VII 
-§7Collect 5 Thunder Catalyst VIII @§7Собери5 Thunder Catalyst VIII 
-§7Collect 5 Thunder Catalyst IX @§7Собери 5 Thunder Catalyst IX 
+§7Collect 5 Thunder Catalyst I @§7Собери 5 Катализатор Грома I 
+§7Collect 5 Thunder Catalyst II @§7Собери 5 Катализатор Грома II 
+§7Collect 5 Thunder Catalyst III @§7Собери 5 Катализатор Грома III 
+§7Collect 5 Thunder Catalyst IV @§7Собери 5 Катализатор Грома IV 
+§7Collect 5 Thunder Catalyst V @§7Собери 5 Катализатор Грома V 
+§7Collect 5 Thunder Catalyst VI @§7Собери 5 Катализатор Грома VI 
+§7Collect 5 Thunder Catalyst VII @§7Собери5 Катализатор Грома VII 
+§7Collect 5 Thunder Catalyst VIII @§7Собери5 Катализатор Грома VIII 
+§7Collect 5 Thunder Catalyst IX @§7Собери 5 Катализатор Грома IX 
 §7Defeat the Psychomancer and collect @§7Победи Psychomancer'а 
-§71 Thunder Catalyst X @§7и собери 1 Thunder Catalyst X 
-§7Talk to Yansur to receive @§7Поговори с Yansur'ом и получи 
+§71 Thunder Catalyst X @§7и собери 1 Катализатор Грома X 
+§7Talk to Yansur to receive @§7Поговори с Янсуром и получи 
 §7your prize for overcoming the @§7свой приз за прохождение 
 §7Thunder Division @§7Дивизии Грома 
 §7Prepare to enter the Air @§7Подготовься к прохождению Воздуха 
 §7division @§7Дивизии 
-§7Collect 5 Air Catalyst I @§7Собери 5 Air Catalyst I 
-§7Collect 5 Air Catalyst II @§7Собери 5 Air Catalyst II 
-§7Collect 5 Air Catalyst III @§7Собери 5 Air Catalyst III 
-§7Collect 5 Air Catalyst IV @§7Собери 5 Air Catalyst IV 
-§7Collect 5 Air Catalyst V @§7Собери 5 Air Catalyst V 
-§7Collect 5 Air Catalyst VI @§7Собери 5 Air Catalyst VI 
-§7Collect 5 Air Catalyst VII @§7Собери 5 Air Catalyst VII 
-§7Collect 5 Air Catalyst VIII @§7Собери 5 Air Catalyst VIII 
-§7Collect 5 Air Catalyst IX @§7Собери 5 Air Catalyst IX 
+§7Collect 5 Air Catalyst I @§7Собери 5 Катализатор Воздуха I 
+§7Collect 5 Air Catalyst II @§7Собери 5 Катализатор Воздуха II 
+§7Collect 5 Air Catalyst III @§7Собери 5 Катализатор Воздуха III 
+§7Collect 5 Air Catalyst IV @§7Собери 5 Катализатор Воздуха IV 
+§7Collect 5 Air Catalyst V @§7Собери 5 Катализатор Воздуха V 
+§7Collect 5 Air Catalyst VI @§7Собери 5 Катализатор Воздуха VI 
+§7Collect 5 Air Catalyst VII @§7Собери 5 Катализатор Воздуха VII 
+§7Collect 5 Air Catalyst VIII @§7Собери 5 Катализатор Воздуха VIII 
+§7Collect 5 Air Catalyst IX @§7Собери 5 Катализатор Воздуха IX 
 §7Defeat the Spirit of Gale @§7Победи Spirit of Gale 
-§7and collect 1 Air Catalyst @§7и собери 1 Air Catalyst 
+§7and collect 1 Air Catalyst @§7и собери 1 Катализатор Воздуха 
 §7Air Division @§7Дивизии Воздуха
 §7Prepare to enter the Earth @§7Подготовься к прохождению Земли 
-§7Collect 5 Earth Catalyst I @§7Собери 5 Earth Catalyst I
-§7Collect 5 Earth Catalyst II @§7Собери 5 Earth Catalyst II
-§7Collect 5 Earth Catalyst III @§7Собери 5 Earth Catalyst III
-§7Collect 5 Earth Catalyst IV @§7Собери 5 Earth Catalyst IV
-§7Collect 5 Earth Catalyst V @§7Собери 5 Earth Catalyst V
-§7Collect 5 Earth Catalyst VI @§7Собери 5 Earth Catalyst VI
-§7Collect 5 Earth Catalyst VII @§7Собери 5 Earth Catalyst VII
-§7Collect 5 Earth Catalyst VIII @§7Собери 5 Earth Catalyst VIII
-§7Collect 5 Earth Catalyst IX @§7Собери 5 Earth Catalyst IX
-§7Defeat Genesis-Revorse and collect 1 @§7Победи Genesis-Revorse и собери 1
-§7Earth Catalyst X @ 
+§7Collect 5 Earth Catalyst I @§7Собери 5 Катализатор Земли I
+§7Collect 5 Earth Catalyst II @§7Собери 5 Катализатор Земли II
+§7Collect 5 Earth Catalyst III @§7Собери 5 Катализатор Земли III
+§7Collect 5 Earth Catalyst IV @§7Собери 5 Катализатор Земли IV
+§7Collect 5 Earth Catalyst V @§7Собери 5 Катализатор Земли V
+§7Collect 5 Earth Catalyst VI @§7Собери 5 Катализатор Земли VI
+§7Collect 5 Earth Catalyst VII @§7Собери 5 Катализатор Земли VII
+§7Collect 5 Earth Catalyst VIII @§7Собери 5 Катализатор Земли VIII
+§7Collect 5 Earth Catalyst IX @§7Собери 5 Катализатор Земли IX
+§7Defeat Genesis-Revorse and collect 1 @§7Победи Genesis-Revorse и собери 1 
+§7Earth Catalyst X @§7Катализатор Земли X
 §7Earth Division @§7Дивизии Земли
 §7Prepare to enter the Water @§7Подготовься к прохождению Воды 
-§7Collect 5 Water Catalyst I @§7Собери 5 Water Catalyst I 
-§7Collect 5 Water Catalyst II @§7Собери 5 Water Catalyst II 
-§7Collect 5 Water Catalyst III @§7Собери 5 Water Catalyst III
-§7Collect 5 Water Catalyst IV @§7Собери 5 Water Catalyst IV 
-§7Collect 5 Water Catalyst V @§7Собери 5 Water Catalyst V 
-§7Collect 5 Water Catalyst VI @§7Собери 5 Water Catalyst VI 
-§7Collect 5 Water Catalyst VII @§7Собери 5 Water Catalyst VII 
-§7Collect 5 Water Catalyst VIII @§7Собери 5 Water Catalyst VIII 
-§7Collect 5 Water Catalyst IX @§7Собери 5 Water Catalyst IX 
-§7Defeat the Oceanic Judge and @§7Победи Oceanic Judge и
-§7collect 1 Water Catalyst X @§7собери 1 Water Catalyst X
-§7Water Division @§7Дивизии Воды
+§7Collect 5 Water Catalyst I @§7Собери 5 Катализатор Воды I 
+§7Collect 5 Water Catalyst II @§7Собери 5 Катализатор Воды II 
+§7Collect 5 Water Catalyst III @§7Собери 5 Катализатор Воды III
+§7Collect 5 Water Catalyst IV @§7Собери 5 Катализатор Воды IV 
+§7Collect 5 Water Catalyst V @§7Собери 5 Катализатор Воды V 
+§7Collect 5 Water Catalyst VI @§7Собери 5 Катализатор Воды VI 
+§7Collect 5 Water Catalyst VII @§7Собери 5 Катализатор Воды VII 
+§7Collect 5 Water Catalyst VIII @§7Собери 5 Катализатор Воды VIII 
+§7Collect 5 Water Catalyst IX @§7Собери 5 Катализатор Воды IX 
+§7Defeat the Oceanic Judge and @§7Победи Oceanic Judge и 
+§7collect 1 Water Catalyst X @§7собери 1 Катализатор Воды X
+§7Water Division @§7Дивизии Воды 
 §7Prepare to enter the Fire @§7Подготовься к прохождению Огня 
-§7Collect 5 Fire Catalyst I @§7Собери 5 Fire Catalyst I
-§7Collect 5 Fire Catalyst II @§7Собери 5 Fire Catalyst II
-§7Collect 5 Fire Catalyst III @§7Собери 5 Fire Catalyst III
-§7Collect 5 Fire Catalyst IV @§7Собери 5 Fire Catalyst IV
-§7Collect 5 Fire Catalyst V @§7Собери 5 Fire Catalyst V
-§7Collect 5 Fire Catalyst VI @§7Собери 5 Fire Catalyst VI
-§7Collect 5 Fire Catalyst VII @§7Собери 5 Fire Catalyst VII
-§7Collect 5 Fire Catalyst VIII @§7Собери 5 Fire Catalyst VIII
-§7Collect 5 Fire Catalyst IX @§7Собери 5 Fire Catalyst IX
+§7Collect 5 Fire Catalyst I @§7Собери 5 Катализатор Огня I
+§7Collect 5 Fire Catalyst II @§7Собери 5 Катализатор Огня II
+§7Collect 5 Fire Catalyst III @§7Собери 5 Катализатор Огня III
+§7Collect 5 Fire Catalyst IV @§7Собери 5 Катализатор Огня IV
+§7Collect 5 Fire Catalyst V @§7Собери 5 Катализатор Огня V
+§7Collect 5 Fire Catalyst VI @§7Собери 5 Катализатор Огня VI
+§7Collect 5 Fire Catalyst VII @§7Собери 5 Катализатор Огня VII
+§7Collect 5 Fire Catalyst VIII @§7Собери 5 Катализатор Огня VIII
+§7Collect 5 Fire Catalyst IX @§7Собери 5 Катализатор Огня IX
 §7Defeat the Solar Vanguard and @§7Победи Solar Vanguard и 
-§7collect 1 Fire Catalyst X @§7собери 1 Fire Catalyst X
+§7collect 1 Fire Catalyst X @§7собери 1 Катализатор Огня X
 §7Fire Division and complete the @§7Дивизию Огня и пройди 
 §7Hive Challenge @§7Челлендж Улья
 §7Prepare to enter the chambers @§7Подготовься к вхождению в камеру 
-§7of Mistress Qira  @§7Госпожи Qira
-§7Talk to Yansur and truly @§7Поговори с Yansur'ом и полностью 
+§7of Mistress Qira @§7Госпожи Киры
+§7Talk to Yansur and truly @§7Поговори с Янсуром и полностью 
 §7complete the Hive Challenge @§7заверши Челлендж Улья
 
 QUESTS/The_Realm_of_Light_(Quest).txt =====
