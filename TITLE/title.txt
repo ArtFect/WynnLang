@@ -60,7 +60,7 @@
 §7Seems like there's a discussion going on...@§7Похоже, тут идет дискуссия...
 §eSeems like there's something going on at the tomb...@§eПохоже, в гробнице что-то происходит.
 §cThe server you were previously on went down, you have been connected to a fallback server@§cСервер, на котором ты был ранее, вышел из строя, ты был подключен к резервному серверу
-§aThe Province of Wynn@§aПровинция Wynn
+§aThe Province of Wynn@§aПровинция Винн
 The server is full!@Сервер заполнен!
 You're rejoining too quickly! Give us a moment to save your data.@Ты слишком быстро перезаходишь! Дай нам время, чтобы сохранить твои данные.
 §aRight§7-§aRight§7-§7§n?@§aПравая§7-§aПравая§7-§7§n?
@@ -296,7 +296,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте!
 §bSomewhere In Between@§bГде-то Между
 §bRagni's Secret Library@§bСекретная Библиотека Рагни
 §bA Hero's Origin@§bПроисхождение Героя
-§bWynn Plains Monument@§bМонумент Wynn Равнин
+§bWynn Plains Monument@§bМонумент Винн Равнин
 §bTotem Pole@§bТотемный Столб
 §bWrecking Ball@§bРазрушительный Шар
 §bRymek Thief@§bРимек Вор
