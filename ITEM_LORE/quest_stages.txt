@@ -1029,7 +1029,7 @@ QUESTS/Hollow_Sirene.txt =====
 
 QUESTS/﻿Ice_Nations.txt ===== 
 §7Talk to Adigard on the @§7Поговори с Адигардом 
-§7Ice Islands at @§7на Айс Исландс 
+§7Ice Islands at @§7на Ледяных Островах 
 §7[806,59,-3353]@ 
 §7Talk to Hallfred about the @§7Поговори с Халлфредом 
 §7peace treaty @§7насчет мирного соглашения 
@@ -1063,9 +1063,9 @@ QUESTS/Jungle_Fever.txt =====
 QUESTS/King%27s_Recruit.txt ===== 
 §7Exit the caravan @§7Покинь караван 
 §7Walk down the path towards @§7Пройди по дороге 
-§7the Wynn Province @§7в сторону провинции Wynn 
+§7the Wynn Province @§7в сторону провинции Винн 
 §7Continue through the Wynn Province @§7Продолжай путь через 
-§7to the castle @§7провинцию Wynn к замку 
+§7to the castle @§7провинцию Винн к замку 
 §7Talk to the old man @§7Поговори со стариком 
 §7Harvest [2 Wheat] and bring @§7Добудь [2 Пшеницы] 
 §7it to the Old Man @§7и принеси ее старику 
@@ -1320,7 +1320,7 @@ QUESTS/Murder_Mystery.txt =====
 
 QUESTS/Mushroom_Man.txt ===== 
 §7Talk to Yahya "The Mushroom @§7Поговори с Йайа "Грибной 
-§7Man" in Nivla's Forest at @§7 Человек" в лесу Нивла на 
+§7Man" in Nivla's Forest at @§7 Человек" в Нивла Лесу на 
 §7[-277,69,-1681]@ 
 §7Bring back [1 Red Mushrooms] @§7Принеси [1 Red Mushroom] 
 §7and [1 Brown Mushrooms] to @§7и [1 Brown Mushroom] для
@@ -1472,11 +1472,11 @@ QUESTS/Redbeard%27s_Booty.txt =====
 §7ocean at @§7в океане на 
 §7[-608,40,-3546]@ 
 §7Find Marston's crew on Pirate @§7Найди команду Марстона 
-§7Cove at @§7в Пайрат Коув бухте 
+§7Cove at @§7в Пиратской Бухте 
 §7[-659,43,-3154]@ 
 §7Hop aboard the Black Ring @§7Поднимайся на борт Black 
 §7down at the dock of @§7Ring, что стоит в доках 
-§7Pirate Cove. @§7Пайрат Коув
+§7Pirate Cove. @§7Пиратской Бухты.
 §7Find the treasure. @§7Найди сокровища 
 §7Leave the hidden island and @§7Покинь тайный остров и останови 
 §7stop the pirates from stealing @§7пиратов от кражи сокровищ 
@@ -1592,7 +1592,7 @@ QUESTS/Star_Thief.txt =====
 QUESTS/Studying_the_Corrupt.txt ===== 
 §7Something is going on at @§7Что-то происходит на 
 §7the big bridge near Time @§7большом мосту рядом 
-§7Valley. Go over there and @§7с Тайм Валлей. 
+§7Valley. Go over there and @§7с Долиной Времени. 
 §7see what's happening. @§7Иди туда и узнай что там. 
 §7[-258,80,-1046]@ 
 §7Head to Elkurn and see @§7Иди в Элкурн и узнай 
@@ -1615,7 +1615,7 @@ QUESTS/Studying_the_Corrupt.txt =====
  
 QUESTS/Taproot_(Quest).txt ===== 
 §7Talk to Hazel in the @§7Поговори с Хазелом 
-§7Dark Forest @§7в Дарк Форесте на 
+§7Dark Forest @§7в Темном Лесу на 
 §7[-1445,46,-5509]@ 
 §7Find The Witch In The @§7Найди Ведьму 
 §7[-1260,44,-5465]@ 
@@ -1636,7 +1636,7 @@ QUESTS/Taproot_(Quest).txt =====
 §7Enter The Taproot @§7Войди в стержневой корень 
 §7Complete the parkour @§7Пройди паркур 
 §7Speak to Tiek @§7Поговори с Тик
-§7Explore the Light Forest @§7Исследуй Лайгт Форест 
+§7Explore the Light Forest @§7Исследуй Светлый Лес 
 §7Talk to Tiek @§7Поговори с Тик 
  
 QUESTS/Temple_of_the_Legends_(Quest).txt ===== 
@@ -1657,10 +1657,10 @@ QUESTS/Temple_of_the_Legends_(Quest).txt =====
 §7around the Nether Portal @§7рядом с порталом в Ад 
 §7Retrieve [1 Light Dust] for @§7Добудь [1 Светопыль] для 
 §7Jorkin to look at @§7Джоркина 
-§7Visit Rayshyroth on the Mage @§7Посети Рейзирота на Мейдж Исланде 
+§7Visit Rayshyroth on the Mage @§7Посети Рейзирота на Острове Магов 
 §7Island to purify the dust @§7чтобы очистить пыль 
-§7Find the cave on Mage @§7Найди пещеру на Мейдж 
-§7Island where the Sky Flux @§7Исланде где спавнится Sky 
+§7Find the cave on Mage @§7Найди пещеру на Острове 
+§7Island where the Sky Flux @§7Магов где спавнится Sky 
 §7gathers @§7Flux 
 §7Give [12 Sky Vapor] to @§7Принеси [12 Небесных Испарений] 
 §7Rayshyroth @§7Рейзироту 
@@ -1685,10 +1685,10 @@ QUESTS/The_Belly_of_the_Beast.txt
 §7Speak to King Burtan at @§7Поговори с Королем Буртаном на 
 §7[51,17,-5242]@ 
 §7Feed the Enchanted Flower to @§7Скорми Зачарованный 
-§7Ozoth at @§7Цветок Ozoth на 
+§7Ozoth at @§7Цветок Озот на 
 §7[175,199,-5188]@ 
 §7Escape from the inside of @§7Выберись изнутри 
-§7Ozoth @ 
+§7Ozoth @§7Озот
 §7Return to King Burtan to @§7Вернись к Королю Буртану 
 §7tell him of your success @§7и расскажи ему об успехе 
  
@@ -1720,7 +1720,7 @@ QUESTS/The_Canyon_Guides.txt
  
 QUESTS/The_Corrupted_Village.txt 
 §7Speak to Orikal outside the @§7Поговори с Орикалом снаружи 
-§7Angry Village at [318,78,-1097]. @§7Angry Village на [318,78,-1097] 
+§7Angry Village at [318,78,-1097]. @§7Злой Деревни на [318,78,-1097] 
 §7Examine the nearby corrupted spike @§7Посети вершину ближайшего шипа 
 §7to the Northeast at [352,69,-1124]. @§7на северо-востоке [352,69,-1124] 
 §7Climb the spike to see @§7Залезь на шип, возможно 
@@ -1815,7 +1815,7 @@ QUESTS/The_Fortuneteller.txt
  
 QUESTS/The_Headless_Hunt.txt =====
 §7Talk to Referick in the @§7Поговори с Рефериком 
-§7dark forest at @§7в Дарк Форесте на 
+§7dark forest at @§7в Темном Лесу на 
 §7[-1081,48,-5368]@ 
 §7Investigate the strange cave under @§7Посети странную пещеру 
 §7the castle further @§7под замком неподалеку 
@@ -2123,7 +2123,7 @@ QUESTS/The_Tower_of_Amnesia_(Quest).txt =====
 §7Talk to Tinemild near Elkurn @§7Поговори с Тинемилдом около Элкурна 
 §7[87,76,-1200]@ 
 §7Bring back [1 Ragni Teleportation @§7Принеси [1 Рагни свиток 
-§7Bring back [1 Detlas Teleportation @§7Принеси [1 Делас свиток 
+§7Bring back [1 Detlas Teleportation @§7Принеси [1 Детлас свиток 
 §7Bring back [1 Nemract Teleportation @§7Принеси [1 Немракт свиток 
 §7Bring back [1 Selchar Teleportation @§7Принеси [1 Сельчар свиток 
 §7Bring back [1 Almuj Teleportation @§7Принеси [1 Алмуж свиток 
@@ -2352,12 +2352,12 @@ QUESTS/WynnExcavation_Site_D.txt
 QUESTS/Zhight_Island_(Quest).txt ===== 
 §7Talk to Zhight of Zhight @§7Поговори с Жигтом на Жигт 
 §7[-542,38,-2755]@ 
-§7Look for Phief at Mage @§7Поищи Пифa на Мейдж 
-§7Island @§7Исланде 
+§7Look for Phief at Mage @§7Поищи Пифa на Магов 
+§7Island @§7Острове 
 §7Find Phief's ship, and return @§7Найди потерянный корабль Пифа 
 §7it to its rightful owner @§7и верни его владельцу 
 §7Get Zhight's supplies from Czytash @§7Получи запасы Жигта от 
-§7at Maro Peaks @§7Кзыташа на Маро Пикс 
+§7at Maro Peaks @§7Кзыташа на Вершинах Маро
 §7Give Zhight his supplies @§7Отдай Жигту его запасы 
  
 §7Bring [5 Forest Webs] to @§7Принеси [5 Forest Webs] к 
