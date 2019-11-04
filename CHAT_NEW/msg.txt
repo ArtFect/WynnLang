@@ -1074,7 +1074,7 @@ This book's title reads...@Названия этих книг гласят...
 §4An eerie feeling radiates from this room...@§4Жуткое чувство исходит из этой комнаты...
 
 ###################################Гильдия##################################
-§4You can join someone else's guild or make a guild in §cCinfras [Lv. 70]@§4Ты можешь присоединиться к чьей-нибудь гильдии, или создать свою в §cCinfras'е [Ур. 70]
+§4You can join someone else's guild or make a guild in §cCinfras [Lv. 70]@§4Ты можешь присоединиться к чьей-нибудь гильдии, или создать свою в §cЦинфрасе [Ур. 70]
 §4/guild join §c[guild] §8-§6 Join a guild@§4/guild join §c[гильдия] §8-§6 Вступить в гильдию
 §4/g §c[message]§8-§6 Talk globally with your guild@§4/g §c[сообщение]§8-§6 Поговорить глобально с гильдией
 §4/guild leaderboard §8-§6 View the guild leaderboard@§4/guild leaderboard §8-§6 Посмотреть таблицу лидеров гильдий
@@ -1130,11 +1130,11 @@ This book's title reads...@Названия этих книг гласят...
 §4You cannot use horses during a guild war.@§4Ты не можешь пользоваться лошадью во время захвата.
 §4You are not in a guild!@§4Ты не состоишь в гильдии!
 §4This guild is full.@§4Эта гильдия заполнена.
-§5Guild Master: §dThere is a 4 character minimum for guild names. Make it a bit longer!@§5Guild Master: §dНеобходимо минимум 4 символа для названия гильдии. Сделай его немного длиннее!
-§5Guild Master: §dPlease only use english characters A-Z in your guild name.@§5Guild Master: §dПожалуйста используй только английские буквы A-Z в названии гильдии.
-§5Guild Master: §dOkay, great! Does this look right?@§5Guild Master: §dХорошо, здорово! Проверь, все ли правильно?
-§5Guild Master: §dNo? Alright! Come back when you're ready!@§5Guild Master: §dНет? Хорошо! Возвращайся когда будешь готов!
-§5Guild Master: §dType /guild to see your guild menu!@§5Guild Master: §dНапиши /guild для просмотра меню гильдии!
+§5Guild Master: §dThere is a 4 character minimum for guild names. Make it a bit longer!@§5Мастер Гильдий: §dНеобходимо минимум 4 символа для названия гильдии. Сделай его немного длиннее!
+§5Guild Master: §dPlease only use english characters A-Z in your guild name.@§5Мастер Гильдий: §dПожалуйста используй только английские буквы A-Z в названии гильдии.
+§5Guild Master: §dOkay, great! Does this look right?@§5Мастер Гильдий: §dХорошо, здорово! Проверь, все ли правильно?
+§5Guild Master: §dNo? Alright! Come back when you're ready!@§5Мастер Гильдий: §dНет? Хорошо! Возвращайся когда будешь готов!
+§5Guild Master: §dType /guild to see your guild menu!@§5Мастер Гильдий: §dНапиши /guild для просмотра меню гильдии!
 §7[-5 Soul Points]@§7[-5 Очков Душ]
 §7[-5 Liquid Emeralds]@§7[-5 Жидких Эмеральдов]
 §cInvalid Arguments. Example: /guild rank [player] [rank]@§cНеправильные аргументы. Пример: /guild rank [игрок] [ранг]
@@ -1144,103 +1144,103 @@ This book's title reads...@Названия этих книг гласят...
 
 ###################################Награды квесты/данжи##################################
 §7+ 1 Max Unrefined Material Weight@§7+ 1 К максимальному весу ресурсов
-§7[+1 Selchar Teleportation Scroll]@§7[+1 Selchar свиток телепортации]
+§7[+1 Selchar Teleportation Scroll]@§7[+1 Сельчар свиток телепортации]
 §7+ Ability to create guilds@§7+ Возможность создать гильдию
 §d            - §7+10240 Emeralds / 0 Emeralds@§d            - §7+10240 Эмеральдов / 0 Эмеральдов
 §d            - §7Kaerynn Armor / Elves' Disappointment@§d            - §7Kaerynn Armor / Разочарование Эльфов
-§d            - §7+1 Gerten Ritual Mask@§d            - §7+1 Ритуальная Маска Gert'ов
-§d            - §7+Access to the Cinfras Scroll Merchant@§d            - §7+ Доступ к магазину свитков в Cinfras'е 
+§d            - §7+1 Gerten Ritual Mask@§d            - §7+1 Ритуальная Маска Гертов
+§d            - §7+Access to the Cinfras Scroll Merchant@§d            - §7+ Доступ к магазину свитков в Цинфрасе 
 §d            - §7+ Access to the Saint's Row Graveyard@§d            - §7+ Доступ к кладбищу Saint's Row
-§d            - §7+1 Sayleros' Brother Ashes@§d            - §7+1 Пыль Брата Sayleros'а
-§d            - §7+Access to fast travel between Ragni and Detlas@§d            - §7+ Доступ к быстрым путешествиям между Ragni и Detlas'ом
-§d            - §7+Access to the Almuj Bank@§d            - §7+ Доступ к Банку Almuj'а
-§d            - §7+1 Maltic Recommendation Letter@§d            - §7+1 Рекомендательное письмо Maltic'а
-§d            - §7+1 Yahya's Stained Bowl@§d            - §7+1 Использованная Миска Yahya
-§d            - §7+1 Decrepit Sewers Dungeon Key@§d            - §7+1 Decrepit Sewers Dungeon Ключ
-§d            - §7+Access to the Decrepit Sewers Dungeon@§d            - §7+ Доступ к данжу Decrepit Sewers
-§d            - §7+1 Infested Pit Key@§d            - §7+1 Infested Pit Ключ
-§d            - §7+Access to the Infested Pit dungeon@§d            - §7+ Доступ к данжу Infested Pit
+§d            - §7+1 Sayleros' Brother Ashes@§d            - §7+1 Пыль Брата Сайлероса
+§d            - §7+Access to fast travel between Ragni and Detlas@§d            - §7+ Доступ к быстрым путешествиям между Рагни и Детласом
+§d            - §7+Access to the Almuj Bank@§d            - §7+ Доступ к Банку Алмужа
+§d            - §7+1 Maltic Recommendation Letter@§d            - §7+1 Рекомендательное письмо Малтика
+§d            - §7+1 Yahya's Stained Bowl@§d            - §7+1 Использованная Миска Йайа
+§d            - §7+1 Decrepit Sewers Dungeon Key@§d            - §7+1 Ветхая Канализация Данж Ключ
+§d            - §7+Access to the Decrepit Sewers Dungeon@§d            - §7+ Доступ к данжу Ветхая Канализация
+§d            - §7+1 Infested Pit Key@§d            - §7+1 Зараженная Яма Ключ
+§d            - §7+Access to the Infested Pit dungeon@§d            - §7+ Доступ к данжу Зараженная Яма
 §d            - §7+1 Breathing Helmet I@§d            - §7+1 Шлем Подводника I
 §d            - §7+1 Yellow Crystals@§d            - §7+1 Желтый Кристалл
-§d            - §7+1 Ragni Teleportation Scroll@§d            - §7+1 Ragni Свиток Телепортации
-§d            - §7+ Access to the Province of Wynn@§d            - §7+ Доступ в провинцию Wynn
-§d            - §7+Access to Farmer Cevalus's Farm@§d            - §7+ Доступ на ферму Фермера Cevalus'а
-§d            - §7+2 Copper Ingot, Oak Wood & Wheat String@§d            - §7+2 Медных Слитка, Дерево и Пшеница/Нитка
-§d            - §7+Access to the Glassblowing Merchant@§d            - §7+ Доступ к Glassblowing Торговцу
-§d            - §7+1 Sand-Swept Tomb Dungeon Key@§d            - §7+1 Sand-Swept Tomb Dungeon Ключ
-§d            - §7+1 Cluckles' Favourite Feather@§d            - §7+1 Любимое Перо Cluckles'а
-§d            - §7+1 Underworld Crypt Key@§d            - §7+1 Underworld Crypt Ключ
-§d            - §7+Access to the Underworld Crypt Dungeon@§d            - §7+ Доступ к данжу Underworld Crypt
-§d            - §7+1 Lost Sanctuary Dungeon Key@§d            - §7+1 Lost Sanctuary Dungeon Ключ
+§d            - §7+1 Ragni Teleportation Scroll@§d            - §7+1 Рагни Свиток Телепортации
+§d            - §7+ Access to the Province of Wynn@§d            - §7+ Доступ в провинцию Винн
+§d            - §7+Access to Farmer Cevalus's Farm@§d            - §7+ Доступ на ферму Фермера Цевалуса
+§d            - §7+2 Copper Ingot, Oak Wood & Wheat String@§d            - §7+2 Медных Слитка, Дерево и Пшеница/Нить
+§d            - §7+Access to the Glassblowing Merchant@§d            - §7+ Доступ к Торговцу Стеклодуву
+§d            - §7+1 Sand-Swept Tomb Dungeon Key@§d            - §7+1 Песчаная Гробница Данж Ключ
+§d            - §7+1 Cluckles' Favourite Feather@§d            - §7+1 Любимое Перо Клаклеса
+§d            - §7+1 Underworld Crypt Key@§d            - §7+1 Подземный Склеп Ключ
+§d            - §7+Access to the Underworld Crypt Dungeon@§d            - §7+ Доступ к данжу Подземный Склеп
+§d            - §7+1 Lost Sanctuary Dungeon Key@§d            - §7+1 Затерянное Святилище Данж Ключ
 §d            - §7+1 Skill Reset Scroll@§d            - §7+1 Свиток сброса умений
 §d            - §7+Access to the Tower of Amnesia@§d            - §7+ Доступ в Башню Амнезии
-§d            - §7+Calamaro's Token/+Gernald's Amulet@§d            - §7+ Жетон Calamaro/+Gernald's Amulet
+§d            - §7+Calamaro's Token/+Gernald's Amulet@§d            - §7+ Жетон Каламаро/+Gernald's Amulet
 §d            - §7+1 Climbing Helmet@§d            - §7+1 Каска альпиниста
-§d            - §7+Access to the Dujgon Ore Refinery@§d            - §7+ Доступ к Dujgon Ore Refinery
+§d            - §7+Access to the Dujgon Ore Refinery@§d            - §7+ Доступ к Дужгон Переработке Руды
 §d            - §7+1 Factory Helmet@§d            - §7+1 Фабричный Шлем
 §d            - §7+1 The Mummy's Bandage@§d            - §7+1 Бинт Мумии
 §d            - §7+§4§l66666§7 Experience Points@§d            - §7+§4§l66666§7 Очков Опыта
-§d            - §7+1 Ice Barrows Dungeon Key@§d            - §7+1 Ice Barrows Dungeon Ключ
+§d            - §7+1 Ice Barrows Dungeon Key@§d            - §7+1 Ледяной Курган Данж Ключ
 §d            - §7+1 Brown Horse@§d            - §7+1 Коричневая Лошадь
-§d            - §7+ Access to Ternaves's Horse Shop@§d            - §7+ Доступ к продавцу лошадей в Ternaves
+§d            - §7+ Access to Ternaves's Horse Shop@§d            - §7+ Доступ к продавцу лошадей в Тернейвс
 §d            - §7+1 Purple Crystal Shard@§d            - §7+1 Фиолетовый Осколок Кристалла
-§d            - §7+ Access to Bob's Tomb@§d            - §7+ Доступ к Гробнице Bob'а
-§d            - §7+1 Bob's Soul@§d            - §7+1 Душа Bob'а
+§d            - §7+ Access to Bob's Tomb@§d            - §7+ Доступ к Гробнице Боба
+§d            - §7+1 Bob's Soul@§d            - §7+1 Душа Боба
 §d            - §7+Wealth or Knowledge@§d            - §7+Богатство или Знания
 §d            - §7+Apron@§d            - §7+Фартук
 §d            - §7+Access to the Void@§d            - §7+Доступ в Пустоту
 §d            - §7+1 Master Voucher@§d            - §7+1 Мастер Ваучер
-§d            - §7+New information in Hive guidebooks@§d            - §7+Новая информация от Hive слуг
+§d            - §7+New information in Hive guidebooks@§d            - §7+Новая информация от слуг Улья
 §d            - §7+1 Restored Ancient Helmet@§d            - §7+1 Восстановленный Древний Шлем
 §d            - §7+512 Emeralds / 768 Emeralds@§d            - §7+512 Эмеральдов / 768 Эмеральдов
 §d            - §7+Elven Medallion / Receipt@§d            - §7+Медальон Эльфов / Квитанция
-§d            - §7+Access to Aldorei Town@§d            - §7+Доступ в город Aldorei
-§d            - §7+1 Undergrowth Ruins Key@§d            - §7+1 Undergrowth Ruins Ключ
+§d            - §7+Access to Aldorei Town@§d            - §7+Доступ в город Алдорей
+§d            - §7+1 Undergrowth Ruins Key@§d            - §7+1 Заросшие Руины Ключ
 §d            - §7+Dusty Passport@§d            - §7+Пыльный Паспорт
-§d            - §7+Access to fast-travel between Cinfras and Detlas@§d            - §7+Доступ к быстрым путешествиям между Cinfras'ом и Detlas'ом
-§d            - §7+Access to the Undergrowth Ruins Dungeon@§d            - §7+Доступ в Undergrowth Ruins Данж
-§d            - §7+Access to the Ingredient shop in Maex@§d            - §7+Доступ к магазину ингредиентов в Maex'е
-§d            - §7+A gift from Likeru@§d            - §7+Подарок от Likeru
+§d            - §7+Access to fast-travel between Cinfras and Detlas@§d            - §7+Доступ к быстрым путешествиям между Цинфрасом и Детласом
+§d            - §7+Access to the Undergrowth Ruins Dungeon@§d            - §7+Доступ в Заросшие Руины Данж
+§d            - §7+Access to the Ingredient shop in Maex@§d            - §7+Доступ к магазину ингредиентов в Маэксе
+§d            - §7+A gift from Likeru@§d            - §7+Подарок от Ликеру
 §d            - §7+Access to Outpost@§d            - §7+Доступ к Заставе
 §d            - §7+Access to the Realm of Light@§d            - §7+Доступ в Царство Света
 §d            - §7+1 Crushed Bigfoot Bone@§d            - §7+1 Измельченная Кость Йети
 §d            - §7+1 Guard's Uniform@§d            - §7+1 Униформа Охранника
 §d            - §7+1 Mummy's Rag@§d            - §7+1 Бинт Мумии
-§d            - §7+Caissop's Master Piece@§d            - §7+Шедевр Caissop'а
-§d            - §7+Access to the Dernel Tribe shop@§d            - §7+Доступ к торговцу Dernel Tribe
-§d            - §7+Access to Zhight Grand Exchange@§d            - §7+Доступ в Zhight Grand Exchange
-§d            - §7+Access to Zhight Treasure Tour@§d            - §7+Доступ к Zhight Treasure Tour
-§d            - §7+16 Zhight Money@§d            - §7+16 Zhight Денег
-§d            - §7+1 Dodegar's Ultimate Weapon@§d            - §7+1 Смертельное оружие Dodegar'a
-§d            - §7+ Access to fast travel between Thesead and Eltom@§d            - §7+ Доступ к быстрым путешествиям между Thesead'ом и Eltom'ом
-§d            - §7+ Access to Rymek elevators@§d            - §7+ Доступ к лифтам в Rymek'е
+§d            - §7+Caissop's Master Piece@§d            - §7+Шедевр Каизопа
+§d            - §7+Access to the Dernel Tribe shop@§d            - §7+Доступ к торговцу Дернел племени
+§d            - §7+Access to Zhight Grand Exchange@§d            - §7+Доступ в Жигт Обменник
+§d            - §7+Access to Zhight Treasure Tour@§d            - §7+Доступ к Жигт Тур Сокровищ
+§d            - §7+16 Zhight Money@§d            - §7+16 Жигт Денег
+§d            - §7+1 Dodegar's Ultimate Weapon@§d            - §7+1 Смертельное оружие Додегарa
+§d            - §7+ Access to fast travel between Thesead and Eltom@§d            - §7+ Доступ к быстрым путешествиям между Тесеадом и Элтомом
+§d            - §7+ Access to Rymek elevators@§d            - §7+ Доступ к лифтам в Римеке
 §d            - §7+1 Corrupted Potato@§d            - §7+1 Испорченная Картошка
 §d            - §7+42 Gold Bars@§d            - §7+42 Слитка Золота
 §d            - §7+ Access to The Passage@§d            - §7+ Доступ к Проходу
 §d            - §7+1 Red Crystal Shard@§d            - §7+1 Красный Осколок Кристалла
 §d            - §7+1 Troll Hair@§d            - §7+1 Скальп Тролля
-§d            - §7+1 Dogun Badge of Trust@§d            - §7+1 Значок Доверия Dogun'ов
-§d            - §7+Access to the Molten Heights elevators@§d            - §7+Доступ к лифтам в Molten Heights 
+§d            - §7+1 Dogun Badge of Trust@§d            - §7+1 Значок Доверия Догунов
+§d            - §7+Access to the Molten Heights elevators@§d            - §7+Доступ к лифтам в Расплавленных Высотах 
 §d            - §7+1 Emerald@§d            - §7+1 Эмеральд
-§d            - §7+1 Galleon's Graveyard Key@§d            - §7+1 Galleon's Graveyard Ключ
-§d            - §7+1 Fallen Factory Key@§d            - §7+1 Fallen Factory Ключ
+§d            - §7+1 Galleon's Graveyard Key@§d            - §7+1 Кладбище Галеона Ключ
+§d            - §7+1 Fallen Factory Key@§d            - §7+1 Заброшенная Фабрика Ключ
 §d            - §7+Access to the hot air balloon quick-travel@§d            - §7+Доступ к быстрым путешествиям на воздушном шаре
-§d            - §7+Access to the Fallen Factory Dungeon@§d            - §7+Доступ в Fallen Factory Данж
-§d            - §7+1 Letter to Korzim@§d            - §7+1 Письмо для Korzim'а
-§d            - §7+Access to the Thanos-Rodoroc trading tunnel@§d            - §7+Доступ к торговому тоннелю Thanos-Rodoroc 
+§d            - §7+Access to the Fallen Factory Dungeon@§d            - §7+Доступ в Заброшенная Фабрика Данж
+§d            - §7+1 Letter to Korzim@§d            - §7+1 Письмо для Корзима
+§d            - §7+Access to the Thanos-Rodoroc trading tunnel@§d            - §7+Доступ к торговому тоннелю Танос-Родорок
 §d            - §7+1 Corrupted Treasure@§d            - §7+1 Испорченное Сокровище
 §d            - §7+1 Mech Core@§d            - §7+1 Ядро Робота
-§d            - §7+1 Maxie's House Key@§d            - §7+1 Ключ от дома Maxie
+§d            - §7+1 Maxie's House Key@§d            - §7+1 Ключ от дома Макси
 §d            - §7+1 Royal Token of Gratitude@§d            - §7+1 Королевский жетон благодарности
-§d            - §7+3 Jungle Jet Shards@§d            - §7+3 Осколка из джунглей
+§d            - §7+3 Jungle Jet Shards@§d            - §7+3 Джунглевых Осколка Янтаря
 §d            - §7+1 Gemstone Dust@§d            - §7+1 Пыль Драгоценного Камня
-§d            - §7+Access to Gracen's house@§d            - §7+Доступ к дому Gracen'а
+§d            - §7+Access to Gracen's house@§d            - §7+Доступ к дому Грацена
 §d            - §7+ Access to the Temple of the Legends@§d            - §7+ Доступ в Храм Легенд
 §d            - §7+1 Purified Helmet of the Legends@§d            - §7+1 Очищенный Шлем Легенд
 §d            - §7+1 Golden Pirate Fish@§d            - §7+1 Золотая Пиратская Рыба
 §d            - §7+1 Taproot@§d            - §7+1 Стержневой корень
 §d            - §7+1 Canyon Chart@§d            - §7+1 Карта Каньона
-§d            - §7+Troms Kid Badge@§d            - §7+Детский значок Troms'а
+§d            - §7+Troms Kid Badge@§d            - §7+Детский значок Тромса
 §d            - §7+1 The Staff of the True Ice@§d            - §7+1 Предмет Чистого Льда
 §d            - §7+1 Upgraded Orc Mask@§d            - §7+1 Улучшенная Маска Орка
 §d            - §7+ Essren's Coat@§d            - §7+ Пальто Эссрена 
