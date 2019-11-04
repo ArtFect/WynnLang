@@ -26,7 +26,7 @@ QUESTS/Aldorei%27s_Secret_Part_I.txt
 §7Valley at @§7Долины Алдорей на 
 §7[-670,97,-4444]@ 
 §7Obtain [Gemstone Dust] from the @§7Добудь [Пыль драгоценного камня] 
-§7Wynn province and bring it @§7из провинции Wynn и принеси 
+§7Wynn province and bring it @§7из провинции Винн и принеси 
 §7to Elrund (Requires completion of @§7ее Элрунду (Необходимо 
 §7Lost in the Jungle) @§7пройти Lost in the Jungle)
 §7Talk to the residents of @§7Поговори с жителями 
@@ -97,7 +97,7 @@ QUESTS/Arachnids%27_Ascent.txt =====
 §7Speak to Captain Enduyn at @§7Поговори с Капитаном Эндуином на 
 §7[-192,44,-1822]@ 
 §7Enter and climb Mount Wynn @§7Войди и заберись на вершину 
-§7through the cave at @§7вулкана Wynn через пещеру на 
+§7through the cave at @§7Вулкана Винн через пещеру на 
 §7[-120,76,-1888]@ 
 §7Return to Captain Enduyn with @§7Вернись к Капитану Эндуину 
 §7the lava @§7с лавой
@@ -120,7 +120,7 @@ QUESTS/A_Fighting_Species.txt =====
 §7Gorgu's room in the cave @§7к комнате Горгу в пещере 
 §7Win the duel versus Gorgu @§7Выиграй дуэль у Горгу 
 §7and talk back to Darnes @§7и поговори с Дарнесом 
-§7with [Gorgu's Handprint] and the @§7вместе с [отпечатком руки Горгу] 
+§7with [Gorgu's Handprint] and the @§7вместе с [Отпечатком руки Горгу] 
 §7[Orc Mask] @§7и [маской Орка] 
  
 QUESTS/A_Grave_Mistake.txt ===== 
@@ -173,21 +173,21 @@ QUESTS/A_Sandy_Scandal.txt
  
 QUESTS/Beneath_the_Depths.txt 
 §7Talk to Javier in the @§7Поговори с Джавьером 
-§7Pirate Cove at @§7в Пайрат Коув на 
+§7Pirate Cove at @§7в Пиратской Бухте на 
 §7[-640,53,-3117]@ 
 §7Find Javier's map, hidden in @§7Найди карту Джавьера, спрятанную 
 §7the skull tomb at the @§7внутри пещеры-черепа у 
 §7entrance of the island @§7входа на остров 
-§7Talk to Dalben on Mage @§7Поговори с Далбеном на Мейдж 
-§7Island about restoring the map @§7Исланде насчет восстановления карты 
+§7Talk to Dalben on Mage @§7Поговори с Далбеном на Острове 
+§7Island about restoring the map @§7Магов насчет восстановления карты 
 §7Bring back [20 Block of @§7Принеси [20 Блоков 
 §7Emerald] to Dalben @§7Эмеральдов] Далбену 
 §7Explore the cave in the @§7Исследуй пещеру 
 §7ocean, located at @§7в океане на координатах 
 §7[-187,16,-3452]@ 
-§7Find [1 Ocean Treasure] and @§7Найди [1 Сокровище Океана] 
+§7Find [1 Ocean Treasure] and @§7Найди [1 Океаническое Сокровище] 
 §7bring it back to Javier @§7и принеси его Джавьеру 
-§7in Pirate Cove @§7в Пайрат Коув
+§7in Pirate Cove @§7в Пиратской Бухте
  
 QUESTS/Beyond_the_Grave.txt 
 §7Speak to Irlok in the @§7Поговори с Ирлоком в 
@@ -344,7 +344,7 @@ QUESTS/Craftmas_Chaos.txt =====
  
 QUESTS/Creeper_Infiltration.txt ===== 
 §7Talk to Thomas in the @§7Поговори с Томасом 
-§7Pigman Ravines at @§7в Пигмен Равинс 
+§7Pigman Ravines at @§7в Оврагах Пигменов 
 §7[-608,89,-1431]@ 
 §7Enter the tunnel at @§7Войди в тоннель на 
 §7[-823,96,-1339]@ 
@@ -360,7 +360,7 @@ QUESTS/Creeper_Infiltration.txt =====
 §7[-850,96,-1212]@ 
 §7Bring Thomas [1 Creeper Powder] @§7Принеси Томасу [1 Порошок крипера] 
 §7to prove to him creepers @§7для доказательства существования 
-§7exist in Wynn @§7криперов в Wynn 
+§7exist in Wynn @§7криперов в Винн 
  
 QUESTS/Crop_Failure.txt ===== 
 §7Talk to Anast in Olux, @§7Поговори с Анастом в Олуксе на 
@@ -395,8 +395,8 @@ QUESTS/Death_Whistle.txt ====
 §7Pelulite] @§7Пелулитом]
  
 QUESTS/Deja_Vu.txt ===== 
-§7Talk to Asher near Time @§7Поговори с Ашером в Тайм 
-§7Valley at [-449,72,-1153]. @§7Валлей на [-449,72,-1153] 
+§7Talk to Asher near Time @§7Поговори с Ашером в Долине 
+§7Valley at [-449,72,-1153]. @§7Времени на [-449,72,-1153] 
 §7Find Asher's Shovel. @§7Найди Лопату Ашера 
 §7Return Asher's Shovel to Asher. @§7Верни лопату Ашеру 
 §7Enter Asher's house. @§7Войди в дом Ашера 
@@ -407,7 +407,7 @@ QUESTS/Deja_Vu.txt =====
  
 QUESTS/Desperate_Metal.txt ===== 
 §7Speak to Phinas on Corkus @§7Поговори с Финасом на Коркус 
-§7Island at @§7Исланде на 
+§7Island at @§7Острове на 
 §7[-1672,38,-2083]@ 
 §7Locate the 3 mechs by @§7Найди трех роботов, следуя 
 §7following the trails of tools, @§7дорожке из инструментов, 
@@ -468,8 +468,8 @@ QUESTS/Dwarves_and_Doguns_Part_II.txt =====
 §7through the black bricks outside @§7через черные кирпичи 
 §7the wooden door. @§7за деревянную дверь
 §7Sabotage the Dwarven armoury. @§7Саботируй оружейную гномов
-§7Follow Axelus deeper into Rodoroc @§7Следуй за Акселусом в Родорок
-§7and destroy the power source @§7 и уничтожь источник энергии 
+§7Follow Axelus deeper into Rodoroc @§7Следуй за Акселусом в Родорок 
+§7and destroy the power source @§7и уничтожь источник энергии 
 §7of the city. @§7города
 §7the sewer system. @§7в систему канализаций.
 §7Enter the Royal Palace through @§7Войди в королевский дворец 
@@ -544,7 +544,7 @@ QUESTS/Dwelling_Walls.txt =====
 QUESTS/﻿Elemental_Exercise.txt ===== 
 §7Talk to Ragon on the @§7Поговори с Рагоном 
 §7south-east end of the Nivla @§7в юго-восточной части Нивла 
-§7Forest at @§7леса на 
+§7Forest at @§7Леса на 
 §7[-80,67,-1391]@ 
 §7Test your fire based weapon @§7Протестируй свое огненное оружие 
 §7on the captured creature by @§7на пойманном монстре 
@@ -586,7 +586,7 @@ QUESTS/Enzan%27s_Brother.txt =====
 §7the exit of Ragni at @§7у выхода из Рагни на 
 §7[-772,67,-1572]@ 
 §7Find Enzan's brother near Nivla @§7Найди брата Энзанa 
-§7Forest @§7рядом с лесом Нивла 
+§7Forest @§7рядом с Лесом Нивла 
  
 QUESTS/Eye_of_the_Storm.txt 
 §7Talk to Arwes in the @§7Поговори с Арвесом 
@@ -710,11 +710,11 @@ QUESTS/Fate_of_the_Fallen.txt =====
  
 QUESTS/Finding_The_Light.txt =====
 §7Talk to the Guardian of @§7Поговори с Хранителем Леса
-§7The Forest in the Light @§7в Лайт Форесте на 
+§7The Forest in the Light @§7в Светлом Лесу на 
 §7[-1128,49,-4778]@ 
 §7(Requires completion of Taproot) @§7(Необходимо пройти квест Taproot) 
 §7Find the Arch in the @§7Найди Арку 
-§7Light Forest at @§7в Лайт Форесте на
+§7Light Forest at @§7в Светлом Лесу на
 §7[-1038,44,-4447]@ 
 §7Return to the Guardian to @§7Вернись к Хранителю 
 §7seek guidance at @§7для дальнейших указаний
@@ -732,7 +732,7 @@ QUESTS/Finding_The_Light.txt =====
 §7[-491,54,-4989]@ 
 §7Talk to Jack at @§7Поговори с Джеком на 
 §7[-448,33,-5092]@ 
-§7Find Damien near Kander Forest @§7Найди Дамиена около Кандер Фореста 
+§7Find Damien near Kander Forest @§7Найди Дамиена около Кандер Леса 
 §7[-504,43,-5181]@ 
 §7Talk to the Apothecary about @§7Поговори с Аптекарем 
 §7getting medicine at house 19 @§7насчет лекарств в доме №19 
@@ -756,7 +756,7 @@ QUESTS/Finding_The_Light.txt =====
 §7Return to Ollie in Cinfras @§7Вернись к Олли в Цинфрасе 
 §7[-430,47,-4854]@ 
 §7Return to the Guardian of @§7Вернись к Хранителю Леса 
-§7Forest with the helmet at @§7в Лайт Форесте вместе со шлемом 
+§7Forest with the helmet at @§7в Светлом Лесу вместе со шлемом 
 §7Head back to the Arch @§7Вернись к Арке
 §7Enter The Light Realm @§7Войди в Царство Света 
  
@@ -888,7 +888,6 @@ QUESTS/General%27s_Orders.txt
 §7the fort @§7самой высокой башни 
 §7Recover the Good-Luck Charm from @§7Верни Счастливый Амулет 
 §7the sewers @§7из канализации 
-§7Use this map to navigate the sewers. @§7Используй карту для навигации 
 §7Paint the mountain at @§7Раскрась гору на 
 §7[207,178,-5499]@ 
 §7Walk across the tightrope at @§7Пройдись по канату на 
@@ -954,10 +953,10 @@ QUESTS/Green_Skinned_Trouble.txt
  
 QUESTS/Haven_Antiquity.txt ===== 
 §7Talk to Cinfras on the @§7Поговори с Цинфрасом 
-§7docks at Dead Island at @§7в доках Дэд Исланда на 
+§7docks at Dead Island at @§7в доках Мертвого Острова на 
 §7[770,36,-3880]@ 
 §7Investigate Old Siwel in the @§7Поговори со Старым Сивелом 
-§7dead Mansion at @§7в Мертвом Особняке на 
+§7dead Mansion at @§7в мертвом Особняке на 
 §7[836,52,-4010]@ 
 §7Acquire [3 Umbral Essences] for @§7Принеси 3 [Мрачные Эссенции] 
 §7Old Siwel @§7Старому Сивелу 
@@ -968,7 +967,7 @@ QUESTS/Haven_Antiquity.txt =====
 §7man's memory @§7память покойного 
 §7Investigate Siwel at @§7Поговори с Сивелом 
 §7[-9334,56,-10488]@ 
-§7on Alive Island @§7на Живом острове 
+§7on Alive Island @§7на Живом Острове 
 §7Confront the cave under the @§7Посети пещеру под 
 §7mansion at @§7поместьем на 
 §7[-9332,57,-10589]@ 
@@ -976,7 +975,7 @@ QUESTS/Haven_Antiquity.txt =====
 §7for Siwel from the monsters @§7для Сивела из монстров 
 §7within @§7поблизости 
 §7Return to Old Siwel in @§7Вернись к Старому Сивелу 
-§7the dead Mansion at @§7в Мертвом Особняке на 
+§7the dead Mansion at @§7в мертвом Особняке на 
 §7docks at @§7в доках на 
 §7about the mystery @§7насчет загадки 
  
