@@ -157,7 +157,7 @@
 §7This rusted old hook is useless to you.@§7Этот ржавый старый крюк бесполезен для тебя.
 §7Maybe someone would be willing to buy it...@§7Может быть, кто-то захочет его купить...
 §7One-way ticket to:@§7Билет в один конец до:
-§7Detlas, Wynn@ 
+§7Detlas, Wynn@§7Детлас, Винн
 §7Sounds, order first to last:@§7Звуки, порядок от первого до последнего:
 §72,1,5,3,6,4@ 
 §7Used to access most areas on the pirate ship.@§7Используется для доступа к большинству комнат на пиратском корабле.
@@ -235,7 +235,7 @@
 §8Can be used with §ncannons@§7Может быть использовано с §nпушками
 §8to destroy other war machines@§7для уничтожения других машин
 §8which results to selfdestruct@§7что приводит к самоуничтожению
-§7The letter is made out of stone.@§7Письмо сделано из камня/
+§7The letter is made out of stone.@§7Письмо сделаное из камня.
 §7This seems to be some kind of@§7Это похоже на некий
 §7power source...@§7источник энергии...
 §7window... It looks like it's not@§7окно... Похоже оно не
@@ -243,7 +243,7 @@
 §7light source. Could this be used,@§7источник света. Можно ли его использовать,
 §7or is it broken...@§7или он сломан...
 §7The core is filled with electro magic@§7Ядро заполнено электромагией
-§7Vadas! For the last time,@§7Vadas! В последний раз,
+§7Vadas! For the last time,@§7Вадас! В последний раз говорю,
 §7the button to open the@§7кнопка для открытия
 §7basement door is on the@§7двери подвала находится на
 §7second floor!@§7втором этаже!
@@ -304,7 +304,7 @@
 §7you have created a pie which he calls@§7ты создал пирог, который он назвал
 §7"Pretty high on the pie spectrum."@§7"Довольно высоко по шкале пирогов."
 §8This carved wood must be important to the tribe.@§7Эта резная древесина должно быть важна для племени.
-§8Pig - Hunt - Potato@§7Свинья -Охота - Картошка
+§8Pig - Hunt - Potato@§7Свинья - Охота - Картошка
 §8This Ancient Guardian drops one pink wool...@§8Этот Древний Защитник выронил одну розовую шерсть...
 §8This Ancient Guardian drops four yellow wool...@§88Этот Древний Защитник выронил четыре желтые шерсти...
 §8This Ancient Guardian drops three green wool...@§88Этот Древний Защитник выронил три зеленые шерсти...
@@ -786,12 +786,12 @@
 §6 - §a✔ §21 Golden Pirate Fish@§6 - §a✔ §21 Золотая Пиратская Рыба
 §6 - §a✔ §21 Old Pirate Hook@§6 - §a✔ §21 Старый Пиратский Крюк
 §6 - §c✖ §41 Old Pirate Hook@§6 - §c✖ §41 Старый Пиратский Крюк
-§6 - §c✖ §42 Redbeard's Hair@§6 - §c✖ §42 Волос Редбёрда
-§6 - §c✖ §43 Redbeard's Hair@§6 - §c✖ §43 Волос Редбёрда
-§6 - §c✖ §46 Redbeard's Hair@§6 - §c✖ §46 Волос Редбёрда
-§6 - §a✔ §22 Redbeard's Hair@§6 - §a✔ §22 Волос Редбёрда
-§6 - §a✔ §23 Redbeard's Hair@§6 - §a✔ §23 Волос Редбёрда
-§6 - §a✔ §26 Redbeard's Hair@§6 - §a✔ §26 Волос Редбёрда
+§6 - §c✖ §42 Redbeard's Hair@§6 - §c✖ §42 Волос Редберда
+§6 - §c✖ §43 Redbeard's Hair@§6 - §c✖ §43 Волос Редберда
+§6 - §c✖ §46 Redbeard's Hair@§6 - §c✖ §46 Волос Редберда
+§6 - §a✔ §22 Redbeard's Hair@§6 - §a✔ §22 Волос Редберда
+§6 - §a✔ §23 Redbeard's Hair@§6 - §a✔ §23 Волос Редберда
+§6 - §a✔ §26 Redbeard's Hair@§6 - §a✔ §26 Волос Редберда
 §6 - §a✔ §21 Black Horse@§6 - §a✔ §21 Черная Лошадь
 §6 - §c✖ §41 Black Horse@§6 - §c✖ §41 Черная Лошадь
 §6 - §c✖ §45 Bronze Legendary Token@§6 - §c✖ §45 Бронзовый Легендарный Жетон
@@ -1006,7 +1006,7 @@
 §a➽ Range             §a■§a■§a■§7■§7■@§a➽ Дальность             §a■§a■§a■§7■§7■
 §d✺ Spells             §a■§a■§a■§a■§a■@§d✺ Заклинания             §a■§a■§a■§a■§a■
 §7§7Mages are naturally talented@§7§7Маги от природы талантливы 
-§7in the magical arts. While@§7в магическом искусстве. В то время 
+§7in the magical arts. While@§7в магическом искусстве. В то время, 
 §7their raw damage may be@§7как их грубый урон может считаться 
 §7considered weaker, they@§7более слабым, они 
 §7offer a great amount of@§7предлагают большое количество 
@@ -1240,7 +1240,7 @@
 §a+1 Charge@§a+1 Использование
 
 ###########################Свитки/ключи/билеты#######################
-§7Teleports to: Selchar@§7Телепорт в: Selchar
+§7Teleports to: Selchar@§7Телепорт в: Сельчар
 §4Cost: §c1 Soul Point@§4Цена: §c1 Очко Душ
 §3- §7Cost: §f1 Soul Point@§3- §7Цена: §f1 Очко Душ
 §fDecrepitÀÀÀSewers§7 once@§fВетхая Канализация§7 единожды
@@ -1296,23 +1296,23 @@
 §a- §7Coords: §f1409, -1830@§a- §7Координаты: §f1409, -1830
 §a-§7 Coords: §f-600, -3550@§a-§7 Координаты: §f-600, -3550
 §7to fast-travel to §fSelchar@§7для быстрой телепортации в §fСельчар
-§7to fast-travel to §fZight Island@§7для быстрой телепортации на §fЖигт Исланд
+§7to fast-travel to §fZight Island@§7для быстрой телепортации на §fЖигт Остров
 §7to fast-travel to §fNemract@§7для быстрой телепортации в §fНемракт
-§7to fast-travel to §fPirate Cove@§7для быстрой телепортации в §fПайрат Коув
-§7to fast-travel to §fVolcanic Isles@§7для быстрой телепортации на §fВулканик Ислес
+§7to fast-travel to §fPirate Cove@§7для быстрой телепортации в §fПиратскую Бухту
+§7to fast-travel to §fVolcanic Isles@§7для быстрой телепортации на §fВулканические Острова
 §7to fast-travel to §fGalleon's Graveyard@§7для быстрой телепортации в §fКладбище Галеона
-§7to fast-travel to §fMaro Peaks@§7для быстрой телепортации на §fМаро Пикс
-§7to fast-travel to §fDead Island@§7для быстрой телепортации на §fДэд Исланд
-§7to fast-travel to §fJofash Dock@§7для быстрой телепортации в §fДжофаш Док
+§7to fast-travel to §fMaro Peaks@§7для быстрой телепортации на §fВершины Маро
+§7to fast-travel to §fDead Island@§7для быстрой телепортации на §fМертвый Остров
+§7to fast-travel to §fJofash Dock@§7для быстрой телепортации в §fДжофаш Доки
 §7to fast-travel to §fLlevigar@§7для быстрой телепортации в §fЛлевигар
-§7to fast-travel to §fNodguj Island@§7для быстрой телепортации на §fНодгуж Исланд
-§7to fast-travel to §fSkiens Island@§7для быстрой телепортации на §fСкиенс Исланд
-§7to fast-travel to §fMage Island@§7для быстрой телепортации на §fМейдж Исланд
-§7to fast-travel to §fHalf Moon Island@§7для быстрой телепортации на §fХалф Мун Исланд
-§7to fast-travel to §fRooster Island@§7для быстрой телепортации на §fРустер Исланд
-§7to fast-travel to the §fBear Zoo@§7для быстрой телепортации на §fБеар Зу
-§7to fast-travel to §fDurum Isles@§7для быстрой телепортации на §fДурум Ислес
-§7to fast-travel to §fZhight Island@§7для быстрой телепортации на §fЖигт Исланд
+§7to fast-travel to §fNodguj Island@§7для быстрой телепортации на §fНодгуж Остров
+§7to fast-travel to §fSkiens Island@§7для быстрой телепортации на §fСкиенс Остров
+§7to fast-travel to §fMage Island@§7для быстрой телепортации на §fОстров Магов
+§7to fast-travel to §fHalf Moon Island@§7для быстрой телепортации на §fОстров Полумесяца
+§7to fast-travel to §fRooster Island@§7для быстрой телепортации на §fРустер Остров
+§7to fast-travel to the §fBear Zoo@§7для быстрой телепортации в §fЗоопарк
+§7to fast-travel to §fDurum Isles@§7для быстрой телепортации на §fДурум Острова
+§7to fast-travel to §fZhight Island@§7для быстрой телепортации на §fЖигт Остров
 §3Info:@§3Инфо:
 §7Grants access to the@§7Гарантирует доступ в
 §aDungeon Info:@§aДанж Инфо:
@@ -1417,7 +1417,7 @@
 §a- §7Effect: §f+50% Walk Speed@§a- §7Эффект: §f+50% Скорость
 §f- §7Effect: §fDrunkness@§f- §7Эффект: §fОпьянение
 §8§8Drinking this potion will@§8§8Употребление этого зелья 
-§8regenerate your health over@§8восстановит твое здоровье в течение 
+§8regenerate your health over@§8восстанавливает твое здоровье в течение 
 §83 seconds.@§83 секунд.
 §3- §7Mana: §f30§b ✺@§3- §7Мана: §f30§b ✺
 §3- §7Mana: §f18§b ✺@§3- §7Мана: §f18§b ✺
@@ -1443,7 +1443,7 @@
 §3- §7Duration: §f18 Seconds@§3- §7Длительность: §f18 Секунд
 §a- §7Duration: §f360 Seconds@§a- §7Длительность: §f360 Секунд
 §6- §7Duration: §f210 Seconds@§6- §7Длительность: §f210 Секунд
-§8regenerate your mana over@§8восстановит твою ману в течение
+§8regenerate your mana over@§8восстанавливает твою ману в течение
 §810 seconds.@§810 секунд.
 §86 seconds.@§86 секунд.
 §8boost your XP bonus by 20%@§8увеличит твой XP бонус на 20%
@@ -1656,9 +1656,9 @@
 §aSet Bonus:@§aСет Бонус:
 §fTerritories:@§fТерритории:
 §eWorld:@§eМировые:
-§fCorkus@ 
-§fWynn Plains@§fРавнины Wynn
-§fNesaak Tundra@§fNesaak Тундра
+§fCorkus@§fКоркус
+§fWynn Plains@§fВинн Равнины
+§fNesaak Tundra@§fНесаак Тундра
 §fDesert@§fПустыня
 §7§lLeft click to sort by: §fName@§7§lЛевый клик для сортировки по: §fИмени
 §7§lRight click to sort by: §fLevel@§7§lПравый клик для сортировки по: §fУровню
@@ -1725,7 +1725,7 @@
 §7get a powder of a@§7получения порошка более
 §7higher tier@§7высокого уровня
 §7You cannot afford this!@§7Ты не можешь себе позволить это!
-§fWynn Plains@§fРавнины Wynn
+§fWynn Plains@§fВинн Равнины
 §8Open the §7attack effect§8 menu@§8Открыть меню §7эффектов атаки
 §8Open the §7player effect§8 menu@§8Открыть меню §7эффектов игрока
 §8Open the §7pet§8 menu@§8Открыть меню §7питомцев
@@ -1791,19 +1791,19 @@
 §7You are revealing:@§7Ты раскрываешь:
 §7free §6T5 Powder §7of your choice@§7бесплатный §6У5 Порошок §7на твой выбор
 §7free §6T6 Powder §7of your choice@§7бесплатный §6У6 Порошок §7на твой выбор
-§fWynn Plains  @§fРавнины Wynn  
+§fWynn Plains  @§fВинн Равнины 
 §7Shift click to remove mobs@§7Шифт клик для удаления мобов
 §7Maximum: §f300@§7Максимум: §f300
 §6Total Price:@§6Итоговая Цена:
 §7Maximum: §f30@§7Максимум: §f30
 §6View your quests and discover new ones@§6Просматривай свои квесты и открывай новые
 §7Your can buy a revealed@Ты можешь купить раскрытую
-§fNesaak Tundra  @§fNesaak Тундра
+§fNesaak Tundra  @§fНесаак Тундра
 §5Rank: §dHERO@§5Ранг: §dHERO
 §3Rank: §bVIP+@§3Ранг: §bVIP+
 §7Rank: §fNone@§7Ранг: §fОтсутствует
 §2Rank: §aVIP@§2Ранг: §aVIP
-§fCorkus  @ 
+§fCorkus  @§fКоркус
 §7By clicking, you sacrifice 5 @§7Кликнув, ты обменяешь 5
 §fCommon rewards§7  for 1@§fОбычных наград§7 на 1
 §dRare reward.@§dРедкую награду.
@@ -2034,9 +2034,9 @@
 §7progress in the §fUndergrowth Ruins@§7прогресса в §fЗаросших Руинах
 §7progress in the §fSand-Swept Tomb@§7прогресса в §fПесчаной Гробнице
 §7progress in the §fLost Sanctuary@§7прогресса в §fЗатерянном Святилище
-§7progress in the §fGalleon’s Graveyard@§7прогресса в §fКладбище Галеона
+§7progress in the §fGalleon’s Graveyard@§7прогресса на §fКладбище Галеона
 §7progress in the §fUnderworld Crypt@§7прогресса в §fПодземном Склепе
-§7progress in the Fallen Factory@§7прогресса в Заброшенной Фабрике
+§7progress in the Fallen Factory@§7прогресса на Заброшенной Фабрике
 §7progress in the §fLegendary Challenge@§7прогресса в §fЛегендарном Челлендже
 §4CorruptedÀÀÀSand-SweptÀÀÀTomb Key@§4Испорченного Песчаная Гробница Ключа
 §4CorruptedÀÀÀDecrepitÀÀÀSewers Key@§4Испорченного Ветхая Канализация Ключа
@@ -2087,7 +2087,7 @@
 §7§kNemract §kWhiskey @§7§kНемракт §kВиски
 §7Use this item to continue your@§7Используй этот предмет для продолжения твоего
 §7Exchange this for an@§7Обменяй это на
-§7item at the §fSquid Shop@§7предмет в §fМагазине Кальмаров
+§7item at the §fSquid Shop@§7предмет в §fМагазине Кальмара
 §7Use on an obstacle@§7Используй на препятствии
 §7Trade for prizes at the@§7Обменяй на призы в
 §7§lHive Shop!@§7§lМагазине Улья!
