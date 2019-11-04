@@ -586,7 +586,7 @@
 §6Click an Item to Sell@§6Кликни на Предмет для Продажи
 §aClick to Set Amount@§aКликни для Указания Количества
 §aClick to Set Price@§aКликни для Установления Цены
-§7§lClick the Emerald to Set a Price
+§7§lClick the Emerald to Set a Price@§7§lКликни на Эмеральд для Установления Цены
 §c§lCancel@§c§lОтмена
 §aOpen Crates@§aОткрыть Контейнеры
 §eScrap Rewards@§eУтилизировать Награды
@@ -1030,8 +1030,8 @@ Selchar Teleportation Scroll@§bСельчар Свиток Телепортац
 §bThesead Teleport Scroll@§bТесеад Свиток Телепортации
 §bOlux Teleport Scroll@§bОлукс Свиток Телепортации
 §bOlux Teleport ScrollÀ@§bОлукс Свиток Телепортации
-§bMageÀÀÀIsland Teleport Scroll@§bМейдж Исланд Свиток Телепортации
-§bMageÀÀÀIsland Teleport ScrollÀ@§bМейдж Исланд Свиток Телепортации
+§bMageÀÀÀIsland Teleport Scroll@§bОстров Магов Свиток Телепортации
+§bMageÀÀÀIsland Teleport ScrollÀ@§bОстров Магов Свиток Телепортации
 §6Skill Reset Scroll@§bСвиток Сброса Умений 
 §bRymek Teleport Scroll@§bРимек Свиток Телепортации
 §bRymek Teleport ScrollÀ@§bРимек Свиток Телепортации
@@ -1039,52 +1039,52 @@ Selchar Teleportation Scroll@§bСельчар Свиток Телепортац
 §bRodoroc Teleport Scroll@§bРодорок Свиток Телепортации
 §bGelibord Teleport ScrollÀ@§bГелиборд Свиток Телепортации
 §bGelibord Teleport Scroll@§bГелиборд Свиток Телепортации
-§bPirateÀÀÀCove Teleport Scroll@§bПайрат Коув Свиток Телепортации
-§bPirateÀÀÀCove Teleport ScrollÀ@§bПайрат Коув Свиток Телепортации
-§bLegendaryÀÀÀIsland Teleport Scroll@§bЛегендари Исланд Свиток Телепортации
+§bPirateÀÀÀCove Teleport Scroll@§bПиратская Бухта Свиток Телепортации
+§bPirateÀÀÀCove Teleport ScrollÀ@§bПиратская Бухта Свиток Телепортации
+§bLegendaryÀÀÀIsland Teleport Scroll@§bЛегендарный Остров Свиток Телепортации
 §bEltom Teleport Scroll@§bЭлтом Свиток Телепортации
 §bEltom Teleport ScrollÀ@§bЭлтом Свиток Телепортации
 §bKandon-Beda Teleport Scroll@§bКандон-Бэда Свиток Телепортации
 §bKandon-Beda Teleport ScrollÀ@§bКандон-Бэда Свиток Телепортации
-§bMaex Teleport Scroll@§bМаекс Свиток Телепортации
-§bMaex Teleport ScrollÀ@§bМаекс Свиток Телепортации
+§bMaex Teleport Scroll@§bМаэкс Свиток Телепортации
+§bMaex Teleport ScrollÀ@§bМаэкс Свиток Телепортации
 Sand-Swept���Tomb���Entrance Teleportation Scroll@§bПесчаная Гробница Вход Свиток Телепортации
 Underworld���Crypt���Entrance Teleportation Scroll@§bПодземный Склеп Вход Свиток Телепортации
-§bMage Island Boat PassÀ@§bМейдж Исланд Билет
-§bMage Island Boat Pass@§bМейдж Исланд Билет
+§bMage Island Boat PassÀ@§bОстров Магов Билет
+§bMage Island Boat Pass@§bОстров Магов Билет
 §bSelchar Boat PassÀ@§bСельчар Билет
 §bSelchar Boat Pass@§bСельчар Билет
-§bHalf Moon Island Boat PassÀ@§bХалф Мун Исланд Билет
-§bHalf Moon Island Boat Pass@§bХалф Мун Исланд Билет
-§bNodguj Island Boat PassÀ@§bНодгуж Билет
-§bNodguj Island Boat Pass@§bНодгуж Билет
+§bHalf Moon Island Boat PassÀ@§bОстров Полумесяца Билет
+§bHalf Moon Island Boat Pass@§bОстров Полумесяца Билет
+§bNodguj Island Boat PassÀ@§bНодгуж Остров Билет
+§bNodguj Island Boat Pass@§bНодгуж Остров Билет
 §bGalleon's Graveyard Boat PassÀ@§bКладбище Галеона Билет
 §bGalleon's Graveyard Pass@§bКладбище Галеона Билет
-§bRooster Island Boat PassÀ@§bРустер Исланд Билет
-§bRooster Island Boat Pass@§bРустер Исланд Билет
-§bZhight Island Boat PassÀ@§bЖигт Исланд Билет
-§bZhight Island Boat Pass@§bЖигт Исланд Билет
+§bRooster Island Boat PassÀ@§bРустер Остров Билет
+§bRooster Island Boat Pass@§bРустер Остров Билет
+§bZhight Island Boat PassÀ@§bЖигт Остров Билет
+§bZhight Island Boat Pass@§bЖигт Остров Билет
 §aZhight Treasure Tour Pass@§bЖигт Тур Сокровищ Билет
 §bLlevigar Boat PassÀ@§bЛлевигар Билет
 §bLlevigar Boat Pass@§bЛлевигар Билет
-§bDead Island Boat PassÀ@§bДэд Исланд Билет
-§bDead Island Boat Pass@§bДэд Исланд Билет
-§bPirate Cove Boat PassÀ@§bПайрат Коув Билет
-§bPirate Cove Boat Pass@§bПайрат Коув Билет
-§bDurum Isles Boat PassÀ@§bДурум Ислес Билет
-§bDurum Isles Boat Pass@§bДурум Ислес Билет
-§bJofash Dock Boat PassÀ@§bДжофаш Док Билет
-§bJofash Dock Boat Pass@§bДжофаш Док Билет
+§bDead Island Boat PassÀ@§bМертвый Остров Билет
+§bDead Island Boat Pass@§bМертвый Остров Билет
+§bPirate Cove Boat PassÀ@§bПиратская Бухта Билет
+§bPirate Cove Boat Pass@§bПиратская Бухта Билет
+§bDurum Isles Boat PassÀ@§bДурум Острова Билет
+§bDurum Isles Boat Pass@§bДурум Острова Билет
+§bJofash Dock Boat PassÀ@§bДжофаш Доки Билет
+§bJofash Dock Boat Pass@§bДжофаш Доки Билет
 §bNemract Boat PassÀ@§bНемракт Билет
 §bNemract Boat Pass@§bНемракт Билет
-§bMaro Peaks Boat PassÀ@§bМаро Пикс Билет
-§bMaro Peaks Boat Pass@§bМаро Пикс Билет
-§bSkiens Island Boat PassÀ@§bСкиенс Исланд Билет
-§bSkiens Island Boat Pass@§bСкиенс Исланд Билет
-§bBear Zoo Boat PassÀ@§bБеар Зу Билет
-§bBear Zoo Boat Pass@§bБеар Зу Билет
-§bVolcanic Isles Boat Pass@§bВулканик Ислес Билет
-§bVolcanic Isles Boat PassÀ@§bВулканик Ислес Билет
+§bMaro Peaks Boat PassÀ@§bВершины Маро Билет
+§bMaro Peaks Boat Pass@§bВершины Маро Билет
+§bSkiens Island Boat PassÀ@§bСкиенс Остров Билет
+§bSkiens Island Boat Pass@§bСкиенс Остров Билет
+§bBear Zoo Boat PassÀ@§bЗоопарк Билет
+§bBear Zoo Boat Pass@§bЗоопарк Билет
+§bVolcanic Isles Boat Pass@§bВулканические Острова Билет
+§bVolcanic Isles Boat PassÀ@§bВулканические Острова Билет
 
 ########################Гильдия#################################
 §7§lMobs@§7§lМобы
@@ -1276,7 +1276,7 @@ Master Catalyst@Мастер Катализатор
 §fThe Dark Blade Badge@§fЗначок Темного Клинка
 §fDogun Badge of Trust@§fЗнак Доверия Догунов
 §fSoul of Ockar the Unseen Blade@§fДуша Окара Невидимого Клинка
-§fSoul of Kiriost of the Molten Arrow@§fДуша Кириоста Расплавленная Стрела
+§fSoul of Kiriost of the Molten Arrow@§fДуша Кириоста Расплавленной Стрелы
 §fSoul of Abduce the Barbarian@§fДуша Абдука Варвара
 §fSoul of Delinaed the Wise@§fДуша Делинаэда Мудрого
 §fPile of Gold@§fКуча Золота
@@ -1394,7 +1394,7 @@ Dusty Passport@Пыльный Паспорт
 Passport@Паспорт
 Engineer's Note@Записка Инженера
 Captain's Key@Ключ Капитана
-Dangerous Explosive@опасная Взрывчатка
+Dangerous Explosive@Опасная Взрывчатка
 Makeshift Key@Самодельный Ключ
 Queen's Treasure Stash Key@Ключ от Тайника Королевы
 §fBasement Storage Key@§fКлюч от Хранилища Подвала
