@@ -1708,32 +1708,32 @@ This book's title reads...@Названия этих книг гласят...
 §7    §7§oTheir ingenuity and industrial progression can no longer be ignored, regardless of the Avos' situation.@§7    §7§oИх изобретательность и промышленный прогресс больше нельзя игнорировать, независимо от ситуации с Авосами. 
 
 ###################################Торговцы##################################
-§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню и крафтовые предметы.
-§5Item Identifier: §dOkay, I'll identify them now!@§5Item Identifier: §dХорошо, я сейчас же их идентифицирую!
-§5Item Identifier: §dIt is done. Your item has been identified. The magic it contains will now blossom.@§5Item Identifier: §dГотово. Твой предмет был идентифицирован. Магия, содержащаяся в нем, теперь раскрыта.
-§5Item Identifier: §dIt is done. Your items have been identified. The magic they contain will now blossom.@§5Item Identifier: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
-§5Key Collector: §dYou have access to the dungeon... This time only.@§5Key Collector: §dТы можешь войти в данж... Но только в этот раз.
-§5Powder Master: §dGreat doing business with you, adventurer. Come back any time!@§5Powder Master: §dС тобой приятно иметь дело, путешественник. Возвращайся в любое время!
-§5Item Identifier: §dI can't identify this item! Only items with a §eunique§d, §5rare§d, §blegendary§d, and §aset§d tags can be identified.@§5Item Identifier: §dЯ не могу идентифицировать этот предмет! Только предметы с §eunique§d, §5rare§d, §blegendary§d, и §aset§d тэгами можно идентифицировать.
-§5Guild Master: §dYou need 5 liquid emeralds to make a guild.@§5Guild Master:§dТебе нужно 5 жидких эмеральдов, чтобы создать гильдию.
-§5Item Identifier: §dI can't identify this item! It can not be reidentified.@§5Item Identifier: §dЯ не могу идентифицировать этот предмет! Он не может быть идентифицирован повторно.
+§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour and crafted items.@§5Кузнец: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню и крафтовые предметы.
+§5Item Identifier: §dOkay, I'll identify them now!@§5Идентификатор Предметов: §dХорошо, я сейчас же их идентифицирую!
+§5Item Identifier: §dIt is done. Your item has been identified. The magic it contains will now blossom.@§5Идентификатор Предметов: §dГотово. Твой предмет был идентифицирован. Магия, содержащаяся в нем, теперь раскрыта.
+§5Item Identifier: §dIt is done. Your items have been identified. The magic they contain will now blossom.@§5Идентификатор Предметов: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
+§5Key Collector: §dYou have access to the dungeon... This time only.@§5Сборщик Ключей: §dТы можешь войти в данж... Но только в этот раз.
+§5Powder Master: §dGreat doing business with you, adventurer. Come back any time!@§5Мастер Порошков: §dС тобой приятно иметь дело, путешественник. Возвращайся в любое время!
+§5Item Identifier: §dI can't identify this item! Only items with a §eunique§d, §5rare§d, §blegendary§d, and §aset§d tags can be identified.@§5Идентификатор Предметов: §dЯ не могу идентифицировать этот предмет! Только предметы с §eуникальными§d, §5редкими§d, §bлегендарными§d, и §aсет§d тэгами можно идентифицировать.
+§5Guild Master: §dYou need 5 liquid emeralds to make a guild.@§5Мастер Гильдий:§dТебе нужно 5 жидких эмеральдов, чтобы создать гильдию.
+§5Item Identifier: §dI can't identify this item! It can not be reidentified.@§5Идентификатор Предметов: §dЯ не могу идентифицировать этот предмет! Он не может быть идентифицирован повторно.
 §dIt was a pleasure doing business with you.@§dБыло приятно иметь с тобой дело
-§5Guild Master: §dYou must leave your current guild before making your own. Type /guild leave@§5Guild Master: §dТы должен выйти из своей текущей гильдии, чтобы создать свою. Напиши /guild leave
-§5Blacksmith: §dI can only buy 8 items at a time.@§5Blacksmith: §dЯ могу купить только 8 предметов за раз.
-§5Blacksmith: §dI can only scrap 8 items at a time.@§5Blacksmith: §dЯ могу утилизировать только 8 предметов за раз.
-§5Blacksmith: §dYou need more scrap to repair that!@§5Blacksmith: §dТебе нужно больше скрапа, чтобы починить это!
-§5Item Identifier: §dAdd items to identify first!@§5Item Identifier: §dСначала добавь предметы для идентификации!
-§5Item Identifier: §dI can only identify 8 items at a time.@§5Item Identifier: §dЯ могу идентифицировать только 8 предметов за раз.
-§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour, ingredients, resources, and crafted items.@§5Blacksmith: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню, ингредиенты, ресурсы и крафтовые предметы.
-§5Key Collector: §dYou are free to enter the dungeon at no cost for the duration of the dungeon bomb. §3[Purchase your own at §bstore.wynncraft.com§3]@§5Key Collector: §dТы можешь бесплатно войти в подземелье на время действия данж бомбы. §3[Купи свою на §bstore.wynncraft.com§3]
-§5Item Identifier: §dThere was no space in your inventory. I dropped your items on the ground.@§5Item Identifier: §dВ твоем инвентаре не было места. Я выбросил предметы на землю.
-§5Guild Master: §dCome back when you're combat level 40@§5Guild Master: §dВозвращайся когда достигнешь 40 комбат уровня
-§5Guild Master: §dCome back when you have 5 soul points@§5Guild Master: §dВозвращайся когда у тебя будет 5 очков душ
-§5Guild Master: §dHello adventurer! I see you're interested in making a guild. What do you want to name it?@§5Guild Master: §dПривет путешественник! Вижу, ты заинтересован в создании гильдии. Как ты хочешь ее назвать?
-§5Guild Master: §dNow, what prefix do you want for your guild? It will appear next to the names of your members.@§5Guild Master: §dТеперь какой префикс ты хочешь для своей гильдии? Он появится рядом с никами твоих участников.
-§5Guild Master: §dFor an example, a guild with the name "§bExample Guild Name§d" should have the prefix "§bEGN§d".@§5Guild Master: §dК примеру, у гильдии с названием "§bExample Guild Name§d" должен быть префикс "§bEGN§d".
-§5Guild Master: §dYour prefix must have exactly 3 characters.@§5Guild Master: §dПрефикс должен содержать ровно 3 символа.
-§5Guild Master: §dIt seems that there is already a guild with that prefix... Try again!@§5Guild Master: §dПохоже уже есть такая гильдия с этим префиксом... Попробуй еще раз!
+§5Guild Master: §dYou must leave your current guild before making your own. Type /guild leave@§5Мастер Гильдий: §dТы должен выйти из своей текущей гильдии, чтобы создать свою. Напиши /guild leave
+§5Blacksmith: §dI can only buy 8 items at a time.@§5Кузнец: §dЯ могу купить только 8 предметов за раз.
+§5Blacksmith: §dI can only scrap 8 items at a time.@§5Кузнец: §dЯ могу утилизировать только 8 предметов за раз.
+§5Blacksmith: §dYou need more scrap to repair that!@§5Кузнец: §dТебе нужно больше скрапа, чтобы починить это!
+§5Item Identifier: §dAdd items to identify first!@§5Идентификатор Предметов: §dСначала добавь предметы для идентификации!
+§5Item Identifier: §dI can only identify 8 items at a time.@§5Идентификатор Предметов: §dЯ могу идентифицировать только 8 предметов за раз.
+§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour, ingredients, resources, and crafted items.@§5Кузнец: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню, ингредиенты, ресурсы и крафтовые предметы.
+§5Key Collector: §dYou are free to enter the dungeon at no cost for the duration of the dungeon bomb. §3[Purchase your own at §bstore.wynncraft.com§3]@§5Сборщик Ключей: §dТы можешь бесплатно войти в подземелье на время действия данж бомбы. §3[Купи свою на §bstore.wynncraft.com§3]
+§5Item Identifier: §dThere was no space in your inventory. I dropped your items on the ground.@§5Идентификатор Предметов: §dВ твоем инвентаре не было места. Я выбросил предметы на землю.
+§5Guild Master: §dCome back when you're combat level 40@§5Мастер Гильдий: §dВозвращайся когда достигнешь 40 комбат уровня
+§5Guild Master: §dCome back when you have 5 soul points@§5Мастер Гильдий: §dВозвращайся когда у тебя будет 5 очков душ
+§5Guild Master: §dHello adventurer! I see you're interested in making a guild. What do you want to name it?@§5Мастер Гильдий: §dПривет путешественник! Вижу, ты заинтересован в создании гильдии. Как ты хочешь ее назвать?
+§5Guild Master: §dNow, what prefix do you want for your guild? It will appear next to the names of your members.@§5Мастер Гильдий: §dТеперь какой префикс ты хочешь для своей гильдии? Он появится рядом с никами твоих участников.
+§5Guild Master: §dFor an example, a guild with the name "§bExample Guild Name§d" should have the prefix "§bEGN§d".@§5Мастер Гильдий: §dК примеру, у гильдии с названием "§bExample Guild Name§d" должен быть префикс "§bEGN§d".
+§5Guild Master: §dYour prefix must have exactly 3 characters.@§5Мастер Гильдий: §dПрефикс должен содержать ровно 3 символа.
+§5Guild Master: §dIt seems that there is already a guild with that prefix... Try again!@§5Мастер Гильдий: §dПохоже уже есть такая гильдия с этим префиксом... Попробуй еще раз!
 
 ###################################Цели##################################
 §a                           Gather Resources@                        §aСбор ресурсов
@@ -1768,7 +1768,7 @@ This book's title reads...@Названия этих книг гласят...
 §c                              Gather Crops@§c                           Сбор Урожая
 §c                               Gather Wood@§c                            Сбор Дерева
 §c                                Gather Fish@§c                             Ловля Рыбы
-§c                            Loot Chests T3+@§c                         Открытие Сундуков T3+
+§c                            Loot Chests T3+@§c                         Открытие Сундуков У3+
 §c                   Trade 24² with Lv. 1-10 Newbie@§c                 Торговля с новичком Ур. 1-10
 
 ###################################Прочие##################################
@@ -1782,25 +1782,25 @@ This book's title reads...@Названия этих книг гласят...
 §a- §7Spell Usage: §fLeft-Right-Right@§a- §7Использование Заклинания: §fЛевая-Правая-Правая
 §a- §7Spell Usage: §fLeft-Left-Right@§a- §7Использование Заклинания: §fЛевая-Левая-Правая
 §7+ Spell clicking notification moved to info bar@§7+ Уведомление о наборе заклинаний передвинуто на панель информации
-§a- §7Charge will make you run quickly in a particular direction@§a- §7Charge поможет тебе быстро передвигаться в определенном направлении
-§a- §7Smoke Bomb will throw a cloud of smoke, damaging mobs that are stuck inside@§a- §7Smoke Bomb выбрасывает облако дыма, нанося урон мобам, застрявшим внутри него
-§a- §7Teleport will teleport to the location that you're looking at@§a- §7Teleport будет телепортировать тебя в место, на которое ты смотришь
-§a- §7Meteor will throw a powerful meteor from the sky, hitting anything in its path@§a- §7Meteor запускает мощный Метеор с неба, задевая все на своем пути
-§a- §7Escape will throws yourself backward, giving you time to escape. You can hold shift to quickly drop down.@§a- §7Escape отбрасывает назад, давая тебе время убежать. Ты можете удерживать шифт, чтобы быстро спуститься.
-§a- §7Bomb will throws a bomb arrow, demolishing anything in its path@§a- §7Bomb бросает бомбу из стрел, уничтожая все на своем пути
-§a- §7Uppercut will launch all nearby mobs high into the air@§a- §7Uppercut запускает всех ближайших мобов высоко в воздух
-§a- §7Vanish will make you disappear into the shadows, confusing your opponent@§a- §7Vanish заставит тебя исчезнуть в тени, сбивая с толку твоего противника
-§a- §7Multi Hit will throw your opponent into the air while damaging them@§a- §7Multi Hit подбрасывает твоего противника в воздух, нанося урон им
-§a- §7Arrow Shield will summon a shield of arrows, hurting anything that touches it@§a- §7Arrow Shield вызывает щит из стрел, причиняя боль всему, что касается его
+§a- §7Charge will make you run quickly in a particular direction@§a- §7Заряд поможет тебе быстро передвигаться в определенном направлении
+§a- §7Smoke Bomb will throw a cloud of smoke, damaging mobs that are stuck inside@§a- §7Дымовая Бомба выбрасывает облако дыма, нанося урон мобам, застрявшим внутри него
+§a- §7Teleport will teleport to the location that you're looking at@§a- §7Телепорт будет телепортировать тебя в место, на которое ты смотришь
+§a- §7Meteor will throw a powerful meteor from the sky, hitting anything in its path@§a- §7Метеор запускает мощный метеор с неба, задевая все на своем пути
+§a- §7Escape will throws yourself backward, giving you time to escape. You can hold shift to quickly drop down.@§a- §7Побег отбрасывает тебя назад, давая время убежать. Ты можешь удерживать шифт, чтобы быстро спуститься.
+§a- §7Bomb will throws a bomb arrow, demolishing anything in its path@§a- §7Бомба бросает бомбу из стрел, уничтожая все на своем пути
+§a- §7Uppercut will launch all nearby mobs high into the air@§a- §7Апперкот запускает всех ближайших мобов высоко в воздух
+§a- §7Vanish will make you disappear into the shadows, confusing your opponent@§a- §7Исчезновение заставит тебя исчезнуть в тени, сбивая с толку твоего противника
+§a- §7Multi Hit will throw your opponent into the air while damaging them@§a- §7Мега Удар подбрасывает твоих противников в воздух, нанося им урон
+§a- §7Arrow Shield will summon a shield of arrows, hurting anything that touches it@§a- §7Щит Стрел вызывает щит из стрел, причиняя боль всему, что касается его
 §a- §7Go to §fwynncraft.com/help§f §7for info about this upgrade@§a- §7Узнай на §fwynncraft.com/help§f §7больше информации об этом апгрейде
-§a- §7Ice Snake will throw a snake of ice, freezing your enemies over a long distance@§a- §7Ice Snake выпускает ледяную змею, замораживая врагов на большом расстоянии
-§a- §7Leap will make you run quickly in a particular direction@§a- §7Leap поможет тебе быстро передвигаться в определенном направлении
-§a- §7War Scream will make a loud screech, hurting mobs and buffing all nearby players@§a- §7War Scream будет издавать громкий крик, причиняя боль мобам и бафая всех ближайших игроков
-§a- §7Spider Jump will throw yourself backwards, giving you time to escape. You can hold shift to quickly drop down.@§a- §7Spider Jump отбрасывает назад, давая тебе время убежать. Ты можете удерживать шифт, чтобы быстро спуститься.
-§a- §7Creeper Dart will throw a creeper dart, demolishing anything in its path@§a- §7Creeper Dart выпускает ползучий дротик, уничтожая все на своем пути
-§a- §7Blink will teleport to the location that you're looking at@§a- §7Blink  будет телепортировать тебя в место, на которое ты смотришь
-§a- §7Dead Star will throw a powerful meteor from the sky, hitting anything in its path@§a- §7Dead Star запускает мощный Метеор с неба, задевая все на своем пути
-§a- §7Crystal Reptile will throw a snake of death, freezing your enemies over a long distance@§a- §7Crystal Reptile выпускает смертоносную змею, замораживая врагов на большом расстоянии
+§a- §7Ice Snake will throw a snake of ice, freezing your enemies over a long distance@§a- §7Ледяная Змея выпускает ледяную змею, замораживая врагов на большом расстоянии
+§a- §7Leap will make you run quickly in a particular direction@§a- §7Прыжок поможет тебе быстро передвигаться в определенном направлении
+§a- §7War Scream will make a loud screech, hurting mobs and buffing all nearby players@§a- §7Крик Войны будет издавать громкий крик, причиняя боль мобам и бафая всех ближайших игроков
+§a- §7Spider Jump will throw yourself backwards, giving you time to escape. You can hold shift to quickly drop down.@§a- §7Прыжок Паука отбрасывает назад, давая тебе время убежать. Ты можешь удерживать шифт, чтобы быстро спуститься.
+§a- §7Creeper Dart will throw a creeper dart, demolishing anything in its path@§a- §7Дротик Крипера выпускает ползучий дротик, уничтожая все на своем пути
+§a- §7Blink will teleport to the location that you're looking at@§a- §7Ослепление будет телепортировать тебя в место, на которое ты смотришь
+§a- §7Dead Star will throw a powerful meteor from the sky, hitting anything in its path@§a- §7Мертвая Звезда запускает мощный метеор с неба, задевая все на своем пути
+§a- §7Crystal Reptile will throw a snake of death, freezing your enemies over a long distance@§a- §7Кристальная Рептилия выпускает смертоносную змею, замораживая врагов на большом расстоянии
 
 ###################################Системные##################################
 §cThe server is restarting in 4 minutes.@§cСервер перезагрузится через 4 минуты
@@ -1861,7 +1861,7 @@ This book's title reads...@Названия этих книг гласят...
 §6      Chat with members of your party@§6Писать в чат участникам пати 
 §6      Send someone a message@§6Отправить кому-то сообщение 
 §6      Quickly reply to a message@§6Быстрый ответ на сообщение 
-§6      Trade with someone@§6Торговать с кем-нибудь 
+§6      Trade with someone@§6Торговать с кем-либо
 §6      Open a crate@§6Открыть контейнер  
 §6      Use a mob totem@§6Использовать моб тотем 
 §6      Sign a crafted item@§6Подписать крафтовый предмет  
@@ -1871,8 +1871,8 @@ This book's title reads...@Названия этих книг гласят...
 §6      Choose a class to play as@§6Выбрать класс для игры  
 §6      Toggle gameplay items on or off@§6Включить или отключить элементы геймплея
 §4You have no items of this type to use. Buy some at our website, §cwynncraft.com/store@§4У тебя нет предметов этого типа для использования. Можешь купить их на нашем сайте §cwynncraft.com/store
-§dVisit the Trade Market to claim your item@§dПосети Trade Market, чтобы забрать свой предмет
-§dVisit the Trade Market to claim your items@§dПосети Trade Market, чтобы забрать свои предметы
+§dVisit the Trade Market to claim your item@§dПосети Трейд Маркет, чтобы забрать свой предмет
+§dVisit the Trade Market to claim your items@§dПосети Трейд Маркет, чтобы забрать свои предметы
 §6Type the item name or type 'cancel' to cancel:@§6Напиши название предмета, или 'cancel' для отмены:
 §4You have not unlocked this spell!@§4Ты еще не открыл это заклинание!
 §3You have received:@§3Ты получил:
@@ -1880,7 +1880,7 @@ This book's title reads...@Названия этих книг гласят...
 §7+2 Skill Points §8[Open the character menu to use them]@§7+2 Очка умений [Открой меню персонажа для их использования]
 §7+5 Maximum HP@§7+5 Очков здоровья
 §4You don't have enough mana to do that spell!@§4У тебя недостаточно маны, чтобы использовать это заклинание!
-§cYour Crafted Items are damaged and have become less effective. Bring them to a Blacksmith to repair them.@§cТвои крафтовые предметы повредились и стали менее эффективными. Принеси их к Blacksmith'у, чтобы починить.
+§cYour Crafted Items are damaged and have become less effective. Bring them to a Blacksmith to repair them.@§cТвои крафтовые предметы повредились и стали менее эффективными. Принеси их к Кузнецу, чтобы починить.
 §41 soul point has been lost...@§41 очко душ было потрачено...
 §4You can skip the tutorial by typing: §c/skiptutorial§4. You will not receive resources, tools, or a crafted item by doing this.@§cТы можешь пропустить туториал командой /skiptutorial. Ты не получишь ресурсы, инструменты, или крафтовые предметы, сделав это.
 §4There is no room for a horse.@§4Здесь нет места для лошади.
