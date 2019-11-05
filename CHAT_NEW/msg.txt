@@ -1905,7 +1905,7 @@ This book's title reads...@Названия этих книг гласят...
 §cSorry, you can't teleport... Try moving away from blocks.@§cИзвини, ты не можешь телепортироваться... Попробуй отойти от блоков
 §7Warning: As you lose soul points, you will drop more items when you die.@§7Предупреждение: Чем больше очков душ ты теряешь, тем больше предметов выпадает с тебя при смерти.
 §7Your class has automatically been selected. Use /class to change your class, or /toggle autojoin to turn this feature off.@§7Твой класс был автоматически выбран. Напиши /class, чтобы сменить класс, или /toggle autojoin чтобы отключить эту функцию.
-§eDesc.: This command will let you use the party system.@§eОписание: Эта команда позволит вам использовать систему пати.
+§eDesc.: This command will let you use the party system.@§eОписание: Эта команда позволит тебе использовать систему пати.
 §eUsage: /party [join/leave/create/invite/kick/list] [arguments]@§eИспользование: /party [join/leave/create/invite/kick/list] [аргументы]
 §eYou have successfully created a party.@§eТы успешно создал пати.
 §eYou have invited the player to the party.@§eТы пригласил игрока в пати. 
@@ -1978,17 +1978,17 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §eCan't find that player! Try again?@§eНе можем найти этого игрока! Попробуй еще раз?
 §cInvalid syntax: /find [player]@§cНеправильный синтаксис: /find [игрок]
 §cYou don't have any available trade slots. Go to your trade overview and make some space!@§cУ тебя нет доступных торговых слотов. Перейди в свое обзорное меню торговли и освободи немного места!
-§cThe server you were previously on went down, you have been connected to a fallback server@§cСервер, на котором вы были ранее, вышел из строя. Вы были подключены к резервному серверу
+§cThe server you were previously on went down, you have been connected to a fallback server@§cСервер, на котором ты был ранее, вышел из строя. Ты был подключен к резервному серверу
 §6Type the price in emeralds or type 'cancel' to cancel:@§6Напиши цену в эмеральдах, или 'cancel' для отмены:
 §6Type the amount you wish to buy or type 'cancel' to cancel:@§6Напиши количество, которое желаешь купить, или 'cancel' для отмены:
 §6Type the amount you wish to sell or type 'cancel' to cancel:@§6Напиши количество, которое желаешь продать, или 'cancel' для отмены:
 §7Please type an item name in chat!@§7Пожалуйста напиши название предмета в чат!
 §4You need to wait §c120 seconds§4 after logging in to gather from this resource!@§4Тебе нужно подождать §c120 секунд §4после входа на сервер чтобы собрать этот ресурс!
 §dVisit the Trade Market to claim your emeralds@§dПосети Трейд Маркет, чтобы забрать свои эмеральды
-§cOnly quest and crafted items are usable by craftsmen!@§cТолько квестовые и крафтовые предметы можно использовать в режиме craftsmen!
-§cThe bank is not available for ironman players!@§cБанк недоступен для игроков в режиме ironman!
-§4You cannot trade as an ironman player!@§4Ты не можешь торговать в режиме ironman!
-§cThe market is not available for ironman players!@§cМаркет недоступен для игроков в режиме ironman!
+§cOnly quest and crafted items are usable by craftsmen!@§cТолько квестовые и крафтовые предметы можно использовать в режиме Ремесленник!
+§cThe bank is not available for ironman players!@§cБанк недоступен для игроков в режиме Железный Человек!
+§4You cannot trade as an ironman player!@§4Ты не можешь торговать в режиме Железный Человек!
+§cThe market is not available for ironman players!@§cМаркет недоступен для игроков в режиме Железный Человек!
 §cYou already have some Food active...@§cНа тебя уже действует Еда...
 §cYou already have a Scroll active...@§cНа тебя уже действует Свиток...
 §4That class is VIP only! Buy VIP at §cstore.wynncraft.com@§4Этот класс только для VIP игроков! Купи VIP на §cstore.wynncraft.com
@@ -2026,7 +2026,7 @@ You're rejoining too quickly! Give us a moment to save your data.@§4Ты сли
 §cInvalid price! Please try again with a higher number.@§cНеверная цена! Попробуй еще раз с большим числом.
 §7--§4 For a proper help guide, visit our website §7--@§7--§4 Для полного гайда о помощи, посети наш сайт §7--
 §2You will now receive the resource pack warning again!@§2Теперь ты снова получаешь предупреждения о ресурспаке!
-§cOops! Something went wrong! You have been sent back to Ragni.@§cУпс! Что-то пошло не так! Ты был отправлен обратно в Ragni.
+§cOops! Something went wrong! You have been sent back to Ragni.@§cУпс! Что-то пошло не так! Ты был отправлен обратно в Рагни.
 §6Usage: §f/particles <off/low/medium/high/veryhigh/highest/[particles per tick]>@§6Использование: §f/particles <off/low/medium/high/veryhigh/highest/[частицы за тик]>
 §aYour particle limit is now §fhighest (-1)@§aТвой лимит частиц теперь §fсамый высокий (-1)
 §7-------------§4 Wynncraft Help §7-------------@§7-------------§4 Wynncraft Помощь §7-------------
@@ -2083,7 +2083,7 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §2You can now see the task scoreboard!@§2Ты видишь табло с заданиями снова!
 §2You will now see the class selection screen again!@§2Ты видишь экран выбора класса снова!
 §aSending you our custom resource pack...@§aОтправляем тебе пользовательский ресурспак...
-§d     -§7 Location: §fNesaak Tundra [1/1]@§d     -§7 Локация: §fNesaak Tundra [1/1]
+§d     -§7 Location: §fNesaak Tundra [1/1]@§d     -§7 Локация: §fНесаак Тундра [1/1]
 §cInvalid price! Please try again with a lower number.@§cНеверная цена! Попробуй еще раз с более меньшим числом.
 §c§7The lift has been called down...@§c§7Лифт был вызван вниз...
 §c§7The lift has been called up...@§c§7Лифт был вызван вверх...
@@ -2109,7 +2109,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §2You can no longer see swear words in chat!@§2Ты больше не видишь бранные слова в чате!
 §2You can now see swear words again!@§2Ты видишь бранные слова снова! 
 §cInvalid amount! Please try again with a lower number.@§cНеправильное количество! Попробуй еще раз с меньшим числом.
-§4You cannot trade with an ironman player!@§4Ты не можешь торговать с игроком в режиме Ironman!
+§4You cannot trade with an ironman player!@§4Ты не можешь торговать с игроком в режиме Железный Человек!
 §cYou need to hold an item in your hand to change its lore!@§cТебе нужно держать предмет в руке, чтобы изменить его лор!
 §7We did not count this death towards your hardcore status.@§7Мы не засчитаем эту смерть в твой хардкор статус.
 §cYou cannot report yourself.@§cТы не можешь отправить репорт на себя.
