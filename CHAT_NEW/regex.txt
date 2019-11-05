@@ -27,7 +27,7 @@
 §b(.*)§7 gave you §b\+3 minutes§7 speed boost.@§b(r1)§7 дал тебе §b+3 минуты§7 буста скорости.
 §8\[§7\!§8\] §7Congratulations to §f(.*)§7 for reaching combat §flevel (.*)§7\!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) комбат уровня§7!
 §3\[Parkour\] §bCongratulations! §3([a-zA-Z0-9_]{1,16})§b finished the parkour in §3(.*) seconds§b!@§3[Паркур] §bПоздравляем! §3(r1)§b закончил паркур за §3(r2) секунд§b!
-§5Key Collector: §dYou do not yet have a high enough combat level to access this dungeon. Come back when you're at least combat level (.*).@§5Key Collector: §dУ тебя недостаточный комбат уровень для доступа в этот данж. Возвращайся, когда будешь (r1) комбат уровня.
+§5Key Collector: §dYou do not yet have a high enough combat level to access this dungeon. Come back when you're at least combat level (.*).@§5Сборщик Ключей: §dУ тебя недостаточный комбат уровень для доступа в этот данж. Возвращайся, когда будешь (r1) комбат уровня.
 §3\[Parkour\] §bYou completed §3Lv. (.*)§b in §(.*) seconds§b.@§3[Паркур] §bТы завершил §3Ур. (r1)§b за §(r2) секунд§b.
 §9(.*) would like to duel! Type §6(.*)§9 to accept.@§b(r1) хочет дуэли с тобой! Напиши §6(r2)§9 для принятия.
 §7\[Questline Started: (.*)\]@§7[Начата серия квестов: (r1)]
@@ -49,7 +49,7 @@
 §cThe server is restarting in (\d+) seconds.@§cСервер перезагрузится через (r1) секунд
 §cThe server is restarting in (\d+) minutes.@§cСервер перезагрузится через (r1) минут
 (.*) has just logged in!@(r1) только что зашел!
-§5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds.@§5Item Identifier: §dБоюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить §6(r1) эмеральдов
+§5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds.@§5Идентификатор Предметов: §dБоюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить §6(r1) эмеральдов
 §6([a-zA-Z0-9_]{1,16}) is now combat level (\d+)@§6(r1) достиг (r2) комбат уровня
 §6([a-zA-Z0-9_]{1,16})§9 has won the duel!@§6(r1)§9 выиграл дуэль!
 §4Did you mean §c(.*)\? §4If not, type \/help to see the commands!@§4Ты имел в виду §c(r1)? §4Если нет, напиши /help, чтобы увидеть список команд!
@@ -76,7 +76,7 @@
 §c\[(.*)\] §bCleared §7all potion effects §bRemoved §7all fire.@§c[(r1)] §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
 §c\[(.*)\] §bRemoved §7all fire.@§c[(r1)] §bУбран §7весь огонь.
 §c\[(.*)\] §bCleared §7all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
-§d     -§7 Location: §fWynn Plains \[(.*)\]@§d     -§7 Локация: §fРавнины Wynn [(r1)]
+§d     -§7 Location: §fWynn Plains \[(.*)\]@§d     -§7 Локация: §fРавнины Винн [(r1)]
 §d     -§7 Discoveries Found: §f(.*)@§d     -§7 Открытий Найдено: §f(r1)
 §d     -§7 Location: §fDesert \[(.*)\]@§d     -§7 Локация: §fПустыня [(r1)]
 §d     -§7 Location: §fCorkus \[(.*)\]@§d     -§7 Локация: §fКоркус [(r1)]
@@ -86,7 +86,7 @@
 §b(.*)§3 has thrown a §bCombat XP Bomb§3! The entire server gets §bdouble combat xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bКомбат XP бомбу§3! Весь сервер получает §bдвойные комбат xp §3на §b20 минут§3!
 §b(.*)§3 has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@§b(r1)§3 бросил §bПрофессии Скорость Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
 §b(.*)§3 has thrown an §bItem Bomb§3!@§b(r1)§3 бросил §bПредметную Бомбу§3!
-§b(.*)§3 has thrown a §bProfession XP Bomb§3! The entire server gets §bdouble profession xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bПрофессии XP бомбу§3! Весь сервер получает §bдвойные xp профессий §3на §b20 минут§3!
+§b(.*)§3 has thrown a §bProfession XP Bomb§3! The entire server gets §bdouble profession xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bПрофессии XP бомбу§3! Весь сервер получает §bдвойные XP профессий §3на §b20 минут§3!
 §b(.*)§3 has thrown a §bLoot Bomb§3! The entire server gets §bdouble loot §3for §b20 minutes§3!@§b(r1)§3 бросил §bЛут бомбу§3! Весь сервер получает §bдвойной лут §3на §b20 минут§3!
 §b(.*)§3bomb has expired. You can buy (.*) (b|B)ombs at our website, §bwynncraft.com\/store@§b(r1)§3бомба закончилась. Ты можешь купить (r2) бомбу на нашем сайте, §bwynncraft.com/store
 §b(.*)§3 has thrown a §bParty Bomb§3! Enjoy the madness!@§b(r1)§3 бросил §bПати Бомбу§3! Наслаждайся безумием!
@@ -186,8 +186,8 @@
 §c(.*)§4 is already in a guild.@§c(r1)§4 уже находится в гильдии.
 §b(.*) has taken control of (.*)!@§b(r1) захватили контроль над (r2)!
 §b(.*)§3 has thrown an §bIngredient Bomb§3!@§b(r1)§3 бросил §bИнгредиентную Бомбу§3!
-§b(.*) just contributed (.*) emeralds to the guild!@§b(r1) внес (r2) эмеральдов в гильдию!
-§b(.*) just contributed 1 emerald to the guild!@§b(r1) внес 1 эмеральд в гильдию!
+(.*) just contributed (.*) emeralds to the guild!@§b(r1) внес (r2) эмеральдов в гильдию!
+(.*) just contributed 1 emerald to the guild!@§b(r1) внес 1 эмеральд в гильдию!
 §bCongratulations! The guild has taken control of (.*) from (.*)!!!@§bПоздравляем! Гильдия взяла контроль над (r1) у (r2)!!!
 §b(.*) has set (.*) rank from (.*) to (.*)@§b(r1) изменил ранг (r2) с (r3) на (r4)
 §7\[\+(.*) §fⒹ §7Jeweling XP\] §6\[(\d+)%\]@§7[+(r1) §fⒹ §7Изготовление аксессуаров XP] §6[(r2)%]
@@ -211,13 +211,14 @@
 §7\[1\/1\] §2Aledar: §aHey, (.*), the castle's the other way!@§7[1/1] §2Aledar: §aЭй, (r1), замок в другой стороне!
 §7\[1\/1\] §2Aledar: §aHey, (.*), follow me!@§7[1/1] §2Aledar: §aЭй, (r1), следуй за мной!
 §7\[1\/1\] §2Aledar: §aHey, (.*)! That's the wrong way!@§7[1/1] §2Aledar: §aЭй, (r1)! Это неправильный путь!
-§7\[7\/8\] §2Guard: §a(.*), you're an Assassin, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь ассасин, верно? Встань поближе к стене, ради меня.
-§7\[7\/8\] §2Guard: §a(.*), you're a Mage, right\? Gonna need you to stay close to me.@§7[7/8] §2Guard: §a(r1), ты ведь маг, верно? Встань поближе ко мне.
-§7\[7\/8\] §2Guard: §a(.*), you're a Warrior, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь воин, верно? Встань поближе к стене, ради меня.
-§7\[7\/8\] §2Guard: §a(.*), you're a Dark Wizard, right\? Gonna need you to stay close to me.@§7[7/8] §2Guard: §a(r1), ты ведь темный маг, верно? Встань поближе ко мне.
-§7\[7\/8\] §2Guard: §a(.*), you're a Ninja, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь ниндзя, верно? Встань поближе к стене, ради меня.
-§7\[7\/8\] §2Guard: §a(.*), you're a Hunter, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь охотник, верно? Встань поближе к стене, ради меня.
-§7\[7\/8\] §2Guard: §a(.*), you're a Knight, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь рыцарь, верно? Встань поближе к стене, ради меня.
+§7\[7\/8\] §2Guard: §a(.*), you're an Assassin, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Ассасин, верно? Встань поближе к стене, ради меня.
+§7\[7\/8\] §2Guard: §a(.*), you're a Mage, right\? Gonna need you to stay close to me.@§7[7/8] §2Guard: §a(r1), ты ведь Маг, верно? Встань поближе ко мне.
+§7\[7\/8\] §2Guard: §a(.*), you're a Warrior, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Воин, верно? Встань поближе к стене, ради меня.
+§7\[7\/8\] §2Guard: §a(.*), you're a Dark Wizard, right\? Gonna need you to stay close to me.@§7[7/8] §2Guard: §a(r1), ты ведь Темный Волшебник, верно? Встань поближе ко мне.
+§7\[7\/8\] §2Guard: §a(.*), you're a Ninja, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Ниндзя, верно? Встань поближе к стене, ради меня.
+§7\[7\/8\] §2Guard: §a(.*), you're a Hunter, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Охотник, верно? Встань поближе к стене, ради меня.
+§7\[7\/8\] §2Guard: §a(.*), you're a Knight, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Рыцарь, верно? Встань поближе к стене, ради меня.
+§7\[7\/8\] §2Guard: §a(.*), you're an Archer, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Лучник, верно? Встань поближе к стене, ради меня.
 §7\[2\/2\] §2Tasim: §aHey, (.*)! You alright in there\? Looks like we hit something.@§7[2/2] §2Tasim: §aЭй, (r1)! Ты там в порядке? Похоже, мы обо что-то ударились.
 §7\[1\/1\] §2Tasim: §aHey, (.*)! You alright in there\? Looks like we hit something.@§7[1/1] §2Tasim: §aЭй, (r1)! Ты там в порядке? Похоже, мы обо что-то ударились.
 §7\[4\/4\] §2Aledar: §aIt's not that far, it's just a straight path from here. (.*), if you're ready, let's get moving.@§7[4/4] §2Aledar: §aЭто не далеко, там идет прямой путь отсюда. (r1), если ты готов, то пойдем.
@@ -228,8 +229,7 @@
 §7\[1\/1\] §2Aledar: §aGood job, (.*)! Let's keep going.@§7[1/1] §2Aledar: §aОтличная работа, (r1)! Продолжим идти вперед.
 §7\[2\/2\] §2Aledar: §a(.*), take the one in the front. We'll get the two in the back!@§7[2/2] §2Aledar: §a(r1), на тебе тот, что спереди. А мы разберемся с теми двумя сзади!
 §7\[1\/1\] §2Tasim: §aGreat work, (.*)! We're almost to the castle, so let's keep going!@§7[1/1] §2Tasim: §aОтличная работа, (r1)! Мы уже почти у замка, так что продолжим идти вперед!
-§7\[7\/8\] §2Guard: §a(.*), you're an Archer, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь лучник, верно? Встань поближе к стене, ради меня.
-§7\[5\/5\] §2Aledar: §aFine. I know what to do. (.*), Tasim, follow me.@§7[5/5] §2Aledar: §aХорошо, я знаю, что нужно делать. (r1), Tasim, следуйте за мной.
+§7\[5\/5\] §2Aledar: §aFine. I know what to do. (.*), Tasim, follow me.@§7[5/5] §2Aledar: §aХорошо, я знаю, что нужно делать. (r1), Тасим, следуйте за мной.
 §7\[1\/1\] §2Tasim: §aBe careful, (.*)! Don't want you falling off the edge.@§7[1/1] §2Tasim: §aБудь осторожнее, (r1)! Я не хочу, чтобы ты упал с обрыва.
 §7[1/1] §2Tasim: §aHey, don't leave yet, (.*)!@§7[1/1] §2Tasim: §aЭй, не уходи пока, (r1)!
 
@@ -242,22 +242,22 @@
 §7\[1\/3\] §2Barden: §aFantastic, (.*)! We got the bone! Couldn't have done it without you.@§7[1/3] §2Barden: §aОтличная работа, (r1)! Теперь у нас есть кость дракона! Без тебя я бы не справился.
 
 §7\[6\/16\] §2\?\?\?: §aWe heard what happened, (.*).@§7[6/16] §2???: §aМы слышали, что случилось, (r1).
-§7\[16\/16\] §2Axelus: §a(.*), follow the southern road from Rodoroc, towards the Sky Islands entrance. I'll be waiting there for you near the armoury.@§7[16/16] §2Axelus: §a(r1), следуй по южной дороге от Rodoroc'а, в сторону входа на Летающие острова. Я буду ждать тебя возле оружейной.
+§7\[16\/16\] §2Axelus: §a(.*), follow the southern road from Rodoroc, towards the Sky Islands entrance. I'll be waiting there for you near the armoury.@§7[16/16] §2Axelus: §a(r1), следуй по южной дороге от Родорока, в сторону входа на Летающие острова. Я буду ждать тебя возле оружейной.
 
 §7\[1\/5\] §2Korzim: §a(.*)...I take back my statement. They have already begun... There cannot be reasoning.@§7[1/5] §2Korzim: §a(r1)...Я беру свои слова обратно. Они уже начали... Здесь не может быть обсуждений.
-§7\[1\/5\] §2Korzim: §a(.*)... This... This used to be...a Dogun town. The Dwarves rendered it barren.@§7[1/5] §2Korzim: §a(r1)...Это... Это место было...городом Dogun'ов. Гномы сделали его безжизненным.
+§7\[1\/5\] §2Korzim: §a(.*)... This... This used to be...a Dogun town. The Dwarves rendered it barren.@§7[1/5] §2Korzim: §a(r1)...Это... Это место было...городом Догунов. Гномы сделали его безжизненным.
 §7\[2\/4\] §2Sanba: §aHere is the staff, (.*). I don't know you, but you are a good Human.@§7[2/4] §2Sanba: §aВот предмет, (r1). Я не знаю тебя, но ты явно хороший человек.
 
 §7\[1\/4\] §2Korzim: §a(.*)... Do you... have... the items\?@§7[1/4] §2Korzim: §a(r1)... Предметы... у... тебя?
 §7\[2\/4\] §2Axelus: §a(.*), the negotiations didn't go so well. I might need your help here.@§7[2/4] §2Axelus: §a(r1), переговоры прошли не очень хорошо. Мне может понадобиться твоя помощь здесь.
 §7\[2\/2\] §2Axelus: §a(.*) we gotta get out of here, right now! Meet me outside!@§7[2/2] §2Axelus: §a(r1) мы должны убираться отсюда, прямо сейчас! Встретимся снаружи!
-§7\[1\/3\] §2Axelus: §a(.*), over here, to your right. I've... borrowed this cannon.@§7[1/3] §2Axelus: §a(r1), сюда, направо. Я... позаимствовал эту пушку.
+§7\[1\/3\] §2Axelus: §a(.*), over here, to your right. I've... borrowed this cannon.@§7[1/3] §2Axelus: §a(r1), сюда, справа от тебя. Я... позаимствовал эту пушку.
 
 §7\[5\/14\] §2Old Man Martyn: §a(.*), I'm sorry I got you dragged into this. I wish I could have done it myself.@§7[5/14] §2Old Man Martyn: §a(r1), прости, что втянул тебя во все это. Хотел бы я сделать это все сам.
 §7\[10\/14\] §2Old Man Martyn: §a(.*), I'm sure we will meet again... in time.@§7[10/14] §2Old Man Martyn: §a(r1), уверен, мы еще встретимся... во времени.
 
 §7\[1\/9\] §2Maxie: §aFollow me, (.*).@§7[1/9] §2Maxie: §aСледуй за мной, (r1).
 
-§7\[1\/1\] §2Corrupted Garoth:§a Welcome, §4§k(.*)§a. My name is §4Garoth§a, but you already know that, of course. §4Who doesn't\?@§7[1/1] §2Corrupted Garoth:§aДобро пожаловать, §4§k(r1)§a. Мое имя §4Garoth§a, но ты уже это знаешь, конечно. §4Кто же не знает?
+§7\[1\/1\] §2Corrupted Garoth:§a Welcome, §4§k(.*)§a. My name is §4Garoth§a, but you already know that, of course. §4Who doesn't\?@§7[1/1] §2Corrupted Garoth:§aДобро пожаловать, §4§k(r1)§a. Мое имя §4Гарот§a, но ты уже это знаешь, конечно. §4Кто же не знает?
 
-§7\[3\/5\] §2Ariodo: §aYou are the first normal person I've seen recently, (.*). I went out recently and was met with some very rude remarks by some very rude townsfolk!@§7[3/5] §2Ariodo: §aТы единственный нормальный человек, которого я видел в последнее время (r1). Я недавно выходил наружу и столкнулся с грубыми оскорблениями от одного грубияна горожанина!
+§7\[3\/5\] §2Ariodo: §aYou are the first normal person I've seen recently, (.*). I went out recently and was met with some very rude remarks by some very rude townsfolk!@§7[3/5] §2Ariodo: §aТы единственный нормальный человек, которого я видел в последнее время, (r1). Я недавно выходил наружу и столкнулся с грубыми оскорблениями от одного грубияна горожанина!
