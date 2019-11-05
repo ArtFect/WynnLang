@@ -12,7 +12,6 @@ Item_name
 
 Item_lore
 §3Crafted (.*)§8 \[(.*) Durability\]@ 
-§3- §7Teleports to: §f(.*)@§3- §7Телепортирует в: §f(r1)
 
 
 
