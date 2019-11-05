@@ -14,14 +14,14 @@
 §7[1/3] §2Old Man Martyn: §aOh dear, there he goes again. Poor fool ignored my warnings and touched that shovel.@§7[1/3] §2Old Man Martyn: §aО боже, опять он за свое. Дурачок проигнорировал мои предупреждения и дотронулся до лопаты.
 §7[2/3] §2Old Man Martyn: §aHe's gone and got himself stuck in a loop.@§7[2/3] §2Old Man Martyn: §aОн пропал и теперь застрял во временной петле.
 §7[3/3] §2Old Man Martyn: §aHead inside, soldier, and I'll explain what's happening here.@§7[3/3] §2Old Man Martyn: §aИди внутрь, солдат, и я объясню, что здесь происходит.
-§7[1/1] §2Old Man Martyn: §aWithout Asher, his house has vanished from time.@§7[1/1] §2Old Man Martyn: §aБез Asher'a, его дом исчез из времени.
-§7[1/8] §2Old Man Martyn: §aLet me explain why Asher disappeared...@§7[1/8] §2Old Man Martyn: §aПозволь мне объяснить, почему Asher исчез...
+§7[1/1] §2Old Man Martyn: §aWithout Asher, his house has vanished from time.@§7[1/1] §2Old Man Martyn: §aБез Ашерa, его дом исчез из времени.
+§7[1/8] §2Old Man Martyn: §aLet me explain why Asher disappeared...@§7[1/8] §2Old Man Martyn: §aПозволь мне объяснить, почему Ашер исчез...
 §7[2/8] §2Old Man Martyn: §aTime Valley was built many years ago by a long-lost civilization.@§7[2/8] §2Old Man Martyn: §aДолина времени была построена много лет назад давно потерянной цивилизацией.
 §7[3/8] §2Old Man Martyn: §aThey had odd powers. They ended up distorting time itself.@§7[3/8] §2Old Man Martyn: §aУ них были странные способности. Они были способны искажать само время.
 §7[4/8] §2Old Man Martyn: §aThe tools they used to make these structures are imbued with their power.@§7[4/8] §2Old Man Martyn: §aИнструменты, которые они использовали для создания этих структур, пропитаны их силой.
-§7[5/8] §2Old Man Martyn: §aAsher found one of these tools: the shovel.@§7[5/8] §2Old Man Martyn: §aAsher нашел один из этих инструментов - лопату.
-§7[6/8] §2Old Man Martyn: §aThe shovel is tethering its time of influence to today. It keeps sending Asher back.@§7[6/8] §2Old Man Martyn: §aЭта лопата оказывает влияние на время сегодняшнего дня. Она продолжает посылать Asher'a назад во времени.
-§7[7/8] §2Old Man Martyn: §aThe issue is, Asher died in the past. This creates a paradox.@§7[7/8] §2Old Man Martyn: §aПроблема в том, что Asher умер в прошлом. Это создает парадокс.
+§7[5/8] §2Old Man Martyn: §aAsher found one of these tools: the shovel.@§7[5/8] §2Old Man Martyn: §aАшер нашел один из этих инструментов - лопату.
+§7[6/8] §2Old Man Martyn: §aThe shovel is tethering its time of influence to today. It keeps sending Asher back.@§7[6/8] §2Old Man Martyn: §aЭта лопата оказывает влияние на время сегодняшнего дня. Она продолжает посылать Ашерa назад во времени.
+§7[7/8] §2Old Man Martyn: §aThe issue is, Asher died in the past. This creates a paradox.@§7[7/8] §2Old Man Martyn: §aПроблема в том, что Ашер умер в прошлом. Это создает парадокс.
 §7[8/8] §2Old Man Martyn: §aWe can save him if I send you back to prevent his death. Go through this rift to join him in the past.@§7[8/8] §2Old Man Martyn: §aМы можем спасти его, если я отправлю тебя назад, чтобы предотвратить его смерть. Пройди через этот разлом, чтобы присоединиться к нему в прошлом.
 §7[1/18] §2Asher: §aHuh? Where is everyone?@§7[1/18] §2Asher: §aХм? А где все?
 §7[2/18] §2Asher: §aUsually this place is filled with workers.@§7[2/18] §2Asher: §aОбычно это место заполнено рабочими.
@@ -31,7 +31,7 @@
 §7[6/18] §2Asher: §aHmmm. Not around here.@§7[6/18] §2Asher: §aХммм. Точно не здесь.
 §7[1/1] §2Asher: §aWait, what's that-?@§7[1/1] §2Asher: §aМинутку, что это-?
 §7[1/2] §2Old Man Martyn: §aMy my, a crushing defeat to be sure. You'll have to find a way to stop that.@§7[1/2] §2Old Man Martyn: §aБоже мой, сокрушительное поражение. Ты должен найти способ остановить это.
-§7[2/2] §2Old Man Martyn: §aGo back through the rift and make sure Asher doesn't become a pancake this time.@§7[2/2] §2Old Man Martyn: §aВозвращайся назад через разлом, и убедись, что Asher не станет блинчиком на этот раз.
+§7[2/2] §2Old Man Martyn: §aGo back through the rift and make sure Asher doesn't become a pancake this time.@§7[2/2] §2Old Man Martyn: §aВозвращайся назад через разлом, и убедись, что Ашер не станет блинчиком на этот раз.
 §7[7/18] §2Asher: §aThis place... There's so much going on but no one here.@§7[7/18] §2Asher: §aЭто место... Здесь столько всего происходит, но никого нет.
 §7[8/18] §2Asher: §aWhat I don't understand, though, is why this place looks brand new.@§7[8/18] §2Asher: §aЧего я точно не понимаю - почему это место выглядит совершенно новым.
 §7[9/18] §2Asher: §aThis place looks like it's just being built!@§7[9/18] §2Asher: §aЭто место выглядит так, как будто его только строят!
@@ -51,15 +51,15 @@
 §7[1/11] §2Asher: §aOh there it is! My shovel!@§7[1/11] §2Asher: §aО, а вот и она! Моя лопата!
 §7[2/11] §2Asher: §aI'm surprised it took me back this far this time.@§7[2/11] §2Asher: §aУдивлен, что на этот раз все зашло так далеко.
 §7[3/11] §2Asher: §aWell, time to head on back-@§7[3/11] §2Asher: §aЧто ж, пора возвращаться.-
-§7[4/11] §2Asher: §aWait, Martyn?@§7[4/11] §2Asher: §aМинутку, Martyn?
+§7[4/11] §2Asher: §aWait, Martyn?@§7[4/11] §2Asher: §aМинутку, Мартин?
 §7[5/11] §2Asher: §aOw! What was that for?@§7[5/11] §2Asher: §aОу! Что это было?
-§7[6/11] §2Old Man Martyn: §aAsher, you remember when I allowed you to live in the valley, I told you not to touch any odd objects.@§7[6/11] §2Old Man Martyn: §aAsher, помнишь, когда я разрешил тебе жить в долине, я говорил тебе не трогать никаких странных предметов.
+§7[6/11] §2Old Man Martyn: §aAsher, you remember when I allowed you to live in the valley, I told you not to touch any odd objects.@§7[6/11] §2Old Man Martyn: §aАшер, помнишь, когда я разрешил тебе жить в долине, я говорил тебе не трогать никаких странных предметов.
 §7[7/11] §2Asher: §aI... Might recall it.@§7[7/11] §2Asher: §aЯ...Да, что-то припоминаю.
 §7[8/11] §2Old Man Martyn: §aYou got yourself stuck hundreds of years ago. If it wasn't for this guard, you'd be removed from existence.@§7[8/11] §2Old Man Martyn: §aТы застрял здесь сотни лет назад. Если бы не этот гвардеец, ты бы перестал существовать.
-§7[9/11] §2Asher: §aOh... So that's where I am. I am so sorry Martyn. Please don't kick me out of the valley.@§7[9/11] §2Asher: §aОх... Так вот где я нахожусь. Мне так жаль, Martyn. Пожалуйста, не выгоняй меня из долины.
+§7[9/11] §2Asher: §aOh... So that's where I am. I am so sorry Martyn. Please don't kick me out of the valley.@§7[9/11] §2Asher: §aОх... Так вот где я нахожусь. Мне так жаль, Мартин. Пожалуйста, не выгоняй меня из долины.
 §7[10/11] §2Old Man Martyn: §aI know time travel can be tempting. But it's far more dangerous than you can ever understand.@§7[10/11] §2Old Man Martyn: §aЯ знаю, путешествия во времени могут быть заманчивыми. Но это гораздо опаснее, чем ты можешь себе представить.
-§7[11/11] §2Old Man Martyn: §aThe valley is banned for most citizens. I watch over this timeline because of poor souls like Asher.@§7[11/11] §2Old Man Martyn: §aДолина запрещена для большинства жителей. Я слежу за шкалой времени из-за таких вот бедных душ, как Asher.
-§7[1/14] §2Asher: §aHoly Bovine!@§7[1/14] §2Asher: §aСвятой Bovine!
+§7[11/11] §2Old Man Martyn: §aThe valley is banned for most citizens. I watch over this timeline because of poor souls like Asher.@§7[11/11] §2Old Man Martyn: §aДолина запрещена для большинства жителей. Я слежу за шкалой времени из-за таких вот бедных душ, как Ашер.
+§7[1/14] §2Asher: §aHoly Bovine!@§7[1/14] §2Asher: §aСвятой Бовайн!
 §7[2/14] §2Old Man Martyn: §aAh, we're back.@§7[2/14] §2Old Man Martyn: §aАх, мы вернулись.
 §7[3/14] §2Asher: §aHow did you get these powers? Are you even human?@§7[3/14] §2Asher: §aОткуда у тебя эти способности? Ты вообще человек?
 §7[4/14] §2Old Man Martyn: §aOh you know. I've read a book or two in my time.@§7[4/14] §2Old Man Martyn: §aОх, ты же знаешь. В свое время я прочитал пару книг.
@@ -70,9 +70,9 @@
 §7[11/14] §2Old Man Martyn: §aSee you around.@§7[11/14] §2Old Man Martyn: §aУвидимся.
 §7[12/14] §2Asher: §aUh, you're still here.@§7[12/14] §2Asher: §aЭм, вообще-то ты все еще здесь.
 §7[13/14] §2Old Man Martyn: §aAm I?@§7[13/14] §2Old Man Martyn: §aЯ?
-§7[14/14] §2Asher: §aI don't understand Martyn. He seems to know everything about the past. Here, come closer, I want to whisper something.@§7[14/14] §2Asher: §aНе понимаю я этого Martyn'а. Кажется, он знает все о прошлом. Эй, пс, подойди поближе, я хочу тебе кое-что прошептать.
-§7[1/3] §2Asher: §aI think he might have known Bob. I saw some letters in his house.@§7[1/3] §2Asher: §aЯ думаю, он мог знать Bob'а. Я видел несколько писем в его доме.
-§7[2/3] §2Asher: §aWeird, right? Bob was a hard guy to know.@§7[2/3] §2Asher: §aСтранно, правда? Bob был одним из тех, о ком трудно было что-то узнать.
+§7[14/14] §2Asher: §aI don't understand Martyn. He seems to know everything about the past. Here, come closer, I want to whisper something.@§7[14/14] §2Asher: §aНе понимаю я этого Мартина. Кажется, он знает все о прошлом. Эй, пс, подойди поближе, я хочу тебе кое-что прошептать.
+§7[1/3] §2Asher: §aI think he might have known Bob. I saw some letters in his house.@§7[1/3] §2Asher: §aЯ думаю, он мог знать Боба. Я видел несколько писем в его доме.
+§7[2/3] §2Asher: §aWeird, right? Bob was a hard guy to know.@§7[2/3] §2Asher: §aСтранно, правда? Боб был одним из тех, о ком трудно было что-то узнать.
 §7[3/3] §2Asher: §aAnyway, take this. It's the least I can do to pay you for saving me.@§7[3/3] §2Asher: §aВ любом случае, возьми это. Это меньшее, что я могу сделать, чтобы заплатить тебе за мое спасение.
 
 §7[1/1] §2Old Man Martyn: §aYou seemed to have phased out of reality there for a while. I decided to move you back here to be safe.@§7[1/1] §2Old Man Martyn: §aКазалось, ты на какое-то время исчез из реальности. Я решил перенести тебя сюда, чтобы ты был в безопасности.
@@ -81,4 +81,4 @@
 §7[1/1] §2Asher: §aWoah! Where did-?@§7[1/1] §2Asher: §aВоу! Где же-?
 §7[1/1] §2Asher: §aI miss seeing the past. It was such an interesting place.@§7[1/1] §2Asher: §aЯ скучаю по прошлому. Это было такое интересное место.
 §7[1/1] §2Asher: §aDon't come back here until you find my shovel, or I'll have you thrown in jail!@§7[1/1] §2Asher: §aНе возвращайся сюда, пока не найдешь мою лопату, или я брошу тебя в тюрьму!
-§7[1/1] §2Old Man Martyn: §aWhenever you're ready to save Asher, step through the rift.@§7[1/1] §2Old Man Martyn: §aКогда будешь готов спасти Asher'a - зайди в портал.
+§7[1/1] §2Old Man Martyn: §aWhenever you're ready to save Asher, step through the rift.@§7[1/1] §2Old Man Martyn: §aКогда будешь готов спасти Ашерa - зайди в портал.
