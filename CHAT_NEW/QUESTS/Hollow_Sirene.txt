@@ -1,5 +1,5 @@
 §7[1/6] §2Laloire: §aHello? I'm sorry, you are going to have to speak up. My hearing is terrible these days.@§7[1/6] §2Laloire: §aПривет? Прошу прощения, ты можешь говорить погромче? Мой слух ужасен в последние дни.
-§7[2/6] §2Laloire: §aI went to the healer in Cinfras but he said without knowing the cause, he can not help me.@§7[2/6] §2Laloire: §aЯ ходил к доктору в Cinfras, но он сказал, что без установления причины, он не может мне помочь.
+§7[2/6] §2Laloire: §aI went to the healer in Cinfras but he said without knowing the cause, he can not help me.@§7[2/6] §2Laloire: §aЯ ходил к доктору в Цинфрас, но он сказал, что без установления причины, он не может мне помочь.
 §7[3/6] §2Laloire: §aI thought at first it might have been the so called “decay” of the forest. But it started when a strange hole appeared nearby below a dead tree.@§7[3/6] §2Laloire: §aСначала я подумал, что это могло быть из-за 'заражения' леса. Но это началось, когда странная дыра появилась рядом, под мертвым деревом.
 §7[4/6] §2Laloire: §aI went to investigate, but before I could get close, I heard a strange scream coming from deep within the cave. It was far away, so it wasn't loud, but my hearing has been weak ever since.@§7[4/6] §2Laloire: §aПошел разбираться, но прежде чем я смог приблизиться, я услышал странный вопль, доносящийся из глубины пещеры. Он был далеко, так что это было не громко, но после этого мой слух слаб до сих пор.
 §7[5/6] §2Laloire: §aMaybe you could investigate for me? I need to know what's down there if I'm ever going to be cured.@§7[5/6] §2Laloire: §aМожет быть, ты мог бы расследовать это для меня? Мне нужно знать, что там внизу, если я собираюсь когда-нибудь излечиться.
@@ -10,10 +10,10 @@
 §7[4/7] §2Laloire: §aSounds like you heard the same thing I did. We need to find out what it is!@§7[4/7] §2Laloire: §aПохоже, ты услышал то же самое, что и я. Мы должны выяснить, что это такое!
 §7[5/7] §2Laloire: §aCan you replicate the noise it made? Even approximately might help.@§7[5/7] §2Laloire: §aМожешь ли ты воспроизвести этот крик? Хотя бы примерно.
 §7[6/7] §2Laloire: §a… Okay, okay. Stop. It sounds so unholy. We should ask the pastor of the forest what he thinks.@§7[6/7] §2Laloire: §a... Ладно, ладно. Хватит. Это звучит так страшно. Мы должны спросить пастора леса, что он знает об этом.
-§7[7/7] §2Laloire: §aHis name is Nitram and he should be on duty at the cemetery at this time. It's just a short walk north east of here.@§7[7/7] §2Laloire: §aЕго зовут Nitram и он должен дежурить на кладбище в это время. Иди на северо-восток отсюда.
+§7[7/7] §2Laloire: §aHis name is Nitram and he should be on duty at the cemetery at this time. It's just a short walk north east of here.@§7[7/7] §2Laloire: §aЕго зовут Нитрам и он должен дежурить на кладбище в это время. Иди на северо-восток отсюда.
 §7[1/10] §2Nitram: §aWhat are you doing here, my child? This forest is cursed. It is not safe.@§7[1/10] §2Nitram: §aЧто ты здесь делаешь, дитя мое? Этот лес проклят. Здесь не безопасно.
 §7[2/10] §2Nitram: §aNothing holy is left here. Nothing I do will bring back life to anything here. @§7[2/10] §2Nitram: §aНичего святого не осталось здесь. Я ничего не могу сделать, чтобы вернуть сюда жизнь.
-§7[3/10] §2Nitram: §aHow can I help you? Oh, Laloire sent you. I already told him I couldn't help him.@§7[3/10] §2Nitram: §aКак я могу помочь тебе? Ох, Laloire тебя прислал. Я уже сказал ему, что не могу ему помочь.
+§7[3/10] §2Nitram: §aHow can I help you? Oh, Laloire sent you. I already told him I couldn't help him.@§7[3/10] §2Nitram: §aКак я могу помочь тебе? Ох, Лалоир тебя прислал. Я уже сказал ему, что не могу ему помочь.
 §7[4/10] §2Nitram: §aWait, you heard it too? Are you able to make the noises?@§7[4/10] §2Nitram: §aПодожди, ты тоже это слышал? Можешь повторить?
 §7[5/10] §2Nitram: §a....@ 
 §7[6/10] §2Nitram: §aI believe I know what that is.@§7[6/10] §2Nitram: §aКажется, я знаю, что это такое.
@@ -27,7 +27,7 @@
 §7[3/6] §2Laloire: §aAnd what's this?! You killed it?! You're crazy! I didn't expect you to go in the cave and fight anything!@§7[3/6] §2Laloire: §aИ что?! Ты убил ее?! С ума сошел! Я не ожидал, что ты идешь в пещеру чтобы бороться с ней!
 §7[4/6] §2Laloire: §aBut at least I can take this to the healer, I bet it can be used to cure me!@§7[4/6] §2Laloire: §aНо, по крайней мере я могу принести это к лекарю. Держу пари, он может использовать это, чтобы вылечить меня!
 §7[5/6] §2Laloire: §aThank you so much! I didn't even ask your name, what is it?@§7[5/6] §2Laloire: §aОгромное спасибо! Я даже не спросил твое имя, как ты говоришь тебя зовут?
-§7[6/6] §2Laloire: §aDeren Teena? Carline Chena? Thwan Yahya? Oh I can't hear you. Anyway, it doesn't matter. Here take this, you really deserve it.@§7[6/6] §2Laloire: §aDeren Teena? Carline Chena? Thwan Yahya? Ох, я не слышу. В любом случае, это не имеет значения. Вот возьми, ты действительно это заслужил.
+§7[6/6] §2Laloire: §aDeren Teena? Carline Chena? Thwan Yahya? Oh I can't hear you. Anyway, it doesn't matter. Here take this, you really deserve it.@§7[6/6] §2Laloire: §aДерен Тина? Карлин Чина? Тван Йайа? Ох, я не слышу. В любом случае, это не имеет значения. Вот возьми, ты действительно это заслужил.
 
 §7[1/1] §2Laloire: §aIt's you! Thanks again for everything! The healer should be able to cure me!@§7[1/1] §2Laloire: §aЭто ты! Еще раз спасибо за все! Целитель теперь сможет вылечить меня!
 §7[1/1] §2Laloire: §aPlease, you have to help me.@§7[1/1] §2Laloire: §aПожалуйста, ты должен помочь мне.
