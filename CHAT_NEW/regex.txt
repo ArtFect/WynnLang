@@ -231,7 +231,7 @@
 §7\[1\/1\] §2Tasim: §aGreat work, (.*)! We're almost to the castle, so let's keep going!@§7[1/1] §2Tasim: §aОтличная работа, (r1)! Мы уже почти у замка, так что продолжим идти вперед!
 §7\[5\/5\] §2Aledar: §aFine. I know what to do. (.*), Tasim, follow me.@§7[5/5] §2Aledar: §aХорошо, я знаю, что нужно делать. (r1), Тасим, следуйте за мной.
 §7\[1\/1\] §2Tasim: §aBe careful, (.*)! Don't want you falling off the edge.@§7[1/1] §2Tasim: §aБудь осторожнее, (r1)! Я не хочу, чтобы ты упал с обрыва.
-§7[1/1] §2Tasim: §aHey, don't leave yet, (.*)!@§7[1/1] §2Tasim: §aЭй, не уходи пока, (r1)!
+§7\[1\/1\] §2Tasim: §aHey, don't leave yet, (.*)!@§7[1/1] §2Tasim: §aЭй, не уходи пока, (r1)!
 
 §7\[1\/4\] §2Nick: §aHey, (.*)! Any luck\?@§7[1/4] §2Nick: §aЭй, (r1)! Ну что, как успехи?
 
