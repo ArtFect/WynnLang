@@ -22,7 +22,7 @@
 §7[1/6] §2Captain Ackbar: §aOh, hey! Are you here to help again?@§7[1/6] §2Captain Ackbar: §aОх, привет! Вы снова хотите помочь?
 §7[2/6] §2Captain Ackbar: §aI really appreciate it. My crew seem to be absolutely nowhere!@§7[2/6] §2Captain Ackbar: §aЯ очень ценю это. Моя команда ни на что не годится!
 §7[3/6] §2Captain Ackbar: §aOk well the situation is pretty bad. The engines have broken down.@§7[3/6] §2Captain Ackbar: §aЧто же, ситуация очень плоха. Наши двигатели сломались.
-§7[4/6] §2Captain Ackbar: §aThe engineer downstairs is trying to figure out a solution, but he's not the brightest villager in Gavel.@§7[4/6] §2Captain Ackbar: §aИнженер внизу пытается выйти из ситуации, но он не самый умный житель в Gavel'e.
+§7[4/6] §2Captain Ackbar: §aThe engineer downstairs is trying to figure out a solution, but he's not the brightest villager in Gavel.@§7[4/6] §2Captain Ackbar: §aИнженер внизу пытается выйти из ситуации, но он не самый умный житель в Гавелe.
 §7[5/6] §2Captain Ackbar: §aWould you mind having a talk with the engineer, and see if you can help?@§7[5/6] §2Captain Ackbar: §aМожете вы поговорить с ним, и посмотреть, чем сможете помочь?
 §7[6/6] §2Captain Ackbar: §aI have to stay here and man the brig, but if you head down to the engine room, we would greatly appreciate it.@§7[6/6] §2Captain Ackbar: §aЯ останусь здесь рулить судном, пожалуйста спуститесь в инженерный отсек, буду очень признателен вам.
 §7[1/10] §2Engineer Eric: §aYou must be the 'uman the captain done told me about.@§7[1/10] §2Engineer Eric: §aТы должно быть тот человек, о котором говорил капитан.
@@ -46,7 +46,7 @@
 §7[3/8] §2Captured Prisoner: §aI've been a prisoner here for weeks. I was fly fishing when they captured me.@§7[3/8] §2Captured Prisoner: §aЯ сижу здесь уже много недель. Я ловил рыбу, когда они поймали меня.
 §7[4/8] §2Captured Prisoner: §aI have been working on an escape though.@§7[4/8] §2Captured Prisoner: §aПытаюсь найти способы, чтобы сбежать.
 §7[5/8] §2Captured Prisoner: §aAt the back of the hall, I started a key to the queen's quarters.@§7[5/8] §2Captured Prisoner: §aПозади коридора я стал подбирать ключ к покоям королевы.
-§7[6/8] §2Captured Prisoner: §aI am a locksmith in Gavel, and they have been using me to make their ship more secure.@§7[6/8] §2Captured Prisoner: §aЯ мастер отмычек в Gavel'е, и они используют меня, чтобы сделать их корабли более безопасными.
+§7[6/8] §2Captured Prisoner: §aI am a locksmith in Gavel, and they have been using me to make their ship more secure.@§7[6/8] §2Captured Prisoner: §aЯ мастер отмычек в Гавеле, и они используют меня, чтобы сделать их корабли более безопасными.
 §7[7/8] §2Captured Prisoner: §aThere's a button next to the door on the left side, just press it to exit from here.@§7[7/8] §2Captured Prisoner: §aС левой стороны находится кнопка, просто нажми ее чтобы выйти отсюда.
 §7[8/8] §2Captured Prisoner: §aYou have to help me!@§7[8/8] §2Captured Prisoner: §aТы должен помочь мне!
 §7[1/11] §2Captain Ackbar: §aWow... You single handedly took out a pirate invasion.@§7[1/11] §2Captain Ackbar: §aВоу, вы в одиночку разбили целую пиратскую команду.
@@ -54,16 +54,16 @@
 §7[3/11] §2Captain Ackbar: §aWe have no defence on this ship. We are a civilian carrier.@§7[3/11] §2Captain Ackbar: §aУ нас нет защиты на этом корабле. Мы обычный мирный дирижабль-перевозчик.
 §7[4/11] §2Captain Ackbar: §aWhat is this? A ring from the Queen?! It looks valuable. You should keep it.@§7[4/11] §2Captain Ackbar: §aЧто это? Кольцо королевы? Выглядит ценно. Оставьте его себе.
 §7[5/11] §2Captain Ackbar: §aI still do not know how to thank you... We owe you so much.@§7[5/11] §2Captain Ackbar: §aПо-прежнему не знаю как поблагодарить вас... Мы сильно обязаны вам.
-§7[6/11] §2Captain Ackbar: §aWait! I know! You can have free travel between Detlas and Cinfras!@§7[6/11] §2Captain Ackbar: §aМинутку! Знаю! Вы можете бесплатно путешествовать между городами Detlas и Cinfras!
-§7[7/11] §2Captain Ackbar: §aA private airship owner called Calo owes me big. @§7[7/11] §2Captain Ackbar: §aХозяин частного дирижабля Calo в долгу у меня.
+§7[6/11] §2Captain Ackbar: §aWait! I know! You can have free travel between Detlas and Cinfras!@§7[6/11] §2Captain Ackbar: §aМинутку! Знаю! Вы можете бесплатно путешествовать между городами Детлас и Цинфрас!
+§7[7/11] §2Captain Ackbar: §aA private airship owner called Calo owes me big. @§7[7/11] §2Captain Ackbar: §aХозяин частного дирижабля Кало в долгу у меня.
 §7[8/11] §2Captain Ackbar: §aI will tell him the deal. All you have to do is enter his ship and he'll take you back and forth!@§7[8/11] §2Captain Ackbar: §aЯ предложу ему сделку. Вам нужно будет всего-лишь зайти на корабль, и вы сможете летать на его корабле туда и обратно!
 §7[9/11] §2Captain Ackbar: §aOh, and you will also be rewarded kindly monetarily. I will also personally send him the ring, so that it doesn't get damaged on the way, and you will receive it there.@§7[9/11] §2Captain Ackbar: §aОх, и надо наградить вас денежно. Я отправлю ему кольцо, чтобы оно не повредилось в пути, которое вы сможете забрать у него.
-§7[10/11] §2Captain Ackbar: §aJust head down to the entrance deck, and we are about to arrive at Detlas Airbase now.@§7[10/11] §2Captain Ackbar: §aМожете спускаться в нижний отсек, мы прибыли в аэропорт Detlas'a.
+§7[10/11] §2Captain Ackbar: §aJust head down to the entrance deck, and we are about to arrive at Detlas Airbase now.@§7[10/11] §2Captain Ackbar: §aМожете спускаться в нижний отсек, мы прибыли в аэропорт Детласa.
 §7[11/11] §2Captain Ackbar: §aThanks for helping us, really!@§7[11/11] §2Captain Ackbar: §aСпасибо, что помогли нам!
-§7[1/4] §2Calo: §aHey there. You must be the Human Ackbar told me about.@§7[1/4] §2Calo: §aПривет. Ты должно быть тот человек, о котором говорил Ackbar.
-§7[2/4] §2Calo: §aI heard what you did on the ship, very admirable. Fortunately for you, I owe Ackbar.@§7[2/4] §2Calo: §aЯ слышал, что ты сделал на корабле - очень смело. К счастью для тебя, я в долгу у Ackbar'а.
-§7[3/4] §2Calo: §aI'll take you from Detlas to Cinfras or vice versa whenever you want. @§7[3/4] §2Calo: §aЯ буду возить тебя из Detlas'а в Cinfras или наоборот тогда, когда тебе будет нужно.
-§7[4/4] §2Calo: §aAll you have to do is board my ship. Oh, this was also from Ackbar.@§7[4/4] §2Calo: §aВсе, что тебе нужно - это просто зайти на борт. Ох, это тоже передал Ackbar.
+§7[1/4] §2Calo: §aHey there. You must be the Human Ackbar told me about.@§7[1/4] §2Calo: §aПривет. Ты должно быть тот человек, о котором говорил Акбар.
+§7[2/4] §2Calo: §aI heard what you did on the ship, very admirable. Fortunately for you, I owe Ackbar.@§7[2/4] §2Calo: §aЯ слышал, что ты сделал на корабле - очень смело. К счастью для тебя, я в долгу у Акбара.
+§7[3/4] §2Calo: §aI'll take you from Detlas to Cinfras or vice versa whenever you want. @§7[3/4] §2Calo: §aЯ буду возить тебя из Детласа в Цинфрас или наоборот тогда, когда тебе будет нужно.
+§7[4/4] §2Calo: §aAll you have to do is board my ship. Oh, this was also from Ackbar.@§7[4/4] §2Calo: §aВсе, что тебе нужно - это просто зайти на борт. Ох, это тоже передал Акбар.
 
 §7[1/1] §2Controller: §aOh, seems like that was wrong! Too bad!@§7[1/1] §2Controller: §aОх, кажется, это было неправильно! Очень жаль!
 §7[1/1] §2Broadcast: §aAttention passengers. There has been a missing person reported aboard. If there are any volunteers to help search for them please report to the control deck and speak to the captain.@§7[1/1] §2Broadcast: §aВнимание, пассажиры. На борту  пропал человек. Если есть добровольцы, которые помогут их найти, пожалуйста, явитесь на  палубу управления и поговорите с капитаном.
@@ -72,10 +72,10 @@
 §7[2/2] §2Engineer Eric: §aIt was something like red... orange... yellow.. Ah, it all on the paper anyway.@§7[2/2] §2Engineer Eric: §aТам было что-то вроде красного... оранжевого... желтого.. Ах, все это на бумаге в любом случае.
 §7[1/1] §2Child: §aAw man, I can't believe I'm not allowed to sit with the adults. I'm nearly twelve!!@§7[1/1] §2Child: §aБоже, я не могу поверить, что мне нельзя сидеть со взрослыми. Мне уже почти двенадцать!!
 §7[1/1] §2Calo: §aWoah, you can't just walk onto my ship like that!@§7[1/1] §2Calo: §aВоу, ты не можешь просто так войти в мой корабль!
-§7[1/2] §2Captain Ackbar: §aYou can just head down now! I will tell Calo about your arrival.@§7[1/2] §2Captain Ackbar: §aТы можешь уже спускаться вниз! Я скажу Calo о твоем прибытии.
+§7[1/2] §2Captain Ackbar: §aYou can just head down now! I will tell Calo about your arrival.@§7[1/2] §2Captain Ackbar: §aТы можешь уже спускаться вниз! Я скажу Кало о твоем прибытии.
 §7[2/2] §2Captain Ackbar: §aThanks for travelling with us!@§7[2/2] §2Captain Ackbar: §aСпасибо, что путешествовал с нами!
 §7[1/1] §2Captain Ackbar: §aI hope you enjoy the rest of your journey!@§7[1/1] §2Captain Ackbar: §aЯ надеюсь, тебе понравится оставшаяся часть твоего путешествия!
-§7[1/1] §2Captain Ackbar: §aThank you for travelling with us, but you do know that you can travel with Calo, do you not?@§7[1/1] §2Captain Ackbar: §aСпасибо, что путешествовал с нами. Но ты ведь знаешь, что можешь путешествовать и с Calo, не так ли?
+§7[1/1] §2Captain Ackbar: §aThank you for travelling with us, but you do know that you can travel with Calo, do you not?@§7[1/1] §2Captain Ackbar: §aСпасибо, что путешествовал с нами. Но ты ведь знаешь, что можешь путешествовать и с Кало, не так ли?
 §7[1/1] §2Passenger Controllant: §aCan I see your passport please? Oh, without a passport, I'm afraid you can not board.@§7[1/1] §2Passenger Controllant: §aМогу я посмотреть ваш паспорт, пожалуйста? О, без паспорта, боюсь, вы не сможете сесть на борт.
 §7[1/1] §2Calo: §aHello there, pleasant day isn't it?@§7[1/1] §2Calo: §aСегодня отличный день, не так ли?
 §7[1/1] §2Controller: §aOh, seems like that was wrong. Too bad!@§7[1/1] §2Controller: §aКажется, это был неправильный ответ. Очень жаль!
@@ -84,12 +84,12 @@
 §7[1/1] §2Captain Ackbar: §aThe engineer is just downstairs. Sorry to ask you for help again, but see if there is anything you can do.@§7[1/1] §2Captain Ackbar: §aИнженер только что спустился вниз. Извини, что снова прошу тебя о помощи, но посмотри, вдруг ты что-нибудь сможешь сделать.
 §7[1/1] §2Captain Ackbar: §aThe pressure in the engines is rising. Please go down to the engineer and see if you can help him.@§7[1/1] §2Captain Ackbar: §aДавление в двигателях растет. Пожалуйста, спустись к инженеру и посмотри, сможешь ли ты ему помочь.
 §7[1/1] §2Captain Ackbar: §aI thank you for helping us out so much!@§7[1/1] §2Captain Ackbar: §aЯ благодарю тебя за помощь!
-§7[1/1] §2Calo: §aYou are free to board. Next stop, Cinfras!@§7[1/1] §2Calo: §aМожешь спокойно заходить на борт. Следующая остановка - Cinfras!
-§7[1/1] §2Calo: §aAnd away we go to Cinfras!@§7[1/1] §2Calo: §aИ мы отправляемся в Cinfras!
+§7[1/1] §2Calo: §aYou are free to board. Next stop, Cinfras!@§7[1/1] §2Calo: §aМожешь спокойно заходить на борт. Следующая остановка - Цинфрас!
+§7[1/1] §2Calo: §aAnd away we go to Cinfras!@§7[1/1] §2Calo: §aИ мы отправляемся в Цинфрас!
 §7[1/2] §2Passenger Controllant: §aI am sorry, this is a private flight for experienced customers only.@§7[1/2] §2Passenger Controllant: §aИзвините, но это частный рейс только для опытных клиентов.
 §7[2/2] §2Passenger Controllant: §aThe minimum requirement is level 75 for this flight.@§7[2/2] §2Passenger Controllant: §aМинимальным требованием на этот рейс является 75 уровень.
-§7[1/1] §2Calo: §aWelcome back. Next stop, Detlas!@§7[1/1] §2Calo: §aС возвращением. Следующая остановка Detlas!
-§7[1/1] §2Calo: §aAnd away we go to Detlas!@§7[1/1] §2Calo: §aИ мы отправляемся в Detlas!
+§7[1/1] §2Calo: §aWelcome back. Next stop, Detlas!@§7[1/1] §2Calo: §aС возвращением. Следующая остановка Детлас!
+§7[1/1] §2Calo: §aAnd away we go to Detlas!@§7[1/1] §2Calo: §aИ мы отправляемся в Детлас!
 §7[1/1] §2Baron Axol: §aGreetings, young adventurer. You haven't seen my glasses, have you?@§7[1/1] §2Baron Axol: §aПриветствую тебя, юный искатель приключений. Ты случайно не видел мои очки?
 §7[1/1] §2Captured Prisoner: §aI have already made the base of the key. You just need to go back down the hall, and finish it.@§7[1/1] §2Captured Prisoner: §aЯ уже сделал основу ключа. Тебе просто нужно вернуться в коридор и закончить его.
 §7[1/1] §2Passenger Controllant: §aYou may now board the airship! Enjoy your flight!@§7[1/1] §2Passenger Controllant: §aТеперь ты можешь пройти на дирижабль! Приятного полета!
