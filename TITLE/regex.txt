@@ -3,6 +3,7 @@
 
 §4 \[§c!§4\] §7Defuse the TNT! §8- (\d+)@§4 [§c!§4] §7Обезвредь динамит! §8- (r1)
 §3(.*) threw an item bomb@§3(r1) бросил предметную бомбу
+§3(.*) threw an ingredient bomb@§3(r1) бросил ингредиентную бомбу
 §cThe cave collapses in (\d+) second(|s)@§cПещера обрушится через (r1) секунд
 §6Bridge deploys in (\d+) second(|s)@§6Мост достроится через (r1) секунд
 §b(.*) has been killed@§b(r1) был убит
