@@ -1,11 +1,11 @@
-§7[1/3] §2The Secretary: §aHello, welcome to Ynnos’ facility.@§7[1/3] §2The Secretary: §aПриветствую, и добро пожаловать в центр исследований ученого Ynnos'а.
+§7[1/3] §2The Secretary: §aHello, welcome to Ynnos’ facility.@§7[1/3] §2The Secretary: §aПриветствую, и добро пожаловать в центр исследований ученого Янноса.
 §7[2/3] §2The Secretary: §aOh, you're here about the job vacancy? Well, you’re a little late.@§7[2/3] §2The Secretary: §aОх, ты здесь по поводу вакансии с работой? Что ж, ты немного опоздал.
 §7[3/3] §2The Secretary: §aThere might still be time, just sneak in to the conference room behind me.@§7[3/3] §2The Secretary: §aТы еще можешь успеть, просто проходи в ту комнату позади меня.
 §7[1/11]§0 §2Scientist Ynnos:§a *Ahem* Welcome, everyone.@§7[1/11]§0 §2Scientist Ynnos:§a*Кхе* Приветствую всех.
-§7[2/11]§0 §2Scientist Ynnos:§0 §aI am Ynnos, one of the leading scientists in Gavel. You’re here because.. Well you read the help wanted sign.@§7[2/11]§0 §2Scientist Ynnos:§aМеня зовут Ynnos, я один из ведущих ученых в провинции Gavel. Вы здесь для того... Ну, вы ведь уже читали объявление.
+§7[2/11]§0 §2Scientist Ynnos:§0 §aI am Ynnos, one of the leading scientists in Gavel. You’re here because.. Well you read the help wanted sign.@§7[2/11]§0 §2Scientist Ynnos:§aМеня зовут Яннос, я один из ведущих ученых в провинции Гавел. Вы здесь для того... Ну, вы ведь уже читали объявление.
 §7[3/11]§0 §2Scientist Ynnos:§0 §aAllow me to explain the situation we’re in. It’s a series of unfortunate events. I study the amazing properties of crystals and other geodes.@§7[3/11]§0 §2Scientist Ynnos:§aПозвольте мне объяснить ситуацию, в которой мы оказались. Это серия печальных событий. Я занимаюсь изучением свойств кристаллов и других геологических образований.
 §7[4/11]§0 §2Scientist Ynnos:§0 §aI was funded by a private organisation, however that seems to have stopped. So.. We had to make cuts in the budget.@§7[4/11]§0 §2Scientist Ynnos:§aЯ создал частную организацию, которая уже не существует. Поэтому... Нам пришлось немного урезать бюджет.
-§7[5/11]§0 §2Scientist Ynnos:§0 §aOne of those, was using cheaper rope. While moving the crystal across Ahmsord, well, it snapped. The crystal fell.@§7[5/11]§0 §2Scientist Ynnos:§aК примеру, мы стали использовать дешевые веревки. И когда мы тащили кристалл в Ahmsord, эти веревки порвались. И наш кристалл упал в пустоту.
+§7[5/11]§0 §2Scientist Ynnos:§0 §aOne of those, was using cheaper rope. While moving the crystal across Ahmsord, well, it snapped. The crystal fell.@§7[5/11]§0 §2Scientist Ynnos:§aК примеру, мы стали использовать дешевые веревки. И когда мы тащили кристалл в Амсорд, эти веревки порвались. И наш кристалл упал в пустоту.
 §7[6/11]§0 §2Scientist Ynnos:§0 §aI can not stress the value of that crystal. It had many unique properties that are allowing me to understand why the sky islands float the way they do.@§7[6/11]§0 §2Scientist Ynnos:§aЭтот кристалл очень важен для нас. В нем содержится множество уникальных свойств, которые позволят мне понять, почему летающие острова не падают в пропасть.
 §7[7/11]§0 §2Scientist Ynnos:§0 §aThey hold the very key to restoring this land to being whole once more... But it’s gone.@§7[7/11]§0 §2Scientist Ynnos:§aВ нем содержатся знания, которые помогли бы узнать все о прошлом этих земель... Но его больше нет.
 §7[8/11]§0 §2Scientist Ynnos:§0 §aFortunately, I detected an impact. It’s hit something down in the void. We’re not sure what, however or how deep.@§7[8/11]§0 §2Scientist Ynnos:§aК счастью, мне удалось зафиксировать его столкновение. Он ударился обо что-то глубоко внизу. Но неизвестно, где находится это место, и как глубоко
@@ -21,14 +21,14 @@
 §7[2/2] §2Kantor: §aIt'll still be a long trip down to the void, though. Why don’t you take a nap up at the resting room to pass the time?@§7[2/2] §2Kantor: §aМы еще довольно долго будем опускаться в пустоту. Почему бы тебе пока не вздремнуть в комнате отдыха?
 §7[1/1]§0 §2Captain Olof:§0 §aWe have encountered our first island, 100m down. Crew members, climb up the ladder and search the island for the crystal.@§7[1/1] §2Captain Olof: §aМы достигли нашего первого острова, опустившись на 100 метров. Команда, поднимайтесь по лестнице и обыщите остров в поиске кристалла.
 §7[1/3] §2Captain Olof: §aWe've arrived at the next void island.@§7[1/3] §2Captain Olof: §aМы прибыли на следующий пустотный остров.
-§7[2/3] §2Captain Olof: §aThe void islands are really different from Gavel... Or are we still even in Gavel?@§7[2/3] §2Captain Olof: §aЭти острова в пустоте немного отличаются от Gavel'a... Или мы по-прежнему в Gavel'e?
-§7[3/3] §2Captain Olof: §aAnyway, let's explore the island, look for the crystal, and return to Ahmsord!@§7[3/3] §2Captain Olof: §aНеважно, давайте исследуем остров, найдем этот кристалл и вернемся в Ahmsord!
+§7[2/3] §2Captain Olof: §aThe void islands are really different from Gavel... Or are we still even in Gavel?@§7[2/3] §2Captain Olof: §aЭти острова в пустоте немного отличаются от Гавелa... Или мы по-прежнему в Гавелe?
+§7[3/3] §2Captain Olof: §aAnyway, let's explore the island, look for the crystal, and return to Ahmsord!@§7[3/3] §2Captain Olof: §aНеважно, давайте исследуем остров, найдем этот кристалл и вернемся в Амсорд!
 §7[1/3] §2Captain Olof §aWhat are these creatures!@§7[1/3] §2Captain Olof: §aЧто это за существа!
 §7[2/3] §2Captain Olof: §aThey are attacking the windshield in the front room!@§7[2/3] §2Captain Olof: §aОни атакуют лобовое стекло в передней комнате!
 §7[3/3] §2Captain Olof §aIt's going to break any second now.@§7[3/3] §2Captain Olof: §aОно может сломаться в любую секунду.
 §7[1/3] §2Captain Olof: §aThis is not good, the creatures destroyed part of the windshield.@§7[1/3] §2Captain Olof: §aЭто не хорошо, существа все-таки сломали часть нашего лобового стекла.
 §7[2/3] §2Captain Olof: §aWe can't continue much longer with a broken windshield, we'll have to repair it at another island.@§7[2/3] §2Captain Olof: §aМы не сможем продолжить, если не починим его. Думаю, я смогу это сделать на другом острове.
-§7[3/3] §2Captain Olof: §aYnnos said the void has pockets of toxic gas... Go take a nap, I'll wake you up when we're there.@§7[3/3] §2Captain Olof: §aYnnos сказал, что в пустоте бывают зоны с токсичным газом. Иди пока вздремни, я разбужу тебя по прибытию.
+§7[3/3] §2Captain Olof: §aYnnos said the void has pockets of toxic gas... Go take a nap, I'll wake you up when we're there.@§7[3/3] §2Captain Olof: §aЯннос сказал, что в пустоте бывают зоны с токсичным газом. Иди пока вздремни, я разбужу тебя по прибытию.
 §7[1/2] §2Captain Olof: §aAttention crew. We have arrived at the second island, 300m down. We cannot progress without making some emergency repairs.@§7[1/2] §2Captain Olof: §aВнимание команда. Мы прибыли на второй остров, опустившись на 300 метров. Мы не сможем продолжить, пока не починим подлодку.
 §7[2/2] §2Captain Olof: §aCrew, please disembark and search for anything that could be used to repair the ship. We need glass and some kind of glue.@§7[2/2] §2Captain Olof: §aКоманда, рассредоточьтесь и начинайте поиски того, что поможет нам в ремонте. Нам нужно стекло и какой-нибудь клей.
 §7[1/5] §2Captain Olof: §aWe need to repair the submarine.@§7[1/5] §2Captain Olof: §aНам нужно починить нашу подлодку.
@@ -68,7 +68,7 @@
 §7[10/13] §2Celuuse: §aThe crystal yoooou are looking for fell on this island. But...@§7[10/13] §2Celuuse: §aКристалл, который тыыыы ищешь, упал на наш остров. Но...
 §7[11/13] §2Celuuse: §aWe need it. It will aid us for years.@§7[11/13] §2Celuuse: §aОн нужен нам. Он поможет прожить здесь долгие годы.
 §7[12/13] §2Celuuse: §aWe have very limited resources here. That’s why a power source like this is soooo valuable.@§7[12/13] §2Celuuse: §aВ этом месте очень ограничены ресурсы. Вот почему такой мощный источник энергии, кааааак кристалл, будет полезен для нас.
-§7[13/13] §2Celuuse: §aIf you go to the east, you will find Rontaid our chief scientist. He'll know what to doooo.@§7[13/13] §2Celuuse: §aЕсли ты пойдешь на восток, то найдешь нашего главного ученого по имени Rontaid. Он знает, что можно сдееееелать.
+§7[13/13] §2Celuuse: §aIf you go to the east, you will find Rontaid our chief scientist. He'll know what to doooo.@§7[13/13] §2Celuuse: §aЕсли ты пойдешь на восток, то найдешь нашего главного ученого по имени Ронтейд. Он знает, что можно сдееееелать.
 §7[1/8] §2Rontaid: §aWHAT...WHO...Humans§a in the void!?@§7[1/8] §2Rontaid: §aЧТО...КТО...Человек в пустоте!?
 §7[2/8] §2Rontaid: §aWell, looks like the book we found wasn't fiction after all!@§7[2/8] §2Rontaid: §aЧто же, похоже та книга о вас, которую мы нашли, была настоящей!
 §7[3/8] §2Rontaid: §aThis crystal is going toooo be our saviour. I was trying to create one of my own, you know.@§7[3/8] §2Rontaid: §aЭтот кристалл будет нашим спасителем. И знаешь, я уже пытался создать такой же кристалл здесь.
@@ -91,7 +91,7 @@
 §7[1/2] §2Rex: §aHmm. Strange, I didn't think plants could grow down here.@§7[1/2] §2Rex: §aХм. Странно. Я не думал, что здесь могут расти растения.
 §7[2/2] §2Rex: §aApparently I was wrong. They look rather sickly, though.@§7[2/2] §2Rex: §aОчевидно, я ошибался. Хотя они выглядят довольно болезненно.
 §7[1/3] §2Jesp: §aThis is just trash!@§7[1/3] §2Jesp: §aЭто просто мусор!
-§7[2/3] §2Jesp: §aDo the people of Ahmsord just throw their garbage out the window or what?@§7[2/3] §2Jesp: §aЛюди Ahmsord'а просто выбрасывают мусор из окна или что?
+§7[2/3] §2Jesp: §aDo the people of Ahmsord just throw their garbage out the window or what?@§7[2/3] §2Jesp: §aЛюди Амсорда просто выбрасывают мусор из окна или что?
 §7[3/3] §2Jesp: §aHave you found the crystal? Because I haven't.@§7[3/3] §2Jesp: §aТы уже нашел кристалл? Потому что я нет.
 §7[1/2] §2Captain Olof: §aI honestly don't know what to think of this place. I kind of just want to get this finished and go home.@§7[1/2] §2Captain Olof: §aЯ честно не знаю, что думать об этом месте. Я просто хочу закончить это все и пойти домой.
 §7[2/2] §2Captain Olof: §aSo the sooner we find that crystal the better!@§7[2/2] §2Captain Olof: §aТак что чем скорее мы найдем этот кристалл, тем лучше!
@@ -102,7 +102,7 @@
 §7[2/2] §2Rex: §aOne can only imagine what the gas would've done to us! But hey, thumbs up! I knew you'd do it.@§7[2/2] §2Rex: §aМожно только представить, что бы с нами сделал ГАЗ! Но эй, ставлю тебе лайк! Я знал, что ты это сделаешь.
 §7[1/1]§2 Kantor:§a I'm hurt and can't fight anymore! You'll have to take care of this yourself. I believe in you!@§7[1/1]§2 Kantor:§a §aЯ ранен и больше не могу сражаться! Тебе придется позаботиться об этом самому. Я верю в тебя!
 §7[1/1]§2 Captain Olof:§a I'm hurt and can't fight anymore! You'll have to take care of this yourself. I believe in you!@§7[1/1]§2 Captain Olof:§a §aЯ ранен и больше не могу сражаться! Тебе придется позаботиться об этом самому. Я верю в тебя!
-§7[1/2] §2Crane Mechanic: §aHmm. Hello there adventurer. I'm trying to fix this crane... The crane goes all the way down to the dark islands under Ahmsord.@§7[1/2] §2Crane Mechanic: §aХм. Привет, путешественник. Я пытаюсь починить этот кран... Этот кран спускается до самых темных островов под Ahmsord'ом.
+§7[1/2] §2Crane Mechanic: §aHmm. Hello there adventurer. I'm trying to fix this crane... The crane goes all the way down to the dark islands under Ahmsord.@§7[1/2] §2Crane Mechanic: §aХм. Привет, путешественник. Я пытаюсь починить этот кран... Этот кран спускается до самых темных островов под Амсордом.
 §7[2/2] §2Crane Mechanic: §aPlease don't disturb me now, it will soon be fixed, hopefully...@§7[2/2] §2Crane Mechanic: §aПожалуйста, не беспокой меня сейчас, и скоро все будет исправлено, надеюсь...
 §7[1/1] §2Secretary: §aHey! Don't just enter like that!@§7[1/1] §2Secretary: §aЭй! Не входи туда так просто!
 §7[1/2] §2Vonlus: §aThe crops didn't adapt like we did.@§7[1/2] §2Vonlus: §aСемена не адаптировались так, как мы.
@@ -122,8 +122,8 @@
 §7[2/2] §2Rontaid: §aWe don't want another village to fall down here... I'm not sure we could provide for even more people.@§7[2/2] §2Rontaid: §aЯ не хочу, чтобы сюда рухнула еще одна деревня... Не уверен, что мы сможем обеспечить еще больше людей.
 §7[1/2] §2Scientist Ynnos: §aI'm working on a replacement for the crystal now... @§7[1/2] §2Scientist Ynnos: §aСейчас я работаю над заменой кристаллу...
 §7[2/2] §2Scientist Ynnos: §aThese void villagers are rather smart, but their handwriting is utterly atrocious.@§7[2/2] §2Scientist Ynnos: §aЭти жители пустоты довольно умны, но их почерк совершенно ужасен.
-§7[1/1] §2Celuuse: §aBack here again? I thought Rontaid got everything sorted out for youuuuuu.@§7[1/1] §2Celuuse: §aОпять вернулся? Я думал Rontaid все уладил для теееебя.
-§7[1/2] §2Rontaid: §aBack again, I see. That Ynnos is a rather kind fellow.@§7[1/2] §2Rontaid: §aЯ вижу, снова вернулся. Этот Ynnos довольно добрый малый.
+§7[1/1] §2Celuuse: §aBack here again? I thought Rontaid got everything sorted out for youuuuuu.@§7[1/1] §2Celuuse: §aОпять вернулся? Я думал Ронтейд все уладил для теееебя.
+§7[1/2] §2Rontaid: §aBack again, I see. That Ynnos is a rather kind fellow.@§7[1/2] §2Rontaid: §aЯ вижу, снова вернулся. Этот Яннос довольно добрый малый.
 §7[2/2] §2Rontaid: §aHe is trying to make arrangements to send proper shipments of supplies down here.@§7[2/2] §2Rontaid: §aОн пытается договориться о том, чтобы отправить сюда соответствующие партии припасов.
 §7[1/2] §2Antrus: §aThe void does strange things toooo our bodies. Just look at us! We've lived down here for one thousand years without dying.@§7[1/2] §2Antrus: §aПустота делает странные вещи с нааааашими телами. Только посмотри на нас! Мы прожили здесь тысячу лет, не умирая.
 §7[2/2] §2Antrus: §aIt's like we haven't even aged.@§7[2/2] §2Antrus: §aКак будто мы даже не постарели.
