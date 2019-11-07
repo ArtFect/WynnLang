@@ -152,6 +152,7 @@
 §b(.*) has set (.*) guild rank from (.*) to (.*)@§b(r1) поменял ранг в гильдии (r2) с (r3) на (r4)
 §b(.*) has joined the guild! Say hello!@§b(r1) присоединился к гильдии! Скажите привет!
 §b(.*) has left the guild.@§b(r1) вышел из гильдии.
+§b(.*)§3 is not a member of the guild@§b(r1)§3 не является участником гильдии
 §e(.*) is not a friend! Type §6\/friend list§e.@§e(r1) не является другом! Напиши §6/friend list§e.
 §e(.*) is already a friend! Type §6\/friend list§e.@§e(r1) уже твой друг! Напиши §6/friend list§e.
 §e(.*) joined the game@§e(r1) присоединился к игре
@@ -197,6 +198,9 @@
 §7\[\+(.*) §fⒽ §7Armouring XP\] §6\[(\d+)%\]@§7[+(r1) §fⒽ §7Изготовление брони XP] §6[(r2)%]
 §7\[\+(.*) §fⒼ §7Weaponsmithing XP\] §6\[(\d+)%\]@§7[+(r1) §fⒼ §7Оружейное Дело XP] §6[(r2)%]
 §7\[\+(.*) §fⒾ §7Woodworking XP\] §6\[(\d+)%\]@§7[+(r1) §fⒾ §7 Деревообработка XP] §6[(r2)%]
+§b(.*)§3has thrown a§b Disguise Bomb §3at§b(.*)§3! It will explode in §b5 seconds§3!@§b(r1)§3бросил §b Маскировочную Бомбу §3на§b(r2)§3! Она взорвется через §b5 секунд§3!
+§b(.*)'s Disguise Bomb§3 has exploded! You are now a §b(.*).§3 Buy your own at§b §bwynncraft.com\/store§3!@§bМаскировочная Бомба (r1)§3 взорвалась! Ты стал §b(r2).§3 Купи свою собственную на§b §bwynncraft.com/store§3!
+§b(.*)'s Disguise Bomb §3has run out! Visit §bwynncraft.com\/store§b §3to get your own!@§bМаскировочная Бомба (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы получить свою!
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
