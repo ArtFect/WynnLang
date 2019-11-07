@@ -1,32 +1,28 @@
-§aTribal Weapon Shop
-§aTribal Armour Shop
-§aBlue Ornament
-§aYellow Ornament
-§aRed Ornament
-§aGreen Ornament
-§fOld Treasure
-InfestedÀÀÀPit Key
-LostÀÀÀSanctuary Key
-§7§lPattern 1
-§7§lPattern 2
-§7§lPattern 3
-§7§lPattern 4
-§7§lPattern 5
-§7§lColour 1
-§7§lColour 2
-§7§lColour 3
-§7§lColour 4
-§7§lColour 5
-§7§lReset
-§7§lFinal Banner
-§f§lUnlock Tier 2 Banner
-§7§lRandomise
-§7§lBase Colour
-§7§lSquare bottom leftÀ
-§7§lSquare bottom rightÀ
-§7§lSquare top leftÀ
-§7§lSquare top rightÀ
-§7§lStripe bottomÀ
+§aTribal Weapon Shop@§aМагазин Оружия Племени
+§aTribal Armour Shop@§aМагазин Брони Племени
+§fOld Treasure@§fСтарое Сокровище
+InfestedÀÀÀPit Key@Зараженная Яма Ключ
+LostÀÀÀSanctuary Key@Затерянное Святилище Ключ
+§7§lPattern 1@§7§lШаблон 1
+§7§lPattern 2@§7§lШаблон 2
+§7§lPattern 3@§7§lШаблон 3
+§7§lPattern 4@§7§lШаблон 4
+§7§lPattern 5@§7§lШаблон 5
+§7§lColour 1@§7§lЦвет 1
+§7§lColour 2@§7§lЦвет 2
+§7§lColour 3@§7§lЦвет 3
+§7§lColour 4@§7§lЦвет 4
+§7§lColour 5@§7§lЦвет 5
+§7§lReset@§7§lСброс
+§7§lFinal Banner@§7§lФинальный Баннер
+§f§lUnlock Tier 2 Banner@§7§lРазблокировать Баннер 2 Уровня
+§7§lRandomise@§7§lРандомный
+§7§lBase Colour@§7§lБазовый Цвет
+§7§lSquare bottom leftÀ@§7§lНижний Левый Квадрат
+§7§lSquare bottom rightÀ@§7§lНижний Правый Квадрат
+§7§lSquare top leftÀ@§7§lВерхний Левый Квадрат
+§7§lSquare top rightÀ@§7§lВерхний Правый Квадрат
+§7§lStripe bottomÀ@§7§lНижняя Полоса
 §7§lStripe topÀ
 §7§lStripe leftÀ
 §7§lStripe rightÀ
