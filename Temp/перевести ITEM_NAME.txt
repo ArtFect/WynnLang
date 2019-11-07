@@ -8,11 +8,21 @@ LostÀÀÀSanctuary Key@Затерянное Святилище Ключ
 §7§lPattern 3@§7§lШаблон 3
 §7§lPattern 4@§7§lШаблон 4
 §7§lPattern 5@§7§lШаблон 5
+§7§lPattern 6@§7§lШаблон 6
+§7§lPattern 7@§7§lШаблон 7
+§7§lPattern 8@§7§lШаблон 8
+§7§lPattern 9@§7§lШаблон 9
+§7§lPattern 10@§7§lШаблон 10
 §7§lColour 1@§7§lЦвет 1
 §7§lColour 2@§7§lЦвет 2
 §7§lColour 3@§7§lЦвет 3
 §7§lColour 4@§7§lЦвет 4
 §7§lColour 5@§7§lЦвет 5
+§7§lColour 6@§7§lЦвет 6
+§7§lColour 7@§7§lЦвет 7
+§7§lColour 8@§7§lЦвет 8
+§7§lColour 9@§7§lЦвет 9
+§7§lColour 10@§7§lЦвет 10
 §7§lReset@§7§lСброс
 §7§lFinal Banner@§7§lФинальный Баннер
 §f§lUnlock Tier 2 Banner@§7§lРазблокировать Баннер 2 Уровня
@@ -23,65 +33,55 @@ LostÀÀÀSanctuary Key@Затерянное Святилище Ключ
 §7§lSquare top leftÀ@§7§lВерхний Левый Квадрат
 §7§lSquare top rightÀ@§7§lВерхний Правый Квадрат
 §7§lStripe bottomÀ@§7§lНижняя Полоса
-§7§lStripe topÀ
-§7§lStripe leftÀ
-§7§lStripe rightÀ
-§7§lStripe centerÀ
-§7§lStripe middleÀ
-§7§lStripe downrightÀ
-§7§lStripe downleftÀ
-§7§lStripe smallÀ
-§7§lCrossÀ
-§7§lStraight crossÀ
-§7§lTriangle bottomÀ
-§7§lTriangle topÀ
-§7§lTriangles bottomÀ
-§7§lTriangles topÀ
-§7§lDiagonal leftÀ
-§7§lDiagonal rightÀ
-§7§lDiagonal left mirrorÀ
-§7§lDiagonal right mirrorÀ
-§7§lCircle middleÀ
-§7§lRhombus middleÀ
-§7§lHalf verticalÀ
-§7§lHalf horizontalÀ
-§7§lHalf vertical mirrorÀ
-§7§lHalf horizontal mirrorÀ
-§7§lBorderÀ
-§7§lCurly borderÀ
-§7§lCreeperÀ
-§7§lGradientÀ
-§7§lGradient upÀ
-§7§lBricksÀ
-§7§lSkullÀ
-§7§lFlowerÀ
-§7§lMojangÀ
-§7§lBlackÀ
-§7§lRedÀ
-§7§lGreenÀ
-§7§lBrownÀ
-§7§lBlueÀ
-§7§lPurpleÀ
-§7§lCyanÀ
-§7§lSilverÀ
-§7§lGrayÀ
-§7§lPinkÀ
-§7§lLimeÀ
-§7§lYellowÀ
-§7§lLight blueÀ
-§7§lMagentaÀ
-§7§lOrangeÀ
-§7§lWhiteÀ
-§7§lPattern 6
-§7§lPattern 7
-§7§lPattern 8
-§7§lPattern 9
-§7§lPattern 10
-§7§lColour 6
-§7§lColour 7
-§7§lColour 8
-§7§lColour 9
-§7§lColour 10
+§7§lStripe topÀ@§7§lВерхняя Полоса
+§7§lStripe leftÀ@§7§lЛевая Полоса
+§7§lStripe rightÀ@§7§lПравая Полоса
+§7§lStripe centerÀ@§7§lЦентральная Полоса
+§7§lStripe middleÀ@§7§lСередина Полоса
+§7§lStripe downrightÀ@§7§lПолоса Внизу Справа
+§7§lStripe downleftÀ@§7§lПолоса Внизу Слева
+§7§lStripe smallÀ@§7§lМаленькая Полоса
+§7§lCrossÀ@§7§lКрест
+§7§lStraight crossÀ@§7§lПрямой Крест
+§7§lTriangle bottomÀ@§7§lТреугольник Низ
+§7§lTriangle topÀ@§7§lТреугольник Верх
+§7§lTriangles bottomÀ@§7§lТреугольники Низ
+§7§lTriangles topÀ@§7§lТреугольники Верх
+§7§lDiagonal leftÀ@§7§lДиагональ Левая
+§7§lDiagonal rightÀ@§7§lДиагональ Правая
+§7§lDiagonal left mirrorÀ@§7§lДиагональ Левая Зеркальная
+§7§lDiagonal right mirrorÀ@§7§lДиагональ Правая Зеркальная
+§7§lCircle middleÀ@§7§lКруг Центральный
+§7§lRhombus middleÀ@§7§lРомб Центральный
+§7§lHalf verticalÀ@§7§lПоловина Вертикали
+§7§lHalf horizontalÀ@§7§lПоловина Горизонтали
+§7§lHalf vertical mirrorÀ@§7§lПоловина Вертикали Зеркальная
+§7§lHalf horizontal mirrorÀ@§7§lПоловина Горизонтали Зеркальная
+§7§lBorderÀ@§7§lГраница
+§7§lCurly borderÀ@§7§lФигурная Граница
+§7§lCreeperÀ@§7§lКрипер
+§7§lGradientÀ@§7§lГрадиент
+§7§lGradient upÀ@§7§lГрадиент Верхний
+§7§lBricksÀ@§7§lКирпичи
+§7§lSkullÀ@§7§lЧереп
+§7§lFlowerÀ@§7§lЦветок
+§7§lMojangÀ@§7§lМоджанг
+§7§lBlackÀ@§7§lЧерный
+§7§lRedÀ@§7§lКрасный
+§7§lGreenÀ@§7§lЗеленый
+§7§lBrownÀ@§7§lКоричневый
+§7§lBlueÀ@§7§lСиний
+§7§lPurpleÀ@§7§lФиолетовый
+§7§lCyanÀ@Бирюзовый
+§7§lSilverÀ@§7§lСеребрянный
+§7§lGrayÀ@§7§lСерый
+§7§lPinkÀ@§7§lРозовый
+§7§lLimeÀ@§7§lЛаймовый
+§7§lYellowÀ@§7§lЖелтый
+§7§lLight blueÀ@§7§lСветло Синий
+§7§lMagentaÀ@§7§lМалиновый
+§7§lOrangeÀ@§7§lОранжевый
+§7§lWhiteÀ@§7§lБелый
 Suspended Droplets
 §fChocolate Wybel Token
 §cKing Effect
