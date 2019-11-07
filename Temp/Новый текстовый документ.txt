@@ -5,7 +5,6 @@ Title
 
 Item_name
 §fUnprocessed (.*)§8 \[(.*)\]@ 
-§(e|d|b|a)Unidentified (.*)@ 
 
 
 
