@@ -201,6 +201,8 @@ purple and
 aldorei 2
 §7Solve the puzzle in the 
 §7third room of Togak's dungeon 
+§7Battle through the fourth room 
+§7of Togak's dungeon 
 
 memory para
 §7Learn the story of the 
@@ -351,7 +353,13 @@ recipe for dis
 §7Speak to Brie for her 
 §7to introduce herself 
 §7Speak to Frank for him 
-§7to introduce himself 
+§7to introduce himself
+§7Along with chef Brie,
+§7you have created a peculiar dish
+§7with even more peculiar ingredients!
+§7Present your dish to Chef 
+§7Hamsey 
+§7Speak to Kale for him 
 
 king recrut
 §7bring it to the Old 
@@ -368,15 +376,17 @@ king recrut
 §88 and boost your Melee Damage
 §8by +4 for 120 seconds
 
+fortunetell
+§7Search the Castle near Kandon-Beda 
+§7for a treasure map at 
+§7Return to Jill in Kandon-Beda 
+§7with the treasure 
+§7Solve the treasure mystery 
+§7Climb the beanstalk 
+§7Speak to the Ancient Dragon 
 
 
-§7Battle through the fourth room 
-§7of Togak's dungeon 
-§7Along with chef Brie,
-§7you have created a peculiar dish
-§7with even more peculiar ingredients!
-§7Present your dish to Chef 
-§7Hamsey 
+
 §6Epic rewards§7  for 1
 §cGodly reward.
 §6- §fDagger Aura§7 [Lv. 31]
@@ -385,14 +395,8 @@ king recrut
 §88 and boost your Walk Speed
 §a- §7Effect: §f+8§c ✹ Defence
 §88 and boost your Health
-§7Search the Castle near Kandon-Beda 
-§7for a treasure map at 
-§7Return to Jill in Kandon-Beda 
-§7with the treasure 
-§7Solve the treasure mystery 
-§7Climb the beanstalk 
-§7Speak to the Ancient Dragon 
-§7Speak to Kale for him 
+
+royall trials
 §7Talk to the Hrona at 
 §7Buy a Female Pirate Wig 
 §7at Ahmsord then enter the 
@@ -418,6 +422,8 @@ king recrut
 §7mansion's window 
 §7Exit through the mansion's window 
 §7Talk to the trials overseer 
+
+
 §7This key looks like it'd open the door
 §7in the library...
 §a- §7Tier: §5Mythic
