@@ -626,6 +626,8 @@
 §aPlayers ➠ Enabled@§aИгроки ➠ Включены
 
 #####################Торговцы############################
+§aTribal Weapon Shop@§aМагазин Оружия Племени
+§aTribal Armour Shop@§aМагазин Брони Племени
 §aMask Shop@§aМагазин Масок
 §aArmour Shop@§aМагазин Брони
 §aScroll Shop@§aМагазин Свитков
@@ -1150,6 +1152,85 @@ Underworld���Crypt���Entrance Teleportation Scroll@§bПодземн
 §7§lHonour Guard Combat Lv. 70@§7§lПочетный Защитник Комбат Ур. 70
 §7§lHonour Guard Combat Lv. 80@§7§lПочетный Защитник Комбат Ур. 80
 §7§lHonour Guard Combat Lv. 90@§7§lПочетный Защитник Комбат Ур. 90
+§7§lPattern 1@§7§lШаблон 1
+§7§lPattern 2@§7§lШаблон 2
+§7§lPattern 3@§7§lШаблон 3
+§7§lPattern 4@§7§lШаблон 4
+§7§lPattern 5@§7§lШаблон 5
+§7§lPattern 6@§7§lШаблон 6
+§7§lPattern 7@§7§lШаблон 7
+§7§lPattern 8@§7§lШаблон 8
+§7§lPattern 9@§7§lШаблон 9
+§7§lPattern 10@§7§lШаблон 10
+§7§lColour 1@§7§lЦвет 1
+§7§lColour 2@§7§lЦвет 2
+§7§lColour 3@§7§lЦвет 3
+§7§lColour 4@§7§lЦвет 4
+§7§lColour 5@§7§lЦвет 5
+§7§lColour 6@§7§lЦвет 6
+§7§lColour 7@§7§lЦвет 7
+§7§lColour 8@§7§lЦвет 8
+§7§lColour 9@§7§lЦвет 9
+§7§lColour 10@§7§lЦвет 10
+§7§lReset@§7§lСброс
+§7§lFinal Banner@§7§lФинальный Баннер
+§f§lUnlock Tier 2 Banner@§7§lРазблокировать Баннер 2 Уровня
+§7§lRandomise@§7§lРандомный
+§7§lBase Colour@§7§lБазовый Цвет
+§7§lSquare bottom leftÀ@§7§lНижний Левый Квадрат
+§7§lSquare bottom rightÀ@§7§lНижний Правый Квадрат
+§7§lSquare top leftÀ@§7§lВерхний Левый Квадрат
+§7§lSquare top rightÀ@§7§lВерхний Правый Квадрат
+§7§lStripe bottomÀ@§7§lНижняя Полоса
+§7§lStripe topÀ@§7§lВерхняя Полоса
+§7§lStripe leftÀ@§7§lЛевая Полоса
+§7§lStripe rightÀ@§7§lПравая Полоса
+§7§lStripe centerÀ@§7§lЦентральная Полоса
+§7§lStripe middleÀ@§7§lСередина Полоса
+§7§lStripe downrightÀ@§7§lПолоса Внизу Справа
+§7§lStripe downleftÀ@§7§lПолоса Внизу Слева
+§7§lStripe smallÀ@§7§lМаленькая Полоса
+§7§lCrossÀ@§7§lКрест
+§7§lStraight crossÀ@§7§lПрямой Крест
+§7§lTriangle bottomÀ@§7§lТреугольник Низ
+§7§lTriangle topÀ@§7§lТреугольник Верх
+§7§lTriangles bottomÀ@§7§lТреугольники Низ
+§7§lTriangles topÀ@§7§lТреугольники Верх
+§7§lDiagonal leftÀ@§7§lДиагональ Левая
+§7§lDiagonal rightÀ@§7§lДиагональ Правая
+§7§lDiagonal left mirrorÀ@§7§lДиагональ Левая Зеркальная
+§7§lDiagonal right mirrorÀ@§7§lДиагональ Правая Зеркальная
+§7§lCircle middleÀ@§7§lКруг Центральный
+§7§lRhombus middleÀ@§7§lРомб Центральный
+§7§lHalf verticalÀ@§7§lПоловина Вертикали
+§7§lHalf horizontalÀ@§7§lПоловина Горизонтали
+§7§lHalf vertical mirrorÀ@§7§lПоловина Вертикали Зеркальная
+§7§lHalf horizontal mirrorÀ@§7§lПоловина Горизонтали Зеркальная
+§7§lBorderÀ@§7§lГраница
+§7§lCurly borderÀ@§7§lФигурная Граница
+§7§lCreeperÀ@§7§lКрипер
+§7§lGradientÀ@§7§lГрадиент
+§7§lGradient upÀ@§7§lГрадиент Верхний
+§7§lBricksÀ@§7§lКирпичи
+§7§lSkullÀ@§7§lЧереп
+§7§lFlowerÀ@§7§lЦветок
+§7§lMojangÀ@§7§lМоджанг
+§7§lBlackÀ@§7§lЧерный
+§7§lRedÀ@§7§lКрасный
+§7§lGreenÀ@§7§lЗеленый
+§7§lBrownÀ@§7§lКоричневый
+§7§lBlueÀ@§7§lСиний
+§7§lPurpleÀ@§7§lФиолетовый
+§7§lCyanÀ@Бирюзовый
+§7§lSilverÀ@§7§lСеребрянный
+§7§lGrayÀ@§7§lСерый
+§7§lPinkÀ@§7§lРозовый
+§7§lLimeÀ@§7§lЛаймовый
+§7§lYellowÀ@§7§lЖелтый
+§7§lLight blueÀ@§7§lСветло Синий
+§7§lMagentaÀ@§7§lМалиновый
+§7§lOrangeÀ@§7§lОранжевый
+§7§lWhiteÀ@§7§lБелый
 
 ########################Ключи от данжа#################
 §6DecrepitÀÀÀSewers Key@§6Ветхая Канализация Ключ
@@ -1157,12 +1238,15 @@ DecrepitÀÀÀSewers Key@§6Ветхая Канализация Ключ
 §6DecrepitÀÀÀSewers KeyÀ@§6Ветхая Канализация Ключ
 §6InfestedÀÀÀPit Key@§6Зараженная Яма Ключ
 §6InfestedÀÀÀPit KeyÀ@§6Зараженная Яма Ключ
+InfestedÀÀÀPit Key@Зараженная Яма Ключ
 §6UndergrowthÀÀÀRuins Key@§6Заросшие Руины Ключ
 §6UndergrowthÀÀÀRuins KeyÀ@§6Заросшие Руины Ключ
 §6Sand-SweptÀÀÀTomb Key@§6Песчаная Гробница Ключ
 §6Sand-SweptÀÀÀTomb KeyÀ@§6Песчаная Гробница Ключ
+Sand-SweptÀÀÀTomb Key@Песчаная Гробница Ключ
 §6LostÀÀÀSanctuary Key@§6Затерянное Святилище Ключ
 §6LostÀÀÀSanctuary KeyÀ@§6Затерянное Святилище Ключ
+LostÀÀÀSanctuary Key@Затерянное Святилище Ключ
 §6UnderworldÀÀÀCrypt Key@§6Подземный Склеп Ключ
 §6UnderworldÀÀÀCrypt KeyÀ@§6Подземный Склеп Ключ
 UnderworldÀÀÀCrypt Key@§6Подземный Склеп Ключ
@@ -1251,6 +1335,9 @@ Water Catalyst X@Катализатор Воды X
 Master Catalyst@Мастер Катализатор
 
 #######################Квестовые предметы########################
+§4Frosty Sword@§4Ледяной Меч
+Suspended Droplets@Висящие Капли
+§fOld Treasure@§fСтарое Сокровище
 §fFiery Bow@§fПламенный Лук
 §fFiery Spear@§fПламенное Копье
 §fFiery Wand@§fПламенный Посох
@@ -1710,6 +1797,16 @@ Shadow Pendant@Темный Кулон
 Amadel's Pendant@Кулон Амаделя
 §fInsect of Corruption@§fИспорченное Насекомое
 §fOdd Smelling Crate@§fСтранно Пахнущий Контейнер
+§7Refined Fuel@§7Переработанное Топливо
+Hearty Zork Stew@Сытное Зорк Рагу
+§fBlue Wire Piece@§fСиний Кусок Провода
+§fBean Sprouts@§fБобовые Ростки
+§3Armory Token@§3Оружейный Жетон
+§3Brig Token@§3Бриг Жетон
+§3Crash Site Token@§3Жетон Кораблекрушения
+Stray Rock@Случайный Камень
+Library Key@Библиотечный Ключ
+
 
 ##########################Контейнеры##########################
 §e§lLoot Crate §6[Tier I]@§e§lЛут Контейнер §6[Уровень I]
@@ -1807,7 +1904,22 @@ Amadel's Pendant@Кулон Амаделя
 §dCreeper Disguise@§dКрипер Маскировка
 §dPigman Disguise@§dПигмен Маскировка
 §dZombie Disguise@§dЗомби Маскировка 
-
+§aSpawn Chrome Cybel§7 [Chrome Cybel]@§aЗаспавнить Хромового Кубеля §7 [Хромовый Кубел]
+§4Despawn your Chrome Cybel@§4Деспавнить твоего Хромового Кубеля
+§aSpawn Sea Blue Wybel§7 [Sea Blue Wybel]@§aЗаспавнить Морского Вубеля §7 [Морской Вубел]
+§4Despawn your Sea Blue Wybel@§4Деспавнить твоего Морского Вубеля
+§aSpawn Rat§7 [Rat]@§aЗаспавнить Крысу§7 [Крыса]
+§6Half-Moon Wand@§6Посох Полу-Месяц
+§fItem Bomb@§fПредметная Бомба
+§4Adventurer's Hat@§4Шапка Путешественника
+§aSpawn Chocolate Wybel§7 [Chocolate Wybel]@§aЗаспавнить Шоколадного Вубеля §7 [Шоколадный Вубел]
+§6Chrome Cybel Token@§6Хромовый Кубел Жетон
+§6Golden Wand@§6Золотой Посох
+§6Bovemist Effect@§6Эффект Бовемиста
+§6Anti-Bovemist Effect@§6Анти-Бовемист Эффект
+§fChocolate Wybel Token@§fШоколадный Вубел Жетон
+§cKing Effect@§cЭффект Короля
+§6Golden Bow@§6Золотой Лук
 
 ########################Обычные предметы########################
 §6§lSiegfried Mug@§6§lКружка Зигфрида
@@ -1895,6 +2007,9 @@ Gathering Scythe 2@Сборная Мотыга 2
 Gathering Scythe 1@Сборная Мотыга 1
 Gathering Rod 2@Сборная Удочка 2
 Gathering Rod 1@Сборная Удочка 1
+Gathering Scythe 5@Сборная Мотыга 5
+Gathering Pickaxe 5@Сборная Кирка 5
+Gathering Axe 5@Сборный Топор 5
 §fBrown HorseÀ@§fКоричневая Лошадь
 §fBrown Horse@§fКоричневая Лошадь
 §fBlack HorseÀ@§fЧерная Лошадь
@@ -1951,11 +2066,20 @@ The Emperor's Sceptre@Скипетр Императора
 Jungle Jade Shard@Джунглевый Осколок Нефрита
 Jungle Pearl Shard@Джунглевый Осколок Жемчужины
 Decrepit���Sewers���Entrance@Ветхая Канализация Вход
+Lost���Sanctuary���Entrance Teleportation Scroll@Затерянное Святилище Вход Свиток Телепортации
+Infested���Pit���Entrance@Зараженная Яма Вход
 Book Page@Страница Книги
 Book Binder@Переплет Книги
 Bunch O' Books@Множество Книг
 Mountain O' Books@Гора Книг
 §fLactic Acid Bacteria@§fМолочнокислая Бактерия
+Cinfras' Busted Clock@Сломанные Часы Цинфраса
+Refined Copper Ingot 1@Переработанный Слиток Меди 1
+Refined Oak Paper 1@Переработанная Дубовая Бумага 1
+Refined Wheat String 1@Переработанная Пшеничная Нить 1
+Unprocessed Copper Ore@Необработанная Медная Руда
+Unprocessed Wheat@Необработанная Пшеница
+§7§lBosses@§7§lБоссы
 
 ###########################Открытия###########################
 §b§lRagni's Secret LibraryÀ@§b§lСекретная Библиотека Рагни
@@ -1986,3 +2110,55 @@ Mountain O' Books@Гора Книг
 §b§lRelos's Secret LibraryÀ@§b§lСекретная Библиотека Релос
 §b§lLost Avos CityÀ@§b§lПотерянный Авос Город
 §b§lNecklace ChamberÀ@§b§lКамера Амулета
+
+====================Неидентифицированные предметы====================================
+§5Unidentified Wand@§5Неидентифицированный Посох
+§eUnidentified Wand@§eНеидентифицированный Посох
+§dUnidentified Wand@§dНеидентифицированный Посох
+§bUnidentified Wand@§bНеидентифицированный Посох
+§aUnidentified Wand@§aНеидентифицированный Посох
+§5Unidentified Dagger@§5Неидентифицированный Кинжал
+§eUnidentified Dagger@§eНеидентифицированный Кинжал
+§dUnidentified Dagger@§dНеидентифицированный Кинжал
+§bUnidentified Dagger@§bНеидентифицированный Кинжал
+§aUnidentified Dagger@§aНеидентифицированный Кинжал
+§5Unidentified Bow@§5Неидентифицированный Лук
+§eUnidentified Bow@§eНеидентифицированный Лук
+§dUnidentified Bow@§dНеидентифицированный Лук
+§bUnidentified Bow@§bНеидентифицированный Лук
+§aUnidentified Bow@§aНеидентифицированный Лук
+§5Unidentified Spear@§5Неидентифицированное Копье
+§eUnidentified Spear@§eНеидентифицированное Копье
+§dUnidentified Spear@§dНеидентифицированное Копье
+§bUnidentified Spear@§bНеидентифицированное Копье
+§aUnidentified Spear@§aНеидентифицированное Копье
+§eUnidentified Helmet@§eНеидентифицированный Шлем
+§dUnidentified Helmet@§dНеидентифицированный Шлем
+§bUnidentified Helmet@§bНеидентифицированный Шлем
+§aUnidentified Helmet@§aНеидентифицированный Шлем
+§5Unidentified Chestplate@§5Неидентифицированный Нагрудник
+§eUnidentified Chestplate@§eНеидентифицированный Нагрудник
+§dUnidentified Chestplate@§dНеидентифицированный Нагрудник
+§bUnidentified Chestplate@§bНеидентифицированный Нагрудник
+§aUnidentified Chestplate@§aНеидентифицированный Нагрудник
+§eUnidentified Leggings@§eНеидентифицированные Штаны
+§dUnidentified Leggings@§dНеидентифицированные Штаны
+§bUnidentified Leggings@§bНеидентифицированные Штаны
+§aUnidentified Leggings@§aНеидентифицированные Штаны
+§5Unidentified Boots@§5Неидентифицированные Ботинки
+§eUnidentified Boots@§eНеидентифицированные Ботинки
+§dUnidentified Boots@§dНеидентифицированные Ботинки
+§bUnidentified Boots@§bНеидентифицированные Ботинки
+§aUnidentified Boots@§aНеидентифицированные Ботинки
+§eUnidentified Ring@§eНеидентифицированное Кольцо
+§dUnidentified Ring@§dНеидентифицированное Кольцо
+§bUnidentified Ring@§bНеидентифицированное Кольцо
+§aUnidentified Ring@§aНеидентифицированное Кольцо
+§eUnidentified Bracelet@§eНеидентифицированный Браслет
+§dUnidentified Bracelet@§dНеидентифицированный Браслет
+§bUnidentified Bracelet@§bНеидентифицированный Браслет
+§aUnidentified Bracelet@§aНеидентифицированный Браслет
+§eUnidentified Necklace@§eНеидентифицированный Амулет
+§dUnidentified Necklace@§dНеидентифицированный Амулет
+§bUnidentified Necklace@§bНеидентифицированный Амулет
+§aUnidentified Necklace@§aНеидентифицированный Амулет
