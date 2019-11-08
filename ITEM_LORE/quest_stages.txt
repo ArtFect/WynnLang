@@ -61,6 +61,10 @@ QUESTS/Aldorei%27s_Secret_Part_II.txt
 §7the cherry blossom tree @§7через вишневое дерево
 §7Speak to Togak @§7Поговори с Тогаком
 §7Enter the chamber behind Togak @§7Войди в комнату позади Тогака
+§7Solve the puzzle in the@§7Пройди пазл в 
+§7third room of Togak's dungeon @§7третьей комнате данжа Тогака
+§7Battle through the fourth room @§7Пройди с боем через четвертую комнату 
+§7of Togak's dungeon @§7Тогак данжа
 §7Choose @§7Выбери
 §7Turn in your receipt to @§7Верни свою квитанцию 
 §7Corak or give an Elven @§7Кораку или отдай 
@@ -651,6 +655,9 @@ QUESTS/Fallen_Delivery.txt =====
 §7to the bandit's house @§7к дому бандита 
 §7Find the envelope in the cellar @§7Найди конверт в подвале 
 §7and return it to the sender @§7и верни его отправителю 
+§7Find the envelope in the @§7Найди конверт в 
+§7cellar and return it to @§7подвале и верни его 
+§7the sender @§7отправителю
 §7Find the representative’s office in @§7Найди офис представителей 
 §7the airship base @§7на авиабазе 
 §7[-238,120,-4967]@ 
@@ -1179,7 +1186,7 @@ QUESTS/Lost_Royalty.txt =====
 §7Report back to Yavlis with @§7Вернись к Явлису 
 §7the news @§7с новостями 
  
-QUESTS/Lost_Soles.txt 
+QUESTS/Lost_Soles.txt =====
 §7Talk to Ferndor at @§7Поговори с Ферндором на 
 §7[-915,33,-750]@ 
 §7Visit the mansion dining room @§7Посети столовую в поместье 
@@ -1189,6 +1196,8 @@ QUESTS/Lost_Soles.txt
 §7owns the nose that needs @§7ведет в нос, 
 §7to be heavier to open @§7который открывает 
 §7the way" @§7путь" 
+§7Talk to Grandon and tell @§7Поговори с Грандоном и расскажи 
+§7him about your findings @§7ему о своих находках
 §7"The carpet of different colour @§7Ковер различного цвета 
 §7will show you the stone @§7покажет тебе камень, чтобы 
 §7to reveal the tables secret" @§7раскрыть секрет стола 
@@ -1284,20 +1293,30 @@ QUESTS/Memory_Paranoia.txt
 §7of Erca Mansion at @§7на входе в Поместье Эрка 
 §7[-1192,46,-5198]@ 
 §7Enter Erca Mansion @§7Войди в поместье Эрка 
+§7Learn the story of the @§7Изучи историю 
+§7Caritat Family @§7семейства Каритат
 §7Enter the basement and recover @§7Войди в подвал 
 §7the Library Key @§7и добудь ключ от библиотеки 
+§7Enter the library of Erca @§7Войди в библиотеку Эрка 
+§7Mansion @§7Поместья
 §7Enter the hole in the @§7Войди в дыру 
 §7wall at @§7в стене на 
 §7[-1535,17,-8068]@ 
 §7Return the spoon to the @§7Верни ложку 
 §7Kitchen @§7на кухню 
 §7Enter the Kitchen @§7Войди на кухню 
+§7Exit the Kitchen @§7Покинь кухню
 §7Unlock the Study @§7Открой кабинет 
+§7Enter the Study @§7Войди в кабинет 
 §7Bring the key to the @§7Принеси ключ 
 §7Master Bedroom @§7к главной спальне 
 §7Enter the Master Bedroom @§7Войди в главную спальню
 §7Bring the key to Timmy's @§7Принеси ключ к 
 §7bedroom @§7спальне Тимми
+§7Escape the flaming mansion through @§7Покинь горящее поместье через 
+§7the back door @§7заднюю дверь
+§7Speak with the Possessed Mr. @§7Поговори с Одержимым Мр. 
+§7Caritat @§7Каритатом
 §7Navigate the Caritat's basement @§7Пройдись по подвалу Каритатов 
 §7Escape through the mysterious rift @§7Сбеги через загадочную расщелину 
  
@@ -1457,6 +1476,8 @@ QUESTS/Purple_and_Blue.txt
 §7cellar to find the mysterious @§7найди загадочную 
 §7Return to Korun with the @§7Вернись к Коруну вместе со
 §7helmet @§7шлемом
+§7Enter Korun's cellar and go @§7Войди в подвал Коруна и иди 
+§7beneath the lake @§7под озеро
 §7Enter the center spire from @§7Войди в центр прохода 
 §7under the lake @§7под озером. 
 §7Go deeper into the heart @§7Продвигайся дальше к центру
@@ -2226,6 +2247,9 @@ QUESTS/Troubled_Tribesmen.txt
 §7Find the Tribe Shaman at @§7Найди Шамана племени на 
 §7the fork in the road @§7развилке дороги
 §7Return to Ka L'argwit @§7Вернись к Ка Ларгвиту
+§7Investigate the roots of Entamis @§7Посети корни Энтамис
+§7Kill Aenara and give [1 @§7Убей Aenara и отдай [1 
+§7Insect of Corruption] to Inrekei. @§7Испорченное Насекомое] Энрике
  
 QUESTS/Tunnel_Trouble.txt ===== 
 §7Talk to Captain Fenor in @§7Поговори с Капитаном Фенором 
@@ -2365,6 +2389,10 @@ QUESTS/WynnExcavation_Site_D.txt
 §7Search the excavation site @§7Продвигайся вдоль раскопок 
 §7Talk to Excavator Admin Uci @§7Поговори с Раскопщиком Админом Уки
 §7Enter The Ancient Dungeon @§7Войди в Древний Данж
+§7Solve The Yellow Puzzle @§7Пройди желтый пазл
+§7Solve The Purple Puzzle @§7Пройди фиолетовый пазл
+§7Solve The Red Puzzle @§7Пройди красный пазл
+§7Talk to Excavator Amadel @§7Поговори с Раскопщиком Амаделем
 §7Teleport to the Ancient City @§7Телепортируйся в Древний Город
 §7Explore The Ancient City @§7Исследуй Древний Город
 §7Speak to Amadels assistant @§7Поговори с Ассистентом Амадела
@@ -2374,6 +2402,8 @@ QUESTS/WynnExcavation_Site_D.txt
 §7Kill Shadow Amadel @§7Убей Shadow Amadel 
 §7Fight Amadel @§7Сразись с Amadel
 §7Kill Amadel @§7Убей Amadel
+§7Talk to The King of @§7Поговори с Королем
+§7Ragni @§7Рагни
 
 QUESTS/Zhight_Island_(Quest).txt ===== 
 §7Talk to Zhight of Zhight @§7Поговори с Жигтом на Жигт 
@@ -2511,3 +2541,5 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7cave.@§7пещеру
 §7Guard @§7Страж
 §7in the cave @§7в пещере
+§7Explore the house to find @§7Исследуй дом чтобы найти 
+§7a way out @§7выход 
