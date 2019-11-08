@@ -126,8 +126,10 @@ QUESTS/A_Fighting_Species.txt =====
 QUESTS/A_Grave_Mistake.txt ===== 
 §7§4., §lSTAY§4;.  '§lAWAY§4:, .§lFROM§4;, @§7§4., §lДЕРЖИСЬ§4;.  '§lПОДАЛЬШЕ§4:, .§lОТ§4;, 
 §7 ,.; §l[157,78,-377] §4':, @ 
-§7§4.;§lI§4. ,§ltold§4;. .,§lyou§4; :§lto§4, .,§lstay§4;  @§7§4.;§lЯ§4. ,§lГОВОРИЛ§4;. .,§lТЕБЕ§4, .,§lДЕРЖАТЬСЯ§4;. 
-§7.§laway§4';@§7.§lПОДАЛЬШЕ§4; 
+§7§4.;§lI§4. ,§ltold§4;. .,§lyou§4; :§lto§4, .,§lstay§4;@§7§4.;§lЯ§4. ,§lГОВОРИЛ§4;. .,§lТЕБЕ§4, .,§lДЕРЖАТЬСЯ§4;. 
+§7§4'§lI§4, :§ltold§4.; .§lyou§4; '§lto§4;. ,§lstay§4'@§7§4.;§lЯ§4. ,§lГОВОРИЛ§4;. .,§lТЕБЕ§4, .,§lДЕРЖАТЬСЯ§4;.
+§7.§laway§4'; @§7.§lПОДАЛЬШЕ§4; 
+§7.§laway§4; @§7.§lПОДАЛЬШЕ§4; 
 §7§4.§lReturn§4;' §lto§4:, '§lAlem;, @§7§4.§lВернись§4;' §lк§4:, '§lАлему;, 
  
 QUESTS/A_Marauder%27s_Dues.txt ===== 
@@ -404,6 +406,7 @@ QUESTS/Deja_Vu.txt =====
 §7Find a way to save @§7Найди способы спасти 
 §7Asher from his death. @§7Ашерa от его смерти 
 §7Talk to Asher. @§7Поговори с Ашером.
+§7Listen to Old Man Martyn. @§7Послушай Старика Мартина
  
 QUESTS/Desperate_Metal.txt ===== 
 §7Speak to Phinas on Corkus @§7Поговори с Финасом на Коркус 
@@ -595,11 +598,13 @@ QUESTS/Eye_of_the_Storm.txt
 §7Search the ruins at @§7Обыщи руины на 
 §7[-714,43,-5385]@ 
 §7to find the cultists @§7и найди культистов 
+§7Return to Arwes in the @§7Вернись к Арвесу в
+§7cathedral @§7соборе
 §7Talk to Ceyquin in Lexdale @§7Поговори с Сейквином в Лексдейл 
 §7[-611,46,-5458]@ 
 §7Climb to the balcony in @§7Поднимись на балкон 
 §7Ceyquin's house @§7в доме Сейквина
-§7Return to Ceyquin@§7Вернись к Сейквину 
+§7Return to Ceyquin @§7Вернись к Сейквину 
 §7Enter the tunnel under Ceyquin's @§7Войди в тоннель под Сейквина 
 §7house @§7домом 
 §7Escape through the cavern and @§7Сбеги через пещеру 
@@ -612,6 +617,7 @@ QUESTS/Eye_of_the_Storm.txt
 §7Kill the Guardian and bring @§7Убей Guardian of the Order 
 §7the [Lost Spell Scroll] to @§7и принеси [Потерянный Свиток Заклинания] 
 §7Rismor @§7к Рисмору
+§7Enter the Pit of Despair @§7Войди в Яму Отчаяния
 §7Find a passage deeper into @§7Найди проход 
 §7the Pit @§7вглубь Ямы
 §7Enter the ritual chamber @§7Войди в ритуальную комнату
@@ -896,6 +902,8 @@ QUESTS/General%27s_Orders.txt
 §7Blow up the wall inside @§7Взорви стену внутри 
 §7Find the secret passageway into @§7Найди секретный вход в 
 §7the general's office @§7офис генерала 
+§7Defeat the Corpus Accipientis @§7Победи Corpus Accipientis 
+§7Return to General Lecade @§7Вернись к Генералу Лекейду
  
 QUESTS/Grand_Youth.txt =====
 §7Talk to Monte at @§7Поговори с Монтэ на 
@@ -1386,6 +1394,9 @@ QUESTS/Pirate%27s_Trove.txt
 §7Clue II: In a place @§7Подсказка II:В месте 
 §7of identity, above the leaves @§7идентификации, над листьями 
 §7and between the glass @§7и между стеклом
+§7Clue III: In an emerald @§7Подсказка III: В эмеральдовом
+§7fountain, surrounded by the wealth @§7фонтане, где жители вкладывают
+§7of the villagers @§7деньги
 §7Clue IV: Beneath the cowl @§7Подсказка IV: Под шлемом 
 §7of an eastern titan, keeping @§7восточного титана, охраняющего 
 §7watch over our heads@§7наши головы
@@ -1542,7 +1553,7 @@ QUESTS/Sewers_of_Ragni.txt =====
 §7the spooky sewer. @§7из загадочной канализации
 §7Talk to Jenprest @§7Поговори с Дженпрест 
  
-QUESTS/Shattered_Minds.txt 
+QUESTS/Shattered_Minds.txt =====
 §7Talk to Likeru in Efilim @§7Поговори с Ликеру в Эфилиме 
 §7[-1058,44,-5008]@ 
 §7Look for the caves to @§7Найди пещеру 
@@ -1550,11 +1561,14 @@ QUESTS/Shattered_Minds.txt
 §7Find the mushroom Likeru is @§7Найди гриб, который 
 §7looking for @§7ищет Ликеру 
 §7Investigate the giant blue mushroom @§7Посети гигантский синий гриб 
-§7Find a way to escape @§7Найди способ сбежать 
+§7Find a way to escape @§7Найди способ сбежать из 
+§7cave. @§7пещеры
+§7the strange temple@§7странного храма
 §7Try to find civilization within @§7Попробуй найти цивилизацию 
-§7the strange forest@§7в странном лесу
+§7the strange forest @§7в странном лесу
 §7Enter the house by the @§7Войди в дом гигантской 
 §7giant frog in the village @§7лягушки в деревне 
+§7Escape the wrath of Yahya @§7Сбеги от разъяренного Йайа
 §7Talk to Elder Berusia @§7Поговори со Старцем Берусия 
 §7Talk to Likeru @§7Поговори с Ликеру
  
@@ -2069,9 +2083,9 @@ QUESTS/The_Realm_of_Light_(Quest).txt =====
 §7Bring [10 Glowing Powder] to @§7Принеси [10 Сияющего Порошка] 
 §7Heliorion @§7Хелиориону
 §7Follow the trails to the @§7Следуй по пути 
-§7seeds of corruption and destroy@§7к семенам и уничтожь их, 
+§7seeds of corruption and destroy @§7к семенам и уничтожь их, 
 §7them, then report back to @§7затем сообщи 
-§7Heliorion at@§7об этом Хелиориону
+§7Heliorion at @§7об этом Хелиориону
 §7Speak to Gaclux in front @§7Поговори с Гаклуксом 
 §7of the rune at @§7перед руной на 
 §7[-366,59,-6733]@ 
@@ -2483,3 +2497,5 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7the door that locks the @§7дверь закрывающую
 §7heirloom. @§7реликвию.
 §7cave.@§7пещеру
+§7Guard @§7Страж
+§7in the cave @§7в пещере
