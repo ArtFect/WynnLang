@@ -283,13 +283,13 @@ recipe for dis
 §8by +4 for 120 seconds
 
 fortunetell
-§7Search the Castle near Kandon-Beda @§7
-§7for a treasure map at @§7
-§7Return to Jill in Kandon-Beda @§7
-§7with the treasure @§7
-§7Solve the treasure mystery @§7
-§7Climb the beanstalk @§7
-§7Speak to the Ancient Dragon @§7
+§7Search the Castle near Kandon-Beda @§7Обыщи замок рядом с Кандон-Бэда 
+§7for a treasure map at @§7в поисках карты сокровищ на 
+§7Return to Jill in Kandon-Beda @§7Вернись к Джилл в Кандон-Бэда 
+§7with the treasure @§7вместе с сокровищем
+§7Solve the treasure mystery @§7Раскрой загадку сокровища
+§7Climb the beanstalk @§7Заберись на бобовый стебель
+§7Speak to the Ancient Dragon @§7Поговори с Древним Драконом
 
 
 
@@ -301,33 +301,32 @@ fortunetell
 §88 and boost your Walk Speed
 §a- §7Effect: §f+8§c ✹ Defence
 §88 and boost your Health
+§7Collect §l16§4§7 of these to proceed@§7Собери §l16§4§7 таких для перехода 
+§7Collect §l16§7 of these to proceed@§7Собери §l16§7 таких для перехода 
+§7Collect §l1§7 of this token to@§7§7Собери §l1§7 такой для 
+§7finish the Combat Challenge.@§7завершения Комбат Челленджа.
 
 royall trials
-§7Talk to the Hrona at @§7
-§7Buy a Female Pirate Wig @§7
-§7at Ahmsord then enter the @§7
-§7basement in which the trials @§7
-§7are being held at @§7
-§7Defeat the armory room of @§7
-§7the combat challenge @§7
-§7Collect §l16§7 of these to proceed@§7
-§7to the next room.@§7
-§7Defeat the brig room of @§7
-§7Collect §l16§4§7 of these to proceed@§7
-§7to the next room.@§7
-§7Defeat the cockpit room of @§7
-§7Collect §l1§7 of this token to@§7
-§7finish the Combat Challenge.@§7
-§7Listen to the trials overseer's @§7
-§7speech @§7
-§7Defeat the challenge of flight @§7
-§7Sneak past the guards @§7
-§7Steal the treasure @§7
-§7Get the treasure to the @§7
-§7trials overseer outside of the @§7
-§7mansion's window @§7
-§7Exit through the mansion's window @§7
-§7Talk to the trials overseer @§7
+§7Talk to the Hrona at @§7Поговори с Хроной на 
+§7Buy a Female Pirate Wig @§7Купи Женский Парик Пирата
+§7at Ahmsord then enter the @§7в Амсорде и затем войди в 
+§7basement in which the trials @§7подвал, в котором проходят 
+§7are being held at @§7испытания
+§7Defeat the armory room of @§7Победи в оружейной комнате в 
+§7the combat challenge @§7комбат челлендже
+§7to the next room.@§7в следующую комнату.
+§7Defeat the brig room of @§7Победи в бриг комнате в
+§7Defeat the cockpit room of @§7Победи в комнате кубрика в 
+§7Listen to the trials overseer's @§7Послушай смотрительницы испытаний 
+§7speech @§7речь 
+§7Defeat the challenge of flight @§7Победи в челлендже полета
+§7Sneak past the guards @§7Пройди мимо охранников
+§7Steal the treasure @§7Укради сокровище
+§7Get the treasure to the @§7Доставь сокровище до 
+§7trials overseer outside of the @§7смотрительницы испытаний снаружи 
+§7mansion's window @§7окна поместья
+§7Exit through the mansion's window @§7Выйди через окно поместья
+§7Talk to the trials overseer @§7Поговори со смотрительницей испытаний
 
 
 §7This key looks like it'd open the door
