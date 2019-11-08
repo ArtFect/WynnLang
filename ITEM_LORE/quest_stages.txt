@@ -443,7 +443,7 @@ QUESTS/Dwarves_and_Doguns_Part_I.txt =====
 §7Dogun festival at @§7Фестиваля Догунов на
 §7[1522,78,-5055]@§7 
 §7by following the red banners @§7следуя красным банерам 
-§7outside Rodoroc.@§7снаружи Родорока
+§7outside Rodoroc. @§7снаружи Родорока
 §7Find out more about the @§7Узнай больше об истеричном 
 §7hysterical dwarf in Rodoroc's prison @§7гноме в тюрьме Родорока
 §7[1109,26,-5230]@ 
@@ -465,7 +465,7 @@ QUESTS/Dwarves_and_Doguns_Part_I.txt =====
 §7Find your way up to @§7Доберись вверх 
 §7the Dogun village through the @§7до убежища Догунов через 
 §7tunnel. @§7тоннель
-§7Talk to Plario.@§7Поговори с Пларио
+§7Talk to Plario. @§7Поговори с Пларио
 
 QUESTS/Dwarves_and_Doguns_Part_II.txt =====
 §7Return to the Dogun village @§7Вернись в деревню Догунов 
@@ -492,7 +492,7 @@ QUESTS/Dwarves_and_Doguns_Part_II.txt =====
 §7Sneak past the guards and @§7Проберись через охранников 
 §7talk to the Dwarven King. @§7и поговори с королем гномов
 §7Leave the Royal Palace at @§7Покинь королевский дворец через
-§7the end of the palace.@§7выход в конце дворца.
+§7the end of the palace. @§7выход в конце дворца.
  
 QUESTS/Dwarves_and_Doguns_Part_III.txt =====
 §7with the letter and speak @§7с письмом и поговори 
@@ -1100,7 +1100,7 @@ QUESTS/King%27s_Recruit.txt =====
 §7it to the Old @§7и принеси ее 
 §7Man @§7старику 
 §7Mine [2 Copper Ore] and @§7Добудь [2 Медной Руды] и 
-§7bring it to the Old@§7принеси ее 
+§7bring it to the Old @§7принеси ее 
 §7Investigate the broken bridge @§7Осмотри разрушенный мост 
 §7Search for another way across @§7Найди способ перебраться на ту сторону 
 §7Process your copper ore into @§7Переработай свою руду 
@@ -1386,9 +1386,9 @@ QUESTS/﻿One_Thousand_Meters_Under.txt =====
 §7of the submarine. @§7снаружи субмарины
 §7Explore the island and look @§7Исследуй остров 
 §7for the crystal. @§7в поисках кристалла
-§7Return to the submarine and@§7Вернись на подлодку 
+§7Return to the submarine and @§7Вернись на подлодку 
 §7continue your journey. @§7и продолжай путешествие
-§7continue the journey. @§7Продолжи свое путешествие
+§7Continue the journey. @§7Продолжи свое путешествие
 §7Head to the resting room. @§7Отправляйся в комнату отдыха
 §7Get the ingredients to fix @§7Принеси ингредиенты для починки 
 §7the submarine. @§7подлодки
@@ -1397,7 +1397,7 @@ QUESTS/﻿One_Thousand_Meters_Under.txt =====
 §7Talk to Rontaid outside the @§7Поговори с Ронтейдом снаружи 
 §7town at [14113,116,-4199]. @§7города на [14113,116,-4199].
 §7Return to the crash site @§7Вернись к месту аварии
-§7by following the road.@§7по короткому маршруту
+§7by following the road. @§7по короткому маршруту
  
 QUESTS/Out_of_my_Mind.txt ===== 
 §7Speak with the Troms children @§7Поговори с детьми в Тромсе 
