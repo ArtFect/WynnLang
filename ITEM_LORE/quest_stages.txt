@@ -7,19 +7,25 @@ QUESTS/﻿Acquiring_Credentials.txt
 §7thieves might be @§7пойти воры 
 §7Find a way to find @§7Найди способ 
 §7out about the password @§7узнать пароль
+§7Look through all of the @§7Отыщи в воде 
+§7water for the ticket and @§7билет и 
+§7then return it @§7верни его
 §7Speak to the guard again @§7Поговори с охранником снова
 §7Look around the black market @§7Отыщи на черном рынке 
 §7for someone with information about @§7кого-нибудь с информацией 
 §7the passport @§7о паспорте
 §7Infiltrate the administrational office in @§7Проникни в административный офис 
 §7order to bring back the @§7и принеси
+§7Sneak around the guards in @§7Спрячься от охранников 
+§7the darkness, and find a @§7в темноте, и найди способ 
+§7way into the vault @§7попасть в хранилище
 §7Return to the Document Merchant @§7Вернись к Торговцу Документами
 §7with the [Secret Documents] @§7с [Секретными Документами]
 §7Go to the storage area @§7Иди в хранилище
 §7that contains the passport, and @§7 с паспортами, и найди 
 §7find a way in @§7путь внутрь
-§7Inspect the vault @§7Исследуй хранилище
-§7[922,79,-1927]@ 
+§7Return to Doan with the @§7Вернись к Доану с
+§7[Dusty Passport]@§7[Пыльным Паспортом]
  
 QUESTS/Aldorei%27s_Secret_Part_I.txt 
 §7Speak to Elrund outside Aldorei @§7Поговори с Элрундом снаружи 
@@ -152,7 +158,8 @@ QUESTS/A_Sandy_Scandal.txt
 §7Read the witness report @Прочитай отчет 
 §7Open the vault in the @§7Открой хранилище 
 §7basement [Code: 7812] @§7в подвале [Код: 7812] 
-§7Inspect the vault @§7Исследуй хранилище
+§7Inspect the vault @§7Исследуй хранилище на 
+§7[922,79,-1927]@ 
 §7Find the source of the @§7Найди источник 
 §7detonation @§7взрыва 
 §7Look for signs of the @§7Ищи следы того, 
@@ -779,7 +786,7 @@ QUESTS/Flight_in_Distress.txt
 §7Go back to your cabin @§7Вернись в свою каюту
 §7Speak to the captain regarding @§7Поговори с капитаном насчет 
 §7the sudden noises @§7внезапного шума
-§7Look if the engineer has@§7 @§7Посмотри, есть ли у инженера 
+§7Look if the engineer has @§7 @§7Посмотри, есть ли у инженера 
 §7something for you to do @§7что-то для тебя, 
 §7in order to help @§7чтобы помочь
 §7Complete the sound coded system @§7Пройди систему рестарта,
@@ -789,12 +796,17 @@ QUESTS/Flight_in_Distress.txt
 §7Return back to your cabin @§7Вернись в свою каюту
 §7Explore the lower deck; something @§7Исследуй нижнюю палубу; что-то 
 §7big is approaching @§7большое приближается
+§7Get to the other ship @§7Перейти на другой корабль
+§7Find a way to reach @§7Найди путь к 
+§7the queen that is located @§7королеве, что находится 
+§7below deck @§7на нижней палубе
+§7Speak to the prisoner @§7Поговори с заключенным
 §7Escape your cell and find @§7Сбеги из клетки 
 §7a way to sabotage the @§7и найди способ остановить 
 §7ship @§7дирижабль
 §7Escape the cell, and finalize @§7Сбеги из тюрьмы, и доделай 
 §7the key to reach the @§7ключ к комнате 
-§7pirate queen@§7королевы пиратов
+§7pirate queen @§7королевы пиратов
 §7Fight the pirate queen, take @§7Сразись с королевой пиратов,
 §7one of her personal treasures @§7забери ее сокровища 
 §7with you, and escape @§7и сбеги
