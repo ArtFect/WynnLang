@@ -1,4 +1,8 @@
 #######################Ресурсы с трейдмаркета#####################
+§7- Unprocessed Sandstone Ore@§7- Необработанная Песчаная Руда
+§7- Refined Sandstone Gem 1@§7- Переработанный Песчаный Камень 1
+§7- Refined Sandstone Ingot 2@§7- Переработанный Слиток Песчаника 2
+§7- Refined Sandstone Ingot 1@§7- Переработанный Слиток Песчаника 1
 §7- Refined Sandstone Ingot 3@§7- Переработанный Слиток Песчаника 3
 §7- Unprocessed Wheat@§7- Необработанная Пшеница
 §7- Refined Wheat String 1@§7- Переработанная Пшеничная Нить 1
@@ -34,11 +38,13 @@
 §7- Refined Copper Ingot 1@§7- Переработанный Слиток Меди 1
 §7- Refined Copper Gem 1@§7- Переработанный Медный Камень 1
 §7- Refined Copper Gem 2@§7- Переработанный Медный Камень 2
+§7- Refined Copper Gem 3@§7- Переработанный Медный Камень 3
 §7- Unprocessed Gold Ore@§7- Необработанная Золотая Руда
 §7- Refined Gold Ingot 1@§7- Переработанный Слиток Золота 1
 §7- Refined Gold Ingot 3@§7- Переработанный Слиток Золота 3
 §7- Refined Gold Ingot 2@§7- Переработанный Слиток Золота 2
 §7- Refined Gold Gem 1@§7- Переработанный Золотой Камень 1
+§7- Refined Gold Gem 2@§7- Переработанный Золотой Камень 2
 §7- Unprocessed Trout@§7- Необработанная Форель
 §7- Refined Trout Oil 3@§7- Переработанный Жир Форели 3
 §7- Refined Trout Oil 2@§7- Переработанный Жир Форели 2
@@ -56,6 +62,7 @@
 §7- Refined Oat String 1@§7- Переработанная Овсяная Нить 1
 §7- Refined Oat String 2@§7- Переработанная Овсяная Нить 2
 §7- Refined Oat String 3@§7- Переработанная Овсяная Нить 3
+§7- Unprocessed Hops@§7- Необработанный Хмель
 §7- Refined Hops String 3@§7- Переработанная Хмельная Нить 3
 §7- Unprocessed Salmon@§7- Необработанная Форель
 §7- Refined Salmon Oil 2@§7- Переработанный Жир Лосося 2
@@ -66,6 +73,7 @@
 §7- Refined Gudgeon Meat 3@§7- Переработанное Мясо Пескаря 3
 §7- Refined Gudgeon Oil 1@§7- Переработанный Жир Пескаря 1
 §7- Refined Gudgeon Oil 2@§7- Переработанный Жир Пескаря 2
+§7- Refined Gudgeon Oil 3@§7- Переработанный Жир Пескаря 3
 §7- Unprocessed Birch Log@§7- Необработанное Бревно Березы
 §7- Refined Birch Wood 1@§7- Переработанная Древесина Березы 1
 §7- Refined Birch Wood 2@§7- Переработанная Древесина Березы 2
@@ -75,8 +83,18 @@
 §7- Refined Birch Paper 3@§7- Переработанная Березовая Бумага 3
 §7- Unprocessed Acacia Log@§7- Необработанное Бревно Акации
 §7- Refined Acacia Wood 2@§7- Переработанная Древесина Акации 2
+§7- Refined Acacia Wood 1@§7- Переработанная Древесина Акации 1
+§7- Refined Acacia Wood 3@§7- Переработанная Древесина Акации 3
 §7- Refined Iron Ingot 3@§7- Переработанный Слиток Железа 3
+§7- Refined Iron Ingot 1@§7- Переработанный Слиток Железа 1
+§7- Refined Iron Gem 1@§7- Переработанный Железный Камень 1
 §7- Unprocessed Spruce Log@§7- Необработанное Бревно Ели
+§7- Refined Icefish Oil 1@§7- Переработанный Жир Щуки 1
+§7- Refined Carp Oil 1@§7- Переработанный Жир Карпа 1
+§7- Refined Silver Gem 1@§7- Переработанный Серебрянный Камень 1
+§7- Unprocessed Malt@§7- Необработанный Солод
+§7- Refined Malt String 1@§7- Переработанная Солодовая Нить 1
+§7- Refined Molten Ingot 1@§7- Переработанный Слиток Молтен 1
 
 ##########################################################
 §7Currency@§7Валюта
@@ -990,6 +1008,7 @@
 §6- §fCreeper Dart§7 [Lv. 21]@§6- §fДротик Крипера§7 [Ур. 21]
 §5- §7Creeper Dart Spell §8[Lv. 21]@§5- §7Дротик Крипера Заклинание §8[Ур. 21]
 §6- §7Dagger Aura§8 [Lv. 31]@§6- §7Кинжальная Аура§8 [Ур. 31]
+§6- §fDagger Aura§7 [Lv. 31]@§6- §fКинжальная Аура§7 [Ур. 31]
 §5- §7Dagger Aura Spell §8[Lv. 31]@§5- §7Кинжальная Аура Заклинание §8[Ур. 31]
 §6- §fRemedy§7 [Lv. 1]@§6- §fЛечение§7 [Ур. 1]
 §6- §7Blink§8 [Lv. 11]@§6- §7Ослепление§8 [Ур. 11]
@@ -1055,6 +1074,8 @@
 §5- §7Shadow Clone Upgrade III §8[Lv. 46]@§5- §7Теневой Клон Апгрейд III §8[Ур. 46]
 §5- §7Spider Jump Upgrade II §8[Lv. 26]@§5- §7Прыжок Паука Апгрейд II §8[Ур. 26]
 §5- §7Spider Jump Upgrade III §8[Lv. 46]@§5- §7Прыжок Паука Апгрейд III §8[Ур. 46]
+§5- §7Creeper Dart Upgrade III §8[Lv. 56]@§5- §7Дротик Крипера Апгрейд III §8[Ур. 56]
+§5- §7Dagger Aura Upgrade III §8[Lv. 66]@§5- §7Кинжальная Аура Апгрейд III §8[Ур. 66]
 §5- §7None@§5- §7Нет
 §4[Right-Click to Delete]@§4[Правый Клик для Удаления]
 §cYou need to have the@§cТебе нужно иметь
@@ -1140,6 +1161,7 @@
 §a- §7Tier: §eUnique@§a- §7Уровень: §eУникальный
 §a- §7Tier: §bLegendary@§a- §7Уровень: §bЛегендарный
 §a- §7Tier: §aSet@§a- §7Уровень: §aСет
+§a- §7Tier: §5Mythic@§a- §7Уровень: §5Мифический
 §c✖§7 Class Req: Mage/Dark Wizard@§c✖§7 Класс Необ.: Маг/Темный Волшебник
 §c✖§7 Class Req: Archer/Hunter@§c✖§7 Класс Необ.: Лучник/Охотник
 §c✖§7 Class Req: Warrior/Knight@§c✖§7 Класс Необ.: Воин/Рыцарь
@@ -1172,6 +1194,7 @@
 §5Mythic Item [4]@§5Мифический Предмет [4]
 §5Mythic Item [5]@§5Мифический Предмет [5]
 §cUntradable Item@§cНепродаваемый Предмет
+§cUntradable item@§cНепродаваемый предмет
 §8Crafting Ingredient@§8Ингредиент для крафта
 §fNormal Item@§fОбычный Предмет
 §3Gathering Tool@§3Инструмент для Сбора
@@ -1323,9 +1346,12 @@
 §d- §7Attack Speed: §f+1 tier@§d- §7Скорость Атаки: §f+1 уровень
 §d- §7Attack Speed: §f-1 tier@§d- §7Скорость Атаки: §f-1 уровень
 §d- §7Attack Speed: §f+2 tier@§d- §7Скорость Атаки: §f+2 уровня
+§d- §7Attack Speed: §f+3 tier@§d- §7Скорость Атаки: §f+3 уровня
 §c-1 Charge@§c-1 Использование
 §a+2 Charges@§a+2 Использования
 §a+1 Charge@§a+1 Использование
+§6 - §f0§7 Soul Points@§6 - §f0§7 Очков Душ
+§6 - §f3§7 Soul Points@§6 - §f3§7 Очков Душ
 
 ###########################Свитки/ключи/билеты#######################
 §7Teleports to: Selchar@§7Телепорт в: Сельчар
@@ -1454,6 +1480,7 @@
 §aEffect:@§aЭффект:
 §fEffect:@§fЭффект:
 §dEffects:@§dЭффекты:
+§dEffects: @§dЭффекты: 
 §6- §7Effect: §f20% XP@§6- §7Эффект: §f20% XP
 §6- §7Effect: §f15% XP@§6- §7Эффект: §f15% XP
 §6- §7Effect: §f25% XP@§6- §7Эффект: §f25% XP
@@ -1465,6 +1492,8 @@
 §a- §7Effect: §f+57§c ✹ Defence@§a- §7Эффект: §f+57§c ✹ Защита
 §a- §7Effect: §f+14§c ✹ Defence@§a- §7Эффект: §f+14§c ✹ Защита
 §a- §7Effect: §f+71§c ✹ Defence@§a- §7Эффект: §f+71§c ✹ Защита
+§a- §7Effect: §f+21§c ✹ Defence@§a- §7Эффект: §f+21§c ✹ Защита
+§a- §7Effect: §f+8§c ✹ Defence@§a- §7Эффект: §f+8§c ✹ Защита
 §a- §7Effect: §f+1300 Health@§a- §7Эффект: §f+1300 Здоровья
 §a- §7Effect: §f+600 Health@§a- §7Эффект: §f+600 Здоровье
 §a- §7Effect: §f+280 Health@§a- §7Эффект: §f+280 Здоровье
@@ -1473,6 +1502,7 @@
 §a- §7Effect: §f+1880 Health@§a- §7Эффект: §f+1880 Здоровье
 §a- §7Effect: §f+3400 Health@§a- §7Эффект: §f+3400 Здоровье
 §a- §7Effect: §f+6000 Health@§a- §7Эффект: §f+6000 Здоровье
+§a- §7Effect: §f+21§2 ✤ Strength@§a- §7Эффект: §f+21§2 ✤ Сила
 §a- §7Effect: §f+71§2 ✤ Strength@§a- §7Эффект: §f+71§2 ✤ Сила
 §a- §7Effect: §f+40§2 ✤ Strength@§a- §7Эффект: §f+40§2 ✤ Сила
 §a- §7Effect: §f+57§2 ✤ Strength@§a- §7Эффект: §f+57§2 ✤ Сила
@@ -1505,14 +1535,17 @@
 §a- §7Effect: §f+47§e ✦ Dexterity@§a- §7Эффект: §f+47§e ✦ Точность
 §a- §7Effect: §f+14§e ✦ Dexterity@§a- §7Эффект: §f+14§e ✦ Точность
 §a- §7Effect: §f+71§e ✦ Dexterity@§a- §7Эффект: §f+71§e ✦ Точность
-§a- §7Effect: §f+34§b ❉ Intelligence@§a- §7Эффект: §f+34§b ❉ Интеллекта
-§a- §7Effect: §f+30§b ❉ Intelligence@§a- §7Эффект: §f+30§b ❉ Интеллекта
-§a- §7Effect: §f+27§b ❉ Intelligence@§a- §7Эффект: §f+27§b ❉ Интеллекта
+§a- §7Effect: §f+21§e ✦ Dexterity@§a- §7Эффект: §f+21§e ✦ Точность
+§a- §7Effect: §f+8§e ✦ Dexterity@§a- §7Эффект: §f+8§e ✦ Точность
+§a- §7Effect: §f+34§b ❉ Intelligence@§a- §7Эффект: §f+34§b ❉ Интеллект
+§a- §7Effect: §f+30§b ❉ Intelligence@§a- §7Эффект: §f+30§b ❉ Интеллект
+§a- §7Effect: §f+27§b ❉ Intelligence@§a- §7Эффект: §f+27§b ❉ Интеллект
 §a- §7Effect: §f+40§b ❉ Intelligence@§a- §7Эффект: §f+40§b ❉ Интеллект
 §a- §7Effect: §f+47§b ❉ Intelligence@§a- §7Эффект: §f+47§b ❉ Интеллект
 §a- §7Effect: §f+57§b ❉ Intelligence@§a- §7Эффект: §f+57§b ❉ Интеллект
 §a- §7Effect: §f+14§b ❉ Intelligence@§a- §7Эффект: §f+14§b ❉ Интеллект
 §a- §7Effect: §f+71§b ❉ Intelligence@§a- §7Эффект: §f+71§b ❉ Интеллект
+§a- §7Effect: §f+21§b ❉ Intelligence@§a- §7Эффект: §f+21§b ❉ Интеллект
 §a- §7Effect: §f+20% Spell Damage@§a- §7Эффект: §f+20% Урон Заклинаний
 §a- §7Effect: §f+14% Spell Damage@§a- §7Эффект: §f+14% Урон Заклинаний
 §a- §7Effect: §f+4% Spell Damage@§a- §7Эффект: §f+4% Урон Заклинаний
@@ -1529,6 +1562,8 @@
 §a- §7Effect: §f+57§f ❋ Agility@§a- §7Эффект: §f+57§f ❋ Ловкость
 §a- §7Effect: §f+14§f ❋ Agility@§a- §7Эффект: §f+14§f ❋ Ловкость
 §a- §7Effect: §f+71§f ❋ Agility@§a- §7Эффект: §f+71§f ❋ Ловкость
+§a- §7Effect: §f+21§f ❋ Agility@§a- §7Эффект: §f+21§f ❋ Ловкость
+§a- §7Effect: §f+8§f ❋ Agility@§a- §7Эффект: §f+8§f ❋ Ловкость
 §a- §7Effect: §f+16% Walk Speed@§a- §7Эффект: §f+16% Скорость
 §a- §7Effect: §f+6% Walk Speed@§a- §7Эффект: §f+6% Скорость
 §a- §7Effect: §f+10% Walk Speed@§a- §7Эффект: §f+10% Скорость
@@ -1579,6 +1614,8 @@
 §830 and boost your Melee@§830 и увеличит твой Ближний
 §847 and boost your Melee@§847 и увеличит твой Ближний
 §814 and boost your Melee@§814 и увеличит твой Ближний
+§821 and boost your Melee@§821 и увеличит твой Ближний 
+§821 and boost your Health@§821 и увеличит твое Здоровье
 §840 and boost your Health@§840 и увеличит твое Здоровье
 §834 and boost your Health@§834 и увеличит твое Здоровье
 §830 and boost your Health@§830 и увеличит твое Здоровье
@@ -1587,6 +1624,8 @@
 §857 and boost your Health@§857 и увеличит твое Здоровье
 §814 and boost your Health@§814 и увеличит твое Здоровье
 §871 and boost your Health@§871 и увеличит твое Здоровье
+§88 and boost your Health@§88 и увеличит твое Здоровье
+§821 and boost your Walk Speed@§821 и увеличит твою Скорость
 §830 and boost your Walk Speed@§830 и увеличит твою Скорость
 §827 and boost your Walk Speed@§827 и увеличит твою Скорость
 §840 and boost your Walk Speed@§840 и увеличит твою Скорость
@@ -1595,6 +1634,8 @@
 §857 and boost your Walk Speed@§857 и увеличит твою Скорость
 §814 and boost your Walk Speed@§814 и увеличит твою Скорость
 §871 and boost your Walk Speed@§871 и увеличит твою Скорость
+§88 and boost your Walk Speed@§88 и увеличит твою Скорость
+§8by 21 and boost your Spell@§8на 21 и увеличит твой Заклинаний 
 §8by 34 and boost your Spell@§8на 34 и увеличит твой Заклинаний
 §8by 27 and boost your Spell@§8на 27 и увеличит твой Заклинаний
 §8by 40 and boost your Spell@§8на 40 и увеличит твой Заклинаний
@@ -1641,6 +1682,7 @@
 §8by +22% for 240 seconds@§8на +22% в течение 240 секунд
 §8by +40% for 420 seconds@§8на +40% в течение 420 секунд
 §8by +50% for 480 seconds@§8на +50% в течение 480 секунд
+§8by +4 for 120 seconds@§8на +4 в течение 120 секунд
 §8by +6% for 60 seconds@§8на +6% в течение 60 секунд
 §8by +80 for 60 seconds@§8на +80 в течение 60 секунд
 §8boost your ✹ Defence by@§8увеличит твою ✹ Защиту на
@@ -1659,6 +1701,7 @@
 §8seconds.@§8секунд.
 §822 seconds.@§822 секунд.
 §818 seconds.@§818 секунд.
+§88 and boost your Melee Damage@§88 и увеличивает твой Ближний Урон
 
 #########################Интерфейсы#############################
 §7 - §fRefined Wheat String  @§7 - §fПереработанная Пшеничная Нить  
@@ -1926,11 +1969,16 @@
 §7Rank: §fNone@§7Ранг: §fОтсутствует
 §2Rank: §aVIP@§2Ранг: §aVIP
 §fCorkus  @§fКоркус
+§7Click here to unlock@§7Кликни здесь для разблокировки 
+§7the next tier@§7следующего уровня
+§7Click here to confirm@§7Кликни здесь для подтверждения
 §7By clicking, you sacrifice 5 @§7Кликнув, ты обменяешь 5
 §fCommon rewards§7  for 1@§fОбычных наград§7 на 1
 §dRare reward.@§dРедкую награду.
 §dRare rewards§7  for 1@§dРедких наград§7 на 1
 §6Epic reward.@§6Эпическую награду.
+§6Epic rewards§7  for 1@§6Эпических наград§7 на 1
+§cGodly reward.@§cБожественную награду.
 §7Place a mob totem at @§7Поставить моб тотем на
 §7your current location,@§7твою текущую позицию,
 §7increasing the spawn rate@§7увеличив скорость появления
@@ -2027,6 +2075,7 @@
 §aInfinite uses@§aБесконечное использование
 §7This token can be redeemed@§7Этот жетон может быть обменян
 §7for one wybel. Be careful,@§7на одного wybel'а. Осторожнее,
+§7for one cybel. Be careful,@§7на одного кубела. Будь осторожнее,
 §7this item can not be scrapped@§7этот предмет не может быть утилизирован
 §7after use@§7после использования
 §7Great if you want@§7Хороша, если ты 
@@ -2044,8 +2093,14 @@
 §7the Witch Brew effect@§7Эффект Зелья Ведьмы
 §7a dragon-like appearance@§7драконоподобный внешний вид
 §7as a banana sword@§7под банановый меч
+§4§8§k|||§4 Black Market §8§k|||§4 Reward@§4§8§k|||§4 Черный Маркет §8§k|||§4 Награда
+§7as a frosty masterpiece@§7как ледяной шедевр
 §7a fairy companion@§7волшебный компаньон
 §7around your character@§7вокруг персонажа
+§7an anti-bovemist appearance@§7внешний вид анти-бовемиста
+§7a king appearance@§7королевский внешний вид 
+§7a bovemist appearance@§7внешний вид бовемиста
+§7with a fiery flair@§7с огненным чутьем
 
 #########################продажа блексмиту##########################
 §e- §eUnidentified Spear@§e- §eНеидентифицированное Копье
@@ -2106,6 +2161,8 @@
 §7- §bUnidentified Wand@§7- §bНеидентифицированный Посох
 §e- §dUnidentified Wand@§e- §dНеидентифицированный Посох
 §7- §dUnidentified Wand@§7- §dНеидентифицированный Посох
+§e- §5Unidentified Wand@§e- §5Неидентифицированный Посох
+§7- §5Unidentified Wand@§7- §5Неидентифицированный Посох
 §e- §bUnidentified Bow@§e- §bНеидентифицированный Лук
 §7- §bUnidentified Bow@§7- §bНеидентифицированный Лук
 §e- §dUnidentified Bow@§e- §dНеидентифицированный Лук
@@ -2146,12 +2203,14 @@
 §7They seem to be stuck on 7:35.@§7Похоже они застряли на 7:35.
 §7They seem to be stuck on 9:45.@§7Похоже они застряли на 9:45.
 §7They seem to be stuck on 4:25.@§7Похоже они застряли на 4:25.
+§7They seem to be stuck on 12:00.@§7Похоже они застряли на 12:00
 §8[Item 2/3]@§8[Предмет 2/3]
 §8[Item 1/3]@§8[Предмет 1/3]
 §8[Item 3/3]@§8[Предмет 3/3]
 §7progress in the §fDecrepit Sewers@§7прогресса в §fВетхой Канализации
 §7progress in the §fInfested Pit@§7прогресса в §fЗараженной Яме
 §7progress in the §fIce Barrows@§7прогресса в §fЛедяном Кургане
+§7progress in the Ice Barrows@§7прогресса в Ледяном Кургане
 §7progress in the Ice Barrows @§7прогресса в Ледяном Кургане
 §7progress in the §fUndergrowth Ruins@§7прогресса в §fЗаросших Руинах
 §7progress in the §fSand-Swept Tomb@§7прогресса в §fПесчаной Гробнице
@@ -2236,3 +2295,13 @@
 §7This special bundle includes all@§7Это специальное издание содержит все 
 §7of Siegfried's diaries up to #43@§7дневники Зигфрида до номера 43
 §7§lＳＩＥＧＦＲＩＥＤ@ 
+§7hybrids, and a mysterious scientist. @§7гибриды, и загадочный ученый.
+§7hopes to find valuable new minerals. @§7надежды найти новые ценные минералы.
+§7to a world beyond imagination. @§7в мир за пределами воображения.
+§7Importing and exporting take place frequently @§7Импорт и экспорт происходят часто
+§7Collect §l16§4§7 of these to proceed@§7Собери §l16§4§7 таких для перехода 
+§7Collect §l16§7 of these to proceed@§7Собери §l16§7 таких для перехода 
+§7Collect §l1§7 of this token to@§7§7Собери §l1§7 такой для 
+§7finish the Combat Challenge.@§7завершения Комбат Челленджа.
+§7This key looks like it'd open the door@§7Этот ключ выглядит так, будто может открыть 
+§7in the library...@§7дверь в библиотеке...
