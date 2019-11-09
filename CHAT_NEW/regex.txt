@@ -37,7 +37,7 @@
 (.*) Experience Points@(r1) Очков опыта
 (.*) §7\+(.*) Emeralds@(r1) §7+(r2) Эмеральдов
 §7\+1 Maximum Soul Points §8\[Total: (\d+)\]@§7+1 к максимуму числа душ §8[Всего: (r1)]
-§(e|a)([a-zA-Z0-9_]{1,16}) left the game.@§a(r1) покинул игру.
+§(e|a)([a-zA-Z0-9_]{1,16}) left the game.@§(r1)(r2) покинул игру.
 §5([a-zA-Z0-9_]{1,16}) would like to trade! Type §6/trade ([a-zA-Z0-9_]{1,16})§5 to accept.@§5(r1) хотел бы поторговать с тобой! Напиши §6/trade (r2) §5для принятия.
 §4([a-zA-Z0-9_]{1,16}) has already claimed this loot chest!@§4(r1) уже забрал этот сундук с лутом!
 §4You still have (\d+) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
