@@ -537,13 +537,13 @@
 §f     Select §6§lDark Wizard@§f     Выбрать §6§lТемного Волшебника
 §f        Select §6§lNinja@§f        Выбрать §6§lНиндзя
 §7Accessory Slot@§7Слот для Аксессуара
-§lAttack Effect@§lЭффекты Атаки
-§lPlayer Effects@§lЭффекты Игрока
-§lPets@§lПитомцы
-§lGear Skins@§lОружейные Скины
-§lDisguises@§lМаскировки
-§lMob Totems@§lМоб Тотемы
-§lBomb@§lБомбы
+§7§lAttack Effect@§7§lЭффекты Атаки
+§7§lPlayer Effects@§7§lЭффекты Игрока
+§7§lPets@§7§lПитомцы
+§7§lGear Skins@§7§lОружейные Скины
+§7§lDisguises@§7§lМаскировки
+§7§lMob Totems@§7§lМоб Тотемы
+§7§lBomb@§7§lБомбы
 §4You have not unlocked this spell!@§4Ты не открыл это заклинание!
 §4You don't have enough mana to do that spell!@§4Недостаточно маны для этого заклинания!
 §aConfirm Identification@§aПодтвердить идентификацию
