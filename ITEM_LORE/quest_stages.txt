@@ -166,6 +166,7 @@ QUESTS/A_Sandy_Scandal.txt
 §7[922,79,-1927]@ 
 §7Find the source of the @§7Найди источник 
 §7detonation @§7взрыва 
+§7Inspect the safe @§7Посети сейф 
 §7Look for signs of the @§7Ищи следы того, 
 §7bandits' whereabouts @§7куда отправились бандиты 
 §7Quickly! Go to the house @§7Быстрее! Иди к дому 
@@ -431,6 +432,7 @@ QUESTS/Desperate_Metal.txt =====
 §7by looking at the pieces @§7идти, рассмотрев останки 
 §7of junk. @§7роботов 
 §7Search Nettik's lighthouse. @§7Обыщи маяк Неттик 
+§7Find the fourth mech. @§7Найди четвертого робота.
 §7Report back to Phinas after @§7Поговори с Финасом после 
 §7destroying the mech @§7уничтожения роботов 
  
@@ -458,6 +460,7 @@ QUESTS/Dwarves_and_Doguns_Part_I.txt =====
 §7mission. @§7на миссию
 §7Meet the group at @§7Встреться с группой на
 §7[1460,18,-5494]@ 
+§7Talk with the coalition. @§7Поговори с коалицией. 
 §7Head back to the coalition @§7Иди обратно к коалиции 
 §7through the tunnel at [1481,15,-5479]. @§7через тоннель на [1481,15,-5479].
 §7Retrieve the [Repair Kit] in @§7Принеси [Ремонтный Комплект] 
@@ -485,6 +488,7 @@ QUESTS/Dwarves_and_Doguns_Part_II.txt =====
 §7Follow Axelus deeper into Rodoroc @§7Следуй за Акселусом в Родорок 
 §7and destroy the power source @§7и уничтожь источник энергии 
 §7of the city. @§7города
+§7Explore the slums of Rodoroc. @§7Исследуй трущобы Родорока
 §7the sewer system. @§7в систему канализаций.
 §7Enter the Royal Palace through @§7Войди в королевский дворец 
 §7the sewer pipe and find @§7через канализацию и найди 
@@ -519,6 +523,8 @@ QUESTS/Dwarves_and_Doguns_Part_III.txt =====
 §7the enchanter's house. @§7в доме чародея.
 §7Travel to the frozen heights @§7Иди к замерзшим пещерам 
 §7and find the True Ice @§7и найди Чистый Лед 
+§7Travel through the Freezing Heights @§7Пройди через замерзшие пещеры 
+§7and find the True Ice. @§7и найди Чистый Лед 
 §7at [1590,107,-5445]. @§7на [1590,107,-5445].
 §7Return to the enchanter with @§7Вернись к чародею 
 §7the True Ice. @§7с Чистым Льдом
@@ -702,6 +708,9 @@ QUESTS/Fantastic_Voyage.txt
 §7boulder and enter the cave @§7и войди в пещеру 
 §7boulder at the center of @§7камень в центре
 §7the island @§7острова
+§7Enter the mysterious portal @§7Войди в загадочный портал
+§7Find an exit from the @§7Найди выход из 
+§7strange place @§7странного места
 §7Advance deeper into the cave @§7Продвигайся вглубь пещеры
 §7Accompany Relend through the strange @§7В компании с Релендом пройди 
 §7place @§7это странное место 
@@ -767,6 +776,8 @@ QUESTS/Finding_The_Light.txt =====
 §7Search the Gardener's cart for @§7Обыщи повозку Садовника 
 §7evidence of his lies at @§7и найди доказательства его лжи 
 §7[-376,50,-4937]@ 
+§7Threaten The Gardener with his @§7Угрожай Садовнику с его 
+§7receipt at @§7распиской на 
 §7Talk to Sasha the Apothacary @§7Поговори с Саша Аптекарем 
 §7and get the medicine at @§7и получи лекарства на
 §7Give the medicine to Damien @§7Отдай лекарства Дамиену 
@@ -1340,6 +1351,10 @@ QUESTS/Mixed_Feelings.txt
 §7Follow the trail of blood @§7Иди по следу крови, 
 §7close to the castle, [-5870, @§7рядом с замком [-5870, 
 §719, -2459] @ 
+§7Use the balloon to enter @§7Используй дирижабль чтобы войти в 
+§7the suspicious hideout. @§7подозрительное укрытие.
+§7Survive the fight against the @§7Выживи в битве против 
+§7drugged corkian @§7одурманенных коркианцов
  
 QUESTS/Murder_Mystery.txt =====
 §7Talk to Captain Lorias in @§7Поговори с Капитаном Лориасом 
@@ -1406,6 +1421,7 @@ QUESTS/Out_of_my_Mind.txt =====
 §7Find the hidden door next @§7Найди потайную дверь 
 §7to the Undergrowth Ruins outside @§7рядом с Заросшие Руины данжем 
 §7Troms @§7снаружи Тромса 
+§7Find a way inside the @§7Найди путь внутрь 
 §7Explore the hidden lab in @§7Исследуй тайную лабораторию 
 §7search of information @§7и найди информацию 
 §7Build a machine to hit @§7Построй машину, чтобы 
@@ -1493,10 +1509,22 @@ QUESTS/Purple_and_Blue.txt
 QUESTS/Recipe_for_Disaster.txt 
 §7Meet up with Chef Hamsey @§7Встреться с Шефом Хемзи 
 §7[949,129,-4475]@ 
+§7Find Chef Hamsey in his @§7Найди Шефа Хемзи на его 
+§7kitchen @§7кухне
+§7Speak to Brie for her @§7Поговори с Бри для ее 
+§7to introduce herself @§7представления себя
+§7Speak to Frank for him @§7Поговори с Френком для его
+§7Speak to Kale for him @§7Поговори с Кейлом для его
+§7to introduce himself@§7представления себя
 §7Choose the chef you want @§7Выбери того шефа, с кем 
 §7to work with @§7ты будешь работать
 §7Present the ingredients to your @§7Отдай найденные ингредиенты 
 §7chosen chef @§7выбранному шефу
+§7Along with chef Brie,@§7Вместе с шефом Бри, 
+§7you have created a peculiar dish@§7ты создал своеобразное блюдо 
+§7with even more peculiar ingredients!@§7с еще более своеобразными ингредиентами!
+§7Present your dish to Chef @§7Покажи свое блюдо Шефу 
+§7Hamsey @§7Хемзи
 
 QUESTS/Reclaiming_the_House.txt 
 §7Talk to Ahmas at @§7Поговори с Ахмасом на 
@@ -1569,9 +1597,30 @@ QUESTS/Rise_of_the_Quartron.txt =====
 §7Report back to Nasea about @§7Сообщи Насеа 
 §7the whole incident @§7об этом инциденте 
  
-QUESTS/Royal_Trials.txt 
+QUESTS/Royal_Trials.txt =====
 §7Talk to the Skyraider Guard @§7Поговори со Скайрайдер Стражем 
 §7[1476,84,-4336]@ 
+§7Talk to the Hrona at @§7Поговори с Хроной на 
+§7Buy a Female Pirate Wig @§7Купи Женский Парик Пирата
+§7at Ahmsord then enter the @§7в Амсорде и затем войди в 
+§7basement in which the trials @§7подвал, в котором проходят 
+§7are being held at @§7испытания
+§7Defeat the armory room of @§7Победи в оружейной комнате в 
+§7the combat challenge @§7комбат челлендже
+§7to the next room.@§7в следующую комнату.
+§7Defeat the brig room of @§7Победи в бриг комнате в
+§7Defeat the cockpit room of @§7Победи в комнате кубрика в 
+§7Listen to the trials overseer's @§7Послушай смотрительницы испытаний 
+§7speech @§7речь 
+§7Defeat the challenge of flight @§7Победи в челлендже полета
+§7Sneak past the guards @§7Пройди мимо охранников
+§7Steal the treasure @§7Укради сокровище
+§7Get the treasure to the @§7Доставь сокровище до 
+§7trials overseer outside of the @§7смотрительницы испытаний снаружи 
+§7mansion's window @§7окна поместья
+§7Exit through the mansion's window @§7Выйди через окно поместья
+§7Talk to the trials overseer @§7Поговори со смотрительницей испытаний
+
  
 QUESTS/Sewers_of_Ragni.txt =====
 §7The lieutenant at @§7Лейтенанту на 
@@ -1734,6 +1783,8 @@ QUESTS/The_Belly_of_the_Beast.txt
 §7Feed the Enchanted Flower to @§7Скорми Зачарованный 
 §7Ozoth at @§7Цветок Озот на 
 §7[175,199,-5188]@ 
+§7Bring the Enchanted Flower to @§7Принеси Зачарованный Цветок в
+§7Ozoth's stomach @§7желудок Озот
 §7Escape from the inside of @§7Выберись изнутри 
 §7Ozoth @§7Озот
 §7Return to King Burtan to @§7Вернись к Королю Буртану 
@@ -1750,13 +1801,18 @@ QUESTS/The_Bigger_Picture.txt
 §7Oh no, you've shrunk again! @§7О нет, ты уменьшился снова! 
 §7What now? @§7Что теперь?
 §7Get to the blue mushroom @§7Найди синий гриб 
-§7and return to normal size.@§7и вернись к обычному размеру.
+§7and return to normal size. @§7и вернись к обычному размеру.
+§7Give Psilo the good news @§7Расскажи Псило хорошие новости 
+§7about the mice. @§7о мышах
  
-QUESTS/The_Canary_Calls.txt 
+QUESTS/The_Canary_Calls.txt =====
 §7Speak to Grenot outside the @§7Поговори с Гренотом 
 §7Thesead coal mine at @§7снаружи угольной шахты Тесеада 
 §7[676,78,-5020]@ 
 §7Enter the coal mine @§7Войди в угольную шахту 
+§7Progress through the coal mine @§7Продвигайся вперед по шахте
+§7Escape the coal mine! @§7Сбеги из шахты!
+§7Return to Grenot @§7Вернись к Греноту
  
 QUESTS/The_Canyon_Guides.txt 
 §7Speak to Gana at @§7Поговори с Ганой на 
@@ -1817,6 +1873,7 @@ QUESTS/The_Envoy_Part_I.txt =====
 §7Talk to the Corkus delegate. @§7Поговори с Делегатом Коркуса 
 §7Find the Five Gears Diner @§7Найди столовую 'Пять Шестеренок' 
 §7[-1856,40,-3139]@ 
+§7Speak with Maxie. @§7Поговори с Макси.
 §7Find your way out of @§7Найди способ выбраться 
 §7the vent. @§7из вентиляции 
 §7Stop the mechs from taking @§7Останови роботов от 
@@ -1850,15 +1907,19 @@ QUESTS/The_Envoy_Part_II.txt =====
 §7and give him the key. @§7и отдай ему ключ.
 §7Find Maxie outside the Factory @§7Найди Макси снаружи фабрики 
 §7at [-1707,75,-2610]. @§7на [-1707,75,-2610].
+
  
-QUESTS/The_Fortuneteller.txt 
+QUESTS/The_Fortuneteller.txt =====
 §7Talk to Jill in Kandon-Beda @§7Поговори с Джилл в Кандон-Бэда на 
 §7[746,150,-4468]@ 
-§7Search the Castle near Kandon-Beda@§7Обыщи замок рядом с Кандон-Бэда 
-§7for a treasure map at@§7и найди карту сокровищ на
+§7Search the Castle near Kandon-Beda @§7Обыщи замок рядом с Кандон-Бэда 
+§7for a treasure map at @§7и найди карту сокровищ на
 §7[901,96,-4406]@ 
-§7Return to Jill in Kandon-Beda@Вернись к Джилл в Кандон-Бэда 
-§7with the treasure@вместе с сокровищем
+§7Return to Jill in Kandon-Beda @Вернись к Джилл в Кандон-Бэда 
+§7with the treasure @вместе с сокровищем
+§7Solve the treasure mystery @§7Раскрой загадку сокровища
+§7Climb the beanstalk @§7Заберись на бобовый стебель
+§7Speak to the Ancient Dragon @§7Поговори с Древним Драконом
  
 QUESTS/The_Headless_Hunt.txt =====
 §7Talk to Referick in the @§7Поговори с Рефериком 
@@ -1890,6 +1951,8 @@ QUESTS/The_Hidden_City.txt
 §7Head to @§7Отправляйся на 
 §7[890,47,-5388]@ 
 §7to find the human town @§7и найди город людей 
+§7Lead the Curious Villager back @§7Отведи любопытного жителя обратно 
+§7to his camp @§7в его лагерь
 §7Talk to Eltom Guard @Поговори с Элтом Стражем 
 §7Talk to Mayor Eoric in @§7Поговори с Мэром Эориком 
 §7the town hall at @§7в ратуше на 
@@ -1904,6 +1967,7 @@ QUESTS/The_Hidden_City.txt
 §7table @§7на столе 
 §7Head to Eltom's Airbase at @§7Отправся на авиабазу Элтома 
 §7[968,152,-5463]@ 
+§7Talk to Hilan @§7Поговори с Хиланом
 §7Head up the Airbase's Tower @§7Поднимись на башню авиабазы 
 §7to confront the hooded man @§7и сразись с человеком в капюшоне 
 §7Board the Eltom Cargo Ship @§7Зайди на борт торгового корабля Элтома 
@@ -1940,6 +2004,12 @@ QUESTS/The_Hunger_of_Gerts_Part_I.txt
 §7to the Gerten Captain @§7к Капитану Гертов
 §7Inspect the tunnel at @§7Исследуй тоннель на 
 §7[27,31,-5336]@ 
+§7Go through the narrow tunnel @§7Пройди через узкий тоннель 
+§7at the back of the @§7что позади 
+§7cell @§7клетки
+§7Kill the Hungry Gert and @§7Убей голодного Герта и 
+§7return to Comor with the @§7вернись к Комору с 
+§7Leave the Secret Gerten Cave @§7Покинь Секретную Герт Пещеру
 §7Escape your cell @§7Сбеги из клетки
 §7Escape the Gerten prison @§7Сбеги из тюрьмы Гертов
 §7Head to the cell at @§7Подойди к клетке на 
@@ -1954,6 +2024,8 @@ QUESTS/The_Hunger_of_Gerts_Part_II.txt
 §7[-141,82,-5607]@ 
 §7Head to Jitaks house at @§7Отправляйся к дому Житака на 
 §7[-169,32,-5470]@ 
+§7Find another way into Jitaks @§7Найди другой путь в Житака 
+§7house by looking around @§7дом, посмотрев вокруг
 §7Talk to Gerten Excavator at @§7Поговори с Герт Раскопщиком на 
 §7[-181,22,-5472]@ 
 §7Enter Jitaks basement using the @§7Войди в подвал дома Житака 
@@ -2055,6 +2127,7 @@ QUESTS/The_Qira_Hive_(Quest).txt =====
 §7Collect 5 Air Catalyst IX @§7Собери 5 Катализатор Воздуха IX 
 §7Defeat the Spirit of Gale @§7Победи Spirit of Gale 
 §7and collect 1 Air Catalyst @§7и собери 1 Катализатор Воздуха 
+§7X @ 
 §7Air Division @§7Дивизии Воздуха
 §7Prepare to enter the Earth @§7Подготовься к прохождению Земли 
 §7Collect 5 Earth Catalyst I @§7Собери 5 Катализатор Земли I
@@ -2211,7 +2284,7 @@ QUESTS/The_Worm_Holes.txt =====
 §7[-2044,50,-5529]@ 
 §7Return to Malo @§7Вернись к Мало
  
-QUESTS/Tower_of_Ascension.txt 
+QUESTS/Tower_of_Ascension.txt =====
 §7Talk to Ankou at @§7Поговори с Анкоу на 
 §7[-350,14,-389]@ 
 §7Begin the First Floor @§7Начни Первый этаж 
@@ -2226,6 +2299,7 @@ QUESTS/Tower_of_Ascension.txt
 §7Begin the Fifth Floor @§7Начни Пятый этаж 
 §7Begin the Sixth Floor @§7Начни Шестой этаж
 §7Begin the Seventh Floor @§7Начни Седьмой этаж 
+§7Talk to Ankou @§7Поговори с Анкоу
  
 QUESTS/Tribal_Aggression.txt ===== 
 §7Talk to Caras at [1077, @§7Поговори с Карасом на [1077, 
@@ -2543,3 +2617,6 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7in the cave @§7в пещере
 §7Explore the house to find @§7Исследуй дом чтобы найти 
 §7a way out @§7выход 
+§7Inspect the cave above at @§7Посети пещеру выше на 
+§7clue missing. @§7пропавшие подсказки
+§7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
