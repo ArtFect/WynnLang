@@ -1,6 +1,6 @@
 §7[1/3] §2Wirt: §aNot so fast, you!@§7[1/3] §2Wirt: §aНе так быстро, ты!
 §7[2/3] §2Wirt: §aMy dad said I can't let any strangers through this passage!@§7[2/3] §2Wirt: §aМой отец сказал не пускать посторонних в этот проход!
-§7[3/3] §2Wirt: §aIf you want access, talk to him, he's the recruiter of the town! His name is Ildan. He's just southwest of here.@§7[3/3] §2Wirt: §aЕсли хочешь пройти, поговори с ним, он наниматель в этом городе! Его зовут Ildan. Он находится к юго-западу отсюда.
+§7[3/3] §2Wirt: §aIf you want access, talk to him, he's the recruiter of the town! His name is Ildan. He's just southwest of here.@§7[3/3] §2Wirt: §aЕсли хочешь пройти, поговори с ним, он наниматель в этом городе! Его зовут Илдан. Он находится к юго-западу отсюда.
 §7[1/10] §2Ildan: §aOh! So you want to become a member of this town?@§7[1/10] §2Ildan: §aОх! Значит ты хочешь стать жителем города?
 §7[2/10] §2Ildan: §aYou will have to help us first, of course!@§7[2/10] §2Ildan: §aТы должен помочь нам, для начала!
 §7[3/10] §2Ildan: §aI'm sure you've noticed, but there is a tribe camp not far from here.@§7[3/10] §2Ildan: §aДумаю ты заметил, что недалеко от нас есть лагерь одного племени.
@@ -16,7 +16,7 @@
 §7[3/8] §2Ildan: §aOh, but before you go! I do have a few things to say. First, about the beads here.@§7[3/8] §2Ildan: §aАх да, прежде чем уйдешь, мне нужно сказать тебе кое-что. Во-первых, по поводу бус.
 §7[4/8] §2Ildan: §aThe tribesmen accept these as currency, so if you collect enough, I've heard they can offer you powerful masks.@§7[4/8] §2Ildan: §aТе жители племени принимают их как оплату, и если соберешь достаточно много, то за них можно купить неплохую маску.
 §7[5/8] §2Ildan: §aSecond, about the shrine. Now, this is just a rumor, but apparently that tomb is not unique.@§7[5/8] §2Ildan: §aВо-вторых, по поводу алтаря. По слухам, это не единственный такой алтарь в провинции.
-§7[6/8] §2Ildan: §aThere are supposed to be a bunch of these altars scattered around the province, even in Gavel too!@§7[6/8] §2Ildan: §aГоворят, что их много раскидано по всей провинции, и в провинции Gavel тоже!
+§7[6/8] §2Ildan: §aThere are supposed to be a bunch of these altars scattered around the province, even in Gavel too!@§7[6/8] §2Ildan: §aГоворят, что их много раскидано по всей провинции, и в провинции Гавел тоже!
 §7[7/8] §2Ildan: §aIf true, you should look for them. While the fights will be tough, I would imagine great rewards could be gotten from them!@§7[7/8] §2Ildan: §aЕсли это правда, то ты должен проверить это. Если они действительно настолько сложные, то страшно представить, какие могущественные награды за них тебя ждут!
 §7[8/8] §2Ildan: §aAnyway, I've talked enough. I'm proud to have such a powerful fighter join our town! I wish you luck, friend!@§7[8/8] §2Ildan: §aХотя, довольно болтовни. Я рад видеть такого грозного воина в нашем городе. Желаю тебе удачи, друг!
 
@@ -24,5 +24,5 @@
 §7[1/1] §2Wirt: §aYou can't enter this passage! You are way too weak to be a member of this town. Come back when you will be level 57.@§7[1/1] §2Wirt: §aТы не можешь войти в этот проход! Ты слишком слаб, чтобы быть жителем этого города. Вернись, когда будешь 57-го уровня.
 §7[1/1] §2Ildan: §aWhat a great day we are having!@§7[1/1] §2Ildan: §aКакой у нас замечательный день!
 §7[1/1] §2Wirt: §aWell... I'm glad it worked out for you.@§7[1/1] §2Wirt: §aЧто ж... Я рад, что у тебя все получилось.
-§7[1/1] §2Passage Guard: §aOnly citizen of Troms can enter the passage! §7[Quest Req: The Passage]@§7[1/1] §2Passage Guard: §aOnly citizen of Troms can enter the passage! §7[Quest Req: §aТолько жители Troms'a могут войти в проход §7[Пройти квест: The Passage]
+§7[1/1] §2Passage Guard: §aOnly citizen of Troms can enter the passage! §7[Quest Req: The Passage]@§7[1/1] §2Passage Guard: §aТолько жители Тромсa могут войти в проход §7[Пройти квест: The Passage]
 §7[1/1] §2Ildan: §aGlad to see you, citizen!@§7[1/1] §2Ildan: §aРад видеть тебя, горожанин!
