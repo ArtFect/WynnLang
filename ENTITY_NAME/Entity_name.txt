@@ -1260,10 +1260,10 @@ Gert@Герт
 §4§lInfested Pit@§4§lЗараженная Яма
 §7Level: §f18@§7Уровень: §f18
 §c§lEXIT@§c§lВЫХОД
-Welcome to §a§lWynncraft@Добро пожаловать на §a§lWynncraft
+§7Welcome to §a§lWynncraft@§7Добро пожаловать на §a§lWynncraft
 §6The Minecraft MMORPG@§6Майнкрафт ММОРПГ
 §7Start your journey from humble beginnings@§7Начни свое приключение с простого начала
-§7in the Wynn province and explore one of the@§7в провинции Wynn и исследуй одну из самых
+§7in the Wynn province and explore one of the@§7в провинции Винн и исследуй одну из самых
 §7biggest and most detailed custom maps in Minecraft.@§7больших и детализированных кастомных карт в Майнкрафте
 §fType §b/trade (name)@§fНапиши §b/trade (ник)
 §7To safely trade items@§7Для безопасной торговли предметами
@@ -1298,7 +1298,7 @@ Welcome to §a§lWynncraft@Добро пожаловать на §a§lWynncraft
 §eSupport Wynncraft@§eПоддержи Wynncraft
 §4§l[§c§lAdministrator§4§l]@§4§l[§c§lАдминистратор§4§l]
 §7Admins generally work on the game's@§7Админы обычно работают над игровыми 
-§7inside, such as development, game@внутренностями, такими как разработка, игровой
+§7inside, such as development, game@§7внутренностями, такими как разработка, игровой
 §7design, story, management & more!@§7дизайн, история, менеджмент и многое другое!
 §e§l[§6§lModerator§e§l]@§e§l[§6§lМодератор§e§l]
 §7Mods are selected players who@§7Модераторы - выбранные игроки, которые
@@ -1312,14 +1312,14 @@ Welcome to §a§lWynncraft@Добро пожаловать на §a§lWynncraft
 §bJoin the Content Team today!@§bПрисоединяйся к Контент Тиме сегодня!
 §3§l[§b§lContent Team§3§l]@§3§l[§b§lКонтент Тим§3§l]
 §7The CT are everyday players who@§7КТ - повседневные игроки, которые
-§7joined the team in order to create...@§7присоединяйся к команде для создания...
-quests§7, builds§7, items§7. CMBs§7,@квестов§7, построек§7, предметов§7. Ком.Блоков§7,
-mobs§7, cinematics §7& much more!@мобов§7, кат-сцен §7и многого другого!
+§7joined the team in order to create...@§7присоединяются к команде для создания...
+§7quests§7, builds§7, items§7. CMBs§7,@§7квестов§7, построек§7, предметов§7. Ком.Блоков§7,
+§7mobs§7, cinematics §7& much more!@§7мобов§7, кат-сцен §7и многого другого!
 §bSupport Wynncraft@§bПоддержи Wynncraft
 §7Chat Colour@§7Цвет в Чате
 §7Chat Tag@§7Чат Тэг
 §7Daily Mob Totem@§7Ежедневный Моб Тотем
-§7Lobby Flight + No Inv.@§7Полет в Лобби + Не Невид.
+§7Lobby Flight + No Inv.@§7Полет в Лобби + Не Невидимка
 §7Rename Pets/Horses@§7Переименование Питомцев/Лошадей
 §7Notify When Login@§7Уведомление При Заходе
 §7Secret VIP Forum@§7Секретный VIP Форум
