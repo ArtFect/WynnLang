@@ -1,29 +1,28 @@
 §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException@§cНе можем подключиться к резервному серверу, попробуй позже
 §7Owner: @§7Владелец: 
-§e§nClick here to claim them!@
+§e§nClick here to claim them!@§e§nКликни здесь, чтобы получить их!
 §4You must pass the challenge before you leave the Xìngzhì cave!@§4Ты должен пройти челлендж, прежде чем покинуть Xìngzhì пещеру!
-§7The sheep raises its head to look at you, its eyes flare at the sight of the green tea.@
-§7You gesture the tea generously towards the sheep, and place it on the ground for it to drink. The sheep nods respectively to you.@
-§7[1/3] §2Thesead Citizen: §aWhoa! What the heck happened? An airship just fell out of the sky while I was out of town for a few hours!
-§7[2/3] §2Thesead Citizen: §aI ought to write a letter to Air Gavel complaining about this.
-§7[3/3] §2Thesead Citizen: §aThat could have destroyed my house, and then I could've suffered a fate worse than death: being poor!
-§7The inscription on the gravestone reads §7§o"Here lies our great founder, Tisaun Sodeta. May he guide us through the endless fight."
-§7An unsettlingly powerful energy seems to blanket the area. There is potential here §7for...something§7. But not yet...
-§7[1/2] §2Daxand: §aThe bar across the river has always held my suspicions, however the endeavours of others minds should not trouble your own.
-§7[2/2] §2Daxand: §aAlthough, it can be rewarding to settle the curiosity, lest it spread across one's mind.
-§7[10/13] §2Batelu: §aBut I can. I know how to open the passage to Bob. This is where the animals will come in useful...
-§7[1/2] §2Skull: §aOoh.. oh... another victim... Welcome... there is no need for quick introduction... ... you will have time enough now...
-§7[2/2] §2Skull: §aAfter all... you just fell into a grave... but, let us make it a little comfortable... where shall I bite first?!
-§7[1/1] §2Skull: §aWelcome... to this grave... ... this... §a§l§oHAUNTED§a... grave... Is there an §a§l§oEXIT§a? ... Well... there is §a§l§oONE§a!!! §4§l§oDeAtH§a!!!
-§6Corrupted Wand
-§7Disguise your wand with a corrupted flair
-§6Bovemist Effect
-§7Give your character a bovemist appearance
-§7[1/2] §2Garull: §aIf you see Kelight again, tell him "I told you so" about the Creepers!
-§7[2/2] §2Garull: §aOh, and don't forget that the exit is right outside my house if you need to leave.
-§7[1/1] §2Sergeant: §aWell, I finally finished cleaning out this aqueduct. Although, I guess I never really had to do this, since a shape-shifter gave me the order.
-§4There seems to be someone inside, it's probably best not to disturb them.
-§7[1/1] §2Ranol: §aDang cow snagger! I'll get ya one day! Oi, you! Help me? No? A'ight, come back when yer Level 86!
+§7The sheep raises its head to look at you, its eyes flare at the sight of the green tea.@§7Овца поднимает голову чтобы посмотреть на тебя, ее глаза направлены на кружку чая.
+§7You gesture the tea generously towards the sheep, and place it on the ground for it to drink. The sheep nods respectively to you.@§7Ты подносишь чай к овце и аккуратно ставишь его на землю, чтобы выпить. Овца поклоняется, чтобы отблагодарить тебя.
+§7[1/3] §2Thesead Citizen: §aWhoa! What the heck happened? An airship just fell out of the sky while I was out of town for a few hours!@§7[1/3] §2Thesead Citizen: §aУх ты! Какого черта вообще произошло? Дирижабль просто упал с неба, пока меня не было в городе несколько часов!
+§7[2/3] §2Thesead Citizen: §aI ought to write a letter to Air Gavel complaining about this.@§7[2/3] §2Thesead Citizen: §aЯ должен написать письмо в Воздух Гавела с жалобой на это.
+§7[3/3] §2Thesead Citizen: §aThat could have destroyed my house, and then I could've suffered a fate worse than death: being poor!@§7[3/3] §2Thesead Citizen: §aОн мог разрушить мой дом, и тогда меня бы постигла участь похуже, чем смерть: стал бы бедным!
+§7The inscription on the gravestone reads §7§o"Here lies our great founder, Tisaun Sodeta. May he guide us through the endless fight."@§7Надпись на надгробии гласит "Здесь лежит наш великий основатель, Тисаун Содета. Пусть он проведет нас через бесконечную битву."
+§7An unsettlingly powerful energy seems to blanket the area. There is potential here §7for...something§7. But not yet...@§7Похоже, что мощная тревожная энергия покрывает эту область. Здесь есть потенциал для... чего-то. Но еще слишком рано...
+§7[1/2] §2Daxand: §aThe bar across the river has always held my suspicions, however the endeavours of others minds should not trouble your own.@§7[1/2] §2Daxand: §aБар за рекой всегда вызывал у меня подозрения, однако чужие мысли не должны тревожить твои собственные.
+§7[2/2] §2Daxand: §aAlthough, it can be rewarding to settle the curiosity, lest it spread across one's mind.@§7[2/2] §2Daxand: §aХотя, это может быть полезно, чтобы успокоить любопытство, чтобы оно не распространилось на ум.
+§7[1/2] §2Skull: §aOoh.. oh... another victim... Welcome... there is no need for quick introduction... ... you will have time enough now...@§7[1/2] §2Skull: §aОох.. ох... еще одна жертва... Добро пожаловать... нет необходимости в быстром представлении... ... теперь у тебя будет достаточно времени...
+§7[2/2] §2Skull: §aAfter all... you just fell into a grave... but, let us make it a little comfortable... where shall I bite first?!@§7[2/2] §2Skull: §aВ конце концов... ты просто свалился в могилу... но давайте сделаем это немного удобнее... где мне укусить тебя в первую очередь?!
+§7[1/1] §2Skull: §aWelcome... to this grave... ... this... §a§l§oHAUNTED§a... grave... Is there an §a§l§oEXIT§a? ... Well... there is §a§l§oONE§a!!! §4§l§oDeAtH§a!!!@§7[1/1] §2Skull: §aДобро пожаловать... в эту могилу... ... эту... §a§l§oОДЕРЖИМУЮ§a... могилу... Есть ли здесь §a§l§oВЫХОД§a? ... Что ж... есть §a§l§oОДИН§a!!! §4§l§oЧеРеЗ СмЕрТь§a!!!
+§6Corrupted Wand@§6Испорченный Посох
+§7Disguise your wand with a corrupted flair@§7Маскирует твой посох под стиль порчи
+§6Bovemist Effect@§6Эффект Бовемиста
+§7Give your character a bovemist appearance@§7Дает твоему персонажу внешний вид бовемиста
+§7[1/2] §2Garull: §aIf you see Kelight again, tell him "I told you so" about the Creepers!@§7[1/2] §2Garull: §aЕсли увидишь Келайгта снова, скажи ему "я говорил тебе" насчет Криперов!
+§7[2/2] §2Garull: §aOh, and don't forget that the exit is right outside my house if you need to leave.@§7[2/2] §2Garull: §aОх, и не забудь, что выход справа от моего дома, если тебе нужно будет уйти.
+§7[1/1] §2Sergeant: §aWell, I finally finished cleaning out this aqueduct. Although, I guess I never really had to do this, since a shape-shifter gave me the order.@§7[1/1] §2Sergeant: §aЧто ж, я наконец-то закончил чистить эту канализацию. Хотя думаю, мне бы никогда не пришлсь этого делать, так как оборотень дал мне приказ.
+§4There seems to be someone inside, it's probably best not to disturb them.@§4Кажется, внутри кто-то есть, и лучше их не беспокоить.
+§7[1/1] §2Ranol: §aDang cow snagger! I'll get ya one day! Oi, you! Help me? No? A'ight, come back when yer Level 86!@§7[1/1] §2Ranol: §aЧертов коровий вор! Я достану тебя однажды! Эй, ты! Хочешь помочь? Нет? Хорошо, возвращайся на 86 уровне!
 §7[1/5] §2Hive Servant: §aWhat? Hey, why aren't you in uniform, are you that new girl? No, can't be, your nose is too tiny. A challenger, maybe?
 §7[2/5] §2Hive Servant: §aOr has "Her Mistress-ship, high and mighty" started dragging in humans of all things to be her pack mules? Don't know why else you'd be here.
 §7[3/5] §2Hive Servant: §aBetter get used to this, small-nose. This is your life now. Find someone who'll loan you a uniform 'til you get your own.
