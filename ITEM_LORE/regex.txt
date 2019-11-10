@@ -81,8 +81,8 @@
 §d- §7Health Regen: §f(.*)@§d- §7Реген Здоровья: §f(r1)
 §d- §7Mana Regen: §f(.*)@§d- §7Мана Реген: §f(r1)
 §d- §7Melee Damage: §f(.*)@§d- §7Ближний Урон: §f(r1)
-§d- §7Life Steal: §f(.*)/4s@§d- §7Вампиризм: §f(r1)4с
-§d- §7Poison: §f(.*)/3s@§d- §7Яд: §f(r1)/3с
+§d- §7Life Steal: §f(.*)\/4s@§d- §7Вампиризм: §f(r1)4с
+§d- §7Poison: §f(.*)\/3s@§d- §7Яд: §f(r1)/3с
 §d- §7XP Bonus: §f(.*)@§d- §7XP Бонус: §f(r1)
 §d- §7Loot Bonus: §f(.*)@§d- §7Лут Бонус: §f(r1)
 §d- §7Reflection: §f(.*)@§d- §7Отражение: §f(r1)
