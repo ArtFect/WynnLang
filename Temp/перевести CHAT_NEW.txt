@@ -98,31 +98,31 @@
 §7[You will now be teleported out of the server]@§7[Ты был телепортирован с сервера]
 §4Your guild is already in a battle!@§4Твоя гильдия уже находится в битве!
 §7[1/1] §2Gana: §aPlease help Seluc. To find the cave he is in, just follow the main path northwards to the edge of the canyon.@§7[1/1] §2Gana: §aПожалуйста, помоги Селуку. Чтобы найти пещеру, в которой он находится, просто следуй по главной тропе на север к краю каньона.
-§7[1/1] §2Taproot: §aThat is the enemy we face. Darkness itself. Now, let me show you. Let me take you back...
-§7[1/1] §2Chef Hamsey: §aI simply cannot hold my excitement.. Bring me the dish maintenant!
-§7[1/8] §2Brie: §aHeya again! So you decided to make the Zork Stew with me? Hurray!
-§7[2/8] §2Brie: §aDo note that it's not an easy a task as it might seem.
-§7[3/8] §2Brie: §aLet me explain what I said before about proving myself to the others. I'm the newest chef here at the kitchen and some of the other chefs disapprove of my ideas. This could be my chance!
-§7[4/8] §2Brie: §aI've been perfecting the recipe for my Zork Stew for months now and I finally have a chance to show everyone what I'm worth! Watch out though, the ingredients are quite bizarre.
-§7[5/8] §2Brie: §aThe first one is some §3[Snail Slime]§a, available on Snail Island! We only need one for this dish.
-§7After looking at your map, you conclude that you need to go to [1003,139,-4853] to obtain §3[Snail Slime]§7.
-§7[6/8] §2Brie: §aNext up, we need some §3[Voidroot]§a, a super rare root found deep in the Void. I've heard someone in the Sky Islands can take you down there!
-§7After looking at your map, you conclude that you need to go to [965,42,-4443] to obtain the §3[Voidroot]§7.
-§7[7/8] §2Brie: §aLastly, we need some Double Jerky, but to make it we need two ingredients. Both can be found in a tower owned by the self-proclaimed "Space Wizard" Astralaus.
-§7[8/8] §2Brie: §aWe need both §3[Zork Rinds]§a and §3[Quicksalt]§a, both of which should be found inside the tower! I'll be cheering you on from here!
-§7After looking at your map, you conclude that you need to go to [1217,126,-4929] to obtain §3[Zork Rinds] §7and §3[Quicksalt]§a.
-§7[1/1] §2Troms Guard: §aJust run! Get out of the city as fast as you can, and be prepared for a fight!
-§7[1/1] §2Amadel's Assistant: §aOh hey, it's you!
-§3You cannot recruit an army while this territory is in a war!
-§7There seems to be nothing over here, best to turn back.
-§4Please join a server that isn't going to restart soon.
-§4An intense magical force throws you back. Maybe Harker has an idea of how to deal with this situation.
-§7[1/1] §2Naragath: §a§lMy servants! It would appear we have fresh blood among us! Spill it at my feet, for my glory!
-§b - §7VIP+ Rank
-§7Please type a song name in chat!
-§4You can only have 1 mob totem active at once...
-§3You do not have enough money to pay for that!
-§7[1/1] §2Ollie: §aThe mystical eye sees beyond this realm. One should be careful with knowledge of the beyond.
+§7[1/1] §2Taproot: §aThat is the enemy we face. Darkness itself. Now, let me show you. Let me take you back...@§7[1/1] §2Taproot: §aЭто враг, с которым мы сталкиваемся. Сама тьма. А теперь давай я тебе покажу. Перемещу тебя обратно...
+§7[1/1] §2Chef Hamsey: §aI simply cannot hold my excitement.. Bring me the dish maintenant!@§7[1/1] §2Chef Hamsey: §aЯ просто не могу дерзать моево волнения.. Принести мне свои блюдо сийчас!
+§7[1/8] §2Brie: §aHeya again! So you decided to make the Zork Stew with me? Hurray!@§7[1/8] §2Brie: §aСнова привет! Ты решил приготовить Зорк рагу вместе со мной? Ураа!
+§7[2/8] §2Brie: §aDo note that it's not an easy a task as it might seem.@§7[2/8] §2Brie: §aНа самом деле это будет труднее, чем оно звучит.
+§7[3/8] §2Brie: §aLet me explain what I said before about proving myself to the others. I'm the newest chef here at the kitchen and some of the other chefs disapprove of my ideas. This could be my chance!@§7[3/8] §2Brie: §aДавай я объясню, что я имела в виду. Я новенькая на этой кухне, поэтому остальные шефы пока что не воспринимают меня всерьез. Так что это будет мой шанс!
+§7[4/8] §2Brie: §aI've been perfecting the recipe for my Zork Stew for months now and I finally have a chance to show everyone what I'm worth! Watch out though, the ingredients are quite bizarre.@§7[4/8] §2Brie: §aЯ дорабатывала свой рецепт Зорк рагу много месяцев, и теперь у меня есть шанс доказать всем, что я чего-то стою! Не удивляйся, но ингредиенты немного странные.
+§7[5/8] §2Brie: §aThe first one is some §3[Snail Slime]§a, available on Snail Island! We only need one for this dish.@§7[5/8] §2Brie: §aПервый это §3[Слизь Змеи]§a, добыть которую можно на Змеином Острове! Для блюда нужна всего 1 штука.
+§7After looking at your map, you conclude that you need to go to [1003,139,-4853] to obtain §3[Snail Slime]§7.@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1003,139,-4853], чтобы добыть §3[Слизь Змеи]§7.
+§7[6/8] §2Brie: §aNext up, we need some §3[Voidroot]§a, a super rare root found deep in the Void. I've heard someone in the Sky Islands can take you down there!@§7[6/8] §2Brie: §aСледующий нам нужен §3[Корень Пустоты]§a - супер редкий корень, находящийся в пустоте. Я слышала, что кто-то на летающих островах может опустить тебя в пустоту!
+§7After looking at your map, you conclude that you need to go to [965,42,-4443] to obtain the §3[Voidroot]§7.@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [965,42,-4443] чтобы добыть §3[Корень Пустоты]§7.
+§7[7/8] §2Brie: §aLastly, we need some Double Jerky, but to make it we need two ingredients. Both can be found in a tower owned by the self-proclaimed "Space Wizard" Astralaus.@§7[7/8] §2Brie: §aИ последнее, нужно немного вяленого мяса. Но для него понадобится два ингредиента. Все их можешь найти в башне одного самопровозглашенного "Волшебника Космоса" Астралаусa.
+§7[8/8] §2Brie: §aWe need both §3[Zork Rinds]§a and §3[Quicksalt]§a, both of which should be found inside the tower! I'll be cheering you on from here!@§7[8/8] §2Brie: §aНужны §3[Шкура Зоркa]§a и §3[Быстрая соль]§a, оба ингредиента находятся внутри башни! Я буду ждать тебя тут!
+§7After looking at your map, you conclude that you need to go to [1217,126,-4929] to obtain §3[Zork Rinds] §7and §3[Quicksalt]§a.@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1217, 126, -4929], чтобы добыть §3[Шкуру Зорка]§a и §3[Быструю Соль].
+§7[1/1] §2Troms Guard: §aJust run! Get out of the city as fast as you can, and be prepared for a fight!@§7[1/1] §2Troms Guard: §aПросто беги! Убирайся из города как можно быстрее, и будь готов к бою!
+§7[1/1] §2Amadel's Assistant: §aOh hey, it's you!@§7[1/1] §2Amadel's Assistant: §aОх эй, это же ты!
+§3You cannot recruit an army while this territory is in a war!@§3Ты не можешь рекрутировать армию, пока эта территория захватывается!
+§7There seems to be nothing over here, best to turn back.@§7Кажется, здесь ничего нет, лучше повернуть назад
+§4Please join a server that isn't going to restart soon.@§4Пожалуйста зайди на сервер, который не будет скоро перезагружаться.
+§4An intense magical force throws you back. Maybe Harker has an idea of how to deal with this situation.@§4Сильная магическая сила отбрасывает тебя назад. Может быть у Харкера есть идея, как справиться с этой ситуацией.
+§7[1/1] §2Naragath: §a§lMy servants! It would appear we have fresh blood among us! Spill it at my feet, for my glory!@§7[1/1] §2Naragath: §a§lМои слуги! Кажется, тут есть свежая кровь среди нас! Пролейте ее к моим ногам, во славу мою!
+§b - §7VIP+ Rank@§b - §7VIP+ Ранг
+§7Please type a song name in chat!@§7Пожалуйста напиши название трека в чат!
+§4You can only have 1 mob totem active at once...@§4Ты можешь активировать только 1 тотем одновременно...
+§3You do not have enough money to pay for that!@§3У тебя недостаточно денег, чтобы заплатить за это!
+§7[1/1] §2Ollie: §aThe mystical eye sees beyond this realm. One should be careful with knowledge of the beyond.@§7[1/1] §2Ollie: §aМистический глаз видит за пределы этого царства. Нужно быть осторожными с такими знаниями.
 §4You are too close to another crate... Try moving away.
 §7Disguise your dagger as a piece of food
 §7You have set your helmet skin to Adventurer's Hat
