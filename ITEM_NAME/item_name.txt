@@ -1333,6 +1333,7 @@ Water Catalyst VIII@Катализатор Воды VIII
 Water Catalyst IX@Катализатор Воды IX
 Water Catalyst X@Катализатор Воды X
 Master Catalyst@Мастер Катализатор
+§fMaster Catalyst@§fМастер Катализатор
 
 #######################Квестовые предметы########################
 §4Frosty Sword@§4Ледяной Меч
@@ -1540,6 +1541,7 @@ Severed Arm@Отрубленная Рука
 §fMeteor Shard@§fОсколок Метеора
 §fMysterious Feather@§fЗагадочное Перо
 Royal Token of Gratitude@Королевский Жетон Благодарности
+§fRoyal Token of Gratitude@§fКоролевский Жетон Благодарности
 Purple Gem@Фиолетовый Камень
 Yellow Gem@Желтый Камень
 Blue Gem@Синий Камень
@@ -1654,6 +1656,7 @@ Map Fragment 1@Фрагмент Карты 1
 §2Earth Voucher@§2Ваучер Земли
 §6Thunder Voucher@§6Ваучер Грома
 Air Voucher@Ваучер Воздуха
+§fAir Voucher@§fВаучер Воздуха
 §3Water Voucher@§3Ваучер Воды
 §bMaster Voucher@§bМастер Ваучер
 §dLost SoulÀ@§dПотерянная Душа
