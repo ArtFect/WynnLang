@@ -123,34 +123,34 @@
 §4You can only have 1 mob totem active at once...@§4Ты можешь активировать только 1 тотем одновременно...
 §3You do not have enough money to pay for that!@§3У тебя недостаточно денег, чтобы заплатить за это!
 §7[1/1] §2Ollie: §aThe mystical eye sees beyond this realm. One should be careful with knowledge of the beyond.@§7[1/1] §2Ollie: §aМистический глаз видит за пределы этого царства. Нужно быть осторожными с такими знаниями.
-§4You are too close to another crate... Try moving away.
-§7Disguise your dagger as a piece of food
-§7You have set your helmet skin to Adventurer's Hat
-§7[1/1] §2Valimare: §aWhat are ya lingerin' around 'ere for? I've told ya all I know. Now either take a seat or get out.
-§cInvalid Arguments. Example: /guild invite [member]
-§7[1/2] §2Wounded Buccaneer: §aOh, what'ya have ther'? A hook?! Oi, give that one to me, will ya? 
-§7[1/1] §2Troms Guard: §aHey, where are you going? Are you §a§otrying§a to get yourself arrested? Talk to me first.
-§4That banner is not available!
-§3You can not set people to that rank.
-§7[1/1] §2Elrund: §aYou do not know where that goes yet, speak to me first and I shall let you pass.
-§2You can no longer see guild join messages in game!
-§2You can now see guild join messages again!
-§4You already own this territory.
-§4This is not a guild territory
-§7[1/1] §2Astralaus: §aWelcome to Astralaus' Astral House! Can you get to the top by flipping gravity?
-§7[1/2] §2Astralaus: §aAstronomical progress! But this is just the beginning!
-§7[1/1] §2Astralaus: §aMy quicksalt and zork rinds? How absurd! I collected mine myself, you collect yours! It's only fair.
-§7[1/1] §2Astralaus: §aI thought I told you to get it yourself... oh forget it. I'll just teleport you to it! I put a magic spell on you so you won't... die.
-§d     -§7 Lore: §f§oIt seems the wizard's gravity spell made you fall all the way through space, landing on the moon itself. Weird.
-§7[1/9] §2Regular Humyn: §aWhat takes you here, strangeling? What namings do you have? Hu-man? We claim Humyn! Bad choose, pick elsewhere, strangeling!
-§7[2/9] §2Regular Humyn: §aInvestigating for helping? How many conveniences! Humyns requires assistancing! You observes, humyns failflies into large crater-rock!
-§7[3/9] §2Regular Humyn: §aBurnmilk sprint out and one direction to retrieve it is quicksalt! We strike lucknugget and discover quicksalt on crater-rock!
-§7[4/9] §2Regular Humyn: §aRefined quicksalt gives burnmilk for spacezoom! Inconveniencing, spacezoom destroyed. Humyns create miniscule spacezoom!
-§7[5/9] §2Regular Humyn: §aOnly singular humyn can fit in current spacezoom. If strangeling helps humyns will let strangeling in spacezoom. Humyns can create new spacezoom given time!
-§7[6/9] §2Regular Humyn: §aHumyns currently residing on crater-rock, meaning waiting is not result death!
-§7[7/9] §2Regular Humyn: §aQuicksalt discovering in saltcave! Locating north of village! Take many carefuls, strangeling, saltcave has falling danger!
-§7[8/9] §2Regular Humyn: §aTo kick spacezoom into moving, humyns need §3[18 Quicksalt]§a. Place quicksalts into machine to refine burnmilk!
-§7[9/9] §2Regular Humyn: §aMany lucks, strangeling "hu-man", humyns cheerleading in village. When ready travel to small spacezoom with burnmilk in hold!
+§4You are too close to another crate... Try moving away.@§4Ты находишься слишком близко к другому контейнеру...Попробуй отойти.
+§7Disguise your dagger as a piece of food@§7Максирует твой кинжал под кусок еды
+§7You have set your helmet skin to Adventurer's Hat@§7Ты установил в качестве своего скин шлема Шапку Путешественника
+§7[1/1] §2Valimare: §aWhat are ya lingerin' around 'ere for? I've told ya all I know. Now either take a seat or get out.@§7[1/1] §2Valimare: §aЧто-то ты засиделся здесь? Я рассказал тебе все, что знаю. Теперь можешь либо присесть либо уйти.
+§cInvalid Arguments. Example: /guild invite [member]@§cНеправильные Аргументы. Пример: /guild invite [игрок]
+§7[1/2] §2Wounded Buccaneer: §aOh, what'ya have ther'? A hook?! Oi, give that one to me, will ya? @§7[1/2] §2Wounded Buccaneer: §aОх, а что у тебя тама? Крюк?! Эй, атдай это мне, ладно?
+§7[1/1] §2Troms Guard: §aHey, where are you going? Are you §a§otrying§a to get yourself arrested? Talk to me first.@§7[1/1] §2Troms Guard: §aЭй, куда ты собрался? Ты пытаешься§o добиться§a, чтобы тебя арестовали? Сначала поговори со мной.
+§4That banner is not available!@§4Этот баннер недоступен!
+§3You can not set people to that rank.@§3Ты не можешь выдавать игрокам этот ранг.
+§7[1/1] §2Elrund: §aYou do not know where that goes yet, speak to me first and I shall let you pass.@§7[1/1] §2Elrund: §aТы еще не знаешь, куда это ведет. Сначала поговори со мной, и я позволю тебе пройти.
+§2You can no longer see guild join messages in game!@§2Ты больше не видишь сообщения о вступлении в гильдию!
+§2You can now see guild join messages again!@§2ы снова видишь сообщения о вступлении в гильдию!
+§4You already own this territory.@§4Вы уже захватили эту территорию.
+§4This is not a guild territory@§4Это не территория гильдий
+§7[1/1] §2Astralaus: §aWelcome to Astralaus' Astral House! Can you get to the top by flipping gravity?@§7[1/1] §2Astralaus: §aДобро пожаловать в астральный дом Астралаусa! Сможешь ли ты добраться до вершины, преодолев гравитацию?
+§7[1/2] §2Astralaus: §aAstronomical progress! But this is just the beginning!@§7[1/2] §2Astralaus: §aАстрономический прогресс! Но это только начало!
+§7[1/1] §2Astralaus: §aMy quicksalt and zork rinds? How absurd! I collected mine myself, you collect yours! It's only fair.@§7[1/1] §2Astralaus: §aМоя быстрая соль и шкура Зоркa? Какой абсурд! Я собрал их сам, и ты соберешь тоже! Только так будет справедливо.
+§7[1/1] §2Astralaus: §aI thought I told you to get it yourself... oh forget it. I'll just teleport you to it! I put a magic spell on you so you won't... die.@§7[1/1] §2Astralaus: §aЯ думал, что сказал тебе собрать самому... забудь об этом. Я просто телепортирую тебя к ним! Я наложил на тебя магическое заклинание, так что ты не будешь...умирать.
+§d     -§7 Lore: §f§oIt seems the wizard's gravity spell made you fall all the way through space, landing on the moon itself. Weird.@§d     -§r§7 Лор: §r§f§oПохоже, гравитационное заклинание волшебника заставило тебя упасть сквозь пространство, приземлившись на саму Луну. Странно.
+§7[1/9] §2Regular Humyn: §aWhat takes you here, strangeling? What namings do you have? Hu-man? We claim Humyn! Bad choose, pick elsewhere, strangeling!@§7[1/9] §2Regular Humyn: §aЧто приводить тебя сюда, большеголовый? Какое название у тебя есть? Чело-век? Мы звать себя Чуловек! Ты вовремя, большеголовый!
+§7[2/9] §2Regular Humyn: §aInvestigating for helping? How many conveniences! Humyns requires assistancing! You observes, humyns failflies into large crater-rock!@§7[2/9] §2Regular Humyn: §aХотеть помощь? Как удобно! Чуловекам надо помощь! Ты видеть, чуловеки неудачно влететь на большой кратер скала!
+§7[3/9] §2Regular Humyn: §aBurnmilk sprint out and one direction to retrieve it is quicksalt! We strike lucknugget and discover quicksalt on crater-rock!@§7[3/9] §2Regular Humyn: §aМолоко-топливо вылить, и единственный способ вернуть все это быстрая соль! Мы запустить фортуна самородок и найти быструю соль на кратер скала!
+§7[4/9] §2Regular Humyn: §aRefined quicksalt gives burnmilk for spacezoom! Inconveniencing, spacezoom destroyed. Humyns create miniscule spacezoom!@§7[4/9] §2Regular Humyn: §aУлучшенная быстрая соль давать молоко-топливо для корабль-космос! Неудобно, корабль-космос уничтожен. Чуловеки создать мини-корабль-космос!
+§7[5/9] §2Regular Humyn: §aOnly singular humyn can fit in current spacezoom. If strangeling helps humyns will let strangeling in spacezoom. Humyns can create new spacezoom given time!@§7[5/9] §2Regular Humyn: §aТолько один чуловек поместиться в корабль-космос. Если большеголовый помочь чуловеки, мы пустить большеголовый в корабль-космос. Чуловеки создать новый корабль-космос со временем!
+§7[6/9] §2Regular Humyn: §aHumyns currently residing on crater-rock, meaning waiting is not result death!@§7[6/9] §2Regular Humyn: §aЧуловеки уже сейчас жить на кратер скала, значит не должен умереть от время!
+§7[7/9] §2Regular Humyn: §aQuicksalt discovering in saltcave! Locating north of village! Take many carefuls, strangeling, saltcave has falling danger!@§7[7/9] §2Regular Humyn: §aБыстрая соль найти в пещера-соль! На север от деревни! Быть осторожен, большеголовый, пещера-соль обрушиться может!
+§7[8/9] §2Regular Humyn: §aTo kick spacezoom into moving, humyns need §3[18 Quicksalt]§a. Place quicksalts into machine to refine burnmilk!@§7[8/9] §2Regular Humyn: §aЧтобы запустить корабль-космос, чуловеки нужно §3[18 Быстрая соль]§a. Поместить быстрая соль в машина и получить молоко-топливо!
+§7[9/9] §2Regular Humyn: §aMany lucks, strangeling "hu-man", humyns cheerleading in village. When ready travel to small spacezoom with burnmilk in hold!@§7[9/9] §2Regular Humyn: §aУдача, большеголовый “чело-век”, чуловеки болеть за тебя в деревня. Когда готов, пройти до мини-корабль-космос с молоко-топливо в рука!
 §4The cave is collapsing!
 §4Run away!
 §7[1/2] §2Alien: §aFor many salts given by you, we obtains just rights for burnmilk. For works by strangeling, we presents you gift times two! Walked to the space boat closeby for return home.
