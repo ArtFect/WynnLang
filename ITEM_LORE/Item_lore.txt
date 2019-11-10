@@ -1826,12 +1826,15 @@
 §fWynn Plains@§fВинн Равнины
 §fNesaak Tundra@§fНесаак Тундра
 §fDesert@§fПустыня
-§7§lLeft click to sort by: §fName@§7§lЛевый клик для сортировки по: §fИмени
+§7§lLeft click to sort by: §fName@§7§lЛевый клик для сортировки по: §fНазванию
 §7§lRight click to sort by: §fLevel@§7§lПравый клик для сортировки по: §fУровню
 §7§lLeft click to sort by: §fLevel@§7§lЛевый клик для сортировки по: §fУровню
 §7§lRight click to sort by: §fStarted@§7§lПравый клик для сортировки по: §fНачат
 §7§lLeft click to sort by: §fStarted@§7§lЛевый клик для сортировки по: §fНачат
-§7§lRight click to sort by: §fName@§7§lПравый клик для сортировки по: §fИмени
+§7§lRight click to sort by: §fName@§7§lПравый клик для сортировки по: §fНазванию
+§7§lCurrently: §fStarted@§7§lСейчас: §fНачат
+§7§lCurrently: §fLevel@§7§lСейчас: §fПо уровню
+§7§lCurrently: §fName@§7§lСейчас: §fНазванию
 §dID Bonuses:@§dID Бонусы:
 §bBasic Defence:@§bБазовая Защита:
 §3[L]§b Main Attack:@§3[Л]§b Основная Атака:
