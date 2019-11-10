@@ -72,34 +72,32 @@
 §7[3/3] §2Kandon-Beda Citizen: §aPerhaps one day the entrance will open up, and we'll be able to see what's inside.@§7[3/3] §2Kandon-Beda Citizen: §aВозможно однажды вход откроется, и мы сможем увидеть, что внутри.
 §7[1/2] §2Hot Air Balloon Captain: §aHello, just climb aboard and I'll take you to Corkus City in Corkus!@§7[1/2] §2Hot Air Balloon Captain: §aПривет, просто поднимайся на борт, и я отвезу тебя в город Коркус Сити!
 §7[2/2] §2Hot Air Balloon Captain: §aIt's the least I can do, you saved my home afterall.@§7[2/2] §2Hot Air Balloon Captain: §aЭто меньшее, что я могу сделать, ты ведь спас мой дом в конце концов.
-§7[1/1] §2Relend: §aIt's such a shame that my ship is gone. Oh well, I'll head back to the dock and build another one.@
-§7[1/1] §2The Secretary: §aWelcome to Ynnos' research facility! Hello, how can I help you?
-§cYou do not have enough gold coins to buy that!
-§cYou need 80 more gold coins.
-§bYou can buy gold coins at §3wynncraft.com/store
-§f 
-§cYou are not whitelisted on this server!
-§7Location: Ahmsord Research facility [1118,101,-4520].
-§4you still need to gather the ingriedients, this is not a time to rest in the ship.
-§7You failed to get to the finish in time!
-§3You now have a §bChocolate Wybel
-§4You should probably not enter the submarine without permission...
-§4A creepy sound is heard... You shouldn't enter this place yet.
-§7[1/1] §2Eoric: §aEltom and its citizens are thankful for your service. The line between Human and Villager remains firmly in place.. For the most part.
-§7[1/1] §2Eltom Guard: §aWell done, detective! You've made my job easier. I won't have to guard the exits anymore.
-§4 Gurgling comes from the spot and the ground pops around you.
-§7[1/1] §2Ferndor: §aWe need help, but we can't have any unexperienced warriors in our mansion, come back when you are level 66!
-§7[1/1] §2Vesdar: §aRemember, I'll know if you told anybody. Keep it hush-hush, bub.
-§7[1/1] §2Office Manager: §aI am impressed you found a way to unlock the door. You are the first visitor to do so.
-§7[1/1] §2Ahmsord Child: §aWhen I grow up, I’m gonna be just like Siegfried! I’m gonna fight monsters and save the world!
-§7[1/1] §2Traitor Thomas: §aHey, scram!
-§7[1/1] §2Corkian Security Overseer: §aNot even the most remote tower of this castle is left unguarded! Unless it's lunch time, of course...
-§7[1/1] §2The Blacksmith: §aI am glad to hear that. Bob was a good warrior, he doesn't deserve to be bound to the earth for eternity.
-§5Guild Master: §dIt seems that there is already a guild with that name... Try again!
-§4Invalid rank entry. Options: §cChief, Captain, Recruiter
-§7[You will now be teleported out of the server]
-§4Your guild is already in a battle!
-§7[1/1] §2Gana: §aPlease help Seluc. To find the cave he is in, just follow the main path northwards to the edge of the canyon.
+§7[1/1] §2Relend: §aIt's such a shame that my ship is gone. Oh well, I'll head back to the dock and build another one.@§7[1/1] §2Relend: §aЖаль, что моего корабля больше нет. Что же, я вернусь в доки, и построю еще один, таков мой приоритет.
+§7[1/1] §2The Secretary: §aWelcome to Ynnos' research facility! Hello, how can I help you?@§7[1/1] §2The Secretary: §aДобро пожаловать в исследовательский центр Янноса! Здравствуй, чем я могу тебе помочь?
+§cYou do not have enough gold coins to buy that!@§cУ тебя недостаточно золотых монет, чтобы купить это!
+§cYou need 80 more gold coins.@§cТебе нужно еще 80 золотых монет.
+§bYou can buy gold coins at §3wynncraft.com/store@§bТы можешь купить золотые монеты на §3wynncraft.com/store
+§cYou are not whitelisted on this server!@§cТебя нет в вайтлисте сервера!
+§4you still need to gather the ingriedients, this is not a time to rest in the ship.@§4Тебе нужно собрать ингредиенты, сейчас не время для отдыха на лодке.
+§7You failed to get to the finish in time!@§7Ты не смог уложиться во время!
+§3You now have a §bChocolate Wybel@§3Теперь у тебя есть §bШоколадный Вубел
+§4You should probably not enter the submarine without permission...@§4Вероятно, тебе не следует входить на субмарину без разрешения...
+§4A creepy sound is heard... You shouldn't enter this place yet.@§4Жуткий звук слышен... Тебе пока не стоит входить в это место.
+§7[1/1] §2Eoric: §aEltom and its citizens are thankful for your service. The line between Human and Villager remains firmly in place.. For the most part.@§7[1/1] §2Eoric: §aЭлтом и его граждане благодарны тебе за службу. Граница между людьми и жителями твердо соблюдается... По большей части.
+§7[1/1] §2Eltom Guard: §aWell done, detective! You've made my job easier. I won't have to guard the exits anymore.@§7[1/1] §2Eltom Guard: §aОтличная работа, детектив! Ты облегчил мне работу. Мне больше не придется охранять выходы.
+§4 Gurgling comes from the spot and the ground pops around you.@§4Бульканье идет с этого места и земля трещит вокруг тебя.
+§7[1/1] §2Ferndor: §aWe need help, but we can't have any unexperienced warriors in our mansion, come back when you are level 66!@§7[1/1] §2Ferndor: §aНам нужна помощь, но мы не можем впустить неопытных воинов в наше поместье; возвращайся, когда достигнешь 66 уровня!
+§7[1/1] §2Vesdar: §aRemember, I'll know if you told anybody. Keep it hush-hush, bub.@§7[1/1] §2Vesdar: §aПомни, я узнаю, если ты кому-нибудь расскажешь. Держи это в секрете, приятель.
+§7[1/1] §2Office Manager: §aI am impressed you found a way to unlock the door. You are the first visitor to do so.@§7[1/1] §2Office Manager: §aЯ впечатлен, что ты нашел способ открыть дверь. Ты первый посетитель, который сделал это.
+§7[1/1] §2Ahmsord Child: §aWhen I grow up, I’m gonna be just like Siegfried! I’m gonna fight monsters and save the world!@§7[1/1] §2Ahmsord Child: §aКогда я вырасту, я буду как Зигфрид! Буду сражаться с монстрами и спасать мир!
+§7[1/1] §2Traitor Thomas: §aHey, scram!@§7[1/1] §2Traitor Thomas: §aЭй, проваливай!
+§7[1/1] §2Corkian Security Overseer: §aNot even the most remote tower of this castle is left unguarded! Unless it's lunch time, of course...@§7[1/1] §2Corkian Security Overseer: §aДаже самая отдаленная башня этого замка не остается без охраны! Если, конечно, сейчас не время обеда...
+§7[1/1] §2The Blacksmith: §aI am glad to hear that. Bob was a good warrior, he doesn't deserve to be bound to the earth for eternity.@§7[1/1] §2The Blacksmith: §aЯ рад это слышать. Боб был хорошим воином, он не заслуживает быть вечно привязанным к земле.
+§5Guild Master: §dIt seems that there is already a guild with that name... Try again!@§5Мастер Гильдий: §dПохоже, что уже есть гильдия с таким именем...Попробуй другое!
+§4Invalid rank entry. Options: §cChief, Captain, Recruiter@§4Неправильное написание ранга. Примеры: §cChief, Captain, Recruiter
+§7[You will now be teleported out of the server]@§7[Ты был телепортирован с сервера]
+§4Your guild is already in a battle!@§4Твоя гильдия уже находится в битве!
+§7[1/1] §2Gana: §aPlease help Seluc. To find the cave he is in, just follow the main path northwards to the edge of the canyon.@§7[1/1] §2Gana: §aПожалуйста, помоги Селуку. Чтобы найти пещеру, в которой он находится, просто следуй по главной тропе на север к краю каньона.
 §7[1/1] §2Taproot: §aThat is the enemy we face. Darkness itself. Now, let me show you. Let me take you back...
 §7[1/1] §2Chef Hamsey: §aI simply cannot hold my excitement.. Bring me the dish maintenant!
 §7[1/8] §2Brie: §aHeya again! So you decided to make the Zork Stew with me? Hurray!
