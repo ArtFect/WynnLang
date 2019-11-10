@@ -23,31 +23,31 @@
 §7[1/1] §2Sergeant: §aWell, I finally finished cleaning out this aqueduct. Although, I guess I never really had to do this, since a shape-shifter gave me the order.@§7[1/1] §2Sergeant: §aЧто ж, я наконец-то закончил чистить эту канализацию. Хотя думаю, мне бы никогда не пришлсь этого делать, так как оборотень дал мне приказ.
 §4There seems to be someone inside, it's probably best not to disturb them.@§4Кажется, внутри кто-то есть, и лучше их не беспокоить.
 §7[1/1] §2Ranol: §aDang cow snagger! I'll get ya one day! Oi, you! Help me? No? A'ight, come back when yer Level 86!@§7[1/1] §2Ranol: §aЧертов коровий вор! Я достану тебя однажды! Эй, ты! Хочешь помочь? Нет? Хорошо, возвращайся на 86 уровне!
-§7[1/5] §2Hive Servant: §aWhat? Hey, why aren't you in uniform, are you that new girl? No, can't be, your nose is too tiny. A challenger, maybe?
-§7[2/5] §2Hive Servant: §aOr has "Her Mistress-ship, high and mighty" started dragging in humans of all things to be her pack mules? Don't know why else you'd be here.
-§7[3/5] §2Hive Servant: §aBetter get used to this, small-nose. This is your life now. Find someone who'll loan you a uniform 'til you get your own.
-§7[4/5] §2Hive Servant: §aIf you get caught outside of your pre-ordained clothes, you're gonna get punished. As though a dress code is needed in a place like this!!
-§7[5/5] §2Hive Servant: §a"It protects you from magic" my backside! The great hag above just wants us quiet and subdued so she can feel powerful, I'll bet.
-§7[1/1] §2Sensei Miyagi: §aI could not possibly train an apprentice of your little experience, come back when you are level 89.
-§6Storm Effect
-§7Create a storm effect around your character
-§7[1/4] §2Olux Citizen: §aI just can't stay anymore.
-§7[2/4] §2Olux Citizen: §aYou've seen her power, haven't you? She can fix this!
-§7[3/4] §2Olux Citizen: §aAs much as I love my wife, she wouldn't want to watch everything die around her... Would she? Would you?
-§7[4/4] §2Olux Citizen: §aPlease, tell her I'm sorry. I don't know when I'll be leaving, but... Soon. Soon we'll put things right.
-§7[1/1] §2Thesead's Mayor: §aPlease, go to the waiting room! I’m a bit busy right now.
-§4This command is HERO only! Buy HERO at §cstore.wynncraft.com
-§7[4/4] §2Felim: §aSo you were delivering that message to the entire crew? Well, looks like you only need to get to 4 more of us.
-§7[1/5] §2Thesead Citizen: §aOh hey, lookie at the small-nose that got all the way out here. If you're going to barge into my house, make yourself useful, huh?
-§7[2/5] §2Thesead Citizen: §aYou humans think you're so strong? Why not go fight that Qira lady, then! Get her out of our hair and all!
-§7[3/5] §2Thesead Citizen: §aAll these weird elemental creatures and caves are popping up recently that weren't there a few years ago, and I'll bet my life savings it's her fault!
-§7[4/5] §2Thesead Citizen: §aThey're waylaying caravans and trade routes, but she's got diplo-whatsit immunity or something like that, so it's not like we can do anything.
-§7[5/5] §2Thesead Citizen: §aHer "glorious hive" is out to the northeast. Go burn it down or something for us, and get outta my house while you're at it!
-§7[1/1] §2Axelus: §aHey, you! Come back.
-§7[1/1] §2Death: §aIT SEEMS YOU ARE HAVING A BLAST, AREN'T YOU?
-§7[1/2] §2Death: §aWHAT DO YOU THINK YOU ARE DOING?
-§7[2/2] §2Death: §aYOU CANNOT JUST FINISH A QUEST BY ASKING IT TO.
-§cA level has been taken from you.
+§7[1/5] §2Hive Servant: §aWhat? Hey, why aren't you in uniform, are you that new girl? No, can't be, your nose is too tiny. A challenger, maybe?@§7[1/5] §2Hive Servant: §aЧто? Эй, почему ты не в форме, это ты та новенькая? Нет, не может быть, у тебя слишком маленький нос. Может быть, претендент?
+§7[2/5] §2Hive Servant: §aOr has "Her Mistress-ship, high and mighty" started dragging in humans of all things to be her pack mules? Don't know why else you'd be here.@§7[2/5] §2Hive Servant: §aИли "Ее величество Госпожа, великая и могущественная" начала тащить сюда всяких людей, чтобы те были ее вьючными мулами? Не знаю, зачем еще ты здесь.
+§7[3/5] §2Hive Servant: §aBetter get used to this, small-nose. This is your life now. Find someone who'll loan you a uniform 'til you get your own.@§7[3/5] §2Hive Servant: §aЛучше привыкай к этому, маленько-носый. Теперь это твоя жизнь. Найди кого-нибудь, кто одолжит тебе форму, пока ты не получишь свою.
+§7[4/5] §2Hive Servant: §aIf you get caught outside of your pre-ordained clothes, you're gonna get punished. As though a dress code is needed in a place like this!!@§7[4/5] §2Hive Servant: §aЕсли тебя поймают с неподходящей по определению одеждой, ты будешь наказан. Как будто в таком месте нужен дресс-код!!
+§7[5/5] §2Hive Servant: §a"It protects you from magic" my backside! The great hag above just wants us quiet and subdued so she can feel powerful, I'll bet.@§7[5/5] §2Hive Servant: §a"Она защищает тебя от магии", как говорят с другой стороны! Великая ведьма наверху просто хочет, чтобы мы были тихими и подавленными, чтобы она могла чувствовать себя сильной, я уверен.
+§7[1/1] §2Sensei Miyagi: §aI could not possibly train an apprentice of your little experience, come back when you are level 89.@§7[1/1] §2Sensei Miyagi: §aЯ не могу обучить ученика с таким маленьким опытом; возвращайся, когда ты будешь 89-го уровня.
+§6Storm Effect@§6Эффект Шторма
+§7Create a storm effect around your character@§7Создает эффект шторма вокруг персонажа
+§7[1/4] §2Olux Citizen: §aI just can't stay anymore.@§7[1/4] §2Olux Citizen: §aЯ просто не могу больше оставаться.
+§7[2/4] §2Olux Citizen: §aYou've seen her power, haven't you? She can fix this!@§7[2/4] §2Olux Citizen: §aТы ведь видел ее силу, не так ли? Она может это исправить!
+§7[3/4] §2Olux Citizen: §aAs much as I love my wife, she wouldn't want to watch everything die around her... Would she? Would you?@§7[3/4] §2Olux Citizen: §aКак бы я ни любил свою жену, она не хотела бы видеть, как все вокруг умирает... А она бы стала? А ты бы хотел?
+§7[4/4] §2Olux Citizen: §aPlease, tell her I'm sorry. I don't know when I'll be leaving, but... Soon. Soon we'll put things right.@§7[4/4] §2Olux Citizen: §aПожалуйста, скажи ей, что я сожалею. Не знаю, когда я уеду, но... Скоро. Скоро мы все исправим.
+§7[1/1] §2Thesead's Mayor: §aPlease, go to the waiting room! I’m a bit busy right now.@§7[1/1] §2Thesead's Mayor: §aПожалуйста, иди в зал ожидания! Я сейчас немного занят.
+§4This command is HERO only! Buy HERO at §cstore.wynncraft.com@§4Это команда только для игроков с рангом HERO! Купи HERO на §cstore.wynncraft.com
+§7[4/4] §2Felim: §aSo you were delivering that message to the entire crew? Well, looks like you only need to get to 4 more of us.@§7[4/4] §2Felim: §aТак ты доставил это сообщение всему экипажу? Ну, похоже, тебе нужно только добраться еще до 4 из нас.
+§7[1/5] §2Thesead Citizen: §aOh hey, lookie at the small-nose that got all the way out here. If you're going to barge into my house, make yourself useful, huh?@§7[1/5] §2Thesead Citizen: §aОх, эй, посмотрите ка на маленьконос, который добрался сюда. Если ты собираешься ворваться в мой дом, сделай что-нибудь полезное, хорошо?
+§7[2/5] §2Thesead Citizen: §aYou humans think you're so strong? Why not go fight that Qira lady, then! Get her out of our hair and all!@§7[2/5] §2Thesead Citizen: §aВы, люди, думаете, что вы такие сильные? Тогда почему бы тебе не сразиться с этой леди Кирой? Убери ее от нас и все такое!
+§7[3/5] §2Thesead Citizen: §aAll these weird elemental creatures and caves are popping up recently that weren't there a few years ago, and I'll bet my life savings it's her fault!@§7[3/5] §2Thesead Citizen: §aВсе эти странные элементальные существа и пещеры появляются недавно, которых не было несколько лет назад, и я готов поспорить на свои сбережения, что это ее вина!
+§7[4/5] §2Thesead Citizen: §aThey're waylaying caravans and trade routes, but she's got diplo-whatsit immunity or something like that, so it's not like we can do anything.@§7[4/5] §2Thesead Citizen: §aОни следят за караванами и торговыми путями, но у нее есть Дипло-какой-то иммунитет или что-то в этом роде, так что мы ничего не можем сделать.
+§7[5/5] §2Thesead Citizen: §aHer "glorious hive" is out to the northeast. Go burn it down or something for us, and get outta my house while you're at it!@§7[5/5] §2Thesead Citizen: §aЕе "славный улей" находится на северо-востоке. Иди сожги его, или сделай еще что-нибудь для нас, и убирайся из моего дома, пока ты там!
+§7[1/1] §2Axelus: §aHey, you! Come back.@§7[1/1] §2Axelus: §aЭй, ты! Вернись.
+§7[1/1] §2Death: §aIT SEEMS YOU ARE HAVING A BLAST, AREN'T YOU?@§7[1/1] §2Death: §aКАЖЕТСЯ, У ТЕБЯ СЕЙЧАС БОМБАНЕТ, НЕ ТАК ЛИ?
+§7[1/2] §2Death: §aWHAT DO YOU THINK YOU ARE DOING?@§7[1/2] §2Death: §aЧТО ТЫ ДЕЛАЕШЬ, ПО-ТВОЕМУ?
+§7[2/2] §2Death: §aYOU CANNOT JUST FINISH A QUEST BY ASKING IT TO.@§7[2/2] §2Death: §aТЫ НЕ МОЖЕШЬ ПРОСТО ЗАКОНЧИТЬ КВЕСТ, ПОПРОСИВ ОБ ЭТОМ.
+§cA level has been taken from you.@§cУровень был отнят у тебя.
 §7
 This book's title reads...
     §aOne Second Is Enough To Die For§2§o
