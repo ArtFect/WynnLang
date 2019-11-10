@@ -48,65 +48,31 @@
 §7[1/2] §2Death: §aWHAT DO YOU THINK YOU ARE DOING?@§7[1/2] §2Death: §aЧТО ТЫ ДЕЛАЕШЬ, ПО-ТВОЕМУ?
 §7[2/2] §2Death: §aYOU CANNOT JUST FINISH A QUEST BY ASKING IT TO.@§7[2/2] §2Death: §aТЫ НЕ МОЖЕШЬ ПРОСТО ЗАКОНЧИТЬ КВЕСТ, ПОПРОСИВ ОБ ЭТОМ.
 §cA level has been taken from you.@§cУровень был отнят у тебя.
-§7
-This book's title reads...
-    §aOne Second Is Enough To Die For§2§o
-        by Liza Seglend
-§7
-This book's title reads...
-    §aStrategical Placement Of The Undead§2§o
-        by Fiscarn Lixmaoul
-§7
-This book's title reads...
-    §aTotal War: Armageddon§2§o
-        by Dullahan
-§7
-This book's title reads...
-    §aA Conjurer's Creations§2§o
-§7
-This book's title reads...
-    §aAmbitions For World Domination§2§o
-        by Amadel
-§7
-This book's title reads...
-    §aDeath: Portrayals in Global Cultures§2§o
-§7
-This book's title reads...
-    §aThe Disconnected World§2§o
-        by Nardoj Thearendu
-§7
-This book's title reads...
-    §aAm I Dead? Coping With Your Newfound Unlife§2§o
-        by Death
-§7
-This book's title reads...
-    §aCommunist Books§2§o
-        Anonymous
-§7
-This book's title reads...
-    §aSacrificial Pacts For Dummies§2§o
-        by Cihr Nettann
-§7
-This book's title reads...
-    §aTimelapse Kingdom§2§o
-        by Nielad Serolfend
-§7
-This book's title reads...
-    §aLast Aid For Beginners: What To Do With 
-    Friends Coming Back To Life§2§o
-§7[1/1] §2Thesead Citizen: §aWhat's a small-nosed human like you doing here? Your kind isn't welcome here!
-§7[4/4] §2Ansei: §aLooks like you still have some more letters there, I guess you still need to deliver them to 1 more member of the crew.
-§7[4/4] §2Sytis: §aI see you were delivering the same message to the entire crew. Go and tell Dejol that I might be a while. There are a lot of trolls down there. I'm not scared though! Promise!
-§7[1/3] §2Avos Citizen: §aWhat in the world? Catapulting humans..
-§7[2/3] §2Avos Citizen: §aYou know, a trebuchet is the best way to launch 90kg projectiles over 300 meters.
-§7[3/3] §2Avos Citizen: §aI better go tell the chief the Corkians have a catapult, though.
-§8    §8§oLooks like an uninteresting book of fairy tales.
-§7[1/3] §2Kandon-Beda Citizen: §aI'm curious about the statue on the other side of the cliff this town is built into.
-§7[2/3] §2Kandon-Beda Citizen: §aIt's absolutely colossal! There seems to be an entrance to something beneath its feet, but it just leads to a dead end.
-§7[3/3] §2Kandon-Beda Citizen: §aPerhaps one day the entrance will open up, and we'll be able to see what's inside.
-§7[1/2] §2Hot Air Balloon Captain: §aHello, just climb aboard and I'll take you to Corkus City in Corkus!
-§7[2/2] §2Hot Air Balloon Captain: §aIt's the least I can do, you saved my home afterall.
-§7[1/1] §2Relend: §aIt's such a shame that my ship is gone. Oh well, I'll head back to the dock and build another one.
+\nThis book's title reads...\n    One Second Is Enough To Die For\n        by Liza Seglend@\nНазвание этой книги гласит...\n    Одной Секунды Достаточно, Чтобы Умереть\n        автор Liza Seglend
+\nThis book's title reads...\n    Strategical Placement Of The Undead\n        by Fiscarn Lixmaoul@\nНазвание этой книги гласит...\n    Стратегическое Размещение Нежити\n        автор Fiscarn Lixmaoul
+\nThis book's title reads...\n    Total War: Armageddon\n        by Dullahan@\nНазвание этой книги гласит...\n    Тотальная Война: Армагеддон\n        автор Дуллахан
+\nThis book's title reads...\n    A Conjurer's Creations\n@\nНазвание этой книги гласит...\n    Творения Фокусника\n
+\nThis book's title reads...\n    Ambitions For World Domination\n        by Amadel@\nНазвание этой книги гласит...\n    Амбиции На Мировое Господство\n        автор Амадел
+\nThis book's title reads...\n    Death: Portrayals in Global Cultures\n@\nНазвание этой книги гласит...\n    Смерть: Изображения В Глобальных Культурах\n
+\nThis book's title reads...\n    The Disconnected World\n        by Nardoj Thearendu@\nНазвание этой книги гласит...\n    Отключенный Мир\n        автор Nardoj Thearendu
+\nThis book's title reads...\n    Am I Dead? Coping With Your Newfound Unlife\n        by Death@\nНазвание этой книги гласит...\n    Я Мертв? Справляюсь Со Своей Новообретенной Нежизнью\n        автор Смерть
+\nThis book's title reads...\n    Communist Books\n        Anonymous@\nНазвание этой книги гласит...\n    Коммунистические Книги\n        Анонимус
+\nThis book's title reads...\n    Sacrificial Pacts For Dummies\n        by Cihr Nettann@\nНазвание этой книги гласит...\n    Загробные Договора Для Чайников\n        автор Cihr Nettann
+\nThis book's title reads...\n    Timelapse Kingdom\n        by Nielad Serolfend@\nНазвание этой книги гласит...\n    Таймлапс Королевство\n        автор Nielad Serolfend
+\nThis book's title reads...\n    Last Aid For Beginners: What To Do With \n    Friends Coming Back To Life\n@\nНазвание этой книги гласит...\n    Последняя Помощь Для Начинающих: Что Делать \n    С Друзьями, Возвращающимися К Жизни\n
+§7[1/1] §2Thesead Citizen: §aWhat's a small-nosed human like you doing here? Your kind isn't welcome here!@
+§7[4/4] §2Ansei: §aLooks like you still have some more letters there, I guess you still need to deliver them to 1 more member of the crew.@
+§7[4/4] §2Sytis: §aI see you were delivering the same message to the entire crew. Go and tell Dejol that I might be a while. There are a lot of trolls down there. I'm not scared though! Promise!@
+§7[1/3] §2Avos Citizen: §aWhat in the world? Catapulting humans..@
+§7[2/3] §2Avos Citizen: §aYou know, a trebuchet is the best way to launch 90kg projectiles over 300 meters.@
+§7[3/3] §2Avos Citizen: §aI better go tell the chief the Corkians have a catapult, though.@
+§8    §8§oLooks like an uninteresting book of fairy tales.@
+§7[1/3] §2Kandon-Beda Citizen: §aI'm curious about the statue on the other side of the cliff this town is built into.@
+§7[2/3] §2Kandon-Beda Citizen: §aIt's absolutely colossal! There seems to be an entrance to something beneath its feet, but it just leads to a dead end.@
+§7[3/3] §2Kandon-Beda Citizen: §aPerhaps one day the entrance will open up, and we'll be able to see what's inside.@
+§7[1/2] §2Hot Air Balloon Captain: §aHello, just climb aboard and I'll take you to Corkus City in Corkus!@
+§7[2/2] §2Hot Air Balloon Captain: §aIt's the least I can do, you saved my home afterall.@
+§7[1/1] §2Relend: §aIt's such a shame that my ship is gone. Oh well, I'll head back to the dock and build another one.@
 §7[1/1] §2The Secretary: §aWelcome to Ynnos' research facility! Hello, how can I help you?
 §cYou do not have enough gold coins to buy that!
 §cYou need 80 more gold coins.
