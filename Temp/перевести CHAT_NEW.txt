@@ -1,17 +1,9 @@
-§cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
-§a§l         Click here to link your forum account      
-§7Owner: 
-§7[1/1] §2???: §4… How fool§4§kk§ah of you… to come back he§4re.§4§k:5tykkk§after what §4happene§4§ki:
-§e§nClick here to claim them!
-§4You don't have the correct key!§7
-Sneak and walk towards the door to look inside the keyhole.
-§4You don't have the key!§7
-Kill the queen in order to obtain it.
-§4You have died...
-§4§lDeath claims your soul.
-§4You must pass the challenge before you leave the Xìngzhì cave!
-§7The sheep raises its head to look at you, its eyes flare at the sight of the green tea.
-§7You gesture the tea generously towards the sheep, and place it on the ground for it to drink. The sheep nods respectively to you.
+§cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException@§cНе можем подключиться к резервному серверу, попробуй позже
+§7Owner: @§7Владелец: 
+§e§nClick here to claim them!@
+§4You must pass the challenge before you leave the Xìngzhì cave!@§4Ты должен пройти челлендж, прежде чем покинуть Xìngzhì пещеру!
+§7The sheep raises its head to look at you, its eyes flare at the sight of the green tea.@
+§7You gesture the tea generously towards the sheep, and place it on the ground for it to drink. The sheep nods respectively to you.@
 §7[1/3] §2Thesead Citizen: §aWhoa! What the heck happened? An airship just fell out of the sky while I was out of town for a few hours!
 §7[2/3] §2Thesead Citizen: §aI ought to write a letter to Air Gavel complaining about this.
 §7[3/3] §2Thesead Citizen: §aThat could have destroyed my house, and then I could've suffered a fate worse than death: being poor!
