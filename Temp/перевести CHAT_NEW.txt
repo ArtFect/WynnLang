@@ -177,29 +177,25 @@ Resetting systems §8<*> §7Loading "§7§oUnbeatable AI§7" preset...
 Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.
 §4[ §c§lWynntron §4| §8Ver§8§ksio§8n: §8§n9ERrOR.4§4 ] §7
 Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI§7" ER§7§kLOL @Lotem
-§7[1/1] §2Corak: §aA human in Aldorei, what a wonderful prospect. Go on, you may enter the town through that cave.
-§aA §cGodly Ozoth Effect§a!
-§cThe battle has expired!
-§cWe're busy saving your data! Please try again...
-§7Escape the volcano with the crystal shard
-§6Futuristic Bow
-§7Disguise your bow with a futuristic flair
-§4Entering a dragon's mouth might not be the brightest idea.
-§7[1/2] §2Kansard: §aDo you have the §3[Sunblight Boots]§a? Bring them to me, their rightful owner.
-§7[2/2] §2Corak: §aNo! Bring them to me! Those boots are very valuable, so I shall give you a considerable reward.
-§7[1/7] §2Canyon Hermit: §aNot a step closer! What do you think you're doing, just waltzing in someone else's property?
-§7[2/7] §2Canyon Hermit: §aUgh... I'm sorry for that. Secluding yourself from the society has its effects. I'd love to have a chat with someone.
-§7[3/7] §2Canyon Hermit: §aPlease, be my guest! Just don't get anywhere near my tent, you understand? That's where I keep my valuables.
-§7[4/7] §2Canyon Hermit: §aSo, what's been happening on the outside world? Are the dwarves and doguns at peace yet? What about the corruption in Wynn?
-§7[5/7] §2Canyon Hermit: §aHm? Do you smell that? It's as if something was bu- OH MY GOD, MY TENT!
-§7[6/7] §2Canyon Hermit: §aQuick, help me put it ou- OH NO NOT THIS!
-§7[1/1] §2Alem: §aHalt! §a§lNobody §ashould be this close to this gate. Not even a §3Level 50§a player would be brave enough.
-§7[1/1] §2Volmor: §aOohh, aren't you a naughty kid! Couldn't help coming back here, could you? I guess it's my magnetic personality!
-§7[7/8] §2Jill: §aI’m not sure what the “Key” is, but be careful acquiring it. If it was easy, the key would have already been found.
-§7[8/8] §2Jill: §aI’ll be here when you get back.
-§7[1/1] §2Jill: §aCheck the castle south-east of here for that treasure!
-§7[2/4] §2Jill: §aAre §athese...beans§a?
-§d                          §d§lThe Fable
+§7[1/1] §2Corak: §aA human in Aldorei, what a wonderful prospect. Go on, you may enter the town through that cave.@§7[1/1] §2Corak: §aЧеловек в Алдоре  , какая замечательная перспектива. Иди, ты можешь войти в город через эту пещеру.
+§aA §cGodly Ozoth Effect§a!@§cБожественный Эффект Озот§a!
+§cThe battle has expired!@§cБитва закончилась!
+§cWe're busy saving your data! Please try again...@§cМы заняты сохранением твоего прогресса! Пожалуйста попробуй снова...
+§6Futuristic Bow@§6Футуристический Лук
+§7Disguise your bow with a futuristic flair@§7Маскирует твой лук под футуристический стиль
+§4Entering a dragon's mouth might not be the brightest idea.@§4Заходить в глотку к дракону может быть не самой умной идеей.
+§7[1/2] §2Kansard: §aDo you have the §3[Sunblight Boots]§a? Bring them to me, their rightful owner.@§7[1/2] §2Kansard: §aУ тебя есть §3[Солнечные Ботинки]§a? Принеси их мне, их законному владельцу. 
+§7[2/2] §2Corak: §aNo! Bring them to me! Those boots are very valuable, so I shall give you a considerable reward.@§7[2/2] §2Corak: §aНет! Принеси их ко мне! Эти сапоги очень ценные, так что я дам тебе значительную награду.
+§7[1/7] §2Canyon Hermit: §aNot a step closer! What do you think you're doing, just waltzing in someone else's property?@§7[1/7] §2Canyon Hermit: §aНи шагу ближе! Как ты думаешь, что ты делаешь, просто придя в чужую собственность?
+§7[2/7] §2Canyon Hermit: §aUgh... I'm sorry for that. Secluding yourself from the society has its effects. I'd love to have a chat with someone.@§7[2/7] §2Canyon Hermit: §aУгх... прошу прощения за это. Уединение от общества имеет свои последствия. Я бы хотел с кем-нибудь поговорить.
+§7[3/7] §2Canyon Hermit: §aPlease, be my guest! Just don't get anywhere near my tent, you understand? That's where I keep my valuables.@§7[3/7] §2Canyon Hermit: §aПожалуйста, будь моим гостем! Только не приближайся к моей палатке, понял? Там я храню свои ценные вещи.
+§7[4/7] §2Canyon Hermit: §aSo, what's been happening on the outside world? Are the dwarves and doguns at peace yet? What about the corruption in Wynn?@§7[4/7] §2Canyon Hermit: §aИтак, что происходит во внешнем мире? Мир между гномами и догунами еще не наступил? Что насчет порчи в провинции Винн?
+§7[5/7] §2Canyon Hermit: §aHm? Do you smell that? It's as if something was bu- OH MY GOD, MY TENT!@§7[5/7] §2Canyon Hermit: §aХм? Ты чувствуешь этот запах? Как будто что-то гор ... О БОЖЕ, МОЯ ПАЛАТКА!
+§7[6/7] §2Canyon Hermit: §aQuick, help me put it ou- OH NO NOT THIS!@§7[6/7] §2Canyon Hermit: §aБыстро, помоги мне вытащить все - О НЕТ, ТОЛЬКО НЕ ЭТО!
+§7[1/1] §2Alem: §aHalt! §a§lNobody §ashould be this close to this gate. Not even a §3Level 50§a player would be brave enough.@§7[1/1] §2Alem: §aСтой! §a§lНикто§a не должен подходить близко к этим воротам. Даже игрок §350 уровня§a не будет достаточно храбрым.
+§7[1/1] §2Volmor: §aOohh, aren't you a naughty kid! Couldn't help coming back here, could you? I guess it's my magnetic personality!@§7[1/1] §2Volmor: §aОохх, ну что за непослушный ребенок! Не мог не вернуться сюда, не так ли? Думаю это из-за моей притягательной личности!
+§7[1/1] §2Jill: §aCheck the castle south-east of here for that treasure!@§7[1/1] §2Jill: §aПроверьте замок к юго-востоку отсюда на наличие этого сокровища!
+§d                          §d§lThe Fable@§d                          §d§lСказка
 §7    §7§oOver 1000 years ago, before the great dismantling of the Ahms region, a mighty beast roamed the land.
 §7    §7§oIt was not only a beast of immense power, but also great wisdom. Many would come from far and wide to seek its counsel.
 §7    §7§oHowever, after a cataclysmic event, the region shattered, and left the beast lost all hope in villager kind.
