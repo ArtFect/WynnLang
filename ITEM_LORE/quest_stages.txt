@@ -1981,7 +1981,7 @@ QUESTS/The_House_of_Twain_(Quest).txt =====
 §7Bring [1 Twain Journal] to @§7Принеси [1 Журнал Твейна] к 
 §7Twendle @§7Твендлу
  
-QUESTS/The_Hunger_of_Gerts_Part_I.txt 
+QUESTS/The_Hunger_of_Gerts_Part_I.txt =====
 §7Talk to Cikal at @§7Поговори с Цикалом на 
 §7[-35,68,-5413]@ 
 §7Look around the farms near @§7Осмотри фермы около 
@@ -2006,19 +2006,19 @@ QUESTS/The_Hunger_of_Gerts_Part_I.txt
 §7Go through the narrow tunnel @§7Пройди через узкий тоннель 
 §7at the back of the @§7что позади 
 §7cell @§7клетки
-§7Kill the Hungry Gert and @§7Убей голодного Герта и 
-§7return to Comor with the @§7вернись к Комору с 
 §7Leave the Secret Gerten Cave @§7Покинь Секретную Герт Пещеру
 §7Escape your cell @§7Сбеги из клетки
 §7Escape the Gerten prison @§7Сбеги из тюрьмы Гертов
 §7Head to the cell at @§7Подойди к клетке на 
 §7[-808,47,-8217]@ 
+§7Kill the Hungry Gert and @§7Убей голодного Герта и 
+§7return to Comor with the @§7вернись к Комору с 
 §7and investigate @§7и исследуй 
 §7Leave the Gerten prison and @§7Покинь тюрьму Гертов 
 §7return to Cikal to tell @§7и вернись к Цикалу 
 §7him about the tunnels @§7с рассказом о тоннелях
 
-QUESTS/The_Hunger_of_Gerts_Part_II.txt 
+QUESTS/The_Hunger_of_Gerts_Part_II.txt =====
 §7Talk to Gerten Chief Lobo @§7Поговори с Герт Шеф Лобо на 
 §7[-141,82,-5607]@ 
 §7Head to Jitaks house at @§7Отправляйся к дому Житака на 
@@ -2311,7 +2311,7 @@ QUESTS/Tribal_Aggression.txt =====
 §7return it to the Owl @§7и верни его в лагерь 
 §7Camp @§7Орлов 
  
-QUESTS/Troubled_Tribesmen.txt 
+QUESTS/Troubled_Tribesmen.txt =====
 §7Speak with Ka L'argwit at @§7Поговори с Ка Ларгвитом на 
 §7[-545,52,-313]@ 
 §7in Dernel. @§7в Дернел джунглях. 
@@ -2439,7 +2439,7 @@ QUESTS/WynnExcavation_Site_C.txt =====
 §7Report back to Excavator Placardus @§7Сообщи обо всем Раскопщику Плакардусу 
 §7with a [Red Crystal Shard] @§7с [Красным Осколком Кристалла]
  
-QUESTS/WynnExcavation_Site_D.txt 
+QUESTS/WynnExcavation_Site_D.txt =====
 §7Talk to Royal Advisor Carlos @§7Поговори с Королевским Советником Карлосом
 §7in Troms Castle @§7в замке Тромсa 
 §7[-848,98,-789]@ 
@@ -2465,6 +2465,7 @@ QUESTS/WynnExcavation_Site_D.txt
 §7Solve The Yellow Puzzle @§7Пройди желтый пазл
 §7Solve The Purple Puzzle @§7Пройди фиолетовый пазл
 §7Solve The Red Puzzle @§7Пройди красный пазл
+§7Solve The Green Puzzle @§7Пройди зеленый пазл
 §7Talk to Excavator Amadel @§7Поговори с Раскопщиком Амаделем
 §7Teleport to the Ancient City @§7Телепортируйся в Древний Город
 §7Explore The Ancient City @§7Исследуй Древний Город
