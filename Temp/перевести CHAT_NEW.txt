@@ -196,36 +196,33 @@ Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI�
 §7[1/1] §2Volmor: §aOohh, aren't you a naughty kid! Couldn't help coming back here, could you? I guess it's my magnetic personality!@§7[1/1] §2Volmor: §aОохх, ну что за непослушный ребенок! Не мог не вернуться сюда, не так ли? Думаю это из-за моей притягательной личности!
 §7[1/1] §2Jill: §aCheck the castle south-east of here for that treasure!@§7[1/1] §2Jill: §aПроверьте замок к юго-востоку отсюда на наличие этого сокровища!
 §d                          §d§lThe Fable@§d                          §d§lСказка
-§7    §7§oOver 1000 years ago, before the great dismantling of the Ahms region, a mighty beast roamed the land.
-§7    §7§oIt was not only a beast of immense power, but also great wisdom. Many would come from far and wide to seek its counsel.
-§7    §7§oHowever, after a cataclysmic event, the region shattered, and left the beast lost all hope in villager kind.
-§7    §7§oFor it was the desire of riches that shook the land, and the beast could not tolerate it any longer.
-§7    §7§oThe beast departed the fractured region, leaving the people with all the riches in the world, but no land to enjoy it with.
-§7    §7§oHe departed this land leaving only this advice: Should the greed of this land be in reprimand, seek me out. The seeds of enlightenment should be sewn at the canyon ridge.
-§7    §7§oAlthough the location of the “Ridge” has been supposedly found, no such seed has ever grown there.
-§7    §7§oLeading us to believe that the Ahms region has always been fractured, and this is just a tale passed down to explain what can not be explained.
-§4    §4§oThere is a handwritten note at the bottom...
-§7    §7§oShould you ever want to waste your seeds, the location is [630,147,-4590]
-§4A strong gust of wind forces you back
-§7[4/6] §2Farcor: §aI know it wasn’t your people who are to blame. But you had your part in the cataclysm.
-§7[5/6] §2Farcor: §aI have watched the Doguns' fall, the Guardian of the Forest sleep for a millenium, and the greed of villagers run rampant.
-§d            - §7+§7§oWealth or Knowledge
-§7[1/1] §2Jill: §aMaybe I should have taken the beans, at least I would have got something out of it.
-§7[1/1] §2Kale: §aOh... It's §a§lyou§a, again.
-§7[1/7] §2Baker: §aHello there! I can see you knead some sunrise flour, don't you? 
-§7[1/1] §2Frank: §aHello there! So, how're things going?
-§7[1/1] §2Chef Hamsey: §aWelcome back to le restaurant, aventurier!
-§7[1/1] §2???: §aPsst, over here!
-§7[1/3] §2Skyraider Guard: §aBack off! No'ne enters 'til the pirate queen is chosen. What's a landwalker like you doin' here?
-§7[2/3] §2Skyraider Guard: §aParticipate? Pirate QUEEN. Are ye a female? Actually, I can't see under yer helmet. Ye might be.
-§7[3/3] §2Skyraider Guard: §aOff with ya now! Before I call the gals to gut you.
-§7[1/1] §2Skyraider Guard: §aWatcha be doin' here?
-§7[1/5] §2Hrona: §aYer wantin' to be pirate queen, ye? Don' worry, I can help ye.
-§7[2/5] §2Hrona: §aY'see, the other pirates aren't fit for the role. They're dumb 'n weak. All they've got is looks.
-§7[3/5] §2Hrona: §aYer got the lot! Looks and talent.
-§7[4/5] §2Hrona: §aY'know, the guard, she's dumb too. A simple disguise will fool 'er. I heard there's a wig shop over at Ahmsord and they're sellin' a female pirate wig.
-§7[5/5] §2Hrona: §aGet one for yerself. It ain't free but it oughta fool em.
-§7[1/1] §2Hrona: §aDon' waste your time 'round me! You've got trials to attend.
+§7    §7§oOver 1000 years ago, before the great dismantling of the Ahms region, a mighty beast roamed the land.@§7    §7§oБолее 1000 лет назад, перед началом великого разрушения региона Амс, могучий зверь бродил по земле.
+§7    §7§oIt was not only a beast of immense power, but also great wisdom. Many would come from far and wide to seek its counsel.@§7    §7§oЭто было не только чудовище огромной силы, но и великой мудрости. Многие шли к нему из разных стран, чтобы обратиться за советом.
+§7    §7§oHowever, after a cataclysmic event, the region shattered, and left the beast lost all hope in villager kind.@§7    §7§oОднако после катастрофического события регион разрушился, и оставленный зверь потерял всякую надежду в роду жителей.
+§7    §7§oFor it was the desire of riches that shook the land, and the beast could not tolerate it any longer.@§7    §7§oИбо причиной было желание богатства, которое потрясло эту землю, и зверь больше не мог терпеть этого.
+§7    §7§oThe beast departed the fractured region, leaving the people with all the riches in the world, but no land to enjoy it with.@§7    §7§oЗверь покинул разрушенный регион, оставив людям все богатства в мире, но не землю, чтобы наслаждаться ею самому.
+§7    §7§oHe departed this land leaving only this advice: Should the greed of this land be in reprimand, seek me out. The seeds of enlightenment should be sewn at the canyon ridge.@§7    §7§oОн покинул эту землю, оставив только один совет: Если жадность на этой земле начнет порицаться - разыщите меня. Семена просветления должны быть посеяны на хребту каньона.
+§7    §7§oAlthough the location of the “Ridge” has been supposedly found, no such seed has ever grown there.@§7    §7§oНесмотря на то, что расположение “хребта” было якобы найдено, никакие семена там не вырастают.
+§7    §7§oLeading us to believe that the Ahms region has always been fractured, and this is just a tale passed down to explain what can not be explained.@§7    §7§oЭто все заставляет нас поверить в то, что регион Амс всегда был сломан, и это просто история, переданная, чтобы объяснить то, что не может быть объяснено.
+§4    §4§oThere is a handwritten note at the bottom...@§4    §4§oВнизу есть заметка от руки...
+§7    §7§oShould you ever want to waste your seeds, the location is [630,147,-4590]@§7    §7§oЕсли когда-нибудь захочешь потратить свои семена, координаты [630,147,-4590]
+§4A strong gust of wind forces you back@§4Сильный порыв ветра заставляет тебя уйти
+§d            - §7+§7§oWealth or Knowledge@§d            - §7+§7§oБогатство или Знания
+§7[1/1] §2Jill: §aMaybe I should have taken the beans, at least I would have got something out of it.@§7[1/1] §2Jill: §aМожет быть, мне стоило взять бобы, по крайней мере, я бы что-то из них получил.
+§7[1/1] §2Kale: §aOh... It's §a§lyou§a, again.@§7[1/1] §2Kale: §aОх... Это §a§lты§a, снова.
+§7[1/1] §2Frank: §aHello there! So, how're things going?@§7[1/1] §2Frank: §aПривет! Итак, как идут дела?
+§7[1/1] §2Chef Hamsey: §aWelcome back to le restaurant, aventurier!@§7[1/1] §2Chef Hamsey: §aДобро пожяловать в мой ресторан, путишесвенник!
+§7[1/1] §2???: §aPsst, over here!@§7[1/1] §2???: §aПсс, сюда!
+§7[1/3] §2Skyraider Guard: §aBack off! No'ne enters 'til the pirate queen is chosen. What's a landwalker like you doin' here?@§7[1/3] §2Skyraider Guard: §aНазад! Никто не войдет сюда, пока не выберут королеву пиратов. Что странник как ты делает тут?
+§7[2/3] §2Skyraider Guard: §aParticipate? Pirate QUEEN. Are ye a female? Actually, I can't see under yer helmet. Ye might be.@§7[2/3] §2Skyraider Guard: §aУчаствуешь? В выборах КОРОЛЕВЫ пиратов. Ты вообще женщина? А хотя, я не вижу, что под твоим шлемом. Ты можешь быть ей.
+§7[3/3] §2Skyraider Guard: §aOff with ya now! Before I call the gals to gut you.@§7[3/3] §2Skyraider Guard: §aТеперь уходи! Прежде чем я позову девчат выгнать тебя.
+§7[1/1] §2Skyraider Guard: §aWatcha be doin' here?@§7[1/1] §2Skyraider Guard: §aЧто ты здесь делаешь?
+§7[1/5] §2Hrona: §aYer wantin' to be pirate queen, ye? Don' worry, I can help ye.@§7[1/5] §2Hrona: §aТы хочешь стать королевой пиратов, да? Не беспокойся, я помогу тебе.
+§7[2/5] §2Hrona: §aY'see, the other pirates aren't fit for the role. They're dumb 'n weak. All they've got is looks.@§7[2/5] §2Hrona: §aКак видишь, другие пираты не очень подходят на эту роль. Они тупые и слабые. Все, что есть у них, это их внешность.
+§7[3/5] §2Hrona: §aYer got the lot! Looks and talent.@§7[3/5] §2Hrona: §aУ тебя же есть многое! Внешность и талант.
+§7[4/5] §2Hrona: §aY'know, the guard, she's dumb too. A simple disguise will fool 'er. I heard there's a wig shop over at Ahmsord and they're sellin' a female pirate wig.@§7[4/5] §2Hrona: §aЗнаешь, та охранница, она тоже тупая. Легкое перевоплощение обманет ее. Я слышала, что в Амсорде есть магазин париков, и там как раз есть парик женщины пирата.
+§7[5/5] §2Hrona: §aGet one for yerself. It ain't free but it oughta fool em.@§7[5/5] §2Hrona: §aИди и купи один. Это, конечно, не бесплатно, но ради обмана того стоит.
+§7[1/1] §2Hrona: §aDon' waste your time 'round me! You've got trials to attend.@§7[1/1] §2Hrona: §aНе трать свое время! Тебе нужно присутствовать на испытаниях.
 §7[1/1] §2Skyraider Guard: §aAnother contestant, huh? Fine, I'll let you in. Hurry up, though, the cerimony is starting soon!
 §7[1/1] §2Angry §2Queen §2Contestant: §aUgh! §aYou §asimply §acan't §abe §athe §apirate §aqueen, §aI'm §amost §afit §afor §ait!
 §7[1/1] §2Angry §2Queen §2Contestant: §aNo, §ano, §ano! §aI'll §afight §ayou §ato §athe §adeath §aif §ait §acalls, §aI §amust §abe §athe §aqueen! §aI'm §amuch §amore §aqualified §athan §aall §aof §ayou §apigs!
