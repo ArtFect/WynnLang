@@ -273,31 +273,31 @@ Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI�
 §d     -§7 Lore: §f§oOppressively dark and enigmatic, simply being inside this cave makes you feel disconnected from your body. Horrific power permeates the area...@§d     -§r§7 Лор: §r§f§oУгнетающе темно и загадочно. Просто находясь внутри пещеры, ты чувствуешь себя отключенным от своего тела. Ужасающая сила пронизывает территорию...
 §7[1/2]§2 The Beast: §aEscape...so close...need power...@§7[1/2]§2 The Beast: §aПобег...так близко...нужна сила...
 §7[2/2]§2 The Beast: §aMore power...you...T§a§kA§aKE YO§a§kU§aRS!@§7[2/2]§2 The Beast: §aБольше силы... ты... ЗА§a§kБРА§aТЬ ТВ§a§kО§aЮ!
-§4The mines look extremely dark. Better not risk getting lost without a good reason.
-§d     -§7 Lore: §f§oMold, viscera, chemicals, and waste combine to give this laboratory a disgusting smell. Filth seems to cover every inch of this place.
-§7[1/2]§2 Olux Plague Doctor:§a Hm? Aha, so the noises I heard were an uninvited guest rummaging about my laboratory...
-§7[2/2]§2 Olux Plague Doctor:§a Well, I do suppose it would be rude to hide the fruits of my study from you. Perhaps you will even provide just what I need to complete my next experiment!
-§7[1/12] §2Dogun Delg: §aGreat, now Humans are falling from the sky.
-§7[2/12] §2Dogun Delg: §aI came here to seek asylum, but it seems I cannot escape.
-§7[3/12] §2Dogun Delg: §aYou look like you've never seen a Dogun before.
-§7[4/12] §2Dogun Delg: §aI'm not surprised. There are very few left now.
-§7[5/12] §2Dogun Delg: §aThose of us that are left were forced to surface into hiding.
-§7[6/12] §2Dogun Delg: §aYou can't seriously think the dwarves were born underground, do you?
-§7[7/12] §2Dogun Delg: §aNo, they took our lands. Waged a bloody war for years.
-§7[8/12] §2Dogun Delg: §aIt was a lengthy, complicated war between 3 species and a few gods.
-§7[9/12] §2Dogun Delg: §aI myself ran after the Dogun capital fell to the stump legs.
-§7[10/12] §2Dogun Delg: §aI'm not going to regale you with war stories, but lets just say your little friends under the mountain are not the allies you thought they were.
-§7[11/12] §2Dogun Delg: §aI keep some old war documents around, if you were really interested you could read those.
-§7[12/12] §2Dogun Delg: §aI won't be shedding anymore lava thinking about what could have been.
-§7[1/3] §2Talking Mushroom: §aARGH, I'M CURSED, I SWEAR IT! EVEN THE SWEET RELEASE OF DEATH HASN'T GOTTEN ME AWAY FROM YOU! YOU'RE LIKE A COCKROACH!
-§7[2/3] §2Talking Mushroom: §aWHAT IS IT GOING TO TAKE TO GET ME AWAY FROM YOU? HEY, DEATH! CAN I LIVE IN A POT HERE OR ANYTHING OTHER THAN BEING WITH THIS JERK?!
-§8Death:§7 AS IT WERE, YOU ARE STILL LIVING, AND LIVING MATTER HERE TENDS TO SHRIVEL RATHER QUICKLY. I THINK YOU WILL BE STUCK WITH THEM FOR A RATHER LONG TIME
-§7[3/3] §2Talking Mushroom: §aJUST KILL ME NOW!
-§7[1/2] §2Death: §aTHIS IS AN EMPTY ROOM.
-§7[2/2] §2Death: §aAROUND THE MANSION, THERE ARE MANY MORE EMPTY ROOMS.
-§7[1/1] §2Death: §aI'VE HEARD THERE IS SOME GUY AT THE TOP OF SOME ICE TOWER RIPPING ME OFF.
-§c[§4!§c]§7 You're under attack! Defend yourself by aiming and firing your ship's cannons.
-§7[1/1] §2Guard: §aYou can't pass without a weapon! Please craft §3[1 Wand]§a and then show it to me.
+§4The mines look extremely dark. Better not risk getting lost without a good reason.@§4Шахты выглядят очень темными. Лучше не рисковать заблудиться там без веской причины.
+§d     -§7 Lore: §f§oMold, viscera, chemicals, and waste combine to give this laboratory a disgusting smell. Filth seems to cover every inch of this place.@§d     -§7 Лор: §f§oПлесень, внутренности, химикаты и отходы объединились здесь, чтобы дать этой лаборатории отвратительный запах. Грязь, кажется, покрывает каждый дюйм этого места.
+§7[1/2]§2 Olux Plague Doctor:§a Hm? Aha, so the noises I heard were an uninvited guest rummaging about my laboratory...@§7[1/2]§2 Olux Plague Doctor:§a Хм? Ага, значит, шум, который я слышал, был незваным гостем, рывшимся в моей лаборатории...
+§7[2/2]§2 Olux Plague Doctor:§a Well, I do suppose it would be rude to hide the fruits of my study from you. Perhaps you will even provide just what I need to complete my next experiment!@§7[2/2]§2 Olux Plague Doctor:§a Что ж, полагаю, было бы невежливо скрывать от тебя плоды моего исследования. Возможно, ты даже дашь мне именно то, что нужно для завершения моего следующего эксперимента!
+§7[1/12] §2Dogun Delg: §aGreat, now Humans are falling from the sky.@§7[1/12] §2Dogun Delg: §aОтлично, теперь люди падают с неба.
+§7[2/12] §2Dogun Delg: §aI came here to seek asylum, but it seems I cannot escape.@§7[2/12] §2Dogun Delg: §aЯ пришел сюда искать убежища, но, похоже, мне не убежать.
+§7[3/12] §2Dogun Delg: §aYou look like you've never seen a Dogun before.@§7[3/12] §2Dogun Delg: §aТы выглядишь так, будто никогда не видел Догуна раньше.
+§7[4/12] §2Dogun Delg: §aI'm not surprised. There are very few left now.@§7[4/12] §2Dogun Delg: §aНо я не удивлен. Нас осталось совсем немного.
+§7[5/12] §2Dogun Delg: §aThose of us that are left were forced to surface into hiding.@§7[5/12] §2Dogun Delg: §aТе из нас, кто остались, были вынуждены скрыться с поверхности.
+§7[6/12] §2Dogun Delg: §aYou can't seriously think the dwarves were born underground, do you?@§7[6/12] §2Dogun Delg: §aТы же не думаешь всерьез, что гномы родились под землей, не так ли?
+§7[7/12] §2Dogun Delg: §aNo, they took our lands. Waged a bloody war for years.@§7[7/12] §2Dogun Delg: §aНет, они захватили наши земли. Вели кровавую войну годами.
+§7[8/12] §2Dogun Delg: §aIt was a lengthy, complicated war between 3 species and a few gods.@§7[8/12] §2Dogun Delg: §aЭто была длительная, сложная война между 3 расами и несколькими богами.
+§7[9/12] §2Dogun Delg: §aI myself ran after the Dogun capital fell to the stump legs.@§7[9/12] §2Dogun Delg: §aЯ сам сбежал после того, как столица Догунов пала на колени.
+§7[10/12] §2Dogun Delg: §aI'm not going to regale you with war stories, but lets just say your little friends under the mountain are not the allies you thought they were.@§7[10/12] §2Dogun Delg: §aЯ не собираюсь радовать тебя военными историями, но давай просто скажем, что твои маленькие друзья под горой - не те союзники, которыми ты их считаешь.
+§7[11/12] §2Dogun Delg: §aI keep some old war documents around, if you were really interested you could read those.@§7[11/12] §2Dogun Delg: §aЯ храню некоторые старые военные документы, если тебе действительно интересно, можешь прочитать их.
+§7[12/12] §2Dogun Delg: §aI won't be shedding anymore lava thinking about what could have been.@§7[12/12] §2Dogun Delg: §aБольше не собираюсь проливать лаву, думая о том, что могло бы быть.
+§7[1/3] §2Talking Mushroom: §aARGH, I'M CURSED, I SWEAR IT! EVEN THE SWEET RELEASE OF DEATH HASN'T GOTTEN ME AWAY FROM YOU! YOU'RE LIKE A COCKROACH!@§7[1/3] §2Talking Mushroom: §aЧЕРТ, Я ПРОКЛЯТ, КЛЯНУСЬ! ДАЖЕ МОИ МОЛЬБЫ О СМЕРТИ НЕ ИЗБАВИЛИ МЕНЯ ОТ ТЕБЯ! ТЫ ПРЯМО КАК ТАРАКАН! 
+§7[2/3] §2Talking Mushroom: §aWHAT IS IT GOING TO TAKE TO GET ME AWAY FROM YOU? HEY, DEATH! CAN I LIVE IN A POT HERE OR ANYTHING OTHER THAN BEING WITH THIS JERK?!@§7[2/3] §2Talking Mushroom: §aЧТО НУЖНО СДЕЛАТЬ, ЧТОБЫ ИЗБАВИТЬ МЕНЯ ОТ ТЕБЯ? ЭЙ, СМЕРТЬ! МОГУ ЛИ Я ЖИТЬ У ТЕБЯ В ГОРШКЕ ЗДЕСЬ, ИЛИ ГДЕ-ЛИБО ЕЩЕ, ПРОСТО ЧТОБ НЕ БЫТЬ С ЭТИМ ПРИДУРКОМ?!
+§8Death:§7 AS IT WERE, YOU ARE STILL LIVING, AND LIVING MATTER HERE TENDS TO SHRIVEL RATHER QUICKLY. I THINK YOU WILL BE STUCK WITH THEM FOR A RATHER LONG TIME@§8Death:§7 КАК БЫ ТО НИ БЫЛО, ТЫ ВСЕ ЕЩЕ ЖИВОЙ, А ЖИВОЕ СУЩЕСТВО ЗДЕСЬ ИМЕЕТ ТЕНДЕНЦИЮ ДОВОЛЬНО БЫСТРО УВЯДАТЬ. ДУМАЮ, ЧТО ТЫ ЗАСТРЯЛ С НИМ ДОСТАТОЧНО НАДОЛГО 
+§7[3/3] §2Talking Mushroom: §aJUST KILL ME NOW!@§7[3/3] §2Talking Mushroom: §aПРОСТО УБЕЙ МЕНЯ СЕЙЧАС ЖЕ!
+§7[1/2] §2Death: §aTHIS IS AN EMPTY ROOM.@§7[1/2] §2Death: §aЭТО ПРОСТО ПУСТАЯ КОМНАТА.
+§7[2/2] §2Death: §aAROUND THE MANSION, THERE ARE MANY MORE EMPTY ROOMS.@§7[2/2] §2Death: §aПО ВСЕМУ ПОМЕСТЬЮ ЕСТЬ МНОГО ТАКИХ ПУСТЫХ КОМНАТ. 
+§7[1/1] §2Death: §aI'VE HEARD THERE IS SOME GUY AT THE TOP OF SOME ICE TOWER RIPPING ME OFF.@§7[1/1] §2Death: §aЯ СЛЫШАЛА, ЧТО КАКОЙ-ТО ПАРЕНЬ НА ВЕРШИНЕ КАКОЙ-ТО ЛЕДЯНОЙ БАШНИ ПРОСТО ИЗДЕВАЕТСЯ НАДО МНОЙ.
+§c[§4!§c]§7 You're under attack! Defend yourself by aiming and firing your ship's cannons.@§c[§4!§c]§7 Ты находишься под атакой! Защити себя, путем прицеливания и стрельбы из пушек своего корабля.
+§7[1/1] §2Guard: §aYou can't pass without a weapon! Please craft §3[1 Wand]§a and then show it to me.@§7[1/1] §2Guard: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Посох]§a и затем покажи его мне.
 §4You need to use the magical helmet to resist the lake's magic.
 §7This lock requires a certain key. It seems you can't open the door just yet.
 §7You hear a clicking noise above you...
