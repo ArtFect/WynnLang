@@ -1260,7 +1260,7 @@ Gert@Герт
 §4§lInfested Pit@§4§lЗараженная Яма
 §7Level: §f18@§7Уровень: §f18
 §c§lEXIT@§c§lВЫХОД
-§fWelcome to §a§lWynncraft@§fДобро пожаловать на §a§lWynncraft
+§7§fWelcome to §a§lWynncraft@§fДобро пожаловать на §a§lWynncraft
 §6The Minecraft MMORPG@§6Майнкрафт ММОРПГ
 §7Start your journey from humble beginnings@§7Начни свое приключение с простого начала
 §7in the Wynn province and explore one of the@§7в провинции Винн и исследуй одну из самых
@@ -1313,8 +1313,8 @@ Gert@Герт
 §3§l[§b§lContent Team§3§l]@§3§l[§b§lКонтент Тим§3§l]
 §7The CT are everyday players who@§7КТ - повседневные игроки, которые
 §7joined the team in order to create...@§7присоединяются к команде для создания...
-§7quests§7, builds§7, items§7. CMBs§7,@§7квестов§7, построек§7, предметов§7. Ком.Блоков§7,
-§7mobs§7, cinematics §7& much more!@§7мобов§7, кат-сцен §7и многого другого!
+§fquests§7, §fbuilds§7, §fitems§7. §fCMBs§7,@§fквестов§7, §fпостроек§7, §fпредметов§7. §fКом.Блоков§7,
+§fmobs§7, §fcinematics §7& §fmuch more!@§fмобов§7, §fкат-сцен §7и §fмногого другого!
 §bSupport Wynncraft@§bПоддержи Wynncraft
 §7Chat Colour@§7Цвет в Чате
 §7Chat Tag@§7Чат Тэг
