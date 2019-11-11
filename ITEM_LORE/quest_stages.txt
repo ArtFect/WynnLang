@@ -152,9 +152,9 @@ QUESTS/A_Marauder%27s_Dues.txt =====
 §7chasm and return it to @§7из бездны и верни его 
 §7Norsten @§7Норстену 
  
-QUESTS/A_Sandy_Scandal.txt 
-§7Talk to the Almuj Bank @§7Поговори со Стражем 
-§7Guard at @§7Алмуж Банка на 
+QUESTS/A_Sandy_Scandal.txt =====
+§7Talk to the Almuj Bank @§7Поговори со Алмуж Банк 
+§7Guard at @§7Стражем на 
 §7[976,83,-1963]@ 
 §7Go to the witness report @§7Иди по координатам 
 §7location at @§7в отчете на 
@@ -167,6 +167,7 @@ QUESTS/A_Sandy_Scandal.txt
 §7Find the source of the @§7Найди источник 
 §7detonation @§7взрыва 
 §7Inspect the safe @§7Посети сейф 
+§7Guard @§7Стражем 
 §7Look for signs of the @§7Ищи следы того, 
 §7bandits' whereabouts @§7куда отправились бандиты 
 §7Quickly! Go to the house @§7Быстрее! Иди к дому 
@@ -185,7 +186,7 @@ QUESTS/A_Sandy_Scandal.txt
 §7Blow up the door with @§7Взорви дверь оставшимся от 
 §7bandits' leftover TNT and exit @§7бандитов динамитом и выйди 
  
-QUESTS/Beneath_the_Depths.txt 
+QUESTS/Beneath_the_Depths.txt =====
 §7Talk to Javier in the @§7Поговори с Джавьером 
 §7Pirate Cove at @§7в Пиратской Бухте на 
 §7[-640,53,-3117]@ 
@@ -258,7 +259,7 @@ QUESTS/Canyon_Condor.txt =====
 §7and collect an egg for @§7и принеси яйцо для 
 §7Svin @§7Свина 
  
-QUESTS/Clearing_the_Camps.txt 
+QUESTS/Clearing_the_Camps.txt =====
 §7Talk to Captain Kymer in @§7Поговори с Капитаном Каймером 
 §7Llevigar at @§7в Ллевигарe на 
 §7[-2008,33,-4605]@ 
@@ -297,7 +298,7 @@ QUESTS/Corrupted_Betrayal.txt =====
 §7Mage so the barrier can @§7магу, чтобы барьер 
 §7be destroyed @§7был разрушен 
  
-QUESTS/Cowfusion.txt 
+QUESTS/Cowfusion.txt =====
 §7Talk to Ranol at @§7Поговори с Ранолом на 
 §7[768,45,-5425]@ 
 §7Head to the Wizard's Laboratory @§7Отправляйся в лабораторию ученого 
@@ -529,7 +530,7 @@ QUESTS/Dwarves_and_Doguns_Part_III.txt =====
 §7Return to the enchanter with @§7Вернись к чародею 
 §7the True Ice. @§7с Чистым Льдом
  
-QUESTS/Dwarves_and_Doguns_Part_IV.txt 
+QUESTS/Dwarves_and_Doguns_Part_IV.txt =====
 §7Return to Korzim at [1514, @§7Вернись к Корзиму на [1514, 
 §751, -5342] on the second @§751, -5342], что на втором этаже дома 
 §7floor of the enchanter in @§7чародея в Маэксе 
@@ -608,7 +609,7 @@ QUESTS/Enzan%27s_Brother.txt =====
 §7Find Enzan's brother near Nivla @§7Найди брата Энзанa 
 §7Forest @§7рядом с Лесом Нивла 
  
-QUESTS/Eye_of_the_Storm.txt 
+QUESTS/Eye_of_the_Storm.txt =====
 §7Talk to Arwes in the @§7Поговори с Арвесом 
 §7ruined cathedral at @§7в разрушенном соборе на 
 §7[-683,45,-5347]@ 
@@ -791,7 +792,7 @@ QUESTS/Finding_The_Light.txt =====
 §7Head back to the Arch @§7Вернись к Арке
 §7Enter The Light Realm @§7Войди в Царство Света 
  
-QUESTS/Flight_in_Distress.txt 
+QUESTS/Flight_in_Distress.txt =====
 §7Speak to the Passenger Controllant @§7Поговори с Контроллером на 
 §7[-172,108,-4946]@ 
 §7Enter the airship @§7Войди на дирижабль
@@ -819,9 +820,6 @@ QUESTS/Flight_in_Distress.txt
 §7the queen that is located @§7королеве, что находится 
 §7below deck @§7на нижней палубе
 §7Speak to the prisoner @§7Поговори с заключенным
-§7Escape your cell and find @§7Сбеги из клетки 
-§7a way to sabotage the @§7и найди способ остановить 
-§7ship @§7дирижабль
 §7Escape the cell, and finalize @§7Сбеги из тюрьмы, и доделай 
 §7the key to reach the @§7ключ к комнате 
 §7pirate queen @§7королевы пиратов
@@ -973,7 +971,7 @@ QUESTS/Green_Gloop.txt =====
 §7Fetch [8 Slimey Goo] for @§7Добудь [8 Вязкой Слизи] 
 §7Eluzterp @§7для Элузтерпа 
  
-QUESTS/Green_Skinned_Trouble.txt 
+QUESTS/Green_Skinned_Trouble.txt =====
 §7Speak to Piere in the @§7Поговори с Пьером 
 §7Llevigar plains at[-1851,56,-4959] @§7на полях Ллевигарa [-1851,56,-4959] 
 §7Report the attack to Detective @§7Сообщи об атаке 
@@ -1432,7 +1430,7 @@ QUESTS/Out_of_my_Mind.txt =====
 §7to the group in Troms @§7к детям в Тромсе 
 §7to report your findings @§7и сообщи о находках 
  
-QUESTS/Pirate%27s_Trove.txt 
+QUESTS/Pirate%27s_Trove.txt =====
 §7Talk to Damiral, outside Llevigar @§7Поговори с Дамиралом снаружи Ллевигарa 
 §7at [-1937, 38, -4260] @§7на [-1937, 38, -4260] 
 §7Clue I: Toward the sunset, @§7Подсказка I: В направлении заката,
@@ -1506,7 +1504,7 @@ QUESTS/Purple_and_Blue.txt
 §7Bring back a magical fragment @§7Принеси назад магический фрагмент
 §7and the helmet to Korun @§7и шлем к Коруну
 
-QUESTS/Recipe_for_Disaster.txt 
+QUESTS/Recipe_for_Disaster.txt =====
 §7Meet up with Chef Hamsey @§7Встреться с Шефом Хемзи 
 §7[949,129,-4475]@ 
 §7Find Chef Hamsey in his @§7Найди Шефа Хемзи на его 
@@ -1557,7 +1555,7 @@ QUESTS/Redbeard%27s_Booty.txt =====
 §7crew. Bring the two acquired @§7его команды. Принеси также две 
 §7maps. @§7добытые карты. 
  
-QUESTS/Reincarnation.txt 
+QUESTS/Reincarnation.txt =====
 §7Talk to Batelu in Bob's @§7Поговори с Батэлу
 §7Tomb at @§7в Гробнице Бобa 
 §7[372,54,-775]@ 
@@ -1621,7 +1619,6 @@ QUESTS/Royal_Trials.txt =====
 §7Exit through the mansion's window @§7Выйди через окно поместья
 §7Talk to the trials overseer @§7Поговори со смотрительницей испытаний
 
- 
 QUESTS/Sewers_of_Ragni.txt =====
 §7The lieutenant at @§7Лейтенанту на 
 §7[-890,60,-1874]@ 
@@ -1777,7 +1774,7 @@ QUESTS/Temple_of_the_Legends_(Quest).txt =====
 §7and bring proof of its @§7и принеси доказательство 
 §7death to Kelight @§7его смерти Келайгту 
  
-QUESTS/The_Belly_of_the_Beast.txt 
+QUESTS/The_Belly_of_the_Beast.txt =====
 §7Speak to King Burtan at @§7Поговори с Королем Буртаном на 
 §7[51,17,-5242]@ 
 §7Feed the Enchanted Flower to @§7Скорми Зачарованный 
@@ -1790,7 +1787,7 @@ QUESTS/The_Belly_of_the_Beast.txt
 §7Return to King Burtan to @§7Вернись к Королю Буртану 
 §7tell him of your success @§7и расскажи ему об успехе 
  
-QUESTS/The_Bigger_Picture.txt 
+QUESTS/The_Bigger_Picture.txt =====
 §7Talk to Psilo in the @§7Поговори с Псило 
 §7mushroom cave at @§7в грибной пещере на 
 §7[-205,42,-4308]@ 
@@ -1814,14 +1811,14 @@ QUESTS/The_Canary_Calls.txt =====
 §7Escape the coal mine! @§7Сбеги из шахты!
 §7Return to Grenot @§7Вернись к Греноту
  
-QUESTS/The_Canyon_Guides.txt 
+QUESTS/The_Canyon_Guides.txt =====
 §7Speak to Gana at @§7Поговори с Ганой на 
 §7[444,104,-4805]@ 
 §7Find Seluc inside the cave @§7Найди Селука внутри пещеры 
 §7[450,29,-5371]@ 
 §7Escort Seluc back to Gana @§7Приведи Селука обратно к Гане 
  
-QUESTS/The_Corrupted_Village.txt 
+QUESTS/The_Corrupted_Village.txt =====
 §7Speak to Orikal outside the @§7Поговори с Орикалом снаружи 
 §7Angry Village at [318,78,-1097]. @§7Злой Деревни на [318,78,-1097] 
 §7Examine the nearby corrupted spike @§7Посети вершину ближайшего шипа 
@@ -1831,18 +1828,18 @@ QUESTS/The_Corrupted_Village.txt
 §7useful about it's existance. @§7полезное о его существовании 
 §7Report back to Orikal about @§7Сообщи Орикалу 
 §7your observations. @§7о своих наблюдениях 
+§7Find the excavators inside the @§7Найди землекопов внутри 
+§7nearby cave to the northeast @§7ближайшей пещеры на северо-востоке 
+§7at [338,70,-1113]. @§7на [338,70,-1113]. 
 §7Exit the cave and speak @§7Покинь пещеру и поговори 
 §7to Orikal in his tent @§7с Орикалом в палатке 
 §7about his plan for destroying @§7по поводу планов уничтожения 
 §7the spike. @§7шипа 
-§7Find the excavators inside the @§7Найди землекопов внутри 
-§7nearby cave to the northeast @§7ближайшей пещеры на северо-востоке 
-§7at [338,70,-1113]. @§7на [338,70,-1113]. 
-§7Report to Orikal about your @§7Сообщи Орикалу 
 §7Find [Unstable Corrupted Ore], [Incendiary @§7Найди [Нестабильную руду], 
 §7Fluid] and [Switch Fuse] for @§7[Зажигательную жидкость], и [Переключатель 
 §7the TNT at the mining @§7с предохранителем] для изготовления 
 §7camp at [435,81,-1106]. @§7динамита в лагере [435,81,-1106]. 
+§7Report to Orikal about your @§7Сообщи Орикалу 
 §7Bring the explosive to the @§7Принеси взрывчатку вниз 
 §7spike in the cave and @§7к шипу в пещере 
 §7use it to destroy the @§7и используй ее 
@@ -1908,7 +1905,6 @@ QUESTS/The_Envoy_Part_II.txt =====
 §7Find Maxie outside the Factory @§7Найди Макси снаружи фабрики 
 §7at [-1707,75,-2610]. @§7на [-1707,75,-2610].
 
- 
 QUESTS/The_Fortuneteller.txt =====
 §7Talk to Jill in Kandon-Beda @§7Поговори с Джилл в Кандон-Бэда на 
 §7[746,150,-4468]@ 
@@ -1944,7 +1940,7 @@ QUESTS/The_Headless_Hunt.txt =====
 §7have freed the spirits of @§7что ты освободил души 
 §7the Dullahan's victims @§7жертв Дуллахана 
  
-QUESTS/The_Hidden_City.txt 
+QUESTS/The_Hidden_City.txt =====
 §7Talk to Narder at the @§7Поговори с Нардером возле 
 §7Thesead Coal Mines at @§7угольной шахты Тесеадa на 
 §7[661,78,-5070]@ 
@@ -1971,6 +1967,9 @@ QUESTS/The_Hidden_City.txt
 §7Head up the Airbase's Tower @§7Поднимись на башню авиабазы 
 §7to confront the hooded man @§7и сразись с человеком в капюшоне 
 §7Board the Eltom Cargo Ship @§7Зайди на борт торгового корабля Элтома 
+§7Escape your cell and find @§7Сбеги из клетки 
+§7a way to sabotage the @§7и найди способ остановить 
+§7ship @§7дирижабль
 §7Talk to Thesead's Mayor at @§7Поговори с Мэром Тесеада 
 §7[832,113,-4994]@ 
 §7at the top of Thesead @§7в башне Тесеада 
@@ -2613,7 +2612,6 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7the door that locks the @§7дверь закрывающую
 §7heirloom. @§7реликвию.
 §7cave.@§7пещеру
-§7Guard @§7Страж
 §7in the cave @§7в пещере
 §7Explore the house to find @§7Исследуй дом чтобы найти 
 §7a way out @§7выход 
