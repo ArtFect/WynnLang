@@ -190,14 +190,18 @@
 (.*) just contributed 1 emerald to the guild!@§b(r1) внес 1 эмеральд в гильдию!
 §bCongratulations! The guild has taken control of (.*) from (.*)!!!@§bПоздравляем! Гильдия взяла контроль над (r1) у (r2)!!!
 §b(.*) has set (.*) rank from (.*) to (.*)@§b(r1) изменил ранг (r2) с (r3) на (r4)
-§7\[\+(.*) §fⒹ §7Jeweling XP\] §6\[(\d+)%\]@§7[+(r1) §fⒹ §7Изготовление аксессуаров XP] §6[(r2)%]
-§7\[\+(.*) §fⓁ §7Alchemism XP\] §6\[(\d+)%\]@§7[+(r1) §fⓁ §7Алхимия XP] §6[(r2)%]
-§7\[\+(.*) §fⒶ §7Cooking XP\] §6\[(\d+)%\]@§7[+(r1) §fⒶ §7Кулинария XP] §6[(r2)%]
-§7\[\+(.*) §fⒻ §7Tailoring XP\] §6\[(\d+)%\]@§7[+(r1) §fⒻ §7Портняжное дело XP] §6[(r2)%]
-§7\[\+(.*) §fⒺ §7Scribing XP\] §6\[(\d+)%\]@§7[+(r1) §fⒺ §7Изготовление свитков XP] §6[(r2)%]
-§7\[\+(.*) §fⒽ §7Armouring XP\] §6\[(\d+)%\]@§7[+(r1) §fⒽ §7Изготовление брони XP] §6[(r2)%]
-§7\[\+(.*) §fⒼ §7Weaponsmithing XP\] §6\[(\d+)%\]@§7[+(r1) §fⒼ §7Оружейное Дело XP] §6[(r2)%]
-§7\[\+(.*) §fⒾ §7Woodworking XP\] §6\[(\d+)%\]@§7[+(r1) §fⒾ §7 Деревообработка XP] §6[(r2)%]
+§7\[\+(.*) §fⒿ§7 Farming§7 XP\](.*)@§7[+(r1) §fⒿ§7 Земледелие§7 XP](r2)
+§7\[\+(.*) §fⓀ§7 Fishing§7 XP\](.*)@§7[+(r1) §fⓀ§7 Рыбалка§7 XP](r2)
+§7\[\+(.*) §fⒷ§7 Mining§7 XP\](.*)@§7[+(r1) §fⒷ§7 Добыча Руды§7 XP](r2)
+§7\[\+(.*) §fⒸ§7 Woodcutting§7 XP\](.*)@§7[+(r1) §fⒸ§7 Лесорубство§7 XP](r2)
+§7\[\+(.*) §fⒹ §7Jeweling XP\](.*)@§7[+(r1) §fⒹ §7Изготовление аксессуаров XP](r2)
+§7\[\+(.*) §fⓁ §7Alchemism XP\](.*)@§7[+(r1) §fⓁ §7Алхимия XP](r2)
+§7\[\+(.*) §fⒶ §7Cooking XP\](.*)@§7[+(r1) §fⒶ §7Кулинария XP](r2)
+§7\[\+(.*) §fⒻ §7Tailoring XP\](.*)@§7[+(r1) §fⒻ §7Портняжное дело XP](r2)
+§7\[\+(.*) §fⒺ §7Scribing XP\](.*)@§7[+(r1) §fⒺ §7Изготовление свитков XP](r2)
+§7\[\+(.*) §fⒽ §7Armouring XP\](.*)@§7[+(r1) §fⒽ §7Изготовление брони XP](r2)
+§7\[\+(.*) §fⒼ §7Weaponsmithing XP\](.*)@§7[+(r1) §fⒼ §7Оружейное Дело XP](r2)
+§7\[\+(.*) §fⒾ §7Woodworking XP\](.*)@§7[+(r1) §fⒾ §7 Деревообработка XP](r2)
 §b(.*)§3has thrown a§b Disguise Bomb §3at§b(.*)§3! It will explode in §b5 seconds§3!@§b(r1)§3бросил §b Маскировочную Бомбу §3на§b(r2)§3! Она взорвется через §b5 секунд§3!
 §b(.*)'s Disguise Bomb§3 has exploded! You are now a §b(.*).§3 Buy your own at§b §bwynncraft.com\/store§3!@§bМаскировочная Бомба (r1)§3 взорвалась! Ты стал §b(r2).§3 Купи свою собственную на§b §bwynncraft.com/store§3!
 §b(.*)'s Disguise Bomb §3has run out! Visit §bwynncraft.com\/store§b §3to get your own!@§bМаскировочная Бомба (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы получить свою!
