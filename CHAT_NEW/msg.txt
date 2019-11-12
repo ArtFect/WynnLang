@@ -2149,6 +2149,8 @@ You're rejoining too quickly! Give us a moment to save your data.@§4Ты сли
 Unknown command. Type "/help" for help.@Неизвестная команда. Напиши "/help" для помощи.
 §2Music is now fading out...@§2Музыка теперь исчезает...
 §2You will now hear music again!@§2Теперь ты снова слышишь музыку!
+§2You can no longer see guild join messages in game!@§2Ты больше не видишь сообщения о вступлении в гильдию!
+§2You can now see guild join messages again!@§2ы снова видишь сообщения о вступлении в гильдию!
 §4You've already linked your Minecraft account to the forums@§4Ты уже привязал свой Майнкрафт аккаунт к форуму
 §cInvalid Arguments. Example: /guild join [Guild Prefix]@§cНедопустимый аргумент. Пример /guild join [Префикс Гильдии]
 §cInvalid price! Please try again with a number.@§cНедопустимая цена! Пожалуйста, попробуй еще раз числом.
@@ -2197,6 +2199,7 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §cCould not connect to target server, you have been moved to a fallback server.@§cНе удалось подключиться к выбраному серверу, ты был перемещен на резервный сервер.
 §aYour particle limit is now §foff (0)@§aТвой лимит частиц теперь §fотключен (0)
 §b - §7VIP Rank@§b - §7VIP Ранг
+§b - §7VIP+ Rank@§b - §7VIP+ Ранг
 §6Usage: §f/rename <name>@§6Использование: §f/rename <имя>
 §cYou can only use letters and spaces in item names!@§cТы можешь использовать только буквы и пробелы в названии предмета!
 §aRenamed!@§aПереименован!
@@ -2217,3 +2220,19 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7[+1 Fire Powder II]@§7[+1 Огонь Порошок II]
 §7[+1 Air Powder II]@§7[+1 Воздух Порошок II]
 §7[+1 Water Powder II]@§7[+1 Вода Порошок II]
+§cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException@§cНе можем подключиться к резервному серверу, попробуй позже
+§4This command is HERO only! Buy HERO at §cstore.wynncraft.com@§4Это команда только для игроков с рангом HERO! Купи HERO на §cstore.wynncraft.com
+§cYou do not have enough gold coins to buy that!@§cУ тебя недостаточно золотых монет, чтобы купить это!
+§cYou need 80 more gold coins.@§cТебе нужно еще 80 золотых монет.
+§bYou can buy gold coins at §3wynncraft.com/store@§bТы можешь купить золотые монеты на §3wynncraft.com/store
+§cYou are not whitelisted on this server!@§cТебя нет в вайтлисте сервера!
+§7Please type a song name in chat!@§7Пожалуйста напиши название трека в чат!
+§4You can only have 1 mob totem active at once...@§4Ты можешь активировать только 1 тотем одновременно...
+§4You are too close to another crate... Try moving away.@§4Ты находишься слишком близко к другому контейнеру...Попробуй отойти.
+§cWe're busy saving your data! Please try again...@§cМы заняты сохранением твоего прогресса! Пожалуйста попробуй снова...
+§cYou can not teleport while in a duel...@§cТы не можешь телепортироваться во время дуэли...
+§cYou do not have permission to execute this command!@§cУ тебя нет прав на использование этой команды!
+§cYou may only sell fully identified mythics on the market!@§cТы можешь продавать только полностью идентифицированные мифики на маркете!
+§4You've already finished the starting quest...@§4Ты уже завершил стартовый квест...
+§cClick/drop this item 2 more times if you really want to do this.@§cКликни/выбрось этот предмет еще 2 раза, если ты действительно хочешь это сделать.
+§cClick/drop this item 1 more times if you really want to do this.@§cКликни/выбрось этот предмет еще 1 раз, если ты действительно хочешь это сделать.
