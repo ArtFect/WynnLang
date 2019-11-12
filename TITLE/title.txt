@@ -1,4 +1,3 @@
-
 §7If these walls could talk...@§7Если бы эти стены могли говорить...
 §bServer restarting!@§bРестарт сервера!
 §6Area Discovered@§6Территория Открыта
@@ -355,3 +354,39 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте!
 §4Corrupted Hashr@§4Испорченный Хашр
 §4Wynnston@§4Виннстон
 §4Antikythera Supercomputer@§4Антикитера Суперкомпьютер
+
+######################Entering/Leaving##################################
+§7[You are now entering PirateÀÀÀCove]@§7[Ты входишь в Пиратскую Бухту]
+§7[You are now leaving PirateÀÀÀCove]@§7[Ты покидаешь Пиратскую Бухту]
+§7[You are now entering Selchar]@§7[Ты входишь в Сельчар]
+§7[You are now leaving Selchar]@§7[Ты покидаешь Сельчар]
+§7[You are now entering LegendaryÀÀÀIsland]@§7[Ты входишь на Легендарный Остров]
+§7[You are now leaving LegendaryÀÀÀIsland]@§7[Ты покидаешь Легендарный Остров]
+§7[You are now entering Cinfras]@§7[Ты входишь в Цинфрас]
+§7[You are now leaving Cinfras]@§7[Ты покидаешь Цинфрас]
+§7[You are now entering Rodoroc]@§7[Ты входишь в Родорок]
+§7[You are now leaving Rodoroc]@§7[Ты покидаешь Родорок]
+§7[You are now entering Detlas]@§7[Ты входишь в Детлас]
+§7[You are now leaving Detlas]@§7[Ты покидаешь Детлас]
+§7[You are now entering theÀÀÀForgery]@§7[Ты входишь в Кузницу]
+§7[You are now leaving theÀÀÀForgery]@§7[Ты покидаешь Кузницу]
+§7[You are now entering Ragni]@§7[Ты входишь в Рагни]
+§7[You are now leaving Ragni]@§7[Ты покидаешь Рагни]
+§7[You are now entering Efilim]@§7[Ты входишь в Эфилим]
+§7[You are now leaving Efilim]@§7[Ты покидаешь Эфилим]
+§7[You are now entering Nemract]@§7[Ты входишь в Немракт]
+§7[You are now leaving Nemract]@§7[Ты покидаешь Немракт]
+§7[You are now entering Troms]@§7[Ты входишь в Тромс]
+§7[You are now leaving Troms]@§7[Ты покидаешь Тромс]
+§7[You are now entering Nesaak]@§7[Ты входишь в Несаак]
+§7[You are now leaving Nesaak]@§7[Ты покидаешь Несаак]
+§7[You are now entering Almuj]@§7[Ты входишь в Алмуж]
+§7[You are now leaving Almuj]@§7[Ты покидаешь Алмуж]
+§7[You are now entering Lusuco]@§7[Ты входишь в Лусуко]
+§7[You are now leaving Lusuco]@§7[Ты покидаешь Лусуко]
+
+
+§7[You are now entering CorruptedÀÀÀIceÀÀÀBarrowsÀÀÀEntrance]@§7[Ты входишь в Испорченный Ледяной Курган Вход]
+§7[You are now entering CorruptedÀÀÀDecrepitÀÀÀSewersÀÀÀEntrance]@§7[Ты входишь в Испорченную Ветхую Канализацию Вход]
+§7[You are now entering CorruptedÀÀÀInfestedÀÀÀPitÀÀÀEntrance]@§7[Ты входишь в Испорченную Зараженную Яму Вход]
+§7[You are now entering CorruptedÀÀÀLostÀÀÀSanctuaryÀÀÀEntrance]@§7[Ты входишь в Испорченное Затерянное Святилище Вход]
