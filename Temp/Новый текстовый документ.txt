@@ -18,11 +18,11 @@
 §cYou now have the (.*).@§cВыбраны (r1).
 §7You have set your weapon skin to (.*)@§7Ты установил на свое оружие (r1) скин
 §4Try adding some more §c(.*)§4 items.@§4Попробуй добавить больше §c(r1)§4 наград.
+
+
 (.*) has logged into server (.*) as §(a|b)(?:an|a) (.*)@(r1) зашел на сервер (r2) классом §(r3)(r4)
 §e(.*) You are now level (.*) in (.*)@§e                  Ты достиг (r2) уровня в (r3)
 §5Only (.*) more levels §5until you can use the (.*)@§5Еще §d(r1) уровня §5и ты сможешь использовать §d(r2)
-
-
 §5Only (.*) more level §5until you can use the (.*)@§5Еще §d(r1) уровень §5и ты сможешь использовать §d(r2)
 §7\+ Faster Gathering §8\[(.*)\]@§7+ Более быстрая добыча §8[(r1)]
 §7\+ Faster Refining §8\[(.*)\]@§7+ Более быстрая переработка §8[(r1)]
