@@ -1,16 +1,8 @@
 §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException@§cНе можем подключиться к резервному серверу, попробуй позже
 
-§e§nClick here to claim them!@§e§nКликни здесь, чтобы получить их!
-
-
-
 §7[1/2] §2Daxand: §aThe bar across the river has always held my suspicions, however the endeavours of others minds should not trouble your own.@§7[1/2] §2Daxand: §aБар за рекой всегда вызывал у меня подозрения, однако чужие мысли не должны тревожить твои собственные.
 §7[2/2] §2Daxand: §aAlthough, it can be rewarding to settle the curiosity, lest it spread across one's mind.@§7[2/2] §2Daxand: §aХотя, это может быть полезно, чтобы успокоить любопытство, чтобы оно не распространилось на ум.
 
-§6Corrupted Wand@§6Испорченный Посох
-§7Disguise your wand with a corrupted flair@§7Маскирует твой посох под стиль порчи
-§6Bovemist Effect@§6Эффект Бовемиста
-§7Give your character a bovemist appearance@§7Дает твоему персонажу внешний вид бовемиста
 §7[1/2] §2Garull: §aIf you see Kelight again, tell him "I told you so" about the Creepers!@§7[1/2] §2Garull: §aЕсли увидишь Келайгта снова, скажи ему "я говорил тебе" насчет Криперов!
 §7[2/2] §2Garull: §aOh, and don't forget that the exit is right outside my house if you need to leave.@§7[2/2] §2Garull: §aОх, и не забудь, что выход справа от моего дома, если тебе нужно будет уйти.
 §7[1/1] §2Sergeant: §aWell, I finally finished cleaning out this aqueduct. Although, I guess I never really had to do this, since a shape-shifter gave me the order.@§7[1/1] §2Sergeant: §aЧто ж, я наконец-то закончил чистить эту канализацию. Хотя думаю, мне бы никогда не пришлсь этого делать, так как оборотень дал мне приказ.
@@ -18,8 +10,6 @@
 §7[1/1] §2Ranol: §aDang cow snagger! I'll get ya one day! Oi, you! Help me? No? A'ight, come back when yer Level 86!@§7[1/1] §2Ranol: §aЧертов коровий вор! Я достану тебя однажды! Эй, ты! Хочешь помочь? Нет? Хорошо, возвращайся на 86 уровне!
 
 §7[1/1] §2Sensei Miyagi: §aI could not possibly train an apprentice of your little experience, come back when you are level 89.@§7[1/1] §2Sensei Miyagi: §aЯ не могу обучить ученика с таким маленьким опытом; возвращайся, когда ты будешь 89-го уровня.
-§6Storm Effect@§6Эффект Шторма
-§7Create a storm effect around your character@§7Создает эффект шторма вокруг персонажа
 
 §7[1/1] §2Thesead's Mayor: §aPlease, go to the waiting room! I’m a bit busy right now.@§7[1/1] §2Thesead's Mayor: §aПожалуйста, иди в зал ожидания! Я сейчас немного занят.
 §4This command is HERO only! Buy HERO at §cstore.wynncraft.com@§4Это команда только для игроков с рангом HERO! Купи HERO на §cstore.wynncraft.com
@@ -40,8 +30,6 @@
 §bYou can buy gold coins at §3wynncraft.com/store@§bТы можешь купить золотые монеты на §3wynncraft.com/store
 §cYou are not whitelisted on this server!@§cТебя нет в вайтлисте сервера!
 
-§3You now have a §bChocolate Wybel@§3Теперь у тебя есть §bШоколадный Вубел
-
 §7[1/1] §2Eoric: §aEltom and its citizens are thankful for your service. The line between Human and Villager remains firmly in place.. For the most part.@§7[1/1] §2Eoric: §aЭлтом и его граждане благодарны тебе за службу. Граница между людьми и жителями твердо соблюдается... По большей части.
 §7[1/1] §2Eltom Guard: §aWell done, detective! You've made my job easier. I won't have to guard the exits anymore.@§7[1/1] §2Eltom Guard: §aОтличная работа, детектив! Ты облегчил мне работу. Мне больше не придется охранять выходы.
 
@@ -53,69 +41,36 @@
 
 §7[1/1] §2The Blacksmith: §aI am glad to hear that. Bob was a good warrior, he doesn't deserve to be bound to the earth for eternity.@§7[1/1] §2The Blacksmith: §aЯ рад это слышать. Боб был хорошим воином, он не заслуживает быть вечно привязанным к земле.
 
-
 §7[1/1] §2Gana: §aPlease help Seluc. To find the cave he is in, just follow the main path northwards to the edge of the canyon.@§7[1/1] §2Gana: §aПожалуйста, помоги Селуку. Чтобы найти пещеру, в которой он находится, просто следуй по главной тропе на север к краю каньона.
 §7[1/1] §2Taproot: §aThat is the enemy we face. Darkness itself. Now, let me show you. Let me take you back...@§7[1/1] §2Taproot: §aЭто враг, с которым мы сталкиваемся. Сама тьма. А теперь давай я тебе покажу. Перемещу тебя обратно...
 
 §7[1/1] §2Troms Guard: §aJust run! Get out of the city as fast as you can, and be prepared for a fight!@§7[1/1] §2Troms Guard: §aПросто беги! Убирайся из города как можно быстрее, и будь готов к бою!
 §7[1/1] §2Amadel's Assistant: §aOh hey, it's you!@§7[1/1] §2Amadel's Assistant: §aОх эй, это же ты!
-
-§7There seems to be nothing over here, best to turn back.@§7Кажется, здесь ничего нет, лучше повернуть назад
-
-§4An intense magical force throws you back. Maybe Harker has an idea of how to deal with this situation.@§4Сильная магическая сила отбрасывает тебя назад. Может быть у Харкера есть идея, как справиться с этой ситуацией.
 §7[1/1] §2Naragath: §a§lMy servants! It would appear we have fresh blood among us! Spill it at my feet, for my glory!@§7[1/1] §2Naragath: §a§lМои слуги! Кажется, тут есть свежая кровь среди нас! Пролейте ее к моим ногам, во славу мою!
 §b - §7VIP+ Rank@§b - §7VIP+ Ранг
 §7Please type a song name in chat!@§7Пожалуйста напиши название трека в чат!
 §4You can only have 1 mob totem active at once...@§4Ты можешь активировать только 1 тотем одновременно...
-
-§7[1/1] §2Ollie: §aThe mystical eye sees beyond this realm. One should be careful with knowledge of the beyond.@§7[1/1] §2Ollie: §aМистический глаз видит за пределы этого царства. Нужно быть осторожными с такими знаниями.
 §4You are too close to another crate... Try moving away.@§4Ты находишься слишком близко к другому контейнеру...Попробуй отойти.
-§7Disguise your dagger as a piece of food@§7Максирует твой кинжал под кусок еды
-§7You have set your helmet skin to Adventurer's Hat@§7Ты установил в качестве своего скин шлема Шапку Путешественника
-§7[1/1] §2Valimare: §aWhat are ya lingerin' around 'ere for? I've told ya all I know. Now either take a seat or get out.@§7[1/1] §2Valimare: §aЧто-то ты засиделся здесь? Я рассказал тебе все, что знаю. Теперь можешь либо присесть либо уйти.
+§7[1/1] §2Ollie: §aThe mystical eye sees beyond this realm. One should be careful with knowledge of the beyond.@§7[1/1] §2Ollie: §aМистический глаз видит за пределы этого царства. Нужно быть осторожными с такими знаниями.
 
+§7[1/1] §2Valimare: §aWhat are ya lingerin' around 'ere for? I've told ya all I know. Now either take a seat or get out.@§7[1/1] §2Valimare: §aЧто-то ты засиделся здесь? Я рассказал тебе все, что знаю. Теперь можешь либо присесть либо уйти.
 
 §7[1/1] §2Troms Guard: §aHey, where are you going? Are you §a§otrying§a to get yourself arrested? Talk to me first.@§7[1/1] §2Troms Guard: §aЭй, куда ты собрался? Ты пытаешься§o добиться§a, чтобы тебя арестовали? Сначала поговори со мной.
 §7[1/1] §2Elrund: §aYou do not know where that goes yet, speak to me first and I shall let you pass.@§7[1/1] §2Elrund: §aТы еще не знаешь, куда это ведет. Сначала поговори со мной, и я позволю тебе пройти.
 §2You can no longer see guild join messages in game!@§2Ты больше не видишь сообщения о вступлении в гильдию!
 §2You can now see guild join messages again!@§2ы снова видишь сообщения о вступлении в гильдию!
 
-
-§4The cave is collapsing!@§4Пещера разрушается!
-§4Run away!@§4Беги!
-
-
-
-§4You feel you need to complete something first@§4Ты чувствуешь, что тебе нужно сначала что-то завершить
-§4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7\nResetting systems §8<*> §7Loading "§7§oUnbeatable AI§7" preset...@§4[ §c§lВиннтрон §4| §8Версия: §8§n9001.14§4 ] §7\nСброс систем §8<*> §7Загрузка "§7§oНепобедимый ИИ§7" пресета...
-§4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7\nProcess is over §8<*>§7 "§7§oUnbeatable AI§7" won.@§4[ §c§lВиннтрон §4| §8Версия: §8§n9001.14§4 ] §7\nПроцесс завершен §8<*>§7 "§7§oНепобедимый ИИ§7" выиграл.
-§4[ §c§lWynntron §4| §8Ver§8§ksio§8n: §8§n9ERrOR.4§4 ] §7\nError E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI§7" ER§7§kLOL Lotem@§4[ §c§lВиннтрон §4| §8Вер§8§kси§8я: §8§n0LIIИБI<А.4§4 ] §7\nОшибка О§7§kшиб§7ка 30LIIИ§7§kБКа§8 <*>§7"§7§o§mНе§7§o§kпобе§7§oдимый ИИ§7" 0LII§7§kLOL Lotem
 §7[1/1] §2Corak: §aA human in Aldorei, what a wonderful prospect. Go on, you may enter the town through that cave.@§7[1/1] §2Corak: §aЧеловек в Алдоре  , какая замечательная перспектива. Иди, ты можешь войти в город через эту пещеру.
-§aA §cGodly Ozoth Effect§a!@§cБожественный Эффект Озот§a!
 
 §cWe're busy saving your data! Please try again...@§cМы заняты сохранением твоего прогресса! Пожалуйста попробуй снова...
-§6Futuristic Bow@§6Футуристический Лук
-§7Disguise your bow with a futuristic flair@§7Маскирует твой лук под футуристический стиль
-§4Entering a dragon's mouth might not be the brightest idea.@§4Заходить в глотку к дракону может быть не самой умной идеей.
+
 §7[1/2] §2Kansard: §aDo you have the §3[Sunblight Boots]§a? Bring them to me, their rightful owner.@§7[1/2] §2Kansard: §aУ тебя есть §3[Солнечные Ботинки]§a? Принеси их мне, их законному владельцу. 
 §7[2/2] §2Corak: §aNo! Bring them to me! Those boots are very valuable, so I shall give you a considerable reward.@§7[2/2] §2Corak: §aНет! Принеси их ко мне! Эти сапоги очень ценные, так что я дам тебе значительную награду.
 
 §7[1/1] §2Alem: §aHalt! §a§lNobody §ashould be this close to this gate. Not even a §3Level 50§a player would be brave enough.@§7[1/1] §2Alem: §aСтой! §a§lНикто§a не должен подходить близко к этим воротам. Даже игрок §350 уровня§a не будет достаточно храбрым.
 §7[1/1] §2Volmor: §aOohh, aren't you a naughty kid! Couldn't help coming back here, could you? I guess it's my magnetic personality!@§7[1/1] §2Volmor: §aОохх, ну что за непослушный ребенок! Не мог не вернуться сюда, не так ли? Думаю это из-за моей притягательной личности!
-§7[1/1] §2Jill: §aCheck the castle south-east of here for that treasure!@§7[1/1] §2Jill: §aПроверьте замок к юго-востоку отсюда на наличие этого сокровища!
-§d                          §d§lThe Fable@§d                          §d§lСказка
-§7    §7§oOver 1000 years ago, before the great dismantling of the Ahms region, a mighty beast roamed the land.@§7    §7§oБолее 1000 лет назад, перед началом великого разрушения региона Амс, могучий зверь бродил по земле.
-§7    §7§oIt was not only a beast of immense power, but also great wisdom. Many would come from far and wide to seek its counsel.@§7    §7§oЭто было не только чудовище огромной силы, но и великой мудрости. Многие шли к нему из разных стран, чтобы обратиться за советом.
-§7    §7§oHowever, after a cataclysmic event, the region shattered, and left the beast lost all hope in villager kind.@§7    §7§oОднако после катастрофического события регион разрушился, и оставленный зверь потерял всякую надежду в роду жителей.
-§7    §7§oFor it was the desire of riches that shook the land, and the beast could not tolerate it any longer.@§7    §7§oИбо причиной было желание богатства, которое потрясло эту землю, и зверь больше не мог терпеть этого.
-§7    §7§oThe beast departed the fractured region, leaving the people with all the riches in the world, but no land to enjoy it with.@§7    §7§oЗверь покинул разрушенный регион, оставив людям все богатства в мире, но не землю, чтобы наслаждаться ею самому.
-§7    §7§oHe departed this land leaving only this advice: Should the greed of this land be in reprimand, seek me out. The seeds of enlightenment should be sewn at the canyon ridge.@§7    §7§oОн покинул эту землю, оставив только один совет: Если жадность на этой земле начнет порицаться - разыщите меня. Семена просветления должны быть посеяны на хребту каньона.
-§7    §7§oAlthough the location of the “Ridge” has been supposedly found, no such seed has ever grown there.@§7    §7§oНесмотря на то, что расположение “хребта” было якобы найдено, никакие семена там не вырастают.
-§7    §7§oLeading us to believe that the Ahms region has always been fractured, and this is just a tale passed down to explain what can not be explained.@§7    §7§oЭто все заставляет нас поверить в то, что регион Амс всегда был сломан, и это просто история, переданная, чтобы объяснить то, что не может быть объяснено.
-§4    §4§oThere is a handwritten note at the bottom...@§4    §4§oВнизу есть заметка от руки...
-§7    §7§oShould you ever want to waste your seeds, the location is [630,147,-4590]@§7    §7§oЕсли когда-нибудь захочешь потратить свои семена, координаты [630,147,-4590]
-§4A strong gust of wind forces you back@§4Сильный порыв ветра заставляет тебя уйти
-§d            - §7+§7§oWealth or Knowledge@§d            - §7+§7§oБогатство или Знания
+§7[1/1] §2Jill: §aCheck the castle south-east of here for that treasure!@§7[1/1] §2Jill: §aПроверь замок к юго-востоку отсюда на наличие этого сокровища!
+
 §7[1/1] §2Jill: §aMaybe I should have taken the beans, at least I would have got something out of it.@§7[1/1] §2Jill: §aМожет быть, мне стоило взять бобы, по крайней мере, я бы что-то из них получил.
 
 §7[1/1] §2???: §aPsst, over here!@§7[1/1] §2???: §aПсс, сюда!
@@ -123,48 +78,17 @@
 §7[1/2] §2Death: §aTHIS IS AN EMPTY ROOM.@§7[1/2] §2Death: §aЭТО ПРОСТО ПУСТАЯ КОМНАТА.
 §7[2/2] §2Death: §aAROUND THE MANSION, THERE ARE MANY MORE EMPTY ROOMS.@§7[2/2] §2Death: §aПО ВСЕМУ ПОМЕСТЬЮ ЕСТЬ МНОГО ТАКИХ ПУСТЫХ КОМНАТ. 
 §7[1/1] §2Death: §aI'VE HEARD THERE IS SOME GUY AT THE TOP OF SOME ICE TOWER RIPPING ME OFF.@§7[1/1] §2Death: §aЯ СЛЫШАЛА, ЧТО КАКОЙ-ТО ПАРЕНЬ НА ВЕРШИНЕ КАКОЙ-ТО ЛЕДЯНОЙ БАШНИ ПРОСТО ИЗДЕВАЕТСЯ НАДО МНОЙ.
-§c[§4!§c]§7 You're under attack! Defend yourself by aiming and firing your ship's cannons.@§c[§4!§c]§7 Ты находишься под атакой! Защити себя, путем прицеливания и стрельбы из пушек своего корабля.
+
 §7[1/1] §2Guard: §aYou can't pass without a weapon! Please craft §3[1 Wand]§a and then show it to me.@§7[1/1] §2Guard: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Посох]§a и затем покажи его мне.
-§4You need to use the magical helmet to resist the lake's magic.@§4Тебе нужно использовать волшебный шлем, чтобы противостоять магии озера.
-§7This lock requires a certain key. It seems you can't open the door just yet.@§7Этот замок требует определенного ключа. Кажется, ты еще не можешь открыть дверь.
-§7You hear a clicking noise above you...@§7Ты слышишь щелкающий звук над собой...
-§d                         §d§lOcean History@§d                         §d§lИстория Океана
-§7    §7§oThe ocean has always operated as a buffer zone between the Gavel and Wynn province. It was mostly uninhabited for centuries, as the ocean was rough and deadly.@§7    §7§oОкеан всегда служил буферной зоной между Гавелом и провинцией Винн. В основном, он был необитаем на протяжении веков, так как океан был суровым и смертоносным. 
-§7    §7§oIt wasn't until the discovery of water magic on a huge scale that mages were able to settle the waves to allow movement of boats across the ocean.@§7    §7§oТолько после открытия магии воды в больших масштабах маги смогли усмирить волны, чтобы открыть движение лодок через океан. 
-§7    §7§oSince the wave calming over 100 years ago, the islands in the ocean have been heavily colonised by Humans and Villagers alike, mainly to avoid the creatures of the portal.@§7    §7§oПоскольку волны утихли более 100 лет назад, острова в океане были быстро колонизированы Людьми и Жителями, в основном, чтобы избежать созданий из портала. 
-§7    §7§oAlthough secluded, the islands offered a very desirable haven from the war for many humans, and offered great naval commerce locations for the Villagers.@§7    §7§oНесмотря на изолированность, острова предлагали очень желанный приют от войны для многих людей, и также отличные морские коммерческие точки для жителей. 
-§7    §7§oThe largest of all islands, Corkus, was not colonised by either Wynn or Gavel, but rather by a group of separatists from Fruma.@§7    §7§oСамый большой из всех островов, Коркус, был колонизирован не Винн или Гавелом, а группой сепаратистов из Фрумы. 
-§7    §7§oNot much is known about this land, only that it is incredibly advanced and although the people originally did not know a spell between them, they are now masters of industrial magic.@§7    §7§oМало что известно об этой земле, только то, что она невероятно продвинута, и хотя тамошние люди изначально не знали заклинаний, теперь они являются мастерами индустриальной магии. 
-§7    §7§oHowever, much like Fruma, the people there are incredibly secluded, and it is unknown to which province their allegiance holds.@§7    §7§oОднако, как и Фрума, люди там невероятно замкнуты, и неизвестно, какой провинции принадлежит их преданность. 
-§7    §7§oGavel has a lot to learn from the mechanical land of Corkus.@§7    §7§oГавелу есть чему поучиться у механической земли Коркусa. 
-§d                         §d§lGavel History@§d                         §d§lИстория Гавела
-§7    §7§oThe new fortunes made by the Villagers has allowed them to construct an entire city to welcome the cheap labour arriving from the Wynn province.@§7    §7§oНажитые богатства позволили Жителям построить целый город, чтобы приветствовать дешевую рабочую силу, пребывающую из провинции Винн. 
-§7    §7§oLlevigar, constructed of expensive marble is the icon of the province and holds immense industrial magical power to encourage more movement of people to the province.@§7    §7§oЛлевигар, построенный из дорогого мрамора, является иконой провинции и обладает огромной индустриальной магической силой для поощрения людей, все больше прибывающих в провинцию. 
-§7    §7§oVillagers are not often not willing to do tasks that involve a lot of travelling or combat.@§7    §7§oЖители часто не желают выполнять задачи, которые связаны с большим количеством путешествий или борьбой. 
-§7    §7§oTherefore, they have benefitted immensely from the movement of adventurers from the Wynn province, to whom they share the rewards of business ventures.@§7    §7§oПоэтому они получают огромную пользу от приезда путешественников из провинции Винн, с которыми те разделяют награды за деловые предложения. 
-§7    §7§oOften a very small share is given to the work force. Magical skill, money and the natural resources of Gavel allow it to thrive as a multicultural society.@§7    §7§oЧасто рабочая сила получает очень небольшую долю. Волшебные умения, деньги и природные ресурсы Гавелa позволяют ей процветать как многокультурное общество. 
-§7    §7§oGavel proclaims itself as the most advanced province in the world.@§7    §7§oГавел объявляет себя самой передовой провинцией в мире. 
-§d                         §d§lWynn History@§d                         §d§lИстория Винн
-§7    §7§oBefore 1000 years ago, not much was known about the Wynn province. It used to be a Human dominated province, mainly agricultural.@§7    §7§oЗа 1000 лет назад, было мало что известно о провинции Винн. Раньше это была провинция, в которой преобладали занимавшиеся сельским хозяйством люди.
-§7    §7§oMost of the population migrated from Fruma, to escape the monarchy in search of new lands. After the opening of the portal, things took a turn for the worse.@§7    §7§oБольшая часть населения мигрировала сюда из Фрумы, чтобы сбежать от монархии, в поисках новых земель. Но после открытия портала все изменилось к худшему. 
-§7    §7§oThe evil that was unleashed from the theorised realms war almost brought the province to it's knees.@§7    §7§oЗло, которое было выпущено из царства войны, почти поставило провинцию на колени. 
-§7    §7§oHowever, ironically it is the distinguishing event that made Wynn the center of the world.@§7    §7§oОднако, как это ни парадоксально, именно это событие сделало Винн центром всего мира. 
-§7    §7§oFruma initially abandoned all ties with the province and closed it's doors to the undead, and it's migrants.@§7    §7§oИзначально Фрума отказалась от всех связей с провинцией, и закрыла свои двери от нежити и мигрантов. 
-§7    §7§oThe province waged war on it's enemies for centuries, creating legends and ultimately a province of warriors.@§7    §7§oПровинция веками вела войну со своими врагами, создавая легенды, и в конце концов, провинцию воинов. 
-§7    §7§oThe war became so second nature to the province that children were able to kill before they could talk properly.@§7    §7§oВойна настолько стала неотъемлемой частью провинции, что дети уже умели убивать еще до того, как учились правильно говорить. 
-§7    §7§oCommunity and a strong national presence made the province admirable and formidable.@§7    §7§oСодружество и сильная национальная идея сделали провинцию величественной и огромной. 
+
 §7[1/1] §2Gylia Watch Guard: §aWe don't allow outsiders in our library, however, if you help Cikal with the gert problem, he might let you in.@§7[1/1] §2Gylia Watch Guard: §aМы не допускаем посторонних в нашу библиотеку, однако, если ты поможешь Цикалу с проблемой с Гертами, он может тебя впустить.
-§4Looks like you'll need a key to open this barricade up. Maybe the prison warden has one?@§4Похоже тебе понадобится ключ, чтобы открыть эту баррикаду. Может, у тюремного надзирателя есть такой?
+
 §7[1/1] §2Worid: §aHey! Are you done with what I asked?@§7[1/1] §2Worid: §aЭй! Ты закончил с тем, что я просил?
 §cYou can not teleport while in a duel...@§cТы не можешь телепортироваться во время дуэли...
-§4You don't have any pets...@§4У тебя нет никаких питомцев...
 §cYou do not have permission to execute this command!@§cУ тебя нет прав на использование этой команды!
 §cYou may only sell fully identified mythics on the market!@§cТы можешь продавать только полностью идентифицированные мифики на маркете!
 §4You've already finished the starting quest...@§4Ты уже завершил стартовый квест...
 §cClick/drop this item 2 more times if you really want to do this.@§cКликни/выбрось этот предмет еще 2 раза, если ты действительно хочешь это сделать.
 §cClick/drop this item 1 more times if you really want to do this.@§cКликни/выбрось этот предмет еще 1 раз, если ты действительно хочешь это сделать.
-§6Chrome Cybel Token@§6Хромовый Кубел Жетон
-§7This token can be redeemed for one cybel. Be careful, this item can not be scrapped after use@§7Этот жетон можно обменять на одного кубела. Осторожнее, этот предмет не может быть утилизирован после использования
-§3You now have a §bChrome Cybel@§3Теперь у тебя есть §bХромовый Кубел
-§a                            Slay Lv. 60+ Mobs@§a                            Убей Ур. 60+ Мобов
+
 §7[1/1] §2Guard: §aYou can't pass without a weapon! Please forge §3[1 Dagger]§a and then show it to me.@§7[1/1] §2Guard: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Кинжал]§a и затем покажи его мне.
