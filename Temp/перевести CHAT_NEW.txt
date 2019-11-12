@@ -1,12 +1,9 @@
 §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException@§cНе можем подключиться к резервному серверу, попробуй позже
-§7Owner: @§7Владелец: 
-§e§nClick here to claim them!@§e§nКликни здесь, чтобы получить их!
-§4You must pass the challenge before you leave the Xìngzhì cave!@§4Ты должен пройти челлендж, прежде чем покинуть Xìngzhì пещеру!
-§7The sheep raises its head to look at you, its eyes flare at the sight of the green tea.@§7Овца поднимает голову чтобы посмотреть на тебя, ее глаза направлены на кружку чая.
-§7You gesture the tea generously towards the sheep, and place it on the ground for it to drink. The sheep nods respectively to you.@§7Ты подносишь чай к овце и аккуратно ставишь его на землю, чтобы выпить. Овца поклоняется, чтобы отблагодарить тебя.
 
-§7The inscription on the gravestone reads §7§o"Here lies our great founder, Tisaun Sodeta. May he guide us through the endless fight."@§7Надпись на надгробии гласит "Здесь лежит наш великий основатель, Тисаун Содета. Пусть он проведет нас через бесконечную битву."
-§7An unsettlingly powerful energy seems to blanket the area. There is potential here §7for...something§7. But not yet...@§7Похоже, что мощная тревожная энергия покрывает эту область. Здесь есть потенциал для... чего-то. Но еще слишком рано...
+§e§nClick here to claim them!@§e§nКликни здесь, чтобы получить их!
+
+
+
 §7[1/2] §2Daxand: §aThe bar across the river has always held my suspicions, however the endeavours of others minds should not trouble your own.@§7[1/2] §2Daxand: §aБар за рекой всегда вызывал у меня подозрения, однако чужие мысли не должны тревожить твои собственные.
 §7[2/2] §2Daxand: §aAlthough, it can be rewarding to settle the curiosity, lest it spread across one's mind.@§7[2/2] §2Daxand: §aХотя, это может быть полезно, чтобы успокоить любопытство, чтобы оно не распространилось на ум.
 
@@ -17,7 +14,7 @@
 §7[1/2] §2Garull: §aIf you see Kelight again, tell him "I told you so" about the Creepers!@§7[1/2] §2Garull: §aЕсли увидишь Келайгта снова, скажи ему "я говорил тебе" насчет Криперов!
 §7[2/2] §2Garull: §aOh, and don't forget that the exit is right outside my house if you need to leave.@§7[2/2] §2Garull: §aОх, и не забудь, что выход справа от моего дома, если тебе нужно будет уйти.
 §7[1/1] §2Sergeant: §aWell, I finally finished cleaning out this aqueduct. Although, I guess I never really had to do this, since a shape-shifter gave me the order.@§7[1/1] §2Sergeant: §aЧто ж, я наконец-то закончил чистить эту канализацию. Хотя думаю, мне бы никогда не пришлсь этого делать, так как оборотень дал мне приказ.
-§4There seems to be someone inside, it's probably best not to disturb them.@§4Кажется, внутри кто-то есть, и лучше их не беспокоить.
+
 §7[1/1] §2Ranol: §aDang cow snagger! I'll get ya one day! Oi, you! Help me? No? A'ight, come back when yer Level 86!@§7[1/1] §2Ranol: §aЧертов коровий вор! Я достану тебя однажды! Эй, ты! Хочешь помочь? Нет? Хорошо, возвращайся на 86 уровне!
 
 §7[1/1] §2Sensei Miyagi: §aI could not possibly train an apprentice of your little experience, come back when you are level 89.@§7[1/1] §2Sensei Miyagi: §aЯ не могу обучить ученика с таким маленьким опытом; возвращайся, когда ты будешь 89-го уровня.
@@ -32,25 +29,9 @@
 §7[1/1] §2Death: §aIT SEEMS YOU ARE HAVING A BLAST, AREN'T YOU?@§7[1/1] §2Death: §aКАЖЕТСЯ, У ТЕБЯ СЕЙЧАС БОМБАНЕТ, НЕ ТАК ЛИ?
 §7[1/2] §2Death: §aWHAT DO YOU THINK YOU ARE DOING?@§7[1/2] §2Death: §aЧТО ТЫ ДЕЛАЕШЬ, ПО-ТВОЕМУ?
 §7[2/2] §2Death: §aYOU CANNOT JUST FINISH A QUEST BY ASKING IT TO.@§7[2/2] §2Death: §aТЫ НЕ МОЖЕШЬ ПРОСТО ЗАКОНЧИТЬ КВЕСТ, ПОПРОСИВ ОБ ЭТОМ.
-§cA level has been taken from you.@§cУровень был отнят у тебя.
-\nThis book's title reads...\n    One Second Is Enough To Die For\n        by Liza Seglend@\nНазвание этой книги гласит...\n    Одной Секунды Достаточно, Чтобы Умереть\n        автор Liza Seglend
-\nThis book's title reads...\n    Strategical Placement Of The Undead\n        by Fiscarn Lixmaoul@\nНазвание этой книги гласит...\n    Стратегическое Размещение Нежити\n        автор Fiscarn Lixmaoul
-\nThis book's title reads...\n    Total War: Armageddon\n        by Dullahan@\nНазвание этой книги гласит...\n    Тотальная Война: Армагеддон\n        автор Дуллахан
-\nThis book's title reads...\n    A Conjurer's Creations\n@\nНазвание этой книги гласит...\n    Творения Фокусника\n
-\nThis book's title reads...\n    Ambitions For World Domination\n        by Amadel@\nНазвание этой книги гласит...\n    Амбиции На Мировое Господство\n        автор Амадел
-\nThis book's title reads...\n    Death: Portrayals in Global Cultures\n@\nНазвание этой книги гласит...\n    Смерть: Изображения В Глобальных Культурах\n
-\nThis book's title reads...\n    The Disconnected World\n        by Nardoj Thearendu@\nНазвание этой книги гласит...\n    Отключенный Мир\n        автор Nardoj Thearendu
-\nThis book's title reads...\n    Am I Dead? Coping With Your Newfound Unlife\n        by Death@\nНазвание этой книги гласит...\n    Я Мертв? Справляюсь Со Своей Новообретенной Нежизнью\n        автор Смерть
-\nThis book's title reads...\n    Communist Books\n        Anonymous@\nНазвание этой книги гласит...\n    Коммунистические Книги\n        Анонимус
-\nThis book's title reads...\n    Sacrificial Pacts For Dummies\n        by Cihr Nettann@\nНазвание этой книги гласит...\n    Загробные Договора Для Чайников\n        автор Cihr Nettann
-\nThis book's title reads...\n    Timelapse Kingdom\n        by Nielad Serolfend@\nНазвание этой книги гласит...\n    Таймлапс Королевство\n        автор Nielad Serolfend
-\nThis book's title reads...\n    Last Aid For Beginners: What To Do With \n    Friends Coming Back To Life\n@\nНазвание этой книги гласит...\n    Последняя Помощь Для Начинающих: Что Делать \n    С Друзьями, Возвращающимися К Жизни\n
 
 §7[4/4] §2Ansei: §aLooks like you still have some more letters there, I guess you still need to deliver them to 1 more member of the crew.@§7[4/4] §2Ansei: §aПохоже, что у тебя все еще есть еще несколько писем, думаю, тебе все еще нужно доставить их еще 1 участнику команды.
 §7[4/4] §2Sytis: §aI see you were delivering the same message to the entire crew. Go and tell Dejol that I might be a while. There are a lot of trolls down there. I'm not scared though! Promise!@§7[4/4] §2Sytis: §aВижу, ты передал то же самое сообщение всей команде. Иди и скажи Дежолу, что я могу задержаться. Там внизу полно троллей. Но я не боюсь! Обещаю!
-
-§8    §8§oLooks like an uninteresting book of fairy tales.@§8    §8§oВыглядит как неинтересная книга со сказками.
-
 
 §7[1/1] §2Relend: §aIt's such a shame that my ship is gone. Oh well, I'll head back to the dock and build another one.@§7[1/1] §2Relend: §aЖаль, что моего корабля больше нет. Что же, я вернусь в доки, и построю еще один, таков мой приоритет.
 §7[1/1] §2The Secretary: §aWelcome to Ynnos' research facility! Hello, how can I help you?@§7[1/1] §2The Secretary: §aДобро пожаловать в исследовательский центр Янноса! Здравствуй, чем я могу тебе помочь?
@@ -58,14 +39,12 @@
 §cYou need 80 more gold coins.@§cТебе нужно еще 80 золотых монет.
 §bYou can buy gold coins at §3wynncraft.com/store@§bТы можешь купить золотые монеты на §3wynncraft.com/store
 §cYou are not whitelisted on this server!@§cТебя нет в вайтлисте сервера!
-§4you still need to gather the ingriedients, this is not a time to rest in the ship.@§4Тебе нужно собрать ингредиенты, сейчас не время для отдыха на лодке.
-§7You failed to get to the finish in time!@§7Ты не смог уложиться во время!
+
 §3You now have a §bChocolate Wybel@§3Теперь у тебя есть §bШоколадный Вубел
-§4You should probably not enter the submarine without permission...@§4Вероятно, тебе не следует входить на субмарину без разрешения...
-§4A creepy sound is heard... You shouldn't enter this place yet.@§4Жуткий звук слышен... Тебе пока не стоит входить в это место.
+
 §7[1/1] §2Eoric: §aEltom and its citizens are thankful for your service. The line between Human and Villager remains firmly in place.. For the most part.@§7[1/1] §2Eoric: §aЭлтом и его граждане благодарны тебе за службу. Граница между людьми и жителями твердо соблюдается... По большей части.
 §7[1/1] §2Eltom Guard: §aWell done, detective! You've made my job easier. I won't have to guard the exits anymore.@§7[1/1] §2Eltom Guard: §aОтличная работа, детектив! Ты облегчил мне работу. Мне больше не придется охранять выходы.
-§4 Gurgling comes from the spot and the ground pops around you.@§4Бульканье идет с этого места и земля трещит вокруг тебя.
+
 §7[1/1] §2Ferndor: §aWe need help, but we can't have any unexperienced warriors in our mansion, come back when you are level 66!@§7[1/1] §2Ferndor: §aНам нужна помощь, но мы не можем впустить неопытных воинов в наше поместье; возвращайся, когда достигнешь 66 уровня!
 §7[1/1] §2Vesdar: §aRemember, I'll know if you told anybody. Keep it hush-hush, bub.@§7[1/1] §2Vesdar: §aПомни, я узнаю, если ты кому-нибудь расскажешь. Держи это в секрете, приятель.
 §7[1/1] §2Office Manager: §aI am impressed you found a way to unlock the door. You are the first visitor to do so.@§7[1/1] §2Office Manager: §aЯ впечатлен, что ты нашел способ открыть дверь. Ты первый посетитель, который сделал это.
@@ -73,64 +52,47 @@
 §7[1/1] §2Traitor Thomas: §aHey, scram!@§7[1/1] §2Traitor Thomas: §aЭй, проваливай!
 
 §7[1/1] §2The Blacksmith: §aI am glad to hear that. Bob was a good warrior, he doesn't deserve to be bound to the earth for eternity.@§7[1/1] §2The Blacksmith: §aЯ рад это слышать. Боб был хорошим воином, он не заслуживает быть вечно привязанным к земле.
-§5Guild Master: §dIt seems that there is already a guild with that name... Try again!@§5Мастер Гильдий: §dПохоже, что уже есть гильдия с таким именем...Попробуй другое!
-§4Invalid rank entry. Options: §cChief, Captain, Recruiter@§4Неправильное написание ранга. Примеры: §cChief, Captain, Recruiter
-§7[You will now be teleported out of the server]@§7[Ты был телепортирован с сервера]
-§4Your guild is already in a battle!@§4Твоя гильдия уже находится в битве!
+
+
 §7[1/1] §2Gana: §aPlease help Seluc. To find the cave he is in, just follow the main path northwards to the edge of the canyon.@§7[1/1] §2Gana: §aПожалуйста, помоги Селуку. Чтобы найти пещеру, в которой он находится, просто следуй по главной тропе на север к краю каньона.
 §7[1/1] §2Taproot: §aThat is the enemy we face. Darkness itself. Now, let me show you. Let me take you back...@§7[1/1] §2Taproot: §aЭто враг, с которым мы сталкиваемся. Сама тьма. А теперь давай я тебе покажу. Перемещу тебя обратно...
 
-§7After looking at your map, you conclude that you need to go to [1003,139,-4853] to obtain §3[Snail Slime]§7.@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1003,139,-4853], чтобы добыть §3[Слизь Змеи]§7.
-§7After looking at your map, you conclude that you need to go to [965,42,-4443] to obtain the §3[Voidroot]§7.@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [965,42,-4443] чтобы добыть §3[Корень Пустоты]§7.
-
-§7After looking at your map, you conclude that you need to go to [1217,126,-4929] to obtain §3[Zork Rinds] §7and §3[Quicksalt]§a.@§7Посмотрев на свою карту, ты понял что нужно идти на координаты [1217, 126, -4929], чтобы добыть §3[Шкуру Зорка]§a и §3[Быструю Соль].
 §7[1/1] §2Troms Guard: §aJust run! Get out of the city as fast as you can, and be prepared for a fight!@§7[1/1] §2Troms Guard: §aПросто беги! Убирайся из города как можно быстрее, и будь готов к бою!
 §7[1/1] §2Amadel's Assistant: §aOh hey, it's you!@§7[1/1] §2Amadel's Assistant: §aОх эй, это же ты!
-§3You cannot recruit an army while this territory is in a war!@§3Ты не можешь рекрутировать армию, пока эта территория захватывается!
+
 §7There seems to be nothing over here, best to turn back.@§7Кажется, здесь ничего нет, лучше повернуть назад
-§4Please join a server that isn't going to restart soon.@§4Пожалуйста зайди на сервер, который не будет скоро перезагружаться.
+
 §4An intense magical force throws you back. Maybe Harker has an idea of how to deal with this situation.@§4Сильная магическая сила отбрасывает тебя назад. Может быть у Харкера есть идея, как справиться с этой ситуацией.
 §7[1/1] §2Naragath: §a§lMy servants! It would appear we have fresh blood among us! Spill it at my feet, for my glory!@§7[1/1] §2Naragath: §a§lМои слуги! Кажется, тут есть свежая кровь среди нас! Пролейте ее к моим ногам, во славу мою!
 §b - §7VIP+ Rank@§b - §7VIP+ Ранг
 §7Please type a song name in chat!@§7Пожалуйста напиши название трека в чат!
 §4You can only have 1 mob totem active at once...@§4Ты можешь активировать только 1 тотем одновременно...
-§3You do not have enough money to pay for that!@§3У тебя недостаточно денег, чтобы заплатить за это!
+
 §7[1/1] §2Ollie: §aThe mystical eye sees beyond this realm. One should be careful with knowledge of the beyond.@§7[1/1] §2Ollie: §aМистический глаз видит за пределы этого царства. Нужно быть осторожными с такими знаниями.
 §4You are too close to another crate... Try moving away.@§4Ты находишься слишком близко к другому контейнеру...Попробуй отойти.
 §7Disguise your dagger as a piece of food@§7Максирует твой кинжал под кусок еды
 §7You have set your helmet skin to Adventurer's Hat@§7Ты установил в качестве своего скин шлема Шапку Путешественника
 §7[1/1] §2Valimare: §aWhat are ya lingerin' around 'ere for? I've told ya all I know. Now either take a seat or get out.@§7[1/1] §2Valimare: §aЧто-то ты засиделся здесь? Я рассказал тебе все, что знаю. Теперь можешь либо присесть либо уйти.
-§cInvalid Arguments. Example: /guild invite [member]@§cНеправильные Аргументы. Пример: /guild invite [игрок]
+
 
 §7[1/1] §2Troms Guard: §aHey, where are you going? Are you §a§otrying§a to get yourself arrested? Talk to me first.@§7[1/1] §2Troms Guard: §aЭй, куда ты собрался? Ты пытаешься§o добиться§a, чтобы тебя арестовали? Сначала поговори со мной.
-§4That banner is not available!@§4Этот баннер недоступен!
-§3You can not set people to that rank.@§3Ты не можешь выдавать игрокам этот ранг.
 §7[1/1] §2Elrund: §aYou do not know where that goes yet, speak to me first and I shall let you pass.@§7[1/1] §2Elrund: §aТы еще не знаешь, куда это ведет. Сначала поговори со мной, и я позволю тебе пройти.
 §2You can no longer see guild join messages in game!@§2Ты больше не видишь сообщения о вступлении в гильдию!
 §2You can now see guild join messages again!@§2ы снова видишь сообщения о вступлении в гильдию!
-§4You already own this territory.@§4Вы уже захватили эту территорию.
-§4This is not a guild territory@§4Это не территория гильдий
 
-§d     -§7 Lore: §f§oIt seems the wizard's gravity spell made you fall all the way through space, landing on the moon itself. Weird.@§d     -§r§7 Лор: §r§f§oПохоже, гравитационное заклинание волшебника заставило тебя упасть сквозь пространство, приземлившись на саму Луну. Странно.
 
 §4The cave is collapsing!@§4Пещера разрушается!
 §4Run away!@§4Беги!
 
-§7By heavily salting the Zork Rinds, you have created "Double Jerky". You throw it into the pot of boiling water along with the Voidroot.@§7Сильно посолив шкуру Зоркa, ты приготовил "двойное вяленое мясо". Затем ты забросил это мясо в котел вместе с корнем пустоты.
-§7Next, you put in the snail slime and stir. After letting it simmer, you notice that the void root has doubled... you carry on anyway.@§7После ты перемешал все это со слизью змеи. Дав этому закипеть, ты заметил, что корень пустоты увеличился вдвое... несмотря на это, ты продолжил.
 
-§7You barely take your first bite into Chef Hamsey's dish before it melts in your mouth... Will the stew manage to match Hamsey's skills?@§7Как только ты сделал первый укус блюда шефа Hamsey, оно растаяло у тебя во рту... Сможет ли твое рагу соответствовать умениям Хемзи?
 
 §4You feel you need to complete something first@§4Ты чувствуешь, что тебе нужно сначала что-то завершить
-§4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7
-Resetting systems §8<*> §7Loading "§7§oUnbeatable AI§7" preset...
-§4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7
-Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.
-§4[ §c§lWynntron §4| §8Ver§8§ksio§8n: §8§n9ERrOR.4§4 ] §7
-Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI§7" ER§7§kLOL @Lotem
+§4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7\nResetting systems §8<*> §7Loading "§7§oUnbeatable AI§7" preset...@§4[ §c§lВиннтрон §4| §8Версия: §8§n9001.14§4 ] §7\nСброс систем §8<*> §7Загрузка "§7§oНепобедимый ИИ§7" пресета...
+§4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7\nProcess is over §8<*>§7 "§7§oUnbeatable AI§7" won.@§4[ §c§lВиннтрон §4| §8Версия: §8§n9001.14§4 ] §7\nПроцесс завершен §8<*>§7 "§7§oНепобедимый ИИ§7" выиграл.
+§4[ §c§lWynntron §4| §8Ver§8§ksio§8n: §8§n9ERrOR.4§4 ] §7\nError E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI§7" ER§7§kLOL Lotem@§4[ §c§lВиннтрон §4| §8Вер§8§kси§8я: §8§n0LIIИБI<А.4§4 ] §7\nОшибка О§7§kшиб§7ка 30LIIИ§7§kБКа§8 <*>§7"§7§o§mНе§7§o§kпобе§7§oдимый ИИ§7" 0LII§7§kLOL Lotem
 §7[1/1] §2Corak: §aA human in Aldorei, what a wonderful prospect. Go on, you may enter the town through that cave.@§7[1/1] §2Corak: §aЧеловек в Алдоре  , какая замечательная перспектива. Иди, ты можешь войти в город через эту пещеру.
 §aA §cGodly Ozoth Effect§a!@§cБожественный Эффект Озот§a!
-§cThe battle has expired!@§cБитва закончилась!
+
 §cWe're busy saving your data! Please try again...@§cМы заняты сохранением твоего прогресса! Пожалуйста попробуй снова...
 §6Futuristic Bow@§6Футуристический Лук
 §7Disguise your bow with a futuristic flair@§7Маскирует твой лук под футуристический стиль
@@ -157,10 +119,6 @@ Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI�
 §7[1/1] §2Jill: §aMaybe I should have taken the beans, at least I would have got something out of it.@§7[1/1] §2Jill: §aМожет быть, мне стоило взять бобы, по крайней мере, я бы что-то из них получил.
 
 §7[1/1] §2???: §aPsst, over here!@§7[1/1] §2???: §aПсс, сюда!
-§d     -§7 Lore: §f§oOppressively dark and enigmatic, simply being inside this cave makes you feel disconnected from your body. Horrific power permeates the area...@§d     -§r§7 Лор: §r§f§oУгнетающе темно и загадочно. Просто находясь внутри пещеры, ты чувствуешь себя отключенным от своего тела. Ужасающая сила пронизывает территорию...
-§4The mines look extremely dark. Better not risk getting lost without a good reason.@§4Шахты выглядят очень темными. Лучше не рисковать заблудиться там без веской причины.
-§d     -§7 Lore: §f§oMold, viscera, chemicals, and waste combine to give this laboratory a disgusting smell. Filth seems to cover every inch of this place.@§d     -§7 Лор: §f§oПлесень, внутренности, химикаты и отходы объединились здесь, чтобы дать этой лаборатории отвратительный запах. Грязь, кажется, покрывает каждый дюйм этого места.
-
 
 §7[1/2] §2Death: §aTHIS IS AN EMPTY ROOM.@§7[1/2] §2Death: §aЭТО ПРОСТО ПУСТАЯ КОМНАТА.
 §7[2/2] §2Death: §aAROUND THE MANSION, THERE ARE MANY MORE EMPTY ROOMS.@§7[2/2] §2Death: §aПО ВСЕМУ ПОМЕСТЬЮ ЕСТЬ МНОГО ТАКИХ ПУСТЫХ КОМНАТ. 
