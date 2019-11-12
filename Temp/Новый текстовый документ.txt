@@ -1,11 +1,6 @@
 
 
 
-Item_lore
-§3Crafted (.*)§8 \[(.*) Durability\]@ 
-
-
-
 
 Chat
 §7\[\+(.*) XP\]@ 
