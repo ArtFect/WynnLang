@@ -1,34 +1,21 @@
-§cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException@§cНе можем подключиться к резервному серверу, попробуй позже
-
-§7[1/2] §2Daxand: §aThe bar across the river has always held my suspicions, however the endeavours of others minds should not trouble your own.@§7[1/2] §2Daxand: §aБар за рекой всегда вызывал у меня подозрения, однако чужие мысли не должны тревожить твои собственные.
-§7[2/2] §2Daxand: §aAlthough, it can be rewarding to settle the curiosity, lest it spread across one's mind.@§7[2/2] §2Daxand: §aХотя, это может быть полезно, чтобы успокоить любопытство, чтобы оно не распространилось на ум.
-
 §7[1/2] §2Garull: §aIf you see Kelight again, tell him "I told you so" about the Creepers!@§7[1/2] §2Garull: §aЕсли увидишь Келайгта снова, скажи ему "я говорил тебе" насчет Криперов!
 §7[2/2] §2Garull: §aOh, and don't forget that the exit is right outside my house if you need to leave.@§7[2/2] §2Garull: §aОх, и не забудь, что выход справа от моего дома, если тебе нужно будет уйти.
-§7[1/1] §2Sergeant: §aWell, I finally finished cleaning out this aqueduct. Although, I guess I never really had to do this, since a shape-shifter gave me the order.@§7[1/1] §2Sergeant: §aЧто ж, я наконец-то закончил чистить эту канализацию. Хотя думаю, мне бы никогда не пришлсь этого делать, так как оборотень дал мне приказ.
+
 
 §7[1/1] §2Ranol: §aDang cow snagger! I'll get ya one day! Oi, you! Help me? No? A'ight, come back when yer Level 86!@§7[1/1] §2Ranol: §aЧертов коровий вор! Я достану тебя однажды! Эй, ты! Хочешь помочь? Нет? Хорошо, возвращайся на 86 уровне!
 
 §7[1/1] §2Sensei Miyagi: §aI could not possibly train an apprentice of your little experience, come back when you are level 89.@§7[1/1] §2Sensei Miyagi: §aЯ не могу обучить ученика с таким маленьким опытом; возвращайся, когда ты будешь 89-го уровня.
 
 §7[1/1] §2Thesead's Mayor: §aPlease, go to the waiting room! I’m a bit busy right now.@§7[1/1] §2Thesead's Mayor: §aПожалуйста, иди в зал ожидания! Я сейчас немного занят.
-§4This command is HERO only! Buy HERO at §cstore.wynncraft.com@§4Это команда только для игроков с рангом HERO! Купи HERO на §cstore.wynncraft.com
-§7[4/4] §2Felim: §aSo you were delivering that message to the entire crew? Well, looks like you only need to get to 4 more of us.@§7[4/4] §2Felim: §aТак ты доставил это сообщение всему экипажу? Ну, похоже, тебе нужно только добраться еще до 4 из нас.
+
+
 
 §7[1/1] §2Axelus: §aHey, you! Come back.@§7[1/1] §2Axelus: §aЭй, ты! Вернись.
-§7[1/1] §2Death: §aIT SEEMS YOU ARE HAVING A BLAST, AREN'T YOU?@§7[1/1] §2Death: §aКАЖЕТСЯ, У ТЕБЯ СЕЙЧАС БОМБАНЕТ, НЕ ТАК ЛИ?
-§7[1/2] §2Death: §aWHAT DO YOU THINK YOU ARE DOING?@§7[1/2] §2Death: §aЧТО ТЫ ДЕЛАЕШЬ, ПО-ТВОЕМУ?
-§7[2/2] §2Death: §aYOU CANNOT JUST FINISH A QUEST BY ASKING IT TO.@§7[2/2] §2Death: §aТЫ НЕ МОЖЕШЬ ПРОСТО ЗАКОНЧИТЬ КВЕСТ, ПОПРОСИВ ОБ ЭТОМ.
 
-§7[4/4] §2Ansei: §aLooks like you still have some more letters there, I guess you still need to deliver them to 1 more member of the crew.@§7[4/4] §2Ansei: §aПохоже, что у тебя все еще есть еще несколько писем, думаю, тебе все еще нужно доставить их еще 1 участнику команды.
-§7[4/4] §2Sytis: §aI see you were delivering the same message to the entire crew. Go and tell Dejol that I might be a while. There are a lot of trolls down there. I'm not scared though! Promise!@§7[4/4] §2Sytis: §aВижу, ты передал то же самое сообщение всей команде. Иди и скажи Дежолу, что я могу задержаться. Там внизу полно троллей. Но я не боюсь! Обещаю!
+
 
 §7[1/1] §2Relend: §aIt's such a shame that my ship is gone. Oh well, I'll head back to the dock and build another one.@§7[1/1] §2Relend: §aЖаль, что моего корабля больше нет. Что же, я вернусь в доки, и построю еще один, таков мой приоритет.
 §7[1/1] §2The Secretary: §aWelcome to Ynnos' research facility! Hello, how can I help you?@§7[1/1] §2The Secretary: §aДобро пожаловать в исследовательский центр Янноса! Здравствуй, чем я могу тебе помочь?
-§cYou do not have enough gold coins to buy that!@§cУ тебя недостаточно золотых монет, чтобы купить это!
-§cYou need 80 more gold coins.@§cТебе нужно еще 80 золотых монет.
-§bYou can buy gold coins at §3wynncraft.com/store@§bТы можешь купить золотые монеты на §3wynncraft.com/store
-§cYou are not whitelisted on this server!@§cТебя нет в вайтлисте сервера!
 
 §7[1/1] §2Eoric: §aEltom and its citizens are thankful for your service. The line between Human and Villager remains firmly in place.. For the most part.@§7[1/1] §2Eoric: §aЭлтом и его граждане благодарны тебе за службу. Граница между людьми и жителями твердо соблюдается... По большей части.
 §7[1/1] §2Eltom Guard: §aWell done, detective! You've made my job easier. I won't have to guard the exits anymore.@§7[1/1] §2Eltom Guard: §aОтличная работа, детектив! Ты облегчил мне работу. Мне больше не придется охранять выходы.
@@ -37,58 +24,19 @@
 §7[1/1] §2Vesdar: §aRemember, I'll know if you told anybody. Keep it hush-hush, bub.@§7[1/1] §2Vesdar: §aПомни, я узнаю, если ты кому-нибудь расскажешь. Держи это в секрете, приятель.
 §7[1/1] §2Office Manager: §aI am impressed you found a way to unlock the door. You are the first visitor to do so.@§7[1/1] §2Office Manager: §aЯ впечатлен, что ты нашел способ открыть дверь. Ты первый посетитель, который сделал это.
 
-§7[1/1] §2Traitor Thomas: §aHey, scram!@§7[1/1] §2Traitor Thomas: §aЭй, проваливай!
-
 §7[1/1] §2The Blacksmith: §aI am glad to hear that. Bob was a good warrior, he doesn't deserve to be bound to the earth for eternity.@§7[1/1] §2The Blacksmith: §aЯ рад это слышать. Боб был хорошим воином, он не заслуживает быть вечно привязанным к земле.
 
 §7[1/1] §2Gana: §aPlease help Seluc. To find the cave he is in, just follow the main path northwards to the edge of the canyon.@§7[1/1] §2Gana: §aПожалуйста, помоги Селуку. Чтобы найти пещеру, в которой он находится, просто следуй по главной тропе на север к краю каньона.
 §7[1/1] §2Taproot: §aThat is the enemy we face. Darkness itself. Now, let me show you. Let me take you back...@§7[1/1] §2Taproot: §aЭто враг, с которым мы сталкиваемся. Сама тьма. А теперь давай я тебе покажу. Перемещу тебя обратно...
 
-§7[1/1] §2Troms Guard: §aJust run! Get out of the city as fast as you can, and be prepared for a fight!@§7[1/1] §2Troms Guard: §aПросто беги! Убирайся из города как можно быстрее, и будь готов к бою!
-§7[1/1] §2Amadel's Assistant: §aOh hey, it's you!@§7[1/1] §2Amadel's Assistant: §aОх эй, это же ты!
 §7[1/1] §2Naragath: §a§lMy servants! It would appear we have fresh blood among us! Spill it at my feet, for my glory!@§7[1/1] §2Naragath: §a§lМои слуги! Кажется, тут есть свежая кровь среди нас! Пролейте ее к моим ногам, во славу мою!
-§b - §7VIP+ Rank@§b - §7VIP+ Ранг
-§7Please type a song name in chat!@§7Пожалуйста напиши название трека в чат!
-§4You can only have 1 mob totem active at once...@§4Ты можешь активировать только 1 тотем одновременно...
-§4You are too close to another crate... Try moving away.@§4Ты находишься слишком близко к другому контейнеру...Попробуй отойти.
+
 §7[1/1] §2Ollie: §aThe mystical eye sees beyond this realm. One should be careful with knowledge of the beyond.@§7[1/1] §2Ollie: §aМистический глаз видит за пределы этого царства. Нужно быть осторожными с такими знаниями.
 
 §7[1/1] §2Valimare: §aWhat are ya lingerin' around 'ere for? I've told ya all I know. Now either take a seat or get out.@§7[1/1] §2Valimare: §aЧто-то ты засиделся здесь? Я рассказал тебе все, что знаю. Теперь можешь либо присесть либо уйти.
-
-§7[1/1] §2Troms Guard: §aHey, where are you going? Are you §a§otrying§a to get yourself arrested? Talk to me first.@§7[1/1] §2Troms Guard: §aЭй, куда ты собрался? Ты пытаешься§o добиться§a, чтобы тебя арестовали? Сначала поговори со мной.
-§7[1/1] §2Elrund: §aYou do not know where that goes yet, speak to me first and I shall let you pass.@§7[1/1] §2Elrund: §aТы еще не знаешь, куда это ведет. Сначала поговори со мной, и я позволю тебе пройти.
-§2You can no longer see guild join messages in game!@§2Ты больше не видишь сообщения о вступлении в гильдию!
-§2You can now see guild join messages again!@§2ы снова видишь сообщения о вступлении в гильдию!
-
-§7[1/1] §2Corak: §aA human in Aldorei, what a wonderful prospect. Go on, you may enter the town through that cave.@§7[1/1] §2Corak: §aЧеловек в Алдоре  , какая замечательная перспектива. Иди, ты можешь войти в город через эту пещеру.
-
-§cWe're busy saving your data! Please try again...@§cМы заняты сохранением твоего прогресса! Пожалуйста попробуй снова...
-
-§7[1/2] §2Kansard: §aDo you have the §3[Sunblight Boots]§a? Bring them to me, their rightful owner.@§7[1/2] §2Kansard: §aУ тебя есть §3[Солнечные Ботинки]§a? Принеси их мне, их законному владельцу. 
-§7[2/2] §2Corak: §aNo! Bring them to me! Those boots are very valuable, so I shall give you a considerable reward.@§7[2/2] §2Corak: §aНет! Принеси их ко мне! Эти сапоги очень ценные, так что я дам тебе значительную награду.
 
 §7[1/1] §2Alem: §aHalt! §a§lNobody §ashould be this close to this gate. Not even a §3Level 50§a player would be brave enough.@§7[1/1] §2Alem: §aСтой! §a§lНикто§a не должен подходить близко к этим воротам. Даже игрок §350 уровня§a не будет достаточно храбрым.
 §7[1/1] §2Volmor: §aOohh, aren't you a naughty kid! Couldn't help coming back here, could you? I guess it's my magnetic personality!@§7[1/1] §2Volmor: §aОохх, ну что за непослушный ребенок! Не мог не вернуться сюда, не так ли? Думаю это из-за моей притягательной личности!
 §7[1/1] §2Jill: §aCheck the castle south-east of here for that treasure!@§7[1/1] §2Jill: §aПроверь замок к юго-востоку отсюда на наличие этого сокровища!
 
 §7[1/1] §2Jill: §aMaybe I should have taken the beans, at least I would have got something out of it.@§7[1/1] §2Jill: §aМожет быть, мне стоило взять бобы, по крайней мере, я бы что-то из них получил.
-
-§7[1/1] §2???: §aPsst, over here!@§7[1/1] §2???: §aПсс, сюда!
-
-§7[1/2] §2Death: §aTHIS IS AN EMPTY ROOM.@§7[1/2] §2Death: §aЭТО ПРОСТО ПУСТАЯ КОМНАТА.
-§7[2/2] §2Death: §aAROUND THE MANSION, THERE ARE MANY MORE EMPTY ROOMS.@§7[2/2] §2Death: §aПО ВСЕМУ ПОМЕСТЬЮ ЕСТЬ МНОГО ТАКИХ ПУСТЫХ КОМНАТ. 
-§7[1/1] §2Death: §aI'VE HEARD THERE IS SOME GUY AT THE TOP OF SOME ICE TOWER RIPPING ME OFF.@§7[1/1] §2Death: §aЯ СЛЫШАЛА, ЧТО КАКОЙ-ТО ПАРЕНЬ НА ВЕРШИНЕ КАКОЙ-ТО ЛЕДЯНОЙ БАШНИ ПРОСТО ИЗДЕВАЕТСЯ НАДО МНОЙ.
-
-§7[1/1] §2Guard: §aYou can't pass without a weapon! Please craft §3[1 Wand]§a and then show it to me.@§7[1/1] §2Guard: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Посох]§a и затем покажи его мне.
-
-§7[1/1] §2Gylia Watch Guard: §aWe don't allow outsiders in our library, however, if you help Cikal with the gert problem, he might let you in.@§7[1/1] §2Gylia Watch Guard: §aМы не допускаем посторонних в нашу библиотеку, однако, если ты поможешь Цикалу с проблемой с Гертами, он может тебя впустить.
-
-§7[1/1] §2Worid: §aHey! Are you done with what I asked?@§7[1/1] §2Worid: §aЭй! Ты закончил с тем, что я просил?
-§cYou can not teleport while in a duel...@§cТы не можешь телепортироваться во время дуэли...
-§cYou do not have permission to execute this command!@§cУ тебя нет прав на использование этой команды!
-§cYou may only sell fully identified mythics on the market!@§cТы можешь продавать только полностью идентифицированные мифики на маркете!
-§4You've already finished the starting quest...@§4Ты уже завершил стартовый квест...
-§cClick/drop this item 2 more times if you really want to do this.@§cКликни/выбрось этот предмет еще 2 раза, если ты действительно хочешь это сделать.
-§cClick/drop this item 1 more times if you really want to do this.@§cКликни/выбрось этот предмет еще 1 раз, если ты действительно хочешь это сделать.
-
-§7[1/1] §2Guard: §aYou can't pass without a weapon! Please forge §3[1 Dagger]§a and then show it to me.@§7[1/1] §2Guard: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Кинжал]§a и затем покажи его мне.
