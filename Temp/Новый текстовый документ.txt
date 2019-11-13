@@ -1,13 +1,6 @@
-
-§b(.*)§3 has disguised as a §b(.*)§3!@§b(r1)§3 замаскировался под §b(r2)§3!
 §c(.*)§4 is not a §c(.*)§4 weapon. You must use a §c(.*).@§c(r1)§4 не оружие для §c(r2)§4. Ты должен использовать §c(r3)
-
 §a\+ Spell Upgrade §2\[(.*)\]@§a+ Апгрейд заклинания §2[(r1)]
 §a\+ New Spell §2\[(.*)]@§a+ Новое заклинание §2[(r1)]
-
-
-§5Key Collector: §dBring me §3\[1 (.*)\]§d and I will grant you access to the dungeon.@§5Сборщик Ключей: §dПринеси мне §3[1 (r1)]§d и я гарантирую тебе доступ в данж.
 §cYou now have the (.*) effect.@§cВыбран эффект (r1).
 §cYou now have the (.*).@§cВыбраны (r1).
 §7You have set your weapon skin to (.*)@§7Ты установил на свое оружие (r1) скин
-§4Try adding some more §c(.*)§4 items.@§4Попробуй добавить больше §c(r1)§4 наград.
