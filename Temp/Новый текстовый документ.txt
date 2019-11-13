@@ -1,6 +1,2 @@
-§c(.*)§4 is not a §c(.*)§4 weapon. You must use a §c(.*).@§c(r1)§4 не оружие для §c(r2)§4. Ты должен использовать §c(r3)
 §a\+ Spell Upgrade §2\[(.*)\]@§a+ Апгрейд заклинания §2[(r1)]
 §a\+ New Spell §2\[(.*)]@§a+ Новое заклинание §2[(r1)]
-§cYou now have the (.*) effect.@§cВыбран эффект (r1).
-§cYou now have the (.*).@§cВыбраны (r1).
-§7You have set your weapon skin to (.*)@§7Ты установил на свое оружие (r1) скин
