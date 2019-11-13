@@ -307,6 +307,19 @@
 §b(.*)§3 has disguised as a §bcow§3!@§b(r1)§3 замаскировался под §bкорову§3!
 §b(.*)§3 has disguised as a §bcreeper§3!@§b(r1)§3 замаскировался под §bкрипера§3!
 §b(.*)§3 has disguised as a §bpigman§3!@§b(r1)§3 замаскировался под §bпигмена§3!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒾ§7 Деревообработке§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching combat §flevel (\d+)§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) комбат уровня§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒷ§7 Mining§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒷ§7 Добыче Руды§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒿ§7 Farming§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒿ§7 Земледелии§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒸ§7 Woodcutting§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒸ§7 Лесорубстве§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒹ§7 Jeweling§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒹ§7 Изготовлении Аксессуаров§7! 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⓁ§7 Alchemism§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⓁ§7 Алхимии§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⓀ§7 Fishing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⓀ§7 Рыбалке§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒽ§7 Armouring§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒽ§7 Изготовлении Брони§7! 
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒼ§7 Weaponsmithing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒼ§7 Оружейном Деле§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒶ§7 Cooking§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒶ§7 Кулинарии§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒻ§7 Tailoring§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒻ§7 Портняжном Деле§7!
+§8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒺ§7 Scribing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒺ§7 Изготовлении Свитков§7! 
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
