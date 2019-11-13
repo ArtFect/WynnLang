@@ -205,6 +205,116 @@
 §b(.*)§3has thrown a§b Disguise Bomb §3at§b(.*)§3! It will explode in §b5 seconds§3!@§b(r1)§3бросил §b Маскировочную Бомбу §3на§b(r2)§3! Она взорвется через §b5 секунд§3!
 §b(.*)'s Disguise Bomb§3 has exploded! You are now a §b(.*).§3 Buy your own at§b §bwynncraft.com\/store§3!@§bМаскировочная Бомба (r1)§3 взорвалась! Ты стал §b(r2).§3 Купи свою собственную на§b §bwynncraft.com/store§3!
 §b(.*)'s Disguise Bomb §3has run out! Visit §bwynncraft.com\/store§b §3to get your own!@§bМаскировочная Бомба (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы получить свою!
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBomb spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dБомба заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCharge spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dЗаряд заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dEscape spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПобег заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTeleport spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dТелепорт заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMeteor spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМетеор заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dVanish spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dИсчезновение заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dIce Snake spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dЛедяная Змея заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dДымовая Бомба заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMulti Hit spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМега Удар заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dЩит Стрел заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПрыжок заклинание 
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUppercut spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dАпперкот заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWar Scream spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dБоевой Клич заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpider Jump spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПрыжок Паука заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCreeper Dart spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dДротие Крипера заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBlink spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dОслепление заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDead Star spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМертвая Звезда заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCrystal Reptile spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dКристальная Рептилия заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeaven Jolt spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dНебесный Удар заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDagger Aura spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dКинжальная Аура заклинание
+§4You need a §fⒷ§c Mining§4 level of §c(\d+)§4 to gather from this resource!
+§4You need a §fⒿ§c Farming§4 level of §c(\d+)§4 to gather from this resource!
+§4You need a §fⒸ§c Woodcutting§4 level of §c(\d+)§4 to gather from this resource!
+§4You need a §fⓀ§c Fishing§4 level of §c(\d+)§4 to gather from this resource!
+§5Only §d(\d+) more level(|s) §5until you can gather from §dGranite
+§5Only §d(\d+) more level(|s) §5until you can gather from §dBirch
+§5Only §d(\d+) more level(|s) §5until you can gather from §dTrout
+§5Only §d(\d+) more level(|s) §5until you can gather from §dGold
+§5Only §d(\d+) more level(|s) §5until you can gather from §dWillow
+§5Only §d(\d+) more level(|s) §5until you can gather from §dRye
+§5Only §d(\d+) more level(|s) §5until you can gather from §dBarley
+§5Only §d(\d+) more level(|s) §5until you can gather from §dOat
+§5Only §d(\d+) more level(|s) §5until you can gather from §dSalmon
+§5Only §d(\d+) more level(|s) §5until you can gather from §dCarp
+§5Only §d(\d+) more level(|s) §5until you can gather from §dMalt
+§5Only §d(\d+) more level(|s) §5until you can gather from §dAcacia
+§5Only §d(\d+) more level(|s) §5until you can gather from §dSandstone
+§5Only §d(\d+) more level(|s) §5until you can gather from §dSpruce
+§5Only §d(\d+) more level(|s) §5until you can gather from §dIron
+§5Only §d(\d+) more level(|s) §5until you can gather from §dHops
+§5Only §d(\d+) more level(|s) §5until you can gather from §dIcefish
+§5Only §d(\d+) more level(|s) §5until you can gather from §dMillet
+§5Only §d(\d+) more level(|s) §5until you can gather from §dPiranha
+§5Only §d(\d+) more level(|s) §5until you can use the §dⒷ Gathering Pickaxe T(\d+)
+§5Only §d(\d+) more level(|s) §5until you can use the §dⒸ Gathering Axe T(\d+)
+§5Only §d(\d+) more level(|s) §5until you can use the §dⓀ Gathering Rod T(\d+)
+§5Only §d(\d+) more level(|s) §5until you can use the §dⒿ Gathering Scythe T(\d+)
+(.*) has logged into server (.*) as §(b|a)a Warrior
+(.*) has logged into server (.*) as §(b|a)a Knight
+(.*) has logged into server (.*) as §(b|a)an Archer
+(.*) has logged into server (.*) as §(b|a)a Dark Wizard
+(.*) has logged into server (.*) as §(b|a)a Mage
+(.*) has logged into server (.*) as §(b|a)an Assassin
+(.*) has logged into server (.*) as §(b|a)a Hunter
+(.*) has logged into server (.*) as §(b|a)a Ninja
+§e(.*)You are now level (\d+) in §fⒿ§e Farming
+§e(.*)You are now level (\d+) in §fⒸ§e Woodcutting
+§e(.*)You are now level (\d+) in §fⒼ§e Weaponsmithing
+§e(.*)You are now level (\d+) in §fⒷ§e Mining
+§e(.*)You are now level (\d+) in §fⓀ§e Fishing
+§e(.*)You are now level (\d+) in §fⒽ§e Armouring
+§e(.*)You are now level (\d+) in §fⓁ§e Alchemism
+§e(.*)You are now level (\d+) in §fⒾ§e Woodworking
+§e(.*)You are now level (\d+) in §fⒻ§e Tailoring
+§e(.*)You are now level (\d+) in §fⒹ§e Jeweling
+§e(.*)You are now level (\d+) in §fⒺ§e Scribing
+§e(.*)You are now level (\d+) in §fⒶ§e Cooking
+§4This material cannot be used for §fⒹ§c Jeweling
+§4This material cannot be used for §fⒼ§e Weaponsmithing
+§4This material cannot be used for §fⒽ§e Armouring
+§4This material cannot be used for §fⓁ§e Alchemism
+§4This material cannot be used for §fⒾ§e Woodworking
+§4This material cannot be used for §fⒻ§e Tailoring
+§4This material cannot be used for §fⒺ§e Scribing
+§4This material cannot be used for §fⒶ§e Cooking
+§c(.*)§4 requires your defence skill to be at least §c(\d+).
+§c(.*)§4 requires your strength skill to be at least §c(\d+).
+§c(.*)§4 requires your dexterity skill to be at least §c(\d+).
+§c(.*)§4 requires your intelligence skill to be at least §c(\d+).
+§c(.*)§4 requires your agility skill to be at least §c(\d+).
+§4This item requires your defence skill to be at least §c(\d+).
+§4This item requires your strength skill to be at least §c(\d+).
+§4This item requires your dexterity skill to be at least §c(\d+).
+§4This item requires your intelligence skill to be at least §c(\d+).
+§4This item requires your agility skill to be at least §c(\d+).
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Storm upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBomb upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dEscape upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpin Attack upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMulti Hit upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dVanish upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTeleport upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeal upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMeteor upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dIce Snake upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCharge upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBash upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUppercut upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWar Scream upgrade
+§b(.*)§3 has disguised as a §bzombie§3!
+§b(.*)§3 has disguised as a §bsheep§3!
+§b(.*)§3 has disguised as a §bspider§3!
+§b(.*)§3 has disguised as a §bchicken§3!
+§b(.*)§3 has disguised as a §bpig§3!
+§b(.*)§3 has disguised as a §bcow§3!
+§b(.*)§3 has disguised as a §bcreeper§3!
+§b(.*)§3 has disguised as a §bpigman§3!
+
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
