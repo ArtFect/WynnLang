@@ -215,6 +215,7 @@
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dДымовая Бомба заклинание
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dMulti Hit spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМега Удар заклинание
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dЩит Стрел заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Storm spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dШторм Стрел заклинание
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПрыжок заклинание 
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dUppercut spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dАпперкот заклинание
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dWar Scream spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dБоевой Клич заклинание
@@ -260,61 +261,52 @@
 (.*) has logged into server (.*) as §(b|a)an Assassin@(r1) зашел на сервер (r2) классом §(r3)Ассасин
 (.*) has logged into server (.*) as §(b|a)a Hunter@(r1) зашел на сервер (r2) классом §(r3)Охотник
 (.*) has logged into server (.*) as §(b|a)a Ninja@(r1) зашел на сервер (r2) классом §(r3)Ниндзя
-§e(.*)You are now level (\d+) in §fⒿ§e Farming
-§e(.*)You are now level (\d+) in §fⒸ§e Woodcutting
-§e(.*)You are now level (\d+) in §fⒼ§e Weaponsmithing
-§e(.*)You are now level (\d+) in §fⒷ§e Mining
-§e(.*)You are now level (\d+) in §fⓀ§e Fishing
-§e(.*)You are now level (\d+) in §fⒽ§e Armouring
-§e(.*)You are now level (\d+) in §fⓁ§e Alchemism
-§e(.*)You are now level (\d+) in §fⒾ§e Woodworking
-§e(.*)You are now level (\d+) in §fⒻ§e Tailoring
-§e(.*)You are now level (\d+) in §fⒹ§e Jeweling
-§e(.*)You are now level (\d+) in §fⒺ§e Scribing
-§e(.*)You are now level (\d+) in §fⒶ§e Cooking
-§4This material cannot be used for §fⒹ§c Jeweling
-§4This material cannot be used for §fⒼ§e Weaponsmithing
-§4This material cannot be used for §fⒽ§e Armouring
-§4This material cannot be used for §fⓁ§e Alchemism
-§4This material cannot be used for §fⒾ§e Woodworking
-§4This material cannot be used for §fⒻ§e Tailoring
-§4This material cannot be used for §fⒺ§e Scribing
-§4This material cannot be used for §fⒶ§e Cooking
-§c(.*)§4 requires your defence skill to be at least §c(\d+).
-§c(.*)§4 requires your strength skill to be at least §c(\d+).
-§c(.*)§4 requires your dexterity skill to be at least §c(\d+).
-§c(.*)§4 requires your intelligence skill to be at least §c(\d+).
-§c(.*)§4 requires your agility skill to be at least §c(\d+).
-§4This item requires your defence skill to be at least §c(\d+).
-§4This item requires your strength skill to be at least §c(\d+).
-§4This item requires your dexterity skill to be at least §c(\d+).
-§4This item requires your intelligence skill to be at least §c(\d+).
-§4This item requires your agility skill to be at least §c(\d+).
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Storm upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBomb upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dEscape upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpin Attack upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMulti Hit upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dVanish upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTeleport upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeal upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMeteor upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dIce Snake upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCharge upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBash upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUppercut upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWar Scream upgrade
-§b(.*)§3 has disguised as a §bzombie§3!
-§b(.*)§3 has disguised as a §bsheep§3!
-§b(.*)§3 has disguised as a §bspider§3!
-§b(.*)§3 has disguised as a §bchicken§3!
-§b(.*)§3 has disguised as a §bpig§3!
-§b(.*)§3 has disguised as a §bcow§3!
-§b(.*)§3 has disguised as a §bcreeper§3!
-§b(.*)§3 has disguised as a §bpigman§3!
-
+§e(.*)You are now level (\d+) in §fⒿ§e Farming@§e(r1)Ты достиг (r2) уровня в §fⒿ§e Земледелии
+§e(.*)You are now level (\d+) in §fⒸ§e Woodcutting@§e(r1)Ты достиг (r2) уровня в §fⒸ§e Лесорубстве
+§e(.*)You are now level (\d+) in §fⒼ§e Weaponsmithing@§e(r1)Ты достиг (r2) уровня в §fⒼ§e Оружейном Деле
+§e(.*)You are now level (\d+) in §fⒷ§e Mining@§e(r1)Ты достиг (r2) уровня в §fⒷ§e Добыче Руде
+§e(.*)You are now level (\d+) in §fⓀ§e Fishing@§e(r1)Ты достиг (r2) уровня в §fⓀ§e Рыбалке
+§e(.*)You are now level (\d+) in §fⒽ§e Armouring@§e(r1)Ты достиг (r2) уровня в §fⒽ§e Изготовлении Брони
+§e(.*)You are now level (\d+) in §fⓁ§e Alchemism@§e(r1)Ты достиг (r2) уровня в §fⓁ§e Алхимии
+§e(.*)You are now level (\d+) in §fⒾ§e Woodworking@§e(r1)Ты достиг (r2) уровня в §fⒾ§e Деревообработке
+§e(.*)You are now level (\d+) in §fⒻ§e Tailoring@§e(r1)Ты достиг (r2) уровня в §fⒻ§e Портняжном Деле
+§e(.*)You are now level (\d+) in §fⒹ§e Jeweling@§e(r1)Ты достиг (r2) уровня в §fⒹ§e Изготовлении Аксессуаров
+§e(.*)You are now level (\d+) in §fⒺ§e Scribing@§e(r1)Ты достиг (r2) уровня в §fⒺ§e Изготовлении Свитков
+§e(.*)You are now level (\d+) in §fⒶ§e Cooking@§e(r1)Ты достиг (r2) уровня в §fⒶ§e Кулинарии
+§c(.*)§4 requires your defence skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Защита было не менее §c(r2).
+§c(.*)§4 requires your strength skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Сила было не менее §c(r2).
+§c(.*)§4 requires your dexterity skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Точность было не менее §c(r2).
+§c(.*)§4 requires your intelligence skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Интеллект было не менее §c(r2).
+§c(.*)§4 requires your agility skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Ловкость было не менее §c(r2).
+§4This item requires your defence skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Защита было не менее §c(r2).
+§4This item requires your strength skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Сила было не менее §c(r2).
+§4This item requires your dexterity skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Точность было не менее §c(r2).
+§4This item requires your intelligence skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Интеллект было не менее §c(r2).
+§4This item requires your agility skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Ловкость было не менее §c(r2).
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Storm upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dШторм Стрел апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dШторм Стрел апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBomb upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dБомба апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dEscape upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПобег апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpin Attack upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dКруговая Атака апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMulti Hit upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМега Удар апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dVanish upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dИсчезновение апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dДымовая Бомба апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTeleport upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dТелепорт апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeal upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dИсцеление апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMeteor upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМетеор апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dIce Snake upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dЛедяная Змея апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCharge upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dЗаряд апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBash upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dОглушение апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUppercut upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dАпперкот апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWar Scream upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dБоевой Клич апгрейд
+§b(.*)§3 has disguised as a §bzombie§3!@§b(r1)§3 замаскировался под §bзомби§3!
+§b(.*)§3 has disguised as a §bsheep§3!@§b(r1)§3 замаскировался под §bовцу§3!
+§b(.*)§3 has disguised as a §bspider§3!@§b(r1)§3 замаскировался под §bпаука§3!
+§b(.*)§3 has disguised as a §bchicken§3!@§b(r1)§3 замаскировался под §bкурицу§3!
+§b(.*)§3 has disguised as a §bpig§3!@§b(r1)§3 замаскировался под §bсвинью§3!
+§b(.*)§3 has disguised as a §bcow§3!@§b(r1)§3 замаскировался под §bкорову§3!
+§b(.*)§3 has disguised as a §bcreeper§3!@§b(r1)§3 замаскировался под §bкрипера§3!
+§b(.*)§3 has disguised as a §bpigman§3!@§b(r1)§3 замаскировался под §bпигмена§3!
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
