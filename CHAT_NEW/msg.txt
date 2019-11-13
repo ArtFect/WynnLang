@@ -1377,28 +1377,27 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7+ New Tool §8[Ⓙ Gathering Scythe T6]@§7+ Новый Инструмент §8[Ⓙ Сборная Удочка У6]
 §7+ New Tool §8[Ⓙ Gathering Scythe T5]@§7+ Новый Инструмент §8[Ⓙ Сборная Удочка У5]
 
-§7+ Higher Refining Success §8[Unprocessed Wheat]
-§7+ Higher Refining Success §8[Unprocessed Oak Log]
-§7+ Higher Refining Success §8[Unprocessed Copper Ore]
-§7+ Higher Refining Success §8[Unprocessed Granite Ore]
-§7+ Higher Refining Success §8[Unprocessed Birch Log]
-§7+ Higher Refining Success §8[Unprocessed Gudgeon]
-§7+ Higher Refining Success §8[Unprocessed Gold Ore]
-§7+ Higher Refining Success §8[Unprocessed Rye]
-§7+ Higher Refining Success §8[Unprocessed Barley]
-§7+ Higher Refining Success §8[Unprocessed Oat]
-§7+ Higher Refining Success §8[Unprocessed Trout]
-§7+ Higher Refining Success §8[Unprocessed Salmon]
-§7+ Higher Refining Success §8[Unprocessed Acacia Log]
-§7+ Higher Refining Success §8[Unprocessed Iron Ore]
-§7+ Higher Refining Success §8[Unprocessed Icefish]
-§7+ Higher Refining Success §8[Unprocessed Willow Log]
-§7+ Higher Refining Success §8[Unprocessed Sandstone Ore]
-§7+ Higher Refining Success §8[Unprocessed Carp]
-§7+ Higher Refining Success §8[Unprocessed Spruce Log]
-§7+ Higher Refining Success §8[Unprocessed Malt]
-§7+ Higher Refining Success §8[Unprocessed Hops]
-
+§7+ Higher Refining Success §8[Unprocessed Wheat]@§7+ Шанс на успех при переработке §8[Необработанная Пшеница]
+§7+ Higher Refining Success §8[Unprocessed Oak Log]@§7+ Шанс на успех при переработке §8[Необработанное Бревно Дуба]
+§7+ Higher Refining Success §8[Unprocessed Copper Ore]@§7+ Шанс на успех при переработке §8[Необработанная Медная Руда]
+§7+ Higher Refining Success §8[Unprocessed Granite Ore]@§7+ Шанс на успех при переработке §8[Необработанная Гранитная Руда]
+§7+ Higher Refining Success §8[Unprocessed Birch Log]@§7+ Шанс на успех при переработке §8[Необработанное Бревно Березы]
+§7+ Higher Refining Success §8[Unprocessed Gudgeon]@§7+ Шанс на успех при переработке §8[Необработанный Пескарь]
+§7+ Higher Refining Success §8[Unprocessed Gold Ore]@§7+ Шанс на успех при переработке §8[Необработанная Золотая Руда]
+§7+ Higher Refining Success §8[Unprocessed Rye]@§7+ Шанс на успех при переработке §8[Необработанная Рожь]
+§7+ Higher Refining Success §8[Unprocessed Barley]@§7+ Шанс на успех при переработке §8[Необработанный Ячмень]
+§7+ Higher Refining Success §8[Unprocessed Oat]@§7+ Шанс на успех при переработке §8[Необработанный Овес]
+§7+ Higher Refining Success §8[Unprocessed Trout]@§7+ Шанс на успех при переработке §8[Необработанная Форель]
+§7+ Higher Refining Success §8[Unprocessed Salmon]@§7+ Шанс на успех при переработке §8[Необработанный Лосось]
+§7+ Higher Refining Success §8[Unprocessed Acacia Log]@§7+ Шанс на успех при переработке §8[Необработанное Бревно Акации]
+§7+ Higher Refining Success §8[Unprocessed Iron Ore]@§7+ Шанс на успех при переработке §8[Необработанная Железная Руда]
+§7+ Higher Refining Success §8[Unprocessed Icefish]@§7+ Шанс на успех при переработке §8[Необработанная Щука]
+§7+ Higher Refining Success §8[Unprocessed Willow Log]@§7+ Шанс на успех при переработке §8[Необработанное Бревно Ивы]
+§7+ Higher Refining Success §8[Unprocessed Sandstone Ore]@§7+ Шанс на успех при переработке §8[Необработанная Песчаная Руда]
+§7+ Higher Refining Success §8[Unprocessed Carp]@§7+ Шанс на успех при переработке §8[Необработанный Карп]
+§7+ Higher Refining Success §8[Unprocessed Spruce Log]@§7+ Шанс на успех при переработке §8[Необработанное Бревно Ели]
+§7+ Higher Refining Success §8[Unprocessed Malt]@§7+ Шанс на успех при переработке §8[Необработанный Солод]
+§7+ Higher Refining Success §8[Unprocessed Hops]@§7+ Шанс на успех при переработке §8[Необработанный Хмель]
 §7+ Faster Refining §8[Unprocessed Wheat]
 §7+ Faster Refining §8[Unprocessed Oak Log]
 §7+ Faster Refining §8[Unprocessed Copper Ore]
