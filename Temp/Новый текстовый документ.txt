@@ -18,21 +18,3 @@
 §cYou now have the (.*).@§cВыбраны (r1).
 §7You have set your weapon skin to (.*)@§7Ты установил на свое оружие (r1) скин
 §4Try adding some more §c(.*)§4 items.@§4Попробуй добавить больше §c(r1)§4 наград.
-
-
-(.*) has logged into server (.*) as §(a|b)(?:an|a) (.*)@(r1) зашел на сервер (r2) классом §(r3)(r4)
-§e(.*) You are now level (.*) in (.*)@§e                  Ты достиг (r2) уровня в (r3)
-§5Only (.*) more levels §5until you can use the (.*)@§5Еще §d(r1) уровня §5и ты сможешь использовать §d(r2)
-§5Only (.*) more level §5until you can use the (.*)@§5Еще §d(r1) уровень §5и ты сможешь использовать §d(r2)
-§7\+ Faster Gathering §8\[(.*)\]@§7+ Более быстрая добыча §8[(r1)]
-§7\+ Faster Refining §8\[(.*)\]@§7+ Более быстрая переработка §8[(r1)]
-§7\+ Higher Refining Success §8\[(.*)\]@§7+ Шанс на успех при переработке §8[(r1)]
-§7\+ New Tool §8\[(.*)\]@§7+ Новый инструмент §8[(r1)]
-§5Only (.*) more levels §5until you can gather from (.*)@§5Еще §d(r1) уровня §5и ты сможешь собирать §d(r2)
-§5Only (.*) more level §5until you can gather from (.*)@§5Еще §d(r1) уровень §5и ты сможешь собирать §d(r2)
-§7\+ New Resource §8\[(.*)\]@§7+ Новый ресурс §8[(r1)]
-§5Key Collector: §dYou cannot enter this dungeon unless you give me §3\[(.*)\]@§5Сборщик Ключей: §dТы не можешь войти в этот данж, пока не дашь мне §3[(r1)].
-§6Great job! You've completed the (.*) Dungeon!@§6Отличная работа! Ты прошел (r1) данж!
-§4You need a (.*) level of §c(.*)§4 to gather from this resource!@§4Тебе нужен §c(r2)§4 уровень в (r1) чтобы собрать этот ресурс!
-§5Only (.*) more combat levels§5 until you earn the (.*) spell@§5Еще §d(r1) комбат уровня §5и ты изучишь §d(r2) заклинание
-§5Only (.*) more combat level§5 until you earn the (.*) spell@§5Еще §d(r1) комбат уровень §5и ты изучишь §d(r2) заклинание
