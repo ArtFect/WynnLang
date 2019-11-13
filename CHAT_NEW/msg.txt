@@ -1376,7 +1376,6 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7+ New Tool §8[Ⓙ Gathering Scythe T4]@§7+ Новый Инструмент §8[Ⓙ Сборная Удочка У4]
 §7+ New Tool §8[Ⓙ Gathering Scythe T6]@§7+ Новый Инструмент §8[Ⓙ Сборная Удочка У6]
 §7+ New Tool §8[Ⓙ Gathering Scythe T5]@§7+ Новый Инструмент §8[Ⓙ Сборная Удочка У5]
-
 §7+ Higher Refining Success §8[Unprocessed Wheat]@§7+ Шанс на успех при переработке §8[Необработанная Пшеница]
 §7+ Higher Refining Success §8[Unprocessed Oak Log]@§7+ Шанс на успех при переработке §8[Необработанное Бревно Дуба]
 §7+ Higher Refining Success §8[Unprocessed Copper Ore]@§7+ Шанс на успех при переработке §8[Необработанная Медная Руда]
@@ -1398,57 +1397,54 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7+ Higher Refining Success §8[Unprocessed Spruce Log]@§7+ Шанс на успех при переработке §8[Необработанное Бревно Ели]
 §7+ Higher Refining Success §8[Unprocessed Malt]@§7+ Шанс на успех при переработке §8[Необработанный Солод]
 §7+ Higher Refining Success §8[Unprocessed Hops]@§7+ Шанс на успех при переработке §8[Необработанный Хмель]
-§7+ Faster Refining §8[Unprocessed Wheat]
-§7+ Faster Refining §8[Unprocessed Oak Log]
-§7+ Faster Refining §8[Unprocessed Copper Ore]
-§7+ Faster Refining §8[Unprocessed Granite Ore]
-§7+ Faster Refining §8[Unprocessed Birch Log]
-§7+ Faster Refining §8[Unprocessed Gudgeon]
-§7+ Faster Refining §8[Unprocessed Gold Ore]
-§7+ Faster Refining §8[Unprocessed Rye]
-§7+ Faster Refining §8[Unprocessed Barley]
-§7+ Faster Refining §8[Unprocessed Oat]
-§7+ Faster Refining §8[Unprocessed Trout]
-§7+ Faster Refining §8[Unprocessed Salmon]
-§7+ Faster Refining §8[Unprocessed Acacia Log]
-§7+ Faster Refining §8[Unprocessed Iron Ore]
-§7+ Faster Refining §8[Unprocessed Icefish]
-§7+ Faster Refining §8[Unprocessed Willow Log]
-§7+ Faster Refining §8[Unprocessed Sandstone Ore]
-§7+ Faster Refining §8[Unprocessed Carp]
-§7+ Faster Refining §8[Unprocessed Spruce Log]
-§7+ Faster Refining §8[Unprocessed Malt]
-§7+ Faster Refining §8[Unprocessed Hops]
-
-§7+ Faster Gathering §8[Wheat]
-§7+ Faster Gathering §8[Oak]
-§7+ Faster Gathering §8[Copper]
-§7+ Faster Gathering §8[Granite]
-§7+ Faster Gathering §8[Birch]
-§7+ Faster Gathering §8[Gudgeon]
-§7+ Faster Gathering §8[Gold]
-§7+ Faster Gathering §8[Rye]
-§7+ Faster Gathering §8[Barley]
-§7+ Faster Gathering §8[Oat]
-§7+ Faster Gathering §8[Trout]
-§7+ Faster Gathering §8[Salmon]
-§7+ Faster Gathering §8[Acacia]
-§7+ Faster Gathering §8[Iron]
-§7+ Faster Gathering §8[Icefish]
-§7+ Faster Gathering §8[Willow]
-§7+ Faster Gathering §8[Sandstone]
-§7+ Faster Gathering §8[Carp]
-§7+ Faster Gathering §8[Spruce]
-§7+ Faster Gathering §8[Malt]
-§7+ Faster Gathering §8[Hops]
-
-§4Try adding some more §cCommon§4 items.
-§4Try adding some more §cEpic§4 items.
-§4Try adding some more §cRare§4 items.
-§4Try adding some more §cGodly§4 items.
-
-§d§lYou've gotten a rare§d§l reward!
-§c§lYou've gotten a godly§c§l reward!
+§7+ Faster Refining §8[Unprocessed Wheat]@§7+ Более быстрая переработка §8[Необработанная Пшеница]
+§7+ Faster Refining §8[Unprocessed Oak Log]@§7+ Более быстрая переработка §8[Необработанное Бревно Дуба]
+§7+ Faster Refining §8[Unprocessed Copper Ore]@§7+ Более быстрая переработка §8[Необработанная Медная Руда]
+§7+ Faster Refining §8[Unprocessed Granite Ore]@§7+ Более быстрая переработка §8[Необработанная Гранитная Руда]
+§7+ Faster Refining §8[Unprocessed Birch Log]@§7+ Более быстрая переработка §8[Необработанное Бревно Березы]
+§7+ Faster Refining §8[Unprocessed Gudgeon]@§7+ Более быстрая переработка §8[Необработанный Пескарь]
+§7+ Faster Refining §8[Unprocessed Gold Ore]@§7+ Более быстрая переработка §8[Необработанная Золотая Руда]
+§7+ Faster Refining §8[Unprocessed Rye]@§7+ Более быстрая переработка §8[Необработанная Рожь]
+§7+ Faster Refining §8[Unprocessed Barley]@§7+ Более быстрая переработка §8[Необработанный Ячмень]
+§7+ Faster Refining §8[Unprocessed Oat]@§7+ Более быстрая переработка §8[Необработанный Овес]
+§7+ Faster Refining §8[Unprocessed Trout]@§7+ Более быстрая переработка §8[Необработанная Форель]
+§7+ Faster Refining §8[Unprocessed Salmon]@§7+ Более быстрая переработка §8[Необработанный Лосось]
+§7+ Faster Refining §8[Unprocessed Acacia Log]@§7+ Более быстрая переработка §8[Необработанное Бревно Акации]
+§7+ Faster Refining §8[Unprocessed Iron Ore]@§7+ Более быстрая переработка §8[Необработанная Железная Руда]
+§7+ Faster Refining §8[Unprocessed Icefish]@§7+ Более быстрая переработка §8[Необработанная Щука]
+§7+ Faster Refining §8[Unprocessed Willow Log]@§7+ Более быстрая переработка §8[Необработанное Бревно Ивы]
+§7+ Faster Refining §8[Unprocessed Sandstone Ore]@§7+ Более быстрая переработка §8[Необработанная Песчаная Руда]
+§7+ Faster Refining §8[Unprocessed Carp]@§7+ Более быстрая переработка §8[Необработанный Карп]
+§7+ Faster Refining §8[Unprocessed Spruce Log]@§7+ Более быстрая переработка §8[Необработанное Бревно Ели]
+§7+ Faster Refining §8[Unprocessed Malt]@§7+ Более быстрая переработка §8[Необработанный Солод]
+§7+ Faster Refining §8[Unprocessed Hops]@§7+ Более быстрая переработка §8[Необработанный Хмель]
+§7+ Faster Gathering §8[Wheat]@§7+ Более быстрая добыча §8[Пшеница]
+§7+ Faster Gathering §8[Oak]@§7+ Более быстрая добыча §8[Дуб]
+§7+ Faster Gathering §8[Copper]@§7+ Более быстрая добыча §8[Медь]
+§7+ Faster Gathering §8[Granite]@§7+ Более быстрая добыча §8[Гранит]
+§7+ Faster Gathering §8[Birch]@§7+ Более быстрая добыча §8[Береза]
+§7+ Faster Gathering §8[Gudgeon]@§7+ Более быстрая добыча §8[Пескарь]
+§7+ Faster Gathering §8[Gold]@§7+ Более быстрая добыча §8[Золото]
+§7+ Faster Gathering §8[Rye]@§7+ Более быстрая добыча §8[Рожь]
+§7+ Faster Gathering §8[Barley]@§7+ Более быстрая добыча §8[Ячмень]
+§7+ Faster Gathering §8[Oat]@§7+ Более быстрая добыча §8[Овес]
+§7+ Faster Gathering §8[Trout]@§7+ Более быстрая добыча §8[Форель]
+§7+ Faster Gathering §8[Salmon]@§7+ Более быстрая добыча §8[Лосось]
+§7+ Faster Gathering §8[Acacia]@§7+ Более быстрая добыча §8[Акация]
+§7+ Faster Gathering §8[Iron]@§7+ Более быстрая добыча §8[Железо]
+§7+ Faster Gathering §8[Icefish]@§7+ Более быстрая добыча §8[Щука]
+§7+ Faster Gathering §8[Willow]@§7+ Более быстрая добыча §8[Ива]
+§7+ Faster Gathering §8[Sandstone]@§7+ Более быстрая добыча §8[Песчаник]
+§7+ Faster Gathering §8[Carp]@§7+ Более быстрая добыча §8[Карп]
+§7+ Faster Gathering §8[Spruce]@§7+ Более быстрая добыча §8[Ель]
+§7+ Faster Gathering §8[Malt]@§7+ Более быстрая добыча §8[Солод]
+§7+ Faster Gathering §8[Hops]@§7+ Более быстрая добыча §8[Хмель]
+§4Try adding some more §cCommon§4 items.@§4Попробуй добавить больше §cОбычных§4 предметов.
+§4Try adding some more §cEpic§4 items.@§4Попробуй добавить больше §cЭпических§4 предметов.
+§4Try adding some more §cRare§4 items.@§4Попробуй добавить больше §cРедких§4 предметов.
+§4Try adding some more §cGodly§4 items.@§4Попробуй добавить больше §cБожественных§4 предметов.
+§d§lYou've gotten a rare§d§l reward!@§d§lТы получил редкую§d§l награду!
+§c§lYou've gotten a godly§c§l reward!@§c§lТы получил божественную§c§l награду!
 
 ###################################Награды из контейнера##################################
 §fChicken Disguise@§fПеревоплощение в курицу
