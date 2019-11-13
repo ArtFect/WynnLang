@@ -320,6 +320,10 @@
 §8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒶ§7 Cooking§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒶ§7 Кулинарии§7!
 §8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒻ§7 Tailoring§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒻ§7 Портняжном Деле§7!
 §8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒺ§7 Scribing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒺ§7 Изготовлении Свитков§7! 
+§cYou now have the (.*) effect.@§cВыбран эффект (r1).
+§cYou now have the (.*).@§cВыбраны (r1).
+§7You have set your weapon skin to (.*)@§7Ты установил на свое оружие (r1) скин
+§c(.*)§4 is not a §c(.*)§4 weapon. You must use a §c(.*).@§c(r1)§4 не оружие для §c(r2)§4. Ты должен использовать §c(r3)
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
