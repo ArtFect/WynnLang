@@ -225,41 +225,41 @@
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dCrystal Reptile spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dКристальная Рептилия заклинание
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeaven Jolt spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dНебесный Удар заклинание
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dDagger Aura spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dКинжальная Аура заклинание
-§4You need a §fⒷ§c Mining§4 level of §c(\d+)§4 to gather from this resource!
-§4You need a §fⒿ§c Farming§4 level of §c(\d+)§4 to gather from this resource!
-§4You need a §fⒸ§c Woodcutting§4 level of §c(\d+)§4 to gather from this resource!
-§4You need a §fⓀ§c Fishing§4 level of §c(\d+)§4 to gather from this resource!
-§5Only §d(\d+) more level(|s) §5until you can gather from §dGranite
-§5Only §d(\d+) more level(|s) §5until you can gather from §dBirch
-§5Only §d(\d+) more level(|s) §5until you can gather from §dTrout
-§5Only §d(\d+) more level(|s) §5until you can gather from §dGold
-§5Only §d(\d+) more level(|s) §5until you can gather from §dWillow
-§5Only §d(\d+) more level(|s) §5until you can gather from §dRye
-§5Only §d(\d+) more level(|s) §5until you can gather from §dBarley
-§5Only §d(\d+) more level(|s) §5until you can gather from §dOat
-§5Only §d(\d+) more level(|s) §5until you can gather from §dSalmon
-§5Only §d(\d+) more level(|s) §5until you can gather from §dCarp
-§5Only §d(\d+) more level(|s) §5until you can gather from §dMalt
-§5Only §d(\d+) more level(|s) §5until you can gather from §dAcacia
-§5Only §d(\d+) more level(|s) §5until you can gather from §dSandstone
-§5Only §d(\d+) more level(|s) §5until you can gather from §dSpruce
-§5Only §d(\d+) more level(|s) §5until you can gather from §dIron
-§5Only §d(\d+) more level(|s) §5until you can gather from §dHops
-§5Only §d(\d+) more level(|s) §5until you can gather from §dIcefish
-§5Only §d(\d+) more level(|s) §5until you can gather from §dMillet
-§5Only §d(\d+) more level(|s) §5until you can gather from §dPiranha
-§5Only §d(\d+) more level(|s) §5until you can use the §dⒷ Gathering Pickaxe T(\d+)
-§5Only §d(\d+) more level(|s) §5until you can use the §dⒸ Gathering Axe T(\d+)
-§5Only §d(\d+) more level(|s) §5until you can use the §dⓀ Gathering Rod T(\d+)
-§5Only §d(\d+) more level(|s) §5until you can use the §dⒿ Gathering Scythe T(\d+)
-(.*) has logged into server (.*) as §(b|a)a Warrior
-(.*) has logged into server (.*) as §(b|a)a Knight
-(.*) has logged into server (.*) as §(b|a)an Archer
-(.*) has logged into server (.*) as §(b|a)a Dark Wizard
-(.*) has logged into server (.*) as §(b|a)a Mage
-(.*) has logged into server (.*) as §(b|a)an Assassin
-(.*) has logged into server (.*) as §(b|a)a Hunter
-(.*) has logged into server (.*) as §(b|a)a Ninja
+§4You need a §fⒷ§c Mining§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒷ§c Добычи Руды§4, чтобы собрать этот ресурс!
+§4You need a §fⒿ§c Farming§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒿ§c Земледелия§4, чтобы собрать этот ресурс!
+§4You need a §fⒸ§c Woodcutting§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒸ§c Лесорубства§4, чтобы собрать этот ресурс!
+§4You need a §fⓀ§c Fishing§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⓀ§c Рыбалки§4, чтобы собрать этот ресурс!
+§5Only §d(\d+) more level(|s) §5until you can gather from §dGranite@§5Еще §d(r1) уровня §5и ты сможешь собирать §dГранит
+§5Only §d(\d+) more level(|s) §5until you can gather from §dBirch@§5Еще §d(r1) уровня §5и ты сможешь собирать §dБерезу
+§5Only §d(\d+) more level(|s) §5until you can gather from §dTrout@§5Еще §d(r1) уровня §5и ты сможешь собирать §dФорель
+§5Only §d(\d+) more level(|s) §5until you can gather from §dGold@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЗолото
+§5Only §d(\d+) more level(|s) §5until you can gather from §dWillow@§5Еще §d(r1) уровня §5и ты сможешь собирать §dИву
+§5Only §d(\d+) more level(|s) §5until you can gather from §dRye@§5Еще §d(r1) уровня §5и ты сможешь собирать §dРожь
+§5Only §d(\d+) more level(|s) §5until you can gather from §dBarley@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЯчмень
+§5Only §d(\d+) more level(|s) §5until you can gather from §dOat@§5Еще §d(r1) уровня §5и ты сможешь собирать §dОвес
+§5Only §d(\d+) more level(|s) §5until you can gather from §dSalmon@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЛосось
+§5Only §d(\d+) more level(|s) §5until you can gather from §dCarp@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКарпа
+§5Only §d(\d+) more level(|s) §5until you can gather from §dMalt@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСолод
+§5Only §d(\d+) more level(|s) §5until you can gather from §dAcacia@§5Еще §d(r1) уровня §5и ты сможешь собирать §dАкацию
+§5Only §d(\d+) more level(|s) §5until you can gather from §dSandstone@§5Еще §d(r1) уровня §5и ты сможешь собирать §dПесчаник
+§5Only §d(\d+) more level(|s) §5until you can gather from §dSpruce@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЕль
+§5Only §d(\d+) more level(|s) §5until you can gather from §dIron@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЖелезо
+§5Only §d(\d+) more level(|s) §5until you can gather from §dHops@§5Еще §d(r1) уровня §5и ты сможешь собирать §dХмель
+§5Only §d(\d+) more level(|s) §5until you can gather from §dIcefish@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЩуку
+§5Only §d(\d+) more level(|s) §5until you can gather from §dMillet@§5Еще §d(r1) уровня §5и ты сможешь собирать §dПросо
+§5Only §d(\d+) more level(|s) §5until you can gather from §dPiranha@§5Еще §d(r1) уровня §5и ты сможешь собирать §dПиранью
+§5Only §d(\d+) more level(|s) §5until you can use the §dⒷ Gathering Pickaxe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒷ Сборную Кирку У(r2)
+§5Only §d(\d+) more level(|s) §5until you can use the §dⒸ Gathering Axe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒸ Сборный Топор У(r2)
+§5Only §d(\d+) more level(|s) §5until you can use the §dⓀ Gathering Rod T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⓀ Сборную Удочку У(r2)
+§5Only §d(\d+) more level(|s) §5until you can use the §dⒿ Gathering Scythe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒿ Сборную Мотыгу У(r2)
+(.*) has logged into server (.*) as §(b|a)a Warrior@(r1) зашел на сервер (r2) классом §(r3)Воин
+(.*) has logged into server (.*) as §(b|a)a Knight@(r1) зашел на сервер (r2) классом §(r3)Рыцарь
+(.*) has logged into server (.*) as §(b|a)an Archer@(r1) зашел на сервер (r2) классом §(r3)Лучник
+(.*) has logged into server (.*) as §(b|a)a Dark Wizard@(r1) зашел на сервер (r2) классом §(r3)Темный Волшебник
+(.*) has logged into server (.*) as §(b|a)a Mage@(r1) зашел на сервер (r2) классом §(r3)Маг
+(.*) has logged into server (.*) as §(b|a)an Assassin@(r1) зашел на сервер (r2) классом §(r3)Ассасин
+(.*) has logged into server (.*) as §(b|a)a Hunter@(r1) зашел на сервер (r2) классом §(r3)Охотник
+(.*) has logged into server (.*) as §(b|a)a Ninja@(r1) зашел на сервер (r2) классом §(r3)Ниндзя
 §e(.*)You are now level (\d+) in §fⒿ§e Farming
 §e(.*)You are now level (\d+) in §fⒸ§e Woodcutting
 §e(.*)You are now level (\d+) in §fⒼ§e Weaponsmithing
