@@ -1546,6 +1546,43 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §6§lThe Mysterious Manor §a§lSUCCESS@§6§lЗагадочное Поместье §a§lУСПЕХ
 §7Meet the owner of the manor in the courtyard.@§7Встреть хозяина поместья во дворе.
 §4You must be at least level 90 to participate in the Legendary Challenge!@§4Ты должен быть минимум 90 уровня для участия в Легендарном Челлендже!
+§6Great job! You've completed the DecrepitÀÀÀSewers Dungeon!@§6Отличная работа! Ты прошел Данж Ветхая Канализация!
+§6Great job! You've completed the IceÀÀÀBarrows Dungeon!@§6Отличная работа! Ты прошел Данж Ледяной Курган!
+§6Great job! You've completed the UndergrowthÀÀÀRuins Dungeon!@§6Отличная работа! Ты прошел Данж Заросшие Руины!
+§6Great job! You've completed the InfestedÀÀÀPit Dungeon!@§6Отличная работа! Ты прошел Данж Зараженная Яма!
+§6Great job! You've completed the Sand-SweptÀÀÀTomb Dungeon!@§6Отличная работа! Ты прошел Данж Песчаная Гробница!
+§6Great job! You've completed the LostÀÀÀSanctuary Dungeon!@§6Отличная работа! Ты прошел Данж Затерянное Святилище!
+§6Great job! You've completed the CorruptedÀÀÀDecrepitÀÀÀSewers Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Ветхая Канализация!
+§6Great job! You've completed the CorruptedÀÀÀInfestedÀÀÀPit Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Зараженная Яма!
+§6Great job! You've completed the UnderworldÀÀÀCrypt Dungeon!@§6Отличная работа! Ты прошел Данж Подземный Склеп!
+§6Great job! You've completed the Galleon'sÀÀÀGraveyard Dungeon!@§6Отличная работа! Ты прошел Данж Кладбище Галеона!
+§6Great job! You've completed the CorruptedÀÀÀLostÀÀÀSanctuary Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Затерянное Святилище!
+§6Great job! You've completed the CorruptedÀÀÀSand-SweptÀÀÀTomb Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Песчаная Гробница!
+§6Great job! You've completed the FallenÀÀÀFactory Dungeon!@§6Отличная работа! Ты прошел Данж Заброшенная Фабрика!
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 InfestedÀÀÀPit Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Зараженная Яма Ключа]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 UnderworldÀÀÀCrypt Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Подземный Склеп Ключа]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 UndergrowthÀÀÀRuins Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Заросшие Руины Ключа]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 LostÀÀÀSanctuary Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Затерянное Святилище Ключа]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 DecrepitÀÀÀSewers Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Ветхая Канализация Ключа]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 IceÀÀÀBarrows Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Ледяной Курган Ключа]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 Sand-SweptÀÀÀTomb Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Песчаная Гробница Ключа]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 Galleon'sÀÀÀGraveyard Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Кладбище Галеона Ключа]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 FallenÀÀÀFactory Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Заброшенная Фабрика Ключа]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀLostÀÀÀSanctuary Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Испорченного Затерянное Святилище Ключа]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀInfestedÀÀÀPit Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Испорченного Зараженная Яма Ключа]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀDecrepitÀÀÀSewers Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Испорченного Ветхая Канализация Ключа]§d.
+§5Key Collector: §dBring me §3[1 InfestedÀÀÀPit Key]§d and I will grant you access to the dungeon.@
+§5Key Collector: §dBring me §3[1 UnderworldÀÀÀCrypt Key]§d and I will grant you access to the dungeon.
+§5Key Collector: §dBring me §3[1 UndergrowthÀÀÀRuins Key]§d and I will grant you access to the dungeon.
+§5Key Collector: §dBring me §3[1 LostÀÀÀSanctuary Key]§d and I will grant you access to the dungeon.
+§5Key Collector: §dBring me §3[1 DecrepitÀÀÀSewers Key]§d and I will grant you access to the dungeon.
+§5Key Collector: §dBring me §3[1 IceÀÀÀBarrows Key]§d and I will grant you access to the dungeon.
+§5Key Collector: §dBring me §3[1 Sand-SweptÀÀÀTomb Key]§d and I will grant you access to the dungeon.
+§5Key Collector: §dBring me §3[1 Galleon'sÀÀÀGraveyard Key]§d and I will grant you access to the dungeon.
+§5Key Collector: §dBring me §3[1 FallenÀÀÀFactory Key]§d and I will grant you access to the dungeon.
+§5Key Collector: §dBring me §3[1 CorruptedÀÀÀLostÀÀÀSanctuary Key]§d and I will grant you access to the dungeon.
+§5Key Collector: §dBring me §3[1 CorruptedÀÀÀInfestedÀÀÀPit Key]§d and I will grant you access to the dungeon.
+§5Key Collector: §dBring me §3[1 CorruptedÀÀÀDecrepitÀÀÀSewers Key]§d and I will grant you access to the dungeon.
 
 ###################################Библиотеки и тексты##################################
 §e                         §e§lPowder Manual@§eРуководство о порошках
