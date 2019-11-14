@@ -450,7 +450,7 @@ Old Druid@Старый Друид
 §2§fChapter X@§2§fГлава X
 §2§fChapter XI@§2§fГлава XI
 §2§fChapter XII@§2§fГлава XII
-§2§fImperial Guard@§2§fСтраж Королевский
+§2§fImperial Guard@§2§fКоролевский Страж 
 §2§fKandon-Beda Citizen@§2§fКандон-Бэда Житель
 §2§fDogun Delg@§2§fДогун Делг
 §2§fTraitor Buice@§2§fПредатель Бучи
@@ -569,7 +569,7 @@ Old Druid@Старый Друид
 §2Soway@§2Совэй
 §2Psilo@§2Псило
 §2Peculiar Old Man@§2Необычный Старик
-§2Black Market Guard@§2Черного Рынка Страж
+§2Black Market Guard@§2Страж Черного Рынка
 §2Document Merchant@§2Торговец Документами
 §2Calo@§2Кало
 §2Tattered Note@§2Рваная Записка
@@ -668,7 +668,7 @@ Old Druid@Старый Друид
 §2Pastor Nitram@§2Пастор Нитрам
 §2Caras@§2Карас
 §2Hermit@§2Отшельник
-§2Vault Guard@§2Хранилища Страж
+§2Vault Guard@§2Страж Хранилища
 §2Geo@§2Гео
 §2Tarek@§2Тарэк
 §2Favian@§2Фавиан
@@ -681,7 +681,7 @@ Old Druid@Старый Друид
 §2Ormrod@§2Ормрод
 §2Margaret@§2Маргарет
 §2Svin@§2Свин
-§2Prison Guard@§2Тюрьмы Страж
+§2Prison Guard@§2Страж Тюрьмы
 §2Desert Raider@§2Пустынный Рейдер
 §2Bandit Leader@§2Лидер Бандитов
 §2Excavator Vade@§2Раскопщик Вейд
@@ -893,11 +893,11 @@ Old Druid@Старый Друид
 §2Shopkeeper@§2Лавочник
 §2Bandit Guard@§2Страж Бандит 
 §2Emperor@§2Император
-§2Royal Guard@§2Страж Королевский
+§2Royal Guard@§2Королевский Страж 
 §2Prince Hashr@§2Принц Хашр
 §2Almighty Hashr@§2Всемогущий Хашр
-§2Guard Leader@§2Стражи Лидер
-§2Town Guard@§2Города Страж
+§2Guard Leader@§2Лидер Стражи
+§2Town Guard@§2Страж Города
 §2Town Citizen@§2Житель Города
 §2Aryn?@§2Арин?
 §2Aryn@§2Арин
@@ -1113,8 +1113,8 @@ Gert@Герт
 §bBee§6 [Lv. 5]@§bПчела§6 [Ур. 5]
 §bLonely Dog §6 [Lv. 1]@§bОдинокий Пес §6 [Ур. 1]
 §bNomad§6 [Lv. 5]@§bКочевник§6 [Ур. 5]
-§bHeliolux Guard§6 [Lv. 75]@§bСтраж Хелиолукс§6 [Ур. 75]
-§bRoyal Guard§6 [Lv. 25]@§bСтраж Королевский§6 [Ур. 25]
+§bHeliolux Guard§6 [Lv. 75]@§bСтраж Хелиолукса§6 [Ур. 75]
+§bRoyal Guard§6 [Lv. 25]@§bКоролевский Страж§6 [Ур. 25]
 §bRagni Guard§6 [Lv. 10]@§bСтраж Рагни§6 [Ур. 10]
 §bRagni Guard Golem§6 [Lv. 10]@§bСтраж Рагни Голем§6 [Ур. 10]
 §bRagni Mercenary§6 [Lv. 8]@§bРагни Наемник§6 [Ур. 8]
@@ -1128,7 +1128,7 @@ Gert@Герт
 §bCreeper Follower§6 [Lv. 15]@§bКрипер Последователь§6 [Ур. 15]
 §bScotch§6 [Lv. 75]@§bСкотч§6 [Ур. 75]
 §bRagni Archer§6 [Lv. 3]@§bРагни Лучник§6 [Ур. 3]
-§bDetlas Guard Golem§6 [Lv. 20]@§bСтраж Детласа Голем §6 [Ур. 20]
+§bDetlas Guard Golem§6 [Lv. 20]@§bСтраж Детласа Голем§6 [Ур. 20]
 §bDetlas Soldier§6 [Lv. 20]@§bДетлас Солдат§6 [Ур. 20]
 §bElite Soldier§6 [Lv. 100]@§bЭлитный Солдат§6 [Ур. 100]
 §bDetlas Guard§6 [Lv. 20]@§bСтраж Детласа§6 [Ур. 20]
@@ -1141,12 +1141,12 @@ Gert@Герт
 §bNesaak Guard§6 [Lv. 45]@§bСтраж Несаака§6 [Ур. 45]
 §bLusuco Golem§6 [Lv. 50]@§bЛусуко Голем§6 [Ур. 50]
 §bLusuco Citizen§6 [Lv. 50]@§bЛусуко Житель§6 [Ур. 50]
-§bJungle Guard§6 [Lv. 50]@§bДжунглей Страж§6 [Ур. 50]
+§bJungle Guard§6 [Lv. 50]@§bСтраж Джунглей§6 [Ур. 50]
 §bTroms Soldier§6 [Lv. 60]@§bТромс Солдат§6 [Ур. 60]
 §bLegend Guard§6 [Lv. 70]@§bЛегенда Страж§6 [Ур. 70]
 §bHoneydew§6 [Lv. 50]@§bДыня§6 [Ур. 50]
 §bTroms Archer§6 [Lv. 60]@§bТромс Лучник§6 [Ур. 60]
-§bPrison Guard§6 [Lv. 45]@§bТюрьмы Страж§6 [Ур. 45]
+§bPrison Guard§6 [Lv. 45]@§bСтраж Тюрьмы§6 [Ур. 45]
 §bSeafoam§6 [Lv. 30]@§bСиафом§6 [Ур. 30]
 §bNemract Guard Golem§6 [Lv. 30]@§bСтраж Немракта Голем§6 [Ур. 30]
 §bHired Guard§6 [Lv. 55]@§bНанятый Страж§6 [Ур. 55]
@@ -1158,7 +1158,7 @@ Gert@Герт
 §bGylia Watch Paladin§6 [Lv. 80]@§bПаладин Гилия§6 [Ур. 80]
 §bGylia Watch Trainee§6 [Lv. 75]@§bСтажер Гилия§6 [Ур. 75]
 §bJitak's Guard Golem§6 [Lv. 75]@§bСтраж Голем Джитака§6 [Ур. 75]
-§bOlux Guard§6 [Lv. 55]@§bСтраж Олукс§6 [Ур. 55]
+§bOlux Guard§6 [Lv. 55]@§bСтраж Олукса§6 [Ур. 55]
 §bSpooky§6 [Lv. 70]@§bСтрашилка§6 [Ур. 70]
 §bKeystone Guardian§6 [Lv. 60]@§bЗащитник Ключа§6 [Ур. 60]
 §bCorkus Guard§6 [Lv. 80]@§bСтраж Коркуса§6 [Ур. 80]
@@ -1169,7 +1169,7 @@ Gert@Герт
 §bGavel Sentry§6 [Lv. 60]@§bГавел Часовой§6 [Ур. 60]
 §bBlessed Golem§6 [Lv. 72]@§bСвященный Голем§6 [Ур. 72]
 §bChild§6 [Lv. 15]@§bРебенок§6 [Ур. 15]
-§bAlmuj Guard Golem§6 [Lv. 40]@§bАлмуж Страж Голем§6 [Ур. 40]
+§bAlmuj Guard Golem§6 [Lv. 40]@§bСтраж Алмужа Голем§6 [Ур. 40]
 §bAlmuj Soldier§6 [Lv. 40]@§bАлмуж Солдат§6 [Ур. 40]
 §bPet Rat§6 [Lv. 33]@§bПитомец Крыса§6 [Ур. 33]
 §bAlmuj Slums Watch§6 [Lv. 30]@§bАлмуж Смотритель Трущоб§6 [Ур. 30]
@@ -1184,7 +1184,7 @@ Gert@Герт
 §bDujgon Archer§6 [Lv. 40]@§bДуджгон Лучник§6 [Ур. 40]
 §bOrc Ranger§6 [Lv. 65]@§bОрк Рейнджер§6 [Ур. 65]
 §bNesaak Guard§6 [Lv. 50]@§bСтраж Несаака§6 [Ур. 50]
-§bNesaak Guard Golem§6 [Lv. 50]@§bНесаак Страж Голем§6 [Ур. 50]
+§bNesaak Guard Golem§6 [Lv. 50]@§bСтраж Несаака Голем§6 [Ур. 50]
 §bGelibord Archer§6 [Lv. 65]@§bГелиборд Лучник§6 [Ур. 65]
 §bNick§6 [Lv. 95]@§bНик§6 [Ур. 95]
 §bSandy§6 [Lv. 30]@§bСэнди§6 [Ур. 30]
@@ -1212,10 +1212,10 @@ Gert@Герт
 §bGuard Warrior§6 [Lv. 30]@§bСтраж Воин§6 [Ур. 30]
 §bDogun§6 [Lv. 100]@§bДогун§6 [Ур. 100]
 §bGuard@§bСтраж
-§bDogun Guard§6 [Lv. 95]@§bСтраж Догун§6 [Ур. 95]
+§bDogun Guard§6 [Lv. 95]@§bСтраж Догуна§6 [Ур. 95]
 §bSteel-Forged Golem§6 [Lv. 92]@§bСтальной Голем§6 [Ур. 92]
 §bAnnoying Calf§6 [Lv. 80]@§bРаздражающий Теленок§6 [Ур. 80]
-§bEradian Guard§6 [Lv. 100]@§bСтраж Эрадиан§6 [Ур. 100]
+§bEradian Guard§6 [Lv. 100]@§bСтраж Эрадиана§6 [Ур. 100]
 §bEradian Archer§6 [Lv. 100]@§bЭрадиан Лучник§6 [Ур. 100]
 §bMarketplace Guard§6 [Lv. 96]@§bСтраж Рынка§6 [Ур. 96]
 §bDwarven Guard§6 [Lv. 95]@§bСтраж Гном§6 [Ур. 95]
@@ -1228,8 +1228,8 @@ Gert@Герт
 §bAffectionate Wybel§6 [Lv. 90]@§bОзадаченный Вубел§6 [Ур. 90]
 §bGuard Scout§6 [Lv. 30]@§bСтраж Скаут§6 [Ур. 30]
 §bGuard Slayer§6 [Lv. 30]@§bСтраж Убийца§6 [Ур. 30]
-§bImperial Guard§6 [Lv. 60]@§bСтраж Королевский§6 [Ур. 60]
-§broyal guard§6 [Lv. 1]@§bстраж императорский§6 [Ур. 1]
+§bImperial Guard§6 [Lv. 60]@§bКоролевский Страж§6 [Ур. 60]
+§broyal guard§6 [Lv. 1]@§bимператорский страж§6 [Ур. 1]
 §bPrince Hashr§6 [Lv. 0]@§bПринц Хашр§6 [Ур. 0]
 §bWatchman§6 [Lv. 65]@§bСмотрящий§6 [Ур. 65]
 §bWynnston§6 [Lv. 1]@§bВиннстон§6 [Ур. 1]
@@ -1843,7 +1843,7 @@ Level §c70-80@Уровень §c70-80
 §aScared Cow§6 [Lv. 1]@§aИспуганная Корова§6 [Ур. 1]
 §aKatoa Librarian§6 [Lv. 1]@§aКатоа Библиотекарь§6 [Ур. 1]
 §aPink Sheep of Greatness§6 [Lv. 15]@§aРозовая овца величия§6 [Ур. 15]
-§aDetlas Watchman§6 [Lv. 10]@§aДетлас Стражник§6 [Ур. 10]
+§aDetlas Watchman§6 [Lv. 10]@§aСтражник Детласа§6 [Ур. 10]
 §aHobbit§6 [Lv. 70]@§aХоббит§6 [Ур. 70]
 §aLittle Tadpole§6 [Lv. 45]@§aМаленький Головастик§6 [Ур. 45]
 §aIce Digger§6 [Lv. 45]@§aЛедяной Кинжал§6 [Ур. 45]
@@ -2078,14 +2078,14 @@ Level §c70-80@Уровень §c70-80
 §aBandit§6 [Lv. 0]@§aБандит§6 [Ур. 0]
 §aEmperor§6 [Lv. 0]@§aИмператор§6 [Ур. 0]
 §aPrince Hashr§6 [Lv. 0]@§aПринц Хашр§6 [Ур. 0]
-§aGuard Leader§6 [Lv. 999]@§aСтражи Лидер§6 [Ур. 999]
+§aGuard Leader§6 [Lv. 999]@§aЛидер Стражи§6 [Ур. 999]
 §aZombie§6 [Lv. 999]@§aЗомби§6 [Ур. 999]
 §aSkeleton§6 [Lv. 999]@§aСкелет§6 [Ур. 999]
 §aRetired Buccaneer§6 [Lv. 70]@§aОтставной Пират§6 [Ур. 70]
 §aGoblin§6 [Lv. 45]@§aГоблин§6 [Ур. 45]
 §aCrystal Hermit§6 [Lv. 36]@§aКристальный Отшельник§6 [Ур. 36]
 §aWandering Rat§6 [Lv. 1]@§aБродячая Крыса§6 [Ур. 1]
-§aForest Guardian§6 [Lv. 70]@§aСтраж Лесной§6 [Ур. 70]
+§aForest Guardian§6 [Lv. 70]@§aЛесной Страж§6 [Ур. 70]
 §aConstruction Crew§6 [Lv. 60]@§aСтроительная Бригада§6 [Ур. 60]
 §aRusset Owl§6 [Lv. 60]@§aРыжая Сова§6 [Ур. 60]
 §aSmoky Owl§6 [Lv. 60]@§aДымная Сова§6 [Ур. 60]
