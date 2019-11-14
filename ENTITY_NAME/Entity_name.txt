@@ -133,7 +133,7 @@ Gylia Farmer@Гилия Фермер
 §aSmall Mushroom§6 [Lv. 0]@§aМаленький Гриб§6 [Ур. 0]
 §fOld Man@§fСтарик
 §aDark Forest Villager§6 [Lv. 60]@§aЖитель Темного Леса§6 [Ур. 60]
-§aAldorei Elf§6 [Lv. 75]@§aАлдорей Эльф§6 [Ур. 75]
+§aAldorei Elf§6 [Lv. 75]@§aЭльф Алдорей§6 [Ур. 75]
 §aSwamp Dweller§6 [Lv. 50]@§aОбитатель Болота§6 [Ур. 50]
 §aCold Blood§6 [Lv. 98]@§aХолодная Кровь§6 [Ур. 98]
 Old Druid@Старый Друид
@@ -297,7 +297,7 @@ Old Druid@Старый Друид
 §2§fGeoff@§2§fГеофф
 §2§fRalphye@§2§fРалфи
 §2§fGravestone@§2§fНадгробный Камень
-§2§fCinfras Citizen@§2§fЦинфрас Житель
+§2§fCinfras Citizen@§2§fЖитель Цинфраса
 §2§fSiegfried, Hero of Gavel@§2§fЗигфрид, Герой Гавела
 §2§fGyran@§2§fГиран
 §2§fLeacen@§2§fЛеакен
@@ -308,25 +308,25 @@ Old Druid@Старый Друид
 §2§fPowder Manual [Chapter 1]@§2§fРуководство о Порошках [Глава 1]
 §2§fPowder Manual [Chapter 2]@§2§fРуководство о Порошках [Глава 2]
 §2§fPowder Manual [Chapter 3]@§2§fРуководство о Порошках [Глава 3]
-§2§fDetlas Citizen@§2§fДетлас Житель
+§2§fDetlas Citizen@§2§fЖитель Детласа
 §2§fBasement Dweller@§2§fОбитатель Подвала
 §2§fOld Journal@§2§fСтарый Журнал
 §2§fSeaskipper Captain@§2§fКорабельщик
-§2§fLlevigar Citizen@§2§fЛлевигар Житель
-§2§fLlevigar Professor@§2§fЛлевигар Профессор
-§2§fLusuco Citizen@§2§fЛусуко Житель
+§2§fLlevigar Citizen@§2§fЖитель Ллевигара
+§2§fLlevigar Professor@§2§fПрофессор Ллевигара
+§2§fLusuco Citizen@§2§fЖитель Лусуко
 §2§fWynnExcavation Guard@§2§fСтраж ВиннЭкскавейшен 
-§2§fWynnExcavation Archaeologist@§2§fВиннЭкскавейшен Археолог
-§2§fTroms Citizen@§2§fТромс Житель
-§2§fThanos Citizen@§2§fТанос Житель
+§2§fWynnExcavation Archaeologist@§2§fАрхеолог ВиннЭкскавейшен 
+§2§fTroms Citizen@§2§fЖитель Тромса
+§2§fThanos Citizen@§2§fЖитель Таноса
 §2§fDuri@§2§fДури
 §2§fElectromagic Expert@§2§fЭлектромагический Эксперт
 §2§fDave@§2§fДэйв
 §2§fCorrupted Townsperson@§2§fИспорченный Горожанин
-§2§fSelchar Citizen@§2§fСельчар Житель
+§2§fSelchar Citizen@§2§fЖитель Сельчара
 §2§fNeny@§2§fНени
 §2§fC.S.S Wavebreaker Captain@§2§fКапитан К.С.С Волнореза
-§2§fIboju Shaman@§2§fИбоджу Шаман
+§2§fIboju Shaman@§2§fШаман Ибоджу
 §2§fMarlow@§2§fМарлоу
 §2§fHarv@§2§fХарв
 §2§fRagamal@§2§fРагамал
@@ -342,16 +342,16 @@ Old Druid@Старый Друид
 §2§fPassenger Jeremy@§2§fПассажир Джереми
 §2§fAnof@§2§fАноф
 §2§fKalerts Last Notes@§2§fПоследняя Записка Калерта
-§2§fGerten Captain Vongar@§2§fГерт Капитан Вонгар
-§2§fGerten Captain Bonfo@§2§fГерт Капитан Бонфо
-§2§fGerten Chief Snaga@§2§fГерт Капитан Снага
-§2§fOlux Citizen@§2§fОлукс Житель
+§2§fGerten Captain Vongar@§2§fКапитан Герт Вонгар
+§2§fGerten Captain Bonfo@§2§fКапитан Герт Бонфо
+§2§fGerten Chief Snaga@§2§fКапитан Герт Снага
+§2§fOlux Citizen@§2§fЖитель Олукса
 §2§fAcolyte Lanarch@§2§fСлуга Ланарх
 §2§fAcolyte Salizan@§2§fСлуга Сализан
 §2§fCorkus Guard@§2§fСтраж Коркуса
-§2§fCorkian Security Overseer@§2§fКоркус Охранник
+§2§fCorkian Security Overseer@§2§fОхранник Коркуса
 §2§fHot Air Balloon Captain@§2§fКапитан Дирижабля
-§2§fCorkus Citizen@§2§fКоркус Житель
+§2§fCorkus Citizen@§2§fЖитель Коркуса
 §2§fBook@§2§fКнига
 §2§fMalize@§2§fМализе
 §2§fAlvin@§2§fАлвин
@@ -362,12 +362,12 @@ Old Druid@Старый Друид
 §2§fSquiddles@§2§fСквиддлес
 §2§fPoe@§2§fПоэ
 §2§fTroll@§2§fТролль
-§2§fLift Mechanic@§2§fЛифт Механик
+§2§fLift Mechanic@§2§fМеханик Лифта
 §2§fEagle Tribesman@§2§fСоплеменник Орлов
 §2§fJournal@§2§fЖурнал
-§2§fAlmuj Citizen@§2§fАлмуж Житель
+§2§fAlmuj Citizen@§2§fЖитель Алмужа
 §2§fBrank@§2§fБранк
-§2§fRymek Citizen@§2§fРимек Житель
+§2§fRymek Citizen@§2§fЖитель Римека
 §2§fCactus Expert@§2§fКактусовый Эксперт
 §2§fBandit Note@§2§fЗаписка Бандита
 §2§fZhight Tour Guide@§2§fЖигт Тур Гайд
@@ -383,8 +383,8 @@ Old Druid@Старый Друид
 §2§fButler's Journal@§2§fЖурнал Дворецкого 
 §2§fMrs. Caritat@§2§fМисс Каритат
 §2§fTimothy Caritat@§2§fТимоти Каритат
-§2§fGelibord Citizen@§2§fГелиборд Житель
-§2§fGelibord Child@§2§fГелиборд Дитя
+§2§fGelibord Citizen@§2§fЖитель Гелиборда
+§2§fGelibord Child@§2§fДитя Гелиборда
 §2§fIrahe@§2§fИрахе
 §2§fOtenu@§2§fОтэну
 §2§fChallenger Apprentice@§2§fНачинающий Ученик
@@ -419,23 +419,23 @@ Old Druid@Старый Друид
 §2§fAvos Shaman@§2§fАвос Шаман
 §2§fWater@§2§fВода
 §2§fHay@§2§fСено
-§2§fCow Citizen@§2§fКорова Житель
-§2§fRodoroc Citizen@§2§fРодорок Житель
+§2§fCow Citizen@§2§fЖитель Корова 
+§2§fRodoroc Citizen@§2§fЖитель Родорока
 §2§fFood for Prisoners@§2§fЕда для Заключенных
-§2§fRodoroc Dwarf@§2§fРодорок Гном
+§2§fRodoroc Dwarf@§2§fГном Родорока
 §2§fCorkian Security Executive@§2§fУправляющий Коркус Охраны
 §2§fDr. Legendary@§2§fЛегендарный Доктор
 §2§fAnsei's Journal@§2§fЖурнал Ансея
 §2§fGoben@§2§fГобен
 §2§fAdoda@§2§fАдода
 §2§fBarckan@§2§fБаркан
-§2§fMech Guard@§2§fСтраж Робот
-§2§fCrane Mechanic@§2§fКран Механик
-§2§fAhmsord Citizen@§2§fАмсорд Житель
+§2§fMech Guard@§2§fРобот Страж
+§2§fCrane Mechanic@§2§fМеханик Крана
+§2§fAhmsord Citizen@§2§fЖитель Амсорда
 §2§fCrank@§2§fКрэнк
-§2§fRelos Citizen@§2§fРелос Житель
-§2§fRelos Mechanic@§2§fРелос Механик
-§2§fMaex Citizen@§2§fМаэкс Житель 
+§2§fRelos Citizen@§2§fЖитель Релоса
+§2§fRelos Mechanic@§2§fМеханик Релоса
+§2§fMaex Citizen@§2§fЖитель Маэкса
 §2§fKorzim@§2§fКорзим
 §2§fPhicx@§2§fФикс
 §2§fChapter I@§2§fГлава I
@@ -451,12 +451,12 @@ Old Druid@Старый Друид
 §2§fChapter XI@§2§fГлава XI
 §2§fChapter XII@§2§fГлава XII
 §2§fImperial Guard@§2§fКоролевский Страж 
-§2§fKandon-Beda Citizen@§2§fКандон-Бэда Житель
+§2§fKandon-Beda Citizen@§2§fЖитель Кандон-Бэда
 §2§fDogun Delg@§2§fДогун Делг
 §2§fTraitor Buice@§2§fПредатель Бучи
 §2§fTraitor Jaynar@§2§fПредатель Джайнар
 §2§fExcavator Sean@§2§fРаскопщик Шон
-§2§fWynnExcavation Scientist Azure@§2§fВиннЭкскавейшен Ученый Азуре
+§2§fWynnExcavation Scientist Azure@§2§fУченый ВиннЭкскавейшен Азуре
 §2§fErd@§2§fЭрд
 §2§fThe Tale of the Lost Necklace@§2§fСказка о Потерянном Амулете
 §2§fArlene@§2§fАрлен
@@ -517,7 +517,7 @@ Old Druid@Старый Друид
 §2Rohem@§2Рохем
 §2Gawrick@§2Гаврик
 §2Letter@§2Письмо
-§2Sasha The Apothecary@§2Саша Аптекарь
+§2Sasha The Apothecary@§2Аптекарь Саша
 §2Doan@§2Доан
 §2Shaman Inrekei@§2Шаман Энрике
 §2Therck@§2Терк
@@ -551,7 +551,7 @@ Old Druid@Старый Друид
 §2Gracen@§2Грацен
 §2Worid@§2Ворид
 §2Monte@§2Монтэ
-§2Troms Mage@§2Тромс Маг
+§2Troms Mage@§2Маг Тромса
 §2Kelight@§2Келайгт
 §2Old Journal@§2Старый Журнал
 §2Salesman@§2Торговец
@@ -603,14 +603,14 @@ Old Druid@Старый Друид
 §2Gerten Captain@§2Герт Капитан
 §2Comor@§2Комор
 §2Tom@§2Том
-§2Corkus Delegate@§2Коркус Делегат
+§2Corkus Delegate@§2Делегат Коркуса
 §2Barricade Keyhole@§2Замок Баррикады
 §2Javen@§2Джавен
 §2Bertil@§2Бертил
 §2Reiva@§2Рейва
 §2Security Bot N4T17@§2Охранный Бот Н4Т17
 §2Maxie@§2Макси
-§2Almuj Banker@§2Алмуж Банкир
+§2Almuj Banker@§2Банкир Алмужа
 §2Farmer Cevalus֎@§2Фермер Цевалус֎
 §2Guardian of The Forest@§2Хранитель Леса
 §2Miner Linton@§2Шахтер Линтон
@@ -629,17 +629,17 @@ Old Druid@Старый Друид
 §2Oppe@§2Оппе
 §2Elder Berusia@§2Старец Берусия
 §2Likeru@§2Ликеру
-§2Dwarven Soldier@§2Гном Солдат
-§2Rodoroc Citizen@§2Родорок Житель
+§2Dwarven Soldier@§2Солдат Гном
+§2Rodoroc Citizen@§2Житель Родорока
 §2Dawm@§2Дэмн
 §2Weakened Dogun@§2Ослабленный Догун
 §2Weak Dwarf@§2Слабый Гном
 §2Dwarf@§2Гном
-§2Rodoroc Soldier@§2Родорок Солдат
-§2Dwarf Commander@§2Гном Коммандир
-§2Dwarf Mage@§2Гном Маг
+§2Rodoroc Soldier@§2Солдат Родорока
+§2Dwarf Commander@§2Коммандир Гномов 
+§2Dwarf Mage@§2Маг Гном
 §2Dwarf Rogue@§2Гном Разбойник
-§2Rodoroc Commander@§2Родорок Коммандир
+§2Rodoroc Commander@§2Коммандир Родорока
 §2Likeru?@§2Ликеру?
 §2Caissop@§2Кайзоп
 §2Captain Lorias@§2Капитан Лориас
@@ -803,7 +803,7 @@ Old Druid@Старый Друид
 §2Shopkeeper Gibbs@§2Лавочник Гибс
 §2Scroll Merchant@§2Продавец Свитков
 §2Almuj Sentry@§2Часовой Алмужа
-§2Almuj Citizen@§2Алмуж Житель
+§2Almuj Citizen@§2Житель Алмужа
 §2King Burtan@§2Король Буртан
 §2Nedlom@§2Нэдлом
 §2Gerten Chief Lobo@§2Герт Шеф Лобо
@@ -849,7 +849,7 @@ Old Druid@Старый Друид
 §2Doqbon@§2Докьюбон
 §2Datrin@§2Датрин
 §2Plario@§2Пларио
-§2Dwarven Scout@§2Гном Скаут
+§2Dwarven Scout@§2Скаут Гном
 §2Dogun Chieftain@§2Вождь Догунов
 §2Commander@§2Коммандир
 §2Sharpshooter@§2Снайпер
@@ -879,12 +879,12 @@ Old Druid@Старый Друид
 §2Hrona@§2Хрона
 §2Volmor@§2Волмор
 §2Seluc@§2Селук
-§2Corkus Citizen@§2Коркус Житель
+§2Corkus Citizen@§2Житель Коркуса
 §2Mech@§2Робот
 §2Collector Mech@§2Робот Сборщик
 §2Mech X@§2Робот X
 §2Dogun@§2Догун
-§2Corkus City Citizen@§2Коркус Сити Житель
+§2Corkus City Citizen@§2Житель Коркус Сити
 §2King of Troms@§2Король Тромса
 §2Edula@§2Эдула
 §2Bak'al@§2Бак'ал
@@ -909,7 +909,7 @@ Old Druid@Старый Друид
 §2Jill@§2Джилл
 §2Traitor Amadel@§2Предатель Амадел
 §2Excavator Admin Uci@§2Раскопщик Админ Уки
-§2WynnExcavation Leader Amadel@§2ВиннЭкскавейшен Лидер Амадел
+§2WynnExcavation Leader Amadel@§2Лидер ВиннЭкскавейшен Амадел
 §2Amadel's Assistant@§2Ассистент Амаделя
 §2Isfurus@§2Исфурус
 §2Sensei Miyagi@§2Сэнсей Мияги
@@ -929,60 +929,60 @@ Old Druid@Старый Друид
 §2Courtyard Guard@§2Охранник Двора
 §2Farcor@§2Фаркор
 §2Trials Overseer@§2Смотритель Испытаний
-§2Thunder Catalyst Collector 1@§2Сборщик Гром Катализаторов 1
-§2Thunder Catalyst Collector 2@§2Сборщик Гром Катализаторов 2
-§2Thunder Catalyst Collector 3@§2Сборщик Гром Катализаторов 3
-§2Thunder Catalyst Collector 4@§2Сборщик Гром Катализаторов 4
-§2Thunder Catalyst Collector 5@§2Сборщик Гром Катализаторов 5
-§2Thunder Catalyst Collector 6@§2Сборщик Гром Катализаторов 6
-§2Thunder Catalyst Collector 7@§2Сборщик Гром Катализаторов 7
-§2Thunder Catalyst Collector 8@§2Сборщик Гром Катализаторов 8
-§2Thunder Catalyst Collector 9@§2Сборщик Гром Катализаторов 9
-§2Thunder Catalyst Collector 10@§2Сборщик Гром Катализаторов 10
-§2Air Catalyst Collector 1@§2Сборщик Воздух Катализаторов 1
-§2Air Catalyst Collector 2@§2Сборщик Воздух Катализаторов 2
-§2Air Catalyst Collector 3@§2Сборщик Воздух Катализаторов 3
-§2Air Catalyst Collector 4@§2Сборщик Воздух Катализаторов 4
-§2Air Catalyst Collector 5@§2Сборщик Воздух Катализаторов 5
-§2Air Catalyst Collector 6@§2Сборщик Воздух Катализаторов 6
-§2Air Catalyst Collector 7@§2Сборщик Воздух Катализаторов 7
-§2Air Catalyst Collector 8@§2Сборщик Воздух Катализаторов 8
-§2Air Catalyst Collector 9@§2Сборщик Воздух Катализаторов 9
-§2Air Catalyst Collector 10@§2Сборщик Воздух Катализаторов 10
-§2Earth Catalyst Collector 1@§2Сборщик Земля Катализаторов 1
-§2Earth Catalyst Collector 2@§2Сборщик Земля Катализаторов 2
-§2Earth Catalyst Collector 3@§2Сборщик Земля Катализаторов 3
-§2Earth Catalyst Collector 4@§2Сборщик Земля Катализаторов 4
-§2Earth Catalyst Collector 5@§2Сборщик Земля Катализаторов 5
-§2Earth Catalyst Collector 6@§2Сборщик Земля Катализаторов 6
-§2Earth Catalyst Collector 7@§2Сборщик Земля Катализаторов 7
-§2Earth Catalyst Collector 8@§2Сборщик Земля Катализаторов 8
-§2Earth Catalyst Collector 9@§2Сборщик Земля Катализаторов 9
-§2Earth Catalyst Collector 10@§2Сборщик Земля Катализаторов 10
-§2Water Catalyst Collector 1@§2Сборщик Вода Катализаторов 1
-§2Water Catalyst Collector 2@§2Сборщик Вода Катализаторов 2
-§2Water Catalyst Collector 3@§2Сборщик Вода Катализаторов 3
-§2Water Catalyst Collector 4@§2Сборщик Вода Катализаторов 4
-§2Water Catalyst Collector 5@§2Сборщик Вода Катализаторов 5
-§2Water Catalyst Collector 6@§2Сборщик Вода Катализаторов 6
-§2Water Catalyst Collector 7@§2Сборщик Вода Катализаторов 7
-§2Water Catalyst Collector 8@§2Сборщик Вода Катализаторов 8
-§2Water Catalyst Collector 9@§2Сборщик Вода Катализаторов 9
-§2Water Catalyst Collector 10@§2Сборщик Вода Катализаторов 10
-§2Fire Catalyst Collector 1@§2Сборщик Огонь Катализаторов 1
-§2Fire Catalyst Collector 2@§2Сборщик Огонь Катализаторов 2
-§2Fire Catalyst Collector 3@§2Сборщик Огонь Катализаторов 3
-§2Fire Catalyst Collector 4@§2Сборщик Огонь Катализаторов 4
-§2Fire Catalyst Collector 5@§2Сборщик Огонь Катализаторов 5
-§2Fire Catalyst Collector 6@§2Сборщик Огонь Катализаторов 6
-§2Fire Catalyst Collector 7@§2Сборщик Огонь Катализаторов 7
-§2Fire Catalyst Collector 8@§2Сборщик Огонь Катализаторов 8
-§2Fire Catalyst Collector 9@§2Сборщик Огонь Катализаторов 9
-§2Fire Catalyst Collector 10@§2Сборщик Огонь Катализаторов 10
+§2Thunder Catalyst Collector 1@§2Сборщик Катализаторов Грома 1
+§2Thunder Catalyst Collector 2@§2Сборщик Катализаторов Грома 2
+§2Thunder Catalyst Collector 3@§2Сборщик Катализаторов Грома 3
+§2Thunder Catalyst Collector 4@§2Сборщик Катализаторов Грома 4
+§2Thunder Catalyst Collector 5@§2Сборщик Катализаторов Грома 5
+§2Thunder Catalyst Collector 6@§2Сборщик Катализаторов Грома 6
+§2Thunder Catalyst Collector 7@§2Сборщик Катализаторов Грома 7
+§2Thunder Catalyst Collector 8@§2Сборщик Катализаторов Грома 8
+§2Thunder Catalyst Collector 9@§2Сборщик Катализаторов Грома 9
+§2Thunder Catalyst Collector 10@§2Сборщик Катализаторов Грома 10
+§2Air Catalyst Collector 1@§2Сборщик Катализаторов Воздуха 1
+§2Air Catalyst Collector 2@§2Сборщик Катализаторов Воздуха 2
+§2Air Catalyst Collector 3@§2Сборщик Катализаторов Воздуха 3
+§2Air Catalyst Collector 4@§2Сборщик Катализаторов Воздуха 4
+§2Air Catalyst Collector 5@§2Сборщик Катализаторов Воздуха 5
+§2Air Catalyst Collector 6@§2Сборщик Катализаторов Воздуха 6
+§2Air Catalyst Collector 7@§2Сборщик Катализаторов Воздуха 7
+§2Air Catalyst Collector 8@§2Сборщик Катализаторов Воздуха 8
+§2Air Catalyst Collector 9@§2Сборщик Катализаторов Воздуха 9
+§2Air Catalyst Collector 10@§2Сборщик Катализаторов Воздуха 10
+§2Earth Catalyst Collector 1@§2Сборщик Катализаторов Земли 1
+§2Earth Catalyst Collector 2@§2Сборщик Катализаторов Земли 2
+§2Earth Catalyst Collector 3@§2Сборщик Катализаторов Земли 3
+§2Earth Catalyst Collector 4@§2Сборщик Катализаторов Земли 4
+§2Earth Catalyst Collector 5@§2Сборщик Катализаторов Земли 5
+§2Earth Catalyst Collector 6@§2Сборщик Катализаторов Земли 6
+§2Earth Catalyst Collector 7@§2Сборщик Катализаторов Земли 7
+§2Earth Catalyst Collector 8@§2Сборщик Катализаторов Земли 8
+§2Earth Catalyst Collector 9@§2Сборщик Катализаторов Земли 9
+§2Earth Catalyst Collector 10@§2Сборщик Катализаторов Земли 10
+§2Water Catalyst Collector 1@§2Сборщик Катализаторов Воды 1
+§2Water Catalyst Collector 2@§2Сборщик Катализаторов Воды 2
+§2Water Catalyst Collector 3@§2Сборщик Катализаторов Воды 3
+§2Water Catalyst Collector 4@§2Сборщик Катализаторов Воды 4
+§2Water Catalyst Collector 5@§2Сборщик Катализаторов Воды 5
+§2Water Catalyst Collector 6@§2Сборщик Катализаторов Воды 6
+§2Water Catalyst Collector 7@§2Сборщик Катализаторов Воды 7
+§2Water Catalyst Collector 8@§2Сборщик Катализаторов Воды 8
+§2Water Catalyst Collector 9@§2Сборщик Катализаторов Воды 9
+§2Water Catalyst Collector 10@§2Сборщик Катализаторов Воды 10
+§2Fire Catalyst Collector 1@§2Сборщик Катализаторов Огня 1
+§2Fire Catalyst Collector 2@§2Сборщик Катализаторов Огня 2
+§2Fire Catalyst Collector 3@§2Сборщик Катализаторов Огня 3
+§2Fire Catalyst Collector 4@§2Сборщик Катализаторов Огня 4
+§2Fire Catalyst Collector 5@§2Сборщик Катализаторов Огня 5
+§2Fire Catalyst Collector 6@§2Сборщик Катализаторов Огня 6
+§2Fire Catalyst Collector 7@§2Сборщик Катализаторов Огня 7
+§2Fire Catalyst Collector 8@§2Сборщик Катализаторов Огня 8
+§2Fire Catalyst Collector 9@§2Сборщик Катализаторов Огня 9
+§2Fire Catalyst Collector 10@§2Сборщик Катализаторов Огня 10
 §2Master Catalyst Collector@§2Сборщик Мастер Катализаторов
-Dernel Mage@Дернел Маг
+Dernel Mage@Маг Дернел
 Gert@Герт
-§fCanyon Hermit@§fКаньон Отшельник
+§fCanyon Hermit@§fОтшельник Каньона
 
 ######################Профессии##################################
 §aCopper@§aМедь
