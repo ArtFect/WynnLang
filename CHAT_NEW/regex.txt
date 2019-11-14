@@ -112,7 +112,7 @@
 §7\[\+(.*) falling emeralds\]@§7[+(r1) падающих эмеральдов]
 (.*) is for combat level (.*) only.@(r1) §4только для уровней (r2)
 §4Your account is now linked to (.*)@§4Твой аккаунт связан теперь с (r1)
-§7Bring §3\[(.*)\] §7to the §aSlaying Post §2\[Combat Lv. (.*)\]@§7Принеси §3[(r1)] §7к §aДоске Убийств §2[Комбат Ур. (r2)]
+§7Bring §3\[(.*)\] §7to the §aSlaying Post §2\[Combat Lv. (.*)\]@§7Принеси §3[(r1)] §7к §aДоске Заданий §2[Комбат Ур. (r2)]
 §3You will now contribute (.*) of your XP to (.*)@§3Теперь ты вносишь (r1) от своих очков опыта в (r2)
 (.*) for (.*) seconds\]@(r1) на (r2) секунд]
 §dYou've revealed: (.*) for a total of (.*) emeralds.@§dТы раскрыл: (r1) в сумме за §e(r2) эмеральдов.
