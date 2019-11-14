@@ -2396,6 +2396,10 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §4This machine can only process §cUnprocessed Crops@§4Эта машина может перерабатывать только§cНеобработанный Урожай
 §4This machine can only process §cUnprocessed Ores@§4Эта машина может перерабатывать только§cНеобработанную Руду
 §4This machine can only process §cUnprocessed Logs@§4Эта машина может перерабатывать только§cНеобработанные Бревна
+§4You need to use §can Axe§4 to gather from this resource!@§4Тебе нужно использовать §cТопор§4 чтобы собрать этот ресурс!
+§4You need to use §ca Pickaxe§4 to gather from this resource!@§4Тебе нужно использовать §cКирку§4 чтобы собрать этот ресурс!
+§4You need to use §ca Rod§4 to gather from this resource!@§4Тебе нужно использовать §cУдочку§4 чтобы собрать этот ресурс!
+§4You need to use §ca Scythe§4 to gather from this resource!@§4Тебе нужно использовать §cМотыгу§4 чтобы собрать этот ресурс!
 
 =====================Entering===============================
 §7[You are now entering PirateÀÀÀCove]@§7[Ты входишь в Пиратскую Бухту]
