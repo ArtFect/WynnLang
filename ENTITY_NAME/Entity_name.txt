@@ -1337,7 +1337,7 @@ Gert@Герт
 §a§lWood Refinery@§a§lПереработка Дерева
 §7Left-Click to refine §fⒸ Logs§7 into@§7Левый Клик для переработки §fⒸ Бревен§7 в
 §7§fⒾⒼ Wood§7 or §fⒺⒽ Paper@§7§fⒾⒼ Древесину§7 или §fⒺⒽ Бумагу
-§fⒼ §6§lWeaponsmithing§f Ⓖ@§fⒼ §6§lОружейное Дело§f Ⓖ
+§fⒼ §6§lWeaponsmithing§r§f Ⓖ@§fⒼ §6§lОружейное Дело§f Ⓖ
 §7§7Crafting Station@§7§7Станция Крафта
 §7§7Spears and Daggers@§7§7Копья и Кинжалы
 §a§lCrop Refinery@§a§lПереработка Урожая
@@ -1349,10 +1349,10 @@ Gert@Герт
 §fⒾ §6§lWoodworking§r§f Ⓘ@§fⒾ §6§lДеревообработка§f Ⓘ
 §7§7Bows and Wands@§7§7Луки и Посохи
 §7Sell, scrap and repair items@§7Продажа, утилизация и починка предметов
-§fⒶ §6§lCooking§f Ⓐ@§fⒶ §6§lКулинария§f Ⓐ
+§fⒶ §6§lCooking§r§f Ⓐ@§fⒶ §6§lКулинария§f Ⓐ
 §7§7Food@§7§7Еда
 §cClick for Options@§cНажми для Опций
-§fⒺ §6§lScribing§f Ⓔ@§fⒺ §6§lИзготовление свитков§f Ⓔ
+§fⒺ §6§lScribing§r§f Ⓔ@§fⒺ §6§lИзготовление свитков§f Ⓔ
 §7§7Scrolls@§7§7Свитки
 §a§lFish Refinery@§a§lПереработка Рыбы
 §7Left-Click to refine §fⓀ Fish§7 into@§7Левый Клик для переработки §fⓀ Рыбы§7 на
@@ -1380,11 +1380,11 @@ Gert@Герт
 §a§lWynncraft §2Ranks@§a§lWynncraft §2Ранги
 §dPurple@§dФиолетовый
 1x §dT2 ✫✫@1x §dУ2 ✫✫
-§fⒽ §6§lArmouring§f Ⓗ@§fⒽ §6§lИзготовление брони§f Ⓗ
+§fⒽ §6§lArmouring§r§f Ⓗ@§fⒽ §6§lИзготовление брони§f Ⓗ
 §7§7Helmets and Chestplates@§7§7Шлема и Нагрудники
-§fⒻ §6§lTailoring§f Ⓕ@§fⒻ §6§lПортняжное дело§f Ⓕ
+§fⒻ §6§lTailoring§r§f Ⓕ@§fⒻ §6§lПортняжное дело§f Ⓕ
 §7§7Boots and Pants@§7§7Ботинки и Штаны
-§fⓁ §6§lAlchemism§f Ⓛ@§fⓁ §6§lАлхимия§f Ⓛ
+§fⓁ §6§lAlchemism§r§f Ⓛ@§fⓁ §6§lАлхимия§f Ⓛ
 §7§7Potions@§7§7Зелья
 §eLoot Crate T1@§eЛут Контейнер У1
 §cGodly Reward@§cБожественная Награда
@@ -1395,7 +1395,7 @@ Gert@Герт
 §cTrade Market@§cТрейд Маркет
 §7Buy & sell items@§7Покупка и продажа предметов
 §7on the market@§7через маркет
-§fⒹ §6§lJeweling§f Ⓓ@§fⒹ §6§lИзготовление аксессуаров§f Ⓓ
+§fⒹ §6§lJeweling§r§f Ⓓ@§fⒹ §6§lИзготовление аксессуаров§f Ⓓ
 §7§7Accessories@§7§7Аксессуары
 §7Durability:@§7Прочность:
 §6Right click §eto place the gem@§6Правый клик §eдля установки камня
