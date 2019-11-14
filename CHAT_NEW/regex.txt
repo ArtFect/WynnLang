@@ -249,10 +249,10 @@
 §5Only §d(\d+) more level(|s) §5until you can gather from §dIcefish@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЩуку
 §5Only §d(\d+) more level(|s) §5until you can gather from §dMillet@§5Еще §d(r1) уровня §5и ты сможешь собирать §dПросо
 §5Only §d(\d+) more level(|s) §5until you can gather from §dPiranha@§5Еще §d(r1) уровня §5и ты сможешь собирать §dПиранью
-§5Only §d(\d+) more level(|s) §5until you can use the §dⒷ Gathering Pickaxe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒷ Сборную Кирку У(r2)
-§5Only §d(\d+) more level(|s) §5until you can use the §dⒸ Gathering Axe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒸ Сборный Топор У(r2)
-§5Only §d(\d+) more level(|s) §5until you can use the §dⓀ Gathering Rod T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⓀ Сборную Удочку У(r2)
-§5Only §d(\d+) more level(|s) §5until you can use the §dⒿ Gathering Scythe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒿ Сборную Мотыгу У(r2)
+§5Only §d(\d+) more level(|s) §5until you can use the §dⒷ Gathering Pickaxe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒷ Сборную Кирку У(r3)
+§5Only §d(\d+) more level(|s) §5until you can use the §dⒸ Gathering Axe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒸ Сборный Топор У(r3)
+§5Only §d(\d+) more level(|s) §5until you can use the §dⓀ Gathering Rod T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⓀ Сборную Удочку У(r3)
+§5Only §d(\d+) more level(|s) §5until you can use the §dⒿ Gathering Scythe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒿ Сборную Мотыгу У(r3)
 (.*) has logged into server (.*) as §(b|a)a Warrior@(r1) зашел на сервер (r2) классом §(r3)Воин
 (.*) has logged into server (.*) as §(b|a)a Knight@(r1) зашел на сервер (r2) классом §(r3)Рыцарь
 (.*) has logged into server (.*) as §(b|a)an Archer@(r1) зашел на сервер (r2) классом §(r3)Лучник
