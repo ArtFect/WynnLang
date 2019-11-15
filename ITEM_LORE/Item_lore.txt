@@ -1856,7 +1856,7 @@
 §7§lRight click to sort by: §fName@§7§lПравый клик для сортировки по: §fНазванию
 §7§lCurrently: §fStarted@§7§lСейчас: §fНачат
 §7§lCurrently: §fLevel@§7§lСейчас: §fПо уровню
-§7§lCurrently: §fName@§7§lСейчас: §fНазванию
+§7§lCurrently: §fName@§7§lСейчас: §fПо названию
 §dID Bonuses:@§dID Бонусы:
 §bBasic Defence:@§bБазовая Защита:
 §3[L]§b Main Attack:@§3[Л]§b Основная Атака:
