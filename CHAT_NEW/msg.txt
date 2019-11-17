@@ -2240,7 +2240,6 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §eYou must leave your current party first.@§eТы должен выйти из текущей пати сначала.
 §eCan't find that party! Try again?@§eНе могу найти эту пати! Попробуй еще раз?
 §eYou must be in a party to leave.@§eТы должен быть в пати, чтобы выйти.
-§eYou must be in a party to list.@§eТы должен быть в пати, чтобы посмотреть список.
 §eYou must be invited before joining this party.@§eТы должен быть приглашен, прежде чем присоединиться к пати.
 §eDesc.: This command will let you add friends.@§eОписание: Эта команда позволяет тебе добавлять друзей.
 §eUsage: /friend [add/remove/list] [arguments]@§eИспользование: /friend [add/remove/list] [аргументы]
