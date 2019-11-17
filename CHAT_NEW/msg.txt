@@ -1117,7 +1117,6 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4/guild defend §8-§6 Buy mobs for the territory you are in@§4/guild defend §8-§6 Купить мобов для защиты территории
 §4/guild kick §c[name] §8-§6 Kick a guild member@§4/guild kick §c[ник] §8-§6 Кикнуть участника гильдии
 §4/guild banner §8-§6 Modify your guild banner@§4/guild banner §8-§6 Изменить баннер гильдии
-§cYou are not in a guild.@§cТы не состоишь в гильдии.
 §3[§3WAR]§c §cThey will be there in 45 seconds.@§3[§3WAR]§c §cОни будут там через 45 секунд.
 §4You may only contribute emeralds to the guild.@§4Ты можешь только вносить эмеральды в гильдию.
 §3[§3WAR]§c §cFollow your compass to get there.@§3[§3WAR]§c §cСледуй за совим компасом, чтобы попасть туда.
@@ -2282,10 +2281,8 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §5The trade has been cancelled.@§5Торговля была отменена.
 §cYou can't scrap this item!@§cТы не можешь утилизировать этот предмет!
 §b+3 minutes§7 speed boost.@§b+3 минуты§7 повышенной скорости.
-§eWe couldn't find any friends.@§eМы не можем найти никаких друзей.
 §eYou need to specify a message to send!@§eТебе нужно уточнить сообщение для отправки!
 §cYou do not have enough money in your inventory and bank to pay for that@§cУ тебя недостаточно денег в твоем инвентаре или банке, чтобы купить это
-§eTry typing §6/friend add Username§e!@§eПопробуй написать §6/friend add Ник§e!
 §4You need to get off your horse to gather from this resource!@§4Тебе нужно убрать свою лошадь, чтобы собрать этот ресурс!
 §4You must add 4 powders to upgrade!@§4Ты должен добавить 4 порошка для апгрейда!
 §4You logged out during a boss fight. Your character has been teleported back to the dungeon entrance!@§4Ты вышел во время битвы с боссом. Твой персонаж был телепортирован обратно ко входу в данж!
