@@ -2440,11 +2440,11 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7We did not count this death towards your hardcore status.@§7Мы не засчитаем эту смерть в твой хардкор статус.
 §cYou cannot report yourself.@§cТы не можешь отправить репорт на себя.
 §4You have already progressed too far to use skip!@§4Ты уже продвинулся слишком далеко, чтобы использовать пропуск!
-§7[+1 Thunder Powder II]@§7[+1 Гром Порошок II]
-§7[+1 Earth Powder II]@§7[+1 Земля Порошок II]
-§7[+1 Fire Powder II]@§7[+1 Огонь Порошок II]
-§7[+1 Air Powder II]@§7[+1 Воздух Порошок II]
-§7[+1 Water Powder II]@§7[+1 Вода Порошок II]
+§7[+1 Thunder Powder II]@§7[+1 Порошок Грома II]
+§7[+1 Earth Powder II]@§7[+1 Порошок Земли II]
+§7[+1 Fire Powder II]@§7[+1 Порошок Огня II]
+§7[+1 Air Powder II]@§7[+1 Порошок Воздуха II]
+§7[+1 Water Powder II]@§7[+1 Порошок Воды II]
 §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException@§cНе можем подключиться к резервному серверу, попробуй позже
 §4This command is HERO only! Buy HERO at §cstore.wynncraft.com@§4Это команда только для игроков с рангом HERO! Купи HERO на §cstore.wynncraft.com
 §cYou do not have enough gold coins to buy that!@§cУ тебя недостаточно золотых монет, чтобы купить это!
