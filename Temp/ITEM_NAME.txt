@@ -47,22 +47,21 @@ Jupiter's Token@Жетон Юпитера
 
 
 
-
 §fUnprocessed Rice§8 (.*)À@§fНеобработанный Рис §8 (r1)
-§fUnprocessed Molten Eel§8 (.*)À
-§fUnprocessed Sky Log§8 (.*)À
-§fUnprocessed Diamond Ore§8 (.*)À
-§fUnprocessed Voidstone Ore§8 (.*)À
-§fUnprocessed Dernic Ore§8 (.*)À
-§fUnprocessed Kanderstone Ore§8 (.*)À
-§fUnprocessed Cobalt Ore§8 (.*)À
-§fUnprocessed Molten Ore§8 (.*)À
-§fUnprocessed Avo Log§8 (.*)À
-§fUnprocessed Pine Log§8 (.*)À
-§fUnprocessed Sorghum§8 (.*)À
-§7Haul spell cast!§3 \[§b-(\d+) ✺§3\]
-§7Totem spell cast!§3 \[§b-(\d+) ✺§3\]
-§7Aura spell cast!§3 \[§b-(\d+) ✺§3\]
+§fUnprocessed Molten Eel§8 (.*)À@§fНеобработанный Молтен Угорь §8 (r1)
+§fUnprocessed Sky Log§8 (.*)À@§fНеобработанное Бревно Лиственницы §8 (r1)
+§fUnprocessed Diamond Ore§8 (.*)À@§fНеобработанная Алмазная Руда §8 (r1)
+§fUnprocessed Voidstone Ore§8 (.*)À@§fНеобработанная Войдстоун Руда §8 (r1)
+§fUnprocessed Dernic Ore§8 (.*)À@§fНеобработанная Дерник Руда §8 (r1)
+§fUnprocessed Kanderstone Ore§8 (.*)À@§fНеобработанная Кандерстоун Руда §8 (r1)
+§fUnprocessed Cobalt Ore§8 (.*)À@§fНеобработанная Кобальтовая Руда §8 (r1)
+§fUnprocessed Molten Ore§8 (.*)À@§fНеобработанная Молтен Руда §8 (r1)
+§fUnprocessed Avo Log§8 (.*)À@§fНеобработанное Бревно Авокадо §8 (r1)
+§fUnprocessed Pine Log§8 (.*)À@§fНеобработанное Бревно Сосны §8 (r1)
+§fUnprocessed Sorghum§8 (.*)À@§fНеобработанное Сорго §8 (r1)
+§7Haul spell cast!§3 \[§b-(\d+) ✺§3\]@§7Перевозка заклинание каст!§3 [§b-(r1) ✺§3]
+§7Totem spell cast!§3 \[§b-(\d+) ✺§3\]@§7Тотем заклинание каст!§3 [§b-(r1) ✺§3]
+§7Aura spell cast!§3 \[§b-(\d+) ✺§3\]@§7Аура заклинание каст!§3 [§b-(r1) ✺§3]
 §6Increase §eRelik§6 Level §8\[Lv. (\d+) to (\d+)\]@§6Повысить Уровень §eРелика§6 §8[Ур. (r1) - (r2)]
 §6Decrease §eRelik§6 Level §8\[Lv. (\d+) to (\d+)\]@§6Понизить Уровень §eРелика§6 §8[Ур. (r1) - (r2)]
 
@@ -70,11 +69,7 @@ Jupiter's Token@Жетон Юпитера
 
 
 
-
-§(d|b|a|e)Unidentified (.*)
-§7(.*)§3 \[§b✫✫✫§3\]
-§7(.*)§5 \[§d✫✫§8✫§5\]
-§7(.*)§7 \[§8✫✫✫§7\]
-
-
-
+§(d|b|a|e)Unidentified (.*)@ 
+§7(.*)§3 \[§b✫✫✫§3\]@ 
+§7(.*)§5 \[§d✫✫§8✫§5\]@ 
+§7(.*)§7 \[§8✫✫✫§7\]@ 
