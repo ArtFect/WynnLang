@@ -1,56 +1,54 @@
-Crafted Dagger
-Flamingo Feather
-Unprocessed Oak Log
-Gathering Scythe 3
-Gathering Axe 3
-Painting
-§4Despawn your Fire Dragonling
-§6Sea§kled L§6etter §7(§k?§7/§k1§70)
-Llevigar's Broken Clock
-§fCoconut
-Snowbell
-Gelibord's Rusted Clock
-§cAngels Wings Effect
-Llevigar Teleportation Scroll
-§aSpawn Orange Wybel§7 [Orange Wybel]
-§f        Select §6§lShaman
-§5§lHunted ⚔
-§5§lHunted ⚔§2 [Enabled]
-§6Ingredient Pouch
-§cPhoenix Wings Effect
-§cFairy Wings Effect
-§f§lMini-Quests
-§6Increase §eRelik§6 Level §8[Lv. 1 to 3]
-§6Decrease §eRelik§6 Level §8[Lv. 1 to 3]
-§7Jump to Page 1
-§7Jump to Page 5
-§7Jump to Page 9
-§7Jump to Page 13
-§7Jump to Page 17
-§7Jump to Page 21
-§fUnidentified Helmet
-§cClick to confirm
-§bLutho Teleport ScrollÀ
-§4Despawn your Orange Wybel
-§6EldritchÀÀÀOutlook KeyÀ
-Aldorei's Defective Clock
-Dropped Key
-Acanit's Token
-Tempus' Token
-Time Travelling Token
-The Eternal Token
-The Mender's Token
-The Devourer's Token
-Jupiter's Token
-§fGolden Clock
-§dUnidentified Relik
-§eUnidentified Relik
-§bUnidentified Relik
+Crafted Dagger@Крафтовый Кинжал
+Flamingo Feather@Письмо Фламинго
+Unprocessed Oak Log@Необработанное Бревно Дуба
+Gathering Scythe 3@Сборная Мотыга 3
+Gathering Axe 3@Сборный Топор 3
+Painting@Картина
+§4Despawn your Fire Dragonling@§4Деспавнить твоего Огненного Драгонлинга
+§6Sea§kled L§6etter §7(§k?§7/§k1§70)@§6Запеча§kтанное П§6исьмо §7(§k?§7/§k1§70)
+Llevigar's Broken Clock@Сломанные Часы Ллевигара
+§fCoconut@§fКокос
+Snowbell@Снижок
+Gelibord's Rusted Clock@Ржавые Часы Гелиборда
+§cAngels Wings Effect@§cЭффект Крыльев Ангела
+Llevigar Teleportation Scroll@Свиток Телепортации в Ллевигар
+§aSpawn Orange Wybel§7 [Orange Wybel]@§aЗаспавнить Оранжевого Вубела§7 [Оранжевый Вубел]
+§f        Select §6§lShaman@§f        Выбрать §6§lШамана
+§5§lHunted ⚔@§5§lОхотник ⚔
+§5§lHunted ⚔§2 [Enabled]@§5§lОхотник ⚔§2 [Включен]
+§6Ingredient Pouch@§6Мешок для Ингредиентов
+§cPhoenix Wings Effect@§cЭффект Крыльев Феникса
+§cFairy Wings Effect@Эффект Крыльев Феи
+§f§lMini-Quests@§f§lМини-Квесты
+§7Jump to Page 1@§7Перейти на 1 страницу
+§7Jump to Page 5@§7Перейти на 5 страницу
+§7Jump to Page 9@§7Перейти на 9 страницу
+§7Jump to Page 13@§7Перейти на 13 страницу
+§7Jump to Page 17@§7Перейти на 17 страницу
+§7Jump to Page 21@§7Перейти на 21 страницу
+§fUnidentified Helmet@§fНеидентифицированный Шлем
+§cClick to confirm@§cКликни для подтверждения
+§bLutho Teleport ScrollÀ@§bСвиток Телепортации в Луто
+§4Despawn your Orange Wybel@§4Деспавнить твоего Оранжевого Вубела
+§6EldritchÀÀÀOutlook KeyÀ@§6Ключ от Жуткого Наблюдателя
+Aldorei's Defective Clock@Детективные Часы Алдорей
+Dropped Key@Выброшенный Ключ
+Acanit's Token@Жетон Аканита
+Tempus' Token@Жетон Темпуса
+Time Travelling Token@Жетон Путешествия во Времени
+The Eternal Token@Вечный Жетон
+The Mender's Token@Жетон Починщика
+The Devourer's Token@Жетон Пожирателя
+Jupiter's Token@Жетон Юпитера
+§fGolden Clock@§fЗолотые Часы
+§dUnidentified Relik@§dНеидентифицированный Релик
+§eUnidentified Relik@§eНеидентифицированный Релик
+§bUnidentified Relik@§bНеидентифицированный Релик
 
 
 
 
-§fUnprocessed Rice§8 (.*)À
+§fUnprocessed Rice§8 (.*)À@§fНеобработанный Рис §8 (r1)
 §fUnprocessed Molten Eel§8 (.*)À
 §fUnprocessed Sky Log§8 (.*)À
 §fUnprocessed Diamond Ore§8 (.*)À
@@ -65,7 +63,8 @@ Jupiter's Token
 §7Haul spell cast!§3 \[§b-(\d+) ✺§3\]
 §7Totem spell cast!§3 \[§b-(\d+) ✺§3\]
 §7Aura spell cast!§3 \[§b-(\d+) ✺§3\]
-
+§6Increase §eRelik§6 Level §8\[Lv. (\d+) to (\d+)\]@§6Повысить Уровень §eРелика§6 §8[Ур. (r1) - (r2)]
+§6Decrease §eRelik§6 Level §8\[Lv. (\d+) to (\d+)\]@§6Понизить Уровень §eРелика§6 §8[Ур. (r1) - (r2)]
 
 
 
