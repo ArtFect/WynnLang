@@ -47,6 +47,9 @@ public class Log {
     }
 
     public static void saveAndSend() throws ClientProtocolException, IOException {
+        if (!WynnLang.onWynncraft) {
+            return;
+        }
         List<NameValuePair> params = new ArrayList<NameValuePair>();
         params.add(new BasicNameValuePair("UUID", WynnLang.uuid));
         params.add(new BasicNameValuePair("ver", WynnLang.VERSION));
@@ -67,7 +70,7 @@ public class Log {
         }
 
         CloseableHttpClient client = HttpClients.createDefault();
-        HttpPost httpPost = new HttpPost("http://35.228.84.245");
+        HttpPost httpPost = new HttpPost("http://" + WynnLang.SERVER);
         httpPost.setEntity(new UrlEncodedFormEntity(params, "UTF-8"));
         CloseableHttpResponse response = client.execute(httpPost);
         client.close();
