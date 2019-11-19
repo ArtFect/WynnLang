@@ -51,37 +51,29 @@
 §2§aGathering Post §2[Farming Lv. 28]@§2§aДоска для Сбора §2[Земледелие Ур. 28]
 §2§aGathering Post §2[Farming Lv. 8]@§2§aДоска для Сбора §2[Земледелие Ур. 8]
 §2§aGathering Post §2[Farming Lv. 73]@§2§aДоска для Сбора §2[Земледелие Ур. 73]
-§c§lRight-Click to
-§fExplode
-§2[§aRight Click to Break Icicle§2]
-§2[§aRight Click to Collect Water§2]
-§c+9❤§7/s
-§c+6❤§7/s
-§c+15❤§7/s
-§c+63❤§7/s
-§c+7❤§7/s
-§c+10❤§7/s
-§c+11❤§7/s
-§c+43❤§7/s
-§c+14❤§7/s
-§2Elphaba
-§2Lucio
-§2Barman
-§2Alchemist
-§2[§a+1§2 Unprocessed Rice]
-§2[§a+1§2 Copper Ingot]
-§2[§a+1§2 Copper Gem]
-§2[§a+1§2 Gudgeon Oil]
-§2[§a+1§2 Gudgeon Meat]
-§2[§a+1§2 Oak Paper]
-§2[§a+1§2 Wheat Grains]
-§2[§a+1§2 Wheat String]
-§aSergeant§6 [Lv. 100]
-§a§2Aledar§6 [Lv. 100]
-§aTnt§6 [Lv. 0]
-§aBarman§6 [Lv. 20]
-§aGolden Apple§6 [Lv. 20]
+§c§lRight-Click to@§c§lПравый Клик для
+§fExplode@§fВзрыва
+§2[§aRight Click to Break Icicle§2]@§2[§aПравый Клик, чтобы Сломать Сосульку§2]
+§2[§aRight Click to Collect Water§2]@§2[§aПравый Клик, чтобы Собрать Воду§2]
+§2Elphaba@§2Эльфаба
+§2Lucio@§2Луцио
+§2Barman@§2Бармен
+§2Alchemist@§2Алхимик
+§2[§a+1§2 Unprocessed Rice]@§2[§a+1§2 Необработанный Рис]
+§2[§a+1§2 Copper Ingot]@§2[§a+1§2 Слиток Меди]
+§2[§a+1§2 Copper Gem]@§2[§a+1§2 Медный Камень]
+§2[§a+1§2 Gudgeon Oil]@§2[§a+1§2 Жир Пескаря]
+§2[§a+1§2 Gudgeon Meat]@§2[§a+1§2 Мясо Пескаря]
+§2[§a+1§2 Oak Paper]@§2[§a+1§2 Дубовая Бумага]
+§2[§a+1§2 Wheat Grains]@§2[§a+1§2 Пшеничное Зерно]
+§2[§a+1§2 Wheat String]@§2[§a+1§2 Пшеничная Нить]
+§aSergeant§6 [Lv. 100]@§aСержант§6 [Ур. 100]
+§a§2Aledar§6 [Lv. 100]@§a§2Аледар§6 [Ур. 100]
+§aTnt§6 [Lv. 0]@§aДинамит§6 [Ур. 0]
+§aBarman§6 [Lv. 20]@§aБармен§6 [Ур. 20]
+§aGolden Apple§6 [Lv. 20]@§aЗолотое Яблоко§6 [Ур. 20]
 
 
 
-§7(.*)'s Iron Golem
+§c+(\d+)❤§7\/s@§c+(r1)❤§7/с
+§7(.*)'s Iron Golem@§7(r1) Железный Голем
