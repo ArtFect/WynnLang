@@ -148,35 +148,35 @@
 §bLegendary Item [5]@§bЛегендарный Предмет [5]
 §bLegendary Item [6]@§bЛегендарный Предмет [6]
 §cHeal: 4@§cИсцеление: 4
-§a✔ Lv. 1: §f1§7 Gudgeon Oil§f Ⓚ
-          §f2§7 Wheat Grains§f Ⓙ
-§c✖ Lv. 10: §f2§7 Trout Oil§f Ⓚ
-            §f4§7 Barley Grains§f Ⓙ
-§3- §7Teleports to: §fLutho
-§5- §7Aura Spell §8[Lv. 21]
-§5- §7Dead Star Upgrade III §8[Lv. 56]
-§6- §fAura§7 [Lv. 21]
-§5- §7Haul Upgrade II §8[Lv. 26]
-§fEldritchÀÀÀOutlook§7 once
-§7§kThis §khint §kwill §ktell §kyou 
-§7§kwhere §kto §kgo §knext: §khttp://jumla.in/Kk 
-§6 - §a✔ §21 Golden Clock
-§6 - §c✖ §41 Golden Clock
-§cShift Right-Click to enable hunted
-§a- §7Effect: §f+4 Main Attack Damage
-§827 and boost your Main Attack
-§a- §7Type: §fNecklace
-§a- §7Type: §fDagger
-§a- §7Type: §fWand
-§a- §7Type: §fChestplate
-§a- §7Type: §fLeggings
-§a- §7Type: §fBoots
-§a- §7Type: §fHelmet
-§a- §7Type: §fRing
-§a- §7Type: §fSpear
-§a- §7Type: §fBow
-§a- §7Type: §fBracelet
-§a- §7Type: §fRelik
+§a✔ Lv. 1: §f1§7 Gudgeon Oil§f Ⓚ@§a✔ Ур. 1: §f1§7 Жир Пескаря§f Ⓚ
+          §f2§7 Wheat Grains§f Ⓙ@          §f2§7 Пшеничное Зерно§f Ⓙ
+§c✖ Lv. 10: §f2§7 Trout Oil§f Ⓚ@§c✖ Ур. 10: §f2§7 Жир Форели §f Ⓚ
+            §f4§7 Barley Grains§f Ⓙ@            §f4§7 Ячменное Зерно§f Ⓙ
+§3- §7Teleports to: §fLutho@§3- §7Телепорт в: §fЛуто
+§5- §7Aura Spell §8[Lv. 21]@§5- §7Аура Заклинание §8[Ур. 21]
+§5- §7Dead Star Upgrade III §8[Lv. 56]@§5- §7Мертвая Звезда Апгрейд III §8[Ур. 56]
+§6- §fAura§7 [Lv. 21]@§6- §fАура§7 [Ур. 21]
+§5- §7Haul Upgrade II §8[Lv. 26]@§5- §7Бросок Апгрейд II §8[Ур. 26]
+§fEldritchÀÀÀOutlook§7 once@§fЖуткому Наблюдателю§7 единожды
+§7§kThis §khint §kwill §ktell §kyou @§7§kЭта §kподсказка §kподскажет §kтебе
+§7§kwhere §kto §kgo §knext: §khttp://jumla.in/Kk @§7§kкуда §kидти §kдальше: §khttp://jumla.in/Kk 
+§6 - §a✔ §21 Golden Clock@§6 - §a✔ §21 Золотые Часы
+§6 - §c✖ §41 Golden Clock@§6 - §c✖ §41 Золотые Часы
+§cShift Right-Click to enable hunted@§cШифт Правый Клик для включения охотника
+§a- §7Effect: §f+4 Main Attack Damage@§a- §7Эффект: §f+4 Урона Основной Атаки
+§827 and boost your Main Attack@§827 и увеличит твою Основную Атаку
+§a- §7Type: §fNecklace@§a- §7Тип: §fАмулет
+§a- §7Type: §fDagger@§a- §7Тип: §fКинжал
+§a- §7Type: §fWand@§a- §7Тип: §fПосох
+§a- §7Type: §fChestplate@§a- §7Тип: §fНагрудник
+§a- §7Type: §fLeggings@§a- §7Тип: §fШтаны
+§a- §7Type: §fBoots@§a- §7Тип: §fБотинки
+§a- §7Type: §fHelmet@§a- §7Тип: §fШлем
+§a- §7Type: §fRing@§a- §7Тип: §fКольцо
+§a- §7Type: §fSpear@§a- §7Тип: §fКопье
+§a- §7Type: §fBow@§a- §7Тип: §fЛук
+§a- §7Type: §fBracelet@§a- §7Тип: §fБраслет
+§a- §7Type: §fRelik@§a- §7Тип: §fРелик
 
 §7§4'§lI§4, :§ltold§4.; .§lyou§4; '§lto§4;. ,§lstay§4' 
 §7the strange temple 
