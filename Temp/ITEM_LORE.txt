@@ -39,40 +39,40 @@
 §7 - §fRefined Dark Paper §7[Lv. 60]@§7 - §fПереработанная Каштановая Бумага §7[Ур. 60]
 §7 - §fRefined Icefish Oil §7[Lv. 40]@§7 - §fПереработанный Жир Щуки §7[Ур. 40]
 §7 - §fRefined Icefish Meat §7[Lv. 40]@§7 - §fПереработанное Мясо Щуки §7[Ур. 40]
-§7 - §fRefined Piranha Oil §7[Lv. 50]@§7 - §f §7[Ур. 50]
-§7 - §fRefined Piranha Meat §7[Lv. 50]@§7 - §f §7[Ур. 50]
-§7 - §fRefined Millet String §7[Lv. 60]@§7 - §f §7[Ур. 60]
-§7 - §fRefined Millet Grains §7[Lv. 60]@§7 - §f §7[Ур. 60]
-§7 - §fRefined Silver Ingot §7[Lv. 50]@§7 - §f §7[Ур. 50]
-§7 - §fRefined Silver Gem §7[Lv. 50]@§7 - §f §7[Ур. 50]
-§7 - §fRefined Light Wood §7[Lv. 70]@§7 - §f §7[Ур. 70]
-§7 - §fRefined Light Paper §7[Lv. 70]@§7 - §f §7[Ур. 70]
-§7 - §fRefined Decay String §7[Lv. 70]@§7 - §f §7[Ур. 70]
-§7 - §fRefined Decay Grains §7[Lv. 70]@§7 - §f §7[Ур. 70]
-§7 - §fRefined Rice String §7[Lv. 80]@§7 - §f §7[Ур. 80]
-§7 - §fRefined Rice Grains §7[Lv. 80]@§7 - §f §7[Ур. 80]
-§cUnsellable
-§7Worth: 1 Emerald
-§7- Refined Oat Grains 3
-§7- Refined Oat Grains 2
-§7- Refined Oat Grains 1
-§7- Refined Salmon Oil 1
-§f   - §7Duration: 3.0 Sec.
-§7... my sacrifice, no one m§kus§7t search for me.
-§7You must fake my dea§kth§7, and create a body...
-§a- §7Effect: §f+17§c ✹ Defence
-§817 and boost your Health
-§b   - §7Duration: 8.5 seconds
-§b   - §7Damage Boost: +180%
-§b   - §7Damage: +2% ❉ / Mana Used
-§c✖§a Left-Click §7to refine to:
-§c✖§6 Right-Click §7to refine to:
-§7angel wings
-§7Teleports to: Llevigar
-§6§l⚔§6 Damage           §a■§a■§a■§a■§7■
-§6§l⚔§6 Damage           §a■§a■§7■§7■§7■
-§6§l⚔§6 Damage           §a■§a■§a■§a■§a■
-§c❤ Defence          §7■§7■§7■§7■§7■
+§7 - §fRefined Piranha Oil §7[Lv. 50]@§7 - §fПереработанный Жир Пираньи §7[Ур. 50]
+§7 - §fRefined Piranha Meat §7[Lv. 50]@§7 - §fПереработанное Мясо Пираньи §7[Ур. 50]
+§7 - §fRefined Millet String §7[Lv. 60]@§7 - §fПереработанная Просо Нить §7[Ур. 60]
+§7 - §fRefined Millet Grains §7[Lv. 60]@§7 - §fПереработанное Просо Зерно §7[Ур. 60]
+§7 - §fRefined Silver Ingot §7[Lv. 50]@§7 - §fПереработанный Слиток Серебра §7[Ур. 50]
+§7 - §fRefined Silver Gem §7[Lv. 50]@§7 - §fПереработанный Серебрянный Камень §7[Ур. 50]
+§7 - §fRefined Light Wood §7[Lv. 70]@§7 - §fПереработанная Древесина Клена §7[Ур. 70]
+§7 - §fRefined Light Paper §7[Lv. 70]@§7 - §fПереработанная Кленовая Бумага §7[Ур. 70]
+§7 - §fRefined Decay String §7[Lv. 70]@§7 - §fПереработанная Зараженная Нить §7[Ур. 70]
+§7 - §fRefined Decay Grains §7[Lv. 70]@§7 - §fПереработанное Зараженное Зерно §7[Ур. 70]
+§7 - §fRefined Rice String §7[Lv. 80]@§7 - §fПереработанная Рисовая Нить §7[Ур. 80]
+§7 - §fRefined Rice Grains §7[Lv. 80]@§7 - §fПереработанное Рисовое Зерно §7[Ур. 80]
+§cUnsellable@§cНепродаваемый
+§7Worth: 1 Emerald@§7Стоит: 1 Эмеральд
+§7- Refined Oat Grains 3@§7- Переработанное Овсяное Зерно 3
+§7- Refined Oat Grains 2@§7- Переработанное Овсяное Зерно 2
+§7- Refined Oat Grains 1@§7- Переработанное Овсяное Зерно 1
+§7- Refined Salmon Oil 1@§7- Переработанный Жир Лосося 1
+§f   - §7Duration: 3.0 Sec.@§f   - §7Длительность: 3.0 Сек.
+§7... my sacrifice, no one m§kus§7t search for me.@§7... моя жертва, никто не д§kолже§7н искать меня.
+§7You must fake my dea§kth§7, and create a body...@§7Ты должен инсценировать мою сме§kрть§7, и создать тело...
+§a- §7Effect: §f+17§c ✹ Defence@§a- §7Эффект: §f+17§c ✹ Защиты
+§817 and boost your Health@§817 и увеличит твое Здоровье
+§b   - §7Duration: 8.5 seconds@§b   - §7Длительность: 8.5 секунд
+§b   - §7Damage Boost: +180%@§b   - §7Увеличение Урона: +180%
+§b   - §7Damage: +2% ❉ / Mana Used@§b   - §7Урон: +2% ❉ / Использованной Маны
+§c✖§a Left-Click §7to refine to:@§c✖§a Левый Клик §7для переработки на:
+§c✖§6 Right-Click §7to refine to:@§c✖§6 Правый Клик §7для переработки на:
+§7angel wings@§7крылья ангела
+§7Teleports to: Llevigar@§7Телепорт в: Ллевигар
+§6§l⚔§6 Damage           §a■§a■§a■§a■§7■@§6§l⚔§6 Урон           §a■§a■§a■§a■§7■
+§6§l⚔§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§6 Урон           §a■§a■§7■§7■§7■
+§6§l⚔§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§6 Урон           §a■§a■§a■§a■§a■
+§c❤ Defence          §7■§7■§7■§7■§7■@§c❤ Защита          §7■§7■§7■§7■§7■
 §a➽ Range             §a■§a■§a■§a■§7■
 §d✺ Spells             §a■§a■§a■§a■§7■
 §7§7The Shaman benefits from
