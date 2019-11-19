@@ -222,36 +222,36 @@
 
 
 
-§7§(c\+|a-)(.*) §71st Spell Cost
-§7§(c\+|a-)(.*) §72nd Spell Cost
-§7§(c\+|a-)(.*) §73rd Spell Cost
-§7§(c\+|a-)(.*) §74th Spell Cost
-§7(.*) §7Totem Cost
-§7(.*) §7Haul Cost
-§7(.*) §7Main Attack Damage
-§7(.*) §7Loot Quality
-§7(.*) §7Gather XP Bonus
-§7(.*) §7Jump Height
-§7(.*) §7Sprint Regen
-§7(.*) §7Sprint
-§7(.*) §7Gather Speed
-§fShift Right-Click§7 to sell ingredients \(§a(\d+)§7-§a(.*)§2²§7\)
-§5\[RRR\] §dHaul Spell: §f§f(.*)
-§5\[RLR\] §dTotem Spell: §f§f(.*)
-§5\[RLL\] §dAura Spell: §f§f(.*)
-§7Selling for: §a(.*)§7-§a(.*)§2²
-§3Gathering Tool §8\[(.*) Durability\]
-§7 - §fRing §7\[Lv. (\d+) to (\d+)\]
-§fTotal Mini-Quests: §7(.*)
-§7 - §fRelik §7\[Lv. (\d+) to (\d+)\]
-§a\+(.*)§2 to §a(.*)§7 Main Attack Damage
-§d- §7Sprint: §f(.*)
-§d- §7Main Attack Damage: §f(.*)
-§d- §7Sprint Regen: §f(.*)
-§d- §7Loot Quality: §f(.*)
-§d- §7Gather Speed: §f(.*)
-§d- §7Gather XP Bonus: §f(.*)
-§d- §71st Spell Cost: §f(.*)
-§d- §72nd Spell Cost: §f(.*)
-§d- §7Jump Height: §f(.*)
-§7This will delete your: §fLv. (\d+) Shaman
+§7§(c\+|a-)(.*) §71st Spell Cost@§7§(r1)(r2) §7Цена 1-го Заклинания
+§7§(c\+|a-)(.*) §72nd Spell Cost@§7§(r1)(r2) §7Цена 2-го Заклинания
+§7§(c\+|a-)(.*) §73rd Spell Cost@§7§(r1)(r2) §7Цена 3-го Заклинания
+§7§(c\+|a-)(.*) §74th Spell Cost@§7§(r1)(r2) §7Цена 4-го Заклинания
+§7(.*) §7Totem Cost@§7(r1) §7Цена Тотема
+§7(.*) §7Haul Cost@§7(r1) §7Цена Броска
+§7(.*) §7Main Attack Damage@§7(r1) §7Урона Основной Атаки
+§7(.*) §7Loot Quality@§7(r1) §7Качества Лута
+§7(.*) §7Gather XP Bonus@§7(r1) §7XP Бонуса за Сбор
+§7(.*) §7Jump Height@§7(r1) §7Высоты Прыжка
+§7(.*) §7Sprint Regen@§7(r1) §7Реген Спринта
+§7(.*) §7Sprint@§7(r1) §7Спринта
+§7(.*) §7Gather Speed@§7(r1) §7Скорости Сбора
+§fShift Right-Click§7 to sell ingredients \(§a(\d+)§7-§a(.*)§2²§7\)@§fШифт Правый Клик§7 для продажи ингредиентов (§a(r1)§7-§a(r2)§2²§7)
+§5\[RRR\] §dHaul Spell: §f§f(.*)@§5[ППП] §dБросок Заклинание: §f§f(r1)
+§5\[RLR\] §dTotem Spell: §f§f(.*)@§5[ПЛП] §dТотем Заклинание: §f§f(r1)
+§5\[RLL\] §dAura Spell: §f§f(.*)@§5[ПЛЛ] §dАура Заклинание: §f§f(r1)
+§7Selling for: §a(.*)§7-§a(.*)§2²@§7Продажа за: §a(r1)§7-§a(r2)§2²
+§3Gathering Tool §8\[(.*) Durability\]@§3Инструмент для Сбора §8[(r1) Прочность]
+§7 - §fRing §7\[Lv. (\d+) to (\d+)\]@§7 - §fКольцо §7[Ур. (r1) до (r2)]
+§fTotal Mini-Quests: §7(.*)@§fВсего Мини-Квестов: §7(r1)
+§7 - §fRelik §7\[Lv. (\d+) to (\d+)\]@§7 - §fРелик §7[Ур. (r1) до (r2)]
+§a\+(.*)§2 to §a(.*)§7 Main Attack Damage@§a+(r1)§2 до §a(r2)§7 Урона Основной Атаки
+§d- §7Sprint: §f(.*)@§d- §7Спринт: §f(r1)
+§d- §7Main Attack Damage: §f(.*)@§d- §7Урон Основной Атаки: §f(r1)
+§d- §7Sprint Regen: §f(.*)@§d- §7Реген Спринта: §f(r1)
+§d- §7Loot Quality: §f(.*)@§d- §7Качество Лута: §f(r1)
+§d- §7Gather Speed: §f(.*)@§d- §7Скорость Сбора: §f(r1)
+§d- §7Gather XP Bonus: §f(.*)@§d- §7XP Бонус за Сбор: §f(r1)
+§d- §71st Spell Cost: §f(.*)@§d- §7Цена 1-го Заклинания: §f(r1)
+§d- §72nd Spell Cost: §f(.*)@§d- §7Цена 2-го Заклинания: §f(r1)
+§d- §7Jump Height: §f(.*)@§d- §7Высота Прыжка: §f(r1)
+§7This will delete your: §fLv. (\d+) Shaman@§7Это удалит твоего: §fУр. (r1) Шамана
