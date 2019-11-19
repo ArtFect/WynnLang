@@ -98,33 +98,33 @@
 §7Class: §fShaman@§7Класс: §fШаман
 §7phoenix wings@§7крылья феникса
 §7fairy wings@§7крылья феи
-§e- §7Class: §fShaman@
-§7Right-Click to enable auto-pickup@
-§a- §7Tier: §fNormal@
-§a✔ Lv. 1: §f1§7 Copper Ingot§f Ⓑ@
-          §f2§7 Oak Wood§f Ⓒ@
-§c✖ Lv. 10: §f2§7 Granite Ingot§f Ⓑ@
-            §f4§7 Birch Wood§f Ⓒ@
-§a✔ Lv. 1: §f2§7 Copper Ingot§f Ⓑ@
-          §f1§7 Oak Wood§f Ⓒ@
-§c✖ Lv. 10: §f4§7 Granite Ingot§f Ⓑ@
-            §f2§7 Birch Wood§f Ⓒ@
-§a✔ Lv. 1: §f2§7 Wheat String§f Ⓙ@
-§c✖ Lv. 10: §f4§7 Barley String§f Ⓙ@
-§a✔ Lv. 1: §f1§7 Wheat String§f Ⓙ@
-§c✖ Lv. 10: §f2§7 Barley String§f Ⓙ@
-§6§lRelik Recipes:@
-§a✔ Lv. 1: §f2§7 Gudgeon Oil§f Ⓚ@
-§c✖ Lv. 10: §f4§7 Trout Oil§f Ⓚ@
-§a✔§7 Class Req: Shaman@
-§f1 x §b❉ Water Powder I@
-§c✖§7 Class Req: Shaman@
-§3§b+Tempest: §3Arrow Storm fires@
-§3in all directions@
-§3§b+Saviour’s Sacrifice: §3While@
-§3under 25% maximum health, nearby@
-§3allies gain 30% bonus damage@
-§3and defense@
+§e- §7Class: §fShaman@§e- §7Класс: §fШаман
+§7Right-Click to enable auto-pickup@§7Правый клик для включения авто-подбора
+§a- §7Tier: §fNormal@§a- §7Уровень: §fОбычный
+§a✔ Lv. 1: §f1§7 Copper Ingot§f Ⓑ@§a✔ Ур. 1: §f1§7 Слиток Меди§f Ⓑ
+          §f2§7 Oak Wood§f Ⓒ@          §f2§7 Древесина Дуба§f Ⓒ
+§c✖ Lv. 10: §f2§7 Granite Ingot§f Ⓑ@§c✖ Ур. 10: §f2§7 Гранитный Слиток§f Ⓑ
+            §f4§7 Birch Wood§f Ⓒ@            §f4§7 Древесина Березы§f Ⓒ
+§a✔ Lv. 1: §f2§7 Copper Ingot§f Ⓑ@§a✔ Ур. 1: §f2§7 Слиток Меди§f Ⓑ
+          §f1§7 Oak Wood§f Ⓒ@          §f1§7 Древесина Дуба§f Ⓒ
+§c✖ Lv. 10: §f4§7 Granite Ingot§f Ⓑ@§c✖ Ур. 10: §f4§7 Гранитный Слиток§f Ⓑ
+            §f2§7 Birch Wood§f Ⓒ@            §f2§7 Древесина Березы§f Ⓒ
+§a✔ Lv. 1: §f2§7 Wheat String§f Ⓙ@§a✔ Ур. 1: §f2§7 Пшеничная Нить§f Ⓙ
+§c✖ Lv. 10: §f4§7 Barley String§f Ⓙ@§c✖ Ур. 10: §f4§7 Ячменная Нить§f Ⓙ
+§a✔ Lv. 1: §f1§7 Wheat String§f Ⓙ@§a✔ Ур. 1: §f1§7 Пшеничная Нить§f Ⓙ
+§c✖ Lv. 10: §f2§7 Barley String§f Ⓙ@§c✖ Ур. 10: §f2§7 Ячменная Нить§f Ⓙ
+§6§lRelik Recipes:@§6§lрецепты Реликов:
+§a✔ Lv. 1: §f2§7 Gudgeon Oil§f Ⓚ@§a✔ Ур. 1: §f2§7 Жир Пескаря§f Ⓚ
+§c✖ Lv. 10: §f4§7 Trout Oil§f Ⓚ@§c✖ Ур. 10: §f4§7 Жир Форели§f Ⓚ
+§a✔§7 Class Req: Shaman@§a✔§7 Класс Необ.: Шаман
+§f1 x §b❉ Water Powder I@§f1 x §b❉ Порошок Воды I
+§c✖§7 Class Req: Shaman@§c✖§7 Класс Необ.: Шаман
+§3§b+Tempest: §3Arrow Storm fires@§3§b+Tempest: §3Шторм Стрел стреляет
+§3in all directions@§3во все направления
+§3§b+Saviour’s Sacrifice: §3While@§3§b+Saviour’s Sacrifice: §3При уменьшении
+§3under 25% maximum health, nearby@§3до 25% от максимума здоровья ближайшие
+§3allies gain 30% bonus damage@§3союзники получают 30% бонус к урону
+§3and defense@§3и защите
 §3§b+Magnet: §3Pulls nearby items
 §3towards you
 §3§b+Intervene: §350% of damage
