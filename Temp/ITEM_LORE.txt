@@ -73,31 +73,31 @@
 §6§l⚔§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§6 Урон           §a■§a■§7■§7■§7■
 §6§l⚔§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§6 Урон           §a■§a■§a■§a■§a■
 §c❤ Defence          §7■§7■§7■§7■§7■@§c❤ Защита          §7■§7■§7■§7■§7■
-§a➽ Range             §a■§a■§a■§a■§7■
-§d✺ Spells             §a■§a■§a■§a■§7■
-§7§7The Shaman benefits from
-§7powerful buffs, displacement,
-§7and crowd-control abilities
-§7at the cost of low defences.
-§7Using combos, they can aggressively
-§7engage huge amounts of enemies.
-§7- §aA Hunter's Calling §l✔
-§7You will be in permanent
-§7hunted mode (PvP on).
-§e- §7Class: §5§l⚔ §fShaman
-§6- §fTotem§7 [Lv. 1]
-§6- §7Haul§8 [Lv. 11]
-§6- §7Aura§8 [Lv. 21]
-§6- §7Uproot§8 [Lv. 31]
-§5- §7Haul Spell §8[Lv. 11]
-§a+50% §7Mob XP
-§a+50% §7Gathering XP
-§fLeft-Click§7 to view contents
-§7(Your pouch is empty)
-§7Right-Click to disable auto-pickup
-§7Class: §fShaman
-§7phoenix wings
-§7fairy wings
+§a➽ Range             §a■§a■§a■§a■§7■@§a➽ Дальность             §a■§a■§a■§a■§7■
+§d✺ Spells             §a■§a■§a■§a■§7■@§d✺ Заклинания             §a■§a■§a■§a■§7■
+§7§7The Shaman benefits from@§7§7Шаман получает преимущество от 
+§7powerful buffs, displacement,@§7мощных баффов, перемещения 
+§7and crowd-control abilities@§7и способности контролировать толпу, 
+§7at the cost of low defences.@§7в обмен на низкую защиту. 
+§7Using combos, they can aggressively@§7Используя комбо, шаманы могут агрессивно 
+§7engage huge amounts of enemies.@§7атаковать огромное количество врагов.
+§7- §aA Hunter's Calling §l✔@ 
+§7You will be in permanent@§7Ты будешь в постоянном
+§7hunted mode (PvP on).@§7режиме охотника (ПвП включено).
+§e- §7Class: §5§l⚔ §fShaman@§e- §7Класс: §5§l⚔ §fШаман
+§6- §fTotem§7 [Lv. 1]@§6- §fТотем§7 [Ур. 1]
+§6- §7Haul§8 [Lv. 11]@
+§6- §7Aura§8 [Lv. 21]@
+§6- §7Uproot§8 [Lv. 31]@
+§5- §7Haul Spell §8[Lv. 11]@
+§a+50% §7Mob XP@
+§a+50% §7Gathering XP@
+§fLeft-Click§7 to view contents@
+§7(Your pouch is empty)@
+§7Right-Click to disable auto-pickup@
+§7Class: §fShaman@
+§7phoenix wings@
+§7fairy wings@
 §e- §7Class: §fShaman
 §7Right-Click to enable auto-pickup
 §a- §7Tier: §fNormal
