@@ -86,45 +86,45 @@
 §7hunted mode (PvP on).@§7режиме охотника (ПвП включено).
 §e- §7Class: §5§l⚔ §fShaman@§e- §7Класс: §5§l⚔ §fШаман
 §6- §fTotem§7 [Lv. 1]@§6- §fТотем§7 [Ур. 1]
-§6- §7Haul§8 [Lv. 11]@
-§6- §7Aura§8 [Lv. 21]@
-§6- §7Uproot§8 [Lv. 31]@
-§5- §7Haul Spell §8[Lv. 11]@
-§a+50% §7Mob XP@
-§a+50% §7Gathering XP@
-§fLeft-Click§7 to view contents@
-§7(Your pouch is empty)@
-§7Right-Click to disable auto-pickup@
-§7Class: §fShaman@
-§7phoenix wings@
-§7fairy wings@
-§e- §7Class: §fShaman
-§7Right-Click to enable auto-pickup
-§a- §7Tier: §fNormal
-§a✔ Lv. 1: §f1§7 Copper Ingot§f Ⓑ
-          §f2§7 Oak Wood§f Ⓒ
-§c✖ Lv. 10: §f2§7 Granite Ingot§f Ⓑ
-            §f4§7 Birch Wood§f Ⓒ
-§a✔ Lv. 1: §f2§7 Copper Ingot§f Ⓑ
-          §f1§7 Oak Wood§f Ⓒ
-§c✖ Lv. 10: §f4§7 Granite Ingot§f Ⓑ
-            §f2§7 Birch Wood§f Ⓒ
-§a✔ Lv. 1: §f2§7 Wheat String§f Ⓙ
-§c✖ Lv. 10: §f4§7 Barley String§f Ⓙ
-§a✔ Lv. 1: §f1§7 Wheat String§f Ⓙ
-§c✖ Lv. 10: §f2§7 Barley String§f Ⓙ
-§6§lRelik Recipes:
-§a✔ Lv. 1: §f2§7 Gudgeon Oil§f Ⓚ
-§c✖ Lv. 10: §f4§7 Trout Oil§f Ⓚ
-§a✔§7 Class Req: Shaman
-§f1 x §b❉ Water Powder I
-§c✖§7 Class Req: Shaman
-§3§b+Tempest: §3Arrow Storm fires
-§3in all directions
-§3§b+Saviour’s Sacrifice: §3While
-§3under 25% maximum health, nearby
-§3allies gain 30% bonus damage
-§3and defense
+§6- §7Haul§8 [Lv. 11]@§6- §7Бросок§8 [Ур. 11]
+§6- §7Aura§8 [Lv. 21]@§6- §7Аура§8 [Ур. 21]
+§6- §7Uproot§8 [Lv. 31]@§6- §7Изгнание§8 [Ур. 31]
+§5- §7Haul Spell §8[Lv. 11]@§5- §7Бросок Заклинание §8[Ур. 11]
+§a+50% §7Mob XP@§a+50% §7XP с Мобов
+§a+50% §7Gathering XP@§a+50% §7XP за Сбор
+§fLeft-Click§7 to view contents@§fЛевый Клик§7 для просмотра содержимого
+§7(Your pouch is empty)@§7(Твой мешок пуст)
+§7Right-Click to disable auto-pickup@§7Правый клик для отключения авто-подбора
+§7Class: §fShaman@§7Класс: §fШаман
+§7phoenix wings@§7крылья феникса
+§7fairy wings@§7крылья феи
+§e- §7Class: §fShaman@
+§7Right-Click to enable auto-pickup@
+§a- §7Tier: §fNormal@
+§a✔ Lv. 1: §f1§7 Copper Ingot§f Ⓑ@
+          §f2§7 Oak Wood§f Ⓒ@
+§c✖ Lv. 10: §f2§7 Granite Ingot§f Ⓑ@
+            §f4§7 Birch Wood§f Ⓒ@
+§a✔ Lv. 1: §f2§7 Copper Ingot§f Ⓑ@
+          §f1§7 Oak Wood§f Ⓒ@
+§c✖ Lv. 10: §f4§7 Granite Ingot§f Ⓑ@
+            §f2§7 Birch Wood§f Ⓒ@
+§a✔ Lv. 1: §f2§7 Wheat String§f Ⓙ@
+§c✖ Lv. 10: §f4§7 Barley String§f Ⓙ@
+§a✔ Lv. 1: §f1§7 Wheat String§f Ⓙ@
+§c✖ Lv. 10: §f2§7 Barley String§f Ⓙ@
+§6§lRelik Recipes:@
+§a✔ Lv. 1: §f2§7 Gudgeon Oil§f Ⓚ@
+§c✖ Lv. 10: §f4§7 Trout Oil§f Ⓚ@
+§a✔§7 Class Req: Shaman@
+§f1 x §b❉ Water Powder I@
+§c✖§7 Class Req: Shaman@
+§3§b+Tempest: §3Arrow Storm fires@
+§3in all directions@
+§3§b+Saviour’s Sacrifice: §3While@
+§3under 25% maximum health, nearby@
+§3allies gain 30% bonus damage@
+§3and defense@
 §3§b+Magnet: §3Pulls nearby items
 §3towards you
 §3§b+Intervene: §350% of damage
