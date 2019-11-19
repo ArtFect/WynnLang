@@ -1,74 +1,56 @@
-§6Fellowship Dagger
-§f§lMining Base Lower
-§cMercenary§6 [Lv. 70]
-§cHonour Guard§6 [Lv. 50]
-§cWitch§6 [Lv. 60]
-§cRanger§6 [Lv. 70]
-§cRogue§6 [Lv. 70]
-§cBarbarian§6 [Lv. 70]
-§cPhoenix Wings Effect
-§cSniper§6 [Lv. 80]
-§cHonour Guard§6 [Lv. 80]
-§cDern Spear
-§2§fSteve
-§6Sky Blue Wybel Token
-§cSniper§6 [Lv. 70]
-§cBishop§6 [Lv. 80]
-§f§lFrozen Fort
-§cCleric§6 [Lv. 50]
-§cBishop§6 [Lv. 50]
-§cBarbarian§6 [Lv. 60]
-§cCleric§6 [Lv. 90]
-§cBarbarian§6 [Lv. 100]
-§cWitch§6 [Lv. 90]
-§cAngels Wings Effect
-§6Golden Bow
-§bOverly Affectionate Bear§6 [Lv. 73]
-§2§fHaba
-§2§fConfused Flamingo Rider
-§8Left-Click for String
-§8Left-Click for Oil
-§8Left-Click for Ingot
-§8Left-Click for Wood
-§8Right-Click for Grain
-§8Right-Click for Meat
-§8Right-Click for Gem
-§8Right-Click for Paper
-§2[§a+2§2 Oak Wood]
-§c18s
-§c17s
-§c16s
-§c15s
-§c14s
-§c13s
-§c12s
-§c11s
-§c10s
-§c9s
-§c8s
-§c7s
-§c6s
-§c5s
-§c4s
-§c3s
-§c2s
-§c1s
-§c0s
-§2§aGathering Post §2[Fishing Lv. 8]
-§2§aGathering Post §2[Fishing Lv. 18]
-§2§aGathering Post §2[Fishing Lv. 43]
-§2§aGathering Post §2[Mining Lv. 28]
-§2§aGathering Post §2[Mining Lv. 23]
-§2§aGathering Post §2[Mining Lv. 8]
-§2§aGathering Post §2[Mining Lv. 18]
-§2§aGathering Post §2[Woodcutting Lv. 18]
-§2§aGathering Post §2[Woodcutting Lv. 8]
-§2§aGathering Post §2[Woodcutting Lv. 28]
-§2§aGathering Post §2[Woodcutting Lv. 33]
-§2§aGathering Post §2[Farming Lv. 28]
-§2§aGathering Post §2[Farming Lv. 8]
-§2§aGathering Post §2[Farming Lv. 73]
-§c19s
+§6Fellowship Dagger@§6Кинжал Дружбы
+§cPhoenix Wings Effect@§cЭффект Крыльев Феникса
+§cDern Spear@§cДерн Копье
+§6Sky Blue Wybel Token@§6Голубой Вубел Жетон
+§cAngels Wings Effect@§cЭффект Крыльев Ангела
+§6Golden Bow@§6Золотой Лук
+§bOverly Affectionate Bear§6 [Lv. 73]@§bЧрезмерно Ласковый Медведь§6 [Ур. 73]
+§2§fSteve@§2§fСтив
+§2§fHaba@§2§fХаба
+§2§fConfused Flamingo Rider@§2§fСмущенный Всадник Фламинго
+§8Left-Click for String@§8Левый Клик для Нити
+§8Left-Click for Oil@§8Левый Клик для Жира
+§8Left-Click for Ingot@§8Левый Клик для Слитка
+§8Left-Click for Wood@§8Левый Клик для Древесины
+§8Right-Click for Grain@§8Правый Клик для Зерна
+§8Right-Click for Meat@§8Правый Клик для Мяса
+§8Right-Click for Gem@§8Правый Клик для Камня
+§8Right-Click for Paper@§8Правый Клик для Бумаги
+§2[§a+2§2 Oak Wood]@§2[§a+2§2 Древесины Дуба]
+§c19s@§c19с
+§c18s@§c18с
+§c17s@§c17с
+§c16s@§c16с
+§c15s@§c15с
+§c14s@§c14с
+§c13s@§c13с
+§c12s@§c12с
+§c11s@§c11с
+§c10s@§c10с
+§c9s@§c9с
+§c8s@§c8с
+§c7s@§c7с
+§c6s@§c6с
+§c5s@§c5с
+§c4s@§c4с
+§c3s@§c3с
+§c2s@§c2с
+§c1s@§c1с
+§c0s@§c0с
+§2§aGathering Post §2[Fishing Lv. 8]@§2§aДоска для Сбора §2[Рыбалка Ур. 8]
+§2§aGathering Post §2[Fishing Lv. 18]@§2§aДоска для Сбора §2[Рыбалка Ур. 18]
+§2§aGathering Post §2[Fishing Lv. 43]@§2§aДоска для Сбора §2[Рыбалка Ур. 43]
+§2§aGathering Post §2[Mining Lv. 28]@§2§aДоска для Сбора §2[Добыча Руд Ур. 28]
+§2§aGathering Post §2[Mining Lv. 23]@§2§aДоска для Сбора §2[Добыча Руд Ур. 23]
+§2§aGathering Post §2[Mining Lv. 8]@§2§aДоска для Сбора §2[Добыча Руд Ур. 8]
+§2§aGathering Post §2[Mining Lv. 18]@§2§aДоска для Сбора §2[Добыча Руд Ур. 18]
+§2§aGathering Post §2[Woodcutting Lv. 18]@§2§aДоска для Сбора §2[Лесорубство Ур. 18]
+§2§aGathering Post §2[Woodcutting Lv. 8]@§2§aДоска для Сбора §2[Лесорубство Ур. 8]
+§2§aGathering Post §2[Woodcutting Lv. 28]@§2§aДоска для Сбора §2[Лесорубство Ур. 28]
+§2§aGathering Post §2[Woodcutting Lv. 33]@§2§aДоска для Сбора §2[Лесорубство Ур. 33]
+§2§aGathering Post §2[Farming Lv. 28]@§2§aДоска для Сбора §2[Земледелие Ур. 28]
+§2§aGathering Post §2[Farming Lv. 8]@§2§aДоска для Сбора §2[Земледелие Ур. 8]
+§2§aGathering Post §2[Farming Lv. 73]@§2§aДоска для Сбора §2[Земледелие Ур. 73]
 §c§lRight-Click to
 §fExplode
 §2[§aRight Click to Break Icicle§2]
