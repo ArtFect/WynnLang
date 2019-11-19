@@ -125,29 +125,29 @@
 §3under 25% maximum health, nearby@§3до 25% от максимума здоровья ближайшие
 §3allies gain 30% bonus damage@§3союзники получают 30% бонус к урону
 §3and defense@§3и защите
-§3§b+Magnet: §3Pulls nearby items
-§3towards you
-§3§b+Intervene: §350% of damage
-§3taken by nearby allies is redirected
-§3to you
-§8the lower durability your tools are
-§8the lower speed you gather
-§8resource
-§8broken t11 tools need 18 scraps
-§8to repair
-§6- §fHaul§7 [Lv. 11]
-§5- §7Totem Upgrade II §8[Lv. 16]
-§6 - §a✔ §22 Earth Catalyst X
-§3§b+Entropy: §3Meteor falls
-§3significatly faster
-§3§b+Guardian: §350% of damage
-§3§b+Roving Assassin: §3Vanish
-§3no longer drains mana while
-§3invisible
-§5Mythic Item [6]
-§bLegendary Item [5]
-§bLegendary Item [6]
-§cHeal: 4
+§3§b+Magnet: §3Pulls nearby items@§3§b+Magnet: §3Притягивает ближайшие предметы
+§3towards you@§3к тебе
+§3§b+Intervene: §350% of damage@§3§b+Intervene: §350% урона
+§3taken by nearby allies is redirected@§3полученного ближайшими союзниками передается
+§3to you@§3тебе
+§8the lower durability your tools are@§8чем меньше прочности на инструменте
+§8the lower speed you gather@§8тем меньше скорость сбора
+§8resource@§8ресурсов
+§8broken t11 tools need 18 scraps@§8сломанному У11 инструменту нужно 18 скрапа
+§8to repair@§8для починки
+§6- §fHaul§7 [Lv. 11]@§6- §fБросок§7 [Ур. 11]
+§5- §7Totem Upgrade II §8[Lv. 16]@§5- §7Тотем Апгрейд II §8[Ур. 16]
+§6 - §a✔ §22 Earth Catalyst X@§6 - §a✔ §22 Катализатор Земли X
+§3§b+Entropy: §3Meteor falls@§3§b+Entropy: §3Метеор падает
+§3significatly faster@§3значительно быстрее
+§3§b+Guardian: §350% of damage@§3§b+Guardian: §350% урона
+§3§b+Roving Assassin: §3Vanish@§3§b+Roving Assassin: §3Исчезновение
+§3no longer drains mana while@§3больше не тратит ману при
+§3invisible@§3невидимости
+§5Mythic Item [6]@§5Мифический Предмет [6]
+§bLegendary Item [5]@§bЛегендарный Предмет [5]
+§bLegendary Item [6]@§bЛегендарный Предмет [6]
+§cHeal: 4@§cИсцеление: 4
 §a✔ Lv. 1: §f1§7 Gudgeon Oil§f Ⓚ
           §f2§7 Wheat Grains§f Ⓙ
 §c✖ Lv. 10: §f2§7 Trout Oil§f Ⓚ
