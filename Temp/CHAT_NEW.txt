@@ -98,31 +98,31 @@ Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI�
 §7[3/3] §2Haba: §aAlthough... it wouldn't hurt to get some nice 'n dry sheets fer me bed.@§7[3/3] §2Haba: §aХотя... не помешало бы раздобыть немного хороших и сухих простыней для моей кровати.
 §7[1/2] §2Flamingo Rider: §aYou, traveller! My trusty steed has forgotten how to dance the polka! Quick! Show her how it’s done.@§7[1/2] §2Flamingo Rider: §aЭй, путешественник! Мой надежный конь забыл как танцевать польку! Быстро! Покажи ему, как это делается.
 §7[2/2] §2Flamingo Rider: §aOh...on§a second thought, I can see from your figure that you aren't suited for the high level dance training my flamingo needs...@§7[2/2] §2Flamingo Rider: §aОх...немного подумав, я вижу, что твоя фигура не подходит для обучения танцам высокого уровня, в которых нуждается мой фламинго...
-§7[1/2] §2Steve: §aAfter years of labour my mansion is finally complete.
-§7[2/2] §2Steve: §aYou would do well to take pointers from this magnificence, it would greatly improve your skills!
-§7[1/5] §2Cinfras Citizen: §aOh, a human, eh? You must be fairly strong to have gotten here. Let me help you out with a bit of advice, then.
-§7[2/5] §2Cinfras Citizen: §aIn The Canyon of the Lost to the east, there's...a dreadful place. The Qira Hive, people call it. No one likes talking about it.
-§7[3/5] §2Cinfras Citizen: §aAn immensely powerful sorceress, Qira, own it. She's somehow managed to get it recognized as a sovereign state. We can't touch her.
-§7[4/5] §2Cinfras Citizen: §aShe offers a challenge to fight your way through her Hive... Apparently if you do it, you get to talk with her and broker for some kind of request.
-§7[5/5] §2Cinfras Citizen: §aOnly a couple of groups have ever done it. Only one ever came back. If you value your life, steer clear. We don't need soldiers like you dying on us.
+§7[1/2] §2Steve: §aAfter years of labour my mansion is finally complete.@§7[1/2] §2Steve: §aПосле стольких лет труда мой особняк наконец достроен.
+§7[2/2] §2Steve: §aYou would do well to take pointers from this magnificence, it would greatly improve your skills!@§7[2/2] §2Steve: §aТебе не помешало бы взять уроки из этого великолепия, это значительно бы улучшило твои навыки!
+§7[1/5] §2Cinfras Citizen: §aOh, a human, eh? You must be fairly strong to have gotten here. Let me help you out with a bit of advice, then.@§7[1/5] §2Cinfras Citizen: §aО, ты человек, да? Должно быть ты достаточно силен, чтобы попасть сюда. Тогда позволь мне помочь тебе советом.
+§7[2/5] §2Cinfras Citizen: §aIn The Canyon of the Lost to the east, there's...a dreadful place. The Qira Hive, people call it. No one likes talking about it.@§7[2/5] §2Cinfras Citizen: §aВ Каньоне на востоке, есть...ужасное место. Люди называют это место Ульем Киры. Никто не любит говорить об этом.
+§7[3/5] §2Cinfras Citizen: §aAn immensely powerful sorceress, Qira, own it. She's somehow managed to get it recognized as a sovereign state. We can't touch her.@§7[3/5] §2Cinfras Citizen: §aИм владеет могущественная волшебница, Кира. Ей каким-то образом удалось добиться своего признания суверенным государством. Мы не можем даже прикоснуться к ней.
+§7[4/5] §2Cinfras Citizen: §aShe offers a challenge to fight your way through her Hive... Apparently if you do it, you get to talk with her and broker for some kind of request.@§7[4/5] §2Cinfras Citizen: §aОна предлагает челлендж, чтобы пробиться через ее Улей... По-видимому, если ты это сделаешь, то сможешь поговорить с ней и ее слугой для какой-то просьбы.
+§7[5/5] §2Cinfras Citizen: §aOnly a couple of groups have ever done it. Only one ever came back. If you value your life, steer clear. We don't need soldiers like you dying on us.@§7[5/5] §2Cinfras Citizen: §aТолько несколько групп когда-либо делали это. Вернулся только один. Если ты ценишь свою жизнь, держись подальше. Нам не нужны такие солдаты, как ты, умирающие у нас на руках.
 §cIn order to craft a §3[Makeshift Explosive]§c, you'll need §3[5 Gritty Sand]§c, §3[3 Saw Dust]§c, and §3[1 Black Powder]§c. Try looking around the island for the remaining materials.
-§a...
-§aA §dRare Mint Wybel Token§a!
-§5You need a HERO rank to participate in the HERO beta. Get one at §dstore.wynncraft.com
-§c§lWarning: §a§lYou are playing on a BETA server so characters will not be saved after disconnecting.
-§cGuild commands are not available on beta servers!
-§7[2/5] §2Old Man: §aI've been waiting for you three, you're late. There's a bit of trouble up ahead. You will need to get yourself some materials.
-               §c§lClick here to toggle hunted mode
-                      §4§oThis will enable PvP combat
-§7[3/5] §2Tasim: §aI didn't think we needed anything. Why would any materials help us?
-§7[4/5] §2Old Man: §aWell, you thought wrong. You'll need the materials to make yourself something to fight with.
-§7[5/5] §2Old Man: §aI left my fishing rod by the pond over yonder. Punch it and pick it up. Then fish §3[2 Gudgeon Oil]§a and bring it back here.
-§7[1/1] §2Old Man: §aJust hit the fishing rod to pick it up. Then §bleft-click§a the fish with it to get the oil!
-§4/toggle [chatlevel/swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100/sb/pouchmsg/combatbar]
-§7[1/1] §2Old Man: §aFish §3[2 Gudgeon Oil]§a and then bring it to me.
-§7You have disabled ingredient auto pickup.
-§7You have enabled ingredient auto pickup.
-§7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that oil so you can get yourself kitted out.
+§a...@ 
+§aA §dRare Mint Wybel Token§a!@
+§5You need a HERO rank to participate in the HERO beta. Get one at §dstore.wynncraft.com@
+§c§lWarning: §a§lYou are playing on a BETA server so characters will not be saved after disconnecting.@ 
+§cGuild commands are not available on beta servers!@ 
+§7[2/5] §2Old Man: §aI've been waiting for you three, you're late. There's a bit of trouble up ahead. You will need to get yourself some materials.@
+               §c§lClick here to toggle hunted mode@
+                      §4§oThis will enable PvP combat@
+§7[3/5] §2Tasim: §aI didn't think we needed anything. Why would any materials help us?@
+§7[4/5] §2Old Man: §aWell, you thought wrong. You'll need the materials to make yourself something to fight with.@
+§7[5/5] §2Old Man: §aI left my fishing rod by the pond over yonder. Punch it and pick it up. Then fish §3[2 Gudgeon Oil]§a and bring it back here.@
+§7[1/1] §2Old Man: §aJust hit the fishing rod to pick it up. Then §bleft-click§a the fish with it to get the oil!@
+§4/toggle [chatlevel/swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100/sb/pouchmsg/combatbar]@ 
+§7[1/1] §2Old Man: §aFish §3[2 Gudgeon Oil]§a and then bring it to me.@
+§7You have disabled ingredient auto pickup.@
+§7You have enabled ingredient auto pickup.@
+§7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that oil so you can get yourself kitted out.@
 §7[5/6] §2Old Man: §aThere's a crafting station up ahead. You three can §a§lforge weapons§a there.
 §7[4/5] §2Guard: §aYou should be able to use the nearby crafting stations to forge your own.
 §7[1/2] §2Aledar: §aAll we need to do is use this workbench to forge your weapon.
