@@ -123,31 +123,27 @@ Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI�
 §7You have disabled ingredient auto pickup.@§7Ты отключил авто-подбор ингредиентов.
 §7You have enabled ingredient auto pickup.@§7Ты включил авто-подбор ингредиентов.
 §7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that oil so you can get yourself kitted out.@§7[4/6] §2Old Man: §aСтражи велели мне послать вас вперед с этим жиром, чтобы вы могли подготовиться.
-§7[5/6] §2Old Man: §aThere's a crafting station up ahead. You three can §a§lforge weapons§a there.
-§7[4/5] §2Guard: §aYou should be able to use the nearby crafting stations to forge your own.
-§7[1/2] §2Aledar: §aAll we need to do is use this workbench to forge your weapon.
-§7[2/2] §2Aledar: §aUse §b2 oil§a and §b1 wood§a to craft §3[1 Relik]§a and then show it to the guard.
-§7[7/8] §2Guard: §aIn my current state, I'm too weak to destroy this boulder. But since you're a Shaman, IngessGames, you can help me.
-§7[8/8] §2Guard: §aAll I need is for you to use your Totem spell. To cast it, click §bRight-Left-Right§a!
-§7[1/2] §2Guard: §aI feel stronger already! This should be enough for me to get us out of here.
-§7[2/2] §2Guard: §aTook all of the strength your Totem gave me to do it, but I managed to save us! You three head on to the castle, now.
-§c§lWarning: §b§lYou are using the BETA trade market so your real trades will not be shown here.
-§7Continue through the cave
-§7[1/1] §2Elio: §aUNTIE ME!
-§6[Info] §eGrab yourself §d24h of DOUBLE XP§e by linking your Discord account! Read the #discord_link channel on §6discord.gg/yJkSQwp§e to learn more.
-§a- §7Heaven Jolt will launch all nearby mobs high into the air
-§a- §7Haul will pull yourself towards your active totem
-§4You have no active totems near you.
-§6[Info] §eTired of your grey username? Link your Wynncraft forum account with "/forum" and get a stylish white username in chat! Visit §6https://wynncraft.com/forumlink§6 §efor more!
-§7[1/1] §2Frank: §aHow ya doin'? Chat with Chef Hamsey first, he has important things to say to you.
-§7[1/1] §2Kale: §aWhy are you here without what you need, go get it already.
-§7[2/2] §2Kale: §aRemember, we need §3[Blue-Ring Grook Egg]§a, §3[Snail Slime]§a and §3[Talking Mushroom]§a to make the omelette.
-§7Looking at your map, these ingredients should be at [626,43,-4645], [1003,139,-4853] and [1100,124,-4869] respectively.
-§cWarning: §aAll progress made on this server will remain saved on the hero beta only.
-§cWarning: §bOnly trades made on the hero beta are visible on this server.
-§7[4/4] §2The Cook: §aYou think you could get me §3[2 Egg]§a, §3[1 Bucket of Milk]§a and §3[3 Wheat Grains]§a really quickly?
-§7[1/4] §2The Cook: §aI still need §3[2 Eggs]§a, §3[1 Milk]§a and §3[3 Wheat Grains]§a.
-§7[1/1] §2Veekhat: §aSurprised? Veekhat never dies! Okay, okay, fine! I'll stop with the cows!
+§7[5/6] §2Old Man: §aThere's a crafting station up ahead. You three can §a§lforge weapons§a there.@§7[5/6] §2Old Man: §aВпереди есть станции для крафта. Вы трое можете §a§lвыковать оружия§a там.
+§7[4/5] §2Guard: §aYou should be able to use the nearby crafting stations to forge your own.@§7[4/5] §2Guard: §aВы можете использовать близлежащие станции крафта, чтобы создать свое собственное.
+§7[1/2] §2Aledar: §aAll we need to do is use this workbench to forge your weapon.@§7[1/2] §2Aledar: §aВсе, что нам нужно, это использовать этот верстак для создания оружия.
+§7[2/2] §2Aledar: §aUse §b2 oil§a and §b1 wood§a to craft §3[1 Relik]§a and then show it to the guard.@§7[2/2] §2Aledar: §aИспользуй §b2 жира§a и §b1 древесину§a для крафта §3[1 Релика]§a а затем покажи его стражу.
+§7[8/8] §2Guard: §aAll I need is for you to use your Totem spell. To cast it, click §bRight-Left-Right§a!@§7[8/8] §2Guard: §aВсе, что мне нужно, это чтобы ты использовал свое Тотем заклинание. Для его каста, кликни §bПравая-Левая-Правая§a!
+§7[1/2] §2Guard: §aI feel stronger already! This should be enough for me to get us out of here.@§7[1/2] §2Guard: §aЯ уже чувствую себя сильнее! Этого должно быть достаточно, чтобы вытащить нас отсюда.
+§7[2/2] §2Guard: §aTook all of the strength your Totem gave me to do it, but I managed to save us! You three head on to the castle, now.@§7[2/2] §2Guard: §aЯ собрал все силы, которые дал мне твой тотем, чтобы сделать это, но мне удалось спасти нас! Вы трое отправляйтесь в замок, сейчас же.
+§c§lWarning: §b§lYou are using the BETA trade market so your real trades will not be shown here.@ 
+§7[1/1] §2Elio: §aUNTIE ME!@§7[1/1] §2Elio: §aРАЗВЯЖИ МЕНЯ!
+§a- §7Heaven Jolt will launch all nearby mobs high into the air@§a- §7Небесный Удар запускает всех ближайших мобов высоко в воздух
+§a- §7Haul will pull yourself towards your active totem@§a- §7Бросок будет тянуть тебя к твоему активному тотему
+§4You have no active totems near you.@§4Вокруг тебя нет активных тотемов.
+§7[1/1] §2Frank: §aHow ya doin'? Chat with Chef Hamsey first, he has important things to say to you.@§7[1/1] §2Frank: §aКак дела? Сначала поговори с Шефом Хэмзи, у него есть важные вещи, чтобы сказать тебе.
+§7[1/1] §2Kale: §aWhy are you here without what you need, go get it already.@§7[1/1] §2Kale: §aПочему ты здесь, без того что нужно; иди уже и добудь все.
+§7[2/2] §2Kale: §aRemember, we need §3[Blue-Ring Grook Egg]§a, §3[Snail Slime]§a and §3[Talking Mushroom]§a to make the omelette.@§7[2/2] §2Kale: §aПомни, нам нужно §3[Синее Яйцо Грука]§a, §3[Слизь Змеи]§a и §3[Говорящий Гриб]§a чтобы сделать омлет.
+§7Looking at your map, these ingredients should be at [626,43,-4645], [1003,139,-4853] and [1100,124,-4869] respectively.@§7Посмотрев на карту, эти ингредиенты должны быть на [626,43,-4645], [1003,139,-4853] и [1100,124,-4869] соответственно.
+§cWarning: §aAll progress made on this server will remain saved on the hero beta only.@ 
+§cWarning: §bOnly trades made on the hero beta are visible on this server.@ 
+§7[4/4] §2The Cook: §aYou think you could get me §3[2 Egg]§a, §3[1 Bucket of Milk]§a and §3[3 Wheat Grains]§a really quickly?@§7[4/4] §2The Cook: §aКак думаешь, ты сможешь принести мне §3[2 Яйца]§a, §3[1 Ведро молока]§a и §3[3 Пшеничного Зерна]§a очень быстро?
+§7[1/4] §2The Cook: §aI still need §3[2 Eggs]§a, §3[1 Milk]§a and §3[3 Wheat Grains]§a.@§7[1/4] §2The Cook: §aМне все еще нужны §3[2 Яйца]§a, §3[1 Молоко]§a и §3[3 Пшеничного Зерна]§a.
+§7[1/1] §2Veekhat: §aSurprised? Veekhat never dies! Okay, okay, fine! I'll stop with the cows!@§7[1/1] §2Veekhat: §aУдивлен? Викхат никогда не умирает! Окей, окей, хорошо! Я закончил с коровами!
 §7[1/6] §2Snail Race Supervisor: §aHe-llo ad-ven-tu-rer. What brings you here?
 §7[2/6] §2Snail Race Supervisor: §aWe snails rare-ly get vis-i-tors.. our on-ly use to vill-a-gers is our slime, which is used for food. To think our mu-cus is eat-en!
 §7[3/6] §2Snail Race Supervisor: §aOh, a-no-ther es-cort per-son re-quest-ing slime? To think I got hope-ful. An-y-way, let me slow down a bit here and ex-plain.
@@ -198,6 +194,9 @@ Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI�
 
 
 
+§7Continue through the cave@
+
 §4You need to be §cFarming Lv. (\d+) §4to start this Mini-Quest
 §dYou have sold §7(\d+)§d ingredients for a total of §a(.*)§d.
 §4You need to be §cMining Lv. (\d+) §4to start this Mini-Quest
+§7\[7\/8\] §2Guard: §aIn my current state, I'm too weak to destroy this boulder. But since you're a Shaman, (.*), you can help me.@§7[7/8] §2Guard: §aВ моем нынешнем состоянии я слишком слаб, чтобы сломать этот камень. Но поскольку ты Шаман, (r1), ты можешь помочь мне.
