@@ -105,24 +105,24 @@ Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI�
 §7[3/5] §2Cinfras Citizen: §aAn immensely powerful sorceress, Qira, own it. She's somehow managed to get it recognized as a sovereign state. We can't touch her.@§7[3/5] §2Cinfras Citizen: §aИм владеет могущественная волшебница, Кира. Ей каким-то образом удалось добиться своего признания суверенным государством. Мы не можем даже прикоснуться к ней.
 §7[4/5] §2Cinfras Citizen: §aShe offers a challenge to fight your way through her Hive... Apparently if you do it, you get to talk with her and broker for some kind of request.@§7[4/5] §2Cinfras Citizen: §aОна предлагает челлендж, чтобы пробиться через ее Улей... По-видимому, если ты это сделаешь, то сможешь поговорить с ней и ее слугой для какой-то просьбы.
 §7[5/5] §2Cinfras Citizen: §aOnly a couple of groups have ever done it. Only one ever came back. If you value your life, steer clear. We don't need soldiers like you dying on us.@§7[5/5] §2Cinfras Citizen: §aТолько несколько групп когда-либо делали это. Вернулся только один. Если ты ценишь свою жизнь, держись подальше. Нам не нужны такие солдаты, как ты, умирающие у нас на руках.
-§cIn order to craft a §3[Makeshift Explosive]§c, you'll need §3[5 Gritty Sand]§c, §3[3 Saw Dust]§c, and §3[1 Black Powder]§c. Try looking around the island for the remaining materials.
+§cIn order to craft a §3[Makeshift Explosive]§c, you'll need §3[5 Gritty Sand]§c, §3[3 Saw Dust]§c, and §3[1 Black Powder]§c. Try looking around the island for the remaining materials.@§cЧтобы скрафтить §3[Самодельную Взрывчатку]§c, тебе нужно §3[5 Зернистого Песка]§c, §3[3 Деревянные Опилки]§c, и §3[1 Черный Порох]§c. Попробуй осмотреть остров в поисках оставшихся материалов.
 §a...@ 
-§aA §dRare Mint Wybel Token§a!@
-§5You need a HERO rank to participate in the HERO beta. Get one at §dstore.wynncraft.com@
+§aA §dRare Mint Wybel Token§a!@§dРедкий Мятный Вубел Жетон§a!
+§5You need a HERO rank to participate in the HERO beta. Get one at §dstore.wynncraft.com@§5Тебе нужен HERO ранг для участия в HERO бете. Купи на §dstore.wynncraft.com
 §c§lWarning: §a§lYou are playing on a BETA server so characters will not be saved after disconnecting.@ 
 §cGuild commands are not available on beta servers!@ 
-§7[2/5] §2Old Man: §aI've been waiting for you three, you're late. There's a bit of trouble up ahead. You will need to get yourself some materials.@
-               §c§lClick here to toggle hunted mode@
-                      §4§oThis will enable PvP combat@
-§7[3/5] §2Tasim: §aI didn't think we needed anything. Why would any materials help us?@
-§7[4/5] §2Old Man: §aWell, you thought wrong. You'll need the materials to make yourself something to fight with.@
-§7[5/5] §2Old Man: §aI left my fishing rod by the pond over yonder. Punch it and pick it up. Then fish §3[2 Gudgeon Oil]§a and bring it back here.@
-§7[1/1] §2Old Man: §aJust hit the fishing rod to pick it up. Then §bleft-click§a the fish with it to get the oil!@
+§7[2/5] §2Old Man: §aI've been waiting for you three, you're late. There's a bit of trouble up ahead. You will need to get yourself some materials.@§7[2/5] §2Old Man: §aЯ ждал вас троих, вы опоздали. Впереди вас ждут небольшие неприятности. Вам нужно будет добыть себе некоторые материалы.
+               §c§lClick here to toggle hunted mode@               §c§lКликни здесь для включения режима охотника
+                      §4§oThis will enable PvP combat@                      §4§oЭто включит ПвП режим
+§7[3/5] §2Tasim: §aI didn't think we needed anything. Why would any materials help us?@§7[3/5] §2Tasim: §aНе думаю, что нам что-то нужно. Чем нам помогут какие-то материалы?
+§7[4/5] §2Old Man: §aWell, you thought wrong. You'll need the materials to make yourself something to fight with.@§7[4/5] §2Old Man: §aЧтож, ты думаешь неправильно. Вам понадобятся материалы, чтобы сделать себе что-то, чем можно сражаться.
+§7[5/5] §2Old Man: §aI left my fishing rod by the pond over yonder. Punch it and pick it up. Then fish §3[2 Gudgeon Oil]§a and bring it back here.@§7[5/5] §2Old Man: §aЯ оставил свою удочку у пруда вон там. Ударь и подбери ее. Затем вылови §3[2 Жира Пескаря]§a и принеси их сюда.
+§7[1/1] §2Old Man: §aJust hit the fishing rod to pick it up. Then §bleft-click§a the fish with it to get the oil!@§7[1/1] §2Old Man: §aПросто ударь удочку и подбери ее. Затем нажми §bлевым кликом§a по рыбе, чтобы получить жир!
 §4/toggle [chatlevel/swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100/sb/pouchmsg/combatbar]@ 
-§7[1/1] §2Old Man: §aFish §3[2 Gudgeon Oil]§a and then bring it to me.@
-§7You have disabled ingredient auto pickup.@
-§7You have enabled ingredient auto pickup.@
-§7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that oil so you can get yourself kitted out.@
+§7[1/1] §2Old Man: §aFish §3[2 Gudgeon Oil]§a and then bring it to me.@§7[1/1] §2Old Man: §aВылови §3[2 Жира Пескаря]§a и принеси их мне.
+§7You have disabled ingredient auto pickup.@§7Ты отключил авто-подбор ингредиентов.
+§7You have enabled ingredient auto pickup.@§7Ты включил авто-подбор ингредиентов.
+§7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that oil so you can get yourself kitted out.@§7[4/6] §2Old Man: §aСтражи велели мне послать вас вперед с этим жиром, чтобы вы могли подготовиться.
 §7[5/6] §2Old Man: §aThere's a crafting station up ahead. You three can §a§lforge weapons§a there.
 §7[4/5] §2Guard: §aYou should be able to use the nearby crafting stations to forge your own.
 §7[1/2] §2Aledar: §aAll we need to do is use this workbench to forge your weapon.
