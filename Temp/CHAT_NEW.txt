@@ -174,21 +174,21 @@ Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI�
 §7[1/1] §2Psilo: §aOh you're back!@§7[1/1] §2Psilo: §aОх, ты вернулся!
 §7[1/2] §2Arlene: §aI've been hearing a lot of strange sounds...@§7[1/2] §2Arlene: §aЯ слышала много странных звуков...
 §7[2/2] §2Arlene: §aIt sounds like something is flying around us! What if monsters are flying around us!?@§7[2/2] §2Arlene: §aПохоже, что-то летает вокруг нас! Что, если это монстры летают вокруг нас!?
-§7[1/2] §2Jesp: §aPfft. I would've done a better job saving the windshield.
-§7[2/2] §2Jesp: §aToo bad I was in another room.
-§7[1/2] §2Captain Olof: §aWe need some kind of glue, 10 of it.
-§7[2/2] §2Captain Olof: §aWe'll also need sand for glass, 5 of it.
-§7[1/1] §2Celuuse: §aWe need this crystal. Go see Rontaid on the eastern part of the island, he can figure something out.
-§7[1/1] §2Brie: §aRemember, we need §3[Snail Slime]§a, §3[Voidroot]§a, §3[Zork Rinds]§a and §3[Quicksalt]§a to make the stew!
-§7Looking at your map, these ingredients should be at [1003,139,-4853], [965,42,-4443] and [1217,126,-4929] respectively.
-§4You can't go in. This magic is too strong.
-§7[1/1] §2Anrod: §aPlease hurry! Every second matters!
-§6Pentagram Effect
-§7Create a pentagram effect around your character
-§7[1/1] §2Pirate Leader: §aYar, we'll take this one 'stead!
-§6§lThe Mystery Manor §4§lFAILED
-§7You've been captured by pirates. Try again!
-§7[1/1] §2Damien: §aUggggghh...
+§7[1/2] §2Jesp: §aPfft. I would've done a better job saving the windshield.@§7[1/2] §2Jesp: §aПфф. Я бы лучше сохранил лобовое стекло.
+§7[2/2] §2Jesp: §aToo bad I was in another room.@§7[2/2] §2Jesp: §aЖаль, что я был в другой комнате.
+§7[1/2] §2Captain Olof: §aWe need some kind of glue, 10 of it.@§7[1/2] §2Captain Olof: §aНам нужен какой-то клей, 10 штук.
+§7[2/2] §2Captain Olof: §aWe'll also need sand for glass, 5 of it.@§7[2/2] §2Captain Olof: §aИ также понадобится песок для стекла, 5 штук.
+§7[1/1] §2Celuuse: §aWe need this crystal. Go see Rontaid on the eastern part of the island, he can figure something out.@§7[1/1] §2Celuuse: §aНам нужен этот кристалл. Иди к Ронтейду в восточную часть острова, он что-нибудь придумает.
+§7[1/1] §2Brie: §aRemember, we need §3[Snail Slime]§a, §3[Voidroot]§a, §3[Zork Rinds]§a and §3[Quicksalt]§a to make the stew!@§7[1/1] §2Brie: §aПомни, нам нужна §3[Слизь змеи]§a, §3[Корень Пустоты]§a, §3[Шкура Зорка]§a и §3[Быстрая Соль]§a чтобы сделать рагу!
+§7Looking at your map, these ingredients should be at [1003,139,-4853], [965,42,-4443] and [1217,126,-4929] respectively.@§7Посмотрев на карту, эти ингредиенты должны быть на [1003,139,-4853], [965,42,-4443] и [1217,126,-4929] соответственно.
+§4You can't go in. This magic is too strong.@§4Ты не можешь войти. Эта магия слишком сильна.
+§7[1/1] §2Anrod: §aPlease hurry! Every second matters!@§7[1/1] §2Anrod: §aПожалуйста поторопись! Каждая секунда важна!
+§6Pentagram Effect@§6Эффект пентаграммы
+§7Create a pentagram effect around your character@§7Создает эффект пентаграммы вокруг персонажа
+§7[1/1] §2Pirate Leader: §aYar, we'll take this one 'stead!@§7[1/1] §2Pirate Leader: §aГарх, мы возьмем это вместо него!
+§6§lThe Mystery Manor §4§lFAILED@§6§lЗагадочное Поместье §4§lПРОВАЛ
+§7You've been captured by pirates. Try again!@§7Ты был пойман пиратами. Попробуй еще раз!
+§7[1/1] §2Damien: §aUggggghh...@§7[1/1] §2Damien: §aУууггххх...
 
 
 
@@ -196,7 +196,7 @@ Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI�
 
 §7Continue through the cave@
 
-§4You need to be §cFarming Lv. (\d+) §4to start this Mini-Quest
-§dYou have sold §7(\d+)§d ingredients for a total of §a(.*)§d.
-§4You need to be §cMining Lv. (\d+) §4to start this Mini-Quest
+§4You need to be §cFarming Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Земледелия§4 для старта этого мини-квеста
+§dYou have sold §7(\d+)§d ingredients for a total of §a(.*)§d.@§dТы продал §7(r1)§d ингредиентов на сумму в §a(r2)§d.
+§4You need to be §cMining Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Добычи Руд§4 для старта этого мини-квеста
 §7\[7\/8\] §2Guard: §aIn my current state, I'm too weak to destroy this boulder. But since you're a Shaman, (.*), you can help me.@§7[7/8] §2Guard: §aВ моем нынешнем состоянии я слишком слаб, чтобы сломать этот камень. Но поскольку ты Шаман, (r1), ты можешь помочь мне.
