@@ -1960,6 +1960,7 @@ QUESTS/The_Hidden_City.txt =====
 §7Inspect anything beyond the Eastern @§7Осмотри все, что находится 
 §7Exit at @§7за восточным выходом 
 §7[1020,112,-5534]@ 
+§7Inspect the cave above at @§7Посети пещеру выше на 
 §7Inspect the house @§7Посети дом 
 §7Read the note on the @§7Прочитай записку 
 §7table @§7на столе 
@@ -2616,6 +2617,5 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7heirloom. @§7реликвию.
 §7Explore the house to find @§7Исследуй дом чтобы найти 
 §7a way out @§7выход 
-§7Inspect the cave above at @§7Посети пещеру выше на 
 §7clue missing. @§7пропавшие подсказки
 §7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
