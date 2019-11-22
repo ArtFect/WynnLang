@@ -126,6 +126,7 @@ QUESTS/A_Fighting_Species.txt =====
 §7Find the house with a @§7Найди дом 
 §7way leading to a cave @§7со входом в пещеру 
 §7in the Orc's fortress @§7в лагере орков
+§7in the cave @§7в пещеру
 §7Find the way leading to @§7Найди путь, ведущий 
 §7Gorgu's room in the cave @§7к комнате Горгу в пещере 
 §7Win the duel versus Gorgu @§7Выиграй дуэль у Горгу 
@@ -2613,7 +2614,6 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7Solve the puzzle to open @§7Пройди пазл чтобы открыть
 §7the door that locks the @§7дверь закрывающую
 §7heirloom. @§7реликвию.
-§7in the cave @§7в пещере
 §7Explore the house to find @§7Исследуй дом чтобы найти 
 §7a way out @§7выход 
 §7Inspect the cave above at @§7Посети пещеру выше на 
