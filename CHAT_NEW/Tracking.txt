@@ -303,55 +303,55 @@
 §7Protect the portal.@§7Защити портал 
 §7Tell Telvu the mage what happened.@§7Расскажи магу Телву что произошло 
 ======
-§7Return to the Guardian to seek guidance at [-1130,49,-4781]@ 
-§7Find someone in Cinfras who can help you SEE@ 
-§7Talk to the Guardian of The Forest in the Light Forest at [-1128,49,-4778] (Requires completion of Taproot)@ 
-§7Talk to Ollie at [-430,46,-4855]@ 
-§7Talk to Charlie outside of Ollie's Optometry at [-449,46,-4840]@ 
-§7Read Jack's run away letter in Charlie's house at [-491,54,-4989]@ 
-§7Talk to Jack at [-448,33,-5092]@ 
-§7Find Damien near Kander Forest at [-504,43,-5181]@ 
-§7Talk to the Apothecary about getting medicine at house 19 in Cinfras at [-431,46,-4993]@ 
-§7Break into Sasha's basement@ 
-§7Find Gardener in The Cinfras Gardens at [-391,45,-4917]@ 
-§7Give the medicine to Damien [-504,43,-5181]@ 
-§7Search the Gardener's cart for evidence of his lies at [-376,50,-4937]@ 
-§7Threaten The Gardener with his receipt at [-391,45,-4917]@ 
-§7Talk to Sasha the Apothacary and get the medicine at [-431,46,-4993]@ 
-§7Tell Charlie his son Jack is okay at [-444 47 -4841]@ 
-§7Return to Ollie in Cinfras at [-430,47,-4854]@ 
-§7Return to the Guardian of The Forest in the Light Forest with the helmet at [-1128,49,-4778] @ 
-§7Head back to the Arch at [-1038,44,-4447] @ 
-§7Enter The Light Realm@ 
+§7Talk to the Guardian of The Forest in the Light Forest at [-1128,49,-4778] (Requires completion of Taproot)@§7Поговори с Хранителем Леса в Светлом Лесу на [-1128,49,-4778] (Необходимо пройти квест Taproot)
+§7Return to the Guardian to seek guidance at [-1130,49,-4781]@§7Вернись к Хранителю для дальнейших указаний [-1130,49,-4781]
+§7Find someone in Cinfras who can help you SEE@§7Найди кого-то в Цинфрасе, кто поможет тебе УВИДЕТЬ 
+§7Talk to Ollie at [-430,46,-4855]@§7Поговори с Олли на [-430,46,-4855]
+§7Talk to Charlie outside of Ollie's Optometry at [-449,46,-4840]@§7Поговори с Чарли снаружи Оптометрии Олли на [-449,46,-4840]
+§7Read Jack's run away letter in Charlie's house at [-491,54,-4989]@§7Прочитай прощальное письмо Джека в доме Чарли на [-491,54,-4989]
+§7Talk to Jack at [-448,33,-5092]@§7Поговори с Джеком на [-448,33,-5092]
+§7Find Damien near Kander Forest at [-504,43,-5181]@§7Найди Дамиена около Кандер Леса [-504,43,-5181]
+§7Talk to the Apothecary about getting medicine at house 19 in Cinfras at [-431,46,-4993]@§7Поговори с Аптекарем насчет лекарств в доме №19 в Цинфрасе на [-431,46,-4993]
+§7Break into Sasha's basement@§7Проникни в подвал Саша 
+§7Find Gardener in The Cinfras Gardens at [-391,45,-4917]@§7Найди Садовника в саду Цинфраса на [-391,45,-4917]
+§7Search the Gardener's cart for evidence of his lies at [-376,50,-4937]@§7Обыщи повозку Садовника и найди доказательства его лжи на [-376,50,-4937]
+§7Threaten The Gardener with his receipt at [-391,45,-4917]@§7Угрожай Садовнику с его распиской на [-391,45,-4917]
+§7Talk to Sasha the Apothacary and get the medicine at [-431,46,-4993]@§7Поговори с Саша Аптекарем и получи лекарства на [-431,46,-4993]
+§7Give the medicine to Damien [-504,43,-5181]@§7Отдай лекарства Дамиену [-504,43,-5181]
+§7Tell Charlie his son Jack is okay at [-444 47 -4841]@§7Скажи Чарли, что его сын Джек впорядке [-444, 47, -4841]
+§7Return to Ollie in Cinfras at [-430,47,-4854]@§7Вернись к Олли в Цинфрасе на [-430,47,-4854]
+§7Return to the Guardian of The Forest in the Light Forest with the helmet at [-1128,49,-4778] @§7Вернись к Хранителю Леса в Светлом Лесу вместе со шлемом [-1128,49,-4778]
+§7Head back to the Arch at [-1038,44,-4447] @§7Вернись к Арке на [-1038,44,-4447]
+§7Enter The Light Realm@§7Войди в Царство Света 
 ======
-§7Speak to the Passenger Controllant at [-172,108,-4946]@ 
-§7Try and find out where the missing child is located by speaking to the passengers@ 
-§7Go back to your cabin@ 
-§7Complete the sound coded system by checking the Engineer's Note, and return back to the engineer@ 
-§7Explore the lower deck; something big is approaching@ 
-§7Get to the other ship@ 
-§7Find a way to reach the queen that is located below deck@ 
-§7Escape the cell, and finalize the key to reach the pirate queen@ 
-§7Speak to Calo next to the little ship at the Detlas docks@ 
-§7Speak to Captain Ackbar regarding the missing child@ 
-§7Return back to the captain@ 
-§7Speak to the captain regarding the sudden noises@ 
+§7Speak to the Passenger Controllant at [-172,108,-4946]@§7Поговори с Контроллером на [-172,108,-4946]
+§7Speak to Captain Ackbar regarding the missing child@§7Поговори с Капитаном Акбаром по поводу пропавшего ребенка
+§7Try and find out where the missing child is located by speaking to the passengers@§7Узнай о местонахождении пропавшего ребенка расспрашивая пассажиров
+§7Return back to the captain@§7Вернись обратно к капитану
+§7Go back to your cabin@§7Вернись в свою каюту
+§7Speak to the captain regarding the sudden noises@§7Поговори с капитаном насчет внезапного шума
+§7Complete the sound coded system by checking the Engineer's Note, and return back to the engineer@§7Пройди систему рестарта, используя записку Инженера, затем вернись обратно к нему
+§7Explore the lower deck; something big is approaching@§7Исследуй нижнюю палубу; что-то большое приближается
+§7Get to the other ship@§7Перейди на другой корабль
+§7Find a way to reach the queen that is located below deck@§7Найди путь к королеве, что находится на нижней палубе
+§7Escape the cell, and finalize the key to reach the pirate queen@§7Сбеги из тюрьмы, и доделай ключ к комнате королевы пиратов
+§7Speak to Calo next to the little ship at the Detlas docks@§7Поговори с Кало рядом с небольшим кораблем в доках Детласа
 =======
-§7Something looks suspicious in the prison at [-829,83,-5539]@ 
-§7Escape the prison@ 
-§7Find a disguise@ 
-§7Don't alert the dogs@ 
-§7Solve the puzzle@ 
-§7Run through the door in the center of the room@ 
-§7Escape@ 
+§7Something looks suspicious in the prison at [-829,83,-5539]@§7Что-то подозрительное происходит в тюрьме на [-829,83,-5539]
+§7Escape the prison@§7Сбеги из тюрьмы
+§7Find a disguise@§7Найди форму для маскировки
+§7Don't alert the dogs@§7Не потревожь собак 
+§7Solve the puzzle@§7Пройди пазл
+§7Run through the door in the center of the room@§7Пройди через дверь в центре комнаты
+§7Escape@§7Сбеги
 ========
-§7Find someone in Thanos who wants to buy [10 Troll Hair]@ 
-§7Find someone in Thanos who wants to buy your [Unusual Egg]@ 
-§7Find someone in Thanos who wants to buy your [Cap of the Elusive Leprechaun]@ 
-§7Find someone in Thanos who wants to buy [Bob's Diary]@ 
-§7Find someone in Thanos who wants to buy the [Claw of Lethirath, the Fire Demon]@ 
-§7Find someone in Thanos who wants to buy your [Golden Phoenix Feather of the 5th Age]@ 
-§7Find someone in Thanos who wants to buy your [Horn of the Elven God Entia]@ 
+§7Find someone in Thanos who wants to buy [10 Troll Hair]@§7Найди кого-то в Таносе кто хочет купить [10 Troll Hair]
+§7Find someone in Thanos who wants to buy your [Unusual Egg]@§7Найди кого-то в Таносе кто хочет купить твое [Необычное Яйцо] 
+§7Find someone in Thanos who wants to buy your [Cap of the Elusive Leprechaun]@§7Найди кого-то в Таносе кто хочет купить твою [Шапку Неуловимого Лепрекона] 
+§7Find someone in Thanos who wants to buy [Bob's Diary]@§7Найди кого-то в Таносе кто хочет купить [Дневник Бобa] 
+§7Find someone in Thanos who wants to buy the [Claw of Lethirath, the Fire Demon]@§7Найди кого-то в Таносе кто хочет купить [Коготь Огненного Демона Летирата] 
+§7Find someone in Thanos who wants to buy your [Golden Phoenix Feather of the 5th Age]@§7Найди кого-то в Таносе кто хочет купить [Золотое Перо Феникса 5-летнего возраста] 
+§7Find someone in Thanos who wants to buy your [Horn of the Elven God Entia]@§7Найди кого-то в Таносе кто хочет купить [Рог Эльфийского Бога Энтия] 
 ========
 §7Talk to Anrod at his house at [-1367,43,-4542]@ 
 §7Search for a water spirit around the river with a [Breathing Helmet]@ 
