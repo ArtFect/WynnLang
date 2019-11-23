@@ -1603,6 +1603,7 @@ QUESTS/Royal_Trials.txt =====
 §7Talk to the Skyraider Guard @§7Поговори со Скайрайдер Стражем 
 §7[1476,84,-4336]@ 
 §7Talk to the Hrona at @§7Поговори с Хроной на 
+§7[1476,82,-4340]@ 
 §7Buy a Female Pirate Wig @§7Купи Женский Парик Пирата
 §7at Ahmsord then enter the @§7в Амсорде и затем войди в 
 §7basement in which the trials @§7подвал, в котором проходят 
@@ -2630,7 +2631,6 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7clue missing. @§7пропавшие подсказки
 §7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
 §7[1470,85,-4334]@ 
-§7[1476,82,-4340]@ 
 §7[-1540,73,-4394]@ 
 §7[18,34,-5343]@ 
 §7[-705,58,-817]@ 
