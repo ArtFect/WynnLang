@@ -1141,7 +1141,7 @@ QUESTS/Kingdom_of_Sand.txt =====
 §7at the exit. @§7на выходе 
 §7Sneak into the highest room @§7Проникни в комнату поместья 
 §7of the Rymek Mansion at @§7в Римеке на последнем этаже 
-§7[1180, 31, -1300]@ 
+§7[1180, 31, -1300] @ 
 §7Talk to the Vault Guard @§7Поговори со Стражем Хранилища 
 §7to enter the hideout @§7чтобы попасть внутрь 
 §7Look for the sceptre within @§7Поищи скипетр в 
@@ -2632,7 +2632,6 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7[1470,85,-4334]@ 
 §7[1476,82,-4340]@ 
 §7[-1540,73,-4394]@ 
-§7[1180, 31, -1300] @ 
 §7[18,34,-5343]@ 
 §7[-705,58,-817]@ 
 §7[1084,133,-5606]@ 
