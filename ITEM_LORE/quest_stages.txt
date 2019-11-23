@@ -2007,7 +2007,7 @@ QUESTS/The_Hunger_of_Gerts_Part_I.txt =====
 §7tunnel @§7насчет тоннеля
 §7Bring Jitak [6 Gert Skin] @§7Принеси Житаку 6 [Gert Skin]
 §7Go to the Gerten Camp @§7Иди в лагерь Гертов
-§7[18,34,-5343] @ 
+§7[18,34,-5343]@ 
 §7Talk to the Gerten Captain @§7Поговори с Герт Капитаном
 §7[31,34,-5339]@ 
 §7Find the password and return @§7Найди пароль и вернись 
@@ -2632,6 +2632,5 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
 §7[1470,85,-4334]@ 
 §7[-1540,73,-4394]@ 
-§7[18,34,-5343]@ 
 §7[-705,58,-817]@ 
 §7[1084,133,-5606]@ 
