@@ -110,6 +110,8 @@ QUESTS/Arachnids%27_Ascent.txt =====
 §7Enter and climb Mount Wynn @§7Войди и заберись на вершину 
 §7through the cave at @§7Вулкана Винн через пещеру на 
 §7[-120,76,-1888]@ 
+§7Collect the lava from Mount @§7Собери лаву из вулкана
+§7Wynn @§7Винн
 §7Return to Captain Enduyn with @§7Вернись к Капитану Эндуину 
 §7the lava @§7с лавой
 
@@ -130,6 +132,7 @@ QUESTS/A_Fighting_Species.txt =====
 §7in the cave @§7в пещеру
 §7Find the way leading to @§7Найди путь, ведущий 
 §7Gorgu's room in the cave @§7к комнате Горгу в пещере 
+§7Enter in Gorgu's room @§7Войди в комнату Горгу
 §7Win the duel versus Gorgu @§7Выиграй дуэль у Горгу 
 §7and talk back to Darnes @§7и поговори с Дарнесом 
 §7with [Gorgu's Handprint] and the @§7вместе с [Отпечатком руки Горгу] 
@@ -553,6 +556,8 @@ QUESTS/Dwarves_and_Doguns_Part_IV.txt =====
 §7destroy them. @§7и уничтожь их
 §7Leave Garaheth and exit his @§7Выйди из Гарахетa и 
 §7realm. @§7покинь его царство.
+§7Speak with the King of @§7Поговори с Королем 
+§7Rodoroc and the Dogun Chieftain. @§7Родорока и Вождем Догунов
  
 QUESTS/Dwelling_Walls.txt ===== 
 §7Talk to Leucsaa at @§7Поговори с Леуксаа на 
@@ -640,6 +645,7 @@ QUESTS/Eye_of_the_Storm.txt =====
 §7Enter the Pit of Despair @§7Войди в Яму Отчаяния
 §7Find a passage deeper into @§7Найди проход 
 §7the Pit @§7вглубь Ямы
+§7Talk to Harker @§7Поговори с Харкером
 §7Enter the ritual chamber @§7Войди в ритуальную комнату
 §7Approach Naragath's Altar @§7Подойди к алтарю Нарагата
 §7Travel deeper into the cave @§7Продвигайся вглубь пещеры
@@ -1105,13 +1111,8 @@ QUESTS/King%27s_Recruit.txt =====
 §7Continue through the Wynn Province @§7Продолжай путь через 
 §7to the castle @§7провинцию Винн к замку 
 §7Talk to the old man @§7Поговори со стариком 
-§7Harvest [2 Wheat] and bring @§7Добудь [2 Пшеницы] 
-§7it to the Old Man @§7и принеси ее старику 
-§7Mine [2 Copper Ore] and bring @§7Добудь [2 Медной Руды] 
-§7it to the Old @§7и принеси ее 
-§7Man @§7старику 
-§7Mine [2 Copper Ore] and @§7Добудь [2 Медной Руды] и 
-§7bring it to the Old @§7принеси ее 
+§7Gather the materials the Old @§7Собери материалы, которые 
+§7Man asked for @§7Старик просит
 §7Investigate the broken bridge @§7Осмотри разрушенный мост 
 §7Search for another way across @§7Найди способ перебраться на ту сторону 
 §7Process your copper ore into @§7Переработай свою руду 
@@ -1301,7 +1302,7 @@ QUESTS/Meaningful_Holiday.txt =====
  
 QUESTS/Memory_Paranoia.txt 
 §7Speak to Atisun in front @§7Поговори с Атисуном 
-§7of Erca Mansion at @§7на входе в Поместье Эрка 
+§7of Caritat Mansion at @§7на входе в Поместье Каритат на 
 §7[-1192,46,-5198]@ 
 §7Enter Erca Mansion @§7Войди в поместье Эрка 
 §7Learn the story of the @§7Изучи историю 
@@ -1404,6 +1405,7 @@ QUESTS/﻿One_Thousand_Meters_Under.txt =====
 §7Return to the submarine and @§7Вернись на подлодку 
 §7continue your journey. @§7и продолжай путешествие
 §7Continue the journey. @§7Продолжи свое путешествие
+§7Continue your journey. @§7Продолжи свое приключение.
 §7Head to the resting room. @§7Отправляйся в комнату отдыха
 §7Get the ingredients to fix @§7Принеси ингредиенты для починки 
 §7the submarine. @§7подлодки
@@ -1917,6 +1919,8 @@ QUESTS/The_Fortuneteller.txt =====
 §7Return to Jill in Kandon-Beda @Вернись к Джилл в Кандон-Бэда 
 §7with the treasure @вместе с сокровищем
 §7Solve the treasure mystery @§7Раскрой загадку сокровища
+§7Find the beanstalk @§7Найди бобовый стебель 
+§7[630,147,-4590]@ 
 §7Climb the beanstalk @§7Заберись на бобовый стебель
 §7Speak to the Ancient Dragon @§7Поговори с Древним Драконом
  
@@ -1937,6 +1941,8 @@ QUESTS/The_Headless_Hunt.txt =====
 §7Dullahan @§7Дуллахана 
 §7Go underneath the Dullahan's mansion @§7Иди под поместье Дуллахана 
 §7to investigate the blood altar @§7и исследуй кровавый алтарь
+§7Search the torture chambers for @§7Найди в пыточных камерах 
+§7the spirits @§7духов
 §7Destroy the Lost Spirits to @§7Уничтожь Lost Spirits 
 §7free them @§7чтобы освободить всех
 §7Show Referick proof that you @§7Покажи Реферику доказательства, 
@@ -2174,6 +2180,9 @@ QUESTS/The_Qira_Hive_(Quest).txt =====
 §7Hive Challenge @§7Челлендж Улья
 §7Prepare to enter the chambers @§7Подготовься к вхождению в камеру 
 §7of Mistress Qira @§7Госпожи Киры
+§7Defeat Qira, Mistress of the @§7Победи Киру, Госпожу 
+§7Hive and collect 1 Master @§7Улья и собери 1 Мастер 
+§7Catalyst @§7Катализатор
 §7Talk to Yansur and truly @§7Поговори с Янсуром и полностью 
 §7complete the Hive Challenge @§7заверши Челлендж Улья
 
@@ -2620,3 +2629,10 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7a way out @§7выход 
 §7clue missing. @§7пропавшие подсказки
 §7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
+§7[1470,85,-4334]@ 
+§7[1476,82,-4340]@ 
+§7[-1540,73,-4394]@ 
+§7[1180, 31, -1300] @ 
+§7[18,34,-5343]@ 
+§7[-705,58,-817]@ 
+§7[1084,133,-5606]@ 
