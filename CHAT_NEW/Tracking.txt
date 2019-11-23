@@ -353,52 +353,51 @@
 §7Find someone in Thanos who wants to buy your [Golden Phoenix Feather of the 5th Age]@§7Найди кого-то в Таносе кто хочет купить [Золотое Перо Феникса 5-летнего возраста] 
 §7Find someone in Thanos who wants to buy your [Horn of the Elven God Entia]@§7Найди кого-то в Таносе кто хочет купить [Рог Эльфийского Бога Энтия] 
 ========
-§7Talk to Anrod at his house at [-1367,43,-4542]@ 
-§7Search for a water spirit around the river with a [Breathing Helmet]@ 
-§7Return to Rynver with [1 Water Spirit Tear] from the pool@ 
-§7Go deeper into the cave and stop the Fleris from burning the roots@ 
-§7Return to Anrod with [1 Fleris Cream] to prove you solved the problem@ 
-§7Climb the mountain behind Anrod's house, and find Rynver at [-1383,79,-4459]@ 
-§7Return to Anrod with the [Holy Water] Rynver made you@ 
-§7Investigate why Rynver is pointing to a cave behind him@ 
-§7Follow the burning trees to find out the cause@ 
+§7Talk to Anrod at his house at [-1367,43,-4542]@§7Поговори с Анродом в его доме на [-1367,43,-4542]
+§7Climb the mountain behind Anrod's house, and find Rynver at [-1383,79,-4459]@§7Заберись на гору позади дома Анрода, и найди Ринвера на [-1383,79,-4459]
+§7Investigate why Rynver is pointing to a cave behind him@§7Узнай, почему Ринвер отправляет тебя в пещеру позади него 
+§7Search for a water spirit around the river with a [Breathing Helmet]@§7Отыщи водного духа в ближайшей реке вместе со [Шлемом Подводника] 
+§7Return to Rynver with [1 Water Spirit Tear] from the pool@§7Вернись к Ринверу с [1 Слезой Водного Духа] из водоема 
+§7Return to Anrod with the [Holy Water] Rynver made you@§7Вернись к Анроду со [Святой Водой], что сделал Ринвер 
+§7Follow the burning trees to find out the cause@§7Иди по следам горящих деревьев и найди причину 
+§7Go deeper into the cave and stop the Fleris from burning the roots@§7Иди вглубь пещеры и останови Флериса от сжигания корней дерева 
+§7Return to Anrod with [1 Fleris Cream] to prove you solved the problem@§7Вернись к Анроду с [1 Кремом Флериса] для доказательства решения проблемы 
 ======
-§7Find Eppo at [-207, 37, -531]@ 
-§7Find the riches in Theorick's mansion.@ 
-§7Return to Eppo with the tnt.@ 
-§7Enter Theorick's mansion.@ 
-§7Go deeper into the cave and speak to Rhudya.@ 
-§7Travel to the lava springs through the mineshaft.@ 
-§7Melt the ice and find the Servant's corpse.@ 
-§7Complete the puzzle and bring the lava back to Eppo.@ 
-§7Go deeper into the cave@ 
+§7Find Eppo at [-207, 37, -531]@§7Найди Эппо на [-207, 37, -531]
+§7Go deeper into the cave and speak to Rhudya.@§7Иди глубже в пещеру и поговори с Рудя 
+§7Return to Eppo with the tnt.@§7Вернись к Эппо вместе с динамитом.
+§7Travel to the lava springs through the mineshaft.@§7Пройди к озерам лавы через шахту 
+§7Complete the puzzle and bring the lava back to Eppo.@§7Пройди пазл и принеси лаву к Эппо 
+§7Melt the ice and find the Servant's corpse.@§7Расплавь лед и найди останки слуги 
+§7Enter Theorick's mansion.@§7Войди в поместье Теорика 
+§7Find the riches in Theorick's mansion.@§7Найди богатства в поместье Теорика 
 ======
-§7Speak to Private Tylas outside of the fort at [115,53,-5439]@ 
-§7Speak to General Lecade@ 
-§7Go through the Mountain Spring Tavern to reach the roof of the tallest tower in the fort@ 
-§7Return to General Lecade@ 
-§7Recover the Good-Luck Charm from the sewers@ 
-§7Paint the mountain at [207,178,-5499]@ 
-§7Walk across the tightrope at [128,101,-5467]@ 
-§7Blow up the wall inside the fort@ 
-§7Find the secret passageway into the general's office@ 
+§7Speak to Private Tylas outside of the fort at [115,53,-5439]@§7Поговори с Рядовым Тиласом снаружи крепости на [115,53,-5439]
+§7Speak to General Lecade@§7Поговори с Генералом Лекейдом 
+§7Go through the Mountain Spring Tavern to reach the roof of the tallest tower in the fort@§7Пройди через таверну Mountain Spring и поднимись на крышу самой высокой башни 
+§7Recover the Good-Luck Charm from the sewers@§7Верни Счастливый Амулет из канализации 
+§7Paint the mountain at [207,178,-5499]@§7Раскрась гору на [207,178,-5499]
+§7Walk across the tightrope at [128,101,-5467]@§7Пройдись по канату на [128,101,-5467]
+§7Blow up the wall inside the fort@§7Взорви стену внутри крепости
+§7Find the secret passageway into the general's office@§7Найди секретный вход в офис генерала 
+§7Return to General Lecade@§7Вернись к Генералу Лекейду
 ======
-§7Visit the salesman in Troms near the fountain@ 
-§7Talk to Isfurus in Dernel at [-803,33,-374]@ 
-§7Get the bottles filled by Erisk in the heart of the fountain to give Isfurus@ 
-§7Talk to Isfurus for Erisk@ 
-§7Give the bottle of healing water to Monte@ 
+§7Visit the salesman in Troms near the fountain@§7Посети торговца в Тромсе рядом с фонтаном 
+§7Talk to Isfurus in Dernel at [-803,33,-374]@§7Поговори с Исфурусом в Дернел на [-803,33,-374]
+§7Get the bottles filled by Erisk in the heart of the fountain to give Isfurus@§7Попроси Эриска наполнить бутылку в сердце фонтана, которую тебе дал Исфурус
+§7Talk to Isfurus for Erisk@§7Поговори с Исфурусом по просьбе Эриска
+§7Give the bottle of healing water to Monte@§7Отдай бутылку с лечащей водой Монтэ
 ======
-§7Talk to Sayleros in Detlas at [476,69,-1624]@ 
-§7Find a way to make Drucksh talk in Nemract about Sayleros' dead brother@ 
-§7Talk to The Priest in the old monastery@ 
-§7Bring [12 Rotten Flesh] to the priest@ 
-§7Kill Sayleros' brother to retrieve his will and bring it back to Sayleros@ 
+§7Talk to Sayleros in Detlas at [476,69,-1624]@§7Поговори с Сайлеросом в Детласе на [476,69,-1624]
+§7Find a way to make Drucksh talk in Nemract about Sayleros' dead brother@§7Найди способ разговорить Дракшa в Немракте насчет смерти брата Сайлеросa 
+§7Talk to The Priest in the old monastery@§7Поговори со Священником в старом монастыре
+§7Bring [12 Rotten Flesh] to the priest@§7Принеси [12 Rotten Flesh] священнику 
+§7Kill Sayleros' brother to retrieve his will and bring it back to Sayleros@§7Убей брата Сайлероса, получи завещание и принеси его обратно к Сайлеросу 
 =======
-§7Talk to Eluzterp at [1172,77,-2027]@ 
-§7Find Yodbon near the Almuj Bank@ 
-§7Bring [5 Soft Sand] to Yodbon@ 
-§7Fetch [8 Slimey Goo] for Eluzterp@ 
+§7Talk to Eluzterp at [1172,77,-2027]@§7Поговори с Элузтерпом на [1172,77,-2027]
+§7Find Yodbon near the Almuj Bank@§7Поговори с Йодбоном рядом с банком Алмужа 
+§7Bring [5 Soft Sand] to Yodbon@§7Принеси [5 Soft Sand] Йодбону 
+§7Fetch [8 Slimey Goo] for Eluzterp@§7Добудь [8 Вязкой Слизи] для Элузтерпа 
 ======
 §7You should return this axe to Detective Jackson.@ 
 §7Report the attack to Detective Jackson [-1731,53,-4836]@ 
@@ -861,6 +860,7 @@
 §7Go to the Lumber Yard at [-1770,54,-5244] and bring back [6 Marsh Robur] to Tolem@ 
 §7Bring back a proof that you beat the monster behind Rileen's house@ 
 §7Follow the candles and enter in the beast's cave@ 
+§7Go deeper into the cave@§7Иди глубже в пещеру
 §7Talk to the farmer to get evidence about the beast@ 
 =====
 §7Speak to Dolem at [131,2,-5295]@ 
