@@ -47,57 +47,57 @@
 §7Collect the lava from Mount Wynn@§7Собери лаву из вулкана Винн
 §7Return to Captain Enduyn with the lava@§7Вернись к Капитану Эндуину с лавой
 ======
-§7Talk to Darnes in the villager camp at [-1406,43,-5073]@ 
-§7Bring back [3 Orc Skin] to Darnes by killing Orcs near the camp@ 
-§7Find the way leading to Gorgu's room in the cave@ 
-§7Win the duel versus Gorgu and talk back to Darnes with [Gorgu's Handprint] and the [Orc Mask]@ 
-§7Enter in Leadin, the Orc's fortress, at [-1310,57,-4869] wearing the [Orc Mask]@ 
-§7Find the house with a way leading to a cave in the Orc's fortress@ 
-§7Find a way to enter in the cave@ 
-§7Enter in Gorgu's room@ 
+§7Talk to Darnes in the villager camp at [-1406,43,-5073]@§7Поговори с Дарнесом в лагере жителей на [-1406,43,-5073]
+§7Bring back [3 Orc Skin] to Darnes by killing Orcs near the camp@§7Принеси [3 Кожи Орка] Дарнесу, убивая Орков рядом с лагерем 
+§7Enter in Leadin, the Orc's fortress, at [-1310,57,-4869] wearing the [Orc Mask]@§7Войди в лагерь Орков Леадин на [-1310,57,-4869] надев [Маску Орка] 
+§7Find the house with a way leading to a cave in the Orc's fortress@§7Найди дом со входом в пещеру в лагере орков
+§7Find a way to enter in the cave@§7Найди способ попасть в пещеру
+§7Find the way leading to Gorgu's room in the cave@§7Найди путь, ведущий к комнате Горгу в пещере 
+§7Enter in Gorgu's room@§7Войди в комнату Горгу
+§7Win the duel versus Gorgu and talk back to Darnes with [Gorgu's Handprint] and the [Orc Mask]@§7Выиграй дуэль у Горгу и поговори с Дарнесом вместе с [Отпечатком руки Горгу] и [маской Орка] 
 =======
 §4 @ 
-§4.§4§lReturn§4;' §4§lto§4:, '§4§lAlem;,@ 
+§4.§4§lReturn§4;' §4§lto§4:, '§4§lAlem;,@§4.§lВернись§4;' §lк§4:, '§lАлему;, 
 §4§l @ 
 =======
-§7Talk to Norsten at [437,77,-5056].@ 
-§7Find and confront the mage at [360,173,-5037].@ 
-§7Jump into the cave by Volmor's tower@ 
-§7Retrieve the gem from the chasm and return it to Norsten@ 
+§7Talk to Norsten at [437,77,-5056].@§7Поговори с Норстеном на [437,77,-5056]
+§7Find and confront the mage at [360,173,-5037].@§7Найди и дай отпор магу на [360,173,-5037]. 
+§7Jump into the cave by Volmor's tower@§7Прыгни в пещеру с башни Волмора 
+§7Retrieve the gem from the chasm and return it to Norsten@§7Достань камень из бездны и верни его Норстену 
 =====
-§7Talk to the Almuj Bank Guard at [976,83,-1963]@ 
-§7Go to the witness report location at [954,75,-1985]@ 
-§7Read the witness report@ 
-§7Go to the witness report location at [922,79,-1927]@ 
-§7Quickly! Go to the house at [930,75,-2034]!@ 
-§7Follow the trail of gold the criminals left behind from the robbery@ 
-§7Look for signs of the bandits' whereabouts@ 
-§7Talk to the Almuj Bank Guard@ 
-§7Find the source of the detonation@ 
-§7Inspect the safe@ 
-§7Don't let the bandits escape!@ 
-§7Find where the bandits blasted a hole to get into the bank@ 
-§7Follow the criminals into the other room@ 
-§7Blow up the door with bandits' leftover TNT and exit the bank@ 
-§7Open the vault in the basement [Code: 7812]@ 
-§7Inspect the vault@ 
-§7Listen to the bandits@ 
-§7Escape the hideout!@ 
+§7Talk to the Almuj Bank Guard at [976,83,-1963]@§7Поговори со Стражем Алмуж Банка на [976,83,-1963]
+§7Go to the witness report location at [954,75,-1985]@§7Иди по координатам в отчете на [954,75,-1985]
+§7Read the witness report@§7Прочитай отчет 
+§7Go to the witness report location at [922,79,-1927]@§7Иди по координатам в отчете на [922,79,-1927]
+§7Quickly! Go to the house at [930,75,-2034]!@§7Быстрее! Иди к дому на [930,75,-2034]! 
+§7Follow the trail of gold the criminals left behind from the robbery@§7Иди по следу из золота что оставили бандиты после ограбления 
+§7Look for signs of the bandits' whereabouts@§7Отыщи подсказки того куда пошли бандиты
+§7Talk to the Almuj Bank Guard@§7Поговори со Стражем Алмуж Банка
+§7Find the source of the detonation@§7Найди источник взрыва
+§7Inspect the safe@§7Посети сейф 
+§7Don't let the bandits escape!@§7Не дай бандитам сбежать! 
+§7Find where the bandits blasted a hole to get into the bank@§7Найди место, где бандиты проделали дыру, чтобы попасть в банк 
+§7Follow the criminals into the other room@§7Проследуй за бандитами в другую комнату 
+§7Blow up the door with bandits' leftover TNT and exit the bank@§7Взорви дверь оставшимся от бандитов динамитом и покинь банк
+§7Open the vault in the basement [Code: 7812]@§7Открой хранилище в подвале [Код: 7812] 
+§7Inspect the vault@§7Исследуй хранилище
+§7Listen to the bandits@§7Подслушай бандитов 
+§7Escape the hideout!@§7Беги в укрытие! 
 ======
-§7Talk to Javier in the Pirate Cove at [-640,53,-3117]@ 
-§7Find Javier's map, hidden in the skull tomb at the entrance of the island@ 
-§7Find [1 Ocean Treasure] and bring it back to Javier in Pirate Cove@ 
-§7Explore the cave in the ocean, located at [-187,16,-3452]@ 
-§7Talk to Dalben on Mage Island about restoring the map@ 
-§7Bring back [20 Block of Emerald] to Dalben@ 
+§7Talk to Javier in the Pirate Cove at [-640,53,-3117]@§7Поговори с Джавьером в Пиратской Бухте на [-640,53,-3117]
+§7Find Javier's map, hidden in the skull tomb at the entrance of the island@§7Найди карту Джавьера, спрятанную внутри пещеры-черепа у входа на остров 
+§7Talk to Dalben on Mage Island about restoring the map@§7Поговори с Далбеном на Острове Магов насчет восстановления карты 
+§7Bring back [20 Block of Emerald] to Dalben@§7Принеси [20 Блоков Эмеральдов] Далбену 
+§7Explore the cave in the ocean, located at [-187,16,-3452]@§7Исследуй пещеру в океане на координатах [-187,16,-3452]
+§7Find [1 Ocean Treasure] and bring it back to Javier in Pirate Cove@§7Найди [1 Океаническое Сокровище] и принеси его Джавьеру в Пиратской Бухте
 ======
-§7Speak to Irlok in the Air Temple at [499,155,-4778].@ 
-§7Seek out the creature in the mines at [367,30,-4923].@ 
-§7Explore the strange realm and bargain with Death.@ 
-§7Exit the strange realm.@ 
-§7Take proof of Krolton's demise to Irlok.@ 
+§7Speak to Irlok in the Air Temple at [499,155,-4778].@§7Поговори с Ирлоком в Воздушной Башне на [499,155,-4778]. 
+§7Seek out the creature in the mines at [367,30,-4923].@§7Найди создание в шахте на [367,30,-4923] 
+§7Explore the strange realm and bargain with Death.@§7Исследуй странное царство и договорись со Смертью 
+§7Exit the strange realm.@§7Покинь странное царство 
+§7Take proof of Krolton's demise to Irlok.@§7Покажи доказательство смерти Кролтона Ирлоку 
 ======
-§7Talk to Tarod in Nesaak's Forest at [-7,68,-793]@ 
+§7Talk to Tarod in Nesaak's Forest at [-7,68,-793]@§7Поговори с Тародом в лесу Несаака на [-7,68,-793]
 §7Find Bob's Tomb@ 
 §7Report what you've found to Tarod@ 
 §7Talk to the sorcerer Wedyf in Bremminglar@ 
