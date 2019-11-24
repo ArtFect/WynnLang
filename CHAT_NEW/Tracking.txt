@@ -498,65 +498,67 @@
 =======
 §7Talk to Ferndor at [-915,33,-750]@§7Поговори с Ферндором на [-915,33,-750]
 §7Visit the mansion dining room and ask Grandon about the book@§7Посети столовую в поместье и расспроси Грандона по поводу книги 
-§7"The face above the hall owns the nose that needs to be heavier to open the way"@ 
-§7Talk to Grandon and tell him about your findings@ 
-§7"The carpet of different colour will show you the stone to reveal the tables secret"@ 
-§7Bring back [1 Boot Container] and [Abysso Galoshes] to Ferndor@ 
-§7Open the secret passage above the flags by reaching into the unwanted hole@ 
+§7"The face above the hall owns the nose that needs to be heavier to open the way"@§7"Лицо жителя над залом ведет в нос, который открывает путь" 
+§7Talk to Grandon and tell him about your findings@§7Поговори с Грандоном и расскажи ему о своих находках
+§7"The carpet of different colour will show you the stone to reveal the tables secret"@§7"Ковер различного цвета покажет тебе камень, чтобы раскрыть секрет стола"
+§7Open the secret passage above the flags by reaching into the unwanted hole@§7Открой секретный проход над флагами и проберись в дыру 
+§7Bring back [1 Boot Container] and [Abysso Galoshes] to Ferndor@§7Принеси обратно [1 Контейнер для Ботинок] и [Abysso Galoshes] Ферндору 
 ========
-§7Talk to Laen in Nemract at [24,37,-2199]@ 
-§7Find the lost tower in Ancient Nemract@ 
-§7Find the book in the tower, and bring it back to Laen@ 
+§7Talk to Laen in Nemract at [24,37,-2199]@§7Поговори с Лаэн в Немракте на [24,37,-2199]
+§7Find the lost tower in Ancient Nemract@§7Найди потерянную башню в Древнем Немракте  
+§7Find the book in the tower, and bring it back to Laen@§7Найди книгу в башне и принеси ее обратно Лаэну 
 ======
-§7Find the Mask Salesman at his caravan at [-328,61,-1973]@ 
-§7Find the Haunted Mask and bring it back to the Mask Salesman@ 
+§7Find the Mask Salesman at his caravan at [-328,61,-1973]@§7Найди Продавца Масок возле своего каравана на [-328,61,-1973]
+§7Find the Haunted Mask and bring it back to the Mask Salesman@§7Найди маску и верни ее обратно Продавцу 
 ======
-§7Talk to Rynend located in Maltic at [-568,48,-1922]@ 
-§7Investigate the old Maltic well and bring [1 Witch's Empty Bottle] to Rynend@ 
+§7Talk to Rynend located in Maltic at [-568,48,-1922]@§7Поговори с Ринендом в Малтике на [-568,48,-1922]
+§7Investigate the old Maltic well and bring [1 Witch's Empty Bottle] to Rynend@§7Посети старый колодец в Малтике и принеси [1 Пустую Бутылку Ведьмы] Риненду 
 ======
-§7Talk to Caissop, the Artist, in his tent at [-1802,55,-5190]@ 
-§7Search for the first mythical creature in the cave at [-1833,69,-5144]@ 
-§7Report back with the description of the legendary Villager Cow to Caissop@ 
-§7Search for the second mythical beast in the cave at [-1761,55,-5112]@ 
-§7Search for the third and last mythical animal in the cave at [-1763,54,-5167]@ 
-§7Report back with the description of the fabulous Unicorn Sheep to Caissop@ 
-§7Report back with the description of the amazing Pigasus to Caissop@ 
+§7Talk to Caissop, the Artist, in his tent at [-1802,55,-5190]@§7Поговори с художником Кайзопом в его палатке на [-1802,55,-5190]
+§7Search for the first mythical creature in the cave at [-1833,69,-5144]@§7Отыщи первое мифическое животное в пещере на [-1833,69,-5144]
+§7Report back with the description of the legendary Villager Cow to Caissop@§7Вернись с описанием легендарного корово-жителя к Кайзопу 
+§7Search for the second mythical beast in the cave at [-1761,55,-5112]@§7Отыщи второе мифическое животное в пещере на [-1761,55,-5112]
+§7Report back with the description of the fabulous Unicorn Sheep to Caissop@§7Вернись с описанием изумительной овцы-единорога к Кайзопу
+§7Search for the third and last mythical animal in the cave at [-1763,54,-5167]@§7Отыщи третье и последнее мифическое создание в пещере на [-1763,54,-5167]
+§7Report back with the description of the amazing Pigasus to Caissop@§7Вернись с описанием великолепного свино-коня к Кайзопу 
 ======
-§7Talk to Haily in Almuj at [929,75,-1899]@ 
-§7Go talk to Haily's friend Nick at the poor area south of the city at [936,68,-1841].@ 
-§7Go to the budget store at [943,75,-1879] and ask for food.@ 
-§7Look for food on the second floor.@ 
-§7Return to Nick and tell him the bad news.@ 
-§7Continue the tunnel and find Nick's friend at [780,70,-1618].@ 
-§7Explore the area and look for Santa.@ 
-§7Enter Santa's home and speak to him.@ 
-§7Enter the ball room.@ 
-§7Ask the guests for food.@ 
-§7Steal the food from the kitchen and talk to Nick.@ 
-§7Escape the ball with Nick.@ 
-§7Bring the blanket to the woman in the tunnel south of Nick.@ 
-§7Talk to Nick@ 
-§7Leave through the portal behind Santa.@ 
+§7Talk to Haily in Almuj at [929,75,-1899]@§7Поговори с Хэйли в Алмуже на [929,75,-1899]
+§7Go talk to Haily's friend Nick at the poor area south of the city at [936,68,-1841].@§7Поговори с другом Хэйли Ником в бедном районе на юге от города [936,68,-1841].
+§7Go to the budget store at [943,75,-1879] and ask for food.@§7Сходи на склад [943,75,-1879] и попроси еды  
+§7Look for food on the second floor.@§7Поищи еду на втором этаже
+§7Return to Nick and tell him the bad news.@§7Вернись к Нику и расскажи ему плохие новости
+§7Bring the blanket to the woman in the tunnel south of Nick.@§7Принеси одеяло женщине в тоннеле на юге от Никa 
+§7Continue the tunnel and find Nick's friend at [780,70,-1618].@§7Продвигайся по тоннелю и найди друга Никa на [780,70,-1618]. 
+§7Explore the area and look for Santa.@§7Исследуй территорию в поисках Санты 
+§7Enter Santa's home and speak to him.@§7Войди в дом Санты и поговори с ним
+§7Leave through the portal behind Santa.@§7Уйди через портал-камин позади Санты 
+§7Enter the ball room.@§7Войди в бальный зал [422, 65, -1561]. 
+§7Ask the guests for food.@§7Попроси еды у гостей. 
+§7Steal the food from the kitchen and talk to Nick.@§7Укради еду с кухни и поговори с Ником 
+§7Escape the ball with Nick.@§7Уйди из зала вместе с Ником 
+§7Talk to Nick@§7Поговори с Ником 
 ======
-§7Enter the basement and recover the Library Key@ 
-§7Enter the library of Erca Mansion@ 
-§7Enter the hole in the wall at [-1535,17,-8068]@ 
-§7Return the spoon to the Kitchen@ 
-§7Listen to Mr. Caritat's announcement@ 
-§7Enter the Kitchen@ 
-§7Exit the Kitchen@ 
-§7Speak to the people who haven't fled from the disaster@ 
-§7Unlock the Study@ 
-§7Enter the Study@ 
+§7Speak to Atisun in front of Erca Mansion at [-1192,46,-5198]@§7Поговори с Атисуном на входе в Поместье Каритат на [-1192,46,-5198]
+§7Enter Erca Mansion@§7Войди в поместье Эрка 
+§7Learn the story of the Caritat Family@§7Изучи историю семейства Каритат
+§7Enter the basement and recover the Library Key@§7Войди в подвал и добудь ключ от библиотеки 
+§7Enter the library of Erca Mansion@§7Войди в библиотеку Поместья Эрка 
+§7Enter the hole in the wall at [-1535,17,-8068]@§7Войди в дыру в стене на [-1535,17,-8068]
+§7Listen to Mr. Caritat's announcement@§7Послушай объявление Мр. Каритата
+§7Return the spoon to the Kitchen@§7Верни ложку на кухню 
+§7Enter the Kitchen@§7Войди на кухню 
+§7Exit the Kitchen@§7Покинь кухню
+§7Speak to the people who haven't fled from the disaster@§7
+§7Unlock the Study@§7
+§7Enter the Study@§7
 §7Leave the Study@ 
 §7Bring the key to Timmy's bedroom@ 
 §7Bring the key to the Master Bedroom@ 
 §7Navigate the Caritat's basement@ 
 §7Escape through the mysterious rift@ 
-§7Speak to Atisun in front of Erca Mansion at [-1192,46,-5198]@ 
-§7Enter Erca Mansion@ 
+
 §7Enter the Master Bedroom@ 
-§7Learn the story of the Caritat Family@ 
+
 =====
 §7Go for a drink at the Corkus Docks Inn, [-1414, 46, -2921]@ 
 §7Talk to citizens around the docks to find out more about what happened.@ 
