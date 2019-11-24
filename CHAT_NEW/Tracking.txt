@@ -399,59 +399,59 @@
 §7Bring [5 Soft Sand] to Yodbon@§7Принеси [5 Soft Sand] Йодбону 
 §7Fetch [8 Slimey Goo] for Eluzterp@§7Добудь [8 Вязкой Слизи] для Элузтерпа 
 ======
-§7You should return this axe to Detective Jackson.@ 
-§7Report the attack to Detective Jackson [-1731,53,-4836]@ 
-§7Hunt down the nearby orcs at the green, red, and black camps.@ 
-§7Find the hidden camp in the water near Piere's house.[-1822,49,-4903]@ 
-§7Return the Magic Axe to the Detective@ 
-§7Choose the right pathway@ 
-§7Speak to Piere in the Llevigar plains at[-1851,56,-4959]@ 
-§7Kill Orc Leader Gregg'r@ 
+§7Speak to Piere in the Llevigar plains at[-1851,56,-4959]@§7Поговори с Пьером на полях Ллевигарa [-1851,56,-4959]
+§7Report the attack to Detective Jackson [-1731,53,-4836]@§7Сообщи об атаке Детективу Джексону на [-1731,53,-4836]
+§7Find the hidden camp in the water near Piere's house.[-1822,49,-4903]@§7Найди скрытый подводный лагерь рядом с домом Пьера. [-1822,49,-4903]
+§7Hunt down the nearby orcs at the green, red, and black camps.@§7Убивай ближайших орков в зеленом, красном и черном лагерях. 
+§7Choose the right pathway@§7Выбери правильный путь 
+§7Kill Orc Leader Gregg'r@§7Убей Orc Leader Gregg'ра 
+§7You should return this axe to Detective Jackson.@§7Ты должен вернуть этот топор Детективу Джексону
+§7Return the Magic Axe to the Detective@§7Верни Магический Топор Детективу 
 ======
-§7Talk to Cinfras on the docks at Dead Island at [770,36,-3880]@ 
-§7Acquire [3 Umbral Essences] for Old Siwel@ 
-§7Locate the Crypt under the church at [901,35,-3846] and pass through a dead man's memory@ 
-§7Investigate Siwel at [-9334,56,-10488] on Alive Island@ 
-§7Confront the cave under the mansion at [-9332,57,-10589] and retrieve [5 Monster Hides] for Siwel from the monsters within@ 
-§7Return to Old Siwel in the dead Mansion at [836,52,-4010]@ 
-§7Talk to Cinfras on the docks at [770,36,-3880] about the mystery@ 
-§7Investigate Old Siwel in the dead Mansion at [836,52,-4010]@ 
+§7Talk to Cinfras on the docks at Dead Island at [770,36,-3880]@§7Поговори с Цинфрасом в доках Мертвого Острова на [770,36,-3880]
+§7Investigate Old Siwel in the dead Mansion at [836,52,-4010]@§7Поговори со Старым Сивелом в мертвом Особняке на [836,52,-4010]
+§7Acquire [3 Umbral Essences] for Old Siwel@§7Принеси 3 [Мрачные Эссенции] Старому Сивелу 
+§7Locate the Crypt under the church at [901,35,-3846] and pass through a dead man's memory@§7Найди склеп под церковью на [901,35,-3846] и пройди через память покойного 
+§7Investigate Siwel at [-9334,56,-10488] on Alive Island@§7Поговори с Сивелом на Живом Острове [-9334,56,-10488]
+§7Confront the cave under the mansion at [-9332,57,-10589] and retrieve [5 Monster Hides] for Siwel from the monsters within@§7Посети пещеру под поместьем на [-9332,57,-10589] и добудь [5 Шкур Монстров] для Сивела из монстров поблизости 
+§7Return to Old Siwel in the dead Mansion at [836,52,-4010]@§7Вернись к Старому Сивелу в мертвом Особняке на [836,52,-4010]
+§7Talk to Cinfras on the docks at [770,36,-3880] about the mystery@§7Поговори с Цинфрасом в доках на [770,36,-3880] насчет загадки 
 ======
-§7Find Zenam in his laboratory in Llevigar at [-1872,55,-4593]@ 
-§7Talk to the Head Engineer and find out how to enter the machine again.@ 
-§7Head up the stairs and find the reset button.@ 
-§7Enter the sewers opposite the bank of Llevigar@ 
-§7Find the head engineer at the Llevigar power plant@ 
-§7Try to find a way into the machine@ 
-§7Report back to the Head Engineer@ 
-§7Reach the center of the restricted area@ 
-§7Ask Zenam for your reward@ 
-§7Find a way to proceed to the inner parts of the machinery@ 
+§7Find Zenam in his laboratory in Llevigar at [-1872,55,-4593]@§7Найди Зенама в его лаборатории в Ллевигаре на [-1872,55,-4593]
+§7Enter the sewers opposite the bank of Llevigar@§7Войди в канализацию напротив банка Ллевигара 
+§7Find the head engineer at the Llevigar power plant@§7Найди Главного Инженера на Электростанции Ллевигарa 
+§7Find a way to proceed to the inner parts of the machinery@§7Найди путь чтобы попасть внутрь машинного отделения 
+§7Try to find a way into the machine@§7Найди путь внутрь машинного отделения 
+§7Reach the center of the restricted area@§7Пройди в центр запрещенной зоны 
+§7Talk to the Head Engineer and find out how to enter the machine again.@§7Поговори с Главным Инженером и найди способ попасть в машину снова 
+§7Head up the stairs and find the reset button.@§7Поднимись по лестнице и найди кнопку перезагрузки 
+§7Report back to the Head Engineer@§7Расскажи обо всем Главному Инженеру 
+§7Ask Zenam for your reward@§7Спроси Зенама о награде 
 =======
-§7Talk to Laloire at [-660,43,-5199]@ 
-§7Investigate the supernatural cave at [-739,43,-5271]@ 
-§7Return to Laloire and tell him about the eerie howl.@ 
-§7Talk to the Pastor Nitram about the problem at [-620,42,-5351]@ 
-§7Find a way to open the secret door inside the cemetery.@ 
-§7Recover the [Sound Proof Earmuff] and go into the banshee's cave while wearing it.@ 
-§7Chase down the banshee by following the source of the noise.@ 
-§7Exterminate the banshee and give Laloire a memento from the Banshee as proof.@ 
+§7Talk to Laloire at [-660,43,-5199]@§7Поговори с Лалоиром на [-660,43,-5199]
+§7Investigate the supernatural cave at [-739,43,-5271]@§7Посети сверхъестественную пещеру на [-739,43,-5271]
+§7Return to Laloire and tell him about the eerie howl.@§7Вернись к Лалоиру и расскажи ему о жутком вое.
+§7Talk to the Pastor Nitram about the problem at [-620,42,-5351]@§7Поговори с Пастором Нитрамом насчет проблемы на [-620,42,-5351]
+§7Find a way to open the secret door inside the cemetery.@§7Найди способ открыть секретную дверь внутри кладбища
+§7Recover the [Sound Proof Earmuff] and go into the banshee's cave while wearing it.@§7Добудь [Наушники] и иди в пещеру Банши, надев их
+§7Chase down the banshee by following the source of the noise.@§7Уничтожь Банши, следуя за источником звука.
+§7Exterminate the banshee and give Laloire a memento from the Banshee as proof.@§7Убей Банши и отдай Лалоиру сувенир в качестве доказательства
 =======
-§7Talk to Adigard on the Ice Islands at [806,59,-3353]@ 
-§7Find the ghost ship and bring back [Ancient Treasure] to Hallfred@ 
-§7Talk to Hallfred about the peace treaty@ 
-§7Talk back to Adigard about Hallfred's response@ 
+§7Talk to Adigard on the Ice Islands at [806,59,-3353]@§7Поговори с Адигардом на Ледяных Островах [806,59,-3353]
+§7Talk to Hallfred about the peace treaty@§7Поговори с Халлфредом насчет мирного соглашения 
+§7Talk back to Adigard about Hallfred's response@§7Снова поговори с Адигардом насчет предложения Халлфреда 
+§7Find the ghost ship and bring back [Ancient Treasure] to Hallfred@§7Найди призрачный корабль и принеси [Древнее Сокровище] Халфреду 
 =======
-§7Locate the medicine in the spider cave by climbing the tree behind Ope.@ 
-§7Talk to Ope at [-316,72,-1600].@ 
-§7Locate the plant and return to Ope.@ 
+§7Talk to Ope at [-316,72,-1600].@§7Поговори с Опе на [-316,72,-1600] 
+§7Locate the medicine in the spider cave by climbing the tree behind Ope.@§7Найди лекарство в паучей пещере, забравшись на дерево позади Опе. 
+§7Locate the plant and return to Ope.@§7Возьми растение и вернись к Опе 
 =========
-§7Talk to Worid in the jungle village at [-760,79,-666]@ 
-§7Talk to Detlas's Banker about the cure for Worid@ 
-§7Enter Detlas' Emerald Stash@ 
-§7Return to Worid@ 
-§7Infiltrate Almuj's Secret Emerald Labyrinth and find the Banker in the Emerald Room@ 
-§7Talk back to Worid@ 
+§7Talk to Worid in the jungle village at [-760,79,-666]@§7Поговори с Воридом в деревне джунглей на [-760,79,-666]
+§7Talk to Detlas's Banker about the cure for Worid@§7Поговори с Банкиром в Детласе насчет лекарства для Ворида
+§7Return to Worid@§7Вернись к Вориду
+§7Enter Detlas' Emerald Stash@§7Войди в Хранилище Эмеральдов Детласа 
+§7Infiltrate Almuj's Secret Emerald Labyrinth and find the Banker in the Emerald Room@§7Проникни в Секретный Эмеральдовый Лабиринт Алмужa и найди Алмуж Банкира в эмеральдовой комнате 
+§7Talk back to Worid@§7Поговори с Воридом 
 ========
 §7Walk down the path towards the Wynn Province@ 
 §7Enter the castle@ 
