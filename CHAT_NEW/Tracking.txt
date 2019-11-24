@@ -650,59 +650,58 @@
 §7Find a way out of the spooky sewer.@§7Найди выход из загадочной канализации
 §7Talk to Jenprest@§7Поговори с Дженпрест 
 ======
-§7Talk to Likeru in Efilim at [-1058,44,-5008]@ 
-§7Look for the caves to the northwest of Efilim@ 
-§7Try to find civilization within the strange forest@ 
-§7Enter the house by the giant frog in the village@ 
+§7Talk to Likeru in Efilim at [-1058,44,-5008]@§7Поговори с Ликеру в Эфилиме на [-1058,44,-5008]
+§7Look for the caves to the northwest of Efilim@§7Найди пещеру на северо-западе от Эфилима 
+§7Try to find civilization within the strange forest@§7Попробуй найти цивилизацию в странном лесу
+§7Enter the house by the giant frog in the village@§7Войди в дом гигантской лягушки в деревне 
 ======
-§7Talk to Enkser in Ternaves at [828,69,-1636]@ 
-§7Bring back [1 Stable Key] to Enkser from the tunnel at [836,69,-1649]@ 
+§7Talk to Enkser in Ternaves at [828,69,-1636]@§7Поговори с Энксером в Тернейвсе на [828,69,-1636]
+§7Bring back [1 Stable Key] to Enkser from the tunnel at [836,69,-1649]@§7Принеси Энксеру [1 Ключ от Конюшни] обратно из тоннеля на [836,69,-1649]
 ======
-§7Look into the rumors of strange weather near the Imal Inn at [-2018, 43, -4822].@ 
-§7Escape the collapsing cave.@ 
-§7Find the meteor's crash site at [-2122, 52, -4887].@ 
-§7Explore the cave for the star thief.@ 
-§7Defeat the insane thief and bring back the piece of meteor to the secret agents at [-2122, 52, -4887].@ 
-§7Explore the cave that the meteor crashed into.@ 
-§7Follow the trail leading off to the east from the cave.@ 
+§7Look into the rumors of strange weather near the Imal Inn at [-2018, 43, -4822].@§7Расследуй слухи о странной погоде рядом с гостиницей Imal Inn на [-2018, 43, -4822] 
+§7Find the meteor's crash site at [-2122, 52, -4887].@§7Найди место падения метеора [-2122, 52, -4887]
+§7Explore the cave that the meteor crashed into.@§7Исследуй пещеру в которую упал метеор 
+§7Escape the collapsing cave.@§7Выберись из разрушающейся пещеры 
+§7Follow the trail leading off to the east from the cave.@§7Иди по следу, ведущему на восток от пещеры
+§7Explore the cave for the star thief.@§7Исследуй пещеру и найди вора звезды 
+§7Defeat the insane thief and bring back the piece of meteor to the secret agents at [-2122, 52, -4887].@§7Победи обезумевшего вора и принеси кусок метеора секретному агенту на [-2122, 52, -4887].
 =====
-§7Something is going on at the big bridge near Time Valley. Go over there and see what's happening. [-258,80,-1046]@ 
-§7Head to Elkurn and see if any of the townsfolk know anything about Garoth's old study area.@ 
-§7Investigate the old underground area, under the church to the north at [-9,72,-1237]@ 
-§7Search around the south side of the Nether Portal for the old camp. The X on the map marked near [297,40,-1223]@ 
-§7The book shows a map of the Nether Portal and the surrounding area.  An ''x'' near the south marks a cave Garoth might have moved to.@ 
-§7Bring the acquired knowledge regarding the spell used for the sanctuary sealing back to the mages at the sanctuary.@ 
+§7Something is going on at the big bridge near Time Valley. Go over there and see what's happening. [-258,80,-1046]@§7Что-то происходит на большом мосту рядом с Долиной Времени. Иди туда и узнай что там. [-258,80,-1046]
+§7Head to Elkurn and see if any of the townsfolk know anything about Garoth's old study area.@§7Иди в Элкурн и узнай кто из жителей что-то знает о старом месте учебы Гарота 
+§7Investigate the old underground area, under the church to the north at [-9,72,-1237]@§7Посети старую подземную комнату под церковью на севере [-9,72,-1237]
+§7Search around the south side of the Nether Portal for the old camp. The X on the map marked near [297,40,-1223]@§7Обыщи южную сторону от Портала в Ад и найди старый лагерь. X на карте отмечен около [297,40,-1223]
+§7Bring the acquired knowledge regarding the spell used for the sanctuary sealing back to the mages at the sanctuary.@§7Принеси полученные знания о заклинании, используемое для запечатывания святилища, обратно к магам на мосту 
 =====
-§7Talk to Hazel in the Dark Forest [-1445,46,-5509]@ 
-§7Find The Witch In The Dark Forest [-1260,44,-5465]@ 
-§7Speak to Tiek@ 
-§7Press the button in Tiek's basement then follow the rainbow trail@ 
-§7Use The Potion on The Black Spot near Tieks home@ 
-§7Explore the Light Forest@ 
-§7Grab Tiek [1 Ginseng], [1 Lobelia], and [1 Vervain] from her garden@ 
-§7Return to Tiek with [1 Ginseng], [1 Lobelia], and [1 Vervain]@ 
-§7Return the dead plant to Tiek@ 
-§7Throw away the plant@ 
-§7Enter The Taproot@ 
+§7Talk to Hazel in the Dark Forest [-1445,46,-5509]@§7Поговори с Хазелом в Темном Лесу на [-1445,46,-5509]
+§7Find The Witch In The Dark Forest [-1260,44,-5465]@§7Найди Ведьму в Темном Лесу на [-1260,44,-5465]
+§7Grab Tiek [1 Ginseng], [1 Lobelia], and [1 Vervain] from her garden@§7Собери для Тик [1 Женьшень], [1 Лобелию], и [1 Вербену] из ее сада 
+§7Return to Tiek with [1 Ginseng], [1 Lobelia], and [1 Vervain]@§7Вернись к Тик с [1 Женьшенем], [1 Лобелией] и [1 Вербеной]
+§7Use The Potion on The Black Spot near Tieks home@§7Используй зелье на Черном Пятне рядом с домом Тик 
+§7Return the dead plant to Tiek@§7Отдай мертвый куст Тик
+§7Throw away the plant@§7Брось куст в воронку 
+§7Press the button in Tiek's basement then follow the rainbow trail@§7Нажми на кнопку в подвале Тик, и затем иди за радужным следом 
+§7Enter The Taproot@§7Войди в стержневой корень 
+§7Speak to Tiek@§7Поговори с Тик
+§7Explore the Light Forest@§7Исследуй Светлый Лес 
 ======
-§7Talk to Jorkin close to the Nether portal about lightdust@ 
-§7Find the lightdust cavern located around the Nether Portal@ 
-§7Retrieve [1 Light Dust] for Jorkin to look at@ 
-§7Visit Rayshyroth on the Mage Island to purify the dust@ 
-§7Show the [Purified Light Dust] to Kelight at the entrance of the Temple of the Legends@ 
-§7Bring the [Old Touroto Hide], [Aseado Leaf], [Maro's Eye Jewel], and [Coral of Nelfors] to Garull@ 
-§7Bring the [Helmet of the Legends] to Kelight at the entrance of the Temple of the Legends@ 
-§7Kill the Corrupter of Worlds and bring proof of its death to Kelight@ 
-§7Talk to Kelight at the entrance of the Temple of the Legends, close to Troms at [-693,68,-993]@ 
-§7Give [12 Sky Vapor] to Rayshyroth@ 
-§7Find Garull, the Creeper obsessed craftsman@ 
-§7Bring back [1 Yahya's Stained Bowl], [1 Maltic's Recommendation Letter] and [1 Corrupted Potato] to Kelight@ 
+§7Talk to Kelight at the entrance of the Temple of the Legends, close to Troms at [-693,68,-993]@§7Поговори с Келайгтом на входе в Храм Легенд, недалеко от Тромса [-693,68,-993]
+§7Bring back [1 Yahya's Stained Bowl], [1 Maltic's Recommendation Letter] and [1 Corrupted Potato] to Kelight@§7Принеси [1 Использованную Миску Яхуя], [1 Рекомендательное Письмо Малтикa], и [1 Испорченную Картошку] Келайгту 
+§7Talk to Jorkin close to the Nether portal about lightdust@§7Поговори с Джоркином рядом с порталом в ад насчет светопыли 
+§7Find the lightdust cavern located around the Nether Portal@§7Найди пещеру со светопылью рядом с порталом в Ад 
+§7Retrieve [1 Light Dust] for Jorkin to look at@§7Добудь [1 Светопыль] для Джоркина 
+§7Visit Rayshyroth on the Mage Island to purify the dust@§7Посети Рейзирота на Острове Магов чтобы очистить пыль 
+§7Give [12 Sky Vapor] to Rayshyroth@§7Принеси [12 Небесных Испарений] Рейзироту 
+§7Show the [Purified Light Dust] to Kelight at the entrance of the Temple of the Legends@§7Покажи [Очищенную Светопыль] Келайгту, что стоит на входе в Храм Легенд 
+§7Find Garull, the Creeper obsessed craftsman@§7Найди Гарулла - мастера, одержимого криперами 
+§7Bring the [Old Touroto Hide], [Aseado Leaf], [Maro's Eye Jewel], and [Coral of Nelfors] to Garull@§7Принеси [Старую Кожу Тоурото], [Лист Асеадо], [Драгоценный Глаз Маро] и [Коралл Нельфора] Гаруллу 
+§7Bring the [Helmet of the Legends] to Kelight at the entrance of the Temple of the Legends@§7Принеси [Шлем Легенд] Келайгту на входе в храм легенд
+§7Kill the Corrupter of Worlds and bring proof of its death to Kelight@§7Убей Разрушителя Миров и принеси доказательство его смерти Келайгту 
 =====
-§7Speak to King Burtan at [51,17,-5242]@ 
-§7Feed the Enchanted Flower to Ozoth at [175,199,-5188]@ 
-§7Bring the Enchanted Flower to Ozoth's stomach@ 
-§7Escape from the inside of Ozoth@ 
-§7Return to King Burtan to tell him of your success@ 
+§7Speak to King Burtan at [51,17,-5242]@§7Поговори с Королем Буртаном на [51,17,-5242]
+§7Feed the Enchanted Flower to Ozoth at [175,199,-5188]@§7Скорми Зачарованный Цветок Озот на [175,199,-5188]
+§7Bring the Enchanted Flower to Ozoth's stomach@§7Принеси Зачарованный Цветок в желудок Озот
+§7Escape from the inside of Ozoth@§7Выберись изнутри Озот
+§7Return to King Burtan to tell him of your success@§7Вернись к Королю Буртану и расскажи ему об успехе 
 =====
 §7Get to the blue mushroom and return to normal size.@ 
 §7Talk to Psilo in the mushroom cave at [-205,42,-4308]@ 
@@ -983,6 +982,8 @@
 §7Find you way into the vault.@ 
 §7Exit the house@ 
 
+
+§7The book shows a map of the Nether Portal and the surrounding area.  An ''x'' near the south marks a cave Garoth might have moved to.@§7Книга показывает карту портала в ад и ближайшей территории. Знак "X" на юге обозначает пещеру, в которую мог переместиться Гарот
 
 
 §7Bring [15 Snow Clumps] to the Slaying Post [Combat Lv. 40] at [82,69,-725]@ 
