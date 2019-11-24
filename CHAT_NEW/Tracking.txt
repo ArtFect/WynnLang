@@ -453,54 +453,51 @@
 §7Infiltrate Almuj's Secret Emerald Labyrinth and find the Banker in the Emerald Room@§7Проникни в Секретный Эмеральдовый Лабиринт Алмужa и найди Алмуж Банкира в эмеральдовой комнате 
 §7Talk back to Worid@§7Поговори с Воридом 
 ========
-§7Walk down the path towards the Wynn Province@ 
-§7Enter the castle@ 
-§7Exit the caravan@ 
-§7Talk to the old man@ 
-§7Process your logs into [2 Wood] and bring them to Aledar@ 
-§7Harvest [2 Wheat] and bring it to the Old Man@ 
-§7Process your logs into [2 Wood] and bring them to Aledar@ 
-§7Craft your weapon and show it to Aledar@ 
-§7Continue through the cave@ 
-§7Search for another way across the ravine@ 
-§7Show your weapon to the guard and enter the cave@ 
-§7Investigate the broken bridge@ 
+§7Exit the caravan@§7Покинь караван 
+§7Walk down the path towards the Wynn Province@§7Пройди по дороге в сторону провинции Винн 
+§7Talk to the old man@§7Поговори со стариком 
+§7Investigate the broken bridge@§7Осмотри разрушенный мост 
+§7Search for another way across the ravine@§7Найди способ перебраться на ту сторону 
+§7Craft your weapon and show it to Aledar@§7Скрафти себе оружие и покажи его Аледару
+§7Show your weapon to the guard and enter the cave@§7Покажи свое оружие охраннику и пройди в пещеру 
+§7Continue through the cave@§7Продвигайся через пещеру 
+§7Enter the castle@§7Войди в замок 
 ========
-§7Meet with Geo & Tarek at the exit.@ 
-§7Find out what's going on at the Sand Swept Tomb@ 
-§7Attempt to enter the outlaw's hideout at [1314, 90, -1660]@ 
-§7Sneak into the highest room of the Rymek Mansion at [1180, 31, -1300]@ 
-§7Search the broken cart at [1183, 76, -1857]@ 
-§7Get the sceptre from the abandoned house at [1220, 77, -1873]@ 
-§7Return to the tomb and hand the sceptre to Lanu.@ 
-§7Talk to the Vault Guard to enter the hideout@ 
-§7Look for the sceptre within the bandit hideout@ 
+§7Find out what's going on at the Sand Swept Tomb@§7Узнай, что происходит возле данжа Песчаная Гробница
+§7Attempt to enter the outlaw's hideout at [1314, 90, -1660]@§7Попытайся войти в убежище преступников на [1314, 90, -1660] 
+§7Meet with Geo & Tarek at the exit.@§7Встреться с Гео и Тарэком на выходе 
+§7Sneak into the highest room of the Rymek Mansion at [1180, 31, -1300]@§7Проникни в комнату поместья в Римеке на последнем этаже [1180, 31, -1300]
+§7Talk to the Vault Guard to enter the hideout@§7Поговори со Стражем Хранилища чтобы попасть внутрь 
+§7Look for the sceptre within the bandit hideout@§7Поищи скипетр в убежище бандитов 
+§7Search the broken cart at [1183, 76, -1857]@§7Найди сломанную повозку на [1183, 76, -1857]
+§7Get the sceptre from the abandoned house at [1220, 77, -1873]@§7Достань скипетр из разрушенного дома на [1220, 77, -1873]
+§7Return to the tomb and hand the sceptre to Lanu.@§7Вернись к гробнице и передай скипетр Лану
 =======
-§7Take a look at the graveyard at [-998,48,-5340]@ 
-§7Go to the location shown on the gravestone@ 
-§7Find a way into the basement@ 
-§7Find the "Wandering Man"@ 
-§7Return to Vesdar with [16 Rotten Skin]@ 
-§7Find and enter the Lazarus Pit at [-953,81,-5465]@ 
-§7Explore the Pit@ 
-§7Inspect the house nearby@ 
-§7Talk to Sesad@ 
-§7Return to Burtur with [Healing Water]@ 
+§7Take a look at the graveyard at [-998,48,-5340]@§7Посмотри на могилу на [-998,48,-5340]
+§7Go to the location shown on the gravestone@§7Иди по координатам указанным на надгробной плите
+§7Find a way into the basement@§7Найди способ попасть в подвал
+§7Find the "Wandering Man"@§7Найди "блуждающего человека" 
+§7Return to Vesdar with [16 Rotten Skin]@§7Вернись к Весдару с [16 Гнилой Кожи] 
+§7Find and enter the Lazarus Pit at [-953,81,-5465]@§7Найди и войди в Лазарус яму на [-953,81,-5465]
+§7Explore the Pit@§7Исследуй яму 
+§7Inspect the house nearby@§7Посети ближайший дом 
+§7Talk to Sesad@§7Поговори с Сесадом 
+§7Return to Burtur with [Healing Water]@§7Вернись к Буртуру с [Целебной Водой] 
 =========
-§7Speak to Gracen at [-738,80,-655]@ 
-§7Search the Dernel Jungle for Aryn@ 
-§7Bring the Mysterious Gemstone to Gracen@ 
-§7Defeat the spirit possessing Aryn@ 
+§7Speak to Gracen at [-738,80,-655]@§7Поговори с Граценом на [-738,80,-655]
+§7Search the Dernel Jungle for Aryn@§7Отыщи в Дернел джунглях Арина 
+§7Defeat the spirit possessing Aryn@§7Победи одержимого духом Арина
+§7Bring the Mysterious Gemstone to Gracen@§7Принеси загадочный драгоценный камень Грацену
 =======
-§7Talk to Yavlis in Troms at [-848,85,-875]@ 
-§7Talk to the mercenary leader in their hideout outside Troms@ 
-§7Go to the jungle temple and retrieve the talisman at [-489,78,-889]@ 
-§7Bring the talisman back to the mercenary leader@ 
-§7Report back to Yavlis with the news@ 
-§7Talk to the king's son in the jail cell@ 
+§7Talk to Yavlis in Troms at [-848,85,-875]@§7Поговори с Явлисом в Тромсе 
+§7Talk to the mercenary leader in their hideout outside Troms@§7Поговори с лидером наемников в их убежище, снаружи Тромса 
+§7Go to the jungle temple and retrieve the talisman at [-489,78,-889]@§7Иди в храм в джунглях и добудь талисман на [-489,78,-889]
+§7Bring the talisman back to the mercenary leader@§7Принеси талисман обратно лидеру наемников 
+§7Talk to the king's son in the jail cell@§7Поговори с сыном короля в тюремной клетке
+§7Report back to Yavlis with the news@§7Вернись к Явлису с новостями 
 =======
-§7Talk to Ferndor at [-915,33,-750]@ 
-§7Visit the mansion dining room and ask Grandon about the book@ 
+§7Talk to Ferndor at [-915,33,-750]@§7Поговори с Ферндором на [-915,33,-750]
+§7Visit the mansion dining room and ask Grandon about the book@§7Посети столовую в поместье и расспроси Грандона по поводу книги 
 §7"The face above the hall owns the nose that needs to be heavier to open the way"@ 
 §7Talk to Grandon and tell him about your findings@ 
 §7"The carpet of different colour will show you the stone to reveal the tables secret"@ 
