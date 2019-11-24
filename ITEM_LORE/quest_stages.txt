@@ -2022,9 +2022,10 @@ QUESTS/The_Hunger_of_Gerts_Part_I.txt =====
 §7Escape the Gerten prison @§7Сбеги из тюрьмы Гертов
 §7Head to the cell at @§7Подойди к клетке на 
 §7[-808,47,-8217]@ 
+§7and investigate @§7и исследуй 
 §7Kill the Hungry Gert and @§7Убей голодного Герта и 
 §7return to Comor with the @§7вернись к Комору с 
-§7and investigate @§7и исследуй 
+§7[Cell Key] @§7[Ключом от клетки]
 §7Leave the Gerten prison and @§7Покинь тюрьму Гертов 
 §7return to Cikal to tell @§7и вернись к Цикалу 
 §7him about the tunnels @§7с рассказом о тоннелях
