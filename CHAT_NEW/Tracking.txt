@@ -749,57 +749,55 @@
 §7Meet the grandmaster behind her house and get over the gap and enter the temple.@§7Встреться с магистром позади дома, чтобы пройти через каньон и попасть в храм 
 §7Find the key inside the temple.@§7Найди ключ внутри храма
 §7Return to Maxie in his house with the first key.@§7Вернись к Макси в его доме с первым ключем 
-§7Find the vault in Corkus City at [-1498,69,-2910].@ 
-§7Retrieve the key from the base.@ 
-§7Find Maxie at [-1396,66,-2400] and give him the key.@ 
-§7Find Maxie outside the Factory at [-1707,75,-2610].@ 
- 
-
-§7Look for the hidden mech base.@ 
+§7Find the vault in Corkus City at [-1498,69,-2910].@§7Найди хранилище в Коркус Сити на [-1498,69,-2910].
+§7Look for the hidden mech base.@§7Отыщи тайных роботов на базе
+§7Retrieve the key from the base.@§7Забери ключ у роботов на базе
+§7Find Maxie at [-1396,66,-2400] and give him the key.@§7Найди Макси на [-1396,66,-2400] и отдай ему ключ.
+§7Find Maxie outside the Factory at [-1707,75,-2610].@§7Найди Макси снаружи фабрики на [-1707,75,-2610].
 =====
-§7Talk to Referick in the dark forest at [-1081,48,-5368]@ 
-§7Search for any potential source of problems with Referick@ 
-§7Search the Dullahan's old mansion for the story of the Dullahan@ 
-§7Destroy the Lost Spirits to free them@ 
-§7Return the Lost Soul of Referick to its owner@ 
-§7Show Referick proof that you have freed the spirits of the Dullahan's victims@ 
-§7Go to the Dullahan's old mansion at [-816, 45, -5147]@ 
-§7Go underneath the Dullahan's mansion to investigate the blood altar@ 
-§7Investigate the strange cave under the castle further@ 
+§7Talk to Referick in the dark forest at [-1081,48,-5368]@§7Поговори с Рефериком в Темном Лесу на [-1081,48,-5368]
+§7Investigate the strange cave under the castle further@§7Посети странную пещеру под замком неподалеку 
+§7Return the Lost Soul of Referick to its owner@§7Верни пропавшую душу Реферика ее владельцу
+§7Search for any potential source of problems with Referick@§7Отыщи потенциальный источник проблем с Рефериком 
+§7Go to the Dullahan's old mansion at [-816, 45, -5147]@§7Иди в старое поместье Дуллахана на [-816, 45, -5147] 
+§7Search the Dullahan's old mansion for the story of the Dullahan@§7Обыщи старое поместье Дуллахана и найди историю Дуллахана 
+§7Go underneath the Dullahan's mansion to investigate the blood altar@§7Иди под поместье Дуллахана и исследуй кровавый алтарь
+§7Destroy the Lost Spirits to free them@§7Уничтожь Lost Spirits чтобы освободить всех
+§7Show Referick proof that you have freed the spirits of the Dullahan's victims@§7Покажи Реферику доказательства, что ты освободил души жертв Дуллахана 
 ======
-§7Talk to Narder at the Thesead Coal Mines at [661,78,-5070]@ 
-§7Head to [890,47,-5388] to find the human town@ 
-§7Lead the Curious Villager back to his camp@ 
-§7Talk to Eltom Guard@ 
-§7Talk to Mayor Eoric in the town hall at [932,119,-5516]@ 
-§7Ask Eltom Citizens about the note@ 
-§7Inspect anything beyond the Eastern Exit at [1020,112,-5534]@ 
-§7Inspect the cave above at [1084,133,-5606]@ 
-§7Inspect the house@ 
-§7Head to Eltom's Airbase at [968,152,-5463]@ 
-§7Head up the Airbase's Tower to confront the hooded man@ 
-§7Board the Eltom Cargo Ship@ 
-§7Escape your cell and find a way to sabotage the ship@ 
-§7Talk to Thesead's Mayor at [832,113,-4994] at the top of Thesead@ 
+§7Talk to Narder at the Thesead Coal Mines at [661,78,-5070]@§7Поговори с Нардером возле угольной шахты Тесеадa на [661,78,-5070]
+§7Head to [890,47,-5388] to find the human town@§7Отправляйся на [890,47,-5388] и найди город людей
+§7Lead the Curious Villager back to his camp@§7Отведи любопытного жителя обратно в его лагерь
+§7Talk to Eltom Guard@§7Поговори с Элтом Стражем 
+§7Talk to Mayor Eoric in the town hall at [932,119,-5516]@§7Поговори с Мэром Эориком в ратуше на [932,119,-5516]
+§7Ask Eltom Citizens about the note@§7Расспроси жителей Элтома насчет записки 
+§7Inspect anything beyond the Eastern Exit at [1020,112,-5534]@§7Осмотри все, что находится за восточным выходом [1020,112,-5534]
+§7Inspect the cave above at [1084,133,-5606]@§7Посети пещеру выше на [1084,133,-5606]
+§7Inspect the house@§7Посети дом 
+§7Head to Eltom's Airbase at [968,152,-5463]@§7Отправься на авиабазу Элтома [968,152,-5463]
+§7Head up the Airbase's Tower to confront the hooded man@§7Поднимись на башню авиабазы и сразись с человеком в капюшоне 
+§7Board the Eltom Cargo Ship@§7Зайди на борт торгового корабля Элтома 
+§7Escape your cell and find a way to sabotage the ship@§7Сбеги из клетки и найди способ остановить дирижабль
+§7Talk to Thesead's Mayor at [832,113,-4994] at the top of Thesead@§7Поговори с Мэром Тесеада [832,113,-4994] в башне Тесеада 
 ======
-§7Bring [1 Twain Journal] to Twendle@ 
-§7Talk to Twendle at the House of Twain at [12,76,-456]@ 
+§7Talk to Twendle at the House of Twain at [12,76,-456]@§7Поговори с Твендлом у Поместья Твейнов на [12,76,-456]
+§7Bring [1 Twain Journal] to Twendle@§7Принеси [1 Журнал Твейна] к Твендлу
 =======
-§7Talk to Cikal at [-35,68,-5413]@ 
-§7Enter the dark cave in the back of the camp@ 
-§7Look around the farms near the lake Gylia@ 
-§7Inspect the Gerten forwarding camp nearby@ 
-§7Tell farmer Jitak about the tunnel@ 
-§7Bring Jitak [6 Gert Skin]@ 
-§7Go to the Gerten Camp at [18,34,-5343]@ 
-§7Find the password and return to the Gerten Captain@ 
-§7Escape your cell@ 
-§7Head to the cell at [-808,47,-8217] and investigate@ 
-§7Escape the Gerten prison@ 
-§7Leave the Gerten prison and return to Cikal to tell him about the tunnels@ 
+§7Talk to Cikal at [-35,68,-5413]@§7Поговори с Цикалом на [-35,68,-5413]
+§7Look around the farms near the lake Gylia@§7Осмотри фермы около озера Гилия
+§7Inspect the Gerten forwarding camp nearby@§7Посети небольшой лагерь Гертов поблизости
+§7Enter the dark cave in the back of the camp@§7Зайди в темную пещеру в конце лагеря
+§7Tell farmer Jitak about the tunnel@§7Расскажи фермеру Житаку насчет тоннеля
+§7Bring Jitak [6 Gert Skin]@§7Принеси Житаку 6 [Gert Skin]
+§7Go to the Gerten Camp at [18,34,-5343]@§7Иди в лагерь Гертов на [18,34,-5343]
+§7Find the password and return to the Gerten Captain@§7Найди пароль и вернись к Капитану Гертов
+§7Escape your cell@§7Сбеги из клетки
+§7Escape the Gerten prison@§7Сбеги из тюрьмы Гертов
+§7Head to the cell at [-808,47,-8217] and investigate@§7Подойди к клетке на [-808,47,-8217] и исследуй
+§7Leave the Gerten prison and return to Cikal to tell him about the tunnels@§7Покинь тюрьму Гертов и вернись к Цикалу с рассказом о тоннелях
 ========
-§7Talk to Gerten Chief Lobo at [-141,82,-5607]@ 
-§7Head to Jitaks house at [-169,32,-5470]@ 
+§7Talk to Gerten Chief Lobo at [-141,82,-5607]@§7Поговори с Герт Шеф Лобо на [-141,82,-5607]
+§7Head to Jitaks house at [-169,32,-5470]@§7Отправляйся к дому Житака на [-169,32,-5470]
 §7Find another way into Jitaks house by looking around@ 
 §7Enter Jitaks basement using the hole Gerten Excavator has dug@ 
 §7Talk to Captured Gert@ 
