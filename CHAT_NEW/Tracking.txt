@@ -787,67 +787,67 @@
 §7Look around the farms near the lake Gylia@§7Осмотри фермы около озера Гилия
 §7Inspect the Gerten forwarding camp nearby@§7Посети небольшой лагерь Гертов поблизости
 §7Enter the dark cave in the back of the camp@§7Зайди в темную пещеру в конце лагеря
+§7Explore the Gerten cave@§7Исследуй пещеру Гертов
+§7Spy on the Gerten meeting@§7Подслушай встречу Гертов
 §7Tell farmer Jitak about the tunnel@§7Расскажи фермеру Житаку насчет тоннеля
 §7Bring Jitak [6 Gert Skin]@§7Принеси Житаку 6 [Gert Skin]
 §7Go to the Gerten Camp at [18,34,-5343]@§7Иди в лагерь Гертов на [18,34,-5343]
+§7Talk to the Gerten Captain at [31,34,-5339]@§7Поговори с Герт Капитаном на [31,34,-5339]
 §7Find the password and return to the Gerten Captain@§7Найди пароль и вернись к Капитану Гертов
+§7Inspect the tunnel at [27,31,-5336]@§7Исследуй тоннель на [27,31,-5336]
 §7Escape your cell@§7Сбеги из клетки
 §7Escape the Gerten prison@§7Сбеги из тюрьмы Гертов
 §7Head to the cell at [-808,47,-8217] and investigate@§7Подойди к клетке на [-808,47,-8217] и исследуй
+§7Kill the Hungry Gert and return to Comor with the [Cell Key]@§7Убей голодного Герта и вернись к Комору с [Ключом от клетки]
 §7Leave the Gerten prison and return to Cikal to tell him about the tunnels@§7Покинь тюрьму Гертов и вернись к Цикалу с рассказом о тоннелях
 ========
 §7Talk to Gerten Chief Lobo at [-141,82,-5607]@§7Поговори с Герт Шеф Лобо на [-141,82,-5607]
 §7Head to Jitaks house at [-169,32,-5470]@§7Отправляйся к дому Житака на [-169,32,-5470]
-§7Find another way into Jitaks house by looking around@ 
-§7Enter Jitaks basement using the hole Gerten Excavator has dug@ 
-§7Talk to Captured Gert@ 
-§7Explore the Gerten cave@ 
-§7Spy on the Gerten meeting@ 
-§7Talk to the Gerten Captain at [31,34,-5339]@ 
-§7Inspect the tunnel at [27,31,-5336]@ 
-§7Kill the Hungry Gert and return to Comor with the [Cell Key]@ 
-§7Talk to Gerten Excavator at [-181,22,-5472]@ 
-§7Find a way in to the battery farm from Jitaks basement@ 
-§7Find a way out of the first room of the battery farm@ 
-§7Find a way out of the second room of the battery farm@ 
-§7Turn off the power at [-1011,18,-7870]@ 
-§7Leave the third room of the battery farm@ 
-§7Talk to Gerten Chief Lobo with [1 High Quality Meat Crate]@ 
+§7Find another way into Jitaks house by looking around@§7Найди другой путь в дом Житака, посмотрев вокруг
+§7Talk to Gerten Excavator at [-181,22,-5472]@§7Поговори с Герт Раскопщиком на [-181,22,-5472]
+§7Enter Jitaks basement using the hole Gerten Excavator has dug@§7Войди в подвал дома Житака используя дыру Герт Раскопщика 
+§7Find a way in to the battery farm from Jitaks basement@§7Найди путь на птицефабрику из подвала Житака 
+§7Find a way out of the first room of the battery farm@§7Найди выход из первой комнаты птицефабрики 
+§7Talk to Captured Gert@§7Поговори с Заключенным Гертом
+§7Turn off the power at [-1011,18,-7870]@§7Отключи энергию на [-1011,18,-7870]
+§7Find a way out of the second room of the battery farm@§7Найди выход из второй комнаты птицефабрики 
+§7Leave the third room of the battery farm@§7Найди путь из третьей комнаты птицефабрики 
+§7Talk to Gerten Chief Lobo with [1 High Quality Meat Crate]@§7Поговори с Герт Шеф Лобо с [1 Контейнером Мяса Высокого Качества]
 ========
-§7Find Dejol at [452,28,-4456]@ 
-§7Find the remaining 5 members of Dejol's crew@ 
-§7Find the remaining 4 members of Dejol's crew@ 
-§7Find the remaining 3 members of Dejol's crew@ 
-§7Return to Dejol to tell him of your success@ 
+§7Find Dejol at [452,28,-4456]@§7Найди Дежола на [452,28,-4456]
+§7Find the remaining 5 members of Dejol's crew@§7Найди оставшихся 5 участников команды Дежола 
+§7Find the remaining 4 members of Dejol's crew@§7Найди оставшихся 4 участников команды Дежола 
+§7Find the remaining 3 members of Dejol's crew@§7Найди оставшихся 3 участников команды Дежола 
+§7Return to Dejol to tell him of your success@§7Вернись к Дежолу, и расскажи что все прошло успешно 
 ========
-§7Visit Sherk at [-2172,54,-5118]@ 
-§7Find the corpse of the warlock in the Olux catacombs@ 
-§7Retrieve the Black Veil and return to the tower at [-1949,63,-5347]@ 
-§7Bring back the [Cursed Maiden Essence] to Sherk at [-2172,54,-5118]@ 
-§7Find the tower and ask nearby villagers for help [-1955,63,-5351]@ 
+§7Visit Sherk at [-2172,54,-5118]@§7Посети Шерка на [-2172,54,-5118]
+§7Find the tower and ask nearby villagers for help [-1955,63,-5351]@§7Найди башню и попроси ближайших жителей о помощи [-1955,63,-5351]
+§7Find the corpse of the warlock in the Olux catacombs@§7Найди труп колдуна в катакомбах Олукса 
+§7Retrieve the Black Veil and return to the tower at [-1949,63,-5347]@§7Отыщи Черную Вуаль и вернись к башне на [-1949,63,-5347]
+§7Bring back the [Cursed Maiden Essence] to Sherk at [-2172,54,-5118]@§7Принеси [Проклятую Девичью Эссенцию] к Шерку на [-2172,54,-5118]
 =======
-§7Talk to Mylo in Nemract at [184,54,-2141]@ 
-§7Talk to Amerigo in Almuj at [978,83,-1973]@ 
-§7Sneak into the Barracks at [1349,77,-2283] and assassinate Takan@ 
-§7Bring Takan's Badge back to Amerigo at [978,83,-1973]@ 
+§7Talk to Mylo in Nemract at [184,54,-2141]@§7Поговори с Майло в Немракте на [184,54,-2141]
+§7Talk to Amerigo in Almuj at [978,83,-1973]@§7Поговори с Америго в Алмуже [978,83,-1973]
+§7Sneak into the Barracks at [1349,77,-2283] and assassinate Takan@§7Проникни в барраки на [1349,77,-2283] и скрытно убей Таканa 
+§7Bring Takan's Badge back to Amerigo at [978,83,-1973]@§7Принеси Значок Таканa к Америго на [978,83,-1973]
 =======
-§7Talk to Wirt in Troms at [-820,94,-1040]@ 
-§7Find Ildan in Troms at [-870,94,-1034] and ask to be a member of the town@ 
-§7Search for clues near [-712,57,-658] and bring back [1 Antic Bead] to Ildan.@ 
+§7Talk to Wirt in Troms at [-820,94,-1040]@§7Поговори с Виртом в Тромсе на [-820,94,-1040]
+§7Find Ildan in Troms at [-870,94,-1034] and ask to be a member of the town@§7Найди Илдана в Тромсе [-870,94,-1034] и попроси разрешения стать жителем города 
+§7Search for clues near [-712,57,-658] and bring back [1 Antic Bead] to Ildan.@§7Отыщи подсказки возле [-712,57,-658] и принеси [1 Древние Бусы] Илдану.
 =======
-§7Talk to Yansur at [372,66,-5501] and begin the Hive Challenge@ 
-§7Prepare to enter the Thunder division@ 
+§7Talk to Yansur at [372,66,-5501] and begin the Hive Challenge@§7Поговори с Янсуром на [372,66,-5501] и начни Челлендж Улья
+§7Prepare to enter the Thunder division@§7Подготовься к прохождению Дивизии Грома 
 =======
-§7Investigate the cave@ 
-§7Speak to Heliorion at [-1068,50,-7001]@ 
-§7Bring [7 Light Residue] and [3 Illuminated Mushrooms] to Heliorion@ 
-§7Bring [10 Glowing Powder] to Heliorion@ 
-§7Follow the trails to the seeds of corruption and destroy them, then report back to Heliorion at [-1068,50,-7001]@ 
-§7Speak to Gaclux in front of the rune at [-366,59,-6733]@ 
-§7Speak to Aluxander in the Realm of Light at [-1164,57,-6759] (Requires completion of Finding the Light)@ 
+§7Speak to Aluxander in the Realm of Light at [-1164,57,-6759] (Requires completion of Finding the Light)@§7Поговори с Алуксандером в Царстве Света на [-1164,57,-6759] (Необходимо пройти квест Finding of Light) 
+§7Investigate the cave@§7Посети пещеру
+§7Speak to Heliorion at [-1068,50,-7001]@§7Поговори с Хелиорионом [-1068,50,-7001]
+§7Bring [7 Light Residue] and [3 Illuminated Mushrooms] to Heliorion@§7Принеси [7 Остатков света] и [3 Освещенных Гриба] к Хелиориону
+§7Bring [10 Glowing Powder] to Heliorion@§7Принеси [10 Сияющего Порошка] Хелиориону
+§7Follow the trails to the seeds of corruption and destroy them, then report back to Heliorion at [-1068,50,-7001]@§7Следуй по пути к семенам и уничтожь их, затем сообщи об этом Хелиориону
+§7Speak to Gaclux in front of the rune at [-366,59,-6733]@§7Поговори с Гаклуксом перед руной на [-366,59,-6733]
 ======
-§7Talk to Dereg in his house at [-1483,47,-5218]@ 
-§7Search for evidence that the beast exists by following the blood on the ground@ 
+§7Talk to Dereg in his house at [-1483,47,-5218]@§7Поговори с Дереком в его доме на [-1483,47,-5218]
+§7Search for evidence that the beast exists by following the blood on the ground@§7Отыщи доказательства существования зверя, идя по следу крови на земле 
 §7Bring back the three escaped cows near the two bridges and in the cave under the farm to Tolem@ 
 §7Follow the footprints to find another victim of the beast@ 
 §7Go to Olux, buy [32 Cobblestone] and bring it back to Kroac@ 
