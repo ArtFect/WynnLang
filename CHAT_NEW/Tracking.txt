@@ -548,59 +548,57 @@
 §7Return the spoon to the Kitchen@§7Верни ложку на кухню 
 §7Enter the Kitchen@§7Войди на кухню 
 §7Exit the Kitchen@§7Покинь кухню
-§7Speak to the people who haven't fled from the disaster@§7
-§7Unlock the Study@§7
-§7Enter the Study@§7
-§7Leave the Study@ 
-§7Bring the key to Timmy's bedroom@ 
-§7Bring the key to the Master Bedroom@ 
-§7Navigate the Caritat's basement@ 
-§7Escape through the mysterious rift@ 
-
-§7Enter the Master Bedroom@ 
-
+§7Speak to the people who haven't fled from the disaster@§7Поговори с людьми, кто не сбежал от бедствия
+§7Unlock the Study@§7Открой кабинет 
+§7Enter the Study@§7Войди в кабинет 
+§7Leave the Study@§7Покинь кабинет
+§7Bring the key to the Master Bedroom@§7Принеси ключ к главной спальне 
+§7Enter the Master Bedroom@§7Войди в главную спальню
+§7Bring the key to Timmy's bedroom@§7Принеси ключ к спальне Тимми
+§7Navigate the Caritat's basement@§7Пройдись по подвалу Каритатов 
+§7Escape through the mysterious rift@§7Сбеги через загадочную расщелину 
 =====
-§7Go for a drink at the Corkus Docks Inn, [-1414, 46, -2921]@ 
-§7Talk to citizens around the docks to find out more about what happened.@ 
-§7Follow the trail of blood close to the castle, [-5870, 19, -2459]@ 
+§7Go for a drink at the Corkus Docks Inn, [-1414, 46, -2921]@§7Пойди выпить в Доки Коркусa на [-1414, 46, -2921]
+§7Talk to citizens around the docks to find out more about what happened.@§7Поговори с другими жителями в доках и узнай больше о том, что произошло 
+§7Follow the trail of blood close to the castle, [-5870, 19, -2459]@§7Иди по следу крови, рядом с замком [-5870, 19, -2459]
 =====
-§7Talk to Captain Lorias in Cinfras suburbs at [-592,45,-4972]@ 
-§7Return to the victim's house to find a bat symbol@ 
-§7Find the gamblers in the Cinfras sewers@ 
-§7Confront Rohem about the murder at house #09 in Cinfras@ 
-§7Acquire the murder weapon at Rohem's room, and talk to Captain Lorias to claim your reward@ 
-§7Investigate the crime scene for clues@ 
+§7Talk to Captain Lorias in Cinfras suburbs at [-592,45,-4972]@§7Поговори с Капитаном Лориасом в окрестностях Цинфраса на [-592,45,-4972]
+§7Investigate the crime scene for clues@§7Посети место преступления и найди улики
+§7Return to the victim's house to find a bat symbol@§7Вернись на место преступления и найди символ мыши
+§7Find the gamblers in the Cinfras sewers@§7Найди игроков в канализации Цинфраса
+§7Confront Rohem about the murder at house #09 in Cinfras@§7Допроси Рохема насчет убийства в доме #09 в Цинфрасе
+§7Acquire the murder weapon at Rohem's room, and talk to Captain Lorias to claim your reward@§7Добудь орудие убийства в комнате Рохема, и поговори с Капитаном Лориасом, чтобы получить награду
 =====
-§7Talk to Yahya "The Mushroom Man" in Nivla's Forest at [-277,69,-1681]@ 
-§7Bring back [1 Bowl] to Yahya@ 
-§7Bring back [1 Red Mushrooms] and [1 Brown Mushrooms] to Yahya@ 
-§7Bring back [3 Brown Mushrooms] and [3 Red Mushrooms]to Yahya@ 
+§7Talk to Yahya "The Mushroom Man" in Nivla's Forest at [-277,69,-1681]@§7Поговори с Яхуя "Грибной Человек" в Нивла Лесу на [-277,69,-1681]
+§7Bring back [1 Red Mushrooms] and [1 Brown Mushrooms] to Yahya@§7Принеси [1 Red Mushroom] и [1 Brown Mushroom] для Яхуи
+§7Bring back [3 Brown Mushrooms] and [3 Red Mushrooms]to Yahya@§7Принеси [3 Brown Mushroom] и [3 Red Mushroom] к Яхуя 
+§7Bring back [1 Bowl] to Yahya@§7Принеси [1 Миску] для Яхуи
 ======
-§7Read the Help Wanted sign in Ahmsord at [1108,107,-4555]@ 
-§7Talk to The Secretary at [1121,101,-4525]@ 
-§7Talk to the captain outside of the submarine.@ 
+§7Read the Help Wanted sign in Ahmsord at [1108,107,-4555]@§7Прочитай "Требуется Помощь" доску в Амсорде на [1108,107,-4555]
+§7Talk to The Secretary at [1121,101,-4525]@§7Поговори с Секретарем на [1121,101,-4525]
+§7Talk to the captain outside of the submarine.@§7Поговори с капитаном снаружи субмарины
 ======
-§7Find the hidden door next to the Undergrowth Ruins outside Troms@ 
-§7Speak with the Troms children at [-860,93,-961] inside the treehouse@ 
-§7Find a way inside the house at [-705,58,-817]@ 
-§7Find a way to destroy the plant monster, then return to the group in Troms at [-860,93,-961] to report your findings@ 
-§7Build a machine to hit your head and get back to normal@ 
+§7Speak with the Troms children at [-860,93,-961] inside the treehouse@§7Поговори с детьми в Тромсе [-860,93,-961] внутри дома на дереве 
+§7Find the hidden door next to the Undergrowth Ruins outside Troms@§7Найди потайную дверь рядом с Заросшие Руины данжем снаружи Тромса 
+§7Find a way inside the house at [-705,58,-817]@§7Найди путь внутрь дома на [-705,58,-817]
+§7Build a machine to hit your head and get back to normal@§7Построй машину, чтобы получить удар по голове и вернуться в себя 
+§7Find a way to destroy the plant monster, then return to the group in Troms at [-860,93,-961] to report your findings@§7Найди способ уничтожить растение-монстр, затем вернись к детям в Тромсе [-860,93,-961] и сообщи о находках 
 ======
-§7Talk to Damiral, outside Llevigar at [-1937, 38, -4260]@ 
-§7Clue II: In a place of identity, above the leaves and between the glass@ 
-§7Clue I: Toward the sunset, among northern flowers shaded by quartz@ 
-§7Clue III: In an emerald fountain, surrounded by the wealth of the villagers@ 
+§7Talk to Damiral, outside Llevigar at [-1937, 38, -4260]@§7Поговори с Дамиралом снаружи Ллевигарa на [-1937, 38, -4260]
+§7Clue I: Toward the sunset, among northern flowers shaded by quartz@§7Подсказка I: В направлении заката, среди северных цветов в тени кварца
+§7Clue II: In a place of identity, above the leaves and between the glass@§7Подсказка II:В месте идентификации, над листьями и между стеклом
+§7Clue III: In an emerald fountain, surrounded by the wealth of the villagers@§7Подсказка III: В эмеральдовом фонтане, где жители вкладывают деньги
 =====
-§7Talk to Merloni at [343,59,-1915]@ 
-§7Explore the pit and find the shrine@ 
-§7Tell Merloni that you succeeded@ 
+§7Talk to Merloni at [343,59,-1915]@§7Поговори с Мерлони на [343,59,-1915]
+§7Explore the pit and find the shrine@§7Исследуй яму и найди святыню 
+§7Tell Merloni that you succeeded@§7Сообщи Мерлони об успехе 
 =====
-§7Talk to Farmer Cevalus at [-749,67,-1664]@ 
-§7Grab [1 Crate of Rat Poison] and enter the farm@ 
-§7Exit the farm and talk to farmer Cevalus@ 
-§7Dump the crate of rat poison into the water resevoir on the other side of the farm@ 
-§7Toggle the farm's irrigation sprinkler@ 
-§7Talk to Farmer Cevalus@ 
+§7Talk to Farmer Cevalus at [-749,67,-1664]@§7Поговори с Фермером Цевалусом на [-749,67,-1664]
+§7Grab [1 Crate of Rat Poison] and enter the farm@§7Возьми [1 Контейнер Крысиного Яда] и войди на ферму 
+§7Dump the crate of rat poison into the water resevoir on the other side of the farm@§7Вылей контейнер крысиного яда в резервуар с водой на другой стороне фермы 
+§7Toggle the farm's irrigation sprinkler@§7Включи опрыскиватели на ферме 
+§7Exit the farm and talk to farmer Cevalus@§7Выйди с фермы и поговори с Фермером Цевалусом 
+§7Talk to Farmer Cevalus@§7Поговори с Фермером Цевалусом 
 =====
 §7Bring back [8 Red Mushrooms] to The Assistant@ 
 §7Talk to The Assistant on the Black Road at [617,67,-1612]@ 
