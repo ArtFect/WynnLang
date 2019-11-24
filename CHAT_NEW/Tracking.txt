@@ -703,57 +703,58 @@
 §7Escape from the inside of Ozoth@§7Выберись изнутри Озот
 §7Return to King Burtan to tell him of your success@§7Вернись к Королю Буртану и расскажи ему об успехе 
 =====
-§7Get to the blue mushroom and return to normal size.@ 
-§7Talk to Psilo in the mushroom cave at [-205,42,-4308]@ 
-§7Find the Subtraxerim Utilium mushroom in the cave and bring it back to Psilo.@ 
+§7Talk to Psilo in the mushroom cave at [-205,42,-4308]@§7Поговори с Псило в грибной пещере на [-205,42,-4308]
+§7Find the Subtraxerim Utilium mushroom in the cave and bring it back to Psilo.@§7Найди Subtraxerim Utilium гриб в пещере и принеси его обратно к Псило
+§7Get to the blue mushroom and return to normal size.@§7Найди синий гриб и вернись к обычному размеру.
 =====
-§7Speak to Grenot outside the Thesead coal mine at [676,78,-5020]@ 
-§7Enter the coal mine@ 
-§7Progress through the coal mine@ 
+§7Speak to Grenot outside the Thesead coal mine at [676,78,-5020]@§7Поговори с Гренотом снаружи угольной шахты Тесеада на [676,78,-5020]
+§7Enter the coal mine@§7Войди в угольную шахту 
+§7Progress through the coal mine@§7Продвигайся вперед по шахте
 ======
-§7Speak to Gana at [444,104,-4805]@ 
-§7Find Seluc inside the cave at [450,29,-5371]@ 
-§7Escort Seluc back to Gana@ 
+§7Speak to Gana at [444,104,-4805]@§7Поговори с Ганой на [444,104,-4805]
+§7Find Seluc inside the cave at [450,29,-5371]@§7Найди Селука внутри пещеры на [450,29,-5371]
+§7Escort Seluc back to Gana@§7Приведи Селука обратно к Гане 
 ======
-§7Speak to Orikal outside the Angry Village at [318,78,-1097].@ 
-§7Examine the nearby corrupted spike to the Northeast at [352,69,-1124].@ 
-§7Climb the spike to see if you can find anything useful about it's existance.@ 
-§7Find the excavators inside the cave.@ 
-§7Find [Unstable Corrupted Ore], [Incendiary Fluid] and [Switch Fuse] for the TNT at the mining camp at [435,81,-1106].@ 
-§7Exit the cave and speak to Orikal in his tent about his plan for destroying the spike.@ 
-§7Find the excavators inside the nearby cave to the northeast at [338,70,-1113].@ 
-§7Report back to Orikal about your observations.@ 
-§7Report to Orikal about your success.@ 
-§7Bring the explosive to the spike in the cave and use it to destroy the spike.@ 
+§7Speak to Orikal outside the Angry Village at [318,78,-1097].@§7Поговори с Орикалом снаружи Злой Деревни на [318,78,-1097] 
+§7Examine the nearby corrupted spike to the Northeast at [352,69,-1124].@§7Посети вершину ближайшего шипа на северо-востоке [352,69,-1124] 
+§7Climb the spike to see if you can find anything useful about it's existance.@§7Залезь на шип, возможно удастся узнать что-то полезное о его существовании 
+§7Report back to Orikal about your observations.@§7Сообщи Орикалу о своих наблюдениях 
+§7Find the excavators inside the nearby cave to the northeast at [338,70,-1113].@§7Найди землекопов внутри ближайшей пещеры на северо-востоке [338,70,-1113]
+§7Find the excavators inside the cave.@§7Найди землекопов внутри пещеры.
+§7Exit the cave and speak to Orikal in his tent about his plan for destroying the spike.@§7Покинь пещеру и поговори с Орикалом в палатке по поводу планов уничтожения шипа 
+§7Find [Unstable Corrupted Ore], [Incendiary Fluid] and [Switch Fuse] for the TNT at the mining camp at [435,81,-1106].@§7Найди [Нестабильную руду], [Зажигательную жидкость], и [Переключатель с предохранителем] для изготовления динамита в лагере [435,81,-1106]. 
+§7Report to Orikal about your success.@§7Сообщи Орикалу о своем успехе
+§7Bring the explosive to the spike in the cave and use it to destroy the spike.@§7Принеси взрывчатку вниз к шипу в пещере и используй ее для уничтожения шипа 
 ======
-§7Talk to General Graken at [227,45,-1958]@ 
-§7Investigate the house in Ancient Nemract at [226,49,-1910] to find the second ruby@ 
-§7Investigate the strange dark realm@ 
-§7Go through the tunnel in the basement of the house@ 
-§7Return the ruby to Graken@ 
-§7Take the ruby from the eyesocket of the dark skull and leave the strange dark realm@ 
+§7Talk to General Graken at [227,45,-1958]@§7Поговори с Генералом Гракеном на [227,45,-1958]
+§7Investigate the house in Ancient Nemract at [226,49,-1910] to find the second ruby@§7Посети дом в Древнем Немрактe на [226,49,-1910] и найди второй рубин 
+§7Go through the tunnel in the basement of the house@§7Пройди через тоннель в подвале дома 
+§7Investigate the strange dark realm@§7Исследуй странную темную реальность
+§7Take the ruby from the eyesocket of the dark skull and leave the strange dark realm@§7Забери рубин из левой глазницы черепа и покинь странную реальность 
+§7Return the ruby to Graken@§7Верни рубин Гракену 
 ======
-§7Talk to Olivin in Selchar at [112,66,-3173]@ 
-§7Hop aboard the Corkus sea skipper ship at the dock and enter Corkus.@ 
-§7Talk to the Corkus delegate.@ 
-§7Find the Five Gears Diner at [-1856,40,-3139]@ 
-§7Speak with Maxie.@ 
-§7Infiltrate the diner.@ 
-§7Stop the mechs from taking over the diner.@ 
+§7Talk to Olivin in Selchar at [112,66,-3173]@§7Поговори с Оливином в Сельчарe на [112,66,-3173]
+§7Hop aboard the Corkus sea skipper ship at the dock and enter Corkus.@§7Зайди на борт капитана корабля в доках и плыви в Коркус 
+§7Talk to the Corkus delegate.@§7Поговори с Делегатом Коркуса 
+§7Find the Five Gears Diner at [-1856,40,-3139]@§7Найди столовую 'Пять Шестеренок' на [-1856,40,-3139]
+§7Speak with Maxie.@§7Поговори с Макси.
+§7Stop the mechs from taking over the diner.@§7Останови роботов от уничтожения столовой 
+§7Infiltrate the diner.@§7Проникни в столовую 
 ======
-§7Enter Maxie's house at [-1571,68,-2876].@ 
-§7Find the catapult at [-1712,38,-3100].@ 
-§7Talk to the chief's friend at [-1587,147,-3321].@ 
-§7Meet the grandmaster behind her house and get over the gap and enter the temple.@ 
-§7Find the key inside the temple.@ 
-§7You should head back to Maxie with the key.@ 
-§7Return to Maxie in his house with the first key.@ 
+§7Enter Maxie's house at [-1571,68,-2876].@§7Войди в дом Макси на [-1571,68,-2876] 
+§7Talk to Maxie on the second floor.@§7Поговори с Макси на втором этаже
+§7Find the catapult at [-1712,38,-3100].@§7Найди катапульту на [-1712,38,-3100]. 
+§7Locate the Avos Chief by asking the Avos citizens.@§7Найди главаря Авосов, опрашивая жителей.
+§7Talk to the chief's friend at [-1587,147,-3321].@§7Поговори с другом главаря на [-1587,147,-3321]. 
+§7Meet the grandmaster behind her house and get over the gap and enter the temple.@§7Встреться с магистром позади дома, чтобы пройти через каньон и попасть в храм 
+§7Find the key inside the temple.@§7Найди ключ внутри храма
+§7Return to Maxie in his house with the first key.@§7Вернись к Макси в его доме с первым ключем 
 §7Find the vault in Corkus City at [-1498,69,-2910].@ 
 §7Retrieve the key from the base.@ 
 §7Find Maxie at [-1396,66,-2400] and give him the key.@ 
 §7Find Maxie outside the Factory at [-1707,75,-2610].@ 
-§7Talk to Maxie on the second floor.@ 
-§7Locate the Avos Chief by asking the Avos citizens.@ 
+ 
+
 §7Look for the hidden mech base.@ 
 =====
 §7Talk to Referick in the dark forest at [-1081,48,-5368]@ 
@@ -984,6 +985,8 @@
 
 
 §7The book shows a map of the Nether Portal and the surrounding area.  An ''x'' near the south marks a cave Garoth might have moved to.@§7Книга показывает карту портала в ад и ближайшей территории. Знак "X" на юге обозначает пещеру, в которую мог переместиться Гарот
+§7You should head back to Maxie with the key.@§7Ты должен вернуться к Макси с ключем
+
 
 
 §7Bring [15 Snow Clumps] to the Slaying Post [Combat Lv. 40] at [82,69,-725]@ 
