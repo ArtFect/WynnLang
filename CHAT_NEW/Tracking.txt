@@ -681,6 +681,7 @@
 §7Throw away the plant@§7Брось куст в воронку 
 §7Press the button in Tiek's basement then follow the rainbow trail@§7Нажми на кнопку в подвале Тик, и затем иди за радужным следом 
 §7Enter The Taproot@§7Войди в стержневой корень 
+§7Complete the parkour@§7Пройди паркур
 §7Speak to Tiek@§7Поговори с Тик
 §7Explore the Light Forest@§7Исследуй Светлый Лес 
 ======
@@ -950,36 +951,35 @@
 §7Escape the volcano with the crystal shard@§7Сбеги из вулкана с осколком кристалла
 §7Report back to Excavator Placardus with a [Red Crystal Shard]@§7Сообщи обо всем Раскопщику Плакардусу с [Красным Осколком Кристалла]
 =======
-§7Talk to Royal Advisor Carlos in Troms Castle [-848,98,-789] (Requires shard from Site C)@ 
-§7Explore the secrets beneath Troms Castle@ 
-§7Talk to the King@ 
-§7Exit the King's room@ 
-§7Escape Troms@ 
-§7Head to the location on the note@ 
-§7Find the three map fragments by following the eyes and return to Thomas.@ 
-§7Go to Site D [-874,22,-349]@ 
-§7Search the excavation site@ 
-§7Complete the parkour@ 
-§7Teleport to the Ancient City@ 
-§7Explore The Ancient City@ 
-§7Speak to Amadels assistant@ 
-§7Kill Corruped Amadel@ 
-§7Talk to The King of Ragni@ 
+§7Talk to Royal Advisor Carlos in Troms Castle [-848,98,-789] (Requires shard from Site C)@§7Поговори с Королевским Советником Карлосом в замке Тромсa [-848,98,-789] (Необходим осколок из Site C)
+§7Explore the secrets beneath Troms Castle@§7Исследуй секреты под замком Тромса
+§7Talk to the King@§7Поговори с Королем
+§7Exit the King's room@§7Покинь комнату Короля
+§7Escape Troms@§7Сбеги из Тромса
+§7Head to the location on the note@§7Следуй по координатам на записке 
+§7Find the three map fragments by following the eyes and return to Thomas.@§7Найди 3 фрагмента карты, идя по следу глаз, и вернись к Томасу
+§7Go to Site D [-874,22,-349]@§7Иди к Site D [-874,22,-349]
+§7Search the excavation site@§7Продвигайся вдоль раскопок 
+§7Teleport to the Ancient City@§7Телепортируйся в Древний Город
+§7Explore The Ancient City@§7Исследуй Древний Город
+§7Speak to Amadels assistant@§7Поговори с Ассистентом Амадела
+§7Kill Corruped Amadel@§7Убей Corruped Amadel
+§7Talk to The King of Ragni@§7Поговори с Королем Рагни
 ========
-§7Look for Phief at Mage Island@ 
-§7Find Phief's ship, and return it to its rightful owner@ 
-§7Get Zhight's supplies from Czytash at Maro Peaks@ 
-§7Give Zhight his supplies@ 
-§7Talk to Zhight of Zhight Island at [-542,38,-2755]@ 
+§7Talk to Zhight of Zhight Island at [-542,38,-2755]@§7Поговори с Жигтом на Жигт Острове [-542,38,-2755]
+§7Look for Phief at Mage Island@§7Поищи Пифa на Острове Магов 
+§7Find Phief's ship, and return it to its rightful owner@§7Найди потерянный корабль Пифа и верни его владельцу 
+§7Get Zhight's supplies from Czytash at Maro Peaks@§7Получи запасы Жигта от Кзыташа на Вершинах Маро
+§7Give Zhight his supplies@§7Отдай Жигту его запасы 
 ========
 
 
 
 
-§7Place the explosive in front of the boulder.@ 
-§7Solve the puzzle to open the door that locks the heirloom.@ 
-§7Find you way into the vault.@ 
-§7Exit the house@ 
+§7Place the explosive in front of the boulder.@§7Установи взрывчатку перед камнем.
+§7Solve the puzzle to open the door that locks the heirloom.@§7Пройди пазл, чтобы открыть дверь к сокровищам
+§7Find you way into the vault.@§7Найди вход в хранилище
+§7Exit the house@§7Покинь дом
 
 
 §7The book shows a map of the Nether Portal and the surrounding area.  An ''x'' near the south marks a cave Garoth might have moved to.@§7Книга показывает карту портала в ад и ближайшей территории. Знак "X" на юге обозначает пещеру, в которую мог переместиться Гарот
@@ -987,17 +987,16 @@
 
 
 
-§7Bring [15 Snow Clumps] to the Slaying Post [Combat Lv. 40] at [82,69,-725]@ 
-§7Bring [22 Viscous Slime] to the Slaying Post [Combat Lv. 50] at [-480,68,-707]@ 
-§7Bring [5 Forest Webs] to the Slaying Post [Combat Lv. 5] at [-362,67,-1577]@ 
-§7Bring [15 Snow Clumps] to the Slaying Post [Combat Lv. 40] at [82,69,-725]@ 
-§7Bring [8 Brown Mushrooms] to the Slaying Post [Combat Lv. 15] at [582,66,-1588]@ 
-§7Bring [12 Bone Meal] to the Slaying Post [Combat Lv. 25] at [202,60,-1787]@ 
-§7Bring [16 Mashed Insect] to the Slaying Post [Combat Lv. 30] at [982,69,-2073]@ 
-§7Bring [16 Coyote Fangs] to the Slaying Post [Combat Lv. 35] at [1200,30,-1332]@ 
-§7Bring [18 Pure Rain Stone] to the Slaying Post [Combat Lv. 78] at [-163,33,-4812]@ 
-§7Bring [22 Goblin Teeth] to the Slaying Post [Combat Lv. 80] at [562,26,-5421]@ 
-§7Bring [16 Orc Eyes] to the Slaying Post [Combat Lv. 45] at [-2006,33,-4655]@ 
-§7Bring [16 Lizard Scales] to the Slaying Post [Combat Lv. 55] at [-1786,60,-5267]@ 
-§7Bring [18 Unholy Spirits] to the Slaying Post [Combat Lv. 60] at [-1392,45,-5464]@ 
-§7Bring [18 Ancient Metal] to the Slaying Post [Combat Lv. 65] at [-708,28,-413]@ 
+§7Bring [15 Snow Clumps] to the Slaying Post [Combat Lv. 40] at [82,69,-725]@§7Принеси [15 Snow Clumps] к Доске Заданий [Комбат Ур. 40] на [82,69,-725]
+§7Bring [22 Viscous Slime] to the Slaying Post [Combat Lv. 50] at [-480,68,-707]@§7Принеси [22 Viscous Slime] к Доске Заданий [Комбат Ур. 50] на [-480,68,-707]
+§7Bring [5 Forest Webs] to the Slaying Post [Combat Lv. 5] at [-362,67,-1577]@§7Принеси [5 Forest Webs] к Доске Заданий [Комбат Ур. 5] на [-362,67,-1577]
+§7Bring [8 Brown Mushrooms] to the Slaying Post [Combat Lv. 15] at [582,66,-1588]@§7Принеси [8 Brown Mushrooms] к Доске Заданий [Комбат Ур. 15] на [582,66,-1588]
+§7Bring [12 Bone Meal] to the Slaying Post [Combat Lv. 25] at [202,60,-1787]@§7Принеси [12 Bone Meal] к Доске Заданий [Комбат Ур. 25] на [202,60,-1787]
+§7Bring [16 Mashed Insect] to the Slaying Post [Combat Lv. 30] at [982,69,-2073]@§7Принеси [16 Mashed Insect] к Доске Заданий [Комбат Ур. 30] на [982,69,-2073]
+§7Bring [16 Coyote Fangs] to the Slaying Post [Combat Lv. 35] at [1200,30,-1332]@§7Принеси [16 Coyote Fangs] к Доске Заданий [Комбат Ур. 35] на [1200,30,-1332]
+§7Bring [18 Pure Rain Stone] to the Slaying Post [Combat Lv. 78] at [-163,33,-4812]@§7Принеси [18 Pure Rain Stone] к Доске Заданий [Комбат Ур. 78] на [-163,33,-4812]
+§7Bring [22 Goblin Teeth] to the Slaying Post [Combat Lv. 80] at [562,26,-5421]@§7Принеси [22 Goblin Teeth] к Доске Заданий [Комбат Ур. 80] на [562,26,-5421]
+§7Bring [16 Orc Eyes] to the Slaying Post [Combat Lv. 45] at [-2006,33,-4655]@§7Принеси [16 Orc Eyes] к Доске Заданий [Комбат Ур. 45] на [-2006,33,-4655]
+§7Bring [16 Lizard Scales] to the Slaying Post [Combat Lv. 55] at [-1786,60,-5267]@§7Принеси [16 Lizard Scales] к Доске Заданий [Комбат Ур. 55] на [-1786,60,-5267]
+§7Bring [18 Unholy Spirits] to the Slaying Post [Combat Lv. 60] at [-1392,45,-5464]@§7Принеси [18 Unholy Spirits] к Доске Заданий [Комбат Ур. 60] на [-1392,45,-5464]
+§7Bring [18 Ancient Metal] to the Slaying Post [Combat Lv. 65] at [-708,28,-413]@§7Принеси [18 Ancient Metal] к Доске Заданий [Комбат Ур. 65] на [-708,28,-413]
