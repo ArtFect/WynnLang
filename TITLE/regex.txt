@@ -7,6 +7,7 @@
 §cThe cave collapses in (\d+) second(|s)@§cПещера обрушится через (r1) секунд
 §6Bridge deploys in (\d+) second(|s)@§6Мост достроится через (r1) секунд
 §b(.*) has been killed@§b(r1) был убит
+§a\+(\d+) §7(.*)§a to pouch@§a+(r1) §7(r2)§a в мешок
 §8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒾ§7 Деревообработке§7!
 §8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching combat §flevel (\d+)§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) комбат уровня§7!
 §8\[§7!§8\] §7Congratulations to §f(.*)§7 for reaching §flevel (\d+) in §fⒷ§7 Mining§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒷ§7 Добыче Руды§7!
