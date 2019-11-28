@@ -325,6 +325,9 @@
 §cYou now have the (.*).@§cВыбран (r1).
 §7You have set your weapon skin to (.*)@§7Ты установил на свое оружие (r1) скин
 §c(.*)§4 is not a §c(.*)§4 weapon. You must use a §c(.*).@§c(r1)§4 не оружие для §c(r2)§4. Ты должен использовать §c(r3)
+§4You need to be §cFarming Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Земледелия§4 для старта этого мини-квеста
+§dYou have sold §7(\d+)§d ingredients for a total of §a(.*)§d.@§dТы продал §7(r1)§d ингредиентов на сумму в §a(r2)§d.
+§4You need to be §cMining Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Добычи Руд§4 для старта этого мини-квеста
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
@@ -339,14 +342,7 @@
 §7\[1\/1\] §2Aledar: §aHey, (.*), the castle's the other way!@§7[1/1] §2Aledar: §aЭй, (r1), замок в другой стороне!
 §7\[1\/1\] §2Aledar: §aHey, (.*), follow me!@§7[1/1] §2Aledar: §aЭй, (r1), следуй за мной!
 §7\[1\/1\] §2Aledar: §aHey, (.*)! That's the wrong way!@§7[1/1] §2Aledar: §aЭй, (r1)! Это неправильный путь!
-§7\[7\/8\] §2Guard: §a(.*), you're an Assassin, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Ассасин, верно? Встань поближе к стене, ради меня.
-§7\[7\/8\] §2Guard: §a(.*), you're a Mage, right\? Gonna need you to stay close to me.@§7[7/8] §2Guard: §a(r1), ты ведь Маг, верно? Встань поближе ко мне.
-§7\[7\/8\] §2Guard: §a(.*), you're a Warrior, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Воин, верно? Встань поближе к стене, ради меня.
-§7\[7\/8\] §2Guard: §a(.*), you're a Dark Wizard, right\? Gonna need you to stay close to me.@§7[7/8] §2Guard: §a(r1), ты ведь Темный Волшебник, верно? Встань поближе ко мне.
-§7\[7\/8\] §2Guard: §a(.*), you're a Ninja, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Ниндзя, верно? Встань поближе к стене, ради меня.
-§7\[7\/8\] §2Guard: §a(.*), you're a Hunter, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Охотник, верно? Встань поближе к стене, ради меня.
-§7\[7\/8\] §2Guard: §a(.*), you're a Knight, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Рыцарь, верно? Встань поближе к стене, ради меня.
-§7\[7\/8\] §2Guard: §a(.*), you're an Archer, right\? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Лучник, верно? Встань поближе к стене, ради меня.
+§7\[7\/8\] §2Guard: §aIn my current state, I'm too weak to destroy this boulder. But since you're a Shaman, (.*), you can help me.@§7[7/8] §2Guard: §aВ моем нынешнем состоянии я слишком слаб, чтобы сломать этот камень. Но поскольку ты Шаман, (r1), ты можешь помочь мне.
 §7\[2\/2\] §2Tasim: §aHey, (.*)! You alright in there\? Looks like we hit something.@§7[2/2] §2Tasim: §aЭй, (r1)! Ты там в порядке? Похоже, мы обо что-то ударились.
 §7\[1\/1\] §2Tasim: §aHey, (.*)! You alright in there\? Looks like we hit something.@§7[1/1] §2Tasim: §aЭй, (r1)! Ты там в порядке? Похоже, мы обо что-то ударились.
 §7\[4\/4\] §2Aledar: §aIt's not that far, it's just a straight path from here. (.*), if you're ready, let's get moving.@§7[4/4] §2Aledar: §aЭто не далеко, там идет прямой путь отсюда. (r1), если ты готов, то пойдем.
