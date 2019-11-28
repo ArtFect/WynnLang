@@ -142,6 +142,8 @@ Old Druid@Старый Друид
 §cVoidroot§6 [Lv. 1]@§cКорень Пустоты§6 [Ур. 1]
 §cSolitary Gert§6 [Lv. 78]@§cОдинокий Герт§6 [Ур. 78]
 §eRymek Citizen§6 [Lv. 35]@§eЖитель Римека§6 [Ур. 35]
+§aTnt§6 [Lv. 0]@§aДинамит§6 [Ур. 0]
+§aGolden Apple§6 [Lv. 20]@§aЗолотое Яблоко§6 [Ур. 20]
 
 #####################Торговцы###########################
 §dDungeon Merchant@§dДанж Торговец
@@ -274,7 +276,24 @@ Old Druid@Старый Друид
 §2§aSlaying Post §2[Combat Lv. 65]@§2§aДоска Заданий §2[Комбат Ур. 65]
 §2§aSlaying Post §2[Combat Lv. 96]@§2§aДоска Заданий §2[Комбат Ур. 96]
 §2§aSlaying Post §2[Combat Lv. 99]@§2§aДоска Заданий §2[Комбат Ур. 99]
+§2§aGathering Post §2[Fishing Lv. 8]@§2§aДоска для Сбора §2[Рыбалка Ур. 8]
+§2§aGathering Post §2[Fishing Lv. 18]@§2§aДоска для Сбора §2[Рыбалка Ур. 18]
+§2§aGathering Post §2[Fishing Lv. 43]@§2§aДоска для Сбора §2[Рыбалка Ур. 43]
+§2§aGathering Post §2[Mining Lv. 28]@§2§aДоска для Сбора §2[Добыча Руд Ур. 28]
+§2§aGathering Post §2[Mining Lv. 23]@§2§aДоска для Сбора §2[Добыча Руд Ур. 23]
+§2§aGathering Post §2[Mining Lv. 8]@§2§aДоска для Сбора §2[Добыча Руд Ур. 8]
+§2§aGathering Post §2[Mining Lv. 18]@§2§aДоска для Сбора §2[Добыча Руд Ур. 18]
+§2§aGathering Post §2[Woodcutting Lv. 18]@§2§aДоска для Сбора §2[Лесорубство Ур. 18]
+§2§aGathering Post §2[Woodcutting Lv. 8]@§2§aДоска для Сбора §2[Лесорубство Ур. 8]
+§2§aGathering Post §2[Woodcutting Lv. 28]@§2§aДоска для Сбора §2[Лесорубство Ур. 28]
+§2§aGathering Post §2[Woodcutting Lv. 33]@§2§aДоска для Сбора §2[Лесорубство Ур. 33]
+§2§aGathering Post §2[Farming Lv. 28]@§2§aДоска для Сбора §2[Земледелие Ур. 28]
+§2§aGathering Post §2[Farming Lv. 8]@§2§aДоска для Сбора §2[Земледелие Ур. 8]
+§2§aGathering Post §2[Farming Lv. 73]@§2§aДоска для Сбора §2[Земледелие Ур. 73]
 §7NPC@§7НПС
+§2§fSteve@§2§fСтив
+§2§fHaba@§2§fХаба
+§2§fConfused Flamingo Rider@§2§fСмущенный Всадник Фламинго
 §2§fChielma@§2§fЧиелма
 §2§fEvent Airship Pilot@§2§fПилот Ивент Дирижабля
 §2§fHelioedus@§2§fХелиоедус
@@ -479,6 +498,10 @@ Old Druid@Старый Друид
 §2Harker@§2Харкер
 §2Laloire@§2Лалоир
 §2Aledar@§2Аледар
+§2Elphaba@§2Эльфаба
+§2Lucio@§2Луцио
+§2Barman@§2Бармен
+§2Alchemist@§2Алхимик
 §2Tasim@§2Тасим
 §2Old Man@§2Старик
 §2Regulux@§2Регулукс
@@ -987,75 +1010,52 @@ Gert@Герт
 
 ######################Профессии##################################
 §aCopper@§aМедь
-§2[§a+1§2 Unprocessed Copper Ore]@§2[§a+1§2 Необработанная Медная Руда]
+§2[§a+1§2 Copper Ingot]@§2[§a+1§2 Слиток Меди]
+§2[§a+1§2 Copper Gem]@§2[§a+1§2 Медный Камень]
 §aGranite@§aГранит
-§2[§a+1§2 Unprocessed Granite Ore]@§2[§a+1§2 Необработанная Гранитная Руда]
 §aGold@§aЗолото
-§2[§a+1§2 Unprocessed Gold Ore]@§2[§a+1§2 Необработанная Золотая Руда]
 §aSandstone@§aПесчаник
-§2[§a+1§2 Unprocessed Sandstone Ore]@§2[§a+1§2 Необработанная Песчаная Руда]
 §aIron@§aЖелезо
-§2[§a+1§2 Unprocessed Iron Ore]@§2[§a+1§2 Необработанная Железная Руда]
 §aSilver@§aСеребро
-§2[§a+1§2 Unprocessed Silver Ore]@§2[§a+1§2 Необработанная Серебрянная Руда]
 §aCobalt@§aКобальт
 §aKanderstone@§aКандерстоун
 §aDiamond@§aАлмаз
 §aMolten@§aМолтен
 §aVoidstone@§aВойдстоун
 §aOak@§aДуб
-§2[§a+2§2 Unprocessed Oak Log]@§2[§a+2§2 Необработанное Бревно Дуба]
-§2[§a+1§2 Unprocessed Oak Log]@§2[§a+1§2 Необработанное Бревно Дуба]
+§2[§a+1§2 Oak Paper]@§2[§a+1§2 Дубовая Бумага]
 §aBirch@§aБереза
-§2[§a+1§2 Unprocessed Birch Log]@§2[§a+1§2 Необработанное Бревно Березы]
 §aWillow@§aИва
-§2[§a+1§2 Unprocessed Willow Log]@§2[§a+1§2 Необработанное Бревно Ивы]
 §aAcacia@§aАкация
-§2[§a+1§2 Unprocessed Acacia Log]@§2[§a+1§2 Необработанное Бревно Акации]
 §aSpruce@§aЕль
-§2[§a+1§2 Unprocessed Spruce Log]@§2[§a+1§2 Необработанное Бревно Ели]
 §aJungle@§aАмарант
-§2[§a+1§2 Unprocessed Jungle Log]@§2[§a+1§2 Необработанное Бревно Амаранта]
 §aDark@§aКаштан
-§2[§a+1§2 Unprocessed Dark Log]@§2[§a+1§2 Необработанное Бревно Каштана]
 §aLight@§aКлен
-§2[§a+1§2 Unprocessed Light Log]@§2[§a+1§2 Необработанное Бревно Клена]
 §aPine@§aСосна
 §aBamboo@§aБамбук
 §aAvo@§aАвокадо
-§2[§a+1§2 Unprocessed Avo Log]@§2[§a+1§2 Необработанное Бревно Авокадо]
 §aSky@§aЛиственница
 §aWheat@§aПшеница
-§2[§a+1§2 Unprocessed Wheat]@§2[§a+1§2 Необработанная Пшеница]
+§2[§a+1§2 Wheat Grains]@§2[§a+1§2 Пшеничное Зерно]
+§2[§a+1§2 Wheat String]@§2[§a+1§2 Пшеничная Нить]
 §aBarley@§aЯчмень
-§2[§a+1§2 Unprocessed Barley]@§2[§a+1§2 Необработанный Ячмень]
 §aOat@§aОвес
-§2[§a+1§2 Unprocessed Oat]@§2[§a+1§2 Необработанный Овес]
 §aMalt@§aСолод
-§2[§a+1§2 Unprocessed Malt]@§2[§a+1§2 Необработанный Солод]
 §aHops@§aХмель
-§2[§a+1§2 Unprocessed Hops]@§2[§a+1§2 Необработанный Хмель]
 §aRye@§aРожь
-§2[§a+1§2 Unprocessed Rye]@§2[§a+1§2 Необработанная Рожь]
 §aMillet@§aПросо
-§2[§a+1§2 Unprocessed Millet]@§2[§a+1§2 Необработанное Просо]
 §aDecay Roots@§aЗараженный Корень
-§2[§a+1§2 Unprocessed Decay Roots]@§2[§a+1§2 Необработанный Зараженный Корень]
 §aRice@§aРис
 §aSorghum@§aСорго
 §aHemp@§aКонопля
 §aGudgeon@§aПескарь
-§2[§a+1§2 Unprocessed Gudgeon]@§2[§a+1§2 Необработанный Пескарь]
+§2[§a+1§2 Gudgeon Oil]@§2[§a+1§2 Жир Пескаря]
+§2[§a+1§2 Gudgeon Meat]@§2[§a+1§2 Мясо Пескаря]
 §aTrout@§aФорель
-§2[§a+1§2 Unprocessed Trout]@§2[§a+1§2 Необработанная Форель]
 §aSalmon@§aЛосось
-§2[§a+1§2 Unprocessed Salmon]@§2[§a+1§2 Необработанный Лосось]
 §aCarp@§aКарп
-§2[§a+1§2 Unprocessed Carp]@§2[§a+1§2 Необработанный Карп]
 §aIcefish@§aЩука
-§2[§a+1§2 Unprocessed Icefish]@§2[§a+1§2 Необработанная Щука]
 §aPiranha@§aПиранья
-§2[§a+1§2 Unprocessed Piranha]@§2[§a+1§2 Необработанная Пиранья]
 §aKoi@§aСазан
 §aGylia Fish@§aГилия
 §aBass@§aОкунь
@@ -1250,6 +1250,7 @@ Gert@Герт
 §bSky Ladybug§6 [Lv. 95]@§bНебесная Божья Коровка§6 [Ур. 95]
 §bRagni Knight§6 [Lv. 3]@§bРыцарь Рагни§6 [Ур. 3]
 §bRocky§6 [Lv. 90]@§bКамушек§6 [Ур. 90]
+§bOverly Affectionate Bear§6 [Lv. 73]@§bЧрезмерно Ласковый Медведь§6 [Ур. 73]
 
 ############################Надписи################################
 §8§lDig Dirt@§8§lКопать Землю
@@ -1683,6 +1684,38 @@ Level §c70-80@Уровень §c70-80
 §bCompeting Queen Contestant§6 [Lv. 97]@§bКонкурирующий Королева Кандидат§6 [Ур. 97]
 §7Collect and throw §3§l[16 Brig Tokens]§7 in the hopper to proceed@§7Собери и сбрось §3§l[16 Бриг Жетонов]§7 в воронку для продолжения
 §7Collect and throw §3§l[1 Crash Site Token]§7 in the hopper to proceed@§7Собери и сбрось §3§l[1 Жетон Кораблекрушения]§7 в воронку для продолжения
+§c19s@§c19с
+§c18s@§c18с
+§c17s@§c17с
+§c16s@§c16с
+§c15s@§c15с
+§c14s@§c14с
+§c13s@§c13с
+§c12s@§c12с
+§c11s@§c11с
+§c10s@§c10с
+§c9s@§c9с
+§c8s@§c8с
+§c7s@§c7с
+§c6s@§c6с
+§c5s@§c5с
+§c4s@§c4с
+§c3s@§c3с
+§c2s@§c2с
+§c1s@§c1с
+§c0s@§c0с
+§c§lRight-Click to@§c§lПравый Клик для
+§fExplode@§fВзрыва
+§2[§aRight Click to Break Icicle§2]@§2[§aПравый Клик, чтобы Сломать Сосульку§2]
+§2[§aRight Click to Collect Water§2]@§2[§aПравый Клик, чтобы Собрать Воду§2]
+§8Left-Click for String@§8Левый Клик для Нити
+§8Left-Click for Oil@§8Левый Клик для Жира
+§8Left-Click for Ingot@§8Левый Клик для Слитка
+§8Left-Click for Wood@§8Левый Клик для Древесины
+§8Right-Click for Grain@§8Правый Клик для Зерна
+§8Right-Click for Meat@§8Правый Клик для Мяса
+§8Right-Click for Gem@§8Правый Клик для Камня
+§8Right-Click for Paper@§8Правый Клик для Бумаги
 
 ######################Охранники ключей###########################
 §cDecrepit Sewers Key Guardian§6 [Lv. 9]@§cЗащитник Ключа Ветхая Канализация§6 [Ур. 9]
@@ -1766,6 +1799,9 @@ Level §c70-80@Уровень §c70-80
 §aVillager§6 [Lv. 70]@§aЖитель§6 [Ур. 70]
 §aServant§6 [Lv. 70]@§aСлуга§6 [Ур. 70]
 §aSheep§6 [Lv. 1]@§aОвечка§6 [Ур. 1]
+§aSergeant§6 [Lv. 100]@§aСержант§6 [Ур. 100]
+§a§2Aledar§6 [Lv. 100]@§a§2Аледар§6 [Ур. 100]
+§aBarman§6 [Lv. 20]@§aБармен§6 [Ур. 20]
 §aFree Cow §6[Lv. 1]@§aСвободная Корова §6[Ур. 1]
 §aSuburbs Farmer§6 [Lv. 10]@§aПригородный Фермер§6 [Ур. 10]
 §aDetlas Citizen§6 [Lv. 10]@§aЖитель Детласа§6 [Ур. 10]
@@ -2248,3 +2284,9 @@ Grumpy Old Man@Старик
 §6Bovemist Effect@§6Эффект Бовемиста
 §6Futuristic Dagger@§6Футуристический Кинжал
 §6Fellowship Bow@§6Братский Лук
+§6Fellowship Dagger@§6Кинжал Дружбы
+§cPhoenix Wings Effect@§cЭффект Крыльев Феникса
+§cDern Spear@§cДерн Копье
+§6Sky Blue Wybel Token@§6Голубой Вубел Жетон
+§cAngels Wings Effect@§cЭффект Крыльев Ангела
+§6Golden Bow@§6Золотой Лук
