@@ -14,15 +14,15 @@
 §7[2/3] §2Aledar: §aIt looks nice. The war clearly hasn't made it this far.@§7[2/3] §2Aledar: §aВыглядит неплохо. Война не зашла сюда так далеко.
 §7[3/3] §2Old Man: §aHey, you three! Come over here and talk to me.@§7[3/3] §2Old Man: §aЭй, вы трое! Идите сюда и поговорите со мной.
 §7[1/5] §2Tasim: §aSir, are you okay?@§7[1/5] §2Tasim: §aСэр, вы в порядке?
-§7[2/5] §2Old Man: §aI've been waiting for you three, you're late. There's a bit of trouble up ahead. You will need to get yourself some raw materials.@§7[2/5] §2Old Man: §aЯ ждал вас троих, вы опаздываете. Впереди вас ждет много проблем. Вам понадобятся добыть себе немного необработанных материалов.
-§7[3/5] §2Tasim: §aI didn't think we needed anything. Why would raw materials help us?@§7[3/5] §2Tasim: §aЯ не думаю, что нам нужно что-то. И вообще чем нам помогут необработанные материалы?
-§7[4/5] §2Old Man: §aWell, you thought wrong. You will need some raw materials to make yourself something to fight with.@§7[4/5] §2Old Man: §aЧто ж, ты думаешь неправильно. Вам нужны необработанные материалы, чтобы сделать для себя что-то, чем можно сражаться.
-§7[1/1] §2Old Man: §aJust hit the scythe to pick it up. Then whack the wheat with it to harvest it!@§7[1/1] §2Old Man: §aПросто ударь мотыгу, чтобы подобрать ее. Затем нажми ей на пшеницу, чтобы собрать ее!
+§7[2/5] §2Old Man: §aI've been waiting for you three, you're late. There's a bit of trouble up ahead. You will need to get yourself some materials.@§7[2/5] §2Old Man: §aЯ ждал вас троих, вы опоздали. Впереди вас ждут небольшие неприятности. Вам нужно будет добыть себе некоторые материалы.
+§7[3/5] §2Tasim: §aI didn't think we needed anything. Why would any materials help us?@§7[3/5] §2Tasim: §aНе думаю, что нам что-то нужно. Чем нам помогут какие-то материалы?
+§7[4/5] §2Old Man: §aWell, you thought wrong. You'll need the materials to make yourself something to fight with.@§7[4/5] §2Old Man: §aЧтож, ты думаешь неправильно. Вам понадобятся материалы, чтобы сделать себе что-то, чем можно сражаться.
+§7[1/1] §2Old Man: §aJust hit the fishing rod to pick it up. Then §bleft-click§a the fish with it to get the oil!@§7[1/1] §2Old Man: §aПросто ударь удочку и подбери ее. Затем нажми §bлевым кликом§a по рыбе, чтобы получить жир!
 §7[1/6] §2Old Man: §aThat looks like the stuff. I was sent ahead by the guards to warn any newcomers.@§7[1/6] §2Old Man: §aЭто похоже на материал. Меня послали сюда стражи, чтобы предупреждать всех новоприбывших.
 §7[2/6] §2Old Man: §aNormally, this place is pretty safe, but somehow a few corrupt slipped through.@§7[2/6] §2Old Man: §aОбычно, это место довольно безопасно, но все же несколько испорченных мертвецов сумели проскользнуть сюда.
 §7[3/6] §2Old Man: §aWe're pretty far from the §dPortal §aso I don't know how they got here. They even broke the bridge!@§7[3/6] §2Old Man: §aМы довольно далеко от §dПортала§a поэтому я не знаю, как им это удалось. Они даже сломали мост!
 §7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that wheat so you can get yourself kitted out.@§7[4/6] §2Old Man: §aСтражи сказали мне отправить тебя вперед с этой пшеницей, чтобы ты смог снарядить себя.
-§7[5/6] §2Old Man: §aThere's a refinery up ahead. You three can §a§lforge weapons§a there.@§7[5/6] §2Old Man: §aДальше есть место по переработке. Вы трое можете §a§lвыковать себе оружия §aтам.
+§7[5/6] §2Old Man: §aThere's a crafting station up ahead. You three can §a§lforge weapons§a there.@§7[5/6] §2Old Man: §aВпереди есть станции для крафта. Вы трое можете §a§lвыковать оружия§a там.
 §7[1/1] §2Aledar: §aThe old man said something about a bridge being broken. Let's check it out.@§7[1/1] §2Aledar: §aСтарик сказал что-то о мосте, который сломан. Давайте осмотрим его.
 §7[1/6] §2Tasim: §aWait, stop! Don't want you falling off the edge.@§7[1/6] §2Tasim: §aПодожди, остановись! Ты же не хочешь упасть с его края.
 §7[2/6] §2Tasim: §aYeah, there's no way we'll get across here, unless one of you happened to be a bridge repairman back in Fruma.@§7[2/6] §2Tasim: §aДа, здесь нет способа перебраться на ту сторону, разве что один из вас не был починщиком мостов во Фруме
@@ -33,9 +33,7 @@
 §7[1/5] §2Guard: §aAh, the new recruits. I'm afraid you won't be able to pass through here yet.@§7[1/5] §2Guard: §aАх, новые рекруты. Боюсь, пока что вы не сможете пройти здесь.
 §7[2/5] §2Aledar: §aWhat? Why not?@§7[2/5] §2Aledar: §aЧто? Почему нет?
 §7[3/5] §2Guard: §aSomehow a bunch of corrupt sieged the underpass. It's not safe to go in unarmed. You three need weapons first.@§7[3/5] §2Guard: §aПо какой-то причине нескольким мертвецам удалось взять в осаду этот тоннель. Это не безопасно идти туда без оружия. Вам троим сначала нужны оружия.
-§7[4/5] §2Guard: §aYou should be able to use the nearby resources to craft your own.@§7[4/5] §2Guard: §aВы должны использовать близлежащие ресурсы, чтобы скрафтить их для себя.
-§7[1/2] §2Aledar: §aThis is the refinery the old man was talking about.@§7[1/2] §2Aledar: §aВот то место переработки, о котором говорил старик.
-§7[2/2] §2Aledar: §aUse it to make §3[2 String]§a and then show it to me. There's some wheat nearby if you need any more.@§7[2/2] §2Aledar: §aИспользуй его, чтобы сделать себе §b[2 нити]§a и затем покажи их мне. Здесь есть пшеница поблизости, если тебе понадобится еще.
+§7[4/5] §2Guard: §aYou should be able to use the nearby crafting stations to forge your own.@§7[4/5] §2Guard: §aВы можете использовать близлежащие станции крафта, чтобы создать свое собственное.
 §7[1/3] §2Aledar: §aGood job! But that was only the first step. Now, on to step two. Follow me.@§7[1/3] §2Aledar: §aОтличная работа! Но это был только первый шаг. Переходим ко второму шагу. Следуй за мной.
 §7[2/3] §2Aledar: §aNow we've got to refine some logs into wood. Cut down the nearby trees if you need more logs.@§7[2/3] §2Aledar: §aТеперь нам нужно переработать немного бревен в древесину. Сруби ближайшие деревья, если тебе нужно больше бревен.
 §7[3/3] §2Aledar: §aRefine the logs into §3[2 Wood]§a and then show them to me.@§7[3/3] §2Aledar: §aПереработай бревна в §b[2 Древесины]§a и затем покажи их мне.
@@ -110,8 +108,10 @@
 §7[1/1] §2Old Man: §aI left my scythe by the crops over yonder. Use it to harvest some wheat and bring it back here.@§7[1/1] §2Old Man: §aЯ оставил свою мотыгу у поля вон там. Используй ее, чтобы собрать немного пшеницы и принеси ее сюда.
 §7[1/1] §2Old Man: §aHarvest §3[2 Wheat]§a and then bring it to me.@§7[1/1] §2Old Man: §aСобери §b[2 Пшеницы]§a и принеси их мне.
 §7[5/5] §2Old Man: §aI left my pickaxe by the ore over yonder. Punch it and pick it up. Then mine §3[2 Copper Ore]§a and bring it back here.@§7[5/5] §2Old Man: §aЯ оставил свою кирку у залежи вон там. Ударь и подбери ее. Затем добудь §3[2 Медной руды]§a и принеси ее сюда.
+§7[5/5] §2Old Man: §aI left my fishing rod by the pond over yonder. Punch it and pick it up. Then fish §3[2 Gudgeon Oil]§a and bring it back here.@§7[5/5] §2Old Man: §aЯ оставил свою удочку у пруда вон там. Ударь и подбери ее. Затем вылови §3[2 Жира Пескаря]§a и принеси их сюда.
 §7[1/1] §2Old Man: §aJust hit the pickaxe to pick it up. Then whack the ore with it to mine it!@§7[1/1] §2Old Man: §aПросто ударь кирку, чтобы подобрать ее. Затем нажми ей на руду, чтобы добыть ее!
 §7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that copper so you can get yourself kitted out.@§7[4/6] §2Old Man: §aСтражи сказали мне отправить тебя вперед с этой медью, чтобы ты смог снарядить себя.
+§7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that oil so you can get yourself kitted out.@§7[4/6] §2Old Man: §aСтражи велели мне послать вас вперед с этим жиром, чтобы вы могли подготовиться.
 §7[1/1] §2Old Man: §aMine §3[2 Copper Ore]§a and then bring it to me.@§7[1/1] §2Old Man: §aДобудь §3[2 Медной руды]§a и принеси их мне.
 §7[8/8] §2Guard: §aNow, cast your Heal spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое "Исцеление" заклинание, кликнув §b§lПравая-Левая-Правая!§a
 §7[1/2] §2Guard: §aThat's done it! All healed up. Now let me take care of this.@§7[1/2] §2Guard: §aГотово! Все вылечены. Теперь дайте мне позаботиться об этом.
@@ -122,15 +122,20 @@
 §7[8/8] §2Guard: §aNow, cast your Whirlwind spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое "Вихрь" заклинание, кликнув §b§lПравая-Левая-Правая§a!
 §7[1/1] §2Guard: §aHalt! You can't enter the cave until you craft a weapon!@§7[1/1] §2Guard: §aСтоять! Вы не можете войти в пещеру, пока не скрафтите оружие!
 §7[8/8] §2Guard: §aNow, cast your Holy Blast spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое "Святой Взрыв" заклинание, кликнув §b§lПравая-Левая-Правая§a!
+§7[8/8] §2Guard: §aAll I need is for you to use your Totem spell. To cast it, click §bRight-Left-Right§a!@§7[8/8] §2Guard: §aВсе, что мне нужно, это чтобы ты использовал свое Тотем заклинание. Для его каста, кликни §bПравая-Левая-Правая§a!
 §7[1/1] §2Guard: §aCast your spell by clicking §bLeft-Right-Left§a!@§7[1/1] §2Guard: §aИспользуй свое заклинание, кликнув §b§lЛевая-Правая-Левая§a!
 §7[1/1] §2Guard: §aHalt! Before you enter, show me your weapon by §b§lright-clicking§a on me!@§7[1/1] §2Guard: §aСтоять! Прежде чем войдешь, покажи мне свое оружие, §b§lкликнув§a на меня!
 §7[1/1] §2Guard: §aCast your spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Guard: §aИспользуй свое заклинание, кликнув §b§lПравая-Левая-Правая§a!
 §7[1/1] §2Guard: §aHey, you guys, the castle's this way!@§7[1/1] §2Guard: §aЭй, ребята, замок в той стороне!
 §7[8/8] §2Guard: §aNow, cast your Remedy spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое "Лечение" заклинание, кликнув §b§lПравая-Левая-Правая§a!
 §7[1/1] §2Ragni's King: §aOff you go, I've said everything I have to say.@§7[1/1] §2Ragni's King: §aУходи, я сказал все, что должен был сказать.
-§7[1/3] §2Aledar: §aOkay, you've refined the string. Follow me for the next step in the crafting process.@§7[1/3] §2Aledar: §aХорошо, ты переработал нити. Следуй за мной для следующего шага в процессе крафта.
-§7[1/3] §2Aledar: §aOkay, you've refined the ingots. Follow me for the next step in the crafting process.@§7[1/3] §2Aledar: §aХорошо, ты переработал слитки. Следуй за мной для следующего шага в процессе крафта.
 §7[1/1] §2Guard: §aHey, don't leave just yet! I need you to come over here and see this!@§7[1/1] §2Guard: §aЭй, не уходи пока! Мне нужно, чтобы ты подошел сюда и увидел это!
 §7[1/1] §2Guard: §aGet close to me and cast your spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Guard: §aВстань ближе ко мне и используй свое заклинание, кликнув §b§lПравая-Левая-Правая§a!
 §7[1/1] §2Guard: §aYou can't pass without a weapon! Please forge §3[1 Dagger]§a and then show it to me.@§7[1/1] §2Guard: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Кинжал]§a и затем покажи его мне.
 §7[1/1] §2Guard: §aYou can't pass without a weapon! Please craft §3[1 Wand]§a and then show it to me.@§7[1/1] §2Guard: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Посох]§a и затем покажи его мне.
+§7[1/1] §2Guard: §aYou can't pass without a weapon! Please forge §3[1 Spear]§a and then show it to me.@§7[1/1] §2Guard: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Копье]§a и затем покажи его мне.
+§7[1/1] §2Old Man: §aFish §3[2 Gudgeon Oil]§a and then bring it to me.@§7[1/1] §2Old Man: §aВылови §3[2 Жира Пескаря]§a и принеси их мне.
+§7[1/2] §2Aledar: §aAll we need to do is use this workbench to forge your weapon.@§7[1/2] §2Aledar: §aВсе, что нам нужно, это использовать этот верстак для создания оружия.
+§7[2/2] §2Aledar: §aUse §b2 oil§a and §b1 wood§a to craft §3[1 Relik]§a and then show it to the guard.@§7[2/2] §2Aledar: §aИспользуй §b2 жира§a и §b1 древесину§a для крафта §3[1 Релика]§a а затем покажи его стражу.
+§7[1/2] §2Guard: §aI feel stronger already! This should be enough for me to get us out of here.@§7[1/2] §2Guard: §aЯ уже чувствую себя сильнее! Этого должно быть достаточно, чтобы вытащить нас отсюда.
+§7[2/2] §2Guard: §aTook all of the strength your Totem gave me to do it, but I managed to save us! You three head on to the castle, now.@§7[2/2] §2Guard: §aЯ собрал все силы, которые дал мне твой тотем, чтобы сделать это, но мне удалось спасти нас! Вы трое отправляйтесь в замок, сейчас же.
