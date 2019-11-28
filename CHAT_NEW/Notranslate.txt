@@ -1028,3 +1028,10 @@
                              §ePrison of Souls@ 
 §a                               §a§lSlay Angels@ 
                            §ePlague Laboratory@ 
+§a...@ 
+§c§lWarning: §a§lYou are playing on a BETA server so characters will not be saved after disconnecting.@ 
+§cGuild commands are not available on beta servers!@ 
+§4/toggle [chatlevel/swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100/sb/pouchmsg/combatbar]@ 
+§c§lWarning: §b§lYou are using the BETA trade market so your real trades will not be shown here.@ 
+§cWarning: §aAll progress made on this server will remain saved on the hero beta only.@ 
+§cWarning: §bOnly trades made on the hero beta are visible on this server.@ 
