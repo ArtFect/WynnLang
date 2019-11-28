@@ -1101,6 +1101,15 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7This lock requires a certain key. It seems you can't open the door just yet.@§7Этот замок требует определенного ключа. Кажется, ты еще не можешь открыть дверь.
 §7You hear a clicking noise above you...@§7Ты слышишь щелкающий звук над собой...
 §4Looks like you'll need a key to open this barricade up. Maybe the prison warden has one?@§4Похоже тебе понадобится ключ, чтобы открыть эту баррикаду. Может, у тюремного надзирателя есть такой?
+§7Please speak to the captain before entering this area.@§7Пожалуйста поговори сначала с капитаном, прежде чем идти сюда.
+§4You should probably make sure Aryn is okay first.@§4Ты должен сначала убедиться, что Арин впорядке. 
+§7A weird metallic noise is heard in the distance. Sounds dangerous.@§7Странный металлический шум слышен на расстоянии. Звучит опасно.
+§cIn order to craft a §3[Makeshift Explosive]§c, you'll need §3[5 Gritty Sand]§c, §3[3 Saw Dust]§c, and §3[1 Black Powder]§c. Try looking around the island for the remaining materials.@§cЧтобы скрафтить §3[Самодельную Взрывчатку]§c, тебе нужно §3[5 Зернистого Песка]§c, §3[3 Деревянные Опилки]§c, и §3[1 Черный Порох]§c. Попробуй осмотреть остров в поисках оставшихся материалов.
+§7Looking at your map, these ingredients should be at [626,43,-4645], [1003,139,-4853] and [1100,124,-4869] respectively.@§7Посмотрев на карту, эти ингредиенты должны быть на [626,43,-4645], [1003,139,-4853] и [1100,124,-4869] соответственно.
+§4An invisible force pushes you back... §7[Quest Req.: A Journey Beyond]@§4Невидимая сила отталкивает тебя назад...§7[Квест Необ.: A Journey Beyond]
+§7Looking at your map, these ingredients should be at [1003,139,-4853], [965,42,-4443] and [1217,126,-4929] respectively.@§7Посмотрев на карту, эти ингредиенты должны быть на [1003,139,-4853], [965,42,-4443] и [1217,126,-4929] соответственно.
+§4You can't go in. This magic is too strong.@§4Ты не можешь войти. Эта магия слишком сильна.
+
 
 ###################################Гильдия##################################
 §4You can join someone else's guild or make a guild in §cCinfras [Lv. 70]@§4Ты можешь присоединиться к чьей-нибудь гильдии, или создать свою в §cЦинфрасе [Ур. 70]
@@ -1120,6 +1129,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4/guild kick §c[name] §8-§6 Kick a guild member@§4/guild kick §c[ник] §8-§6 Кикнуть участника гильдии
 §4/guild banner §8-§6 Modify your guild banner@§4/guild banner §8-§6 Изменить баннер гильдии
 §3[§3WAR]§c §cThey will be there in 45 seconds.@§3[§3WAR]§c §cОни будут там через 45 секунд.
+§3[§3WAR]§c §cThey will be there in 3 minutes.@§3[§3WAR]§c §cОни будут там через 3 минуты.
 §4You may only contribute emeralds to the guild.@§4Ты можешь только вносить эмеральды в гильдию.
 §3[§3WAR]§c §cFollow your compass to get there.@§3[§3WAR]§c §cСледуй за совим компасом, чтобы попасть туда.
 §3[§3WAR]§c §cThe war will start in 40 seconds.@§3[§3WAR]§c §cБитва начнется через 40 секунд.
@@ -1183,6 +1193,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4You already own this territory.@§4Вы уже захватили эту территорию.
 §4This is not a guild territory@§4Это не территория гильдий
 §cThe battle has expired!@§cБитва закончилась!
+§3You cannot recruit that many Sniper Combat Lv. 60!@§3Ты не можешь набрать столько много Снайперов Комбат Ур. 60!
 
 ###################################Награды квесты/данжи##################################
 §7+ 1 Max Unrefined Material Weight@§7+ 1 К максимальному весу ресурсов
@@ -1622,7 +1633,17 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7Disguise your wand with a corrupted flair@§7Маскирует твой посох под стиль порчи
 §6Bovemist Effect@§6Эффект Бовемиста
 §7Give your character a bovemist appearance@§7Дает твоему персонажу внешний вид бовемиста
-
+§6Pentagram Effect@§6Эффект пентаграммы
+§7Create a pentagram effect around your character@§7Создает эффект пентаграммы вокруг персонажа
+§cAngels Wings Effect@§cЭффект Крыльев Ангела
+§7Give your character angel wings@§7Дает твоему персонажу крылья ангела
+§6Golden Spear@§6Золотое Копье
+§7Disguise your spear as a golden masterpiece@§7Маскирует твое копье под золотой шедевр
+§aA §dRare Mint Wybel Token§a!@§dРедкий Мятный Вубел Жетон§a!
+§6Golden Bow@§6Золотой Лук
+§7Disguise your bow as a golden masterpiece@§7Маскирует твой лук под золотой шедевр
+§6Floating Fairy Effect@§6Эффект Крыльев Феи
+§7Give your character a fairy companion@§7Дает твоему персонажу фею компаньона
 
 ###################################Данжи##################################
 §7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Защитника Ключа активировало ее...
@@ -2055,6 +2076,9 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §a- §7Blink will teleport to the location that you're looking at@§a- §7Ослепление будет телепортировать тебя в место, на которое ты смотришь
 §a- §7Dead Star will throw a powerful meteor from the sky, hitting anything in its path@§a- §7Мертвая Звезда запускает мощный метеор с неба, задевая все на своем пути
 §a- §7Crystal Reptile will throw a snake of death, freezing your enemies over a long distance@§a- §7Кристальная Рептилия выпускает смертоносную змею, замораживая врагов на большом расстоянии
+§a- §7Aura will cast a damaging aura around your active totem@§a- §7Аура кастует разрушительную ауру вокруг твоего активного тотема
+§a- §7Heaven Jolt will launch all nearby mobs high into the air@§a- §7Небесный Удар запускает всех ближайших мобов высоко в воздух
+§a- §7Haul will pull yourself towards your active totem@§a- §7Бросок будет тянуть тебя к твоему активному тотему
 §a+ Spell Upgrade §2[Bash I -> II]@§a+ Апгрейд заклинания §2[Оглушение I -> II]
 §a+ Spell Upgrade §2[Bash II -> III]@§a+ Апгрейд заклинания §2[Оглушение II -> III]
 §a+ Spell Upgrade §2[Heal I -> II]@§a+ Апгрейд заклинания §2[Исцеление I -> II]
@@ -2351,6 +2375,7 @@ You're rejoining too quickly! Give us a moment to save your data.@§4Ты сли
 §cOops! Something went wrong! You have been sent back to Ragni.@§cУпс! Что-то пошло не так! Ты был отправлен обратно в Рагни.
 §6Usage: §f/particles <off/low/medium/high/veryhigh/highest/[particles per tick]>@§6Использование: §f/particles <off/low/medium/high/veryhigh/highest/[частицы за тик]>
 §aYour particle limit is now §fhighest (-1)@§aТвой лимит частиц теперь §fсамый высокий (-1)
+§aYour particle limit is now §f1 (1)@§aТвой лимит частиц теперь §f1 (1)
 §7-------------§4 Wynncraft Help §7-------------@§7-------------§4 Wynncraft Помощь §7-------------
 §4You are not at the start of the tutorial area!@§4Ты не находишься на старте туториала!
 §3Visit §bwynncraft.com/store§b §3to get your own!@§3Посети §bwynncraft.com/store§b §3чтобы получить свою!
@@ -2448,6 +2473,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §4This command is HERO only! Buy HERO at §cstore.wynncraft.com@§4Это команда только для игроков с рангом HERO! Купи HERO на §cstore.wynncraft.com
 §cYou do not have enough gold coins to buy that!@§cУ тебя недостаточно золотых монет, чтобы купить это!
 §cYou need 80 more gold coins.@§cТебе нужно еще 80 золотых монет.
+§cYou need 50 more gold coins.@§cТебе нужно еще 50 золотых монет.
 §bYou can buy gold coins at §3wynncraft.com/store@§bТы можешь купить золотые монеты на §3wynncraft.com/store
 §cYou are not whitelisted on this server!@§cТебя нет в вайтлисте сервера!
 §7Please type a song name in chat!@§7Пожалуйста напиши название трека в чат!
@@ -2468,6 +2494,15 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §4You need to use §ca Pickaxe§4 to gather from this resource!@§4Тебе нужно использовать §cКирку§4 чтобы собрать этот ресурс!
 §4You need to use §ca Rod§4 to gather from this resource!@§4Тебе нужно использовать §cУдочку§4 чтобы собрать этот ресурс!
 §4You need to use §ca Scythe§4 to gather from this resource!@§4Тебе нужно использовать §cМотыгу§4 чтобы собрать этот ресурс!
+§5You need a HERO rank to participate in the HERO beta. Get one at §dstore.wynncraft.com@§5Тебе нужен HERO ранг для участия в HERO бете. Купи на §dstore.wynncraft.com
+               §c§lClick here to toggle hunted mode@               §c§lКликни здесь для включения режима охотника
+                      §4§oThis will enable PvP combat@                      §4§oЭто включит ПвП режим
+§7You have disabled ingredient auto pickup.@§7Ты отключил авто-подбор ингредиентов.
+§7You have enabled ingredient auto pickup.@§7Ты включил авто-подбор ингредиентов.
+§4You have no active totems near you.@§4Вокруг тебя нет активных тотемов.
+§6§lThe Mystery Manor §4§lFAILED@§6§lЗагадочное Поместье §4§lПРОВАЛ
+§7You've been captured by pirates. Try again!@§7Ты был пойман пиратами. Попробуй еще раз!
+§4Please don't move away from the bank if you wish to search for items!!@§4Пожалуйста не отходи далеко от банка, если ты хочешь найти предметы!!
 
 =====================Entering===============================
 §7[You are now entering PirateÀÀÀCove]@§7[Ты входишь в Пиратскую Бухту]
