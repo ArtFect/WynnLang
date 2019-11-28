@@ -292,6 +292,11 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте!
 §dFood Dagger@§dКуриная Ножка Кинжал
 §6Futuristic Bow@§6Футуристический Лук
 §6Chrome Cybel Token@§6Хромовый Кубел Жетон
+§6Pentagram Effect@§6Эффект Пентаграммы
+§6Floating Fairy Effect@§6Эффект Плавающей Феи
+§6Golden Bow@§6Золотой Лук
+§6Golden Spear@§6Золотое Копье
+§cAngels Wings Effect@§cЭффект Крыльев Ангела
 
 ######################Названия открытий#########################
 §bTemple of Swords@§bХрам Мечей
@@ -416,3 +421,46 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте!
 §7[You are now entering CorruptedÀÀÀDecrepitÀÀÀSewersÀÀÀEntrance]@§7[Ты входишь в Испорченную Ветхую Канализацию]
 §7[You are now entering CorruptedÀÀÀInfestedÀÀÀPitÀÀÀEntrance]@§7[Ты входишь в Испорченную Зараженную Яму]
 §7[You are now entering CorruptedÀÀÀLostÀÀÀSanctuaryÀÀÀEntrance]@§7[Ты входишь в Испорченное Затерянное Святилище]
+§7[You are now entering DecrepitÀÀÀSewersÀÀÀEntrance]@§7[Ты входишь в Ветхую Канализацию]
+§7[You are now leaving DecrepitÀÀÀSewersÀÀÀEntrance]@§7[Ты покидаешь Ветхую Канализацию]
+§7[You are now entering Karoc Quarry]@§7[Ты входишь в Карьер Карок]
+§7[You are now leaving Karoc Quarry]@§7[Ты покидаешь Карьер Карок]
+§7[You are now entering Bucie]@§7[Ты входишь в Бучи]
+§7[You are now leaving Bucie]@§7[Ты покидаешь Бучи]
+§7[You are now entering Kandon-Beda]@§7[Ты входишь в Кандон-Бэда]
+§7[You are now leaving Kandon-Beda]@§7[Ты покидаешь Кандон-Бэда]
+§7[You are now entering Nodguj]@§7[Ты входишь в Нодгуж]
+§7[You are now leaving Nodguj]@§7[Ты покидаешь Нодгуж]
+§7[You are now entering Dujgon]@§7[Ты входишь в Дуджгон]
+§7[You are now leaving Dujgon]@§7[Ты покидаешь Дуджгон]
+§7[You are now leaving IceÀÀÀBarrowsÀÀÀEntrance]@§7[Ты покидаешь Ледяной Курган]
+§7[You are now entering IceÀÀÀBarrowsÀÀÀEntrance]@§7[Ты входишь в Ледяной Курган]
+§7[You are now entering Galleon'sÀÀÀGraveyardÀÀÀEntrance]@§7[Ты входишь на Кладбище Галеона]
+§7[You are now leaving Galleon'sÀÀÀGraveyardÀÀÀEntrance]@§7[Ты покидаешь Кладбище Галеона]
+§7[You are now entering the Gavel Province]@§7[Ты входишь в Провинцию Гавел]
+§7[You are now leaving the Gavel Province]@§7[Ты покидаешь Провинцию Гавел]
+§7[You are now entering Sand-SweptÀÀÀTombÀÀÀEntrance]@§7[Ты входишь в Песчаную Гробницу]
+§7[You are now leaving Sand-SweptÀÀÀTombÀÀÀEntrance]@§7[Ты покидаешь Песчаную Гробницу]
+§7[You are now entering the Guild Hall]@§7[Ты входишь в Зал Гильдий]
+§7[You are now leaving the Guild Hall]@§7[Ты покидаешь Зал Гильдий]
+§7[You are now entering LostÀÀÀSanctuaryÀÀÀEntrance]@§7[Ты входишь в Затерянное Святилище]
+§7[You are now leaving LostÀÀÀSanctuaryÀÀÀEntrance]@§7[Ты покидаешь Затерянное Святилище]
+§7[You are now entering Bremminglar]@§7[Ты входишь в Бремминглар]
+§7[You are now leaving Bremminglar]@§7[Ты покидаешь Бремминглар]
+§7[You are now entering InfestedÀÀÀPitÀÀÀEntrance]@§7[Ты входишь в Зараженную Яму]
+§7[You are now leaving InfestedÀÀÀPitÀÀÀEntrance]@§7[Ты покидаешь Зараженную Яму]
+§7[You are now leaving Iboju Village]@§7[Ты покидаешь Деревню Ибоджу]
+§7[You are now entering Iboju Village]@§7[Ты входишь в Деревню Ибоджу]
+§7[You are now entering MageÀÀÀIsland]@§7[Ты входишь на Остров Магов]
+§7[You are now leaving MageÀÀÀIsland]@§7[Ты покидаешь Остров Магов]
+§7[You are now entering UndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты входишь в Заросшие Руины]
+§7[You are now leaving UndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты покидаешь Заросшие Руины]
+§7[You are now entering UnderworldÀÀÀCryptÀÀÀEntrance]@§7[Ты входишь в Подземный Склеп]
+§7[You are now leaving UnderworldÀÀÀCryptÀÀÀEntrance]@§7[Ты покидаешь Подземный Склеп]
+§7[You are now entering CorkusÀÀÀCity]@§7[Ты входишь в Коркус Сити]
+§7[You are now leaving CorkusÀÀÀCity]@§7[Ты покидаешь Коркус Сити]
+§7[You are now leaving CorruptedÀÀÀDecrepitÀÀÀSewersÀÀÀEntrance]@§7[Ты покидаешь Испорченную Ветхую Канализацию]
+§7[You are now leaving CorruptedÀÀÀIceÀÀÀBarrowsÀÀÀEntrance]@§7[Ты покидаешь Испорченный Ледяной Курган]
+§7[You are now leaving CorruptedÀÀÀInfestedÀÀÀPitÀÀÀEntrance]@§7[Ты покидаешь Испорченную Зараженную Яму]
+§7[You are now leaving CorruptedÀÀÀLostÀÀÀSanctuaryÀÀÀEntrance]@§7[Ты покидаешь Испорченное Затерянное Святилище]
+§7[You are now leaving the Update Room]@§7[Ты покидаешь Апдейт Площадь]
