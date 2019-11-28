@@ -60,30 +60,8 @@ Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI�
 
 §7[1/1] §2Guard: §aYou can't pass without a weapon! Please forge §3[1 Spear]§a and then show it to me.@§7[1/1] §2Guard: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Копье]§a и затем покажи его мне.
 
-
-
-§7[1/1] §2Old Tom: §aOh, my hero! Do you wish to help us rebuild this city?@§7[1/1] §2Old Tom: §aО, мой герой! Ты хочешь помочь нам восстановить этот город?
-§7[1/1] §2Krattson: §aI was entirely clueless to the tragedies unfolding around me. How very sad. These good people need to mourn, I will find something new to study.@§7[1/1] §2Krattson: §aЯ был совершенно невежественен к трагедиям, разворачивающимся вокруг меня. Как грустно. Эти хорошие люди должны скорбеть, а я найду что-то новое для изучения.
-§7[1/1] §2Ka L'argwit: §aYou are always welcome here. We extend our absolute §ahospitality...though§a, we may not be of much use now that our precious Entamis has died.@§7[1/1] §2Ka L'argwit: §aТебе всегда здесь рады. Мы выражаем наше абсолютное гостеприимство...хотя, от этого сейчас мало пользы, ведь наше драгоценное Энтамис умерло.
-
-
-
-§7[1/1] §2Santa: §aOh ho ho! Watch out there, you don't want to burn your pants like I did the other year! Ho ho!@§7[1/1] §2Santa: §aО-хо-хо! Осторожно, ты же не хочешь сжечь свои штаны, как я сделал это в прошлом году! Хо-хо!
-§7[1/1] §2Sytis: §aOh, it's you again. I'm going to go back to Dejol as soon as I've found my courage!@§7[1/1] §2Sytis: §aОх, это опять ты. Я собираюсь вернуться к Дежолу, как только наберусь смелости!
-
-§7[1/1] §2Tylas: §aZZZZzzzzz... No one under... zzzZzzzz.... level 80 is... ZZZZzzzz... allowed in here... zzzzzZZZzzz...@§7[1/1] §2Tylas: §aХРРРР-пффф... Никто ниже... хххР-пффф... 80 уровня...ХРРРР-пффф...не войдет сюда..хххххРРР-пффф...
-§7[1/1] §2Big Butch: §aSlower! You don't want to miss out on my story, do you?@§7[1/1] §2Big Butch: §aПомедленней! Ты же не хочешь пропустить мою историю, не так ли?
-§7[2/2] §2Wounded Buccaneer: §aAy, I'll finally be grabbin' things with me left arm again! Com' over 'ere, and I'll give ya a few of my treasur's!@§7[2/2] §2Wounded Buccaneer: §aАргх-ха, я наконец-то снова могу хватать вещи левой рукой! Проходи сюда, и я дам тебе несколько моих сокровищ!
-§7[1/1] §2Jorkin: §aI heard about it from Kelight. I can't decide whether your escapades were incredible, idiotic, or both.@§7[1/1] §2Jorkin: §aЯ слышал обо всем от Келайгта. Не могу решить, были ли твои похождения невероятными, идиотскими или и тем и другим.
-
-
-
-§7[1/1] §2WynnExcavation Leader Amadel: §aAh, my friend. It must be a shock, but don't run from me!@§7[1/1] §2WynnExcavation Leader Amadel: §aА, мой друг. Ты должно быть в шоке, но не убегай от меня!
-§7[1/1] §2Ahmsord Citizen: §aI'm so glad Sky's Kitchen reopened recently. The food there is delicious!@§7[1/1] §2Ahmsord Citizen: §aЯ так рад, что ресторан Небесная Кухня недавно открылся. Еда там очень вкусная!
-
 §7[1/2] §2Steve: §aAfter years of labour my mansion is finally complete.@§7[1/2] §2Steve: §aПосле стольких лет труда мой особняк наконец достроен.
 §7[2/2] §2Steve: §aYou would do well to take pointers from this magnificence, it would greatly improve your skills!@§7[2/2] §2Steve: §aТебе не помешало бы взять уроки из этого великолепия, это значительно бы улучшило твои навыки!
-
 
 §7[2/5] §2Old Man: §aI've been waiting for you three, you're late. There's a bit of trouble up ahead. You will need to get yourself some materials.@§7[2/5] §2Old Man: §aЯ ждал вас троих, вы опоздали. Впереди вас ждут небольшие неприятности. Вам нужно будет добыть себе некоторые материалы.
 
@@ -102,18 +80,3 @@ Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI�
 §7[8/8] §2Guard: §aAll I need is for you to use your Totem spell. To cast it, click §bRight-Left-Right§a!@§7[8/8] §2Guard: §aВсе, что мне нужно, это чтобы ты использовал свое Тотем заклинание. Для его каста, кликни §bПравая-Левая-Правая§a!
 §7[1/2] §2Guard: §aI feel stronger already! This should be enough for me to get us out of here.@§7[1/2] §2Guard: §aЯ уже чувствую себя сильнее! Этого должно быть достаточно, чтобы вытащить нас отсюда.
 §7[2/2] §2Guard: §aTook all of the strength your Totem gave me to do it, but I managed to save us! You three head on to the castle, now.@§7[2/2] §2Guard: §aЯ собрал все силы, которые дал мне твой тотем, чтобы сделать это, но мне удалось спасти нас! Вы трое отправляйтесь в замок, сейчас же.
-
-§7[1/1] §2Elio: §aUNTIE ME!@§7[1/1] §2Elio: §aРАЗВЯЖИ МЕНЯ!
-
-§7[1/1] §2Veekhat: §aSurprised? Veekhat never dies! Okay, okay, fine! I'll stop with the cows!@§7[1/1] §2Veekhat: §aУдивлен? Викхат никогда не умирает! Окей, окей, хорошо! Я закончил с коровами!
-
-
-§7[1/1] §2Chief Avos: §aI hope once the factory is truly decommissioned we can resume our friendly ties with the Corkians.@§7[1/1] §2Chief Avos: §aЯ надеюсь, что когда фабрика будет полностью остановлена, мы сможем возобновить наши дружеские связи с Коркианцами.
-
-§7[1/1] §2Psilo: §aOh you're back!@§7[1/1] §2Psilo: §aОх, ты вернулся!
-
-§7[1/1] §2Anrod: §aPlease hurry! Every second matters!@§7[1/1] §2Anrod: §aПожалуйста поторопись! Каждая секунда важна!
-
-§7[1/1] §2Pirate Leader: §aYar, we'll take this one 'stead!@§7[1/1] §2Pirate Leader: §aГарх, мы возьмем это вместо него!
-
-§7[1/1] §2Damien: §aUggggghh...@§7[1/1] §2Damien: §aУууггххх...
