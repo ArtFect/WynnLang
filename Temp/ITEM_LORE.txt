@@ -1,86 +1,21 @@
-§7They seem to be stuck on 2:10.@§7Похоже они застряли на 2:10.
-§7They seem to be stuck on 6:30.@§7Похоже они застряли на 6:30
-§7They seem to be stuck on 10:50.@§7Похоже они застряли на 10:50
-§7 - §fRefined Birch Wood §7[Lv. 10]@§7 - §fПереработанная Древесина Березы §7[Ур. 10]
-§7 - §fRefined Birch Paper §7[Lv. 10]@§7 - §fПереработанная Березовая Бумага §7[Ур. 10]
-§7 - §fRefined Barley String §7[Lv. 10]@§7 - §fПереработанная Ячменная Нить §7[Ур. 10]
-§7 - §fRefined Barley Grains §7[Lv. 10]@§7 - §fПереработанное Ячменное Зерно §7[Ур. 10]
-§7 - §fRefined Gold Ingot §7[Lv. 20]@§7 - §fПереработанный Слиток Золота §7[Ур. 20]
-§7 - §fRefined Gold Gem §7[Lv. 20]@§7 - §fПереработанный Золотой Камень §7[Ур. 20]
-§7 - §fRefined Trout Oil §7[Lv. 10]@§7 - §fПереработанный Жир Форели §7[Ур. 10]
-§7 - §fRefined Trout Meat §7[Lv. 10]@§7 - §fПереработанное Мясо Форели §7[Ур. 10]
-§7 - §fRefined Salmon Oil §7[Lv. 20]@§7 - §fПереработанный Жир Лосося §7[Ур. 20]
-§7 - §fRefined Salmon Meat §7[Lv. 20]@§7 - §fПереработанное Мясо Лосося §7[Ур. 20]
-§7 - §fRefined Granite Ingot §7[Lv. 10]@§7 - §fПереработанный Гранитный Слиток §7[Ур. 10]
-§7 - §fRefined Granite Gem §7[Lv. 10]@§7 - §fПереработанный Гранитный Камень §7[Ур. 10]
-§7 - §fRefined Sandstone Ingot §7[Lv. 30]@§7 - §fПереработанный Слиток Песчаника §7[Ур. 30]
-§7 - §fRefined Sandstone Gem §7[Lv. 30]@§7 - §fПереработанный Песчаный Камень §7[Ур. 30]
-§7 - §fRefined Willow Wood §7[Lv. 20]@§7 - §fПереработанная Древесина Ивы §7[Ур. 20]
-§7 - §fRefined Willow Paper §7[Lv. 20]@§7 - §fПереработанная Ивовая Бумага §7[Ур. 20]
-§7 - §fRefined Carp Oil §7[Lv. 30]@§7 - §fПереработанный Жир Карпа §7[Ур. 30]
-§7 - §fRefined Carp Meat §7[Lv. 30]@§7 - §fПереработанное Мясо Карпа §7[Ур. 30]
-§7 - §fRefined Oat String §7[Lv. 20]@§7 - §fПереработанная Овсяная Нить §7[Ур. 20]
-§7 - §fRefined Oat Grains §7[Lv. 20]@§7 - §fПереработанное Овсяное Зерно §7[Ур. 20]
-§7 - §fRefined Iron Ingot §7[Lv. 40]@§7 - §fПереработанный Слиток Железа §7[Ур. 40]
-§7 - §fRefined Iron Gem §7[Lv. 40]@§7 - §fПереработанный Железный Камень §7[Ур. 40]
-§7 - §fRefined Acacia Wood §7[Lv. 30]@§7 - §fПереработанная Древесина Акации §7[Ур. 30]
-§7 - §fRefined Acacia Paper §7[Lv. 30]@§7 - §fПереработанная Акациевая Бумага §7[Ур. 30]
-§7 - §fRefined Spruce Wood §7[Lv. 40]@§7 - §fПереработанная Древесина Ели §7[Ур. 40]
-§7 - §fRefined Spruce Paper §7[Lv. 40]@§7 - §fПереработанная Еловая Бумага §7[Ур. 40]
-§7 - §fRefined Hops String §7[Lv. 40]@§7 - §fПереработанная Хмельная Нить §7[Ур. 40]
-§7 - §fRefined Hops Grains §7[Lv. 40]@§7 - §fПереработанное Хмелевое Зерно §7[Ур. 40]
-§7 - §fRefined Malt String §7[Lv. 30]@§7 - §fПереработанная Солодовая Нить §7[Ур. 30]
-§7 - §fRefined Malt Grains §7[Lv. 30]@§7 - §fПереработанное Солодовое Зерно §7[Ур. 30]
-§7 - §fRefined Rye String §7[Lv. 50]@§7 - §fПереработанная Ржаная Нить §7[Ур. 50]
-§7 - §fRefined Rye Grains §7[Lv. 50]@§7 - §fПереработанное Ржаное Зерно §7[Ур. 50]
-§7 - §fRefined Jungle Wood §7[Lv. 50]@§7 - §fПереработанная Древесина Амаранта §7[Ур. 50]
-§7 - §fRefined Jungle Paper §7[Lv. 50]@§7 - §fПереработанная Амарантовая Бумага §7[Ур. 50]
-§7 - §fRefined Dark Wood §7[Lv. 60]@§7 - §fПереработанная Древесина Каштана §7[Ур. 60]
-§7 - §fRefined Dark Paper §7[Lv. 60]@§7 - §fПереработанная Каштановая Бумага §7[Ур. 60]
-§7 - §fRefined Icefish Oil §7[Lv. 40]@§7 - §fПереработанный Жир Щуки §7[Ур. 40]
-§7 - §fRefined Icefish Meat §7[Lv. 40]@§7 - §fПереработанное Мясо Щуки §7[Ур. 40]
-§7 - §fRefined Piranha Oil §7[Lv. 50]@§7 - §fПереработанный Жир Пираньи §7[Ур. 50]
-§7 - §fRefined Piranha Meat §7[Lv. 50]@§7 - §fПереработанное Мясо Пираньи §7[Ур. 50]
-§7 - §fRefined Millet String §7[Lv. 60]@§7 - §fПереработанная Просо Нить §7[Ур. 60]
-§7 - §fRefined Millet Grains §7[Lv. 60]@§7 - §fПереработанное Просо Зерно §7[Ур. 60]
-§7 - §fRefined Silver Ingot §7[Lv. 50]@§7 - §fПереработанный Слиток Серебра §7[Ур. 50]
-§7 - §fRefined Silver Gem §7[Lv. 50]@§7 - §fПереработанный Серебрянный Камень §7[Ур. 50]
-§7 - §fRefined Light Wood §7[Lv. 70]@§7 - §fПереработанная Древесина Клена §7[Ур. 70]
-§7 - §fRefined Light Paper §7[Lv. 70]@§7 - §fПереработанная Кленовая Бумага §7[Ур. 70]
-§7 - §fRefined Decay String §7[Lv. 70]@§7 - §fПереработанная Зараженная Нить §7[Ур. 70]
-§7 - §fRefined Decay Grains §7[Lv. 70]@§7 - §fПереработанное Зараженное Зерно §7[Ур. 70]
-§7 - §fRefined Rice String §7[Lv. 80]@§7 - §fПереработанная Рисовая Нить §7[Ур. 80]
-§7 - §fRefined Rice Grains §7[Lv. 80]@§7 - §fПереработанное Рисовое Зерно §7[Ур. 80]
-§cUnsellable@§cНепродаваемый
+
+
+
 §7Worth: 1 Emerald@§7Стоит: 1 Эмеральд
-§7- Refined Oat Grains 3@§7- Переработанное Овсяное Зерно 3
-§7- Refined Oat Grains 2@§7- Переработанное Овсяное Зерно 2
-§7- Refined Oat Grains 1@§7- Переработанное Овсяное Зерно 1
-§7- Refined Salmon Oil 1@§7- Переработанный Жир Лосося 1
-§f   - §7Duration: 3.0 Sec.@§f   - §7Длительность: 3.0 Сек.
+
+
 §7... my sacrifice, no one m§kus§7t search for me.@§7... моя жертва, никто не д§kолже§7н искать меня.
 §7You must fake my dea§kth§7, and create a body...@§7Ты должен инсценировать мою сме§kрть§7, и создать тело...
-§a- §7Effect: §f+17§c ✹ Defence@§a- §7Эффект: §f+17§c ✹ Защиты
-§817 and boost your Health@§817 и увеличит твое Здоровье
-§b   - §7Duration: 8.5 seconds@§b   - §7Длительность: 8.5 секунд
-§b   - §7Damage Boost: +180%@§b   - §7Увеличение Урона: +180%
-§b   - §7Damage: +2% ❉ / Mana Used@§b   - §7Урон: +2% ❉ / Использованной Маны
+
+
+
+
+
 §c✖§a Left-Click §7to refine to:@§c✖§a Левый Клик §7для переработки на:
 §c✖§6 Right-Click §7to refine to:@§c✖§6 Правый Клик §7для переработки на:
 §7angel wings@§7крылья ангела
-§7Teleports to: Llevigar@§7Телепорт в: Ллевигар
-§6§l⚔§6 Damage           §a■§a■§a■§a■§7■@§6§l⚔§6 Урон           §a■§a■§a■§a■§7■
-§6§l⚔§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§6 Урон           §a■§a■§7■§7■§7■
-§6§l⚔§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§6 Урон           §a■§a■§a■§a■§a■
-§c❤ Defence          §7■§7■§7■§7■§7■@§c❤ Защита          §7■§7■§7■§7■§7■
-§a➽ Range             §a■§a■§a■§a■§7■@§a➽ Дальность             §a■§a■§a■§a■§7■
-§d✺ Spells             §a■§a■§a■§a■§7■@§d✺ Заклинания             §a■§a■§a■§a■§7■
-§7§7The Shaman benefits from@§7§7Шаман получает преимущество от 
-§7powerful buffs, displacement,@§7мощных баффов, перемещения 
-§7and crowd-control abilities@§7и способности контролировать толпу, 
-§7at the cost of low defences.@§7в обмен на низкую защиту. 
-§7Using combos, they can aggressively@§7Используя комбо, шаманы могут агрессивно 
-§7engage huge amounts of enemies.@§7атаковать огромное количество врагов.
+
+
 §7- §aA Hunter's Calling §l✔@ 
 §7You will be in permanent@§7Ты будешь в постоянном
 §7hunted mode (PvP on).@§7режиме охотника (ПвП включено).
@@ -95,11 +30,11 @@
 §fLeft-Click§7 to view contents@§fЛевый Клик§7 для просмотра содержимого
 §7(Your pouch is empty)@§7(Твой мешок пуст)
 §7Right-Click to disable auto-pickup@§7Правый клик для отключения авто-подбора
-§7Class: §fShaman@§7Класс: §fШаман
+
 §7phoenix wings@§7крылья феникса
 §7fairy wings@§7крылья феи
 §7Right-Click to enable auto-pickup@§7Правый клик для включения авто-подбора
-§a- §7Tier: §fNormal@§a- §7Уровень: §fОбычный
+
 §a✔ Lv. 1: §f1§7 Copper Ingot§f Ⓑ@§a✔ Ур. 1: §f1§7 Слиток Меди§f Ⓑ
           §f2§7 Oak Wood§f Ⓒ@          §f2§7 Древесина Дуба§f Ⓒ
 §c✖ Lv. 10: §f2§7 Granite Ingot§f Ⓑ@§c✖ Ур. 10: §f2§7 Гранитный Слиток§f Ⓑ
@@ -115,9 +50,9 @@
 §6§lRelik Recipes:@§6§lрецепты Реликов:
 §a✔ Lv. 1: §f2§7 Gudgeon Oil§f Ⓚ@§a✔ Ур. 1: §f2§7 Жир Пескаря§f Ⓚ
 §c✖ Lv. 10: §f4§7 Trout Oil§f Ⓚ@§c✖ Ур. 10: §f4§7 Жир Форели§f Ⓚ
-§a✔§7 Class Req: Shaman@§a✔§7 Класс Необ.: Шаман
+
 §f1 x §b❉ Water Powder I@§f1 x §b❉ Порошок Воды I
-§c✖§7 Class Req: Shaman@§c✖§7 Класс Необ.: Шаман
+
 §3§b+Tempest: §3Arrow Storm fires@§3§b+Tempest: §3Шторм Стрел стреляет
 §3in all directions@§3во все направления
 §3§b+Saviour’s Sacrifice: §3While@§3§b+Saviour’s Sacrifice: §3При уменьшении
@@ -134,48 +69,33 @@
 §8resource@§8ресурсов
 §8broken t11 tools need 18 scraps@§8сломанному У11 инструменту нужно 18 скрапа
 §8to repair@§8для починки
-§6- §fHaul§7 [Lv. 11]@§6- §fБросок§7 [Ур. 11]
-§5- §7Totem Upgrade II §8[Lv. 16]@§5- §7Тотем Апгрейд II §8[Ур. 16]
-§6 - §a✔ §22 Earth Catalyst X@§6 - §a✔ §22 Катализатор Земли X
+
+
+
 §3§b+Entropy: §3Meteor falls@§3§b+Entropy: §3Метеор падает
 §3significatly faster@§3значительно быстрее
 §3§b+Guardian: §350% of damage@§3§b+Guardian: §350% урона
 §3§b+Roving Assassin: §3Vanish@§3§b+Roving Assassin: §3Исчезновение
 §3no longer drains mana while@§3больше не тратит ману при
 §3invisible@§3невидимости
-§5Mythic Item [6]@§5Мифический Предмет [6]
-§bLegendary Item [5]@§bЛегендарный Предмет [5]
-§bLegendary Item [6]@§bЛегендарный Предмет [6]
+
+
 §cHeal: 4@§cИсцеление: 4
 §a✔ Lv. 1: §f1§7 Gudgeon Oil§f Ⓚ@§a✔ Ур. 1: §f1§7 Жир Пескаря§f Ⓚ
           §f2§7 Wheat Grains§f Ⓙ@          §f2§7 Пшеничное Зерно§f Ⓙ
 §c✖ Lv. 10: §f2§7 Trout Oil§f Ⓚ@§c✖ Ур. 10: §f2§7 Жир Форели §f Ⓚ
             §f4§7 Barley Grains§f Ⓙ@            §f4§7 Ячменное Зерно§f Ⓙ
-§3- §7Teleports to: §fLutho@§3- §7Телепорт в: §fЛуто
-§5- §7Aura Spell §8[Lv. 21]@§5- §7Аура Заклинание §8[Ур. 21]
-§5- §7Dead Star Upgrade III §8[Lv. 56]@§5- §7Мертвая Звезда Апгрейд III §8[Ур. 56]
-§6- §fAura§7 [Lv. 21]@§6- §fАура§7 [Ур. 21]
-§5- §7Haul Upgrade II §8[Lv. 26]@§5- §7Бросок Апгрейд II §8[Ур. 26]
-§fEldritchÀÀÀOutlook§7 once@§fЖуткому Наблюдателю§7 единожды
+
+
+
+
+
 §7§kThis §khint §kwill §ktell §kyou @§7§kЭта §kподсказка §kподскажет §kтебе
 §7§kwhere §kto §kgo §knext: §khttp://jumla.in/Kk @§7§kкуда §kидти §kдальше: §khttp://jumla.in/Kk 
-§6 - §a✔ §21 Golden Clock@§6 - §a✔ §21 Золотые Часы
-§6 - §c✖ §41 Golden Clock@§6 - §c✖ §41 Золотые Часы
+
 §cShift Right-Click to enable hunted@§cШифт Правый Клик для включения охотника
-§a- §7Effect: §f+4 Main Attack Damage@§a- §7Эффект: §f+4 Урона Основной Атаки
-§827 and boost your Main Attack@§827 и увеличит твою Основную Атаку
-§a- §7Type: §fNecklace@§a- §7Тип: §fАмулет
-§a- §7Type: §fDagger@§a- §7Тип: §fКинжал
-§a- §7Type: §fWand@§a- §7Тип: §fПосох
-§a- §7Type: §fChestplate@§a- §7Тип: §fНагрудник
-§a- §7Type: §fLeggings@§a- §7Тип: §fШтаны
-§a- §7Type: §fBoots@§a- §7Тип: §fБотинки
-§a- §7Type: §fHelmet@§a- §7Тип: §fШлем
-§a- §7Type: §fRing@§a- §7Тип: §fКольцо
-§a- §7Type: §fSpear@§a- §7Тип: §fКопье
-§a- §7Type: §fBow@§a- §7Тип: §fЛук
-§a- §7Type: §fBracelet@§a- §7Тип: §fБраслет
-§a- §7Type: §fRelik@§a- §7Тип: §fРелик
+
+
 
 
 
