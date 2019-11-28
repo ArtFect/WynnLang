@@ -438,6 +438,8 @@
 §c§lHardcore ☠§2 [Enabled]@§c§lХардкор ☠§2 [Включен]
 §3§lCraftsman ✿@§3§lРемесленник ✿
 §3§lCraftsman ✿§2 [Enabled]@§3§lРемесленник ✿§2 [Включен]
+§5§lHunted ⚔@§5§lОхотник ⚔
+§5§lHunted ⚔§2 [Enabled]@§5§lОхотник ⚔§2 [Включен]
 §a§lSearch@§a§lПоиск
 §a§lClick to continue@§a§lКликни для продолжения
 §a§lAttack@§a§lАтаковать
@@ -533,6 +535,7 @@
 §f        Select §6§lKnight@§f        Выбрать §6§lРыцаря
 §f     Select §6§lDark Wizard@§f     Выбрать §6§lТемного Волшебника
 §f        Select §6§lNinja@§f        Выбрать §6§lНиндзя
+§f        Select §6§lShaman@§f        Выбрать §6§lШамана
 §7Accessory Slot@§7Слот для Аксессуара
 §r§lAttack Effect@§7§lЭффекты Атаки
 §r§lPlayer Effects@§7§lЭффекты Игрока
@@ -622,6 +625,16 @@
 §7§lClick the Empty Slot to Search an Item@§7§lКликни на Пустой Слот для Поиска Предмета
 §aPlayers ➠ Enabled@§aИгроки ➠ Включены
 §bCharacter Info@§bИнфо о Персонаже
+§dQuest Book@§dКвестовая Книга
+§6Ingredient Pouch@§6Мешок для Ингредиентов
+§f§lMini-Quests@§f§lМини-Квесты
+§7Jump to Page 1@§7Перейти на 1 страницу
+§7Jump to Page 5@§7Перейти на 5 страницу
+§7Jump to Page 9@§7Перейти на 9 страницу
+§7Jump to Page 13@§7Перейти на 13 страницу
+§7Jump to Page 17@§7Перейти на 17 страницу
+§7Jump to Page 21@§7Перейти на 21 страницу
+§cClick to confirm@§cКликни для подтверждения
 
 #####################Торговцы############################
 §aTribal Weapon Shop@§aМагазин Оружия Племени
@@ -1005,6 +1018,8 @@
 §bCorkusÀÀÀCity Teleport Scroll@§bСвиток Телепортации в Коркус Сити
 §bLlevigar Teleport Scroll@§bСвиток Телепортации в Ллевигар
 §bLlevigar Teleport ScrollÀ@§bСвиток Телепортации в Ллевигар
+Llevigar Teleportation Scroll@Свиток Телепортации в Ллевигар
+§bLutho Teleport ScrollÀ@§bСвиток Телепортации в Луто
 §bDetlas Teleport Scroll@§bСвиток Телепортации в Детлас
 §bDetlas Teleport ScrollÀ@§bСвиток Телепортации в Детлас 
 §bSelchar Teleport Scroll@§bСвиток Телепортации в Сельчар
@@ -1278,6 +1293,7 @@ UnderworldÀÀÀCrypt Key@§6Ключ от Подземного Склепа
 §4CorruptedÀÀÀLostÀÀÀSanctuary Key@§4Испорченный Ключ от Затерянного Святилища
 §4Broken CorruptedÀÀÀLostÀÀÀSanctuary KeyÀ@§4Разбитый Испорченный Ключ от Затерянного Святилища
 §4Broken CorruptedÀÀÀLostÀÀÀSanctuary Key@§4Разбитый Испорченный Ключ от Затерянного Святилища
+§6EldritchÀÀÀOutlook KeyÀ@§6Ключ от Жуткого Наблюдателя
 
 ########################catalyst#######################
 Earth Catalyst I@Катализатор Земли I
@@ -1753,6 +1769,10 @@ Quarry's Old Clock@Старые Карьерные Часы
 Lexdale's Shattered Clock@Разрушенные Часы Лексдейла
 A Hobbit's Cracked Clock@Треснувшие Часы Хоббита
 Olux's Dusty Clock@Пыльные Часы Олукса
+Llevigar's Broken Clock@Сломанные Часы Ллевигара
+Gelibord's Rusted Clock@Ржавые Часы Гелиборда
+Aldorei's Defective Clock@Детективные Часы Алдорей
+§fGolden Clock@§fЗолотые Часы
 §7Molten Sludge@§7Расплавленный Осадок
 §7Ogre Hide@§7Шкура Огра
 §7Golden Teeth@§7Золотой Зуб
@@ -1919,6 +1939,13 @@ Library Key@Библиотечный Ключ
 §fChocolate Wybel Token@§fШоколадный Вубел Жетон
 §cKing Effect@§cЭффект Короля
 §6Golden Bow@§6Золотой Лук
+§4Despawn your Fire Dragonling@§4Деспавнить твоего Огненного Драгонлинга
+§cAngels Wings Effect@§cЭффект Крыльев Ангела
+§aSpawn Orange Wybel§7 [Orange Wybel]@§aЗаспавнить Оранжевого Вубела§7 [Оранжевый Вубел]
+§cPhoenix Wings Effect@§cЭффект Крыльев Феникса
+§cFairy Wings Effect@Эффект Крыльев Феи
+§4Despawn your Orange Wybel@§4Деспавнить твоего Оранжевого Вубела
+
 
 ########################Обычные предметы########################
 §6§lSiegfried Mug@§6§lКружка Зигфрида
@@ -2010,6 +2037,8 @@ Gathering Rod 1@Сборная Удочка 1
 Gathering Scythe 5@Сборная Мотыга 5
 Gathering Pickaxe 5@Сборная Кирка 5
 Gathering Axe 5@Сборный Топор 5
+Gathering Scythe 3@Сборная Мотыга 3
+Gathering Axe 3@Сборный Топор 3
 §fBrown HorseÀ@§fКоричневая Лошадь
 §fBrown Horse@§fКоричневая Лошадь
 §fBlack HorseÀ@§fЧерная Лошадь
@@ -2079,6 +2108,22 @@ Refined Oak Paper 1@Переработанная Дубовая Бумага 1
 Refined Wheat String 1@Переработанная Пшеничная Нить 1
 Unprocessed Copper Ore@Необработанная Медная Руда
 Unprocessed Wheat@Необработанная Пшеница
+Crafted Dagger@Крафтовый Кинжал
+Flamingo Feather@Письмо Фламинго
+Unprocessed Oak Log@Необработанное Бревно Дуба
+Painting@Картина
+§6Sea§kled L§6etter §7(§k?§7/§k1§70)@§6Запеча§kтанное П§6исьмо §7(§k?§7/§k1§70)
+§fCoconut@§fКокос
+Snowbell@Снижок
+§fUnidentified Helmet@§fНеидентифицированный Шлем
+Dropped Key@Выброшенный Ключ
+Acanit's Token@Жетон Аканита
+Tempus' Token@Жетон Темпуса
+Time Travelling Token@Жетон Путешествия во Времени
+The Eternal Token@Вечный Жетон
+The Mender's Token@Жетон Починщика
+The Devourer's Token@Жетон Пожирателя
+Jupiter's Token@Жетон Юпитера
 §7§lBosses@§7§lБоссы
 
 ###########################Открытия###########################
@@ -2162,4 +2207,6 @@ Unprocessed Wheat@Необработанная Пшеница
 §dUnidentified Necklace@§dНеидентифицированный Амулет
 §bUnidentified Necklace@§bНеидентифицированный Амулет
 §aUnidentified Necklace@§aНеидентифицированный Амулет
-§dQuest Book@§dКвестовая Книга
+§dUnidentified Relik@§dНеидентифицированный Релик
+§eUnidentified Relik@§eНеидентифицированный Релик
+§bUnidentified Relik@§bНеидентифицированный Релик
