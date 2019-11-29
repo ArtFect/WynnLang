@@ -1,9 +1,8 @@
-§7Lv. (\d+)§f - §l§b(.*)§f - §7(\d+)% XP@ 
 §(a|c)(.*)§(2|4) \[(.*)\]@ 
 
-
-§3Double Combat XP from §b(.*)§7 \[§f(\d+)§7 min\]@ 
-§3Free Dungeon Entry from §b(.*)§7 \[§f(\d+)§7 min\]@ 
-§3Double Profession XP from §b(.*)§7 \[§f(\d+)§7 min\]@ 
-§3Double Profession Speed from §b(.*)§7 \[§f(\d+)§7 min\]@ 
-§3Double Loot from §b(.*)§7 \[§f(\d+)§7 min\]@ 
+§7Lv. (\d+)§f - §l§b(.*)§f - §7(\d+)% XP@§7Ур. (r1)§f - §l§b(r2)§f - §7(r3)% XP 
+§3Double Combat XP from §b(.*)§7 \[§f(\d+)§7 min\]@§3Двойные Комбат XP от §b(r1)§7 [§f(r2)§7 мин]
+§3Free Dungeon Entry from §b(.*)§7 \[§f(\d+)§7 min\]@§3Бесплатный Вход в Данж от §b(r1)§7 [§f(r2)§7 мин] 
+§3Double Profession XP from §b(.*)§7 \[§f(\d+)§7 min\]@§3Двойные XP Профессий от §b(r1)§7 [§f(r2)§7 мин]
+§3Double Profession Speed from §b(.*)§7 \[§f(\d+)§7 min\]@§3Двойная Скорость Профессий от §b(r1)§7 [§f(r2)§7 мин] 
+§3Double Loot from §b(.*)§7 \[§f(\d+)§7 min\]@§3Двойной Лут от §b(r1)§7 [§f(r2)§7 мин]
