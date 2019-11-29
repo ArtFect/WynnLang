@@ -1656,13 +1656,6 @@ QUESTS/Shattered_Minds.txt =====
 §7Talk to Elder Berusia @§7Поговори со Старцем Берусия 
 §7Talk to Likeru @§7Поговори с Ликеру
  
-QUESTS/Sister_City.txt ===== 
-§7Talk to Lil in Detlas @§7Поговори с Лил в Детласе на 
-§7[454,67,-1560]@ 
-§7Travel to Selchar and bring @§7Отправься в Сельчар и принеси 
-§7back [12 Hourglass Sand] to @§7[12 Песчинок для часов] к 
-§7Lil @§7Лил
- 
 QUESTS/Stable_Story.txt ===== 
 §7Talk to Enkser in Ternaves @§7Поговори с Энксером в Тернейвс на 
 §7[828,69,-1636]@ 
@@ -2252,17 +2245,6 @@ QUESTS/The_Thanos_Vaults.txt =====
 §7Thanos's secret vault @§7секретного хранилища Таноса
 §7Bring the gold back to @§7Принеси золото обратно 
 §7Dolem @§7Долему 
- 
-QUESTS/The_Tower_of_Amnesia_(Quest).txt ===== 
-§7Talk to Tinemild near Elkurn @§7Поговори с Тинемилдом около Элкурна 
-§7[87,76,-1200]@ 
-§7Bring back [1 Ragni Teleportation @§7Принеси [1 Рагни свиток 
-§7Bring back [1 Detlas Teleportation @§7Принеси [1 Детлас свиток 
-§7Bring back [1 Nemract Teleportation @§7Принеси [1 Немракт свиток 
-§7Bring back [1 Selchar Teleportation @§7Принеси [1 Сельчар свиток 
-§7Bring back [1 Almuj Teleportation @§7Принеси [1 Алмуж свиток 
-§7Bring back [1 Nesaak Teleportation @§7Принеси [1 Несаак свиток 
-§7Scroll] to Tinemild @§7телепортации] Тинемилду 
  
 QUESTS/The_Ultimate_Weapon.txt =====
 §7Speak to Dodegar Bandysnoot at @§7Поговори с Додегаром на 
