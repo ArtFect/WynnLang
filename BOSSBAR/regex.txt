@@ -1,2 +1,9 @@
 §7Lv. (\d+)§f - §l§b(.*)§f - §7(\d+)% XP@ 
-§c(.*)§4 \[(.*)\]@ 
+§(a|c)(.*)§(2|4) \[(.*)\]@ 
+
+
+§3Double Combat XP from §b(.*)§7 \[§f(\d+)§7 min\]@ 
+§3Free Dungeon Entry from §b(.*)§7 \[§f(\d+)§7 min\]@ 
+§3Double Profession XP from §b(.*)§7 \[§f(\d+)§7 min\]@ 
+§3Double Profession Speed from §b(.*)§7 \[§f(\d+)§7 min\]@ 
+§3Double Loot from §b(.*)§7 \[§f(\d+)§7 min\]@ 
