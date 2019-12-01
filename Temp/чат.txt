@@ -10,7 +10,6 @@
 
 §7[1/2] §2Psilo: §aWelcome, welcome! My humble little home welcomes travellers of all shapes and sizes!@§7[1/2] §2Psilo: §aПривет и добро пожаловать! Мой скромный маленький дом приветствует путешественников всех форм и размеров!
 §7[2/2] §2Psilo: §aHowever, the problem I'm having can't be solved by anyone under Level 76. Come back when you can!@§7[2/2] §2Psilo: §aТем не менее, проблема, с которой я столкнулся, не может быть решена кем-либо ниже 76 уровня. Возвращайся, когда сможешь!
-§7[1/1] §2Ahmsord Citizen: §aI'm so glad Sky's Kitchen reopened recently. The food there is delicious!@§7[1/1] §2Ahmsord Citizen: §aЯ так рад, что ресторан Sky's Kitchen открылся недавно. Еда там очень вкусная!
 §7[1/5] §2Worid: §aGreat, you've proven your ability of stealth and strength by breaking into the storage in Detlas, we can start the real thing now.@§7[1/5] §2Worid: §aОтлично, ты доказал свою способность к скрытности и силе, взломав хранилище в Детласе, мы можем начать настоящее дело прямо сейчас.
 §7[2/5] §2Worid: §aYou see, Almuj has a very well guarded emerald vault named "The Emerald Labyrinth".@§7[2/5] §2Worid: §aВидишь ли, в Алмуже есть очень хорошо охраняемое хранилище эмеральдов, называемое "Эмеральдовый Лабиринт"
 §7[3/5] §2Worid: §aIt is guarded with tons of well trained Guard Golem, who can kill anyone in one hit.@§7[3/5] §2Worid: §aТам находится очень много тренированных охранников-големов, которые могут с легкостью убить любого за один удар...
@@ -45,48 +44,36 @@
 §7[1/1] §2Gaclux: §aThis rune is sealing Orphion... I suggest you stay away in case he ever breaks free.@§7[1/1] §2Gaclux: §aЭта руна запечатывает Орфиона... Я советую тебе держаться подальше на случай, если он когда-нибудь вырвется на свободу
 §7[1/1] §2Gaclux: §aHey! Are you just going to be abandon us in our time of need?@§7[1/1] §2Gaclux: §aЭй! Ты просто собираешься бросить нас в наше время нужды?
 §7[1/5]§2 Rex:§a We got this, just take care of the monsters while we build the bridge!@§7[1/5]§2 Rex:§a Отлично, просто держи монстров подальше от нас, пока мы строим мост!
-
-§7[1/1]§2 Captain Olof:§a Get out of here and try again!
-§7[1/2] §2Burne: §aI'm bored, I want to go back home.
-§7[2/2] §2Burne: §aI just came because I wanted the reward, I'm not planning on helping.
-§7[1/5] §2Cinfras Citizen: §aOh, a human, eh? You must be fairly strong to have gotten here. Let me help you out with a bit of advice, then.
-§7[2/5] §2Cinfras Citizen: §aIn The Canyon of the Lost to the east, there's...a dreadful place. The Qira Hive, people call it. No one likes talking about it.
-§7[3/5] §2Cinfras Citizen: §aAn immensely powerful sorceress, Qira, own it. She's somehow managed to get it recognized as a sovereign state. We can't touch her.
-§7[4/5] §2Cinfras Citizen: §aShe offers a challenge to fight your way through her Hive... Apparently if you do it, you get to talk with her and broker for some kind of request.
-§7[5/5] §2Cinfras Citizen: §aOnly a couple of groups have ever done it. Only one ever came back. If you value your life, steer clear. We don't need soldiers like you dying on us.
-§7[1/1] §2Guardian of The Forest: §a...
-§7[1/1] §2Damien: §aI probably owe you my life. Thank you so much for the medicine.
-§7[1/2] §2Talking Mushroom: §aOH MY, LOOKS WHO'S BACK. HERE I THOUGHT I WAS FREE OF YOUR GRASP AND THEN YOU COME BACK HERE.
-§7[2/2] §2Talking Mushroom: §aWAS PUTTING ME ON SOME EGGS NOT GOOD ENOUGH FOR YOU? I BARELY MANAGED TO RUN AWAY LOSING JUST A STEM!
-§7[1/2] §2Jesp: §aPfft. I would've done a better job saving the windshield.
-§7[2/2] §2Jesp: §aToo bad I was in another room.
-§7[1/1] §2Elio: §aUNTIE ME!
-§7[1/1] §2Hazel: §aDid you ever find out anything about the decay? Eh, whatever. It doesn't matter. There's nothing we can do about it.
-§7[1/1] §2Mansion Guard: §aOi', you! Whatcha' think yer' doin' sneakin' around these parts? This be a restricted area! Yer' headed to the jail cell!
-§7[1/1] §2Trials Overseer: §aMove along, ya' got clearance to board the airship!
-§7[1/1] §2Hrona: §aCongratulations, my queen! May yer rule be the best one!
-§7[1/2] §2Talking Mushroom: §aYOU KNOW, HAVE I EVER TOLD YOU HOW MUCH I HA-
-§7[2/2] §2Talking Mushroom: §aACTUALLY, WHERE EVEN ARE WE? THIS PLACE FEELS WEIRDLY FAMILIAR, AS IF I'VE BEEN HERE BEFORE.
-§7[1/1] §2Regulux: §aBy destroying those seeds, you have not just saved my life, but all of the heliolux. On behalf of them, thank you.
-§7[1/1] §2YahyaBot V4.04: §aY-you're going to h-have to beat me if you want a taste of my m-m-mushroom soup!
-§7[1/2] §2YahyaBot V4.04: §aWARNING: Defense systems critical! Power reserves low! Mushroom fuel reserves empty!
-§7[2/2] §2YahyaBot V4.04: §aInitiating emergency shutdown...
-§7[1/1] §2Dr. Legendary: §aLadies and gentlemen, performing you live from Legendary Stadium... it^s Death Metal and the Ascendant Bosses!
-§7[1/1] §2Robob: §aOnly the most powerful warriors are worthy to face me. And by the looks of it, you barely made the cut.
-§7[1/1] §2Orange Cybel: §aYou've wasted every chance you had to turn back. And you're §a§oreally§a not going to like what happens now.
-§7[1/2] §2Dr. Legendary: §aSo, you decided to come, then? Then let's see how you fare against the Champion of Legendary Island...
-§7[2/2] §2Dr. Legendary: §a§lDoctor Herbert von Legendary!
-§7[1/6] §2Dr. Legendary: §a...
-§7[2/6] §2Dr. Legendary: §aI'm still in shock. I, the creator and controller of the strongest mechs in the world, have been defeated!
-§7[3/6] §2Dr. Legendary: §aAll of my research, sponsored by Corkus, of course, was still not enough. You have truly bested me.
-§7[4/6] §2Dr. Legendary: §aI trust that you have received all of your tokens. You can make yourself a powerful accessory with all of those.
-§7[5/6] §2Dr. Legendary: §aYou've earned those tokens, but they might not be enough to maximize the power of an accessory.
-§7[6/6] §2Dr. Legendary: §aYou'll have to go through the challenge all over again if you want more tokens. And I'm ready for a rematch any time!
-§7[1/5] §2Dr. Legendary: §aDrat! And those mechs were so expe- Oh! Great job defeating Death Metal!
-§7[2/5] §2Dr. Legendary: §aBut this next one might be the end of you. The jungles of Wynn also spoke of a creature far more powerful and dangerous than the Idol.
-§7[3/5] §2Dr. Legendary: §aWhile I was unable to approach it myself, a man outside of a temple told me all about the monster in question.
-§7[4/5] §2Dr. Legendary: §aWhich is why I am proud to present you the §e§lMechorrupter of Worlds§a, the first enemy of the Gold Tier!
-§7[5/5] §2Dr. Legendary: §aThe reward for forfeit, to your right, isn't too bad. You can stop now if you want, or risk it all and keep going!
+§7[1/1] §2Guardian of The Forest: §a...@ 
+§7[1/1] §2Damien: §aI probably owe you my life. Thank you so much for the medicine.@§7[1/1] §2Damien: §aНаверное, я обязан тебе жизнью. Большое спасибо за лекарство.
+§7[1/2] §2Talking Mushroom: §aOH MY, LOOKS WHO'S BACK. HERE I THOUGHT I WAS FREE OF YOUR GRASP AND THEN YOU COME BACK HERE.@§7[1/2] §2Talking Mushroom: §aОЙ-ОЙ, СМОТРИТЕ, КТО ВЕРНУЛСЯ. Я ДУМАЛ, ЧТО ЗДЕСЬ БУДУ СВОБОДЕН ОТ ТВОИХ ГРЯЗНЫХ РУК, А ТЫ ВЗЯЛ И ВЕРНУЛСЯ СЮДА.
+§7[2/2] §2Talking Mushroom: §aWAS PUTTING ME ON SOME EGGS NOT GOOD ENOUGH FOR YOU? I BARELY MANAGED TO RUN AWAY LOSING JUST A STEM!@§7[2/2] §2Talking Mushroom: §aЧТО, ДУМАЛ ПОРЕЗАТЬ МЕНЯ К ЯЙЦАМ НЕДОСТАТОЧНО ХОРОШО ДЛЯ ТЕБЯ? Я ЕДВА УСПЕЛ УБЕЖАТЬ, ПОТЕРЯВ ТОЛЬКО НОЖКУ!
+§7[1/1] §2Hazel: §aDid you ever find out anything about the decay? Eh, whatever. It doesn't matter. There's nothing we can do about it.@§7[1/1] §2Hazel: §aТы уже нашел что-нибудь о заражении? Эх, неважно. Это не имеет значения. Мы ничего не можем с этим поделать.
+§7[1/1] §2Mansion Guard: §aOi', you! Whatcha' think yer' doin' sneakin' around these parts? This be a restricted area! Yer' headed to the jail cell!@§7[1/1] §2Mansion Guard: §aЭй, ты! Ты что, думал что сможешь проскользнуть через всех нас? Это частная территория, ты направляешься в тюремную клетку!
+§7[1/1] §2Trials Overseer: §aMove along, ya' got clearance to board the airship!@§7[1/1] §2Trials Overseer: §aДвигайся вперед, у тебя есть разрешение на посадку на дирижабль!
+§7[1/1] §2Hrona: §aCongratulations, my queen! May yer rule be the best one!@§7[1/1] §2Hrona: §aПоздравляю, моя королева! Пусть твое правление будет лучшим!
+§7[1/2] §2Talking Mushroom: §aYOU KNOW, HAVE I EVER TOLD YOU HOW MUCH I HA-@§7[1/2] §2Talking Mushroom: §aЗНАЕШЬ, Я КОГДА-НИБУДЬ ГОВОРИЛ ТЕБЕ, НА СКОЛЬКО Я НЕНАВ-
+§7[2/2] §2Talking Mushroom: §aACTUALLY, WHERE EVEN ARE WE? THIS PLACE FEELS WEIRDLY FAMILIAR, AS IF I'VE BEEN HERE BEFORE.@§7[2/2] §2Talking Mushroom: §aХОТЯ, ГДЕ МЫ ВООБЩЕ НАХОДИМСЯ? ЭТО МЕСТО КАЖЕТСЯ СТРАННО ЗНАКОМЫМ, КАК БУДТО Я БЫЛ ЗДЕСЬ РАНЬШЕ.
+§7[1/1] §2Regulux: §aBy destroying those seeds, you have not just saved my life, but all of the heliolux. On behalf of them, thank you.@§7[1/1] §2Regulux: §aУничтожив эти семена, ты спас не только мою жизнь, но и всех хелиолуксов. От их имени благодарю тебя.
+§7[1/1] §2YahyaBot V4.04: §aY-you're going to h-have to beat me if you want a taste of my m-m-mushroom soup!@§7[1/1] §2YahyaBot V4.04: §aТ-тебе придется побить м-меня, если ты хочешь попробовать мой г-г-грибной суп!
+§7[1/2] §2YahyaBot V4.04: §aWARNING: Defense systems critical! Power reserves low! Mushroom fuel reserves empty!@§7[1/2] §2YahyaBot V4.04: §aВНИМАНИЕ: системы защиты в критическом состоянии! Запасы энергии на исходе! Запасы грибного топлива на нуле!
+§7[2/2] §2YahyaBot V4.04: §aInitiating emergency shutdown...@§7[2/2] §2YahyaBot V4.04: §aИнициирую аварийное отключение...
+§7[1/1] §2Dr. Legendary: §aLadies and gentlemen, performing you live from Legendary Stadium... it^s Death Metal and the Ascendant Bosses!@§7[1/1] §2Dr. Legendary: §aДамы и господа, вещаем в прямом эфире с Легендарного Стадиона... И это Death Metal и Вознесенные Боссы!
+§7[1/1] §2Robob: §aOnly the most powerful warriors are worthy to face me. And by the looks of it, you barely made the cut.@§7[1/1] §2Robob: §aТолько самые сильные воины достойны встретиться со мной лицом к лицу. И судя по всему, ты едва успел пройти начальный отбор.
+§7[1/1] §2Orange Cybel: §aYou've wasted every chance you had to turn back. And you're §a§oreally§a not going to like what happens now.@§7[1/1] §2Orange Cybel: §aТы упустил все шансы повернуть назад. И тебе §a§oдействительно§a не понравится то, что произойдет сейчас.
+§7[1/2] §2Dr. Legendary: §aSo, you decided to come, then? Then let's see how you fare against the Champion of Legendary Island...@§7[1/2] §2Dr. Legendary: §aЗначит, ты решил продолжить? Тогда давай посмотрим, как ты справишься с Чемпионом Легендарного Острова...
+§7[2/2] §2Dr. Legendary: §a§lDoctor Herbert von Legendary!@§7[2/2] §2Dr. Legendary: §a§lДоктор Герберт фон Легендарный!
+§7[1/6] §2Dr. Legendary: §a...@ 
+§7[2/6] §2Dr. Legendary: §aI'm still in shock. I, the creator and controller of the strongest mechs in the world, have been defeated!@§7[2/6] §2Dr. Legendary: §aЯ все еще в шоке. Я, создатель и контролер самых сильных роботов в мире, потерпел поражение!
+§7[3/6] §2Dr. Legendary: §aAll of my research, sponsored by Corkus, of course, was still not enough. You have truly bested me.@§7[3/6] §2Dr. Legendary: §aВсех моих исследований, спонсируемыех Коркусом, было все еще недостаточно. Ты действительно превзошел меня.
+§7[4/6] §2Dr. Legendary: §aI trust that you have received all of your tokens. You can make yourself a powerful accessory with all of those.@§7[4/6] §2Dr. Legendary: §aЯ верю, что ты получил все свои жетоны. Ты можешь сделать себе мощный аксессуар со всеми ними.
+§7[5/6] §2Dr. Legendary: §aYou've earned those tokens, but they might not be enough to maximize the power of an accessory.@§7[5/6] §2Dr. Legendary: §aТы заработал эти жетоны, но их может быть недостаточно, чтобы максимизировать силу аксессуара.
+§7[6/6] §2Dr. Legendary: §aYou'll have to go through the challenge all over again if you want more tokens. And I'm ready for a rematch any time!@§7[6/6] §2Dr. Legendary: §aТебе придется пройти через вызов снова и снова, если ты хочешь больше жетонов. И я готов к реваншу в любое время!
+§7[1/5] §2Dr. Legendary: §aDrat! And those mechs were so expe- Oh! Great job defeating Death Metal!@§7[1/5] §2Dr. Legendary: §aЧерт! И эти роботы были такими опыт- Ох! Отличная работа, победил самого Death Metal!
+§7[2/5] §2Dr. Legendary: §aBut this next one might be the end of you. The jungles of Wynn also spoke of a creature far more powerful and dangerous than the Idol.@§7[2/5] §2Dr. Legendary: §aНо следующий может стать твоим концом. В джунглях Винн также говорили о существе гораздо более могущественном и опасном, чем Idol.
+§7[3/5] §2Dr. Legendary: §aWhile I was unable to approach it myself, a man outside of a temple told me all about the monster in question.@§7[3/5] §2Dr. Legendary: §aВ то время как я не мог подойти к нему сам, человек за пределами храма рассказал мне все о монстре, о котором идет речь.
+§7[4/5] §2Dr. Legendary: §aWhich is why I am proud to present you the §e§lMechorrupter of Worlds§a, the first enemy of the Gold Tier!@§7[4/5] §2Dr. Legendary: §aВот почему я с гордостью представляю тебе §e§lMechorrupter of Worlds§a - первого врага Золотого уровня!
+§7[5/5] §2Dr. Legendary: §aThe reward for forfeit, to your right, isn't too bad. You can stop now if you want, or risk it all and keep going!@§7[5/5] §2Dr. Legendary: §aНаграда за уход, справа от тебя, не так уж и плоха. Ты можешь остановиться сейчас, если хочешь, или рискнуть всем и продолжать идти!
 §7[1/5] §2Dr. Legendary: §aCongratulations! You've defeated your first challenger of the Gold tier! That's more than most can say.
 §7[2/5] §2Dr. Legendary: §aBut you're bound to have heard of the next challenger. During my Corkus-funded travels, I heard every story of Bob known to man.
 §7[3/5] §2Dr. Legendary: §aI amassed all of my research into one of my finest creations! So I wish you good luck in defeating the one and only...
