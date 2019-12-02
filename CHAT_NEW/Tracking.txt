@@ -382,6 +382,7 @@
 §7Find the secret passageway into the general's office@§7Найди секретный вход в офис генерала 
 §7Return to General Lecade@§7Вернись к Генералу Лекейду
 ======
+§7Talk to Monte at [-550,61,-747]@§7Поговори с Монте на [-550,61,-747]
 §7Visit the salesman in Troms near the fountain@§7Посети торговца в Тромсе рядом с фонтаном 
 §7Talk to Isfurus in Dernel at [-803,33,-374]@§7Поговори с Исфурусом в Дернел на [-803,33,-374]
 §7Get the bottles filled by Erisk in the heart of the fountain to give Isfurus@§7Попроси Эриска наполнить бутылку в сердце фонтана, которую тебе дал Исфурус
@@ -454,7 +455,8 @@
 §7Talk back to Worid@§7Поговори с Воридом 
 ========
 §7Exit the caravan@§7Покинь караван 
-§7Walk down the path towards the Wynn Province@§7Пройди по дороге в сторону провинции Винн 
+§7Walk down the path towards the Wynn Province@§7Пройди по дороге в сторону провинции Винн
+§7Continue through the Wynn Province to the castle@§7Пройди по дороге в сторону провинции Wynn
 §7Talk to the old man@§7Поговори со стариком 
 §7Investigate the broken bridge@§7Осмотри разрушенный мост 
 §7Search for another way across the ravine@§7Найди способ перебраться на ту сторону 
@@ -473,6 +475,7 @@
 §7Get the sceptre from the abandoned house at [1220, 77, -1873]@§7Достань скипетр из разрушенного дома на [1220, 77, -1873]
 §7Return to the tomb and hand the sceptre to Lanu.@§7Вернись к гробнице и передай скипетр Лану
 =======
+§7Talk to Burtur at [-980,45,-5305]@§7Поговори с Буртуром на [-980,45,-5305]
 §7Take a look at the graveyard at [-998,48,-5340]@§7Посмотри на могилу на [-998,48,-5340]
 §7Go to the location shown on the gravestone@§7Иди по координатам указанным на надгробной плите
 §7Find a way into the basement@§7Найди способ попасть в подвал
@@ -555,6 +558,7 @@
 §7Bring the key to the Master Bedroom@§7Принеси ключ к главной спальне 
 §7Enter the Master Bedroom@§7Войди в главную спальню
 §7Bring the key to Timmy's bedroom@§7Принеси ключ к спальне Тимми
+§7Speak with the Possessed Mr. Caritat@§7Поговори с одержимым мистером Каритатом
 §7Navigate the Caritat's basement@§7Пройдись по подвалу Каритатов 
 §7Escape through the mysterious rift@§7Сбеги через загадочную расщелину 
 =====
@@ -687,6 +691,7 @@
 ======
 §7Talk to Kelight at the entrance of the Temple of the Legends, close to Troms at [-693,68,-993]@§7Поговори с Келайгтом на входе в Храм Легенд, недалеко от Тромса [-693,68,-993]
 §7Bring back [1 Yahya's Stained Bowl], [1 Maltic's Recommendation Letter] and [1 Corrupted Potato] to Kelight@§7Принеси [1 Использованную Миску Яхуя], [1 Рекомендательное Письмо Малтикa], и [1 Испорченную Картошку] Келайгту 
+§7Bring back [1 Bob's Crushed Soul], [1 Sayleros' Brother Ashes] and [1 The Mummy's Bandage] to Kelight@§7Принеси [1 Измельченную душу Бобa], [1 Прах брата Сайлероса], и [1 Бинт мумии] Келайгту
 §7Talk to Jorkin close to the Nether portal about lightdust@§7Поговори с Джоркином рядом с порталом в ад насчет светопыли 
 §7Find the lightdust cavern located around the Nether Portal@§7Найди пещеру со светопылью рядом с порталом в Ад 
 §7Retrieve [1 Light Dust] for Jorkin to look at@§7Добудь [1 Светопыль] для Джоркина 
@@ -882,6 +887,8 @@
 §7Collect 10 tokens and hand them to the Floor Master@§7Собери 10 жетонов и отдай их Мастеру Этажа
 §7Collect the boss token and hand it to the Floor Master@§7Собери жетон с босса и отдай его Мастеру Этажа 
 §7Begin the Second Floor@§7Начни Второй этаж 
+§7Begin the Third Floor@§7Начни Третий Этаж
+§7Begin the Fourth Floor@§7Начни Четвертый Этаж
 §7Begin the Sixth Floor@§7Начни Шестой этаж
 §7Begin the Seventh Floor@§7Начни Седьмой этаж 
 =========
@@ -952,18 +959,26 @@
 §7Report back to Excavator Placardus with a [Red Crystal Shard]@§7Сообщи обо всем Раскопщику Плакардусу с [Красным Осколком Кристалла]
 =======
 §7Talk to Royal Advisor Carlos in Troms Castle [-848,98,-789] (Requires shard from Site C)@§7Поговори с Королевским Советником Карлосом в замке Тромсa [-848,98,-789] (Необходим осколок из Site C)
+§7Find the secret passageway inside of the throne room@§7Найди секретный проход внутри тронного зала
 §7Explore the secrets beneath Troms Castle@§7Исследуй секреты под замком Тромса
 §7Talk to the King@§7Поговори с Королем
 §7Exit the King's room@§7Покинь комнату Короля
 §7Escape Troms@§7Сбеги из Тромса
 §7Head to the location on the note@§7Следуй по координатам на записке 
 §7Find the three map fragments by following the eyes and return to Thomas.@§7Найди 3 фрагмента карты, идя по следу глаз, и вернись к Томасу
+§7Speak to Rebel Leader Amadel@§7Поговори с их лидером Амаделем
 §7Go to Site D [-874,22,-349]@§7Иди к Site D [-874,22,-349]
 §7Search the excavation site@§7Продвигайся вдоль раскопок 
+§7Talk to Excavator Admin Uci@§7Поговори с Раскопщиком Админом Уки
+§7Enter The Ancient Dungeon@§7Войди в Древний Данж
+§7Solve The Yellow Puzzle@§7Пройди желтый пазл
+§7Solve The Purple Puzzle@§7Пройди фиолетовый пазл
 §7Teleport to the Ancient City@§7Телепортируйся в Древний Город
 §7Explore The Ancient City@§7Исследуй Древний Город
 §7Speak to Amadels assistant@§7Поговори с Ассистентом Амадела
+§7Fight Corrupted Amadel@§7Сразись с Corrupted Amadel
 §7Kill Corruped Amadel@§7Убей Corruped Amadel
+§7Fight Shadow Amadel@§7Сразись с Shadow Amadel
 §7Talk to The King of Ragni@§7Поговори с Королем Рагни
 ========
 §7Talk to Zhight of Zhight Island at [-542,38,-2755]@§7Поговори с Жигтом на Жигт Острове [-542,38,-2755]
@@ -993,3 +1008,5 @@
 §7Bring [16 Lizard Scales] to the Slaying Post [Combat Lv. 55] at [-1786,60,-5267]@§7Принеси [16 Lizard Scales] к Доске Заданий [Комбат Ур. 55] на [-1786,60,-5267]
 §7Bring [18 Unholy Spirits] to the Slaying Post [Combat Lv. 60] at [-1392,45,-5464]@§7Принеси [18 Unholy Spirits] к Доске Заданий [Комбат Ур. 60] на [-1392,45,-5464]
 §7Bring [18 Ancient Metal] to the Slaying Post [Combat Lv. 65] at [-708,28,-413]@§7Принеси [18 Ancient Metal] к Доске Заданий [Комбат Ур. 65] на [-708,28,-413]
+§7Bring [18 Ancient Metal] to the Slaying Post [Combat Lv. 65] at [-708,28,-413]@§7Принеси [18 Ancient Metal] к Доске Заданий [Комбат Ур. 65] на [-708,28,-413]
+§7Bring [16 Severed Hearts] to the Slaying Post [Combat Lv. 70] at [762,35,-3890]@§7Принеси [16 Severed Hearts] к Доске Заданий [Комбат Ур. 70] на [762,35,-3890]
