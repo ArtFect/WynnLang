@@ -114,32 +114,29 @@
 §aA §cGodly Phoenix Wand§a!@§cБожественный Посох Феникса§a!
 
 
-§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀSand-SweptÀÀÀTomb Key]§d.@
-§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀIceÀÀÀBarrows Key]§d.@
-§5Key Collector: §dBring me §3[1 CorruptedÀÀÀSand-SweptÀÀÀTomb Key]§d and I will grant you access to the dungeon.@
-§5Key Collector: §dBring me §3[1 CorruptedÀÀÀIceÀÀÀBarrows Key]§d and I will grant you access to the dungeon.@
-§6Great job! You've completed the CorruptedÀÀÀIceÀÀÀBarrows Dungeon!@
-§6Great job! You've completed the CorruptedÀÀÀUnderworldÀÀÀCrypt Dungeon!@
-§cYou are not in a guild.@
-§eYou must be in a party to list.@
-§eWe couldn't find any friends.@
-§eTry typing §6/friend add Username§e!@
-§d            - §7+1 Old Treasure@
-§eUsage: /party kick [username]@
-§5You need a HERO rank to participate in the HERO beta. Get one at §dstore.wynncraft.com@
-§4A powerful spell prevents you from entering the room.@
-§4You need to use §ca Fishing Rod§4 to gather from this resource!@
-§a§l         Click here to link your forum account      @
-§7+ Faster Gathering §8[Jungle]@
-§7+ Faster Gathering §8[Rice]@
-§7+ Faster Refining §8[Unprocessed Jungle Log]@
-§7+ Faster Refining §8[Unprocessed Rice]@
-§7+ Higher Refining Success §8[Unprocessed Jungle Log]@
-§7+ Higher Refining Success §8[Unprocessed Rice]@
-§cYou can not teleport while in a guild battle...@
-§4You cannot use /class during a guild war.@
-§4You do not have access to this town yet.@
-§3[§3WAR]§c §cThey will be there in 4 minutes.@
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀSand-SweptÀÀÀTomb Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Испорченного Ключа от Песчаной Гробницы]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀIceÀÀÀBarrows Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Испорченного Ключа от Ледяного Кургана]§d.
+§5Key Collector: §dBring me §3[1 CorruptedÀÀÀSand-SweptÀÀÀTomb Key]§d and I will grant you access to the dungeon.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Песчаной Гробницы]§d и я предоставлю тебе доступ в данж.
+§5Key Collector: §dBring me §3[1 CorruptedÀÀÀIceÀÀÀBarrows Key]§d and I will grant you access to the dungeon.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Ледяного Кургана]§d и я предоставлю тебе доступ в данж.
+§6Great job! You've completed the CorruptedÀÀÀIceÀÀÀBarrows Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Ледяной Курган!
+§6Great job! You've completed the CorruptedÀÀÀUnderworldÀÀÀCrypt Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Подземный Склеп!
+§cYou are not in a guild.@§cТы не состоишь в гильдии!
+§eYou must be in a party to list.@§eТы должен быть в пати, чтобы посмотреть список.
+§eWe couldn't find any friends.@§eНе можем найти никаких друзей.
+§eTry typing §6/friend add Username§e!@§eПопробуй написать §6/friend add Ник§e!
+§eUsage: /party kick [username]@§eИспользование: /party kick [ник]
+§5You need a HERO rank to participate in the HERO beta. Get one at §dstore.wynncraft.com@§5Тебе нужен HERO ранг для участия в HERO бете. Купи на §dstore.wynncraft.com
+§4A powerful spell prevents you from entering the room.@§4Мощное заклинание мешает тебе войти в комнату.
+§7+ Faster Gathering §8[Jungle]@§7+ Более быстрая добыча §8[Амарант]
+§7+ Faster Gathering §8[Rice]@§7+ Более быстрая добыча §8[Рис]
+§7+ Faster Refining §8[Unprocessed Jungle Log]@§7+ Более быстрая переработка §8[Необработанное Бревно Амаранта]
+§7+ Faster Refining §8[Unprocessed Rice]@§7+ Более быстрая переработка §8[Необработанный Рис]
+§7+ Higher Refining Success §8[Unprocessed Jungle Log]@§7+ Шанс на успех при переработке §8[Необработанное Бревно Амаранта]
+§7+ Higher Refining Success §8[Unprocessed Rice]@§7+ Шанс на успех при переработке §8[Необработанный Рис]
+§cYou can not teleport while in a guild battle...@§cТы не можешь телепортироваться во время битвы гильдий...
+§4You cannot use /class during a guild war.@§4Ты не можешь использовать /class во время захвата
+§4You do not have access to this town yet.@§4У тебя еще нет доступа в этот город.
+§3[§3WAR]§c §cThey will be there in 4 minutes.@§3[§3WAR]§c §cОни будут там через 4 минуты.
 §7YahyaBot begins emitting strange spores...@
 §7It feels as though demons are starting to consume your mind... maybe it wasn't a good idea to enter this place...@
 §7You fully completed the §bLegendary Challenge§7!@
