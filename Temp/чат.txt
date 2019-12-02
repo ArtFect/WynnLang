@@ -87,67 +87,65 @@
 
 
 
-§aA §dRare Frying Pan§a!
-§aA §dRare Air Aura Effect§a!
-§aA §dRare Food Dagger§a!
-§cKing Effect
-§7Give your character a king appearance
-§6Half-Moon Dagger
-§7Disguise your dagger with a lunar flair
-§6Anti-Bovemist Effect
-§7Give your character an anti-bovemist appearance
-§6Golden Dagger
-§7Disguise your dagger as a golden masterpiece
-§6Bronze Cybel Token
-§6Golden Bow
-§7Disguise your bow as a golden masterpiece
-§3You now have a §bBronze Cybel
-§aA §6Epic Fellowship Wooden Wand§a!
-§6Futuristic Dagger
-§7Disguise your dagger with a futuristic flair
-§6Half-Moon Wand
-§7Disguise your wand with a lunar flair
-§6Skeleton Horse Cloak
-§7Disguise your horses into a skeletal beast
-§aA §dRare Pigman Disguise§a!
-§aA §6Epic Futuristic Spear§a!
-§aA §6Epic Banana Sword§a!
-§aA §6Epic Half-Moon Dagger§a!
-§aA §cGodly Phoenix Wand§a!
+§aA §dRare Frying Pan§a!@§dРедкая Сковорода§a!
+§aA §dRare Air Aura Effect§a!@§dРедкий Эффект Ауры Воздуха§a!
+§aA §dRare Food Dagger§a!@§dРедкий Кинжал Куриная Ножка§a!
+§cKing Effect@§cЭффект Короля
+§7Give your character a king appearance@§7Дает твоему персонажу внешний вид короля
+§6Half-Moon Dagger@§6Полу-месяц Кинжал
+§7Disguise your dagger with a lunar flair@§7Маскирует твой кинжал под лунный стиль
+§6Anti-Bovemist Effect@§6Эффект Анти-Бовемиста
+§7Give your character an anti-bovemist appearance@§7Дает твоему персонажу внешний вид анти-бовемиста
+§6Golden Dagger@§6Золотой Кинжал
+§7Disguise your dagger as a golden masterpiece@§7Маскирует твой кинжал под золотой шедевр
+§6Bronze Cybel Token@§6Бронзовый Кубел Жетон
+§3You now have a §bBronze Cybel@§3§3Теперь у тебя есть §bБронзовый Кубел
+§aA §6Epic Fellowship Wooden Wand§a!@§6Эпический Деревянный Посох Дружбы§a!
+§6Futuristic Dagger@§6Футуристический Кинжал
+§7Disguise your dagger with a futuristic flair@§7Маскирует твой кинжал под футуристический стиль
+§6Half-Moon Wand@§6Полу-месяц Посох
+§7Disguise your wand with a lunar flair@§7Маскирует твой посох под лунный стиль
+§6Skeleton Horse Cloak@§6Скелетон Плащ для Коня
+§7Disguise your horses into a skeletal beast@§7Маскирует твою лошадь под скелет зверя
+§aA §dRare Pigman Disguise§a!@§dРедкая Пигмен Маскировка§a!
+§aA §6Epic Futuristic Spear§a!@§6Эпическое Футуристичное Копье§a!
+§aA §6Epic Banana Sword§a!@§6Эпический Меч Банан§a!
+§aA §6Epic Half-Moon Dagger§a!@§6Эпический Полу-Месяц Кинжал§a!
+§aA §cGodly Phoenix Wand§a!@§cБожественный Посох Феникса§a!
 
 
-§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀSand-SweptÀÀÀTomb Key]§d.
-§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀIceÀÀÀBarrows Key]§d.
-§5Key Collector: §dBring me §3[1 CorruptedÀÀÀSand-SweptÀÀÀTomb Key]§d and I will grant you access to the dungeon.
-§5Key Collector: §dBring me §3[1 CorruptedÀÀÀIceÀÀÀBarrows Key]§d and I will grant you access to the dungeon.
-§6Great job! You've completed the CorruptedÀÀÀIceÀÀÀBarrows Dungeon!
-§6Great job! You've completed the CorruptedÀÀÀUnderworldÀÀÀCrypt Dungeon!
-§cYou are not in a guild.
-§eYou must be in a party to list.
-§eWe couldn't find any friends.
-§eTry typing §6/friend add Username§e!
-§d            - §7+1 Old Treasure
-§eUsage: /party kick [username]
-§5You need a HERO rank to participate in the HERO beta. Get one at §dstore.wynncraft.com
-§4A powerful spell prevents you from entering the room.
-§4You need to use §ca Fishing Rod§4 to gather from this resource!
-§a§l         Click here to link your forum account      
-§7+ Faster Gathering §8[Jungle]
-§7+ Faster Gathering §8[Rice]
-§7+ Faster Refining §8[Unprocessed Jungle Log]
-§7+ Faster Refining §8[Unprocessed Rice]
-§7+ Higher Refining Success §8[Unprocessed Jungle Log]
-§7+ Higher Refining Success §8[Unprocessed Rice]
-§cYou can not teleport while in a guild battle...
-§4You cannot use /class during a guild war.
-§4You do not have access to this town yet.
-§3[§3WAR]§c §cThey will be there in 4 minutes.
-§7YahyaBot begins emitting strange spores...
-§7It feels as though demons are starting to consume your mind... maybe it wasn't a good idea to enter this place...
-§7You fully completed the §bLegendary Challenge§7!
-§7You finished the §bLegendary Challenge§7 at §eGold Tier§7!
-§7You finished the §bLegendary Challenge§7 at §fSilver Tier§7!
-§6   +25 Bronze Tokens
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀSand-SweptÀÀÀTomb Key]§d.@
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀIceÀÀÀBarrows Key]§d.@
+§5Key Collector: §dBring me §3[1 CorruptedÀÀÀSand-SweptÀÀÀTomb Key]§d and I will grant you access to the dungeon.@
+§5Key Collector: §dBring me §3[1 CorruptedÀÀÀIceÀÀÀBarrows Key]§d and I will grant you access to the dungeon.@
+§6Great job! You've completed the CorruptedÀÀÀIceÀÀÀBarrows Dungeon!@
+§6Great job! You've completed the CorruptedÀÀÀUnderworldÀÀÀCrypt Dungeon!@
+§cYou are not in a guild.@
+§eYou must be in a party to list.@
+§eWe couldn't find any friends.@
+§eTry typing §6/friend add Username§e!@
+§d            - §7+1 Old Treasure@
+§eUsage: /party kick [username]@
+§5You need a HERO rank to participate in the HERO beta. Get one at §dstore.wynncraft.com@
+§4A powerful spell prevents you from entering the room.@
+§4You need to use §ca Fishing Rod§4 to gather from this resource!@
+§a§l         Click here to link your forum account      @
+§7+ Faster Gathering §8[Jungle]@
+§7+ Faster Gathering §8[Rice]@
+§7+ Faster Refining §8[Unprocessed Jungle Log]@
+§7+ Faster Refining §8[Unprocessed Rice]@
+§7+ Higher Refining Success §8[Unprocessed Jungle Log]@
+§7+ Higher Refining Success §8[Unprocessed Rice]@
+§cYou can not teleport while in a guild battle...@
+§4You cannot use /class during a guild war.@
+§4You do not have access to this town yet.@
+§3[§3WAR]§c §cThey will be there in 4 minutes.@
+§7YahyaBot begins emitting strange spores...@
+§7It feels as though demons are starting to consume your mind... maybe it wasn't a good idea to enter this place...@
+§7You fully completed the §bLegendary Challenge§7!@
+§7You finished the §bLegendary Challenge§7 at §eGold Tier§7!@
+§7You finished the §bLegendary Challenge§7 at §fSilver Tier§7!@
+§6   +25 Bronze Tokens@
 §f   +15 Silver Tokens
 §e   +7 Gold Tokens
 §b   +1 Diamond Token
