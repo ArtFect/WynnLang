@@ -171,30 +171,30 @@
 §4A mysterious force pushes you back...@§4Загадочная сила отталкивает тебя...
 
 
-§7Continue through the Wynn Province to the castle
-§7Bring [18 Ancient Metal] to the Slaying Post [Combat Lv. 65] at [-708,28,-413]
-§7Speak with the Possessed Mr. Caritat
-§7Bring back [1 Bob's Crushed Soul], [1 Sayleros' Brother Ashes] and [1 The Mummy's Bandage] to Kelight
-§7Talk to Monte at [-550,61,-747]
-§7Begin the Third Floor
-§7Begin the Fourth Floor
-§7Talk to Burtur at [-980,45,-5305]
-§7Bring [16 Severed Hearts] to the Slaying Post [Combat Lv. 70] at [762,35,-3890]
-§7Find the secret passageway inside of the throne room
-§7Speak to Rebel Leader Amadel
-§7Talk to Excavator Admin Uci
-§7Enter The Ancient Dungeon
-§7Solve The Yellow Puzzle
-§7Solve The Purple Puzzle
-§7Fight Corrupted Amadel
-§7Fight Shadow Amadel
-§7Return the ruby to Graken
+§7Continue through the Wynn Province to the castle@§7Пройди по дороге в сторону провинции Wynn
+§7Bring [18 Ancient Metal] to the Slaying Post [Combat Lv. 65] at [-708,28,-413]@§7Принеси [18 Ancient Metal] к Доске Заданий [Комбат Ур. 65] на [-708,28,-413]
+§7Bring [16 Severed Hearts] to the Slaying Post [Combat Lv. 70] at [762,35,-3890]@§7Принеси [16 Severed Hearts] к Доске Заданий [Комбат Ур. 70] на [762,35,-3890]
+§7Speak with the Possessed Mr. Caritat@§7Поговори с одержимым мистером Каритатом
+§7Bring back [1 Bob's Crushed Soul], [1 Sayleros' Brother Ashes] and [1 The Mummy's Bandage] to Kelight@§7Принеси [1 Измельченную душу Бобa], [1 Прах брата Сайлероса], и [1 Бинт мумии] Келайгту
+§7Talk to Monte at [-550,61,-747]@§7Поговори с Монте на [-550,61,-747]
+§7Begin the Third Floor@§7Начни Третий Этаж
+§7Begin the Fourth Floor@§7Начни Четвертый Этаж
+§7Talk to Burtur at [-980,45,-5305]@§7Поговори с Буртуром на [-980,45,-5305]
+§7Find the secret passageway inside of the throne room@§7Найди секретный проход внутри тронного зала
+§7Speak to Rebel Leader Amadel@§7Поговори с их лидером Амаделем
+§7Talk to Excavator Admin Uci@§7Поговори с Раскопщиком Админом Уки
+§7Enter The Ancient Dungeon@§7Войди в Древний Данж
+§7Solve The Yellow Puzzle@§7Пройди желтый пазл
+§7Solve The Purple Puzzle@§7Пройди фиолетовый пазл
+§7Fight Corrupted Amadel@§7Сразись с Corrupted Amadel
+§7Fight Shadow Amadel@§7Сразись с Shadow Amadel
+§7Return the ruby to Graken@§7Верни рубин Гракену 
 
 
 
-§5Only §d(\d+) more level(|s) §5until you can gather from §dJungle
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dShadow Clone spell
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCrystal Reptile upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDead Star upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpider Jump upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap upgrade
+§5Only §d(\d+) more level(|s) §5until you can gather from §dJungle@§5Еще §d(r1) уровня §5и ты сможешь собирать §dАмарант
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dShadow Clone spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dТеневой Клон заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCrystal Reptile upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dКристальная Рептилия апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDead Star upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМертвая Звезда апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpider Jump upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПрыжок Паука апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПрыжок апгрейд
