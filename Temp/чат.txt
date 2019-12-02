@@ -137,38 +137,38 @@
 §4You cannot use /class during a guild war.@§4Ты не можешь использовать /class во время захвата
 §4You do not have access to this town yet.@§4У тебя еще нет доступа в этот город.
 §3[§3WAR]§c §cThey will be there in 4 minutes.@§3[§3WAR]§c §cОни будут там через 4 минуты.
-§7YahyaBot begins emitting strange spores...@
-§7It feels as though demons are starting to consume your mind... maybe it wasn't a good idea to enter this place...@
-§7You fully completed the §bLegendary Challenge§7!@
-§7You finished the §bLegendary Challenge§7 at §eGold Tier§7!@
-§7You finished the §bLegendary Challenge§7 at §fSilver Tier§7!@
-§6   +25 Bronze Tokens@
-§f   +15 Silver Tokens
-§e   +7 Gold Tokens
-§b   +1 Diamond Token
-§6   +18 Bronze Tokens
-§f   +9 Silver Tokens
-§e   +3 Gold Tokens
-§6   +12 Bronze Tokens
-§f   +5 Silver Tokens
-§4The trail ends here...
-§7There is nothing in the cabinet. The cure must've been the only thing in it.
-§4The portal's broken, you'll have to find another way out.
-§d     -§7 Lore: §f§oThis lush, open-air cavern is home to a secluded pair of Avos. They have some kind of vendetta against humans... it may be best to leave them be.
-§7Speak to the engineer before going to the top deck!
-§4This is personal property, probably best not to trespass.
-§7You really don't feel like it's a good idea to be up here while citizens need help...
-§4You still have something to do in here.
-§4You shouldn't leave without the True Ice.
-§7Location: Ahmsord Research facility [1118,101,-4520] .
-§b - §7Rat Pet
-§b - §7Wasp Pet
-§cIn order to craft a §3[Odd Stew]§c, you'll need §3[10 Raw Mutton]§c, §3[5 Edible Mushrooms]§c, §3[1 Coconut]§c, and §3[7 Berries]§c.
-§3You are no longer disguised as a §bcreeper
-§4You should stay out of those fights...
-§7You need §3[1 Dragon Bone Shard] §7to talk to Plario. You see Axelus in the village's outskirt around §3[1366, 142, -5452]§7, maybe you should talk to him.
-§7A sudden jolt of realisation shudders down the Talking Mushroom's stem. He retreats into your satchel.
-§4A mysterious force pushes you back...
+§7YahyaBot begins emitting strange spores...@§7YahyaBot начинает испускать странные споры...
+§7It feels as though demons are starting to consume your mind... maybe it wasn't a good idea to enter this place...@§7Ты чувствуешь как демоны медленно проникают в твой разум... может это была не лучшая идея заходить сюда...
+§7You fully completed the §bLegendary Challenge§7!@§7Ты полностью прошел §bЛегендарный Челлендж§7!
+§7You finished the §bLegendary Challenge§7 at §eGold Tier§7!@§7Ты закончил §eЗолотой Уровень §bЛегендарного Челленджа§7!
+§7You finished the §bLegendary Challenge§7 at §fSilver Tier§7!@§7Ты закончил §fСеребрянный Уровень §bЛегендарного Челленджа§7!
+§6   +25 Bronze Tokens@§6   +25 Бронзовых жетонов
+§f   +15 Silver Tokens@§f   +15 Серерянных жетонов
+§e   +7 Gold Tokens@§e   +7 Золотых жетонов
+§b   +1 Diamond Token@§b   +1 Алмазный жетон
+§6   +18 Bronze Tokens@§6   +18 Бронзовых жетонов
+§f   +9 Silver Tokens@§f   +9 Серерянных жетонов
+§e   +3 Gold Tokens@§e   +3 Золотых жетона
+§6   +12 Bronze Tokens@§6   +12 Бронзовых жетонов
+§f   +5 Silver Tokens@§f   +5 Серерянных жетонов
+§4The trail ends here...@§4Путь заканчивается здесь...
+§7There is nothing in the cabinet. The cure must've been the only thing in it.@§7В кабинете ничего нет. Лекарство, должно быть, было единственной вещью в нем.
+§4The portal's broken, you'll have to find another way out.@§4Портал сломан, тебе придется найти другой выход.
+§d     -§7 Lore: §f§oThis lush, open-air cavern is home to a secluded pair of Avos. They have some kind of vendetta against humans... it may be best to leave them be.@§d     -§r§7 Лор: §r§f§oЭта пышная, открытая пещера является домом для уединенной пары Авосов. Они жаждут возмездия против людей... Думаю лучше оставить их как есть
+§7Speak to the engineer before going to the top deck!@§7Поговори с инженером, прежде чем идти вниз!
+§4This is personal property, probably best not to trespass.@§4Это частная территория, наверное, лучше не вторгаться сюда.
+§7You really don't feel like it's a good idea to be up here while citizens need help...@§7Ты чувствуешь, что это не лучшая идея чтобы быть здесь, пока жителям нужна помощь...
+§4You still have something to do in here.@§4Тебе нужно что-то сделать здесь.
+§4You shouldn't leave without the True Ice.@§4Ты не должен уходить без Чистого Льда
+§7Location: Ahmsord Research facility [1118,101,-4520] .@§7Расположение: Исследовательский центр Амсордa [1118, 101, -4520].
+§b - §7Rat Pet@§b - §7Питомец Крыса
+§b - §7Wasp Pet@§b - §7Питомец Оса
+§cIn order to craft a §3[Odd Stew]§c, you'll need §3[10 Raw Mutton]§c, §3[5 Edible Mushrooms]§c, §3[1 Coconut]§c, and §3[7 Berries]§c.@§cЧтобы скрафтить §3[Странное Рагу]§c, тебе нужно §3[10 Сырой Лопатки]§c, §3[5 Съедобных Грибов]§c, §3[1 Кокос]§c, и §3[7 Ягод]§c.
+§3You are no longer disguised as a §bcreeper@§3Ты больше не маскируешься под §bкрипера
+§4You should stay out of those fights...@§4Ты должен держаться подальше от этих боев...
+§7You need §3[1 Dragon Bone Shard] §7to talk to Plario. You see Axelus in the village's outskirt around §3[1366, 142, -5452]§7, maybe you should talk to him.@§7Тебе нужен §3[1 Осколок Кости Дракона] §7для разговора с Пларио. Ты заметил Акселуса на окраине деревни рядом с §3[1366, 142, -5452]§7, может стоит поговорить с ним.
+§7A sudden jolt of realisation shudders down the Talking Mushroom's stem. He retreats into your satchel.@§7Внезапное осознание этого места заставляет дрожать ножку Говорящего Гриба. Он прячется в твою сумку.
+§4A mysterious force pushes you back...@§4Загадочная сила отталкивает тебя...
 
 
 §7Continue through the Wynn Province to the castle
