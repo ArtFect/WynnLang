@@ -206,28 +206,28 @@
 §b(.*)§3has thrown a§b Disguise Bomb §3at§b(.*)§3! It will explode in §b5 seconds§3!@§b(r1)§3бросил §b Маскировочную Бомбу §3на§b(r2)§3! Она взорвется через §b5 секунд§3!
 §b(.*)'s Disguise Bomb§3 has exploded! You are now a §b(.*).§3 Buy your own at§b §bwynncraft.com\/store§3!@§bМаскировочная Бомба (r1)§3 взорвалась! Ты стал §b(r2).§3 Купи свою собственную на§b §bwynncraft.com/store§3!
 §b(.*)'s Disguise Bomb §3has run out! Visit §bwynncraft.com\/store§b §3to get your own!@§bМаскировочная Бомба (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы получить свою!
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBomb spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dБомба заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCharge spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dЗаряд заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dEscape spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПобег заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTeleport spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dТелепорт заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMeteor spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМетеор заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dVanish spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dИсчезновение заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dIce Snake spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dЛедяная Змея заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dДымовая Бомба заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMulti Hit spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМега Удар заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dЩит Стрел заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Storm spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dШторм Стрел заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПрыжок заклинание 
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUppercut spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dАпперкот заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWar Scream spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dБоевой Клич заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpider Jump spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПрыжок Паука заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCreeper Dart spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dДротие Крипера заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBlink spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dОслепление заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDead Star spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМертвая Звезда заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCrystal Reptile spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dКристальная Рептилия заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeaven Jolt spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dНебесный Удар заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDagger Aura spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dКинжальная Аура заклинание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dShadow Clone spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dТеневой Клон заклинание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBomb spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Бомба
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCharge spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Заряд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dEscape spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Побег
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTeleport spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Телепорт
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMeteor spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Метеор
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dVanish spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Исчезновение
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dIce Snake spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Ледяная Змея
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Дымовая Бомба
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMulti Hit spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Мега Удар
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Щит Стрел
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Storm spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Шторм Стрел
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Прыжок
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUppercut spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Апперкот
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWar Scream spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Боевой Клич
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpider Jump spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Прыжок Паука
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCreeper Dart spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Дротик Крипера
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBlink spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Ослепление
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDead Star spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Мертвая Звезда
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCrystal Reptile spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Кристальная Рептилия
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeaven Jolt spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Небесный Удар
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDagger Aura spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Кинжальная Аура
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dShadow Clone spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Теневой Клон
 §4You need a §fⒷ§c Mining§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒷ§c Добычи Руды§4, чтобы собрать этот ресурс!
 §4You need a §fⒿ§c Farming§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒿ§c Земледелия§4, чтобы собрать этот ресурс!
 §4You need a §fⒸ§c Woodcutting§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒸ§c Лесорубства§4, чтобы собрать этот ресурс!
@@ -286,26 +286,26 @@
 §4This item requires your dexterity skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Точность было не менее §c(r2).
 §4This item requires your intelligence skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Интеллект было не менее §c(r2).
 §4This item requires your agility skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Ловкость было не менее §c(r2).
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Storm upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dШторм Стрел апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dШторм Стрел апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBomb upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dБомба апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dEscape upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПобег апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpin Attack upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dКруговая Атака апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMulti Hit upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМега Удар апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dVanish upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dИсчезновение апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dДымовая Бомба апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTeleport upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dТелепорт апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeal upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dИсцеление апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMeteor upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМетеор апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dIce Snake upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dЛедяная Змея апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCharge upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dЗаряд апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBash upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dОглушение апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUppercut upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dАпперкот апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWar Scream upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dБоевой Клич апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCrystal Reptile upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dКристальная Рептилия апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDead Star upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dМертвая Звезда апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpider Jump upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПрыжок Паука апгрейд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dПрыжок апгрейд
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Storm upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Шторма Стрел
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Щита Стрел
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBomb upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Бомбы
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dEscape upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Побега
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpin Attack upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Круговой Атаки 
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMulti Hit upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Мега Удара 
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dVanish upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Исчезновения
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Дымовой Бомбы
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTeleport upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Телепорта
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeal upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Исцеления
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMeteor upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Метеора
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dIce Snake upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ледяной Змеи
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCharge upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Заряда
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBash upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Оглушения 
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUppercut upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Апперкота
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWar Scream upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Боевого Клича
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCrystal Reptile upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Кристальной Рептилии
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDead Star upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Мертвой Звезды
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpider Jump upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Прыжка Паука 
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Прыжка 
 §b(.*)§3 has disguised as a §bzombie§3!@§b(r1)§3 замаскировался под §bзомби§3!
 §b(.*)§3 has disguised as a §bsheep§3!@§b(r1)§3 замаскировался под §bовцу§3!
 §b(.*)§3 has disguised as a §bspider§3!@§b(r1)§3 замаскировался под §bпаука§3!
