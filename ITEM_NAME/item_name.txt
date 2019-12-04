@@ -1823,7 +1823,11 @@ Hearty Zork Stew@Сытное Зорк Рагу
 §3Crash Site Token@§3Жетон Кораблекрушения
 Stray Rock@Случайный Камень
 Library Key@Библиотечный Ключ
-
+§rHearty Zork Stew Recipe@§fРецепт Сытного Зорк Рагу
+§rOmelette de Colère Recipe@§fРецепт Омлета
+§rSkyhigh Pie Recipe@§fРепецт Высокогорного Пирога
+§rRecipe Token@§fЖетон на Рецепт
+§rSkien's Badge@§fЗначок Скиенса
 
 ##########################Контейнеры##########################
 §e§lLoot Crate §6[Tier I]@§e§lЛут Контейнер §6[Уровень I]
