@@ -1,55 +1,56 @@
-§7§lAdd Fabled Items Only Filter
-§7§lAdd Relik Type Only Filter
-§7§lAdd Main Attack Damage Identification Only Filter
-§7§lAdd Neutral Spell Damage Identification Only Filter
-§6Half-Moon Dagger
-§7§lSniper Combat Lv. 100
-Crafted Bow
-Repair Scrap
-Egg
-Female Pirate Wig
-Unprocessed Birch Log
-Lively Apple
-Sticky Mudball
-Gathering Pickaxe 3
-§4Despawn your Orange Cybel
-§aSpawn Orange Cybel§7 [Orange Cybel]
-Strange Mushroom
-§fWolf's Fang
-§cOrange Wybel Token
-Explosive
-§6Bronze Cybel Token
-§6Fellowship Wooden Wand
-§e§lLobby 4
-§e§lLobby 5
-§e§lLobby 6
-§aSpawn a Orange Wybel
-§c§lEU Servers
-§aSpawn a Rat
-§4Despawn your Rat
-§aSpawn a Wasp
-§aSpawn Wasp§7 [Wasp]
-§6Skeleton Horse Cloak
-§6Futuristic Spear
-§4Despawn your Wasp
-§fCreeper Mask
-§6Futuristic Wand
-§aSpawn a White Wybel
-Gathering Axe 9
-Gathering Scythe 9
-Gathering Pickaxe 6
-§6Rodoroc Teleportation Scroll
-Refined Oak Wood 1
-Crafted Ring
-Skien's Badge
-§f        Select §6§lSkyseer
+§7§lAdd Fabled Items Only Filter@@§7§lДобавить Фильтр "Только Сказочные Предметы"
+§7§lRemove Fabled Items Only Filter@§7§lУбрать Фильтр "Только Сказочные Предметы"
+§7§lAdd Relik Type Only Filter@§7§lДобавить Фильтр "Только Релики"
+§7§lRemove Relik Type Only Filter@§7§lУбрать Фильтр "Только Релики"
+§7§lAdd Main Attack Damage Identification Only Filter@§7§lДобавить Фильтр "Только Урон Основной Атаки"
+§7§lRemove Main Attack Damage Identification Only Filter@§7§lУбрать Фильтр "Только Урон Основной Атаки"
+§7§lAdd Neutral Spell Damage Identification Only Filter@§7§lДобавить Фильтр "Только Нейтральный Урон Заклинаний"
+§7§lRemove Neutral Spell Damage Identification Only Filter@§7§lУбрать Фильтр "Только Нейтральный Урон Заклинаний"
+§6Half-Moon Dagger@§6Полу-Месяц Кинжал
+§7§lSniper Combat Lv. 100@§7§lСнайпер Комбат Ур. 100
+Crafted Bow@Крафтовый Лук
+Repair Scrap@Скрап для Починки
+Female Pirate Wig@Женский Парик Пирата
+Unprocessed Birch Log@Необработанное Бревно Березы
+Gathering Pickaxe 3@Сборная Кирка 3
+§4Despawn your Orange Cybel@§4Деспавнить твоего Оранжевого Кубела
+§aSpawn Orange Cybel§7 [Orange Cybel]@§aЗаспавнить Оранжевого Кубела §7 [Оранжевый Кубел]
+Strange Mushroom@Странный Гриб
+§fWolf's Fang@§fКлык Волка
+§cOrange Wybel Token@§cОранжевый Вубел Жетон
+Explosive@Взрывчатка
+§6Bronze Cybel Token@§6Бронзовый Кубел Жетон
+§6Fellowship Wooden Wand@§6Деревянный Посох Дружбы
+§e§lLobby 4@§e§lЛобби 4
+§e§lLobby 5@§e§lЛобби 5
+§e§lLobby 6@§e§lЛобби 6
+§aSpawn a Orange Wybel@§aЗаспавнить Оранжевого Вубела
+§c§lEU Servers@§c§lEU Сервера
+§aSpawn a Rat@§aЗаспавнить Крысу
+§4Despawn your Rat@§4Деспавнить твою Крысу
+§aSpawn a Wasp@§aЗаспавнить Осу
+§aSpawn Wasp§7 [Wasp]@§aЗаспавнить Осу§7 [Оса]
+§6Skeleton Horse Cloak@§6Скелетон Плащ для Коня
+§6Futuristic Spear@§6Футуристическое Копье
+§4Despawn your Wasp@§4Деспавнить твою осу
+§fCreeper Mask@§fМаска Крипера
+§6Futuristic Wand@§6Футуристический Посох
+§aSpawn a White Wybel@§aЗаспавнить Белого Вубела
+Gathering Axe 9@Сборный Топор 9
+Gathering Scythe 9@Сборная Мотыга 9
+Gathering Pickaxe 6@Сборная Кирка 6
+§6Rodoroc Teleportation Scroll@§6Свиток телепортации в Родорок
+Refined Oak Wood 1@Переработанная Древесина Дуба 1
+Crafted Ring@Крафтовое Кольцо
+Skien's Badge@Значок Скиена
+§f        Select §6§lSkyseer@§f        Выбрать §6§lПровидца
 
 
-§fUnprocessed Koi§8 (.*)
-§fUnprocessed Starfish§8 (.*)
-§fUnprocessed Bass§8 (.*)
-§fUnprocessed Gylia Fish§8 (.*)
-§fUnprocessed Dernic Fish§8 (.*)
-§fUnprocessed Hemp§8 (.*)
-§fUnprocessed Dernic Log§8 (.*)
-§fUnprocessed Rice§8 (.*)
+§fUnprocessed Koi§8 (.*)@§fНеобработанный Сазан§8 (r1)
+§fUnprocessed Starfish§8 (.*)@§fНеобработанная Морская Звезда§8 (r1)
+§fUnprocessed Bass§8 (.*)@§fНеобработанный Окунь§8 (r1)
+§fUnprocessed Gylia Fish§8 (.*)@§fНеобработанная Рыба Гилия§8 (r1)
+§fUnprocessed Dernic Fish§8 (.*)@§fНеобработанная Дерник Рыба§8 (r1)
+§fUnprocessed Hemp§8 (.*)@§fНеобработанная Конопля§8 (r1)
+§fUnprocessed Dernic Log§8 (.*)@§fНеобработанное Дерник Бревно§8 (r1)
+§fUnprocessed Rice§8 (.*)@§fНеобработанный Рис§8 (r1)
