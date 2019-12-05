@@ -73,21 +73,19 @@
 §7[1/1] §2Almuj Banker: §aYou came back to see me! How nice of you.@§7[1/1] §2Almuj Banker: §aТы вернулся, чтобы увидеть меня! Как мило с твоей стороны.
 §7[1/5] §2Cinfras Citizen: §aCan't believe it, human. I'd ask you to tell me how you defeated Qira, but I bet she swore you to secrecy, huh?@§7[1/5] §2Cinfras Citizen: §aНе могу в это поверить, человек. Я бы попросил тебя рассказать мне, как ты победил Киру, но держу пари, она попросила тебя сохранить тайну, да?
 §7[2/5] §2Cinfras Citizen: §aI bet she also made you swear off telling people about your request. I hear she does that, among other things.@§7[2/5] §2Cinfras Citizen: §aДержу пари, она также заставила тебя поклясться, что ты никому не расскажешь о своей просьбе. Я слышал, что она делает это, помимо всего прочего
-§7[3/5] §2Cinfras Citizen: §aI hope you didn't try to ask that she quit her evil ways and retire, though. That's what that first group tried to do, and they got laughed off.
-§7[4/5] §2Cinfras Citizen: §aAnd then, a few days after word got out that they'd told people their request, they disappeared. She enslaved the poor blokes.
-§7[5/5] §2Cinfras Citizen: §aI hear they got tortured before she let them go to work, cause they wouldn't talk to anyone except Qira and her higher-ups.
-§7[1/3] §2Aledar: §aOkay, you've refined the ingots. Follow me for the next step in the crafting process.
-§7[1/2] §2Steve: §aAfter years of labour my mansion is finally complete.
-§7[2/2] §2Steve: §aYou would do well to take pointers from this magnificence, it would greatly improve your skills!
-§7[5/6] §2Snail Race Supervisor: §aIf you do choose to race U-snail Bolt, how-e-ver, be sure to not take your time, he is in-cre-di-bly fast!
-§7[1/1] §2Relend: §aYou don't seem very mighty, come back when you're level 90!
-§7[1/6] §2Hive Servant: §aI really can't believe it. How did you beat her?! You must be ridiculously strong to have defeated Mistress!
-§7[2/6] §2Hive Servant: §aI hope you didn't hurt her too bad, and that she didn't rough you up too harsh either. For someone with your skill, getting hurt is a waste, I think.
-§7[3/6] §2Hive Servant: §aI mean, even just beating the Thunder Division is certainly more than I could ever hope to achieve, eheheh...
-§7[4/6] §2Hive Servant: §aI'm fine just being a cog in the clockworks, so to speak, but some of the other servants dislike their positions here. I just can't understand them.
-§7[5/6] §2Hive Servant: §aMistress is a fine ruler. She keeps us safe, her rules aren't overbearing, she's infinitely wise... What have they got to hold against her?
-§7[6/6] §2Hive Servant: §aSometimes, I wonder if they realize the opportunity she's given us. I wonder if they're thankful, even at all.
-§7[1/1] §2Yuge: §aIf you climbed up here, you must be great at exploring! Say, while you explore, can you look for a blue flag for me?
+§7[3/5] §2Cinfras Citizen: §aI hope you didn't try to ask that she quit her evil ways and retire, though. That's what that first group tried to do, and they got laughed off.@§7[3/5] §2Cinfras Citizen: §aНадеюсь, что ты не пытался попросить ее оставить свои злые пути и уйти на пенсию. Это то, что первая группа пыталась сделать, и над ними смеялись
+§7[4/5] §2Cinfras Citizen: §aAnd then, a few days after word got out that they'd told people their request, they disappeared. She enslaved the poor blokes.@§7[4/5] §2Cinfras Citizen: §aА потом, через несколько дней после того, как стало известно, что они сообщили людям о своей просьбе, они исчезли. Она поработила бедных парней.
+§7[5/5] §2Cinfras Citizen: §aI hear they got tortured before she let them go to work, cause they wouldn't talk to anyone except Qira and her higher-ups.@§7[5/5] §2Cinfras Citizen: §aЯ слышал, что их пытали, прежде чем она отпустила их на работу, потому что они не разговаривали ни с кем, кроме Киры и ее начальства.
+§7[1/3] §2Aledar: §aOkay, you've refined the ingots. Follow me for the next step in the crafting process.@ 
+§7[1/1] §2Relend: §aYou don't seem very mighty, come back when you're level 90!@§7[1/1] §2Relend: §aТы выглядишь не как мне ровня, возвращайся после 90 уровня!
+§7[1/6] §2Hive Servant: §aI really can't believe it. How did you beat her?! You must be ridiculously strong to have defeated Mistress!@§7[1/6] §2Hive Servant: §aЯ действительно не могу в это поверить. Как ты ее побил?! Ты, должно быть, до смешного силен, раз победил Госпожу!
+§7[2/6] §2Hive Servant: §aI hope you didn't hurt her too bad, and that she didn't rough you up too harsh either. For someone with your skill, getting hurt is a waste, I think.@§7[2/6] §2Hive Servant: §aНадеюсь, ты не причинил ей слишком большого вреда, и она не слишком грубо обошлась с тобой. Для кого-то с твоим мастерством, получить травму - это пустая трата времени, я думаю.
+§7[3/6] §2Hive Servant: §aI mean, even just beating the Thunder Division is certainly more than I could ever hope to achieve, eheheh...@§7[3/6] §2Hive Servant: §aЯ имею в виду, что даже просто победить Дивизию Грома - это, конечно, больше, чем я когда-либо мог надеяться достичь, эхехех...
+§7[4/6] §2Hive Servant: §aI'm fine just being a cog in the clockworks, so to speak, but some of the other servants dislike their positions here. I just can't understand them.@§7[4/6] §2Hive Servant: §aЯ вполне могу быть винтиком в часовом механизме, так сказать, но некоторым другим слугам здесь не нравится их положение. Я просто не могу их понять
+§7[5/6] §2Hive Servant: §aMistress is a fine ruler. She keeps us safe, her rules aren't overbearing, she's infinitely wise... What have they got to hold against her?@§7[5/6] §2Hive Servant: §aГоспожа - прекрасный правитель. Она держит нас в безопасности, ее правила не властны, она бесконечно мудра... Что они могут иметь против нее?
+§7[6/6] §2Hive Servant: §aSometimes, I wonder if they realize the opportunity she's given us. I wonder if they're thankful, even at all.@§7[6/6] §2Hive Servant: §aИногда я думаю, понимают ли они, какую возможность она нам предоставила. Интересно, благодарны ли они вообще.
+§7[1/1] §2Yuge: §aIf you climbed up here, you must be great at exploring! Say, while you explore, can you look for a blue flag for me?@§7[1/1] §2Yuge: §aЕсли ты забрался сюда, ты должно быть великолепен в изучении! Скажи, пока исследуешь, не мог бы ты поискать синий флаг для меня?
+§7[1/1] §2Tasim: §aCareful! That tree looks like it'll fall over any second! Let's go check out the bridge for now.@§7[1/1] §2Tasim: §aОсторожно! Это дерево выглядит так, будто может упасть в любую секунду! А пока пойдем проверим мост.
 §7[1/8] §2Dr. Legendary: §aAmazing! You even defeated the Cybel, my strongest creation. Well, except for one thing...
 §7[2/8] §2Dr. Legendary: §aWith the help of Corkus, I travelled to the Hive, where I sought to model the final challenger after the legendary sorceress.
 §7[3/8] §2Dr. Legendary: §aBut... Qira declined. She said that if I tried anyway, she'd, erm... well, let's just say killing me was putting it too lightly.
@@ -106,7 +104,7 @@
 §7[3/5] §2Dr. Legendary: §aI was unable to match its strength with electromagic alone, so I took a live Orange Wybel and... "upgraded" it into...
 §7[4/5] §2Dr. Legendary: §aThe §e§lOrange Cybel§a, the final challenger of the Gold tier. If you defeat it, you'll even be able to challenge the Diamond tier.
 §7[5/5] §2Dr. Legendary: §aIf you truly believe in your strength, continue. If not, I'd advise you to forfeit now. Your reward is already sizable.
-§7[1/1] §2Tasim: §aCareful! That tree looks like it'll fall over any second! Let's go check out the bridge for now.
+
 
 §7+ New Resource §8[Jungle]
 §aA §6Epic Sea Blue Wybel Token§a!
