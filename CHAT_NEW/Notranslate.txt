@@ -13,8 +13,6 @@
 §4/relore@ 
 §4/itemlock@ 
 §4/classes @ 
-§4/toggle §c[chatlevel/swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100]@ 
-§4/toggle [chatlevel/swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100]@ 
 §93...@ 
 §92...@ 
 §91...@ 
@@ -1147,3 +1145,884 @@ Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI�
                          Light Realm Mushrooms@ 
                              Light Realm East@ 
 §d            - §7+1 Old Treasure@ 
+§bIngessGames§3 has logged into server §bHB1§3 as §ba ArcherÀ@ 
+§4You don't have the correct key!§7@ 
+Sneak and walk towards the door to look inside the keyhole.@ 
+§b1MCRocker§3 has logged into server §bHB2§3 as §ba ArcherÀ@ 
+§4You have died...@ 
+§4§lDeath claims your soul.@ 
+§4You don't have the key!§7@ 
+Kill the queen in order to obtain it.@ 
+§2§lLucky§c§lWorld§7>> §aОжидайте завершения проверки...@ 
+§2§lLucky§c§lWorld§7>> §aПроверка пройдена, приятной игры@ 
+§2§lЗарегистрируйтесь §8§l- §6§lКоманда §9§l/register §8§l[§2§lпароль§8§l] §8§l[§2§lпароль§8§l]@ 
+§7[§6✉§7] §bВы находитесь в Лобби. Выберите сервер и пройдите в портал!@ 
+§7[§6✉§7] §cВы находитесь в Лобби. Выберите сервер и пройдите в портал!@ 
+§7[§6✉§7] §dВы находитесь в Лобби. Выберите сервер и пройдите в портал!@ 
+§7[§6✉§7] §aВы находитесь в Лобби. Выберите сервер и пройдите в портал!@ 
+§7[§6✉§7] §eВы находитесь в Лобби. Выберите сервер и пройдите в портал!@ 
+§2Вы успешно зарегистрировались!@ 
+§2Вы успешно вошли!@ 
+§6CoJlb_B_BeHbl §c⋙ §fпп@ 
+§6_Deniks_ §c⋙ §fчего?@ 
+§6CoJlb_B_BeHbl §c⋙ §f_Deniks_ знаеш маидекс?@ 
+§6_Deniks_ §c⋙ §fкого?@ 
+§6_Deniks_ §c⋙ §fне@ 
+§eBedWars §c⋗ §aИгра началась@ 
+§6CoJlb_B_BeHbl §c⋙ §fсервер маидекс@ 
+§6_Deniks_ §c⋙ §fнет@ 
+§eBedWars §c⋗ §aЖелаем §cВам §bприятной §eигры@ 
+§eBedWars §c⋗ §aВы присоединились к игре@ 
+§8[§d❋§8] §bУстановить скин §a/skin §f<ник>@ 
+§eBedWars §c⋗ §aВы вступили в команду §cКрасные@ 
+§6daniilpnz: читеры лохопидоры без скилла я их могу выебать@ 
+§eBedWars §c⋗ §aИгрок mariami§a присоеденился к игре@ 
+§eBedWars §c⋗ §aИгрок X3_Kto_XD§a присоеденился к игре@ 
+§eBedWars §c⋗ §aИгрок BJlaDoK§a присоеденился к игре@ 
+§eBedWars §c⋗ §aИгрок Peligrym§a присоеденился к игре@ 
+§eBedWars §c⋗ §aИгрок KA3ER§a присоеденился к игре@ 
+§eBedWars §c⋗ §aИгрок CoJlb_B_BeHbl§a присоеденился к игре@ 
+§eBedWars §c⋗ §aИгрок LEROY2002§a присоеденился к игре@ 
+§eBedWars §c⋗ §aИгрок _Vadim_§a присоеденился к игре@ 
+§eBedWars §c⋗ §eИгра начнётся через §c10@ 
+§8[§d❋§8] §7Посмотреть статистику любого игрока §b/bw stats §f<Игрок>@ 
+§eBedWars §c⋗ §eИгра начнётся через §c9@ 
+§eBedWars §c⋗ §eИгра начнётся через §c8@ 
+§eBedWars §c⋗ §eИгра начнётся через §c7@ 
+§eBedWars §c⋗ §eИгра начнётся через §c6@ 
+§eBedWars §c⋗ §eИгра начнётся через §c5@ 
+§eBedWars §c⋗ §eИгра начнётся через §c4@ 
+§eBedWars §c⋗ §eИгра начнётся через §c3@ 
+§eBedWars §c⋗ §eИгра начнётся через §c2@ 
+§eBedWars §c⋗ §eИгра начнётся через §c1@ 
+§eBedWars §c⋗ §aИгра начинается@ 
+§eBedWars §c⋗ §6X3_Kto_XD§6 (§aЗеленые§6) умер@ 
+§eBedWars §c⋗ §6_Vadim_§6 (§eЖелтые§6) умер@ 
+§eBedWars §c⋗ §6MinimumXxX§6 (§eЖелтые§6) умер@ 
+§eBedWars §c⋗ §6Aretemka§6 (§aЗеленые§6) умер@ 
+§eBedWars §c⋗ §6marshmallow8§6 (§5Фиолетовые§6) умер@ 
+§eBedWars §c⋗ §6Littleflexdog121§6 (§cКрасные§6) умер@ 
+§8[§d❋§8] §eВыйти в главное лобби §c/hub@ 
+§eBedWars §c⋗ §6LEROY2002§6 (§5Фиолетовые§6) умер@ 
+§eBedWars §c⋗ §6Julia§6 (§cКрасные§6) умер@ 
+§eBedWars §c⋗ §6wezynchek§6 (§aЗеленые§6) умер@ 
+§eBedWars §c⋗ §6MinimumXxX§6[§c❤20§6]§6 (§eЖелтые§6) убил Peligrym§6 (§5Фиолетовые§6)@ 
+§eBedWars §c⋗ §6CoJlb_B_BeHbl§6 (§eЖелтые§6) умер@ 
+§eBedWars §c⋗ §6LEROY2002§6[§c❤19§6]§6 (§5Фиолетовые§6) убил ms7601816§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §6Peligrym§6[§c❤14§6]§6 (§5Фиолетовые§6) убил Littleflexdog121§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §cLEROY2002§c (§5Фиолетовые§c) разрушил кровать команды §aЗеленые@ 
+§eBedWars §c⋗ §6Peligrym§6[§c❤10§6]§6 (§5Фиолетовые§6) убил Julia§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §6Peligrym§6[§c❤8§6]§6 (§5Фиолетовые§6) убил TheGeek3r§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §6LEROY2002§6[§c❤17§6]§6 (§5Фиолетовые§6) убил Aretemka§6 (§aЗеленые§6)@ 
+§eBedWars §c⋗ §cИгрок Aretemka§c (§aЗеленые§c)§c покинул игру@ 
+§8[§d❋§8] §eКупи донат на сайте и получи высшие §bбонусы §eи §bбусты §eна Мини-Играх@ 
+§d§lОчистка §8» §bВсе очистится через §e§l30 §bсекунд!@ 
+§eBedWars §c⋗ §6wezynchek§6[§c❤18§6]§6 (§aЗеленые§6) убил LEROY2002§6 (§5Фиолетовые§6)@ 
+§d§lОчистка §8» §bВсе очистится через §e§l10 §bсекунд!@ 
+§eBedWars §c⋗ §6X3_Kto_XD§6[§c❤20§6]§6 (§aЗеленые§6) убил Littleflexdog121§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §6daniilpnz§6[§c❤20§6]§6 (§eЖелтые§6) убил ms7601816§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §6daniilpnz§6[§c❤20§6]§6 (§eЖелтые§6) убил KA3ER§6 (§5Фиолетовые§6)@ 
+§eBedWars §c⋗ §6daniilpnz§6[§c❤20§6]§6 (§eЖелтые§6) убил marshmallow8§6 (§5Фиолетовые§6)@ 
+§d§lОчистка §8» §bПредметы на карте успешно удалены!@ 
+§eBedWars §c⋗ §cИгрок marshmallow8§c (§5Фиолетовые§c)§c покинул игру@ 
+§eBedWars §c⋗ §6daniilpnz§6[§c❤20§6]§6 (§eЖелтые§6) убил TheGeek3r§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §6daniilpnz§6[§c❤20§6]§6 (§eЖелтые§6) убил Julia§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §6Peligrym§6[§c❤18§6]§6 (§5Фиолетовые§6) убил X3_Kto_XD§6 (§aЗеленые§6)@ 
+§eBedWars §c⋗ §cИгрок X3_Kto_XD§c (§aЗеленые§c)§c покинул игру@ 
+§eBedWars §c⋗ §6daniilpnz§6[§c❤20§6]§6 (§eЖелтые§6) убил LEROY2002§6 (§5Фиолетовые§6)@ 
+§eBedWars §c⋗ §6daniilpnz§6[§c❤18§6]§6 (§eЖелтые§6) убил KA3ER§6 (§5Фиолетовые§6)@ 
+§eBedWars §c⋗ §6daniilpnz§6[§c❤18§6]§6 (§eЖелтые§6) убил Littleflexdog121§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §6daniilpnz§6[§c❤18§6]§6 (§eЖелтые§6) убил Julia§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §6Peligrym§6[§c❤18§6]§6 (§5Фиолетовые§6) убил wezynchek§6 (§aЗеленые§6)@ 
+§eBedWars §c⋗ §cИгрок wezynchek§c (§aЗеленые§c)§c покинул игру@ 
+§eBedWars §c⋗ §6daniilpnz§6[§c❤17§6]§6 (§eЖелтые§6) убил Peligrym§6 (§5Фиолетовые§6)@ 
+§7§m----------------------------------------@ 
+  §7- §bПосле установки, перезайдите.@ 
+   §e/skin §a<ник> §7-§f Установить скин.@ 
+    §e/skin clear §7-§f Удалить скин.@ 
+§eBedWars §c⋗ §6LEROY2002§6[§c❤14§6]§6 (§5Фиолетовые§6) убил BJlaDoK§6 (§aЗеленые§6)@ 
+§eBedWars §c⋗ §cКоманда §aЗеленые§c полностью уничтожена@ 
+§eBedWars §c⋗ §cИгрок BJlaDoK§c (§aЗеленые§c)§c покинул игру@ 
+[Всем] §7[§eЖелтые§7]§edaniilpnz: крыса@ 
+§eBedWars §c⋗ §6Peligrym§6[§c❤1§6]§6 (§5Фиолетовые§6) убил daniilpnz§6 (§eЖелтые§6)@ 
+§eBedWars §c⋗ §6Peligrym§6[§c❤0§6]§6 (§5Фиолетовые§6) убил ms7601816§6 (§cКрасные§6)@ 
+[Всем] §7[§eЖелтые§7]§edaniilpnz: ебал твою мамку лох ебучик читак@ 
+§eBedWars §c⋗ §cИгрок daniilpnz§c (§eЖелтые§c)§c покинул игру@ 
+§eBedWars §c⋗ §6TheGeek3r§6[§c❤20§6]§6 (§cКрасные§6) убил Peligrym§6 (§5Фиолетовые§6)@ 
+§eBedWars §c⋗ §6Peligrym§6[§c❤20§6]§6 (§5Фиолетовые§6) убил Littleflexdog121§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §6Peligrym§6[§c❤20§6]§6 (§5Фиолетовые§6) убил TheGeek3r§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §6Peligrym§6[§c❤15§6]§6 (§5Фиолетовые§6) убил Julia§6 (§cКрасные§6)@ 
+§eBedWars §c⋗ §6_Vadim_§6[§c❤20§6]§6 (§eЖелтые§6) убил Peligrym§6 (§5Фиолетовые§6)@ 
+§4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7@ 
+Resetting systems §8<*> §7Loading "§7§oUnbeatable AI§7" preset...@ 
+§4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7@ 
+Process is over §8<*>§7 "§7§oUnbeatable AI§7" won.@ 
+§4[ §c§lWynntron §4| §8Ver§8§ksio§8n: §8§n9ERrOR.4§4 ] §7@ 
+Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI§7" ER§7§kLOL @Lotem@ 
+§e§ka§a§k>>   §a§kAchievement Unlocked: §e§k§6Achievement Get! Hypixel Server!§a   <<§e§ka@ 
+§aYou have §b1 §aunclaimed leveling reward!@ 
+§e§l@ 
+Welcome to the Hypixel Server!@ 
+§7@ 
+By playing on the Hypixel Server, you consent to follow the rules and agree to our privacy policies. For moderation purposes, further information may be saved while playing.@ 
+More information: §7hypixel.net/rules-and-policies§7@ 
+You can chat with our staff and other players at §7hypixel.net/forums§7@ 
+For cool perks and additional cosmetic features, you can support the Hypixel Network at §7store.hypixel.net@ 
+§b[MVP§c+§b] F1shycakes§f§6 joined the lobby!@ 
+§b[MVP§2+§b] oConfused§f§6 joined the lobby!@ 
+§b[MVP§d+§b] Blitzk_rieg§f§6 joined the lobby!@ 
+§a§l▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+§f                           §bBed Wars Experience@ 
+§f          §bLevel 0                                           §bLevel 1@ 
+§f          §8[§b■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■§8]@ 
+§f               §6§kMN§b  §b§lLEVEL UP! §bYou are now Level 1!  §6§kNM@ 
+§7You earned §b500 Bed Wars Experience (First Join)@ 
+§7You earned §61x Bed Wars Loot Chest@ 
+§7[19✫§7] §b[MVP§c+§b] iaww§f§f: ping@ 
+§b[374✫§b] §b[MVP§f+§b] oMohqmed§f§f: pong@ 
+§b[MVP§a+§b] smuliie§f§6 joined the lobby!@ 
+§aSending you to mini342V!@ 
+§8 §8 §1 §3 §3 §7 §8 @ 
+§7emilychase§e has joined (§b15§e/§b16§e)!@ 
+§eThe game is starting in §b6 §eseconds!@ 
+§7___Abreu___§e has quit!@ 
+§cWe don't have enough players! Start cancelled.@ 
+§7vmarlier§e has quit!@ 
+§7Squiddly___§e has joined (§b14§e/§b16§e)!@ 
+§7Mustafa_xd123§e has joined (§b15§e/§b16§e)!@ 
+§eThe game starts in §e20§e seconds!@ 
+§7Gargamelika2020_§e has quit!@ 
+§eThe game starts in §610§e seconds!@ 
+§71HanzoMain1§e has quit!@ 
+§7Chinte2005§e has joined (§b14§e/§b16§e)!@ 
+§aTralle779§e has joined (§b15§e/§b16§e)!@ 
+§aTralle779§e has quit!@ 
+§eThe game starts in §c5§e seconds!@ 
+§eThe game starts in §c4§e seconds!@ 
+§eThe game starts in §c3§e seconds!@ 
+§7Chinte2005§e has quit!@ 
+§7Tujro§e has quit!@ 
+§e§l ♦ §fНа сервере активировали §e§lзолотой§f час!@ 
+§a§l ♦ §fТеперь шансы в кейсах §eувеличены§a§l↑§f в §a§l2 §aраза!@ 
+§c§l ♦ §fСайт для совершения покупок: §c§lwww.masedworld.ru§c§l §a←[Нажми]@ 
+§0@ 
+§6§l** §fИгрок §6fredikzz§f выиграл §c§lВладелец §fв донат кейсе@ 
+§6§l** §fПокупка кейса производится на сайте » §6www.masedworld.ru@ 
+§0@ 
+§7[593*/As]§3 [§bCMD**§3] §3Thomka: §8hi bby@ 
+§7[593*/As]§3 [§bCMD**§3] §3Thomka: §8uwu@ 
+§7[593*/As]§3 [§bCMD**§3] §3Thomka: §8oh no@ 
+§7[593*/As]§3 [§bCMD**§3] §3Thomka: §8another gm trial@ 
+§7[593*/As]§3 [§bCMD**§3] §3Thomka: §8after ocu?@ 
+§7[593*/As]§3 [§bCMD**§3] §3Thomka: §8oculism@ 
+§7[593*/As]§3 [§bCMD**§3] §3Thomka: §8he told me to get out on build server@ 
+§7[593*/As]§3 [§bCMD**§3] §3Thomka: §8:[@ 
+§3_Tiger [WC2] shouts: @ 
+§7[65/Ni] §c§l☠§6§l❂§3§l✿§b [§3VIP+§b] §b54tr14: §8:O@ 
+<TerraQu> wtf@ 
+<ToastCP> wat@ 
+<Arrowga> WHAT@ 
+§3_Tiger [EU2] shouts: @ 
+§3AndrQwQ [WC6] shouts: @ 
+§cCould not connect to a default or fallback server, please try again later: io.netty.channel.ConnectTimeoutException@ 
+§f                                §eBob's Tomb֎@ 
+                               §e??????????@ 
+                         §eAltar of Sanctification@ 
+§4If you are seeing this message, something is wrong with the quest and you have somehow broken sequence. Please report what you did to see this message so it can be fixed!@ 
+§4/toggle [swears/blood/insults/autojoin/music/vet/war/guildjoin/attacksound/rpwarning/100/sb/pouchmsg/combatbar]@ 
+§3AndrQwQ [WC6] shouts: @ 
+§7[84/Ar] §c§l☠§6§l❂§3§l✿ §fWokes: §8hey uh@ 
+§7[84/Ar] §c§l☠§6§l❂§3§l✿ §fWokes: §8devs@ 
+§7[84/Ar] §c§l☠§6§l❂§3§l✿ §fWokes: §c§l☠ §7hardcore mode@ 
+§7[55/As] §c§l☠ §7Sakuras4Head: §8umh@ 
+§7[55/As] §c§l☠ §7Sakuras4Head: §8im stuck@ 
+§7[55/As] §c§l☠ §7Sakuras4Head: §8in a cave@ 
+§3AndrQwQ [WC12] shouts: @ 
+§7[283/Da]§b [§3VIP+§b]§7 §bajaeyiv: §8SUP@ 
+§6[mcMMO] Используется версия §31.5.10-SNAPSHOT@ 
+§6[mcMMO] §awww.spigotmc.org/resources/mcmmo.2445/§e - Сайт mcMMO@ 
+§b=◄►=◄►=◄►=◄►=◄►=◄►=◄►=◄►=◄►=◄►=◄►=◄►=◄►=◄►=◄►=◄►=◄►=◄►=◄►=@ 
+§a❖Здравствуйте §cPijavka@ 
+§a❖Добро пожаловать на сервер §4§lDark§6§lSword@ 
+§a❖Наш сайт §chttp://dark-sword-server.mcdonate.ru@ 
+§a❖Наша группа в ВК §chttps://vk.com/dark_sword_server@ 
+§a❖Скайп создателей: §cassassin22332, shimanskiy-roman@ 
+§a❖Онлайн игроков:§c 9@ 
+§a❖Удачной вам игры!@ 
+§6Нет новых писем.@ 
+ §3§l-=-=-=-=-=-=-=-=-=-= §b« ✶ » §3§l=-=-=-=-=-=-=-=-=-=-@ 
+§4·> §6Рады снова видеть вас на нашем проекте!@ 
+§4·> §6Для продолжения вам необходимо §eавторизоваться§6.@ 
+§4·> §6Для авторизации используйте следующую команду:@ 
+§4·> §e/login [пароль]@ 
+§4·> §6Если вы здесь впервые, измените никнейм.@ 
+§3§l-=-=-=-=-=-=-=-=-=-= §b« ✶ » §3§l=-=-=-=-=-=-=-=-=-=-@ 
+§3§l-=-=-=-=-=-= §b« ✶ » §3§l=-=-=-=-=-=-@ 
+§4·> §aУспешная авторизация!@ 
+§c>> §fВы §aвошли §fна безопасную зону@ 
+§c>> §fВы §cпокинули §fтерриторию спавна@ 
+demon3 был убит GUF с помощью §b[§b§o§a§lКлинок пожирателя§b]@ 
+§2║  §e[Страж]§a §7_Terak_ §b[445] §2»§a тп камне@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a гуф@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a хей@ 
+§2║  §e[Страж]§a §7_Terak_ §b[445] §2»§a тп камне demon3@ 
+§6[§cЯ§6 -> §cGUF§6] я зеро@ 
+§2║  §e[Страж]§a §7_Terak_ §b[445] §2»§a пж@ 
+§6[§cЯ§6 -> §cGUF§6] ток с лицензии зашёл@ 
+§6[§cGUF§6 -> §cЯ§6] Дарова@ 
+§6Телепортирование...@ 
+§c>> §fВы §aвошли §fна территорию спавна@ 
+§c>> §fВы §4покинули §fбезопасную зону@ 
+§6Запрос отправлен игроку§c GUF§6.@ 
+§6To cancel this request, type §c/tpacancel§6.@ 
+§cGUF §6принял Ваш запрос на телепортирование.@ 
+§6Телепортирование к §cGUF§6.@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a ку@ 
+§2║ §8§lWorld§lCasters §c[Ревенант]§a §7GUF §b[3353] §2»§a q@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a о@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a го я с зеро зайду@ 
+§2║ §8§lWorld§lCasters §c[Ревенант]§a §7GUF §b[3353] §2»§a Заходи@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a там ресов нету правда@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a )@ 
+§2║ §8§lWorld§lCasters §c[Ревенант]§a §7GUF §b[3353] §2»§a Почему?@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a ска воры@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a кинули на тёмный@ 
+§2║ §8§lWorld§lCasters §c[Ревенант]§a §7GUF §b[3353] §2»§a Кто?@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a als@ 
+§2║ §8§lWorld§lCasters §c[Ревенант]§a §7GUF §b[3353] §2»§a Ясно@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a нашей тимейт@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a ладно жди я щас@ 
+§2║ §fFOL§1OWE§4RS §5[Ассасин]§a §7demon3 §b[1639] §2»§a ониган памаги на 16@ 
+demon3 был убит Blaze@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a все на 16 сходка у босса@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a §4все на 16 сходка у босса@ 
+nikita207 был убит §cМистический демон@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a 16@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a этоже лох@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a не@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a найс 16 самый изи босс@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a ye nfr@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a ну так иди убей его@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a ща@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a 5 сек@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a я с зеро зайду@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a GUF иди 16 убей помоги челам@ 
+§2║  §5[Ассасин]§a §7nikita207 §b[134] §2»§a ааа я и за этого дуратского онлаййна здох!@ 
+§c>> §e Вы напали на §cSPIDER! §eНе выходите из игры.@ 
+§c§lHey!§7 Sorry, but you can't open that here.@ 
+§c>> §e Вы вышли из боя!@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a устанавливаю т лаунчер...@ 
+§2║  §5[Ассасин]§a §7nikita207 §b[134] §2»§a при@ 
+§2║  §5[Ассасин]§a §7nikita207 §b[134] §2»§a в@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a ?@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a иди@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a на босса помоги@ 
+Неизвестная команда@ 
+§2║  §5[Ассасин]§a §7nikita207 §b[134] §2»§a стой@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a FRIZEE_YT@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a f@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a скок на 16 челов@ 
+§2║  §5[Ассасин]§a §7nikita207 §b[134] §2»§a у меня меч 3 лвл или 2 и броня посмотри сам тоэ@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a чела 3@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a не@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a некит там 2 чела иди помоги@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a кто хочет со мной на винкрафт@ 
+nikita207 был убит YHNTGBRFV с помощью §b[§b§o§4Меч Сумеречного слуги§b]@ 
+§4>> §cВнимание! Лут на земле будет удален через §460 §cсекунд!@ 
+§2║  §5[Ассасин]§a §7nikita207 §b[134] §2»§a !фриз идиот верни вещииии!@ 
+§2║  §5[Ассасин]§a §7nikita207 §b[134] §2»§a FRIZEE_YT алло@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a e vtyz ytne@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a это не фриз@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a довен@ 
+§4>> §cВнимание! Лут на земле будет удален через §430 §cсекунд!@ 
+§2║  §5[Ассасин]§a §7nikita207 §b[134] §2»§a верни мои вещиии"@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a иди он вернёт он дебил просто@ 
+onigan был убит YHNTGBRFV с помощью §b[§b§o§4Меч Сумеречного слуги§b]@ 
+§4>> §cВнимание! Лут на земле будет удален через §410 §cсекунд!@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a +@ 
+§4>> §aВесь лут успешно удален!@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a эх блят YHNTGBRFV держись@ 
+YHNTGBRFV был убит FRIZEE_YT с помощью §b[§b§o§4Меч Хеллсинга§b]@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a лол@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a хельсинга меч )@ 
+nikita207 был убит demon3 с помощью §b[§b§o§4Меч Сумеречного слуги§b]@ 
+§2║  §9[Новичок] §a §7Pijavka §b[76] §2»§a тёмка лучше@ 
+§2║ §fFOL§1OWE§4RS §c[Ревенант]§a §7FRIZEE_YT §b[6196]§0§l ♫§6§l[Lord]§0§l♫ §2»§a -даун\@ 
+§7[189*/Ni/✫★★Imp]§5 [§dHERO§5]§7 §5Haisay: §8my man@ 
+/@ 
+§3AndrQwQ [WC7] shouts: @ 
+§7[39/Ni] §c§l☠§6§l❂§3§l✿§b [§3Vet§b] §bNolannnn: §8.@ 
+§b[Mystery Box] §b§f§bAlvzorin §ffound a §5Epic Victory Pose Gesture§f!@ 
+ §f§l➤ §6Вы достигли лимита Хайпы! Добавьте Хайпы к мини-играм в Prototype Лобби, нажав на Алмаз Хайпы!@ 
+§b[MVP§c+§b] kbar66§f§6 spooked in the lobby!@ 
+§b[MVP§6+§b] xDryle§f§6 spooked in the lobby!@ 
+§aВы добавили §6§l100 Хайпы §aв игру §eThe Pit§a!@ 
+ §b>§c>§a> §6[MVP§c++§6] Doczyx§f§6 spooked in the lobby! §a<§c<§b<@ 
+HiveHub does not recognise this command.@ 
+§9§9birdsisfly§8 » :(@ 
+§9§9birdsisfly§8 » ;(@ 
+§8[§e✦§8] §6Stat resets now support most games! §bPurchase §8@ §a§lhivemc.com/go/stats@ 
+§9§9birdsisfly§8 » how do we exit party@ 
+§9§9Creeper_Presdent§8 » ./party leave?@ 
+§9§9Gaby2012§8 » :D@ 
+§9§9birdsisfly§8 » i don'tinvite a player in my player@ 
+§9§9BOSSS66§8 » etaywiuer@ 
+§9§9Gaby2012§8 » u dont invite a player in ur player ? :D lol@ 
+§9§9birdsisfly§8 » i don't want to invite a player in party@ 
+§9§9birdsisfly§8 » my@ 
+§9§9Gaby2012§8 » then dont ?@ 
+§9§9birdsisfly§8 » i can't play games@ 
+§9§9Gaby2012§8 » ./party leave ?@ 
+§8[§e✦§8] §6Did you know you can §ecreate a party §6to play with friends? §7Type §f§l/party help §7for the commands@ 
+§9§9birdsisfly§8 » i can't@ 
+§9§9Gaby2012§8 » then idk@ 
+§9§9iceantonia§8 » i can't do this anymore@ 
+§9§9JacquiFink§8 » oooof@ 
+§8[§e✦§8] §3Buy premium and get §e§lfree LuckyCrates §8@ §a§lstore.hivemc.com@ 
+§9§9Zockerspinne§8 » gg@ 
+§8[§e✦§8] §6Did you know we have forums? §a§lforum.hivemc.com@ 
+§9§9Bloody_potato69§8 » ttt@ 
+§9§9Katashi101§8 » ttt@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8Critiri thats rude@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8:[@ 
+§7[94/Ni] §c§l☠§3§l✿§b [§3VIP+§b] §bDISTRlCT: §8gegege@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8hewwo owo@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8smh its hi toro@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8because she is a noob@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8Level90Pyukumuku sure@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8leggo@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8toro help us@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8or you're bad@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8bobs tomb@ 
+§7[116/Da]§6 [§eMod§6] §6Hitoro: §8ok@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8defsenesless@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8sans@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8less@ 
+§7[914*/Ar]§6 [§eMod§6] §6Nyam: §8gaming@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8gaming@ 
+§7[914*/Ar]§6 [§eMod§6] §6Nyam: §8sans gaming sans gaming@ 
+§7[231*/Ma]§3 [§bCMD**§3] §3Thomka: §8gaming sans gaming sans@ 
+§a[73/Ma]§5 [§dHERO§5] §5Siwging: §fneed wand man@ 
+§a[73/Ma]§5 [§dHERO§5] §5Siwging: §f!?@ 
+§a[73/Ma]§5 [§dHERO§5] §5Siwging: §fIm master of dragons@ 
+§a[73/Ma]§5 [§dHERO§5] §5Siwging: §fI have killed biggest boss@ 
+§a[73/Ma]§5 [§dHERO§5] §5Siwging: §7and it gave me dragons@ 
+§7@ 
+This book's title reads...@ 
+    §aOne Second Is Enough To Die For§2§o@ 
+        by Liza Seglend@ 
+§7@ 
+This book's title reads...@ 
+    §aStrategical Placement Of The Undead§2§o@ 
+        by Fiscarn Lixmaoul@ 
+§7@ 
+This book's title reads...@ 
+    §aTotal War: Armageddon§2§o@ 
+        by Dullahan@ 
+§7@ 
+This book's title reads...@ 
+    §aA Conjurer's Creations§2§o@ 
+        @ 
+§7@ 
+This book's title reads...@ 
+    §aAmbitions For World Domination§2§o@ 
+        by Amadel@ 
+§7@ 
+This book's title reads...@ 
+    §aDeath: Portrayals in Global Cultures§2§o@ 
+        @ 
+§7@ 
+This book's title reads...@ 
+    §aThe Disconnected World§2§o@ 
+        by Nardoj Thearendu@ 
+§7@ 
+This book's title reads...@ 
+    §aAm I Dead? Coping With Your Newfound Unlife§2§o@ 
+        by Death@ 
+§7@ 
+This book's title reads...@ 
+    §aCommunist Books§2§o@ 
+        Anonymous@ 
+§7@ 
+This book's title reads...@ 
+    §aSacrificial Pacts For Dummies§2§o@ 
+        by Cihr Nettann@ 
+§7@ 
+This book's title reads...@ 
+    §aTimelapse Kingdom§2§o@ 
+        by Nielad Serolfend@ 
+§7@ 
+This book's title reads...@ 
+    §aLast Aid For Beginners: What To Do With @ 
+    Friends Coming Back To Life§2§o@ 
+§e§l≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡@ 
+§e§6§lHYPIXEL§e is hosting a §b§lCOPS AND CRIMS§e tournament!@ 
+§6Compete, climb the leaderboard and earn free rewards!@ 
+§e§eTo participate, visit the hall §bon October 25th@ 
+§e§e§lClick §b§lHERE §e§lto read the announcement!@ 
+§e§l≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡@ 
+§fИгрок §7flyingfish29 §fнашёл §e✰✰✰✰✰ §bMystery Box§f!@ 
+§7[15/As] §c§l☠ §7nwcubeok: §8AUZU@ 
+§7[15/As] §c§l☠ §7nwcubeok: §8SALE PD@ 
+§7[168/Ni]§6 [§eMod§6] §6devnull2112: §8intel, agil, dex, str, and def@ 
+§e[112/Ma]§2 [§aVet§2] §2HotoKafuu: §8and i'll tell your fortune@ 
+§e[112/Ma]§2 [§aVet§2] §2HotoKafuu: §8so guys@ 
+§e[112/Ma]§2 [§aVet§2] §2HotoKafuu: §8hows life@ 
+§7[120/Hu]§b [§3VIP+§b]§7 §bDat_Scrub: §8Fucking leaches@ 
+§7[83/Da]§b [§3Vet§b]§7 §bCerien: §8other than the boss fight of temple of legend quest i have@ 
+§7[83/Da]§b [§3Vet§b]§7 §bCerien: §8haven antiquity@ 
+§7[83/Da]§b [§3Vet§b]§7 §bCerien: §8if you're down for that@ 
+§7[83/Da]§b [§3Vet§b]§7 §bCerien: §8the boss fight just kills me every time djfhg@ 
+§7[83/Da]§b [§3Vet§b]§7 §bCerien: §8i'm down for either or@ 
+§7[83/Da]§b [§3Vet§b]§7 §bCerien: §8>:]]@ 
+Error E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI§7" ER§7§kLOL @Lotem@ 
+§7[32/Ni]§5 [§dHERO§5]§7 §5UnusualUsual: §8./party join UnusualUsual@ 
+§7[32/Ni]§5 [§dHERO§5]§7 §5UnusualUsual: §8got a discord?@ 
+§7[32/Ni]§5 [§dHERO§5]§7 §5UnusualUsual: §8aw well@ 
+§7[32/Ni]§5 [§dHERO§5]§7 §5UnusualUsual: §8you look lower leveled you lead@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8welcome back!@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8:D the very very first one that's super booty@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8yes@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8I have to make my own weapons tho@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8D: I can't get it@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8It's a mode I'm playing on@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §3§l✿ §8Craftsman - can only equip quest and crafted items@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8nope D: cause that's@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §6§l❂ §8Ironman - can't trade with anyone@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8and then if I die@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8Hardmode - drop most everything if I die@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8right?!@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8that's why I'm blessed to have met a support like you :D@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8and even though it says 23@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8i'm lv 3 combat LOL@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8ah nvm@ 
+§7[23/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8can't hold anymore xD@ 
+§7[26/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8ah@ 
+§7[26/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8i need more emeralds D:@ 
+§7[26/Wa] §c§l☠§6§l❂§3§l✿ §7GreatSalad: §8one sec@ 
+§7[203/Ni/★★FFT] §c§l☠§b [§3VIP+§b] §bLosat: §8Oof@ 
+§7[50/Ma] §c§l☠ §fContagiousBanana: §8no@ 
+§7[50/Ma] §c§l☠ §fContagiousBanana: §8oh hi@ 
+§7[50/Ma] §c§l☠ §fContagiousBanana: §8gg@ 
+§7[50/Ma] §c§l☠ §fContagiousBanana: §8:)@ 
+§7[50/Ma] §c§l☠ §fContagiousBanana: §8how did you know?@ 
+§7[50/Ma] §c§l☠ §fContagiousBanana: §8I need to get that@ 
+§7[50/Ma] §c§l☠ §fContagiousBanana: §8sounds conveneient@ 
+§7[50/Ma] §c§l☠ §fContagiousBanana: §8yeah?@ 
+§7[50/Ma] §c§l☠ §fContagiousBanana: §8and yes@ 
+§7[50/Ma] §c§l☠ §fContagiousBanana: §8im poor m8 sorry@ 
+§7[50/Ma] §c§l☠ §fContagiousBanana: §8i will do that rn@ 
+§7Sending to server mini149V...@ 
+§8 §8 §1 §3 §3 §7 §8 @ 
+§7Sending to server mega8B...@ 
+§7Der_Babaron§7: ok@ 
+§7Der_Babaron§7: wie lange denn@ 
+§7Phijoso§7: habe gerade die andere verscheknkt so 2 min@ 
+§7[28/Ma] §fYalm: §6§l❂ §fironman ?@ 
+§7[114/Ni/★KLI]§b [§3VIP+§b]§7 §b_User: §8sad life@ 
+§7[46/Hu]§2 [§aVIP§2]§7 §2Modgey_420: §8yrs@ 
+§7[46/Hu]§2 [§aVIP§2]§7 §2Modgey_420: §8u need some free shit@ 
+§7[22/Ar] §c§l☠ §7Michihi_Dreig: §8НЕееееет!@ 
+§7[22/Ar] §c§l☠ §7Michihi_Dreig: §8СОКРОВИЩЕ!@ 
+§6§l[!] §fОжидайте завершения проверки...@ 
+§7[13/Wa] §c§l☠ §7MagiSkeppycoded: §8im trying §c§l☠ §8hardcore@ 
+§e[121/Ma]§b [§3VIP+§b] §bGlaqwen: §8got 6@ 
+§e[121/Ma]§b [§3VIP+§b] §bGlaqwen: §8when was the last time i saw pets in dungeons kek@ 
+§f                     §b§lThe Best Experience: 1.8@ 
+§f           §3For the best Hive experience, we'd recommend@ 
+§f                    §3using 1.8 versions of Minecraft.@ 
+§f          §f§lWant to change versions? Find out here!@ 
+§cОграничение строительства по высоте: §c256§c блоков@ 
+§7[49/Kn] §c§l☠§6§l❂§3§l✿§5 [§dHERO§5] §5Greenybomb: §8Yea we could do that@ 
+§7[49/Kn] §c§l☠§6§l❂§3§l✿§5 [§dHERO§5] §5Greenybomb: §8I just have to complete the quest thingy quickly@ 
+§c[§6Salted§c] §eanyone fighting the EO boss soon? lmk i wanna watch that @ 
+§eАвторизуйтесь - §c/login §f[§cпароль§f]@ 
+§eУспешная авторизация!@ 
+§4 §4 @ 
+§4 §4 §4 @ 
+§4 §4 §4 §4 @ 
+§4 §4 §4 §4 §4 @ 
+§4 §4 §4 §4 §4 §4 @ 
+§4 §4 §4 §4 §4 §4 §4 @ 
+§4 §4 §4 §4 §4 §4 §4 §4 @ 
+§4 §4 §4 §4 §4 §4 §4 §4 §4 @ 
+§4 §4 §4 §4 §4 §4 §4 §4 §4 §4 @ 
+§4 §4 §4 §4 §4 §4 §4 §4 §4 §4 §4 @ 
+§4 §4 §4 §4 §4 §4 §4 §4 §4 §4 §4 §4 @ 
+§4§l !!!! §c§lВАШ АККАУНТ В ОПАСНОСТИ §4§l!!!!@ 
+§f К ВАШЕМУ АККАУНТУ НЕ ПРИВЯЗАНА СТРАНИЦА §b§lВКОНТАКТЕ@ 
+§f ВЫ НЕ СМОЖЕТЕ БЫСТРО И §f§lБЕСПЛАТНО §fВОССТАНОВИТЬ АККАУНТ @ 
+§f В СЛУЧАЕ ЗАБЫТИЯ, §f§lВЗЛОМА§f, УТЕРИ И Т.Д ПАРОЛЯ!@ 
+§f ПРИВЯЖИТЕ СТРАНИЦУ §b§lВК§f! ПОДРОБНЕЕ: §6vk.cc/9JrVjO@ 
+§4 §4 §4 §4 §4 §4 §4 §4 §4 §4 §4 §4 §4 @ 
+§4 §4 §4 §4 §4 §4 §4 §4 §4 §4 §4 §4 §4 §4 @ 
+§aПодключение..@ 
+Fire §7[§d§l§oLEGEND§7] Phellie§c:§d  - экономика + токо сп0нсы найдут@ 
+§7§l(§c§l!§7§l)§7 Точка §c2 §7установлена в координатах §c(1768, 64, 280) §7().@ 
+Fire §7[§8ИГРОК§7] Danil800§c:§a и где было на вверху?@ 
+§6SET §7[§b§lHERO§7] Bezobrazie§c:§a По кордам не??@ 
+Fire §7[§8ИГРОК§7] Danil800§c:§a или внизу@ 
+ §7[§8ИГРОК§7] KillAura§c:§a  Danil800, белый шалкер с китом леги.@ 
+ §7[§8ИГРОК§7] Shadow_Pepsi§c:§7 кто пвп тп с бронькой@ 
+ §7[§8ИГРОК§7] p0nd04ka§c:§7 За скоко продать 16 золотой моркови?@ 
+Fire §7[§d§l§oLEGEND§7] Phellie§c:§d  верх@ 
+Fire §7[§8ИГРОК§7] Danil800§c:§a а да?@ 
+ §7[§8ИГРОК§7] rinotti§c:§7 тп кого убить@ 
+ §7[§8ИГРОК§7] LuckerGrief§c:§7 Кто в дс в лс(Не Бомжы!!!)@ 
+§7§l(§6§l!§7§l) §f§lПодать §b§lжалобу §f§lна игрока можно,@ 
+ §f §f §f§lс помощью команды - §e§l/report (ник)@ 
+NEON §7[§8ИГРОК§7] serty_lololo§c:§7 какой чит чтоб по воде ходить?@ 
+NEON §7[§8ИГРОК§7] serty_lololo§c:§7 а то тут поц ходит@ 
+ §7[§8ИГРОК§7] megder§c:§7 23@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1767, 49, 281) §7(64).@ 
+§4WHFL §7[§a§l§nSPONSOR§7] ToP_SpOnSoR§c:§a bonfire100 читы и бан@ 
+§7Неизвестная команда, используй §6/help §7для помощи.@ 
+§4WHFL §7[§a§l§nSPONSOR§7] ToP_SpOnSoR§c:§a Ты по воде ходешь скрин и килка@ 
+§c§lОСЕННЯЯ РАСПРОДАЖА!!! §f§lТОЛЬКО СЕГОДНЯ УСПЕЙ КУПИТЬ §d§lLEGEND §f§lВСЕГО@ 
+ §f§lЗА §c§l199 РУБЛЕЙ §f§lВМЕСТО 689 Р! §f§lСКИДКИ ЗАКОНЧАТСЯ §c§lВ 23:59 §f§lПО МСК!@ 
+Fire §7[§8ИГРОК§7] Danil800§c:§a стойте а у домера же только по выходным же?@ 
+§7§l(§6§l!§7§l) §7Игрок §6TheWyxx §7забанил игрока: §6Bonfire100 §7по причине '§6читы скрин на форум§7'@ 
+§7§l(§6§l!§7§l) §f§lДонат §e§lпосле покупки §f§lвыдается,@ 
+ §f §f §f§lво всех мирах §a§lгриф. выживания!@ 
+§7(§c§l!§7) §fЧат будет доступен через §c1 §fсекунд!@ 
+§6lini_yt228 §6покончил жизнь самоубийством.@ 
+§7§l(§6§l!§7§l) §7Очистка карты через §660 §7секунд@ 
+§b§lОСЕННЯЯ РАСПРОДАЖА!!! §f§lТОЛЬКО СЕГОДНЯ УСПЕЙ КУПИТЬ §a§lSPONSOR §f§lВСЕГО@ 
+ §f§lЗА §b§l399 РУБЛЕЙ §f§lВМЕСТО 1499 Р! §f§lСКИДКИ ЗАКОНЧАТСЯ §c§lВ 23:59 §f§lПО МСК!@ 
+§cegor201020§6 просит телепортироваться к Вам.@ 
+§6Для принятия запроса введите §c/tpaccept§6.@ 
+§6Для отказа от запроса введите §c/tpdeny§6.@ 
+§6Заявка будет автоматически отменена через§c 45 секунд§6.@ 
+§7§l(§6§l!§7§l) §7Очистка карты через §630 §7секунд@ 
+Fire §7[§d§l§oLEGEND§7] Phellie§c:§d  у меня бомбит слили читер когда у меня был д3 груд сп0нса и лопата -40к иза читера@ 
+Fire §7[§d§l§oLEGEND§7] Phellie§c:§d  Где античит!?!??!@ 
+§0Drop §7[§8ИГРОК§7] vlad_noob_§c:§7 all warp pvp@ 
+§6Запрос на телепортацию принят.@ 
+§7§l(§c§l!§7§l)§7 Вы вошли в режим §c§lPVP!@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1768, 64, 284) §7(5).@ 
+§7(§6§l!§7) §fВас убили и отобрали §6§l2.004053 §7ℳ@ 
+ §7[§8ИГРОК§7] HELEKOPTER§c:§7 тп кто в дс я с другом в троём веселее тп кто хочет не грифф@ 
+ §7[§8ИГРОК§7] love_coJlo§c:§7 x@ 
+§7§l(§c§l!§7§l)§7 ЛКМ: установить точку #1; ПКМ: установить точку #2@ 
+§7§l(§c§l!§7§l)§7 Совет: Используйте Pos1 как шаблон - §c//set pos1@ 
+ §7[§8ИГРОК§7] Shadow_Pepsi§c:§7 тп кого приютить@ 
+Fire §7[§d§l§oLEGEND§7] Phellie§c:§d  куплю меч д3 и шалкер в лс цены@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1768, 50, 284) §7(75).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1766, 51, 282) §7(126).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1767, 51, 283) §7(112).@ 
+Fire §7[§d§l§oLEGEND§7] Phellie§c:§d читер который меня убил соси хуй здохни@ 
+ §7[§8ИГРОК§7] 10h10u§c:§7 тп раздача!111@ 
+Fire §7[§d§l§oLEGEND§7] Phellie§c:§d  в игре и потеряй всё@ 
+ §7[§8ИГРОК§7] vert123§c:§7 кому огнистойку 2 продати?@ 
+ §7[§8ИГРОК§7] p0nd04ka§c:§7 Кто может скинуть денег за дело?? я коплю 8к срочно 900/8000 я коплю на тотем(. пишите в лс я вам помогу чем могу@ 
+§6§lReallyCHAT §e§l> §6Дорогой друг, у меня нет вопросов к тебе, но только найди на своей клавиатуре такую клавишу как §6Caps Lock §7и нажми на неё. Тогда я отправлю твоё сообщение.@ 
+ §7[§8ИГРОК§7] Grifer§c:§a Кто пвп в кит старт на ртп тп!@ 
+§6_Nisima_ §6покончил жизнь самоубийством.@ 
+ §7[§8ИГРОК§7] rinotti§c:§7 тп раздача@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  Where sand!?!?@ 
+§csexyjany§6 просит телепортироваться к Вам.@ 
+§0Drop §7[§8ИГРОК§7] vlad_noob_§c:§7 all warp pvp алмазники сикуни все@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1764, 63, 284) §7(50).@ 
+§7(§6§l!§7) §fВы заработали §6§l0.41899705 §7ℳ@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  ого я на спавне заспавнился@ 
+§6BAanasa214 §6покончил жизнь самоубийством.@ 
+ §7[§8ИГРОК§7] HELEKOPTER§c:§7 не запреваченный дом все тп ломаем)) (шучу мой старый) но всерогно ломаем мой доооооом@ 
+§7§l(§c§l!§7§l)§7 Вы вышли из режима §c§lPVP!@ 
+§6Запрос отправлен игроку§c HELEKOPTER§6.@ 
+§6Для отказа от запроса введите §c/tpacancel§6.@ 
+ §7[§8ИГРОК§7] RomaChebur12§c:§7 кто в скайп в лс или тп по жиланию@ 
+ §7[§8ИГРОК§7] KillAura§c:§a  Phellie +@ 
+ §7[§8ИГРОК§7] Shadow_Pepsi§c:§7 кто пвп в кит старте тп@ 
+§cHELEKOPTER §6принял Ваш запрос на телепортирование.@ 
+§6Телепортирование к §cHELEKOPTER§6.@ 
+§7§l(§c§l!§7§l) §7Вы не можете использовать команды в §c§lPvP.@ 
+§7(§6§l!§7) §fВас убили и отобрали §6§l1.972352 §7ℳ@ 
+ §7[§8ИГРОК§7] 10h10u§c:§7  тп супер раздача@ 
+ §7[§8ИГРОК§7] Grifer§c:§a Кто пвп@ 
+ §7[§d§l§oLEGEND§7] benjamin34342§c:§d кто приютит@ 
+ §7[§8ИГРОК§7] Kolobok_com§c:§7 кто приютит по дс@ 
+§7§l(§c§l!§7§l)§7 Совет: Выберите удаленные точки - §c//farwand@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1765, 64, 282) §7(12).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1765, 63, 282) §7(24).@ 
+§cbenjamin34342§6 просит телепортироваться к Вам.@ 
+§cLm_Equals§6 просит телепортироваться к Вам.@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1768, 60, 284) §7(25).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1766, 63, 285) §7(36).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1765, 63, 283) §7(32).@ 
+ §7[§8ИГРОК§7] Grifer§c:§a Кто пвп в кит Л Е Г Е Н Д на ртп тп!@ 
+§c_NaeMar_pro§6 просит телепортироваться к Вам.@ 
+§7(§6§l!§7) §fВы заработали §6§l0.0 §7ℳ@ 
+ §7[§d§l§oLEGEND§7] benjamin34342§c:§d неееет глязь@ 
+ §7[§8ИГРОК§7] RomaChebur12§c:§7 кто в скайп в лс или тп по жиланию не гриф100%@ 
+ §7[§e§lMASTER§7] mr_duck§c:§7 зарплата 10k@ 
+ §7[§8ИГРОК§7] p0nd04ka§c:§7 Чат игра@ 
+ §7[§e§lMASTER§7] mr_duck§c:§7 зарплата 10k кто будет работать@ 
+NEON §7[§8ИГРОК§7] serty_lololo§c:§7 я@ 
+ §7[§8ИГРОК§7] love_coJlo§c:§7 я@ 
+§cFLau§6 просит телепортироваться к Вам.@ 
+§cgrinko01§6 просит телепортироваться к Вам.@ 
+ §7[§8ИГРОК§7] p0nd04ka§c:§7 Чат игра (кто первый скинет 500 скину 1000) ПОЕХАЛИ@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1764, 64, 283) §7(20).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1768, 61, 284) §7(20).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1768, 62, 284) §7(15).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1767, 60, 283) §7(40).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1767, 60, 284) §7(50).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1768, 61, 283) §7(16).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1768, 62, 283) §7(12).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1767, 63, 285) §7(24).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1767, 62, 285) §7(36).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1768, 60, 283) §7(20).@ 
+ §7[§8ИГРОК§7] skrn§c:§7  яяяя@ 
+ §7[§d§l§oLEGEND§7] benjamin34342§c:§d 500@ 
+ §7[§8ИГРОК§7] KillAura§c:§a Чат игра | Кто первый скинет мне от 500 до 5000 - получит х2 возрат, если играет один - возращаю х1 | Играем после слова: "Go".@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1766, 64, 282) §7(9).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1766, 63, 282) §7(18).@ 
+ §7[§8ИГРОК§7] Shadow_Pepsi§c:§7 кто будет работать зарплата 20к@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1766, 61, 282) §7(36).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1766, 62, 282) §7(27).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1767, 62, 282) §7(18).@ 
+ §7[§8ИГРОК§7] grinko01§7:§7 ff@ 
+ §7[§8ИГРОК§7] grinko01§7:§7 я нароздачю@ 
+§7(§6§l!§7) §fВы заработали §6§l29.563997 §7ℳ@ 
+ §7[§8ИГРОК§7] skrn§c:§7  mr_duck яч@ 
+§6Anton289 §6покончил жизнь самоубийством.@ 
+ §7[§8ИГРОК§7] p0nd04ka§c:§7 Чат игра (кто первый скинет 500 скину 1000) ПОЕХАЛИц@ 
+§7§l(§c§l!§7§l)§7 Совет: Выберите все подключенные блоки - //sel fuzzy@ 
+ §7[§8ИГРОК§7] grinko01§7:§7 я нарз@ 
+ §7[§a§l§nSPONSOR§7] BloodTime§c:§a  p0nd04ka скидывай@ 
+§7(§6§l!§7) §fВы заработали §6§l28.972717 §7ℳ@ 
+§4WHFL §7[§8ИГРОК§7] _HappyMix_§c:§7 +@ 
+ §7[§8ИГРОК§7] Grifer§c:§a Кто продаст нитки пишите в лс!@ 
+Fire §7[§d§l§oLEGEND§7] Phellie§c:§d  люди я кидок? пж без рофлов@ 
+ §7[§8ИГРОК§7] Vadimons§c:§7 кто приютит +@ 
+ §7[§8ИГРОК§7] HELEKOPTER§c:§7 очень весёлая чат игра вы мне скидываете 100 баксов а я вам ничего :D@ 
+ §7[§8ИГРОК§7] love_coJlo§c:§7 нЕт@ 
+§6SET §7[§b§lHERO§7] Bezobrazie§c:§a +@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1766, 65, 285) §7(36).@ 
+ §7[§a§l§nSPONSOR§7] BloodTime§c:§a  p0nd04ka наёб@ 
+ §7[§8ИГРОК§7] Anton289§c:§7 + могу я@ 
+ §7[§8ИГРОК§7] p0nd04ka§c:§7 Ии это гриф сервер@ 
+ §7[§8ИГРОК§7] love_coJlo§c:§7 Я@ 
+§cBloodTime§6 просит телепортироваться к Вам.@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1764, 65, 283) §7(40).@ 
+§7(§6§l!§7) §fВас убили и отобрали §6§l3.1036391 §7ℳ@ 
+ §7[§8ИГРОК§7] killercombo§c:§7 кто дружить тп не гриф 100%@ 
+ §7[§a§l§nSPONSOR§7] Vorshek99§c:§a bb all@ 
+ §7[§8ИГРОК§7] SpinerBro§c:§7 К кому можно в клан?@ 
+§6Самурай §6покончил жизнь самоубийством.@ 
+§4WHFL §7[§8ИГРОК§7] _HappyMix_§c:§7 я@ 
+ §7[§8ИГРОК§7] nl_ighte§c:§7 cпонсоры плз тп меня забанили! без причины!@ 
+ §7[§a§l§nSPONSOR§7] Vorshek99§c:§a Обменяю шалкер от Домера, в ЛС.@ 
+§4WHFL §7[§a§l§nSPONSOR§7] ToP_SpOnSoR§c:§a я грифер@ 
+§c§l[!]§7 Извините, но Вы не можете ломать этот блок здесь.@ 
+ §7[§8ИГРОК§7] Grifer§c:§a Кто пвп в кит M A S T E R на ртп тп!@ 
+§4WHFL §7[§a§l§nSPONSOR§7] ToP_SpOnSoR§c:§a воршкек скок стоит шалк?@ 
+ §7[§a§l§nSPONSOR§7] Vorshek99§c:§a Дорого.@ 
+ §7[§a§l§nSPONSOR§7] Vorshek99§c:§a Их почти ни у кого нет.@ 
+§7§l(§c§l!§7§l)§7 Совет: Смотрите различные режимы выделения - §c//sel list@ 
+§4WHFL §7[§a§l§nSPONSOR§7] ToP_SpOnSoR§c:§a цена@ 
+ §7[§d§l§oLEGEND§7] benjamin34342§c:§d пачему люди такие злые :( dct uhbas z ,tp ljvf@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  15 макс@ 
+§7(§6§l!§7) §fВы заработали §6§l14.05 §7ℳ@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  15 к макс@ 
+§c2149§6 просит телепортироваться к Вам.@ 
+Fire §7[§d§l§oLEGEND§7] Phellie§c:§d  котейка 20к макс@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  пр@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1766, 54, 285) §7(198).@ 
+ §7[§8ИГРОК§7] kiza_grief_YT§c:§7 qq all@ 
+ §7[§8ИГРОК§7] kiza_grief_YT§c:§7 кто приютит?@ 
+§7(§6§l!§7) §fВы заработали §6§l3.7971816 §7ℳ@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1767, 50, 282) §7(90).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1767, 51, 282) §7(84).@ 
+ §7[§8ИГРОК§7] skrn§c:§7  benjamin34342 я за вещи@ 
+ §7[§8ИГРОК§7] kiza_grief_YT§c:§7  benjamin34342 довать жить в месте@ 
+ §7[§8ИГРОК§7] CaDok§c:§7  кк@ 
+ §7[§8ИГРОК§7] kiza_grief_YT§c:§7  benjamin34342 довать жить в месте построим дом@ 
+ §7[§d§l§oLEGEND§7] benjamin34342§c:§d ок@ 
+ §7[§8ИГРОК§7] CaDok§c:§7  я приючу@ 
+ §7[§8ИГРОК§7] Grifer§c:§a Кто пвп в /kit start на ртп тп!@ 
+§4WHFL §7[§8ИГРОК§7] _HappyMix_§c:§7 у кого ник knopachka@ 
+ §7[§8ИГРОК§7] CaDok§c:§7  тп пвп в кит старте@ 
+ §7[§8ИГРОК§7] kotychonuy§c:§7 можно день пожалуйтса@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1765, 61, 284) §7(80).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1768, 63, 283) §7(8).@ 
+§7(§6§l!§7) §fВас убили и отобрали §6§l3.3985102 §7ℳ@ 
+ §7[§8ИГРОК§7] Rade_Wake§c:§7 тп приючу@ 
+§cShadow_Pepsi§6 просит телепортироваться к Вам.@ 
+ §7[§d§l§oLEGEND§7] benjamin34342§c:§d пачему люди такие злые :(@ 
+§7(§6§l!§7) §fВы заработали §6§l4.5046153 §7ℳ@ 
+ §7[§8ИГРОК§7] RizonChik_YT§c:§7 +@ 
+§cSergey_GamerYT§6 просит телепортироваться к Вам.@ 
+ §7[§8ИГРОК§7] vert123§c:§7 я ща я перезайду у меня лаги@ 
+ §7[§8ИГРОК§7] nl_ighte§c:§7  benjamin34342 Я приючу!@ 
+ §7[§b§lHERO§7] DragonSem§c:§9 кто дружить и выживать тп@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  сук а почему меня всегда убивают!?!?!?@ 
+ §7[§8ИГРОК§7] nl_ighte§c:§7 тп@ 
+§7§l(§6§l!§7§l) §7Игрок §6TheWyxx §7забанил игрока: §6_1Prosto_chell_ §7по причине '§61.16§7'@ 
+ §7[§8ИГРОК§7] kotychonuy§c:§7 а тут есть плавильня?@ 
+ §7[§8ИГРОК§7] david777§c:§d устройте проверку игроку 10h10u наверное киллаура@ 
+ §7[§8ИГРОК§7] CaDok§c:§7 +@ 
+§7(§6§l!§7) §fВас убили и отобрали §6§l3.4206321 §7ℳ@ 
+ §7[§8ИГРОК§7] HELEKOPTER§c:§7 +@ 
+ §7[§8ИГРОК§7] cnyHLae_muHlae§c:§7 tp приючу@ 
+§6Vadimons §6покончил жизнь самоубийством.@ 
+ §7[§8ИГРОК§7] CaDok§c:§7  тп приючу@ 
+ §7[§8ИГРОК§7] kotychonuy§c:§7 тут есть плавилня?@ 
+ §7[§8ИГРОК§7] Anton289§c:§7 тп кого приютить@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1759, 64, 278) §7(30).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1758, 64, 278) §7(33).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1756, 63, 279) §7(52).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1758, 66, 276) §7(165).@ 
+§7§l(§c§l!§7§l)§7 Точка §c1 §7установлена в координатах §c(1758, 65, 274) §7(154).@ 
+§7(§6§l!§7) §fВас убили и отобрали §6§l3.3522196 §7ℳ@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  НЕТ блять кту@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  НЕТ блять коту@ 
+§7(§6§l!§7) §fВас убили и отобрали §6§l3.285175 §7ℳ@ 
+ §7[§8ИГРОК§7] 7878123123123123§c:§7 скажыте плиз всё призы через команду@ 
+Fire §7[§d§l§oLEGEND§7] Phellie§c:§d  котейка а ты котейка18?@ 
+ §7[§8ИГРОК§7] 7878123123123123§c:§7 скажыте плиз всё призы через команду плиз@ 
+ §7[§8ИГРОК§7] Vadimons§c:§7 кто приюютит +@ 
+ §7[§8ИГРОК§7] RizonChik_YT§c:§7 -@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  ДАВИД БЛЯТЬ тут нету хелперов@ 
+§6mr_duck §6покончил жизнь самоубийством.@ 
+§7§l(§c§l!§7§l)§7 Точка §c2 §7установлена в координатах §c(1768, 64, 279) §7(132).@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  пхеллиен есть песок?@ 
+ §7[§8ИГРОК§7] kotychonuy§c:§7 не матерись питекантроп@ 
+ §7[§8ИГРОК§7] david777§c:§d мне блять похуй завали и не лезь@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  ты блять с кем говориш?!?!@ 
+ §7[§8ИГРОК§7] Lm_Equals§c:§a !х=@ 
+ §7[§8ИГРОК§7] david777§c:§d мне блять похуй завали и не лезь стобой@ 
+ §7[§8ИГРОК§7] david777§c:§d мне блять похуй завали и не лезь с тобой@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  я могу нахой хелпа позвать и те блять мут на час@ 
+§cHELEKOPTER§6 просит телепортироваться к Вам.@ 
+ §7[§8ИГРОК§7] kotychonuy§c:§7 не матерись питекантроп ( котейка81@ 
+ §7[§8ИГРОК§7] david777§c:§d а тебе!!!!!!!!!!!!!!! не хочешь@ 
+§7§l(§6§l!§7§l) §7Игрок §6Andrey8986 §7временно забанил игрока §6ardakpardak §7на §620 minute §7по причине '§6Неккоректная причина бана ( Скрины, видео в группе )§7'@ 
+ §7[§a§l§nSPONSOR§7] BloodTime§c:§a тп Noob151@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  хахах если даш просто так то те прилет бан на 6 часов за НПМ@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  а за мат@ 
+ §7[§a§l§nSPONSOR§7] LunaticMontage§c:§a @ 
+ §7[§8ИГРОК§7] Coolkid4560§c:§7 кто тим тп ко мне я вас не обижу@ 
+ §7[§8ИГРОК§7] david777§c:§d ты куку ты сам превый начал материться@ 
+ §7[§f§lSILVER§7] kizaru1989§c:§a кто приютит?>@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  эт похйу мат знают все ДАЖЕ 5 ЛЕТНИЕ ДЕТИ@ 
+ §7[§f§lSILVER§7] kizaru1989§c:§a  боже@ 
+ §7[§8ИГРОК§7] 10h10u§c:§7 схоть ктото поверил@ 
+ §7[§8ИГРОК§7] Anton289§c:§7 кто приютит я не гриф пишите +@ 
+ §7[§8ИГРОК§7] 10h10u§c:§7 спасибо@ 
+§7(§6§l!§7) §fВас убили и отобрали §6§l3.2194717 §7ℳ@ 
+ §7[§8ИГРОК§7] cergeimalkov§c:§7 я@ 
+ §7[§8ИГРОК§7] 10h10u§c:§7 +@ 
+§7(§6§l!§7) §fВы заработали §6§l3.2194717 §7ℳ@ 
+§7(§6§l!§7) §fВы заработали §6§l4.369801 §7ℳ@ 
+ §7[§8ИГРОК§7] vert123§c:§7  Koteyka81 продати XD@ 
+ §7[§8ИГРОК§7] FlaimRP§c:§d  Кто продаст кит спон-сора вместе м мечом луком и киркой за 3 тотема тп@ 
+ §7[§8ИГРОК§7] Coolkid4560§c:§7 у меня ламают дом@ 
+ §7[§8ИГРОК§7] 10h10u§c:§7 тп топ раздача@ 
+ §7[§8ИГРОК§7] ___Kroshe4ka__§c:§7 GlennBtann@ 
+ §7[§8ИГРОК§7] ___Kroshe4ka__§c:§7 GlennBrann@ 
+§7(§c§l!§7) §fЧат будет доступен через §c0 §fсекунд!@ 
+BEST §7[§d§l§oLEGEND§7] Koteyka81§c:§9  кто продаст песок?? на 7 к@ 
+§e>>>@ 
+§e>>> §cХватит спамить!@ 
+ §7[§8ИГРОК§7] pepsiFonat12345§c:§7 @ 
+ §7[§8ИГРОК§7] ___Kroshe4ka__§c:§7 GlennBrann Lox@ 
+ §7[§8ИГРОК§7] rinotti§c:§7 тп@ 
+§7§l(§6§l!§7§l) §7Игрок §6DanyaCekcu §7временно забанил игрока §6hasdkaddds §7на §620 minute §7по причине '§62.2§7'@ 
+§7(§c§l!§7) §fЧат будет доступен через §c2 §fсекунд!@ 
+§7§l(§6§l!§7§l) §7Игрок §6Vorshek99 §7замутил §6___Kroshe4ka__ §7на §620 минут §7по причине '§65.6§7'@ 
+§6dfgfdgfdggdfg §6покончил жизнь самоубийством.@ 
+ §7[§8ИГРОК§7] rinotti§c:§7 тп раздача золотых яблок@ 
+ §7[§8ИГРОК§7] AntiGrifer§c:§d  Кто продаст кит спон-сора вместе м мечом луком и киркой за 3 тотема тп@ 
+ §7[§8ИГРОК§7] cergeimalkov§c:§7 кого приютить тп@ 
+ §7[§a§l§nSPONSOR§7] BloodTime§c:§a  antiGrifer он больше чем 3 тотема стоит@ 
+ §7[§8ИГРОК§7] AntiGrifer§c:§d  Кто продаст кит спон-сора вместе м мечом луком и киркой за 3 тотема (B LS)@ 
+Fire §7[§d§l§oLEGEND§7] Phellie§c:§d  ну эсли токо броня и меч и лук то я согл@ 
+§cVadimons§6 просит телепортироваться к Вам.@ 
+§cFrqg1L§6 просит телепортироваться к Вам.@ 
+ §7[§8ИГРОК§7] AntiGrifer§c:§d  бля ну пох кому надо тотем продаст@ 
+§4BEAR §7[§8ИГРОК§7] OFFNIK§c:§a  DanyaCekcu ну давай пвп я на варп пвп или ссыкуешь?@ 
+§7(§6§l!§7) §fВы заработали §6§l25.919209 §7ℳ@ 
+§6RizonChik_YT §6покончил жизнь самоубийством.@ 
+§4BEAR §7[§8ИГРОК§7] OFFNIK§c:§a  он сказал что заасал@ 
+ §7[§8ИГРОК§7] Frqg1L§c:§7 Обманщик, rinotti - возможно с читами@ 
+§cОшибка:§4 §4У Вас нет ожидающих заявок на телепортирование.@ 
+ §7[§8ИГРОК§7] pepsiFonat12345§c:§7 Кто даст вещей тп@ 
+ §7[§8ИГРОК§7] pepsiFonat12345§c:§7 Кто даст вещей тп плиз умаляю я новичок@ 
+ §7[§8ИГРОК§7] Kolobok_com§c:§7 Кто дружить и гриферить по дс или скайпу тп@ 
+ §7[§d§l§oLEGEND§7] benjamin34342§c:§d тп раздача@ 
+§6Запрос отправлен игроку§c benjamin34342§6.@ 
+ §7[§8ИГРОК§7] iarik_2019§c:§a тп ломаю сундуки голых килл@ 
+ §7[§8ИГРОК§7] 10h10u§c:§7 а где тут можно купить мечь@ 
+ §7[§8ИГРОК§7] Ivashka_142§c:§7 Кто приютит в лс я тепнусь вы без грифа я буду благадарен и тоже без грифа 100%@ 
+§7(§6§l!§7) §fВас убили и отобрали §6§l3.8252518 §7ℳ@ 
+ §7[§8ИГРОК§7] Vadimons§7:§7 где раздача@ 
+ §7[§8ИГРОК§7] iarik_2019§c:§a тп ломаю сундуки ухожу с серва голых килл@ 
+ §7[§8ИГРОК§7] pepsiFonat12345§c:§7  iarik_2019 обман 100%@ 
+ §7[§8ИГРОК§7] Asasin22122§c:§7 нет@ 
+§7(§6§l!§7) §fВы заработали §6§l22.280424 §7ℳ@ 
+ §7[§8ИГРОК§7] jaba§c:§a на аук плоды хоруса всего за 1к раскупайте@ 
+§7[161/Ma]§b [§3VIP+§b]§7 §bSpookey_Sammy: §8hello o/@ 
+§7[161/Ma]§b [§3VIP+§b]§7 §bSpookey_Sammy: §8:P@ 
+§6▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+ §fПривет, §6PlatformerElly§f!@ 
+ §fРады видеть тебя на сервере §cHiPixel@ 
+ §fНедавно начал играть в майнкрафт? Тогда смело вводи@ 
+ §fКоманду §6/help§f, там помощь по серверу.@ 
+ §fПокупка доната: §6/donate§f.@ 
+ §fУдачной игры!@ 
+§6▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬@ 
+§c§lСКИДКИ 80% НА ВСЕ ПОКУПКИ!@ 
+§e§lСКИДКИ 80% НА ВСЕ ПОКУПКИ!@ 
+§e§lОткрытие нового сервера §e§lvk.cc/9XfKBO@ 
+§2Вы автоматически авторизовались!@ 
+§2Вы успешно вошли!@ 
+У вас 2 уч. записей:@ 
+§7flavormixx, §aeGGik§7.@ 
+§eeGGik присоеденился к небесной границе.@ 
+§b§lSky Edge > §fУ вас есть еже дневная награда §e/reward §fчто бы забрать!@ 
+§aОжидайте загрузки ресурс пака!@ 
+§2§l▲FAQ§f §6/money pay <name> <сумма>@ 
+§2▼§fотправляет деньги.@ 
+§aРесурс пак установлен!@ 
+§aВы потратили §2§l฿50@ 
+§c§l DONAT§f Ссылка на поддержку сервера.@ 
+§eУ вас может быть только 1 квеста.@ 
+eGGik получил достижение «§a[§aОхотник на монстров§a]»@ 
+§9§l VK§f Ссылка на группу сервера.@ 
+§2§l FAQ§f Ссылка на ресурс пак сервера! §eV3.3@ 
+§1§l Discord§f Ссылка на discord сервера.@ 
+§c§lHey!§7 Sorry, but you can't change that here.@ 
+§7[107/Ma] §c§l☠§6§l❂§3§l✿ §7TheGamerMig: §8xd i have keys@ 
+§cHeight limit for building is §c256§c blocks@ 
+§7[162*/Ni]§6 [§eMod§6] §6WithTheFish: §8Hello!@ 
+§cСервер перезагрузится через 10 минут@ 
+§cСервер перезагрузится через 9 минут@ 
+§cСервер перезагрузится через 8 минут@ 
+§cСервер перезагрузится через 7 минут@ 
+§cСервер перезагрузится через 6 минут@ 
+§cСервер перезагрузится через 5 минут@ 
+§cСервер перезагрузится через 4 минуты@ 
+§cСервер перезагрузится через 3 минуты@ 
+§cСервер перезагрузится через 2 минуты@ 
+§3[Паркур] §bТы начал паркур!@ 
+§3[Паркур] §bТы провалил паркур! Попробуй еще раз!@ 
+§3[Паркур] §bТы завершил §3Ур. 1§b за §36.660 секунд§b.@ 
+§8[§4Alert§8]§f The network will restart in 15m, it will be back right after!@ 
+§8[§4Alert§8]§f The network will restart in 13m, it will be back right after!@ 
+§8[§4Alert§8]§f The network will restart in 11m, it will be back right after!@ 
+§8[§4Alert§8]§f The network will restart in 10m, it will be back right after!@ 
+§8[§4Alert§8]§f The network will restart in 9.563m, it will be back right after!@ 
+§8[§4Alert§8]§f The network will restart in 7m, it will be back right after!@ 
+§8[§4Alert§8]§f The network will restart in 20s, it will be back right after!@ 
+[Server] The network will have a very quick restart in 5 minutes.@ 
+[Server] The network will have a very quick restart in 3 minutes.@ 
+[Server] The network will have a very quick restart in 2 minutes. You will be able to log in again right after.@ 
+[Server] The network will have a very quick restart in 1 minutes. You will be able to log in again right after.@ 
+[Server] The network will have a very quick restart NOW. You will be able to log in again right after.@ 
+§7[23/As] §c§l☠§6§l❂§3§l✿ §7gargle99: §8hi@ 
+§7[29/As] §c§l☠§6§l❂§3§l✿ §7gargle99: §8that's the other one lol@ 
+§7[29/As] §c§l☠§6§l❂§3§l✿ §7gargle99: §6§l❂ §7ironman and §c§l☠ §7hardcore@ 
+§7[30/As] §c§l☠§6§l❂§3§l✿ §7gargle99: §8between here and the other place there's 10 ore deposits :P@ 
+§3_Tiger [WC2] shouts: @ 
+§7[21/Wa] §3§l✿ §7ArSnake731: §8eh?@ 
