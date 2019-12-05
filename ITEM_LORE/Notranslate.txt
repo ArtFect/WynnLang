@@ -2297,3 +2297,454 @@ Def: 19@
 §8Life Sapping Bone at the Tip.@ 
 §6 - §a✔ §21 Vortex Bracer@ 
 §a- §2Black Catalyst@ 
+§a✔§7 Class Req: Shaman@ 
+§c✖§7 Class Req: Shaman@ 
+§7Прочти перед началом игры@ 
+§aЛКМ чтобы купить.@ 
+§cПКМ чтобы продать.@ 
+§8§m-----§f§l §nОсновная Информация§8 §m--------------@ 
+§fОбычный меч.@ 
+§fОбразец среди мечей.@ 
+§7Прочность: §a■■■■■■■■■■@ 
+§8§m--------§f§l §nСтатистика§8 §m---------------------@ 
+§a■ Урон: 3.5@ 
+§a■ Скорость Атаки: 3.8@ 
+§a■ Шанс Критической Атаки: §f+10%@ 
+§a■ Сила Критической Атаки: §f+5%@ 
+§6Цена покупки: ฿50@ 
+§fТяжёлый, но сильный.@ 
+§a■ Урон: 5@ 
+§a■ Скорость Атаки: 3.4@ 
+§a■ Шанс Критической Атаки: §f+5%@ 
+§fСлабый, но очень лёгкий.@ 
+§a■ Урон: 2@ 
+§a■ Скорость Атаки: 3.9@ 
+§a■ Шанс Критической Атаки: §f+3%@ 
+§a■ Сила Критической Атаки: §f+8%@ 
+§fЗаточеный меч.@ 
+§a■ Урон: 6.5@ 
+§a■ Шанс Критической Атаки: §f+15%@ 
+§6Цена покупки: ฿320@ 
+§cYou can't afford this item@ 
+§a■ Урон: 9@ 
+§a■ Скорость Атаки: 3.5@ 
+§a■ Урон: 4@ 
+§a■ Скорость Атаки: 4@ 
+§a■ Шанс Критической Атаки: §f+4%@ 
+§a■ Сила Критической Атаки: §f+10%@ 
+§l§aЛКМ [+1]@ 
+§l§cПКМ [-1]@ 
+§l§bКоличество: [0]@ 
+§l§6Цена покупки: [฿0]@ 
+§l§aЛКМ [+5]@ 
+§l§cПКМ [-5]@ 
+§l§aЛКМ [+16]@ 
+§l§cПКМ [-16]@ 
+§l§aЛКМ [+32]@ 
+§l§cПКМ [-32]@ 
+§l§aЛКМ [+64]@ 
+§l§cПКМ [-64]@ 
+§l§bКоличество: [1]@ 
+§l§6Цена покупки: [฿50]@ 
+§2Привет! Моему другу Gari нужна твоя @ 
+§2помощь, сходи к нему, его таверна @ 
+§2находится за мной. @ 
+§2Здравствуй Странник. Я Проводник, местный @ 
+§2гид. Для объяснения здешних правил я буду @ 
+§2выдавать задания в которых ты обживёшся в @ 
+§2этом мире. Вот тебе первое задание, сходи @ 
+§2к королю и представься, он живёт на @ 
+§2втором этаже замка, что по этой дороге по @ 
+§2прямой. @ 
+§8Zucc. Zucc. Zucc! Zucc. Zucc. Zucc!@ 
+§8Zucc. Zucc. Zucc! Zucc. Zucc.@ 
+§8Zucc! Zucc. Zucc. Zucc! Zucc.@ 
+§8Zucc. Zucc! Zucc. Zucc. Zucc!@ 
+§8Zucc. Zucc. Zucc!@ 
+§7[Mundane Stick of Boredom]@ 
+§7[Mundane Dagger of Lameness]@ 
+§7[Amplified Blunderbuss of Eminence]@ 
+§7[Reinforced Cutlass of Precedence]@ 
+§7[Average Crossbow of Lameness]@ 
+§7[Emboldened Slingshot of Notability]@ 
+§7[Common Stave slightly Chipped]@ 
+§7[Normal Claymore of Foolishness]@ 
+§7[Plain Longbow of Lameness]@ 
+§7[Exalted Greatbow of Precedence]@ 
+§7[Common Rifle slightly Chipped]@ 
+§7[Common Rapier of Siegfried]@ 
+§7[Clashing Sabre of Suffering]@ 
+§7[Normal Focus of Lameness]@ 
+§7[Fast Cannon of the Eagle]@ 
+§7[Mundane Machete slightly Chipped]@ 
+§7[Pigman Battle Hammer]@ 
+§7[Normal Wand of Boredom]@ 
+§7[Long Bow]@ 
+§7[Raging Rapier of the Barbarian]@ 
+§7[Sheer Staff of the Berserker]@ 
+§7[Scary Claws of the Barbarian]@ 
+§8Water Damage War Scroll.. and some@ 
+§8Poison.@ 
+§7[Amplified Cannon of High Quality]@ 
+§7[Basic Stave of Foolishness]@ 
+§7[Clashing Impaler of the Treestump]@ 
+§7[Circuit Buster]@ 
+§7[Average Reaver of Siegfried]@ 
+§7[Mundane Shank of Foolishness]@ 
+§7[Common Crossbow of Lameness]@ 
+§7[Adorned Reaver of the Bull]@ 
+§7- The Grootslang's Heart@ 
+§7[Mundane Dirk of Foolishness]@ 
+§6 - §a✔ §24 Bone Meal [✫✫✫]@ 
+§7[Light Birch Wood Shears]@ 
+§7[Average Blade of Lameness]@ 
+§7[Plain Destroyer slightly Chipped]@ 
+§7[Sheer Skewer of Rage]@ 
+§7[Average Greatbow of Boredom]@ 
+§7[Penetrating Sickle of Strength]@ 
+§7[Absolute Skewer of the Bull]@ 
+§7[Mundane Shiv of Siegfried]@ 
+§7[Celebration]@ 
+§7[Common Scimitar of Foolishness]@ 
+§7[Cyclops' Spear]@ 
+§7[Average Shiv of Maltic]@ 
+§7[Reinforced Rifle of Renown]@ 
+§7[Infused Hive Bow]@ 
+§a- §2Morph-Stardust@ 
+§7[Igneous Spear of the Defender]@ 
+§7[Average Trident slightly Chipped]@ 
+§7[Common Claws of Siegfried]@ 
+§7[Normal Claymore of Lameness]@ 
+§7[Very Big Stick of Skien]@ 
+§7[Basic Bow of Foolishness]@ 
+§7[Decayed Hammer of Destruction]@ 
+§7[Normal Branch slightly Chipped]@ 
+§a- §2Watch Bracelet@ 
+§a- §2Clock Amulet@ 
+§7[Mundane Claws of Lameness]@ 
+Def: 25@ 
+§6Lv. min: 15@ 
+Def: 34@ 
+§6Lv. min: 25@ 
+§8One sip of this is enough to cure@ 
+§8all your needs...@ 
+§7[Miasma]@ 
+§7[Cobra]@ 
+§7[Average Rod of Boredom]@ 
+§7[Mundane Cutlass of Maltic]@ 
+§7[Mundane Recurve Bow of Lameness]@ 
+§7[Average Cannon of Ragni]@ 
+§7[Enhanced Stave of Luck]@ 
+§7[Basic Rod of Boredom]@ 
+§7[Enchanter]@ 
+§7- Refined Cobalt Gem 1@ 
+§7[Dusty Staff]@ 
+§7[Summer]@ 
+§7[Normal Root of Ragni]@ 
+§7[Plain Dagger of Ragni]@ 
+§7[Plain Reaver of Foolishness]@ 
+§7[Plain Root of Lameness]@ 
+§8I sawed this Therck in Half and@ 
+§8repaired it with only Thercks@ 
+§8Chain@ 
+§7[Clashing Razor of the Warrior's]@ 
+§7[Average Branch slightly Chipped]@ 
+§7- §8Trick@ 
+§7- §8Treat@ 
+§7[Fighter's Trident of Pain]@ 
+§7[Common Razor of Foolishness]@ 
+§7[Common Blade of Lameness]@ 
+§7[Staff of Wisdom]@ 
+§7- Refined Spruce Wood 3@ 
+§7[Plain Bone of Maltic]@ 
+§7[Average Staff slightly Chipped]@ 
+§7[Jungle Wood Spear]@ 
+§7[Average Dagger of Siegfried]@ 
+§7[Common Blunderbuss of Ragni]@ 
+§6 - §a✔ §21 Infused Hive Wand@ 
+§7[Spruce Wood Shears]@ 
+§7[Dusk Painter]@ 
+§7[Mundane Warhammer of Boredom]@ 
+§7[Angry Great Hammer of the Berserker]@ 
+§7[Berserk Trident of Chaos]@ 
+§7[Basic Sickle of Ragni]@ 
+§8Any who wear this ring will find@ 
+§8their strikes imbued with the@ 
+§8power of earth.@ 
+§8ok@ 
+§7[Embellished Pike of the Seafarer]@ 
+§7[Basic Table leg of Lameness]@ 
+§7[Average Claymore of Maltic]@ 
+§7[Embroided Shiv of Virtue]@ 
+§7[Embroided Warhammer of Prevalence]@ 
+§8made with T2 materials only@ 
+§7[Emboldened Bow of Imagination]@ 
+§7- §8Goblin Cloak@ 
+§7- §8Goblin Runners@ 
+§7- §8Goblin Hood@ 
+§7[Mundane Scimitar slightly Chipped]@ 
+§7[Militant Longbow of Rage]@ 
+§6 - §a✔ §21 Infused Hive Dagger@ 
+§7[Plain Table leg of Boredom]@ 
+§7[Augmented Scissors of Prestige]@ 
+§7[Intensified Staff of Prominence]@ 
+§7[Locrian]@ 
+§7[Bob's Mythic Spear]@ 
+§7[Common Skewer of Foolishness]@ 
+§7[Emboldened Staff of Prevalence]@ 
+§7- Orc Skin@ 
+§7[Plain Compound Bow of Lameness]@ 
+46969@ 
+§7[Normal Claws of Lameness]@ 
+§a- §2Goblin Cloak@ 
+§a- §2Goblin Hood@ 
+§a- §2Goblin Runners@ 
+§7[Powerful Pike of Chaos]@ 
+§7[Zephral Hammer of the Bonfire]@ 
+§7[Militant Shovel of the Berserker]@ 
+§7[Common Greatbow of Ragni]@ 
+§7- Purest Tear@ 
+§7[Plain Compound Bow of Foolishness]@ 
+§7[Dark Launcher of Virtue]@ 
+§7[Stylist's Scissors]@ 
+§7[Average Edge of Foolishness]@ 
+§7[Common Claymore of Siegfried]@ 
+§7[Scary Cross Spear of Pandemonium]@ 
+§7[Average Baton of Foolishness]@ 
+§7[Elevated Yumi of Enhancement]@ 
+§7[Average Wand of Siegfried]@ 
+§7[Basic Wand of Ragni]@ 
+§6 - §a✔ §21 Bronze Basic Bracelet@ 
+§7[Average Claws of Foolishness]@ 
+§8This should be the standard issue@ 
+§8to soldiers recruited from@ 
+§8Fruma.@ 
+§7[Augmented Shovel of Illustriousness]@ 
+§7[Normal Dagger of Ragni]@ 
+§7[Plain Warhammer of Lameness]@ 
+§7[Amplified Bone of Prominence]@ 
+§7[Basic Trident of Boredom]@ 
+§8Thercks gave this powerful spear@ 
+§8to warrior he thought to be@ 
+§8a True Hero.@ 
+§7[Bob's Mythic Daggers]@ 
+§7[Emboldened Pike of Virtuosity]@ 
+§7[Raging Dirk of the Warrior]@ 
+§7[Venom]@ 
+§7[Common Skewer of Boredom]@ 
+§8Water Damage War Scroll... and some@ 
+§8Health and Defence War Scroll.@ 
+§7[Plain Blunderbuss slightly Chipped]@ 
+§7[Average Launcher of Lameness]@ 
+§7[Prismatic Wand of the Meteor]@ 
+§7[Plain Baton slightly Chipped]@ 
+§7[Normal Impaler of Boredom]@ 
+§7[Common Short Bow of Foolishness]@ 
+§7- Soft Silk@ 
+§7[Augmented Stave of Prowess]@ 
+§7[Adorned Destroyer of Value]@ 
+§7[Basic Short Bow of Ragni]@ 
+§7[Normal Edge of Foolishness]@ 
+§7[Basic Cutlass of Foolishness]@ 
+§7[Enriched Dirk of Honour]@ 
+§7[Plain Rapier of Siegfried]@ 
+§8The merged essences of Fire and@ 
+§8Air. Keep away from children.@ 
+§8The Valiant Staff of Water. Remember@ 
+§8Unrivaled in might, yet@ 
+§8extremely fragile. Handle with@ 
+§8care.@ 
+§8Handle with care, extremely hot.@ 
+§7[Normal Blade of Foolishness]@ 
+§7[Average Rapier of Maltic]@ 
+§7[Elaborated Scissors of Value]@ 
+§7[Average Longbow slightly Chipped]@ 
+§7[Enchanted Hammer of the Rabid]@ 
+§7[Average Yumi of Ragni]@ 
+§a- §2Skien Leggings@ 
+§7[Aggressive Impaler of the Berserker]@ 
+§8This'll help anyone outrun a bear@ 
+§8cub! Just watch out for the@ 
+§8mama bear...@ 
+§a- §2Trick@ 
+§a- §2Treat@ 
+§7[Normal Table leg of Lameness]@ 
+Def: 22@ 
+Def: 27@ 
+§6Lv. min: 19@ 
+Def: 31@ 
+§6Lv. min: 16@ 
+§7[Average Branch of Siegfried]@ 
+§7[Very Big Stick of Prestige]@ 
+§7[Common Claymore of Maltic]@ 
+§7- Seagrass@ 
+§7[Normal Machete of Lameness]@ 
+§7[Thrunda Ripsaw]@ 
+§8Our RNG got betrayed us again@ 
+§8now we have slow attack@ 
+§8speed.. cursed@ 
+§7[Diorite-hewn Shears]@ 
+§7[Plain Skewer of Ragni]@ 
+§7[Average Wand of Ragni]@ 
+§7[Intensified Lance of Precedence]@ 
+§7[Mitten]@ 
+§8Strength and Percentage Melee@ 
+§8Damage War Scroll.@ 
+§7[Common Launcher of Lameness]@ 
+§7[Valkyrie's Javelin of the Seabed]@ 
+§8Mythic Magnet@ 
+§8Because you have way too many...@ 
+§8This bow does a bit more damage@ 
+§8than expected.@ 
+§7[Mundane Table leg of Boredom]@ 
+§7[Freezing Table leg of Sprinting]@ 
+§7[Average Crossbow of Ragni]@ 
+§7[Basic Yumi of Lameness]@ 
+§7[Aggressive Blade of the Bear]@ 
+§7[Plain Mace of Boredom]@ 
+§7[Mundane Reaver slightly Chipped]@ 
+§7[The Rainmaker]@ 
+§7[Mundane Trident of Maltic]@ 
+§7[Brutal Scimitar of the Fighters]@ 
+§7[Basic Blade of Ragni]@ 
+§6Lv. min: 35@ 
+§7[Sharp Plank of Desirability]@ 
+§7[Basic Stick of Lameness]@ 
+§7[Mundane Dirk of Boredom]@ 
+§7[Normal Great Hammer of Maltic]@ 
+§8This dagger was found in the@ 
+§8deepest parts of the spider@ 
+§8den, absorbing the poison@ 
+§7[Infused Hive Spear]@ 
+§7[Plain Slingshot of Siegfried]@ 
+§7- Rusty Axe Head@ 
+§7[Plain Rifle slightly Chipped]@ 
+§7[Spruce Wood Spear]@ 
+§7[Common Plank slightly Chipped]@ 
+§7[Average Stave of Ragni]@ 
+§7[Normal Plank of Foolishness]@ 
+§7- Shorting Wire@ 
+§7[Common Warhammer of Lameness]@ 
+§7[Enhanced Greatbow of Righteousness ]@ 
+§7[Plain Launcher of Siegfried]@ 
+§7[Basic Lance of Foolishness]@ 
+§8Thaollesol thing?@ 
+§8It would be good, but the durability@ 
+§8man.@ 
+§7[WitherString]@ 
+§7[Berserker's Reaver of the Rabid]@ 
+§7[Common Javelin of Foolishness]@ 
+§7[Common Dirk of Lameness]@ 
+§7[Adorned Shiv of Mastery]@ 
+§7[Current]@ 
+§7[Basic Claws of Boredom]@ 
+§6Lv. min: 33@ 
+Def: 46@ 
+§8Buy this or ur bald@ 
+§7[Plain Shiv of Foolishness]@ 
+§7[Common Falchion of Lameness]@ 
+§7[Normal Table leg of Maltic]@ 
+§7[Common Stick of Maltic]@ 
+§7[Average Pike of Siegfried]@ 
+§8After centuries after centuries of@ 
+§8adventures to get the hold@ 
+§8of spiritual enlightenment,@ 
+§8some monks have discovered@ 
+§8the unique power of nirvana@ 
+§8never seen before, and to@ 
+§8distinguish from its standard@ 
+§8form, they have named it the@ 
+§8Irvana.@ 
+§7[Warrior's Rapier of Violence]@ 
+§8Theres no dERN without ERN@ 
+§8Splint. Buy This@ 
+§7[Average Longbow of Foolishness]@ 
+§7[Common Longbow of Foolishness]@ 
+§7- Stolen Pearls@ 
+§7[Average Rod of Ragni]@ 
+§7[Normal Focus slightly Chipped]@ 
+§7[Improved Stick of Worth]@ 
+§7[Return to Ether]@ 
+§8Yeet now we know that we can@ 
+§8overcome RNG by keep trying@ 
+§8AYY btw where's powders@ 
+§7[Basic Falchion of Ragni]@ 
+§7[Common Bone of Lameness]@ 
+§7[Common Edge of Lameness]@ 
+§8Yuck.@ 
+§8Rumors surround it's aspect on the@ 
+§8mythical Scooby Snack but@ 
+§8has not yet been proven.@ 
+§8Inkaphobia@ 
+§8Moist and Delicious@ 
+§8These pants where found in the@ 
+§8realm of speed@ 
+§7[Common Switchblade slightly Chipped]@ 
+§8prototype for a high ws ring@ 
+§8Ur bald@ 
+§8Crokee's fortune cookies. Eating this@ 
+§8will give you a sense of@ 
+§8empowerment in your loot@ 
+§8hunting. These seem to last@ 
+§8longer than usual.@ 
+§8Water Damage and Poison Hunted@ 
+§8Mode Scroll.@ 
+§8High Fire Damage Hunted Mode@ 
+§8Virgo like Hunted Mode Scroll.@ 
+§7[Mundane Hammer slightly Chipped]@ 
+§7[Normal Dirk of Boredom]@ 
+§7[Plain Bone slightly Chipped]@ 
+§7[Plain Blade of Maltic]@ 
+§7[Sapphire Bone of Thunder-Calling]@ 
+§7[Common Destroyer of Lameness]@ 
+§7[Common Cutlass of Ragni]@ 
+§7- Refined Malt String 3@ 
+§7[Average Claymore of Ragni]@ 
+§8I didn't name this, but what the hell@ 
+§8is the name supposed to@ 
+§8mean...@ 
+§7[Jungle Wood Bow]@ 
+§7[Elaborated Yumi of Integrity ]@ 
+§7[Elaborated Scimitar of Integrity ]@ 
+§7[Mundane Blade of Boredom]@ 
+§7[Basic Stave of Siegfried]@ 
+§7[Common Rod of Foolishness]@ 
+§7[Fiery Wand]@ 
+§7[Absorbant Crossbow of the Jackal]@ 
+§7[Basic Stick of Siegfried]@ 
+§7[Plain Scimitar of Siegfried]@ 
+§7[Elaborated Switchblade of Precedence]@ 
+§7- Blood of the Nivlan Beauty@ 
+§7 - §f2,000 §dUnidentified Laen's CuriosityÀ@ 
+§7 - §f1,000 §dUnidentified WorryÀ@ 
+§7[Fighter's Sickle of Pain]@ 
+§7[Enriched Launcher of Honour]@ 
+§8hunting. These cookies seem@ 
+§8imbued with more luck and@ 
+§8lasts longer than usual.@ 
+§7[Average Lance of Lameness]@ 
+§7[Gavel's Memory]@ 
+§7[Savage Blade of the Bear]@ 
+§7- Refined Millet Grains 1@ 
+§7- Refined Koi Oil 1@ 
+§8Leg from Hax is buying IGNIS@ 
+§f1 x §cPotion of Healing§4 [3/3]@ 
+§7[Normal Great Hammer of Boredom]@ 
+§6 - §a✔ §21 Hephaestus-Forged Greaves@ 
+§7[Plain Scimitar of Maltic]@ 
+§7bring it to the Old @ 
+§6 - §a✔ §21 Lightning Flash@ 
+§6 - §a✔ §21 Silver Static Ring@ 
+§6 - §a✔ §21 Silver Static Necklace@ 
+§6 - §a✔ §21 Silver Static Bracelet@ 
+§6 - §a✔ §21 Gold Static Ring@ 
+§6 - §a✔ §21 Gold Static Necklace@ 
+§6 - §a✔ §21 Gold Static Bracelet@ 
+§6 - §a✔ §21 Silver Fiber Ring@ 
+§6 - §a✔ §21 Silver Fiber Bracelet@ 
+§6 - §a✔ §21 Silver Steam Ring@ 
+§6 - §a✔ §21 Silver Steam Necklace@ 
+§6 - §a✔ §21 Silver Steam Bracelet@ 
+§6 - §a✔ §21 Gold Steam Ring@ 
+§6 - §a✔ §21 Gold Steam Bracelet@ 
+§6 - §a✔ §21 Gold Steam Necklace@ 
