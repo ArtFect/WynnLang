@@ -6497,6 +6497,161 @@ Jag@
 Therck's Irritation@ 
 Stale@ 
 §bDusk Painter@ 
+§fHourglass Sand@ 
+§c§nРуководство@ 
+§2Помощь@ 
+§a§f§fМеч война@ 
+§a§f§fМеч варвара@ 
+§a§f§fКлинок вора@ 
+§a§f§fЗаточеный меч война@ 
+§a§f§fУсиленный меч варвара@ 
+§a§f§fЗакалённый клинок@ 
+§6>@ 
+§6>>@ 
+§6>>>@ 
+§6>>>>@ 
+§6>>>>>@ 
+§aПодтвердить@ 
+§cОтмена@ 
+§5Пролог2@ 
+§5Пролог@ 
+§dSigil of ResistanceÀ@ 
+§bCave In@ 
+Merchant Sandals@ 
+§5Grimtrap@ 
+Virgo@ 
+Leviathan@ 
+Tree Bracelet@ 
+Spider Fang@ 
+Dead Bee@ 
+Nivlan Honeycomb@ 
+Charred Bone@ 
+Pigman Battle Hammer@ 
+Stormstrike@ 
+Crackshot@ 
+Breeze@ 
+§dBloodlust@ 
+§eGalena@ 
+§eSkaxis@ 
+§eIncineratorÀ@ 
+§dEitrÀ@ 
+§eFounder@ 
+Sound of Silence@ 
+Unravel@ 
+Aneroid@ 
+Air@ 
+§eBastilleÀ@ 
+§dGoblin Luck Charm@ 
+§eGoblin-Silver Ring@ 
+§dGoblin Hex Focus@ 
+§eGoblin Arm Bracer@ 
+§dShort Cutter@ 
+§eSilver Short Spear@ 
+§aGoblin Hood@ 
+§aGoblin Cloak@ 
+§aGoblin Runners@ 
+§eSleeping Beast@ 
+§dAlkahest@ 
+§bCardiac Arrest@ 
+aБыстрое Подключение@ 
+aБыстрое Подключение1@ 
+§dSmoldering ApronÀ@ 
+§eWaterspoutÀ@ 
+§dForeboding@ 
+§eBehemoth@ 
+§ePower CreepÀ@ 
+Marble@ 
+Great Brace@ 
+Jester Necklace@ 
+Anger Point@ 
+Whitecap@ 
+Redirection@ 
+HEALING 13@ 
+AIR 4@ 
+Olux's Prized Bow@ 
+Faith of the Bovemist@ 
+Morph-Amethyst@ 
+Quartz Choker@ 
+Armageddon@ 
+Meteoric Arch@ 
+Tailwind@ 
+§dTsunasweep@ 
+Perun's Crown@ 
+Horseshoe@ 
+Raindrop@ 
+Flexing Chain@ 
+Gold@ 
+Lockpicking Kit@ 
+Marius' Lament@ 
+HEALING 16@ 
+§eVenomsoulÀ@ 
+§5Galleon@ 
+Skien Leggings@ 
+Red String@ 
+Old Bone@ 
+Mist Blade@ 
+Decaying Skin@ 
+Dern's Shadow@ 
+Pike of Fury@ 
+Hilt@ 
+§eStasis@ 
+Determination@ 
+§eIcarusÀ@ 
+Shaggy Boots@ 
+§dStatic-charged Leggings@ 
+Blackened Boots@ 
+§eQuasarÀ@ 
+§eCosmium@ 
+§eThe AbacusÀ@ 
+§eEarthquake@ 
+Cumulonimbus@ 
+Flawless Chain Leggings@ 
+Earth Sanctuary@ 
+Anti-Static@ 
+§eDeathsplinter@ 
+Meridian@ 
+Thin Quill@ 
+Flawless Chain Boots@ 
+Flawless Chain Chestplate@ 
+§dPlasma Ray@ 
+§dStorm Surge@ 
+§eSearing KnifeÀ@ 
+Diamond Hydro Bracelet@ 
+Diamond Hydro Necklace@ 
+§eAtroce@ 
+§eDiscordÀ@ 
+§dPawÀ@ 
+§eHysteria@ 
+FallenÀÀÀFactory Key@ 
+Return to Ether@ 
+HEALING 18@ 
+§eElectrum@ 
+Therck's Chain@ 
+Stone-hewn Bow@ 
+Aldorei's Training Bow@ 
+Tormenter@ 
+Grook Feather@ 
+Wolf Fang@ 
+§dSandshooterÀ@ 
+Tricorne@ 
+StoneWall@ 
+Router@ 
+Gypsum@ 
+§eBalladÀ@ 
+§dMuskegÀ@ 
+§eShield BusterÀ@ 
+§eBasaltic SchynbaldsÀ@ 
+§dBlade of Shade@ 
+Diamond Solar Ring@ 
+Diamond Solar Bracelet@ 
+Gigabyte@ 
+HEALING 21@ 
+STRENGTH 6@ 
+AGILITY 6@ 
+DEXTERITY 6@ 
+Flameshot Hilt@ 
+Burnout@ 
+Chestplate of Ineptitude@ 
 
 #########################Названия треков##########################
 §bLuxury of the Cease-Fire (Ragni)@ 
@@ -6638,6 +6793,7 @@ Stale@
 §bAn Interesting Find (Discovery Jingle)@ 
 §bTravelling at Dusk (Desert)@ 
 §bTreacherous Walkways (Pigman's Ravines)@ 
+
 
 #####################Названия территорий/квесты#########################
 §f§lBlack MagicÀ@ 
