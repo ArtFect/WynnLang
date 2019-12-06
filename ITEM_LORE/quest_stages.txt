@@ -217,6 +217,8 @@ QUESTS/Beyond_the_Grave.txt
 §7Explore the strange realm and @Исследуй странное царство 
 §7bargain with Death. @и договорись со Смертью 
 §7Exit the strange realm. @Покинь странное царство 
+§7Defeat Krolton to earn your @§7Победи Кролтона, чтобы
+§7way back to the living. @§7вернуться к жизни
 §7Take proof of Krolton's demise @Покажи доказательство смерти 
 §7to Irlok. @Кролтона Ирлоку 
  
@@ -1129,6 +1131,7 @@ QUESTS/King%27s_Recruit.txt =====
 §7guard and enter the cave @§7охраннику и пройди в пещеру 
 §7Follow the guard's instructions @§7Следуй инструкциям охранника 
 §7Continue through the cave @§7Продвигайся через пещеру 
+§7Cast your spell @§7Используй свое заклинание
 §7Enter the castle @§7Войди в замок 
 §7Talk to Ragni's King @§7Поговори с Королем Рагни 
  
@@ -1180,6 +1183,7 @@ QUESTS/Lost_in_the_Jungle.txt =====
 §7[-738,80,-655]@ 
 §7Search the Dernel Jungle for @§7Отыщи в Дернел джунглях 
 §7Aryn @§7Арина 
+§7Defeat the spirit possessing Aryn @§7Победи одержимого духом Арина
 §7Bring the Mysterious Gemstone to @§7Принеси загадочный драгоценный камень 
 §7Gracen @§7Грацену
  
@@ -1405,6 +1409,7 @@ QUESTS/﻿One_Thousand_Meters_Under.txt =====
 §7Return to the submarine and @§7Вернись на подлодку 
 §7continue your journey. @§7и продолжай путешествие
 §7Continue the journey. @§7Продолжи свое путешествие
+§7continue the journey. @§7Продолжи свое путешествие
 §7Continue your journey. @§7Продолжи свое приключение.
 §7Head to the resting room. @§7Отправляйся в комнату отдыха
 §7Get the ingredients to fix @§7Принеси ингредиенты для починки 
@@ -1415,6 +1420,8 @@ QUESTS/﻿One_Thousand_Meters_Under.txt =====
 §7town at [14113,116,-4199]. @§7города на [14113,116,-4199].
 §7Return to the crash site @§7Вернись к месту аварии
 §7by following the road. @§7по короткому маршруту
+§7Return to the scientist and @§7Вернись к ученому и
+§7tell him the news. @§7расскажи ему плохие новости
  
 QUESTS/Out_of_my_Mind.txt ===== 
 §7Speak with the Troms children @§7Поговори с детьми в Тромсе 
@@ -2613,6 +2620,10 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7a way out @§7выход 
 §7clue missing. @§7пропавшие подсказки
 §7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
+§7Approach the stage @§7Подойди к сцене
+§7Break into the mansion @§7Проникни в поместье
+§7Continue through the hideout! @§7Продвигайся через укрытие!
+
 §7[1470,85,-4334]@ 
 §7[-1540,73,-4394]@ 
 §7[-705,58,-817]@ 
