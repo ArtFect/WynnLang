@@ -7,11 +7,8 @@
 §a- §7Effect: §f+24% Main Attack Damage@§a- §7Эффект: §f+24% Урона Основной Атаки
 §830 and boost your Main Attack@§830 и увеличит твою Основную Атаку
 §834 and boost your Main Attack@§834 и увеличит твою Основную Атаку
-§7Approach the stage @§7Подойди к сцене
-§7Break into the mansion @§7Проникни в поместье
 §7- Refined Spruce Wood 1@§7- Переработанная Древесина Ели 1
 §7- Refined Spruce Wood 2@§7- Переработанная Древесина Ели 2
-§7Continue through the hideout! @§7Продвигайся через укрытие!
 §c✖ Lv. 90: §f12§7 Refined Sorghum String§f Ⓙ@§c✖ Ур. 90: §f12§7 Переработанная Сорго Нить§f Ⓙ
 §c✖ Lv. 90: §f6§7 Refined Sorghum String§f Ⓙ@§c✖ Ур. 90: §f6§7 Переработанная Сорго Нить§f Ⓙ
 §7- Refined Jungle Wood 1@§7- Переработанная Древесина Амаранта 1
@@ -24,20 +21,16 @@
 §6 - §c✖ §44 Golden Teeth@§6 - §c✖ §44 Золотой Зуб
 §6 - §c✖ §43 Golden Teeth@§6 - §c✖ §43 Золотой Зуб
 §6 - §c✖ §42 Golden Teeth@§6 - §c✖ §42 Золотой Зуб
-§7Defeat the spirit possessing Aryn @§7Победи одержимого духом Арина
 §a✔ Lv. 50: §f4§7 Refined Silver Ingot§f Ⓑ@§a✔ Ур. 50: §f4§7 Переработанный Слиток Серебра§f Ⓑ
 §c✖ Lv. 60: §f4§7 Refined Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f4§7 Переработанный Слиток Кобальта§f Ⓑ
 §a✔ Lv. 50: §f8§7 Refined Silver Ingot§f Ⓑ@§a✔ Ур. 50: §f8§7 Переработанный Слиток Серебра§f Ⓑ
 §c✖ Lv. 60: §f8§7 Refined Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f8§7 Переработанный Слиток Кобальта§f Ⓑ
-§7Defeat Krolton to earn your @§7Победи Кролтона, чтобы
-§7way back to the living. @§7вернуться к жизни
 §2If you live near America and want lower@§2Если вы живете рядом с Америкой, и хотите
 §2latency on the WC servers, login using@§2меньшую задержку на WC серверах, то заходите
 §2the §fplay.wynncraft.com§2 IP address@§2через §fplay.wynncraft.com§2 IP адрес
 §4If you live near Europe and want lower@§4Если вы живете рядом с Европой, и хотите
 §4latency on the EU servers, login using@§4меньшую задержку на EU серверах, то заходите
 §4the §feu.wynncraft.com§4 IP address@§4через §feu.wynncraft.com§2 IP адрес
-§7continue the journey. @§7Продолжи свое путешествие
 §6 - §c✖ §412 Pig Meat@§6 - §c✖ §412 Мясо Свиньи
 §6 - §a✔ §212 Pig Meat@§6 - §a✔ §212 Мясо Свиньи
 §6 - §c✖ §415 Pig Meat@§6 - §c✖ §415 Мясо Свиньи
@@ -48,9 +41,6 @@
 §fFallen Factory §7once.@§fЗаброшенную Фабрику §7единожды.
 §a- §7Coords: §f-1675, -2600@§a- §7Координаты: §f-1675, -2600
 §7Teleports to: Rodoroc@§7Телепортирует в: Родорок
-§7Cast your spell @§7Используй свое заклинание
-§7Return to the scientist and @§7Вернись к ученому и
-§7tell him the news. @§7расскажи ему плохие новости
 §8§8The fabled weapon of the@§8Сказачное оружие титулованного 
 §8titular dark Assassin, the@§8темного ассасина, небольшой 
 §8blade's small stature hides@§8размер клинка скрывает 
@@ -63,20 +53,3 @@
 §6- §7Wind Surge§8 [Lv. 21]@§6- §7Порыв Ветра§8 [Ур. 21]
 §6- §7Gale Funnel§8 [Lv. 31]@§6- §7Воронка Бури§8 [Ур. 31]
 §5- §7Soar Spell §8[Lv. 11]@§5- §7Взлет Заклинание §8[Ур. 11]
-§7Talk to the Lutho Citizen @§7Поговори с Жителем Луто 
-§7at [1014,77,-675]. @§7на [1014,77,-675].
-§7Explore the deepest part of @§7Исследуй глубинные части 
-§7the Silent Expanse @§7Тихого Пространства
-
-
-
-
-§7(.*) §7Aura Cost@§7(r1) §7Цена Ауры
-§7(.*) §7Neutral Spell Damage@§7(r1) §7Нейтральный Урон Заклинаний
-§d- §7Attack Speed: §f(\d+) tier@§d- §7Скорость Атаки: §f(r1) уровень
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Main Attack Damage@(r1)§(r2)(r3)§(r4) to §(r5)(r6)§7 Урона Основной Атаки
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 3rd Spell Cost@(r1)§(r2)(r3)§(r4) to §(r5)(r6)§7 Цены 3-го Заклинания
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 2nd Spell Cost@(r1)§(r2)(r3)§(r4) to §(r5)(r6)§7 Цены 2-го Заклинания
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 1st Spell Cost@(r1)§(r2)(r3)§(r4) to §(r5)(r6)§7 Цены 1-го Заклинания
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 4th Spell Cost@(r1)§(r2)(r3)§(r4) to §(r5)(r6)§7 Цены 4-го Заклинания
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Neutral Spell Damage@(r1)§(r2)(r3)§(r4) to §(r5)(r6)§7 Нейтрального Урона Заклинаний
