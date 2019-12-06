@@ -80,6 +80,10 @@ QUESTS/A_Journey_Further.txt
 §7Talk to Aledar in Lutho @§7Поговори с Аледаром в Луто 
 §7at [977, 75, -732] @§7на [977, 75, -732]
 
+QUESTS/A_Hunters_Calling.txt 
+§7Explore the deepest part of @§7Исследуй глубинные части 
+§7the Silent Expanse @§7Тихого Пространства
+
 QUESTS/An_Iron_Heart_Part_I.txt ===== 
 §7Speak with Duvale at @§7Поговори с Дювейл на 
 §7[-1608,51,-4957]@ 
@@ -1478,7 +1482,11 @@ QUESTS/Pit_of_the_Dead_(Quest).txt =====
 §7Explore the pit and find @§7Исследуй яму 
 §7the shrine @§7и найди святыню 
 §7Tell Merloni that you succeeded @§7Сообщи Мерлони об успехе 
- 
+
+QUESTS/Point_of_No_Return.txt 
+§7Talk to the Lutho Citizen @§7Поговори с Жителем Луто 
+§7at [1014,77,-675]. @§7на [1014,77,-675].
+
 QUESTS/Poisoning_the_Pest.txt ===== 
 §7Talk to Farmer Cevalus at @§7Поговори с Фермером Цевалусом на 
 §7[-749,67,-1664]@ 
