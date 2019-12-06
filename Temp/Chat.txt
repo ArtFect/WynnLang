@@ -1,91 +1,37 @@
-§7[1/1] §2Skyraider Guard: §aWatcha' think you're doin' there, landwalker? I said, the trials are for the ladies only!@§7[1/1] §2Skyraider Guard: §aЭй, куда это ты собрался, землеход? Я же сказала, что испытания только для дам!
-§7[1/1] §2Courtyard Guard: §aIf we ever let one of them skyraiders even get close to stealin' the treasure, the boss'll kill us! Gosh, who knows what'd happen if the treasure got stolen under our noses...@§7[1/1] §2Courtyard Guard: §aЕсли мы дадим хотя-бы одному захватчику хоть близко подобраться к сокровищу, то босс убьет нас! Господи, кто знает, что бы произошло, если бы сокровище украли прямо у нас под носом...
-§7[1/1] §2Courtyard Guard: §aThem skyraider pests who broke into this courtyard tried to break into the mansion by breaking one of the mansion's windows by throwin' a rock at it, now we gotta' fix it!@§7[1/1] §2Courtyard Guard: §aЭти захватчики-вредители, которые ворвались во двор, также пытались ворваться в особняк. Они бросили камень и разбили одно из окон, теперь нам нужно его починить!
-§7[1/1] §2Talking Mushroom: §aHEY MEATBAG, DON'T YOU THINK YOU'RE A LITTLE FAT FOR THAT THING? WAIT, YOU'RE SERIOUS? STO- AAAHHH!!!@§7[1/1] §2Talking Mushroom: §aЭЙ, МЕШОК С МЯСОМ, ТЕБЕ НЕ КАЖЕТСЯ, ЧТО ТЫ СЛИШКОМ ЖИРНЫЙ ДЛЯ ЭТОЙ ШТУКОВИНЫ? ПОДОЖДИ, ТЫ СЕРЬЕЗНО? ОСТАН-ААААА!!!
-§7[1/5] §2Dr. Legendary: §aWhat a breathtaking fight! The Matrojan Idol, defeated! You're almost halfway there.@§7[1/5] §2Dr. Legendary: §aКакой захватывающий бой! Matrojan Idol повержен! Ты почти на полпути.
-§7[2/5] §2Dr. Legendary: §aDuring my travels, made possible by Corkus, I eventually stumbled into the Light Forest of Gavel, where I had a strange vision...@§7[2/5] §2Dr. Legendary: §aВо время моих путешествий, ставших возможными благодаря Коркусу, я в конце концов наткнулся на Светлый Лес в провинции Гавел, где у меня было странное видение...
-§7[3/5] §2Dr. Legendary: §aI saw... a villager, in his ultimate form, surrounded by mushrooms. The vision inspired me to create the next challenger.@§7[3/5] §2Dr. Legendary: §aЯ увидел... жителя, в своей ультимативной форме, окруженного грибами. Видение вдохновило меня на создание следующего претендента.
-§7[4/5] §2Dr. Legendary: §aI call this robot... §f§lYahyaBot V4.04§a!@§7[4/5] §2Dr. Legendary: §aЯ назвал этого робота... §f§lYahyaBot V4.04§a!
-§7[5/5] §2Dr. Legendary: §aAs always, you can forfeit to your right, or you can continue up ahead!@§7[5/5] §2Dr. Legendary: §aКак всегда, справа ты можешь потерять все, или же можешь продолжить идти вперед!
-§7[1/5] §2Dr. Legendary: §aAstounding! Very few have ever slain Robob. But this next challenger is known to very few, and still remains undefeated.@§7[1/5] §2Dr. Legendary: §aПоразительно! Очень немногие когда-либо убивали Robob'а. Но этот следующий претендент известен очень немногим, и все еще остается непобежденным.
-§7[2/5] §2Dr. Legendary: §aYou've likely heard of Wybels. Have you heard stories of an orange one? They say an orange wybel is very intelligent and powerful.@§7[2/5] §2Dr. Legendary: §aТы, вероятно, слышал о Вубелах. Слышал историю об оранжевом? Говорят, что оранжевый Вубел очень умный и сильный.
-§7[3/5] §2Dr. Legendary: §aI was unable to match its strength with electromagic alone, so I took a live Orange Wybel and... "upgraded" it into...@§7[3/5] §2Dr. Legendary: §aЯ не смог сопоставить его силу с электромагией в одиночку, поэтому я взял живого оранжевого Вубела и... "модернизировал" его в...
-§7[4/5] §2Dr. Legendary: §aThe §e§lOrange Cybel§a, the final challenger of the Gold tier. If you defeat it, you'll even be able to challenge the Diamond tier.@§7[4/5] §2Dr. Legendary: §e§lOrange Cybel§a - последний претендент Золотого уровня. Если ты победишь его, то даже сможешь попробовать пройти Алмазный уровень.
-§7[5/5] §2Dr. Legendary: §aIf you truly believe in your strength, continue. If not, I'd advise you to forfeit now. Your reward is already sizable.@§7[5/5] §2Dr. Legendary: §aЕсли ты действительно веришь в свои силы, продолжай. Если нет, я бы посоветовал тебе отказаться сейчас. Твоя награда уже значительна.
-§7[1/8] §2Dr. Legendary: §aAmazing! You even defeated the Cybel, my strongest creation. Well, except for one thing...@§7[1/8] §2Dr. Legendary: §aПотрясающе! Ты даже победил Cybel'а, мое самое сильное создание. Ну, за исключением одной вещи...
-§7[2/8] §2Dr. Legendary: §aWith the help of Corkus, I travelled to the Hive, where I sought to model the final challenger after the legendary sorceress.@§7[2/8] §2Dr. Legendary: §aС помощью Коркуса я отправился в Улей, где попытался изобразить последнего претендента в честь легендарной волшебницы.
-§7[3/8] §2Dr. Legendary: §aBut... Qira declined. She said that if I tried anyway, she'd, erm... well, let's just say killing me was putting it too lightly.@§7[3/8] §2Dr. Legendary: §aНо... Кира отказалась. Она сказала, что если я все равно попытаюсь, она ... ну, скажем так, убьет меня слишком легко.
-§7[4/8] §2Dr. Legendary: §aIt might be for the best, anyways. If the stories about her are true, her immense skill might be impossible to replicate.@§7[4/8] §2Dr. Legendary: §aВ любом случае, это может быть к лучшему. Если рассказы о ней правдивы, ее огромное мастерство может быть невозможно воспроизвести.
-§7[5/8] §2Dr. Legendary: §aSo instead, I made something else, something entirely new...@§7[5/8] §2Dr. Legendary: §aВместо этого, я сделал кое-то еще, что-то совершенно новое...
-§7[6/8] §2Dr. Legendary: §aA mech suit that will be piloted by me, §b§lDoctor Legendary§a! With it, I might be one of the toughest foes you'll ever face!@§7[6/8] §2Dr. Legendary: §aМеханический костюм, который буду пилотировать я - §b§lDoctor Legendary§a! С ним я буду одним из самых жестких врагов, с которыми ты когда-либо сталкивался!
-§7[7/8] §2Dr. Legendary: §aBut if you can defeat me, you'll get §b1 Diamond Token§a, §e7 Gold Tokens§a, §f15 Silver Tokens§a, and §625 Bronze Tokens§a!@§7[7/8] §2Dr. Legendary: §aНо если ты сможешь победить меня, ты получишь §b1 Алмазный жетон§a, §e7 золотых жетонов§a, §f15 серебряных жетонов§a и §625 бронзовых жетонов§a!
-§7[8/8] §2Dr. Legendary: §aIt's not too late to forfeit, if you want. But I have a feeling you've got one more fight in you.@§7[8/8] §2Dr. Legendary: §aЕще не поздно сдаться, если хочешь. Но у меня такое чувство, что в тебе есть еще силы на борьбу.
-§7[1/1] §2Rayshyroth: §aYou're a rather impressive one, aren't you! I'm glad to see you survived, and no worse for wear!@§7[1/1] §2Rayshyroth: §aТы выглядишь довольно впечатленным, не так ли! Я рад, что ты выжил, и не пострадал!
-§7[1/1] §2Ollie: §aWelcome to my shop! Have you come for an examination? No? Oh, thank you for stopping by!@§7[1/1] §2Ollie: §aДобро пожаловать в мой магазин! Ты пришел на обследование? Нет? Ох, ну спасибо, что заглянул!
-§7[1/1] §2Elrund: §aI'm afraid we do not allow outsiders into our greedless sanctuary. All non-elf folk are the same. Perhaps when you're level 76...@§7[1/1] §2Elrund: §aЯ боюсь, что мы не допускаем чужаков в наше свободное от жадности святилище. Все не-эльфы одинаковы. Но возможно, на 76 уровне...
-§7[1/1] §2Bricot: §aI wouln't ask anyone under level 79 to possibly enter a flaming airship. I'll have to wait for someone else. @§7[1/1] §2Bricot: §aЯ бы не стал никого просить ниже 79 уровня зайти в пылающий дирижабль. Мне придется подождать кого-то другого.
-§7[1/1] §2Tolem: §aNot you again, stay away, my poor cows have been through enough!@§7[1/1] §2Tolem: §aТолько не ты, держись подальше, достаточно моих бедных коров!
-§7[1/1] §2Blade of Shade: §aAha...you'll be a very interesting quarry to catch, human...@§7[1/1] §2Blade of Shade: §aАга...Ты будешь очень интересной пойманной жертвой, человек...
-§7[1/1] §2Sesad: §aAha, there you are! I've been waiting for you! Come on, stay a while, I've got plenty of stories to tell!@§7[1/1] §2Sesad: §aАга, вот ты где! Я так долго тебя ждал! Давай, останься ненадолго, у меня есть много историй для рассказа!
-§7[1/2] §2Irahe: §aOh, hello. I finally got a few words out of that old Referick fellow earlier.@§7[1/2] §2Irahe: §aОх, привет. Я наконец-то услышала несколько слов от того старика Реферика.
-§7[2/2] §2Irahe: §aI saw you going in and out of his house a few times, did you happen to help him?@§7[2/2] §2Irahe: §aЯ видела, как ты входил и выходил из его дома несколько раз, ты случайно не помогал ему?
-§7[1/1] §2Harker: §aWell, the cultists seem to be turning over a new leaf, but Rismor is having me stay down here to keep them in line. Hopefully you won't hear so much as a peep from them!@§7[1/1] §2Harker: §aЧто ж, культисты, кажется, решили начать новую жизнь, но Рисмор заставляет меня оставаться здесь, чтобы приглядеть за ними. Надеюсь, ты больше не услышишь ничего от них, даже писка!
-§7[1/1] §2Sasha: §aThank you so much for helping me. I can finally go back to work properly.@§7[1/1] §2Sasha: §aБольшое спасибо за помощь. Наконец-то я смогу вернуться к нормальной работе.
-§7[1/1] §2Valimare: §aWhat brings ya down 'ere again, officer? Come to test your luck?@§7[1/1] §2Valimare: §aЧто привело вас снова сюда, офицер? Пришли испытать свою удачу?
-§7[1/1] §2Peculiar Old Man: §aPlease, stay away. I do not want any trouble...@§7[1/1] §2Peculiar Old Man: §aПожалуйста, держись подальше. Я не хочу никаких проблем...
-§7[1/1] §2Marden: §aI really don't care what happened to that guy. I was just doing my job.@§7[1/1] §2Marden: §aМне действительно все равно, что случилось с тем парнем. Я просто делал свою работу.
-§7[1/1] §2Bricot: §aOh thank god it was a only a mail ship. The pilot was found in the canyon shortly after you left, stuck in a tree.@§7[1/1] §2Bricot: §aОх, слава богу, что это был всего-лишь почтовый корабль. Пилот был найден в каньоне застрявшим на дереве, вскоре после того, как ты ушел.
+
+
+
+
+
+
+
+
+
+
+
+
+
 §7[1/1] §2Soway: §aYou gave me a scare opening that door again! You humans are intriguing...@§7[1/1] §2Soway: §aТы напугал меня, снова открыв эту дверь! Вы, люди, умеете заинтриговать...
-§7[1/1] §2Ansei: §aThis cave is so nice.@§7[1/1] §2Ansei: §aЭта пещера такая красивая.
-§7[1/1] §2Felim: §aI'll head back to the flag once I've calmed down a bit from this whole bear thing.@§7[1/1] §2Felim: §aЯ вернусь к флагу, как только немного успокоюсь от всего этого связанного с медведем.
+
 §7[1/1] §2Narder: §aAh, so you solved the mystery? So what was it? What? Now that's something you don't hear everyday. Someone who is a villager and a human at once.@§7[1/1] §2Narder: §aАх, так ты разгадал тайну? Так что это было? Что? Да уж, о таком не услышишь каждый день. Кто-то, кто является сразу и жителем, и человеком.
-§7[1/1] §2Chef Hamsey: §aWelcome to mon restaurant, friend!@§7[1/1] §2Chef Hamsey: §aДобро пожяловать в мой ресторан, друк!
-§7[1/1] §2Chef Hamsey: §aWelcome back, mon ami! Je suis assez busy, so I can't talk for long. Maybe take a seat in the restaurant?@§7[1/1] §2Chef Hamsey: §aДобро пожяловать, мой друк! Я довольно занят сейчас, так чито говорить не долго. Можишь занять место в мои ресторан?
-§7[1/1] §2Brie: §aNice to see you again! Back to make more food?@§7[1/1] §2Brie: §aРада снова тебя видеть! Вернулся, чтобы приготовить еще еды?
-§7[1/1] §2Kale: §aYou again? I thought I got rid of... Hello again adventurer, how §a§llovely §ato see you.@§7[1/1] §2Kale: §aОпять ты? Я думал, что избавился от те... Ох, привет снова, путешественник как §a§lприятно§a тебя видеть.
-§7[1/1] §2Frank: §aHow ya doing, friend? Back to cook, I'm guessing? I'd be happy to help either way.@§7[1/1] §2Frank: §aКак поживаешь, друг? Снова готовить, полагаю? Я был бы рад помочь в любом случае.
-§7[1/1] §2Baker: §aIt seems that when you knead it least, I have plenty of flour. Maybe next time I'll have some for you!@§7[1/1] §2Baker: §aКажется, что когда ты растираешь муку, то ее становится больше. Может быть, в следующий раз у меня будет немного и для тебя!
-§7[1/1] §2Security Bot N4T17: §a. . .@ 
-§7[1/1] §2Maxie: §aCorkus will always have the odd mech running around. But I think we won't see anything like Mech X for a while.@§7[1/1] §2Maxie: §aВ Коркусе всегда будут бегать какие-нибудь странные роботы. Но я думаю, что мы не увидим ничего похожего на Mech X какое-то время.
+
+
 §7[1/1] §2Siwel: §aThings are getting even worse! I'm afraid of what the egg will become!@§7[1/1] §2Siwel: §aДела становятся еще хуже! Я боюсь того, во что может превратиться яйцо!
-§7[1/1] §2Mercenary Leader: §aHah, if only ol' Saunny could see us now. I bet he wouldn't even recognize us, we've gotten so strong now!@§7[1/1] §2Mercenary Leader: §aХа, если бы только старый Санни мог видеть нас сейчас. Бьюсь об заклад, он даже бы не узнал нас, мы стали такими сильными!
-§7[1/1] §2King's Son: §aI am so grateful that my father understands now. I swear one day I'll be a great hero! I'll defend all the cities in Wynn from evil!@§7[1/1] §2King's Son: §aЯ так благодарен, что мой отец все понял. Клянусь, однажды я стану великим героем! Я буду защищать все города в Винн от зла!
+
 §7[1/1] §2King of Troms: §aI did what I did for my people. Not out of personal values. I can now rule the city free of influence.@§7[1/1] §2King of Troms: §aЯ сделал то, что должен был сделать для своих людей. Не из-за личных побуждений. Теперь я могу управлять городом без внешнего влияния.
 §7[1/1] §2Erisk: §aIf you ever find that other fountain, please, do tell us! There is so much good to be done with such a marvelous thing!@§7[1/1] §2Erisk: §aЕсли ты когда-нибудь найдешь тот другой фонтан, пожалуйста, скажи нам! С такой чудесной вещью можно сделать так много хорошего!
-§7[1/12] §2§kSkien§2: §a...@ 
-§7[2/12] §2§kSkien§2: §a... I... Who... W§a§khe§are am... Who are...§4you§a?@§7[2/12] §2§kSkien§2: §a... Я... Кто... Г§a§kд§aе я... Кто...§4ты§a?
-§7[3/12] §2§kSkien§2: §aYou are... §a§kYou §aare... I can feel §4magic§a from you... §4§kT§4he§4§ki§4r §amagic...@§7[3/12] §2§kSkien§2: §aТыы... §a§kЭто §aты... Я чувствую §4магию§a от тебя... §4И§4§kх §aмагию...
-§7[4/12] §2§kSkien§2: §aBut you are h§a§ku§aman...@§7[4/12] §2§kSkien§2: §a§aНо ты ведь ч§a§kел§aовек...
-§7[5/12] §2§kSkien§2: §aTraitor...@§7[5/12] §2§kSkien§2: §aПредатель...
-§7[6/12] §2§kSkien§2: §4TRAITOR!!!@§7[6/12] §2§kSkien§2: §4ПРЕДАТЕЛЬ!!!
-§7[7/12] §2§kSkien§2: §4TRAITOR §c§kNO NO §4NO WE HAVE LOST §4§kWE A§4RE FALLEN I §4HAVE FAI§4§kLED@§7[7/12] §2§kSkien§2: §4ПРЕДАТЕЛЬ §c§kНЕТ НЕТ §4НЕТ МЫ ПРОИГРАЛИ §4§kМЫ §4ПАЛИ  Я §4НЕ СПРАВ§4§kИЛСЯ
-§7[8/12] §2§kSkien§2: §4TR§c§kAIT§4OR WHY YOU §4§lV§4§l§kILLAGER§4S DA§c§kMN§4ED MAGIC USERS §c§lNO N§c§l§kO NO I §4§lMUST K§4§l§kILL THE §4§lTRAITOR@§7[8/12] §2§kSkien§2: §4ПР§c§kЕДАТ§4ЕЛЬ ЗАЧЕМ §4§lЖ§4§l§kИТЕЛ§4И ЧЕР§c§kТО§4ВЫ ПОЛЬЗОВАТЕЛИ МАГИИ §c§lНЕТ НЕ§c§l§kТ НЕТ Я §4§lДОЛЖЕН У§4§l§kБИТЬ §4§lПРЕДАТЕЛЯ
-§7[9/12] §2§kSkien§2: §4§kMUST §c§lKILL §4THE T§4§kRAITOR@§7[9/12] §2§kSkien§2: §4§kДОЛЖЕН §c§lУБИТЬ ПР§4§kЕДАТЕЛЯ
-§7[10/12] §2§kSkien§2: §4T§4§kHE §4TRAI§4§kT§4OR MUST §4§l§oDIE@§7[10/12] §2§kSkien§2: §4ПРЕД§4§kА§4ТЕЛЬ ДОЛЖЕН §4§l§oУМЕРЕТЬ
-§7[11/12] §2§kSkien§2: §4DIE D§4§kI§4E DIE D§4§kIE@§7[11/12] §2§kSkien§2: §4УМРИ У§4§kМР§4И УМРИ У§4§kМРИ
-§7[12/12] §2§kSkien§2: §4§lDIE D§4§l§kIE DIE DIE §4DI§4§kE DIE §c§l§oDIE §4§kDIE DIE DIE D§4I§4§kE DIE@§7[12/12] §2§kSkien§2: §4§lУМРИ У§4§l§kМРИ УМРИ УМРИ §4УМ§4§kРИ УМРИ §c§l§oУМРИ §4§kУМРИ УМРИ УМРИ У§4М§4§kРИ УМРИ
 §7[1/1] §2Eoric: §aPlease, I'm writing a document! Could you go and be a nonsense somewhere else?@§7[1/1] §2Eoric: §aПожалуйста, я пишу документ! Не мог бы ты пойти заниматься ерундой куда-нибудь еще?
-§7[1/1] §2Baker: §aHello friend! Hungrily loafing around, I see? Well what §a§lyou §aknead is some good bread to rise to the top. Can't be a winner on an empty stomach!@§7[1/1] §2Baker: §aПривет, друг мой! Склоняешься голодным, я вижу? Хорошо, что все что нужно-это хороший хлеб, чтобы подняться на вершину. Нельзя быть победителем на пустой желудок!
-§7[1/3] §2Talking Mushroom: §aHEY, THIS PLACE HAS GOT SOME NICE LOOKING CAPS! DROP ME OFF HERE!@§7[1/3] §2Talking Mushroom: §aЭЙ, В ЭТОМ МЕСТЕ ЕСТЬ КРАСИВЫЕ ШЛЯПКИ! ВЫБРОСЬ МЕНЯ ЗДЕСЬ!
-§7[2/3] §2Yahya: §aMu-mushrooms? Yes, mushrooms. You have some- them, give me it!@§7[2/3] §2Yahya: §aГр-грибы? Да, грибы. У тебя они есть-давай, отдай их мне!
-§7[3/3] §2Talking Mushroom: §aNEVERMIND NEVERMIND, GET ME AWAY FROM THIS PSYCHOPATH! HE'S GOT HUNGRY EYES!@§7[3/3] §2Talking Mushroom: §aНЕВАЖНО ЗАБУДЬ, УБЕРИ МЕНЯ ОТ ЭТОГО ПСИХОПАТА! У НЕГО ГОЛОДНЫЕ ГЛАЗА!
+
+
 §7[1/1] §2Erisk: §aAnd who might you be? We certainly don't get many visitors down here.@§7[1/1] §2Erisk: §aА кто ты такой? У нас здесь, конечно, не так много посетителей.
 §7[1/1] §2Almuj Banker: §aYou came back to see me! How nice of you.@§7[1/1] §2Almuj Banker: §aТы вернулся, чтобы увидеть меня! Как мило с твоей стороны.
-§7[1/5] §2Cinfras Citizen: §aCan't believe it, human. I'd ask you to tell me how you defeated Qira, but I bet she swore you to secrecy, huh?@§7[1/5] §2Cinfras Citizen: §aНе могу в это поверить, человек. Я бы попросил тебя рассказать мне, как ты победил Киру, но держу пари, она попросила тебя сохранить тайну, да?
-§7[2/5] §2Cinfras Citizen: §aI bet she also made you swear off telling people about your request. I hear she does that, among other things.@§7[2/5] §2Cinfras Citizen: §aДержу пари, она также заставила тебя поклясться, что ты никому не расскажешь о своей просьбе. Я слышал, что она делает это, помимо всего прочего
-§7[3/5] §2Cinfras Citizen: §aI hope you didn't try to ask that she quit her evil ways and retire, though. That's what that first group tried to do, and they got laughed off.@§7[3/5] §2Cinfras Citizen: §aНадеюсь, что ты не пытался попросить ее оставить свои злые пути и уйти на пенсию. Это то, что первая группа пыталась сделать, и над ними смеялись
-§7[4/5] §2Cinfras Citizen: §aAnd then, a few days after word got out that they'd told people their request, they disappeared. She enslaved the poor blokes.@§7[4/5] §2Cinfras Citizen: §aА потом, через несколько дней после того, как стало известно, что они сообщили людям о своей просьбе, они исчезли. Она поработила бедных парней.
-§7[5/5] §2Cinfras Citizen: §aI hear they got tortured before she let them go to work, cause they wouldn't talk to anyone except Qira and her higher-ups.@§7[5/5] §2Cinfras Citizen: §aЯ слышал, что их пытали, прежде чем она отпустила их на работу, потому что они не разговаривали ни с кем, кроме Киры и ее начальства.
-§7[1/3] §2Aledar: §aOkay, you've refined the ingots. Follow me for the next step in the crafting process.@ 
-§7[1/1] §2Relend: §aYou don't seem very mighty, come back when you're level 90!@§7[1/1] §2Relend: §aТы выглядишь не как мне ровня, возвращайся после 90 уровня!
-§7[1/6] §2Hive Servant: §aI really can't believe it. How did you beat her?! You must be ridiculously strong to have defeated Mistress!@§7[1/6] §2Hive Servant: §aЯ действительно не могу в это поверить. Как ты ее побил?! Ты, должно быть, до смешного силен, раз победил Госпожу!
-§7[2/6] §2Hive Servant: §aI hope you didn't hurt her too bad, and that she didn't rough you up too harsh either. For someone with your skill, getting hurt is a waste, I think.@§7[2/6] §2Hive Servant: §aНадеюсь, ты не причинил ей слишком большого вреда, и она не слишком грубо обошлась с тобой. Для кого-то с твоим мастерством, получить травму - это пустая трата времени, я думаю.
-§7[3/6] §2Hive Servant: §aI mean, even just beating the Thunder Division is certainly more than I could ever hope to achieve, eheheh...@§7[3/6] §2Hive Servant: §aЯ имею в виду, что даже просто победить Дивизию Грома - это, конечно, больше, чем я когда-либо мог надеяться достичь, эхехех...
-§7[4/6] §2Hive Servant: §aI'm fine just being a cog in the clockworks, so to speak, but some of the other servants dislike their positions here. I just can't understand them.@§7[4/6] §2Hive Servant: §aЯ вполне могу быть винтиком в часовом механизме, так сказать, но некоторым другим слугам здесь не нравится их положение. Я просто не могу их понять
-§7[5/6] §2Hive Servant: §aMistress is a fine ruler. She keeps us safe, her rules aren't overbearing, she's infinitely wise... What have they got to hold against her?@§7[5/6] §2Hive Servant: §aГоспожа - прекрасный правитель. Она держит нас в безопасности, ее правила не властны, она бесконечно мудра... Что они могут иметь против нее?
-§7[6/6] §2Hive Servant: §aSometimes, I wonder if they realize the opportunity she's given us. I wonder if they're thankful, even at all.@§7[6/6] §2Hive Servant: §aИногда я думаю, понимают ли они, какую возможность она нам предоставила. Интересно, благодарны ли они вообще.
-§7[1/1] §2Yuge: §aIf you climbed up here, you must be great at exploring! Say, while you explore, can you look for a blue flag for me?@§7[1/1] §2Yuge: §aЕсли ты забрался сюда, ты должно быть великолепен в изучении! Скажи, пока исследуешь, не мог бы ты поискать синий флаг для меня?
-§7[1/1] §2Tasim: §aCareful! That tree looks like it'll fall over any second! Let's go check out the bridge for now.@§7[1/1] §2Tasim: §aОсторожно! Это дерево выглядит так, будто может упасть в любую секунду! А пока пойдем проверим мост.
+
+
+§7[1/1] §2Relend: §aYou don't seem very mighty, come back when you're level 90!@§7[1/1] §2Relend: §aТы выглядишь мне не как ровня, возвращайся после 90 уровня!
+
+
+
+
 
 
 
