@@ -144,6 +144,7 @@ Old Druid@Старый Друид
 §eRymek Citizen§6 [Lv. 35]@§eЖитель Римека§6 [Ур. 35]
 §aTnt§6 [Lv. 0]@§aДинамит§6 [Ур. 0]
 §aGolden Apple§6 [Lv. 20]@§aЗолотое Яблоко§6 [Ур. 20]
+§aRunning Cake§6 [Lv. 1]@§aБегущий Торт§6 [Ур. 1]
 
 #####################Торговцы###########################
 §dDungeon Merchant@§dДанж Торговец
@@ -278,6 +279,7 @@ Old Druid@Старый Друид
 §2§aSlaying Post §2[Combat Lv. 99]@§2§aДоска Заданий §2[Комбат Ур. 99]
 §2§aGathering Post §2[Fishing Lv. 8]@§2§aДоска для Сбора §2[Рыбалка Ур. 8]
 §2§aGathering Post §2[Fishing Lv. 18]@§2§aДоска для Сбора §2[Рыбалка Ур. 18]
+§2§aGathering Post §2[Fishing Lv. 23]@§2§aДоска для Сбора §2[Рыбалка Ур. 23]
 §2§aGathering Post §2[Fishing Lv. 43]@§2§aДоска для Сбора §2[Рыбалка Ур. 43]
 §2§aGathering Post §2[Mining Lv. 28]@§2§aДоска для Сбора §2[Добыча Руд Ур. 28]
 §2§aGathering Post §2[Mining Lv. 23]@§2§aДоска для Сбора §2[Добыча Руд Ур. 23]
@@ -1022,6 +1024,7 @@ Gert@Герт
 §aMolten@§aМолтен
 §aVoidstone@§aВойдстоун
 §aOak@§aДуб
+§2[§a+2§2 Oak Wood]@§2[§a+2§2 Древесины Дуба]
 §2[§a+1§2 Oak Paper]@§2[§a+1§2 Дубовая Бумага]
 §aBirch@§aБереза
 §aWillow@§aИва
@@ -1741,6 +1744,8 @@ Level §c70-80@Уровень §c70-80
 
 
 ############################Зеленые жители###########################
+§aFriendly Goblin§6 [Lv. 45]@§aДружелюбный Гоблин§6 [Ур. 45]
+§aScared Goblin§6 [Lv. 45]@§aНапуганный Гоблин§6 [Ур. 45]
 §aKatoa Farmer§6 [Lv. 1]@§aФермер Катоа§6 [Ур. 1]
 §aChicken§6 [Lv. 1]@§aКурица§6 [Ур. 1]
 §aWater Powder Spirit§6 [Lv. 1]@§aДух Порошка Воды§6 [Ур. 1]
@@ -2289,3 +2294,8 @@ Grumpy Old Man@Старик
 §6Sky Blue Wybel Token@§6Голубой Вубел Жетон
 §cAngels Wings Effect@§cЭффект Крыльев Ангела
 §6Golden Bow@§6Золотой Лук
+§6Sea Blue Wybel Token@§6Морской Вубел Жетон
+§cKing Effect@§cЭффект Короля
+§6Golden Dagger@§6Золотой Кинжал
+§4Demon Wybel Token@§4Демонический Вубел Жетон
+§cDemon Wings Effect@§cЭффект Крыльев Демона
