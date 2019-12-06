@@ -16,6 +16,8 @@ Loot Chest IV@Сундук с Лутом IV
 [Pg. 5] Marketplace §8[All]@[Стр. 5] Рынок §8[Все]
 [Pg. 6] Marketplace §8[All]@[Стр. 6] Рынок §8[Все]
 [Pg. 7] Marketplace §8[All]@[Стр. 7] Рынок §8[Все]
+[Pg. 8] Marketplace §8[All]@[Стр. 8] Рынок §8[Все]
+[Pg. 9] Marketplace §8[All]@[Стр. 9] Рынок §8[Все]
 What would you like to repair?@Что ты хочешь починить?
 What would you like to scrap?@Что ты хочешь утилизировать?
 What would you like to sell?@Что ты хочешь продать?
@@ -143,3 +145,15 @@ Chest@Сундук
 Anvil@Наковальня
 Crafting Table@Верстак
 Buy a new pet@Покупка нового питомца
+Black Market Shop@Магазин Черного Рынка
+Gift Shop@Магазин Подарков
+Void Shop@Пустотный Магазин
+Recipe Shop@Магазин Рецептов
+Wig Shop@Магазин Париков
+Literature Shop@Литературный Магазин
+Gert Shop@Магазин Гертов
+Gold Dealer Shop@Магазин Торговца Золотом
+Book Shop@Магазин Книг
+Quartz Shop@Магазин Кварца
+Souvenir Shop@Магазин Сувениров
+Clock Shop@Магазин Часов
