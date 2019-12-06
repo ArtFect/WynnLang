@@ -51,32 +51,32 @@
 §7Cast your spell @§7Используй свое заклинание
 §7Return to the scientist and @§7Вернись к ученому и
 §7tell him the news. @§7расскажи ему плохие новости
-§8§8The fabled weapon of the
-§8titular dark Assassin, the
-§8blade's small stature hides
-§8its true powers. Shadows
-§8undulate about the hilt.
-§d§l   HERO Class §5[Shaman Clone]
-§e- §7Class: §fSkyseer
-§6- §fSky Emblem§7 [Lv. 1]
-§6- §7Soar§8 [Lv. 11]
-§6- §7Wind Surge§8 [Lv. 21]
-§6- §7Gale Funnel§8 [Lv. 31]
-§5- §7Soar Spell §8[Lv. 11]
-§7Talk to the Lutho Citizen 
-§7at [1014,77,-675]. 
-§7Explore the deepest part of 
-§7the Silent Expanse 
+§8§8The fabled weapon of the@§8Сказачное оружие титулованного 
+§8titular dark Assassin, the@§8темного ассасина, небольшой 
+§8blade's small stature hides@§8размер клинка скрывает 
+§8its true powers. Shadows@§8его истинную силу. Тени 
+§8undulate about the hilt.@§8извиваются вокруг рукояти.
+§d§l   HERO Class §5[Shaman Clone]@§d§l   HERO Класс §5[Клон Шамана]
+§e- §7Class: §fSkyseer@§e- §7Класс: §fПровидец
+§6- §fSky Emblem§7 [Lv. 1]@§6- §fНебесная Эмблема§7 [Ур. 1]
+§6- §7Soar§8 [Lv. 11]@§6- §7Взлет§8 [Ур. 11]
+§6- §7Wind Surge§8 [Lv. 21]@§6- §7Порыв Ветра§8 [Ур. 21]
+§6- §7Gale Funnel§8 [Lv. 31]@§6- §7Воронка Бури§8 [Ур. 31]
+§5- §7Soar Spell §8[Lv. 11]@§5- §7Взлет Заклинание §8[Ур. 11]
+§7Talk to the Lutho Citizen @§7Поговори с Жителем Луто 
+§7at [1014,77,-675]. @§7на [1014,77,-675].
+§7Explore the deepest part of @§7Исследуй глубинные части 
+§7the Silent Expanse @§7Тихого Пространства
 
 
 
 
-§7(.*) §7Aura Cost
-§d- §7Attack Speed: §f(\d+) tier
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Main Attack Damage
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 3rd Spell Cost
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 2nd Spell Cost
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 1st Spell Cost
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 4th Spell Cost
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Neutral Spell Damage
-§7(.*) §7Neutral Spell Damage
+§7(.*) §7Aura Cost@§7(r1) §7Цена Ауры
+§7(.*) §7Neutral Spell Damage@§7(r1) §7Нейтральный Урон Заклинаний
+§d- §7Attack Speed: §f(\d+) tier@§d- §7Скорость Атаки: §f(r1) уровень
+(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Main Attack Damage@(r1)§(r2)(r3)§(r4) to §(r5)(r6)§7 Урона Основной Атаки
+(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 3rd Spell Cost@(r1)§(r2)(r3)§(r4) to §(r5)(r6)§7 Цены 3-го Заклинания
+(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 2nd Spell Cost@(r1)§(r2)(r3)§(r4) to §(r5)(r6)§7 Цены 2-го Заклинания
+(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 1st Spell Cost@(r1)§(r2)(r3)§(r4) to §(r5)(r6)§7 Цены 1-го Заклинания
+(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 4th Spell Cost@(r1)§(r2)(r3)§(r4) to §(r5)(r6)§7 Цены 4-го Заклинания
+(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Neutral Spell Damage@(r1)§(r2)(r3)§(r4) to §(r5)(r6)§7 Нейтрального Урона Заклинаний
