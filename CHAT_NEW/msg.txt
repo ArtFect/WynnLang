@@ -2611,6 +2611,10 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §cYou've restarted the starting quest!@§cТы перезапустил начальный квест!
 §c§lLog in to §f§neu.wynncraft.com§c§l for less lag.@§c§lЗаходи на §f§neu.wynncraft.com§c§l где меньше лагов.
 §cAll characters and progress are shared between locations.@§cВсе персонажи и прогресс синхронизируются между серверами.
+§7What message would you like to shout to the entire network? Say '§fcancel§7' to stop.@§7Какое сообщение ты хочешь отправить на все сервера? Напиши '§fcancel§7' для отмены.
+§4Error: Do not include links in your shout!@§4Ошибка: Нельзя включать ссылки в свой шаут!
+§7Type §fyes§7 or §fno.@§7Напиши §fyes§7 или §fno.
+§4Shouting!@§4Отправлено!
 
 #########################Entering###################################
 §7[You are now entering PirateÀÀÀCove]@§7[Ты входишь в Пиратскую Бухту]
