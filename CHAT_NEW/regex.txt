@@ -306,6 +306,7 @@
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dDead Star upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Мертвой Звезды
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpider Jump upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Прыжка Паука 
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Прыжка 
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBlink upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ослепления
 §b(.*)§3 has disguised as a §bzombie§3!@§b(r1)§3 замаскировался под §bзомби§3!
 §b(.*)§3 has disguised as a §bsheep§3!@§b(r1)§3 замаскировался под §bовцу§3!
 §b(.*)§3 has disguised as a §bspider§3!@§b(r1)§3 замаскировался под §bпаука§3!
