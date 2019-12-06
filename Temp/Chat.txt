@@ -89,23 +89,25 @@
 
 
 
-§7+ New Resource §8[Jungle]
-§aA §6Epic Sea Blue Wybel Token§a!
-§4It's impolite to go through their mail.
-§5Only §d4 more combat levels§5 until you earn the §dBlink upgrade
-§6To open the final door, you must prove you are a true master of time.
-Prove you have visted every hour on the clock.
-§cOrange Wybel Token
-§3You now have a §bOrange Wybel
-§d     -§7 Lore: §f§o??????????
-§7He seems engrossed in his research. Might be best not to bother him again.
-§d     -§7 Lore: §f§oA heavy aura hangs in the air of this disused tribal exorcism site. The gibbering of a lingering spirit has begun to echo in your ears...
-§7He seems engrossed in his research. Might be best not to bother him right now.
-§7Harvest [2 Wheat] and bring it to the Old Man
-§7Process your logs into [2 Wood] and bring them to Aledar
-§4The mushroom spores in the cave are making you very dizzy... Perhaps it would be better not to go deeper.
-§4Shouldn't you make sure Tharroli is all right?
-§a                            Slay Lv. 40+ Mobs
-§cYou've restarted the starting quest!
-§c§lLog in to §f§neu.wynncraft.com§c§l for less lag.
-§cAll characters and progress are shared between locations.
+§7+ New Resource §8[Jungle]@§7+ Новый Ресурс §8[Амарант]
+§aA §6Epic Sea Blue Wybel Token§a!@§6Эпический Морской Вубел Жетон§a!
+§4It's impolite to go through their mail.@§4Невежливо рыться в их почте
+§6To open the final door, you must prove you are a true master of time.@§6Чтобы открыть последнюю дверь, ты должен доказать, что ты настоящий мастер времени.
+Prove you have visted every hour on the clock.@Докажи, что ты посетил каждый час на часах.
+§cOrange Wybel Token@§cОранжевый Вубел Жетон
+§3You now have a §bOrange Wybel@§3Теперь у тебя есть §bОранжевый Вубел
+§d     -§7 Lore: §f§o??????????@§d     -§7 Лор: §f§o??????????
+§7He seems engrossed in his research. Might be best not to bother him again.@§7Он, кажется, поглощен своими исследованиями. Может быть лучше не беспокоить его снова
+§d     -§7 Lore: §f§oA heavy aura hangs in the air of this disused tribal exorcism site. The gibbering of a lingering spirit has begun to echo in your ears...@§d     -§7 Lore: §f§oТяжелая аура висит в воздухе от этого заброшенного места племенного экзорцизма. Невнятное бормотание старинного духа начало повторяться у тебя в ушах...
+§7He seems engrossed in his research. Might be best not to bother him right now.@§7Он, кажется, поглощен своими исследованиями. Может быть, лучше не беспокоить его прямо сейчас
+§7Harvest [2 Wheat] and bring it to the Old Man@ 
+§7Process your logs into [2 Wood] and bring them to Aledar@ 
+§4The mushroom spores in the cave are making you very dizzy... Perhaps it would be better not to go deeper.@§4Споры грибов в пещере вызывают у тебя сильное головокружение... Может быть, лучше не углубляться внутрь.
+§4Shouldn't you make sure Tharroli is all right?@§4Не мог бы ты убедиться, что с Таролли все в порядке?
+§a                            Slay Lv. 40+ Mobs@§a                         Убийство Ур. 40+ Мобов
+§cYou've restarted the starting quest!@§cТы перезапустил начальный квест!
+§c§lLog in to §f§neu.wynncraft.com§c§l for less lag.@§c§lЗаходи на §f§neu.wynncraft.com§c§l где меньше лагов.
+§cAll characters and progress are shared between locations.@§cВсе персонажи и прогресс одинаковы для всех серверов.
+
+
+§5Only §d(\d+) more combat levels§5 until you earn the §dBlink upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ослепления
