@@ -70,7 +70,16 @@ QUESTS/Aldorei%27s_Secret_Part_II.txt
 §7Turn in your receipt to @§7Верни свою квитанцию 
 §7Corak or give an Elven @§7Кораку или отдай 
 §7Medallion to Kansard @§7эльфийский медальон Канзарду
- 
+
+QUESTS/A_Journey_Beyond.txt 
+§7Join Elphaba on a mission @§7Присоединись к Эльфабе на миссии 
+§7in Detlas at [419, 67, @§7в Детласе на [419, 67, 
+§7-1533]. @ 
+
+QUESTS/A_Journey_Further.txt 
+§7Talk to Aledar in Lutho @§7Поговори с Аледаром в Луто 
+§7at [977, 75, -732] @§7на [977, 75, -732]
+
 QUESTS/An_Iron_Heart_Part_I.txt ===== 
 §7Speak with Duvale at @§7Поговори с Дювейл на 
 §7[-1608,51,-4957]@ 
@@ -1335,6 +1344,10 @@ QUESTS/Memory_Paranoia.txt
 §7Caritat @§7Каритатом
 §7Navigate the Caritat's basement @§7Пройдись по подвалу Каритатов 
 §7Escape through the mysterious rift @§7Сбеги через загадочную расщелину 
+
+QUESTS/Misadventure_on_the_Sea.txt 
+§7Visit the Nemract bar at @§7Посети Немракт бар на
+§7[114,40,-2176]@ 
  
 QUESTS/Mixed_Feelings.txt 
 §7Go for a drink at @§7Пойди выпить 
@@ -1547,7 +1560,11 @@ QUESTS/Reclaiming_the_House.txt
 §7Kill The Gurg and bring @§7Убей Gurg'а и принеси 
 §7back [Head of the Gurg] @§7[Голову Гургa] 
 §7to Ahmas @§7Ахмасу 
- 
+
+QUESTS/Recover_the_Past.txt
+§7Talk to Dr. Picard at @§7Поговори с Др. Пикардом на
+§7[103, 90, -1200]. @ 
+
 QUESTS/Redbeard%27s_Booty.txt ===== 
 §7Talk with Marston in the @§7Поговори с Марстоном 
 §7ocean at @§7в океане на 
@@ -2093,7 +2110,15 @@ QUESTS/The_Mercenary.txt =====
 §7and assassinate Takan @§7и скрытно убей Таканa 
 §7Bring Takan's Badge back to @§7Принеси Значок Таканa 
 §7Amerigo at @§7к Америго на 
- 
+
+QUESTS/The_Olmic_Rune.txt
+§7Explore the abandoned drill at @§7Исследуй заброшенный бур на 
+§7[585,89,-457]@ 
+
+QUESTS/The_Order_of_the_Grook.txt
+§7Talk to Seasum on Mage @§7Поговори с Сеасумом на Магов 
+§7[940,77,-2866]@ 
+
 QUESTS/The_Passage_(Quest).txt ===== 
 §7Talk to Wirt in Troms @§7Поговори с Виртом в Тромсе на 
 §7[-820,94,-1040]@ 
