@@ -17,6 +17,9 @@ QUESTS/An_Iron_Heart_Part_II.txt
 QUESTS/Arachnids%27_Ascent.txt
 QUESTS/A_Fighting_Species.txt
 QUESTS/A_Grave_Mistake.txt
+QUESTS/A_Hunters_Calling.txt
+QUESTS/A_Journey_Beyond.txt
+QUESTS/A_Journey_Further.txt
 QUESTS/A_Marauder%27s_Dues.txt
 QUESTS/A_Sandy_Scandal.txt
 QUESTS/Beneath_the_Depths.txt
@@ -75,6 +78,7 @@ QUESTS/Maltic%27s_Well.txt
 QUESTS/Master_Piece.txt
 QUESTS/Meaningful_Holiday.txt
 QUESTS/Memory_Paranoia.txt
+QUESTS/Misadventure_on_the_Sea.txt
 QUESTS/Mixed_Feelings.txt
 QUESTS/Murder_Mystery.txt
 QUESTS/Mushroom_Man.txt
@@ -82,11 +86,13 @@ QUESTS/One_Thousand_Meters_Under.txt
 QUESTS/Out_of_my_Mind.txt
 QUESTS/Pirate%27s_Trove.txt
 QUESTS/Pit_of_the_Dead_(Quest).txt
+QUESTS/Point_of_No_Return.txt
 QUESTS/Poisoning_the_Pest.txt
 QUESTS/Potion_Making.txt
 QUESTS/Purple_and_Blue.txt
 QUESTS/qqq.txt
 QUESTS/Recipe_for_Disaster.txt
+QUESTS/Recover_the_Past.txt
 QUESTS/Reclaiming_the_House.txt
 QUESTS/Redbeard%27s_Booty.txt
 QUESTS/Reincarnation.txt
@@ -114,6 +120,8 @@ QUESTS/The_House_of_Twain_(Quest).txt
 QUESTS/The_Hunger_of_Gerts_Part_I.txt
 QUESTS/The_Hunger_of_Gerts_Part_II.txt
 QUESTS/The_Lost.txt
+QUESTS/The_Olmic_Rune.txt
+QUESTS/The_Order_of_the_Grook.txt
 QUESTS/The_Maiden_Tower.txt
 QUESTS/The_Mercenary.txt
 QUESTS/The_Passage_(Quest).txt
