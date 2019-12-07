@@ -453,7 +453,6 @@ randomPass@
 tripwireMarker@ 
 §cDrunk Property Owner§6 [Lv. 20]@ 
 §f§lNemract Town@ 
-§2§fNemract Citizen@ 
 §cSilt Formation§6 [Lv. 19]@ 
 §cBubbling Mud Pile§6 [Lv. 17]@ 
 §cSlimy Swamp Zombie§6 [Lv. 21]@ 
@@ -1080,7 +1079,6 @@ RaveNivlaTPOrb@
 §cCrab Hiding in Sand§6 [Lv. 4]@ 
 §cGreedy Zombie§6 [Lv. 8]@ 
 §f§lCoastal Trail@ 
-§2§fMaltic Citizen@ 
 §f§lMaltic@ 
 §cBig Boss Elak§6 [Lv. 47]@ 
 §cGoblin Cutter§6 [Lv. 40]@ 
@@ -1929,7 +1927,6 @@ piraattipuhemies@
 §cKing Crab§6 [Lv. 85]@ 
 §cEnraged Polar Bear§6 [Lv. 44]@ 
 §f§lNesaak Plains South East@ 
-§2§fNesaak Citizen@ 
 §f§lNesaak Village@ 
 VTheorickStaffPlaysound@ 
 theoricktwainstaff1@ 
