@@ -1,0 +1,1630 @@
+(.*) has logged into server (.*) as §(b|a)a Shaman
+(.*) has logged into server (.*) as §(b|a)a Skyseer
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul spell
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura spell
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot spell
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTotem upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura upgrade
+§6(.*) met his fate.
+§6(.*) was killed.
+§6(.*) bit the dust.
+§6(.*) has died.
+§6(.*) passed away.
+§6(.*) met his demise.
+§6(.*) has been slain.
+§6(.*) is six feet under.
+§6(.*) has perished.
+§6(.*) kicked the bucket.
+(.*) has an invalid spell configuration
+§d     -§7 Location: §fSilent Expanse \[(.*)\]
+§d     -§7 Location: §fNesaak Tundra \[(.*)\]
+§4You need to be §cWoodcutting Lv. (\d+) §4to start this Mini-Quest
+§4You need to be §cFishing Lv. (\d+) §4to start this Mini-Quest
+§5Only §d(\d+) more level(|s) §5until you can gather from §dSilver
+§7\[Lv. (\d+)\/§8(\d+)§7\/(.*)\] (.*)@ 
+
+§7\[1\/1\] §2Lucio: §a(.*)! She was completely right. You ought to come with us...
+§7\[2\/17\] §2Aledar: §aElphie! Have you found our fourth member yet\?... Oh, (.*)!
+§7\[22\/23\] §2Dr. Picard: §a(.*)! Get out of there! You are being sucked into the memory.
+§7\[5\/17\] §2Elphaba: §aHold up. We need to brief (.*). This mission is dangerous. Listen up.
+§7\[17\/17\] §2Aledar: §a(.*) If you are ready, let’s go.
+§7\[1\/1\] §2Aledar: §aStay with me, (.*)! We must stay together, this is a dangerous mission.
+§7\[2\/12\] §2Aledar: §aIt’s a twist of fate that our paths have converged here, (.*). We started our journey together and now..
+§7\[6\/12\] §2Aledar: §aNo more running for us, huh (.*)\? Ah, we’re here.
+§7\[10\/14\] §2Aledar: §a(.*), come with me! Cast a spell to block the cave's entrance so the monster can't leave.
+§7\[7\/7\] §2Elphaba: §a(.*), I've written the house's coordinates on your book. Meet us there.
+§7\[18\/19\] §2Elphaba: §aAlright. Aledar, you get the Darkness item with (.*), and I'll go get the Light item with Lucio.
+§7\[19\/19\] §2Aledar: §aYes ma'am! Let's go (.*)!
+§7\[1\/5\] §2Aledar: §aHere we are, the roots of Corruption. Let’s go, (.*)!
+§7\[5\/5\] §2Aledar: §a...I don’t think we can spell our way across, (.*)! We need something like... Wings!
+§7\[1\/2\] §2Aledar: §aWow, I’m impressed (.*). I honestly thought you would need my help.
+§7\[2\/4\] §2Dren: §aThat should do it. Let’s see if this will work. Come here (.*)!
+§7\[1\/1\] §2Elphaba: §aStay with us (.*), we just got here. We can't just go wandering around.
+§7\[1\/1\] §2Aledar: §aStay with us (.*)! We've just had a loss, you can't go wandering around!
+§7\[1\/7\] §2Aledar: §aNo no no!! This is bad, really bad! We have to go (.*)! Now!
+§7\[1\/5\] §2Aledar: §a(.*)! (.*)!
+§7\[2\/6\] §2Aledar: §aUrrrgh. (.*), this hasn’t gone to plan. According to my map we aren’t even half way.
+§7\[8\/8\] §2Aledar: §aLook out, (.*)!
+§7\[1\/1\] §2Aledar: §aThey're here again, (.*)!
+§7\[1\/1\] §2Aledar: §aOuch! I got hit! Be careful, (.*)!
+§7\[1\/2\] §2Aledar: §a(.*), good news. I'm basically as recovered as I think I'll get.
+§7\[2\/2\] §2Aledar: §aIt's an ambush! Stay sharp, (.*)!
+§7\[2\/5\] §2Aledar: §aWait, (.*), what's going on\? Are you alright\?
+§7\[2\/9\] §2Aledar: §a(.*), §aa-agh...you're§a okay, right\?
+§7\[6\/9\] §2Aledar: §a(.*), you just... you have to realize, I can't have you getting hurt.
+§7\[3\/3\] §2Aledar: §aOh no, I think something is coming... (.*)! Fight it off, I don't think I can defend myself right now!
+§7\[3\/11\] §2Aledar: §a(.*), try throwing a spell at the same time! Let's crack through these things!
+§7\[1\/5\] §2Aledar: §a...wait§a, (.*)\? You got to the other side then...\? Good...
+§7\[8\/20\] §2Aledar: §aI §amean...look§a at the state I'm in, (.*)! I'm on death's door already, and you've proven yourself far stronger than I am even at my best.
+§7\[13\/20\] §2Aledar: §aGrab the blade, (.*).
+§7Hello, ([a-zA-Z0-9_]{1,16}).
+§7\[1\/1\] §2Aledar: §aStay with us (.*), we just got here. We can't ju
+§7\[8\/10\] §2Teacher: §aBut aside from that, onto our practical test. You will all come up to me, starting with (.*), and hone your courage. I will be lobbing fireballs at the wall behind you.
+§7\[9\/10\] §2Teacher: §aYou will need to destroy the fireballs before they hit the wall, by attacking them directly. If you are hit, it counts as a failure! Now. Let's get started, (.*).
+§7\[2\/2\] §2Teacher: §aDismissed, (.*). You may leave. Now, do I have any volunteers for the next round...\?
+§7\[1\/1\] §2Teacher: §aCorrect. (.*), thank you for paying attention. No one ever seems to in this class. You may go.
+§7\[6\/10\] §2Headmaster: §aLet us start with (.*). Please come up to the stage!
+§7\[18\/18\] §2Teacher: §aGAACK! No, (.*), I said RUN! Don't fight that thing, get OUT!
+
+§d     -§7 Lore: §f§oThough its creators have disappeared, this city serves as proof that there was once a civilization in the Silent Expanse.
+§d     -§7 Lore: §f§oThis old cathedral has fallen into disrepair, especially considering the massive spike that's grown inside of it. Legends say that beneath the cathedral lies a powerful rune.
+§d     -§7 Lore: §f§oThe trees of this forest are unlike any seen in the rest of the Wynn Province, and give many travellers the feeling that they're being watched...
+§d     -§7 Lore: §f§oA sight to behold, this eccentric town's glowing obelisk is a beacon of hope in the midst of the Silent Expanse.
+§d     -§7 Lore: §f§oThis ravenous plant is truly one of a kind. Many creatures have lived hundreds of years beyond their natural lifespan due to the influence of darkness.
+§d     -§7 Lore: §f§oIt is impossible to tell the origins of this peculiar structure, but it might be the tallest in the known world. Climbing to the top could provide a great view.
+§d     -§7 Lore: §f§oAn area unlike any other, the green slime seems to move in symphony across the land. The unbearable smell and acidity makes it almost impossible to live in.
+§d     -§7 Lore: §f§oThis valley has been overgrown with gigantic plant life. Rumors suggest that small rifts in the ground allow one to teleport.
+§d     -§7 Lore: §f§oThis black obelisk bears a similar shape to the one found in Lutho, though it's unclear how they're related.
+§d     -§7 About Discovery: §f§oThe large crystal floating above the Tower of Ascension was not of earthly origins. While powerful, the strange magical aura it exudes has caused various strange happenings in the surrounding region.
+§d     -§7 About Discovery: §f§oAtop of the Tower of Ascension stands a being who claims to be Death himself. While such claims are a lie, it can’t be ignored that the imposter has horrendous amounts of power, from an unknown source.
+§d     -§7 About Discovery: §f§oOf the Twains, Theorick had a different idea of how defending the province should look and the rights that gave the defender. Eventually these differences lead to him breaking off from the family to found his own land.
+§d     -§7 About Discovery: §f§oTheorick was the principal defender of the Nesaak region for many years. The inhabitants volunteered contributions to him, sometimes in gratitude, sometimes in fear. He also loved to make pottery.
+§d     -§7 About Discovery: §f§oFamilies like these used to hide underground during raids. In the final raid of Nesaak, Theorick froze the entire place over - freezing them with it.
+§d     -§7 About Discovery: §f§oThis monument was built in memory of Bob, who supposedly fell to wild wolves here. Those who knew him have their doubts, however, and the origins of the mysterious temples and tombs are unknown.
+§d     -§7 About Discovery: §f§oMany years ago, a scholar studied how effective Theorick's ice had been so at fighting corruption. Even through the sheer power of the Twains, however, the ice merely slows corruption.
+§d     -§7 About Discovery: §f§oAn ancient letter addressed to Bob's friend Nilrem regarding a dark power...
+§d     -§7 About Discovery: §f§oWith the death of Marius Twain, the family fell apart, leaving Wynn's protectors alone... or worse.
+§d     -§7 About Discovery: §f§oShortly after the portal broke into this hidden land, a beast from an unknown realm laid siege to the city forcing the Olm to his domain.
+§d     -§7 About Discovery: §f§oFor every miner in Lutho that lost contact with their inner self, two eyes grow from the trees.
+§d     -§7 About Discovery: §f§oThe land influenced by Dern can manifest in many ways, here a monster and landscape merged to become one sentient creature.
+§d     -§7 About Discovery: §f§oThe miners soon discovered there were more than emeralds in the walls of this mountain range - Something from out of this world.
+§d     -§7 About Discovery: §f§oSimple emerald mining turned to disaster as they broke through into the Silent Expanse. In a final act to protect the province, they barricaded themselves in, and sealed their fate.
+§d     -§7 About Discovery: §f§oJust as the darkness infiltrated Gavel, the Light was able to protect the physical bodies of the miners in Lutho by erecting this Monolith.
+§d     -§7 About Discovery: §f§oBetween Realms of physicality and influence lies the vast nothingness of the void. Some islands have broken from the lands and drift in this space, seeking purpose.
+§d     -§7 About Discovery: §f§oThe connection between our world and the other realms has been shattered and warped as the war of corruption evolved.
+§d     -§7 About Discovery: §f§oMany years ago an Olmic oracle foresaw the demise of her land. To prepare for it, she created a weapon of pure light that will halt the darkness, but when the time came to use it, her descendants were unable to retrieve the bracelet.
+
+§7[1/8] §2Dr. Picard: §aSUCCESS! I can see clearly now.. My memories from years ago!
+§7[2/8] §2Dr. Picard: §aOh, a soldier! Are you by any chance from Fruma?
+§7[3/8] §2Dr. Picard: §aTell me, do you remember anything about where you came from?
+§7[4/8] §2Dr. Picard: §aI thought so. Everyone's story starts the same - In a wagon entering the Wynn province.
+§7[5/8] §2Dr. Picard: §aI want to find out more. I've just created this orb which allows me to see people's past.
+§7[6/8] §2Dr. Picard: §aSay, would you help me? I need some people originally from Fruma. Can you bring them here?
+§7[7/8] §2Dr. Picard: §aThere is another guard just across the bridge.
+§7[8/8] §2Dr. Picard: §aSee if he would oblige this experiment. I'm sure they want to find out more.
+§7[1/3] §2Scout Reynauld: §aOh, good! Reinforcements! I've been left here alone to defend Elkurn.
+§7[2/3] §2Scout Reynauld: §aSeriously? You want me to abandon my post? I'm expecting a huge attack from the Roots.
+§7[3/3] §2Scout Reynauld: §aFine, listen. If you help me defend the town, I'll go with you!
+§7[1/1] §2Scout Reynauld: §aAlright, here we are. Let me know when you're ready.
+§7[1/1] §2Dr. Picard: §aAre you getting my test subjects for me?
+§7[1/4] §2Scout Reynauld: §aOh boy, here they come!
+§7[2/4] §2Scout Reynauld: §aWow! Erected spikes, too?!
+§7[3/4] §2Scout Reynauld: §aThere's a Corrupted summoner on the other side of this bridge! We gotta destroy it!
+§7[4/4] §2Scout Reynauld: §aDefend me while I prepare my explosive arrows to bring down those towers blocking your path to it!
+§7[1/1] §2Scout Reynauld: §aMy arrow's almost ready...
+§7[1/1] §2Scout Reynauld: §aYes! One down, one to go! You're doing great!
+§7[1/1] §2Scout Reynauld: §aAH! I'm hurt! Come here and help!
+§7[1/3] §2Scout Reynauld: §aAgh... Thanks for the rescue...
+§7[2/3] §2Scout Reynauld: §aTry not to let me get overwhelmed. Now, let's try this again.
+§7[3/3] §2Scout Reynauld: §aGet ready!
+§7[1/1] §2Scout Reynauld: §aAlmost got this arrow nocked...
+§7[1/1] §2Scout Reynauld: §aBullseye! Now's your chance, go take out that summoner!
+§7[1/1] §2Scout Reynauld: §aGreat job, you did it! Now, come back and get these monsters off me!
+§7[1/4] §2Scout Reynauld: §aPhew. Thanks for the help, not sure I could have done that alone.
+§7[2/4] §2Scout Reynauld: §aSo, you want to find out about our past?
+§7[3/4] §2Scout Reynauld: §aWell, I must admit I never really thought about it. I guess I could go with you.
+§7[4/4] §2Scout Reynauld: §aLead the way, but quick. We can't leave Elkurn unguarded for too long.
+§7[1/7] §2Dr. Picard: §aAh, I see you have the soldier.
+§7[2/7] §2Scout Reynauld: §aSo how exactly were you planning on extracting my memory?
+§7[3/7] §2Dr. Picard: §aIn a non painful way, I promise you. Now, if you'll stand over here, please.
+§7[4/7] §2Scout Reynauld: §aYou mean in front of that crystal thing? Alright...
+§7[5/7] §2Scout Reynauld: §aDo I just look into it?
+§7[6/7] §2Dr. Picard: §aJust stare into its depths and let that depth reflect into your mind...
+§7[7/7] §2Scout Reynauld: §aI don’t feel any- WOAH
+§7[1/12] §2Reynauld: §a*Sigh*, what a day.
+§7[2/12] §2Reynauld: §aIs the water any better?
+§7[3/12] §2Heine: §a*Sigh*, there's barely enough for us and the horses.
+§7[4/12] §2Heine: §aI don't see why the Royalty has to irrigate from our rivers.
+§7[5/12] §2Imperial Guard: §aThe Palace has ordered an inquest into the productivity of this village. You are behind on your crop deliveries.
+§7[6/12] §2Reynauld: §aSir, we tried but the farms don't have enough clean water since the Palace dammed up the river!
+§7[1/5] §2Dr. Picard: §aWell, that was unexpected. I didn't anticipate subjects would relive them that vividly.
+§7[2/5] §2Dr. Picard: §aTo think Reynauld had a whole family and life before he came here.
+§7[3/5] §2Dr. Picard: §aDo you think you could get me one more subject? We need to find out more.
+§7[4/5] §2Dr. Picard: §aThere's a sailor close to Elkurn from Fruma. Maybe you could go ask him?
+§7[5/5] §2Dr. Picard: §aCross the bridge you took earlier and continue past Elkurn. He should be by the river.
+§7[1/5] §2Caid: §aYep, I'm the sailor. Pretty sure I'm from Fruma, came here on the same cart as you.
+§7[2/5] §2Caid: §aI'm not sure I want to know about it... I must have left for a reason, right?
+§7[3/5] §2Caid: §aWait, Reynauld had his done? Hmm, I guess it couldn't hurt.
+§7[4/5] §2Caid: §aHowever, I have an issue. I've navigated my boat into a creek instead of the river..
+§7[5/5] §2Caid: §aMaybe we can use some magic to shrink the boat? Maybe someone in Elkurn knows? An alchemist maybe?
+§7[7/12] §2Imperial Soldier: §aAre you insulting the work of our royal engineers?
+§7[8/12] §2Reynauld: §aWhat? No! I'm just explaining- Please! I have a family I didn't speak out of turn.
+§7[9/12] §2Reynauld: §aHeine? Look after the kids. I'll be back soon!
+§7[10/12] §2Imperial Guard: §aThe Palace does not tolerate insubordination. Reynauld you are to be tried for Lèse-majesté.
+§7[11/12] §2Imperial Guard: §aThis village would do well to remember who protects them from external forces.
+§7[12/12] §2Dr. Picard: §aHey. HEY! It's not real. Just a memory! Talk to me!
+§7[1/6] §2Alchemist: §aLooking for potions?
+§7[2/6] §2Alchemist: §aThis is the best potion shop in Elkurn! A what? Excuse me?
+§7[3/6] §2Alchemist: §aA shrinking potion? No, we do not sell those here...
+§7[4/6] §2Alchemist: §aOr... hold up. I think I know how to make one, I've never done it before though.
+§7[5/6] §2Alchemist: §aIf I remember correctly... I need §3[1 Golden Apple]§a, §3[1 Bottle of Water] §aand lastly, §3[1 Bloom of Doom].
+§7[6/6] §2Alchemist: §aGolden apples grow in certain big apple trees. Bottles of water should be available here in town. Blooms of Doom grow near death, try looking near the Elkurn church. Watch out, they aren't the friendliest.
+§7[1/1] §2Alchemist: §aIf you have the items, mix them together in the brewing stand next to me.
+§7[1/1] §2Alchemist: §aArgh... Not like that... Oh, hello there! If you are looking for a potion I'm unfortunately a bit busy... Try coming back later.
+§7[1/5] §2Caid: §aYou know, the more I look at this, the more I wonder how I did this.
+§7[2/5] §2Caid: §aThanks for getting the potion. Let's see if it works. If it does I'll follow you to the tower.
+§7[3/5] §2Caid: §a...
+§7[4/5] §2Caid: §aI mean... It certainly shrunk. Do I even fit now?
+§7[5/5] §2Caid: §aI guess you held up your side of the deal. I'll follow you.
+§7[1/5] §2Dr. Picard: §aAhhh, another Fruman. Let's see if his story is the same as Reynauld's.
+§7[2/5] §2Sailor Caid: §aI am still not sure about this, I'm kind of happy here.
+§7[3/5] §2Dr. Picard: §aNothing to worry about, it won't change who you are now.
+§7[4/5] §2Dr. Picard: §aWait for it...
+§7[5/5] §2Sailor Caid: §aHold up. What is going on?
+§7[1/7] §2???: §aAHHH!!!!!
+§7[2/7] §2Imperial Guard §aMove.
+§7[3/7] §2Caid §aCARA! 
+§7[4/7] §2Imperial Guard: §aCara is under arrest. She is coming with me.
+§7[5/7] §2Caid: §aGET YOUR HANDS OFF OF HER!
+§7[6/7] §2Imperial Guard §aPerhaps you would like to go in her place? 
+§7[7/7] §2Dr. Picard: §aHey. Earth to human.
+§7[1/4] §2Dr. Picard: §aHmmm... This doesn't look too good.
+§7[2/4] §2Dr. Picard: §aJust what is happening in Fruma? They've locked that province away for hundreds and hundreds of years and now this?
+§7[3/4] §2Dr. Picard: §aWe should see if we can uncover more about Fruma.
+§7[4/4] §2Dr. Picard: §aEdwin could be our next subject, he lives near the Nesaak border, just take the road south of here and you'll see his farmhouse.
+§7[1/5] §2Edwin: §aFruma? Don't remember nothing. Don't want to neither.
+§7[2/5] §2Edwin: §aNo, I don't. I have more important things to think about than some mystery province.
+§7[3/5] §2Edwin: §aWell, my water source has frozen over and my crops are struggling.
+§7[4/5] §2Edwin: §aIt's like the snow has slowly been encroaching on my farm.
+§7[5/5] §2Edwin: §aCan you climb up the mountain and break through it? If you can water my plants I will go with you. There's a cave next to my farm that leads to the top.
+§7[1/3] §2Edwin: §aYou army folk sure keep your promises.
+§7[2/3] §2Edwin: §aI guess I have to hold up my end.
+§7[3/3] §2Edwin: §aLead the way.
+§7[1/5] §2Dr. Picard: §aAh, I see you have the third subject.
+§7[2/5] §2Edwin: §aPfft! I'm not some subject!
+§7[3/5] §2Dr. Picard: §aMy apologies. Please, stand in front of the orb.
+§7[5/5] §2Edwin: §aWAAAAO!!!!!!!
+§7[1/23] §2Edwin: §aWhy are you doing this!?
+§7[2/23] §2Imperial Guard: §aOrder of her majesty.
+§7[3/23] §2Edwin: §aLET ME OUT! WHAT IS THIS!
+§7[4/23] §2Caid: §aHey you. Calm down. There's no point in yelling...
+§7[5/23] §2Edwin: §aWhat... what do you mean?
+§7[6/23] §2Caid: §aThere is no escape here. The guards come in once in a while and take people... people who are never seen again...
+§7[7/23] §2Edwin: §aWhere are they being taken?
+§7[8/23] §2Caid: §aNo one knows... The last person they took was... Alen? Alida? Alegar?
+§7[9/23] §2Imperial Guard: §aCaid! You are being transfered.
+§7[10/23] §2Caid: §aWh-what. I... don't want to go!
+§7[11/23] §2Imperial Guard: §aWalk. Or you will be executed on the spot.
+§7[12/23] §2Caid: §aWhat are you doing!?
+§7[13/23] §2Imperial Guard: §aShut it.
+§7[14/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.
+§7[15/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.
+§7[16/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.
+§7[17/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.
+§7[18/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.
+§7[19/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.
+§7[20/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.
+§7[21/23] §2Imperial Guard: §aThere is no war inside the Fruman walls.
+§7[23/23] §2Dr. Picard: §aYou need to find an exit or you will be sucked into the memory without chance of returning. HURRY!
+§7[1/5] §2Dr. Picard: §aOkay, three Frumans have seen the same thing. Why are they sending their people here?
+§7[2/5] §2Dr. Picard: §aThis asks more questions than it answers. Those people didn't do anything wrong.
+§7[3/5] §2Dr. Picard: §aThe only thing left is to check your own memory. To see if you also experienced the same thing.
+§7[4/5] §2Dr. Picard: §aStand on this red carpet here and we'll get started.
+§7[5/5] §2Dr. Picard: §aWait for it...
+§7[1/4] §2Dr. Picard: §aAre you okay?
+§7[2/4] §2Dr. Picard: §aThe other subjects never experienced that powerful of a reaction, it's almost like we were accessing memories that never existed.
+§7[3/4] §2Dr. Picard: §aIt's almost as if you didn't have a life before you came to Wynn.
+§7[4/4] §2Dr. Picard: §aI need to do more research on this, thank you for helping me. Here's a small reward, hope we can discover what really goes on behind the walls of Fruma.
+§7[1/1] §2Dr. Picard: §aHello, again! If you want to reset your skill points, use my assistant to my right!
+§7[1/2] §2Dr. Picard: §aGah, I could really use a Fruman brain right now... Oh, hey! You're Fruman, right?
+§7[2/2] §2Dr. Picard: §aWell, you're still not quite experienced enough to aid me... Come back when you're level 25, then we can talk.
+§7[1/1] §2Alchemist: §aNice to meet you again. I heard the shrinking potion actually worked, which is quite interesting.
+
+§7[1/17] §2Elphaba: §aHmm, you might just be exactly what we’re looking for. If you want to join a top secret mission, follow me.
+§7[3/17] §2Aledar: §aI... Am surprised to see you here. Looks like we’ve both come a long way.
+§7[4/17] §2Lucio: §aCan you get a move on, please? We got our spare, let’s go!
+§7[6/17] §2Elphaba: §aHundreds of years ago, people mined the surrounding areas around Detlas.
+§7[7/17] §2Elphaba: §aThey eventually broke through to an entirely undiscovered area of the Wynn province.
+§7[8/17] §2Elphaba: §aWhat they found.. Was not good. It was cursed. Not corrupted... This was something else.
+§7[9/17] §2Elphaba: §aNo one really knows what’s beyond the mine because it was sealed to prevent the spread of a new threat.
+§7[10/17] §2Elphaba: §aWe don’t have much intel, but it’s been named by some as the §aSilent Expanse§a.
+§7[11/17] §2Elphaba: §aLately, creatures of darkness have been seeping through, and we think they are from the expanse.
+§7[12/17] §2Elphaba: §aThe existence of this place has been kept on a strict need-to-know basis.
+§7[13/17] §2Elphaba: §aOur mission is to make our way through the mine, observe and report the threat level.
+§7[14/17] §2Lucio: §aCome on, we need to get going! Enough with the meetings!
+§7[15/17] §2Aledar: §aHow many times do we have to tell you to stop doing that? Fix it, Lucio.
+§7[16/17] §2Lucio: §aFine...
+§7[1/12] §2Aledar: §aEveryone ready? I’ll lead.
+§7[3/12] §2Elphaba: §aAledar...
+§7[4/12] §2Aledar: §aI hear them too.
+§7[5/12] §2Aledar: §aAh, no problem. I’ll take care of these.
+§7[7/12] §2Elphaba: §aThis is actually our second attempt. The first time, it didn’t go too well.
+§7[8/12] §2Elphaba: §aWe have more numbers now, Lucio and yourself should help us overpower it.
+§7[9/12] §2Lucio: §aCan’t be that strong, bet I can take it myself.
+§7[10/12] §2Elphaba: §aWe managed to seal it in but with the 4 of us I’m sure we ca-
+§7[11/12] §2Lucio: §aLet’s just do it!
+§7[12/12] §2Aledar: §aWait... No!
+§7[1/4] §2Aledar: §aLucio! You FOOL!
+§7[2/4] §2Lucio: §aWhat’s the big deal? You said yourself we can take it!
+§7[3/4] §2Lucio: §aOuch...
+§7[4/4] §2Aledar: §aWe need a PLAN.
+§7[1/14] §2Lucio: §aThe plan is attack!
+§7[2/14] §2Lucio: §aArgh!
+§7[3/14] §2Aledar: §aLucio!
+§7[4/14] §2Aledar: §aAhh!
+§7[5/14] §2Elphaba: §aNo! Stop hurting them!
+§7[6/14] §2Elphaba: §aOuch! This isn't working...
+§7[7/14] §2Lucio: §aIs it just me or are our attacks doing NOTHING?
+§7[8/14] §2Elphaba: §aLucio's right! Change of plan. Lucio, help me hold it in place.
+§7[9/14] §2Elphaba: §aAledar, you know what to do.
+§7[11/14] §2Aledar: §aI'll block it from attacking, you block it up with a spell.
+§7[12/14] §2Aledar: §aThey won’t be able to hold it for long.
+§7[13/14] §2Aledar: §aReady?! Cast any spell!
+§7[14/14] §2Aledar: §aLucio, Elphaba! Run!
+§7[1/7] §2Elphaba: §aWe all here? Where’s Lucio?
+§7[2/7] §2Lucio: §aGuys… Any help? I'm stuck!
+§7[3/7] §2Elphaba: §aPhew, here. Let me get you out.
+§7[4/7] §2Lucio: §aI’m sorry, team. I’ve never seen a monster like that before.
+§7[5/7] §2Aledar: §aIt looks like our problem isn’t firepower. It’s something else. It’s like our weapons just didn’t affect it at all.
+§7[6/7] §2Aledar: §aI know someone who might be able to help us. A blacksmith on Black Road.
+§7[1/1] §2Elphaba: §aJust in time. We’re all here.
+§7[1/19] §2Elphaba: §aIt looks like the Blacksmith knows what’s wrong..
+§7[2/19] §2Elphaba: §aSo, Dren. Do you know why we can't damage the beast?
+§7[3/19] §2Dren: §aCertainly! Your issue is elemental. As you know, there are 5 elements...
+§7[4/19] §2Dren: §aEarth...
+§7[5/19] §2Dren: §aFire...
+§7[6/19] §2Dren: §aAir...
+§7[7/19] §2Dren: §aWater...
+§7[8/19] §2Dren: §aAnd Thunder...
+§7[9/19] §2Dren: §aBut.. There is a hidden element, §8❂ Darkness §a.
+§7[10/19] §2Dren: §aIn order to damage a creature of Darkness, you must remove that influence from your soul.
+§7[11/19] §2Dren: §aSome Dark creatures use a sort of synchronous barrier that prevents them being harmed by other creatures influenced with Darkness.
+§7[12/19] §2Dren: §aIn order to purify you, I will need 2 powerful items.
+§7[13/19] §2Dren: §aFirstly, a shard from a Dernic Beast. There is one living in the depths of the Roots of Corruption.
+§7[14/19] §2Dren: §aI will use this to reveal the darkness element in you all.
+§7[15/19] §2Dren: §aAnd then, of course, a Light item, to purify all of you...
+§7[16/19] §2Lucio: §aWait... what do you mean a Light item?
+§7[17/19] §2Dren: §aSomething from any Light creature would work, you could get some dust from Gavel fairies if you wanted.
+§7[2/5] §2Aledar: §aWe found that the caves around the roots are far more complex than we thought...
+§7[3/5] §2Aledar: §aThere’s one with far more powerful creatures... Somewhere... Here!
+§7[4/5] §2Aledar: §aWhat are you waiting for? Let's go!
+§7[1/1] §2Aledar: §aWhat do you think you're doing? You can't just jump in the lava like that.
+§7[1/4] §2Aledar: §aI’ve never used wings like this before...
+§7[2/4] §2Aledar: §aI think if we just hold them and walk normally, it should help us glide across.
+§7[3/4] §2Aledar: §aDon’t drop them and don't get hit by the lava geysers, obviously.
+§7[4/4] §2Aledar: §aDon’t forget why we are here, we’re looking for a creature of darkness. Shout for me if you find one.
+§7[1/2] §2Aledar: §aThat's our target! Go after it!
+§7[2/2] §2Aledar: §aWait, why isn’t it fighting us here? Careful! It might be trapped!
+§7[2/2] §2Aledar: §aWell, we got what we came for. Let’s head back to Dren.
+§7[1/4] §2Dren: §aLooks like we lucked out on this one. Did you get an item of darkness?
+§7[1/1] §2Dren: §aStay there, don't try leaving until we're done with the purification.
+§7[3/4] §2Dren: §aIt's done! You ought to be free of the dark influence. You ought to be able to break through that barrier that was giving you trouble.
+§7[4/4] §2Elphaba: §aAre you sure? I don’t feel that different. Well.. I guess there’s only one way to find out.
+§7[1/7] §2Lucio: §aEveryone here? Great! Time to finish what I started!
+§7[2/7] §2Elphaba: §aLucio! No! When will you learn?
+§7[3/7] §2Lucio: §aRight, yes. Sorry, what’s the plan?
+§7[4/7] §2Elphaba: §aWe don’t want that thing to escape, it could cause widespread panic.
+§7[5/7] §2Elphaba: §aWe’ll open up a small entrance to get in, and fight it once inside.
+§7[6/7] §2Lucio: §aFine...
+§7[7/7] §2Lucio: §aLet's go!
+§7[1/6] §2Elphaba: §aWe... We actually did it!
+§7[2/6] §2Aledar: §aThank grook for that. I was wondering if we’d ever be rid of this nightmare.
+§7[3/6] §2Elphaba: §aWe have an extremely old map of the mines to help us, but we have no idea what’s waiting for us.
+§7[4/6] §2Aledar: §aI want to warn you, this may well be a one way ticket for all of us.
+§7[5/6] §2Lucio: §aYeah right! Check this out! 
+§7[6/6] §2Elphaba: §aRocks are one thing, Lucio. The creatures we’re about to face require more than brute strength. You need force of mind.
+§7[1/2] §2Lucio: §aOh my. Maybe this isn’t the best idea.
+§7[2/2] §2Elphaba: §aIt’s too late now. We’ve got to finish this mission.
+§7[1/16] §2Aledar: §aRemember the goal Elphie, we must reach the end of the expanse.
+§7[2/16] §2Elphaba: §aIt’s still empty here. But it looks like they were here only yesterday.
+§7[3/16] §2Lucio: §aI thought you said the miners were here hundreds of years ago?
+§7[4/16] §2Aledar: §aThey were. I don’t know why it would be so well preserved. It’s as if nothing has touched it.
+§7[5/16] §2Aledar: §aAccording to the documents, we need to make our way to the end of the road.
+§7[6/16] §2Elphaba: §aArgh! Bugs! Get off!
+§7[7/16] §2Elphaba: §aSo much for nothing being here.
+§7[8/16] §2Elphaba: §aWhy are they only going for me?
+§7[9/16] §2Elphaba: §aAledar, how far is it to the end?
+§7[10/16] §2Aledar: §aI read the same map as you. It didn’t even have scale. There should be a bridge ahead, though.
+§7[11/16] §2Lucio: §aUhh... A destroyed one. And it wasn't cause I blew it up this time!
+§7[12/16] §2Aledar: §aHmm, well we will have to go around.
+§7[13/16] §2Aledar: §aThis doesn’t really look like corruption, does it?
+§7[14/16] §2Elphaba: §aUhhh... I'm not feeling really wel-... Aahhh!
+§7[15/16] §2Elphaba: §aAaahhh! My liver! It took my liver!
+§7[16/16] §2Aledar: §aElphaba! No! It's an illusion!
+§7[1/45] §2Aledar: §aWhere has she gone?! ELPHABA?
+§7[2/45] §2Lucio: §aAledar, maybe we should just double back now?
+§7[3/45] §2Aledar: §aElphaba is an extremely able warrior. We will fight on and find her.
+§7[4/45] §2Lucio: §aDo you really think it was just an illusion?
+§7[5/45] §2Aledar: §aI’m not sure. I hope so.
+§7[6/45] §2Lucio: §aWhat if we're infected too? Shouldn't we just go back?
+§7[7/45] §2Aledar: §aWe can't, Lucio! We have a mission as you very well know. We continue.
+§7[8/45] §2Aledar: §aBesides, we might be carrying some of those things too. We can’t risk them infesting Wynn.
+§7[9/45] §2Lucio: §aLooks like we need to go around to the right, here?
+§7[10/45] §2Aledar: §aIt feels like something is watching us...
+§7[11/20] §2Lucio: §aAledar, what is this place? You didn’t tell me there was a city here.
+§7[12/45] §2Aledar: §aThere is. A big one, too; there’s more ahead. But it doesn’t look like anyone’s home. The map doesn’t have a name for it either.
+§7[13/45] §2Lucio: §aWait a sec, is that one of the miners? Is she hurt? HEEEEY! YOU OVER THERE!
+§7[14/45] §2Aledar: §aLucio, no! It's a trap!
+§7[15/45] §2Aledar: §aLUCIO! Don't get closer!
+§7[16/45] §2Lucio: §aWait, what's going on? Why can't I move?!
+§7[17/45] §2Obsessor: §4§lPlease, you have to understand!
+§7[18/45] §2Obsessor: §4§lIt's so dangerous here!
+§7[19/45] §2Obsessor: §4§lWe can't live alone like this!
+§7[20/45] §2Obsessor: §4§lIt's too painful!
+§7[21/45] §2Obsessor: §4§lListen to me!
+§7[22/45] §2Obsessor: §4§lYou need to come with us!
+§7[23/45] §2Obsessor: §4§lIt's the only way to keep you safe!
+§7[24/45] §2Obsessor: §4§lIt's the only way to make you happy here!
+§7[25/45] §2Obsessor: §4§lIt's the only way to make us feel whole!
+§7[26/45] §2Obsessor: §4§lIT'S THE ONLY WAY, DO YOU UNDERSTAND?!
+§7[27/45] §2Lucio: §aAAAH! S-Stop screaming at me! I can't understand!!
+§7[28/45] §2Obsessor: §4§lWHY CAN'T YOU UNDERSTAND?
+§7[29/45] §2Obsessor: §4§lAM I NOT SPEAKING CLEARLY?
+§7[30/45] §2Obsessor: §4§lCAN'T YOU HEAR WHAT I'M SAYING?
+§7[31/45] §2Obsessor: §4§lYOU STAY OUT OF THIS!!
+§7[32/45] §2Aledar: §aNo! How did she disable my spell?!
+§7[33/45] §2Obsessor: §4§lPLEASE, WE NEED THIS!
+§7[34/45] §2Obsessor: §4§lYOU'LL BE SO MUCH HAPPIER IF YOU COME ALONG!
+§7[35/45] §2Obsessor: §4§lYOU'LL NEVER HAVE TO WORRY AGAIN!
+§7[36/45] §2Obsessor: §4§lWE'LL KEEP YOU SAFE!
+§7[37/45] §2Lucio: §a...aaaah..§a. Stop talking... H-help...
+§7[38/45] §2Obsessor: §4§lJust please, stand still a little longer!
+§7[39/45] §2Obsessor: §4§lWe'll bring you someplace warm!
+§7[40/45] §2Obsessor: §4§lYou won't be hunted! We promise! No one hunts us!
+§7[41/45] §2Obsessor: §4§lYou agree? YOU AGREE!
+§7[42/45] §2Obsessor: §4§lTHANK YOU! WE WILL GO TOGETHER!
+§7[43/45] §2Obsessor: §4§lYOU'LL BE SAFE WITH US!
+§7[44/45] §2Obsessor: §4§lNO MORE FEAR! NO MORE CONCERN!
+§7[45/45] §2Obsessor: §a§lForeeeever...
+§7[2/7] §2Aledar: §aWe can’t stay here.
+§7[3/7] §2Aledar: §aWho's that?! Elphaba?! Lucio?!
+§7[4/7] §2Aledar: §aWait, you're just one of the miners. This doesn't feel like an illusion...
+§7[5/7] §2Aledar: §aLook, you need to get out of here. It's not safe- Wait, what's that noise...?
+§7[6/7] §2???: §4OURGURGH!
+§7[7/7] §2Aledar: §a§lAAHHHHHHH!
+§7[2/5] §2Aledar: §aI think my leg is broken. I have a potion to fix it, but I dropped it back up there.
+§7[3/5] §2Aledar: §aI feel a bit better.. But something is still wrong.
+§7[4/5] §2Aledar: §aLet’s just get out of here, soldier on. There's only one way out.
+§7[5/5] §2Aledar: §aJump with me, come on!
+§7[1/6] §2Aledar: §aAaaaaaaaaaahhhhhhh!!!
+§7[3/6] §2Aledar: §aI can’t walk. But equally we can’t stay here.
+§7[4/6] §2Aledar: §aThe mission must be carried out. The plan has changed but it’s imperative we get to the end of this expanse, together.
+§7[5/6] §2Aledar: §aThere has to be a way.. Even if you have to push me in this thing!
+§7[6/6] §2Aledar: §aNo, I’m not joking. You guard the cart, I’ll lead the way.
+§7[1/8] §2Aledar: §aAccording to the map, the miners started a town a little ahead.
+§7[2/8] §2Aledar: §aWho knows what's left, but it’s got to be safer than here.
+§7[3/8] §2Aledar: §aI think the §a§lSmall Monsters §awill try to §a§lKill me§a.
+§7[4/8] §2Aledar: §aWhile the §a§lBig Monsters §awill try to §a§lKill you§a.
+§7[5/8] §2Aledar: §aIt’s going to be on you to make sure we both get through this.
+§7[6/8] §2Aledar: §aThe fate of the mission relies on the two of us working together.
+§7[7/8] §2Aledar: §aAre those… Eyes on the trees?
+§7[1/1] §2Aledar: §aWatch out, the small monsters are coming for me! I can’t fight in this thing!
+§7[1/1] §2Aledar: §aAnother one's coming! Pay attention!
+§7[1/1] §2Aledar: §aGreat job! It looks like they've stopped coming. Let's keep going.
+§7[1/1] §2Aledar: §aLet's keep going! Before they come back.
+§7[1/1] §2Aledar: §aA lot of those small ones are coming for me!
+§7[1/1] §2Aledar: §aThis one was close! We're getting close to the town.
+§7[1/1] §2Aledar: §aWe'll have to stop again! We can't go past so many monsters.
+§7[1/1] §2Aledar: §aWe're almost there! I can see the town from here!
+§7[1/1] §2Aledar: §aOh no!
+§7[1/7] §2Aledar: §aFinally, we've arrived... It’s not exactly the town on the map.
+§7[2/7] §2Aledar: §aThe lost miners are here… How? they must be hundreds of years old!
+§7[3/7] §2Aledar: §aWhat is this obelisk? It’s.. oddly comforting. I recognise this feeling from my time in Gavel.
+§7[4/7] §2Aledar: §aMaybe.. It’s been touched by the light? If so.. It could heal me.
+§7[5/7] §2Aledar: §aLet’s see if it does anything to me...
+§7[6/7] §2Aledar: §aIt worked... Kind of. I feel at least 70%. We still have a ways to go.
+§7[7/7] §2Aledar: §aLet’s take some time to gather ourselves before we press on. I’ll meet you on the other side of town.
+§7[1/1] §2Aledar: §aStay with me!
+§7[1/1] §2Elphaba: §aWhere do you think you're going... you can't enter! Do you want me to use a spell on you to take you out of here?!
+§7[1/2] §2Elphaba: §aWhere do you think you're going?! This is the most dangerous mission in the history of this province that only the strongest and bravest can face!
+§7[2/2] §2Elphaba: §aCome back when you are level 100 and then I might allow you to take part in this mission!
+
+§7[1/5] §2Lutho Citizen: §aWait… It can’t be. Look me in the eyes. You are human, like me.
+§7[2/5] §2Lutho Citizen: §aWell, maybe not anymore. Look around you. These people are barely alive.
+§7[3/5] §2Lutho Citizen: §aI have kept my eyes because I chose to keep them.
+§7[4/5] §2Lutho Citizen: §aNow you are here you will have to make that same decision. Just remember this:
+§7[5/5] §2Lutho Citizen: §aNo Matter what, you §a§lMUST KEEP GOING§a.
+§7[1/5] §2Lutho Citizen: §aAhh.. A newcomer! Welcome, welcome!
+§7[2/5] §2Lutho Citizen: §aDon't worry, you are safe here. The Obelisk protects.
+§7[3/5] §2Lutho Citizen: §aIt arrived here.. Uhm. Hm. You know, I can't remember when.
+§7[4/5] §2Lutho Citizen: §aIt's been here a while.
+§7[5/5] §2Lutho Citizen: §aAnyway, feel free to look around.
+§7[1/1] §2Lutho Guard: §aI don’t think you want to leave here.
+§7[1/4] §2Lutho Citizen: §aI can't see why anyone would choose to stay there.
+§7[2/4] §2Lutho Citizen: §aI don't blame you for being here.
+§7[3/4] §2Lutho Citizen: §aWe all chose this, in the end. There wasn't much of an alternative.
+§7[4/4] §2Lutho Citizen: §aThank Grook that the obelisk is here to help us.
+§7[1/4] §2Lutho Citizen: §aIt's been quite some time since a new face has shown up here.
+§7[2/4] §2Lutho Citizen: §aDon't be fooled, everything you see is very real.
+§7[3/4] §2Lutho Citizen: §aAt least, in a sense that matters. The Obelisk protects us.
+§7[4/4] §2Lutho Citizen: §aYou should go and take a closer look at it.
+§7[1/1] §2Lutho Guard: §aIf you really want to leave, no one is stopping you. Except maybe yourself.
+§7[1/5] §2Lutho Citizen: §aYou- you chose to come back. I saw your eyes disappear, briefly.
+§7[2/5] §2Lutho Citizen: §aAs you can see... Everyone in this town chose to stay there.
+§7[3/5] §2Lutho Citizen: §aIt started as just one or two.. But over the years more and more people chose to stay.
+§7[4/5] §2Lutho Citizen: §aNow the shells are kept functioning by some blessing or curse of the obelisk.
+§7[5/5] §2Lutho Citizen: §aI’m the last one to choose reality.. Although I wonder if it might just be easier to...
+
+§7[2/2] §2Aledar: §aTalk to me when you are ready to go. But remember, we're on a mission. We won't be returning until it's finished.
+§7[1/1] §4§l???: §d⒝⒠⒤⒟⒣§5 ⒨⒠ ⒜⒢§d ⒮⒰⒤⒧§5 ⒧⒠⒜⒯.
+§7[1/1] §2Aledar: §aWait, It's too dangerous to go alone!
+§7[1/2] §2Aledar: §aAlright, let's go. I'll tell you more about our journey on the way.
+§7[2/2] §2Aledar: §aWe should try to follow the path as closely as we can. You lead, I'll follow.
+§7[1/2] §2Aledar: §aStop! Did you hear that?
+§7[1/1] §2Aledar: §aHey! where are you going?
+§7[1/5] §2Aledar: §aGood work. Seems that killing the king made the other creatures run off. We're lucky about that-
+§7[3/5] §2Aledar: §aOh, no no no! I have a potion for this, where is it, where is it, aha! Here, drink!
+§7[4/5] §2Aledar: §aOne of those things must have infected your wounds... Everything in this area looks completely hazardous and sickening.
+§7[5/5] §2Aledar: §aI expected the worst, so I tried to bring anything and everything that might help. Let's keep moving.
+§7[1/9] §2Aledar: §aLOOK OUT!
+§7[3/9] §2Aledar: §aI'm... I'm going to lead us for now. At least for a §alittle...while..§a. I can't have you g-getting-
+§7[4/9] §2Aledar: §aGAH!! AAAGH!
+§7[5/9] §2Aledar: §a...urgh..§a. §aI...sorry§a. I just... I need a moment.
+§7[7/9] §2Aledar: §aI want to stress this... We NEED to get to the end of this path, together.
+§7[8/9] §2Aledar: §aHrk... Ugh, dizzy...
+§7[9/9] §2Aledar: §aOkay. I'm as good as I can get right now. Let's move.
+§7[1/3] §2Aledar: §aAh? What... What just... Why do I...
+§7[2/3] §2Aledar: §aI'll be fine, I §ajust...why§a did I feel so empty all of the sudden...?
+§7[1/12] §2Aledar: §aHuff... Not feeling totally better, but... At least I can still defend myself.
+§7[2/12] §2Aledar: §aMy stomach is empty, I can't even vomit... Why do I still feel so dizzy? Maybe a potion will help...
+§7[3/12] §2Aledar: §aHm. No, not that one...
+§7[4/12] §2Aledar: §aUrgh, pfft! My vomit tasted better than that coming up...
+§7[5/12] §2Aledar: §aHah...that's§a the ticket. Which potion was this anyways... §a...hair§a loss treatment? Why did THAT work?
+§7[6/12] §2Aledar: §aThough, you saw what happened to that beast I attacked? Follow me.
+§7[7/12] §2Aledar: §aThis, from what I recall of the mission statements, is referred to as a “Void Hole.” It's a sort of portal.
+§7[1/1] §2Aledar: §aHold on! That might separate us, don't go in.
+§7[8/12] §2Aledar: §aThey connect to each other in odd ways, but we saw the beast come out of that one when I knocked it in, so...
+§7[9/12] §2Aledar: §aWatch. I'll come out the other side.
+§7[10/12] §2Aledar: §aAlright, good! It does connect up consistently, at least. You try now.
+§7[11/12] §2Aledar: §aI bring this up because if we're seeing one, we'll be seeing more soon. You'll need to adjust yourself to the sight of them.
+§7[12/12] §2Aledar: §aYou lead again, please.
+§7[1/3] §2Aledar: §aWe grossly underestimated the difficulties we would have here. And, by that, I mean myself, Elphie, and Lucio did...
+§7[2/3] §2Aledar: §aWe were each unprepared and cocky. If it weren't for you, I'd be dead now, for what it's worth.
+§7[3/3] §2Aledar: §aI wasn't certain at first about you coming along, but you've more than shown you were the right one for the job.
+§7[1/11] §2Aledar: §a...I had to figure this map was outdated. This wall of spikes isn't listed on it, and the path goes through here!
+§7[2/11] §2Aledar: §aI'll have to assume they're §anew...and§a if they're new, I might be able to bash through them.
+§7[1/1] §2Aledar: §aHey! We should stay away from those, For now.
+§7[4/11] §2Aledar: §aOk, 3... 2... 1...!
+§7[5/11] §2Aledar: §a...aagh..§a. I... H-how are these so resilient...?
+§7[6/11] §2Aledar: §aI'm an idiot... I nearly killed myself trying that. I nearly ruined the mission...
+§7[7/11] §2Aledar: §aI'm sorry, but you'll have to go without me. I can't move another step for now.
+§7[8/11] §2Aledar: §aThere's a lot of void holes around here, remember my warning... You can probably get past these spikes with one.
+§7[9/11] §2Aledar: §aIf I'd been thinking I would have suggested it earlier... Once you're past, we'§all...uh§a. We'll do something.
+§7[10/11] §2Aledar: §aJust...be§a careful where you go. The void holes could lead anywhere. They might lead you someplace very, very dangerous, too dangerous even for you. I pray they won't...
+§7[11/11] §2Aledar: §aThere's a void hole right there to try out first. Get going, now. You have to do this.
+§7[2/5] §2Aledar: §aI don't know what you did, but whatever it was, it's made cracks in the spikes that I can see from this side.
+§7[3/5] §2Aledar: §aI've got some of my energy §aback...let's§a try spellcasting again. If we do it at the same time, we might make some headway.
+§7[4/5] §2Aledar: §aI won't crack my skull open on the spikes again though. Promise.
+§7[5/5] §2Aledar: §aYou lead. I'll cast my spell as soon as I hear yours.
+§7[1/1] §2Aledar: §aHey! Don't go back!
+§7[1/20] §2Aledar: §aThank god it worked... That's our destination there, the Eldritch Outlook.
+§7[2/20] §2Aledar: §aNow comes the hardest part... Come along. I'll need you there for it.
+§7[3/20] §2Aledar: §aThat blade §athere...it's§a made for sacrifice. See how that gate is shut?
+§7[4/20] §2Aledar: §aIn order to open the doors to the Outlook, we need to sacrifice a powerful soul.
+§7[5/20] §2Aledar: §aIf you haven't gotten it already, the plan was to sacrifice our fourth. It's why I was hesitant about having you come along, though it was perfect.
+§7[6/20] §2Aledar: §aThink about it. A soldier with no relations, no loved ones, and no way to deny their fate. But...
+§7[7/20] §2Aledar: §aI've been mulling it over since we got to the town... You'll sacrifice me instead. I won't take no for an answer.
+§7[9/20] §2Aledar: §aHere. You can take everything I had on me. My emeralds, and the key to the dungeon. I certainly won't be able to use them anymore.
+§7[10/20] §2Aledar: §aUpon the top of the tower is... Well, something. We don't know for certain what it is, but it will prevent you from passing through.
+§7[11/20] §2Aledar: §aYou'll have to kill it to break the barrier. §aBut...find§a other soldiers who can help you. It will be impossible to defeat alone.
+§7[12/20] §2Aledar: §a...no§a more putting it off, then. I'm bleeding out.
+§7[14/20] §2Aledar: §aNow...strike§a me down. My soul will unlock the gate...
+§7[15/20] §2Aledar: §aAgh... Don't worry...a-about me...
+§7[16/20] §2Aledar: §aYou...can§a do this. I know y-you can.
+§7[17/20] §2Aledar: §aGah... D-Destroy it...
+§7[18/20] §2Aledar: §aThe monster w-watching us...
+§7[19/20] §2Aledar: §aAAAAGH!!
+§7[20/20] §2???: §a⒜⒩⒟ ⒯⒣⒠ ⒣⒠⒭⒪ ⒮⒣⒜⒧⒧ ⒝⒧⒤⒩⒟ ⒯⒣⒠ ⒜⒩⒞⒤⒠⒩⒯ ⒮⒠⒠⒭. ⒢⒪⒪⒟ ⒧⒰⒞⒦.
+§7[1/1] §2Aledar: §aHey! Don't leave my alone, I need your help.
+§7[1/1] §2Aledar: §aYou need to go through void holes to see if you can get across these spikes.
+§7[1/1] §2Aledar: §aThis is going to be extremely dangerous. I'd suggest training to Level 101 before we continue.
+§7[1/1] §2Aledar: §aPlease don't leave me!
+§7[1/1] §2Aledar: §aWait, Don't go yet!
+
+§7[1/1] §2???: §aMore §4life§a...familiar§a §4life... §aIt’s §a§lyou§a again. Isn’t it§a§k?
+§7[1/2] §2Slykaar: §aEven in §4death§a... Wasn’t I ri§a§kgh§at? Wasn’t I §4§lALWAYS§a rig§a§kht§a? The corruption is here...
+§7[2/2] §2Slykaar: §a§kTro§ams is in ruins. The §4province§a is in ruins... Dead or dying. Now I §4must§a scrounge and scrape for §a§knew§a life...
+§7[1/2] §2Slykaar: §aNo saviours, no §4heroes§a. You being alive is nothing §a§kshort§a of a miracle.
+§7[2/2] §2Slykaar: §aIsn’t this such a §4§lmiserable§a lot? I don’t want §a§kto§a die... But so little to §a§llive§a for. Not as though it matters §a§kmuch...
+§7[1/1] §2Slykaar: §aYour life §a§kwill sustain§a my §4sanity§a. You will §abe...just§a another §a§lmeal§a for me.
+§7[1/1]§2 Slykaar:§a§l AAAGH§a! §4Idiot§a! Fool! §4§kDamnable §aTHING! §a§kExposed§a! §4§lExposed§a! §a§lDIE§a!!
+§7[1/1] §2Slykaar: §a§lI don’t want to die! §4§lI WON’T die! Go away! CEASE §4§l§kTO§4§l EXIST!
+§7[1/1] §2Slykaar: §aI... §4§lYou... §4§l§kNo...
+
+§7[1/11] §2Theorick: §aThis is absolutely ridiculous! You know it is! You can’t say it isn’t!
+§7[2/11] §2Theorick: §aThe people can’t defend themselves, you’ve seen them try. All it ends up doing is making our lives harder!
+§7[3/11] §2Theorick: §aWhy SHOULDN'T I ask for just a tiny bit of compensation in return? A mere pittance more than gratitude?
+§7[4/11] §2Theorick: §aYou can't fill someone’s stomach with kind words, father!
+§7[5/11] §2Marius: §aTheorick, listen-
+§7[6/11] §2Theorick: §aDon’t you DARE change the topic! I’ve listened to what you’ve said, and it’s all nonsense!
+§7[7/11] §2Theorick: §aPlatitudes and non-answers, never any straight conversations with you. Never, not once!
+§7[8/11] §2Marius: §aI can only warn you, Theorick. Leaving us will be the province's end. I brought you all together for a reason. Think of the consequences of your actions.
+§7[9/11] §2Theorick: §aPah! As though you are! I’m out in the thick of it, saving this province! What have YOU done, except put a roof above our heads?
+§7[10/11] §2Theorick: §aYou hardly taught me anything! Dwendle hardly taught me anything! Rickeo hardly taught me anything! And Mael actively makes me stupider every time he opens his mouth!
+§7[11/11] §2Theorick: §aOpen your eyes and knock the wax out of your ears! This can’t continue as it is!
+§7[1/6] §2Citizen: §aSir Theorick, if you, §aum...if§a you have a moment? Your tribute is here...
+§7[2/6] §2Theorick: §a...good§a. Thank you. Good to see some who honestly respect what I’m trying to do for all of you. Was there anyone else?
+§7[3/6] §2Citizen: §aAh...no§a. §aThere...there§a wasn’t. Not this time. They feel like you’re taking too much from them, which I don’t agree with, but-
+§7[4/6] §2Theorick: §a...ask§a them, if they would prefer their money, or their lives. Am I not protecting them? Is it really so much to ask that I get something in return?
+§7[5/6] §2Citizen: §aWe...we§a know. We told them that, §atoo...we’re§a sorry.
+§7[6/6] §2Theorick: §aYou aren’t the ones who need to apologize! I'm aware it's a voluntary contribution, but do they have any idea how difficult it is to cast magic like this regularly?!
+§7[1/12] §2Rickeo: §aSurprise, surprise, Theo. You’re late.
+§7[2/12] §2Theorick: §aDon't even start, Ricke.
+§7[3/12] §2Rickeo: §aYou're really into being cold, huh?
+§7[4/12] §2Dwendle: §aLook, we’re all here for the same reason-
+§7[5/12] §2Theorick: §a§lDon't touch me.
+§7[6/12] §2Mael: §aAre you alright?
+§7[7/12] §2Rickeo: §aYou shouldn't have done that.
+§7[8/12] §2Theorick: §aNow you've done it, Rickeo.
+§7[9/12] §2Dwendle: §aTheo, stop.
+§7[10/12] §2Dwendle: §aJust this once.
+§7[11/12] §2Dwendle: §aStop.
+§7[12/12] §2Theorick: §a§lMake me.
+§7[1/3] §2Dwendle: §aThanks, Ricke...
+§7[2/3] §2Rickeo: §aDon't worry about it... Let's finish this, shall we?
+§7[3/3] §2Dwendle: §aYeah. Dad should have done this a long time ago.
+§7[1/1] §2Mael: §a§lENOUGH.
+§7[1/6] §2Mael: §aAre you out of your minds?? You were about to §a§lkill§a your brother!
+§7[2/6] §2Dwendle: §aI... You're... right. We...
+§7[3/6] §2Mael: §aYou should leave. All of you. This isn’t what being a Twain was about...
+§7[4/6] §2Theorick: §aMph. None of us are Twains. Not me. Not you. We’re an old man's delusion.
+§7[5/6] §2Rickeo: §aMael... I...
+§7[6/6] §2Mael: §aI know, Ricke. Just go.
+§7[1/4] §2Mael: §aDad... I'm sorry...
+§7[2/4] §2???: §aWell... At least you can’t say my funeral was boring.
+§7[3/4] §2Mael: §aWhat does all this mean? The Twains are over?
+§7[4/4] §2???: §aThe Twains ended the day Theorick left us. You should stay here though, there is one who will one day need your help...
+§7[1/4] §2Olm Mage: §aCrystalites. This is bad. Froner? FRONER? Are you there? We have a BIG problem.
+§7[2/4] §2Olm Astrologist: §aWhat? More meteors hitting the mountains again? When has that ever been an issue before?
+§7[3/4] §2Olm Mage: §aThere’s a series of fireballs heading towards the city.
+§7[4/4] §2Olm Astrologist: §aHow long have we got left? We need to inform th-
+§7[1/8] §2Miner: §a'Ey, boss, ya sure this is where we need t'blow things up? There's equipment an' all here. This place been empty for a while now too.
+§7[2/8] §2Miner Chief: §aThe small spec I found might not've been much, but it could mean that there are more emeralds nearby. That's why I brought our friend here to confirm.
+§7[3/8] §2Geologist: §aHm. Do you hear that? The sound indicates a large body of crystals just right behind these rocks.
+§7[4/8] §2Miner Chief: §aI knew it! Blow 'er up!
+§7[5/8] §2Geologist: §aThese... These are not emeralds.
+§7[6/8] §2Miner: §aLet's see 'ere... Red, purple, green n' yellow. Say, boss, ain't these them crystal that lad not too long ago asked ya 'bout?
+§7[7/8] §2Miner Chief: §aThese are not just some 'crystals'. They're... Dangerous. All of you, listen up - never speak a word of what you saw here.
+§7[8/8] §2Miner Chief: §aBoth of you, back to your posts, now! I'll make sure these are never seen again.
+§7[2/11] §2Junes: §aHowever... This barrier doesn't look like it was made by the empire.
+§7[4/11] §2Junes: §aWell, it seems to have fallen apart to the touch. This is one of the biggest rooms I've seen..
+§7[5/11] §2Junes: §aThis must have been important... Let's go!
+§7[1/1] §2Nothing Folk: §aWait… It can’t be. Look me in the eyes. You are human! But wait, you should really come back when you're level 102.
+
+§7[1/4] §2Korzim: §aartemaker... Do you §ahave...the§a staff? And the amulet...?
+§7[2/4] §2Korzim: §aThe war is starting... and Axelus... He has not returned.
+§7[3/4] §2Korzim: §aWe can not go... Not without him. Find him... And bring him to the... Dogun village.
+§7[4/4] §2Korzim: §aI can not leave. The §aguard...it§a is on high alert. He was last at §aRodoroc...yes§a?
+§7[1/6] §2Rodoroc Citizen: §aHey! Everyone, the king has someone in the cage! It's been years since we used it!
+§7[2/6] §2Rodoroc Citizen: §aWait, that's Axelus up there!! The king locked up his son?! What in the world?
+§7[3/6] §2Rodoroc Citizen: §aI heard he was consorting with demons, but that can't possibly be true, can it?
+§7[4/6] §2Axelus: §aFor the last time, they are not demons!! Gods, I've been telling you this whole time! Not even my father will listen to reason!
+§7[5/6] §2Axelus: §aIf I don't get freed we're doomed, you hear me?! We won't survive another war! As your prince I demand to be freed!
+§7[6/6] §2Axelus: §aListen, the statues are climbable and there's a control panel for the lava siphons near them! Now help me so we all don't die!
+§7[1/2] §2Rodoroc Citizen: §aWait, that human just defaced the hero's monument!! Are they working with the demons too?
+§7[2/2] §2Axelus: §aartemaker! I didn't think you'd be back, but we need to leave, now! Meet me outside!
+§7[1/3] §2Axelus: §aartemaker! Over here, to the right! By the cannon! I'm commandeering this thing.
+§7[2/3] §2Axelus: §aWe need to get up to the Doguns before the Dwarves begin their assault, or before the Doguns take their last resort.
+§7[3/3] §2Axelus: §aGet in the cannon, now! You've got your armour, you might end up charred and covered in soot but you'll be fine!
+§7[1/3] §2Axelus: §aDon't tell anyone we shot ourselves out of a cannon, I'll never live it down. Now come on, to the Dogun village, hurry!
+§7[2/3] §2Axelus: §aIf the Doguns are taking their last resort and summoning Garaheth, then we've got two sides to stop at §aonce...basically§a, the odds are astronomically against us.
+§7[3/3] §2Axelus: §aThat means you do what you need to do, no matter what. Understood? If we can stop this madness then the casualties won't have died for nothing! Now move!
+§7[1/2] §2Axelus: §aWAIT, STOP THE-
+§7[2/2] §2Dogun Chieftain: §aQuiet. Dwarven §awhelp...we§a will not go quietly. AWAKEN.
+§7[1/2] §2Axelus: §aI can't believe this... That bone was part of the ritual?! Agh, how could we have been so STUPID! You're all lucky we prepared for this!!
+§7[2/2] §2Axelus: §aYou need to get inside him. He's still chained! The amulet will protect you from the heat! Freeze him from the inside out!!
+§7[1/23] §2Axelus: §aEVERYONE, STOP THIS! RIGHT NOW!! IT'S OVER!!
+§7[2/23] §2Axelus: §aOpen your eyes for once in your lives!! You see that?! Behind me! THAT was going to be the end result!
+§7[3/23] §2Axelus: §aGaraheth would have killed every one of us, damn it! Are you that short-sighted that you can't see this?!
+§7[4/23] §2Axelus: §aEveryone here is to blame, except the human who helped stop this! The Doguns were already exiled, they wouldn't have hurt anyone!
+§7[5/23] §2Axelus: §aBut we couldn't just let ANYTHING be! You always need more glory, more, more, MORE! Don't you, Draani? I'm ashamed to be your lineage!
+§7[6/23] §2Axelus: §aAnd you, Doguns! I...I pitied you. You were wronged, but you resort to this? You'd doom the world over to spite the Dwarves? Is that it?!
+§7[7/23] §2Dogun Chieftain: §aWhelp. You do not understand. To be §apersecuted...and§a see your people §atortured...hunted§a.
+§7[8/23] §2Dwarven Commander: §aYou all deserve it! You attacked out ancestors for sport! Eye for an eye, have you heard of it? It's only fair!
+§7[9/23] §2Dogun Chieftain: §aImbeciles...your§a stories are not true. We... We lived through the war. You took §aeverything...and§a suffered none.
+§7[10/23] §2Axelus: §aI've been trying to tell BOTH of you that the monarchy has been spreading lies for centuries! One bad king doesn't mean the whole species is a loss!
+§7[11/23] §2Dogun Chieftain: §aShut your mouth. Even §anow...you§a trample on the bones of our god... You have taken everything from us...
+§7[12/23] §2Dogun Chieftain: §aThis earth is stained by you. §aWe...we§a shall burn §ayou...and§a scatter your ash to the wind.
+§7[13/23] §2Axelus: §aDON'T YOU DARE! STOP, RIGHT NOW!
+§7[14/23] §2Korzim: §aAxelus!
+§7[15/23] §2Korzim: §a...he..§a.
+§7[16/23] §2Korzim: §aYou would... You would kill a savior...?
+§7[17/23] §2King of Rodoroc: §aNo, no! No no no, this can't be happening! H-Hang on, we'll save you, I...I'll do something, I...
+§7[18/23] §2King of Rodoroc: §aY-You DEMONS! MONSTERS! I'll avenge you, Axelus, j-just give me time-
+§7[19/23] §2Axelus: §aAGH, SHUT UP! §aSHUT...ack..§a. Q-Quiet. Listen to one damn word from my mouth, Draani... For once in your miserable life.
+§7[20/23] §2Axelus: §aTell. The. TRUTH!! §aG-gaagh...you§a know that's §ath...the§a only way to stop this. Swallow your pride, §ayou...old§a fool...
+§7[21/23] §2King of Rodoroc: §aI...I... Axelus... §aHe...he§a called me §aDraani...why§a did...?
+§7[22/23] §2King of Rodoroc: §aMen, stand down. This... This war is over! I will not have one more life lost! Touch the Doguns and I'll personally behead you!
+§7[23/23] §2King of Rodoroc: §aChief, I...I ask of you but an hour of your time. If you are willing to negotiate...
+§7[1/11] §2King of Rodoroc: §aAh, you've arrived. §aI...actually§a remember you from earlier. So you and... 
+§7[2/11] §2King of Rodoroc: §aA-and...
+§7[3/11] §2King of Rodoroc: §a...you§a knew my son. Were helping him try to put an end to this, before everything was too far gone. §aHeh...apologies§a, for that.
+§7[4/11] §2King of Rodoroc: §aPaku and I have had a long discussion about the wisdom of youth over the old. You all were right. I needed to swallow my pride.
+§7[5/11] §2Dogun Chieftain: §aWe agreed upon a peace treaty... A new city... The Dwarves will aid us in building it.
+§7[6/11] §2Dogun Chieftain: §aAll §ahostilities...will§a end. My people §awill...be§a free to roam the caverns. It has §abeen...too§a long.
+§7[7/11] §2King of Rodoroc: §aAnd the entombed Doguns at Courag will be reconstituted, as well, supposing that is a possibility.
+§7[8/11] §2King of Rodoroc: §aEvery king, since my so-far-great grandfather, Draani Thunderwill, has battled with their morality over the lies told to my people.
+§7[9/11] §2King of Rodoroc: §aIt ends here, with the name Draani VIII. It will take time, but the bloodshed has proven things must begin to change now.
+§7[10/11] §2King of Rodoroc: §aYou and the coalition have saved the Heights, and Gavel. In Maex, you will find a stall to trade valuable minerals. You will be granted special Dwarven privileges to purchase it now.
+§7[11/11] §2King of Rodoroc: §aThough that §ais...almost§a certainly not enough a reward for everything you have §adone...sincerely§a. Thank you, Wynn soldier.
+§7[1/1] §2Dogun Chieftain: §aThank you §aagain...soldier§a. For helping us make peace...
+
+§7Bring §3[16 Willow Wood] §7or §3[16 Willow Paper] §7to the §aGathering Post §2[Woodcutting Lv. 23]
+§7Bring §3[12 Oak Wood] §7or §3[12 Oak Paper] §7to the §aGathering Post §2[Woodcutting Lv. 8]
+§7Bring §3[14 Birch Wood] §7or §3[14 Birch Paper] §7to the §aGathering Post §2[Woodcutting Lv. 18]
+§7Bring §3[24 Willow Wood] §7or §3[24 Willow Paper] §7to the §aGathering Post §2[Woodcutting Lv. 28]
+§7Bring §3[20 Acacia Wood] §7or §3[20 Acacia Paper] §7to the §aGathering Post §2[Woodcutting Lv. 33]
+§7Bring §3[30 Acacia Wood] §7or §3[30 Acacia Paper] §7to the §aGathering Post §2[Woodcutting Lv. 38]
+§7Bring §3[24 Spruce Wood] §7or §3[24 Spruce Paper] §7to the §aGathering Post §2[Woodcutting Lv. 43]
+§7Bring §3[12 Copper Ingots] §7or §3[12 Copper Gems] §7to the §aGathering Post §2[Mining Lv. 8]
+§7Bring §3[16 Gold Ingots] §7or §3[16 Gold Gems] §7to the §aGathering Post §2[Mining Lv. 23]
+§7Bring §3[24 Gold Ingots] §7or §3[24 Gold Gems] §7to the §aGathering Post §2[Mining Lv. 28]
+§7Bring §3[12 Gudgeon Oil] §7or §3[12 Gudgeon Meat] §7to the §aGathering Post §2[Fishing Lv. 8]
+§7Bring §3[16 Salmon Oil] §7or §3[16 Salmon Meat] §7to the §aGathering Post §2[Fishing Lv. 23]
+§7Bring §3[14 Trout Oil] §7or §3[14 Trout Meat] §7to the §aGathering Post §2[Fishing Lv. 18]
+§7Bring §3[24 Salmon Oil] §7or §3[24 Salmon Meat] §7to the §aGathering Post §2[Fishing Lv. 28]
+§7Bring §3[12 Wheat String] §7or §3[12 Wheat Grains] §7to the §aGathering Post §2[Farming Lv. 8]
+§7Bring §3[14 Barley String] §7or §3[14 Barley Grains] §7to the §aGathering Post §2[Farming Lv. 18]
+§7Bring §3[16 Oat String] §7or §3[16 Oat Grains] §7to the §aGathering Post §2[Farming Lv. 23]
+§7Bring §3[20 Malt String] §7or §3[20 Malt Grains] §7to the §aGathering Post §2[Farming Lv. 33]
+§7Bring §3[24 Oat String] §7or §3[24 Oat Grains] §7to the §aGathering Post §2[Farming Lv. 28]
+§7Bring §3[30 Malt String] §7or §3[30 Malt Grains] §7to the §aGathering Post §2[Farming Lv. 38]
+§7Bring §3[24 Hops String] §7or §3[24 Hops Grains] §7to the §aGathering Post §2[Farming Lv. 43]
+
+§7[1/1] §2Felim: §aTell Dejol that I'm surviving, though it was a narrow escape. The bear gives me some great meat, however.
+§7[1/1] §2Erlard: §aThe maiden has lived a sad life. I feel so sorry for her.
+§7[1/1] §2Document Merchant: §aWho are you? Not sure we've met before.
+§7[1/1] §2Wedyf: §aGlad to hear that your friend is finally at rest.
+§7[1/1] §2Kofis: §aHey, kid. Are you lost or something? Well, if you see a blue flag, could you make sure Dejol's there?
+§7[4/4] §2Felim: §aSo you were delivering that message to the entire crew? Well, looks like you only need to get to 1 more of us.
+§7[1/1] §2Trials Overseer: §aHow are the trials goin'?
+§7[1/1] §2Brie: §aHeya! You should talk to Chef Hamsey, he has to explain how things work beforehand!
+§7[1/1] §2Guard: §aCast your Totem spell by clicking §bRight-Left-Right§a!
+§7[1/1] §2???: §4... How fool§4§kk§ah of you... to come back he§4re.§4§k:5tykkk§after what §4happene§4§ki:
+§7[1/2] §2Ragni Guard: §aWelcome back, I suppose you're a Wynn citizen now. I've heard quite a few things about your deeds throughout the province.
+§7[2/2] §2Ragni Guard: §aYou've helped a lot of people. Keep up the good work, and we'll win this war.
+§7[9/9] §2Troms Mage: §aIf you have nothing else to do, you should get yourself prepared and aid the army against Slykaar.
+§7[1/1] §2Ope: §aThank you again for your help!
+§7[1/3] §2Child: §aLook mom, they're selling Siegfried's sword! Can I buy one? Please?
+§7[2/3] §2Mother: §aNo, they're far too expensive. And a sword is something far too dangerous for you to play with.
+§7[3/3] §2Child: §aBut that's no fair! If I get a sword, I'll be a hero like Siegfried!
+§7[1/4] §2Ragni Guard: §aWelcome to Ragni, new recruit. How's Fruma these days? Ah right, directions.
+§7[1/1] §2Therck: §aI don't have time to talk to you right now, move along!
+§7[1/1] §2Aledar: §aOkay, we need to craft a weapon. I think I can help with that. Follow me.
+§7[2/4] §2The Cook: §aYou can get eggs at the ranch north of Ragni, by killing some chickens.
+§7[5/5] §2Old Man: §aI left my scythe by the crops over yonder. Punch it and pick it up. Then harvest §3[2 Wheat String]§a and bring it back here.
+§7[1/1] §2Old Man: §aHarvest §3[2 Wheat String]§a and then bring it to me.
+§7[1/1] §2Old Man: §aJust hit the scythe to pick it up. Then §bleft-click§a the wheat with it to get the string!
+§7[2/2] §2Aledar: §aUse §b1 string§a and §b2 wood§a to craft §3[1 Wand]§a and then show it to the guard.
+§7[1/1] §2Aledar: §aUse §b2 oil §a and §1 wood§a at the workbench to create §3[1 Relik]§a and then show it to me.
+§7[4/4] §2Ragon: §aThere is a root in the way, but I'm sure you can handle that. A good sample would be §3[10 Scorched Roots]§a, just to make sure the theory is true.
+§7[5/5] §2Old Man: §aI left my pickaxe by the ore over yonder. Punch it and pick it up. Then mine §3[2 Copper Ingots]§a and bring it back here.
+§7[1/1] §2Old Man: §aMine §3[2 Copper Ingots]§a and then bring them to me.
+§7[1/1] §2Old Man: §aJust hit the pickaxe to pick it up. Then §bleft-click§a the ore with it to mine ingots!
+§7[1/2] §2Aledar: §aAll we need to do is use this anvil to forge your weapon.
+§7[2/2] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a to forge §3[1 Spear]§a and then show it to the guard.
+§7[1/6] §2Ahmsord Citizen: §aI heard from my friend's mother's hairdresser about how Siegfried saved Llevigar!
+§7[2/2] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a to forge §3[1 Dagger]§a and then show it to the guard.
+§7[1/7] §2WynnExcavation Archaeologist: §aBaffling... What a puzzling situation I am in...
+§7[5/7] §2WynnExcavation Archaeologist: §aThe scriptures also say something about hidden within the rocks... But we removed them all!
+§7[7/7] §2WynnExcavation Archaeologist: §aAnyway, back to figuring out what needs to be done here... Wait, who are you, you're not an employee of Wynn Excavation!
+§7[6/9] §2Enkser: §aThose dastards probably plan to come back and steal even more horses! I need someone to take care of it.
+§7[3/7] §2Enkser: §aOh...dear§a god. Okay, let me tell you the basics...
+§7[6/8] §2Sayleros: §aOne of my other brothers also survived the attack. He isn't... um... somebody I'd trust greatly, but I'm sure he has some useful informations for you.
+§7[2/2] §2Aledar: §aUse §b2 string§a and §b1 wood§a to craft §3[1 Bow]§a and then show it to the guard.
+§7[1/1] §2Viraex: §aAnother batch of crops ruined... Things just spoil so easy here. I should just move away.
+§7[6/6] §2Nohno: §aAnyway, I need you to go down there and... Take care of him for me. I would really appreciate it.
+§7[4/10] §2Amerigo: §aAfter leaving Nemract, he came to Almuj's barracks and lead a surprise attack of bandits! The carnage!
+§7[7/10] §2Amerigo: §aHowever, the bandits that have taken over the barracks will be too strong for you! You must use stealth instead of force.
+§7[9/10] §2Amerigo: §aThere should be a way to sneak in from a hole blasted on the far west side of the barracks that I escaped from.
+§7[3/17] §2Roy: §aIt almost looks like a giant spike... Woah. How deep does this thing go?
+§7[2/9] §2Bandit: §aShut yer' trap, old man. We came for a different kind of business.
+§7[2/5] §2Orikal: §aThere are 3 main ingredients you will need to get me: §3[Stabilized Corrupted Ore]§a, §3[Incendiary Fluid]§a, and a §3[Switch Fuse] §ato activate it.
+§7[3/9] §2Shopkeeper Gibbs: §aWha-? Look, fellows. Just step out of my store, and nobody gets hurt. I don't want any trouble.
+§7[6/9] §2Bandit: §aWell then! I guess you'll still be able to grasp a pick with four fingers, eh?
+§7[8/9] §2Shopkeeper Gibbs: §aThe code is 7-8-1-2... please don't hurt me!
+§7[1/9] §2Amerigo: §aStranger, report!
+§7[2/9] §2Amerigo: §aYou... You did it?! That was rather fast, I must say!
+§7[3/9] §2Amerigo: §aYou have done this city proud, stranger. Almuj stands for another day then.
+§7[4/9] §2Amerigo: §aPlease take this small reward as a token of the city's appreciation... Hm...
+§7[5/9] §2Amerigo: §aNo, not a small reward. I will give you something that one such as yourself more than deserves.
+§7[6/9] §2Amerigo: §aThis is not any mere piece of gear. This is spoken of in fantasies, in fables.
+§7[7/9] §2Amerigo: §aSuch items have special abilities that are far beyond any of the normal magic powers you find on most things.
+§7[8/9] §2Amerigo: §aThis one, in particular is only awarded in very certain cases, and can be considered a medal of honour. Be proud!
+§7[9/9] §2Amerigo: §aNow run along, I have to collect my own honorary badge for taking out Ex-Commander Takan.
+§7[2/3] §2Flodur: §aLooks like I'm fresh outta food. Barely got enough to feed meself.
+§7[9/10] §2Cikal: §aThe Gerts... Stupid as they are seem to be behind some attacks recently.. But we haven't seen them move a bit.
+§7[4/4] §2Anof: §aWhat has this province become? Oh, look at this too, blood everywhere! That Gert clearly dragged the poor thing away...
+§7[1/1] §2Old Man: §aI left my fishing rod by the pond over yonder. Use it to harvest some wheat and bring it back here.
+§7[1/5] §2Hallfred: §aWelcome traveler! What brings you to our island?
+§7[2/5] §2Hallfred: §aOh, I see that Adigard now sends strangers through his cowardice! Worried he'll get killed?
+§7[3/7] §2Adigard: §a...You§a see, the reason why we became shipwrecked wasn't natural cause. We were attacked...
+§7[6/6] §2Vade: §aI wonder if it is talking about inside the temple... Oh, uh, I forgot you were here. Stay out of this kid, it's grown up business!
+§7[1/1] §2Ragon: §aOh, it's you, nice to see you again. You know, the §c✹ Fire§a weapons almost burned down my tent. These elemental weapons are very powerful.
+§7[1/2] §2Orikal: §aI need §3[Stabilized Corrupted Ore]§a, §3[Incendiary Fluid]§a, and §3[Switch Fuse] §ato create the explosive.
+§7[2/2] §2Gale: §aA lot of people say I'm the roughest we have to offer, so you've got this!  I'm sorry you have to go talk to Yansur of all people now, though.
+§7[5/6] §2Dereg: §aI saw it walking over toward Tolem's farm, it left a trail behind and was dripping blood out its mouth.
+§7[6/6] §2Dereg: §aIf you could bring me back §3[3 Pieces Of Evidence]§a and they could be anything at all, I'll reward you! Follow the blood on the ground and see what you can find!
+§7[7/7] §2Dereg: §aThis specimen belongs in Llevigar's museum! I have to pay you for your work of course, but here take these crushed bones. I'm sure the museum won't want them. Who knows, you might find it useful!
+§7[1/8] §2Excavator Placardus: §aAll operations functional... Transportation on schedule... Oh. It's you. We've been looking for you.
+§7[4/10] §2Traitor Amadel: §aEverything you have been told is a lie. The Wynn Excavation "company" are not what they appear to be.
+§7[9/10] §2Traitor Amadel: §aThey've been on to me for some time. I can't tell you everything here, but first, you must gather parts of the crystal, like you did with the others. It is essential.
+§7[4/7] §2Excavator Placardus: §aI'm willing to bet he's already been... taken care of by senior staff.
+§7[1/1] §2Maltic Citizen: §aBy killing the witch, you've saved the town! Maybe the things we hear about Fruma aren't as bad as I thought.
+§7[1/1] §2Amerigo: §aKeep that bracelet around! I am certain you will find it useful.
+§7[3/9] §2Edula: §aBut, §aerm...more§a importantly, who's the bucko in the fancy armour there?
+§7[1/4] §2Edula: §aYou will need §3[10 Fire Webs]§a. The Heatscar Spiders under the town make them, there's a cave right by the entrance arch.
+§7[2/6] §2Sanba: §aWait, that §aamulet...oh§a no, really? Okay, I know what's going on.
+§7[1/1] §2Lutho Citizen: §a...
+§7[6/8] §2Sanba: §a...becoming§a §a§lTrue Ice§a, a potent mixture of sheer cold and magic energy. That's what we will need to combat Garaheth.
+§7[1/4] §2Sanba: §aImpressive, you two. Must have been tough to get §athat...doubly§a so for Korzim.
+§7[2/4] §2Sanba: §aHere is the staff, artemaker. Keep it safe, and don't you go dying on us.
+§7[3/4] §2Sanba: §aMy husband and I will round up the coalition and get them to act now. We need to get going before-
+§7[4/4] §2Sanba: §a...that's§a the barracks door. That's the barracks door!!
+§7[1/2] §2Maex Soldier: §aMen! We have to meet for briefing on the surface, the war is due any hour now! Move faster!
+§7[2/2] §2Sanba: §aThey're already going?! We're out of time! Korzim is waiting for you just upstairs when you reach level 94. Go train! NOW!
+§7[1/1] §2Olux Citizen: §aWith all these reports of missing people, I'm starting to become nervous that I might be the next one to vanish...
+§7[5/6] §2Snail Race Supervisor: §aIf you do choose to race U-snail Bolt, how-e-ver, be sure to not take your time, he is in-cre-di-bly fast!
+§7[2/5] §2Doan: §aExcuse me, have you seen a passport around here?
+§7[1/1] §2Farmer Cevalus: §aHey! Get away from my farm, this is private property!
+§7[1/1] §2Bugabo: §aNo no no! No human can pass Bubo! Ask Mr. Dado if you want to pass.
+§7[1/3] §2Llevigar Citizen: §aDid you hear the news? Siegfried just killed a bunch of Orc- Wait, you don't know who Siegfried is?
+§7[2/3] §2Llevigar Citizen: §aHe's a legendary hero, the Bob of Gavel! He's all over the newspaper! I hear he's looking for apprentices.
+§7[1/4] §2Seaskipper Captain: §aTomatoes, check... Carrots, check... Did that box jus' move?
+§7[2/4] §2Seaskipper Captain: §aOh, 'scuse me soldi'r, sometimes people ask me to deliv'r some things as well.
+§7[3/4] §2Seaskipper Captain: §aTakin' people 'cross the sea is still my thing!
+§7[4/4] §2Seaskipper Captain: §aThough, I'd like if my business was a li'l bit more popular...
+§7[4/5] §2Grandon: §aIt doesn't say where they are, just that they're well hidden and that there are additional clues around the house. The other 3 digits should all be up there on the second floor! Maybe Leacen has seen something about them while she's been up there, as well.
+§7[7/8] §2Jill: §aI'm not sure what the "Key" is, but be careful acquiring it. If it was easy, the key would have already been found.
+§7[8/8] §2Jill: §aI'll be here when you get back.
+§7[4/6] §2Farcor: §aI know it wasn't your people who are to blame. But you had your part in the cataclysm.
+§7[2/8] §2Troms Mage: §aAh, I didn’t expect to see a Ragni soldier out here. Perhaps you can assist me?
+§7[5/8] §2Troms Mage: §aWe tried to attack it, but this barrier is shaman magic, horrendously powerful too. The only way it could be this strong is if many lives were taken to make it...
+§7[6/8] §2Troms Mage: §aSo, we're stuck. The only clue we found is this riddle...
+§7[1/2] §2Slykaar: §aTroms used to beckon to my every need and desire... Even sacrifice it's own children for my magical defense!
+§7[1/2] §2Slykaar: §aNow the city will truly get to witness what power they have discarded.. They will see they made the wrong call.
+§7[2/4] §2Jill: §aAre these... beans?
+§7[1/1] §2Hrona: §aMove along, landwalker!
+§7[2/6] §2Qira: §a§lI must admit I am impressed; the Judge is §a§lruthless...perhaps§a§l he needs further tweaking?
+§7[1/2] §2Solar Vanguard: §aDefeat feels strange, after so long. You fought valiantly, and with great zeal, however. It would be a lie to say I am disappointed.
+§7[3/10] §2Atisun: §aThe Caritats were unlike any other. Uncharacteristically selfless and helpful. Their wealth was everyone's wealth as far as they were concerned.
+§7[4/10] §2Atisun: §aBut... Eventually... Erm, we're not entirely sure what happened, only rumours have surfaced over the years, §abut...things§a took a turn, shall we say.
+§7[6/10] §2Atisun: §aI am the last remaining descendant, Atisun Caritat. I was the only survivor of the... §a§oincident§a. I was only an infant when I was found by a passerby.
+§7[6/9] §2Anrod: §aIt's well known for never dying. Except mine is! This is my lifeline! If it dies, I die!
+§7[1/4] §2Seaskipper Captain: §aDo ya 'member that time I rescued ya from a random island?
+§7[2/4] §2Seaskipper Captain: §aThese pirates got ya good, right?
+§7[3/4] §2Seaskipper Captain: §aThey seemed to be praisin' soldiers by kidnappin' more of them.
+§7[4/4] §2Seaskipper Captain: §aThey're really odd fellas, but they're as harmless as a grook, heh!
+§7[3/4] §2Seaskipper Captain: §aI 'eard they're really hatin' on you soldiers. Did ya do anythin' to them?
+§7[1/1] §2Dr. Legendary: §aLadies and gentlemen, performing you live from Legendary Stadium... it's Death Metal and the Ascendant Bosses!
+
+§a+ New Spell §2[Haul]
+§a+ New Spell §2[Aura]
+§a+ New Spell §2[Uproot]
+§a- §7Uproot will pull your enemies towards yourself
+§a+ Spell Upgrade §2[Totem I -> II]
+§a+ Spell Upgrade §2[Totem II -> III]
+§a+ Spell Upgrade §2[Aura I -> II]
+§a+ Spell Upgrade §2[Aura II -> III]
+§a+ Spell Upgrade §2[Haul I -> II]
+§a+ Spell Upgrade §2[Haul II -> III]
+§a+ Spell Upgrade §2[Uproot I -> II]
+§a+ Spell Upgrade §2[Uproot II -> III]
+
+§7[1/8] §2Barman: §aHello there soldier! What can I get you?
+§7[2/8] §2Honip: §aI'll take 2 Nemract Whiskeys. One for me, one for this chap.
+§7[3/8] §2Barman: §aYou got it.
+§7[4/8] §2Honip: §aSo... I've seen ya around town. I saw how happy that guy was when you brought him some journal.
+§7[5/8] §2Barman: §a2 Nemract Whiskeys, coming up!
+§7[6/8] §2Honip: §aSo... Soldier. Are ya up for sailin' the ocean with me? I got a fancier boat than that seaskipper!
+§7[7/8] §2Honip: §aI figured you'd be interested in explorin' the waters!
+§7[8/8] §2Honip: §aI'll wait for ya on the docks. Don't worry, ya can't miss the boat!
+§7[1/3] §2Honip: §aThere you are! Ready? Follow me, the boat's over here!
+§7[2/3] §2Honip: §aLook at this.. Magnificent! Much better than whatever the Seaskipper is using!
+§7[3/3] §2Honip: §aWell, what are you waiting for? Hop aboard!
+§7[1/2] §2Honip: §aThen it's settled, we're goin' on an adventure!
+§7[2/2] §2Honip: §aBuckle up, we got waves to catch.
+§7[1/7] §2Honip: §aSo... I should warn ya', this is actually my first time sailing...
+§7[2/7] §2Honip: §aIt doesn’t seem too difficult though, a little to the left...
+§7[3/7] §2Honip: §aHmm, looks like we’re not the only ones out on the water today.
+§7[4/7] §2Honip: §aThey are a bit too head on, don’t you think?
+§7[5/7] §2Honip: §aI’m trying to steer the ship but it’s not budging...
+§7[6/7] §2Honip: §aThat’s unfortunate...
+§7[7/7] §2Honip: §aUnfortunate... For §a§lYOU§a!
+§7[1/6] §2Honip: §aHey, you're finally awake.
+§7[1/1] §2Honip: §aStay back!
+§7[2/6] §2Honip: §aI honestly, truly can't believe you fell for that. Let me sum it up for you...
+§7[3/6] §2Honip: §aSome extremely suspicious §a§lpirate§a comes up, offers you a drink, and leads you to his suspicious boat.
+§7[4/6] §2Honip: §aAny normal person would've turned back by then. But what do you do? You hop on! Well, now you're stuck with us.
+§7[5/6] §2Honip: §aLet me make this quick. This boat needs renovation, and we want you to do it.
+§7[6/6] §2Honip: §aWhy? You're a soldier! All you do is take orders! Anyway, we'll need you to clean our stuff. Here, get out.
+§7[1/3] §2Honip: §aSo, there's quite a few skeletons in there, and we never bothered throwin' em out!
+§7[2/3] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the skeletons with it!
+§7[3/3] §2Honip: §aIf you need me, I'll be on the deck. And, uh, don't go in the hold. We've got a §a§lBIG§a rat problem.
+§7[1/2] §2Pirate: §aOh, uh... Don't worry about that, 'ay?
+§7[2/2] §2Pirate: §aThat's our... fuel source.
+§7[1/4] §2Honip: §aHey! The boat's lookin' real nice now!
+§7[2/4] §2Honip: §aI'll probably let you rest so- hold on.
+§7[3/4] §2Pirate: §aHo-Honip! One of the guys said he saw something really weird coming right for us!
+§7[4/4] §2Honip: §aWait... What? Soldier, come!
+§7[1/7] §2Honip: §aWhat's happening?!
+§7[2/7] §2Pirate: §aWe-we don't know! We can't exactly see it, but it seems huge!
+§7[3/7] §2Honip: §aI- Let me see.
+§7[4/7] §2Honip: §aUh... Where am I supposed to be looking at, exactly?
+§7[5/7] §2Pirate: §aI swear, it felt like the whole ocean was getting crazy a second ago!
+§7[6/7] §2Honip: §aIf this is another one of your jokes...
+§7[7/7] §2Seth: §aLOOK OUT!
+§7[1/2] §2Seth: §aWhat the hell is that??
+§7[2/2] §2Honip: §aI don't know, this wasn't planned!
+§7[1/1] §2Honip: §aIt's working! Do that again!
+§7[1/1] §2Honip: §aSoldier, now's your time to shine! Scare it off with one of your spells or somethin'!
+§7[1/1] §2Honip: §aOne more...
+§7[1/1] §2Seth: §aOh, that's my cannon! Pretty cool, right? I made it using a bunch of arm- Nevermind...
+§7[1/4] §2Honip: §aIt's starting to panic!
+§7[2/4] §2Honip: §aThat's right, get back!
+§7[3/4] §2Honip: §aI knew you had it in ya, haha!
+§7[4/4] §2Honip: §aWhat a show! Come, I've got some things to tell ya!
+§7[1/7] §2Honip: §aI don't know where that creature came from, but thanks to you it's gone.
+§7[2/7] §2Honip: §aI've got somethin' else for you to tackle. It's about... the §a§lrats§a.
+§7[3/7] §2Honip: §aCome to the hold, I'll explain on the way.
+§7[4/7] §2Honip: §aI think we have quite a hellish problem on our hands.
+§7[5/7] §2Honip: §aI'm not sure what ya'll find there, but these are NOT normal rats.
+§7[6/7] §2Honip: §aSo please, get in there... and kill everything, alright?
+§7[7/7] §2Honip: §aI've got faith in ya. Here goes nothin'!
+§7[1/4] §2Honip: §a...Seth§a? Have ya seen the soldier?
+§7[2/4] §2Seth: §aNo, but they did a great job in the hold! Some gunpowder went missing though.
+§7[3/4] §2Seth: §a...
+§7[4/4] §2Seth: §aWait a minute.
+§7[1/1] §2Seaskipper Captain: §a'ey there soldier! Looks like ya're in a bit of a pickle! How 'bout ya hop on?'
+§7[1/7] §2Seaskipper Captain: §aWell... We're headed for Selchar, the heart of the ocean! Which is safer than wherever you were, heh!
+§7[2/7] §2Seaskipper Captain: §aI was casually takin' a scenic detour when I saw you and your shiny equipment on that island.
+§7[3/7] §2Seaskipper Captain: §aSo, ya gotta tell me what happened!
+§7[4/7] §2Seaskipper Captain: §aOh, kidnapped by pirates I see! How unfortunate...
+§7[5/7] §2Seaskipper Captain: §aI guess that'll show ya, tryin' to avoid using good ol' seaskipper! I'm the only trustworthy one 'round here.
+§7[6/7] §2Seaskipper Captain: §aWell, I hope they weren't too bad with ya! Here, I'll give you some boat passes as compensation.
+§7[7/7] §2Seaskipper Captain: §aAnyway, I can see the shore off in the distance! Hang tight, we're almost there!
+§7[1/1] §2Barman: §aOh, soldier... It looks like you're underleveled. Sorry, I don't want to sell drinks to recruits, that's a policy 'round here. Come back when you're level 28.
+§7[1/1] §2Honip: §aI told you to stay back!
+§7[1/4] §2Honip: §aSo, there's quite a few skeletons in there, and we never bothered throwin' em out!
+§7[2/4] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the skeletons with it!
+§7[3/4] §2Honip: §aIf you need me, I'll be on the deck. And, uh, don't go in the hold. We've got a §a§lBIG§a rat problem.
+§7[4/4] §2Honip: §aAlso, for the sake of my crew, could you be more cooperative? I don't have an unlimited amount of these potions.
+§7[1/1] §2Pirate Guard: §aSoldier? Ya already fixed that cannon, stop that.
+§7[1/4] §2Honip: §aHey there! Ya bringin' me good news?
+§7[2/4] §2Honip: §aYou took care of these damn thieving rodents? A... colossal rat you say?
+§7[3/4] §2Honip: §aNicely done, I knew I could count on ya! C'mere, take these!
+§7[4/4] §2Honip: §aAnyway, for now, you can go rest and do whatever you want!
+§7[1/1] §2Honip: §a'ey soldier. Enjoying the ride?
+§7[1/3] §2Pirate: §aHey, so you're our personal guard, huh?
+§7[2/3] §2Pirate: §aNice to meet ya!
+§7[3/3] §2Pirate: §aThat ladder leads to the hold, but right now it's locked... We've got a severe case of rats.
+§7[1/1] §2Seth: §aI'm just goin' to... Wait here... With my cannons.
+§7[1/2] §2Honip: §aHow's work?
+§7[2/2] §2Honip: §aDon't think we'll be done with ya once you clean all of this!
+§7[1/2] §2Pirate: §a...
+§7[2/2] §2Pirate: §aOh my god, this is so boring...
+§7[1/1] §2Pirate: §aWhy did I take this job...
+§7[1/1] §2Pirate Guard: §aHey! What do you think you're doin'?!
+§7[1/3] §2Honip: §aSo, there's quite a few bodies in there, and we never bothered throwin' em out!
+§7[2/3] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the bodies with it!
+§7[1/3] §2Pirate: §aHonip has a pet chicken, weird right?
+§7[2/3] §2Pirate: §aI bet he got inspiration from that weird guy on his island...
+§7[3/3] §2Pirate: §aWhat? You murdered that guy's most prized chicken? You're an odd one, soldier.
+§7[1/2] §2Pirate: §aThe chicken's got quite the agressive personality!
+§7[2/2] §2Pirate: §aBut maybe you do too. I wouldn't want you near my chickens, if I had any!
+§7[1/2] §2Pirate: §aI heard what happened, soldier!
+§7[2/2] §2Pirate: §aGood job on scaring away that thing!
+§7[1/1] §2Pirate: §aHey, how 'bout you go talk to Honip instead of me?
+§7[1/1] §2Pirate: §aHuh? Why are ya talkin' to me? Just talk to Honip!
+§7[1/1] §2Pirate: §aHm? Ya want a new task? Honip probably wants to talk to you then.
+§7[1/2] §2Seth: §a'ey! How's the cleaning? Don't forget to check everywhere, ya never know what you might find!
+§7[2/2] §2Seth: §aYou're done? Well good job! Honip's next to the helm if you're lookin' for him.
+§7[1/1] §2Pirate: §aThat was somethin'... You should go talk to Honip.
+§7[2/3] §2Pirate: §aYou've been running around the boat for a while now!
+§7[1/1] §2Pirate: §aThese rats... I don't think they're normal rats. Something's wrong with 'em.
+§7[1/1] §2Barman: §aHey there soldier! Good day today, isn't it?
+§7[1/3] §2Honip: §aOh, Snoo likes you!
+§7[2/3] §2Honip: §aHe's a strong chicken alright, trust me on that one.
+§7[3/3] §2Honip: §aAnyway, get back to work!
+§7[1/4] §2Honip: §aWhat.
+§7[2/4] §2Honip: §aWell... That's a twist.
+§7[3/4] §2Honip: §aI expected you to do somethin', soldier, not him!
+§7[4/4] §2Honip: §aAnyway, come talk to me.
+§7[1/7] §2Honip: §aI have another task for you. It's about... the §a§lrats§a.
+§7[2/7] §2Honip: §aSee, I really don't think we have your usual type of problem.
+§7[4/7] §2Honip: §aWe sometimes hear unusually loud footsteps, along with some really eerie squeaking...
+§7[5/7] §2Honip: §aThat's why we're not too fond of goin' in... But our gunpowder there! We need it, as pirates!
+§7[6/7] §2Honip: §aSo, I need you to get in... and kill everything, alright?
+§7[7/7] §2Honip: §aHere goes nothing. Snoo, ya stay there!
+§7[3/4] §2Honip: §aThat sounds absolutely terrifying! And ya did that alone! You know what, her', take these.
+§7[3/3] §2Pirate: §aAre you the one who cleared the hold? I've got some respect for ya, soldier!
+§7[1/3] §2Barman: §aNot thirsty? He paid for it, ya might as well take a sip!
+§7[2/3] §2Barman: §aUnless ya don't want alcohol, which would be understandable as a soldier...
+§7[3/3] §2Barman: §aThough I'd wonder why you came here in the first place then, heh!
+§7[1/1] §2Honip: §aAlright, that's enough!
+§7[1/2] §2Honip: §aWait, you're already leaving? I'm sure you're interested! I want to take you in an adventure!
+§7[2/2] §2Honip: §aMeet me at the docks, I'll be waiting there!
+§7[4/8] §2Honip: §aSo, I've seen ya around town. Ya even went to the ocean to help that chicken guy!
+§7[2/2] §2Seth: §aNot done yet? Well, take your time!
+§7[1/1] §2Honip: §aJust cast one of your fancy spells!
+§7[1/2] §2Honip: §aHuh? You lost your sponge?
+§7[2/2] §2Honip: §aWell, here's another one for ya'!
+§7[1/1] §2Barman: §aI've seen lots of pirates, but this... Well, that's no pirate. It's like a child tryin' to act like one.
+§7[3/3] §2Pirate: §aIf ya want, you can always pick up some seeds 'round here and feed the chicken.
+§7[2/2] §2Pirate: §aHe ain't scared of anything, which makes him the best pirate 'round here!
+§7[1/4] §2Honip: §aThat was... Phew... That was something.
+§7[2/4] §2Honip: §aNow, for an even bigger surprise...
+§7[3/4] §2Honip: §aWhat the hell, soldier?? What don't you get in the "soldier" part of your job?
+§7[4/4] §2Honip: §aCome, let's figure some things out.
+§7[1/7] §2Honip: §aYou've been a massive disappointment, y'know?
+§7[2/7] §2Honip: §aBut you can still redeem yourself.
+§7[3/7] §2Honip: §aFollow me, I'll explain on the way.
+§7[4/7] §2Honip: §aI mentioned a rat problem earlier... It's, uh, not a small one.
+§7[5/7] §2Honip: §aWe've got gunpowder to retrieve, so you're the one who's gonna clear the hold.
+§7[6/7] §2Honip: §aSo get in there... and try to kill everything, alright?
+§7[7/7] §2Honip: §aDon't be as bad as earlier. You're a soldier.
+§7[1/1] §2Pirate: §aAlright, I know he was like a fierce chicken or whatever, but this is just ridiculous.
+§7[4/8] §2Honip: §aSo, I've seen ya around town. You've got the soul of an adventurer, don't ya?
+§7[1/3] §2Barman: §aSo, how did it go? Hold on, why does your head look... swollen?
+§7[2/3] §2Barman: §aIt did look fishy. Maybe I should've warned you.
+§7[3/3] §2Barman: §aWell, they're still out there aren't they? Isn't it your job to go get 'em?
+
+§4You need a Spoon in order to advance!
+§7You need to snatch the treasure first before you escape!
+§7Cosmic magic is being studied presently by magical experts. There are few conclusive truths of cosmic energies, one such being that it is only found in things fallen from the sky.
+§7The meteors and comets that have fallen are difficult to study, as not only does each color or type of fallen meteor appear to have different magical effects on its environment...
+§7...but§7 many types of meteor have been found to induce a creeping insanity in those exposed to it for extended periods. Three initial cosmic researchers fell prey to this effect.
+§7Small samples and meteor shards appear generally safe, but are to be treated with the utmost care and caution. Gavellian law outlaws non-registered usage of cosmic materials.
+§7Most magic items require a "focus" in order to draw out and direct their magical energies. Many items are usable as foci, but certain items have been found to be far more effective than others.
+§7Jewels and precious stones are easy to channel magic through, and thus are often used in conjunction as basic foci. Certain gems have inclination towards specific elements...
+§7...most§7 often indicated by the color of the gem, but all are applicable for general purposes.
+§7A less common type of focus is found in the form of Runes. They are a magical unknown, for all intents and purposes, with each specific rune seeming to have a different magical inclination.
+§7Only five types of Runes have ever been found, and after a disastrous attempt at combining Runic power, horrifically powerful Rune Guardians have begun to appear in Gavel to guard them.
+§7Due to this, the remaining stockpile of Runes continues to dwindle as they are used and sold between their holders, or hoarded by the wealthy.
+§7Quartz is a versatile magical material useful in nearly any magical item in some fashion.
+§7Due to its natural ability to passively absorb magical energy, it is a phenominally applicable material for magical batteries or storage.
+§7Magical marvels such as the electromagic generator in Llevigar are powered primarily by quartz and related materials.
+§7However, it has its limits. While it is effective at storing energy, it can only store a finite amount.
+§7Overloading quartz with magical energy can cause it to create magical discharge, which can overcharge nearby quartz as well, causing violent chain reactions.
+§7[+1 Bottled Water]
+§7Sounds like you're being dragged around...
+§7You pick up a small sign...
+§7It reads: §7§o'Behind you, idiot.'
+§7If you lose your sponge, Honip can give you a new one on the deck.
+§7[+1 Sponge]
+§7You take a look inside the furnaces...
+§7There's nothing, except for...
+§7An absurd amount of wood shavings, for some reason.
+§cIt's locked.
+§7Looks like the door that leads to the hold...
+§7It's locked. Probably because of the rat issue. Honip must have the key.
+§7You find some notes on the table.
+§7There's mentions of... A human cannon? How does that make sense?
+§7Apparently, only gunpowder is needed, as well as a fuse.
+§7You picked up some feathers.
+§7[+7 Seabird Feather]
+§7You cleaned the bodies! You should talk to Honip on the deck.
+§7This cannon is aiming slightly upwards, and it seems less powerful than the others.
+§7According to the notes you saw, it's probably the "human" cannon. This must be your escape route!
+§7Looks like this crate is filled with rat hair, with some eaten carrots.
+§7[+4 Rat Hair]
+§7Looks like this crate is filled with even more rat hair!
+§7[+3 Rat Hair]
+§7You defeated the rats! You should grab the gunpowder and the fuse before leaving.
+§7[+1 Gunpowder Crate]
+§7[+1 Cannon Fuse]
+§7You put the gunpowder in the cannon and attach the fuse...
+§7Looks like it's fully functional. Make sure the pirates don't see you! Once you leave, you won't be able to come back.
+§7You crawl into the cannon...
+§7It's a coconut.
+§7You dig up some sand...
+§7There's more sand.
+§7It's a palm tree.
+§7Huh? Something's approaching off in the distance...
+§7Looks like they're headed toward the island! Is that..?
+§8§l[1/10] §7Monsters Killed
+§8§l[2/10] §7Monsters Killed
+§8§l[3/10] §7Monsters Killed
+§8§l[4/10] §7Monsters Killed
+§8§l[5/10] §7Monsters Killed
+§8§l[6/10] §7Monsters Killed
+§8§l[7/10] §7Monsters Killed
+§8§l[8/10] §7Monsters Killed
+§8§l[9/10] §7Monsters Killed
+§7[+1 Beastly Wings]
+§7[-1 Beastly Wings]
+§7[-1 Corrupt Pearl]
+§7You quickly escape the worm before it eats you...
+§7Is that the monster that captured Lucio?! Don't let it get away!
+§4You shouldn't enter that hole!
+§7This pickaxe can only be used a few times as it's almost completely broken...
+§7As you get a new pickaxe, the cracks reset allowing you to try again.
+§4Be careful! You can't jump in the tar...
+§7You've already broken this area!
+§4You can't use spells! Try again...
+§4Though this hole in the wall seems a bit suspicious, you can't see anything past it. It's probably nothing.
+§7Looks like a treasure room, but this isn't the way to get in.
+§7Besides, treasures aren't gonna lead you to escape.
+§7Maybe you could somehow use it..? There's no way to tell how dangerous it is. Probably very.
+§7It must be the one up you saw up there! That's the way to escape!
+§7Who knows, maybe there's gunpowder in there?
+§7You picked up some seeds.
+§cYou already got fuse.
+§cYou've got enough gunpowder already.
+§7[+2 Emerald Blocks]
+§cYou probably shouldn't leave the island just like that. Who knows what lurks in the waters.
+§7You can see a bit of the hold through these bars...
+§7Rats can be heard... But how many are there, exactly?
+§cYou probably shouldn't leave the boat just like that.
+§7Looks like this crate is filled with rat hair...
+§7Looks like this crate is filled with even more rat hair, and eaten carrots!
+§7You picked up a dusty key.
+§7[+1 Potion of Shrinking]
+§7Maybe you can break the ice with something close by...
+§7That successfully broke the ice and the water is now running freely.
+§7THERE IS NO WAR INSIDE THE FRUMAN WALLS. THERE IS NO WAR INSIDE THE FRUMAN WALLS. THERE §7§kIS §7NO §7§kW§7AR INSIDE THE FRUMAN WALLS. THERE IS NO W§7§kAR I§7NSIDE THE FRUMAN WALLS.
+§7You defeated the rats! You should grab what you find in the hold before leaving.
+§7That's just a map of Nemract.
+§7You pick up some notes.
+§7There are mentions of a hidden key in the hold...
+§7It's a... pumpkin? How did this get here?
+§7It's a weird-looking sea plant.
+§4An invisible force pushes you back from this side...
+§7As dangerous as it sounds, for now finding gunpowder is priority.
+§7Seems like it likes you now!
+§7Huh? It looks like there's a hidden lock in this bookshelf!
+§7Where could the key be? Does the crew know about this?
+§7It's barely visible, it's probably not going to help on escaping.
+§7That's definitely not a place to store gunpowder, nor a fuse.
+§7You picked up a peculiarly tasty-looking bone.
+§7The letter says to meet a boat captain on the broken docks next to the Seaskipper, and to "have faith". What does that mean?
+§4This is not the place to go right now!
+§7You need to finish your schedule before you start your day!
+§7You look at the papers...
+§7The fire class has been restarted...
+§7The meteor sample has been interacted with...
+§7The void sample has been interacted with...
+§7The quartz sample has been interacted with...
+§7The species class has been restarted...
+§7As you leave the cave your wings vanish...
+§7As you enter the cave your wings come back...
+§4You shouldn't go further inside yet...
+§7It looks like a mining machine that’s hundreds of years old. What was it mining though?.
+§7It has no §7§lfuel §7left, §7maybe you can start it again?
+§7You look different in the mirror. It is a reflection of your inner self.
+§7Did your soul just stop following you?
+§7Holding the Soul Retainer seems to switch your location with your soul...
+§7Where did your soul go?
+§7When soul and body synchronize, the way is opened...
+§7Your soul seems to be slipping away from reality...
+§7A blood trail?
+§4You should probably explore this cell before trying to escape...
+§cYou hit an invisible wall. Looks like you can't enter this room.
+§7Looks like they're headed toward the island!
+§4Something about this place just seems... unnervingly dangerous.
+§4It's windy on the hill. The cold is holding you back.
+§7Your pickaxe has broken! If you don't have enough blocks to go through the tan, get a new pickaxe and try again...
+§7Lucio's body appears out of the Enraptured Obsessor. He must have become one.
+§7You must find the Elphaba and Aledar before it's too late.
+§7Is that the monster that captured Elphaba?!
+§7You have to find a way of following them to the top!
+§7Right-Clicking this Item emits sound connections with the Irritacks…
+§7It's... Elphaba! Aledar might still be alive… Quick!
+§7You should use these body parts to enter the worm and find Aledar...
+§7This is where Aledar was taken… Perhaps you can lure the worm somehow.
+§7The stomach acid seems to rise and fall consistently.
+§7Aledar must've fallen somewhere near the road too!
+§7The crystalized magic on the floor seems unstable. Maybe something can shatter it...
+§7A pathway has been created.
+§7The strange shard is reacting to the floor...
+§3[32 Fuel] §7should be more than enough.
+§7[-32 Fuel Sprites]
+§7The machine started!
+§7The loud noise is bound to attract creatures of the expanse.
+§7It looks like the machine is about to break through!
+§7You should get the skull before leaving...
+§4The strong stench of gas is holding you back.
+§4You need to wait for every platform to disappear before trying again...
+§7The platforms seem to disappear... You must swap with your soul quickly to make it to the end.
+§7You must look at the mirror and wait for the platforms to appear on the other side before swapping sides...
+§7Where does all of this lead?
+§7Where did your soul go?!
+§7You should try reproducing your soul's steps to find the exit...
+§7You soul runs beneath your feet.
+§7It leads you onwards..
+§7Retrace the steps of your soul to keep up...
+§7Your soul drifts further from you. Will you ever get it back?
+§7Why can you fly here...?
+§7The floor's rising! You need to escape upwards!
+§7The floor's rising! Don't let it get to you!
+§7[-1 Soul Retainer]
+§7A door slamming open is heard in the distance...
+§7Right-Click again to confirm and restart the wave in case of issues
+§7You may always re-join the Escort mission here.
+§7The passage to the next area has opened...
+§7You've left the darkness...
+§7Is this… Lutho? It seems different.
+§7I am you.
+§7You are me.
+§7We are one.
+§7Not here, though.
+§7The Obelisk offers us different paths.
+§7It offers to protect me, while leaving you in reality.
+§7If you want to to return as one, you must heed my words.
+§7I may not be able to speak in the physical realm...
+§7But your actions... Your deeds... They shape me, hurt me, heal me.
+§7Choose our path wisely.
+§7Hours have passed. The negotiations have ended, and you have been called to the throne room.
+§7Something is holding us back.
+§7You must keep going.
+§7We must keep going.
+§7Are you sure we want to face reality?
+§7The only one holding us back is us.
+§7Back to reality... We should talk to that citizen again.
+§7[2 Grook Killed]
+§7[3 Grook Killed]
+§7[4 Grook Killed]
+§7You weren't successful in resurrecting the cow to it's healthy state. Try again.
+§7[1 Grook Killed]
+§7[5 Grook Killed]
+§7You successfully resurrected the cow.
+§7[+2176 Emeralds]
+§4You need a crystal to activate the spell!
+§7You should stay on the main path.
+§7An explosion has occured somewhere in the arena...
+§7It appears the boulder that was once blocking the way is gone...
+§7It appears that green substance on the walls has bouncing properties.
+§7Looks like you're past the spikes. You can see the tower that was visible past them from here. Hopefully there is a way to break the spikes from this side nearby...
+§7You need to cast a spell to break the spikes!
+§7+20480 Emeralds
+§7+1 Eldritch Outlook Key
+§7Inspecting the strange crystal sparks a memory.
+§4You already have a shard
+§7This will teleport you back on the pirate boat. Click again to confirm.
+§7[+1 Recipe]
+§7The crafting table isn't responding. Looks like you haven't got the right items.
+§7The crafting table responds, and the materials shape themselves into a rather fetching amulet.
+§7[+1 Amulet]
+§7[+1536 Emeralds]
+§7Aledar wouldn't want you going too far.
+§cYou probably shouldn't leave the island while the seaskipper is waiting.
+§7[6 Grook Killed]
+§7[7 Grook Killed]
+§7[8 Grook Killed]
+§7[9 Grook Killed]
+§7[10 Grook Killed]
+§7You've probably killed more than enough.
+§7[+640 Emeralds]
+§7[+1 Dragon's Eye Bracelet]
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 0/7
+§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 6/7
+§7Use the gunpowder and the fuse to activate the cannon and escape
+§cLet's avoid blowing everything up for now.
+§7Artifice is, to simplify, the art of creating magical materials. This book will teach you about various magical materials and methods of crafting your own artifacts.
+§7Magical artifacts are nearly as common as pebbles on the roadside, even moreso in Gavel. Often referred to as Relics, these items were made independently of each other...
+§7...but§7 tend to follow a similar structure. Magic can only be focused in certain ways, after all. Many reliquary items are outdated by today's standards, though theorists are baffled by...
+§7...the§7 presence of such relics in Wynn. Magically-gifted individuals were not present for hundreds of years after the deaths of the Twains.
+§7Some surmise that other entities than humans are responsible for their creation, which is supported by the presence of large amounts of artifacts in the Time Valley and Almuj regions.
+§7A good place to start with crafting is in the humble necklace, and for that you would need string and magical materials. Even the string is relevant to the magical crafting process, however.
+§7Derived from processed crops, ones such as Barley, Rye, or native Wynnic crops are less effective than Gavellian crops such as Hemp.
+§7In particular, the feathery structure of Sorghum, also known as Avo leaf, is very conducive towards the channeling of magical energy.
+§7An exception to this rule is with the recently dubbed "Decay Root" derived from Gavellian plants sapped of their magical energy. Decay Root absorbs magic and can leave sources completely drained.
+§4You get the feeling you shouldn't be here...
+§7The area past the gate should not be explored, a sinister energy can be felt.
+§7You should use the void holes to cross the spikes.
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 5/7
+§7Talk to Honip to know what to do next or look for clues on how to escape
+§7No matter how hard to try and pull the blade out, it does not budge...
+§7You need an item to break this...
+§7Powders, while simple in actual structure, are often misunderstood except by enchanters and artificers.
+§7Being made of specific blends of various items with magical ties to elements, certain powders are easier to create than others. Magical plants are easier to grind down than magical minerals, for instance.
+§7After each item is ground to dust, enchanters purify the blend to remove extraneous aspects, leaving only the pure elemental powder in its wake.
+§7Items more heavily attuned to a specific element will create a stronger blend of powder, but even items with the slightest connection to an element can conceivably be used to create a powder.
+§7To apply powders to items in a refined way, one must either incorporate the mix into the base construction of an item, or utilize the energies within for an enchantment.
+§7Merely sprinkling powders over other things will not generate any magical effects, although some artists are known to use powders to make brilliant colors of paint, strangely.
+§7He's looking towards the bookshelves...
+§cYou don't have the key.
+§7You search the chest...
+§7It's filled with various items.
+§7[+3 Emerald Blocks]
+§7[+4 Waterlogged Branch]
+§7[+3 Oceanic Silt]
+§7[+3 Fake Tooth]
+§7[+2 Oceanic Sand]
+§7[+1 Reinforced Leather]
+§7That's all there was.
+§7Could it be linked to the bookshelves?
+
+§7[1/6] §2Seasum: §aUgh... I really, really, reeeeally don't want to go...
+§7[2/6] §2Seasum: §aHey, who are you?
+§7[3/6] §2Seasum: §aDo §ayou...not§a have any manners at all?! Just running into my parents' house like that! Jeez!
+§7[4/6] §2Seasum: §aI oughta... Hm. §aWell...maybe..§a.
+§7[5/6] §2Seasum: §aOh, I know! Here, go into my room real fast, and grab the letter in there.
+§7[6/6] §2Seasum: §aBring it to me when you do, I wanna make sure it's the right one.
+§7[1/1] §2Seasum: §aGo look for my letter in my bedroom, pretty please.
+§7[1/6] §2Seasum: §aYep, that's the right letter. I hope you like school!
+§7[2/6] §2Seasum: §aMy parents were super excited when that letter flew into my room, but magical school sounds so boring...
+§7[3/6] §2Seasum: §aI don't even want to learn magic! I just want to write my stories and play games. You can go instead.
+§7[4/6] §2Seasum: §aI know the picture on the letter is of me, but you can, um...
+§7[5/6] §2Seasum: §aYou can say you had a growth spurt! Uh, that should work, I think!
+§7[6/6] §2Seasum: §aNow go on, you should get out before my parents see you. I don't want them to find out I gave that letter away...
+§7[1/1] §2Seasum: §aThe school boat leaves soon! It is right next to the Seaskipper.
+§7[1/5] §2Boat Captain: §aHey! What are you doing all the way over here? This dock's broken.
+§7[2/5] §2Boat Captain: §aOh, a student, you say. Aren't you a little old to be learning fundamental magical knowledge?
+§7[3/5] §2Boat Captain: §aWell, if I could see your invitation letter, then?
+§7[4/5] §2Boat Captain: §a...hm§a. §aThis...wow§a, you really look quite different than the picture. Did you get a new haircut?
+§7[5/5] §2Boat Captain: §aWell, no judging from me! Keep walking to the end of the dock. Have faith!
+§7[1/2] §2Boat Captain: §aAlright everyone. Ready for a magical experience?
+§7[2/3] §2Boat Captain: §aWe're headed to the Nexus. You've been told where to go. If you've forgotten, ask your fellow students!
+§7[3/3] §2Boat Captain: §aIf you ever need to come back here, just walk out onto the dock again. Good luck, now!
+§7[1/3] §2Nell: §aThis weird looking place is actually a magical transportation hub.
+§7[2/3] §2Nell: §aEach tunnel leads someplace else in the world, but the transportation portals aren't always, §aehm...accurate§a? Let's leave it at that.
+§7[3/3] §2Nell: §aThere are also some secret passages around, supposedly...
+§7[1/1] §2Student: §aThrough the wall, right? I hope my uniform doesn't get dirty...
+§7[1/3] §2Mamui: §aPsst. Are you a student at Grookwarts?
+§7[2/3] §2Mamui: §aThis is the way in. Do you see that weird looking dirt wall?
+§7[3/3] §2Mamui: §aJust run straight through. Don't tell any non-wizard folks, though.
+§7[1/5] §2Cidre: §aHello, new students! Over here!
+§7[2/5] §2Cidre: §aWelcome to the island of Grookwarts! I will be guiding and helping all the new students.
+§7[3/5] §2Cidre: §aSo all of you will be getting two vouchers each, and with them you will need to buy one §a§lwand§a, and a §a§lbook or tome.
+§7[4/5] §2Cidre: §aYou can find everything here around the docks. Choosing your materials is §a§lvery important§a, so buy the ones that speak to you!
+§7[5/5] §2Cidre: §aWhen you're done, meet with Miss Una at the front gates!
+§7[1/1] §2Cidre: §aStudents, please gather your school material and start your day! One wand and one tome.
+§7[1/3] §2Egam: §aGosh, so many things, so little time!
+§7[2/3] §2Egam: §aHave you picked out your wand and book yet? I chose an Avo Pheonix Wand.
+§7[3/3] §2Egam: §aWait a minute, are you new here? You look really tall!
+§7[1/3] §2Una: §aAlrighty, fledgeling Grooks!
+§7[2/3] §2Una: §aSeems like you all have your materials in order. You are now free to enter Grookwarts and begin your lessons.
+§7[3/3] §2Una: §aThe door is just behind me. Walk on in!
+§7[1/1] §2Student: §aHush, hush! The speech will be soon!
+§7[1/3] §2Millie: §aThe welcoming dinner is starting soon.
+§7[2/3] §2Millie: §aI really don't feel like going, but I heard that the headmaster is doing a speech.
+§7[3/3] §2Millie: §aI just want to get started with my classes!
+§7[1/1] §2Student: §aHurry, take a seat! The banquet will be starting any second now!
+§7[1/10] §2???: §aMagical children of Wynn and Gavel alike... We welcome you here, to our fair academy.
+§7[2/10] §2Student: §aOh lordy, the headmaster! I didn't even see him come in!
+§7[3/10] §2Student: §aUhm... I don't see him at all, actually...
+§7[4/10] §2Headmaster: §aWell, I should hope you can see me now, all of you. Oh, what a splendid turnout this year!
+§7[5/10] §2Headmaster: §aApologies, I simply can't resist a bit of theatrics. But now, it is time to listen and learn, fledgeling Grooks.
+§7[6/10] §2Headmaster: §aWe knowledged mages and scholars, the Order of the Grook, are pleased to see each of you here. Whether you be a young mind aching with curiosity...
+§7[7/10] §2Headmaster: §a...or§a an old hat looking to refine their knowledge, all seeking to learn magic are welcomed here. We expect great things of you.
+§7[8/10] §2Headmaster: §aNow, to business. You will write your schedules for the semester. Look down on your paper and write in what classes you wish to participate in.
+§7[9/10] §2Headmaster: §aYou will need to choose four classes, one from each category. The categories are: Elemental Magic, Practical Magic, Magical Creatures, and Types of Magic.
+§7[10/10] §2Headmaster: §aThe schedule book is at the end of the table. Worry not, there is no limit on class size. If you wish to take it, you may take it.
+§7[1/1] §2Headmaster: §aJust fill in what subject you want to take and our guides will lead you to your classes.
+§7[1/1] §2Headmaster: §aThe element of bravery and resolve. Now, choose a Practical Magic lesson.
+§7[1/1] §2Headmaster: §aEffects and materials are intertwined in function, but each has applications independent of one another. Now, choose a Magical Creatures class.
+§7[1/1] §2Headmaster: §aSo you seek a broad spectrum of knowledge upon magicality! I wholeheartedly approve. Lastly, you must choose a Magical Type class.
+§7[1/1] §2Headmaster: §aWhat you take from the earth, you must give back. That's nature's way. Remember that as you learn. And with that, your schedule is completed.
+§7[1/1] §2Ghost Guide: §aI'll be leading you to your classes, everyone! Talk to me when you're ready to go.
+§7[1/10] §2Teacher: §aGood to see a decent turnout this year for my class. Too dangerous, pah! You can take this just fine.
+§7[2/10] §2Teacher: §aAnyways. The Fire element class. Many misunderstand just what fire stands §afor...but§a after today, you will leave with courage in your hearts.
+§7[3/10] §2Teacher: §aFire is, of course, related to physical fire, magma, etcetera. A burning torch is a source of fire magic, but that is not the only source of it.
+§7[1/2] §2Ghost Guide: §aAlright, fledgeling Grooks! Your first class is starting in just a minute. Follow me!
+§7[2/2] §2Ghost Guide: §aHere are the elemental classes. Step on in. Your magical journey truly begins here!
+§7[4/10] §2Teacher: §aCourage, bravery, and defensiveness are also tied to the fire element. Those stalwart and selfless, willing to sacrifice themselves for others.
+§7[5/10] §2Teacher: §aIn addition, although water is tied to healing magic, fire is tied to self-healing. Regenerative capacity, if you will. Many fire-based artifacts heal the user passively.
+§7[6/10] §2Teacher: §aAnd while they are on the verge of extinction after the war in the Molten Heights, the Dogun species used to embody fire and earth magic alike. It is a shame what happened to them.
+§7[7/10] §2Teacher: §aUnfortunately, it is also notable that corrupted creatures are often connected to fire, by nature of the corruption seeming to bring heat wherever it goes...
+§7[10/10] §2Teacher: §aAre you ready? Summon your bravery.
+§7[1/3] §2Teacher: §aOk Grook. I hope you're ready.
+§7[2/3] §2Teacher: §aLets start with 1 fireball.
+§7[3/3] §2Teacher: §aGo!
+§7[1/3] §2Teacher: §aOk Grook. I hope you're ready for another test.
+§7[2/3] §2Teacher: §aNow with... 3 fireballs!
+§7[1/3] §2Teacher: §aOk Grook. I hope you're ready for the final test!
+§7[2/3] §2Teacher: §aWith only 5 fireballs!
+§7[1/1] §2Teacher: §aHey watch out, don't get too close.
+§7[1/2] §2Teacher: §aWell done, fledgeling Grook! Continue to sharpen your instincts. You'll be a fine hero someday, I am sure of it.
+§7[1/1] §2Ghost Guide: §aMoving swiftly on, the next class is just across the way. Follow me!
+§7[1/1] §2Teacher: §aEager much? Keep yourself seated for now.
+§7[1/10] §2Teacher: §aOkay class, everyone take your seats, and listen up. This class is going to be interesting.
+§7[2/10] §2Teacher: §aAs you know, this class is all about magical effects, specifically those tied to various materials, and how they'll affect you!
+§7[3/10] §2Teacher: §aThis is going to be a hands-on learning experience, so those of you with weak constitutions may request to skip the demonstration if you're concerned for your health.
+§7[4/10] §2Teacher: §aIf you've read my books, you know about Quartz, and how dangerous it can be if overcharged. So, of course, we have an overcharged sample here so you can feel the signs of it.
+§7[5/10] §2Teacher: §aIt may be explosive, but it will be in a controlled manner. The worst that'll happen to you is your face will get a bit dusty, or your glasses will fall off.
+§7[6/10] §2Teacher: §aMagical crystals, as we have to my left here, can be charged with all kinds of different effects. This is an incredibly valuable aspect for artificers.
+§7[7/10] §2Teacher: §aDepending on the formation, they can have natural effects as well. These crystals were found in Gavel's floating islands, §aand...well§a, let's say it's difficult to keep it in its case.
+§7[8/10] §2Teacher: §aOur last sample is of cosmic material, and if you're sickened easily, then don't examine it. Its effects are mostly unknown, but one thing's certain...
+§7[9/10] §2Teacher: §a...it's§a dangerous to be exposed for long periods. Now, each of you will go back behind me, and examine and interact with each of the three samples provided.
+§7[10/10] §2Teacher: §aOnce you've done so, then you can leave. Hands-on training is the best way to learn, after all.
+§7[1/2] §2Teacher: §aWell done. How did that feel?
+§7[2/2] §2Teacher: §aPersonally, the void sample is the most interesting to me. You may now leave the classroom.
+§7[1/1] §2Ghost Guide: §aThere's a bit of a walk to your next class. Follow me.
+§7[1/1] §2Ghost Guide: §aThese staircases were supposed to move, but... That was too much work to put together, apparently. They're a pain to navigate, aren't they?
+§7[1/14] §2Teacher: §aHello, students. This is your magical creatures class, and I will be your instructor.
+§7[2/14] §2Teacher: §aDifferent species have different levels of innate magicality. This is often an invisible aspect of the species. You must never assume.
+§7[3/14] §2Teacher: §aTo begin with, Doguns. They are ancient creatures, artificial-seeming at first. Despite this, they are highly adept at earth and fire-based magic.
+§7[4/14] §2Teacher: §aAble to quite literally move mountains, it is theorized that they were the ones to carve out the inside of the Molten Heights into the caves we know today.
+§7[5/14] §2Teacher: §aTales also tell of their utilizing demonic energy for various purposes. However, we are only able to assume their magical energy from Dwarven tales, as they are nigh-extinct.
+§7[6/14] §2Teacher: §aMoving on. The term "Greenskin" is a catch-all for Trolls, Goblins, Orcs, Ogres, and Hobgoblins. Some include Gerts into this definition, though by technicality they are separate.
+§7[7/14] §2Teacher: §aThough many Greenskin societies have mystical practices, the only known way for them to utilize magic is through artifacts. They've little magical potential.
+§7[8/14] §2Teacher: §aMeanwhile, Villagers are of the opposite persuasion. High magical potential, often unrealized out of laziness.
+§7[9/14] §2Teacher: §aHumans are often thought of as more magical than Villagers, due to Fruman soldiers seeming to know some magic innately, but this is untrue.
+§7[10/14] §2Teacher: §aDwarves have a similar level of magicality to Humans, but like Villagers, it often goes unrealized. Their culture values physical strength more.
+§7[11/14] §2Teacher: §aIt is theorized that the reason for this is due to their distaste for the demonic energies of the Doguns. They reject their magic potential often, such that it is lessening over time.
+§7[12/14] §2Teacher: §aInversely, Elves have a deep connection to their magicality. Despite their reclusiveness, they are known for their open share of magical energy within their own society.
+§7[13/14] §2Teacher: §aThe outcast Elves of Efilim have shared their connection to what they refer to as 'The Light.' This connection is supposedly unfathomable, but guides them and protects them.
+§7[14/14] §2Teacher: §aNow, we see if you were paying attention. You will come here and order the societies I have referred to in this class from least magical, to most.
+§7[1/1] §2Teacher: §aOops, that's not right. Try again.
+§7[1/1] §2Teacher: §aWell done, you got it right!
+§7[1/2] §2Ghost Guide: §aNext class is actually rather close!
+§7[2/2] §2Ghost Guide: §aJust follow me.
+§7[1/10] §2Teacher: §aWelcome in, guys and §agals...we're§a learnin' about nature magic today!
+§7[2/10] §2Teacher: §aThere's two main ways of usin' nature magic... Shamanism and Druidism. Two sides of the same coin, man.
+§7[3/10] §2Teacher: §aDruidic practices tend to deal with healing more, and nurturing. When life's created, it gives off §aenergy...and§a Druids use that energy for their magic.
+§7[4/10] §2Teacher: §aShamanic skills are a lot more direct, man. They take the life from other things and use that to do their stuff. It's way more varied than Druidic magic.
+§7[5/10] §2Teacher: §aEach has its ups and downs, man. Druidism is chill and §ahelpful...but§a you can really expand your mind with Shamanism, buddies.
+§7[6/10] §2Teacher: §aEither way, it's all about equivalent exchange, y'see? You can't get somethin' from nothin', man. Either make life or take life.
+§7[7/10] §2Teacher: §aBut, it's not picky about what life you take, man! A good shaman takes from plants and animals, not people!
+§7[8/10] §2Teacher: §aDon't be a Slykaar, kiddos. He asked for human sacrifices, but he lived in a jungle, man! Like, what the hey! He coulda done anything else!
+§7[9/10] §2Teacher: §aAnyways. Our test today, little buds, is to practice some shamanic skills. We got a sick cow in the back, and you're gonna nurse it back to health.
+§7[10/10] §2Teacher: §aYou'll need to sacrifice some old Grooks, but it has to be just the right amount, man! The practice is through the door behind me.
+§7[1/1] §2Teacher: §aWhen you think you have the right amount, activate the altar and see your results, man!
+§7[1/1] §2Teacher: §aYou may now leave.
+§7[1/2] §2Teacher: §aGroovy work, man! You're at one with nature!
+§7[2/2] §2Teacher: §aYour feathers are all grown out, man! Time to head out!
+§7[1/2] §2Ghost Guide: §aThat's all four classes! I hope you found them magically enriching! Now, off to the graduation hall!
+§7[2/2] §2Ghost Guide: §aIt's the room all the way at the bottom of the stairs. Hurry, don't hold up the ceremony! It won't start until everyone's there.
+§7[1/10] §2Headmaster: §aTake a seat. The ceremony is starting.
+§7[2/10] §2Headmaster: §aAnd so, your teachings, or at least their basics, have ended. Your magical feathers have started to grow!
+§7[3/10] §2Headmaster: §aYou have all been performing very well during your classes today. I've heard quite a bit of praise from the teachers being passed around.
+§7[4/10] §2Headmaster: §aBut now, for your efforts, you shall not go unrewarded. You will leave here with more than simply knowledge.
+§7[5/10] §2Headmaster: §aYour tools have shaped your minds, subtly but inexorably. And so with that, what you leave with today, both in mind and in treasure, shall be different for each of you.
+§7[7/10] §2Headmaster: §aThere is a reason I've called you up first, you know. Recall what I said about old hats earlier? Don't think we didn't notice the armor, or the weapon, or the grim countenance.
+§7[8/10] §2Headmaster: §aBut no need to worry. Those who truly have the drive to become learned in the ways of magic, no matter who they are, will always find their way here, and be accepted.
+§7[9/10] §2Headmaster: §aA shame about Seasum, but not to worry. Now, hand over your materials, and you'll receive your rewards.
+§7[10/10] §2Headmaster: §aAnd there you have it. Your feathers are grown, and you can spread your magical wings! Good luck on your adventures, Wynn soldier.
+§7[1/1] §2Headmaster: §aThe element of destruction and force. Now, choose a Practical Magic lesson.
+§7[1/1] §2Headmaster: §aArtificing is a very useful tool for the burgeoning magic user! I'm fond of it, myself. Now, choose a Magical Creatures class.
+§7[1/10] §2Teacher: §aHee hee, take your seats, take your seats, TAKE. YOUR. SEATS! A marvelous batch of eager students today!!
+§7[2/10] §2Teacher: §aAlmost as marvelous as the powers of Thunder! Energy! Pure, unfocused energy! Devastation, desolation, and industrialization all alike!
+§7[3/10] §2Teacher: §aYes, yes! Thunder is technical and versatile! Unreliable to all those who don't know how to rely upon it, to those dextrous of hand and mind!
+§7[4/10] §2Teacher: §aBut woe, woe, Thunder is reviled, reviled! Pure energy has no morality! If used for good, yes yes, ho hum, but if used for evil, oh, burn the witch! Burn, burn! Evil, they say! Pah!!
+§7[5/10] §2Teacher: §aAll magicks are unaligned with silly concepts such as morality. They are pure chaos! But thunder, the element of energy and force, it seems ever so EASY to use for evil...
+§7[6/10] §2Teacher: §aAnd evil has found it, found it! CORRUPTION!! DEMONS!! Forces anathema to us, but knowledged in the ways of force, and thus, thunder! So terrible, terrible, and thunder mages feared, feared...
+§7[7/10] §2Teacher: §aAnd then, then! Joyous day, the Corkians arrived with their marvelous machines, and their electromagic! Thunder controlled, thunder tamed! The wonder of it all!
+§7[8/10] §2Teacher: §aElectromagic makes handles crank, gears spin, metal move, gives sheer stones the power to THINK, and to PLAN! A Corkian original, and a splendid, splendid development reintroduced!
+§7[9/10] §2Teacher: §aAnd so, you shall see for yourselves! Electromagic at work! You will control thunder and electricity, and make the machines bend to your will today, today, this shocking day!
+§7[10/10] §2Teacher: §aThe mechanism is behind me now! Come up, come up! See the power of thunder, shackled by our whims, won't you, ashwaobaka?!
+§7[1/2] §2Teacher: §aWhee hee hee! Thunder tamed, thunder shackled, and your magical wings unbound by such petty concepts, ashwaobaka! What a show!
+§7[2/2] §2Teacher: §aExpand your knowledge ever further, further! Your task is complete, complete, and your next awaits!
+§7[1/8] §2Teacher: §aAlright everyone, take a seat but don't get comfy. You'll be getting up soon. Hope you brought your reading glasses.
+§7[2/8] §2Teacher: §aSee, I'll just be giving you a short primer, then sending you out for your practical exercise, since I have all this written down already.
+§7[3/8] §2Teacher: §aThe basis of this class is that many materials, whether you know it or not, are inherently magical in some way or another. If you want to be an artificer, you need to know how each one works.
+§7[4/8] §2Teacher: §aThankfully, the field of artifice is a very popular one, so there's a wealth of knowledge out there on magical materials and on how to use them effectively.
+§7[5/8] §2Teacher: §aHeck, Wynn soldiers are cobbling together rings out of copper and old spider silk, so you know this sort of thing is easy to get into. Tough to master, though!
+§7[6/8] §2Teacher: §aFor those intimidated, you don't need much crafting knowledge for this class; you'll be reading up on everything you need to know in the back.
+§7[7/8] §2Teacher: §aYou all will be crafting a magical amulet using different items. I've got stockpiles in the back; everyone will be crafting a different kind of necklace.
+§7[8/8] §2Teacher: §aHere's a note of what you should craft. Once you have the materials you think you need, come to the crafting table. It's enchanted, and will craft the item for you if you have what you need.
+§7[1/2] §2Teacher: §aMhm, that's the ticket, ashwaobaka. If you're interested in learning more, you can probably find my books at most libraries.
+§7[2/2] §2Teacher: §aYour feathers are coming in just nicely, fledgeling. You can scoot off to your next class now.
+§7[1/1] §2Headmaster: §aAh, yes... As well-liked as that class is, those Wybels are more trouble than they're worth to keep sometimes. Lastly, you must choose a Magical Type class.
+§7[1/14] §2Teacher: §aAlright, fledgeling grooks. Time to hit you all with the info you're really here for!
+§7[2/14] §2Teacher: §aWybels! Pronounced like ''nibble,'' they're a rather popular pet nowadays. But you all knew that, you want to know where they came from.
+§7[3/14] §2Teacher: §aThe explanation that we got was that they lived in the Ahms region, and when it split open, they eventually burrowed onto the surface of the Sky Islands.
+§7[4/14] §2Teacher: §aBut no one actually KNOWS for sure. That means they. Could. Be. ANYTHING! What could lie beneath that veneer of fluff and playful demeanor?!
+§7[5/14] §2Teacher: §aOh, speaking of fluff. They wooly fur never actually stops growing, ever, and neither do their hooves, their horns, or their teeth. They shed often.
+§7[6/14] §2Teacher: §aThese materials have innate magical energy to them. Stable like lodestone and reliable like quartz, but not as powerful as either. Interesting, that a fluffball has that potential!!
+§7[7/14] §2Teacher: §aWybel fluff is also able to be boiled, and it turns into a sticky molasses-like substance. It's used for candy, and it's very §apopular...but§a it's all POISON!!
+§7[8/14] §2Teacher: §aIt's POISON, I tell you! Wybel meat is horrendously inedible! It'll give you the worst stomachache of your life! The candymakers are feeding us DEATH!
+§7[9/14] §2Teacher: §aAnd the worst part is, if too much fluff gathers up in one spot, ANOTHER WYBEL APPEARS! They reproduce by budding!! Growing out of lint and dust! It's a no-win game they're makin' us play!
+§7[10/14] §2Teacher: §aWybels do have some good use §athough...they§a can sniff out sources of cosmic magic, like a pig sniffs out truffles. Sometimes they even try to take it home.
+§7[11/14] §2Teacher: §aIt's almost like they miss it, somehow. It's almost like they might be FROM outer space! It's ALMOST like they bring insanity-inducing things into our houses ON PURPOSE!
+§7[12/14] §2Teacher: §aThey're here to kill us all, I swear it! How else would you explain a wybel VAPORIZING a group of poachers? Ten colors of wybel, every one of them rotten evil!
+§7[13/14] §2Teacher: §aEveryone says there's only nine, but WE know the truth! There's a tenth out there, an ultimately powerful one that wants us all gone. Pray you never see it, kids.
+§7[14/14] §2Teacher: §aAnyways, my lesson's safe from all that. All you have to do is re-order these plush Wybel toys on the stand. You'll figure it out once you're up here.
+§7[1/1] §2Teacher: §aAlrighty, fledgeling, good job. You're armed with the REAL truth now! Go on to your next class.
+§7[1/3] §2Mamui: §aOh, hey. You're that student from earlier.
+§7[2/3] §2Mamui: §aNow that you've graduated you probably don't need to use the secret wall anymore.
+§7[3/3] §2Mamui: §aDo you think we should make it something other than dirt? My robe gets dirty easily...
+§7[1/1] §2Una: §aHey! No sneaking in!
+§7[1/1] §2Headmaster: §aThe element of freedom and high spirits. Now, choose a Practical Magic lesson.
+§7[1/1] §2Headmaster: §aTo learn of the Corruption is a great risk. While admirable, remember your mind has limits. And with that, your schedule is completed.
+§7[1/12] §2Teacher: §aArright class, the sooner we start, the sooner we finish, so everyone, take your seats! You'll be getting up soon enough anyways!
+§7[2/12] §2Teacher: §aMovin' right along. Air! You're breathin' it, we're surrounded by it, but ain'tcha know what it's all about yet, so pay attention.
+§7[3/12] §2Teacher: §aAir is the element of freedom! Speed, wind, and agility. If you're trained well in agility, attacks'll seem like they just phase through ya!
+§7[4/12] §2Teacher: §aBut over and above that, 'cause of air's ever-presence, it's one of the most versatile kinda of magic in existence. People use it in all sorts of ways.
+§7[5/12] §2Teacher: §aOver in Gavel, the Bantisu Air Monks have managed to extend their sight by the wind! They use this to help guide folks who get lost in that canyon over there.
+§7[6/12] §2Teacher: §aMany winged sorts a'creatures are tied to air, but not all of them. Some air magic users just straight-out float! Now wouldn't that be nice, eh?
+§7[7/12] §2Teacher: §aDue to their tenuous physicality, souls and spirits are also often related to air magic. Makes ya wonder if you could just blow a ghost out the window!
+§7[8/12] §2Teacher: §aAnd finally, some old, old tales tell of a woman who crossed the sea before it was calmed using air magic to fly. 's just an old legend, but an interesting one.
+§7[9/12] §2Teacher: §aNow, onto the practical test! It's time to get those bones a-shakin'! You'll be runnin' an obstacle course I have set up, but with a twist.
+§7[10/12] §2Teacher: §aEveryone up to the table! You'll need this feather with ya to get through. It'll help you jump higher!
+§7[11/12] §2Teacher: §aThe goal is to grab three crystal balls I put in the obstacle course. Once you find 'em, bring 'em back to me.
+§7[12/12] §2Teacher: §aThe course is behind me. Shake a leg, now!
+§7[1/3] §2Teacher: §aLessee here, one, two, three, yes indeedy! You got through that pretty quick!
+§7[2/3] §2Teacher: §aNow, if you'll just hand me back that feather ya got there...
+§7[3/3] §2Teacher: §a...then§a you'll be all done! Congrats, little fledge, you've finished this class! Now get on along to your next one!
+§7[1/2] §2Teacher: §aMhm, that's the ticket, DigitalJezter. If you're interested in learning more, you can probably find my books at most libraries.
+§7[1/1] §2Teacher: §aHey hey! You gotta hear all this first!
+§7[1/18] §2Teacher: §a...I was hoping for a smaller class size.
+§7[2/18] §2Teacher: §aCorruption is incredibly §adangerous...it'll§a be tough to keep so many students safe. If anyone wishes to leave, you may.
+§7[3/18] §2Teacher: §aNow... Corruption is a force of nature §aof...some§a description. Yes, you heard me right. We don't actually know much about it.
+§7[4/18] §2Teacher: §aEven though it's plagued the Wynn province for a thousand years, the way it behaves is so incredibly alien in nature that it's nigh-impossible to study.
+§7[5/18] §2Teacher: §aWe know it raises undead bodies... The working theory is that the more heavily injured a target is, the more susceptible they are to being corrupted.
+§7[6/18] §2Teacher: §aAnd...well§a, you can't exactly get more injured than "dead." Hence, the growth of zombies and skeletons and all, over in Wynn.
+§7[7/18] §2Teacher: §aIt appears to spread by a complex "root" system. A scientist from Nesaak, Orikal, has studied this. The corruption spikes appear to spread it in greater concentration.
+§7[8/18] §2Teacher: §aAs for the effects on your person, most often paranoia and anger are seen. And that's about the only consistent thing with it; it affects everyone slightly differently.
+§7[9/18] §2Teacher: §aThe worst part is that practically every single thing we've touched on here is conjecture and theorycrafting! The force of corruption is terrifying.
+§7[10/18] §2Teacher: §aThe only thing we know for certain is that powerful ice-based magic can halt corruption, as seen in the Nesaak region.
+§7[11/18] §2Teacher: §aNow, the dangerous part. Everyone, come up past my desk here. We'll examine a corrupted creature in a controlled environment.
+§7[12/18] §2Teacher: §aWe have one in captivity, and its cage is reinforced with the strongest metals we §ahave...so§a dear god let it be enough.
+§7[13/18] §2Teacher: §aBringing it out §anow...be§a sure to back up. We don't want anyone caught in the crossfire here.
+§7[14/18] §2Teacher: §aOne thing to note about undead §acorrupteds...they§a can't be cured. You can weaken them, but that's about it. §a...wait..§a.
+§7[15/18] §2Teacher: §aWait, why's it spreading here? It's never done this before! E-everyone, back up, now!
+§7[16/18] §2Teacher: §aA-as you can see, corruption is very powerful, eheheh, c-can someone go get another teacher or something?!
+§7[1/2] §2Teacher: §aDear §alord...that§a was awful. DigitalJezter, I can't believe you were able to kill that thing!
+§7[17/18] §2Teacher: §aWait, no! It's corroding the bars! Everyone, RUN! NOW! GET OUT OF HERE, CLASS DISMISSED!!!
+§7[2/2] §2Teacher: §aClass absolutely dismissed. We've got to cancel this §aclass...it's§a far too dangerous for the students...
+§7[1/2] §2Seasum: §aI do not wanna go to schooool! 
+§7[2/2] §2Seasum: §aMaybe... Do you wanna go in my place? You have to be level 59 first though. Hurry!
+§7[1/2] §2Teacher: §aMhm, that's the ticket, CTR_Emeralds. If you're interested in learning more, you can probably find my books at most libraries.
+§7[1/2] §2Teacher: §aDear §alord...that§a was awful. CTR_Emeralds, I can't believe you were able to kill that thing!
+§7[1/1] §2Pirate: §aWhat's wrong Pep? Want a bone? Well too bad, we're cleanin' em!
+§7[1/1] §2Pirate: §aPep is just a treasure, ain't I right? I'm glad you're taking care of him too!
+§7[1/2] §2Pirate: §aOh, there he is! Hold on...
+§7[2/2] §2Pirate: §aIsn't he the best??
+§7[1/1] §2Pirate: §aWill these two calm down?! Jeez!
+§7[1/1] §2Pirate: §aEasy there Pep...
+§7[1/1] §2Pirate: §aHuh? What did you do?? Oh well, whatever...
+§7[1/2] §2Steve: §aAfter years of labour my mansion is finally complete.
+§7[2/2] §2Steve: §aYou would do well to take pointers from this magnificence, it would greatly improve your skills!
+
+§d            - §7+4 Nemract Boat Passes
+§d            - §7+4 Selchar Boat Passes
+§d            - §7+Various ingredients
+§d               - §7+1 Reset Scroll
+§d               - §7+Access to the Tol rune exchange
+§d            - §7+The Staff of the True Ice
+§d            - §7+Access to the Maex Resource Mine
+§d            - §7+Access to magic tunnel fast-travel.
+§d            - §7+Access to the Eldritch Outlook Dungeon
+§d            - §7+1 Eldritch Outlook Key
+
+§7From this view you can see various carvings along the side of the Tower of Ascension. It seems to depict something falling from the sky...
+§7They look sort of like the crystal on top of the tower, actually. The Tower may have been erected to hold §7it...or§7 to honour it? It’s unclear.
+§7Looking at the crystal is giving you a strange §7headache...it§7 feels like something’s leaking out of your mind. Perhaps it’s time to stop using the telescope.
+§7§oDEAR WHOMEVER LIVES ON TOP OF THAT TOWER...
+§7§oIT HAS COME TO MY ATTENTION THAT YOU'VE BEEN CALLING YOURSELF "DEATH."
+§7§oTHOUGH IMITATION MAY BE THE SINCEREST FORM OF FLATTERY, I AM NOT PARTICULARLY FOND OF IMPOSTORS.
+§7§oI WOULD APPRECIATE IT IF YOU WOULD FIND SOMEONE ELSE TO IMPERSONATE.
+§7§oAFTER ALL, YOU REALLY ARE SENDING OFF ENTIRELY THE WRONG MESSAGE HERE, KILLING EVERYONE LIKE THAT.
+§7§oI AM A METAPHYSICAL SPIRIT WITH FEELINGS AND ASPIRATIONS. JUST BECAUSE I GOVERN DEATH DOESN'T MEAN THAT IT DEFINES MY ENTIRE EXISTENCE, YOU SINGLE-TRACK-MINDED MENACE.
+§7§oSINCERELY, DEATH.
+§7§oP.S. YOUR SERVANT ANKOU DOES NOT KNOW ME. TELL HIM TO STOP TRYING TO APE MY POPULARITY, TOO.
+§7Nilrem's spell weakens...
+§7Nilrem's spell has been broken...
+§7Bob, Hero of Wynn - 854 AP - 984 AP
+§7Found felled by a wolf in his old age. He battled strong to the very end.
+§7His efforts and spirit have empowered our resolve. Even past his death, he will bring strength. We will remember his name.
+§7''The enemy is beyond death. But they are not beyond us.''
+§7It looks like a weathered old journal. Many of the pages are waterlogged or stuck together and impossible to read. There are a few legible lines, however...
+§7§oMy findings are astounding. Theorick's ice appears to be a weakness of the corruption, somehow!
+§7§oAs I write this I can observe the ice in this cave slowly creeping over the corruption on the other side. Regular ice or snow would have been melted by now and overtaken!
+§7§oTheorick actually ended up saving the forest of Nesaak from the spread of corruption with his ice §7§omagic...though§7§o whether it’s his power in specific or ice magic in general, I haven’t been able to figure out.
+§7§oIf it is general ice magic, we may have a weapon against the corruption! If §7§onot...at§7§o least this provides some kind of a lead, doesn’t it? Perhaps-
+§7The rest is completely illegible.
+§7§oWhenever one of the miners of Lutho loses their soul, their eyes do not disappear...
+§7§o...they§7§o merely become part of the forest.
+§7The engravings are thousands of years old, but you can just barely make out the symbols.
+§7⒯⒣⒠ ⒞⒭⒠⒜⒯⒰⒭⒠⒮ ⒪⒡ ⒟⒜⒭⒦⒩⒠⒮⒮ ⒜⒭⒠ ⒠⒩⒞⒭⒪⒜⒞⒣⒤⒩⒢. ⒤ ⒣⒜⒟ ⒯⒪ ⒨⒪⒱⒠ ⒯⒣⒠ ⒦⒠⒴ ⒪⒩⒞⒠ ⒨⒪⒭⒠. ⒤ ⒣⒜⒱⒠ ⒮⒠⒩⒯ ⒤⒯ ⒝⒜⒞⒦ ⒯⒪ §b⒯⒣⒠ ⒡⒜⒨⒤⒧⒴ ⒣⒪⒰⒮⒠ ⒜⒭⒨⒪⒰⒭⒴§7 ⒱⒤⒜ ⒯⒣⒠ ⒯⒰⒩⒩⒠⒧⒮. ⒤⒡ ⒴⒪⒰ ⒮⒠⒠⒦ ⒯⒣⒠ ⒜⒭⒯⒤⒡⒜⒞⒯ ⒯⒣⒠⒩ ⒴⒪⒰ ⒨⒰⒮⒯ ⒨⒜⒦⒠ ⒤⒯ ⒯⒣⒠⒭⒠.
+
+§7Talk to Dr. Picard at [103, 90, -1200].
+§7Visit the Nemract bar at [114,40,-2176]
+§7Talk to Seasum on Mage Island at [940,77,-2866]
+§7Explore the abandoned drill at [585,89,-457]
+§7Join Elphaba on a mission in Detlas at [419, 67, -1533].
+§7Talk to Aledar in Lutho at [977, 75, -732]
+§7Talk to the Lutho Citizen at [1014,77,-675].
+§7Find Scout Reynauld near Elkurn at the bridge to Picard's tower.
+§7Help Reynauld Defeat the Corrupted invasion at the bridge.
+§7Return to Scout Reynauld and bring him back to Dr. Picard.
+§7Find the sailor Picard mentioned on his boat at [-45, 65, -1217].
+§7Head into Elkurn and look for a way to shrink the boat.
+§7Bring Caid back to Dr. Picard.
+§7Find Farmer Edwin next to Nesaak at [128, 74, -1102].
+§7Climb the mountain next to Edwin's house.
+§7Break the ice on the spring and water Edwin's crops.
+§7Bring Edwin back to Dr. Picard.
+§7Meet the other soldiers at [730, 61, -1434].
+§7Explore the cave at [271, 39, -1225] for the Shard.
+§7Gather the materials the Old Man asked for
+§7Bring back Essren's Dusty Coat to The Assistant
+§7Find [Stabilized Corrupted Ore], [Incendiary Fluid] and [Switch Fuse] for the TNT at the mining camp at [435,81,-1106].
+§7Talk to Honip on the deck to get your next task
+§7Find out where you are and a way to flee the island
+§7Find [1 Golden Apple], [1 Bottle of Water] and [1 Bloom of Doom].
+§7Return to Caid with the potion.
+§7Meet Honip at [103,37,-2254]
+§7Explore the hold and kill the rats
+§7Defeat the Colossal Rat in the hold
+§7Look for clues on how to escape
+
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUnderworldÀÀÀCrypt Key]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUndergrowthÀÀÀRuins Key]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 EldritchÀÀÀOutlook Key]§d.
+§cBy chopping with spare tools on you, your success chance is lowered.
+§cBy farming with spare tools on you, your success chance is lowered.
+§cBy fishing with spare tools on you, your success chance is lowered.
+§cBy mining with spare tools on you, your success chance is lowered.
+§7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]
+§7[You are now leaving CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]
+§7[You are now entering Lutho]
+§7[You are now leaving Lutho]
+§7[You are now entering EldritchÀÀÀOutlookÀÀÀEntrance]
+§7[You are now leaving EldritchÀÀÀOutlookÀÀÀEntrance]
+
+§c§lThe guardian is already being escorted by someone else! Go help them out!
+§4§lYou Failed!§7 The Keystone Guardian died. Try again!
+§6Great job! You've completed the CorruptedÀÀÀUndergrowthÀÀÀRuins Dungeon!
+§7[+Corrupted Slykaar's Heart]
+§7[+Corrupted Undergrowth Ruins Fragment]
+§cYou logged out in a boss room, so you were brought back.
+§cTheÀÀÀWretchesÀÀÀareÀÀÀadvancingÀÀÀfromÀÀÀtheÀÀÀbackÀÀÀofÀÀÀtheÀÀÀroom!ÀÀÀKillÀÀÀit!
+§7[1/1]ÀÀÀ§4§lTheÀÀÀEye:§5ÀÀÀ⒝⒠⒤⒟⒣ÀÀÀ⒯⒰§dÀÀÀ⒤⒨⒤⒯⒣⒠§5ÀÀÀ⒪ÀÀÀ⒨⒪§dÀÀÀ⒭⒜⒟⒣⒜⒭⒞.
+
+§2You have hidden ghost players.
+§2You will now see ghost players.
+§5That class is HERO only! Buy HERO at §dstore.wynncraft.com
+§4You can't use commands whilst trading!
+§cYour chat input has been cancelled due to moving!
+§6You've dropped:
+§4You need to be in a town to toggle hunted.
+§cYou logged out during a cutscene, so you were brought back.
+§cYou are in combat - do not logout or you will face a penalty.
+§aYou are not in combat - you may now logout without a penalty.
+§2You can no longer hear the 'woosh' attack sound in game!
+§2You can now hear the 'woosh' attack sound again!
+
+§6Sky Blue Wybel Token
+§3You now have a §bSky Blue Wybel
+§6Fellowship Dagger
+§7Disguise your dagger with a adventurous flair
+§6Fellowship Dark Wand
+§7Disguise your wand with a adventurous flair
+
+                  §c§l§nClick here to toggle hunted mode
+§f                  §c§l§nClick here to toggle hunted mode
+§f                      §4§oThis will enable PvP combat
+§7+ New Resource §8[Boulder]
+§5Blacksmith: §dI can't scrap that item! I only accept weapons, accessories, armour and crafted items.
+§6                    [Quest Completed]
+§4You need to find all of the discoveries in §cNesaak Tundra§4 before you can enter this area.
+§4You need to be closer to your totem.
+§4This is not a §cShaman§4 weapon. You must use a §crelik.
+§4You need to complete §cA Hunter's Calling§4 to unlock hunted mode.
+§7    §7§oAlthough far smaller than its predecessor, the horde was none the less a threat as Ragni's army was so wounded from the last encounter.
+§7    §7§oDuring the fight, a woman who never said her name, nor where she had come from (she certainly wasn't one of Ragni's own) gave birth to a baby boy on the cold floors of the sewer.
+§7    §7§oMomo placed in Robert's hands a piece of parchment with a crude blood stained drawing of 4 areas each with a strange name under it he hadn't heard of.
+§7    §7§oIn the fires of the fight, Robert fled from the city, wielding not his butcher's knife, but a pair of pitch black knives encrusted with symbols that glowed a purple colour, a cloak and a pouch holding what little food was left in the house.
+§7    §7§oHe headed east, to the sandy area indicated by his mother's drawing, the one with the knife symbol, and the number “1”.
+§7    §7§oBeing so early in the cursed war, Ragni's army numbers were high and many a men laid down their lives to protect the families within the walls.
+§7    §7§oAgainst all the odds, the child made it, suffering no more but a smudge of dirt across his cheek, to everyone's amazement, he was adopted by Ragni's poorest resident, a single mother named Momo.
+§7    §7§oAs such he didn't have many friends and wasn't held particularly well among the older citizens either.
+§7    §7§oChak handed it back to him, and said “even the most experienced soldier must start from scratch when learning a new mastery”. And it was true, Robert was not equipped to deal with any creature that faced him, he'd never even fired a bow!
+§7    §7§oRobert began his journey further south; past the blizzards into a pocket of land he'd never seen on any map the bow symbol with the number “2” accompanying it.
+§7    §7§oHe couldn't for the life of him make it work. Regardless, when he reached the forest, he entered a mystical village suspended in the trees lit by hanging lamps, to which the familiar sight of a man with his hand outstretched grasped the wand Robert laid in his hand.
+§7    §7§oHe'd never heard of Troms so much as receiving a scratch from the creatures, it was so well guarded, but then again, Robert had been absent from civilization for 15 years.
+§7    §7§oIt was the first time he was with people, and by people, I mean people that aren't strict masters of their art that seem to solely exist to teach Robert the ways of the soldier.
+§7    §7§oRobert learnt to love the people he was around, and people called him Bob, rather than Robert, a girl told him “I don't know, I think you just sound better when you're called Bob.”
+§7    §7§oFier's training after 5 long years had finally come to an end, to which he said this: “You are now the strongest soldier this province has ever seen, use your power wisely, and you shall end this war.”
+§7    §7§oThen, to his surprise, all the masters materialised in a line beside Fier, and smiled, Mael even nodding slowly at him, to which a voice behind him said “Why are you crying Bob? There's no one there...”
+§7    §7§oI imagine Bob probably sought to destroy it, but in his old age, perhaps he wasn't up to the mark.
+§7    §7§oBy whom? No one knows. Perhaps it was the killer? Or maybe it was his master's magic? It still lies there today, holding his body, it is worth a visit, many have told of great adventures and magic surrounding the place.
+§7    §7§oIt wasn't until Marius Twain, a particularly gifted man, decided to organise a team.
+§7    §7§oEventually, one by one, the Twains fell. Some to Bak'al - immortal leader of the corrupt, some to corruption itself.
+§7    §7§oAlthough the location of the "Ridge" has been supposedly found, no such seed has ever grown there.
+
