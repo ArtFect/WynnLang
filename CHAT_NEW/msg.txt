@@ -1432,7 +1432,7 @@
 §7+2 Skill Points §8[Open the character menu to use them]@§7+2 Очка умений [Открой меню персонажа для их использования]
 §7+5 Maximum HP@§7+5 Очков здоровья
 §4You don't have enough mana to do that spell!@§4У тебя недостаточно маны, чтобы использовать это заклинание!
-§cYour Crafted Items are damaged and have become less effective. Bring them to a Blacksmith to repair them.@§cТвои крафтовые предметы повредились и стали менее эффективными. Принеси их к Кузнецу, чтобы починить.
+§cYour items are damaged and have become less effective. Bring them to a Blacksmith to repair them.@§cТвои предметы повредились и стали менее эффективными. Принеси их к Кузнецу, чтобы починить.
 §41 soul point has been lost...@§41 очко душ было потрачено...
 §4You can skip the tutorial by typing: §c/skiptutorial§4. You will not receive resources, tools, or a crafted item by doing this.@§4Ты можешь пропустить туториал командой §c/skiptutorial§4. Ты не получишь ресурсы, инструменты, или крафтовые предметы, сделав это.
 §4There is no room for a horse.@§4Здесь нет места для лошади.
