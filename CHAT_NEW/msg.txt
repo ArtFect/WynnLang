@@ -1189,7 +1189,7 @@
 §5Item Identifier: §dIt is done. Your items have been identified. The magic they contain will now blossom.@§5Идентификатор Предметов: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
 §5Key Collector: §dYou have access to the dungeon... This time only.@§5Сборщик Ключей: §dТы можешь войти в данж... Но только в этот раз.
 §5Powder Master: §dGreat doing business with you, adventurer. Come back any time!@§5Мастер Порошков: §dС тобой приятно иметь дело, путешественник. Возвращайся в любое время!
-§5Item Identifier: §dI can't identify this item! Only items with a §eunique§d, §5rare§d, §blegendary§d, and §aset§d tags can be identified.@§5Идентификатор Предметов: §dЯ не могу идентифицировать этот предмет! Только предметы с §eуникальными§d, §5редкими§d, §bлегендарными§d, и §aсет§d тэгами можно идентифицировать.
+§5Item Identifier: §dI can't identify this item! Only items with a §eunique§d, §5rare§d, §blegendary§d, §cfabled§d, §5mythic§d and §aset§d tags can be identified.@§5Идентификатор Предметов: §dЯ не могу идентифицировать этот предмет! Только предметы с §eуникальными§d, §5редкими§d, §bлегендарными§d, §cсказочными§d, §5мифическими§d и §aсет§d тэгами можно идентифицировать.
 §5Guild Master: §dYou need 5 liquid emeralds to make a guild.@§5Мастер Гильдий:§dТебе нужно 5 жидких эмеральдов, чтобы создать гильдию.
 §5Item Identifier: §dI can't identify this item! It can not be reidentified.@§5Идентификатор Предметов: §dЯ не могу идентифицировать этот предмет! Он не может быть идентифицирован повторно.
 §dIt was a pleasure doing business with you.@§dБыло приятно иметь с тобой дело
