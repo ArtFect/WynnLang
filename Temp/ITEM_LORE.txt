@@ -25,7 +25,7 @@
 (§7|)(.*) §7Main Attack Neutral Damage
 (§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Main Attack Neutral Damage
 (§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Sprint Regen
-(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Sprint
+(§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Sprint$
 (§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Loot Quality
 §7§(c-|a\+)(\d+)§(4|2)§(c-|a\+)(.*)§7 Sprint
 (§7|)(.*)§7 Walk Speed
