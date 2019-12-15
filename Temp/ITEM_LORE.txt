@@ -41,7 +41,7 @@
 (§7|)(.*)§7 Fire Damage
 (§7|)(.*)§7 Neutral Spell Damage
 (§7|)(.*)§7 Health Regen
-(§7|)(.*)§7 Health
+(§7|)(.*)§7 Health$
 (§7|)(.*)§7 Spell Damage
 (§7|)(.*)§7 XP Bonus
 (§7|)(.*)§7 Loot Bonus
