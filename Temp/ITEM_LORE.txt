@@ -19,10 +19,7 @@
 (§7|)(.*)§7 Intelligence
 §7(§a+|§c-)(\d+)§(4|2)(§a+|§c-)(\d+)§7 Main Attack Neutral Damage
 ^§(c-|a\+)(\d+)§7 Main Attack Neutral Damage
-=============
-§7§a+1§7 Main Attack Neutral Damage
-=============
-(§7|)(.*) §7Main Attack Neutral Damage
+§7(.*) §7Main Attack Neutral Damage
 (§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Main Attack Neutral Damage
 (§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Sprint Regen
 (§7|)§(c|a)(.*)§(4|2) to §(c|a)(.*)§7 Sprint$
@@ -1124,3 +1121,5 @@
 §7⒪⒡ ⒧⒤⒢⒣⒯, ⒫⒧⒠⒜⒮⒠ ⒮⒠⒠⒦ ⒤⒯ ⒪⒰⒯. ⒯⒣⒠ ⒯⒪⒨⒝
 §7⒤⒮ §b⒩⒪⒭⒯⒣ ⒪⒡ ⒯⒣⒠ ⒨⒜⒩⒮⒤⒪⒩. §7⒯⒣⒤⒮ ⒤⒮ ⒧⒤⒦⒠⒧⒴
 §7⒪⒰⒭ ⒧⒜⒮⒯ ⒨⒪⒨⒠⒩⒯, ⒝⒰⒯ ⒤⒯ ⒟⒪⒠⒮⒩’⒯ ⒣⒜⒱⒠ ⒯⒪ ⒝⒠ ⒴⒪⒰⒭⒮.
+
+§7§a+1§7 Main Attack Neutral Damage
