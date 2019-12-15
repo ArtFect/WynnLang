@@ -25,29 +25,29 @@
 §5Only §d(\d+) more level(|s) §5until you can gather from §dSilver@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСеребро
 §7\[Lv. (\d+)\/§8(\d+)§7\/(.*)\] (.*)@ 
 
-§7\[1\/1\] §2Lucio: §a(.*)! She was completely right. You ought to come with us...@
-§7\[2\/17\] §2Aledar: §aElphie! Have you found our fourth member yet\?... Oh, (.*)!@
-§7\[22\/23\] §2Dr. Picard: §a(.*)! Get out of there! You are being sucked into the memory.@
-§7\[5\/17\] §2Elphaba: §aHold up. We need to brief (.*). This mission is dangerous. Listen up.@
-§7\[17\/17\] §2Aledar: §a(.*) If you are ready, let’s go.@
-§7\[1\/1\] §2Aledar: §aStay with me, (.*)! We must stay together, this is a dangerous mission.@
-§7\[2\/12\] §2Aledar: §aIt’s a twist of fate that our paths have converged here, (.*). We started our journey together and now..@
-§7\[6\/12\] §2Aledar: §aNo more running for us, huh (.*)\? Ah, we’re here.@
-§7\[10\/14\] §2Aledar: §a(.*), come with me! Cast a spell to block the cave's entrance so the monster can't leave.@
-§7\[7\/7\] §2Elphaba: §a(.*), I've written the house's coordinates on your book. Meet us there.@
-§7\[18\/19\] §2Elphaba: §aAlright. Aledar, you get the Darkness item with (.*), and I'll go get the Light item with Lucio.@
-§7\[19\/19\] §2Aledar: §aYes ma'am! Let's go (.*)!@
-§7\[1\/5\] §2Aledar: §aHere we are, the roots of Corruption. Let’s go, (.*)!@
-§7\[5\/5\] §2Aledar: §a...I don’t think we can spell our way across, (.*)! We need something like... Wings!@
-§7\[1\/2\] §2Aledar: §aWow, I’m impressed (.*). I honestly thought you would need my help.@
-§7\[2\/4\] §2Dren: §aThat should do it. Let’s see if this will work. Come here (.*)!@
-§7\[1\/1\] §2Elphaba: §aStay with us (.*), we just got here. We can't just go wandering around.@
-§7\[1\/1\] §2Aledar: §aStay with us (.*)! We've just had a loss, you can't go wandering around!@
-§7\[1\/7\] §2Aledar: §aNo no no!! This is bad, really bad! We have to go (.*)! Now!@
-§7\[1\/5\] §2Aledar: §a(.*)! (.*)!@
-§7\[2\/6\] §2Aledar: §aUrrrgh. (.*), this hasn’t gone to plan. According to my map we aren’t even half way.@
-§7\[8\/8\] §2Aledar: §aLook out, (.*)!@
-§7\[1\/1\] §2Aledar: §aThey're here again, (.*)!@
+§7\[1\/1\] §2Lucio: §a(.*)! She was completely right. You ought to come with us...@§7[1/1] §2Луцио: §a(r1)! Она была совершенно права. Ты должен пойти с нами...
+§7\[2\/17\] §2Aledar: §aElphie! Have you found our fourth member yet\?... Oh, (.*)!@§7[2/17] §2Аледар: §aЭльфи! Ты уже нашла нашего четвертого участника?... Ох, (r1)!
+§7\[22\/23\] §2Dr. Picard: §a(.*)! Get out of there! You are being sucked into the memory.@§7[22/23] §2Др. Пикард: §a(r1)! Выбирайся оттуда! Тебя засасывает в память.
+§7\[5\/17\] §2Elphaba: §aHold up. We need to brief (.*). This mission is dangerous. Listen up.@§7[5/17] §2Эльфаба: §aПодожди. Нам нужно проинструктировать (r1). Эта миссия опасна. Слушай сюда.
+§7\[17\/17\] §2Aledar: §a(.*) If you are ready, let’s go.@§7[17/17] §2Аледар: §a(r1) Если ты готов, то пойдем.
+§7\[1\/1\] §2Aledar: §aStay with me, (.*)! We must stay together, this is a dangerous mission.@§7[1/1] §2Аледар: §aОстанься со мной, (r1)! Мы должны держаться вместе, это опасная миссия.
+§7\[2\/12\] §2Aledar: §aIt’s a twist of fate that our paths have converged here, (.*). We started our journey together and now..@§7[2/12] §2Аледар: §aКак иронично, что наши пути сошлись здесь, (r1). Мы начали наше путешествие вместе и сейчас..
+§7\[6\/12\] §2Aledar: §aNo more running for us, huh (.*)\? Ah, we’re here.@§7[6/12] §2Аледар: §aБольше не убегай от нас, хорошо, (r1)? Ох, мы на месте.
+§7\[10\/14\] §2Aledar: §a(.*), come with me! Cast a spell to block the cave's entrance so the monster can't leave.@§7[10/14] §2Аледар: §a(r1), идем со мной! Используй заклинание, чтобы заблокировать вход в пещеру, чтобы монстр не мог выйти.
+§7\[7\/7\] §2Elphaba: §a(.*), I've written the house's coordinates on your book. Meet us there.@§7[7/7] §2Эльфаба: §a(r1), Я записала координаты дома в твою квестовую книгу. Встретимся там.
+§7\[18\/19\] §2Elphaba: §aAlright. Aledar, you get the Darkness item with (.*), and I'll go get the Light item with Lucio.@§7[18/19] §2Эльфаба: §aХорошо. Аледар, вы достаете предмет Тьмы вместе с (r1), а мы достаем предмет Света вместе с Луцио.
+§7\[19\/19\] §2Aledar: §aYes ma'am! Let's go (.*)!@§7[19/19] §2Аледар: §aПонял, мэм! Пошли (r1)!
+§7\[1\/5\] §2Aledar: §aHere we are, the roots of Corruption. Let’s go, (.*)!@§7[1/5] §2Аледар: §aВот мы и на месте, у корней Порчи. Идем, (r1)!
+§7\[5\/5\] §2Aledar: §a...I don’t think we can spell our way across, (.*)! We need something like... Wings!@§7[5/5] §2Аледар: §a...Я не думаю, что мы сможем найти путь на ту сторону, (r1)! Нам нужно что-то вроде... Крыльев!
+§7\[1\/2\] §2Aledar: §aWow, I’m impressed (.*). I honestly thought you would need my help.@§7[1/2] §2Аледар: §aВоу, я впечатлен (r1). Честно думал, что тебе понадобится моя помощь.
+§7\[2\/4\] §2Dren: §aThat should do it. Let’s see if this will work. Come here (.*)!@§7[2/4] §2Дрен: §aЭто должно помочь. Давайте посмотрим, сработает ли это. Встань сюда (r1)!
+§7\[1\/1\] §2Elphaba: §aStay with us (.*), we just got here. We can't just go wandering around.@§7[1/1] §2Эльфаба: §aОстанься с нами (r1), мы только пришли сюда. Мы не можем просто бродить вокруг.
+§7\[1\/1\] §2Aledar: §aStay with us (.*)! We've just had a loss, you can't go wandering around!@§7[1/1] §2Аледар: §aОставайся с нами (r1)! У нас только что была потеря, ты не можешь бродить вокруг!
+§7\[1\/7\] §2Aledar: §aNo no no!! This is bad, really bad! We have to go (.*)! Now!@§7[1/7] §2Аледар: §aНет нет нет!! Это плохо, очень плохо! Мы должны идти (r1)! Сейчас же!
+§7\[1\/5\] §2Aledar: §a([a-zA-Z0-9_]{1,16})! ([a-zA-Z0-9_]{1,16})!@§7[1/5] §2Аледар: §a(r1)! (r2)!
+§7\[2\/6\] §2Aledar: §aUrrrgh. (.*), this hasn’t gone to plan. According to my map we aren’t even half way.@§7[2/6] §2Аледар: §aУуггхх. (r1), все пошло не по плану. Судя по моей карте, мы не прошли и половины пути.
+§7\[8\/8\] §2Aledar: §aLook out, (.*)!@§7[8/8] §2Аледар: §aОсторожнее, (r1)!
+§7\[1\/1\] §2Aledar: §aThey're here again, (.*)!@§7[1/1] §2Аледар: §aОни снова здесь, (r1)!
 §7\[1\/1\] §2Aledar: §aOuch! I got hit! Be careful, (.*)!@
 §7\[1\/2\] §2Aledar: §a(.*), good news. I'm basically as recovered as I think I'll get.@
 §7\[2\/2\] §2Aledar: §aIt's an ambush! Stay sharp, (.*)!@
