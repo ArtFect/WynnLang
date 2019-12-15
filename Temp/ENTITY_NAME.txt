@@ -1,0 +1,471 @@
+§2(.*) Aledar Cart
+§dx(2|3)(.0|) §7\[\+§d(\d+)§f Ⓑ§7 Mining§7 XP\] §6\[(\d+)%\]
+§dx(2|3)(.0|) §7\[\+§d(\d+)§f Ⓒ§7 Woodcutting§7 XP\] §6\[(\d+)%\]
+§dx(2|3) §7\[§f\+§d(\d+)§f Guild XP§7\]
+§2§aGathering Post §2\[Woodcutting Lv. (\d+)\]
+§2§aGathering Post §2\[Mining Lv. (\d+)\]
+§2§aGathering Post §2\[Fishing Lv. (\d+)\]
+§2§aGathering Post §2\[Farming Lv. (\d+)\]
+§8(.*)'s Soul
+§c\[PvP\] §f(.*)
+§4Health: §c§l\[(\d+) HP\]
+
+§2[§a+1§2 Willow Paper]
+§2[§a+1§2 Oak Wood]
+§2[§a+1§2 Willow Wood]
+§2[§a+1§2 Birch Wood]
+§2[§a+1§2 Granite Gem]
+§2[§a+1§2 Granite Ingot]
+§2[§a+1§2 Gold Ingot]
+§2[§a+1§2 Carp Oil]
+§2[§a+1§2 Acacia Wood]
+§2[§a+1§2 Malt String]
+§2[§a+1§2 Trout Oil]
+§2[§a+1§2 Barley Grains]
+§2[§a+1§2 Trout Meat]
+§2[§a+1§2 Barley String]
+§2[§a+1§2 Spruce Wood]
+§2[§a+1§2 Spruce Paper]
+§2[§a+1§2 Silver Ingot]
+§2[§a+1§2 Hops String]
+§2[§a+1§2 Salmon Oil]
+§2[§a+1§2 Oat String]
+§2[§a+1§2 Birch Paper]
+§2[§a+1§2 Icefish Oil]
+§2[§a+1§2 Icefish Meat]
+§2[§a+1§2 Gold Gem]
+§2[§a+1§2 Sandstone Ingot]
+§2[§a+1§2 Broken Rock]
+§2[§a+1§2 Acacia Paper]
+§2[§a+1§2 Piranha Oil]
+§2[§a+1§2 Salmon Meat]
+§2[§a+1§2 Oat Grains]
+§2[§a+1§2 Malt Grains]
+§2[§a+1§2 Iron Ingot]
+§2[§a+1§2 Carp Meat]
+§2[§a+2§2 Oak Paper]
+
+§2Honip
+§2Scout Reynauld
+§2Dr. Picard
+§2Sailor Caid
+§2Reynauld
+§2Pirate:
+§2Honip:
+§2Seth:
+§2Angry Pirate:
+§2Heine
+§2Fruma Soldier
+§2Edwin
+§2Pirate Guard:
+§2Caid
+§2Cara
+§2Imperial Soldier
+§2Seasum
+§2School Boat Captain
+§2Captain
+§2Mamui
+§2Student
+§2Cidre
+§2Blacksmith Dren
+§2Una
+§2Thunder
+§2Headmaster
+§2Air
+§2Fire
+§2Water
+§2Magical Materials
+§2Magical Effects
+§2Wybels
+§2Species
+§2Nature Magic
+§2Corruption
+§2Nature
+§2Ghost Guide
+§2Teacher
+§2Pensa
+§2Miner
+§2Lutho Citizen
+§2Lutho Guard
+§2Theorick Twain
+§2Marius Twain
+§2Theorick: 
+§2Nesaak Citizen
+§2Citizen
+§2Citizen: 
+§2Explorer's Journal
+§2Dwendle
+§2Mael
+§2Rickeo
+§2Theorick:
+§2Mael:
+§2Rickeo:
+§2Dwendle:
+§2Olm Mage
+§2Olm Astrologist
+§2Aledar?
+§2Aledar 
+§2Miner Chief
+§2Geologist
+§2Deathknell Wretch
+
+§2§fNell
+§2§fEgam
+§2§fMillie
+§2§fMagical Materials Chapter 3 - Quartz
+§2§fMagical Materials Chapter 6 - Cosmic Unknowns
+§2§fMagical Materials Chapter 1 - A Primer
+§2§fMagical Materials Chapter 5 - Elemental Powders
+§2§fMagical Materials Chapter 4 - Stabilizers
+§2§fMagical Materials Chapter 2 - Magical Foci
+§2§fLutho Citizen
+§2§fNOTE
+§fSnoo
+§fPirate
+§fSeth
+§fPep
+§fAngry Pirate
+§fLight
+
+§a§oOh no...
+§a§oGah! I got hit!!
+§a§oI'm not staying around here!
+§a§oI can't see...
+§a§oSoldier, DO something!!
+§a§oCast a spell! That'll scare it off!
+§a§oSeth, it's a good thing you ran away.
+§a§oWhat's even happening up there?
+§a§oOh, nothing really, we all just might die.
+§a§oI'm getting dizzy..!
+§a§oSeriously, that soldier is really bad at this...
+§a§oHave you heard about that colossal rat?
+§a§oHow about we don't talk about that...
+§a§oThe sea's nice today...
+§a§oSay... Do you have anything planned tomorrow?
+§a§oI don't know, do you?
+§a§oLast night I dreamt of this boat being
+§a§omade of bricks...
+§a§oAnd I dreamt of Seth's incessant blabbering.
+§a§o*yawn*
+§a§oWhat are we even guarding?
+§a§oI mean, we have an actual soldier...
+§a§oAlright... What about the soldier?
+§a§oI should do something!
+§a§oOf course I gotta be the one to clean...
+§a§oSnoo??
+§a§oWhat is he...
+§a§oWha-
+§a§oShe's good at dodgin'!
+§a§oI don't know, they're just... watching!
+§a§oOUCH!
+§a§oHonip made 'em clean the puppets...
+§a§oDid you know one of the mates
+§a§okeeps talking about a "zombie" pet?
+§a§oWhat? Does he want to corrupt himself?
+§a§oThis... has turned into a difficult situation.
+§a§oI really thought they'd help with other stuff...
+§a§o§lDon't touch me.
+§a§oAre you alright?
+§a§oYou shouldn't have done that.
+§a§oNow you've done it,
+§a§oRickeo.
+§a§oMael!
+§a§oTheo, stop.
+§a§oJust this once.
+§a§oStop.
+§a§o§lMake me.
+§a§oThanks, Ricke...
+§a§oDon't worry about it...
+§a§oLet's finish this, shall we?
+§a§oYeah. Dad should have done
+§a§othis a long time ago.
+§a§o§lENOUGH.
+§a§oAre you out of your minds??
+§a§oYou were about to §lkill §a§oyour brother!
+§a§oI... You're... right. We...
+§a§oYou should leave. All of you. This
+§a§oisn't what being a Twain was about...
+§a§oMph. None of us are Twains. Not me.
+§a§oNot you. We're an old man's
+§a§odelusion.
+§a§o...
+§a§oMael... I...
+§a§oI know, Ricke. Just go.
+§a§oDad... I'm sorry...
+§a§oWhat does all this mean?
+§a§oThe Twains are over?
+§a§oTake THIS!
+§a§oWhat even are they for again?
+§a§oSome weird scheme?...
+§a§oGah!
+§a§oGah, would they STOP making a mess!
+§a§oI didn't sign up for this!
+§a§oI need to leave!
+§a§oThe soldier's so useless I'm terrified of
+§a§ochecking the deck...
+§a§oStop right there, foul beast!
+§a§o...cute...
+§a§oOh god, has my time come?
+§a§oNo, it hasn't!
+§a§oOh, I see you're all here!
+§a§oWell, the soldier isn't exactly the greatest.
+§a§oI'm just goin' to... rest.
+§a§oHey... You missed quite the scene up there.
+§o§aAgh!
+§o§aAAAAAAAAAAH!
+§o§aAAaAH  AAAAH!
+§a§o'ey, I was just tryin' to start
+§a§oa conversation...
+
+§aNemract Pirate§6 [Lv. 20]
+§aCrew5§6 [Lv. 100]
+§aCrew3§6 [Lv. 100]
+§aHonip§6 [Lv. 100]
+§aWolfie§6 [Lv. 30]
+§aDr. Picard§6 [Lv. 1]
+§aCrew6§6 [Lv. 100]
+§aPoor Human§6 [Lv. 25]
+§aVSS Fakeskipper§6 [Lv. 1]
+§aSeaskipper Captain§6 [Lv. 50]
+§aSeagull§6 [Lv. 30]
+§aInvitation Letter§6 [Lv. 59]
+§aStudent§6 [Lv. 59]
+§aMagical Cat§6 [Lv. 60]
+§aTamed Cat§6 [Lv. 50]
+§aGrookwarts Student§6 [Lv. 59]
+§aHeadmaster§6 [Lv. 59]
+§aDetached Shadow§6 [Lv. 92]
+§aHaily§6 [Lv. 33]
+§aQuiet Observer§6 [Lv. 96]
+§aCurious Starer§6 [Lv. 101]
+§aGrook§6 [Lv. 59]
+§aLutho Citizen§6 [Lv. 105]
+§aLutho Citizen§6 [Lv. 102]
+§aMystical Statue§6 [Lv. 105]
+§aFuel Sprite§6 [Lv. 100]
+§aSpike Shatterer§6 [Lv. 100]
+§aTemple Wolf§6 [Lv. 1]
+§aYoung Theorick§6 [Lv. 43]
+§aMarius Twain§6 [Lv. 100000]
+§aBooster§6 [Lv. 92]
+§aUndergrowth Ruins Token§6 [Lv. 54]
+§aCorrupted Slykaar Ashes§6 [Lv. 110]
+§aMemory Orb§6 [Lv. 50]
+§aDwendle§6 [Lv. 1]
+§aRickeo§6 [Lv. 1]
+§aMarius Twain?§6 [Lv. 50]
+§aRat§6 [Lv. 19]
+§aSplash Potion§6 [Lv. 1]
+§aSound Wave Emitter§6 [Lv. 61]
+§aPotion§6 [Lv. 1]
+§aBlinding Eye§6 [Lv. 100]
+§aCrippled Fearful Bunny§6 [Lv. 99]
+§aOlm Mage§6 [Lv. 8]
+§aOlm Astrologist§6 [Lv. 8]
+§aRessurected Cow§6 [Lv. 79]
+§aToxicyst§6 [Lv. 100]
+§aSlime Sploder§6 [Lv. 100]
+§a???§6 [Lv. 100]
+§aThat Which Coalesces§6 [Lv. 105]
+§aMiner§6 [Lv. 30]
+
+§4Angel Wybel Token
+§4Adventurer's Hat
+
+§aNotes§6 [Lv. 1]
+§aBloom of Doom§6 [Lv. 20]
+§aMOS Key§6 [Lv. 1]
+§aFuse§6 [Lv. 1]
+§aGunpowder§6 [Lv. 1]
+§aFeathers§6 [Lv. 1]
+§aIce§6 [Lv. 0]
+§aMagma§6 [Lv. 0]
+§aTome of Earth Magic
+§aCrate of Lodestone§6 [Lv. 59]
+§aWhite Meteor Shard§6 [Lv. 59]
+§aDeactivated Air Powder§6 [Lv. 59]
+§aWheat Magical Binding§6 [Lv. 59]
+§aQuartz Battery§6 [Lv. 59]
+§aCrate of Avo Bindings§6 [Lv. 59]
+§aMagical Crystal Ball§6 [Lv. 59]
+§aCrate of Jewel Foci§6 [Lv. 59]
+§aUnstable Ore§6 [Lv. 0]
+§aKaens Key§6 [Lv. 1]
+§aAdans Key§6 [Lv. 1]
+§aTomb Key§6 [Lv. 1]
+§aCrate§6 [Lv. 1]
+
+§bElphaba§6 [Lv. 100]
+§bLucio§6 [Lv. 100]
+§bAledar§6 [Lv. 100]
+§bObsessor§6 [Lv. 102]
+§bDusk Kanter§6 [Lv. 110]
+§bDomesticated Kanter§6 [Lv. 110]
+§bDomesticated Kantyr§6 [Lv. 110]
+§bChalky Kantyri Calf§6 [Lv. 100]
+§bDusk Kantyri Calf§6 [Lv. 100]
+§bRoyal Kantyri Calf§6 [Lv. 100]
+§bHead§6 [Lv. 102]
+§bDark Head§6 [Lv. 102]
+§bKeystone Guardian§6 [Lv. 100]
+§bChest§6 [Lv. 102]
+§bLegs§6 [Lv. 102]
+§bChalky Kantyr§6 [Lv. 110]
+§bDusk Kantyr§6 [Lv. 110]
+§bChalky Kanter§6 [Lv. 110]
+
+§7§7Bows, Wands and Reliks
+bone
+key
+dust
+§7Eliminate!
+§c§c§lCorrupted Summoner§6 [Lv. 35]
+§b§7Defend!§6 [Lv. 25]
+§c§cCorrupted Summoner§6 [Lv. 35]
+§7[1/4] §aIt's starting to panic!
+§7[2/4] §aThat's right, get back!
+§7[3/4] §aI knew you had it in ya, haha!
+§fPirate Guard
+§cImperial Guard§6 [Lv. 25]
+§aClick to go back
+§ato the §2pirate boat
+§7Click to
+§eCall elevator
+§7Click to go
+§a§lUp
+§a§lDown
+§7Get §e[1 Lantern]
+§7to open the chest
+§cDusty Librarian§6 [Lv. 52]
+§dWand Merchant
+§dCandy Merchant
+§dMagical Book Merchant
+§dCauldron Merchant
+§2✤
+§2Earth
+§c✹
+§cFire
+§f❋
+§fAir
+§b❉
+§bWater
+§e✦
+§eThunder
+§8❂
+§8Darkness
+§cReturn to Magic Tunnels
+§c✹ §7Fire
+§cReturn to Dining Hall
+§6Category 1: §dElements
+§6Category 2: §dPractical Magic
+§6Category 3: §dMagical Creatures
+§aThis class uses color puzzles,
+§ado not choose if colorblind
+§6Category 4: §dTypes of Magic
+§2✤ §7Earth
+§eWhat element is in direct opposition to Water?
+§f❋ §7Air
+§7Question #3
+§7Click to start
+§7the lesson
+§e✦ §7Thunder
+§cTeacher§6 [Lv. 43]
+§aDernic
+§a§lTol Altar
+§7Exchange §4[4 Nii Runes] §7for §2[1 Tol Rune]
+§7Exchange §3[2 Uth Runes] §7for §2[1 Tol Rune]
+§7Get §e[6 Statue Keys]
+§6Resource Mine
+§7Engraved Stone
+§aChoose the correct §cvein§a to cut
+§aHumans
+§aDoguns
+§aGreenskins
+§aDwarves
+§aElves
+§aVillagers
+§dMysterious Merchant
+§8Lutho Citizen
+§8§lRight-Click
+§7To get the Soul Retainer
+§4Touch the crystal
+§c§aEldritch Outlook Key Guardian§6 [Lv. 103]
+§7You Lack a Key...
+§aStone Tablet§6 [Lv. 1]
+§7Broken Pickaxe
+§8Right-Click to get Item
+§7Right-Click to
+§8Drop the Rock
+§cObsessor§6 [Lv. 105]
+§7Insert Key
+§2Right-Click to
+§fGet the §7§l[Unstable Ore]
+§fPlace the §7§l[Magical TNT]
+§7Temple Wolf
+§7boost you up!
+§6Right Click§7 to
+§7Get §e[4 Tokens]
+§7Get §e[24 Tokens]
+§6Left Click§7 to end §cSlykaar!
+§cExit
+§cCorrupted Undergrowth Ruins Key Guardian§6 [Lv. 94]
+§dMiner Pass Merchant
+§7Get §a[1 Toxic Key]
+Gift From Dern
+§6Calling...
+§5§lEldritch Outlook
+§7Level: §f100
+§cRight Click To Break Through
+§eTesla Tower
+§7Right-Click
+§8To get the Body Part
+§7Sound Wave Emitter
+§8Get the Potion
+§cCart§6 [Lv. 2]
+§7Get §e[1 Core Key]
+§7Col§kl§7ect §e6 §7di§kf§7fer§ke§7nt eyes
+§7t§ko§7 open t§kh§7e do§ko§7r
+§c§lHUNT
+§6Eye
+§e§lDreading
+§e§lFearing
+§e§lBlinding
+§e§lShading
+§e§lCrying
+§e§lInfecting
+§7to open the §cexit
+§7Get §6[4 Granitic Keys]
+§e§lBleeding
+§e§lDyeing
+§e§lStalking
+§e§lWatching
+§6Right-Click
+§eto Restart the Wave
+§7§lRestart Escort Mission
+§8Right-Click to
+§eAberrated Lutho Citizen§6 [Lv. 104]
+§cMonster
+§aDernic Fish
+§cKill 1 §6Upside Downer §c to Destroy the Spikes
+§cKill 1 §6Void Demon §cto Destroy the Boulder
+§c§lClick To Break
+§e§lDigesting
+§7Get §6[1 Granitic Key]
+§cMiner§6 [Lv. 1]
+§cMiner Chief§6 [Lv. 1]
+§aBoulder
+§4Pick up a Shard
+§4Repair the Monolith
+§0ddd
+§4Gather §l4 §eExplosive Mass
+§aDernic Seed
+§4Gather §l12 §eExplosive Mass
+§7to shatter the door
+§c§4§lThe Eye§6 [Lv. 110]
+§c§lReset
+§cDeathknell Wretch§6 [Lv. 110]
+§4§l[10s]
+§4§l[9s]
+§4§l[8s]
+§4§l[7s]
+§4§l[6s]
