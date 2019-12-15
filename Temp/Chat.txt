@@ -1,72 +1,72 @@
-(.*) has logged into server (.*) as §(b|a)a Shaman
-(.*) has logged into server (.*) as §(b|a)a Skyseer
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul spell
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura spell
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot spell
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTotem upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura upgrade
-§6(.*) met his fate.
-§6(.*) was killed.
-§6(.*) bit the dust.
-§6(.*) has died.
-§6(.*) passed away.
-§6(.*) met his demise.
-§6(.*) has been slain.
-§6(.*) is six feet under.
-§6(.*) has perished.
-§6(.*) kicked the bucket.
-(.*) has an invalid spell configuration
-§d     -§7 Location: §fSilent Expanse \[(.*)\]
-§d     -§7 Location: §fNesaak Tundra \[(.*)\]
-§4You need to be §cWoodcutting Lv. (\d+) §4to start this Mini-Quest
-§4You need to be §cFishing Lv. (\d+) §4to start this Mini-Quest
-§5Only §d(\d+) more level(|s) §5until you can gather from §dSilver
+(.*) has logged into server (.*) as §(b|a)a Shaman@(r1) зашел на сервер (r2) классом §(r3)Шаман
+(.*) has logged into server (.*) as §(b|a)a Skyseer@(r1) зашел на сервер (r2) классом §(r3)Провидец
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Бросок
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Аура
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Изгнание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTotem upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Тотем
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Броска
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Изгнания
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ауры
+§6(.*) met his fate.@§6(r1) встретил свою судьбу.
+§6(.*) was killed.@§6(r1) был убит.
+§6(.*) bit the dust.@§6(r1) превратился в пыль.
+§6(.*) has died.@§6(r1) умер.
+§6(.*) passed away.@§6(r1) скончался.
+§6(.*) met his demise.@§6(r1) встретил свою кончину.
+§6(.*) has been slain.@§6(r1) был уничтожен.
+§6(.*) is six feet under.@§6(r1) на глубине шести футов.
+§6(.*) has perished.@§6(r1) погиб.
+§6(.*) kicked the bucket.@§6(r1) отбросил коньки.
+(.*) has an invalid spell configuration@(r1) имеет неверную конфтигурацию заклинания
+§d     -§7 Location: §fSilent Expanse \[(.*)\]@§d     -§7 Локация: §fТихое Пространство [(r1)]
+§d     -§7 Location: §fNesaak Tundra \[(.*)\]@§d     -§7 Локация: §fНесаак Тундра [(r1)]
+§4You need to be §cWoodcutting Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Лесорубства§4 для старта этого мини-квеста
+§4You need to be §cFishing Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Рыболовства§4 для старта этого мини-квеста
+§5Only §d(\d+) more level(|s) §5until you can gather from §dSilver@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСеребро
 §7\[Lv. (\d+)\/§8(\d+)§7\/(.*)\] (.*)@ 
 
-§7\[1\/1\] §2Lucio: §a(.*)! She was completely right. You ought to come with us...
-§7\[2\/17\] §2Aledar: §aElphie! Have you found our fourth member yet\?... Oh, (.*)!
-§7\[22\/23\] §2Dr. Picard: §a(.*)! Get out of there! You are being sucked into the memory.
-§7\[5\/17\] §2Elphaba: §aHold up. We need to brief (.*). This mission is dangerous. Listen up.
-§7\[17\/17\] §2Aledar: §a(.*) If you are ready, let’s go.
-§7\[1\/1\] §2Aledar: §aStay with me, (.*)! We must stay together, this is a dangerous mission.
-§7\[2\/12\] §2Aledar: §aIt’s a twist of fate that our paths have converged here, (.*). We started our journey together and now..
-§7\[6\/12\] §2Aledar: §aNo more running for us, huh (.*)\? Ah, we’re here.
-§7\[10\/14\] §2Aledar: §a(.*), come with me! Cast a spell to block the cave's entrance so the monster can't leave.
-§7\[7\/7\] §2Elphaba: §a(.*), I've written the house's coordinates on your book. Meet us there.
-§7\[18\/19\] §2Elphaba: §aAlright. Aledar, you get the Darkness item with (.*), and I'll go get the Light item with Lucio.
-§7\[19\/19\] §2Aledar: §aYes ma'am! Let's go (.*)!
-§7\[1\/5\] §2Aledar: §aHere we are, the roots of Corruption. Let’s go, (.*)!
-§7\[5\/5\] §2Aledar: §a...I don’t think we can spell our way across, (.*)! We need something like... Wings!
-§7\[1\/2\] §2Aledar: §aWow, I’m impressed (.*). I honestly thought you would need my help.
-§7\[2\/4\] §2Dren: §aThat should do it. Let’s see if this will work. Come here (.*)!
-§7\[1\/1\] §2Elphaba: §aStay with us (.*), we just got here. We can't just go wandering around.
-§7\[1\/1\] §2Aledar: §aStay with us (.*)! We've just had a loss, you can't go wandering around!
-§7\[1\/7\] §2Aledar: §aNo no no!! This is bad, really bad! We have to go (.*)! Now!
-§7\[1\/5\] §2Aledar: §a(.*)! (.*)!
-§7\[2\/6\] §2Aledar: §aUrrrgh. (.*), this hasn’t gone to plan. According to my map we aren’t even half way.
-§7\[8\/8\] §2Aledar: §aLook out, (.*)!
-§7\[1\/1\] §2Aledar: §aThey're here again, (.*)!
-§7\[1\/1\] §2Aledar: §aOuch! I got hit! Be careful, (.*)!
-§7\[1\/2\] §2Aledar: §a(.*), good news. I'm basically as recovered as I think I'll get.
-§7\[2\/2\] §2Aledar: §aIt's an ambush! Stay sharp, (.*)!
-§7\[2\/5\] §2Aledar: §aWait, (.*), what's going on\? Are you alright\?
-§7\[2\/9\] §2Aledar: §a(.*), §aa-agh...you're§a okay, right\?
-§7\[6\/9\] §2Aledar: §a(.*), you just... you have to realize, I can't have you getting hurt.
-§7\[3\/3\] §2Aledar: §aOh no, I think something is coming... (.*)! Fight it off, I don't think I can defend myself right now!
-§7\[3\/11\] §2Aledar: §a(.*), try throwing a spell at the same time! Let's crack through these things!
-§7\[1\/5\] §2Aledar: §a...wait§a, (.*)\? You got to the other side then...\? Good...
-§7\[8\/20\] §2Aledar: §aI §amean...look§a at the state I'm in, (.*)! I'm on death's door already, and you've proven yourself far stronger than I am even at my best.
-§7\[13\/20\] §2Aledar: §aGrab the blade, (.*).
-§7Hello, ([a-zA-Z0-9_]{1,16}).
-§7\[1\/1\] §2Aledar: §aStay with us (.*), we just got here. We can't ju
-§7\[8\/10\] §2Teacher: §aBut aside from that, onto our practical test. You will all come up to me, starting with (.*), and hone your courage. I will be lobbing fireballs at the wall behind you.
-§7\[9\/10\] §2Teacher: §aYou will need to destroy the fireballs before they hit the wall, by attacking them directly. If you are hit, it counts as a failure! Now. Let's get started, (.*).
-§7\[2\/2\] §2Teacher: §aDismissed, (.*). You may leave. Now, do I have any volunteers for the next round...\?
-§7\[1\/1\] §2Teacher: §aCorrect. (.*), thank you for paying attention. No one ever seems to in this class. You may go.
-§7\[6\/10\] §2Headmaster: §aLet us start with (.*). Please come up to the stage!
-§7\[18\/18\] §2Teacher: §aGAACK! No, (.*), I said RUN! Don't fight that thing, get OUT!
+§7\[1\/1\] §2Lucio: §a(.*)! She was completely right. You ought to come with us...@
+§7\[2\/17\] §2Aledar: §aElphie! Have you found our fourth member yet\?... Oh, (.*)!@
+§7\[22\/23\] §2Dr. Picard: §a(.*)! Get out of there! You are being sucked into the memory.@
+§7\[5\/17\] §2Elphaba: §aHold up. We need to brief (.*). This mission is dangerous. Listen up.@
+§7\[17\/17\] §2Aledar: §a(.*) If you are ready, let’s go.@
+§7\[1\/1\] §2Aledar: §aStay with me, (.*)! We must stay together, this is a dangerous mission.@
+§7\[2\/12\] §2Aledar: §aIt’s a twist of fate that our paths have converged here, (.*). We started our journey together and now..@
+§7\[6\/12\] §2Aledar: §aNo more running for us, huh (.*)\? Ah, we’re here.@
+§7\[10\/14\] §2Aledar: §a(.*), come with me! Cast a spell to block the cave's entrance so the monster can't leave.@
+§7\[7\/7\] §2Elphaba: §a(.*), I've written the house's coordinates on your book. Meet us there.@
+§7\[18\/19\] §2Elphaba: §aAlright. Aledar, you get the Darkness item with (.*), and I'll go get the Light item with Lucio.@
+§7\[19\/19\] §2Aledar: §aYes ma'am! Let's go (.*)!@
+§7\[1\/5\] §2Aledar: §aHere we are, the roots of Corruption. Let’s go, (.*)!@
+§7\[5\/5\] §2Aledar: §a...I don’t think we can spell our way across, (.*)! We need something like... Wings!@
+§7\[1\/2\] §2Aledar: §aWow, I’m impressed (.*). I honestly thought you would need my help.@
+§7\[2\/4\] §2Dren: §aThat should do it. Let’s see if this will work. Come here (.*)!@
+§7\[1\/1\] §2Elphaba: §aStay with us (.*), we just got here. We can't just go wandering around.@
+§7\[1\/1\] §2Aledar: §aStay with us (.*)! We've just had a loss, you can't go wandering around!@
+§7\[1\/7\] §2Aledar: §aNo no no!! This is bad, really bad! We have to go (.*)! Now!@
+§7\[1\/5\] §2Aledar: §a(.*)! (.*)!@
+§7\[2\/6\] §2Aledar: §aUrrrgh. (.*), this hasn’t gone to plan. According to my map we aren’t even half way.@
+§7\[8\/8\] §2Aledar: §aLook out, (.*)!@
+§7\[1\/1\] §2Aledar: §aThey're here again, (.*)!@
+§7\[1\/1\] §2Aledar: §aOuch! I got hit! Be careful, (.*)!@
+§7\[1\/2\] §2Aledar: §a(.*), good news. I'm basically as recovered as I think I'll get.@
+§7\[2\/2\] §2Aledar: §aIt's an ambush! Stay sharp, (.*)!@
+§7\[2\/5\] §2Aledar: §aWait, (.*), what's going on\? Are you alright\?@
+§7\[2\/9\] §2Aledar: §a(.*), §aa-agh...you're§a okay, right\?@
+§7\[6\/9\] §2Aledar: §a(.*), you just... you have to realize, I can't have you getting hurt.@
+§7\[3\/3\] §2Aledar: §aOh no, I think something is coming... (.*)! Fight it off, I don't think I can defend myself right now!@
+§7\[3\/11\] §2Aledar: §a(.*), try throwing a spell at the same time! Let's crack through these things!@
+§7\[1\/5\] §2Aledar: §a...wait§a, (.*)\? You got to the other side then...\? Good...@
+§7\[8\/20\] §2Aledar: §aI §amean...look§a at the state I'm in, (.*)! I'm on death's door already, and you've proven yourself far stronger than I am even at my best.@
+§7\[13\/20\] §2Aledar: §aGrab the blade, (.*).@
+§7Hello, ([a-zA-Z0-9_]{1,16}).@
+§7\[1\/1\] §2Aledar: §aStay with us (.*), we just got here. We can't just go wandering around.@
+§7\[8\/10\] §2Teacher: §aBut aside from that, onto our practical test. You will all come up to me, starting with (.*), and hone your courage. I will be lobbing fireballs at the wall behind you.@
+§7\[9\/10\] §2Teacher: §aYou will need to destroy the fireballs before they hit the wall, by attacking them directly. If you are hit, it counts as a failure! Now. Let's get started, (.*).@
+§7\[2\/2\] §2Teacher: §aDismissed, (.*). You may leave. Now, do I have any volunteers for the next round...\?@
+§7\[1\/1\] §2Teacher: §aCorrect. (.*), thank you for paying attention. No one ever seems to in this class. You may go.@
+§7\[6\/10\] §2Headmaster: §aLet us start with (.*). Please come up to the stage!@
+§7\[18\/18\] §2Teacher: §aGAACK! No, (.*), I said RUN! Don't fight that thing, get OUT!@
 
 §d     -§7 Lore: §f§oThough its creators have disappeared, this city serves as proof that there was once a civilization in the Silent Expanse.
 §d     -§7 Lore: §f§oThis old cathedral has fallen into disrepair, especially considering the massive spike that's grown inside of it. Legends say that beneath the cathedral lies a powerful rune.
