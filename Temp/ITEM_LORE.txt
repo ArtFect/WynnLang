@@ -7,6 +7,7 @@
 §7Gathering Post \[Mining Lv. (\d+)\] 
 §7Gathering Post \[Farming Lv. (\d+)\] 
 §7Gathering Post \[Woodcutting Lv. (\d+)\] 
+§fSilent Expanse §7\[(.*)\] §§(.*)
 §5\[RRL\] §dUproot Spell: §f§f(.*)
 §d- §7Main Attack Neutral Damage: §f(.*)
 §d- §7Neutral Spell Damage: §f(.*)
