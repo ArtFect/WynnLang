@@ -48,25 +48,25 @@
 §7\[2\/6\] §2Aledar: §aUrrrgh. (.*), this hasn’t gone to plan. According to my map we aren’t even half way.@§7[2/6] §2Аледар: §aУуггхх. (r1), все пошло не по плану. Судя по моей карте, мы не прошли и половины пути.
 §7\[8\/8\] §2Aledar: §aLook out, (.*)!@§7[8/8] §2Аледар: §aОсторожнее, (r1)!
 §7\[1\/1\] §2Aledar: §aThey're here again, (.*)!@§7[1/1] §2Аледар: §aОни снова здесь, (r1)!
-§7\[1\/1\] §2Aledar: §aOuch! I got hit! Be careful, (.*)!@
-§7\[1\/2\] §2Aledar: §a(.*), good news. I'm basically as recovered as I think I'll get.@
-§7\[2\/2\] §2Aledar: §aIt's an ambush! Stay sharp, (.*)!@
-§7\[2\/5\] §2Aledar: §aWait, (.*), what's going on\? Are you alright\?@
-§7\[2\/9\] §2Aledar: §a(.*), §aa-agh...you're§a okay, right\?@
-§7\[6\/9\] §2Aledar: §a(.*), you just... you have to realize, I can't have you getting hurt.@
-§7\[3\/3\] §2Aledar: §aOh no, I think something is coming... (.*)! Fight it off, I don't think I can defend myself right now!@
-§7\[3\/11\] §2Aledar: §a(.*), try throwing a spell at the same time! Let's crack through these things!@
-§7\[1\/5\] §2Aledar: §a...wait§a, (.*)\? You got to the other side then...\? Good...@
-§7\[8\/20\] §2Aledar: §aI §amean...look§a at the state I'm in, (.*)! I'm on death's door already, and you've proven yourself far stronger than I am even at my best.@
-§7\[13\/20\] §2Aledar: §aGrab the blade, (.*).@
-§7Hello, ([a-zA-Z0-9_]{1,16}).@
-§7\[1\/1\] §2Aledar: §aStay with us (.*), we just got here. We can't just go wandering around.@
-§7\[8\/10\] §2Teacher: §aBut aside from that, onto our practical test. You will all come up to me, starting with (.*), and hone your courage. I will be lobbing fireballs at the wall behind you.@
-§7\[9\/10\] §2Teacher: §aYou will need to destroy the fireballs before they hit the wall, by attacking them directly. If you are hit, it counts as a failure! Now. Let's get started, (.*).@
-§7\[2\/2\] §2Teacher: §aDismissed, (.*). You may leave. Now, do I have any volunteers for the next round...\?@
-§7\[1\/1\] §2Teacher: §aCorrect. (.*), thank you for paying attention. No one ever seems to in this class. You may go.@
-§7\[6\/10\] §2Headmaster: §aLet us start with (.*). Please come up to the stage!@
-§7\[18\/18\] §2Teacher: §aGAACK! No, (.*), I said RUN! Don't fight that thing, get OUT!@
+§7\[1\/1\] §2Aledar: §aOuch! I got hit! Be careful, (.*)!@§7[1/1] §2Аледар: §aАй! Я получил удар! Будь осторожнее, (r1)!
+§7\[1\/2\] §2Aledar: §a(.*), good news. I'm basically as recovered as I think I'll get.@§7[1/2] §2Аледар: §a(r1), хорошие новости. Я практически восстановился.
+§7\[2\/2\] §2Aledar: §aIt's an ambush! Stay sharp, (.*)!@§7[2/2] §2Аледар: §aЭто засада! Будь начеку, (r1)!
+§7\[2\/5\] §2Aledar: §aWait, (.*), what's going on\? Are you alright\?@§7[2/5] §2Аледар: §aПогоди, (r1), что происходит? С тобой все в порядке?
+§7\[2\/9\] §2Aledar: §a(.*), §aa-agh...you're§a okay, right\?@§7[2/9] §2Аледар: §a(r1), §aа-аагх...ты в порядке, верно?
+§7\[6\/9\] §2Aledar: §a(.*), you just... you have to realize, I can't have you getting hurt.@§7[6/9] §2Аледар: §a(r1), ты просто..... ты должен понять, я не могу допустить, чтобы ты пострадал.
+§7\[3\/3\] §2Aledar: §aOh no, I think something is coming... (.*)! Fight it off, I don't think I can defend myself right now!@§7[3/3] §2Аледар: §aО нет, я думаю что-то приближается... (r1)! Отбивайся, я не думаю, что смогу защитить себя прямо сейчас!
+§7\[3\/11\] §2Aledar: §a(.*), try throwing a spell at the same time! Let's crack through these things!@§7[3/11] §2Аледар: §a(r1), попробуй использовать заклинание одновременно! Давай прорвемся через эту штуку!
+§7\[1\/5\] §2Aledar: §a...wait§a, (.*)\? You got to the other side then...\? Good...@§7[1/5] §2Аледар: §a...подожди§a, (r1)? Ты перебрался на другую сторону...? Хорошо...
+§7\[8\/20\] §2Aledar: §aI §amean...look§a at the state I'm in, (.*)! I'm on death's door already, and you've proven yourself far stronger than I am even at my best.@§7[8/20] §2Аледар: §aЯ про то...посмотри, в каком я состоянии, (r1)! Я уже на пороге смерти, а ты доказал, что ты намного сильнее меня даже в моих лучших проявлениях.
+§7\[13\/20\] §2Aledar: §aGrab the blade, (.*).@§7[13/20] §2Аледар: §aВозьми клинок, (r1).
+§7Hello, ([a-zA-Z0-9_]{1,16}).@§7Здравствуй, (r1).
+§7\[1\/1\] §2Aledar: §aStay with us (.*), we just got here. We can't just go wandering around.@§7[1/1] §2Аледар: §aОстанься с нами (r1), мы только что пришли. Мы не можем просто бродить вокруг.
+§7\[8\/10\] §2Teacher: §aBut aside from that, onto our practical test. You will all come up to me, starting with (.*), and hone your courage. I will be lobbing fireballs at the wall behind you.@§7[8/10] §2Учитель: §aНо помимо этого, перейдем к нашему практическому тесту. Вы все подойдете ко мне, начиная с (r1), и отточите свое мужество. Я буду швырять огненные шары в стену позади вас.
+§7\[9\/10\] §2Teacher: §aYou will need to destroy the fireballs before they hit the wall, by attacking them directly. If you are hit, it counts as a failure! Now. Let's get started, (.*).@§7[9/10] §2Учитель: §aВам нужно будет уничтожить огненные шары, прежде чем они попадут в стену, атакуя их напрямую. Если по вам попали, это считается неудачей! Итак. Давай начнем, (r1).
+§7\[2\/2\] §2Teacher: §aDismissed, (.*). You may leave. Now, do I have any volunteers for the next round...\?@§7[2/2] §2Учитель: §aОтстранен, (r1). Можешь идти. Теперь, есть ли у меня добровольцы для следующего раунда...?
+§7\[1\/1\] §2Teacher: §aCorrect. (.*), thank you for paying attention. No one ever seems to in this class. You may go.@§7[1/1] §2Учитель: §aВерно. (r1), спасибо, что уделил внимание. В этом классе, кажется, никто никогда этого не делал. Можешь идти.
+§7\[6\/10\] §2Headmaster: §aLet us start with (.*). Please come up to the stage!@§7[6/10] §2Директор: §aДавайте начнем с (r1). Пожалуйста, поднимись на сцену!
+§7\[18\/18\] §2Teacher: §aGAACK! No, (.*), I said RUN! Don't fight that thing, get OUT!@§7[18/18] §2Учитель: §aААГА! Нет, (r1), я сказал БЕГИ! Не сопротивляйся этой твари, убирайся!
 
 §d     -§7 Lore: §f§oThough its creators have disappeared, this city serves as proof that there was once a civilization in the Silent Expanse.
 §d     -§7 Lore: §f§oThis old cathedral has fallen into disrepair, especially considering the massive spike that's grown inside of it. Legends say that beneath the cathedral lies a powerful rune.
