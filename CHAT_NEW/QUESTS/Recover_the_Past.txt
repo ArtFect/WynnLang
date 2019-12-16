@@ -20,7 +20,7 @@
 §7[1/3] §2Scout Reynauld: §aAgh... Thanks for the rescue...@§7[1/3] §2Скаут Рейнольд: §aАгх... Спасибо что спас...
 §7[2/3] §2Scout Reynauld: §aTry not to let me get overwhelmed. Now, let's try this again.@§7[2/3] §2Скаут Рейнольд: §aПостарайся не дать им меня ошеломить. Теперь, давай попробуем снова.
 §7[3/3] §2Scout Reynauld: §aGet ready!@§7[3/3] §2Скаут Рейнольд: §aПриготовься!
-§7[1/1] §2Scout Reynauld: §aAlmost got this arrow nocked...@§7[1/1] §2Скаут Рейнольд: §a
+§7[1/1] §2Scout Reynauld: §aAlmost got this arrow nocked...@§7[1/1] §2Скаут Рейнольд: §aМоя стрела почти готова...
 §7[1/1] §2Scout Reynauld: §aBullseye! Now's your chance, go take out that summoner!@§7[1/1] §2Скаут Рейнольд: §aВ яблочко! Теперь у тебя есть шанс, иди и уничтожь этого призывателя.
 §7[1/1] §2Scout Reynauld: §aGreat job, you did it! Now, come back and get these monsters off me!@§7[1/1] §2Скаут Рейнольд: §aОтличная работа, ты сделал это! А теперь вернись и убери от меня этих монстров!
 §7[1/4] §2Scout Reynauld: §aPhew. Thanks for the help, not sure I could have done that alone.@§7[1/4] §2Скаут Рейнольд: §aФух. Спасибо за помощь, не уверен, что я мог бы сделать это в одиночку.
@@ -34,45 +34,45 @@
 §7[5/7] §2Scout Reynauld: §aDo I just look into it?@§7[5/7] §2Скаут Рейнольд: §aИ что, просто смотреть на нее?
 §7[6/7] §2Dr. Picard: §aJust stare into its depths and let that depth reflect into your mind...@§7[6/7] §2Др. Пикард: §aПросто вглядитесь в его глубины, и пусть эта глубина отразится в вашем уме...
 §7[7/7] §2Scout Reynauld: §aI don’t feel any- WOAH@§7[7/7] §2Скаут Рейнольд: §aЯ ничего не чувств- ВОУ
-§7[1/12] §2Reynauld: §a*Sigh*, what a day.@§7[1/12] §2Рейнольд: §a
-§7[2/12] §2Reynauld: §aIs the water any better?@§7[2/12] §2Рейнольд: §a
-§7[3/12] §2Heine: §a*Sigh*, there's barely enough for us and the horses.@§7[3/12] §2Рейнольд: §a
-§7[4/12] §2Heine: §aI don't see why the Royalty has to irrigate from our rivers.@§7[4/12] §2Рейнольд: §a
-§7[5/12] §2Imperial Guard: §aThe Palace has ordered an inquest into the productivity of this village. You are behind on your crop deliveries.@§7[5/12] §2Рейнольд: §a
-§7[6/12] §2Reynauld: §aSir, we tried but the farms don't have enough clean water since the Palace dammed up the river!@§7[6/12] §2Рейнольд: §a
-§7[7/12] §2Imperial Soldier: §aAre you insulting the work of our royal engineers?@§7[7/12] §2Рейнольд: §a
-§7[8/12] §2Reynauld: §aWhat? No! I'm just explaining- Please! I have a family I didn't speak out of turn.@§7[8/12] §2Рейнольд: §a
-§7[9/12] §2Reynauld: §aHeine? Look after the kids. I'll be back soon!@§7[9/12] §2Рейнольд: §a
-§7[10/12] §2Imperial Guard: §aThe Palace does not tolerate insubordination. Reynauld you are to be tried for Lèse-majesté.@§7[10/12] §2Рейнольд: §a
-§7[11/12] §2Imperial Guard: §aThis village would do well to remember who protects them from external forces.@§7[11/12] §2Рейнольд: §a
-§7[12/12] §2Dr. Picard: §aHey. HEY! It's not real. Just a memory! Talk to me!@§7[12/12] §2Рейнольд: §a
-§7[1/5] §2Dr. Picard: §aWell, that was unexpected. I didn't anticipate subjects would relive them that vividly.@§7[1/5] §2Др. Пикард: §a
-§7[2/5] §2Dr. Picard: §aTo think Reynauld had a whole family and life before he came here.@§7[2/5] §2Др. Пикард: §a
-§7[3/5] §2Dr. Picard: §aDo you think you could get me one more subject? We need to find out more.@§7[3/5] §2Др. Пикард: §a
-§7[4/5] §2Dr. Picard: §aThere's a sailor close to Elkurn from Fruma. Maybe you could go ask him?@§7[4/5] §2Др. Пикард: §a
-§7[5/5] §2Dr. Picard: §aCross the bridge you took earlier and continue past Elkurn. He should be by the river.@§7[5/5] §2Др. Пикард: §a
-§7[1/5] §2Caid: §aYep, I'm the sailor. Pretty sure I'm from Fruma, came here on the same cart as you.@§7[1/5] §2Каид: §a
-§7[2/5] §2Caid: §aI'm not sure I want to know about it... I must have left for a reason, right?@§7[2/5] §2Каид: §a
-§7[3/5] §2Caid: §aWait, Reynauld had his done? Hmm, I guess it couldn't hurt.@§7[3/5] §2Каид: §a
-§7[4/5] §2Caid: §aHowever, I have an issue. I've navigated my boat into a creek instead of the river..@§7[4/5] §2Каид: §a
-§7[5/5] §2Caid: §aMaybe we can use some magic to shrink the boat? Maybe someone in Elkurn knows? An alchemist maybe?@§7[5/5] §2Каид: §a
-§7[1/6] §2Alchemist: §aLooking for potions?@§7[1/6] §2Алхимик: §a
-§7[2/6] §2Alchemist: §aThis is the best potion shop in Elkurn! A what? Excuse me?@§7[2/6] §2Алхимик: §a
-§7[3/6] §2Alchemist: §aA shrinking potion? No, we do not sell those here...@§7[3/6] §2Алхимик: §a
-§7[4/6] §2Alchemist: §aOr... hold up. I think I know how to make one, I've never done it before though.@§7[4/6] §2Алхимик: §a
-§7[5/6] §2Alchemist: §aIf I remember correctly... I need §3[1 Golden Apple]§a, §3[1 Bottle of Water] §aand lastly, §3[1 Bloom of Doom].@§7[5/6] §2Алхимик: §a
-§7[6/6] §2Alchemist: §aGolden apples grow in certain big apple trees. Bottles of water should be available here in town. Blooms of Doom grow near death, try looking near the Elkurn church. Watch out, they aren't the friendliest.@§7[6/6] §2Алхимик: §a
-§7[1/5] §2Caid: §aYou know, the more I look at this, the more I wonder how I did this.@§7[1/5] §2Каид: §a
-§7[2/5] §2Caid: §aThanks for getting the potion. Let's see if it works. If it does I'll follow you to the tower.@§7[2/5] §2Каид: §a
+§7[1/12] §2Reynauld: §a*Sigh*, what a day.@§7[1/12] §2Рейнольд: §a*вздыхает*, что за день.
+§7[2/12] §2Reynauld: §aIs the water any better?@§7[2/12] §2Рейнольд: §aЕсть улучшения с водой?
+§7[3/12] §2Heine: §a*Sigh*, there's barely enough for us and the horses.@§7[3/12] §2Хайне: §a*вздыхает*, там едва хватит на нас и лошадей.
+§7[4/12] §2Heine: §aI don't see why the Royalty has to irrigate from our rivers.@§7[4/12] §2Хайне: §aЯ не понимаю, почему королевская власть должна орошать посевы из наших рек.
+§7[5/12] §2Imperial Guard: §aThe Palace has ordered an inquest into the productivity of this village. You are behind on your crop deliveries.@§7[5/12] §2Имперский Страж: §aДворец приказал провести расследование о производительности этой деревни. Вы отстаете в поставках урожая.
+§7[6/12] §2Reynauld: §aSir, we tried but the farms don't have enough clean water since the Palace dammed up the river!@§7[6/12] §2Рейнольд: §aСэр, мы пытались, но на фермах не хватает чистой воды с тех пор, как дворец запрудил реку!
+§7[7/12] §2Imperial Soldier: §aAre you insulting the work of our royal engineers?@§7[7/12] §2Имперский Солдат: §aТы оскорбляешь работу наших королевских инженеров?
+§7[8/12] §2Reynauld: §aWhat? No! I'm just explaining- Please! I have a family I didn't speak out of turn.@§7[8/12] §2Рейнольд: §aЧто? Нет! Я просто объясняю - пожалуйста! У меня семья, я не хотел так высказываться.
+§7[9/12] §2Reynauld: §aHeine? Look after the kids. I'll be back soon!@§7[9/12] §2Рейнольд: §aХайне? Присмотри за детьми. Я скоро вернусь!
+§7[10/12] §2Imperial Guard: §aThe Palace does not tolerate insubordination. Reynauld you are to be tried for Lèse-majesté.@§7[10/12] §2Рейнольд: §aДворец не терпит неповиновения. Рейнольд, ты пытался оскорбить ее величество.
+§7[11/12] §2Imperial Guard: §aThis village would do well to remember who protects them from external forces.@§7[11/12] §2Имперский Страж: §aЭтой деревне не мешало бы вспомнить, кто защищает ее от внешних сил.
+§7[12/12] §2Dr. Picard: §aHey. HEY! It's not real. Just a memory! Talk to me!@§7[12/12] §2Др. Пикард: §aЭй. ЭЙ! Это все не реально! Просто воспоминание! Поговори со мной!
+§7[1/5] §2Dr. Picard: §aWell, that was unexpected. I didn't anticipate subjects would relive them that vividly.@§7[1/5] §2Др. Пикард: §aЧто ж, это было неожиданно. Я не ожидал, что испытуемые будут переживать их так ярко.
+§7[2/5] §2Dr. Picard: §aTo think Reynauld had a whole family and life before he came here.@§7[2/5] §2Др. Пикард: §aПодумать только, у Рейнольда была целая семья и целая жизнь до того, как он приехал сюда.
+§7[3/5] §2Dr. Picard: §aDo you think you could get me one more subject? We need to find out more.@§7[3/5] §2Др. Пикард: §aНе мог бы ты привести мне еще одного подопытного? Нам нужно узнать больше.
+§7[4/5] §2Dr. Picard: §aThere's a sailor close to Elkurn from Fruma. Maybe you could go ask him?@§7[4/5] §2Др. Пикард: §aНеподалеку от Элкурна есть моряк из Фрумы. Может, ты пойдешь и спросишь его?
+§7[5/5] §2Dr. Picard: §aCross the bridge you took earlier and continue past Elkurn. He should be by the river.@§7[5/5] §2Др. Пикард: §aПересеки мост, по которому ты шел раньше, и пройди мимо Элкурна. Он должен быть у реки.
+§7[1/5] §2Caid: §aYep, I'm the sailor. Pretty sure I'm from Fruma, came here on the same cart as you.@§7[1/5] §2Каид: §aДа, я моряк. Почти уверен, что я из Фрумы, приехал сюда на той же повозке, что и ты.
+§7[2/5] §2Caid: §aI'm not sure I want to know about it... I must have left for a reason, right?@§7[2/5] §2Каид: §aНе уверен, что хочу знать об этом... Я должен был уйти по какой-то причине, верно?
+§7[3/5] §2Caid: §aWait, Reynauld had his done? Hmm, I guess it couldn't hurt.@§7[3/5] §2Каид: §aПодожди, Рейнольд это сделал? Хм, думаю, это не повредит.
+§7[4/5] §2Caid: §aHowever, I have an issue. I've navigated my boat into a creek instead of the river..@§7[4/5] §2Каид: §aОднако, у меня есть проблема. Я направил свою лодку в ручей вместо реки..
+§7[5/5] §2Caid: §aMaybe we can use some magic to shrink the boat? Maybe someone in Elkurn knows? An alchemist maybe?@§7[5/5] §2Каид: §aМожет, мы можем использовать какую-нибудь магию, чтобы уменьшить лодку? Может, кто-то в Элкурне знает? Алхимик например?
+§7[1/6] §2Alchemist: §aLooking for potions?@§7[1/6] §2Алхимик: §aИщешь зелья?
+§7[2/6] §2Alchemist: §aThis is the best potion shop in Elkurn! A what? Excuse me?@§7[2/6] §2Алхимик: §aЭто лучший магазин зелий в Элкурне! Что прости?
+§7[3/6] §2Alchemist: §aA shrinking potion? No, we do not sell those here...@§7[3/6] §2Алхимик: §aУменьшающее зелье? Нет, мы их здесь не продаем...
+§7[4/6] §2Alchemist: §aOr... hold up. I think I know how to make one, I've never done it before though.@§7[4/6] §2Алхимик: §aИли... подожди-ка. Думаю, что знаю, как сделать одно, но я никогда не делал этого раньше.
+§7[5/6] §2Alchemist: §aIf I remember correctly... I need §3[1 Golden Apple]§a, §3[1 Bottle of Water] §aand lastly, §3[1 Bloom of Doom].@§7[5/6] §2Алхимик: §aЕсли я правильно помню... Мне нужно §3[1 Золотое Яблоко]§a, §3[1 Бутылка воды]§a и, наконец, §3[1 Цветок судьбы]§a.
+§7[6/6] §2Alchemist: §aGolden apples grow in certain big apple trees. Bottles of water should be available here in town. Blooms of Doom grow near death, try looking near the Elkurn church. Watch out, they aren't the friendliest.@§7[6/6] §2Алхимик: §aЗолотые яблоки растут на некоторых больших яблонях. Бутылки с водой должны быть доступны прямо здесь, в городе. Цветы судьбы растут рядом со смертью, попробуй посмотреть рядом с церковью Элкурна. Берегись, они не самые дружелюбные.
+§7[1/5] §2Caid: §aYou know, the more I look at this, the more I wonder how I did this.@§7[1/5] §2Каид: §aЗнаешь, чем больше я смотрю на это, тем больше удивляюсь, как я это сделал.
+§7[2/5] §2Caid: §aThanks for getting the potion. Let's see if it works. If it does I'll follow you to the tower.@§7[2/5] §2Каид: §aСпасибо за зелье. Давай посмотрим, работает ли оно. Если это случится, я последую за тобой в башню.
 §7[3/5] §2Caid: §a...@ 
-§7[4/5] §2Caid: §aI mean... It certainly shrunk. Do I even fit now?@§7[4/5] §2Каид: §a
-§7[5/5] §2Caid: §aI guess you held up your side of the deal. I'll follow you.@§7[5/5] §2Каид: §a
-§7[1/5] §2Dr. Picard: §aAhhh, another Fruman. Let's see if his story is the same as Reynauld's.@§7[1/5] §2Др. Пикард: §a
-§7[2/5] §2Sailor Caid: §aI am still not sure about this, I'm kind of happy here.@§7[2/5] §2Моряк Каид: §a
-§7[3/5] §2Dr. Picard: §aNothing to worry about, it won't change who you are now.@§7[3/5] §2Др. Пикард: §a
-§7[4/5] §2Dr. Picard: §aWait for it...@§7[4/5] §2Др. Пикард: §a
-§7[5/5] §2Sailor Caid: §aHold up. What is going on?@§7[5/5] §2Моряк Каид: §a
-§7[1/7] §2???: §aAHHH!!!!!@§7[1/7] §2???: §a
+§7[4/5] §2Caid: §aI mean... It certainly shrunk. Do I even fit now?@§7[4/5] §2Каид: §aЯ имею в виду... Она определенно уменьшилась. Я вообще помещусь там сейчас?
+§7[5/5] §2Caid: §aI guess you held up your side of the deal. I'll follow you.@§7[5/5] §2Каид: §aДумаю, ты выполнил свою часть сделки. Я пойду за тобой.
+§7[1/5] §2Dr. Picard: §aAhhh, another Fruman. Let's see if his story is the same as Reynauld's.@§7[1/5] §2Др. Пикард: §aАхх, еще один из Фрумы. Давайте посмотрим, совпадает ли его история с историей Рейнольда.
+§7[2/5] §2Sailor Caid: §aI am still not sure about this, I'm kind of happy here.@§7[2/5] §2Моряк Каид: §aЯ все еще не уверен в этом, я вроде как счастлив здесь.
+§7[3/5] §2Dr. Picard: §aNothing to worry about, it won't change who you are now.@§7[3/5] §2Др. Пикард: §aНе о чем беспокоиться, это не изменит того, кто вы сейчас.
+§7[4/5] §2Dr. Picard: §aWait for it...@§7[4/5] §2Др. Пикард: §aСекунду...
+§7[5/5] §2Sailor Caid: §aHold up. What is going on?@§7[5/5] §2Моряк Каид: §aПодождите. Что происходит?
+§7[1/7] §2???: §aAHHH!!!!!@§7[1/7] §2???: §aАХХХ!!!!!
 §7[2/7] §2Imperial Guard §aMove.@§7[2/7] §2Имперский Страж: §a
 §7[3/7] §2Caid §aCARA! @§7[3/7] §2Каид: §a
 §7[4/7] §2Imperial Guard: §aCara is under arrest. She is coming with me.@§7[4/7] §2Имперский Страж: §a
