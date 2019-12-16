@@ -67,6 +67,7 @@
 §7\[1\/1\] §2Teacher: §aCorrect. (.*), thank you for paying attention. No one ever seems to in this class. You may go.@§7[1/1] §2Учитель: §aВерно. (r1), спасибо, что уделил внимание. В этом классе, кажется, никто никогда этого не делал. Можешь идти.
 §7\[6\/10\] §2Headmaster: §aLet us start with (.*). Please come up to the stage!@§7[6/10] §2Директор: §aДавайте начнем с (r1). Пожалуйста, поднимись на сцену!
 §7\[18\/18\] §2Teacher: §aGAACK! No, (.*), I said RUN! Don't fight that thing, get OUT!@§7[18/18] §2Учитель: §aААГА! Нет, (r1), я сказал БЕГИ! Не сопротивляйся этой твари, убирайся!
+§7\[1\/4\] §2Korzim: §a(.*)... Do you §ahave...the§a staff\? And the amulet...\?@§7[1/4] §2Корзим: §a(r1)... Предмет у тебя? И амулет...?
 
 §d     -§7 Lore: §f§oThough its creators have disappeared, this city serves as proof that there was once a civilization in the Silent Expanse.@§d     -§7 Лор: §f§oХоть его создатели и исчезли, этот город служит доказательством того, что когда-то в Тихом Пространстве существовала цивилизация.
 §d     -§7 Lore: §f§oThis old cathedral has fallen into disrepair, especially considering the massive spike that's grown inside of it. Legends say that beneath the cathedral lies a powerful rune.@§d     -§7 Лор: §f§oЭтот старый собор пришел в упадок, особенно учитывая массивный шип, который вырос внутри него. Легенды говорят, что под собором лежит мощная руна.
@@ -161,12 +162,7 @@
 §7[6/8] §2Miner: §aLet's see 'ere... Red, purple, green n' yellow. Say, boss, ain't these them crystal that lad not too long ago asked ya 'bout?@§7[6/8] §2Шахтер: §aДавайте посмотрим... Красный, фиолетовый, зеленый и желтый. Слушай, босс, а не те ли это кристаллы, о которых тебя недавно спрашивал парень? 
 §7[7/8] §2Miner Chief: §aThese are not just some 'crystals'. They're... Dangerous. All of you, listen up - never speak a word of what you saw here.@§7[7/8] §2Шахтер Шеф: §aЭто не просто какие-то "кристаллы". Они... Опасны. Все вы, слушайте внимательно - никогда не говорите ни слова о том, что вы здесь видели. 
 §7[8/8] §2Miner Chief: §aBoth of you, back to your posts, now! I'll make sure these are never seen again.@§7[8/8] §2Шахтер Шеф: §aВы оба, возвращайтесь на свои посты, сейчас же! Я позабочусь, чтобы их больше никогда не увидели. 
-§7[2/11] §2Junes: §aHowever... This barrier doesn't look like it was made by the empire.
-§7[4/11] §2Junes: §aWell, it seems to have fallen apart to the touch. This is one of the biggest rooms I've seen..
-§7[5/11] §2Junes: §aThis must have been important... Let's go!
-§7[1/1] §2Nothing Folk: §aWait… It can’t be. Look me in the eyes. You are human! But wait, you should really come back when you're level 102.
 
-§7[1/4] §2Korzim: §aartemaker... Do you §ahave...the§a staff? And the amulet...?
 §7[2/4] §2Korzim: §aThe war is starting... and Axelus... He has not returned.
 §7[3/4] §2Korzim: §aWe can not go... Not without him. Find him... And bring him to the... Dogun village.
 §7[4/4] §2Korzim: §aI can not leave. The §aguard...it§a is on high alert. He was last at §aRodoroc...yes§a?
@@ -372,6 +368,7 @@
 §7[4/4] §2Seaskipper Captain: §aThey're really odd fellas, but they're as harmless as a grook, heh!
 §7[3/4] §2Seaskipper Captain: §aI 'eard they're really hatin' on you soldiers. Did ya do anythin' to them?
 §7[1/1] §2Dr. Legendary: §aLadies and gentlemen, performing you live from Legendary Stadium... it's Death Metal and the Ascendant Bosses!
+§7[1/1] §2Nothing Folk: §aWait… It can’t be. Look me in the eyes. You are human! But wait, you should really come back when you're level 102.
 
 §a+ New Spell §2[Haul]
 §a+ New Spell §2[Aura]
