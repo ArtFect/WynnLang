@@ -1,53 +1,47 @@
-§7Blocks removed: §7(\d+)§7\/(\d+)
+§7Blocks removed: §7(\d+)§7\/(\d+)@§7Блоков убрано: §7(r1)§7/(r2)
 
-
-§6Fellowship Dagger
-§6Fellowship Dark Wand
-§7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]
-§7You've been knocked out...
-§7[0/7] Bodies Cleaned
-§7[1/7] Bodies Cleaned
-§7[2/7] Bodies Cleaned
-§7[3/7] Bodies Cleaned
-§7[4/7] Bodies Cleaned
-§7[5/7] Bodies Cleaned
-§7[6/7] Bodies Cleaned
-§7[7/7] Bodies Cleaned
-§8Cast spells!
-§7Poor town
-§7Fruma
-§7Imperial Prison
-§7THERE IS NO WAR
-§7INSIDE THE FRUMAN WALLS
-§7§oSomething's coming...
-§aRight-click for final hit
-§4You Failed!
-§8Try again...
-§8[1/4 Classes Completed]
-§8[2/4 Classes Completed]
-§8[3/4 Classes Completed]
-§8[4/4 Classes Completed]
-§4§kThe Silent Expanse
-§8§kRoad to Dern ❂
-§4The Silent Expanse
-§8Road to Dern ❂
-§eRuined Olmic City
-§eOlmic Cathedral
-§cINCORRECT
-§aCORRECT
-§eEyeball Forest
-§eTown of Lutho
-§4§lSurvive!
-§aSAFE
-§eCarnivorous Creature
-§cUNSAFE
-§7Zooming In...
-§bThe Lone Telescope
-§8Uses Left
-§bA Deathly Warning
-§8550 AP
-§7450 Years Ago
-§bTorn in Twain
+§6Fellowship Dagger@§6Кинжал Дружбы
+§6Fellowship Dark Wand@§6Темный Посох Дружбы
+§7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты входишь в Испорченные Заросшие Руины]
+§7You've been knocked out...@§7Ты был нокаутирован...
+§7[0/7] Bodies Cleaned@§7[0/7] Тел Очищено
+§7[1/7] Bodies Cleaned@§7[1/7] Тел Очищено
+§7[2/7] Bodies Cleaned@§7[2/7] Тела Очищено
+§7[3/7] Bodies Cleaned@§7[3/7] Тела Очищено
+§7[4/7] Bodies Cleaned@§7[4/7] Тела Очищено
+§7[5/7] Bodies Cleaned@§7[5/7] Тел Очищено
+§7[6/7] Bodies Cleaned@§7[6/7] Тел Очищено
+§7[7/7] Bodies Cleaned@§7[7/7] Тел Очищено
+§8Cast spells!@§8Каст заклинания!
+§7Poor town@§7Бедный городок
+§7Fruma@§7Фрума
+§7Imperial Prison@§7Имперская Тюрьма
+§7THERE IS NO WAR@§7НЕТ ВОЙНЫ
+§7INSIDE THE FRUMAN WALLS@§7В СТЕНАХ ФРУМЫ
+§7§oSomething's coming...@§7§oЧто-то приближается
+§aRight-click for final hit@§aПравый клик для финального удара
+§4You Failed!@§4Провал!
+§8Try again...@§8Попробуй снова...
+§8[1/4 Classes Completed]@§8[1/4 Занятий Закончено]
+§8[2/4 Classes Completed]@§8[2/4 Занятий Закончено]
+§8[3/4 Classes Completed]@§8[3/4 Занятий Закончено]
+§8[4/4 Classes Completed]@§8[4/4 Занятий Закончено]
+§4§kThe Silent Expanse@§4§kТихое Пространство
+§8§kRoad to Dern ❂@§8§kДорога к Дерну ❂
+§4The Silent Expanse@§4Тихое Пространство
+§8Road to Dern ❂@§8Дорога к Дерну ❂
+§cINCORRECT@§cНЕВЕРНО
+§aCORRECT@§aВЕРНО
+§4§lSurvive!@§4§lВыживи!
+§aSAFE@§aБЕЗОПАСНО
+§cUNSAFE@§cНЕБЕЗОПАСНО
+§7Zooming In...@§7Приближение...
+§bThe Lone Telescope@§bОдинокий Телескоп
+§8Uses Left@§8Использований Осталось
+§bA Deathly Warning@§bСмертельное Предупреждение
+§8550 AP@§8550 ПП
+§7450 Years Ago@§7450 Лет Назад
+§bTorn in Twain@§bРаздор Твейнов
 §7425 Years Ago
 §bPottery Wheel
 §4Corrupted §aUndergrowth Ruins
@@ -107,7 +101,6 @@
 §7[You are now entering EldritchÀÀÀOutlookÀÀÀEntrance]
 §7[You are now leaving EldritchÀÀÀOutlookÀÀÀEntrance]
 §6Sky Blue Wybel Token
-§eThe Eldritch Outlook
 §7Survive the waves!
 §8§k§lW
 §8§k§lWAT
