@@ -258,9 +258,7 @@
 §7[2/2] §2Ragni Guard: §aYou've helped a lot of people. Keep up the good work, and we'll win this war.
 §7[9/9] §2Troms Mage: §aIf you have nothing else to do, you should get yourself prepared and aid the army against Slykaar.
 §7[1/1] §2Ope: §aThank you again for your help!
-§7[1/3] §2Child: §aLook mom, they're selling Siegfried's sword! Can I buy one? Please?
-§7[2/3] §2Mother: §aNo, they're far too expensive. And a sword is something far too dangerous for you to play with.
-§7[3/3] §2Child: §aBut that's no fair! If I get a sword, I'll be a hero like Siegfried!
+
 §7[1/4] §2Ragni Guard: §aWelcome to Ragni, new recruit. How's Fruma these days? Ah right, directions.
 §7[1/1] §2Therck: §aI don't have time to talk to you right now, move along!
 §7[1/1] §2Aledar: §aOkay, we need to craft a weapon. I think I can help with that. Follow me.
@@ -276,7 +274,6 @@
 §7[1/1] §2Old Man: §aJust hit the pickaxe to pick it up. Then §bleft-click§a the ore with it to mine ingots!
 §7[1/2] §2Aledar: §aAll we need to do is use this anvil to forge your weapon.
 §7[2/2] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a to forge §3[1 Spear]§a and then show it to the guard.
-§7[1/6] §2Ahmsord Citizen: §aI heard from my friend's mother's hairdresser about how Siegfried saved Llevigar!
 §7[2/2] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a to forge §3[1 Dagger]§a and then show it to the guard.
 §7[1/7] §2WynnExcavation Archaeologist: §aBaffling... What a puzzling situation I am in...
 §7[5/7] §2WynnExcavation Archaeologist: §aThe scriptures also say something about hidden within the rocks... But we removed them all!
@@ -341,8 +338,6 @@
 §7[2/5] §2Doan: §aExcuse me, have you seen a passport around here?
 §7[1/1] §2Farmer Cevalus: §aHey! Get away from my farm, this is private property!
 §7[1/1] §2Bugabo: §aNo no no! No human can pass Bubo! Ask Mr. Dado if you want to pass.
-§7[1/3] §2Llevigar Citizen: §aDid you hear the news? Siegfried just killed a bunch of Orc- Wait, you don't know who Siegfried is?
-§7[2/3] §2Llevigar Citizen: §aHe's a legendary hero, the Bob of Gavel! He's all over the newspaper! I hear he's looking for apprentices.
 §7[1/4] §2Seaskipper Captain: §aTomatoes, check... Carrots, check... Did that box jus' move?
 §7[2/4] §2Seaskipper Captain: §aOh, 'scuse me soldi'r, sometimes people ask me to deliv'r some things as well.
 §7[3/4] §2Seaskipper Captain: §aTakin' people 'cross the sea is still my thing!
@@ -354,8 +349,6 @@
 §7[2/8] §2Troms Mage: §aAh, I didn’t expect to see a Ragni soldier out here. Perhaps you can assist me?
 §7[5/8] §2Troms Mage: §aWe tried to attack it, but this barrier is shaman magic, horrendously powerful too. The only way it could be this strong is if many lives were taken to make it...
 §7[6/8] §2Troms Mage: §aSo, we're stuck. The only clue we found is this riddle...
-§7[1/2] §2Slykaar: §aTroms used to beckon to my every need and desire... Even sacrifice it's own children for my magical defense!
-§7[1/2] §2Slykaar: §aNow the city will truly get to witness what power they have discarded.. They will see they made the wrong call.
 §7[2/4] §2Jill: §aAre these... beans?
 §7[1/1] §2Hrona: §aMove along, landwalker!
 §7[2/6] §2Qira: §a§lI must admit I am impressed; the Judge is §a§lruthless...perhaps§a§l he needs further tweaking?
@@ -369,7 +362,7 @@
 §7[3/4] §2Seaskipper Captain: §aThey seemed to be praisin' soldiers by kidnappin' more of them.
 §7[4/4] §2Seaskipper Captain: §aThey're really odd fellas, but they're as harmless as a grook, heh!
 §7[3/4] §2Seaskipper Captain: §aI 'eard they're really hatin' on you soldiers. Did ya do anythin' to them?
-§7[1/1] §2Dr. Legendary: §aLadies and gentlemen, performing you live from Legendary Stadium... it's Death Metal and the Ascendant Bosses!
+
 §7[1/1] §2Nothing Folk: §aWait… It can’t be. Look me in the eyes. You are human! But wait, you should really come back when you're level 102.
 
 §a+ New Spell §2[Haul]
