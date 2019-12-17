@@ -68,6 +68,8 @@
 §7\[6\/10\] §2Headmaster: §aLet us start with (.*). Please come up to the stage!@§7[6/10] §2Директор: §aДавайте начнем с (r1). Пожалуйста, поднимись на сцену!
 §7\[18\/18\] §2Teacher: §aGAACK! No, (.*), I said RUN! Don't fight that thing, get OUT!@§7[18/18] §2Учитель: §aААГА! Нет, (r1), я сказал БЕГИ! Не сопротивляйся этой твари, убирайся!
 §7\[1\/4\] §2Korzim: §a(.*)... Do you §ahave...the§a staff\? And the amulet...\?@§7[1/4] §2Корзим: §a(r1)... Предмет у тебя? И амулет...?
+§7\[1\/2\] §2Teacher: §aMhm, that's the ticket, (.*). If you're interested in learning more, you can probably find my books at most libraries.@§7[1/2] §2Учитель: §aМхм, это билет, (r1). Если ты заинтересован в получении дополнительной информации, ты вероятно, можешь найти мои книги в большинстве библиотек.
+§7\[1\/2\] §2Teacher: §aDear §alord...that§a was awful. (.*), I can't believe you were able to kill that thing!@§7[1/2] §2Учитель: §aО боже...это было ужасно. (r1), я не могу поверить, что ты смог убить эту тварь!
 
 §d     -§7 Lore: §f§oThough its creators have disappeared, this city serves as proof that there was once a civilization in the Silent Expanse.@§d     -§7 Лор: §f§oХоть его создатели и исчезли, этот город служит доказательством того, что когда-то в Тихом Пространстве существовала цивилизация.
 §d     -§7 Lore: §f§oThis old cathedral has fallen into disrepair, especially considering the massive spike that's grown inside of it. Legends say that beneath the cathedral lies a powerful rune.@§d     -§7 Лор: §f§oЭтот старый собор пришел в упадок, особенно учитывая массивный шип, который вырос внутри него. Легенды говорят, что под собором лежит мощная руна.
