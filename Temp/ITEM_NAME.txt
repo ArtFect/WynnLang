@@ -1,8 +1,3 @@
-The Skin Tearer@ 
-§fFlawless Diorite Relik@ 
-§fImpeccable Diorite Relik@ 
-§bDying Lobelia@ 
-
 Decrepit���Sewers���Entrance Teleportation Scroll@§bСвиток Телепортации в Ветхую Канализацию
 Lava@Лава
 §6Fellowship Dark Wand@§6Темный Посох Дружбы
@@ -99,61 +94,60 @@ Refined Jungle Wood 1@Переработанная Древесина Амара
 EldritchÀÀÀOutlook Key@§6Ключ от Жуткого Наблюдателя
 Refined Jungle Wood 2@Переработанная Древесина Амаранта 2
 Refined Jungle Wood 3@Переработанная Древесина Амаранта 3
-Gathering Axe 6
-§4Broken CorruptedÀÀÀUndergrowthÀÀÀRuins Key
-§3Your Cabin
-§7Lucio's Skull
-§7Sound Wave Emitter
-Bear Body
-§7Elphaba's Chestplate
-§cAledar's Potion
-Statue Key
-§cUnidentified Helmet
-§fCore Key
-§fFuel Sprite
-§eFearing Eye
-§eDreading Eye
-§eBlinding Eye
-§eShading Eye
-§eCrying Eye
-§eInfecting Eye
-§aMysterious Shop
-§fCorrupted Soul Token
-§cUnidentified Boots
-§2Tol Rune
-§cUnidentified Necklace
-§fLantern
-§6Shiny Pickaxe
-§fExplosive Heart
-§fToxic Key
-§fBroken Rock
-Shard of the Monolith
-Granitic Key
-§fExplosive Mass
-Crafted RelikÀ
-§eEldritch Outlook Token
-Refined Spruce Wood 2
-Refined Oat String 1
-Refined Oat String 2
-Refined Gold Ingot 2
-Refined Gold Ingot 1
-Refined Willow Paper 1
-Refined Willow Paper 2
-Refined Gold Ingot 3
-Gathering Rod 6
-§fMagical Flying Item
-§fMagical Crystal Ball
-Infested���Pit���Entrance Teleportation Scroll
-Galleon'sÀÀÀGraveyard
-§fDeactivated Air Powder
-§fStone Tablet
-§fSaphire Shard
-§fEbony Shard
-§fQuartz Shard
-§fAncient Pickaxe
-§fKaen's Key
-§fAdan's Key
-§3Explosives
-§6Engine Maintenance
-§6The Eye's Pupil
-§fTomb Key
+Gathering Axe 6@Сборный Топор 6
+§4Broken CorruptedÀÀÀUndergrowthÀÀÀRuins Key@§4Разбитый Испорченный Ключ от Заросших Руин
+§3Your Cabin@§3Твоя Кабина
+§7Lucio's Skull@§7Голова Луцио
+§7Sound Wave Emitter@§7Излучатель Звуковых Волн
+Bear Body@Тело Медведя
+§7Elphaba's Chestplate@§7Нагрудник Эльфабы
+§cAledar's Potion@§cЗелье Аледара
+Statue Key@Ключ Статуи
+§cUnidentified Helmet@§cНеидентифицированный Шлем
+§fCore Key@§fОсновной Ключ
+§fFuel Sprite@§fтопливо Фей
+§eFearing Eye@§eБоящийся Глаз
+§eDreading Eye@§eСтрашный Глаз
+§eBlinding Eye@§eСлепой Глаз
+§eShading Eye@§eТемный Глаз 
+§eCrying Eye@§eПлачущий Глаз
+§eInfecting Eye@§eЗараженный Глаз
+§aMysterious Shop@§aЗагадочный Магазин
+§fCorrupted Soul Token@§fЖетон Испорченной Души
+§cUnidentified Boots@§cНеидентифицированные Ботинки
+§2Tol Rune@§2Тол Руна
+§cUnidentified Necklace@§cНеидентифицированный Амулет
+§fLantern@§fФонарь
+§6Shiny Pickaxe@§6Сияющая Кирка
+§fExplosive Heart@§fВзрывающееся Сердце
+§fToxic Key@§fТоксичный Ключ
+§fBroken Rock@§fРазбитый Камень
+Shard of the Monolith@Осколок Монолита
+Granitic Key@Гранитный Ключ
+§fExplosive Mass@§fВзрывоопасная Масса
+Crafted RelikÀ@Крафтовый Релик
+§eEldritch Outlook Token@§eЖетон Жуткого Наблюдателя
+Refined Spruce Wood 2@Переработанная Древесина Ели 2
+Refined Oat String 1@Переработанная Овсяная Нить 1
+Refined Oat String 2@Переработанная Овсяная Нить 2
+Refined Gold Ingot 2@Переработанный Слиток Золота 2
+Refined Gold Ingot 1@Переработанный Слиток Золота 1
+Refined Gold Ingot 3@Переработанный Слиток Золота 3
+Refined Willow Paper 1@Переработанная Ивовая Бумага 1
+Refined Willow Paper 2@Переработанная Ивовая Бумага 2
+Gathering Rod 6@Сборная Удочка 6
+§fMagical Flying Item@§fМагический Летающий Предмет
+§fMagical Crystal Ball@§fМагический Кристальный Шар
+Infested���Pit���Entrance Teleportation Scroll@§bСвиток Телепортации в Зараженную Яму
+Galleon'sÀÀÀGraveyard@Кладбище Галлеона
+§fDeactivated Air Powder@§fДеактивированный Порошок Воздуха
+§fStone Tablet@§fКаменная Плита
+§fSaphire Shard@§fОсколок Сапфира
+§fEbony Shard@§fОсколок Черного Дерева
+§fQuartz Shard@§fОсколок Кварца
+§fAncient Pickaxe@§fДревняя Кирка
+§fKaen's Key@§fКлюч Каена
+§fAdan's Key@§fКлюч Адана
+§3Explosives@§3Взрывчатки
+§6The Eye's Pupil@§6Зрачок Глаза
+§fTomb Key@§fКлюч от Гробницы
