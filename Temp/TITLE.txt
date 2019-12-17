@@ -1,8 +1,15 @@
 §7Blocks removed: §7(\d+)§7\/(\d+)@§7Блоков убрано: §7(r1)§7/(r2)
 
+§eToxic Wastes
+§eVoid Valley
+§eDark Obelisk
+
+
+
 §6Fellowship Dagger@§6Кинжал Дружбы
 §6Fellowship Dark Wand@§6Темный Посох Дружбы
 §7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты входишь в Испорченные Заросшие Руины]
+§7[You are now leaving CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты покидаешь Испорченные Заросшие Руины]
 §7You've been knocked out...@§7Ты был нокаутирован...
 §7[0/7] Bodies Cleaned@§7[0/7] Тел Очищено
 §7[1/7] Bodies Cleaned@§7[1/7] Тел Очищено
@@ -48,79 +55,75 @@
 §bPottery Wheel@§bГончарный Круг
 §4Corrupted §aUndergrowth Ruins@§4Испорченные §aЗаросшие Руины
 §4§lS@§4§lС
-§4§lCO
-§4§lSCOR
-§4§lESCORT
-§4§lESCORT!
-§7ys
-§7eyst
-§7keyston
-§7he keystone
-§7t the keystone gu
-§7et the keystone gua
-§7let the keystone guar
-§7't let the keystone guardi
-§7n't let the keystone guardian
-§7on't let the keystone guardian d
-§7Don't let the keystone guardian die!
-§4§l§kE§4§lSCOR§4§l§kT!
-§7§kDo§7n't let the keystone guardian d§kie!
-§4§l§kS§4§lCO§4§l§kR!
-§7§kn't §7let the keystone guardia§kn d!
-§4§l§kC
-§7§kle §7t the keystone guard§kia
-§7§kt t §7he keystone gua§krd
-§7§khe§7 keystone g§kua
-§7§kke§7 yston§ke g
-§7§kys§7t§kon
-§7§ka
-§7[You are now leaving CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]
-§a§lK
-§a§lCKP
-§a§lECKP
-§a§lECKPO
-§a§lECKPOI
-§a§lHECKPOI
-§a§lHECKPOIN
-§a§lHECKPOINT
-§a§lCHECKPOINT
-§a§lCHECKPOINT!
-§a§lCKPO
-§a§lKP
-§bFrozen Cave Hideout
-§bWolf Temple
-§bExplorer's Corruption Study
-§cLesson failed
-§7Same lesson in
-§aLesson completed
-§bNilrem's Sealed Letter
-§bThe Twains' Downfall
-§fTwains Graveyard
-§f570 AP
-§2Mael: §a§lENOUGH.
-§7[You are now entering Lutho]
-§7[You are now leaving Lutho]
-§7[You are now entering EldritchÀÀÀOutlookÀÀÀEntrance]
-§7[You are now leaving EldritchÀÀÀOutlookÀÀÀEntrance]
-§6Sky Blue Wybel Token
-§7Survive the waves!
-§8§k§lW
-§8§k§lWAT
-§8§k§lWATCH
-§8§k§lWATCHIN
-§8§k§lWATCHING
-§8§k§lWATCHI
-§8§k§lWATC
-§8§k§lWA
-§8§k§l
-§bThe Final Moments
-§bThe Forest has Eyes
-§eToxic Wastes
-§c§lStay Alive!
-§cDefend Aledar from the spiders.
-§eVoid Valley
-§eDark Obelisk
-§bToxic Bounce
+§4§lCO@§4§lКО
+§4§lSCOR@§4§lСКОР
+§4§lESCORT@§4§lЭСКОРТ
+§4§lESCORT!@§4§lЭСКОРТ!
+§7ys@§7щи
+§7eyst@§7ащит
+§7keyston@§7защитн
+§7he keystone@§7защитник
+§7t the keystone gu@§7й защитнику к
+§7et the keystone gua@§7ай защитнику кл
+§7let the keystone guar@§7дай защитнику клю
+§7't let the keystone guardi@§7е дай защитнику ключ
+§7n't let the keystone guardian@§7не дай защитнику ключа
+§7on't let the keystone guardian d@§7Не дай защитнику ключа ум
+§7Don't let the keystone guardian die!@§7Не дай защитнику ключа умереть!
+§4§l§kE§4§lSCOR§4§l§kT!@§4§l§kЭ§4§lСКОР§4§l§kТ!
+§7§kDo§7n't let the keystone guardian d§kie!@§7§kНе д§7ай защитнику ключа §kумереть!
+§4§l§kS§4§lCO§4§l§kR!@§4§l§kС§4§lКО§4§l§kР!
+§7§kn't §7let the keystone guardia§kn d!@§7§kда§7й защитнику клю§kча у!
+§4§l§kC@§4§l§kК
+§7§kle §7t the keystone guard§kia@§7§kай §7защитнику кл§kю
+§7§kt t §7he keystone gua§krd@§7§kй §7защитнику клю§kча
+§7§khe§7 keystone g§kua@§7§kй§7 защитнику к§kл
+§7§kke§7 yston§ke g@§7§kза§7 щитник§kу к
+§7§kys§7t§kon@§7§kщи§7т§kни
+§7§ka@§7§kз
+§a§lK@
+§a§lCKP@
+§a§lECKP@
+§a§lECKPO@
+§a§lECKPOI@
+§a§lHECKPOI@
+§a§lHECKPOIN@
+§a§lHECKPOINT@
+§a§lCHECKPOINT@
+§a§lCHECKPOINT!@
+§a§lCKPO@
+§a§lKP@
+§bFrozen Cave Hideout@
+§bWolf Temple@
+§bExplorer's Corruption Study@
+§cLesson failed@
+§7Same lesson in@
+§aLesson completed@
+§bNilrem's Sealed Letter@
+§bThe Twains' Downfall@
+§fTwains Graveyard@
+§f570 AP@
+§2Mael: §a§lENOUGH.@
+§7[You are now entering Lutho]@
+§7[You are now leaving Lutho]@
+§7[You are now entering EldritchÀÀÀOutlookÀÀÀEntrance]@
+§7[You are now leaving EldritchÀÀÀOutlookÀÀÀEntrance]@
+§6Sky Blue Wybel Token@
+§7Survive the waves!@
+§8§k§lW@
+§8§k§lWAT@
+§8§k§lWATCH@
+§8§k§lWATCHIN@
+§8§k§lWATCHING@
+§8§k§lWATCHI@
+§8§k§lWATC@
+§8§k§lWA@
+§8§k§l@
+§bThe Final Moments@
+§bThe Forest has Eyes@
+§c§lStay Alive!@
+§cDefend Aledar from the spiders.@
+§bToxic Bounce@
 §7800 BP
 §bA Wynnic Excavation
 §bMining Cessation
