@@ -16,7 +16,7 @@
 §7[3/3] §2Alfonse: §aForget it, I don't care anymore, just prime the explosive and get clear of the blast!@§7[3/3] §2Alfonse: §aЗабудь, мне уже все равно, просто устанавливай взрывчатку и убираемся подальше от взрыва!
 §7[1/17] §2Roy: §aWell, that did the trick. Let’s take a look.@§7[1/17] §2Roy: §aЧто же, это сработало. Давай взглянем.
 §7[2/17] §2Alfonse: §aOh my... What... is this?@§7[2/17] §2Alfonse: §aО мой... что... это?
-§7[3/17] §2Roy: §aIt almost looks like a giant §aspike...Woah§a. How deep does this thing go?@§7[3/17] §2Roy: §aЭто выглядит как гигантский шип...Воу. Насколько глубоко уходит эта штука?
+§7[3/17] §2Roy: §aIt almost looks like a giant spike... Woah. How deep does this thing go?@§7[3/17] §2Roy: §aЭто выглядит как гигантский шип...Воу. Насколько глубоко уходит эта штука?
 §7[4/17] §2Alfonse: §aWell, you know what? We did our job, so honestly I don't care. Let's get out of he-@§7[4/17] §2Alfonse: §aХотя, знаешь что? Мы сделали свою работу, так что по правде мне плевать. Давай выбираться отсю-
 §7[5/17] §2Alfonse: §aOrikal? We’re done! Pay up! I want out. This place is getting to me.@§7[5/17] §2Alfonse: §aОрикал? Мы закончили! Время платить! Я хочу выбраться. Это место угнетает меня.
 §7[6/17] §2Orikal: §aI came when I heard the explosion. I thought you’d hurt yourselves.@§7[6/17] §2Orikal: §aЯ пришел как только услышал взрыв. Подумал, что вы навредите себе.
@@ -32,7 +32,7 @@
 §7[16/17] §2Roy: §aGah! That's hardly anything! I'm not even surprised. Let's just go.@§7[16/17] §2Roy: §aБлин! Что это за копейки! Я даже не удивлен. Давай уже уйдем.
 §7[17/17] §2Orikal: §aAnyway, come meet me back at my tent, friend. We will discuss what to do then.@§7[17/17] §2Orikal: §aВ любом случае, встретимся у моей палатки, друг. Тогда и обсудим, что делать.
 §7[1/5] §2Orikal: §aOkay. I happen to know a recipe for creating an extremely lethal magical explosive.@§7[1/5] §2Orikal: §aОкей. Я рад, что знаю рецепт создания чрезвычайно смертельной магической взрывчатки.
-§7[2/5] §2Orikal: §aThere are 3 main ingredients you will need to get me: §3[Unstable Corrupted Ore]§a, §3[Incendiary Fluid]§a, and a §3[Switch Fuse] §ato activate it.@§7[2/5] §2Orikal: §aЕсть 3 основных ингредиента, которые мне нужно достать: §3[Нестабильная руда]§a, §3[Зажигательная жидкость]§a, и §3[Переключатель с предохранителем]§a, чтобы активировать его.
+§7[2/5] §2Orikal: §aThere are 3 main ingredients you will need to get me: §3[Stabilized Corrupted Ore]§a, §3[Incendiary Fluid]§a, and a §3[Switch Fuse] §ato activate it.@§7[2/5] §2Orikal: §aЕсть 3 основных ингредиента, которые мне нужно достать: §3[Стабилизированная руда]§a, §3[Зажигательная жидкость]§a, и §3[Переключатель с предохранителем]§a, чтобы активировать его.
 §7[3/5] §2Orikal: §aThere used to be a small mining camp a little east of this town. It's abandoned now, but you should still be able to find what you need there.@§7[3/5] §2Orikal: §aСуществует маленький шахтерский лагерь на востоке от этой деревни. Он заброшен сейчас, но ты все еще можешь найти там то, что нужно.
 §7[4/5] §2Orikal: §aIt's not the big ol' abandoned mines, mind you. It's a smaller camp, in fact you should be able to see it from this village.@§7[4/5] §2Orikal: §aЭто не большая заброшенная шахта, запомни это. Это маленький лагерь, по-моему его даже видно из этой деревни.
 §7[5/5] §2Orikal: §aBest of luck! Oh, and also, try not to die please. These ingredients do indeed promote environmental hazards.@§7[5/5] §2Orikal: §aУдачи! Ох, и еще, постарайся не умереть там. Эти ингредиенты действительно представляют опасность для окружающей среды.
@@ -46,7 +46,7 @@
 
 §7[1/2] §2Orikal: §aAah, I'm busy. Get out.@§7[1/2] §2Orikal: §aЭх, я занят. Уйди.
 §7[2/2] §2Orikal: §aCome back when you are level 26.@§7[2/2] §2Orikal: §aВернись, когда будешь 26 уровня.
-§7[1/2] §2Orikal: §aI need §3[Unstable Corrupted Ore]§a, §3[Incendiary Fluid]§a, and §3[Switch Fuse] §ato create the explosive.@§7[1/2] §2Orikal: §aМне нужны §3[Нестабильная руда]§a, §3[Зажигательная жидкость]§a и §3[Переключатель с предохранителем]§a, чтобы создать взрывчатку.
+§7[1/2] §2Orikal: §aI need §3[Stabilized Corrupted Ore]§a, §3[Incendiary Fluid]§a, and §3[Switch Fuse] §ato create the explosive.@§7[1/2] §2Orikal: §aМне нужны §3[Стабилизированная руда]§a, §3[Зажигательная жидкость]§a и §3[Переключатель с предохранителем]§a, чтобы создать взрывчатку.
 §7[2/2] §2Orikal: §aThe small mining camp a little east of this village should have what you're looking for. Now Hurry!@§7[2/2] §2Orikal: §aНебольшой шахтерский лагерь, немного восточнее этой деревни, должен иметь то, что ты ищешь. А теперь поторопись!
 §7[1/1] §2Orikal: §aDid you do what I asked? No? Check your quest book.@§7[1/1] §2Orikal: §aТы сделал то, что я просил? Нет? Проверь свою квестовую книгу.
 §7[1/1] §2Orikal: §aIt will take a while for these people to recover, so I'll stay here watching over them while they do.@§7[1/1] §2Orikal: §aЭто займет некоторое время, чтобы эти люди выздоровели, поэтому я пока останусь здесь наблюдать за ними, и смотреть, что они делают.
