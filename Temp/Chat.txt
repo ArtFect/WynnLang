@@ -247,7 +247,7 @@
 §7Bring §3[24 Oat String] §7or §3[24 Oat Grains] §7to the §aGathering Post §2[Farming Lv. 28]
 §7Bring §3[30 Malt String] §7or §3[30 Malt Grains] §7to the §aGathering Post §2[Farming Lv. 38]
 §7Bring §3[24 Hops String] §7or §3[24 Hops Grains] §7to the §aGathering Post §2[Farming Lv. 43]
-
+==
 §7[1/1] §2Aledar: §aOkay, we need to craft a weapon. I think I can help with that. Follow me.
 §7[5/5] §2Old Man: §aI left my scythe by the crops over yonder. Punch it and pick it up. Then harvest §3[2 Wheat String]§a and bring it back here.
 §7[1/1] §2Old Man: §aHarvest §3[2 Wheat String]§a and then bring it to me.
@@ -288,41 +288,6 @@
 §7[4/4] §2Sanba: §a...that's§a the barracks door. That's the barracks door!!
 §7[1/2] §2Maex Soldier: §aMen! We have to meet for briefing on the surface, the war is due any hour now! Move faster!
 §7[2/2] §2Sanba: §aThey're already going?! We're out of time! Korzim is waiting for you just upstairs when you reach level 94. Go train! NOW!
-==
-§7[2/6] §2Qira: §a§lI must admit I am impressed; the Judge is §a§lruthless...perhaps§a§l he needs further tweaking?
-§7[1/2] §2Solar Vanguard: §aDefeat feels strange, after so long. You fought valiantly, and with great zeal, however. It would be a lie to say I am disappointed.
-§7[2/2] §2Gale: §aA lot of people say I'm the roughest we have to offer, so you've got this!  I'm sorry you have to go talk to Yansur of all people now, though.
-==
-§7[5/6] §2Dereg: §aI saw it walking over toward Tolem's farm, it left a trail behind and was dripping blood out its mouth.
-§7[6/6] §2Dereg: §aIf you could bring me back §3[3 Pieces Of Evidence]§a and they could be anything at all, I'll reward you! Follow the blood on the ground and see what you can find!
-§7[7/7] §2Dereg: §aThis specimen belongs in Llevigar's museum! I have to pay you for your work of course, but here take these crushed bones. I'm sure the museum won't want them. Who knows, you might find it useful!
-==
-§7[1/1] §2Brie: §aHeya! You should talk to Chef Hamsey, he has to explain how things work beforehand!
-§7[5/6] §2Snail Race Supervisor: §aIf you do choose to race U-snail Bolt, how-e-ver, be sure to not take your time, he is in-cre-di-bly fast!
-==
-§7[9/10] §2Cikal: §aThe Gerts... Stupid as they are seem to be behind some attacks recently.. But we haven't seen them move a bit.
-§7[4/4] §2Anof: §aWhat has this province become? Oh, look at this too, blood everywhere! That Gert clearly dragged the poor thing away...
-==
-
-§7[1/1] §2Erlard: §aThe maiden has lived a sad life. I feel so sorry for her.
-§7[1/1] §2Document Merchant: §aWho are you? Not sure we've met before.
-§7[1/1] §2Wedyf: §aGlad to hear that your friend is finally at rest.
-§7[1/1] §2???: §4... How fool§4§kk§ah of you... to come back he§4re.§4§k:5tykkk§after what §4happene§4§ki:
-§7[1/1] §2Ope: §aThank you again for your help!
-§7[1/1] §2Therck: §aI don't have time to talk to you right now, move along!
-§7[2/4] §2The Cook: §aYou can get eggs at the ranch north of Ragni, by killing some chickens.
-§7[6/8] §2Sayleros: §aOne of my other brothers also survived the attack. He isn't... um... somebody I'd trust greatly, but I'm sure he has some useful informations for you.
-§7[1/1] §2Viraex: §aAnother batch of crops ruined... Things just spoil so easy here. I should just move away.
-§7[6/6] §2Nohno: §aAnyway, I need you to go down there and... Take care of him for me. I would really appreciate it.
-§7[2/3] §2Flodur: §aLooks like I'm fresh outta food. Barely got enough to feed meself.
-§7[6/6] §2Vade: §aI wonder if it is talking about inside the temple... Oh, uh, I forgot you were here. Stay out of this kid, it's grown up business!
-§7[1/1] §2Olux Citizen: §aWith all these reports of missing people, I'm starting to become nervous that I might be the next one to vanish...
-§7[2/5] §2Doan: §aExcuse me, have you seen a passport around here?
-§7[1/1] §2Farmer Cevalus: §aHey! Get away from my farm, this is private property!
-§7[1/1] §2Bugabo: §aNo no no! No human can pass Bubo! Ask Mr. Dado if you want to pass.
-§7[4/5] §2Grandon: §aIt doesn't say where they are, just that they're well hidden and that there are additional clues around the house. The other 3 digits should all be up there on the second floor! Maybe Leacen has seen something about them while she's been up there, as well.
-§7[6/9] §2Anrod: §aIt's well known for never dying. Except mine is! This is my lifeline! If it dies, I die!
-§7[1/1] §2Nothing Folk: §aWait… It can’t be. Look me in the eyes. You are human! But wait, you should really come back when you're level 102.
 
 §a+ New Spell §2[Haul]
 §a+ New Spell §2[Aura]
