@@ -16,7 +16,7 @@
 §7[3/3] §2Korzim: §aWe are headed to...a blacksmith in town. Follow me...@§7[3/3] §2Korzim: §aМы направляемся к...кузнецу в городе. Следуй за мной...
 §7[1/9] §2Edula: §a...Korzim...what§a in the name of all that is holy is that disguise?@§7[1/9] §2Edula: §a...Корзим...во имя всего святого, что это за маскировка?
 §7[2/9] §2Edula: §aI'm flabbergasted you fooled anyone with that thing! How did you stop the beard from burning?@§7[2/9] §2Edula: §aЯ поражен, что ты обманул кого-то с этой штукой! Как ты смог остановить горение бороды?
-§7[3/9] §2Edula: §aBut, §aerm...more§a importantly, who's the buck in the fancy armour there?@§7[3/9] §2Edula: §aНо, ээм...и что еще более важно, кто этот олень в модных доспехах?
+§7[3/9] §2Edula: §aBut, §aerm...more§a importantly, who's the bucko in the fancy armour there?@§7[3/9] §2Edula: §aНо, ээм...и что еще более важно, кто этот олень в модных доспехах?
 §7[4/9] §2Korzim: §aAn §aally...of§a the coalition. No §atime...Edula§a. Doguns... summoning... §a§lGaraheth.@§7[4/9] §2Korzim: §aСоюзник...из коалиции. Нет времени...Эдула. Догуны... призывают... §lГарахетa.
 §7[5/9] §2Edula: §aSo...so§a it's really down to that low, then. Burning your own house down to kill the rats.@§7[5/9] §2Edula: §aТак значит...они действительно решились на такое. Сжечь свой собственный дом, чтобы убить крыс.
 §7[6/9] §2Edula: §aGood thing we've got this prepared. One fallout will prevent the next. Soldier, I've got a list of materials we need!@§7[6/9] §2Edula: §aХорошо, что мы подготовимся к этому. Один апокалипсис  предотвратит следующий. Солдат, у меня есть список материалов, которые нам нужны!
@@ -33,7 +33,7 @@
 §7[5/5] §2Edula: §aRight-click the crafting table in the back and put it together.@§7[5/5] §2Edula: §aНажми правым кликом по верстаку позади тебя и соедини их.
 §7[1/1] §2Korzim: §aWe must… visit… Sanba… the enchanter.@§7[1/1] §2Korzim: §aНам нужно... посетить... Санба... зачарователя.
 §7[1/6] §2Sanba: §aErm...Korzim§a, what on earth are you doing here? It's not safe for you!@§7[1/6] §2Sanba: §aЭм, Корзим.. Что ты черт побери тут делаешь? Это ведь не безопасно для тебя!
-§7[2/6] §2Sanba: §aWait, that §aamulet...oh§a no, really? Okay, I know what^s going on.@§7[2/6] §2Sanba: §aПодожди, этот амулет...это правда он? Ладно, я знаю, что происходит.
+§7[2/6] §2Sanba: §aWait, that §aamulet...oh§a no, really? Okay, I know what's going on.@§7[2/6] §2Sanba: §aПодожди, этот амулет...это правда он? Ладно, я знаю, что происходит.
 §7[3/6] §2Sanba: §aWe're going to need to give this a little extra kick if you're going to use this for what I think you are.@§7[3/6] §2Sanba: §aНам придется его усилить, если ты будешь использовать его для того, о чем я думаю.
 §7[4/6] §2Sanba: §aA pinch of fire scarab tail, splash of sulphur, exactly three ounces of old brimstone...!@§7[4/6] §2Sanba: §aЩепотка огненного хвоста скарабея, брызги серы, ровно три унции старой серы...!
 §7[5/6] §2Sanba: §a§oInfunde hoc monile, alta intra monte. Magia!@§7[5/6] §2Sanba: §a§oИнфунде хок мониле, альта интра монте. Магиа!
@@ -43,7 +43,7 @@
 §7[3/8] §2Sanba: §aThat dragon skeleton lying in the Heights belonged to an Ice Drake. Centuries ago, it was used in the Dogun wars.@§7[3/8] §2Sanba: §aЭтот скелет дракона, лежащий в горах, принадлежал Ледяному Дракону. Много веков назад его использовали в войне с Догунами.
 §7[4/8] §2Sanba: §aIt had incredibly potent magic, particularly in its icy breath. The area it hit is still frozen to this day, and shows no signs of thaw.@§7[4/8] §2Sanba: §aОн обладал невероятно мощной магией, особенно в своем ледяном дыхании. Область, в которую он попал своим дыханием, все еще заморожена и по сей день, и не показывает никаких признаков оттепели.
 §7[5/8] §2Sanba: §aAccording to Axelus' stories, its breath travelled through the tunnels and coalesced someplace deep within...@§7[5/8] §2Sanba: §aСогласно рассказам Акселуса, его дыхание проходило через туннели и сливалось где-то глубоко внутри...
-§7[6/8] §2Sanba: §a...becoming§a§lTrue Ice§a, apotent mixture of sheer cold and magic energy. That's what we will need to combat Garaheth.@§7[6/8] §2Sanba: §a...становясь §a§lЧистым Льдом§a - апотентной смесью чистого холода и магической энергии. Вот что нам понадобится для борьбы с Гарахетом.
+§7[6/8] §2Sanba: §a...becoming§a §a§lTrue Ice§a, a potent mixture of sheer cold and magic energy. That's what we will need to combat Garaheth.@§7[6/8] §2Sanba: §a...становясь §a§lЧистым Льдом§a - апотентной смесью чистого холода и магической энергии. Вот что нам понадобится для борьбы с Гарахетом.
 §7[7/8] §2Sanba: §aIf you bring me §3[4 True Ice] §aI can make a staff capable of harnessing §ait...and§a we can freeze Garahath in its tracks.@§7[7/8] §2Sanba: §aЕсли ты принесешь мне §3[4 чистого льда]§a, я смогу сделать предмет, способный для использования...и мы сможем заморозить Гарахета на его пути.
 §7[8/8] §2Sanba: §aHead north to the Freezing Heights and make your way to the top, now! We've got no time at all!@§7[8/8] §2Sanba: §aНаправляйтесь на север к Ледяным Высотам и продвигайтесь к вершине, сейчас же! У нас совсем нет времени!
 §7[2/5] §2Korzim: §aThey used the Drake... They chained it up §aand...forced§a it to attack. We had to kill it...@§7[2/5] §2Korzim: §aОни использовали Дракона... Они приковали его цепью и.....заставили его атаковать. Нам пришлось убить его...
@@ -57,13 +57,13 @@
 §7[4/4] §2Korzim: §aOh no... We got... Trapped.@§7[4/4] §2Korzim: §aО нет...Мы...В ловушке.
 §7[3/4] §2Korzim: §aMy... feet are.... solid... Keep... running.@§7[3/4] §2Korzim: §aМои ступни... замерзли.... продолжай бежать...
 §7[4/4] §2Korzim: §aThis is it… The thing that… Killed my families... §3[4 True Ice] §a.@§7[4/4] §2Korzim: §aВот она....та вещь... которая убила мою семью... §3[4 Чистого льда].
-§7[1/4] §2Sanba: §aImpressive, Korzim. That must have been difficult in more than one way.@§7[1/4] §2Sanba: §aУдивительно, Корзим. Должно быть это было сложнее, чем можно было представить.
-§7[3/4] §2Sanba: §aMy husband and I will round up the coalition and get them to act now.@§7[3/4] §2Sanba: §aМы с мужем соберем коалицию и заставим их действовать сейчас.
-§7[4/4] §2Sanba: §aWhat's that sound outside?@§7[4/4] §2Sanba: §aЧто это за звук снаружи?
-§7[1/2] §2Maex Soldier: §aMen! Move those stumps! We have to meet for briefing on the surface, the war is due any hour now.@§7[1/2] §2Maex Soldier: §aМужчины! Уберите эти пни! Мы должны встретиться для инструктажа на поверхности, война начнется в любой момент.
-§7[2/2] §2Sanba: §aThere is no time. Korzim is waiting for you just upstairs when you reach level 94.@§7[2/2] §2Sanba: §aУ нас больше нет времени. Корзим ждет наверху, как только ты достигнешь 94 уровня.
+§7[1/4] §2Sanba: §aImpressive, you two. Must have been tough to get §athat...doubly§a so for Korzim.@§7[1/4] §2Sanba: §aУдивляет, вы двое. Должно быть это было сложно... особенно для Корзима.
+§7[3/4] §2Sanba: §aMy husband and I will round up the coalition and get them to act now. We need to get going before-@§7[3/4] §2Sanba: §aМы с мужем соберем коалицию и заставим их действовать немедленно. Нам нужно идти, прежд-
+§7[4/4] §2Sanba: §a...that's§a the barracks door. That's the barracks door!!@§7[4/4] §2Sanba: §a...это дверь казармы. Это дверь казармы!!
+§7[1/2] §2Maex Soldier: §aMen! We have to meet for briefing on the surface, the war is due any hour now! Move faster!@§7[1/2] §2Maex Soldier: §aМужчины! Мы должны встретиться для брифинга на поверхности, война должна начаться в любой час! Двигайтесь, быстрее!
+§7[2/2] §2Sanba: §aThey're already going?! We're out of time! Korzim is waiting for you just upstairs when you reach level 94. Go train! NOW!@§7[2/2] §2Sanba: §aОни уже идут?! У нас нет времени! Корзим ждет тебя наверху, когда ты достигнешь 94 уровня. Иди тренируйся! СЕЙЧАС ЖЕ!
 
-§7[1/4] §2Edula: §aYou will need §3[10 Fire Webs] §a. The Heatscar Spiders under the town make them, there's a cave right by the entrance arch.@§7[1/4] §2Edula: §aТебе понадобятся §3[10 огненных паутин]§a. Их делают пауки Heatscar Spiders под городом, прямо у входной арки есть пещера.
+§7[1/4] §2Edula: §aYou will need §3[10 Fire Webs]§a. The Heatscar Spiders under the town make them, there's a cave right by the entrance arch.@§7[1/4] §2Edula: §aТебе понадобятся §3[10 огненных паутин]§a. Их делают пауки Heatscar Spiders под городом, прямо у входной арки есть пещера.
 §7[2/4] §2Edula: §aThen, §3[3 Magmatic Crystals] §afrom the Maex mines. I'd get them myself, but...I'm banned from there since the rubber mallet incident.@§7[2/4] §2Edula: §aЗатем §3[3 Магматических Кристалла]§a из шахт Маэксa. Я бы сам их достал, но...меня туда не пускают после инцидента с резиновым молотком.
 §7[3/4] §2Edula: §aLastly, §3[1 Crystallized Lava]§a. The closest source is in the lava lake just outside Maex. There's a protruding crater in the lake.@§7[3/4] §2Edula: §aНаконец, §3[1 Кристаллизованная Лава]§a. Ближайший источник находится в озере лавы недалеко от Маэкса. Там в озере есть выступающий кратер.
 §7[4/4] §2Edula: §aIf you're having trouble finding the crater, look for the reddest rocks in amongst the others in the lake. They should lead you to it.@§7[4/4] §2Edula: §aЕсли у тебя возникли проблемы с поиском кратера, ищи самые красные камни среди других в озере. Они должны привести тебя к нему.
