@@ -248,16 +248,6 @@
 §7Bring §3[30 Malt String] §7or §3[30 Malt Grains] §7to the §aGathering Post §2[Farming Lv. 38]
 §7Bring §3[24 Hops String] §7or §3[24 Hops Grains] §7to the §aGathering Post §2[Farming Lv. 43]
 
-§7[1/2] §2Ragni Guard: §aWelcome back, I suppose you're a Wynn citizen now. I've heard quite a few things about your deeds throughout the province.
-§7[2/2] §2Ragni Guard: §aYou've helped a lot of people. Keep up the good work, and we'll win this war.
-§7[1/4] §2Ragni Guard: §aWelcome to Ragni, new recruit. How's Fruma these days? Ah right, directions.
-§7[1/1] §2Maltic Citizen: §aBy killing the witch, you've saved the town! Maybe the things we hear about Fruma aren't as bad as I thought.
-§7[1/1] §2Lutho Citizen: §a...
-==
-§7[1/1] §2Felim: §aTell Dejol that I'm surviving, though it was a narrow escape. The bear gives me some great meat, however.
-§7[1/1] §2Kofis: §aHey, kid. Are you lost or something? Well, if you see a blue flag, could you make sure Dejol's there?
-§7[4/4] §2Felim: §aSo you were delivering that message to the entire crew? Well, looks like you only need to get to 1 more of us.
-==
 §7[1/1] §2Aledar: §aOkay, we need to craft a weapon. I think I can help with that. Follow me.
 §7[5/5] §2Old Man: §aI left my scythe by the crops over yonder. Punch it and pick it up. Then harvest §3[2 Wheat String]§a and bring it back here.
 §7[1/1] §2Old Man: §aHarvest §3[2 Wheat String]§a and then bring it to me.
@@ -274,16 +264,6 @@
 §7[1/1] §2Old Man: §aI left my fishing rod by the pond over yonder. Use it to harvest some wheat and bring it back here.
 §7[1/1] §2Guard: §aCast your Totem spell by clicking §bRight-Left-Right§a!
 ==
-§7[1/4] §2Seaskipper Captain: §aTomatoes, check... Carrots, check... Did that box jus' move?
-§7[2/4] §2Seaskipper Captain: §aOh, 'scuse me soldi'r, sometimes people ask me to deliv'r some things as well.
-§7[3/4] §2Seaskipper Captain: §aTakin' people 'cross the sea is still my thing!
-§7[4/4] §2Seaskipper Captain: §aThough, I'd like if my business was a li'l bit more popular...
-§7[1/4] §2Seaskipper Captain: §aDo ya 'member that time I rescued ya from a random island?
-§7[2/4] §2Seaskipper Captain: §aThese pirates got ya good, right?
-§7[3/4] §2Seaskipper Captain: §aThey seemed to be praisin' soldiers by kidnappin' more of them.
-§7[4/4] §2Seaskipper Captain: §aThey're really odd fellas, but they're as harmless as a grook, heh!
-§7[3/4] §2Seaskipper Captain: §aI 'eard they're really hatin' on you soldiers. Did ya do anythin' to them?
-==
 §7[4/10] §2Amerigo: §aAfter leaving Nemract, he came to Almuj's barracks and lead a surprise attack of bandits! The carnage!
 §7[7/10] §2Amerigo: §aHowever, the bandits that have taken over the barracks will be too strong for you! You must use stealth instead of force.
 §7[9/10] §2Amerigo: §aThere should be a way to sneak in from a hole blasted on the far west side of the barracks that I escaped from.
@@ -298,11 +278,6 @@
 §7[9/9] §2Amerigo: §aNow run along, I have to collect my own honorary badge for taking out Ex-Commander Takan.
 §7[1/1] §2Amerigo: §aKeep that bracelet around! I am certain you will find it useful.
 ==
-§7[7/8] §2Jill: §aI'm not sure what the "Key" is, but be careful acquiring it. If it was easy, the key would have already been found.
-§7[8/8] §2Jill: §aI'll be here when you get back.
-§7[2/4] §2Jill: §aAre these... beans?
-§7[4/6] §2Farcor: §aI know it wasn't your people who are to blame. But you had your part in the cataclysm.
-==
 §7[3/9] §2Edula: §aBut, §aerm...more§a importantly, who's the bucko in the fancy armour there?
 §7[1/4] §2Edula: §aYou will need §3[10 Fire Webs]§a. The Heatscar Spiders under the town make them, there's a cave right by the entrance arch.
 §7[2/6] §2Sanba: §aWait, that §aamulet...oh§a no, really? Okay, I know what's going on.
@@ -313,46 +288,6 @@
 §7[4/4] §2Sanba: §a...that's§a the barracks door. That's the barracks door!!
 §7[1/2] §2Maex Soldier: §aMen! We have to meet for briefing on the surface, the war is due any hour now! Move faster!
 §7[2/2] §2Sanba: §aThey're already going?! We're out of time! Korzim is waiting for you just upstairs when you reach level 94. Go train! NOW!
-==
-§7[1/1] §2Trials Overseer: §aHow are the trials goin'?
-§7[1/1] §2Hrona: §aMove along, landwalker!
-==
-§7[9/9] §2Troms Mage: §aIf you have nothing else to do, you should get yourself prepared and aid the army against Slykaar.
-§7[2/8] §2Troms Mage: §aAh, I didn’t expect to see a Ragni soldier out here. Perhaps you can assist me?
-§7[5/8] §2Troms Mage: §aWe tried to attack it, but this barrier is shaman magic, horrendously powerful too. The only way it could be this strong is if many lives were taken to make it...
-§7[6/8] §2Troms Mage: §aSo, we're stuck. The only clue we found is this riddle...
-==
-§7[1/5] §2Hallfred: §aWelcome traveler! What brings you to our island?
-§7[2/5] §2Hallfred: §aOh, I see that Adigard now sends strangers through his cowardice! Worried he'll get killed?
-§7[3/7] §2Adigard: §a...You§a see, the reason why we became shipwrecked wasn't natural cause. We were attacked...
-==
-§7[1/8] §2Excavator Placardus: §aAll operations functional... Transportation on schedule... Oh. It's you. We've been looking for you.
-§7[4/10] §2Traitor Amadel: §aEverything you have been told is a lie. The Wynn Excavation "company" are not what they appear to be.
-§7[9/10] §2Traitor Amadel: §aThey've been on to me for some time. I can't tell you everything here, but first, you must gather parts of the crystal, like you did with the others. It is essential.
-§7[4/7] §2Excavator Placardus: §aI'm willing to bet he's already been... taken care of by senior staff.
-==
-§7[1/7] §2WynnExcavation Archaeologist: §aBaffling... What a puzzling situation I am in...
-§7[5/7] §2WynnExcavation Archaeologist: §aThe scriptures also say something about hidden within the rocks... But we removed them all!
-§7[7/7] §2WynnExcavation Archaeologist: §aAnyway, back to figuring out what needs to be done here... Wait, who are you, you're not an employee of Wynn Excavation!
-==
-§7[4/4] §2Ragon: §aThere is a root in the way, but I'm sure you can handle that. A good sample would be §3[10 Scorched Roots]§a, just to make sure the theory is true.
-§7[1/1] §2Ragon: §aOh, it's you, nice to see you again. You know, the §c✹ Fire§a weapons almost burned down my tent. These elemental weapons are very powerful.
-==
-§7[2/9] §2Bandit: §aShut yer' trap, old man. We came for a different kind of business.
-§7[3/9] §2Shopkeeper Gibbs: §aWha-? Look, fellows. Just step out of my store, and nobody gets hurt. I don't want any trouble.
-§7[6/9] §2Bandit: §aWell then! I guess you'll still be able to grasp a pick with four fingers, eh?
-§7[8/9] §2Shopkeeper Gibbs: §aThe code is 7-8-1-2... please don't hurt me!
-==
-§7[3/10] §2Atisun: §aThe Caritats were unlike any other. Uncharacteristically selfless and helpful. Their wealth was everyone's wealth as far as they were concerned.
-§7[4/10] §2Atisun: §aBut... Eventually... Erm, we're not entirely sure what happened, only rumours have surfaced over the years, §abut...things§a took a turn, shall we say.
-§7[6/10] §2Atisun: §aI am the last remaining descendant, Atisun Caritat. I was the only survivor of the... §a§oincident§a. I was only an infant when I was found by a passerby.
-==
-§7[3/17] §2Roy: §aIt almost looks like a giant spike... Woah. How deep does this thing go?
-§7[2/5] §2Orikal: §aThere are 3 main ingredients you will need to get me: §3[Stabilized Corrupted Ore]§a, §3[Incendiary Fluid]§a, and a §3[Switch Fuse] §ato activate it.
-§7[1/2] §2Orikal: §aI need §3[Stabilized Corrupted Ore]§a, §3[Incendiary Fluid]§a, and §3[Switch Fuse] §ato create the explosive.
-==
-§7[6/9] §2Enkser: §aThose dastards probably plan to come back and steal even more horses! I need someone to take care of it.
-§7[3/7] §2Enkser: §aOh...dear§a god. Okay, let me tell you the basics...
 ==
 §7[2/6] §2Qira: §a§lI must admit I am impressed; the Judge is §a§lruthless...perhaps§a§l he needs further tweaking?
 §7[1/2] §2Solar Vanguard: §aDefeat feels strange, after so long. You fought valiantly, and with great zeal, however. It would be a lie to say I am disappointed.
