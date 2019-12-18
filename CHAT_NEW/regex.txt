@@ -378,7 +378,7 @@
 
 §7\[1\/5\] §2Korzim: §a(.*)...I take back my statement. They have already begun... There cannot be reasoning.@§7[1/5] §2Korzim: §a(r1)...Я беру свои слова обратно. Они уже начали... Здесь не может быть обсуждений.
 §7\[1\/5\] §2Korzim: §a(.*)... This... This used to be...a Dogun town. The Dwarves rendered it barren.@§7[1/5] §2Korzim: §a(r1)...Это... Это место было...городом Догунов. Гномы сделали его безжизненным.
-§7\[2\/4\] §2Sanba: §aHere is the staff, (.*). I don't know you, but you are a good Human.@§7[2/4] §2Sanba: §aВот предмет, (r1). Я не знаю тебя, но ты явно хороший человек.
+§7\[2\/4\] §2Sanba: §aHere is the staff, (.*). Keep it safe, and don't you go dying on us.@§7[2/4] §2Sanba: §aВот предмет, (r1). Береги его и не вздумай умирать.
 
 §7\[2\/4\] §2Axelus: §a(.*), the negotiations didn't go so well. I might need your help here.@§7[2/4] §2Axelus: §a(r1), переговоры прошли не очень хорошо. Мне может понадобиться твоя помощь здесь.
 §7\[2\/2\] §2Axelus: §a(.*) we gotta get out of here, right now! Meet me outside!@§7[2/2] §2Axelus: §a(r1) мы должны убираться отсюда, прямо сейчас! Встретимся снаружи!
