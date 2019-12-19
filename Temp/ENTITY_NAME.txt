@@ -1,7 +1,7 @@
 §aCrew5§6 [Lv. 100]@ 
 §aCrew3§6 [Lv. 100]@ 
 §aThat Which Coalesces§6 [Lv. 105]@ 
-
+§cDusty Librarian§6 [Lv. 52]@ 
 
 
 §2(.*) Aledar Cart@§2(r1) Телега Аледара
@@ -129,6 +129,7 @@
 §fPep@§fПеп
 §fAngry Pirate@§fЗлой Пират
 §fLight@§fСвет
+§fPirate Guard@§fСтраж Пират
 
 §a§oOh no...
 §a§oGah! I got hit!!
@@ -318,37 +319,35 @@
 §bDusk Kantyr§6 [Lv. 110]@§bСумеречный Кантир§6 [Ур. 110]
 §bChalky Kanter§6 [Lv. 110]@§bБледный Кантер§6 [Ур. 110]
 
-§7§7Bows, Wands and Reliks
-bone
-key
-dust
-§7Eliminate!
-§c§c§lCorrupted Summoner§6 [Lv. 35]
-§b§7Defend!§6 [Lv. 25]
-§c§cCorrupted Summoner§6 [Lv. 35]
-§7[1/4] §aIt's starting to panic!
-§7[2/4] §aThat's right, get back!
-§7[3/4] §aI knew you had it in ya, haha!
-§fPirate Guard
-§cImperial Guard§6 [Lv. 25]
-§aClick to go back
-§ato the §2pirate boat
-§7Click to
-§eCall elevator
-§7Click to go
-§a§lUp
-§a§lDown
-§7Get §e[1 Lantern]
-§7to open the chest
-§cDusty Librarian§6 [Lv. 52]
-§dWand Merchant
-§dCandy Merchant
-§dMagical Book Merchant
-§dCauldron Merchant
-§2✤
-§2Earth
-§c✹
-§cFire
+§7§7Bows, Wands and Reliks@§7§7Луки, Посохи и Релики
+bone@кость
+key@ключ
+dust@пыль
+§7Eliminate!@§7Уничтожь!
+§c§c§lCorrupted Summoner§6 [Lv. 35]@§c§c§lИспорченный Призыватель§6 [Ур. 35]
+§b§7Defend!§6 [Lv. 25]@§b§7Защити!§6 [Ур. 25]
+§c§cCorrupted Summoner§6 [Lv. 35]@§c§cИспорченный Призыватель§6 [Ур. 35]
+§7[1/4] §aIt's starting to panic!@§7[1/4] §aОн начинает паниковать!
+§7[2/4] §aThat's right, get back!@§7[2/4] §aВсе правильно, возвращайся!
+§7[3/4] §aI knew you had it in ya, haha!@§7[3/4] §aЯ знал, что в тебе что-то есть, ха-ха!
+§cImperial Guard§6 [Lv. 25]@§cИмперский Страж§6 [Ур. 25]
+§aClick to go back@§aКликни для возврата 
+§ato the §2pirate boat@§aк §2лодке пиратов
+§7Click to@§7Кликни для
+§eCall elevator@§eВызова лифта
+§7Click to go@§7Кликни для поездки
+§a§lUp@§a§lВверх
+§a§lDown@§a§lВниз
+§7Get §e[1 Lantern]@§7Добудь §e[1 Фонарь]
+§7to open the chest@§7чтобы открыть сундук
+§dWand Merchant@§dПродавец Палочек
+§dCandy Merchant@§dПродавец Конфет
+§dMagical Book Merchant@§dПродавец Магических Книг
+§dCauldron Merchant@§dПродавец Котлов
+§2✤@ 
+§2Earth@§2Земля
+§c✹@ 
+§cFire@§cОгонь
 §f❋
 §fAir
 §b❉
