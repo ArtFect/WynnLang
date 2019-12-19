@@ -70,6 +70,8 @@
 §7\[1\/4\] §2Korzim: §a(.*)... Do you §ahave...the§a staff\? And the amulet...\?@§7[1/4] §2Корзим: §a(r1)... Предмет у тебя? И амулет...?
 §7\[1\/2\] §2Teacher: §aMhm, that's the ticket, (.*). If you're interested in learning more, you can probably find my books at most libraries.@§7[1/2] §2Учитель: §aМхм, это билет, (r1). Если ты заинтересован в получении дополнительной информации, ты вероятно, можешь найти мои книги в большинстве библиотек.
 §7\[1\/2\] §2Teacher: §aDear §alord...that§a was awful. (.*), I can't believe you were able to kill that thing!@§7[1/2] §2Учитель: §aО боже...это было ужасно. (r1), я не могу поверить, что ты смог убить эту тварь!
+§7\[2\/2\] §2Axelus: §a(.*)! I didn't think you'd be back, but we need to leave, now! Meet me outside!@§7[2/2] §2Axelus: §a(r1)! Я не думал, что ты вернешься, но нам нужно уходить, сейчас же! Встретимся на улице!
+§7\[1\/3\] §2Axelus: §a(.*)! Over here, to the right! By the cannon! I'm commandeering this thing.@§7[1/3] §2Axelus: §a(r1)! Сюда, направо! Вот это пушка! Я реквизирую эту штуку. 
 
 §d     -§7 Lore: §f§oThough its creators have disappeared, this city serves as proof that there was once a civilization in the Silent Expanse.@§d     -§7 Лор: §f§oХоть его создатели и исчезли, этот город служит доказательством того, что когда-то в Тихом Пространстве существовала цивилизация.
 §d     -§7 Lore: §f§oThis old cathedral has fallen into disrepair, especially considering the massive spike that's grown inside of it. Legends say that beneath the cathedral lies a powerful rune.@§d     -§7 Лор: §f§oЭтот старый собор пришел в упадок, особенно учитывая массивный шип, который вырос внутри него. Легенды говорят, что под собором лежит мощная руна.
@@ -169,20 +171,16 @@
 §7[7/8] §2Miner Chief: §aThese are not just some 'crystals'. They're... Dangerous. All of you, listen up - never speak a word of what you saw here.@§7[7/8] §2Шахтер Шеф: §aЭто не просто какие-то "кристаллы". Они... Опасны. Все вы, слушайте внимательно - никогда не говорите ни слова о том, что вы здесь видели. 
 §7[8/8] §2Miner Chief: §aBoth of you, back to your posts, now! I'll make sure these are never seen again.@§7[8/8] §2Шахтер Шеф: §aВы оба, возвращайтесь на свои посты, сейчас же! Я позабочусь, чтобы их больше никогда не увидели. 
 
-§7[2/4] §2Korzim: §aThe war is starting... and Axelus... He has not returned.
-§7[3/4] §2Korzim: §aWe can not go... Not without him. Find him... And bring him to the... Dogun village.
-§7[4/4] §2Korzim: §aI can not leave. The §aguard...it§a is on high alert. He was last at §aRodoroc...yes§a?
-§7[1/6] §2Rodoroc Citizen: §aHey! Everyone, the king has someone in the cage! It's been years since we used it!
-§7[2/6] §2Rodoroc Citizen: §aWait, that's Axelus up there!! The king locked up his son?! What in the world?
-§7[3/6] §2Rodoroc Citizen: §aI heard he was consorting with demons, but that can't possibly be true, can it?
-§7[4/6] §2Axelus: §aFor the last time, they are not demons!! Gods, I've been telling you this whole time! Not even my father will listen to reason!
-§7[5/6] §2Axelus: §aIf I don't get freed we're doomed, you hear me?! We won't survive another war! As your prince I demand to be freed!
-§7[6/6] §2Axelus: §aListen, the statues are climbable and there's a control panel for the lava siphons near them! Now help me so we all don't die!
-§7[1/2] §2Rodoroc Citizen: §aWait, that human just defaced the hero's monument!! Are they working with the demons too?
-§7[2/2] §2Axelus: §aartemaker! I didn't think you'd be back, but we need to leave, now! Meet me outside!
-§7[1/3] §2Axelus: §aartemaker! Over here, to the right! By the cannon! I'm commandeering this thing.
-§7[2/3] §2Axelus: §aWe need to get up to the Doguns before the Dwarves begin their assault, or before the Doguns take their last resort.
-§7[3/3] §2Axelus: §aGet in the cannon, now! You've got your armour, you might end up charred and covered in soot but you'll be fine!
+
+
+
+
+
+
+
+
+
+
 §7[1/3] §2Axelus: §aDon't tell anyone we shot ourselves out of a cannon, I'll never live it down. Now come on, to the Dogun village, hurry!
 §7[2/3] §2Axelus: §aIf the Doguns are taking their last resort and summoning Garaheth, then we've got two sides to stop at §aonce...basically§a, the odds are astronomically against us.
 §7[3/3] §2Axelus: §aThat means you do what you need to do, no matter what. Understood? If we can stop this madness then the casualties won't have died for nothing! Now move!
