@@ -1,6 +1,6 @@
 §aCrew5§6 [Lv. 100]@ 
 §aCrew3§6 [Lv. 100]@ 
-
+§aThat Which Coalesces§6 [Lv. 105]@ 
 
 
 
@@ -248,30 +248,29 @@
 §aTemple Wolf§6 [Lv. 1]@§aВолк Храма§6 [Ур. 1]
 §aYoung Theorick§6 [Lv. 43]@§aМолодой Теорик§6 [Ур. 43]
 §aMarius Twain§6 [Lv. 100000]@§aМариус Твейн§6 [Ур. 100000]
-§aBooster§6 [Lv. 92]@§aПират Немракта§6 [Ур. 20]
-§aUndergrowth Ruins Token§6 [Lv. 54]@§aПират Немракта§6 [Ур. 20]
-§aCorrupted Slykaar Ashes§6 [Lv. 110]@§aПират Немракта§6 [Ур. 20]
-§aMemory Orb§6 [Lv. 50]@§aПират Немракта§6 [Ур. 20]
-§aDwendle§6 [Lv. 1]@§aПират Немракта§6 [Ур. 20]
-§aRickeo§6 [Lv. 1]@§aПират Немракта§6 [Ур. 20]
-§aMarius Twain?§6 [Lv. 50]@§aПират Немракта§6 [Ур. 20]
-§aRat§6 [Lv. 19]@§aПират Немракта§6 [Ур. 20]
-§aSplash Potion§6 [Lv. 1]@§aПират Немракта§6 [Ур. 20]
-§aSound Wave Emitter§6 [Lv. 61]@§aПират Немракта§6 [Ур. 20]
-§aPotion§6 [Lv. 1]@§aПират Немракта§6 [Ур. 20]
-§aBlinding Eye§6 [Lv. 100]@§aПират Немракта§6 [Ур. 20]
-§aCrippled Fearful Bunny§6 [Lv. 99]@§aПират Немракта§6 [Ур. 20]
-§aOlm Mage§6 [Lv. 8]@§aПират Немракта§6 [Ур. 20]
-§aOlm Astrologist§6 [Lv. 8]@§aПират Немракта§6 [Ур. 20]
-§aRessurected Cow§6 [Lv. 79]@§aПират Немракта§6 [Ур. 20]
-§aToxicyst§6 [Lv. 100]@§aПират Немракта§6 [Ур. 20]
-§aSlime Sploder§6 [Lv. 100]@§aПират Немракта§6 [Ур. 20]
-§a???§6 [Lv. 100]@§aПират Немракта§6 [Ур. 20]
-§aThat Which Coalesces§6 [Lv. 105]@§aПират Немракта§6 [Ур. 20]
-§aMiner§6 [Lv. 30]@§aПират Немракта§6 [Ур. 20]
+§aBooster§6 [Lv. 92]@§aБустер§6 [Ур. 92]
+§aUndergrowth Ruins Token§6 [Lv. 54]@§aЗаросшие Руины Жетон§6 [Ур. 54]
+§aCorrupted Slykaar Ashes§6 [Lv. 110]@§aИспорченный Пепел Слайкаара§6 [Ур. 110]
+§aMemory Orb§6 [Lv. 50]@§aШар Памяти§6 [Ур. 50]
+§aDwendle§6 [Lv. 1]@§aДвендл§6 [Ур. 1]
+§aRickeo§6 [Lv. 1]@§aРикео§6 [Ур. 1]
+§aMarius Twain?§6 [Lv. 50]@§aМариус Твейн?§6 [Ур. 50]
+§aRat§6 [Lv. 19]@§aКрыса§6 [Ур. 19]
+§aSplash Potion§6 [Lv. 1]@§aВзрывающееся Зелье§6 [Ур. 1]
+§aSound Wave Emitter§6 [Lv. 61]@§aИзлучатель Звуковых Волн§6 [Ур. 61]
+§aPotion§6 [Lv. 1]@§aЗелье§6 [Ур. 1]
+§aBlinding Eye§6 [Lv. 100]@§aСлепой Глаз§6 [Ур. 100]
+§aCrippled Fearful Bunny§6 [Lv. 99]@§aЯзвительный Испуганный Кролик§6 [Ур. 99]
+§aOlm Mage§6 [Lv. 8]@§aОлм Маг§6 [Ур. 8]
+§aOlm Astrologist§6 [Lv. 8]@§aОлм Астролог§6 [Ур. 8]
+§aRessurected Cow§6 [Lv. 79]@§aВоскрешенная Корова§6 [Ур. 79]
+§aToxicyst§6 [Lv. 100]@§aТоксоцист§6 [Ур. 100]
+§aSlime Sploder§6 [Lv. 100]@§aСлайм Подрывник§6 [Ур. 100]
+§a???§6 [Lv. 100]@§a???§6 [Ур. 100]
+§aMiner§6 [Lv. 30]@§aШахтер§6 [Ур. 30]
 
-§4Angel Wybel Token
-§4Adventurer's Hat
+§4Angel Wybel Token@§4Ангельский Вубел Жетон
+§4Adventurer's Hat@§4Шапка Путешественника
 
 §aNotes§6 [Lv. 1]
 §aBloom of Doom§6 [Lv. 20]
