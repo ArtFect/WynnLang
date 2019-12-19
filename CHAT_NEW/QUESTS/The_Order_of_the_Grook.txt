@@ -195,36 +195,31 @@
 §7[10/12] §2Teacher: §aEveryone up to the table! You'll need this feather with ya to get through. It'll help you jump higher!@§7[10/12] §2Учитель: §a
 §7[11/12] §2Teacher: §aThe goal is to grab three crystal balls I put in the obstacle course. Once you find 'em, bring 'em back to me.@§7[11/12] §2Учитель: §a
 §7[12/12] §2Teacher: §aThe course is behind me. Shake a leg, now!@§7[12/12] §2Учитель: §a
-§7[1/3] §2Teacher: §aLessee here, one, two, three, yes indeedy! You got through that pretty quick!
-§7[2/3] §2Teacher: §aNow, if you'll just hand me back that feather ya got there...
-§7[3/3] §2Teacher: §a...then§a you'll be all done! Congrats, little fledge, you've finished this class! Now get on along to your next one!
-§7[1/1] §2Teacher: §aHey hey! You gotta hear all this first!
-§7[1/18] §2Teacher: §a...I was hoping for a smaller class size.
-§7[2/18] §2Teacher: §aCorruption is incredibly §adangerous...it'll§a be tough to keep so many students safe. If anyone wishes to leave, you may.
-§7[3/18] §2Teacher: §aNow... Corruption is a force of nature §aof...some§a description. Yes, you heard me right. We don't actually know much about it.
-§7[4/18] §2Teacher: §aEven though it's plagued the Wynn province for a thousand years, the way it behaves is so incredibly alien in nature that it's nigh-impossible to study.
-§7[5/18] §2Teacher: §aWe know it raises undead bodies... The working theory is that the more heavily injured a target is, the more susceptible they are to being corrupted.
-§7[6/18] §2Teacher: §aAnd...well§a, you can't exactly get more injured than "dead." Hence, the growth of zombies and skeletons and all, over in Wynn.
-§7[7/18] §2Teacher: §aIt appears to spread by a complex "root" system. A scientist from Nesaak, Orikal, has studied this. The corruption spikes appear to spread it in greater concentration.
-§7[8/18] §2Teacher: §aAs for the effects on your person, most often paranoia and anger are seen. And that's about the only consistent thing with it; it affects everyone slightly differently.
-§7[9/18] §2Teacher: §aThe worst part is that practically every single thing we've touched on here is conjecture and theorycrafting! The force of corruption is terrifying.
-§7[10/18] §2Teacher: §aThe only thing we know for certain is that powerful ice-based magic can halt corruption, as seen in the Nesaak region.
-§7[11/18] §2Teacher: §aNow, the dangerous part. Everyone, come up past my desk here. We'll examine a corrupted creature in a controlled environment.
-§7[12/18] §2Teacher: §aWe have one in captivity, and its cage is reinforced with the strongest metals we §ahave...so§a dear god let it be enough.
-§7[13/18] §2Teacher: §aBringing it out §anow...be§a sure to back up. We don't want anyone caught in the crossfire here.
-§7[14/18] §2Teacher: §aOne thing to note about undead §acorrupteds...they§a can't be cured. You can weaken them, but that's about it. §a...wait..§a.
-§7[15/18] §2Teacher: §aWait, why's it spreading here? It's never done this before! E-everyone, back up, now!
-§7[16/18] §2Teacher: §aA-as you can see, corruption is very powerful, eheheh, c-can someone go get another teacher or something?!
-§7[17/18] §2Teacher: §aWait, no! It's corroding the bars! Everyone, RUN! NOW! GET OUT OF HERE, CLASS DISMISSED!!!
-§7[2/2] §2Teacher: §aClass absolutely dismissed. We've got to cancel this §aclass...it's§a far too dangerous for the students...
+§7[1/3] §2Teacher: §aLessee here, one, two, three, yes indeedy! You got through that pretty quick!@§7[1/3] §2Учитель: §a
+§7[2/3] §2Teacher: §aNow, if you'll just hand me back that feather ya got there...@§7[2/3] §2Учитель: §a
+§7[3/3] §2Teacher: §a...then§a you'll be all done! Congrats, little fledge, you've finished this class! Now get on along to your next one!@§7[3/3] §2Учитель: §a
+§7[1/1] §2Teacher: §aHey hey! You gotta hear all this first!@§7[1/1] §2Учитель: §a
+§7[1/18] §2Teacher: §a...I was hoping for a smaller class size.@§7[1/18] §2Учитель: §a
+§7[2/18] §2Teacher: §aCorruption is incredibly §adangerous...it'll§a be tough to keep so many students safe. If anyone wishes to leave, you may.@§7[2/18] §2Учитель: §a
+§7[3/18] §2Teacher: §aNow... Corruption is a force of nature §aof...some§a description. Yes, you heard me right. We don't actually know much about it.@§7[3/18] §2Учитель: §a
+§7[4/18] §2Teacher: §aEven though it's plagued the Wynn province for a thousand years, the way it behaves is so incredibly alien in nature that it's nigh-impossible to study.@§7[4/18] §2Учитель: §a
+§7[5/18] §2Teacher: §aWe know it raises undead bodies... The working theory is that the more heavily injured a target is, the more susceptible they are to being corrupted.@§7[5/18] §2Учитель: §a
+§7[6/18] §2Teacher: §aAnd...well§a, you can't exactly get more injured than "dead." Hence, the growth of zombies and skeletons and all, over in Wynn.@§7[6/18] §2Учитель: §a
+§7[7/18] §2Teacher: §aIt appears to spread by a complex "root" system. A scientist from Nesaak, Orikal, has studied this. The corruption spikes appear to spread it in greater concentration.@§7[7/18] §2Учитель: §a
+§7[8/18] §2Teacher: §aAs for the effects on your person, most often paranoia and anger are seen. And that's about the only consistent thing with it; it affects everyone slightly differently.@§7[8/18] §2Учитель: §a
+§7[9/18] §2Teacher: §aThe worst part is that practically every single thing we've touched on here is conjecture and theorycrafting! The force of corruption is terrifying.@§7[9/18] §2Учитель: §a
+§7[10/18] §2Teacher: §aThe only thing we know for certain is that powerful ice-based magic can halt corruption, as seen in the Nesaak region.@§7[10/18] §2Учитель: §a
+§7[11/18] §2Teacher: §aNow, the dangerous part. Everyone, come up past my desk here. We'll examine a corrupted creature in a controlled environment.@§7[11/18] §2Учитель: §a
+§7[12/18] §2Teacher: §aWe have one in captivity, and its cage is reinforced with the strongest metals we §ahave...so§a dear god let it be enough.@§7[12/18] §2Учитель: §a
+§7[13/18] §2Teacher: §aBringing it out §anow...be§a sure to back up. We don't want anyone caught in the crossfire here.@§7[13/18] §2Учитель: §a
+§7[14/18] §2Teacher: §aOne thing to note about undead §acorrupteds...they§a can't be cured. You can weaken them, but that's about it. §a...wait..§a.@§7[14/18] §2Учитель: §a
+§7[15/18] §2Teacher: §aWait, why's it spreading here? It's never done this before! E-everyone, back up, now!@§7[15/18] §2Учитель: §a
+§7[16/18] §2Teacher: §aA-as you can see, corruption is very powerful, eheheh, c-can someone go get another teacher or something?!@§7[16/18] §2Учитель: §a
+§7[17/18] §2Teacher: §aWait, no! It's corroding the bars! Everyone, RUN! NOW! GET OUT OF HERE, CLASS DISMISSED!!!@§7[17/18] §2Учитель: §a
+§7[2/2] §2Teacher: §aClass absolutely dismissed. We've got to cancel this §aclass...it's§a far too dangerous for the students...@§7[2/2] §2Учитель: §a
 §7[1/2] §2Seasum: §aI do not wanna go to schooool! @§7[1/2] §2Сеасум: §a
 §7[2/2] §2Seasum: §aMaybe... Do you wanna go in my place? You have to be level 59 first though. Hurry!@§7[2/2] §2Сеасум: §a
-§7[1/1] §2Pirate: §aWhat's wrong Pep? Want a bone? Well too bad, we're cleanin' em!
-§7[1/1] §2Pirate: §aPep is just a treasure, ain't I right? I'm glad you're taking care of him too!
-§7[1/2] §2Pirate: §aOh, there he is! Hold on...
-§7[2/2] §2Pirate: §aIsn't he the best??
-§7[1/1] §2Pirate: §aWill these two calm down?! Jeez!
-§7[1/1] §2Pirate: §aEasy there Pep...
-§7[1/1] §2Pirate: §aHuh? What did you do?? Oh well, whatever...
+
+
 §7[1/2] §2Steve: §aAfter years of labour my mansion is finally complete.
 §7[2/2] §2Steve: §aYou would do well to take pointers from this magnificence, it would greatly improve your skills!
