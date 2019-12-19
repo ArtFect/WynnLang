@@ -1,3 +1,9 @@
+§aCrew5§6 [Lv. 100]@ 
+§aCrew3§6 [Lv. 100]@ 
+
+
+
+
 §2(.*) Aledar Cart@§2(r1) Телега Аледара
 §2§aGathering Post §2\[Woodcutting Lv. (\d+)\]@§2§aДоска Сбора §2[Лесорубство Ур. (r1)]
 §2§aGathering Post §2\[Mining Lv. (\d+)\]@§2§aДоска Сбора §2[Добыча Руд Ур. (r1)]
@@ -106,23 +112,23 @@
 §2Geologist@§2Геолог
 §2Deathknell Wretch@§2Смертельная Тварь
 
-§2§fNell
-§2§fEgam
-§2§fMillie
-§2§fMagical Materials Chapter 3 - Quartz
-§2§fMagical Materials Chapter 6 - Cosmic Unknowns
-§2§fMagical Materials Chapter 1 - A Primer
-§2§fMagical Materials Chapter 5 - Elemental Powders
-§2§fMagical Materials Chapter 4 - Stabilizers
-§2§fMagical Materials Chapter 2 - Magical Foci
-§2§fLutho Citizen
-§2§fNOTE
-§fSnoo
-§fPirate
-§fSeth
-§fPep
-§fAngry Pirate
-§fLight
+§2§fNell@§2§fНелл
+§2§fEgam@§2§fЭгам
+§2§fMillie@§2§fМилли
+§2§fMagical Materials Chapter 3 - Quartz@§2§fМагические Материалы Глава 3 - Кварц
+§2§fMagical Materials Chapter 6 - Cosmic Unknowns@§2§fМагические Материалы Глава 6 - Космические Неизвестности
+§2§fMagical Materials Chapter 1 - A Primer@§2§fМагические Материалы Глава 1 - Букварь
+§2§fMagical Materials Chapter 5 - Elemental Powders@§2§fМагические Материалы Глава 5 - Элементальные Порошки
+§2§fMagical Materials Chapter 4 - Stabilizers@§2§fМагические Материалы Глава 4 - Стабилизаторы
+§2§fMagical Materials Chapter 2 - Magical Foci@§2§fМагические Материалы Глава 2 - Магические Фокусы
+§2§fLutho Citizen@§2§fЖитель Луто
+§2§fNOTE@§2§fЗАМЕТКА
+§fSnoo@§fСну
+§fPirate@§fПират
+§fSeth@§fСэт
+§fPep@§fПеп
+§fAngry Pirate@§fЗлой Пират
+§fLight@§fСвет
 
 §a§oOh no...
 §a§oGah! I got hit!!
@@ -214,57 +220,55 @@
 §a§o'ey, I was just tryin' to start
 §a§oa conversation...
 
-§aNemract Pirate§6 [Lv. 20]
-§aCrew5§6 [Lv. 100]
-§aCrew3§6 [Lv. 100]
-§aHonip§6 [Lv. 100]
-§aWolfie§6 [Lv. 30]
-§aDr. Picard§6 [Lv. 1]
-§aCrew6§6 [Lv. 100]
-§aPoor Human§6 [Lv. 25]
-§aVSS Fakeskipper§6 [Lv. 1]
-§aSeaskipper Captain§6 [Lv. 50]
-§aSeagull§6 [Lv. 30]
-§aInvitation Letter§6 [Lv. 59]
-§aStudent§6 [Lv. 59]
-§aMagical Cat§6 [Lv. 60]
-§aTamed Cat§6 [Lv. 50]
-§aGrookwarts Student§6 [Lv. 59]
-§aHeadmaster§6 [Lv. 59]
-§aDetached Shadow§6 [Lv. 92]
-§aHaily§6 [Lv. 33]
-§aQuiet Observer§6 [Lv. 96]
-§aCurious Starer§6 [Lv. 101]
-§aGrook§6 [Lv. 59]
-§aLutho Citizen§6 [Lv. 105]
-§aLutho Citizen§6 [Lv. 102]
-§aMystical Statue§6 [Lv. 105]
-§aFuel Sprite§6 [Lv. 100]
-§aSpike Shatterer§6 [Lv. 100]
-§aTemple Wolf§6 [Lv. 1]
-§aYoung Theorick§6 [Lv. 43]
-§aMarius Twain§6 [Lv. 100000]
-§aBooster§6 [Lv. 92]
-§aUndergrowth Ruins Token§6 [Lv. 54]
-§aCorrupted Slykaar Ashes§6 [Lv. 110]
-§aMemory Orb§6 [Lv. 50]
-§aDwendle§6 [Lv. 1]
-§aRickeo§6 [Lv. 1]
-§aMarius Twain?§6 [Lv. 50]
-§aRat§6 [Lv. 19]
-§aSplash Potion§6 [Lv. 1]
-§aSound Wave Emitter§6 [Lv. 61]
-§aPotion§6 [Lv. 1]
-§aBlinding Eye§6 [Lv. 100]
-§aCrippled Fearful Bunny§6 [Lv. 99]
-§aOlm Mage§6 [Lv. 8]
-§aOlm Astrologist§6 [Lv. 8]
-§aRessurected Cow§6 [Lv. 79]
-§aToxicyst§6 [Lv. 100]
-§aSlime Sploder§6 [Lv. 100]
-§a???§6 [Lv. 100]
-§aThat Which Coalesces§6 [Lv. 105]
-§aMiner§6 [Lv. 30]
+§aNemract Pirate§6 [Lv. 20]@§aПират Немракта§6 [Ур. 20]
+§aHonip§6 [Lv. 100]@§aХонип§6 [Ур. 100]
+§aWolfie§6 [Lv. 30]@§aВолчок§6 [Ур. 30]
+§aDr. Picard§6 [Lv. 1]@§aДр. Пикард§6 [Ур. 1]
+§aCrew6§6 [Lv. 100]@§aКоманда§6 [Ур. 100]
+§aPoor Human§6 [Lv. 25]@§aБедняк§6 [Ур. 25]
+§aVSS Fakeskipper§6 [Lv. 1]@§aВСС Фейкшкипер§6 [Ур. 1]
+§aSeaskipper Captain§6 [Lv. 50]@§aКапитан Корабля§6 [Ур. 50]
+§aSeagull§6 [Lv. 30]@§aЧайка§6 [Ур. 30]
+§aInvitation Letter§6 [Lv. 59]@§aПригласительное Письмо§6 [Ур. 59]
+§aStudent§6 [Lv. 59]@§aСтудент§6 [Ур. 59]
+§aMagical Cat§6 [Lv. 60]@§aМагический Кот§6 [Ур. 60]
+§aTamed Cat§6 [Lv. 50]@§aПрирученный Кот§6 [Ур. 50]
+§aGrookwarts Student§6 [Lv. 59]@§aСтудент Груквартса§6 [Ур. 59]
+§aHeadmaster§6 [Lv. 59]@§aДиректор§6 [Ур. 59]
+§aDetached Shadow§6 [Lv. 92]@§aОтдельная Тень§6 [Ур. 92]
+§aHaily§6 [Lv. 33]@§aХэйли§6 [Ур. 33]
+§aQuiet Observer§6 [Lv. 96]@§aТихий Наблюдатель§6 [Ур. 96]
+§aCurious Starer§6 [Lv. 101]@§aЛюбопытный Старер§6 [Ур. 101]
+§aGrook§6 [Lv. 59]@§aГрук§6 [Ур. 59]
+§aLutho Citizen§6 [Lv. 105]@§aЖитель Луто§6 [Ур. 105]
+§aLutho Citizen§6 [Lv. 102]@§aЖитель Луто§6 [Ур. 102]
+§aMystical Statue§6 [Lv. 105]@§aМистическая Статуя§6 [Ур. 105]
+§aFuel Sprite§6 [Lv. 100]@§aТопливный Спрайт§6 [Ур. 100]
+§aSpike Shatterer§6 [Lv. 100]@§aРазрушитель Шипов§6 [Ур. 100]
+§aTemple Wolf§6 [Lv. 1]@§aВолк Храма§6 [Ур. 1]
+§aYoung Theorick§6 [Lv. 43]@§aМолодой Теорик§6 [Ур. 43]
+§aMarius Twain§6 [Lv. 100000]@§aМариус Твейн§6 [Ур. 100000]
+§aBooster§6 [Lv. 92]@§aПират Немракта§6 [Ур. 20]
+§aUndergrowth Ruins Token§6 [Lv. 54]@§aПират Немракта§6 [Ур. 20]
+§aCorrupted Slykaar Ashes§6 [Lv. 110]@§aПират Немракта§6 [Ур. 20]
+§aMemory Orb§6 [Lv. 50]@§aПират Немракта§6 [Ур. 20]
+§aDwendle§6 [Lv. 1]@§aПират Немракта§6 [Ур. 20]
+§aRickeo§6 [Lv. 1]@§aПират Немракта§6 [Ур. 20]
+§aMarius Twain?§6 [Lv. 50]@§aПират Немракта§6 [Ур. 20]
+§aRat§6 [Lv. 19]@§aПират Немракта§6 [Ур. 20]
+§aSplash Potion§6 [Lv. 1]@§aПират Немракта§6 [Ур. 20]
+§aSound Wave Emitter§6 [Lv. 61]@§aПират Немракта§6 [Ур. 20]
+§aPotion§6 [Lv. 1]@§aПират Немракта§6 [Ур. 20]
+§aBlinding Eye§6 [Lv. 100]@§aПират Немракта§6 [Ур. 20]
+§aCrippled Fearful Bunny§6 [Lv. 99]@§aПират Немракта§6 [Ур. 20]
+§aOlm Mage§6 [Lv. 8]@§aПират Немракта§6 [Ур. 20]
+§aOlm Astrologist§6 [Lv. 8]@§aПират Немракта§6 [Ур. 20]
+§aRessurected Cow§6 [Lv. 79]@§aПират Немракта§6 [Ур. 20]
+§aToxicyst§6 [Lv. 100]@§aПират Немракта§6 [Ур. 20]
+§aSlime Sploder§6 [Lv. 100]@§aПират Немракта§6 [Ур. 20]
+§a???§6 [Lv. 100]@§aПират Немракта§6 [Ур. 20]
+§aThat Which Coalesces§6 [Lv. 105]@§aПират Немракта§6 [Ур. 20]
+§aMiner§6 [Lv. 30]@§aПират Немракта§6 [Ур. 20]
 
 §4Angel Wybel Token
 §4Adventurer's Hat
