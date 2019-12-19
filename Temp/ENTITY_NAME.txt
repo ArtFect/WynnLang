@@ -167,6 +167,7 @@
 §a§oWhat? Does he want to corrupt himself?
 §a§oThis... has turned into a difficult situation.
 §a§oI really thought they'd help with other stuff...
+==
 §a§o§lDon't touch me.
 §a§oAre you alright?
 §a§oYou shouldn't have done that.
@@ -197,6 +198,7 @@
 §a§oDad... I'm sorry...
 §a§oWhat does all this mean?
 §a§oThe Twains are over?
+==
 §a§oTake THIS!
 §a§oWhat even are they for again?
 §a§oSome weird scheme?...
@@ -215,8 +217,10 @@
 §a§oI'm just goin' to... rest.
 §a§oHey... You missed quite the scene up there.
 §o§aAgh!
+==
 §o§aAAAAAAAAAAH!
 §o§aAAaAH  AAAAH!
+==
 §a§o'ey, I was just tryin' to start
 §a§oa conversation...
 
@@ -272,47 +276,47 @@
 §4Angel Wybel Token@§4Ангельский Вубел Жетон
 §4Adventurer's Hat@§4Шапка Путешественника
 
-§aNotes§6 [Lv. 1]
-§aBloom of Doom§6 [Lv. 20]
-§aMOS Key§6 [Lv. 1]
-§aFuse§6 [Lv. 1]
-§aGunpowder§6 [Lv. 1]
-§aFeathers§6 [Lv. 1]
-§aIce§6 [Lv. 0]
-§aMagma§6 [Lv. 0]
-§aTome of Earth Magic
-§aCrate of Lodestone§6 [Lv. 59]
-§aWhite Meteor Shard§6 [Lv. 59]
-§aDeactivated Air Powder§6 [Lv. 59]
-§aWheat Magical Binding§6 [Lv. 59]
-§aQuartz Battery§6 [Lv. 59]
-§aCrate of Avo Bindings§6 [Lv. 59]
-§aMagical Crystal Ball§6 [Lv. 59]
-§aCrate of Jewel Foci§6 [Lv. 59]
-§aUnstable Ore§6 [Lv. 0]
-§aKaens Key§6 [Lv. 1]
-§aAdans Key§6 [Lv. 1]
-§aTomb Key§6 [Lv. 1]
-§aCrate§6 [Lv. 1]
+§aNotes§6 [Lv. 1]@§aЗаметки§6 [Ур. 1]
+§aBloom of Doom§6 [Lv. 20]@§aЦветок Судьбы§6 [Ур. 20]
+§aMOS Key§6 [Lv. 1]@§aМОС Ключ§6 [Ур. 1]
+§aFuse§6 [Lv. 1]@§aПереключатель§6 [Ур. 1]
+§aGunpowder§6 [Lv. 1]@§aПорох§6 [Ур. 1]
+§aFeathers§6 [Lv. 1]@§aПерья§6 [Ур. 1]
+§aIce§6 [Lv. 0]@§aЛед§6 [Ур. 0]
+§aMagma§6 [Lv. 0]@§aМагма§6 [Ур. 0]
+§aTome of Earth Magic@§aТом Магии Земли
+§aCrate of Lodestone§6 [Lv. 59]@§aКонтейнер Магнитов§6 [Ур. 59]
+§aWhite Meteor Shard§6 [Lv. 59]@§aБелый Осколок Метеора§6 [Ур. 59]
+§aDeactivated Air Powder§6 [Lv. 59]@§aДеактивированный Порошок Воздуха§6 [Ур. 59]
+§aWheat Magical Binding§6 [Lv. 59]@§aМагическая Пшеница§6 [Ур. 59]
+§aQuartz Battery§6 [Lv. 59]@§aКварцевая Батарея§6 [Ур. 59]
+§aCrate of Avo Bindings§6 [Lv. 59]@§aКонтейнер Переплетов из Авокадо§6 [Ур. 59]
+§aMagical Crystal Ball§6 [Lv. 59]@§aМагический Кристальный Шар§6 [Ур. 59]
+§aCrate of Jewel Foci§6 [Lv. 59]@§aКонтейнер с Драгоценностями§6 [Ур. 59]
+§aUnstable Ore§6 [Lv. 0]@§aНестабильная Руда§6 [Ур. 0]
+§aKaens Key§6 [Lv. 1]@§aКлюч Каена§6 [Ур. 1]
+§aAdans Key§6 [Lv. 1]@§aКлюч Адана§6 [Ур. 1]
+§aTomb Key§6 [Lv. 1]@§aКлюч от Гробницы§6 [Ур. 1]
+§aCrate§6 [Lv. 1]@§aКонтейнер§6 [Ур. 1]
 
-§bElphaba§6 [Lv. 100]
-§bLucio§6 [Lv. 100]
-§bAledar§6 [Lv. 100]
-§bObsessor§6 [Lv. 102]
-§bDusk Kanter§6 [Lv. 110]
-§bDomesticated Kanter§6 [Lv. 110]
-§bDomesticated Kantyr§6 [Lv. 110]
-§bChalky Kantyri Calf§6 [Lv. 100]
-§bDusk Kantyri Calf§6 [Lv. 100]
-§bRoyal Kantyri Calf§6 [Lv. 100]
-§bHead§6 [Lv. 102]
-§bDark Head§6 [Lv. 102]
-§bKeystone Guardian§6 [Lv. 100]
-§bChest§6 [Lv. 102]
-§bLegs§6 [Lv. 102]
-§bChalky Kantyr§6 [Lv. 110]
-§bDusk Kantyr§6 [Lv. 110]
-§bChalky Kanter§6 [Lv. 110]
+§bElphaba§6 [Lv. 100]@§bЭльфаба§6 [Ур. 100]
+§bLucio§6 [Lv. 100]@§bЛуцио§6 [Ур. 100]
+§bAledar§6 [Lv. 100]@§bАледар§6 [Ур. 100]
+§bObsessor§6 [Lv. 102]@§bМучитель§6 [Ур. 102]
+§bDusk Kanter§6 [Lv. 110]@§bСумеречный Кантер§6 [Ур. 110]
+§bDomesticated Kanter§6 [Lv. 110]@§bОдомашненный Кантер§6 [Ур. 110]
+§bDomesticated Kantyr§6 [Lv. 110]@§bОдомашненный Кантир§6 [Ур. 110]
+§bChalky Kantyri Calf§6 [Lv. 100]@§bБледный Теленок Кантир§6 [Ур. 100]
+§bDusk Kantyri Calf§6 [Lv. 100]@§bСумеречный Теленок Кантир§6 [Ур. 100]
+§bRoyal Kantyri Calf§6 [Lv. 100]@§bКоролевский Теленок Кантир§6 [Ур. 100]
+§bHead§6 [Lv. 102]@§bГолова§6 [Ур. 102]
+§bDark Head§6 [Lv. 102]@§bТемная Голова§6 [Ур. 102]
+§bKeystone Guardian§6 [Lv. 100]@§bЗащитник Ключа§6 [Ур. 100]
+§bChest§6 [Lv. 102]@§bНагрудник§6 [Ур. 102]
+§bLegs§6 [Lv. 102]@§bНоги§6 [Ур. 102]
+§bChalky Kantyr§6 [Lv. 110]@§bБледный Кантир§6 [Ур. 110]
+§bDusk Kantyr§6 [Lv. 110]@§bСумеречный Кантир§6 [Ур. 110]
+§bChalky Kanter§6 [Lv. 110]@§bБледный Кантер§6 [Ур. 110]
 
 §7§7Bows, Wands and Reliks
 bone
