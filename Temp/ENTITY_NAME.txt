@@ -3,6 +3,7 @@
 §aThat Which Coalesces§6 [Lv. 105]@ 
 §cDusty Librarian§6 [Lv. 52]@ 
 §0ddd@ 
+§eAberrated Lutho Citizen§6 [Lv. 104]@ 
 
 §2(.*) Aledar Cart@§2(r1) Телега Аледара
 §2§aGathering Post §2\[Woodcutting Lv. (\d+)\]@§2§aДоска Сбора §2[Лесорубство Ур. (r1)]
@@ -430,44 +431,43 @@ Gift From Dern@Подарок из Дерна
 §7t§ko§7 open t§kh§7e do§ko§7r@§7дл§kя§7 от§kкр§7ытия две§kр§7и
 §c§lHUNT@§c§lОХОТА
 §6Eye@§6Глаз
-§e§lDreading@
-§e§lFearing@
-§e§lBlinding@
-§e§lShading@
-§e§lCrying@
-§e§lInfecting@
-§7to open the §cexit@
-§7Get §6[4 Granitic Keys]@
-§e§lBleeding@
-§e§lDyeing@
-§e§lStalking@
-§e§lWatching@
-§6Right-Click@
-§eto Restart the Wave@
-§7§lRestart Escort Mission@
-§8Right-Click to@
-§eAberrated Lutho Citizen§6 [Lv. 104]@
-§cMonster@
-§aDernic Fish@
-§cKill 1 §6Upside Downer §c to Destroy the Spikes@
-§cKill 1 §6Void Demon §cto Destroy the Boulder@
-§c§lClick To Break@
-§e§lDigesting@
-§7Get §6[1 Granitic Key]@
-§cMiner§6 [Lv. 1]@
-§cMiner Chief§6 [Lv. 1]@
-§aBoulder@
-§4Pick up a Shard@
-§4Repair the Monolith@
-§4Gather §l4 §eExplosive Mass@
-§aDernic Seed@
-§4Gather §l12 §eExplosive Mass@
-§7to shatter the door@
-§c§4§lThe Eye§6 [Lv. 110]@
-§c§lReset@
-§cDeathknell Wretch§6 [Lv. 110]@
-§4§l[10s]@
-§4§l[9s]@
-§4§l[8s]@
-§4§l[7s]@
-§4§l[6s]@
+§e§lDreading@§e§lСтрашный
+§e§lFearing@§e§lБоящийся
+§e§lBlinding@§e§lСлепой
+§e§lShading@§e§lТемный
+§e§lCrying@§e§lПлачущий
+§e§lInfecting@§e§lЗараженный
+§7to open the §cexit@§7для открытия §cвыхода
+§7Get §6[4 Granitic Keys]@§7Добудь §6[4 Гранитных Ключа]
+§e§lBleeding@§e§lКровоточащий
+§e§lDyeing@§e§lУмирающий
+§e§lStalking@§e§lПреследующий
+§e§lWatching@§e§lНаблюдающий
+§e§lDigesting@§e§lПереваренный
+§6Right-Click@§6Правый Клик
+§eto Restart the Wave@§eдля Рестарта Волны
+§7§lRestart Escort Mission@§7§lРестарт Эскорт Миссии
+§8Right-Click to@§8Правый Клик для
+§cMonster@§cМонстр
+§aDernic Fish@§aДерник Рыба
+§cKill 1 §6Upside Downer §c to Destroy the Spikes@§cУбей 1 §6Upside Downer §c для Разрушения Шипов
+§cKill 1 §6Void Demon §cto Destroy the Boulder@§cУбей 1 §6Void Demon §cдля Уничтожения Валуна
+§c§lClick To Break@§c§lКликни чтобы Сломать
+§7Get §6[1 Granitic Key]@§7Добудь §6[1 Гранитный Ключ]
+§cMiner§6 [Lv. 1]@§cШахтер§6 [Ур. 1]
+§cMiner Chief§6 [Lv. 1]@§cШеф Шахтер§6 [Ур. 1]
+§aBoulder@§aБулыжник
+§4Pick up a Shard@§4Взять Осколок
+§4Repair the Monolith@§4Починить Монолит
+§4Gather §l4 §eExplosive Mass@§4Собери §l4 §eВзрывоопасной Массы
+§aDernic Seed@§aДерник Семя
+§4Gather §l12 §eExplosive Mass@§4Собери §l12 §eВзрывоопасной Массы
+§7to shatter the door@§7для разрушения двери
+§c§4§lThe Eye§6 [Lv. 110]@§c§4§lГлаз§6 [Ур. 110]
+§c§lReset@§c§lСброс
+§cDeathknell Wretch§6 [Lv. 110]@§cСмертельная Тварь§6 [Ур. 110]
+§4§l[10s]@§4§l[10с]
+§4§l[9s]@§4§l[9с]
+§4§l[8s]@§4§l[8с]
+§4§l[7s]@§4§l[7с]
+§4§l[6s]@§4§l[6с]
