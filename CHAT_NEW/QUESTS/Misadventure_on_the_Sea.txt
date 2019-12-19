@@ -60,7 +60,7 @@
 §7[7/7] §2Honip: §aI've got faith in ya. Here goes nothin'!@§7[7/7] §2Хонип: §aЯ верю в тебя. Была не была!
 §7[1/4] §2Honip: §a...Seth§a? Have ya seen the soldier?@§7[1/4] §2Хонип: §a...Сэт? Ты уже видел солдата?
 §7[2/4] §2Seth: §aNo, but they did a great job in the hold! Some gunpowder went missing though.@§7[2/4] §2Сэт: §aНет, но он отлично поработал в трюме! Хотя, там пропала часть пороха.
-§7[3/4] §2Seth: §a...@ 
+§7[3/4] §2Seth: §a...@§7[3/4] §2Сэт: §a...
 §7[4/4] §2Seth: §aWait a minute.@§7[4/4] §2Сэт: §aПогоди минуту.
 §7[1/1] §2Seaskipper Captain: §a'ey there soldier! Looks like ya're in a bit of a pickle! How 'bout ya hop on?'@§7[1/1] §2Капитан Корабля: §aЭй, привет солдат! Похоже, ты попал в переделку! Как насчет того, чтобы запрыгнуть на борт?
 §7[1/7] §2Seaskipper Captain: §aWell... We're headed for Selchar, the heart of the ocean! Which is safer than wherever you were, heh!@§7[1/7] §2Капитан Корабля: §aЧто ж... Мы направляемся в Сельчар - сердце океана! Там безопаснее, чем где бы то ни было, хех!
@@ -72,31 +72,31 @@
 §7[7/7] §2Seaskipper Captain: §aAnyway, I can see the shore off in the distance! Hang tight, we're almost there!@§7[7/7] §2Капитан Корабля: §aЭх, ладно, я уже вижу берег вдалеке! Держись крепче, мы почти на месте!
 §7[1/1] §2Barman: §aOh, soldier... It looks like you're underleveled. Sorry, I don't want to sell drinks to recruits, that's a policy 'round here. Come back when you're level 28.@§7[1/1] §2Бармен: §aОх, солдат... Похоже, ты еще слишком мал. Извини, я не хочу продавать выпивку новобранцам, здесь так принято. Возвращайся, когда достигнешь 28 уровня
 §7[1/1] §2Honip: §aI told you to stay back!@§7[1/1] §2Хонип: §aЯ говорил тебе держаться подальше!
-§7[1/4] §2Honip: §aSo, there's quite a few skeletons in there, and we never bothered throwin' em out!@§7[1/4] §2Хонип: §a
-§7[2/4] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the skeletons with it!@§7[2/4] §2Хонип: §a
-§7[3/4] §2Honip: §aIf you need me, I'll be on the deck. And, uh, don't go in the hold. We've got a §a§lBIG§a rat problem.@§7[3/4] §2Хонип: §a
-§7[4/4] §2Honip: §aAlso, for the sake of my crew, could you be more cooperative? I don't have an unlimited amount of these potions.@§7[4/4] §2Хонип: §a
-§7[1/1] §2Pirate Guard: §aSoldier? Ya already fixed that cannon, stop that.@§7[1/1] §2Пират: §a
-§7[1/4] §2Honip: §aHey there! Ya bringin' me good news?@§7[1/4] §2Хонип: §a
-§7[2/4] §2Honip: §aYou took care of these damn thieving rodents? A... colossal rat you say?@§7[2/4] §2Хонип: §a
-§7[3/4] §2Honip: §aNicely done, I knew I could count on ya! C'mere, take these!@§7[3/4] §2Хонип: §a
-§7[4/4] §2Honip: §aAnyway, for now, you can go rest and do whatever you want!@§7[4/4] §2Хонип: §a
-§7[1/1] §2Honip: §a'ey soldier. Enjoying the ride?@§7[1/1] §2Хонип: §a
-§7[1/3] §2Pirate: §aHey, so you're our personal guard, huh?@§7[1/3] §2Пират: §a
-§7[2/3] §2Pirate: §aNice to meet ya!@§7[2/3] §2Пират: §a
-§7[3/3] §2Pirate: §aThat ladder leads to the hold, but right now it's locked... We've got a severe case of rats.@§7[3/3] §2Пират: §a
-§7[1/1] §2Seth: §aI'm just goin' to... Wait here... With my cannons.@§7[1/1] §2Сэт: §a
-§7[1/2] §2Honip: §aHow's work?@§7[1/2] §2Хонип: §a
-§7[2/2] §2Honip: §aDon't think we'll be done with ya once you clean all of this!@§7[2/2] §2Хонип: §a
-§7[1/2] §2Pirate: §a...@§7[1/2] §2Пират: §a
-§7[2/2] §2Pirate: §aOh my god, this is so boring...@§7[2/2] §2Пират: §a
-§7[1/1] §2Pirate: §aWhy did I take this job...@§7[1/1] §2Пират: §a
-§7[1/1] §2Pirate Guard: §aHey! What do you think you're doin'?!@§7[1/1] §2Страж Пират: §a
-§7[1/3] §2Honip: §aSo, there's quite a few bodies in there, and we never bothered throwin' em out!@§7[1/3] §2Хонип: §a
-§7[2/3] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the bodies with it!@§7[2/3] §2Хонип: §a
-§7[1/3] §2Pirate: §aHonip has a pet chicken, weird right?@§7[1/3] §2Пират: §a
-§7[2/3] §2Pirate: §aI bet he got inspiration from that weird guy on his island...@§7[2/3] §2Пират: §a
-§7[3/3] §2Pirate: §aWhat? You murdered that guy's most prized chicken? You're an odd one, soldier.@§7[3/3] §2Пират: §a
+§7[1/4] §2Honip: §aSo, there's quite a few skeletons in there, and we never bothered throwin' em out!@§7[1/4] §2Хонип: §aТак вот, там довольно много скелетов, и мы никогда не утруждали себя их выбрасыванием за борт!
+§7[2/4] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the skeletons with it!@§7[2/4] §2Хонип: §aДавай, вот тебе еще ложка, чтобы оттирать засохшую кровь. Просто три скелетов вместе с ней!
+§7[3/4] §2Honip: §aIf you need me, I'll be on the deck. And, uh, don't go in the hold. We've got a §a§lBIG§a rat problem.@§7[3/4] §2Хонип: §aЕсли понадоблюсь, я буду на палубе. И ух, не заходи в трюм. У нас там §а§lБОЛЬШАЯ§a проблема с крысами.
+§7[4/4] §2Honip: §aAlso, for the sake of my crew, could you be more cooperative? I don't have an unlimited amount of these potions.@§7[4/4] §2Хонип: §aИ еще, ради моей команды, не мог бы ты быть более кооперативным? У меня нет неограниченного количества этих зелий.
+§7[1/1] §2Pirate Guard: §aSoldier? Ya already fixed that cannon, stop that.@§7[1/1] §2Пират: §aСолдат? Ты уже починил эту пушку, оставь ее.
+§7[1/4] §2Honip: §aHey there! Ya bringin' me good news?@§7[1/4] §2Хонип: §aЭй, там! Ты принес мне хорошие новости?
+§7[2/4] §2Honip: §aYou took care of these damn thieving rodents? A... colossal rat you say?@§7[2/4] §2Хонип: §aА ты позаботился об этих проклятых вороватых грызунах? Эм... колоссальная крыса, говоришь?
+§7[3/4] §2Honip: §aNicely done, I knew I could count on ya! C'mere, take these!@§7[3/4] §2Хонип: §aОтлично сработано, я знал, что могу на тебя рассчитывать! Давай, возьми это!
+§7[4/4] §2Honip: §aAnyway, for now, you can go rest and do whatever you want!@§7[4/4] §2Хонип: §aА сейчас ты можешь идти отдыхать и делать все, что захочешь!
+§7[1/1] §2Honip: §a'ey soldier. Enjoying the ride?@§7[1/1] §2Хонип: §aЭй, солдат. Наслаждаешься круизом?
+§7[1/3] §2Pirate: §aHey, so you're our personal guard, huh?@§7[1/3] §2Пират: §aЭй, это ты наш персональный страж, да?
+§7[2/3] §2Pirate: §aNice to meet ya!@§7[2/3] §2Пират: §aРад встрече!
+§7[3/3] §2Pirate: §aThat ladder leads to the hold, but right now it's locked... We've got a severe case of rats.@§7[3/3] §2Пират: §aЛестница ведет в трюм, но сейчас она заперта... У нас там тяжелый случай с крысами.
+§7[1/1] §2Seth: §aI'm just goin' to... Wait here... With my cannons.@§7[1/1] §2Сэт: §aЯ просто собираюсь... Подождать здесь... С моими пушками.
+§7[1/2] §2Honip: §aHow's work?@§7[1/2] §2Хонип: §aКак работа?
+§7[2/2] §2Honip: §aDon't think we'll be done with ya once you clean all of this!@§7[2/2] §2Хонип: §aНе думай, что мы закончим с тобой, как только ты все это уберешь!
+§7[1/2] §2Pirate: §a...@§7[1/2] §2Пират: §a...
+§7[2/2] §2Pirate: §aOh my god, this is so boring...@§7[2/2] §2Пират: §aБоже, это так скучно...
+§7[1/1] §2Pirate: §aWhy did I take this job...@§7[1/1] §2Пират: §aЗачем я выбрал эту работу...
+§7[1/1] §2Pirate Guard: §aHey! What do you think you're doin'?!@§7[1/1] §2Страж Пират: §aЭй! Что это ты собрался сделать?!
+§7[1/3] §2Honip: §aSo, there's quite a few bodies in there, and we never bothered throwin' em out!@§7[1/3] §2Хонип: §aТак вот, там довольно много тел, и мы никогда не утруждали себя их выбрасыванием за борт!
+§7[2/3] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the bodies with it!@§7[2/3] §2Хонип: §aДавай, вот тебе еще губка для засохшей крови. Просто три тела вместе с ней!
+§7[1/3] §2Pirate: §aHonip has a pet chicken, weird right?@§7[1/3] §2Пират: §aУ Хонипа есть питомец курица, странно, правда?
+§7[2/3] §2Pirate: §aI bet he got inspiration from that weird guy on his island...@§7[2/3] §2Пират: §aДержу пари, он черпал вдохновение у того странного парня на своем острове...
+§7[3/3] §2Pirate: §aWhat? You murdered that guy's most prized chicken? You're an odd one, soldier.@§7[3/3] §2Пират: §aЧто? Ты убил самую дорогую курицу этого парня? Странный ты человек, солдат.
 §7[1/2] §2Pirate: §aThe chicken's got quite the agressive personality!@§7[1/2] §2Пират: §a
 §7[2/2] §2Pirate: §aBut maybe you do too. I wouldn't want you near my chickens, if I had any!@§7[2/2] §2Пират: §a
 §7[1/2] §2Pirate: §aI heard what happened, soldier!@§7[1/2] §2Пират: §a
