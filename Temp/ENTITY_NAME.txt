@@ -2,7 +2,7 @@
 §aCrew3§6 [Lv. 100]@ 
 §aThat Which Coalesces§6 [Lv. 105]@ 
 §cDusty Librarian§6 [Lv. 52]@ 
-
+§0ddd@ 
 
 §2(.*) Aledar Cart@§2(r1) Телега Аледара
 §2§aGathering Post §2\[Woodcutting Lv. (\d+)\]@§2§aДоска Сбора §2[Лесорубство Ур. (r1)]
@@ -398,77 +398,76 @@ dust@пыль
 §7Broken Pickaxe@§7Сломанная Кирка
 §8Right-Click to get Item@§8Правый Клик для получения Предмета
 §7Right-Click to@§7Правый Клик для
-§8Drop the Rock
-§cObsessor§6 [Lv. 105]
-§7Insert Key
-§2Right-Click to
-§fGet the §7§l[Unstable Ore]
-§fPlace the §7§l[Magical TNT]
-§7Temple Wolf
-§7boost you up!
-§6Right Click§7 to
-§7Get §e[4 Tokens]
-§7Get §e[24 Tokens]
-§6Left Click§7 to end §cSlykaar!
-§cExit
-§cCorrupted Undergrowth Ruins Key Guardian§6 [Lv. 94]
-§dMiner Pass Merchant
-§7Get §a[1 Toxic Key]
-Gift From Dern
-§6Calling...
-§5§lEldritch Outlook
-§7Level: §f100
-§cRight Click To Break Through
-§eTesla Tower
-§7Right-Click
-§8To get the Body Part
-§7Sound Wave Emitter
-§8Get the Potion
-§cCart§6 [Lv. 2]
-§7Get §e[1 Core Key]
-§7Col§kl§7ect §e6 §7di§kf§7fer§ke§7nt eyes
-§7t§ko§7 open t§kh§7e do§ko§7r
-§c§lHUNT
-§6Eye
-§e§lDreading
-§e§lFearing
-§e§lBlinding
-§e§lShading
-§e§lCrying
-§e§lInfecting
-§7to open the §cexit
-§7Get §6[4 Granitic Keys]
-§e§lBleeding
-§e§lDyeing
-§e§lStalking
-§e§lWatching
-§6Right-Click
-§eto Restart the Wave
-§7§lRestart Escort Mission
-§8Right-Click to
-§eAberrated Lutho Citizen§6 [Lv. 104]
-§cMonster
-§aDernic Fish
-§cKill 1 §6Upside Downer §c to Destroy the Spikes
-§cKill 1 §6Void Demon §cto Destroy the Boulder
-§c§lClick To Break
-§e§lDigesting
-§7Get §6[1 Granitic Key]
-§cMiner§6 [Lv. 1]
-§cMiner Chief§6 [Lv. 1]
-§aBoulder
-§4Pick up a Shard
-§4Repair the Monolith
-§0ddd
-§4Gather §l4 §eExplosive Mass
-§aDernic Seed
-§4Gather §l12 §eExplosive Mass
-§7to shatter the door
-§c§4§lThe Eye§6 [Lv. 110]
-§c§lReset
-§cDeathknell Wretch§6 [Lv. 110]
-§4§l[10s]
-§4§l[9s]
-§4§l[8s]
-§4§l[7s]
-§4§l[6s]
+§8Drop the Rock@§8DБросить Камень
+§cObsessor§6 [Lv. 105]@§cМучитель§6 [Ур. 105]
+§7Insert Key@§7Вставить Ключ
+§2Right-Click to@§2Правый Клик для
+§fGet the §7§l[Unstable Ore]@§fДобычи §7§l[Нестабильной Руды]
+§fPlace the §7§l[Magical TNT]@§fУстановки §7§l[Магического Динамита]
+§7Temple Wolf@§7Храм Волков
+§7boost you up!@§7поднятия тебя вверх!
+§6Right Click§7 to@§6Правый Клик§7 для
+§7Get §e[4 Tokens]@§7Добудь §e[4 Жетона]
+§7Get §e[24 Tokens]@§7Добудь §e[24 Жетона]
+§6Left Click§7 to end §cSlykaar!@§6Левый Клик§7 для убийства §cСлайкаара!
+§cExit@§cВыход
+§cCorrupted Undergrowth Ruins Key Guardian§6 [Lv. 94]@§cЗащитник Ключа от Испорченных Заросших Руин§6 [Ур. 94]
+§dMiner Pass Merchant@§dТорговец Пропусками в Шахту
+§7Get §a[1 Toxic Key]@§7Добудь §a[1 Токсичный Ключ]
+Gift From Dern@Подарок из Дерна
+§6Calling...@§6Вызов...
+§5§lEldritch Outlook@§5§lЖуткий Наблюдатель
+§7Level: §f100@§7Уровень: §f100
+§cRight Click To Break Through@§cПравый Клик для Прохода Сквозь
+§eTesla Tower@§eБашня Тесла
+§7Right-Click@§7Правый Клик
+§8To get the Body Part@§8Для взятия Частей Тела
+§7Sound Wave Emitter@§7Излучатель Звуковых Волн
+§8Get the Potion@§8Взять Зелье
+§cCart§6 [Lv. 2]@§cТелега§6 [Ур. 2]
+§7Get §e[1 Core Key]@§7Добудь §e[1 Основной Ключ]
+§7Col§kl§7ect §e6 §7di§kf§7fer§ke§7nt eyes@§7Соб§kе§7ри §e6 §7раз§kли§7чн§kы§7х глаз
+§7t§ko§7 open t§kh§7e do§ko§7r@§7дл§kя§7 от§kкр§7ытия две§kр§7и
+§c§lHUNT@§c§lОХОТА
+§6Eye@§6Глаз
+§e§lDreading@
+§e§lFearing@
+§e§lBlinding@
+§e§lShading@
+§e§lCrying@
+§e§lInfecting@
+§7to open the §cexit@
+§7Get §6[4 Granitic Keys]@
+§e§lBleeding@
+§e§lDyeing@
+§e§lStalking@
+§e§lWatching@
+§6Right-Click@
+§eto Restart the Wave@
+§7§lRestart Escort Mission@
+§8Right-Click to@
+§eAberrated Lutho Citizen§6 [Lv. 104]@
+§cMonster@
+§aDernic Fish@
+§cKill 1 §6Upside Downer §c to Destroy the Spikes@
+§cKill 1 §6Void Demon §cto Destroy the Boulder@
+§c§lClick To Break@
+§e§lDigesting@
+§7Get §6[1 Granitic Key]@
+§cMiner§6 [Lv. 1]@
+§cMiner Chief§6 [Lv. 1]@
+§aBoulder@
+§4Pick up a Shard@
+§4Repair the Monolith@
+§4Gather §l4 §eExplosive Mass@
+§aDernic Seed@
+§4Gather §l12 §eExplosive Mass@
+§7to shatter the door@
+§c§4§lThe Eye§6 [Lv. 110]@
+§c§lReset@
+§cDeathknell Wretch§6 [Lv. 110]@
+§4§l[10s]@
+§4§l[9s]@
+§4§l[8s]@
+§4§l[7s]@
+§4§l[6s]@
