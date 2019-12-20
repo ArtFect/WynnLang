@@ -380,10 +380,6 @@
 §7\[1\/5\] §2Korzim: §a(.*)... This... This used to be...a Dogun town. The Dwarves rendered it barren.@§7[1/5] §2Korzim: §a(r1)...Это... Это место было...городом Догунов. Гномы сделали его безжизненным.
 §7\[2\/4\] §2Sanba: §aHere is the staff, (.*). Keep it safe, and don't you go dying on us.@§7[2/4] §2Sanba: §aВот предмет, (r1). Береги его и не вздумай умирать.
 
-§7\[2\/4\] §2Axelus: §a(.*), the negotiations didn't go so well. I might need your help here.@§7[2/4] §2Axelus: §a(r1), переговоры прошли не очень хорошо. Мне может понадобиться твоя помощь здесь.
-§7\[2\/2\] §2Axelus: §a(.*) we gotta get out of here, right now! Meet me outside!@§7[2/2] §2Axelus: §a(r1) мы должны убираться отсюда, прямо сейчас! Встретимся снаружи!
-§7\[1\/3\] §2Axelus: §a(.*), over here, to your right. I've... borrowed this cannon.@§7[1/3] §2Axelus: §a(r1), сюда, справа от тебя. Я... позаимствовал эту пушку.
-
 §7\[5\/14\] §2Old Man Martyn: §a(.*), I'm sorry I got you dragged into this. I wish I could have done it myself.@§7[5/14] §2Old Man Martyn: §a(r1), прости, что втянул тебя во все это. Хотел бы я сделать это все сам.
 §7\[10\/14\] §2Old Man Martyn: §a(.*), I'm sure we will meet again... in time.@§7[10/14] §2Old Man Martyn: §a(r1), уверен, мы еще встретимся... во времени.
 
