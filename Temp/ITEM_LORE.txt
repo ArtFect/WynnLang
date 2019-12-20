@@ -48,65 +48,65 @@
 §c✖ Lv. 20: §f4§7 Oat String§f Ⓙ@§c✖ Ур. 20: §f4§7 Овсяных Нити§f Ⓙ
 §c✖ Lv. 20: §f2§7 Oat String§f Ⓙ@§c✖ Ур. 20: §f2§7 Овсяных Нити§f Ⓙ
 §a✔ Lv. 20: §f4§7 Oat String§f Ⓙ@§a✔ Ур. 20: §f4§7 Овсяных Нити§f Ⓙ
-§a✔ Lv. 20: §f2§7 Oat String§f Ⓙ
-            §f2§7 Oat Grains§f Ⓙ
-            §f4§7 Oat Grains§f Ⓙ
-§c✖ Lv. 30: §f3§7 Sandstone Ingot§f Ⓑ
-§c✖ Lv. 30: §f6§7 Sandstone Ingot§f Ⓑ
-§a✔ Lv. 30: §f3§7 Sandstone Ingot§f Ⓑ
-§a✔ Lv. 30: §f6§7 Sandstone Ingot§f Ⓑ
-§c✖ Lv. 30: §f3§7 Sandstone Gem§f Ⓑ
-            §f6§7 Malt String§f Ⓙ
-            §f3§7 Malt String§f Ⓙ
-§a✔ Lv. 30: §f6§7 Malt String§f Ⓙ
-§a✔ Lv. 30: §f3§7 Malt String§f Ⓙ
-§c✖ Lv. 30: §f6§7 Malt String§f Ⓙ
-§c✖ Lv. 30: §f3§7 Malt String§f Ⓙ
-            §f4§7 Willow Wood§f Ⓒ
-            §f2§7 Willow Wood§f Ⓒ
-            §f2§7 Willow Paper§f Ⓒ
-            §f4§7 Willow Paper§f Ⓒ
-            §f6§7 Acacia Wood§f Ⓒ
-            §f3§7 Acacia Wood§f Ⓒ
-            §f6§7 Acacia Paper§f Ⓒ
-            §f3§7 Acacia Paper§f Ⓒ
-§c✖ Lv. 20: §f4§7 Salmon Oil§f Ⓚ
-§c✖ Lv. 20: §f2§7 Salmon Oil§f Ⓚ
-            §f2§7 Salmon Oil§f Ⓚ
-            §f4§7 Salmon Oil§f Ⓚ
-            §f6§7 Salmon Oil§f Ⓚ
-§a✔ Lv. 20: §f4§7 Salmon Oil§f Ⓚ
-§c✖ Lv. 20: §f4§7 Salmon Meat§f Ⓚ
-§c✖ Lv. 40: §f3§7 Iron Ingot§f Ⓑ
-§c✖ Lv. 40: §f6§7 Iron Ingot§f Ⓑ
-§a✔ Lv. 40: §f3§7 Iron Ingot§f Ⓑ
-§a✔ Lv. 40: §f6§7 Iron Ingot§f Ⓑ
-            §f6§7 Spruce Wood§f Ⓒ
-            §f3§7 Spruce Wood§f Ⓒ
-            §f3§7 Carp Oil§f Ⓚ
-            §f6§7 Carp Oil§f Ⓚ
-            §f9§7 Carp Oil§f Ⓚ
-§a✔ Lv. 30: §f6§7 Carp Oil§f Ⓚ
-§c✖ Lv. 30: §f6§7 Carp Oil§f Ⓚ
-§c✖ Lv. 40: §f6§7 Hops String§f Ⓙ
-§c✖ Lv. 40: §f3§7 Hops String§f Ⓙ
-§a✔ Lv. 40: §f6§7 Hops String§f Ⓙ
-§a✔ Lv. 40: §f3§7 Hops String§f Ⓙ
-§c✖ Lv. 40: §f6§7 Icefish Oil§f Ⓚ
-§a✔ Lv. 40: §f6§7 Icefish Oil§f Ⓚ
-§a✔ Lv. 50: §f4§7 Silver Ingot§f Ⓑ
-§a✔ Lv. 50: §f8§7 Silver Ingot§f Ⓑ
-§c✖ Lv. 50: §f4§7 Silver Ingot§f Ⓑ
-§c✖ Lv. 50: §f8§7 Silver Ingot§f Ⓑ
-            §f8§7 Jungle Wood§f Ⓒ
-            §f4§7 Jungle Wood§f Ⓒ
-§c✖ Lv. 60: §f4§7 Cobalt Ingot§f Ⓑ
-§c✖ Lv. 60: §f8§7 Cobalt Ingot§f Ⓑ
-            §f8§7 Dark Wood§f Ⓒ
-            §f4§7 Dark Wood§f Ⓒ
-§c✖ Lv. 50: §f8§7 Rye String§f Ⓙ
-§c✖ Lv. 50: §f4§7 Rye String§f Ⓙ
-§c✖ Lv. 50: §f8§7 Piranha Oil§f Ⓚ
+§a✔ Lv. 20: §f2§7 Oat String§f Ⓙ@§a✔ Ур. 20: §f2§7 Овсяных Нити§f Ⓙ
+            §f2§7 Oat Grains§f Ⓙ@            §f2§7 Овсяного Зерна§f Ⓙ
+            §f4§7 Oat Grains§f Ⓙ@            §f4§7 Овсяного Зерна§f Ⓙ
+§c✖ Lv. 30: §f3§7 Sandstone Ingot§f Ⓑ@§c✖ Ур. 30: §f3§7 Песчаных Слитка§f Ⓑ
+§c✖ Lv. 30: §f6§7 Sandstone Ingot§f Ⓑ@§c✖ Ур. 30: §f6§7 Песчаных Слитков§f Ⓑ
+§a✔ Lv. 30: §f3§7 Sandstone Ingot§f Ⓑ@§a✔ Ур. 30: §f3§7 Песчаных Слитка§f Ⓑ
+§a✔ Lv. 30: §f6§7 Sandstone Ingot§f Ⓑ@§a✔ Ур. 30: §f6§7 Песчаных Слитков§f Ⓑ
+§c✖ Lv. 30: §f3§7 Sandstone Gem§f Ⓑ@§c✖ Ур. 30: §f3§7 Песчаных Камня§f Ⓑ
+            §f6§7 Malt String§f Ⓙ@            §f6§7 Солодовых Нитей§f Ⓙ
+            §f3§7 Malt String§f Ⓙ@            §f3§7 Солодовых Нити§f Ⓙ
+§a✔ Lv. 30: §f6§7 Malt String§f Ⓙ@§a✔ Ур. 30: §f6§7 Солодовых Нитей§f Ⓙ
+§a✔ Lv. 30: §f3§7 Malt String§f Ⓙ@§a✔ Ур. 30: §f3§7 Солодовых Нити§f Ⓙ
+§c✖ Lv. 30: §f6§7 Malt String§f Ⓙ@§c✖ Ур. 30: §f6§7 Солодовых Нитей§f Ⓙ
+§c✖ Lv. 30: §f3§7 Malt String§f Ⓙ@§c✖ Ур. 30: §f3§7 Солодовых Нити§f Ⓙ
+            §f4§7 Willow Wood§f Ⓒ@            §f4§7 Древесины Ивы§f Ⓒ
+            §f2§7 Willow Wood§f Ⓒ@            §f2§7 Древесины Ивы§f Ⓒ
+            §f2§7 Willow Paper§f Ⓒ@            §f2§7 Ивовой Бумаги§f Ⓒ
+            §f4§7 Willow Paper§f Ⓒ@            §f4§7 Ивовой Бумаги§f Ⓒ
+            §f6§7 Acacia Wood§f Ⓒ@            §f6§7 Древесины Акации§f Ⓒ
+            §f3§7 Acacia Wood§f Ⓒ@            §f3§7 Древесины Акации§f Ⓒ
+            §f6§7 Acacia Paper§f Ⓒ@            §f6§7 Акациевой Бумаги§f Ⓒ
+            §f3§7 Acacia Paper§f Ⓒ@            §f3§7 Акациевой Бумаги§f Ⓒ
+§c✖ Lv. 20: §f4§7 Salmon Oil§f Ⓚ@§c✖ Ур. 20: §f4§7 Жира Лосося§f Ⓚ
+§c✖ Lv. 20: §f2§7 Salmon Oil§f Ⓚ@§c✖ Ур. 20: §f2§7 Жира Лосося§f Ⓚ
+            §f2§7 Salmon Oil§f Ⓚ@            §f2§7 Жира Лосося§f Ⓚ
+            §f4§7 Salmon Oil§f Ⓚ@            §f4§7 Жира Лосося§f Ⓚ
+            §f6§7 Salmon Oil§f Ⓚ@            §f6§7 Жира Лосося§f Ⓚ
+§a✔ Lv. 20: §f4§7 Salmon Oil§f Ⓚ@§a✔ Ур. 20: §f4§7 Жира Лосося§f Ⓚ
+§c✖ Lv. 20: §f4§7 Salmon Meat§f Ⓚ@§c✖ Ур. 20: §f4§7 Мяса Лосося§f Ⓚ
+§c✖ Lv. 40: §f3§7 Iron Ingot§f Ⓑ@§c✖ Ур. 40: §f3§7 Железных Слитка§f Ⓑ
+§c✖ Lv. 40: §f6§7 Iron Ingot§f Ⓑ@§c✖ Ур. 40: §f6§7 Железных Слитка§f Ⓑ
+§a✔ Lv. 40: §f3§7 Iron Ingot§f Ⓑ@§a✔ Ур. 40: §f3§7 Железных Слитка§f Ⓑ
+§a✔ Lv. 40: §f6§7 Iron Ingot§f Ⓑ@§a✔ Ур. 40: §f6§7 Железных Слитка§f Ⓑ
+            §f6§7 Spruce Wood§f Ⓒ@            §f6§7 Древесины Ели§f Ⓒ
+            §f3§7 Spruce Wood§f Ⓒ@            §f3§7 Древесины Ели§f Ⓒ
+            §f3§7 Carp Oil§f Ⓚ@            §f3§7 Жира Карпа§f Ⓚ
+            §f6§7 Carp Oil§f Ⓚ@            §f6§7 Жира Карпа§f Ⓚ
+            §f9§7 Carp Oil§f Ⓚ@            §f9§7 Жира Карпа§f Ⓚ
+§a✔ Lv. 30: §f6§7 Carp Oil§f Ⓚ@§a✔ Ур. 30: §f6§7 Жира Карпа§f Ⓚ
+§c✖ Lv. 30: §f6§7 Carp Oil§f Ⓚ@§c✖ Ур. 30: §f6§7 Жира Карпа§f Ⓚ
+§c✖ Lv. 40: §f6§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f6§7 Хмельных Нитей§f Ⓙ
+§c✖ Lv. 40: §f3§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f3§7 Хмельных Нитей§f Ⓙ
+§a✔ Lv. 40: §f6§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f6§7 Хмельных Нитей§f Ⓙ
+§a✔ Lv. 40: §f3§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f3§7 Хмельных Нитей§f Ⓙ
+§c✖ Lv. 40: §f6§7 Icefish Oil§f Ⓚ@§c✖ Ур. 40: §f6§7 Жира Щуки§f Ⓚ
+§a✔ Lv. 40: §f6§7 Icefish Oil§f Ⓚ@§a✔ Ур. 40: §f6§7 Жира Щуки§f Ⓚ
+§a✔ Lv. 50: §f4§7 Silver Ingot§f Ⓑ@§a✔ Ур. 50: §f4§7 Серебрянных Слитка§f Ⓑ
+§a✔ Lv. 50: §f8§7 Silver Ingot§f Ⓑ@§a✔ Ур. 50: §f8§7 Серебрянных Слитков§f Ⓑ
+§c✖ Lv. 50: §f4§7 Silver Ingot§f Ⓑ@§c✖ Ур. 50: §f4§7 Серебрянных Слитка§f Ⓑ
+§c✖ Lv. 50: §f8§7 Silver Ingot§f Ⓑ@§c✖ Ур. 50: §f8§7 Серебрянных Слитков§f Ⓑ
+            §f8§7 Jungle Wood§f Ⓒ@            §f8§7 Древесины Амаранта§f Ⓒ
+            §f4§7 Jungle Wood§f Ⓒ@            §f4§7 Древесины Амаранта§f Ⓒ
+§c✖ Lv. 60: §f4§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f4§7 Кобальтовых Слитка§f Ⓑ
+§c✖ Lv. 60: §f8§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f8§7 Кобальтовых Слитка§f Ⓑ
+            §f8§7 Dark Wood§f Ⓒ@            §f8§7 Древесины Каштана§f Ⓒ
+            §f4§7 Dark Wood§f Ⓒ@            §f4§7 Древесины Каштана§f Ⓒ
+§c✖ Lv. 50: §f8§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f8§7 Ржаных Нитей§f Ⓙ
+§c✖ Lv. 50: §f4§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f4§7 Ржаных Нити§f Ⓙ
+§c✖ Lv. 50: §f8§7 Piranha Oil§f Ⓚ@§c✖ Ур. 50: §f8§7 Жира Пираньи§f Ⓚ
 
 §7Escape the first room of 
 §7Togak's dungeon 
