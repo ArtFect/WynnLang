@@ -1,54 +1,53 @@
-
-          §f2§7 Wheat String§f Ⓙ
-          §f1§7 Wheat String§f Ⓙ
-          §f1§7 Wheat Grains§f Ⓙ
-		    §f4§7 Barley String§f Ⓙ
-            §f2§7 Barley String§f Ⓙ
-            §f2§7 Barley Grains§f Ⓙ
-§a✔ Lv. 10: §f4§7 Barley String§f Ⓙ
-§a✔ Lv. 10: §f2§7 Barley String§f Ⓙ
-§a✔ Lv. 1: §f1§7 Copper Gem§f Ⓑ
-          §f1§7 Gudgeon Oil§f Ⓚ
-          §f2§7 Gudgeon Oil§f Ⓚ
-          §f3§7 Gudgeon Oil§f Ⓚ
-§a✔ Lv. 1: §f2§7 Gudgeon Meat§f Ⓚ
-§c✖ Lv. 10: §f2§7 Granite Gem§f Ⓑ
-§a✔ Lv. 10: §f2§7 Granite Gem§f Ⓑ
-§a✔ Lv. 10: §f2§7 Granite Ingot§f Ⓑ
-§a✔ Lv. 10: §f4§7 Granite Ingot§f Ⓑ
-            §f2§7 Trout Oil§f Ⓚ
-            §f4§7 Trout Oil§f Ⓚ
-            §f6§7 Trout Oil§f Ⓚ
-§a✔ Lv. 10: §f4§7 Trout Oil§f Ⓚ
-§a✔ Lv. 10: §f2§7 Trout Oil§f Ⓚ
-§c✖ Lv. 10: §f4§7 Trout Meat§f Ⓚ
-§a✔ Lv. 10: §f4§7 Trout Meat§f Ⓚ
-§a✔ Lv. 70: §f10§7 Decay String§f Ⓙ
-§a✔ Lv. 70: §f5§7 Decay String§f Ⓙ
-            §f5§7 Light Wood§f Ⓒ
-            §f10§7 Light Wood§f Ⓒ
-§a✔ Lv. 80: §f10§7 Rice String§f Ⓙ
-§a✔ Lv. 80: §f5§7 Rice String§f Ⓙ
-            §f5§7 Pine Wood§f Ⓒ
-            §f10§7 Pine Wood§f Ⓒ
-§c✖ Lv. 90: §f12§7 Sorghum String§f Ⓙ
-§c✖ Lv. 90: §f6§7 Sorghum String§f Ⓙ
-            §f6§7 Avo Wood§f Ⓒ
-            §f12§7 Avo Wood§f Ⓒ
-§a✔ Lv. 70: §f10§7 Gylia Oil§f Ⓚ
-§a✔ Lv. 80: §f10§7 Bass Oil§f Ⓚ
-§c✖ Lv. 90: §f12§7 Molten Oil§f Ⓚ
-§a✔ Lv. 20: §f2§7 Gold Ingot§f Ⓑ
-§a✔ Lv. 20: §f4§7 Gold Ingot§f Ⓑ
-§c✖ Lv. 20: §f2§7 Gold Ingot§f Ⓑ
-§c✖ Lv. 20: §f4§7 Gold Ingot§f Ⓑ
-§a✔ Lv. 20: §f2§7 Gold Gem§f Ⓑ
-§c✖ Lv. 20: §f2§7 Gold Gem§f Ⓑ
-            §f4§7 Oat String§f Ⓙ
-            §f2§7 Oat String§f Ⓙ
-§c✖ Lv. 20: §f4§7 Oat String§f Ⓙ
-§c✖ Lv. 20: §f2§7 Oat String§f Ⓙ
-§a✔ Lv. 20: §f4§7 Oat String§f Ⓙ
+          §f2§7 Wheat String§f Ⓙ@          §f2§7 Пшеничных Нити§f Ⓙ
+          §f1§7 Wheat String§f Ⓙ@          §f1§7 Пшеничная Нить§f Ⓙ
+          §f1§7 Wheat Grains§f Ⓙ@          §f1§7 Пшеничное Зерно§f Ⓙ
+	    §f4§7 Barley String§f Ⓙ@	        §f4§7 Ячменных Нити§f Ⓙ
+            §f2§7 Barley String§f Ⓙ@            §f2§7 Ячменных Нити§f Ⓙ
+            §f2§7 Barley Grains§f Ⓙ@            §f2§7 Ячменных Зерна§f Ⓙ
+§a✔ Lv. 10: §f4§7 Barley String§f Ⓙ@§a✔ Ур. 10: §f4§7 Ячменных Нити§f Ⓙ
+§a✔ Lv. 10: §f2§7 Barley String§f Ⓙ@§a✔ Ур. 10: §f2§7 Ячменных Нити§f Ⓙ
+§a✔ Lv. 1: §f1§7 Copper Gem§f Ⓑ@§a✔ Ур. 1: §f1§7 Медный Камень§f Ⓑ
+          §f1§7 Gudgeon Oil§f Ⓚ@          §f1§7 Жир Пескаря§f Ⓚ
+          §f2§7 Gudgeon Oil§f Ⓚ@          §f2§7 Жира Пескаря§f Ⓚ
+          §f3§7 Gudgeon Oil§f Ⓚ@          §f3§7 Жира Пескаря§f Ⓚ
+§a✔ Lv. 1: §f2§7 Gudgeon Meat§f Ⓚ@§a✔ Ур. 1: §f2§7 Мяса Пескаря§f Ⓚ
+§c✖ Lv. 10: §f2§7 Granite Gem§f Ⓑ@§c✖ Ур. 10: §f2§7 Гранитных Камня§f Ⓑ
+§a✔ Lv. 10: §f2§7 Granite Gem§f Ⓑ@§a✔ Ур. 10: §f2§7 Гранитных Камня§f Ⓑ
+§a✔ Lv. 10: §f2§7 Granite Ingot§f Ⓑ@§a✔ Ур. 10: §f2§7 Гранитных Слитка§f Ⓑ
+§a✔ Lv. 10: §f4§7 Granite Ingot§f Ⓑ@§a✔ Ур. 10: §f4§7 Гранитных Слитка§f Ⓑ
+            §f2§7 Trout Oil§f Ⓚ@            §f2§7 Жира Форели§f Ⓚ
+            §f4§7 Trout Oil§f Ⓚ@            §f4§7 Жира Форели§f Ⓚ
+            §f6§7 Trout Oil§f Ⓚ@            §f6§7 Жира Форели§f Ⓚ
+§a✔ Lv. 10: §f4§7 Trout Oil§f Ⓚ@§a✔ Ур. 10: §f4§7 Жира Форели§f Ⓚ
+§a✔ Lv. 10: §f2§7 Trout Oil§f Ⓚ@§a✔ Ур. 10: §f2§7 Жира Форели§f Ⓚ
+§c✖ Lv. 10: §f4§7 Trout Meat§f Ⓚ@§c✖ Ур. 10: §f4§7 Мяса Форели§f Ⓚ
+§a✔ Lv. 10: §f4§7 Trout Meat§f Ⓚ@§a✔ Ур. 10: §f4§7 Мяса Форели§f Ⓚ
+§a✔ Lv. 70: §f10§7 Decay String§f Ⓙ@§a✔ Ур. 70: §f10§7 Зараженных Нитей§f Ⓙ
+§a✔ Lv. 70: §f5§7 Decay String§f Ⓙ@§a✔ Ур. 70: §f5§7 Зараженных Нитей§f Ⓙ
+            §f5§7 Light Wood§f Ⓒ@            §f5§7 Древесины Клена§f Ⓒ
+            §f10§7 Light Wood§f Ⓒ@            §f10§7 Древесины Клена§f Ⓒ
+§a✔ Lv. 80: §f10§7 Rice String§f Ⓙ@§a✔ Ур. 80: §f10§7 Рисовых Нитей§f Ⓙ
+§a✔ Lv. 80: §f5§7 Rice String§f Ⓙ@§a✔ Ур. 80: §f5§7 Рисовых Нитей§f Ⓙ
+            §f5§7 Pine Wood§f Ⓒ@            §f5§7 Древесины Сосны§f Ⓒ
+            §f10§7 Pine Wood§f Ⓒ@            §f10§7 Древесины Сосны§f Ⓒ
+§c✖ Lv. 90: §f12§7 Sorghum String§f Ⓙ@§c✖ Ур. 90: §f12§7 Сорго Нитей§f Ⓙ
+§c✖ Lv. 90: §f6§7 Sorghum String§f Ⓙ@§c✖ Ур. 90: §f6§7 Сорго Нитей§f Ⓙ
+            §f6§7 Avo Wood§f Ⓒ@            §f6§7 Древесины Авокадо§f Ⓒ
+            §f12§7 Avo Wood§f Ⓒ@            §f12§7 Древесины Авокадо§f Ⓒ
+§a✔ Lv. 70: §f10§7 Gylia Oil§f Ⓚ@§a✔ Ур. 70: §f10§7 Жира Гилия§f Ⓚ
+§a✔ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§a✔ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
+§c✖ Lv. 90: §f12§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f12§7 Жира Угря§f Ⓚ
+§a✔ Lv. 20: §f2§7 Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f2§7 Золотых Слитка§f Ⓑ
+§a✔ Lv. 20: §f4§7 Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f4§7 Золотых Слитка§f Ⓑ
+§c✖ Lv. 20: §f2§7 Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f2§7 Золотых Слитка§f Ⓑ
+§c✖ Lv. 20: §f4§7 Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f4§7 Золотых Слитка§f Ⓑ
+§a✔ Lv. 20: §f2§7 Gold Gem§f Ⓑ@§a✔ Ур. 20: §f2§7 Золотых Камня§f Ⓑ
+§c✖ Lv. 20: §f2§7 Gold Gem§f Ⓑ@§c✖ Ур. 20: §f2§7 Золотых Камня§f Ⓑ
+            §f4§7 Oat String§f Ⓙ@            §f4§7 Овсяных Нити§f Ⓙ
+            §f2§7 Oat String§f Ⓙ@            §f2§7 Овсяных Нити§f Ⓙ
+§c✖ Lv. 20: §f4§7 Oat String§f Ⓙ@§c✖ Ур. 20: §f4§7 Овсяных Нити§f Ⓙ
+§c✖ Lv. 20: §f2§7 Oat String§f Ⓙ@§c✖ Ур. 20: §f2§7 Овсяных Нити§f Ⓙ
+§a✔ Lv. 20: §f4§7 Oat String§f Ⓙ@§a✔ Ур. 20: §f4§7 Овсяных Нити§f Ⓙ
 §a✔ Lv. 20: §f2§7 Oat String§f Ⓙ
             §f2§7 Oat Grains§f Ⓙ
             §f4§7 Oat Grains§f Ⓙ
