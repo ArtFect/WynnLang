@@ -1,2 +1,44 @@
 §e(.*) friends \((.*)\): (.*)@§e(r1)'а друзья ((r2)): (r3)
 §6#(\d+)§f ([a-zA-Z0-9_]{1,16})§8 - §7(\d+) XP§8 - §7(\d+)²§8 - §7Joined (.*)@§6#(r1)§f (r2)§8 - §7(r3) XP§8 - §7(r4)²§8 - §7Принят (r5)
+§cThe server is restarting in (\d+) seconds.@§cСервер перезагрузится через (r1) секунд
+§cThe server is restarting in (\d+) minutes.@§cСервер перезагрузится через (r1) минут
+(.*) for (.*) seconds\]@(r1) на (r2) секунд]
+§b(.*)§7 gave you §c\[\+(.*)\].@§b(r1)§7 дал тебе §c[+(r2)].
+§b(.*)§7 gave you §b\+3 minutes§7 speed boost.@§b(r1)§7 дал тебе §b+3 минуты§7 буста скорости.
+§c\[(.*)\] §bCleared §7all potion effects §bRemoved §7all fire.@§c[(r1)] §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
+§c\[(.*)\] §bRemoved §7all fire.@§c[(r1)] §bУбран §7весь огонь.
+§c\[(.*)\] §bCleared §7all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
+§b(.*)§7 has given you §b(.*)% resistance§7.@§b(r1)§7 дал тебе §b(r2)% защиты§7.
+(.*) has given you 20% resistance and 10% strength.@§b(r1) §7дал тебе §b20% к сопротивлению и 10% к силе.
+§4You still have (\d+) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
+§6(.*) is now level (\d+) in (.*)@§6(r1) достиг (r2) уровня в §6(r3)
+§4This potion is for Combat Lv. (\d+)\+ only.@§4Это зелье только для (r1)+ Комбат Уровня.
+§4This item is for Combat Lv. (.*)\+ only.@§4Этот предмет только для Комбат Ур. (r1)+.
+(.*) is for combat level (.*) only.@(r1) §4только для уровней (r2)
+§c(.*)§4 requires your defence skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Защита было не менее §c(r2).
+§c(.*)§4 requires your strength skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Сила было не менее §c(r2).
+§c(.*)§4 requires your dexterity skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Точность было не менее §c(r2).
+§c(.*)§4 requires your intelligence skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Интеллект было не менее §c(r2).
+§c(.*)§4 requires your agility skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Ловкость было не менее §c(r2).
+§4This item requires your defence skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Защита было не менее §c(r2).
+§4This item requires your strength skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Сила было не менее §c(r2).
+§4This item requires your dexterity skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Точность было не менее §c(r2).
+§4This item requires your intelligence skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Интеллект было не менее §c(r2).
+§4This item requires your agility skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Ловкость было не менее §c(r2).
+§7\[New Quest Started: (.*)\]@§7[Начат новый квест: (r1)]
+§5Blacksmith: §dYou sold me: (.*) for a total of §e(\d+)§d emeralds. It was a pleasure doing business with you.@§5Кузнец: §dТы продал мне (r1) за §e(r2)§d эмеральдов. Было приятно иметь с тобой дело.
+§5Blacksmith: §dYou scrapped: (.*) for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) в общей сумме на §e(r2)§d скрапа. Было приятно иметь с тобой дело.
+§5Blacksmith: §dYou scrapped: (.*) and (.*) for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) и (r2) в общей сумме на §e(r3)§d скрапа. Было приятно иметь с тобой дело.
+§5(.*): §dThank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
+§5(.*): §dI'm afraid you cannot afford that item.@§5(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
+§5(.*): §dI'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
+(.*) has just logged in!@(r1) только что зашел!
+(.*) has logged into server (.*) as §(b|a)a Warrior@(r1) зашел на сервер (r2) классом §(r3)Воин
+(.*) has logged into server (.*) as §(b|a)a Knight@(r1) зашел на сервер (r2) классом §(r3)Рыцарь
+(.*) has logged into server (.*) as §(b|a)an Archer@(r1) зашел на сервер (r2) классом §(r3)Лучник
+(.*) has logged into server (.*) as §(b|a)a Dark Wizard@(r1) зашел на сервер (r2) классом §(r3)Темный Волшебник
+(.*) has logged into server (.*) as §(b|a)a Mage@(r1) зашел на сервер (r2) классом §(r3)Маг
+(.*) has logged into server (.*) as §(b|a)an Assassin@(r1) зашел на сервер (r2) классом §(r3)Ассасин
+(.*) has logged into server (.*) as §(b|a)a Hunter@(r1) зашел на сервер (r2) классом §(r3)Охотник
+(.*) has logged into server (.*) as §(b|a)a Ninja@(r1) зашел на сервер (r2) классом §(r3)Ниндзя
+§(e|a)([a-zA-Z0-9_]{1,16}) left the game.@§(r1)(r2) покинул игру.
