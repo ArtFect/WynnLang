@@ -23,8 +23,6 @@
 §6\[Info\] §eWatch your personal progress at §6(.*)§e!@§6[Инфо] §eСмотри свою персональную статистику на §6(r1)§e!
 §6\[Info\] §eLook at your own personal stats at §6(.*)§e!@§6[§eИнфо§6] §eПосмотри свою персональную статистику на §6(r1)§e!
 §4(.*)§c is currently on server (.*)@§4(r1)§c сейчас на сервере (r2)
-§b(.*)§7 gave you §c\[\+(.*)\].@§b(r1)§7 дал тебе §c[+(r2)].
-§b(.*)§7 gave you §b\+3 minutes§7 speed boost.@§b(r1)§7 дал тебе §b+3 минуты§7 буста скорости.
 §8\[§7\!§8\] §7Congratulations to §f(.*)§7 for reaching combat §flevel (.*)§7\!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) комбат уровня§7!
 §3\[Parkour\] §bCongratulations! §3([a-zA-Z0-9_]{1,16})§b finished the parkour in §3(.*) seconds§b!@§3[Паркур] §bПоздравляем! §3(r1)§b закончил паркур за §3(r2) секунд§b!
 §5Key Collector: §dYou do not yet have a high enough combat level to access this dungeon. Come back when you're at least combat level (.*).@§5Сборщик Ключей: §dУ тебя недостаточный комбат уровень для доступа в этот данж. Возвращайся, когда будешь (r1) комбат уровня.
@@ -32,38 +30,22 @@
 §9(.*) would like to duel! Type §6(.*)§9 to accept.@§b(r1) хочет дуэли с тобой! Напиши §6(r2)§9 для принятия.
 §7\[Questline Started: (.*)\]@§7[Начата серия квестов: (r1)]
 §a§l\[Mini-Quest Started: (.*)\]@§a[Начат новый мини-квест: (r1)]
-§6(.*) is now level (\d+) in (.*)@§6(r1) достиг (r2) уровня в §6(r3)
 §7\[You have received (\d+) soul points while you were offline\]@§7[Ты заработал (r1) очков душ, пока был не в сети]
 (.*) Experience Points@(r1) Очков опыта
 (.*) §7\+(.*) Emeralds@(r1) §7+(r2) Эмеральдов
 §7\+1 Maximum Soul Points §8\[Total: (\d+)\]@§7+1 к максимуму числа душ §8[Всего: (r1)]
-§(e|a)([a-zA-Z0-9_]{1,16}) left the game.@§(r1)(r2) покинул игру.
 §5([a-zA-Z0-9_]{1,16}) would like to trade! Type §6/trade ([a-zA-Z0-9_]{1,16})§5 to accept.@§5(r1) хотел бы поторговать с тобой! Напиши §6/trade (r2) §5для принятия.
 §4([a-zA-Z0-9_]{1,16}) has already claimed this loot chest!@§4(r1) уже забрал этот сундук с лутом!
-§4You still have (\d+) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
 §7([a-zA-Z0-9_]{1,16}) has gotten a (.*)§7 from their crate. Buy your own at §7wynncraft.com\/store@§7(r1) получил (r2)§7 из своего контейнера. Купи свой собственный на §7wynncraft.com/store
-§4This potion is for Combat Lv. (\d+)\+ only.@§4Это зелье только для (r1)+ Комбат Уровня.
 §cYou are no longer tracking (.*)@§cТы больше не отслеживаешь (r1)
 §4You need §c(\d+)§4 more levels before you can unlock this page of the bank@§4Тебе нужно еще §c(r1)§4 уровней, прежде чем ты сможешь разблокировать эту страницу банка
-§5Blacksmith: §dYou sold me: (.*) for a total of §e(\d+)§d emeralds. It was a pleasure doing business with you.@§5Кузнец: §dТы продал мне (r1) за §e(r2)§d эмеральдов. Было приятно иметь с тобой дело.
-§cThe server is restarting in (\d+) seconds.@§cСервер перезагрузится через (r1) секунд
-§cThe server is restarting in (\d+) minutes.@§cСервер перезагрузится через (r1) минут
-(.*) has just logged in!@(r1) только что зашел!
 §5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds.@§5Идентификатор Предметов: §dБоюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить §6(r1) эмеральдов
 §6([a-zA-Z0-9_]{1,16}) is now combat level (\d+)@§6(r1) достиг (r2) комбат уровня
 §6([a-zA-Z0-9_]{1,16})§9 has won the duel!@§6(r1)§9 выиграл дуэль!
 §4Did you mean §c(.*)\? §4If not, type \/help to see the commands!@§4Ты имел в виду §c(r1)? §4Если нет, напиши /help, чтобы увидеть список команд!
-§5(.*): §dI'm afraid you cannot afford that item.@§5(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
-§5(.*): §dI'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
-§5(.*): §dThank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
 §4(.*)§c is not currently online any Wynncraft servers....@§4(r1)§c сейчас ни на одном Wynncraft сервере...
 §7\[Daily Rewards: §a(.*) emeralds§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7]
-§5Blacksmith: §dYou scrapped: (.*) for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) в общей сумме на §e(r2)§d скрапа. Было приятно иметь с тобой дело.
-§5Blacksmith: §dYou scrapped: (.*) and (.*) for a total of §e(.*)§d scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) и (r2) в общей сумме на §e(r3)§d скрапа. Было приятно иметь с тобой дело.
-§b(.*)§7 has given you §b(.*)% resistance§7.@§b(r1)§7 дал тебе §b(r2)% защиты§7.
-(.*) has given you 20% resistance and 10% strength.@§b(r1) §7дал тебе §b20% к сопротивлению и 10% к силе.
 §7\+ New Quest §8\[(.*)\]@§7+ Новый квест §8[(r1)]
-§7\[New Quest Started: (.*)\]@§7[Начат новый квест: (r1)]
 §4You need to be §cCombat Lv. (.*) §4to start this Mini-Quest@§4Тебе нужно быть §c(r1) Комбат уровня §4для старта этого Мини-квеста
 §2You have unlocked §apage (.*)§2 in your bank@§2Ты разблокировал §a(r1) страницу§2 в своем банке
 §e(.*) has added you as a friend!@§e(r1) добавил тебя в друзья!
@@ -73,9 +55,6 @@
 §dSuccessfully cancelled §5buying (.*).@§dУспешно отменена §5покупка (r1).
 §dSuccessfully cancelled §5selling (.*).@§dУспешно отменена §5продажа (r1).
 §4You can't hold any more unprocessed resources §c(.*)§4! Refine your materials or stash them in your bank to free some space.@§4Ты не можешь удержать больше непереработанных ресурсов §c(r1)§4! Переработай их или переложи в банк, чтобы освободить немного места.
-§c\[(.*)\] §bCleared §7all potion effects §bRemoved §7all fire.@§c[(r1)] §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
-§c\[(.*)\] §bRemoved §7all fire.@§c[(r1)] §bУбран §7весь огонь.
-§c\[(.*)\] §bCleared §7all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
 §d     -§7 Location: §fWynn Plains \[(.*)\]@§d     -§7 Локация: §fРавнины Винн [(r1)]
 §d     -§7 Discoveries Found: §f(.*)@§d     -§7 Открытий Найдено: §f(r1)
 §d     -§7 Location: §fDesert \[(.*)\]@§d     -§7 Локация: §fПустыня [(r1)]
@@ -111,14 +90,11 @@
 §dFinished buying (.*) for (.*)@§dЗавершена покупка (r1) за (r2)
 §7\+ Higher Recipe Level \[Lv. (.*)\]@§7\+ Рецепты повышенных уровней [Ур. (r1)]
 §7\[\+(.*) falling emeralds\]@§7[+(r1) падающих эмеральдов]
-(.*) is for combat level (.*) only.@(r1) §4только для уровней (r2)
 §4Your account is now linked to (.*)@§4Твой аккаунт связан теперь с (r1)
 §7Bring §3\[(.*)\] §7to the §aSlaying Post §2\[Combat Lv. (.*)\]@§7Принеси §3[(r1)] §7к §aДоске Заданий §2[Комбат Ур. (r2)]
 §3You will now contribute (.*) of your XP to (.*)@§3Теперь ты вносишь (r1) от своих очков опыта в (r2)
-(.*) for (.*) seconds\]@(r1) на (r2) секунд]
 §dYou've revealed: (.*) for a total of (.*) emeralds.@§dТы раскрыл: (r1) в сумме за §e(r2) эмеральдов.
 §6§l(.*)§e\[Tracking\]@§6§l(r1)§e[Отслеживание]
-§4This item is for Combat Lv. (.*)\+ only.@§4Этот предмет только для Комбат Ур. (r1)+.
 §4You need a (.*) level of §c(.*)§4 to use this tool!@§4Тебе нужен §c(r2)§4 уровень в (r1) чтобы использовать этот инструмент!
 §3\[§3WAR\]§c §cLocals report an army is headed for (.*)!@§3[§3WAR]§c §cРазведка сообщает, что армия надвигается на (r1)!
 §3\[§3WAR\]§c §cThe war for (.*) will start soon!@§3[§3WAR]§c §cБитва за (r1) скоро начнется!
@@ -256,14 +232,6 @@
 §5Only §d(\d+) more level(|s) §5until you can use the §dⒸ Gathering Axe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒸ Сборный Топор У(r3)
 §5Only §d(\d+) more level(|s) §5until you can use the §dⓀ Gathering Rod T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⓀ Сборную Удочку У(r3)
 §5Only §d(\d+) more level(|s) §5until you can use the §dⒿ Gathering Scythe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒿ Сборную Мотыгу У(r3)
-(.*) has logged into server (.*) as §(b|a)a Warrior@(r1) зашел на сервер (r2) классом §(r3)Воин
-(.*) has logged into server (.*) as §(b|a)a Knight@(r1) зашел на сервер (r2) классом §(r3)Рыцарь
-(.*) has logged into server (.*) as §(b|a)an Archer@(r1) зашел на сервер (r2) классом §(r3)Лучник
-(.*) has logged into server (.*) as §(b|a)a Dark Wizard@(r1) зашел на сервер (r2) классом §(r3)Темный Волшебник
-(.*) has logged into server (.*) as §(b|a)a Mage@(r1) зашел на сервер (r2) классом §(r3)Маг
-(.*) has logged into server (.*) as §(b|a)an Assassin@(r1) зашел на сервер (r2) классом §(r3)Ассасин
-(.*) has logged into server (.*) as §(b|a)a Hunter@(r1) зашел на сервер (r2) классом §(r3)Охотник
-(.*) has logged into server (.*) as §(b|a)a Ninja@(r1) зашел на сервер (r2) классом §(r3)Ниндзя
 §e(.*)You are now level (\d+) in §fⒿ§e Farming@§e(r1)Ты достиг (r2) уровня в §fⒿ§e Земледелии
 §e(.*)You are now level (\d+) in §fⒸ§e Woodcutting@§e(r1)Ты достиг (r2) уровня в §fⒸ§e Лесорубстве
 §e(.*)You are now level (\d+) in §fⒼ§e Weaponsmithing@§e(r1)Ты достиг (r2) уровня в §fⒼ§e Оружейном Деле
@@ -276,16 +244,6 @@
 §e(.*)You are now level (\d+) in §fⒹ§e Jeweling@§e(r1)Ты достиг (r2) уровня в §fⒹ§e Изготовлении Аксессуаров
 §e(.*)You are now level (\d+) in §fⒺ§e Scribing@§e(r1)Ты достиг (r2) уровня в §fⒺ§e Изготовлении Свитков
 §e(.*)You are now level (\d+) in §fⒶ§e Cooking@§e(r1)Ты достиг (r2) уровня в §fⒶ§e Кулинарии
-§c(.*)§4 requires your defence skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Защита было не менее §c(r2).
-§c(.*)§4 requires your strength skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Сила было не менее §c(r2).
-§c(.*)§4 requires your dexterity skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Точность было не менее §c(r2).
-§c(.*)§4 requires your intelligence skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Интеллект было не менее §c(r2).
-§c(.*)§4 requires your agility skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Ловкость было не менее §c(r2).
-§4This item requires your defence skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Защита было не менее §c(r2).
-§4This item requires your strength skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Сила было не менее §c(r2).
-§4This item requires your dexterity skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Точность было не менее §c(r2).
-§4This item requires your intelligence skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Интеллект было не менее §c(r2).
-§4This item requires your agility skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Ловкость было не менее §c(r2).
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Storm upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Шторма Стрел
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Щита Стрел
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dBomb upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Бомбы
