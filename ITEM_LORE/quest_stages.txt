@@ -213,7 +213,7 @@ QUESTS/Beneath_the_Depths.txt =====
 §7entrance of the island @§7входа на остров 
 §7Talk to Dalben on Mage @§7Поговори с Далбеном на Острове 
 §7Island about restoring the map @§7Магов насчет восстановления карты 
-§7Bring back [20 Block of @§7Принеси [20 Блоков 
+§7Bring back [5 Blocks of @§7Принеси [5 Блоков 
 §7Emerald] to Dalben @§7Эмеральдов] Далбену 
 §7Explore the cave in the @§7Исследуй пещеру 
 §7ocean, located at @§7в океане на координатах 
@@ -1866,8 +1866,8 @@ QUESTS/The_Corrupted_Village.txt =====
 §7to Orikal in his tent @§7с Орикалом в палатке 
 §7about his plan for destroying @§7по поводу планов уничтожения 
 §7the spike. @§7шипа 
-§7Find [Unstable Corrupted Ore], [Incendiary @§7Найди [Нестабильную руду], 
-§7Fluid] and [Switch Fuse] for @§7[Зажигательную жидкость], и [Переключатель 
+§7Find [Stabilized Corrupted Ore], [Incendiary @§7Найди [Стабильную руду], [Зажигательную 
+§7Fluid] and [Switch Fuse] for @§7жидкость], и [Переключатель 
 §7the TNT at the mining @§7с предохранителем] для изготовления 
 §7camp at [435,81,-1106]. @§7динамита в лагере [435,81,-1106]. 
 §7Report to Orikal about your @§7Сообщи Орикалу 
