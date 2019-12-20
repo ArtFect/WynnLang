@@ -698,65 +698,61 @@
 §3damage@§3падений
 §3significantly faster@§3значительно быстрее
 §3§b+Hawkeye: §3Arrow storm fires@§3§b+Hawkeye: §3Шторм Стрел выстреливает
-§35 powerful arrows
-§3§b+Sorcery: §3Spells may cast
-§3a second time at no additional
-§3cost
-§3§b+Plague: §3Poisoned mobs
-§3spread poison to nearby mobs
-§3§b+Transcendence: §350% chance
-§3for spells to cost no mana
-§3when casted
-§3§b+Greed: §3Picking up emeralds
-§3heals you and nearby players
-§3for 20% max health
-§3§b+Taunt: §3War Scream makes
-§3nearby mobs target you
-§3§b+Madness: §3Cast a random
-§3ability every 10s
-§3§b+Cavalryman: §3Can attack
-§3mobs while riding a horse
-§3§b+Heart of the Pack: §3Nearby
-§3players gain 30% of the health
-§3you naturally regenerate
+§35 powerful arrows@§35 мощными стрелами
+§3§b+Sorcery: §3Spells may cast@§3§b+Sorcery: §3Заклинания могут кастоваться
+§3a second time at no additional@§3второй раз без использования
+§3cost@§3маны
+§3§b+Plague: §3Poisoned mobs@§3§b+Plague: §3Отравленные мобы
+§3spread poison to nearby mobs@§3распространяют яд на ближайших мобов
+§3§b+Transcendence: §350% chance@§3§b+Transcendence: §350% шанс на
+§3for spells to cost no mana@§3каст заклинания без использования
+§3when casted@§3маны
+§3§b+Greed: §3Picking up emeralds@§3§b+Greed: §3Подбор эмеральдов
+§3heals you and nearby players@§3лечит тебя и ближайших игроков 
+§3for 20% max health@§3на 20% от максимума здоровья
+§3§b+Taunt: §3War Scream makes@§3§b+Taunt: §3Боевой Клич заставляет
+§3nearby mobs target you@§3ближайших мобов идти к тебе
+§3§b+Madness: §3Cast a random@§3§b+Madness: §3Кастует рандомную
+§3ability every 10s@§3способность каждые 10с
+§3§b+Cavalryman: §3Can attack@§3§b+Cavalryman: §3Можно атаковать
+§3mobs while riding a horse@§3мобов при езде на лошади
+§3§b+Heart of the Pack: §3Nearby@§3§b+Heart of the Pack: §3Ближайшие
+§3players gain 30% of the health@§3игроки получают 30% здоровья
+§3you naturally regenerate@§3которое ты регенирируешь
 
-§6 - §c✖ §41 Broken CorruptedÀÀÀUndergrowthÀÀÀRuins Key
-§6 - §c✖ §42 Corrupted Undergrowth Ruins Fragment
-§6 - §c✖ §410 Corrupted Undergrowth Ruins Fragment
-§6 - §c✖ §49 Corrupted Undergrowth Ruins Fragment
-§6 - §a✔ §22 Corrupted Undergrowth Ruins Fragment
-§6 - §a✔ §29 Corrupted Undergrowth Ruins Fragment
-§6 - §a✔ §210 Corrupted Undergrowth Ruins Fragment
-§6 - §c✖ §42 Tol Rune
-§6 - §c✖ §41 Tol Rune
-§6 - §a✔ §21 Tol Rune
-§6 - §a✔ §21 Wand Voucher
-§6 - §c✖ §41 Wand Voucher
-§6 - §a✔ §21 Magical Book Voucher
-§6 - §c✖ §41 Magical Book Voucher
-§6 - §c✖ §41 Fiery Relik
-§6 - §a✔ §21 Fiery Relik
-§6 - §c✖ §42 Corrupted Slykaar's Heart
-§6 - §c✖ §44 Corrupted Slykaar's Heart
-§6 - §c✖ §46 Corrupted Slykaar's Heart
-§6 - §c✖ §43 Corrupted Slykaar's Heart
-§6 - §c✖ §41 Corrupted Theorick's Ice Shard
-§6 - §c✖ §42 Fire Catalyst X
-§6 - §c✖ §42 Theorick's Ice Shard
-§6 - §c✖ §41 Unknown Voucher
-§6 - §c✖ §43 Antikythera Supercomputer's Chip
-§6 - §a✔ §23 Antikythera Supercomputer's Chip
-§6 - §a✔ §22 Corrupted Slykaar's Heart
-§6 - §a✔ §23 Corrupted Slykaar's Heart
-§6 - §a✔ §24 Corrupted Slykaar's Heart
-§6 - §c✖ §41 Corrupted Soul Token
-§6 - §c✖ §41 Ornate Shadow Cowl
-§6 - §c✖ §41 Ornate Shadow Garb
-§6 - §c✖ §41 Ornate Shadow Cover
-§6 - §c✖ §41 Ornate Shadow Cloud
-§6 - §c✖ §43 The Eye's Pupil
-§6 - §c✖ §44 The Eye's Pupil
-§6 - §c✖ §49 Eldritch Outlook Fragment
+§6 - §c✖ §41 Broken CorruptedÀÀÀUndergrowthÀÀÀRuins Key@§6 - §c✖ §41 Разбитый Испорченный Ключ от Заросших Руин
+§6 - §c✖ §42 Corrupted Undergrowth Ruins Fragment@§6 - §c✖ §42 Испорченных Фрагмента Заросших Руин
+§6 - §c✖ §410 Corrupted Undergrowth Ruins Fragment@§6 - §c✖ §410 Испорченных Фрагментов Заросших Руин
+§6 - §c✖ §49 Corrupted Undergrowth Ruins Fragment@§6 - §c✖ §49 Испорченных Фрагментов Заросших Руин
+§6 - §a✔ §22 Corrupted Undergrowth Ruins Fragment@§6 - §a✔ §22 Испорченных Фрагмента Заросших Руин
+§6 - §a✔ §29 Corrupted Undergrowth Ruins Fragment@§6 - §a✔ §29 Испорченных Фрагментов Заросших Руин
+§6 - §a✔ §210 Corrupted Undergrowth Ruins Fragment@§6 - §a✔ §210 Испорченных Фрагментов Заросших Руин
+§6 - §c✖ §42 Tol Rune@§6 - §c✖ §42 Тол Руны
+§6 - §c✖ §41 Tol Rune@§6 - §c✖ §41 Тол Руна
+§6 - §a✔ §21 Tol Rune@§6 - §a✔ §21 Тол Руна
+§6 - §a✔ §21 Wand Voucher@§6 - §a✔ §21 Ваучер Воды
+§6 - §c✖ §41 Wand Voucher@§6 - §c✖ §41 Ваучер Воды
+§6 - §a✔ §21 Magical Book Voucher@§6 - §a✔ §21 Ваучер на Магическую Книгу
+§6 - §c✖ §41 Magical Book Voucher@§6 - §c✖ §41 Ваучер на Магическую Книгу
+§6 - §c✖ §41 Fiery Relik@§6 - §c✖ §41 Огненный Релик
+§6 - §a✔ §21 Fiery Relik@§6 - §a✔ §21 Огненный Релик
+§6 - §c✖ §42 Corrupted Slykaar's Heart@§6 - §c✖ §42 Испорченных Сердца Слайкаара
+§6 - §c✖ §44 Corrupted Slykaar's Heart@§6 - §c✖ §44 Испорченных Сердца Слайкаара
+§6 - §c✖ §46 Corrupted Slykaar's Heart@§6 - §c✖ §46 Испорченных Сердец Слайкаара
+§6 - §c✖ §43 Corrupted Slykaar's Heart@§6 - §c✖ §43 Испорченных Сердца Слайкаара
+§6 - §c✖ §41 Corrupted Theorick's Ice Shard@§6 - §c✖ §41 Испорченный Осколок Льда Теорика
+§6 - §c✖ §42 Fire Catalyst X@§6 - §c✖ §42 Катализатор Огня X
+§6 - §c✖ §42 Theorick's Ice Shard@§6 - §c✖ §42 Осколка Льда Теорика
+§6 - §c✖ §41 Unknown Voucher@§6 - §c✖ §41 Неизвестный Ваучер
+§6 - §c✖ §43 Antikythera Supercomputer's Chip@§6 - §c✖ §43 Антикитера Суперкомпьютер Чипа
+§6 - §a✔ §23 Antikythera Supercomputer's Chip@§6 - §a✔ §23 Антикитера Суперкомпьютер Чипа
+§6 - §a✔ §22 Corrupted Slykaar's Heart@§6 - §a✔ §22 Испорченных Сердца Слайкаара
+§6 - §a✔ §23 Corrupted Slykaar's Heart@§6 - §a✔ §23 Испорченных Сердца Слайкаара
+§6 - §a✔ §24 Corrupted Slykaar's Heart@§6 - §a✔ §24 Испорченных Сердца Слайкаара
+§6 - §c✖ §41 Corrupted Soul Token@§6 - §c✖ §41 Жетон Испорченной Души
+§6 - §c✖ §43 The Eye's Pupil@§6 - §c✖ §43 Зрачка Глаза
+§6 - §c✖ §44 The Eye's Pupil@§6 - §c✖ §44 Зрачка Глаза
+§6 - §c✖ §49 Eldritch Outlook Fragment@§6 - §c✖ §49 Фрагментов Жуткого Наблюдателя
 
 §e- §7Class: §fSkyseer
 §e- §7Class: §c§l☠ §fShaman
