@@ -2,3 +2,36 @@
 §cYou are not in a guild.@§cТы не состоишь в гильдии.
 §eWe couldn't find any friends.@§eМы не можем найти никаких друзей.
 §eTry typing §6/friend add Username§e!@§eПопробуй написать §6/friend add Ник§e!
+§4There is no room for a horse.@§4Здесь нет места для лошади.
+§dSince you interacted with your inventory, your horse has despawned.@§dПоскольку ты взаимодействовал с инвентарем, твоя лошадь была убрана.
+§dYour horse is scared to come out right now, too many mobs are nearby.@§dТвоя лошадь напугана сейчас, чтобы выходить, поскольку слишком много мобов рядом.
+§4You don't have enough mana to do that spell!@§4У тебя недостаточно маны, чтобы использовать это заклинание!
+§4You have not unlocked this spell!@§4Ты еще не открыл это заклинание!
+§cYou already have that potion active...@§cЭто зелье уже действует на тебя...
+§cSorry, you can't teleport... Try moving away from blocks.@§cИзвини, ты не можешь телепортироваться... Попробуй отойти от блоков
+§b+3 minutes§7 speed boost.@§b+3 минуты§7 повышенной скорости.
+§4You must identify this item before using it.@§4Ты должен идентифицировать этот предмет, прежде чем использовать.
+§4This is not a §cArcher§4 weapon. You must use a §cbow.@§4Это не оружие дляa §cЛучника§4. Ты должен использовать §cлук.
+§4This is not a §cMage§4 weapon. You must use a §cwand.@§4Это не оружие дляa §cМага§4. Ты должен использовать §cпосох.
+§4This is not a §cAssassin§4 weapon. You must use a §cshear.@§4Это не оружие дляa §cАссасина§4. Ты должен использовать §cкинжал.
+§4This is not a §cAssassin§4 weapon. You must use a §cdagger.@§4Это не оружие дляa §cАссасина§4. Ты должен использовать §cкинжал.
+§4This is not a §cWarrior§4 weapon. You must use a §cspear.@§4Это не оружие дляa §cВоина§4. Ты должен использовать §cкопье.
+§4This is not a §cDark Wizard§4 weapon. You must use a §cwand.@§4Это не оружие дляa §cТемного Мага§4. Ты должен использовать §cпосох.
+§7[Please empty some space in your inventory first]@§7[Пожалуйста, сначала освободи немного места в своем инвентаре]
+§cYou have never been to that area!@§cТы никогда не был на этой территории!
+§d[+1 Soul Point]@§d[+1 Очко душ]
+§d[+2 Soul Points]@§d[+2 Очка душ]
+§cThe server is restarting in 4 minutes.@§cСервер перезагрузится через 4 минуты
+§cThe server is restarting in 3 minutes.@§cСервер перезагрузится через 3 минуты
+§cThe server is restarting in 2 minutes.@§cСервер перезагрузится через 2 минуты
+§cThe server is restarting in 1 minute.@§cСервер перезагрузится через 1 минуту
+§cThe server is restarting in 4 seconds.@§cСервер перезагрузится через 4 секунды
+§cThe server is restarting in 3 seconds.@§cСервер перезагрузится через 3 секунды
+§cThe server is restarting in 2 seconds.@§cСервер перезагрузится через 2 секунды
+§cThe server is restarting in 1 second.@§cСервер перезагрузится через 1 секунду
+§7[Quest Book Updated]@§7[Квестовая книга обновлена]
+§7[Quest book updated]@§7[Квестовая книга обновлена]
+§5Item Identifier: §dOkay, I'll identify them now!@§5Идентификатор Предметов: §dХорошо, я сейчас же их идентифицирую!
+§5Item Identifier: §dIt is done. Your item has been identified. The magic it contains will now blossom.@§5Идентификатор Предметов: §dГотово. Твой предмет был идентифицирован. Магия, содержащаяся в нем, теперь раскрыта.
+§5Item Identifier: §dIt is done. Your items have been identified. The magic they contain will now blossom.@§5Идентификатор Предметов: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
+§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour and crafted items.@§5Кузнец: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню и крафтовые предметы.
