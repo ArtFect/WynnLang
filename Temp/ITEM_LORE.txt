@@ -754,73 +754,76 @@
 §6 - §c✖ §44 The Eye's Pupil@§6 - §c✖ §44 Зрачка Глаза
 §6 - §c✖ §49 Eldritch Outlook Fragment@§6 - §c✖ §49 Фрагментов Жуткого Наблюдателя
 
-§e- §7Class: §fSkyseer
-§e- §7Class: §c§l☠ §fShaman
-§e- §7Class: §7§l☠ §fShaman
+§e- §7Class: §fSkyseer@§e- §7Класс: §fПровидец
+§e- §7Class: §c§l☠ §fShaman@§e- §7Класс: §c§l☠ §fШаман
+§e- §7Class: §7§l☠ §fShaman@§e- §7Класс: §7§l☠ §fШаман
 
-§3Special Item
-§3Crafting item
-§cFabled Item
-§cFabled Item [2]
-§cFabled Item [3]
-§e- §dUnidentified Relik
-§e- §eUnidentified Relik
-§7- §eUnidentified Relik
-§7- Refined Sandstone Gem 2
-§7- Refined Carp Oil 2
-§e- §bUnidentified Relik
-§7- §bUnidentified Relik
-§7- §dUnidentified Relik
-§e- §bUnidentified Necklace
-§7- §bUnidentified Necklace
+§3Special Item@§3Специальный Предмет
+§3Crafting item@§3Крафтовый Предмет
+§cFabled Item@§cСказочный Предмет
+§cFabled Item [2]@§cСказочный Предмет [2]
+§cFabled Item [3]@§cСказочный Предмет [3]
+§cFabled Item [4]@§cСказочный Предмет [4]
+§cFabled Item [5]@§cСказочный Предмет [5]
+§cFabled Item [6]@§cСказочный Предмет [6]
+§e- §dUnidentified Relik@§e- §dНеидентифицированный Релик
+§e- §eUnidentified Relik@§e- §eНеидентифицированный Релик
+§7- §eUnidentified Relik@§7- §eНеидентифицированный Релик
+§7- Refined Sandstone Gem 2@§7- Переработанный Песчаный Камень 2
+§7- Refined Carp Oil 2@§7- Переработанный Жир Карпа 2
+§e- §bUnidentified Relik@§e- §bНеидентифицированный Релик
+§7- §bUnidentified Relik@§7- §bНеидентифицированный Релик
+§7- §dUnidentified Relik@§7- §dНеидентифицированный Релик
+§e- §bUnidentified Necklace@§e- §bНеидентифицированный Амулет
+§7- §bUnidentified Necklace@§7- §bНеидентифицированный Амулет
 
-§7(No ingredients found)
+§7(No ingredients found)@§7(Ингредиентов не найдено)
 
-§fCorruptedÀÀÀUndergrowthÀÀÀRuins§7 once
-§a - §7Coordinates: §f2865, 8995
+§fCorruptedÀÀÀUndergrowthÀÀÀRuins§7 once@§fИспорченные Заросшие Руины§7 единожды
+§a - §7Coordinates: §f2865, 8995@§a - §7Координаты: §f2865, 8995
 
-§7Looks tasty!
+§7Looks tasty!@§7Выглядит вкусно!
 
-§8§8...I'll finish writing
-§8this later.
+§8§8...I'll finish writing@§8§8...Я закончу писать
+§8this later.@§8это позже.
 
-§c-45% §7Ingredient Effectiveness
+§c-45% §7Ingredient Effectiveness@§c-45% §7Эффективность Ингредиентов
 
-§8but vulnerable to attacks.
+§8but vulnerable to attacks.@
 
-§7Welcome to the magical school
-§7of Grookwarts. Show this
-§7letter to the school boat
-§7and jump on.
-§7You can buy one book with
-§7this voucher.
-§7You can buy one wand with
-§7This wand is perfect
-§7for the traditional wizard.
-§7This wand is hot to the touch
-§7not every wizard is able
-§7to use it.
-§7for a wizard who wants
-§7to discover new magic.
-§7This wand feels like a gust of
-§7air, perfect for the nature oriented
-§7wizard.
-§7This wand feels wrong, or is this
-§7the feeling of power?
-§7A very old magical text, ancient
-§7nature magic.
-§7An unkown collection of spells
-§7the great wizard Exal used.
-§7A collection of common
-§7spells and rituals. Good for
-§7the everyday wizard.
-§7A book filled with information
-§7about ancient magic. Found in
-§7most classrooms.
-§7The information written on this
-§7tome is written in a
-§7weird alphabet. Something
-§7feels familiar though...
+§7Welcome to the magical school@§7Добро пожаловать в магическую школу
+§7of Grookwarts. Show this@§7Груквартс. Покажите это
+§7letter to the school boat@§7письмо у школьной лодки
+§7and jump on.@§7и запрыгивайте.
+§7You can buy one book with@§7Ты можешь купить одну книгу
+§7this voucher.@§7на этот ваучер
+§7You can buy one wand with@§7Ты можешь купить одну палочку
+§7This wand is perfect@§7эта палочка идеальна
+§7for the traditional wizard.@§7для традиционных волшебников.
+§7This wand is hot to the touch@§7Эа палочка горяча при прикосновении,
+§7not every wizard is able@§7не каждый волшебник способен
+§7to use it.@§7использовать ее.
+§7for a wizard who wants@§7для волшебников, кто хочет
+§7to discover new magic.@§7открыть новую магию.
+§7This wand feels like a gust of@§7Эта палочка чувствуется как порыв
+§7air, perfect for the nature oriented@§7воздуха, идеальна для ориентированных на природу
+§7wizard.@§7волшебников.
+§7This wand feels wrong, or is this@§7С этой палочкой что-то не так, или это
+§7the feeling of power?@§7просто ощущение ее силы?
+§7A very old magical text, ancient@§7Очень старый магический текст, древняя
+§7nature magic.@§7магия природы.
+§7An unkown collection of spells@§7Неизвестная коллекция заклинаний
+§7the great wizard Exal used.@§7великого волшебника Эксала
+§7A collection of common@§7Коллекция обычных
+§7spells and rituals. Good for@§7заклинаний и ритуалов. Хороша для
+§7the everyday wizard.@§7обычного волшебника.
+§7A book filled with information@§7Книга наполненная информацией
+§7about ancient magic. Found in@§7о древней магии. Можно найти
+§7most classrooms.@§7в большинстве классов.
+§7The information written on this@§7Информация, написанная в этом
+§7tome is written in a@§7томе, написана с помощью
+§7weird alphabet. Something@§7неизвестного алфавита. Хотя
+§7feels familiar though...@§7что-то кажется знакомым...
 
 §7To craft an amulet of insanity you will
 §7need a way to store a lot of energy
