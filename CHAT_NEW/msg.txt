@@ -256,7 +256,6 @@
 §7They'll eat you alive.@§7Они съедят тебя живьем.
 
 ###################################Гильдия##################################
-§cYou are not in a guild.@§cТы не состоишь в гильдии!
 §4You can join someone else's guild or make a guild in §cCinfras [Lv. 70]@§4Ты можешь присоединиться к чьей-нибудь гильдии, или создать свою в §cЦинфрасе [Ур. 70]
 §4/guild join §c[guild] §8-§6 Join a guild@§4/guild join §c[гильдия] §8-§6 Вступить в гильдию
 §4/g §c[message]§8-§6 Talk globally with your guild@§4/g §c[сообщение]§8-§6 Поговорить глобально с гильдией
@@ -1183,10 +1182,6 @@
 §7    §7§oShould you ever want to waste your seeds, the location is [630,147,-4590]@§7    §7§oЕсли когда-нибудь захочешь потратить свои семена, координаты [630,147,-4590]
 
 ###################################Торговцы##################################
-§5Blacksmith: §dI can't buy that item! I only accept weapons, accessories, potions, armour and crafted items.@§5Кузнец: §dЯ не могу купить этот предмет! Я принимаю только оружие, аксессуары, зелья, броню и крафтовые предметы.
-§5Item Identifier: §dOkay, I'll identify them now!@§5Идентификатор Предметов: §dХорошо, я сейчас же их идентифицирую!
-§5Item Identifier: §dIt is done. Your item has been identified. The magic it contains will now blossom.@§5Идентификатор Предметов: §dГотово. Твой предмет был идентифицирован. Магия, содержащаяся в нем, теперь раскрыта.
-§5Item Identifier: §dIt is done. Your items have been identified. The magic they contain will now blossom.@§5Идентификатор Предметов: §dГотово. Твои предметы были идентифицированы. Магия, содержащаяся в них, теперь раскрыта.
 §5Key Collector: §dYou have access to the dungeon... This time only.@§5Сборщик Ключей: §dТы можешь войти в данж... Но только в этот раз.
 §5Powder Master: §dGreat doing business with you, adventurer. Come back any time!@§5Мастер Порошков: §dС тобой приятно иметь дело, путешественник. Возвращайся в любое время!
 §5Item Identifier: §dI can't identify this item! Only items with a §eunique§d, §5rare§d, §blegendary§d, §cfabled§d, §5mythic§d and §aset§d tags can be identified.@§5Идентификатор Предметов: §dЯ не могу идентифицировать этот предмет! Только предметы с §eуникальными§d, §5редкими§d, §bлегендарными§d, §cсказочными§d, §5мифическими§d и §aсет§d тэгами можно идентифицировать.
@@ -1354,17 +1349,8 @@
 §a+ Spell Upgrade §2[Crystal Reptile II -> III]@§a+ Апгрейд заклинания §2[Кристальная Рептилия II -> III]
 
 ###################################Системные##################################
-§cThe server is restarting in 4 minutes.@§cСервер перезагрузится через 4 минуты
-§cThe server is restarting in 3 minutes.@§cСервер перезагрузится через 3 минуты
-§cThe server is restarting in 2 minutes.@§cСервер перезагрузится через 2 минуты
-§cThe server is restarting in 1 minute.@§cСервер перезагрузится через 1 минуту
-§cThe server is restarting in 4 seconds.@§cСервер перезагрузится через 4 секунды
-§cThe server is restarting in 3 seconds.@§cСервер перезагрузится через 3 секунды
-§cThe server is restarting in 2 seconds.@§cСервер перезагрузится через 2 секунды
-§cThe server is restarting in 1 second.@§cСервер перезагрузится через 1 секунду
 §cThe server is restarting@§cСервер перезагружается
 §bServer restarting!@§bПерезагрузка сервера!
-§7[Quest Book Updated]@§7[Квестовая книга обновлена]
 §f                         §2[Objective Completed]@§f                         §2[Цель Выполнена]
                          §4[Objective Completed]@                         §4[Цель Выполнена]
 §f                         §4[Objective Completed]@§f                         §4[Цель Выполнена]
@@ -1394,9 +1380,6 @@
 §a§l         Click here to link your forum account@§a§l         Кликни сюда для привязки форум аккаунта
 §e§nClick here to claim them!@§e§nКликни сюда, чтобы получить их!
 §5As the sun rises, you feel a little bit safer...@§5С восходом солнца ты чувствуешь себя немного безопаснее...
-§d[+1 Soul Point]@§d[+1 Очко душ]
-§4You must identify this item before using it.@§4Ты должен идентифицировать этот предмет, прежде чем использовать.
-§7[Please empty some space in your inventory first]@§7[Пожалуйста, сначала освободи немного места в своем инвентаре]
 §7Loading Resource Pack...@§7Загружаем Текстурпак...
 §cLoading the WynnPack...@§cЗагружаем WynnPack...
 §6Thank you for using the WynnPack. Enjoy the game!@§6Спасибо, что используешь WynnPack. Наслаждайся игрой!
@@ -1426,16 +1409,13 @@
 §dVisit the Trade Market to claim your item@§dПосети Трейд Маркет, чтобы забрать свой предмет
 §dVisit the Trade Market to claim your items@§dПосети Трейд Маркет, чтобы забрать свои предметы
 §6Type the item name or type 'cancel' to cancel:@§6Напиши название предмета, или 'cancel' для отмены:
-§4You have not unlocked this spell!@§4Ты еще не открыл это заклинание!
 §3You have received:@§3Ты получил:
 §4You've already claimed this bomb...@§4Ты уже забрал эту бомбу...
 §7+2 Skill Points §8[Open the character menu to use them]@§7+2 Очка умений [Открой меню персонажа для их использования]
 §7+5 Maximum HP@§7+5 Очков здоровья
-§4You don't have enough mana to do that spell!@§4У тебя недостаточно маны, чтобы использовать это заклинание!
 §cYour items are damaged and have become less effective. Bring them to a Blacksmith to repair them.@§cТвои предметы повредились и стали менее эффективными. Принеси их к Кузнецу, чтобы починить.
 §41 soul point has been lost...@§41 очко душ было потрачено...
 §4You can skip the tutorial by typing: §c/skiptutorial§4. You will not receive resources, tools, or a crafted item by doing this.@§4Ты можешь пропустить туториал командой §c/skiptutorial§4. Ты не получишь ресурсы, инструменты, или крафтовые предметы, сделав это.
-§4There is no room for a horse.@§4Здесь нет места для лошади.
 §cYou cannot drop locked items! Use /itemlock while holding the item again to unlock it.@§cТы не можешь выбросить заблокированные предметы! Используй /itemlock, держа предмет в руке, чтобы разблокировать его.
 §6Your horse has become stronger!@§6Твоя лошадь стала сильнее!
 §7[+1 Speed]@§7[+1 к Скорости]
@@ -1445,16 +1425,11 @@
 §9The duel has started! Fight to the death...@§9Дуэль началась! Бейся до смерти...
 §5Wait a bit before trying to duel again!@§5Подожди немного, прежде чем снова предлагать дуэль!
 §9The duel has expired! Nobody has won the duel.@§9Дуэль закончилась! Никто не выиграл.
-§dSince you interacted with your inventory, your horse has despawned.@§dПоскольку ты взаимодействовал с инвентарем, твоя лошадь была убрана.
-§dYour horse is scared to come out right now, too many mobs are nearby.@§dТвоя лошадь напугана сейчас, чтобы выходить, поскольку слишком много мобов рядом.
-§cYou already have that potion active...@§cЭто зелье уже действует на тебя...
 §cYou can't sell this item!@§cТы не можешь продать этот предмет!
 §5The trade has been completed!@§5Торговля успешно завершена!
 §cThere are aggressive mobs nearby...@§cПоблизости есть агрессивные мобы...
-§d[+2 Soul Points]@§d[+2 Очка душ]
 §4You've already finished this Mini-Quest@§4Ты уже завершил этот мини-квест
 §7You successfully broke through the cobwebs.@§7Ты успешно пробрался через паутину
-§cSorry, you can't teleport... Try moving away from blocks.@§cИзвини, ты не можешь телепортироваться... Попробуй отойти от блоков
 §7Warning: As you lose soul points, you will drop more items when you die.@§7Предупреждение: Чем больше очков душ ты теряешь, тем больше предметов выпадает с тебя при смерти.
 §7Your class has automatically been selected. Use /class to change your class, or /toggle autojoin to turn this feature off.@§7Твой класс был автоматически выбран. Напиши /class, чтобы сменить класс, или /toggle autojoin чтобы отключить эту функцию.
 §eDesc.: This command will let you use the party system.@§eОписание: Эта команда позволит тебе использовать систему пати.
@@ -1509,7 +1484,6 @@
 §4Please go into a game world to use commands!@§4Пожалуйста зайди в игровой мир, чтобы использовать команды!
 §5The trade has been cancelled.@§5Торговля была отменена.
 §cYou can't scrap this item!@§cТы не можешь утилизировать этот предмет!
-§b+3 minutes§7 speed boost.@§b+3 минуты§7 повышенной скорости.
 §eYou need to specify a message to send!@§eТебе нужно уточнить сообщение для отправки!
 §cYou do not have enough money in your inventory and bank to pay for that@§cУ тебя недостаточно денег в твоем инвентаре или банке, чтобы купить это
 §4You need to get off your horse to gather from this resource!@§4Тебе нужно убрать свою лошадь, чтобы собрать этот ресурс!
@@ -1553,14 +1527,7 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §4You don't have any totems...@§4У тебя нет никаких тотемов...
 §eUsage: /party join [username]@§eИспользование: /party join [ник]
 §4You haven't messaged anyone! Type /msg to do so.@§4Ты никому не писал! Напиши /msg для этого.
-§4This is not a §cArcher§4 weapon. You must use a §cbow.@§4Это не оружие дляa §cЛучника§4. Ты должен использовать §cлук.
-§4This is not a §cMage§4 weapon. You must use a §cwand.@§4Это не оружие дляa §cМага§4. Ты должен использовать §cпосох.
-§4This is not a §cAssassin§4 weapon. You must use a §cshear.@§4Это не оружие дляa §cАссасина§4. Ты должен использовать §cкинжал.
-§4This is not a §cAssassin§4 weapon. You must use a §cdagger.@§4Это не оружие дляa §cАссасина§4. Ты должен использовать §cкинжал.
-§4This is not a §cWarrior§4 weapon. You must use a §cspear.@§4Это не оружие дляa §cВоина§4. Ты должен использовать §cкопье.
-§4This is not a §cDark Wizard§4 weapon. You must use a §cwand.@§4Это не оружие дляa §cТемного Мага§4. Ты должен использовать §cпосох.
 §5This is not your side!@§5Это не твоя сторона!
-§cYou have never been to that area!@§cТы никогда не был на этой территории!
 §9That player is too far away! Get closer...@§9Этот игрок слишком далеко! Встань ближе...
 §cYou can not teleport while in a storyline...@§cТы не можешь телепортироваться, находясь в сюжетной линии...
 §4Add an item and powders first!@§4Добавь предмет и порошки сначала!
@@ -1584,7 +1551,6 @@ You're rejoining too quickly! Give us a moment to save your data.@§4Ты сли
 §3Visit §bwynncraft.com/store§b §3to get your own!@§3Посети §bwynncraft.com/store§b §3чтобы получить свою!
 §6You've lost:@§6Ты потерял:
 §4You need a progressed character to unlock skip!@§4Тебе нужен персонаж более высокого уровня, чтобы разблокировать пропуск!
-§7[Quest book updated]@§7[Квестовая книга обновлена]
 §eTo link your account, join our Discord at §6discord.gg/yJkSQwp§e and read the #discord_link channel.@§eЧтобы привязать твой аккаунт, зайди в Дискорд §6discord.gg/yJkSQwp§e и прочитай §6#discord_link§e канал.
 §dYou have been given a §bdouble XP boost§d for 24 hours.@§dТы получил §bудвоенный XP буст§d на 24 часа.
 §cYou need to be at least combat level 2 to reset your skills.@§cТебе нужен хотя бы 2 комбат уровень, чтобы сбросить свои навыки.
@@ -1705,9 +1671,6 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §6§lThe Mystery Manor §4§lFAILED@§6§lЗагадочное Поместье §4§lПРОВАЛ
 §7You've been captured by pirates. Try again!@§7Ты был пойман пиратами. Попробуй еще раз!
 §4Please don't move away from the bank if you wish to search for items!!@§4Пожалуйста не отходи далеко от банка, если ты хочешь найти предметы!!
-§eYou must be in a party to list.@§eТы должен быть в пати, чтобы посмотреть список.
-§eWe couldn't find any friends.@§eНе можем найти никаких друзей.
-§eTry typing §6/friend add Username§e!@§eПопробуй написать §6/friend add Ник§e!
 §eUsage: /party kick [username]@§eИспользование: /party kick [ник]
 §5You need a HERO rank to participate in the HERO beta. Get one at §dstore.wynncraft.com@§5Тебе нужен HERO ранг для участия в HERO бете. Купи на §dstore.wynncraft.com
 §b - §7Rat Pet@§b - §7Питомец Крыса
