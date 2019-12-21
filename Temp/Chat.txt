@@ -193,21 +193,21 @@
 §7Bring §3[30 Malt String] §7or §3[30 Malt Grains] §7to the §aGathering Post §2[Farming Lv. 38]@§7Принеси §3[30 Солодовых Нитей] §7или §3[30 Солодовых Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 38]
 §7Bring §3[24 Hops String] §7or §3[24 Hops Grains] §7to the §aGathering Post §2[Farming Lv. 43]@§7Принеси §3[24 Хмельных Нитей] §7или §3[24 Хмельных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 43]
 ==
-§7[1/1] §2Aledar: §aOkay, we need to craft a weapon. I think I can help with that. Follow me.
-§7[5/5] §2Old Man: §aI left my scythe by the crops over yonder. Punch it and pick it up. Then harvest §3[2 Wheat String]§a and bring it back here.
-§7[1/1] §2Old Man: §aHarvest §3[2 Wheat String]§a and then bring it to me.
-§7[1/1] §2Old Man: §aJust hit the scythe to pick it up. Then §bleft-click§a the wheat with it to get the string!
-§7[2/2] §2Aledar: §aUse §b1 string§a and §b2 wood§a to craft §3[1 Wand]§a and then show it to the guard.
-§7[1/1] §2Aledar: §aUse §b2 oil §a and §1 wood§a at the workbench to create §3[1 Relik]§a and then show it to me.
-§7[5/5] §2Old Man: §aI left my pickaxe by the ore over yonder. Punch it and pick it up. Then mine §3[2 Copper Ingots]§a and bring it back here.
-§7[1/1] §2Old Man: §aMine §3[2 Copper Ingots]§a and then bring them to me.
-§7[1/1] §2Old Man: §aJust hit the pickaxe to pick it up. Then §bleft-click§a the ore with it to mine ingots!
-§7[1/2] §2Aledar: §aAll we need to do is use this anvil to forge your weapon.
-§7[2/2] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a to forge §3[1 Spear]§a and then show it to the guard.
-§7[2/2] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a to forge §3[1 Dagger]§a and then show it to the guard.
-§7[2/2] §2Aledar: §aUse §b2 string§a and §b1 wood§a to craft §3[1 Bow]§a and then show it to the guard.
-§7[1/1] §2Old Man: §aI left my fishing rod by the pond over yonder. Use it to harvest some wheat and bring it back here.
-§7[1/1] §2Guard: §aCast your Totem spell by clicking §bRight-Left-Right§a!
+§7[1/1] §2Aledar: §aOkay, we need to craft a weapon. I think I can help with that. Follow me.@§7[1/1] §2Аледар: §aХорошо, нам нужно скрафтить оружие. Думаю, что смогу помочь с этим. Следуй за мной.
+§7[5/5] §2Old Man: §aI left my scythe by the crops over yonder. Punch it and pick it up. Then harvest §3[2 Wheat String]§a and bring it back here.@§7[5/5] §2Старик: §aЯ оставил свою мотыгу у посевов вон там. Ударь и подбери ее. Затем собери §3[2 Пшеничных Нити]§a и принеси их сюда.
+§7[1/1] §2Old Man: §aHarvest §3[2 Wheat String]§a and then bring it to me.@§7[1/1] §2Старик: §aСобери §3[2 Пшеничных Нити]§a и принеси их сюда.
+§7[1/1] §2Old Man: §aJust hit the scythe to pick it up. Then §bleft-click§a the wheat with it to get the string!@§7[1/1] §2Старик: §aПросто ударь мотыгу и подбери ее. Затем кликни §bлевым кликом§a по пшенице, чтобы добыть нити!
+§7[2/2] §2Aledar: §aUse §b1 string§a and §b2 wood§a to craft §3[1 Wand]§a and then show it to the guard.@§7[2/2] §2Аледар: §aИспользуй §b1 нить§a и §b2 древесины§a для крафта §3[1 Посоха]§a и затем покажи его стражу.
+§7[1/1] §2Aledar: §aUse §b2 oil §a and §1 wood§a at the workbench to create §3[1 Relik]§a and then show it to me.@§7[1/1] §2Аледар: §aИспользуй §b2 жира§a и §b1 древесину§a для крафта §3[1 Релика]§a и затем покажи его мне.
+§7[5/5] §2Old Man: §aI left my pickaxe by the ore over yonder. Punch it and pick it up. Then mine §3[2 Copper Ingots]§a and bring it back here.@§7[5/5] §2Старик: §aЯ оставил свою кирку у руд вон там. Ударь и подбери ее. Затем накопай §3[2 Медных Слитка]§a и принеси их сюда.
+§7[1/1] §2Old Man: §aMine §3[2 Copper Ingots]§a and then bring them to me.@§7[1/1] §2Старик: §aНакопай §3[2 Медных Слитка]§a и принеси их сюда.
+§7[1/1] §2Old Man: §aJust hit the pickaxe to pick it up. Then §bleft-click§a the ore with it to mine ingots!@§7[1/1] §2Старик: §aПросто ударь кирку и подбери ее. Затем кликни §bлевым кликом§a по руде, чтобы добыть слитки!
+§7[1/2] §2Aledar: §aAll we need to do is use this anvil to forge your weapon.@§7[1/2] §2Аледар: §aВсе что нам нужно, это использовать наковальню для крафта оружия.
+§7[2/2] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a to forge §3[1 Spear]§a and then show it to the guard.@§7[2/2] §2Аледар: §aИспользуй §b1 слиток§a и §b2 древесины§a для крафта §3[1 Копья]§a и затем покажи его стражу.
+§7[2/2] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a to forge §3[1 Dagger]§a and then show it to the guard.@§7[2/2] §2Аледар: §aИспользуй §b2 слитка§a и §b1 древесину§a для крафта §3[1 Кинжала]§a и затем покажи его стражу.
+§7[2/2] §2Aledar: §aUse §b2 string§a and §b1 wood§a to craft §3[1 Bow]§a and then show it to the guard.@§7[2/2] §2Аледар: §aИспользуй §b2 нити§a и §b1 древесину§a для крафта §3[1 Лука]§a и затем покажи его стражу.
+§7[1/1] §2Old Man: §aI left my fishing rod by the pond over yonder. Use it to harvest some wheat and bring it back here.@§7[1/1] §2Старик: §aЯ оставил свою удочку у пруда вон там. Используй ее, чтобы поймать немного рыбы и принеси сюда.
+§7[1/1] §2Guard: §aCast your Totem spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Страж: §aИспользуй свое Тотем заклинание, кликнув §bПравая-Левая-Правая§a!
 
 §a+ New Spell §2[Haul]
 §a+ New Spell §2[Aura]
