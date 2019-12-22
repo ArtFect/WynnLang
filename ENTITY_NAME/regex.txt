@@ -74,3 +74,11 @@ Level §a(\d+)§7/§210@Уровень §a(r1)§7/§210
 (§a✔|§c✖)§f (.*)Mining Lv. Min: §f(\d+)@(r1)§f (r2) Добыча Руды Ур. Мин: §f(r3)
 (§a✔|§c✖)§f (.*)Woodcutting Lv. Min: §f(\d+)@(r1)§f (r2) Лесорубство Ур. Мин: §f(r3)
 (§a✔|§c✖)§f (.*)Fishing Lv. Min: §f(\d+)@(r1)§f (r2) Рыбалка Ур. Мин: §f(r3)
+§2(.*) Aledar Cart@§2(r1) Телега Аледара
+§2§aGathering Post §2\[Woodcutting Lv. (\d+)\]@§2§aДоска Сбора §2[Лесорубство Ур. (r1)]
+§2§aGathering Post §2\[Mining Lv. (\d+)\]@§2§aДоска Сбора §2[Добыча Руд Ур. (r1)]
+§2§aGathering Post §2\[Fishing Lv. (\d+)\]@§2§aДоска Сбора §2[Рыболовство Ур. (r1)]
+§2§aGathering Post §2\[Farming Lv. (\d+)\]@§2§aДоска Сбора §2[Земледелие Ур. (r1)]
+§8(.*)'s Soul@§8Душа (r1)
+§c\[PvP\] §f(.*)@§c[ПвП] §f(r1)
+§4Health: §c§l\[(\d+) HP\]@§4Здоровье: §c§l[(r1) ХП]
