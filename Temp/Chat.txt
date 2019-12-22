@@ -423,81 +423,81 @@
 §7Choose our path wisely.@§7Выбирай наш путь мудро.
 §7Hours have passed. The negotiations have ended, and you have been called to the throne room.@§7Прошли часы. Переговоры закончились, и тебя вызвали в тронный зал.
 §7Something is holding us back.@§7Что-то нас сдерживает.
-§7You must keep going.
-§7We must keep going.
-§7Are you sure we want to face reality?
-§7The only one holding us back is us.
-§7Back to reality... We should talk to that citizen again.
-§7[1 Grook Killed]
-§7[2 Grook Killed]
-§7[3 Grook Killed]
-§7[4 Grook Killed]
-§7[5 Grook Killed]
-§7[6 Grook Killed]
-§7[7 Grook Killed]
-§7[8 Grook Killed]
-§7[9 Grook Killed]
-§7[10 Grook Killed]
-§7You weren't successful in resurrecting the cow to it's healthy state. Try again.
-§7You successfully resurrected the cow.
-§4You need a crystal to activate the spell!
-§7You should stay on the main path.
-§7An explosion has occured somewhere in the arena...
-§7It appears the boulder that was once blocking the way is gone...
-§7It appears that green substance on the walls has bouncing properties.
-§7Looks like you're past the spikes. You can see the tower that was visible past them from here. Hopefully there is a way to break the spikes from this side nearby...
-§7You need to cast a spell to break the spikes!
-§7Inspecting the strange crystal sparks a memory.
-§4You already have a shard
-§7This will teleport you back on the pirate boat. Click again to confirm.
-§7The crafting table isn't responding. Looks like you haven't got the right items.
-§7The crafting table responds, and the materials shape themselves into a rather fetching amulet.
-§7Aledar wouldn't want you going too far.
-§cYou probably shouldn't leave the island while the seaskipper is waiting.
-§7You've probably killed more than enough.
-§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 0/7
-§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 6/7
-§7Use the gunpowder and the fuse to activate the cannon and escape
-§cLet's avoid blowing everything up for now.
-§7Artifice is, to simplify, the art of creating magical materials. This book will teach you about various magical materials and methods of crafting your own artifacts.
-§7Magical artifacts are nearly as common as pebbles on the roadside, even moreso in Gavel. Often referred to as Relics, these items were made independently of each other...
-§7...but§7 tend to follow a similar structure. Magic can only be focused in certain ways, after all. Many reliquary items are outdated by today's standards, though theorists are baffled by...
-§7...the§7 presence of such relics in Wynn. Magically-gifted individuals were not present for hundreds of years after the deaths of the Twains.
-§7Some surmise that other entities than humans are responsible for their creation, which is supported by the presence of large amounts of artifacts in the Time Valley and Almuj regions.
-§7A good place to start with crafting is in the humble necklace, and for that you would need string and magical materials. Even the string is relevant to the magical crafting process, however.
-§7Derived from processed crops, ones such as Barley, Rye, or native Wynnic crops are less effective than Gavellian crops such as Hemp.
-§7In particular, the feathery structure of Sorghum, also known as Avo leaf, is very conducive towards the channeling of magical energy.
-§7An exception to this rule is with the recently dubbed "Decay Root" derived from Gavellian plants sapped of their magical energy. Decay Root absorbs magic and can leave sources completely drained.
-§4You get the feeling you shouldn't be here...
-§7The area past the gate should not be explored, a sinister energy can be felt.
-§7You should use the void holes to cross the spikes.
-§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 5/7
-§7Talk to Honip to know what to do next or look for clues on how to escape
-§7No matter how hard to try and pull the blade out, it does not budge...
-§7You need an item to break this...
-§7Powders, while simple in actual structure, are often misunderstood except by enchanters and artificers.
-§7Being made of specific blends of various items with magical ties to elements, certain powders are easier to create than others. Magical plants are easier to grind down than magical minerals, for instance.
-§7After each item is ground to dust, enchanters purify the blend to remove extraneous aspects, leaving only the pure elemental powder in its wake.
-§7Items more heavily attuned to a specific element will create a stronger blend of powder, but even items with the slightest connection to an element can conceivably be used to create a powder.
-§7To apply powders to items in a refined way, one must either incorporate the mix into the base construction of an item, or utilize the energies within for an enchantment.
-§7Merely sprinkling powders over other things will not generate any magical effects, although some artists are known to use powders to make brilliant colors of paint, strangely.
-§7He's looking towards the bookshelves...
-§cYou don't have the key.
-§7You search the chest...
-§7It's filled with various items.
-§7That's all there was.
-§7Could it be linked to the bookshelves?
+§7You must keep going.@§7Ты должен продолжать идти.
+§7We must keep going.@§7Мы должны продолжать идти.
+§7Are you sure we want to face reality?@§7Ты уверен, что мы хотим смотреть правде в глаза?
+§7The only one holding us back is us.@§7Единственное что нас сдерживает - это мы сами.
+§7Back to reality... We should talk to that citizen again.@§7Вернулись в реальность... Мы должны еще раз поговорить с этим жителем.
+§7[1 Grook Killed]@§7[1 Грук Убит]
+§7[2 Grook Killed]@§7[2 Грука Убито]
+§7[3 Grook Killed]@§7[3 Грука Убито]
+§7[4 Grook Killed]@§7[4 Грука Убито]
+§7[5 Grook Killed]@§7[5 Груков Убито]
+§7[6 Grook Killed]@§7[6 Груков Убито]
+§7[7 Grook Killed]@§7[7 Груков Убито]
+§7[8 Grook Killed]@§7[8 Груков Убито]
+§7[9 Grook Killed]@§7[9 Груков Убито]
+§7[10 Grook Killed]@§7[10 Груков Убито]
+§7You weren't successful in resurrecting the cow to it's healthy state. Try again.@§7Тебе не удалось воскресить корову до ее здорового состояния. Попробуй еще раз.
+§7You successfully resurrected the cow.@§7Ты успешно воскресил корову.
+§4You need a crystal to activate the spell!@§4Тебе нужен кристалл для активации заклинания!
+§7You should stay on the main path.@§7Ты должен оставаться на главном пути.
+§7An explosion has occured somewhere in the arena...@§7Где-то на арене прогремел взрыв...
+§7It appears the boulder that was once blocking the way is gone...@§7Похоже, что блокирующий путь камень исчез...
+§7It appears that green substance on the walls has bouncing properties.@§7Похоже, что зеленое вещество на стенах имеет отпрыгивающие свойства.
+§7Looks like you're past the spikes. You can see the tower that was visible past them from here. Hopefully there is a way to break the spikes from this side nearby...@§7Похоже, ты миновал шипы. Ты можешь видеть башню, которая была видна за ними отсюда. Надеюсь, поблизости есть способ сломать шипы с этой стороны...
+§7You need to cast a spell to break the spikes!@§7Тебе нужно использовать заклинание, чтобы сломать шипы!
+§7Inspecting the strange crystal sparks a memory.@§7При осмотре странного кристалла вспыхивает воспоминание.
+§4You already have a shard@§4У тебя уже есть осколок
+§7This will teleport you back on the pirate boat. Click again to confirm.@§7
+§7The crafting table isn't responding. Looks like you haven't got the right items.@§7
+§7The crafting table responds, and the materials shape themselves into a rather fetching amulet.@§7
+§7Aledar wouldn't want you going too far.@§7
+§cYou probably shouldn't leave the island while the seaskipper is waiting.@§c
+§7You've probably killed more than enough.@§7
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 0/7@§7
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 5/7@§7
+§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 6/7@§7
+§7Use the gunpowder and the fuse to activate the cannon and escape@§7
+§cLet's avoid blowing everything up for now.@§c
+§7Artifice is, to simplify, the art of creating magical materials. This book will teach you about various magical materials and methods of crafting your own artifacts.@§7
+§7Magical artifacts are nearly as common as pebbles on the roadside, even moreso in Gavel. Often referred to as Relics, these items were made independently of each other...@§7
+§7...but§7 tend to follow a similar structure. Magic can only be focused in certain ways, after all. Many reliquary items are outdated by today's standards, though theorists are baffled by...@§7
+§7...the§7 presence of such relics in Wynn. Magically-gifted individuals were not present for hundreds of years after the deaths of the Twains.@§7
+§7Some surmise that other entities than humans are responsible for their creation, which is supported by the presence of large amounts of artifacts in the Time Valley and Almuj regions.@§7
+§7A good place to start with crafting is in the humble necklace, and for that you would need string and magical materials. Even the string is relevant to the magical crafting process, however.@§7
+§7Derived from processed crops, ones such as Barley, Rye, or native Wynnic crops are less effective than Gavellian crops such as Hemp.@§7
+§7In particular, the feathery structure of Sorghum, also known as Avo leaf, is very conducive towards the channeling of magical energy.@§7
+§7An exception to this rule is with the recently dubbed "Decay Root" derived from Gavellian plants sapped of their magical energy. Decay Root absorbs magic and can leave sources completely drained.@§7
+§4You get the feeling you shouldn't be here...@§4
+§7The area past the gate should not be explored, a sinister energy can be felt.@§7
+§7You should use the void holes to cross the spikes.@§7
+§7Talk to Honip to know what to do next or look for clues on how to escape@§7
+§7No matter how hard to try and pull the blade out, it does not budge...@§7
+§7You need an item to break this...@§7
+§7Powders, while simple in actual structure, are often misunderstood except by enchanters and artificers.@§7
+§7Being made of specific blends of various items with magical ties to elements, certain powders are easier to create than others. Magical plants are easier to grind down than magical minerals, for instance.@§7
+§7After each item is ground to dust, enchanters purify the blend to remove extraneous aspects, leaving only the pure elemental powder in its wake.@§7
+§7Items more heavily attuned to a specific element will create a stronger blend of powder, but even items with the slightest connection to an element can conceivably be used to create a powder.@§7
+§7To apply powders to items in a refined way, one must either incorporate the mix into the base construction of an item, or utilize the energies within for an enchantment.@§7
+§7Merely sprinkling powders over other things will not generate any magical effects, although some artists are known to use powders to make brilliant colors of paint, strangely.@§7
+§7He's looking towards the bookshelves...@§7
+§cYou don't have the key.@§c
+§7You search the chest...@§7
+§7It's filled with various items.@§7
+§7That's all there was.@§7
+§7Could it be linked to the bookshelves?@§7
 
-§d            - §7+4 Nemract Boat Passes
-§d            - §7+4 Selchar Boat Passes
-§d            - §7+Various ingredients
-§d               - §7+1 Reset Scroll
-§d               - §7+Access to the Tol rune exchange
-§d            - §7+The Staff of the True Ice
-§d            - §7+Access to the Maex Resource Mine
-§d            - §7+Access to magic tunnel fast-travel.
-§d            - §7+Access to the Eldritch Outlook Dungeon
-§d            - §7+1 Eldritch Outlook Key
+§d            - §7+4 Nemract Boat Passes@
+§d            - §7+4 Selchar Boat Passes@
+§d            - §7+Various ingredients@
+§d               - §7+1 Reset Scroll@
+§d               - §7+Access to the Tol rune exchange@
+§d            - §7+The Staff of the True Ice@
+§d            - §7+Access to the Maex Resource Mine@
+§d            - §7+Access to magic tunnel fast-travel.@
+§d            - §7+Access to the Eldritch Outlook Dungeon@
+§d            - §7+1 Eldritch Outlook Key@
 
 §7From this view you can see various carvings along the side of the Tower of Ascension. It seems to depict something falling from the sky...
 §7They look sort of like the crystal on top of the tower, actually. The Tower may have been erected to hold §7it...or§7 to honour it? It’s unclear.
