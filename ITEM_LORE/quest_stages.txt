@@ -2661,3 +2661,555 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7[-1540,73,-4394]@ 
 §7[-705,58,-817]@ 
 §7[1084,133,-5606]@ 
+
+-------------------------------------
+§7Escape the first room of @§7Сбеги из первой комнаты 
+§7Togak's dungeon @§7данжа Тогака
+§7Battle through the eighth room @§7Пройди с боем через восьмую комнату
+==
+§7Wait for the Mage to @§7Подожди пока Маг 
+§7cast the incantation on the @§7наложит заклинание на 
+§7barrier @§7барьер
+==
+§7Speak to Relend on the @§7Поговори с Релендом на 
+§7beach @§7пляже
+§7Speak to Captain Relend aboard @§7Поговори с Капитаном Релендом на 
+§7the Little Wing @§7борту Little Wing
+==
+§7Find Scout Reynauld near Elkurn @§7Найди Скаута Рейнольда возле Элкурна 
+§7at the bridge to Picard's @§7у моста недалеко от Пикарда 
+§7tower. @§7башни.
+§7Help Reynauld Defeat the Corrupted @§7Помоги Рейнольду отбить Испорченное 
+§7invasion at the bridge. @§7вторжение на мосту.
+§7Return to Scout Reynauld and @§7Вернись к Скауту Рейнольду и 
+§7bring him back to Dr. @§7приведи его обратно к Др.
+§7Find the sailor Picard mentioned @§7Найди моряка Пикарда 
+§7on his boat at [-45, @§7на его лодке на [-45, 
+§765, -1217]. @ 
+§7Head into Elkurn and look @§7Иди в Элкурн и поищи 
+§7for a way to shrink @§7способ уменьшить 
+§7the boat. @§7лодку.
+§7Find [1 Golden Apple], [1 @§7Найди [1 Золотое Яблоко], [1 
+§7Bottle of Water] and [1 @§7Бутылку Воды] и [1 
+§7Bloom of Doom]. @§7Цветок Судьбы].
+§7Return to Caid with the @§7Вернись к Каиду с 
+§7potion. @§7зельем.
+§7Bring Caid back to Dr. @§7Приведи Каида обратно к Др. 
+§7Picard. @§7Пикарду.
+§7Find Farmer Edwin next to @§7Найди Фермера Эдвина рядом с 
+§7Nesaak at [128, 74, -1102]. @§7Несааком на [128, 74, -1102].
+§7Climb the mountain next to @§7Заберись на гору рядом с
+§7Edwin's house. @§7домом Эдвина.
+§7Break the ice on the @§7Сломай лед на 
+§7spring and water Edwin's crops. @§7водопаде и полей посевы Эдвина.
+§7Bring Edwin back to Dr. @§7Приведи Эдвина обратно к Др.
+§7Discover your own past. @§7Узнай свое собственное прошлое.
+==
+§7Meet Honip at @§7Найди Хонипа на 
+§7[103,37,-2254]@ 
+§7Explore the hold and kill @§7Исследуй трюм и убей 
+§7the rats @§7крыс
+§7Go to the Nemract docks @§7Иди в доки Немракта  
+§7to go back in the @§7чтобы вернуться на 
+§7boat at [104, 24, -2282] @§7лодку [104, 24, -2282]
+§7Clean the bodies in the @§7Очисти тела на 
+§7boat. Look for clues on @§7лодке. Поищи подсказки о том 
+§7how to escape at the @§7как сбежать в это же 
+§7same time. -Bodies cleaned: 0/7 @§7время. -Тел очищено: 0/7
+§7same time. -Bodies cleaned: 1/7 @§7время. -Тел очищено: 1/7
+§7same time. -Bodies cleaned: 2/7 @§7время. -Тел очищено: 2/7
+§7Use the gunpowder and the @§7Используй порох и 
+§7fuse to activate the cannon @§7рычаг для активации пушки 
+§7and escape @§7и сбеги
+§7Talk to Honip to know @§7Поговори с Хонипом чтобы узнать 
+§7what to do next or @§7что делать дальше, или 
+§7look for clues on how @§7поищи подсказки о том 
+§7to escape @§7как сбежать
+§7Look for clues on how @§7Поищи подсказки о том 
+§7Talk to Honip on the @§7Поговори с Хонипом на 
+§7deck to get your next @§7палубе чтобы перейти к следующей 
+§7task @§7задаче
+§7Find out where you are @§7Узнай где ты находишься 
+§7and a way to flee @§7и найди способ сбежать
+§7Defeat the Colossal Rat in @§7Победи Колосальную Крысу в
+§7the hold @§7трюме
+==
+§7Return to Seasum with the @§7Вернись к Сеасуму с 
+§7letter. @§7письмом
+§7Find the magical school boat @§7Найди магическую школьную лодку 
+§7[893,37,-2777]@ 
+§7Follow the children to the @§7Следуй за детьми в 
+§7school. @§7школу.
+§7Talk to Cidre on the @§7Поговори с Кидре на 
+§7school island. @§7школьном острове
+§7Buy a wand and a @§7Купи палочку и 
+§7magical book from the nearby @§7магическую книгу из ближайших 
+§7shops and enter Grookwarts. @§7магазинов и войди в Груквартс.
+§7Attend the welcoming dinner at @§7Посети праздничный обед в 
+§7Grookwarts. @§7Груквартсе
+§7Choose your schedule and attend @§7Выбери свое расписание и посети 
+§7your classes. @§7свои уроки.
+§7Finish school for the day. @§7Закончи школу за день.
+==
+§7Follow your team towards the @§7Следуй за своей командой ко 
+§7Silent Expanse's entrance. @§7входу в Тихое Пространство
+§7Defeat the Beast @§7Победи зверя
+§7Plan a way of killing @§7Придумай план по убийству 
+§7the beast. @§7зверя.
+§7Meet the other soldiers at @§7Встреть других солдатов на 
+§7[730, 61, -1434]. @ 
+§7Get the Shard with Aledar. @§7Добудь осколок вместе с Аледаром
+§7Explore the cave at [271, @§7Исследуй пещеру на [271, 
+§739, -1225] for the Shard. @§739, -1225] в поисках Осколка.
+§7at [271, 39, -1225] for @§7на [271, 39, -1225] в поисках 
+§7the Shard. @§7Осколка.
+§7Chase the beast for the @§7Преследуй зверя с 
+§7Shard. @§7Осколком
+§7Kill the Progenitors to open @§7Убей Progenitor'а чтобы открыть 
+§7the entrance. @§7вход.
+§7Kill the Mangled Progeny for @§7Убей Mangled Progeny и получи 
+§7the [1 Corrupted Pearl]. @§7[1 Испорченную Жемчужину].
+§7Go back to the Blacksmith @§7Вернись к Кузнецу 
+§7with the Darkness Item. @§7с Предметом Тьмы.
+§7Re-open the closed entrance with @§7Снова открой закрытый вход с 
+§7the other warriors. @§7другими войнами.
+§7Kill the Black Geist. @§7Убей Black Geist.
+§7Explore the Silent Expanse. @§7Исследуй Тихое Пространство
+§7Find Aledar, Lucio and Elphaba @§7Найди Аледара, Луцио и Эльфабу 
+§7in the Fallen City. @§7в Опустевшем Городе.
+§7Find Aledar and Elphaba in @§7Найди Аледара и Эльфабу в 
+§7the Fallen City. @§7Опустевшем Городе. 
+§7Find Aledar in the Fallen @§7Найди Аледара в Опустевшем 
+§7City. @§7Городе.
+§7Escort Aledar through the Eyeball @§7Доставь Аледара через Лес с
+§7Forest to Lutho. @§7Глазами в Луто.
+==
+§7§4§l... @ 
+§7Leave happier Lutho. @§7Покинь счастливый Луто.
+§7Explore this happier version of @§7Исследуй эту счастливую версию 
+§7Lutho. @§7Луто.
+==
+§7Find some sort of fuel @§7Найди какое-то топливо 
+§7in the ruined city @§7в этом разрушенном городе
+§7fuel @§7топлива
+§7Head back to the machine @§7Вернись обратно к машине
+§7Enter the opened crypt. @§7Войди в открытую гробницу.
+§7Illuminates@§7Освети
+==
+§7Reach the portal and prevent @§7Дойди до портала и останови 
+§7Garaheth from being summoned @§7призыв Гарахета
+§7Enter the body of Garaheth @§7Войди в тело Гарахета
+§7Freeze any vital point of @§7Заморозь любые жизненно-важные точки 
+§7Garaheth you can find! @§7Гарахета, которые сможешь найти!
+§7Get out of Garaheth! @§7Выйди из Гарахета!
+==
+§7Continue your journey with Aledar. @§7Продолжи свое путешествие с Аледаром.
+§7Defeat the Parasitic Slimers. @§7Победи Паразитических Слаймов.
+§7Continue on the main path @§7Продолжи идти по основному пути 
+§7with Aledar. @§7с Аледаром.
+§7Defend Aledar from the Radiated @§7Защити Аледара от Радиоактивных 
+§7Spiders. @§7Пауков.
+§7Jump into the void hole. @§7Прыгни в пустотную дыру.
+§7Continue on the trail with @§7Продолжи идти по пути с 
+§7Aledar. @§7Аледаром.
+§7Use Void Holes to try @§7Используй Пустотные Дыры 
+§7and get behind the spike @§7чтобы попасть за шипы
+§7Brings light to@§7Принеси свет к 
+§7something dark@§7чему-то темному
+§7Find a way to help @§7Найди способ помочь 
+§7Aledar get to the other @§7Аледару попасть на другую 
+§7side of the spike barrier. @§7сторону барьера из шипов
+§7Right click to grab the @§7Возьми клинок 
+§7blade in the altar. @§7с алтаря.
+§7Sacrifice Aledar. @§7Пожертвуй Аледаром.
+==
+
+§7who sent you on this @§7кто отправил тебя на это 
+§7journey. @§7приключение
+
+§7Bring [12 Wheat String] or @§7Принеси [12 Пшеничных Нитей] или 
+§7[12 Wheat Grains] to the @§7[12 Пшеничного Зерна] к 
+§7[-781,66,-1742]@ 
+
+§7Bring [14 Barley String] or @§7Принеси [14 Ячменных Нитей] или 
+§7[14 Barley Grains] to the @§7[14 Ячменного Зерна] к 
+§7[-539,101,-1306]@ 
+
+§7Bring [16 Oat String] or @§7Принеси [16 Овсяных Нитей] или 
+§7[16 Oat Grains] to the @§7[16 Овсяного Зерна] к 
+§7[-48,36,-2500]@ 
+
+§7Bring [24 Oat String] or @§7Принеси [24 Овсяных Нити] или 
+§7[24 Oat Grains] to the @§7[24 Овсяного Зерна] к 
+§7[788,71,-1559]@ 
+
+§7Bring [20 Malt String] or @§7Принеси [20 Солодовых Нитей] или 
+§7[20 Malt Grains] to the @§7[20 Солодового Зерна] к 
+§7[1280,77,-1981]@ 
+
+§7Bring [30 Malt String] or @§7Принеси [30 Солодовых Нитей] или 
+§7[30 Malt Grains] to the @§7[30 Солодового Зерна] к 
+§7[1427,88,-1607]@ 
+
+§7Bring [24 Hops String] or @§7Принеси [24 Хмельных Нитей] или 
+§7[24 Hops Grains] to the @§7[24 Хмельного Зерна] к 
+§7[-1557,50,-4987]@ 
+
+§7Bring [36 Hops String] or @§7Принеси [36 Хмельных Нитей] или 
+§7[36 Hops Grains] to the @§7[36 Хмельного Зерна] к 
+§7[-1793,54,-4938]@ 
+
+§7Bring [28 Rye String] or @§7Принеси [28 Ржаных Нитей] или 
+§7[28 Rye Grains] to the @§7[28 Ржаного Зерна] к 
+§7[-2191,59,-5416]@ 
+
+§7Bring [42 Rye String] or @§7Принеси [42 Ржаных Нити] или 
+§7[42 Rye Grains] to the @§7[42 Ржаного Зерна] к 
+§7[-1903,56,-5278]@ 
+
+§7Bring [30 Millet String] or @§7Принеси [30 Нитей Просо] или 
+§7[30 Millet Grains] to the @§7[30 Просо Зерна] к 
+§7[-1385,42,-4541]@ 
+
+§7Bring [36 Millet String] or @§7Принеси [36 Нитей Просо] или 
+§7[36 Millet Grains] to the @§7[36 Просо Зерна] к 
+§7[-1278,44,-4547]@ 
+
+§7Bring [44 Millet String] or @§7Принеси [44 Нити Просо] или 
+§7[44 Millet Grains] to the @§7[44 Просо Зерна] к 
+§7[-733,75,-4494]@ 
+
+§7Bring [32 Decay String] or @§7Принеси [32 Зараженных Нити] или 
+§7[32 Decay Grains] to the @§7[32 Зараженного Зерна] к 
+§7[-873,45,-5314]@ 
+
+§7Bring [40 Decay String] or @§7Принеси [40 Зараженных Нитей] или 
+§7[40 Decay Grains] to the @§7[40 Зараженного Зерна] к 
+§7[-723,43,-5047]@ 
+
+§7Bring [48 Decay String] or @§7Принеси [48 Зараженных Нитей] или 
+§7[48 Decay Grains] to the @§7[48 Зараженного Зерна] к 
+§7[-711,44,-5211]@ 
+
+§7Bring [34 Rice String] or @§7Принеси [34 Рисовых Нити] или 
+§7[34 Rice Grains] to the @§7[34 Рисового Зерна] к 
+§7[366,30,-5160]@ 
+
+§7Bring [44 Rice String] or @§7Принеси [44 Рисовых Нити] или 
+§7[44 Rice Grains] to the @§7[44 Рисового Зерна] к 
+§7[534,28,-5157]@ 
+
+§7Bring [52 Rice String] or @§7Принеси [52 Рисовых Нити] или 
+§7[52 Rice Grains] to the @§7[52 Рисового Зерна] к 
+§7[743,44,-5318]@ 
+
+§7Bring [62 Rice String] or @§7Принеси [62 Рисовых Нити] или 
+§7[62 Rice Grains] to the @§7[62 Рисового Зерна] к 
+§7[79,44,-4772]@ 
+
+§7Bring [36 Sorghum String] or @§7Принеси [36 Нитей Сорго] или 
+§7[36 Sorghum Grains] to the @§7[36 Сорго Зерна] к 
+§7[-1386,123,-3023]@ 
+
+§7Bring [48 Sorghum String] or @§7Принеси [48 Нитей Сорго] или 
+§7[48 Sorghum Grains] to the @§7[48 Сорго Зерна] к 
+§7[-1433,71,-2280]@ 
+
+§7Bring [52 Sorghum String] or @§7Принеси [52 Нити Сорго] или 
+§7[52 Sorghum Grains] to the @§7[52 Сорго Зерна] к 
+§7[-1757,125,-3330]@ 
+
+§7Bring [62 Sorghum String] or @§7Принеси [62 Нити Сорго] или 
+§7[62 Sorghum Grains] to the @§7[62 Сорго Зерна] к 
+§7[-1838,106,-3282]@ 
+
+§7Bring [12 Copper Ingots] or @§7Принеси [12 Медных Слитков] или 
+§7[12 Copper Gems] to the @§7[12 Медных Камней] к 
+§7[-563,68,-1547]@ 
+
+§7Bring [14 Granite Ingots] or @§7Принеси [14 Гранитных Слитков] или 
+§7[14 Granite Gems] to the @§7[14 Гранитных Камней] к 
+§7[-879,111,-1330]@ 
+
+§7Bring [16 Gold Ingots] or @§7Принеси [16 Золотых Слитков] или 
+§7[16 Gold Gems] to the @§7[16 Золотых Камней] к 
+§7[424,66,-1275]@ 
+
+§7Bring [24 Gold Ingots] or @§7Принеси [24 Золотых Слитка] или 
+§7[24 Gold Gems] to the @§7[24 Золотых Камня] к 
+§7[833,38,-1282]@ 
+
+§7Bring [20 Sandstone Ingots] or @§7Принеси [20 Песчаных Слитков] или 
+§7[20 Sandstone Gems] to the @§7[20 Песчаных Камней] к 
+§7[1162,75,-1849]@ 
+
+§7Bring [30 Sandstone Ingots] or @§7Принеси [30 Песчаных Слитков] или 
+§7[30 Sandstone Gems] to the @§7[30 Песчаных Камней] к 
+§7[1444,88,-2211]@ 
+
+§7Bring [24 Iron Ingots] or @§7Принеси [24 Железных Слитка] или 
+§7[24 Iron Gems] to the @§7[24 Железных Камня] к 
+§7[1067,65,-3363]@ 
+
+§7Bring [36 Iron Ingots] or @§7Принеси [36 Железных Слитков] или 
+§7[36 Iron Gems] to the @§7[36 Железных Камней] к 
+§7[-433,25,-388]@ 
+
+§7Bring [28 Silver Ingots] or @§7Принеси [28 Серебряных Слитков] или 
+§7[28 Silver Gems] to the @§7[28 Серебряных Камней] к 
+§7[-1707,54,-5146]@ 
+
+§7Bring [42 Silver Ingots] or @§7Принеси [42 Серебряных Слитка] или 
+§7[42 Silver Gems] to the @§7[42 Серебряных Камня] к 
+§7[-915,44,-3809]@ 
+
+§7Bring [30 Cobalt Ingots] or @§7Принеси [30 Кобальтовых Слитков] или 
+§7[30 Cobalt Gems] to the @§7[30 Кобальтовых Камней] к 
+§7[-896,24,-679]@ 
+
+§7Bring [36 Cobalt Ingots] or @§7Принеси [36 Кобальтовых Слитков] или 
+§7[36 Cobalt Gems] to the @§7[36 Кобальтовых Камней] к 
+§7[-1277,25,-5528]@ 
+
+§7Bring [44 Cobalt Ingots] or @§7Принеси [44 Кобальтовых Слитков] или 
+§7[44 Cobalt Gems] to the @§7[44 Кобальтовых Камня] к 
+§7[190,62,-3986]@ 
+
+§7Bring [32 Kanderstone Ingots] or @§7Принеси [32 Кандерстоун Слитка] или 
+§7[32 Kanderstone Gems] to the @§7[32 Кандерстоун Камня] к 
+§7[-557,43,-5460]@ 
+
+§7Bring [40 Kanderstone Ingots] or @§7Принеси [40 Кандерстоун Слитков] или 
+§7[40 Kanderstone Gems] to the @§7[40 Кандерстоун Камней] к 
+§7[-714,45,-5548]@ 
+
+§7Bring [48 Kanderstone Ingots] or @§7Принеси [48 Кандерстоун Слитков] или 
+§7[48 Kanderstone Gems] to the @§7[48 Кандерстоун Камней] к 
+§7[-767,44,-5151]@ 
+
+§7Bring [34 Diamond Ingots] or @§7Принеси [34 Алмазных Слитка] или 
+§7[34 Diamond Gems] to the @§7[34 Алмазных Камня] к 
+§7[337,27,-5356]@ 
+
+§7Bring [44 Diamond Ingots] or @§7Принеси [44 Алмазных Слитка] или 
+§7[44 Diamond Gems] to the @§7[44 Алмазных Камня] к 
+§7[641,29,-4793]@ 
+
+§7Bring [52 Diamond Ingots] or @§7Принеси [52 Алмазных Слитка] или 
+§7[52 Diamond Gems] to the @§7[52 Алмазных Камня] к 
+§7[27,42,-4672]@ 
+
+§7Bring [62 Diamond Ingots] or @§7Принеси [62 Алмазных Слитка] или 
+§7[62 Diamond Gems] to the @§7[62 Алмазных Камня] к 
+§7[369,77,-5070]@ 
+
+§7Bring [36 Molten Ingots] or @§7Принеси [36 Молтен Слитков] или 
+§7[36 Molten Gems] to the @§7[36 Молтен Камней] к 
+§7[1229,20,-5470]@ 
+
+§7Bring [48 Molten Ingots] or @§7Принеси [48 Молтен Слитков] или 
+§7[48 Molten Gems] to the @§7[48 Молтен Камней] к 
+§7[1394,68,-5609]@ 
+
+§7Bring [52 Molten Ingots] or @§7Принеси [52 Молтен Слитка] или 
+§7[52 Molten Gems] to the @§7[52 Молтен Камня] к 
+§7[1352,155,-5171]@ 
+
+§7Bring [62 Molten Ingots] or @§7Принеси [62 Молтен Слитка] или 
+§7[62 Molten Gems] to the @§7[62 Молтен Камня] к 
+§7[1270,140,-5339]@ 
+
+§7Bring [12 Oak Wood] or @§7Принеси [12 Древесины Дуба] или 
+§7[12 Oak Paper] to the @§7[12 Дубовой Бумаги] к 
+§7[-433,67,-1591]@ 
+
+§7Bring [14 Birch Wood] or @§7Принеси [14 Древесины Березы] или 
+§7[14 Birch Paper] to the @§7[14 Березовой Бумаги] к 
+§7[182,67,-1597]@ 
+
+§7Bring [16 Willow Wood] or @§7Принеси [16 Древесины Ивы] или 
+§7[16 Willow Paper] to the @§7[16 Ивовой Бумаги] к 
+§7[16,37,-2203]@ 
+
+§7Bring [24 Willow Wood] or @§7Принеси [24 Древесины Ивы] или 
+§7[24 Willow Paper] to the @§7[24 Ивовой Бумаги] к 
+§7[223,43,-2047]@ 
+
+§7Bring [20 Acacia Wood] or @§7Принеси [20 Древесины Акации] или 
+§7[20 Acacia Paper] to the @§7[20 Акациевой Бумаги] к 
+§7[630,68,-1978]@ 
+
+§7Bring [30 Acacia Wood] or @§7Принеси [30 Древесины Акации] или 
+§7[30 Acacia Paper] to the @§7[30 Акациевой Бумаги] к 
+§7[1226,116,-1391]@ 
+
+§7Bring [24 Spruce Wood] or @§7Принеси [24 Древесины Ели] или 
+§7[24 Spruce Paper] to the @§7[24 Еловой Бумаги] к 
+§7[46,67,-813]@ 
+
+§7Bring [36 Spruce Wood] or @§7Принеси [36 Древесины Ели] или 
+§7[36 Spruce Paper] to the @§7[36 Еловой Бумаги] к 
+§7[-175,66,-923]@ 
+
+§7Bring [28 Jungle Wood] or @§7Принеси [28 Древесины Амаранта] или 
+§7[28 Jungle Paper] to the @§7[28 Амарантовой Бумаги] к 
+§7[-571,62,-738]@ 
+
+§7Bring [42 Jungle Wood] or @§7Принеси [42 Древесины Амаранта] или 
+§7[42 Jungle Paper] to the @§7[42 Амарантовой Бумаги] к 
+§7[-685,58,-884]@ 
+
+§7Bring [30 Dark Wood] or @§7Принеси [30 Древесины Каштана] или 
+§7[30 Dark Paper] to the @§7[30 Каштановой Бумаги] к 
+§7[-1253,42,-5385]@ 
+
+§7Bring [36 Dark Wood] or @§7Принеси [36 Древесины Каштана] или 
+§7[36 Dark Paper] to the @§7[36 Каштановой Бумаги] к 
+§7[-1066,43,-5156]@ 
+
+§7Bring [44 Dark Wood] or @§7Принеси [44 Древесины Каштана] или 
+§7[44 Dark Paper] to the @§7[44 Каштановой Бумаги] к 
+§7[952,47,-3883]@ 
+
+§7Bring [32 Light Wood] or @§7Принеси [32 Древесины Клена] или 
+§7[32 Light Paper] to the @§7[32 Кленовой Бумаги] к 
+§7[-1291,42,-4625]@ 
+
+§7Bring [40 Light Wood] or @§7Принеси [40 Древесины Клена] или 
+§7[40 Light Paper] to the @§7[40 Кленовой Бумаги] к 
+§7[-1156,46,-4760]@ 
+
+§7Bring [48 Light Wood] or @§7Принеси [48 Древесины Клена] или 
+§7[48 Light Paper] to the @§7[48 Кленовой Бумаги] к 
+§7[-941,44,-4896]@ 
+
+§7Bring [34 Pine Wood] or @§7Принеси [34 Древесины Сосны] или 
+§7[34 Pine Paper] to the @§7[34 Сосновой Бумаги] к 
+§7[81,45,-5289]@ 
+
+§7Bring [44 Pine Wood] or @§7Принеси [44 Древесины Сосны] или 
+§7[44 Pine Paper] to the @§7[44 Сосновой Бумаги] к 
+§7[646,77,-5058]@ 
+
+§7Bring [52 Pine Wood] or @§7Принеси [52 Древесины Сосны] или 
+§7[52 Pine Paper] to the @§7[52 Сосновой Бумаги] к 
+§7[-1339,113,-2870]@ 
+
+§7Bring [36 Avo Wood] or @§7Принеси [36 Древесины Авокадо] или 
+§7[36 Avo Paper] to the @§7[36 Авокадовой Бумаги] к 
+§7[-1710,67,-2802]@ 
+
+§7Bring [48 Avo Wood] or @§7Принеси [48 Древесины Авокадо] или 
+§7[48 Avo Paper] to the @§7[48 Авокадовой Бумаги] к 
+§7[-1836,105,-2906]@ 
+
+§7Bring [52 Avo Wood] or @§7Принеси [52 Древесины Авокадо] или 
+§7[52 Avo Paper] to the @§7[52 Авокадовой Бумаги] к 
+§7[-1739,76,-2469]@ 
+
+§7Bring [62 Avo Wood] or @§7Принеси [62 Древесины Авокадо] или 
+§7[62 Avo Paper] to the @§7[62 Авокадовой Бумаги] к 
+§7[-1686,75,-2187]@ 
+
+§7Bring [12 Gudgeon Oil] or @§7Принеси [12 Жира Пескаря] или 
+§7[12 Gudgeon Meat] to the @§7[12 Мяса Пескаря] к 
+§7[-637,67,-1558]@ 
+
+§7Bring [14 Trout Oil] or @§7Принеси [14 Жира Форели] или 
+§7[14 Trout Meat] to the @§7[14 Мяса Форели] к 
+§7[53,60,-1547]@ 
+
+§7Bring [16 Salmon Oil] or @§7Принеси [16 Жира Салмона] или 
+§7[16 Salmon Meat] to the @§7[16 Мяса Лосося] к 
+§7[220,34,-2131]@ 
+
+§7Bring [24 Salmon Oil] or @§7Принеси [24 Жира Салмона] или 
+§7[24 Salmon Meat] to the @§7[24 Мяса Лосося] к 
+§7[371,35,-2114]@ 
+
+§7Bring [20 Carp Oil] or @§7Принеси [20 Жира Карпа] или 
+§7[20 Carp Meat] to the @§7[20 Мяса Карпа] к 
+§7[1317,74,-1838]@ 
+
+§7Bring [30 Carp Oil] or @§7Принеси [30 Жира Карпа] или 
+§7[30 Carp Meat] to the @§7[30 Мяса Карпа] к 
+§7[1070,30,-1423]@ 
+
+§7Bring [24 Icefish Oil] or @§7Принеси [24 Жира Щуки] или 
+§7[24 Icefish Meat] to the @§7[24 Мяса Щуки] к 
+§7[84,66,-921]@ 
+
+§7Bring [36 Icefish Oil] or @§7Принеси [36 Жира Щуки] или 
+§7[36 Icefish Meat] to the @§7[36 Мяса Щуки] к 
+§7[868,39,-3369]@ 
+
+§7Bring [28 Piranha Oil] or @§7Принеси [28 Жира Пираньи] или 
+§7[28 Piranha Meat] to the @§7[28 Мяса Пираньи] к 
+§7[-667,62,-637]@ 
+
+§7Bring [42 Piranha Oil] or @§7Принеси [42 Жира Пираньи] или 
+§7[42 Piranha Meat] to the @§7[42 Мяса Пираньи] к 
+§7[-731,83,-748]@ 
+
+§7Bring [30 Koi Oil] or @§7Принеси [30 Жира Сазана] или 
+§7[30 Koi Meat] to the @§7[30 Мяса Сазана] к 
+§7[-623,22,-531]@ 
+
+§7Bring [36 Koi Oil] or @§7Принеси [36 Жира Сазана] или 
+§7[36 Koi Meat] to the @§7[36 Мяса Сазана] к 
+§7[-831,23,-410]@ 
+
+§7Bring [44 Koi Oil] or @§7Принеси [44 Жира Сазана] или 
+§7[44 Koi Meat] to the @§7[44 Мяса Сазана] к 
+§7[-1299,51,-5194]@ 
+
+§7Bring [32 Gylia Oil] or @§7Принеси [32 Жира Гилия] или 
+§7[32 Gylia Meat] to the @§7[32 Мяса Гилия] к 
+§7[-131,31,-5115]@ 
+
+§7Bring [40 Gylia Oil] or @§7Принеси [40 Жира Гилия] или 
+§7[40 Gylia Meat] to the @§7[40 Мяса Гилия] к 
+§7[-244,28,-5300]@ 
+
+§7Bring [48 Gylia Oil] or @§7Принеси [48 Жира Гилия] или 
+§7[48 Gylia Meat] to the @§7[48 Мяса Гилия] к 
+§7[10,26,-5251]@ 
+
+§7Bring [34 Bass Oil] or @§7Принеси [34 Жира Окуня] или 
+§7[34 Bass Meat] to the @§7[34 Мяса Окуня] к 
+§7[105,45,-4987]@ 
+
+§7Bring [44 Bass Oil] or @§7Принеси [44 Жира Окуня] или 
+§7[44 Bass Meat] to the @§7[44 Мяса Окуня] к 
+§7[-1729,37,-2067]@ 
+
+§7Bring [52 Bass Oil] or @§7Принеси [52 Жира Окуня] или 
+§7[52 Bass Meat] to the @§7[52 Мяса Окуня] к 
+§7[-1829,37,-2223]@ 
+
+§7Bring [62 Bass Oil] or @§7Принеси [62 Жира Окуня] или 
+§7[62 Bass Meat] to the @§7[62 Мяса Окуня] к 
+§7[-1330,34,-2732]@ 
+
+§7Bring [36 Molten Oil] or @§7Принеси [36 Жира Молтен] или 
+§7[36 Molten Meat] to the @§7[36 Мяса Молтен] к 
+§7[1460,29,-5558]@ 
+
+§7Bring [48 Molten Oil] or @§7Принеси [48 Жира Молтен] или 
+§7[48 Molten Meat] to the @§7[48 Мяса Молтен] к 
+§7[1414,158,-5601]@ 
+
+§7Bring [52 Molten Oil] or @§7Принеси [52 Жира Молтен] или 
+§7[52 Molten Meat] to the @§7[52 Мяса Молтен] к 
+§7[1199,152,-5239]@ 
+
+§7Bring [62 Molten Oil] or @§7Принеси [62 Жира Молтен] или 
+§7[62 Molten Meat] to the @§7[62 Мяса Молтен] к 
+§7[1407,139,-5076]@ 
+
+§7Bring [26 Bamboo] to the @§7Принеси [26 Бамбука] к 
+§7[87,81,-4340]@ 
+
+§7Kill the monster at the @§7Убей монстра на 
+§7bottom and bring [1 Insect @§7дне и принеси [1 Испорченное 
+§7of Corruption] to Inrekei. @§7Насекомое] к Энрике.
