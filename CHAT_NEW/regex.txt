@@ -19,6 +19,7 @@
 §(a|e|7)\[(.*)\/(.*)\]§(a|e|7) §(7|f)(.*): §(.*)@ 
 §(e|a|b)\[(.*)\/(.*)\/(.*)\] §(.*): §(.*)@ 
 §7\[(.*)\/(Ar|Ma|As|Wa|Kn|Da|Hu|Sh|Sk|Ni)\/(.*)\](.*)@ 
+§7\[Lv. (\d+)\/§8(\d+)§7\/(.*)\] (.*)@ 
 
 §6\[Info\] §eWatch your personal progress at §6(.*)§e!@§6[Инфо] §eСмотри свою персональную статистику на §6(r1)§e!
 §6\[Info\] §eLook at your own personal stats at §6(.*)§e!@§6[§eИнфо§6] §eПосмотри свою персональную статистику на §6(r1)§e!
@@ -349,3 +350,77 @@
 
 §7\[10\/10\] §2Teacher: §aThe mechanism is behind me now! Come up, come up! See the power of thunder, shackled by our whims, won't you, (.*)\?!@§7[10/10] §2Учитель: §aМеханизм позади меня! Подойди же, подойди! Узри силу грома, скованную нашими капризами, не так ли, (r1)?!
 §7\[1\/2\] §2Teacher: §aWhee hee hee! Thunder tamed, thunder shackled, and your magical wings unbound by such petty concepts, (.*)! What a show!@§7[1/2] §2Учитель: §aВуи-хи-хи! Гром укрощен, гром скован, и твои волшебные крылья не связаны такими мелочными понятиями, (r1)! Ну и шоу!
+
+------------------------------------------------
+(.*) has logged into server (.*) as §(b|a)a Shaman@(r1) зашел на сервер (r2) классом §(r3)Шаман
+(.*) has logged into server (.*) as §(b|a)a Skyseer@(r1) зашел на сервер (r2) классом §(r3)Провидец
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Бросок
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Аура
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Изгнание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTotem upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Тотем
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Броска
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Изгнания
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ауры
+§6(.*) met his fate.@§6(r1) встретил свою судьбу.
+§6(.*) was killed.@§6(r1) был убит.
+§6(.*) bit the dust.@§6(r1) превратился в пыль.
+§6(.*) has died.@§6(r1) умер.
+§6(.*) passed away.@§6(r1) скончался.
+§6(.*) met his demise.@§6(r1) встретил свою кончину.
+§6(.*) has been slain.@§6(r1) был уничтожен.
+§6(.*) is six feet under.@§6(r1) на глубине шести футов.
+§6(.*) has perished.@§6(r1) погиб.
+§6(.*) kicked the bucket.@§6(r1) отбросил коньки.
+(.*) has an invalid spell configuration@(r1) имеет неверную конфтигурацию заклинания
+§d     -§7 Location: §fSilent Expanse \[(.*)\]@§d     -§7 Локация: §fТихое Пространство [(r1)]
+§d     -§7 Location: §fNesaak Tundra \[(.*)\]@§d     -§7 Локация: §fНесаак Тундра [(r1)]
+§4You need to be §cWoodcutting Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Лесорубства§4 для старта этого мини-квеста
+§4You need to be §cFishing Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Рыболовства§4 для старта этого мини-квеста
+§5Only §d(\d+) more level(|s) §5until you can gather from §dSilver@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСеребро
+§7\[1\/1\] §2Lucio: §a(.*)! She was completely right. You ought to come with us...@§7[1/1] §2Луцио: §a(r1)! Она была совершенно права. Ты должен пойти с нами...
+§7\[2\/17\] §2Aledar: §aElphie! Have you found our fourth member yet\?... Oh, (.*)!@§7[2/17] §2Аледар: §aЭльфи! Ты уже нашла нашего четвертого участника?... Ох, (r1)!
+§7\[22\/23\] §2Dr. Picard: §a(.*)! Get out of there! You are being sucked into the memory.@§7[22/23] §2Др. Пикард: §a(r1)! Выбирайся оттуда! Тебя засасывает в память.
+§7\[5\/17\] §2Elphaba: §aHold up. We need to brief (.*). This mission is dangerous. Listen up.@§7[5/17] §2Эльфаба: §aПодожди. Нам нужно проинструктировать (r1). Эта миссия опасна. Слушай сюда.
+§7\[17\/17\] §2Aledar: §a(.*) If you are ready, let’s go.@§7[17/17] §2Аледар: §a(r1) Если ты готов, то пойдем.
+§7\[1\/1\] §2Aledar: §aStay with me, (.*)! We must stay together, this is a dangerous mission.@§7[1/1] §2Аледар: §aОстанься со мной, (r1)! Мы должны держаться вместе, это опасная миссия.
+§7\[2\/12\] §2Aledar: §aIt’s a twist of fate that our paths have converged here, (.*). We started our journey together and now..@§7[2/12] §2Аледар: §aКак иронично, что наши пути сошлись здесь, (r1). Мы начали наше путешествие вместе и сейчас..
+§7\[6\/12\] §2Aledar: §aNo more running for us, huh (.*)\? Ah, we’re here.@§7[6/12] §2Аледар: §aБольше не убегай от нас, хорошо, (r1)? Ох, мы на месте.
+§7\[10\/14\] §2Aledar: §a(.*), come with me! Cast a spell to block the cave's entrance so the monster can't leave.@§7[10/14] §2Аледар: §a(r1), идем со мной! Используй заклинание, чтобы заблокировать вход в пещеру, чтобы монстр не мог выйти.
+§7\[7\/7\] §2Elphaba: §a(.*), I've written the house's coordinates on your book. Meet us there.@§7[7/7] §2Эльфаба: §a(r1), Я записала координаты дома в твою квестовую книгу. Встретимся там.
+§7\[18\/19\] §2Elphaba: §aAlright. Aledar, you get the Darkness item with (.*), and I'll go get the Light item with Lucio.@§7[18/19] §2Эльфаба: §aХорошо. Аледар, вы достаете предмет Тьмы вместе с (r1), а мы достаем предмет Света вместе с Луцио.
+§7\[19\/19\] §2Aledar: §aYes ma'am! Let's go (.*)!@§7[19/19] §2Аледар: §aПонял, мэм! Пошли (r1)!
+§7\[1\/5\] §2Aledar: §aHere we are, the roots of Corruption. Let’s go, (.*)!@§7[1/5] §2Аледар: §aВот мы и на месте, у корней Порчи. Идем, (r1)!
+§7\[5\/5\] §2Aledar: §a...I don’t think we can spell our way across, (.*)! We need something like... Wings!@§7[5/5] §2Аледар: §a...Я не думаю, что мы сможем найти путь на ту сторону, (r1)! Нам нужно что-то вроде... Крыльев!
+§7\[1\/2\] §2Aledar: §aWow, I’m impressed (.*). I honestly thought you would need my help.@§7[1/2] §2Аледар: §aВоу, я впечатлен (r1). Честно думал, что тебе понадобится моя помощь.
+§7\[2\/4\] §2Dren: §aThat should do it. Let’s see if this will work. Come here (.*)!@§7[2/4] §2Дрен: §aЭто должно помочь. Давайте посмотрим, сработает ли это. Встань сюда (r1)!
+§7\[1\/1\] §2Elphaba: §aStay with us (.*), we just got here. We can't just go wandering around.@§7[1/1] §2Эльфаба: §aОстанься с нами (r1), мы только пришли сюда. Мы не можем просто бродить вокруг.
+§7\[1\/1\] §2Aledar: §aStay with us (.*)! We've just had a loss, you can't go wandering around!@§7[1/1] §2Аледар: §aОставайся с нами (r1)! У нас только что была потеря, ты не можешь бродить вокруг!
+§7\[1\/7\] §2Aledar: §aNo no no!! This is bad, really bad! We have to go (.*)! Now!@§7[1/7] §2Аледар: §aНет нет нет!! Это плохо, очень плохо! Мы должны идти (r1)! Сейчас же!
+§7\[1\/5\] §2Aledar: §a([a-zA-Z0-9_]{1,16})! ([a-zA-Z0-9_]{1,16})!@§7[1/5] §2Аледар: §a(r1)! (r2)!
+§7\[2\/6\] §2Aledar: §aUrrrgh. (.*), this hasn’t gone to plan. According to my map we aren’t even half way.@§7[2/6] §2Аледар: §aУуггхх. (r1), все пошло не по плану. Судя по моей карте, мы не прошли и половины пути.
+§7\[8\/8\] §2Aledar: §aLook out, (.*)!@§7[8/8] §2Аледар: §aОсторожнее, (r1)!
+§7\[1\/1\] §2Aledar: §aThey're here again, (.*)!@§7[1/1] §2Аледар: §aОни снова здесь, (r1)!
+§7\[1\/1\] §2Aledar: §aOuch! I got hit! Be careful, (.*)!@§7[1/1] §2Аледар: §aАй! Я получил удар! Будь осторожнее, (r1)!
+§7\[1\/2\] §2Aledar: §a(.*), good news. I'm basically as recovered as I think I'll get.@§7[1/2] §2Аледар: §a(r1), хорошие новости. Я практически восстановился.
+§7\[2\/2\] §2Aledar: §aIt's an ambush! Stay sharp, (.*)!@§7[2/2] §2Аледар: §aЭто засада! Будь начеку, (r1)!
+§7\[2\/5\] §2Aledar: §aWait, (.*), what's going on\? Are you alright\?@§7[2/5] §2Аледар: §aПогоди, (r1), что происходит? С тобой все в порядке?
+§7\[2\/9\] §2Aledar: §a(.*), §aa-agh...you're§a okay, right\?@§7[2/9] §2Аледар: §a(r1), §aа-аагх...ты в порядке, верно?
+§7\[6\/9\] §2Aledar: §a(.*), you just... you have to realize, I can't have you getting hurt.@§7[6/9] §2Аледар: §a(r1), ты просто..... ты должен понять, я не могу допустить, чтобы ты пострадал.
+§7\[3\/3\] §2Aledar: §aOh no, I think something is coming... (.*)! Fight it off, I don't think I can defend myself right now!@§7[3/3] §2Аледар: §aО нет, я думаю что-то приближается... (r1)! Отбивайся, я не думаю, что смогу защитить себя прямо сейчас!
+§7\[3\/11\] §2Aledar: §a(.*), try throwing a spell at the same time! Let's crack through these things!@§7[3/11] §2Аледар: §a(r1), попробуй использовать заклинание одновременно! Давай прорвемся через эту штуку!
+§7\[1\/5\] §2Aledar: §a...wait§a, (.*)\? You got to the other side then...\? Good...@§7[1/5] §2Аледар: §a...подожди§a, (r1)? Ты перебрался на другую сторону...? Хорошо...
+§7\[8\/20\] §2Aledar: §aI §amean...look§a at the state I'm in, (.*)! I'm on death's door already, and you've proven yourself far stronger than I am even at my best.@§7[8/20] §2Аледар: §aЯ про то...посмотри, в каком я состоянии, (r1)! Я уже на пороге смерти, а ты доказал, что ты намного сильнее меня даже в моих лучших проявлениях.
+§7\[13\/20\] §2Aledar: §aGrab the blade, (.*).@§7[13/20] §2Аледар: §aВозьми клинок, (r1).
+§7Hello, ([a-zA-Z0-9_]{1,16}).@§7Здравствуй, (r1).
+§7\[1\/1\] §2Aledar: §aStay with us (.*), we just got here. We can't just go wandering around.@§7[1/1] §2Аледар: §aОстанься с нами (r1), мы только что пришли. Мы не можем просто бродить вокруг.
+§7\[8\/10\] §2Teacher: §aBut aside from that, onto our practical test. You will all come up to me, starting with (.*), and hone your courage. I will be lobbing fireballs at the wall behind you.@§7[8/10] §2Учитель: §aНо помимо этого, перейдем к нашему практическому тесту. Вы все подойдете ко мне, начиная с (r1), и отточите свое мужество. Я буду швырять огненные шары в стену позади вас.
+§7\[9\/10\] §2Teacher: §aYou will need to destroy the fireballs before they hit the wall, by attacking them directly. If you are hit, it counts as a failure! Now. Let's get started, (.*).@§7[9/10] §2Учитель: §aВам нужно будет уничтожить огненные шары, прежде чем они попадут в стену, атакуя их напрямую. Если по вам попали, это считается неудачей! Итак. Давай начнем, (r1).
+§7\[2\/2\] §2Teacher: §aDismissed, (.*). You may leave. Now, do I have any volunteers for the next round...\?@§7[2/2] §2Учитель: §aОтстранен, (r1). Можешь идти. Теперь, есть ли у меня добровольцы для следующего раунда...?
+§7\[1\/1\] §2Teacher: §aCorrect. (.*), thank you for paying attention. No one ever seems to in this class. You may go.@§7[1/1] §2Учитель: §aВерно. (r1), спасибо, что уделил внимание. В этом классе, кажется, никто никогда этого не делал. Можешь идти.
+§7\[6\/10\] §2Headmaster: §aLet us start with (.*). Please come up to the stage!@§7[6/10] §2Директор: §aДавайте начнем с (r1). Пожалуйста, поднимись на сцену!
+§7\[18\/18\] §2Teacher: §aGAACK! No, (.*), I said RUN! Don't fight that thing, get OUT!@§7[18/18] §2Учитель: §aААГА! Нет, (r1), я сказал БЕГИ! Не сопротивляйся этой твари, убирайся!
+§7\[1\/4\] §2Korzim: §a(.*)... Do you §ahave...the§a staff\? And the amulet...\?@§7[1/4] §2Корзим: §a(r1)... Предмет у тебя? И амулет...?
+§7\[1\/2\] §2Teacher: §aMhm, that's the ticket, (.*). If you're interested in learning more, you can probably find my books at most libraries.@§7[1/2] §2Учитель: §aМхм, это билет, (r1). Если ты заинтересован в получении дополнительной информации, ты вероятно, можешь найти мои книги в большинстве библиотек.
+§7\[1\/2\] §2Teacher: §aDear §alord...that§a was awful. (.*), I can't believe you were able to kill that thing!@§7[1/2] §2Учитель: §aО боже...это было ужасно. (r1), я не могу поверить, что ты смог убить эту тварь!
+§7\[2\/2\] §2Axelus: §a(.*)! I didn't think you'd be back, but we need to leave, now! Meet me outside!@§7[2/2] §2Axelus: §a(r1)! Я не думал, что ты вернешься, но нам нужно уходить, сейчас же! Встретимся на улице!
+§7\[1\/3\] §2Axelus: §a(.*)! Over here, to the right! By the cannon! I'm commandeering this thing.@§7[1/3] §2Axelus: §a(r1)! Сюда, направо! Вот это пушка! Я реквизирую эту штуку.
