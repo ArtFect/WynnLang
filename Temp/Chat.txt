@@ -449,19 +449,19 @@
 §7You need to cast a spell to break the spikes!@§7Тебе нужно использовать заклинание, чтобы сломать шипы!
 §7Inspecting the strange crystal sparks a memory.@§7При осмотре странного кристалла вспыхивает воспоминание.
 §4You already have a shard@§4У тебя уже есть осколок
-§7This will teleport you back on the pirate boat. Click again to confirm.@§7
-§7The crafting table isn't responding. Looks like you haven't got the right items.@§7
-§7The crafting table responds, and the materials shape themselves into a rather fetching amulet.@§7
-§7Aledar wouldn't want you going too far.@§7
-§cYou probably shouldn't leave the island while the seaskipper is waiting.@§c
-§7You've probably killed more than enough.@§7
-§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 0/7@§7
-§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 5/7@§7
-§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 6/7@§7
-§7Use the gunpowder and the fuse to activate the cannon and escape@§7
-§cLet's avoid blowing everything up for now.@§c
-§7Artifice is, to simplify, the art of creating magical materials. This book will teach you about various magical materials and methods of crafting your own artifacts.@§7
-§7Magical artifacts are nearly as common as pebbles on the roadside, even moreso in Gavel. Often referred to as Relics, these items were made independently of each other...@§7
+§7This will teleport you back on the pirate boat. Click again to confirm.@§7Это телепортирует тебя обратно на пиратскую лодку. Нажми еще раз для подтверждения.
+§7The crafting table isn't responding. Looks like you haven't got the right items.@§7Верстак не работает. Похоже, у тебя нет нужных предметов.
+§7The crafting table responds, and the materials shape themselves into a rather fetching amulet.@§7Верстак работает, и материалы формируют себя в довольно привлекательный амулет
+§7Aledar wouldn't want you going too far.@§7Аледар не хотел бы чтобы ты заходил слишком далеко.
+§cYou probably shouldn't leave the island while the seaskipper is waiting.@§cТебе наверное не стоит покидать остров, пока тебя ждет морской шкипер.
+§7You've probably killed more than enough.@§7Ты вероятно убил более чем достаточно.
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 0/7@§7Очисти тела на лодке. В то же время ищи подсказки о том, как сбежать. -Тел очищено: 0/7
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 5/7@§7Очисти тела на лодке. В то же время ищи подсказки о том, как сбежать. -Тел очищено: 5/7
+§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 6/7@§7Ты заметил, что пушка может быть использована для побега. Очисти тела и посмотри, что скажет тебе Хонип! -Тел очищено: 6/7
+§7Use the gunpowder and the fuse to activate the cannon and escape@§7Используй порох и фитиль для активации пушки и побега
+§cLet's avoid blowing everything up for now.@§cДавай пока не будем все взрывать.
+§7Artifice is, to simplify, the art of creating magical materials. This book will teach you about various magical materials and methods of crafting your own artifacts.@§7Трюкачество - это, проще говоря, искусство создания магических материалов. Эта книга расскажет тебе о различных магических материалах и методах создания твоих собственных трюков.
+§7Magical artifacts are nearly as common as pebbles on the roadside, even moreso in Gavel. Often referred to as Relics, these items were made independently of each other...@§7Магические артефакты почти так же распространены, как и галька на обочине дороги, даже больше, чем в Гавеле. Часто называемые реликвиями, эти предметы были сделаны независимо друг от друга...
 §7...but§7 tend to follow a similar structure. Magic can only be focused in certain ways, after all. Many reliquary items are outdated by today's standards, though theorists are baffled by...@§7
 §7...the§7 presence of such relics in Wynn. Magically-gifted individuals were not present for hundreds of years after the deaths of the Twains.@§7
 §7Some surmise that other entities than humans are responsible for their creation, which is supported by the presence of large amounts of artifacts in the Time Valley and Almuj regions.@§7
