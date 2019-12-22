@@ -1865,3 +1865,17 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7[You are now leaving the Heliolux Village]@§7[Ты покидаешь Деревню Хелиолуксов]
 §7[You are now entering Gateway Island]@§7[Ты входишь в Остров Врат]
 §7[You are now leaving Gateway Island]@§7[Ты покидаешь Остров Врат]
+
+------------------------------------------
+§a+ New Spell §2[Haul]@§a+ Новое Заклинание §2[Рывок]
+§a+ New Spell §2[Aura]@§a+ Новое Заклинание §2[Аура]
+§a+ New Spell §2[Uproot]@§a+ Новое Заклинание §2[Изгнание]
+§a- §7Uproot will pull your enemies towards yourself@§a- §7Изгнание будет притягивать ваших врагов к себе
+§a+ Spell Upgrade §2[Totem I -> II]@§a+ Апгрейд Заклинания §2[Тотем I -> II]
+§a+ Spell Upgrade §2[Totem II -> III]@§a+ Апгрейд Заклинания §2[Тотем II -> III]
+§a+ Spell Upgrade §2[Aura I -> II]@§a+ Апгрейд Заклинания §2[Аура I -> II]
+§a+ Spell Upgrade §2[Aura II -> III]@§a+ Апгрейд Заклинания §2[Аура II -> III]
+§a+ Spell Upgrade §2[Haul I -> II]@§a+ Апгрейд Заклинания §2[Рывок I -> II]
+§a+ Spell Upgrade §2[Haul II -> III]@§a+ Апгрейд Заклинания §2[Рывок II -> III]
+§a+ Spell Upgrade §2[Uproot I -> II]@§a+ Апгрейд Заклинания §2[Изгнание I -> II]
+§a+ Spell Upgrade §2[Uproot II -> III]@§a+ Апгрейд Заклинания §2[Изгнание II -> III]
