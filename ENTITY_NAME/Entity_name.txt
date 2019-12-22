@@ -2304,3 +2304,373 @@ Grumpy Old Man@Старик
 §6Golden Dagger@§6Золотой Кинжал
 §4Demon Wybel Token@§4Демонический Вубел Жетон
 §cDemon Wings Effect@§cЭффект Крыльев Демона
+
+-----------------------------------------
+§2[§a+1§2 Willow Paper]@§2[§a+1§2 Ивовая Бумага]
+§2[§a+1§2 Oak Wood]@§2[§a+1§2 Древесина Дуба]
+§2[§a+1§2 Willow Wood]@§2[§a+1§2 Древесина Ивы]
+§2[§a+1§2 Birch Wood]@§2[§a+1§2 Древесина Березы]
+§2[§a+1§2 Granite Gem]@§2[§a+1§2 Гранитный Камень]
+§2[§a+1§2 Granite Ingot]@§2[§a+1§2 Гранитный Слиток]
+§2[§a+1§2 Gold Ingot]@§2[§a+1§2 Золотой Слиток]
+§2[§a+1§2 Carp Oil]@§2[§a+1§2 Жир Карпа]
+§2[§a+1§2 Acacia Wood]@§2[§a+1§2 Древесина Акации]
+§2[§a+1§2 Malt String]@§2[§a+1§2 Солодовая Нить]
+§2[§a+1§2 Trout Oil]@§2[§a+1§2 Жир Форели]
+§2[§a+1§2 Barley Grains]@§2[§a+1§2 Ячменное Зерно]
+§2[§a+1§2 Trout Meat]@§2[§a+1§2 Мясо Форели]
+§2[§a+1§2 Barley String]@§2[§a+1§2 Ячменная Нить]
+§2[§a+1§2 Spruce Wood]@§2[§a+1§2 Древесина Ели]
+§2[§a+1§2 Spruce Paper]@§2[§a+1§2 Еловая Бумага]
+§2[§a+1§2 Silver Ingot]@§2[§a+1§2 Серебрянный Слиток]
+§2[§a+1§2 Hops String]@§2[§a+1§2 Хмельная Нить]
+§2[§a+1§2 Salmon Oil]@§2[§a+1§2 Жир Лосося]
+§2[§a+1§2 Oat String]@§2[§a+1§2 Овсяная Нить]
+§2[§a+1§2 Birch Paper]@§2[§a+1§2 Березовая Бумага]
+§2[§a+1§2 Icefish Oil]@§2[§a+1§2 Жир Щуки]
+§2[§a+1§2 Icefish Meat]@§2[§a+1§2 Мясо Щуки]
+§2[§a+1§2 Gold Gem]@§2[§a+1§2 Золотой Камень]
+§2[§a+1§2 Sandstone Ingot]@§2[§a+1§2 Песчаный Слиток]
+§2[§a+1§2 Broken Rock]@§2[§a+1§2 Разбитый Камень]
+§2[§a+1§2 Acacia Paper]@§2[§a+1§2 Акациевая Бумага]
+§2[§a+1§2 Piranha Oil]@§2[§a+1§2 Жир Пираньи]
+§2[§a+1§2 Salmon Meat]@§2[§a+1§2 Мясо Лосося]
+§2[§a+1§2 Oat Grains]@§2[§a+1§2 Овсяное Зерно]
+§2[§a+1§2 Malt Grains]@§2[§a+1§2 Солодовое Зерно]
+§2[§a+1§2 Iron Ingot]@§2[§a+1§2 Железный Слиток]
+§2[§a+1§2 Carp Meat]@§2[§a+1§2 Мясо Карпа]
+§2[§a+2§2 Oak Paper]@§2[§a+2§2 Дубовой Бумаги]
+
+§2Honip@§2Хонип
+§2Scout Reynauld@§2Скаут Рейнольд
+§2Dr. Picard@§2Др. Пикард
+§2Sailor Caid@§2Моряк Каид
+§2Reynauld@§2Рейнольд
+§2Pirate:@§2Пират:
+§2Honip:@§2Хонип:
+§2Seth:@§2Сэт:
+§2Angry Pirate:@§2Злой Пират:
+§2Heine@§2Хайне
+§2Fruma Soldier@§2Солдат Фрумы
+§2Edwin@§2Эдвин
+§2Pirate Guard:@§2Страж Пират
+§2Caid@§2Каид
+§2Cara@§2Кара
+§2Imperial Soldier@§2Имперский Солдат
+§2Seasum@§2Сеасум
+§2School Boat Captain@§2Капитан Школьной Лодки
+§2Captain@§2Капитан
+§2Mamui@§2Мамуи
+§2Student@§2Студент
+§2Cidre@§2Кидре
+§2Blacksmith Dren@§2Кузнец Дрен
+§2Una@§2Уна
+§2Thunder@§2Гром
+§2Headmaster@§2Директор
+§2Air@§2Воздух
+§2Fire@§2Огонь
+§2Water@§2Вода
+§2Magical Materials@§2Магические Материалы
+§2Magical Effects@§2Магические Эффекты
+§2Wybels@§2Вубелы
+§2Species@§2Виды
+§2Nature Magic@§2Природная Магия
+§2Corruption@§2Порча
+§2Nature@§2Природа
+§2Ghost Guide@§2Гайд Призрак
+§2Teacher@§2Учитель
+§2Pensa@§2Пенса
+§2Miner@§2Шахтер
+§2Lutho Citizen@§2житель Луто
+§2Lutho Guard@§2Страж Луто
+§2Theorick Twain@§2Теорик Твейн
+§2Marius Twain@§2Мариус Твейн
+§2Theorick: @§2Теорик: 
+§2Nesaak Citizen@§2Житель Несаака
+§2Citizen@§2Житель
+§2Citizen: @§2Житель: 
+§2Explorer's Journal@§2Исследовательский Журнал
+§2Dwendle@§2Двендл
+§2Mael@§2Маэл
+§2Rickeo@§2Рикео
+§2Theorick:@§2Теорик:
+§2Mael:@§2Маэл:
+§2Rickeo:@§2Рикео:
+§2Dwendle:@§2Двендл:
+§2Olm Mage@§2Олм Маг
+§2Olm Astrologist@§2Олм Астролог
+§2Aledar?@§2Аледар?
+§2Aledar @§2Аледар 
+§2Miner Chief@§2Шеф Шахтер
+§2Geologist@§2Геолог
+§2Deathknell Wretch@§2Смертельная Тварь
+
+§2§fNell@§2§fНелл
+§2§fEgam@§2§fЭгам
+§2§fMillie@§2§fМилли
+§2§fMagical Materials Chapter 3 - Quartz@§2§fМагические Материалы Глава 3 - Кварц
+§2§fMagical Materials Chapter 6 - Cosmic Unknowns@§2§fМагические Материалы Глава 6 - Космические Неизвестности
+§2§fMagical Materials Chapter 1 - A Primer@§2§fМагические Материалы Глава 1 - Букварь
+§2§fMagical Materials Chapter 5 - Elemental Powders@§2§fМагические Материалы Глава 5 - Элементальные Порошки
+§2§fMagical Materials Chapter 4 - Stabilizers@§2§fМагические Материалы Глава 4 - Стабилизаторы
+§2§fMagical Materials Chapter 2 - Magical Foci@§2§fМагические Материалы Глава 2 - Магические Фокусы
+§2§fLutho Citizen@§2§fЖитель Луто
+§2§fNOTE@§2§fЗАМЕТКА
+§fSnoo@§fСну
+§fPirate@§fПират
+§fSeth@§fСэт
+§fPep@§fПеп
+§fAngry Pirate@§fЗлой Пират
+§fLight@§fСвет
+§fPirate Guard@§fСтраж Пират
+
+§aNemract Pirate§6 [Lv. 20]@§aПират Немракта§6 [Ур. 20]
+§aHonip§6 [Lv. 100]@§aХонип§6 [Ур. 100]
+§aWolfie§6 [Lv. 30]@§aВолчок§6 [Ур. 30]
+§aDr. Picard§6 [Lv. 1]@§aДр. Пикард§6 [Ур. 1]
+§aCrew6§6 [Lv. 100]@§aКоманда§6 [Ур. 100]
+§aPoor Human§6 [Lv. 25]@§aБедняк§6 [Ур. 25]
+§aVSS Fakeskipper§6 [Lv. 1]@§aВСС Фейкшкипер§6 [Ур. 1]
+§aSeaskipper Captain§6 [Lv. 50]@§aКапитан Корабля§6 [Ур. 50]
+§aSeagull§6 [Lv. 30]@§aЧайка§6 [Ур. 30]
+§aInvitation Letter§6 [Lv. 59]@§aПригласительное Письмо§6 [Ур. 59]
+§aStudent§6 [Lv. 59]@§aСтудент§6 [Ур. 59]
+§aMagical Cat§6 [Lv. 60]@§aМагический Кот§6 [Ур. 60]
+§aTamed Cat§6 [Lv. 50]@§aПрирученный Кот§6 [Ур. 50]
+§aGrookwarts Student§6 [Lv. 59]@§aСтудент Груквартса§6 [Ур. 59]
+§aHeadmaster§6 [Lv. 59]@§aДиректор§6 [Ур. 59]
+§aDetached Shadow§6 [Lv. 92]@§aОтдельная Тень§6 [Ур. 92]
+§aHaily§6 [Lv. 33]@§aХэйли§6 [Ур. 33]
+§aQuiet Observer§6 [Lv. 96]@§aТихий Наблюдатель§6 [Ур. 96]
+§aCurious Starer§6 [Lv. 101]@§aЛюбопытный Старер§6 [Ур. 101]
+§aGrook§6 [Lv. 59]@§aГрук§6 [Ур. 59]
+§aLutho Citizen§6 [Lv. 105]@§aЖитель Луто§6 [Ур. 105]
+§aLutho Citizen§6 [Lv. 102]@§aЖитель Луто§6 [Ур. 102]
+§aMystical Statue§6 [Lv. 105]@§aМистическая Статуя§6 [Ур. 105]
+§aFuel Sprite§6 [Lv. 100]@§aТопливный Спрайт§6 [Ур. 100]
+§aSpike Shatterer§6 [Lv. 100]@§aРазрушитель Шипов§6 [Ур. 100]
+§aTemple Wolf§6 [Lv. 1]@§aВолк Храма§6 [Ур. 1]
+§aYoung Theorick§6 [Lv. 43]@§aМолодой Теорик§6 [Ур. 43]
+§aMarius Twain§6 [Lv. 100000]@§aМариус Твейн§6 [Ур. 100000]
+§aBooster§6 [Lv. 92]@§aБустер§6 [Ур. 92]
+§aUndergrowth Ruins Token§6 [Lv. 54]@§aЗаросшие Руины Жетон§6 [Ур. 54]
+§aCorrupted Slykaar Ashes§6 [Lv. 110]@§aИспорченный Пепел Слайкаара§6 [Ур. 110]
+§aMemory Orb§6 [Lv. 50]@§aШар Памяти§6 [Ур. 50]
+§aDwendle§6 [Lv. 1]@§aДвендл§6 [Ур. 1]
+§aRickeo§6 [Lv. 1]@§aРикео§6 [Ур. 1]
+§aMarius Twain?§6 [Lv. 50]@§aМариус Твейн?§6 [Ур. 50]
+§aRat§6 [Lv. 19]@§aКрыса§6 [Ур. 19]
+§aSplash Potion§6 [Lv. 1]@§aВзрывающееся Зелье§6 [Ур. 1]
+§aSound Wave Emitter§6 [Lv. 61]@§aИзлучатель Звуковых Волн§6 [Ур. 61]
+§aPotion§6 [Lv. 1]@§aЗелье§6 [Ур. 1]
+§aBlinding Eye§6 [Lv. 100]@§aСлепой Глаз§6 [Ур. 100]
+§aCrippled Fearful Bunny§6 [Lv. 99]@§aЯзвительный Испуганный Кролик§6 [Ур. 99]
+§aOlm Mage§6 [Lv. 8]@§aОлм Маг§6 [Ур. 8]
+§aOlm Astrologist§6 [Lv. 8]@§aОлм Астролог§6 [Ур. 8]
+§aRessurected Cow§6 [Lv. 79]@§aВоскрешенная Корова§6 [Ур. 79]
+§aToxicyst§6 [Lv. 100]@§aТоксоцист§6 [Ур. 100]
+§aSlime Sploder§6 [Lv. 100]@§aСлайм Подрывник§6 [Ур. 100]
+§a???§6 [Lv. 100]@§a???§6 [Ур. 100]
+§aMiner§6 [Lv. 30]@§aШахтер§6 [Ур. 30]
+
+§4Angel Wybel Token@§4Ангельский Вубел Жетон
+§4Adventurer's Hat@§4Шапка Путешественника
+
+§aNotes§6 [Lv. 1]@§aЗаметки§6 [Ур. 1]
+§aBloom of Doom§6 [Lv. 20]@§aЦветок Судьбы§6 [Ур. 20]
+§aMOS Key§6 [Lv. 1]@§aМОС Ключ§6 [Ур. 1]
+§aFuse§6 [Lv. 1]@§aПереключатель§6 [Ур. 1]
+§aGunpowder§6 [Lv. 1]@§aПорох§6 [Ур. 1]
+§aFeathers§6 [Lv. 1]@§aПерья§6 [Ур. 1]
+§aIce§6 [Lv. 0]@§aЛед§6 [Ур. 0]
+§aMagma§6 [Lv. 0]@§aМагма§6 [Ур. 0]
+§aTome of Earth Magic@§aТом Магии Земли
+§aCrate of Lodestone§6 [Lv. 59]@§aКонтейнер Магнитов§6 [Ур. 59]
+§aWhite Meteor Shard§6 [Lv. 59]@§aБелый Осколок Метеора§6 [Ур. 59]
+§aDeactivated Air Powder§6 [Lv. 59]@§aДеактивированный Порошок Воздуха§6 [Ур. 59]
+§aWheat Magical Binding§6 [Lv. 59]@§aМагическая Пшеница§6 [Ур. 59]
+§aQuartz Battery§6 [Lv. 59]@§aКварцевая Батарея§6 [Ур. 59]
+§aCrate of Avo Bindings§6 [Lv. 59]@§aКонтейнер Переплетов из Авокадо§6 [Ур. 59]
+§aMagical Crystal Ball§6 [Lv. 59]@§aМагический Кристальный Шар§6 [Ур. 59]
+§aCrate of Jewel Foci§6 [Lv. 59]@§aКонтейнер с Драгоценностями§6 [Ур. 59]
+§aUnstable Ore§6 [Lv. 0]@§aНестабильная Руда§6 [Ур. 0]
+§aKaens Key§6 [Lv. 1]@§aКлюч Каена§6 [Ур. 1]
+§aAdans Key§6 [Lv. 1]@§aКлюч Адана§6 [Ур. 1]
+§aTomb Key§6 [Lv. 1]@§aКлюч от Гробницы§6 [Ур. 1]
+§aCrate§6 [Lv. 1]@§aКонтейнер§6 [Ур. 1]
+
+§bElphaba§6 [Lv. 100]@§bЭльфаба§6 [Ур. 100]
+§bLucio§6 [Lv. 100]@§bЛуцио§6 [Ур. 100]
+§bAledar§6 [Lv. 100]@§bАледар§6 [Ур. 100]
+§bObsessor§6 [Lv. 102]@§bМучитель§6 [Ур. 102]
+§bDusk Kanter§6 [Lv. 110]@§bСумеречный Кантер§6 [Ур. 110]
+§bDomesticated Kanter§6 [Lv. 110]@§bОдомашненный Кантер§6 [Ур. 110]
+§bDomesticated Kantyr§6 [Lv. 110]@§bОдомашненный Кантир§6 [Ур. 110]
+§bChalky Kantyri Calf§6 [Lv. 100]@§bБледный Теленок Кантир§6 [Ур. 100]
+§bDusk Kantyri Calf§6 [Lv. 100]@§bСумеречный Теленок Кантир§6 [Ур. 100]
+§bRoyal Kantyri Calf§6 [Lv. 100]@§bКоролевский Теленок Кантир§6 [Ур. 100]
+§bHead§6 [Lv. 102]@§bГолова§6 [Ур. 102]
+§bDark Head§6 [Lv. 102]@§bТемная Голова§6 [Ур. 102]
+§bKeystone Guardian§6 [Lv. 100]@§bЗащитник Ключа§6 [Ур. 100]
+§bChest§6 [Lv. 102]@§bНагрудник§6 [Ур. 102]
+§bLegs§6 [Lv. 102]@§bНоги§6 [Ур. 102]
+§bChalky Kantyr§6 [Lv. 110]@§bБледный Кантир§6 [Ур. 110]
+§bDusk Kantyr§6 [Lv. 110]@§bСумеречный Кантир§6 [Ур. 110]
+§bChalky Kanter§6 [Lv. 110]@§bБледный Кантер§6 [Ур. 110]
+
+§7§7Bows, Wands and Reliks@§7§7Луки, Посохи и Релики
+bone@кость
+key@ключ
+dust@пыль
+§7Eliminate!@§7Уничтожь!
+§c§c§lCorrupted Summoner§6 [Lv. 35]@§c§c§lИспорченный Призыватель§6 [Ур. 35]
+§b§7Defend!§6 [Lv. 25]@§b§7Защити!§6 [Ур. 25]
+§c§cCorrupted Summoner§6 [Lv. 35]@§c§cИспорченный Призыватель§6 [Ур. 35]
+§7[1/4] §aIt's starting to panic!@§7[1/4] §aОн начинает паниковать!
+§7[2/4] §aThat's right, get back!@§7[2/4] §aВсе правильно, возвращайся!
+§7[3/4] §aI knew you had it in ya, haha!@§7[3/4] §aЯ знал, что в тебе что-то есть, ха-ха!
+§cImperial Guard§6 [Lv. 25]@§cИмперский Страж§6 [Ур. 25]
+§aClick to go back@§aКликни для возврата 
+§ato the §2pirate boat@§aк §2лодке пиратов
+§7Click to@§7Кликни для
+§eCall elevator@§eВызова лифта
+§7Click to go@§7Кликни для поездки
+§a§lUp@§a§lВверх
+§a§lDown@§a§lВниз
+§7Get §e[1 Lantern]@§7Добудь §e[1 Фонарь]
+§7to open the chest@§7чтобы открыть сундук
+§dWand Merchant@§dПродавец Палочек
+§dCandy Merchant@§dПродавец Конфет
+§dMagical Book Merchant@§dПродавец Магических Книг
+§dCauldron Merchant@§dПродавец Котлов
+§2✤@ 
+§2Earth@§2Земля
+§c✹@ 
+§cFire@§cОгонь
+§f❋@ 
+§fAir@§fВоздух
+§b❉@ 
+§bWater@§bВода
+§e✦@ 
+§eThunder@§eГром
+§8❂@ 
+§8Darkness@§8Тьма
+§cReturn to Magic Tunnels@§cВернуться к Магическим Тоннелям
+§c✹ §7Fire@§c✹ §7Огонь
+§cReturn to Dining Hall@§cВернуться в Столовую
+§6Category 1: §dElements@§6Категория 1: §dЭлементы
+§6Category 2: §dPractical Magic@§6Категория 2: §dПрактическая Магия
+§6Category 3: §dMagical Creatures@§6Категория 1: §dМагические Создания
+§aThis class uses color puzzles,@§aНа этом уроке используются цветные пазлы,
+§ado not choose if colorblind@§aне выбирать если дальтоник
+§6Category 4: §dTypes of Magic@§6Категория 4: §dВиды Магии
+§2✤ §7Earth@§2✤ §7Земля
+§eWhat element is in direct opposition to Water?@§eКакой элемент является противоположностью Воде?
+§f❋ §7Air@§f❋ §7Воздух
+§7Question #3@§7Вопрос #3
+§7Click to start@§7Кликни для начала
+§7the lesson@§7урока
+§e✦ §7Thunder@§e✦ §7Гром
+§cTeacher§6 [Lv. 43]@§cУчитель§6 [Ур. 43]
+§aDernic@§aДерник
+§a§lTol Altar@§a§lТол Алтарь
+§7Exchange §4[4 Nii Runes] §7for §2[1 Tol Rune]@§7Обменяй §4[4 Нии Руны] §7на §2[1 Тол Руну]
+§7Exchange §3[2 Uth Runes] §7for §2[1 Tol Rune]@§7Обменяй §3[2 Утх Руны] §7нв §2[1 Тол Руну]
+§7Get §e[6 Statue Keys]@§7Добудь §e[6 Ключей от Статуй]
+§6Resource Mine@§6Шахта с Ресурсами
+§7Engraved Stone@§7Могильная Плита
+§aChoose the correct §cvein§a to cut@§aВыбери правильную §cлиану§a для обрезания
+§aHumans@§aЛюди
+§aDoguns@§aДогуны
+§aGreenskins@§aЗеленокожие
+§aDwarves@§aГномы
+§aElves@§aЭльфы
+§aVillagers@§aЖители
+§dMysterious Merchant@§dЗагадочный Торговец
+§8Lutho Citizen@§8Житель Луто
+§8§lRight-Click@§8§lПравый Клик
+§7To get the Soul Retainer@для получения Держателя Душ
+§4Touch the crystal@§4Дотронься до Кристалла
+§c§aEldritch Outlook Key Guardian§6 [Lv. 103]@§c§aЗащитник Ключа от Жуткого Наблюдателя§6 [Ур. 103]
+§7You Lack a Key...@§7Тебе не хватает ключа...
+§aStone Tablet§6 [Lv. 1]@§aКаменная Плита§6 [Ур. 1]
+§7Broken Pickaxe@§7Сломанная Кирка
+§8Right-Click to get Item@§8Правый Клик для получения Предмета
+§7Right-Click to@§7Правый Клик для
+§8Drop the Rock@§8DБросить Камень
+§cObsessor§6 [Lv. 105]@§cМучитель§6 [Ур. 105]
+§7Insert Key@§7Вставить Ключ
+§2Right-Click to@§2Правый Клик для
+§fGet the §7§l[Unstable Ore]@§fДобычи §7§l[Нестабильной Руды]
+§fPlace the §7§l[Magical TNT]@§fУстановки §7§l[Магического Динамита]
+§7Temple Wolf@§7Храм Волков
+§7boost you up!@§7поднятия тебя вверх!
+§6Right Click§7 to@§6Правый Клик§7 для
+§7Get §e[4 Tokens]@§7Добудь §e[4 Жетона]
+§7Get §e[24 Tokens]@§7Добудь §e[24 Жетона]
+§6Left Click§7 to end §cSlykaar!@§6Левый Клик§7 для убийства §cСлайкаара!
+§cExit@§cВыход
+§cCorrupted Undergrowth Ruins Key Guardian§6 [Lv. 94]@§cЗащитник Ключа от Испорченных Заросших Руин§6 [Ур. 94]
+§dMiner Pass Merchant@§dТорговец Пропусками в Шахту
+§7Get §a[1 Toxic Key]@§7Добудь §a[1 Токсичный Ключ]
+Gift From Dern@Подарок из Дерна
+§6Calling...@§6Вызов...
+§5§lEldritch Outlook@§5§lЖуткий Наблюдатель
+§7Level: §f100@§7Уровень: §f100
+§cRight Click To Break Through@§cПравый Клик для Прохода Сквозь
+§eTesla Tower@§eБашня Тесла
+§7Right-Click@§7Правый Клик
+§8To get the Body Part@§8Для взятия Частей Тела
+§7Sound Wave Emitter@§7Излучатель Звуковых Волн
+§8Get the Potion@§8Взять Зелье
+§cCart§6 [Lv. 2]@§cТелега§6 [Ур. 2]
+§7Get §e[1 Core Key]@§7Добудь §e[1 Основной Ключ]
+§7Col§kl§7ect §e6 §7di§kf§7fer§ke§7nt eyes@§7Соб§kе§7ри §e6 §7раз§kли§7чн§kы§7х глаз
+§7t§ko§7 open t§kh§7e do§ko§7r@§7дл§kя§7 от§kкр§7ытия две§kр§7и
+§c§lHUNT@§c§lОХОТА
+§6Eye@§6Глаз
+§e§lDreading@§e§lСтрашный
+§e§lFearing@§e§lБоящийся
+§e§lBlinding@§e§lСлепой
+§e§lShading@§e§lТемный
+§e§lCrying@§e§lПлачущий
+§e§lInfecting@§e§lЗараженный
+§7to open the §cexit@§7для открытия §cвыхода
+§7Get §6[4 Granitic Keys]@§7Добудь §6[4 Гранитных Ключа]
+§e§lBleeding@§e§lКровоточащий
+§e§lDyeing@§e§lУмирающий
+§e§lStalking@§e§lПреследующий
+§e§lWatching@§e§lНаблюдающий
+§e§lDigesting@§e§lПереваренный
+§6Right-Click@§6Правый Клик
+§eto Restart the Wave@§eдля Рестарта Волны
+§7§lRestart Escort Mission@§7§lРестарт Эскорт Миссии
+§8Right-Click to@§8Правый Клик для
+§cMonster@§cМонстр
+§aDernic Fish@§aДерник Рыба
+§cKill 1 §6Upside Downer §c to Destroy the Spikes@§cУбей 1 §6Upside Downer §c для Разрушения Шипов
+§cKill 1 §6Void Demon §cto Destroy the Boulder@§cУбей 1 §6Void Demon §cдля Уничтожения Валуна
+§c§lClick To Break@§c§lКликни чтобы Сломать
+§7Get §6[1 Granitic Key]@§7Добудь §6[1 Гранитный Ключ]
+§cMiner§6 [Lv. 1]@§cШахтер§6 [Ур. 1]
+§cMiner Chief§6 [Lv. 1]@§cШеф Шахтер§6 [Ур. 1]
+§aBoulder@§aБулыжник
+§4Pick up a Shard@§4Взять Осколок
+§4Repair the Monolith@§4Починить Монолит
+§4Gather §l4 §eExplosive Mass@§4Собери §l4 §eВзрывоопасной Массы
+§aDernic Seed@§aДерник Семя
+§4Gather §l12 §eExplosive Mass@§4Собери §l12 §eВзрывоопасной Массы
+§7to shatter the door@§7для разрушения двери
+§c§4§lThe Eye§6 [Lv. 110]@§c§4§lГлаз§6 [Ур. 110]
+§c§lReset@§c§lСброс
+§cDeathknell Wretch§6 [Lv. 110]@§cСмертельная Тварь§6 [Ур. 110]
+§4§l[10s]@§4§l[10с]
+§4§l[9s]@§4§l[9с]
+§4§l[8s]@§4§l[8с]
+§4§l[7s]@§4§l[7с]
+§4§l[6s]@§4§l[6с]
+§o§aAAAAAAAAAAH!@§o§aАААААААААААХ!
+§o§aAAaAH  AAAAH!@§o§aААаАХ  ААААХ!
+==
+§a§o'ey, I was just tryin' to start@§a§oЭй, я просто хотел начать
+§a§oa conversation...@§a§oразговор...
