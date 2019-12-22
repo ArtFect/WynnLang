@@ -319,6 +319,106 @@ Server closed@Сервер закрыт
 §eGold II@§eЗолото II
 §eGold III@§eЗолото III
 §bDiamond I@§bАлмаз I
+§6Sky Blue Wybel Token@§6Голубой Вубел Жетон
+§6Fellowship Dagger@§6Кинжал Дружбы
+§6Fellowship Dark Wand@§6Темный Посох Дружбы
+§7You've been knocked out...@§7Ты был нокаутирован...
+§7[0/7] Bodies Cleaned@§7[0/7] Тел Очищено
+§7[1/7] Bodies Cleaned@§7[1/7] Тел Очищено
+§7[2/7] Bodies Cleaned@§7[2/7] Тела Очищено
+§7[3/7] Bodies Cleaned@§7[3/7] Тела Очищено
+§7[4/7] Bodies Cleaned@§7[4/7] Тела Очищено
+§7[5/7] Bodies Cleaned@§7[5/7] Тел Очищено
+§7[6/7] Bodies Cleaned@§7[6/7] Тел Очищено
+§7[7/7] Bodies Cleaned@§7[7/7] Тел Очищено
+§8Cast spells!@§8Каст заклинания!
+§7Poor town@§7Бедный городок
+§7Fruma@§7Фрума
+§7Imperial Prison@§7Имперская Тюрьма
+§7THERE IS NO WAR@§7НЕТ ВОЙНЫ
+§7INSIDE THE FRUMAN WALLS@§7В СТЕНАХ ФРУМЫ
+§7§oSomething's coming...@§7§oЧто-то приближается
+§aRight-click for final hit@§aПравый клик для финального удара
+§4You Failed!@§4Провал!
+§8Try again...@§8Попробуй снова...
+§8[1/4 Classes Completed]@§8[1/4 Занятий Закончено]
+§8[2/4 Classes Completed]@§8[2/4 Занятий Закончено]
+§8[3/4 Classes Completed]@§8[3/4 Занятий Закончено]
+§8[4/4 Classes Completed]@§8[4/4 Занятий Закончено]
+§4§kThe Silent Expanse@§4§kТихое Пространство
+§8§kRoad to Dern ❂@§8§kДорога к Дерну ❂
+§4The Silent Expanse@§4Тихое Пространство
+§8Road to Dern ❂@§8Дорога к Дерну ❂
+§cINCORRECT@§cНЕВЕРНО
+§aCORRECT@§aВЕРНО
+§4§lSurvive!@§4§lВыживи!
+§aSAFE@§aБЕЗОПАСНО
+§cUNSAFE@§cНЕБЕЗОПАСНО
+§7Zooming In...@§7Приближение...
+§8Uses Left@§8Использований Осталось
+§8550 AP@§8550 ПП
+§7450 Years Ago@§7450 Лет Назад
+§7425 Years Ago@§7425 Лет Назад
+§4§lS@§4§lС
+§4§lCO@§4§lКО
+§4§lSCOR@§4§lСКОР
+§4§lESCORT@§4§lЭСКОРТ
+§4§lESCORT!@§4§lЭСКОРТ!
+§7ys@§7щи
+§7eyst@§7ащит
+§7keyston@§7защитн
+§7he keystone@§7защитник
+§7t the keystone gu@§7й защитнику к
+§7et the keystone gua@§7ай защитнику кл
+§7let the keystone guar@§7дай защитнику клю
+§7't let the keystone guardi@§7е дай защитнику ключ
+§7n't let the keystone guardian@§7не дай защитнику ключа
+§7on't let the keystone guardian d@§7Не дай защитнику ключа ум
+§7Don't let the keystone guardian die!@§7Не дай защитнику ключа умереть!
+§4§l§kE§4§lSCOR§4§l§kT!@§4§l§kЭ§4§lСКОР§4§l§kТ!
+§7§kDo§7n't let the keystone guardian d§kie!@§7§kНе д§7ай защитнику ключа §kумереть!
+§4§l§kS§4§lCO§4§l§kR!@§4§l§kС§4§lКО§4§l§kР!
+§7§kn't §7let the keystone guardia§kn d!@§7§kда§7й защитнику клю§kча у!
+§4§l§kC@§4§l§kК
+§7§kle §7t the keystone guard§kia@§7§kай §7защитнику кл§kю
+§7§kt t §7he keystone gua§krd@§7§kй §7защитнику клю§kча
+§7§khe§7 keystone g§kua@§7§kй§7 защитнику к§kл
+§7§kke§7 yston§ke g@§7§kза§7 щитник§kу к
+§7§kys§7t§kon@§7§kщи§7т§kни
+§7§ka@§7§kз
+§a§lK@§a§lК
+§a§lCKP@§a§lЕК
+§a§lECKP@§a§lЕКП
+§a§lECKPO@§a§lЕКПО
+§a§lECKPOI@§a§lЕКПОИ
+§a§lHECKPOI@§a§lЕКПОИН
+§a§lHECKPOIN@§a§lЕКПОИНТ
+§a§lHECKPOINT@§a§lЧЕКПОИНТ
+§a§lCHECKPOINT@§a§lЧЕКПОИНТ
+§a§lCHECKPOINT!@§a§lЧЕКПОИНТ!
+§a§lCKPO@§a§lЕКПО
+§a§lKP@§a§lКП
+§cLesson failed@§cУрок провален
+§7Same lesson in@§7Тот же урок в
+§aLesson completed@§aУрок изучен
+§fTwains Graveyard@§fМогила Твейна
+§f570 AP@§f570 ПП
+§2Mael: §a§lENOUGH.@§2Маэл: §a§lДОСТАТОЧНО.
+§7Survive the waves!@§7Переживи волны!
+§8§k§lW@§8§k§lН
+§8§k§lWAT@§8§k§lАБЛ
+§8§k§lWATCH@§8§k§lНАБЛЮ
+§8§k§lWATCHIN@§8§k§lНАБЛЮДЕ
+§8§k§lWATCHING@§8§k§lНАБЛЮДЕНИЕ
+§8§k§lWATCHI@§8§k§lНАБЛЮД
+§8§k§lWATC@§8§k§lНАБЛ
+§8§k§lWA@§8§k§lНА
+§8§k§l@ 
+§c§lStay Alive!@§c§lВыживи!
+§cDefend Aledar from the spiders.@§cЗащити Аледара от пауков.
+§7800 BP@§7800 ДП
+§4Look up!@§4Смотри Вверх!
+§8Eyes are falling from the sky@§8Глаза падают с неба
 
 ######################Названия открытий#########################
 §bTemple of Swords@§bХрам Мечей
@@ -347,6 +447,26 @@ Server closed@Сервер закрыт
 §bRelos's Secret Library@§bСекретная Библиотека Релос
 §bLost Avos City@§bПотерянный Авос Город
 §bNecklace Chamber@§bКамера Амулета
+§bThe Lone Telescope@§bОдинокий Телескоп
+§bA Deathly Warning@§bСмертельное Предупреждение
+§bTorn in Twain@§bРаздор Твейнов
+§bQuicksand@§bЗыбучий Песок
+§bTemple Ruin@§bРуины Храма
+§bPottery Wheel@§bГончарный Круг
+§bFrozen Cave Hideout@§bЗамороженная Пещера-Убежище
+§bWolf Temple@§bХрам Волков
+§bExplorer's Corruption Study@§bИсследование Изучения Порчи
+§bNilrem's Sealed Letter@§bЗапечатанные Письма Нилрема
+§bThe Twains' Downfall@§bПадение Твейнов
+§bThe Final Moments@§bФинальные Моменты
+§bThe Forest has Eyes@§bУ Леса Есть Глаза
+§bToxic Bounce@§bТоксичный Отскок
+§bA Wynnic Excavation@§bВинник Раскопки
+§bMining Cessation@§bПрекращение Добычи
+§bA Monument of Hope@§bМонумент Надежды
+§bSpace Between Realities@§bПространство Между Реальностями
+§bOtherworldly Occurrence@§bПотустороннее Явление
+§bFate of the Olm@§bСудьба Олмов
 
 ################################Данжи и боссы#############################
 §8Decrepit Sewers@§8Ветхая Канализация
@@ -381,6 +501,9 @@ Server closed@Сервер закрыт
 §4Corrupted Hashr@§4Испорченный Хашр
 §4Wynnston@§4Виннстон
 §4Antikythera Supercomputer@§4Антикитера Суперкомпьютер
+§5The Eye@§5Глаз
+§dOverseer of Wynn@§dСмотритель Винн
+§4Corrupted §aUndergrowth Ruins@§4Испорченные §aЗаросшие Руины
 
 ######################Entering/Leaving##################################
 §7[You are now entering PirateÀÀÀCove]@§7[Ты входишь в Пиратскую Бухту]
@@ -494,3 +617,9 @@ Server closed@Сервер закрыт
 §7[You are now leaving the Heliolux Village]@§7[Ты покидаешь Деревню Хелиолуксов]
 §7[You are now entering Gateway Island]@§7[Ты входишь на Остров Врат]
 §7[You are now leaving Gateway Island]@§7[Ты покидаешь Остров Врат]
+§7[You are now entering Lutho]@§7[Ты входишь в Луто]
+§7[You are now leaving Lutho]@§7[Ты покидаешь Луто]
+§7[You are now entering EldritchÀÀÀOutlookÀÀÀEntrance]@§7[Ты входишь к Жуткому Наблюдателю]
+§7[You are now leaving EldritchÀÀÀOutlookÀÀÀEntrance]@§7[Ты покидаешь Жуткого Наблюдателя]
+§7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты входишь в Испорченные Заросшие Руины]
+§7[You are now leaving CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты покидаешь Испорченные Заросшие Руины]
