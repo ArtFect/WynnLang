@@ -303,36 +303,36 @@
 §7The engravings are thousands of years old, but you can just barely make out the symbols.@§7Могилам тысячи лет, но ты едва можешь разобрать символы.
 §7⒯⒣⒠ ⒞⒭⒠⒜⒯⒰⒭⒠⒮ ⒪⒡ ⒟⒜⒭⒦⒩⒠⒮⒮ ⒜⒭⒠ ⒠⒩⒞⒭⒪⒜⒞⒣⒤⒩⒢. ⒤ ⒣⒜⒟ ⒯⒪ ⒨⒪⒱⒠ ⒯⒣⒠ ⒦⒠⒴ ⒪⒩⒞⒠ ⒨⒪⒭⒠. ⒤ ⒣⒜⒱⒠ ⒮⒠⒩⒯ ⒤⒯ ⒝⒜⒞⒦ ⒯⒪ §b⒯⒣⒠ ⒡⒜⒨⒤⒧⒴ ⒣⒪⒰⒮⒠ ⒜⒭⒨⒪⒰⒭⒴§7 ⒱⒤⒜ ⒯⒣⒠ ⒯⒰⒩⒩⒠⒧⒮. ⒤⒡ ⒴⒪⒰ ⒮⒠⒠⒦ ⒯⒣⒠ ⒜⒭⒯⒤⒡⒜⒞⒯ ⒯⒣⒠⒩ ⒴⒪⒰ ⒨⒰⒮⒯ ⒨⒜⒦⒠ ⒤⒯ ⒯⒣⒠⒭⒠.@ 
 
-§7Talk to Dr. Picard at [103, 90, -1200].
-§7Visit the Nemract bar at [114,40,-2176]
-§7Talk to Seasum on Mage Island at [940,77,-2866]
-§7Explore the abandoned drill at [585,89,-457]
-§7Join Elphaba on a mission in Detlas at [419, 67, -1533].
-§7Talk to Aledar in Lutho at [977, 75, -732]
-§7Talk to the Lutho Citizen at [1014,77,-675].
-§7Find Scout Reynauld near Elkurn at the bridge to Picard's tower.
-§7Help Reynauld Defeat the Corrupted invasion at the bridge.
-§7Return to Scout Reynauld and bring him back to Dr. Picard.
-§7Find the sailor Picard mentioned on his boat at [-45, 65, -1217].
-§7Head into Elkurn and look for a way to shrink the boat.
-§7Bring Caid back to Dr. Picard.
-§7Find Farmer Edwin next to Nesaak at [128, 74, -1102].
-§7Climb the mountain next to Edwin's house.
-§7Break the ice on the spring and water Edwin's crops.
-§7Bring Edwin back to Dr. Picard.
-§7Meet the other soldiers at [730, 61, -1434].
-§7Explore the cave at [271, 39, -1225] for the Shard.
-§7Gather the materials the Old Man asked for
-§7Bring back Essren's Dusty Coat to The Assistant
-§7Find [Stabilized Corrupted Ore], [Incendiary Fluid] and [Switch Fuse] for the TNT at the mining camp at [435,81,-1106].
-§7Talk to Honip on the deck to get your next task
-§7Find out where you are and a way to flee the island
-§7Find [1 Golden Apple], [1 Bottle of Water] and [1 Bloom of Doom].
-§7Return to Caid with the potion.
-§7Meet Honip at [103,37,-2254]
-§7Explore the hold and kill the rats
-§7Defeat the Colossal Rat in the hold
-§7Look for clues on how to escape
+§7Talk to Dr. Picard at [103, 90, -1200].@§7Поговори с Др. Пикардом [103, 90, -1200].
+§7Visit the Nemract bar at [114,40,-2176]@§7Посети бар в Немракте [114,40,-2176]
+§7Talk to Seasum on Mage Island at [940,77,-2866]@§7Поговори с Сеасумом на Острове Магов [940,77,-2866]
+§7Explore the abandoned drill at [585,89,-457]@§7Исследуй заброшенный бур на [585,89,-457]
+§7Join Elphaba on a mission in Detlas at [419, 67, -1533].@§7Присоединись к Эльфабе на миссию в Детласе [419, 67, -1533]
+§7Talk to Aledar in Lutho at [977, 75, -732]@§7Поговори с Аледаром в Луто [977, 75, -732]
+§7Talk to the Lutho Citizen at [1014,77,-675].@§7Поговори с Жителем Луто на [1014,77,-675]
+§7Find Scout Reynauld near Elkurn at the bridge to Picard's tower.@§7Найди Скаута Рейнольда рядом с Элкурном у моста
+§7Help Reynauld Defeat the Corrupted invasion at the bridge.@§7Победи Рейнольду отбить вторжение порчи на мосту.
+§7Return to Scout Reynauld and bring him back to Dr. Picard.@§7Вернись к Скауту Рейнольду и принеси его к Др. Пикарду
+§7Find the sailor Picard mentioned on his boat at [-45, 65, -1217].@§7Найди моряка на лодке [-45, 65, -1217].
+§7Head into Elkurn and look for a way to shrink the boat.@§7Иди в Элкурн и найди способ улучшить способ.
+§7Bring Caid back to Dr. Picard.@§7Приведи Каида к Др. Пикарду
+§7Find Farmer Edwin next to Nesaak at [128, 74, -1102].@§7Найди Фермера Эдвина рядом с Несааком [128, 74, -1102]
+§7Climb the mountain next to Edwin's house.@§7Заберись на гору рядом с домом Эдвина
+§7Break the ice on the spring and water Edwin's crops.@§7Сломай лед на водопаде и полей посевы Эдвина
+§7Bring Edwin back to Dr. Picard.@§7Приведи Эдвина к Др. Пикарду.
+§7Meet the other soldiers at [730, 61, -1434].@§7Встреть других солдат на [730, 61, -1434]
+§7Explore the cave at [271, 39, -1225] for the Shard.@§7Исследуй пещеру на [271, 39, -1225] в поисках Осколка
+§7Gather the materials the Old Man asked for@§7Собери материалы, которые просит старик
+§7Bring back Essren's Dusty Coat to The Assistant@§7Принеси обратно пыльное пальто Эссрена к Ассистенту
+§7Find [Stabilized Corrupted Ore], [Incendiary Fluid] and [Switch Fuse] for the TNT at the mining camp at [435,81,-1106].@§7Найди [Стабильную руду], [Зажигательную жидкость], и [Переключатель с предохранителем] для изготовления динамита в лагере [435,81,-1106].
+§7Talk to Honip on the deck to get your next task@§7Поговори с Хонипом в доках и узнай что делать дальше
+§7Find out where you are and a way to flee the island@§7Узнай где ты и как покинуть остров
+§7Find [1 Golden Apple], [1 Bottle of Water] and [1 Bloom of Doom].@§7Найди [1 Золотое Яблоко], [1 Бутылку Воды] и [1 Цветок Судьбы].
+§7Return to Caid with the potion.@§7Вернись к Каиду с зельем.
+§7Meet Honip at [103,37,-2254]@§7Встреть Хонипа на [103,37,-2254]
+§7Explore the hold and kill the rats@§7Исследуй трюм и убей крыс
+§7Defeat the Colossal Rat in the hold@§7Победи Колосальную Крысу в трюме
+§7Look for clues on how to escape@§7Поищи подсказки о том, как сбежать
 
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUnderworldÀÀÀCrypt Key]§d.
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUndergrowthÀÀÀRuins Key]§d.
