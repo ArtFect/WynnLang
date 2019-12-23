@@ -334,28 +334,28 @@
 §7Defeat the Colossal Rat in the hold@§7Победи Колосальную Крысу в трюме
 §7Look for clues on how to escape@§7Поищи подсказки о том, как сбежать
 
-§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUnderworldÀÀÀCrypt Key]§d.
-§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUndergrowthÀÀÀRuins Key]§d.
-§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 EldritchÀÀÀOutlook Key]§d.
-§cBy chopping with spare tools on you, your success chance is lowered.
-§cBy farming with spare tools on you, your success chance is lowered.
-§cBy fishing with spare tools on you, your success chance is lowered.
-§cBy mining with spare tools on you, your success chance is lowered.
-§7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]
-§7[You are now leaving CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]
-§7[You are now entering Lutho]
-§7[You are now leaving Lutho]
-§7[You are now entering EldritchÀÀÀOutlookÀÀÀEntrance]
-§7[You are now leaving EldritchÀÀÀOutlookÀÀÀEntrance]
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUnderworldÀÀÀCrypt Key]§d.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Подземного Склепа]§d и я предоставлю тебе доступ в данж.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUndergrowthÀÀÀRuins Key]§d.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Заросших Руин]§d и я предоставлю тебе доступ в данж.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 EldritchÀÀÀOutlook Key]§d.@§5Сборщик Ключей: §dПринеси мне §3[1 Ключ Жуткого Наблюдателя]§d и я предоставлю тебе доступ в данж.
+§cBy chopping with spare tools on you, your success chance is lowered.@§cПри рубке с запасными инструментами в инвентаре, твой шанс на успех снижается.
+§cBy farming with spare tools on you, your success chance is lowered.@§cПри земледелии с запасными инструментами в инвентаре, твой шанс на успех снижается.
+§cBy fishing with spare tools on you, your success chance is lowered.@§cПри рыбалке с запасными инструментами в инвентаре, твой шанс на успех снижается.
+§cBy mining with spare tools on you, your success chance is lowered.@§cПри добыче с запасными инструментами в инвентаре, твой шанс на успех снижается.
+§7[You are now entering Lutho]@§7[Ты входишь в Луто]
+§7[You are now leaving Lutho]@§7[Ты покидаешь Луто]
+§7[You are now entering EldritchÀÀÀOutlookÀÀÀEntrance]@§7[Ты входишь к Жуткому Наблюдателю]
+§7[You are now leaving EldritchÀÀÀOutlookÀÀÀEntrance]@§7[Ты покидаешь Жуткого Наблюдателя]
+§7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты входишь в Испорченные Заросшие Руины]
+§7[You are now leaving CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты покидаешь Испорченные Заросшие Руины]
 
-§c§lThe guardian is already being escorted by someone else! Go help them out!
-§4§lYou Failed!§7 The Keystone Guardian died. Try again!
-§6Great job! You've completed the CorruptedÀÀÀUndergrowthÀÀÀRuins Dungeon!
-§7[+Corrupted Slykaar's Heart]
-§7[+Corrupted Undergrowth Ruins Fragment]
-§cYou logged out in a boss room, so you were brought back.
-§cTheÀÀÀWretchesÀÀÀareÀÀÀadvancingÀÀÀfromÀÀÀtheÀÀÀbackÀÀÀofÀÀÀtheÀÀÀroom!ÀÀÀKillÀÀÀit!
-§7[1/1]ÀÀÀ§4§lTheÀÀÀEye:§5ÀÀÀ⒝⒠⒤⒟⒣ÀÀÀ⒯⒰§dÀÀÀ⒤⒨⒤⒯⒣⒠§5ÀÀÀ⒪ÀÀÀ⒨⒪§dÀÀÀ⒭⒜⒟⒣⒜⒭⒞.
+§c§lThe guardian is already being escorted by someone else! Go help them out!@§c§lЗащитник уже сопровождается кем-то еще! Помоги им!
+§4§lYou Failed!§7 The Keystone Guardian died. Try again!@§4§lПровал! Защитник Ключа погиб. Попробуй снова!
+§6Great job! You've completed the CorruptedÀÀÀUndergrowthÀÀÀRuins Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Заросшие Руины!
+§7[+Corrupted Slykaar's Heart]@§7[+Испорченное Сердце Слайкаара]
+§7[+Corrupted Undergrowth Ruins Fragment]@§7[+Испорченный Фрагмент Заросших Руин]
+§cYou logged out in a boss room, so you were brought back.@§cТы вышел во время битвы с босом, поэтому тебя вернули обратно.
+§cTheÀÀÀWretchesÀÀÀareÀÀÀadvancingÀÀÀfromÀÀÀtheÀÀÀbackÀÀÀofÀÀÀtheÀÀÀroom!ÀÀÀKillÀÀÀit!@§cТвари продвигаются с конца комнаты! Убей их!
+§7[1/1]ÀÀÀ§4§lTheÀÀÀEye:§5ÀÀÀ⒝⒠⒤⒟⒣ÀÀÀ⒯⒰§dÀÀÀ⒤⒨⒤⒯⒣⒠§5ÀÀÀ⒪ÀÀÀ⒨⒪§dÀÀÀ⒭⒜⒟⒣⒜⒭⒞.@ 
 
 §2You have hidden ghost players.
 §2You will now see ghost players.
