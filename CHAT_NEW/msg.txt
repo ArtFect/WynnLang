@@ -1902,6 +1902,12 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7[You are now leaving the Heliolux Village]@§7[Ты покидаешь Деревню Хелиолуксов]
 §7[You are now entering Gateway Island]@§7[Ты входишь в Остров Врат]
 §7[You are now leaving Gateway Island]@§7[Ты покидаешь Остров Врат]
+§7[You are now entering Lutho]@§7[Ты входишь в Луто]
+§7[You are now leaving Lutho]@§7[Ты покидаешь Луто]
+§7[You are now entering EldritchÀÀÀOutlookÀÀÀEntrance]@§7[Ты входишь к Жуткому Наблюдателю]
+§7[You are now leaving EldritchÀÀÀOutlookÀÀÀEntrance]@§7[Ты покидаешь Жуткого Наблюдателя]
+§7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты входишь в Испорченные Заросшие Руины]
+§7[You are now leaving CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты покидаешь Испорченные Заросшие Руины]
 
 ------------------------------------------
 §a+ New Spell §2[Haul]@§a+ Новое Заклинание §2[Рывок]
@@ -1916,3 +1922,46 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §a+ Spell Upgrade §2[Haul II -> III]@§a+ Апгрейд Заклинания §2[Рывок II -> III]
 §a+ Spell Upgrade §2[Uproot I -> II]@§a+ Апгрейд Заклинания §2[Изгнание I -> II]
 §a+ Spell Upgrade §2[Uproot II -> III]@§a+ Апгрейд Заклинания §2[Изгнание II -> III]
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUnderworldÀÀÀCrypt Key]§d.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Подземного Склепа]§d и я предоставлю тебе доступ в данж.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUndergrowthÀÀÀRuins Key]§d.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Заросших Руин]§d и я предоставлю тебе доступ в данж.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 EldritchÀÀÀOutlook Key]§d.@§5Сборщик Ключей: §dПринеси мне §3[1 Ключ Жуткого Наблюдателя]§d и я предоставлю тебе доступ в данж.
+§cBy chopping with spare tools on you, your success chance is lowered.@§cПри рубке с запасными инструментами в инвентаре, твой шанс на успех снижается.
+§cBy farming with spare tools on you, your success chance is lowered.@§cПри земледелии с запасными инструментами в инвентаре, твой шанс на успех снижается.
+§cBy fishing with spare tools on you, your success chance is lowered.@§cПри рыбалке с запасными инструментами в инвентаре, твой шанс на успех снижается.
+§cBy mining with spare tools on you, your success chance is lowered.@§cПри добыче с запасными инструментами в инвентаре, твой шанс на успех снижается.
+§c§lThe guardian is already being escorted by someone else! Go help them out!@§c§lЗащитник уже сопровождается кем-то еще! Помоги им!
+§4§lYou Failed!§7 The Keystone Guardian died. Try again!@§4§lПровал! Защитник Ключа погиб. Попробуй снова!
+§6Great job! You've completed the CorruptedÀÀÀUndergrowthÀÀÀRuins Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Заросшие Руины!
+§7[+Corrupted Slykaar's Heart]@§7[+Испорченное Сердце Слайкаара]
+§7[+Corrupted Undergrowth Ruins Fragment]@§7[+Испорченный Фрагмент Заросших Руин]
+§cYou logged out in a boss room, so you were brought back.@§cТы вышел во время битвы с босом, поэтому тебя вернули обратно.
+§cTheÀÀÀWretchesÀÀÀareÀÀÀadvancingÀÀÀfromÀÀÀtheÀÀÀbackÀÀÀofÀÀÀtheÀÀÀroom!ÀÀÀKillÀÀÀit!@§cТвари продвигаются с конца комнаты! Убей их!
+§7[1/1]ÀÀÀ§4§lTheÀÀÀEye:§5ÀÀÀ⒝⒠⒤⒟⒣ÀÀÀ⒯⒰§dÀÀÀ⒤⒨⒤⒯⒣⒠§5ÀÀÀ⒪ÀÀÀ⒨⒪§dÀÀÀ⒭⒜⒟⒣⒜⒭⒞.@ 
+§2You have hidden ghost players.@§2Ты скрыл игроков призраков
+§2You will now see ghost players.@§2Ты снова видишь игроков призраков
+§5That class is HERO only! Buy HERO at §dstore.wynncraft.com@§5Этот класс только для HERO! Купи HERO на §dstore.wynncraft.com
+§4You can't use commands whilst trading!@§4Ты не можешь использовать команды во время торговли!
+§cYour chat input has been cancelled due to moving!@§cТвой ввод в чат был отменен из-за движения!
+§6You've dropped:@§6С тебя выпало:
+§4You need to be in a town to toggle hunted.@§4Тебе нужно быть в городе для переключения режима охотника.
+§cYou logged out during a cutscene, so you were brought back.@§cТы вышел во время кат-сцены, так что тебя отправили обратно.
+§cYou are in combat - do not logout or you will face a penalty.@§cТы находишься в бою - не выходи, или тебе грозит штраф.
+§aYou are not in combat - you may now logout without a penalty.@§aТы не в бою - ты можешь выйти без штрафа.
+§2You can no longer hear the 'woosh' attack sound in game!@§2Ты больше не слышишь 'woosh' звук атаки в игре!
+§2You can now hear the 'woosh' attack sound again!@§2Ты снова слышишь 'woosh' звук атаки в игре!
+§6Sky Blue Wybel Token@§6Голубой Вубел Жетон
+§3You now have a §bSky Blue Wybel@§3Теперь у тебя есть §bГолубой Вубел
+§6Fellowship Dagger@§6Кинжал Дружбы
+§7Disguise your dagger with a adventurous flair@§7Маскирует твой кинжал под стиль приключений
+§6Fellowship Dark Wand@§6Темный Посох Дружбы
+§7Disguise your wand with a adventurous flair@§7Маскирует твой посох под стиль приключений
+                  §c§l§nClick here to toggle hunted mode@                  §c§l§nКликни здесь для переключения режима охотника
+§f                  §c§l§nClick here to toggle hunted mode@§f                  §c§l§nКликни здесь для переключения режима охотника
+§f                      §4§oThis will enable PvP combat@§f                      §4§oЭто включит ПвП
+§7+ New Resource §8[Boulder]@§7+ Новый Ресурс §8[Булыжник]
+§5Blacksmith: §dI can't scrap that item! I only accept weapons, accessories, armour and crafted items.@§5Кузнец: §dЯ не могу утилизировать этот предмет! Я принимаю только оружия, аксессуары, броню и крафтовые предметы.
+§6                    [Quest Completed]@§6                    [Квест Пройден]
+§4You need to find all of the discoveries in §cNesaak Tundra§4 before you can enter this area.@§4Тебе нужно найти все открытия в §cНесаак Тундре§4 прежде чем войти сюда.
+§4You need to be closer to your totem.@§4Тебе нужно быть ближе к твоему тотему.
+§4This is not a §cShaman§4 weapon. You must use a §crelik.@§4Это не оружие §cШамана.§4 Ты должен использовать §cрелик
+§4You need to complete §cA Hunter's Calling§4 to unlock hunted mode.@§4Тебе нужно пройти §cA Hunter's Calling§4 для разблокировки режима охотника
