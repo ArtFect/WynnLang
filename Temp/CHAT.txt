@@ -1,0 +1,240 @@
+§(e|5)That player is not playing on your world (.*)!
+§e(.*) has been added to your ignore list!
+§dFailed to §5buy (.*), because the trade was already completed.
+§5Only §d(\d+) more level(|s) §5until you can gather from §dCobalt
+§5Only §d(\d+) more level(|s) §5until you can gather from §dLight
+§5Only §d(\d+) more level(|s) §5until you can gather from §dDark
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar spell
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWind Surge spell
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dGale Funnel spell
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSky Emblem upgrade
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar upgrade
+§7\[3\/4\] §2Employee: §aYes sir, everything went smoothly, (.*) did a great thing for the company.
+
+§7Bring §3[20 Carp Oil] §7or §3[20 Carp Meat] §7to the §aGathering Post §2[Fishing Lv. 33]
+§7Bring §3[36 Spruce Wood] §7or §3[36 Spruce Paper] §7to the §aGathering Post §2[Woodcutting Lv. 48]
+§7Bring §3[14 Granite Ingots] §7or §3[14 Granite Gems] §7to the §aGathering Post §2[Mining Lv. 18]
+§7Bring §3[20 Sandstone Ingots] §7or §3[20 Sandstone Gems] §7to the §aGathering Post §2[Mining Lv. 33]
+§7Bring §3[28 Jungle Wood] §7or §3[28 Jungle Paper] §7to the §aGathering Post §2[Woodcutting Lv. 53]
+§7Bring §3[42 Jungle Wood] §7or §3[42 Jungle Paper] §7to the §aGathering Post §2[Woodcutting Lv. 58]
+§7Bring §3[30 Dark Wood] §7or §3[30 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 61]
+§7Bring §3[36 Dark Wood] §7or §3[36 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 63]
+§7Bring §3[44 Dark Wood] §7or §3[44 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 68]
+§7Bring §3[32 Light Wood] §7or §3[32 Light Paper] §7to the §aGathering Post §2[Woodcutting Lv. 71]
+§7Bring §3[24 Icefish Oil] §7or §3[24 Icefish Meat] §7to the §aGathering Post §2[Fishing Lv. 43]
+§7Bring [30 Acacia Wood] or [30 Acacia Paper] to the Gathering Post [Woodcutting Lv. 38] at [1226,116,-1391]
+
+§7[2/7] §2Honip: §aIt doesn't seem too difficult though, a little to the left...
+§7[3/7] §2Honip: §aHmm, looks like we're not the only ones out on the water today.
+§7[4/7] §2Honip: §aThey are a bit too head on, don't you think?
+§7[5/7] §2Honip: §aI'm trying to steer the ship but it's not budging...
+§7[6/7] §2Honip: §aThat's unfortunate...
+§7[3/4] §2Honip: §aWell, shiver me timbers! You did redeem yourself, soldier!
+§7[1/1] §2Seth: §aHonip's probably waitin' for ya by now!
+§7[1/2] §2Seth: §aWelcome back! Any progress?
+§7[2/2] §2Pirate: §aSnoo saved us all, right? What a crazy lad, heh!
+§7[1/3] §2Honip: §aHey there fella'. So, the rat situation..?
+§7[2/3] §2Honip: §aOh, you're not done yet?
+§7[3/3] §2Honip: §aTake it slowly if ya want, that place gives me the creeps...
+§7[3/3] §2Honip: §aEager, are ya? Well, that's great!
+§7[2/2] §2Pirate: §aI take back what I said earlier, you might not be a chicken slaughterer.
+
+§7[1/1] §2Una: §aOhp, hold on a sec there! Can't take your classes without your materials! The shops are out on the docks.
+§7[1/1] §2Teacher: §aI know you're eager, but this is dangerous! Stay seated, please.
+§7[1/1] §2Headmaster: §aThe element of nature and physicality. Now, choose a Practical Magic lesson.
+§7[1/9] §2Teacher: §aNow, all of you. Sit. Listen.
+§7[1/1] §2Teacher: §aRemove the dark stone using your earth magic by right click the tome.
+§7[2/9] §2Teacher: §aEarth is an element of great power. Versatile and everpresent, nearly as the air.
+§7[3/9] §2Teacher: §aThunder provides force... Earth provides sheer power. The difference... Force chooses its own path. Power is force, directed.
+§7[4/9] §2Teacher: §aEarth is also the earth itself. Stone, metal, trees and soil. Trees sway in the wind, but do not break. And the mountains do not crumble.
+§7[5/9] §2Teacher: §aThe Touroto, steeped in earthly magic, are nearly invincible to all but themselves. It is proof of the earth's strength.
+§7[6/9] §2Teacher: §aThe Doguns... They were masters of the earth, and fire alike, shaping caverns to their will... And now, nearly extinct. A terrible crime...
+§7[7/9] §2Teacher: §aBut we shall honor them, and move forward. We shall strike the earth and claim it to be our own.
+§7[8/9] §2Teacher: §aThe tome directs the earth's force. Take it, and utilize it to shatter the stones I summon.
+§7[9/9] §2Teacher: §aThe darkest parts of the stone are weak points. Find them, and learn the power of the earth.
+§7[1/1] §2Teacher: §aUh oh.... Time is up! Try again!
+§7[1/1] §2Teacher: §aYou know the earth's power, fledgeling. There is nothing more for you here. Go.
+§7[1/1] §2Headmaster: §aA true wizard after my own heart, seeking wisdom! Good choice. Now, choose a Practical Magic lesson.
+§7[1/8] §2Teacher: §aAah, wow! Everyone s-sure got here quick...
+§7[2/8] §2Teacher: §aWelcome, w-welcome. The Water element class §ais...certainly§a an interesting one, I-I'd hope... Because water doesn't j-just pertain to, well, w-water...
+§7[3/8] §2Teacher: §aIt also is the element o-of knowledge, and pure magicality. Water i-is a sort of magical default, if you w-will. If it isn't focused on o-one element or another, magic ends up being water-based.
+§7[4/8] §2Teacher: §aLearning a-about the water element and e-expanding your horizons can allow you to cast spells easier... C-control the flow of magic better, you see.
+§7[5/8] §2Teacher: §aMost aquatic creatures are t-tied to water, though creatures that live in icy or snowy environments are, §at-too...often§a, they are also connected to air, but not always.
+§7[6/8] §2Teacher: §aIn a-addition, many holy artifacts are enchanted with water magic... S-something about how it's a pure type of energy, I believe.
+§7[7/8] §2Teacher: §aLastly, healing abilities are b-bolstered by water magic. Just knowing magic well d-doesn't help, but actually having artifacts charged w-with water magic can increase healing capabilities.
+§7[8/8] §2Teacher: §aN-now, for your test, I §ahave...um§a, a...a test. Anyone who wants to try it f-first, just go up and start.
+§7[1/2] §2Teacher: §aGood w-work there! I h-hope I wasn't too boring with all my talking... You can go now.
+§7[2/2] §2Teacher: §aN-now, who's n-next? And...i-is it really cold in here for all of you, too? Or, is it j-just me...?
+§7[1/1] §2Teacher: §aP-please sit down, fledgeling!
+
+§7+ New Resource §8[Dark]
+§7+ New Resource §8[Silver]
+§7+ New Resource §8[Cobalt]
+§7+ New Resource §8[Light]
+§7+ New Resource §8[Piranha]
+§a+ New Spell §2[Soar]
+§a+ New Spell §2[Wind Surge]
+§7+ New Tool §8[Ⓒ Gathering Axe T8]
+§a- §7Wind Surge will cast a damaging aura around your active totem
+§4You need to progress further to unlock hunted mode.
+§c§lLog in to §f§nplay.wynncraft.com§c§l for less lag.
+§a- §7Go to §fwynncraft.com/class§f §7for info about this upgrade
+§7[You are now entering the Update Room]
+§eDesc.: This command will let you ignore players.
+§eUsage: /ignore [add/remove] <name>
+§4You already have an active crate!
+§cYou are already connecting there, please wait.
+§cYou are not allowed to use this command!
+§dYour emeralds can be found in the trade overview menu.
+§cThe world you were playing on is restarting!
+§7This wheel was used to make pots... if only you had some clay...
+§4To rename a pet, use /renamepet. To rename an item, use /renameitem.
+§a+ Spell Upgrade §2[Sky Emblem I -> II]
+§a+ Spell Upgrade §2[Soar I -> II]
+§6Great job! You've completed the EldritchÀÀÀOutlook Dungeon!
+§7[+The Eye's Pupil]
+§7[+Eldritch Outlook Fragment]
+§d     -§7 Lore: §f§oThought to be only a myth, this portal's existence confirms the legends that the Silent Expanse is a road to Dern. How to access it, though, is perhaps a mystery that can't be solved yet...
+§d            - §7+1 Corrupted Soul Token
+§d            - §7+Hunted Mode
+§cYour inventory is too full for anymore items...
+§7+ Faster Gathering §8[Silver]
+§7+ Higher Refining Success §8[Unprocessed Silver Ore]
+§3[§3WAR]§c §cThey will be there in 1 minute and 30 seconds.
+§cYou may not drink this potion whilst selling it!
+§7+ Faster Gathering §8[Dark]
+§7+ Higher Refining Success §8[Unprocessed Dark Log]
+§7You finished the §bLegendary Challenge§7 at §6Bronze Tier§7!
+§6   +1 Bronze Token
+§a- §7Soar will pull yourself towards your active totem
+§7+ Faster Gathering §8[Pine]
+§7+ Higher Refining Success §8[Unprocessed Pine Log]
+§7The wolves lick their chops... perhaps some food could be found nearby...
+§7+ Faster Gathering §8[Piranha]
+§7+ Higher Refining Success §8[Unprocessed Piranha]
+§c                            Slay Lv. 10+ Mobs
+§4You can only spawn the Reindeer inside of towns.
+§b - §7Grumpy Old Man Pet
+
+§7Find [2 Eggs], [1 Bucket of Milk] and [3 Wheat Grains] for the Cook
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 1/7
+§7Return to Seasum with the letter.
+§7Find the magical school boat at [893,37,-2777]
+§7Follow the children to the school.
+§7Talk to Cidre on the school island.
+§7Buy a wand and a magical book from the nearby shops and enter Grookwarts.
+§7Choose your schedule and attend your classes.
+§7Tell Damiral where the treasure is hidden
+§7Clue IV: Beneath the cowl of an eastern titan, keeping watch over our heads
+§7Enter Caritat Mansion
+§7Enter the library of Caritat Mansion
+§7Find the mushroom Likeru is looking for
+§7Investigate the giant blue mushroom
+§7Find a way to escape the cave
+§7Find a way to escape the strange temple
+§7Escape the wrath of Yahya
+§7Talk to Elder Berusia
+§7Talk to Likeru
+§7Find the Arch in the Light Forest at [-1038,44,-4447]
+§7Talk to Sasha about her debt
+§7Find Talos in the crypt
+§7Kill the hellhound and free Talos
+§7Kill Naragath and give the [Eye of Blood] to Harker
+§7Return to the Document Merchant with the [Secret Documents]
+§7Follow the trail of corruption
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 4/7
+§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 5/7
+§7Leave the Secret Gerten Cave
+§7Attend the welcoming dinner at Grookwarts.
+§7Finish school for the day.
+§7Climb the sunflower in the seventh room of Togak's dungeon
+§7Speak with Togak once more
+§7Find the representative’s office in the airship base [-238,120,-4967] 
+§7Return to General Lecade with the Good-Luck Charm
+§7Begin the Fifth Floor
+§7Bring back [3 Brown Mushrooms] and [3 Red Mushrooms] to Yahya
+§7Discover your own past.
+
+§7[1/4] §2Seaskipper Captain: §aDo ya 'member that time I rescued ya on a random island?
+§7[3/4] §2Seaskipper Captain: §aThey seemed to be praisin' soldiers by kidnappin' more of them. Odd tactic, but I ain't one to judge.
+§7[1/4] §2Seaskipper Captain: §aSo, this is your first time legitimately ridin' my boat, eh? I 'ought that pirate adventure would've scarred you!
+§7[2/4] §2Seaskipper Captain: §aOh, 'scuse me soldier, sometimes people ask me to deliv'r some things as well.
+§7[3/4] §2Seaskipper Captain: §aI 'eard they're tryin' to train a chicken now. Fended off a huge beast or somethin'.
+
+§6Fellowship Bow
+§7Disguise your bow with a adventurous flair
+§aA §cGodly Phoenix Dagger§a!
+§6Fellowship Wooden Wand
+§cDern Spear
+§7Disguise your spear with a dark flair
+§aA §dRare Steampunk Bow§a!
+
+§7The sound of a door opening is heard...
+§4Better not messing with the teleport panel right now.
+§7The thunder class has been restarted...
+§4The cave is too dark for you to see anything. You turn around and walk away.
+§7[+896 Emeralds]
+§7[Objective: Murder 10 Ragni Citizens]
+§7[1/10] Citizens
+§7[2/10] Citizens
+§7[3/10] Citizens
+§7[4/10] Citizens
+§7[5/10] Citizens
+§7[6/10] Citizens
+§7[7/10] Citizens
+§7[8/10] Citizens
+§7[9/10] Citizens
+§7[10/10] Citizens
+§7With so much of the active army dead, dying, and corrupted, Ragni fell within the day.
+§7The King of Ragni sought help from Troms, the most secure fortress in the province. But help was too late.
+§7When the armies of Troms reached the once noble fort, it was corrupted ashes.
+§7After a villager took over, new laws were put in place. This was the spark Wynnexcavation needed to start their work.
+§7The humans didn't notice any difference after the new laws, but the company was in full force...
+§7The roaring of the Corrupter of Worlds is audible from here. Has he noticed you?
+§7Maybe you can create a trail of emeralds and lure the villager back to the factory?
+§7Maybe you can lure the villager by flirting?
+§7After the King of Rodoroc ordered the slums cave-in, another war broke out.
+§7But this time, it was between Dwarves and Dwarves... And yet again blood was spilled.
+§7[+1 Avo Totem]
+§7You need to catch Maxie before he reaches the war scene.
+§7Maxie never made it back to the war scene. The civil war advanced faster than anyone could have anticipated.
+§7The once peaceful Avos were forced to flee their home island, ravaged by machines and toxic scrap...
+§7...and§7 the Corkians, blindsided by the Factory's reactivation, were purged by metal and electricity.
+§7In time, Corkus became known as the island torn apart by war. Its name would live on in infamy.
+§7After the two soldiers were slain in battle, Detlas crumbled.
+§7It stood as a monument to wealth, prosperity, and power in the Wynn province. It now stands as a corrupted wasteland.
+§7The ruins of the city are a grim reminder of the power of corruption. And §7so...the§7 people began to lose hope.
+§7You have gained the power to end. You have unlocked §4The Hunted Mode§7.
+§7But you've already seen the lock. The key is still nowhere to be found!
+§4You can't just leave your graduation like that!
+§7Without a clue of what happened you shouldn't just leave!
+§4This area is too dangerous to be in. Find a way around!
+§4You can barely see anything in this cave. You can also hear growls of many gerts.
+§4This hole is dangerous, better not walk near it.
+§4A foul stench is coming from the §4slums...it§4 makes your head swim. No sense heading in.
+§4The trolls have barricaded the door...
+
+§7[1/1] §2Captain Fenor: §aHello, recruit! I would ask you for a hand with something, but you seem too weak. Maybe when you're level 5...
+§7~7[1/1] §2~2Old Man: §a~aHarvest §3~3[2 Wheat String]~r§a~a and then bring it to me.
+§7[1/1] §2Retarc: §aI can finally feel my hands after all that wrapping.
+§7[1/5] §2Fisherman: §aGah!
+§7[2/5] §2Fisherman: §aYou startled me! Visitors are rare here!
+§7[3/5] §2Fisherman: §aDespite how hostile the swamp is, I found this little pond to be quite lovely!
+§7[4/5] §2Fisherman: §aLiving here is harsh, it's always nice to find a place with potential profits...
+§7[5/5] §2Fisherman: §aSo, don't go and steal all MY fish, alright?
+§7[1/1] §2Fisherman: §aHave you seen these beasts? Gives me shivers!
+§7[1/1] §2Fisherman: §aEven with all that fancy equipment, you should be careful!
+§7[1/1] §2Fisherman: §aI don't exactly know why you're here, the monsters out there are terrifying.
+§7[1/1] §2Fisherman: §aSo... Do you like fishing?
+§7[1/1] §2Fisherman: §aBack for more fishing?
+§7[1/1] §2Felim: §aHey, did you defeat that bear? I'm grateful, but I'm waiting for a man named Dejol to come. I can't leave yet. He will find me, I know it.
+§7[1/3] §2Rodoroc Citizen: §aHave you heard of our great king? The Dwarven palace is here.
+§7[2/3] §2Rodoroc Citizen: §aHe rarely shows his face in public. He usually sits in his palace directing the city.
+§7[3/3] §2Rodoroc Citizen: §aI'm afraid it's not possible to visit him at all. The palace is shut.
+§7[1/1] §2Nettik: §aWhat do you think you're doing?
+§7[1/2] §2Thesead Citizen: §aIf you follow the path out of Thesead to the northeast, you'll find the Molten Heights, a dangerous volcanic land.
+§7[2/2] §2Thesead Citizen: §aThat area is infamous due to a war that took place between the Dwarves and Doguns.
+§7[1/1] §2Death: §aIF YOU HEAR SCREAMING, DON'T WORRY. IT'S JUST THE WALLS.
+§7[1/1] §2Qira: §a§lLeaving so soon? §a§lHaha...not§a§l until I am through with you. I must see what you are capable of...
+§7[1/2] §2Cinfras Citizen: §aThe big clock in the Guild Hall never actually moves, I think it must be broken.
+§7[2/2] §2Cinfras Citizen: §aIs it even possible to fix? No one's been able to find a way inside.
