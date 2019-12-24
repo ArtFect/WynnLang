@@ -1,0 +1,365 @@
+§7(.*)§(6|7) \[§e(.*)§(6|7)\](À|)@ 
+§7Wind Surge spell cast!§3 \[§b-(\d+) ✺§3\]
+§7Soar spell cast!§3 \[§b-(\d+) ✺§3\]
+§7Sky Emblem spell cast!§3 \[§b-(\d+) ✺§3\]
+
+
+§fRefined Iron Ingot 2§6 [§e✫✫§8✫§6]
+§fRefined Iron Gem 3§6 [§e✫✫✫§6]
+§fRefined Hops String 3§6 [§e✫✫✫§6]
+§fRefined Silver Gem 3§6 [§e✫✫✫§6]
+§fRefined Silver Gem 2§6 [§e✫✫§8✫§6]
+§fRefined Silver Gem 1§6 [§e✫§8✫✫§6]
+§fRefined Dark Wood 1§6 [§e✫§8✫✫§6]
+§fRefined Dark Wood 2§6 [§e✫✫§8✫§6]
+§fRefined Dark Wood 3§6 [§e✫✫✫§6]
+§fRefined Icefish Meat 1§6 [§e✫§8✫✫§6]
+§fRefined Icefish Meat 2§6 [§e✫✫§8✫§6]
+§fRefined Icefish Oil 3§6 [§e✫✫✫§6]
+§fRefined Piranha Oil 2§6 [§e✫✫§8✫§6]
+§fRefined Piranha Meat 1§6 [§e✫§8✫✫§6]
+§fRefined Light Wood 3§6 [§e✫✫✫§6]
+§fRefined Molten Ingot 1§6 [§e✫§8✫✫§6]
+§fRefined Rice String 2§6 [§e✫✫§8✫§6]
+§fRefined Spruce Paper 1§6 [§e✫§8✫✫§6]
+§fRefined Spruce Paper 2§6 [§e✫✫§8✫§6]
+§fRefined Spruce Paper 3§6 [§e✫✫✫§6]
+§fRefined Avo Paper 3§6 [§e✫✫✫§6]
+
+§fCopper Ingot§6 [§e✫§8✫✫§6]
+§fCopper Ingot§6 [§e✫✫§8✫§6]
+§fCopper Ingot§6 [§e✫§8✫✫§6]À
+§fCopper Ingot§6 [§e✫✫§8✫§6]À
+§fCopper Gem§6 [§e✫§8✫✫§6]
+§fCopper Gem§6 [§e✫✫§8✫§6]
+§fCopper Gem§6 [§e✫✫✫§6]À
+§fCopper Gem§6 [§e✫§8✫✫§6]À
+§fGudgeon Oil§6 [§e✫§8✫✫§6]
+§fGudgeon Oil§6 [§e✫✫§8✫§6]À
+§fGudgeon Oil§6 [§e✫✫§8✫§6]
+§fGudgeon Oil§6 [§e✫✫✫§6]À
+§fGudgeon Oil§6 [§e✫✫✫§6]
+§fGudgeon Oil§6 [§e✫§8✫✫§6]À
+§fGudgeon Meat§6 [§e✫§8✫✫§6]
+§fGudgeon Meat§6 [§e✫✫§8✫§6]
+§fOak Paper§6 [§e✫§8✫✫§6]
+§fOak Paper§6 [§e✫✫§8✫§6]À
+§fOak Paper§6 [§e✫✫§8✫§6]
+§fOak Paper§6 [§e✫✫✫§6]
+§fOak Paper§6 [§e✫§8✫✫§6]À
+§fOak Paper§6 [§e✫✫✫§6]À
+§fOak Wood§6 [§e✫§8✫✫§6]
+§fOak Wood§6 [§e✫✫§8✫§6]
+§fOak Wood§6 [§e✫✫✫§6]
+§fOak Wood§6 [§e✫§8✫✫§6]À
+§fOak Wood§6 [§e✫✫§8✫§6]À
+§fSandstone Gem§6 [§e✫✫✫§6]
+§fSandstone Gem§6 [§e✫✫§8✫§6]
+§fSandstone Gem§6 [§e✫§8✫✫§6]
+§fSandstone Gem§6 [§e✫✫§8✫§6]À
+§fSandstone Ingot§6 [§e✫§8✫✫§6]
+§fSandstone Ingot§6 [§e✫✫§8✫§6]
+§fSandstone Ingot§6 [§e✫§8✫✫§6]À
+§fSandstone Ingot§6 [§e✫✫✫§6]À
+§fGranite Gem§6 [§e✫✫§8✫§6]À
+§fGranite Gem§6 [§e✫✫§8✫§6]
+§fGranite Gem§6 [§e✫✫✫§6]
+§fGranite Gem§6 [§e✫✫✫§6]À
+§fGranite Gem§6 [§e✫§8✫✫§6]À
+§fGranite Gem§6 [§e✫§8✫✫§6]
+§fGranite Ingot§6 [§e✫✫§8✫§6]
+§fGranite Ingot§6 [§e✫✫✫§6]
+§fGranite Ingot§6 [§e✫§8✫✫§6]
+§fGranite Ingot§6 [§e✫§8✫✫§6]À
+§fGranite Ingot§6 [§e✫✫§8✫§6]À
+§fBirch Wood§6 [§e✫§8✫✫§6]À
+§fBirch Wood§6 [§e✫✫✫§6]
+§fBirch Wood§6 [§e✫✫§8✫§6]
+§fBirch Wood§6 [§e✫§8✫✫§6]
+§fBirch Wood§6 [§e✫✫✫§6]À
+§fBirch Paper§6 [§e✫§8✫✫§6]À
+§fBirch Paper§6 [§e✫✫✫§6]
+§fBirch Paper§6 [§e✫✫§8✫§6]À
+§fBirch Paper§6 [§e✫✫✫§6]À
+§fGold Gem§6 [§e✫§8✫✫§6]À
+§fGold Gem§6 [§e✫✫§8✫§6]À
+§fGold Gem§6 [§e✫✫✫§6]À
+§fGold Ingot§6 [§e✫✫§8✫§6]
+§fGold Ingot§6 [§e✫§8✫✫§6]
+§fGold Ingot§6 [§e✫✫✫§6]
+§fGold Ingot§6 [§e✫✫✫§6]À
+§fGold Ingot§6 [§e✫§8✫✫§6]À
+§fGold Ingot§6 [§e✫✫§8✫§6]À
+§fOat String§6 [§e✫§8✫✫§6]
+§fOat String§6 [§e✫✫§8✫§6]
+§fOat String§6 [§e✫✫✫§6]À
+§fOat Grains§6 [§e✫✫§8✫§6]
+§fOat Grains§6 [§e✫§8✫✫§6]À
+§fOat Grains§6 [§e✫✫§8✫§6]À
+§fBarley String§6 [§e✫§8✫✫§6]
+§fBarley String§6 [§e✫✫§8✫§6]
+§fBarley String§6 [§e✫✫✫§6]
+§fBarley String§6 [§e✫§8✫✫§6]À
+§fBarley String§6 [§e✫✫✫§6]À
+§fBarley Grains§6 [§e✫✫§8✫§6]À
+§fBarley Grains§6 [§e✫§8✫✫§6]À
+§fBarley Grains§6 [§e✫✫✫§6]À
+§fWheat String§6 [§e✫§8✫✫§6]
+§fWheat String§6 [§e✫✫§8✫§6]
+§fWheat String§6 [§e✫§8✫✫§6]À
+§fWheat Grains§6 [§e✫§8✫✫§6]À
+§fWheat Grains§6 [§e✫✫✫§6]À
+§fWheat Grains§6 [§e✫✫§8✫§6]À
+§fWheat Grains§6 [§e✫§8✫✫§6]
+§fWheat Grains§6 [§e✫✫§8✫§6]
+§fTrout Meat§6 [§e✫§8✫✫§6]
+§fTrout Meat§6 [§e✫✫§8✫§6]
+§fTrout Oil§6 [§e✫§8✫✫§6]À
+§fTrout Oil§6 [§e✫✫§8✫§6]À
+§fTrout Oil§6 [§e✫✫§8✫§6]
+§fTrout Oil§6 [§e✫§8✫✫§6]
+§fTrout Oil§6 [§e✫✫✫§6]À
+§fMolten Meat§6 [§e✫✫§8✫§6]À
+§fMolten Oil§6 [§e✫§8✫✫§6]À
+§fMolten Oil§6 [§e✫✫✫§6]À
+§fMolten Oil§6 [§e✫✫§8✫§6]À
+§fMolten Ingot§6 [§e✫§8✫✫§6]À
+§fMolten Ingot§6 [§e✫✫§8✫§6]À
+§fMolten Ingot§6 [§e✫✫✫§6]À
+§fMolten Gem§6 [§e✫✫§8✫§6]À
+§fMolten Gem§6 [§e✫✫✫§6]À
+§fMolten Gem§6 [§e✫§8✫✫§6]À
+§fSpruce Wood§6 [§e✫✫✫§6]À
+§fSpruce Wood§6 [§e✫✫✫§6]
+§fSpruce Wood§6 [§e✫§8✫✫§6]
+§fSpruce Wood§6 [§e✫§8✫✫§6]À
+§fSpruce Wood§6 [§e✫✫§8✫§6]
+§fSpruce Wood§6 [§e✫✫§8✫§6]À
+§fSpruce Paper§6 [§e✫✫§8✫§6]À
+§fSpruce Paper§6 [§e✫✫✫§6]À
+§fSpruce Paper§6 [§e✫§8✫✫§6]À
+§fHemp String§6 [§e✫§8✫✫§6]À
+§fHemp String§6 [§e✫✫§8✫§6]À
+§fHemp String§6 [§e✫✫✫§6]À
+§fHemp Grains§6 [§e✫✫§8✫§6]À
+§fHemp Grains§6 [§e✫✫✫§6]À
+§fHemp Grains§6 [§e✫§8✫✫§6]À
+§fRice String§6 [§e✫✫✫§6]À
+§fRice String§6 [§e✫✫§8✫§6]À
+§fRice Grains§6 [§e✫§8✫✫§6]À
+§fRice Grains§6 [§e✫✫§8✫§6]À
+§fSilver Ingot§6 [§e✫§8✫✫§6]
+§fSilver Ingot§6 [§e✫✫✫§6]
+§fSilver Ingot§6 [§e✫✫§8✫§6]
+§fSilver Ingot§6 [§e✫§8✫✫§6]À
+§fSilver Ingot§6 [§e✫✫§8✫§6]À
+§fSilver Ingot§6 [§e✫✫✫§6]À
+§fSilver Gem§6 [§e✫✫✫§6]À
+§fSilver Gem§6 [§e✫§8✫✫§6]À
+§fSilver Gem§6 [§e✫§8✫✫§6]
+§fPine Wood§6 [§e✫§8✫✫§6]
+§fPine Wood§6 [§e✫✫§8✫§6]À
+§fPine Wood§6 [§e✫§8✫✫§6]À
+§fPine Wood§6 [§e✫✫✫§6]À
+§fPine Paper§6 [§e✫§8✫✫§6]À
+§fPine Paper§6 [§e✫✫✫§6]À
+§fPine Paper§6 [§e✫✫§8✫§6]À
+§fCarp Oil§6 [§e✫§8✫✫§6]À
+§fCarp Oil§6 [§e✫§8✫✫§6]
+§fCarp Meat§6 [§e✫§8✫✫§6]À
+§fCarp Meat§6 [§e✫✫§8✫§6]À
+§fKoi Meat§6 [§e✫✫✫§6]À
+§fMalt String§6 [§e✫§8✫✫§6]À
+§fMalt String§6 [§e✫✫✫§6]
+§fMalt String§6 [§e✫§8✫✫§6]
+§fMalt Grains§6 [§e✫✫✫§6]À
+§fMalt Grains§6 [§e✫§8✫✫§6]À
+§fMalt Grains§6 [§e✫✫§8✫§6]À
+§fMalt Grains§6 [§e✫§8✫✫§6]
+§fIron Ingot§6 [§e✫✫✫§6]À
+§fIron Ingot§6 [§e✫§8✫✫§6]
+§fIron Ingot§6 [§e✫✫✫§6]
+§fIron Ingot§6 [§e✫✫§8✫§6]
+§fIron Ingot§6 [§e✫§8✫✫§6]À
+§fIron Gem§6 [§e✫✫§8✫§6]À
+§fIron Gem§6 [§e✫§8✫✫§6]À
+§fIron Gem§6 [§e✫✫✫§6]À
+§fMillet String§6 [§e✫§8✫✫§6]À
+§fMillet String§6 [§e✫✫✫§6]
+§fMillet Grains§6 [§e✫✫§8✫§6]À
+§fMillet Grains§6 [§e✫✫✫§6]À
+§fMillet Grains§6 [§e✫§8✫✫§6]À
+§fCobalt Gem§6 [§e✫✫✫§6]À
+§fCobalt Ingot§6 [§e✫§8✫✫§6]À
+§fCobalt Ingot§6 [§e✫✫✫§6]À
+§fKanderstone Ingot§6 [§e✫§8✫✫§6]À
+§fKanderstone Ingot§6 [§e✫✫§8✫§6]À
+§fKanderstone Ingot§6 [§e✫✫✫§6]À
+§fKanderstone Gem§6 [§e✫✫✫§6]À
+§fDernic Grains§6 [§e✫✫✫§6]À
+§fDernic Grains§6 [§e✫§8✫✫§6]À
+§fDernic Grains§6 [§e✫✫§8✫§6]À
+§fDernic Ingot§6 [§e✫✫§8✫§6]À
+§fDernic Ingot§6 [§e✫§8✫✫§6]À
+§fDernic Ingot§6 [§e✫✫✫§6]À
+§fDernic Oil§6 [§e✫✫✫§6]À
+§fDernic String§6 [§e✫§8✫✫§6]À
+§fDernic Gem§6 [§e✫✫§8✫§6]À
+§fDernic Gem§6 [§e✫✫✫§6]À
+§fDernic Paper§6 [§e✫✫§8✫§6]À
+§fDernic Paper§6 [§e✫✫✫§6]À
+§fDernic Paper§6 [§e✫§8✫✫§6]À
+§fDernic Wood§6 [§e✫✫✫§6]À
+§fDernic Wood§6 [§e✫✫§8✫§6]À
+§fDernic Wood§6 [§e✫§8✫✫§6]À
+§fWillow Wood§6 [§e✫§8✫✫§6]
+§fWillow Wood§6 [§e✫✫§8✫§6]
+§fWillow Wood§6 [§e✫§8✫✫§6]À
+§fWillow Wood§6 [§e✫✫§8✫§6]À
+§fWillow Paper§6 [§e✫✫✫§6]À
+§fWillow Paper§6 [§e✫§8✫✫§6]
+§fWillow Paper§6 [§e✫✫§8✫§6]
+§fWillow Paper§6 [§e✫§8✫✫§6]À
+§fWillow Paper§6 [§e✫✫§8✫§6]À
+§fJungle Paper§6 [§e✫✫§8✫§6]À
+§fJungle Paper§6 [§e✫§8✫✫§6]À
+§fJungle Paper§6 [§e✫✫✫§6]À
+§fJungle Wood§6 [§e✫✫§8✫§6]
+§fJungle Wood§6 [§e✫✫✫§6]
+§fJungle Wood§6 [§e✫§8✫✫§6]
+§fJungle Wood§6 [§e✫✫✫§6]À
+§fJungle Wood§6 [§e✫§8✫✫§6]À
+§fJungle Wood§6 [§e✫✫§8✫§6]À
+§fDecay String§6 [§e✫✫✫§6]
+§fDecay String§6 [§e✫✫§8✫§6]
+§fDecay String§6 [§e✫✫✫§6]À
+§fDecay String§6 [§e✫✫§8✫§6]À
+§fDecay Grains§6 [§e✫✫✫§6]À
+§fDecay Grains§6 [§e✫§8✫✫§6]À
+§fDecay Grains§6 [§e✫✫§8✫§6]À
+§fAcacia Wood§6 [§e✫§8✫✫§6]
+§fAcacia Wood§6 [§e✫§8✫✫§6]À
+§fAcacia Wood§6 [§e✫✫✫§6]
+§fAcacia Wood§6 [§e✫✫✫§6]À
+§fAcacia Wood§6 [§e✫✫§8✫§6]À
+§fAcacia Wood§6 [§e✫✫§8✫§6]
+§fAcacia Paper§6 [§e✫✫§8✫§6]À
+§fAcacia Paper§6 [§e✫✫✫§6]À
+§fAcacia Paper§6 [§e✫§8✫✫§6]À
+§fAcacia Paper§6 [§e✫§8✫✫§6]
+§fAvo Paper§6 [§e✫§8✫✫§6]À
+§fAvo Paper§6 [§e✫✫§8✫§6]À
+§fAvo Paper§6 [§e✫✫✫§6]À
+§fAvo Wood§6 [§e✫✫§8✫§6]À
+§fAvo Wood§6 [§e✫§8✫✫§6]À
+§fAvo Wood§6 [§e✫✫✫§6]À
+§fStarfish Meat§6 [§e✫✫✫§6]À
+§fStarfish Meat§6 [§e✫✫§8✫§6]À
+§fStarfish Oil§6 [§e✫✫✫§6]À
+§fStarfish Oil§6 [§e✫✫§8✫§6]À
+§fBass Oil§6 [§e✫✫§8✫§6]À
+§fLight Wood§6 [§e✫✫§8✫§6]
+§fLight Wood§6 [§e✫✫✫§6]À
+§fLight Wood§6 [§e✫§8✫✫§6]À
+§fLight Wood§6 [§e✫✫§8✫§6]À
+§fLight Paper§6 [§e✫§8✫✫§6]À
+§fLight Paper§6 [§e✫✫§8✫§6]À
+§fDark Wood§6 [§e✫✫§8✫§6]
+§fDark Wood§6 [§e✫✫✫§6]À
+§fDark Wood§6 [§e✫✫§8✫§6]À
+§fDark Wood§6 [§e✫§8✫✫§6]À
+§fDark Paper§6 [§e✫✫§8✫§6]À
+§fDark Paper§6 [§e✫✫✫§6]À
+§fDark Paper§6 [§e✫§8✫✫§6]À
+§fHops Grains§6 [§e✫✫§8✫§6]À
+§fHops Grains§6 [§e✫✫✫§6]À
+§fHops String§6 [§e✫✫✫§6]À
+§fHops String§6 [§e✫§8✫✫§6]À
+§fHops String§6 [§e✫§8✫✫§6]
+§fVoidstone Ingot§6 [§e✫§8✫✫§6]À
+§fVoidstone Ingot§6 [§e✫✫§8✫§6]À
+§fVoidstone Ingot§6 [§e✫✫✫§6]À
+§fVoidstone Gem§6 [§e✫§8✫✫§6]À
+§fDiamond Ingot§6 [§e✫✫✫§6]À
+§fDiamond Gem§6 [§e✫✫§8✫§6]À
+§fDiamond Gem§6 [§e✫§8✫✫§6]À
+§fSalmon Oil§6 [§e✫§8✫✫§6]
+§fSalmon Oil§6 [§e✫✫§8✫§6]
+§fSalmon Oil§6 [§e✫✫✫§6]
+§fSalmon Oil§6 [§e✫§8✫✫§6]À
+§fIcefish Oil§6 [§e✫§8✫✫§6]
+§fIcefish Oil§6 [§e✫✫§8✫§6]
+§fIcefish Oil§6 [§e✫✫✫§6]
+§fIcefish Oil§6 [§e✫§8✫✫§6]À
+§fIcefish Meat§6 [§e✫✫§8✫§6]À
+§fIcefish Meat§6 [§e✫§8✫✫§6]
+§fPiranha Oil§6 [§e✫✫§8✫§6]
+§fPiranha Oil§6 [§e✫§8✫✫§6]
+§fRye Grains§6 [§e✫§8✫✫§6]À
+§fRye Grains§6 [§e✫✫§8✫§6]À
+§fRye String§6 [§e✫✫✫§6]À
+§fRye String§6 [§e✫✫§8✫§6]À
+§fSorghum Grains§6 [§e✫§8✫✫§6]À
+§fSorghum Grains§6 [§e✫✫✫§6]À
+§fSorghum Grains§6 [§e✫✫§8✫§6]À
+§fSorghum String§6 [§e✫§8✫✫§6]À
+§fSorghum String§6 [§e✫✫§8✫§6]À
+§fSky Paper§6 [§e✫✫§8✫§6]À
+§fSky Paper§6 [§e✫✫✫§6]À
+§fSky Paper§6 [§e✫§8✫✫§6]À
+§fSky Wood§6 [§e✫✫§8✫§6]À
+§fSky Wood§6 [§e✫§8✫✫§6]À
+
+Refined Acacia Wood 1
+Refined Acacia Wood 2
+Refined Willow Wood 2
+Refined Wheat String 2
+Refined Gudgeon Oil 1
+Refined Oak Wood 2
+
+§6Fellowship Dagger
+§aSpawn a Grumpy Old Man
+§4Despawn your Grumpy Old Man
+§aSpawn a Cream Wybel
+§cDern Spear
+§cLake Gylia Effect
+
+§b§lExplorer's Corruption StudyÀ
+§b§lWolf TempleÀ
+§b§lFrozen Cave HideoutÀ
+§b§lThe Final MomentsÀ
+
+§cUnidentified Leggings
+§cUnidentified Ring
+
+§7§lRemove 1st Spell Cost Identification Only Filter
+§7§lRemove Gather XP Bonus Identification Only Filter
+§7§lRemove Loot Quality Identification Only Filter
+§7§lRemove Jump Height Identification Only Filter
+§7§lRemove Main Attack Neutral Damage Identification Only Filter
+
+Crafted Relik
+IceÀÀÀBarrows Key
+§6Eldritch Outlook Fragment
+§fLovely Flower
+§fRoyal Explosive
+§fSturdy Rock
+§bThe End
+§fAvo Magic Totem
+§fFactory Transmitter
+Fallen���Factory���Entrance
+Legendary���Island Teleportation Scroll
+§fPure Light Spruce Relik
+
+Crafted Scroll
+Gathering Rod 3
+Gathering Pickaxe 8
+Gathering Pickaxe 7
+
+Galleon'sÀÀÀGraveyard Key
+§e§lLobby 10
+
+§aTree Shop
+§aArmor Shop
+§aCookie Shop
+Ahmsord Teleportation Scroll
