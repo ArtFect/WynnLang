@@ -310,56 +310,54 @@
 §fSky Wood§6 [§e✫✫§8✫§6]À@§fДревесина Лиственницы§6 [§e✫✫§8✫§6]
 §fSky Wood§6 [§e✫§8✫✫§6]À@§fДревесина Лиственницы§6 [§e✫§8✫✫§6]
 
-Refined Acacia Wood 1
-Refined Acacia Wood 2
-Refined Willow Wood 2
-Refined Wheat String 2
-Refined Gudgeon Oil 1
-Refined Oak Wood 2
+Refined Acacia Wood 1@Переработанная Древесина Акации 1
+Refined Acacia Wood 2@Переработанная Древесина Акации 2
+Refined Willow Wood 2@Переработанная Древесина Ивы 2
+Refined Wheat String 2@Переработанная Пшеничная Нить 2
+Refined Gudgeon Oil 1@Переработанный Жир Пескаря 1
+Refined Oak Wood 2@Переработанная Древесина Дуба 2
 
-§6Fellowship Dagger
-§aSpawn a Grumpy Old Man
-§4Despawn your Grumpy Old Man
-§aSpawn a Cream Wybel
-§cDern Spear
-§cLake Gylia Effect
+§6Fellowship Dagger@§6Кинжал Дружбы
+§aSpawn a Grumpy Old Man@§aЗаспавнить Старика
+§4Despawn your Grumpy Old Man@§4Деспавнить своего Старика
+§aSpawn a Cream Wybel@§aЗаспавнить Кремового Вубела
+§cDern Spear@§cДерн Копье
+§cLake Gylia Effect@§cЭффект Озера Гилия
 
-§b§lExplorer's Corruption StudyÀ
-§b§lWolf TempleÀ
-§b§lFrozen Cave HideoutÀ
-§b§lThe Final MomentsÀ
+§b§lExplorer's Corruption StudyÀ@§b§lИсследование Изучения Порчи
+§b§lWolf TempleÀ@§b§lХрам Волков
+§b§lFrozen Cave HideoutÀ@§b§lЗамороженная Пещера-Убежище
+§b§lThe Final MomentsÀ@§b§lФинальные Моменты
 
-§cUnidentified Leggings
-§cUnidentified Ring
+§cUnidentified Leggings@§cНеидентифицированные Штаны
+§cUnidentified Ring@§cНеидентифицированное Кольцо
 
-§7§lRemove 1st Spell Cost Identification Only Filter
-§7§lRemove Gather XP Bonus Identification Only Filter
-§7§lRemove Loot Quality Identification Only Filter
-§7§lRemove Jump Height Identification Only Filter
-§7§lRemove Main Attack Neutral Damage Identification Only Filter
+§7§lRemove 1st Spell Cost Identification Only Filter@§7§lУбрать Фильтр "Только Цена 1-го Заклинания Идентификация"
+§7§lRemove Gather XP Bonus Identification Only Filter@§7§lУбрать Фильтр "Только XP Бонус за Сбор Идентификация"
+§7§lRemove Loot Quality Identification Only Filter@§7§lУбрать Фильтр "Только Качество Лута Идентификация"
+§7§lRemove Jump Height Identification Only Filter@§7§lУбрать Фильтр "Только Высота Прыжка Идентификация"
+§7§lRemove Main Attack Neutral Damage Identification Only Filter@§7§lУбрать Фильтр "Только Нейтральный Урон Основной Атаки"
 
-Crafted Relik
-IceÀÀÀBarrows Key
-§6Eldritch Outlook Fragment
-§fLovely Flower
-§fRoyal Explosive
-§fSturdy Rock
-§bThe End
-§fAvo Magic Totem
-§fFactory Transmitter
-Fallen���Factory���Entrance
-Legendary���Island Teleportation Scroll
-§fPure Light Spruce Relik
+Crafted Relik@Крафтовый Релик
+IceÀÀÀBarrows Key@Ключ от Ледяного Кургана
+§6Eldritch Outlook Fragment@§6Фрагмент Жуткого Наблюдателя
+§fLovely Flower@§fПрекрасный Цветок
+§fRoyal Explosive@§fКоролевская Взрывчатка
+§fSturdy Rock@§fКрепкий Камень
+§fAvo Magic Totem@§fМагический Тотем
+§fFactory Transmitter@§fФабричный Передатчик
+Fallen���Factory���Entrance@Заброшенная Фабрика Вход
+Legendary���Island Teleportation Scroll@Свиток Телепортации на Легендарный Остров 
 
-Crafted Scroll
-Gathering Rod 3
-Gathering Pickaxe 8
-Gathering Pickaxe 7
+Crafted Scroll@Крафтовый Свиток
+Gathering Rod 3@Сборная Удочка 3
+Gathering Pickaxe 8@Сборная Кирка 8
+Gathering Pickaxe 7@Сборная Кирка 7
 
-Galleon'sÀÀÀGraveyard Key
-§e§lLobby 10
+Galleon'sÀÀÀGraveyard Key@Ключ от Кладбища Галлеона
+§e§lLobby 10@§e§lЛобби 10
 
-§aTree Shop
-§aArmor Shop
-§aCookie Shop
-Ahmsord Teleportation Scroll
+§aTree Shop@§aМагазин Деревьев
+§aArmor Shop@§aМагазин Брони
+§aCookie Shop@§aМагазин Печенья
+Ahmsord Teleportation Scroll@Свиток Телепортации в Амсорд
