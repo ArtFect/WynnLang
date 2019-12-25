@@ -9,6 +9,7 @@ import net.minecraft.command.ICommand;
 import net.minecraft.command.ICommandSender;
 import net.minecraft.server.MinecraftServer;
 import net.minecraft.util.math.BlockPos;
+import ru.artfect.wynnlang.Reference;
 import ru.artfect.wynnlang.WynnLang;
 
 public class RuCommand implements ICommand {
@@ -27,15 +28,10 @@ public class RuCommand implements ICommand {
         if (args.length != 0) {
             List<String> list = Arrays.asList(args);
             String message = String.join(" ", list);
-            WynnLang.ruChat.sendMessage("m:" + message);
+            Reference.ruChat.sendMessage("m:" + message);
         } else {
-            if (WynnLang.ruChat.defaultChat) {
-                WynnLang.ruChat.defaultChat = false;
-                WynnLang.sendMessage("§rЧат по умолчанию §cвыключен§r");
-            } else {
-                WynnLang.ruChat.defaultChat = true;
-                WynnLang.sendMessage("§rЧат по умолчанию §aвключен§r");
-            }
+        	Reference.ruChat.defaultChat = !Reference.ruChat.defaultChat;
+            WynnLang.sendMessage("§rЧат по умолчанию " + (Reference.ruChat.defaultChat ? "§aвключен" : "§cвыключен") + "§r");
         }
     }
 

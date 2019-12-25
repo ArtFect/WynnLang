@@ -13,11 +13,14 @@ import net.minecraft.command.ICommand;
 import net.minecraft.command.ICommandSender;
 import net.minecraft.server.MinecraftServer;
 import net.minecraft.util.math.BlockPos;
+import ru.artfect.wynnlang.Config;
+import ru.artfect.wynnlang.Log;
 import ru.artfect.wynnlang.Multithreading;
+import ru.artfect.wynnlang.Reference;
 import ru.artfect.wynnlang.RuChat;
 import ru.artfect.wynnlang.UpdateManager;
 import ru.artfect.wynnlang.WynnLang;
-import ru.artfect.wynnlang.translate.Untranslate;
+import ru.artfect.wynnlang.translate.ReverseTranslation;
 
 public class WynnLangCommand implements ICommand {
 
@@ -36,86 +39,44 @@ public class WynnLangCommand implements ICommand {
         if (args.length != 0) {
             switch (args[0]) {
             case "toggle":
-                if (WynnLang.enabled) {
-                    WynnLang.enabled = false;
-                    WynnLang.sendMessage("§rМод §4выключен");
-                    Untranslate.translate(Untranslate.untranslate);
-                } else {
-                    WynnLang.enabled = true;
-                    WynnLang.sendMessage("§rМод §2включен");
-                    Untranslate.translate(Untranslate.translate);
-                }
-                WynnLang.config.get("Options", "Enabled", true).set(WynnLang.enabled);
-                WynnLang.config.save();
+            	Reference.modEnabled = !Reference.modEnabled;
+                WynnLang.sendMessage("§rМод " + (Reference.modEnabled ?  "§aвключен" : "§cвыключен") + "§r");
+				ReverseTranslation.reverse();
+                Config.setBoolean("Options", "Enabled", true, Reference.modEnabled);
                 break;
             case "log":
-                if (WynnLang.logging) {
-                    WynnLang.logging = false;
-                    WynnLang.sendMessage("§rОтправка §cвыключена");
-                } else {
-                    WynnLang.logging = true;
-                    WynnLang.sendMessage("§rОтправка §aвключена");
-                }
-                WynnLang.config.get("Options", "Logging", true).set(WynnLang.logging);
-                WynnLang.config.save();
+            	Log.enabled = !Log.enabled;
+                WynnLang.sendMessage("§rОтправка " + (Log.enabled ? "§aвключена" : "§cвыключена") + "§r");
+                Config.setBoolean("Options", "Logging", true, Log.enabled);
                 break;
             case "update":
-                if (!UpdateManager.needUpdate) {
-                    WynnLang.sendMessage("§cОбновление не требуется");
-                } else if (!UpdateManager.updating) {
-                    UpdateManager.updating = true;
-                    WynnLang.sendMessage("§aНовая версия скачивается...");
-                    Multithreading.runAsync(() -> {
-                        try {
-                            FileUtils.copyURLToFile(new URL(UpdateManager.downloadLink), new File("./Mods/WynnLang.jar"), 16000, 60000);
-                        } catch (IOException e) {
-                            UpdateManager.updating = false;
-                            WynnLang.sendMessage("§cНе удалось скачать обновление");
-                        }
-                        UpdateManager.needUpdate = false;
-                        UpdateManager.updating = false;
-                        WynnLang.sendMessage("§aНовая версия скачана. Пожалуйста перезагрузите Minecraft для применения обновления");
-                    });
-                }
+            	UpdateManager.update();
                 break;
             case "chat":
-                if (WynnLang.ruChat.enabled) {
-                    WynnLang.ruChat.enabled = false;
+            	Reference.ruChat.enabled = !Reference.ruChat.enabled;
+                if (Reference.ruChat.enabled) {
+                    Reference.ruChat = new RuChat();
+                    Reference.ruChat.start();
+                } else {
                     try {
-                        WynnLang.ruChat.closeSocket();
+                        Reference.ruChat.closeSocket();
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
-                    WynnLang.sendMessage("§rWynnLang чат §cвыключен");
-                } else {
-                    WynnLang.ruChat.enabled = true;
-                    WynnLang.ruChat = new RuChat();
-                    WynnLang.ruChat.start();
-                    WynnLang.sendMessage("§rWynnLang чат §aвключен");
                 }
-                WynnLang.config.get("Chat", "Enabled", true).set(WynnLang.ruChat.enabled);
-                WynnLang.config.save();
+                WynnLang.sendMessage("§rWynnLang чат " + (Reference.ruChat.enabled ?  "§aвключен" : "§cвыключен") + "§r");
+                Config.setBoolean("Chat", "Enabled", true, Reference.ruChat.enabled);
                 break;
             case "mute":
                 if (args.length == 2) {
-                    if (!WynnLang.ruChat.muted.contains(args[1])) {
-                        WynnLang.ruChat.muted.add(args[1]);
-                        WynnLang.sendMessage("§rВы §cбольше не будете§r получать сообщения от игрока " + args[1]);
-                    } else {
-                        WynnLang.ruChat.muted.remove(args[1]);
-                        WynnLang.sendMessage("§rВы §aснова можете§r получать сообщения от игрока " + args[1]);
-                    }
-                    String[] arr = new String[WynnLang.ruChat.muted.size()];
-                    arr = WynnLang.ruChat.muted.toArray(arr);
-                    WynnLang.config.get("Chat", "Muted", new String[0]).set(arr);
-                    WynnLang.config.save();
+                	Reference.ruChat.mutePlayer(args[1]);
                 } else {
                     WynnLang.sendMessage("§cУкажите от какого игрока вы не хотите получать сообщения");
                 }
                 break;
             case "info":
-                String online = WynnLang.ruChat.isAlive() ? String.valueOf(WynnLang.ruChat.online) : "неизвестно";
-                String chatConnection = WynnLang.ruChat.isAlive() ? "Связь с сервером чата §aустановлена" : "Связь с сервером чата §cотсутствует";
+                String online = Reference.ruChat.isAlive() ? String.valueOf(Reference.ruChat.online) : "неизвестно";
+                String chatConnection = Reference.ruChat.isAlive() ? "Связь с сервером чата §aустановлена" : "Связь с сервером чата §cотсутствует";
                 String playersOnline = "§rКоличество онлайн игроков: §6" + online;
                 WynnLang.sendMessage("Инфо: \n" + chatConnection + "\n" + playersOnline);
                 break;
@@ -128,7 +89,7 @@ public class WynnLangCommand implements ICommand {
         }
     }
 
-    public static void sendHelpMessage() {
+    private static void sendHelpMessage() {
         WynnLang.sendMessage("Помощь\n - /wl toggle - включить/отключить мод" +
     "\n - /wl log - включить/отключить отправку непереведенных строк" +
         		"\n - /wl chat - Включение/отключение общего мод чата" +

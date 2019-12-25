@@ -11,47 +11,35 @@ import net.minecraft.util.text.TextComponentString;
 import net.minecraft.util.text.event.ClickEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.network.FMLNetworkEvent;
-import ru.artfect.wynnlang.translate.PacketHandler;
+import ru.artfect.wynnlang.translate.MessageHandler;
 
 public class Network {
     @SubscribeEvent
     public void joinServer(FMLNetworkEvent.ClientConnectedToServerEvent e) {
-        ServerData s = WynnLang.mc.getCurrentServerData();
+        ServerData s = Minecraft.getMinecraft().getCurrentServerData();
         if (s == null) {
             return;
         }
 
         String ip = s.serverIP.toLowerCase();
-        if (!WynnLang.mc.isSingleplayer() && WynnLang.mc.getCurrentServerData() != null && (ip.contains("wynncraft.com") || ip.contains("wynncraft.org") || ip.contains("wynncraft.net"))) {
-            WynnLang.onWynncraft = true;
-            e.getManager().channel().pipeline().addBefore("fml:packet_handler", "wynnlang:packet_handler", new PacketHandler());
+        Minecraft mc = Minecraft.getMinecraft();
+        if (!mc.isSingleplayer() && mc.getCurrentServerData() != null && (ip.contains("wynncraft.com") || ip.contains("wynncraft.org") || ip.contains("wynncraft.net"))) {
+            Reference.onWynncraft = true;
+            e.getManager().channel().pipeline().addBefore("fml:packet_handler", "wynnlang:packet_handler", new MessageHandler());
 
-            if (!WynnLang.ruChat.isAlive() && WynnLang.ruChat.enabled) {
-            	WynnLang.ruChat = new RuChat();
-                WynnLang.ruChat.start();
+            if (!Reference.ruChat.isAlive() && Reference.ruChat.enabled) {
+            	Reference.ruChat = new RuChat();
+                Reference.ruChat.start();
             }
 
-            if (UpdateManager.needUpdate) {
-                Multithreading.runAsync(() -> {
-                    while (Minecraft.getMinecraft().player == null) {
-                        try {
-                            Thread.sleep(100L);
-                        } catch (InterruptedException x) {
-
-                        }
-                    }
-                    ITextComponent msg = new TextComponentString("§2Доступна новая версия §6§l" + UpdateManager.newVer + "§2 для мода §6§lWynnlang§2. Нажмите на данное сообщение для скачивания");
-                    msg.getStyle().setClickEvent(new ClickEvent(ClickEvent.Action.RUN_COMMAND, "/WynnLang update"));
-                    Minecraft.getMinecraft().player.sendMessage(msg);
-                });
-            }
+            UpdateManager.sendUpdateMessage();
         }
     }
 
     @SubscribeEvent
-    public void onDisc(FMLNetworkEvent.ClientDisconnectionFromServerEvent e) throws ClientProtocolException, IOException {
-        Log.saveAndSend();
-        WynnLang.ruChat.closeSocket();
-        WynnLang.onWynncraft = false;
+    public void onDisc(FMLNetworkEvent.ClientDisconnectionFromServerEvent e) throws ClientProtocolException, IOException, InstantiationException, IllegalAccessException {
+    	Log.saveAndSend();
+        Reference.ruChat.closeSocket();
+        Reference.onWynncraft = false;
     }
 }

@@ -23,76 +23,96 @@ import org.apache.http.message.BasicNameValuePair;
 
 import com.google.gson.Gson;
 
-import ru.artfect.wynnlang.WynnLang.MessageType;
+import net.minecraft.client.Minecraft;
+import ru.artfect.translates.Chat;
+import ru.artfect.translates.Entity;
+import ru.artfect.translates.ItemLore;
+import ru.artfect.translates.ItemName;
+import ru.artfect.translates.Playerlist;
+import ru.artfect.translates.Title;
+import ru.artfect.translates.TranslateType;
 
 public class Log {
-    private static final String LOG_PATH = WynnLang.mc.mcDataDir + "/config/WynnLang/Logs/";
-    private static HashMap<MessageType, List<String>> oldStr = new HashMap<MessageType, List<String>>();
-    private static HashMap<MessageType, List<String>> newStr = new HashMap<MessageType, List<String>>();
+    public static boolean enabled = true;
+    private static final String LOG_PATH = Minecraft.getMinecraft().mcDataDir + "/config/WynnLang/Logs/";
+    
+    private static HashMap<Class <? extends TranslateType>, List<String>> oldStr = new HashMap<>();
+    private static HashMap<Class <? extends TranslateType>, List<String>> newStr = new HashMap<>();
 
-    public static void init() throws IOException {
+    public static void init() throws IOException{
+    	loadLogs();
+    	
+        Multithreading.schedule(() -> {
+            try {
+                saveAndSend();
+            } catch (IOException | InstantiationException | IllegalAccessException ignored) {
+
+            }
+        }, 1, 1, TimeUnit.MINUTES);
+    }
+    
+    public static void loadLogs() throws IOException{
         Path lpath = Paths.get(LOG_PATH);
         if (!Files.exists(lpath)) {
             Files.createDirectories(lpath);
         }
-        EnumSet.allOf(MessageType.class).forEach(type -> loadLogFile(type));
-
-        Multithreading.schedule(() -> {
-            try {
-                saveAndSend();
-            } catch (IOException e) {
-
-            }
-        }, 2, 2, TimeUnit.MINUTES);
+        
+        loadLogFile(Chat.class);
+        loadLogFile(Entity.class);
+        loadLogFile(ItemLore.class);
+        loadLogFile(ItemName.class);
+        loadLogFile(Playerlist.class);
+        loadLogFile(Title.class);
     }
 
-    public static void saveAndSend() throws ClientProtocolException, IOException {
-        if (!WynnLang.onWynncraft) {
+    public static void saveAndSend() throws ClientProtocolException, IOException, InstantiationException, IllegalAccessException {
+        if (!Reference.onWynncraft) {
             return;
         }
         List<NameValuePair> params = new ArrayList<NameValuePair>();
-        params.add(new BasicNameValuePair("UUID", WynnLang.uuid));
-        params.add(new BasicNameValuePair("ver", WynnLang.VERSION));
+        params.add(new BasicNameValuePair("UUID", Minecraft.getMinecraft().getSession().getProfile().getId().toString()));
+        params.add(new BasicNameValuePair("ver", Reference.VERSION));
 
-        for (MessageType s : newStr.keySet()) {
-            List<String> strList = newStr.get(s);
+        for (Class<? extends TranslateType> tClass : newStr.keySet()) {
+            List<String> strList = newStr.get(tClass);
+        	TranslateType type = tClass.newInstance();
             if (strList.isEmpty()) {
                 continue;
             }
-            params.add(new BasicNameValuePair(s.name(), new Gson().toJson(strList)));
+            params.add(new BasicNameValuePair(type.getName(), new Gson().toJson(strList)));
             try {
-                Files.write(Paths.get(LOG_PATH + s.name() + ".txt"), strList, StandardCharsets.UTF_8,
+                Files.write(Paths.get(LOG_PATH + type.getName() + ".txt"), strList, StandardCharsets.UTF_8,
                         StandardOpenOption.APPEND, StandardOpenOption.CREATE);
-            } catch (IOException e) {
+            } catch (IOException ignored) {
 
             }
             strList.clear();
         }
 
         CloseableHttpClient client = HttpClients.createDefault();
-        HttpPost httpPost = new HttpPost("http://" + WynnLang.SERVER);
+        HttpPost httpPost = new HttpPost("http://" + Reference.SERVER);
         httpPost.setEntity(new UrlEncodedFormEntity(params, "UTF-8"));
         CloseableHttpResponse response = client.execute(httpPost);
         client.close();
     }
 
-    private static void loadLogFile(MessageType type) {
+    private static void loadLogFile(Class<? extends TranslateType> tClass) {
         try {
-            Path p = Paths.get(LOG_PATH + type + ".txt");
+            Path p = Paths.get(LOG_PATH + tClass.getName() + ".txt");
             if (p.toFile().exists()) {
-                oldStr.put(type, Files.readAllLines(p));
+                oldStr.put(tClass, Files.readAllLines(p));
             } else {
-                oldStr.put(type, new ArrayList<String>());
+                oldStr.put(tClass, new ArrayList<String>());
                 p.toFile().createNewFile();
             }
-            newStr.put(type, new ArrayList<String>());
-        } catch (IOException e) {
+            newStr.put(tClass, new ArrayList<String>());
+        } catch (IOException ignored) {
 
         }
     }
 
-    public static void addString(MessageType type, String str) {
-        if (WynnLang.logging && !oldStr.get(type).contains(str)) {
+    public static void addString(Class<? extends TranslateType> type, String str) {
+        if (enabled && !oldStr.get(type).contains(str)) {
             oldStr.get(type).add(str);
             newStr.get(type).add(str);
         }

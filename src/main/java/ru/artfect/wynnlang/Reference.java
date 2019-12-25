@@ -1,0 +1,18 @@
+package ru.artfect.wynnlang;
+
+import net.minecraft.client.settings.KeyBinding;
+import ru.artfect.wynnlang.translate.MessageHandler;
+import ru.artfect.wynnlang.translate.ReverseTranslation;
+
+public class Reference {
+	public static final String VERSION = "${version}";
+	public static final String MOD_ID = "wynnlang";
+	public static final String NAME = "WynnLang";
+	public static final String SERVER = "35.228.84.245";
+	public static final String CHAT_PREFIX = "§a[WL]";
+
+	public static RuChat ruChat;
+	public static boolean onWynncraft = false;
+	public static boolean modEnabled = true;
+	public static KeyBinding[] keyBindings = new KeyBinding[1];
+}
