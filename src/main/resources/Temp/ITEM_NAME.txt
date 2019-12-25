@@ -253,62 +253,62 @@
 §fAvo Wood§6 [§e✫✫§8✫§6]À@§fДревесина Авокадо§6 [§e✫✫§8✫§6]
 §fAvo Wood§6 [§e✫§8✫✫§6]À@§fДревесина Авокадо§6 [§e✫§8✫✫§6]
 §fAvo Wood§6 [§e✫✫✫§6]À@§fДревесина Авокадо§6 [§e✫✫✫§6]
-§fStarfish Meat§6 [§e✫✫✫§6]À
-§fStarfish Meat§6 [§e✫✫§8✫§6]À
-§fStarfish Oil§6 [§e✫✫✫§6]À
-§fStarfish Oil§6 [§e✫✫§8✫§6]À
-§fBass Oil§6 [§e✫✫§8✫§6]À
-§fLight Wood§6 [§e✫✫§8✫§6]
-§fLight Wood§6 [§e✫✫✫§6]À
-§fLight Wood§6 [§e✫§8✫✫§6]À
-§fLight Wood§6 [§e✫✫§8✫§6]À
-§fLight Paper§6 [§e✫§8✫✫§6]À
-§fLight Paper§6 [§e✫✫§8✫§6]À
-§fDark Wood§6 [§e✫✫§8✫§6]
-§fDark Wood§6 [§e✫✫✫§6]À
-§fDark Wood§6 [§e✫✫§8✫§6]À
-§fDark Wood§6 [§e✫§8✫✫§6]À
-§fDark Paper§6 [§e✫✫§8✫§6]À
-§fDark Paper§6 [§e✫✫✫§6]À
-§fDark Paper§6 [§e✫§8✫✫§6]À
-§fHops Grains§6 [§e✫✫§8✫§6]À
-§fHops Grains§6 [§e✫✫✫§6]À
-§fHops String§6 [§e✫✫✫§6]À
-§fHops String§6 [§e✫§8✫✫§6]À
-§fHops String§6 [§e✫§8✫✫§6]
-§fVoidstone Ingot§6 [§e✫§8✫✫§6]À
-§fVoidstone Ingot§6 [§e✫✫§8✫§6]À
-§fVoidstone Ingot§6 [§e✫✫✫§6]À
-§fVoidstone Gem§6 [§e✫§8✫✫§6]À
-§fDiamond Ingot§6 [§e✫✫✫§6]À
-§fDiamond Gem§6 [§e✫✫§8✫§6]À
-§fDiamond Gem§6 [§e✫§8✫✫§6]À
-§fSalmon Oil§6 [§e✫§8✫✫§6]
-§fSalmon Oil§6 [§e✫✫§8✫§6]
-§fSalmon Oil§6 [§e✫✫✫§6]
-§fSalmon Oil§6 [§e✫§8✫✫§6]À
-§fIcefish Oil§6 [§e✫§8✫✫§6]
-§fIcefish Oil§6 [§e✫✫§8✫§6]
-§fIcefish Oil§6 [§e✫✫✫§6]
-§fIcefish Oil§6 [§e✫§8✫✫§6]À
-§fIcefish Meat§6 [§e✫✫§8✫§6]À
-§fIcefish Meat§6 [§e✫§8✫✫§6]
-§fPiranha Oil§6 [§e✫✫§8✫§6]
-§fPiranha Oil§6 [§e✫§8✫✫§6]
-§fRye Grains§6 [§e✫§8✫✫§6]À
-§fRye Grains§6 [§e✫✫§8✫§6]À
-§fRye String§6 [§e✫✫✫§6]À
-§fRye String§6 [§e✫✫§8✫§6]À
-§fSorghum Grains§6 [§e✫§8✫✫§6]À
-§fSorghum Grains§6 [§e✫✫✫§6]À
-§fSorghum Grains§6 [§e✫✫§8✫§6]À
-§fSorghum String§6 [§e✫§8✫✫§6]À
-§fSorghum String§6 [§e✫✫§8✫§6]À
-§fSky Paper§6 [§e✫✫§8✫§6]À
-§fSky Paper§6 [§e✫✫✫§6]À
-§fSky Paper§6 [§e✫§8✫✫§6]À
-§fSky Wood§6 [§e✫✫§8✫§6]À
-§fSky Wood§6 [§e✫§8✫✫§6]À
+§fStarfish Meat§6 [§e✫✫✫§6]À@§fМясо Морской Звезды§6 [§e✫✫✫§6]
+§fStarfish Meat§6 [§e✫✫§8✫§6]À@§fМясо Морской Звезды§6 [§e✫✫§8✫§6]
+§fStarfish Oil§6 [§e✫✫✫§6]À@§fЖир Морской Звезды§6 [§e✫✫✫§6]
+§fStarfish Oil§6 [§e✫✫§8✫§6]À@§fЖир Морской Звезды§6 [§e✫✫§8✫§6]
+§fBass Oil§6 [§e✫✫§8✫§6]À@§fЖир Окуня§6 [§e✫✫§8✫§6]
+§fLight Wood§6 [§e✫✫§8✫§6]@§fДревесина Клена§6 [§e✫✫§8✫§6]
+§fLight Wood§6 [§e✫✫✫§6]À@§fДревесина Клена§6 [§e✫✫✫§6]
+§fLight Wood§6 [§e✫§8✫✫§6]À@§fДревесина Клена§6 [§e✫§8✫✫§6]
+§fLight Wood§6 [§e✫✫§8✫§6]À@§fДревесина Клена§6 [§e✫✫§8✫§6]
+§fLight Paper§6 [§e✫§8✫✫§6]À@§fКленовая Бумага§6 [§e✫§8✫✫§6]
+§fLight Paper§6 [§e✫✫§8✫§6]À@§fКленовая Бумага§6 [§e✫✫§8✫§6]
+§fDark Wood§6 [§e✫✫§8✫§6]@§fДревесина Каштана§6 [§e✫✫§8✫§6]
+§fDark Wood§6 [§e✫✫✫§6]À@§fДревесина Каштана§6 [§e✫✫✫§6]
+§fDark Wood§6 [§e✫✫§8✫§6]À@§fДревесина Каштана§6 [§e✫✫§8✫§6]
+§fDark Wood§6 [§e✫§8✫✫§6]À@§fДревесина Каштана§6 [§e✫§8✫✫§6]
+§fDark Paper§6 [§e✫✫§8✫§6]À@§fКаштановая Бумага§6 [§e✫✫§8✫§6]
+§fDark Paper§6 [§e✫✫✫§6]À@§fКаштановая Бумага§6 [§e✫✫✫§6]
+§fDark Paper§6 [§e✫§8✫✫§6]À@§fКаштановая Бумага§6 [§e✫§8✫✫§6]
+§fHops Grains§6 [§e✫✫§8✫§6]À@§fХмелевое Зерно§6 [§e✫✫§8✫§6]
+§fHops Grains§6 [§e✫✫✫§6]À@§fХмелевое Зерно§6 [§e✫✫✫§6]
+§fHops String§6 [§e✫✫✫§6]À@§fХмельная Нить§6 [§e✫✫✫§6]
+§fHops String§6 [§e✫§8✫✫§6]À@§fХмельная Нить§6 [§e✫§8✫✫§6]
+§fHops String§6 [§e✫§8✫✫§6]@§fХмельная Нить§6 [§e✫§8✫✫§6]
+§fVoidstone Ingot§6 [§e✫§8✫✫§6]À@§fСлиток Войдстоуна§6 [§e✫§8✫✫§6]
+§fVoidstone Ingot§6 [§e✫✫§8✫§6]À@§fСлиток Войдстоуна§6 [§e✫✫§8✫§6]
+§fVoidstone Ingot§6 [§e✫✫✫§6]À@§fСлиток Войдстоуна§6 [§e✫✫✫§6]
+§fVoidstone Gem§6 [§e✫§8✫✫§6]À@§fВойдстоун Камень§6 [§e✫§8✫✫§6]
+§fDiamond Ingot§6 [§e✫✫✫§6]À@§fСлиток Алмаза§6 [§e✫✫✫§6]
+§fDiamond Gem§6 [§e✫✫§8✫§6]À@§fАлмазный Камень§6 [§e✫✫§8✫§6]
+§fDiamond Gem§6 [§e✫§8✫✫§6]À@§fАлмазный Камень§6 [§e✫§8✫✫§6]
+§fSalmon Oil§6 [§e✫§8✫✫§6]@§fЖир Лосося§6 [§e✫§8✫✫§6]
+§fSalmon Oil§6 [§e✫✫§8✫§6]@§fЖир Лосося§6 [§e✫✫§8✫§6]
+§fSalmon Oil§6 [§e✫✫✫§6]@§fЖир Лосося§6 [§e✫✫✫§6]
+§fSalmon Oil§6 [§e✫§8✫✫§6]À@§fЖир Лосося§6 [§e✫§8✫✫§6]
+§fIcefish Oil§6 [§e✫§8✫✫§6]@§fЖир Щуки§6 [§e✫§8✫✫§6]
+§fIcefish Oil§6 [§e✫✫§8✫§6]@§fЖир Щуки§6 [§e✫✫§8✫§6]
+§fIcefish Oil§6 [§e✫✫✫§6]@§fЖир Щуки§6 [§e✫✫✫§6]
+§fIcefish Oil§6 [§e✫§8✫✫§6]À@§fЖир Щуки§6 [§e✫§8✫✫§6]
+§fIcefish Meat§6 [§e✫✫§8✫§6]À@§fМясо Щуки§6 [§e✫✫§8✫§6]
+§fIcefish Meat§6 [§e✫§8✫✫§6]@§fМясо Щуки§6 [§e✫§8✫✫§6]
+§fPiranha Oil§6 [§e✫✫§8✫§6]@§fЖир Пираньи§6 [§e✫✫§8✫§6]
+§fPiranha Oil§6 [§e✫§8✫✫§6]@§fЖир Пираньи§6 [§e✫§8✫✫§6]
+§fRye Grains§6 [§e✫§8✫✫§6]À@§fРжаное Зерно§6 [§e✫§8✫✫§6]
+§fRye Grains§6 [§e✫✫§8✫§6]À@§fРжаное Зерно§6 [§e✫✫§8✫§6]
+§fRye String§6 [§e✫✫✫§6]À@§fРжаная Нить§6 [§e✫✫✫§6]
+§fRye String§6 [§e✫✫§8✫§6]À@§fРжаная Нить§6 [§e✫✫§8✫§6]
+§fSorghum Grains§6 [§e✫§8✫✫§6]À@§fСорговое Зерно§6 [§e✫§8✫✫§6]
+§fSorghum Grains§6 [§e✫✫✫§6]À@§fСорговое Зерно§6 [§e✫✫✫§6]
+§fSorghum Grains§6 [§e✫✫§8✫§6]À@§fСорговое Зерно§6 [§e✫✫§8✫§6]
+§fSorghum String§6 [§e✫§8✫✫§6]À@§fСорго Нить§6 [§e✫§8✫✫§6]
+§fSorghum String§6 [§e✫✫§8✫§6]À@§fСорго Нить§6 [§e✫✫§8✫§6]
+§fSky Paper§6 [§e✫✫§8✫§6]À@§fЛиственная Бумага§6 [§e✫✫§8✫§6]
+§fSky Paper§6 [§e✫✫✫§6]À@§fЛиственная Бумага§6 [§e✫✫✫§6]
+§fSky Paper§6 [§e✫§8✫✫§6]À@§fЛиственная Бумага§6 [§e✫§8✫✫§6]
+§fSky Wood§6 [§e✫✫§8✫§6]À@§fДревесина Лиственницы§6 [§e✫✫§8✫§6]
+§fSky Wood§6 [§e✫§8✫✫§6]À@§fДревесина Лиственницы§6 [§e✫§8✫✫§6]
 
 Refined Acacia Wood 1
 Refined Acacia Wood 2
