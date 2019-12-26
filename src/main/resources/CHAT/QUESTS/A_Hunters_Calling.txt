@@ -198,37 +198,37 @@
 §2???: §aThe very center... The place deemed closest to your home. There, in the center of Wynn... You shall find the end.@§2???: §aСамый центр...Место, считающееся самым близким к твоему дому. Там, в самом центре Винн... Ты найдешь свой конец.
 §7[1/5] §2Bak'al: §aDetlas. What a foolish place for a central trading town, so close to the Roots.@§7[1/5] §2Бак'ал: §aДетлас. Какое глупое место для центрального торгового города, так близко к Корням.
 §7[2/5] §2Bak'al: §aMy armies have been sent to the other cities. Their hero is inevitably busy.@§7[2/5] §2Бак'ал: §aМои войска были посланы в другие города. Их герой неизбежно занят.
-§7[3/5] §2Bak'al: §aI will demolish this town. Their army will fall before us.@§7[3/5] §2Бак'ал: §a
-§7[4/5] §2Bak'al: §aYou will destroy the guards. I will destroy the town.@§7[4/5] §2Бак'ал: §a
-§7[5/5] §2Bak'al: §aNow, peon. Move.@§7[5/5] §2Бак'ал: §a
-§7[1/12] §2Aegis: §aHalt! Who goes there? Stop, in the name of the Detlas army!@§7[1/12] §2Аегис: §a
-§7[2/12] §2Aegis: §aShould you continue, you shall face the strength and courage of Admiral Aegis!@§7[2/12] §2Аегис: §a
-§7[3/12] §2Guard: §aAdmiral?! It's Bak'al!@§7[3/12] §2Страж: §a
-§7[4/12] §2Aegis: §aWe cannot back down against any foe! Chaaaarge!!@§7[4/12] §2Аегис: §a
-§7[5/12] §2Guard: §a...r-reinforcements! Need reinforcements!@§7[5/12] §2Страж: §a
-§7[6/12] §2Bakal: §aThe strongest of Detlas' army is dead. The rest are hiding in fear. Detlas will fall.@§7[6/12] §2Бак'ал: §a
-§7[7/12] §2???: §aExcuse me, I think you're forgetting someone.@§7[7/12] §2???: §a
-§7[8/12] §2Bak'al: §a...Fool§a. Run while you have the chance.@§7[8/12] §2Бак'ал: §a
-§7[9/12] §2???: §aDetlas will not fall today. We'll be making sure of that!@§7[9/12] §2???: §a
-§7[10/12] §2Bak'al: §aWe?@§7[10/12] §2Бак'ал: §a
-§7[11/12] §2Bak'al: §aSelf-confident idiots. I won't even bother dealing with you two.@§7[11/12] §2Бак'ал: §a
-§712/12] §2Bak'al: §aPeon. Deal with this nonsense.@§7[12/12] §2Бак'ал: §a
-§7[1/4] §2Aledar: §a§lTASIM§a! How the hell did you manage to kill him?!@§7[1/4] §2Аледар: §a
-§7[2/4] §2Bak'al: §aYou take too much stock in your ability. My victory is inevitable.@§7[2/4] §2Бак'ал: §a
-§7[3/4] §2Aledar: §aI’ll tear your guts out!!@§7[3/4] §2Аледар: §a
-§7[4/4] §2Bak'al: §aYour attention should be drawn to my peon. Now fall.@§7[4/4] §2Бак'ал: §a
-§7[1/1] §2Aledar: §a§lThis isn’t over§a! Once your little lackey’s dead I’m coming after you!!@§7[1/1] §2Аледар: §a
-§2???: §aAnd so, you have reached an end.@§2???: §a
-§2???: §aYou wonder. It is an end... But to §awhat...purpose§a. What will you gain?@§2???: §a
-§2???: §aYou have seen loss. Destruction. Betrayal. All ends, to some other than you. Ends that never came to pass...@§2???: §a
-§2???: §aTo end is a powerful thing. To find your end... You may never stop searching. You may find your end in but a day’s time.@§2???: §a
-§2???: §aBut §ahere...you§a will gain the power to bring an end. To be brought yours.@§2???: §a
-§2???: §aHowever. Though the change is irrevocable...@§2???: §a
-§2???: §aThe power to bring an end. It is a choice. And that... Whether you will use that power, we cannot tell you.@§2???: §a
-§2???: §aYou must deign to take that choice.@§2???: §a
-§2???: §aWe may offer you not one more end.@§2???: §a
-§2???: §aYou must find your final end yourself. We will remain... And offer others the same. And so...@§2???: §a
-§2???: §aWe two, §ahere...end§a.@§2???: §a
+§7[3/5] §2Bak'al: §aI will demolish this town. Their army will fall before us.@§7[3/5] §2Бак'ал: §aЯ уничтожу этот город. Их армия падет перед нами.
+§7[4/5] §2Bak'al: §aYou will destroy the guards. I will destroy the town.@§7[4/5] §2Бак'ал: §aВы уничтожите стражей. Я уничтожу город.
+§7[5/5] §2Bak'al: §aNow, peon. Move.@§7[5/5] §2Бак'ал: §aСейчас, пехотинец. Вперед.
+§7[1/12] §2Aegis: §aHalt! Who goes there? Stop, in the name of the Detlas army!@§7[1/12] §2Аегис: §aСтоять! Кто там ходит? Остановитесь, во имя армии Детласа!
+§7[2/12] §2Aegis: §aShould you continue, you shall face the strength and courage of Admiral Aegis!@§7[2/12] §2Аегис: §aЕсли вы продолжите, то столкнетесь с силой и мужеством Адмирала Аэгиса!
+§7[3/12] §2Guard: §aAdmiral?! It's Bak'al!@§7[3/12] §2Страж: §aАдмирал?! Это Бак'ал!
+§7[4/12] §2Aegis: §aWe cannot back down against any foe! Chaaaarge!!@§7[4/12] §2Аегис: §aМы не можем отступить ни перед одним врагом! В бой!
+§7[5/12] §2Guard: §a...r-reinforcements! Need reinforcements!@§7[5/12] §2Страж: §a...п-подкрепление! Нужно подкрепление!
+§7[6/12] §2Bakal: §aThe strongest of Detlas' army is dead. The rest are hiding in fear. Detlas will fall.@§7[6/12] §2Бак'ал: §aСамая сильная армия Детласа мертвп. Остальные прячутся в страхе. Детлас падет.
+§7[7/12] §2???: §aExcuse me, I think you're forgetting someone.@§7[7/12] §2???: §aПрошу прощения, мне кажется, вы кое-кого забыли.
+§7[8/12] §2Bak'al: §a...Fool§a. Run while you have the chance.@§7[8/12] §2Бак'ал: §a...Дурак. Беги, пока есть такая возможность.
+§7[9/12] §2???: §aDetlas will not fall today. We'll be making sure of that!@§7[9/12] §2???: §aДетлас сегодня не падет. Мы позаботимся об этом!
+§7[10/12] §2Bak'al: §aWe?@§7[10/12] §2Бак'ал: §aМы?
+§7[11/12] §2Bak'al: §aSelf-confident idiots. I won't even bother dealing with you two.@§7[11/12] §2Бак'ал: §aСамоуверенные идиоты. Я даже не буду утруждать себя общением с вами двумя.
+§712/12] §2Bak'al: §aPeon. Deal with this nonsense.@§7[12/12] §2Бак'ал: §aПехотинец. Разберись с этой ерундой.
+§7[1/4] §2Aledar: §a§lTASIM§a! How the hell did you manage to kill him?!@§7[1/4] §2Аледар: §a§lТАСИМ?§a Как, черт возьми, тебе удалось его убить?!
+§7[2/4] §2Bak'al: §aYou take too much stock in your ability. My victory is inevitable.@§7[2/4] §2Бак'ал: §aТы слишком много думаешь о своих способностях. Моя победа неизбежна.
+§7[3/4] §2Aledar: §aI’ll tear your guts out!!@§7[3/4] §2Аледар: §aЯ тебе кишки вырву!!
+§7[4/4] §2Bak'al: §aYour attention should be drawn to my peon. Now fall.@§7[4/4] §2Бак'ал: §aТвое внимание должно быть обращено на моего пехотинца. А теперь исчезни.
+§7[1/1] §2Aledar: §a§lThis isn’t over§a! Once your little lackey’s dead I’m coming after you!!@§7[1/1] §2Аледар: §a§lЭто еще не конец!§a Как только твой маленький лакей умрет, я приду за тобой!!
+§2???: §aAnd so, you have reached an end.@§2???: §aИ вот, ты достиг конца.
+§2???: §aYou wonder. It is an end... But to §awhat...purpose§a. What will you gain?@§2???: §aТы удивляешься. Это и есть конец... Но в чем была...цель. Что ты узнал?
+§2???: §aYou have seen loss. Destruction. Betrayal. All ends, to some other than you. Ends that never came to pass...@§2???: §aТы видел потери. Разрушения. Предательство. Все заканчивалось для кого-то другого, кроме тебя. Конец, который так и не наступил...
+§2???: §aTo end is a powerful thing. To find your end... You may never stop searching. You may find your end in but a day’s time.@§2???: §aЧтобы закончить мощную вещь. Чтобы найти свой конец... Возможно, ты никогда не перестанешь искать. Ты можешь найти свой конец всего за один день.
+§2???: §aBut §ahere...you§a will gain the power to bring an end. To be brought yours.@§2???: §aНо здесь.....ты обретаешь силу, чтобы положить этому конец. Чтобы ты это сделал.
+§2???: §aHowever. Though the change is irrevocable...@§2???: §aОднако. Хотя это изменение необратимо...
+§2???: §aThe power to bring an end. It is a choice. And that... Whether you will use that power, we cannot tell you.@§2???: §aСила, способная положить этому конец. Это - выбор. И... Воспользуешься ли ты этой силой, мы не можем тебе сказать.
+§2???: §aYou must deign to take that choice.@§2???: §aТы должен соизволить сделать этот выбор сам.
+§2???: §aWe may offer you not one more end.@§2???: §aМы не можем предложить тебе больше ни одного конца.
+§2???: §aYou must find your final end yourself. We will remain... And offer others the same. And so...@§2???: §aТы должен сам найти свой последний конец. Мы останемся здесь... И предложим другим то же самое. И поэтому...
+§2???: §aWe two, §ahere...end§a.@§2???: §aМы двое, здесь...в конце.
 §7[1/7] §2Tasim: §a...no§a sense screaming for the dead. But do you think I’m going to just give up like that?@§7[1/7] §2Тасим: §a
 §7[2/7] §2Bak'al: §aIt would be easier on yourself to.@§7[2/7] §2Бак'ал: §a
 §7[3/7] §2Tasim: §aHah. Didn’t know corrupteds had a sense of humor, twisted as it might be.@§7[3/7] §2Тасим: §a
