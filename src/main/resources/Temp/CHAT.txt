@@ -24,48 +24,43 @@
 §7Bring [30 Acacia Wood] or [30 Acacia Paper] to the Gathering Post [Woodcutting Lv. 38] at [1226,116,-1391]@§7Принеси §3[30 Древесины Акации] §7или §3[30 Акациевой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 38]
 §7Bring §3[36 Spruce Wood] §7or §3[36 Spruce Paper] §7to the §aGathering Post §2[Woodcutting Lv. 48]@§7Принеси §3[36 Древесины Ели] §7или §3[36 Еловой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 48]
 
-§7[2/7] §2Honip: §aIt doesn't seem too difficult though, a little to the left...
-§7[3/7] §2Honip: §aHmm, looks like we're not the only ones out on the water today.
-§7[4/7] §2Honip: §aThey are a bit too head on, don't you think?
-§7[5/7] §2Honip: §aI'm trying to steer the ship but it's not budging...
-§7[6/7] §2Honip: §aThat's unfortunate...
-§7[3/4] §2Honip: §aWell, shiver me timbers! You did redeem yourself, soldier!
-§7[1/1] §2Seth: §aHonip's probably waitin' for ya by now!
-§7[1/2] §2Seth: §aWelcome back! Any progress?
-§7[2/2] §2Pirate: §aSnoo saved us all, right? What a crazy lad, heh!
-§7[1/3] §2Honip: §aHey there fella'. So, the rat situation..?
-§7[2/3] §2Honip: §aOh, you're not done yet?
-§7[3/3] §2Honip: §aTake it slowly if ya want, that place gives me the creeps...
-§7[3/3] §2Honip: §aEager, are ya? Well, that's great!
-§7[2/2] §2Pirate: §aI take back what I said earlier, you might not be a chicken slaughterer.
+§7[3/4] §2Honip: §aWell, shiver me timbers! You did redeem yourself, soldier!@§7[3/4] §2Хонип: §a
+§7[1/1] §2Seth: §aHonip's probably waitin' for ya by now!@§7[1/1] §2Сэт: §a
+§7[1/2] §2Seth: §aWelcome back! Any progress?@§7[1/2] §2Сэт: §a
+§7[2/2] §2Pirate: §aSnoo saved us all, right? What a crazy lad, heh!@§7[2/2] §2Пират: §a
+§7[1/3] §2Honip: §aHey there fella'. So, the rat situation..?@§7[1/3] §2Хонип: §a
+§7[2/3] §2Honip: §aOh, you're not done yet?@§7[2/3] §2Хонип: §a
+§7[3/3] §2Honip: §aTake it slowly if ya want, that place gives me the creeps...@§7[3/3] §2Хонип: §a
+§7[3/3] §2Honip: §aEager, are ya? Well, that's great!@§7[3/3] §2Хонип: §a
+§7[2/2] §2Pirate: §aI take back what I said earlier, you might not be a chicken slaughterer.@§7[2/2] §2Пират: §a
 
-§7[1/1] §2Una: §aOhp, hold on a sec there! Can't take your classes without your materials! The shops are out on the docks.
-§7[1/1] §2Teacher: §aI know you're eager, but this is dangerous! Stay seated, please.
-§7[1/1] §2Headmaster: §aThe element of nature and physicality. Now, choose a Practical Magic lesson.
-§7[1/9] §2Teacher: §aNow, all of you. Sit. Listen.
-§7[1/1] §2Teacher: §aRemove the dark stone using your earth magic by right click the tome.
-§7[2/9] §2Teacher: §aEarth is an element of great power. Versatile and everpresent, nearly as the air.
-§7[3/9] §2Teacher: §aThunder provides force... Earth provides sheer power. The difference... Force chooses its own path. Power is force, directed.
-§7[4/9] §2Teacher: §aEarth is also the earth itself. Stone, metal, trees and soil. Trees sway in the wind, but do not break. And the mountains do not crumble.
-§7[5/9] §2Teacher: §aThe Touroto, steeped in earthly magic, are nearly invincible to all but themselves. It is proof of the earth's strength.
-§7[6/9] §2Teacher: §aThe Doguns... They were masters of the earth, and fire alike, shaping caverns to their will... And now, nearly extinct. A terrible crime...
-§7[7/9] §2Teacher: §aBut we shall honor them, and move forward. We shall strike the earth and claim it to be our own.
-§7[8/9] §2Teacher: §aThe tome directs the earth's force. Take it, and utilize it to shatter the stones I summon.
-§7[9/9] §2Teacher: §aThe darkest parts of the stone are weak points. Find them, and learn the power of the earth.
-§7[1/1] §2Teacher: §aUh oh.... Time is up! Try again!
-§7[1/1] §2Teacher: §aYou know the earth's power, fledgeling. There is nothing more for you here. Go.
-§7[1/1] §2Headmaster: §aA true wizard after my own heart, seeking wisdom! Good choice. Now, choose a Practical Magic lesson.
-§7[1/8] §2Teacher: §aAah, wow! Everyone s-sure got here quick...
-§7[2/8] §2Teacher: §aWelcome, w-welcome. The Water element class §ais...certainly§a an interesting one, I-I'd hope... Because water doesn't j-just pertain to, well, w-water...
-§7[3/8] §2Teacher: §aIt also is the element o-of knowledge, and pure magicality. Water i-is a sort of magical default, if you w-will. If it isn't focused on o-one element or another, magic ends up being water-based.
-§7[4/8] §2Teacher: §aLearning a-about the water element and e-expanding your horizons can allow you to cast spells easier... C-control the flow of magic better, you see.
-§7[5/8] §2Teacher: §aMost aquatic creatures are t-tied to water, though creatures that live in icy or snowy environments are, §at-too...often§a, they are also connected to air, but not always.
-§7[6/8] §2Teacher: §aIn a-addition, many holy artifacts are enchanted with water magic... S-something about how it's a pure type of energy, I believe.
-§7[7/8] §2Teacher: §aLastly, healing abilities are b-bolstered by water magic. Just knowing magic well d-doesn't help, but actually having artifacts charged w-with water magic can increase healing capabilities.
-§7[8/8] §2Teacher: §aN-now, for your test, I §ahave...um§a, a...a test. Anyone who wants to try it f-first, just go up and start.
-§7[1/2] §2Teacher: §aGood w-work there! I h-hope I wasn't too boring with all my talking... You can go now.
-§7[2/2] §2Teacher: §aN-now, who's n-next? And...i-is it really cold in here for all of you, too? Or, is it j-just me...?
-§7[1/1] §2Teacher: §aP-please sit down, fledgeling!
+§7[1/1] §2Una: §aOhp, hold on a sec there! Can't take your classes without your materials! The shops are out on the docks.@§7[1/1] §2Уна: §a
+§7[1/1] §2Teacher: §aI know you're eager, but this is dangerous! Stay seated, please.@§7[1/1] §2Учитель: §a
+§7[1/1] §2Headmaster: §aThe element of nature and physicality. Now, choose a Practical Magic lesson.@§7[1/1] §2Директор: §a
+§7[1/9] §2Teacher: §aNow, all of you. Sit. Listen.@§7[1/9] §2Учитель: §a
+§7[1/1] §2Teacher: §aRemove the dark stone using your earth magic by right click the tome.@§7[1/1] §2Учитель: §a
+§7[2/9] §2Teacher: §aEarth is an element of great power. Versatile and everpresent, nearly as the air.@§7[2/9] §2Учитель: §a
+§7[3/9] §2Teacher: §aThunder provides force... Earth provides sheer power. The difference... Force chooses its own path. Power is force, directed.@§7[3/9] §2Учитель: §a
+§7[4/9] §2Teacher: §aEarth is also the earth itself. Stone, metal, trees and soil. Trees sway in the wind, but do not break. And the mountains do not crumble.@§7[4/9] §2Учитель: §a
+§7[5/9] §2Teacher: §aThe Touroto, steeped in earthly magic, are nearly invincible to all but themselves. It is proof of the earth's strength.@§7[5/9] §2Учитель: §a
+§7[6/9] §2Teacher: §aThe Doguns... They were masters of the earth, and fire alike, shaping caverns to their will... And now, nearly extinct. A terrible crime...@§7[6/9] §2Учитель: §a
+§7[7/9] §2Teacher: §aBut we shall honor them, and move forward. We shall strike the earth and claim it to be our own.@§7[7/9] §2Учитель: §a
+§7[8/9] §2Teacher: §aThe tome directs the earth's force. Take it, and utilize it to shatter the stones I summon.@§7[8/9] §2Учитель: §a
+§7[9/9] §2Teacher: §aThe darkest parts of the stone are weak points. Find them, and learn the power of the earth.@§7[9/9] §2Учитель: §a
+§7[1/1] §2Teacher: §aUh oh.... Time is up! Try again!@§7[1/1] §2Учитель: §a
+§7[1/1] §2Teacher: §aYou know the earth's power, fledgeling. There is nothing more for you here. Go.@§7[1/1] §2Учитель: §a
+§7[1/1] §2Headmaster: §aA true wizard after my own heart, seeking wisdom! Good choice. Now, choose a Practical Magic lesson.@§7[1/1] §2Директор: §a
+§7[1/8] §2Teacher: §aAah, wow! Everyone s-sure got here quick...@§7[1/8] §2Учитель: §a
+§7[2/8] §2Teacher: §aWelcome, w-welcome. The Water element class §ais...certainly§a an interesting one, I-I'd hope... Because water doesn't j-just pertain to, well, w-water...@§7[2/8] §2Учитель: §a
+§7[3/8] §2Teacher: §aIt also is the element o-of knowledge, and pure magicality. Water i-is a sort of magical default, if you w-will. If it isn't focused on o-one element or another, magic ends up being water-based.@§7[3/8] §2Учитель: §a
+§7[4/8] §2Teacher: §aLearning a-about the water element and e-expanding your horizons can allow you to cast spells easier... C-control the flow of magic better, you see.@§7[4/8] §2Учитель: §a
+§7[5/8] §2Teacher: §aMost aquatic creatures are t-tied to water, though creatures that live in icy or snowy environments are, §at-too...often§a, they are also connected to air, but not always.@§7[5/8] §2Учитель: §a
+§7[6/8] §2Teacher: §aIn a-addition, many holy artifacts are enchanted with water magic... S-something about how it's a pure type of energy, I believe.@§7[6/8] §2Учитель: §a
+§7[7/8] §2Teacher: §aLastly, healing abilities are b-bolstered by water magic. Just knowing magic well d-doesn't help, but actually having artifacts charged w-with water magic can increase healing capabilities.@§7[7/8] §2Учитель: §a
+§7[8/8] §2Teacher: §aN-now, for your test, I §ahave...um§a, a...a test. Anyone who wants to try it f-first, just go up and start.@§7[8/8] §2Учитель: §a
+§7[1/2] §2Teacher: §aGood w-work there! I h-hope I wasn't too boring with all my talking... You can go now.@§7[1/2] §2Учитель: §a
+§7[2/2] §2Teacher: §aN-now, who's n-next? And...i-is it really cold in here for all of you, too? Or, is it j-just me...?@§7[2/2] §2Учитель: §a
+§7[1/1] §2Teacher: §aP-please sit down, fledgeling!@§7[1/1] §2Учитель: §a
 
 §7+ New Resource §8[Dark]
 §7+ New Resource §8[Silver]
