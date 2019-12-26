@@ -1,29 +1,29 @@
-§2???: §a...@§2???: §a
-§2???: §a...you§a arrive. You search... To what end?@§2???: §a
-§2???: §aYou wonder. What do we speak of? To what end?@§2???: §a
-§2???: §aYou panic. We know you. How? We can provide no answer.@§2???: §a
-§2???: §aFor answers... You search. To an end you seek. May we offer an end?@§2???: §a
-§2???: §aThe besieged origin. To end, one must begin.@§2???: §a
-§7[1/4] §2Bak'al: §aWe destroy Ragni today. The great fortress will fall.@§7[1/4] §2Бак'ал: §a
-§7[2/4] §2Bak'al: §aI will find their protector, Bob. You each will engage the guards and city dwellers. §a§l10 citizens§a.@§7[2/4] §2Бак'ал: §a
-§7[3/4] §2Bak'al: §aIf each of you kills §a§l10 citizens§a, then the city will run empty. So, you shall make it run empty.@§7[3/4] §2Бак'ал: §a
-§7[4/4] §2Bak'al: §aGo!@§7[4/4] §2Бак'ал: §a
-§2???: §aYou anger. Viewing needless destruction. To what end?@§2???: §a
-§2???: §aYou distrust. We are dark. Are we? You believe it so.@§2???: §a
-§2???: §aYou prepare. You would attack us. To what end?@§2???: §a
-§2???: §aThere is no end. Of what you wish, there is none. But may we offer an end?@§2???: §a
-§2???: §aThe unrighteous sought it. The noble hid it. The one seeking answers found more questions. Another §abeginning...to§a a new end.@§2???: §a
-§7[1/4] §2Amadel: §aHey, little miss. Don’t go spacing out on me like that.@§7[1/4] §2Амадел: §a
-§7[2/4] §2Amadel: §aNow that you’re acquainted with the new laws we’ll want to introduce, I’ve got a job for you to do.@§7[2/4] §2Амадел: §a
-§7[3/4] §2Amadel: §aThe current mayor is human. He'll inevitably veto the laws. The deputy on the other hand, is a villager, and on our side. See what I'm getting at.@§7[3/4] §2Амадел: §a
-§7[4/4] §2Amadel: §aAnother employee has already been sent out to get things started. He'll know what you need to do, so meet up with him, would you?@§7[4/4] §2Амадел: §a
-§7[1/4] §2Employee: §aYou are here for the job, aren't you? I have to apologize. It’s going to be trickier than I’d wanted for you.@§7[1/4] §2Служащий: §a
-§7[2/4] §2Employee: §aSo our mission is to assassinate the mayor. Amadel told you about the laws. We have a puppet in the running who’ll rubberstamp them.@§7[2/4] §2Служащий: §a
-§7[3/4] §2Employee: §aI've got the trap set up inside the bank. It was entirely too tricky, but it worked out. Your job is to trigger the trap.@§7[3/4] §2Служащий: §a
-§7[4/4] §2Employee: §aClimb up the tree behind me and look through the window, you should be able to see it from there.@§7[4/4] §2Служащий: §a
-§7[1/3] §2Employee: §aCan you see the mayor? I had to stay totally out of sight while setting this all up, so...@§7[1/3] §2Служащий: §a
-§7[2/3] §2Employee: §a...the§a only way to get to the trap is to jump across the hanging lamps in the ceiling.@§7[2/3] §2Служащий: §a
-§7[3/3] §2Employee: §aYou can absolutely not be spotted. The way up to the ceiling is on the opposite side of the bank. Just keep on walking past the guards, play it cool.@§7[3/3] §2Служащий: §a
+§2???: §a...@ 
+§2???: §a...you§a arrive. You search... To what end?@§2???: §a...ты прибыл. Ты ищешь... С какой целью?
+§2???: §aYou wonder. What do we speak of? To what end?@§2???: §aТы удивляешься. О чем мы говорим? С какой целью?
+§2???: §aYou panic. We know you. How? We can provide no answer.@§2???: §aТы паникуешь. Мы знаем тебя. Откуда? Мы не можем дать ответ.
+§2???: §aFor answers... You search. To an end you seek. May we offer an end?@§2???: §aДля ответов... Ты ищешь. Цель, которую ты ищешь. Можем ли мы предложить тебе конец?
+§2???: §aThe besieged origin. To end, one must begin.@§2???: §aОсажденное начало. Чтобы закончить, нужно начать.
+§7[1/4] §2Bak'al: §aWe destroy Ragni today. The great fortress will fall.@§7[1/4] §2Бак'ал: §aМы уничтожим Рагни сегодня. Великая крепость падет.
+§7[2/4] §2Bak'al: §aI will find their protector, Bob. You each will engage the guards and city dwellers. §a§l10 citizens§a.@§7[2/4] §2Бак'ал: §aЯ найду их защитника, Боба. Каждый из вас займется охраной и жителями города. §a§l10 жителей§a.
+§7[3/4] §2Bak'al: §aIf each of you kills §a§l10 citizens§a, then the city will run empty. So, you shall make it run empty.@§7[3/4] §2Бак'ал: §aЕсли каждый из вас убьет §a§l10 жителей§a, тогда город опустеет. Итак, вы должны сделать его пустым.
+§7[4/4] §2Bak'al: §aGo!@§7[4/4] §2Бак'ал: §aВперед!
+§2???: §aYou anger. Viewing needless destruction. To what end?@§2???: §aТы злишься. Смотришь на ненужные разрушения. С какой целью?
+§2???: §aYou distrust. We are dark. Are we? You believe it so.@§2???: §aТы недоверяешь. Мы ведь тьма. Так ли это? Ты в это веришь.
+§2???: §aYou prepare. You would attack us. To what end?@§2???: §aТы готовишься. Ты атаковал бы нас. С какой целью?
+§2???: §aThere is no end. Of what you wish, there is none. But may we offer an end?@§2???: §aЭтому нет конца. Из того, что ты хочешь, нет ничего. Но можем ли мы предложить тебе конец?
+§2???: §aThe unrighteous sought it. The noble hid it. The one seeking answers found more questions. Another §abeginning...to§a a new end.@§2???: §aНеправедные искали его. Благородные спрятали его. Тот, кто искал ответы, нашел еще больше вопросов. Другое начало...нового конца.
+§7[1/4] §2Amadel: §aHey, little miss. Don’t go spacing out on me like that.@§7[1/4] §2Амадел: §aПривет, маленький промах. Не вздумай так на меня набрасываться.
+§7[2/4] §2Amadel: §aNow that you’re acquainted with the new laws we’ll want to introduce, I’ve got a job for you to do.@§7[2/4] §2Амадел: §aТеперь, когда ты знаком с новыми законами, которые мы хотим ввести, у меня есть для тебя работа.
+§7[3/4] §2Amadel: §aThe current mayor is human. He'll inevitably veto the laws. The deputy on the other hand, is a villager, and on our side. See what I'm getting at.@§7[3/4] §2Амадел: §aНынешний мэр - человек. Он неизбежно наложит вето на законы. Помощники, с другой стороны - жители, причем на нашей стороне. Видишь, к чему я клоню?
+§7[4/4] §2Amadel: §aAnother employee has already been sent out to get things started. He'll know what you need to do, so meet up with him, would you?@§7[4/4] §2Амадел: §aЕще один служащий уже был отправлен, чтобы начать работу. Он будет знать, что тебе нужно сделать, так что встреться с ним, хорошо?
+§7[1/4] §2Employee: §aYou are here for the job, aren't you? I have to apologize. It’s going to be trickier than I’d wanted for you.@§7[1/4] §2Служащий: §aТы ведь пришел сюда ради работы, не так ли? Я должен извиниться. Это будет сложнее, чем я хотел для тебя.
+§7[2/4] §2Employee: §aSo our mission is to assassinate the mayor. Amadel told you about the laws. We have a puppet in the running who’ll rubberstamp them.@§7[2/4] §2Служащий: §aТак что наша миссия - убить мэра. Амадел рассказал тебе о законах. У нас есть марионетка в бегах, которая поставит все нужные печати.
+§7[3/4] §2Employee: §aI've got the trap set up inside the bank. It was entirely too tricky, but it worked out. Your job is to trigger the trap.@§7[3/4] §2Служащий: §aУ меня есть ловушка, установленная внутри банка. Это было слишком сложно, но все получилось. Твоя задача состоит в том, чтобы активировать ловушку.
+§7[4/4] §2Employee: §aClimb up the tree behind me and look through the window, you should be able to see it from there.@§7[4/4] §2Служащий: §aЗаберись на дерево позади меня и посмотри в окно, должен увидеть его оттуда.
+§7[1/3] §2Employee: §aCan you see the mayor? I had to stay totally out of sight while setting this all up, so...@§7[1/3] §2Служащий: §aТы можешь видеть мэра? Я должен был оставаться полностью вне поля зрения, пока все это устраивал, так что...
+§7[2/3] §2Employee: §a...the§a only way to get to the trap is to jump across the hanging lamps in the ceiling.@§7[2/3] §2Служащий: §aЕдинственный способ добраться до ловушки - перепрыгнуть через висячие лампы на потолке.
+§7[3/3] §2Employee: §aYou can absolutely not be spotted. The way up to the ceiling is on the opposite side of the bank. Just keep on walking past the guards, play it cool.@§7[3/3] §2Служащий: §aТебя абсолютно точно не заметят. Путь к потолку лежит на противоположной стороне банка. Просто продолжай идти мимо охранников, веди себя спокойно.
 §7[1/1] §2Employee: §aQuickly, back to the camp. Before we’re noticed.@§7[1/1] §2Служащий: §a
 §7[1/1] §2Bodyguard: §aNo one enters when the mayor is doing his errands, sorry. You'll have to wait for your transaction.@§7[1/1] §2Телохранитель: §a
 §7[1/4] §2Amadel: §aAha, you two are back.@§7[1/4] §2Амадел: §a
