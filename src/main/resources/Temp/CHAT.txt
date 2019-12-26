@@ -36,7 +36,7 @@
 
 §7[1/1] §2Una: §aOhp, hold on a sec there! Can't take your classes without your materials! The shops are out on the docks.@§7[1/1] §2Уна: §aОй, подожди секунду! Ты не можешь взять твои предметы без своих материалов! Магазины находятся на пристани.
 §7[1/1] §2Teacher: §aI know you're eager, but this is dangerous! Stay seated, please.@§7[1/1] §2Учитель: §aЯ знаю, что тебе не терпится, но это же опасно! Оставайтесь на своих местах, пожалуйста.
-§7[1/1] §2Headmaster: §aThe element of nature and physicality. Now, choose a Practical Magic lesson.@§7[1/1] §2Директор: §aЭлемент природы и телесности. А теперь выбери Практический Урок магии.
+§7[1/1] §2Headmaster: §aThe element of nature and physicality. Now, choose a Practical Magic lesson.@§7[1/1] §2Директор: §aЭлемент природы и телесности. А теперь выбери урок Практической Магии.
 §7[1/9] §2Teacher: §aNow, all of you. Sit. Listen.@§7[1/9] §2Учитель: §aА теперь, все вы. Сидите. Слушайте.
 §7[1/1] §2Teacher: §aRemove the dark stone using your earth magic by right click the tome.@§7[1/1] §2Учитель: §aУбери темный камень, используя свою магию земли, щелкнув правой кнопкой мыши по тому.
 §7[2/9] §2Teacher: §aEarth is an element of great power. Versatile and everpresent, nearly as the air.@§7[2/9] §2Учитель: §aЗемля - это элемент великой силы. Универсальный и вездесущий, почти как воздух.
@@ -48,19 +48,19 @@
 §7[8/9] §2Teacher: §aThe tome directs the earth's force. Take it, and utilize it to shatter the stones I summon.@§7[8/9] §2Учитель: §aКнига направляет силу земли. Возьми ее и используй, чтобы разбить камни, которые я вызываю.
 §7[9/9] §2Teacher: §aThe darkest parts of the stone are weak points. Find them, and learn the power of the earth.@§7[9/9] §2Учитель: §aСамые темные части камня - это слабые места. Найди их и познай силу земли.
 §7[1/1] §2Teacher: §aUh oh.... Time is up! Try again!@§7[1/1] §2Учитель: §aУх ох... Время вышло! Попробуй еще раз!
-§7[1/1] §2Teacher: §aYou know the earth's power, fledgeling. There is nothing more for you here. Go.@§7[1/1] §2Учитель: §a
-§7[1/1] §2Headmaster: §aA true wizard after my own heart, seeking wisdom! Good choice. Now, choose a Practical Magic lesson.@§7[1/1] §2Директор: §a
-§7[1/8] §2Teacher: §aAah, wow! Everyone s-sure got here quick...@§7[1/8] §2Учитель: §a
-§7[2/8] §2Teacher: §aWelcome, w-welcome. The Water element class §ais...certainly§a an interesting one, I-I'd hope... Because water doesn't j-just pertain to, well, w-water...@§7[2/8] §2Учитель: §a
-§7[3/8] §2Teacher: §aIt also is the element o-of knowledge, and pure magicality. Water i-is a sort of magical default, if you w-will. If it isn't focused on o-one element or another, magic ends up being water-based.@§7[3/8] §2Учитель: §a
-§7[4/8] §2Teacher: §aLearning a-about the water element and e-expanding your horizons can allow you to cast spells easier... C-control the flow of magic better, you see.@§7[4/8] §2Учитель: §a
-§7[5/8] §2Teacher: §aMost aquatic creatures are t-tied to water, though creatures that live in icy or snowy environments are, §at-too...often§a, they are also connected to air, but not always.@§7[5/8] §2Учитель: §a
-§7[6/8] §2Teacher: §aIn a-addition, many holy artifacts are enchanted with water magic... S-something about how it's a pure type of energy, I believe.@§7[6/8] §2Учитель: §a
-§7[7/8] §2Teacher: §aLastly, healing abilities are b-bolstered by water magic. Just knowing magic well d-doesn't help, but actually having artifacts charged w-with water magic can increase healing capabilities.@§7[7/8] §2Учитель: §a
-§7[8/8] §2Teacher: §aN-now, for your test, I §ahave...um§a, a...a test. Anyone who wants to try it f-first, just go up and start.@§7[8/8] §2Учитель: §a
-§7[1/2] §2Teacher: §aGood w-work there! I h-hope I wasn't too boring with all my talking... You can go now.@§7[1/2] §2Учитель: §a
-§7[2/2] §2Teacher: §aN-now, who's n-next? And...i-is it really cold in here for all of you, too? Or, is it j-just me...?@§7[2/2] §2Учитель: §a
-§7[1/1] §2Teacher: §aP-please sit down, fledgeling!@§7[1/1] §2Учитель: §a
+§7[1/1] §2Teacher: §aYou know the earth's power, fledgeling. There is nothing more for you here. Go.@§7[1/1] §2Учитель: §aТы познал силу земли, птенец. Здесь тебе больше нечего делать. Иди.
+§7[1/1] §2Headmaster: §aA true wizard after my own heart, seeking wisdom! Good choice. Now, choose a Practical Magic lesson.@§7[1/1] §2Директор: §aИстинный волшебник, ищущий мудрости! Хороший выбор. А теперь выбери урок Практической Магии.
+§7[1/8] §2Teacher: §aAah, wow! Everyone s-sure got here quick...@§7[1/8] §2Учитель: §aАах, воу! Все к-конечно же быстро добрались сюда...
+§7[2/8] §2Teacher: §aWelcome, w-welcome. The Water element class §ais...certainly§a an interesting one, I-I'd hope... Because water doesn't j-just pertain to, well, w-water...@§7[2/8] §2Учитель: §aДобро пожаловать, д-добро пожаловать. Класс элемента воды является...конечно, интересным, я ... я надеюсь... Потому что вода не п-просто относится к... ну, в-воде...
+§7[3/8] §2Teacher: §aIt also is the element o-of knowledge, and pure magicality. Water i-is a sort of magical default, if you w-will. If it isn't focused on o-one element or another, magic ends up being water-based.@§7[3/8] §2Учитель: §aЭто также элемент з-знания и чистой магии. Вода - это своего рода магический стандарт, если хотите. Если магия не фокусируется на т-том или ином элементе, она в конечном итоге становится водной.
+§7[4/8] §2Teacher: §aLearning a-about the water element and e-expanding your horizons can allow you to cast spells easier... C-control the flow of magic better, you see.@§7[4/8] §2Учитель: §aИзучение в-водной стихии и р-расширение ваших горизонтов может позволить вам легче кастовать заклинания... Л-лучше контролировать поток магии, так сказать.
+§7[5/8] §2Teacher: §aMost aquatic creatures are t-tied to water, though creatures that live in icy or snowy environments are, §at-too...often§a, they are also connected to air, but not always.@§7[5/8] §2Учитель: §aБольшинство водных существ с-связаны с водой, хотя существа, живущие в ледяной или снежной среде, тоже с-связаны с ней...часто они также взаимодействуют с воздухом, но не всегда.
+§7[6/8] §2Teacher: §aIn a-addition, many holy artifacts are enchanted with water magic... S-something about how it's a pure type of energy, I believe.@§7[6/8] §2Учитель: §aКроме т-того, многие священные артефакты зачарованы водной магией... что-то о том, что это чистый вид энергии, я полагаю.
+§7[7/8] §2Teacher: §aLastly, healing abilities are b-bolstered by water magic. Just knowing magic well d-doesn't help, but actually having artifacts charged w-with water magic can increase healing capabilities.@§7[7/8] §2Учитель: §aНаконец, целебные способности п-подкрепляются магией воды. Просто хорошо знать магию н-не помогает, но на самом деле наличие артефактов, заряженных м-магией воды, может увеличить возможности исцеления.
+§7[8/8] §2Teacher: §aN-now, for your test, I §ahave...um§a, a...a test. Anyone who wants to try it f-first, just go up and start.@§7[8/8] §2Учитель: §aТ-теперь, что касается вашего теста, у меня есть...эм, ис...испытание. Все, кто хочет попробовать это в-во-первых, просто поднимитесь и начнем.
+§7[1/2] §2Teacher: §aGood w-work there! I h-hope I wasn't too boring with all my talking... You can go now.@§7[1/2] §2Учитель: §aХорошая р-работа! Надеюсь, я не был слишком скучен со всеми своими разговорами... Теперь ты можешь идти.
+§7[2/2] §2Teacher: §aN-now, who's n-next? And...i-is it really cold in here for all of you, too? Or, is it j-just me...?@§7[2/2] §2Учитель: §aТ-теперь, кто с-следующий? И...р-реально вам всем здесь тоже очень холодно? Или это п-просто я...?
+§7[1/1] §2Teacher: §aP-please sit down, fledgeling!@§7[1/1] §2Учитель: §aП-пожалуйста садитесь, птенцы!
 
 §7+ New Resource §8[Dark]
 §7+ New Resource §8[Silver]
