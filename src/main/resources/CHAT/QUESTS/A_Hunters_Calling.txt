@@ -173,31 +173,31 @@
 §7[3/5] §2Teleportation Mech: §aTHERE IS A SET OF STATISTICALLY INFERIOR MECHS BUILT BY THE CORKIANS IN THIS TOWER. I HAVE A SET OF SYSTEMS PROGRAMMED IN THIS DEVICE.@§7[3/5] §2Телепортационный Робот: §aВ ЭТОЙ БАШНЕ ЕСТЬ РЯД СТАТИСТИЧЕСКИ НЕПОЛНОЦЕННЫХ РОБОТОВ, ПОСТРОЕННЫХ КОРКИАНЦАМИ. У МЕНЯ ЕСТЬ НАБОР СИСТЕМ, ЗАПРОГРАММИРОВАННЫХ В ЭТОМ УСТРОЙСТВЕ.
 §7[4/5] §2Teleportation Mech: §aTHIS WILL OVERRIDE THEIR CURRENT PROGRAMMING AND SEND THEM TO ATTACK THE AVOS SETTLEMENT. THEY'LL BE SO DISGUSTED BY THE CORKIAN’S RELENTLESS BRANDING...@§7[4/5] §2Телепортационный Робот: §aЭТО ОТМЕНИТ ИХ ТЕКУЩУЮ ПРОГРАММУ И ОТПРАВИТ ИХ АТАКОВАТЬ ПОСЕЛЕНИЕ АВОСОВ. ОНИ БУДУТ ТАК ВОЗМУЩЕНЫ БЕЗЖАЛОСТНЫМ КЛЕЙМЕНИЕМ КОРКИАНЦОВ...
 §7[5/5] §2Teleportation Mech: §aNO, I CAN'T EVEN KEEP UP THE SARCASTIC FACADE ANYMORE. THEY'LL ATTACK AND KILL AVOS PEOPLE AND SET THE CIVIL WAR BLAZING. DO YOUR JOB QUICKLY. END TRANSMISSION.@§7[5/5] §2Телепортационный Робот: §aНЕТ, Я НЕ МОГУ БОЛЬШЕ СОХРАНЯТЬ СВОЙ САРКАСТИЧЕСКИЙ ВИД. ОНИ НАПАДУТ И УБЬЮТ АВОСОВ, И РАЗРАЗИТСЯ ГРАЖДАНСКАЯ ВОЙНА. ДЕЛАЙ СВОЮ РАБОТУ БЫСТРО. КОНЕЦ ПЕРЕДАЧИ.
-§7[1/2] §2Corkus Guard: §aBzzt... §a§kHello World.§aNEW ENEMY REGISTERED: AVOS. Proceed with attack protocol- click.@§7[1/2] §2Страж Коркуса: §a
-§7[2/2] §2Corkus Guard: §aObjective: Eliminate Avos presence.@§7[2/2] §2Страж Коркуса: §a
-§7[1/8] §2Teleportation Mech: §aBEGIN TRANSMISSION: YOUR JOB IS OVER, MECH PL-4Y. I HESITATE TO SAY YOU DID A GOOD JOB, BECAUSE THE JOB WAS ANYTHING BUT GOOD. IT WAS NECESSARY THOUGH.@§7[1/8] §2Телепортационный Робот: §a
-§7[2/8] §2Teleportation Mech: §aWE WILL BE ABLE TO LET THEM TEAR THEMSELVES TO SHREDS INSTEAD OF GETTING INVOLVED AND SPARKING SUSPICION.@§7[2/8] §2Телепортационный Робот: §a
-§7[3/8] §2Teleportation Mech: §aI HAD WANTED TO FIND A SOLUTION THAT WOULD NOT REQUIRE A FRESH START. IF MY HAND WAS NOT FORCED, PERHAPS. BUT THAT IS IRRELEVANT NOW.@§7[3/8] §2Телепортационный Робот: §a
-§7[4/8] §2Teleportation Mech: §aYOU WILL RETURN TO THE FACTORY WITH THE TELEPORTATION MECH AND REMAIN UNTIL FURTHER NOTICE-@§7[4/8] §2Телепортационный Робот: §a
-§7[5/8] §2Maxie: §aI knew it! It was such a longshot, but I knew the Factory still had to be at large! And now I have evidence to prove it, too!@§7[5/8] §2Макси: §a
-§7[6/8] §2Maxie: §aThis time we'll make sure you won't get another chance. I'll tell everyone what happened, and then we’ll tear that factory down at the foundations!@§7[6/8] §2Макси: §a
-§7[7/8] §2Maxie: §aYou should've picked a more private meeting place! I'm out!@§7[7/8] §2Макси: §a
-§7[3/3] §2Maxie: §aFREEZE!@§7[3/3] §2Макси: §a
-§7[1/1] §2Maxie: §aAah, you’re fast! You caught up this quick?! I have no other choice...@§7[1/1] §2Макси: §a
-§7[1/2] §2Maxie: §aYou aren't going to stop me from getting to the battleground! You look like you were scrounged up from rust and verdigris!@§7[1/2] §2Макси: §a
-§7[2/2] §2Maxie: §aSurrender, or I'll use my own mechs to smash you to scrap metal!@§7[2/2] §2Макси: §a
-§7[1/2] §2Maxie: §aYou have defeated both of my most powerful creations...@§7[1/2] §2Макси: §a
-§7[2/2] §2Maxie: §aI usually don't do this, but I guess I have no other option. I need to get this information to the others.@§7[2/2] §2Макси: §a
-§7[1/1] §2Maxie: §aNo... I... have to tell them.@§7[1/1] §2Макси: §a
-§2???: §a...you§a harden your heart. There is no end, you think.@§2???: §a
-§2???: §aWrong. The end is in sight.@§2???: §a
-§2???: §aYour soul. It awakens to something new.@§2???: §a
-§2???: §aNot dark. Not light. Not in-between. But separate.@§2???: §a
-§2???: §aPower. Gain. Risk. New beginnings, from an end.@§2???: §a
-§2???: §aSo... May we offer you the end?@§2???: §a
-§2???: §aThe very center... The place deemed closest to your home. There, in the center of Wynn... You shall find the end.@§2???: §a
-§7[1/5] §2Bak'al: §aDetlas. What a foolish place for a central trading town, so close to the Roots.@§7[1/5] §2Бак'ал: §a
-§7[2/5] §2Bak'al: §aMy armies have been sent to the other cities. Their hero is inevitably busy.@§7[2/5] §2Бак'ал: §a
+§7[1/2] §2Corkus Guard: §aBzzt... §a§kHello World.§aNEW ENEMY REGISTERED: AVOS. Proceed with attack protocol- click.@§7[1/2] §2Страж Коркуса: §aБззт... §a§kПривет, Мир.§a ЗАРЕГИСТРИРОВАН НОВЫЙ ВРАГ: АВОСЫ. Перейти к протоколу атаки - клик.
+§7[2/2] §2Corkus Guard: §aObjective: Eliminate Avos presence.@§7[2/2] §2Страж Коркуса: §aЦель: устранить присутствие Авосов.
+§7[1/8] §2Teleportation Mech: §aBEGIN TRANSMISSION: YOUR JOB IS OVER, MECH PL-4Y. I HESITATE TO SAY YOU DID A GOOD JOB, BECAUSE THE JOB WAS ANYTHING BUT GOOD. IT WAS NECESSARY THOUGH.@§7[1/8] §2Телепортационный Робот: §aНАЧАЛО ПЕРЕДАЧИ: ТВОЯ РАБОТА ЗАКОНЧЕНА, РОБОТ PL-4Y. НЕ МОГУ СКАЗАТЬ, ЧТО ТЫ СДЕЛАЛ ХОРОШУЮ РАБОТУ, ПОТОМУ ЧТО РАБОТА БЫЛА СОВСЕМ НЕ ХОРОШЕЙ. НО ЭТО БЫЛО НЕОБХОДИМО.
+§7[2/8] §2Teleportation Mech: §aWE WILL BE ABLE TO LET THEM TEAR THEMSELVES TO SHREDS INSTEAD OF GETTING INVOLVED AND SPARKING SUSPICION.@§7[2/8] §2Телепортационный Робот: §aМЫ МОЖЕМ ПОЗВОЛИТЬ ИМ РАЗОРВАТЬ СЕБЯ В КЛОЧЬЯ, ВМЕСТО ТОГО ЧТОБЫ ВМЕШИВАТЬСЯ И ВЫЗЫВАТЬ ПОДОЗРЕНИЯ.
+§7[3/8] §2Teleportation Mech: §aI HAD WANTED TO FIND A SOLUTION THAT WOULD NOT REQUIRE A FRESH START. IF MY HAND WAS NOT FORCED, PERHAPS. BUT THAT IS IRRELEVANT NOW.@§7[3/8] §2Телепортационный Робот: §aЯ ХОТЕЛ НАЙТИ РЕШЕНИЕ, КОТОРОЕ НЕ ТРЕБОВАЛО БЫ НОВОГО СТАРТА. ВОЗМОЖНО ЕСЛИ БЫ НЕ ПРИШЛОСЬ ФОРСИРОВАТЬ СОБЫТИЯ. НО СЕЙЧАС ЭТО УЖЕ НЕ ИМЕЕТ ЗНАЧЕНИЯ.
+§7[4/8] §2Teleportation Mech: §aYOU WILL RETURN TO THE FACTORY WITH THE TELEPORTATION MECH AND REMAIN UNTIL FURTHER NOTICE-@§7[4/8] §2Телепортационный Робот: §aТЫ ВЕРНЕШЬСЯ НА ФАБРИКУ ВМЕСТЕ С ТЕЛЕПОРТАЦИОННЫМ РОБОТОМ И ОСТАНЕТЕСЬ ТАМ ДО ДАЛЬНЕЙШИХ РАСПОРЯЖЕНИЙ-
+§7[5/8] §2Maxie: §aI knew it! It was such a longshot, but I knew the Factory still had to be at large! And now I have evidence to prove it, too!@§7[5/8] §2Макси: §aЯ так и знал! Это был так красиво, но я знал, что фабрика все еще должна была функционировать! И теперь у меня есть доказательства, чтобы доказать это!
+§7[6/8] §2Maxie: §aThis time we'll make sure you won't get another chance. I'll tell everyone what happened, and then we’ll tear that factory down at the foundations!@§7[6/8] §2Макси: §aНа этот раз мы позаботимся о том, чтобы у тебя не было другого шанса. Я расскажу всем, что случилось, а потом мы снесем эту фабрику до основания!
+§7[7/8] §2Maxie: §aYou should've picked a more private meeting place! I'm out!@§7[7/8] §2Макси: §aТы должен был выбрать более уединенное место для встречи! Я ухожу!
+§7[3/3] §2Maxie: §aFREEZE!@§7[3/3] §2Макси: §aЗАМРИ!
+§7[1/1] §2Maxie: §aAah, you’re fast! You caught up this quick?! I have no other choice...@§7[1/1] §2Макси: §aАах, ты быстро соображаешь! Ты так быстро догнал меня?! У меня нет другого выбора...
+§7[1/2] §2Maxie: §aYou aren't going to stop me from getting to the battleground! You look like you were scrounged up from rust and verdigris!@§7[1/2] §2Макси: §aТы же не помешаешь мне добраться до поля боя! Ты выглядишь так, словно тебя выкрали из ржавчины!
+§7[2/2] §2Maxie: §aSurrender, or I'll use my own mechs to smash you to scrap metal!@§7[2/2] §2Макси: §aСдавайся, или я использую своих собственных роботов, чтобы разнести тебя на металлолом!
+§7[1/2] §2Maxie: §aYou have defeated both of my most powerful creations...@§7[1/2] §2Макси: §aТы победил обоих моих самых могущественных созданий...
+§7[2/2] §2Maxie: §aI usually don't do this, but I guess I have no other option. I need to get this information to the others.@§7[2/2] §2Макси: §aОбычно я этого не делаю, но, наверное, у меня нет другого выхода. Мне нужно передать эту информацию остальным.
+§7[1/1] §2Maxie: §aNo... I... have to tell them.@§7[1/1] §2Макси: §aНет... Я... должен сказать им.
+§2???: §a...you§a harden your heart. There is no end, you think.@§2???: §a...твое сердце твердеет. Ты думаешь, что этому нет конца.
+§2???: §aWrong. The end is in sight.@§2???: §aНеверно. Конец уже виден.
+§2???: §aYour soul. It awakens to something new.@§2???: §aТвоя душа. Она открывается к чему-то новому.
+§2???: §aNot dark. Not light. Not in-between. But separate.@§2???: §aНе темному. Не светлому. Не чему-то между. Но другому.
+§2???: §aPower. Gain. Risk. New beginnings, from an end.@§2???: §aСила. Получение. Риск. Новые начинания, начиная с конца.
+§2???: §aSo... May we offer you the end?@§2???: §aТак... Можем ли мы предложить тебе конец?
+§2???: §aThe very center... The place deemed closest to your home. There, in the center of Wynn... You shall find the end.@§2???: §aСамый центр...Место, считающееся самым близким к твоему дому. Там, в самом центре Винн... Ты найдешь свой конец.
+§7[1/5] §2Bak'al: §aDetlas. What a foolish place for a central trading town, so close to the Roots.@§7[1/5] §2Бак'ал: §aДетлас. Какое глупое место для центрального торгового города, так близко к Корням.
+§7[2/5] §2Bak'al: §aMy armies have been sent to the other cities. Their hero is inevitably busy.@§7[2/5] §2Бак'ал: §aМои войска были посланы в другие города. Их герой неизбежно занят.
 §7[3/5] §2Bak'al: §aI will demolish this town. Their army will fall before us.@§7[3/5] §2Бак'ал: §a
 §7[4/5] §2Bak'al: §aYou will destroy the guards. I will destroy the town.@§7[4/5] §2Бак'ал: §a
 §7[5/5] §2Bak'al: §aNow, peon. Move.@§7[5/5] §2Бак'ал: §a
