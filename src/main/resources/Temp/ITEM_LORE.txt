@@ -1,28 +1,28 @@
-§cWait (\d+):(\d+)m to toggle
-(§7|)(.*) §7Remedy Cost
-(§7|)(.*) §7Dead Star Cost
-(§7|)(.*) §7Soar Cost
-(§7|)(.*) §7Sky Emblem Cost
-(§7|)(.*) §7Wind Surge Cost
-§5\[RRR\] §dSoar Spell: §f§f(.*)
-§5\[RLR\] §dSky Emblem Spell: §f§f(.*)
-§5\[RLL\] §dWind Surge Spell: §f§f(.*)
-§d- §74th Spell Cost: §f(.*)
+§cWait (\d+):(\d+)m to toggle@§cПодожди (r1):(r2)м для переключения
+(§7|)(.*) §7Remedy Cost@(r1)(r2) §7Цена Лечения
+(§7|)(.*) §7Dead Star Cost@(r1)(r2) §7Цена Мертвой Звезды
+(§7|)(.*) §7Soar Cost@(r1)(r2) §7Цена Взлета
+(§7|)(.*) §7Sky Emblem Cost@(r1)(r2) §7Цена Небесной Эмблемы
+(§7|)(.*) §7Wind Surge Cost@(r1)(r2) §7Цена Порыва Ветра
+§5\[RRR\] §dSoar Spell: §f§f(.*)@§5[ППП] §dВзлет Заклинание: §f§f(r1)
+§5\[RLR\] §dSky Emblem Spell: §f§f(.*)@§5[ПЛП] §dНебесная Эмблема Заклинание: §f§f(r1)
+§5\[RLL\] §dWind Surge Spell: §f§f(.*)@§5[ПЛЛ] §dПорыв Ветра Заклинание: §f§f(r1)
+§d- §74th Spell Cost: §f(.*)@§d- §7Цена 4-го Заклинания: §f(r1)
 
 
 
-            §f4§7 Barley String§f Ⓙ
-§a✔ Lv. 20: §f4§7 Salmon Meat§f Ⓚ
-§a✔ Lv. 20: §f2§7 Salmon Oil§f Ⓚ
-§c✖ Lv. 30: §f6§7 Carp Meat§f Ⓚ
-§a✔ Lv. 30: §f3§7 Carp Oil§f Ⓚ
-            §f3§7 Malt Grains§f Ⓙ
-            §f6§7 Malt Grains§f Ⓙ			
-§a✔ Lv. 30: §f3§7 Sandstone Gem§f Ⓑ
-§c✖ Lv. 40: §f3§7 Iron Gem§f Ⓑ
-§a✔ Lv. 40: §f3§7 Iron Gem§f Ⓑ
-            §f3§7 Icefish Oil§f Ⓚ
-            §f6§7 Icefish Oil§f Ⓚ
+            §f4§7 Barley String§f Ⓙ@            §f4§7 Ячменных Нити§f Ⓙ
+§a✔ Lv. 20: §f4§7 Salmon Meat§f Ⓚ@§a✔ Ур. 20: §f4§7 Мяса Лосося§f Ⓚ
+§a✔ Lv. 20: §f2§7 Salmon Oil§f Ⓚ@§a✔ Ур. 20: §f2§7 Жира Лосося§f Ⓚ
+§c✖ Lv. 30: §f6§7 Carp Meat§f Ⓚ@§c✖ Ур. 30: §f6§7 Мяса Карпа§f Ⓚ
+§a✔ Lv. 30: §f3§7 Carp Oil§f Ⓚ@§a✔ Ур. 30: §f3§7 Жира Карпа§f Ⓚ
+            §f3§7 Malt Grains§f Ⓙ@            §f3§7 Солодового Зерна§f Ⓙ
+            §f6§7 Malt Grains§f Ⓙ@            §f6§7 Солодового Зерна§f Ⓙ			
+§a✔ Lv. 30: §f3§7 Sandstone Gem§f Ⓑ@§a✔ Ур. 30: §f3§7 Песчаных Камня§f Ⓑ
+§c✖ Lv. 40: §f3§7 Iron Gem§f Ⓑ@§c✖ Ур. 40: §f3§7 Железных Камня§f Ⓑ
+§a✔ Lv. 40: §f3§7 Iron Gem§f Ⓑ@§a✔ Ур. 40: §f3§7 Железных Камня§f Ⓑ
+            §f3§7 Icefish Oil§f Ⓚ@            §f3§7 Жира Щуки§f Ⓚ
+            §f6§7 Icefish Oil§f Ⓚ@            §f6§7 Жира Щуки§f Ⓚ
             §f9§7 Icefish Oil§f Ⓚ
 §c✖ Lv. 40: §f3§7 Icefish Oil§f Ⓚ			
             §f6§7 Spruce Paper§f Ⓒ
