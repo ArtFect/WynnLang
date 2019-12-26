@@ -132,39 +132,34 @@
 §7slums about the eviction notice. @§7трущобах об уведомлении о выселении.
 §7Return to the advisor for @§7Вернись к советнику и узнай 
 §7what to do next. @§7что делать дальше. 
-§7Head deep inside the slums @§7
-§7and blow it up. @§7
-§7Metal. Life. A new place... @§7
-§7One is not sacrificed for @§7
-§7another. Always distrusting. Tension, as @§7
-§7the clockworks chime. @§7
-§7Find a rock to launch @§7
-§7into the Avos territory and @§7
-§7a battery to activate the @§7
-§7catapult. @§7
-§7This rock can probably be used as@§7
-§7ammunition for the catapult.@§7
-§7Steal the Avos totem and @§7
-§7activate it outside of Corkus @§7
-§7City @§7
-§7The totem contains a lot of magical@§7
-§7nature energy. If released@§7
-§7unknown effects may occur.@§7
-§7Climb the Corkus Clocktower. @§7
-§7Defeat Maxie. @§7
-§7The very center... The place @§7
-§7deemed closest to your home. @§7
-§7There, in the center of @§7
-§7Wynn... You shall find the @§7
-§7end. @§7
-§7Attack Detlas and defeat Aledar @§7
-§7and Tasim. @§7
+§7Head deep inside the slums @§7Отправляйся вглубь трущоб 
+§7and blow it up. @§7и взорви их.
+§7Metal. Life. A new place... @§7Металл. Жизнь. Новое место... 
+§7One is not sacrificed for @§7Одно не приносится в жертву другому. 
+§7another. Always distrusting. Tension, as @§7Всегда недоверчивы. Напряжение, как перезвон 
+§7the clockworks chime. @§7часовых механизмов.
+§7Find a rock to launch @§7Найди камень для запуска 
+§7into the Avos territory and @§7на территорию Авосов и 
+§7a battery to activate the @§7батарею для активации 
+§7catapult. @§7катапульты.
+§7Steal the Avos totem and @§7Укради тотем Авосов и 
+§7activate it outside of Corkus @§7активируй его снаружи Коркус 
+§7City @§7Сити
+§7Climb the Corkus Clocktower. @§7Заберись на башню с часами в Коркусе
+§7Defeat Maxie. @§7Победи Макси.
+§7The very center... The place @§7Самый центр...Место, 
+§7deemed closest to your home. @§7считающееся самым близким 
+§7There, in the center of @§7к твоему дому. Там, в самом  
+§7Wynn... You shall find the @§7центре Винн... Ты найдешь свой 
+§7end. @§7конец.
+§7Attack Detlas and defeat Aledar @§7Атакуй Детлас и победи Аледара 
+§7and Tasim. @§7и Тасима.
+§7Return to the entity. @§7Вернись к сущности
 ==
-§7same time. -Bodies cleaned: 6/7 
-§7same time. -Bodies cleaned: 5/7
-§7same time. -Bodies cleaned: 3/7 
-==
-§7Return to the entity. 
+§7same time. -Bodies cleaned: 4/7@§7время. -Тел очищено: 4/7
+§7same time. -Bodies cleaned: 6/7@§7время. -Тел очищено: 6/7
+§7same time. -Bodies cleaned: 5/7@§7время. -Тел очищено: 5/7
+§7same time. -Bodies cleaned: 3/7 @§7время. -Тел очищено: 3/7
 ==
 §7Escape the volcano with the 
 §7crystal shard 
@@ -204,6 +199,13 @@
 
 §cUntradeable
 §cUntrabable Item
+
+§7The totem contains a lot of magical@§7
+§7nature energy. If released@§7
+§7unknown effects may occur.@§7
+
+§7This rock can probably be used as@§7
+§7ammunition for the catapult.@§7
 
 §7Teleports to: Ahmsord
 
