@@ -1,28 +1,28 @@
-§(e|5)That player is not playing on your world (.*)!
-§e(.*) has been added to your ignore list!
-§dFailed to §5buy (.*), because the trade was already completed.
-§5Only §d(\d+) more level(|s) §5until you can gather from §dCobalt
-§5Only §d(\d+) more level(|s) §5until you can gather from §dLight
-§5Only §d(\d+) more level(|s) §5until you can gather from §dDark
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar spell
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWind Surge spell
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dGale Funnel spell
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSky Emblem upgrade
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar upgrade
-§7\[3\/4\] §2Employee: §aYes sir, everything went smoothly, (.*) did a great thing for the company.
+§(e|5)That player is not playing on your world (.*)!@§(r1)Этот игрок не играет в твоем мире (r2)!
+§e(.*) has been added to your ignore list!@§e(r1) был добавлен в твой игнор лист!
+§dFailed to §5buy (.*), because the trade was already completed.@§dНе удалось §5купить (r1), потому что торговля была завершена.
+§5Only §d(\d+) more level(|s) §5until you can gather from §dCobalt@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКобальт
+§5Only §d(\d+) more level(|s) §5until you can gather from §dLight@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКлен
+§5Only §d(\d+) more level(|s) §5until you can gather from §dDark@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКаштан
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Взлет
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWind Surge spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Порыв Ветра
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dGale Funnel spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Воронка Бури
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSky Emblem upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Небесной Эмблемы
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Взлета
+§7\[3\/4\] §2Employee: §aYes sir, everything went smoothly, (.*) did a great thing for the company.@§7[3/4] §2Служащий: §aДа сэр, все прошло гладко, (r1) сделал великое дело для компании.
 
-§7Bring §3[20 Carp Oil] §7or §3[20 Carp Meat] §7to the §aGathering Post §2[Fishing Lv. 33]
-§7Bring §3[36 Spruce Wood] §7or §3[36 Spruce Paper] §7to the §aGathering Post §2[Woodcutting Lv. 48]
-§7Bring §3[14 Granite Ingots] §7or §3[14 Granite Gems] §7to the §aGathering Post §2[Mining Lv. 18]
-§7Bring §3[20 Sandstone Ingots] §7or §3[20 Sandstone Gems] §7to the §aGathering Post §2[Mining Lv. 33]
-§7Bring §3[28 Jungle Wood] §7or §3[28 Jungle Paper] §7to the §aGathering Post §2[Woodcutting Lv. 53]
-§7Bring §3[42 Jungle Wood] §7or §3[42 Jungle Paper] §7to the §aGathering Post §2[Woodcutting Lv. 58]
-§7Bring §3[30 Dark Wood] §7or §3[30 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 61]
-§7Bring §3[36 Dark Wood] §7or §3[36 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 63]
-§7Bring §3[44 Dark Wood] §7or §3[44 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 68]
-§7Bring §3[32 Light Wood] §7or §3[32 Light Paper] §7to the §aGathering Post §2[Woodcutting Lv. 71]
-§7Bring §3[24 Icefish Oil] §7or §3[24 Icefish Meat] §7to the §aGathering Post §2[Fishing Lv. 43]
-§7Bring [30 Acacia Wood] or [30 Acacia Paper] to the Gathering Post [Woodcutting Lv. 38] at [1226,116,-1391]
+§7Bring §3[20 Carp Oil] §7or §3[20 Carp Meat] §7to the §aGathering Post §2[Fishing Lv. 33]@§7Принеси §3[20 Жира Карпа] §7или §3[20 Мяса Карпа] §7к §aДоске Заданий §2[Рыболовство Ур. 33]
+§7Bring §3[24 Icefish Oil] §7or §3[24 Icefish Meat] §7to the §aGathering Post §2[Fishing Lv. 43]@§7Принеси §3[24 Жира Щуки] §7или §3[24 Мяса Щуки] §7к §aДоске Заданий §2[Рыболовство Ур. 43]
+§7Bring §3[14 Granite Ingots] §7or §3[14 Granite Gems] §7to the §aGathering Post §2[Mining Lv. 18]@§7Принеси §3[14 Гранитных Слитков] §7или §3[14 Гранитных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 18]
+§7Bring §3[20 Sandstone Ingots] §7or §3[20 Sandstone Gems] §7to the §aGathering Post §2[Mining Lv. 33]@§7Принеси §3[20 Песчаных Слитков] §7или §3[20 Песчаных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 33]
+§7Bring §3[28 Jungle Wood] §7or §3[28 Jungle Paper] §7to the §aGathering Post §2[Woodcutting Lv. 53]@§7Принеси §3[28 Древесины Амаранта] §7или §3[28 Амарантовой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 53]
+§7Bring §3[42 Jungle Wood] §7or §3[42 Jungle Paper] §7to the §aGathering Post §2[Woodcutting Lv. 58]@§7Принеси §3[42 Древесины Амаранта] §7или §3[42 Амарантовой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 58]
+§7Bring §3[30 Dark Wood] §7or §3[30 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 61]@§7Принеси §3[30 Древесины Каштана] §7или §3[30 Каштановой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 61]
+§7Bring §3[36 Dark Wood] §7or §3[36 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 63]@§7Принеси §3[36 Древесины Каштана] §7или §3[36 Каштановой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 63]
+§7Bring §3[44 Dark Wood] §7or §3[44 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 68]@§7Принеси §3[44 Древесины Каштана] §7или §3[44 Каштановой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 68]
+§7Bring §3[32 Light Wood] §7or §3[32 Light Paper] §7to the §aGathering Post §2[Woodcutting Lv. 71]@§7Принеси §3[32 Древесины Клена] §7или §3[32 Кленовой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 71]
+§7Bring [30 Acacia Wood] or [30 Acacia Paper] to the Gathering Post [Woodcutting Lv. 38] at [1226,116,-1391]@§7Принеси §3[30 Древесины Акации] §7или §3[30 Акациевой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 38]
+§7Bring §3[36 Spruce Wood] §7or §3[36 Spruce Paper] §7to the §aGathering Post §2[Woodcutting Lv. 48]@§7Принеси §3[36 Древесины Ели] §7или §3[36 Еловой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 48]
 
 §7[2/7] §2Honip: §aIt doesn't seem too difficult though, a little to the left...
 §7[3/7] §2Honip: §aHmm, looks like we're not the only ones out on the water today.
