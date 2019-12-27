@@ -22,7 +22,7 @@
 §7[2/6] §2Old Man: §aNormally, this place is pretty safe, but somehow a few corrupt slipped through.@§7[2/6] §2Old Man: §aОбычно, это место довольно безопасно, но все же несколько испорченных мертвецов сумели проскользнуть сюда.
 §7[3/6] §2Old Man: §aWe're pretty far from the §dPortal §aso I don't know how they got here. They even broke the bridge!@§7[3/6] §2Old Man: §aМы довольно далеко от §dПортала§a поэтому я не знаю, как им это удалось. Они даже сломали мост!
 §7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that wheat so you can get yourself kitted out.@§7[4/6] §2Old Man: §aСтражи сказали мне отправить тебя вперед с этой пшеницей, чтобы ты смог снарядить себя.
-§7[5/6] §2Old Man: §aThere's a crafting station up ahead. You three can §a§lforge weapons§a there.@§7[5/6] §2Old Man: §aВпереди есть станции для крафта. Вы трое можете §a§lвыковать оружия§a там.
+§7[5/6] §2Old Man: §aThere's a crafting station up ahead. You three can §a§lforge weapons§a there.@§7[5/6] §2Old Man: §aВпереди есть станции для крафта. Вы трое можете §a§lвыковать себе оружия§a там.
 §7[1/1] §2Aledar: §aThe old man said something about a bridge being broken. Let's check it out.@§7[1/1] §2Aledar: §aСтарик сказал что-то о мосте, который сломан. Давайте осмотрим его.
 §7[1/6] §2Tasim: §aWait, stop! Don't want you falling off the edge.@§7[1/6] §2Tasim: §aПодожди, остановись! Ты же не хочешь упасть с его края.
 §7[2/6] §2Tasim: §aYeah, there's no way we'll get across here, unless one of you happened to be a bridge repairman back in Fruma.@§7[2/6] §2Tasim: §aДа, здесь нет способа перебраться на ту сторону, разве что один из вас не был починщиком мостов во Фруме
@@ -36,7 +36,6 @@
 §7[4/5] §2Guard: §aYou should be able to use the nearby crafting stations to forge your own.@§7[4/5] §2Guard: §aВы можете использовать близлежащие станции крафта, чтобы создать свое собственное.
 §7[1/3] §2Aledar: §aGood job! But that was only the first step. Now, on to step two. Follow me.@§7[1/3] §2Aledar: §aОтличная работа! Но это был только первый шаг. Переходим ко второму шагу. Следуй за мной.
 §7[2/3] §2Aledar: §aNow we've got to refine some logs into wood. Cut down the nearby trees if you need more logs.@§7[2/3] §2Aledar: §aТеперь нам нужно переработать немного бревен в древесину. Сруби ближайшие деревья, если тебе нужно больше бревен.
-§7[3/3] §2Aledar: §aRefine the logs into §3[2 Wood]§a and then show them to me.@§7[3/3] §2Aledar: §aПереработай бревна в §b[2 Древесины]§a и затем покажи их мне.
 §7[1/3] §2Aledar: §aOkay, only one more step to go. Let's make this quick so we can get to the castle in time.@§7[1/3] §2Aledar: §aХорошо, остался последний шаг. Давайте сделаем его быстро, чтобы мы успели прибыть в замок вовремя.
 §7[2/3] §2Aledar: §aThe last thing we need to do is use this workbench to forge your weapon.@§7[2/3] §2Aledar: §aПоследнее, что нам нужно сделать – это использовать этот верстак, чтобы выковать себе оружия.
 §7[1/1] §2Guard: §aLooks like you are all in order, I hope you know how to use it. You may pass, but be careful, it's still very dangerous.@§7[1/1] §2Guard: §aПохоже, у вас все в порядке, надеюсь, вы знаете, как этим пользоваться. Вы можете пройти, но будьте осторожнее, там все еще очень опасно.
@@ -65,21 +64,15 @@
 §7[4/7] §2Ragni's King: §aYour job as a soldier of Wynn is to stop the growth of the monsters that are ravaging the province.@§7[4/7] §2Ragni's King: §aТвоя работа как солдата Винн - остановить рост числа монстров, которые опустошают провинцию.
 §7[5/7] §2Ragni's King: §aYou might want to train a little more before hand, though. Many lives are lost everyday...@§7[5/7] §2Ragni's King: §aТы наверно захочешь немного потренироваться, прежде чем идти в бой. Многие жизни погибают ежедневно...
 §7[6/7] §2Ragni's King: §a... Anyway, good luck! If you are lost, use §3map.wynncraft.com§3 §aas it is very useful if you don't know where to go.@§7[6/7] §2Ragni's King: §a...Ладно, удачи! Если ты потерялся, то используй карту §3map.wynncraft.com §aона очень полезна, если ты не знаешь куда идти.
-§7[7/7] §2Ragni's King: §aTake this §3[1 Ragni Teleportation Scroll]§a too! It will bring you back here if you use it.@§7[7/7] §2Ragni's King: §aВозьми также этот свиток §3[1 Ragni свиток телепортации]§a! Он вернет тебя сюда, если ты его используешь.
+§7[7/7] §2Ragni's King: §aTake this §3[1 Ragni Teleportation Scroll]§a too! It will bring you back here if you use it.@§7[7/7] §2Ragni's King: §aВозьми также этот свиток §3[1 Рагни свиток телепортации]§a! Он вернет тебя сюда, если ты его используешь.
+
 §7[1/1] §2Guard: §aGood work. Now, you three head on towards the castle.@§7[1/1] §2Guard: §aОтличная работа. Теперь вы трое должны отправиться вперед, в замок.
 §7[5/5] §2Old Man: §aI left my scythe by the crops over yonder. Punch it and pick it up. Then harvest §3[2 Wheat]§a and bring it back here.@§7[5/5] §2Old Man: §aЯ оставил свою мотыгу у поля вон там. Ударь и подбери ее. Затем собери §b[2 Пшеницы]§a и принеси ее сюда.
 §7[3/3] §2Aledar: §aUse §b2 string§a and §b1 wood§a to craft §3[1 Bow]§a and then show it to the guard.@§7[3/3] §2Aledar: §aИспользуй §b2 нити§a и §b1 древесину§a чтобы скрафтить §3[1 Лук]§a и затем покажи его стражу.
 §7[8/8] §2Guard: §aNow, cast your Arrow Storm spell by clicking §bLeft-Right-Left§a!@§7[8/8] §2Guard: §aТеперь используй свое "Шторм Стрел" заклинание, кликнув §b§lЛевая-Правая-Левая§a!
-
-§7[1/3] §2Aledar: §aNow that you've refined the materials, it's time to actually craft your weapon. Follow me.@§7[1/3] §2Aledar: §aТеперь, когда ты переработал материалы, пришло время создать свое оружие. Следуй за мной.
 §7[1/1] §2Aledar: §aWe can use this tree as a bridge to get across to the other side.@§7[1/1] §2Aledar: §aМы можем использовать это дерево как мост, чтобы перебраться на другую сторону.
 §7[1/1] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a at the anvil to create §3[1 Dagger]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b2 слитка§a и §b1 древесину§a на наковальне, чтобы создать §3[1 Кинжал]§a и затем покажи его мне.
-§7[1/1] §2Aledar: §bLeft-click§a on the refinery, then follow the instructions to make §3[2 Ingots]§a for your weapon.@§7[1/1] §2Aledar: §bЛевый-клик§a по машине, а затем следуй инструкциям чтобы сделать §3[2 Слитка]§a для твоего оружия.
-§7[1/1] §2Aledar: §bLeft-click§a on the refinery, then follow the instructions to make §3[2 Wood]§a for your weapon.@§7[1/1] §2Aledar: §bЛевый-клик§a по машине, а затем следуй инструкциям чтобы сделать §3[2 Древесины]§a для твоего оружия.
-§7[1/1] §2Aledar: §bLeft-click§a on the refinery, then follow the instructions to make §3[2 String]§a for your weapon.@§7[1/1] §2Aledar: §bЛевый-клик§a по машине, а затем следуй инструкциям чтобы сделать §3[2 Нити]§a для твоего оружия.
 §7[1/1] §2Aledar: §aShow your weapon to the guard so he'll let us through.@§7[1/1] §2Aledar: §aПокажи свое оружие стражу, чтобы он пропустил нас.
-§7[1/1] §2Aledar: §aNo no no, this is paper! I said to make §3[2 Wood]§a! Make sure to §bleft-click§a when refining.@§7[1/1] §2Aledar: §aНет нет нет, это бумага! Я сказал сделать §3[2 Древесины]§a! Убедись, что жмешь §bлевый клик§a при переработке.
-§7[1/1] §2Aledar: §aNo no no, these are gems! I said to make §3[2 Ingots]§a! Make sure to §bleft-click§a when refining.@§7[1/1] §2Aledar: §aНет нет нет, это камни! Я сказал сделать §3[2 Слитка]§a! Убедись, что жмешь §bлевый клик§ при переработке.
 §7[1/1] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a at the avil to create §3[1 Spear]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b1 слиток§a и §b2 древесины§a на наковальне, чтобы создать §3[1 Копье]§a и затем покажи его мне.
 §7[1/1] §2Aledar: §aUse §b2 string§a and §b1 wood§a at the workbench to create §3[1 Bow]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b2 нити§a и §b1 древесину§a на верстаке, чтобы создать §3[1 Лук]§a и затем покажи его мне.
 §7[1/1] §2Aledar: §aUse §b1 string§a and §b2 wood§a at the workbench to create §3[1 Wand]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b1 нить§a и §b2 древесины§a на верстаке, чтобы создать §3[1 Посох]§a и затем покажи его мне.
@@ -93,7 +86,6 @@
 §7[1/1] §2Aledar: §aWhat are you doing? Don't go wandering off!@§7[1/1] §2Aledar: §aЧто ты делаешь? Не уходи далеко!
 §7[3/3] §2Aledar: §aUse §b1 string§a and §b2 wood§a to craft §3[1 Wand]§a and then show it to the guard.@§7[3/3] §2Aledar: §aИспользуй §b1 нить§a и §b2 древесины§a чтобы скрафтить §3[1 Посох]§a и затем покажи его стражу.
 §7[1/1] §2Aledar: §aHurry up, you two! Get over here!@§7[1/1] §2Aledar: §aПобыстрее, вы двое! Идите сюда!
-§7[2/2] §2Aledar: §aUse it to make §3[2 Copper Ingots]§a and then show them to me. There's some ore nearby if you need any more.@§7[2/2] §2Aledar: §aИспользуй ее, чтобы сделать себе §b[2 Медных Слитка]§a и затем покажи их мне. Здесь есть руда поблизости, если тебе понадобится еще.
 §7[2/3] §2Aledar: §aThe last thing we need to do is use this anvil to forge a weapon.@§7[2/3] §2Aledar: §aПоследнее, что нам нужно сделать – это использовать эту наковальню, чтобы выковать себе оружия.
 §7[3/3] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a to forge §3[1 Spear]§a and then show it to the guard.@§7[3/3] §2Aledar: §aИспользуй §b1 слиток§a и §b2 древесины§a чтобы скрафтить §3[1 Копье]§a и затем покажи его стражу.
 §7[3/3] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a to forge §3[1 Dagger]§a and then show it to the guard.@§7[3/3] §2Aledar: §aИспользуй §b2 слитка§a и §b1 древесину§a чтобы скрафтить §3[1 Кинжал]§a и затем покажи его стражу.
