@@ -141,6 +141,7 @@
 §d     -§7 Lore: §f§oAn area unlike any other, the green slime seems to move in symphony across the land. The unbearable smell and acidity makes it almost impossible to live in.@§d     -§7 Лор: §f§oВ отличие от любой другой области, зеленая слизь, кажется, движется одновременно по всей земле. Невыносимый запах и кислотность делают ее практически невозможной для жизни.
 §d     -§7 Lore: §f§oThis valley has been overgrown with gigantic plant life. Rumors suggest that small rifts in the ground allow one to teleport.@§d     -§7 Лор: §f§oЭта долина заросла гигантской растительностью. Ходят слухи, что небольшие трещины в земле позволяют телепортироваться.
 §d     -§7 Lore: §f§oThis black obelisk bears a similar shape to the one found in Lutho, though it's unclear how they're related.@§d     -§7 Лор: §f§oЭтот черный обелиск имеет схожую форму с тем, что был найден в Луто, хотя неясно, как они связаны.
+§d     -§7 Lore: §f§oThought to be only a myth, this portal's existence confirms the legends that the Silent Expanse is a road to Dern. How to access it, though, is perhaps a mystery that can't be solved yet...@§d     -§7 Лор: §f§oСчитаясь всего лишь мифом, существование этого портала подтверждает легенды о том, что Тихое Пространство - это дорога в Дерн. Но как получить к нему доступ - это, пожалуй, загадка, которую пока не разгадать...
 
 ###################################Открытия##################################
 §d     -§7 About Discovery: §f§oThe civilization that ruled this land over 1000 years ago seemed to be equally as educated as people today. There are lots of texts dedicated to the Emperor.@§d     -§r§7Об открытии: §r§f§oЦивилизация, правившая этой землей более 1000 лет назад, казалась такой же образованной, как и люди сегодня. Существует множество текстов, посвященных Императору.
@@ -308,6 +309,8 @@
 §7§o...they§7§o merely become part of the forest.@§7§o...они просто становятся частью леса. 
 §7The engravings are thousands of years old, but you can just barely make out the symbols.@§7Могилам тысячи лет, но ты едва можешь разобрать символы.
 §7⒯⒣⒠ ⒞⒭⒠⒜⒯⒰⒭⒠⒮ ⒪⒡ ⒟⒜⒭⒦⒩⒠⒮⒮ ⒜⒭⒠ ⒠⒩⒞⒭⒪⒜⒞⒣⒤⒩⒢. ⒤ ⒣⒜⒟ ⒯⒪ ⒨⒪⒱⒠ ⒯⒣⒠ ⒦⒠⒴ ⒪⒩⒞⒠ ⒨⒪⒭⒠. ⒤ ⒣⒜⒱⒠ ⒮⒠⒩⒯ ⒤⒯ ⒝⒜⒞⒦ ⒯⒪ §b⒯⒣⒠ ⒡⒜⒨⒤⒧⒴ ⒣⒪⒰⒮⒠ ⒜⒭⒨⒪⒰⒭⒴§7 ⒱⒤⒜ ⒯⒣⒠ ⒯⒰⒩⒩⒠⒧⒮. ⒤⒡ ⒴⒪⒰ ⒮⒠⒠⒦ ⒯⒣⒠ ⒜⒭⒯⒤⒡⒜⒞⒯ ⒯⒣⒠⒩ ⒴⒪⒰ ⒨⒰⒮⒯ ⒨⒜⒦⒠ ⒤⒯ ⒯⒣⒠⒭⒠.@ 
+§7The wolves lick their chops... perhaps some food could be found nearby...@§7Волки обгладали его кости... возможно, поблизости можно было бы найти какую-нибудь еду...
+§7This wheel was used to make pots... if only you had some clay...@§7Это колесо использовалось для изготовления горшков... если бы только у тебя было немного глины...
 
 ###################################Гильдия##################################
 §4You can join someone else's guild or make a guild in §cCinfras [Lv. 70]@§4Ты можешь присоединиться к чьей-нибудь гильдии, или создать свою в §cЦинфрасе [Ур. 70]
@@ -326,6 +329,7 @@
 §4/guild defend §8-§6 Buy mobs for the territory you are in@§4/guild defend §8-§6 Купить мобов для защиты территории
 §4/guild kick §c[name] §8-§6 Kick a guild member@§4/guild kick §c[ник] §8-§6 Кикнуть участника гильдии
 §4/guild banner §8-§6 Modify your guild banner@§4/guild banner §8-§6 Изменить баннер гильдии
+§3[§3WAR]§c §cThey will be there in 1 minute and 30 seconds.@§3[§3WAR]§c §cОни будут там через 1 минуту и 30 секунд.
 §3[§3WAR]§c §cThey will be there in 45 seconds.@§3[§3WAR]§c §cОни будут там через 45 секунд.
 §3[§3WAR]§c §cThey will be there in 3 minutes.@§3[§3WAR]§c §cОни будут там через 3 минуты.
 §4You may only contribute emeralds to the guild.@§4Ты можешь только вносить эмеральды в гильдию.
@@ -508,6 +512,8 @@
 §d            - §7+Access to magic tunnel fast-travel.@§d            - §7+Доступ к магическим тоннелям с быстрыми путешествиями
 §d            - §7+Access to the Eldritch Outlook Dungeon@§d            - §7+Доступ в Данж Жуткого Наблюдателя
 §d            - §7+1 Eldritch Outlook Key@§d            - §7+1 Ключ от Жуткого Наблюдателя
+§d            - §7+1 Corrupted Soul Token@§d            - §7+1 Жетон Испорченной Души
+§d            - §7+Hunted Mode@§d            - §7+Режим Охотника
 §6   +25 Bronze Tokens@§6   +25 Бронзовых жетонов
 §f   +15 Silver Tokens@§f   +15 Серерянных жетонов
 §e   +7 Gold Tokens@§e   +7 Золотых жетонов
@@ -517,6 +523,7 @@
 §e   +3 Gold Tokens@§e   +3 Золотых жетона
 §6   +12 Bronze Tokens@§6   +12 Бронзовых жетонов
 §f   +5 Silver Tokens@§f   +5 Серерянных жетонов
+§6   +1 Bronze Token@§6   +1 Бронзовый Жетон
 §7[+Witherhead's Rib]@§7[+Ребро Визерхеда]
 §7[+Decrepit Sewers Fragment]@§7[+Ветхая Канализация Фрагмент]
 §7[+Theorick's Ice Shard]@§7[+Осколок Льда Теорика]
@@ -558,6 +565,8 @@
 §7+7 Emeralds@§7+7 Эмеральдов
 §7[+1 Selchar Boat Pass]@§7[+1 Сельчар Билет]
 §7[+1 Nemract Boat Pass]@§7[+1 Немракт Билет]
+§7[+The Eye's Pupil]@§7[+Зрачок Глаза]
+§7[+Eldritch Outlook Fragment]@§7[+Фрагмент Жуткого Наблюдателя]
 §4This material cannot be used for §fⒹ§c Jeweling@§4Этот материал не может быть использован в §fⒹ§c Изготовлении Аксессуаров
 §4This material cannot be used for §fⒼ§c Weaponsmithing@§4Этот материал не может быть использован в §fⒼ§c Оружейном Деле
 §4This material cannot be used for §fⒽ§c Armouring@§4Этот материал не может быть использован в §fⒽ§c Изготовлении Брони
@@ -584,6 +593,11 @@
 §7+ New Resource §8[Hops]@§7+ Новый Ресурс §8[Хмель]
 §7+ New Resource §8[Icefish]@§7+ Новый Ресурс §8[Щука]
 §7+ New Resource §8[Jungle]@§7+ Новый Ресурс §8[Амарант]
+§7+ New Resource §8[Dark]@§7+ Новый Ресурс §8[Каштан]
+§7+ New Resource §8[Silver]@§7+ Новый Ресурс §8[Серебро]
+§7+ New Resource §8[Cobalt]@§7+ Новый Ресурс §8[Кобальт]
+§7+ New Resource §8[Light]@§7+ Новый Ресурс §8[Клен]
+§7+ New Resource §8[Piranha]@§7+ Новый Ресурс §8[Пиранья]
 §7+ New Tool §8[Ⓑ Gathering Pickaxe T2]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У2]
 §7+ New Tool §8[Ⓑ Gathering Pickaxe T5]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У5]
 §7+ New Tool §8[Ⓑ Gathering Pickaxe T3]@§7+ Новый Инструмент §8[Ⓑ Сборная Кирка У3]
@@ -596,6 +610,7 @@
 §7+ New Tool §8[Ⓒ Gathering Axe T4]@§7+ Новый Инструмент §8[Ⓒ Сборный Топор У4]
 §7+ New Tool §8[Ⓒ Gathering Axe T6]@§7+ Новый Инструмент §8[Ⓒ Сборный Топор У6]
 §7+ New Tool §8[Ⓒ Gathering Axe T7]@§7+ Новый Инструмент §8[Ⓒ Сборный Топор У7]
+§7+ New Tool §8[Ⓒ Gathering Axe T8]@§a+ Новый Инструмент §2[Ⓒ Сборный Топор У8]
 §7+ New Tool §8[Ⓚ Gathering Rod T2]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У2]
 §7+ New Tool §8[Ⓚ Gathering Rod T3]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У3]
 §7+ New Tool §8[Ⓚ Gathering Rod T4]@§7+ Новый Инструмент §8[Ⓚ Сборная Удочка У4]
@@ -631,6 +646,10 @@
 §7+ Higher Refining Success §8[Unprocessed Hops]@§7+ Шанс на успех при переработке §8[Необработанный Хмель]
 §7+ Higher Refining Success §8[Unprocessed Jungle Log]@§7+ Шанс на успех при переработке §8[Необработанное Бревно Амаранта]
 §7+ Higher Refining Success §8[Unprocessed Rice]@§7+ Шанс на успех при переработке §8[Необработанный Рис]
+§7+ Higher Refining Success §8[Unprocessed Silver Ore]@§7+ Шанс на успех при переработке §8[Необработанная Серебрянная Руда]
+§7+ Higher Refining Success §8[Unprocessed Dark Log]@§7+ Шанс на успех при переработке §8[Необработанная Древесина Каштана]
+§7+ Higher Refining Success §8[Unprocessed Pine Log]@§7+ Шанс на успех при переработке §8[Необработанная Древесина Сосны]
+§7+ Higher Refining Success §8[Unprocessed Piranha]@§7+ Шанс на успех при переработке §8[Необработанная Пиранья]
 §7+ Faster Refining §8[Unprocessed Wheat]@§7+ Более быстрая переработка §8[Необработанная Пшеница]
 §7+ Faster Refining §8[Unprocessed Oak Log]@§7+ Более быстрая переработка §8[Необработанное Бревно Дуба]
 §7+ Faster Refining §8[Unprocessed Copper Ore]@§7+ Более быстрая переработка §8[Необработанная Медная Руда]
@@ -654,6 +673,10 @@
 §7+ Faster Refining §8[Unprocessed Hops]@§7+ Более быстрая переработка §8[Необработанный Хмель]
 §7+ Faster Refining §8[Unprocessed Jungle Log]@§7+ Более быстрая переработка §8[Необработанное Бревно Амаранта]
 §7+ Faster Refining §8[Unprocessed Rice]@§7+ Более быстрая переработка §8[Необработанный Рис]
+§7+ Faster Gathering §8[Silver]@§7+ Более быстрая добыча §8[Серебро]
+§7+ Faster Gathering §8[Dark]@§7+ Более быстрая добыча §8[Каштан]
+§7+ Faster Gathering §8[Pine]@§7+ Более быстрая добыча §8[Сосна]
+§7+ Faster Gathering §8[Piranha]@§7+ Более быстрая добыча §8[Пиранья]
 §7+ Faster Gathering §8[Wheat]@§7+ Более быстрая добыча §8[Пшеница]
 §7+ Faster Gathering §8[Oak]@§7+ Более быстрая добыча §8[Дуб]
 §7+ Faster Gathering §8[Copper]@§7+ Более быстрая добыча §8[Медь]
@@ -897,6 +920,13 @@
 §3You now have a §bOrange Wybel@§3Теперь у тебя есть §bОранжевый Вубел
 §cDemon Wings Effect@§cЭффект Крыльев Демона
 §7Give your character demon wings@§7Дает твоему персонажу крылья демона
+§6Fellowship Bow@§6Лук Дружбы
+§7Disguise your bow with a adventurous flair@§7Маскирует твой лук под стиль приключений
+§aA §cGodly Phoenix Dagger§a!@§cБожественный Кинжал Феникса
+§6Fellowship Wooden Wand@§6Деревянный Посох Дружбы
+§cDern Spear@§cДерн Копье
+§7Disguise your spear with a dark flair@§7Маскирует твое копье под темный стиль
+§aA §dRare Steampunk Bow§a!@§dРедкий Стимпанк Лук
 
 ###################################Данжи##################################
 §7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Защитника Ключа активировало ее...
@@ -955,6 +985,7 @@
 §6Great job! You've completed the FallenÀÀÀFactory Dungeon!@§6Отличная работа! Ты прошел Данж Заброшенная Фабрика!
 §6Great job! You've completed the CorruptedÀÀÀIceÀÀÀBarrows Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Ледяной Курган!
 §6Great job! You've completed the CorruptedÀÀÀUnderworldÀÀÀCrypt Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Подземный Склеп!
+§6Great job! You've completed the EldritchÀÀÀOutlook Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Жуткого Наблюдателя!
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀSand-SweptÀÀÀTomb Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Испорченного Ключа от Песчаной Гробницы]§d.
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀIceÀÀÀBarrows Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Испорченного Ключа от Ледяного Кургана]§d.
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 InfestedÀÀÀPit Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Ключа от Зараженной Ямы]§d.
@@ -987,7 +1018,7 @@
 §7You fully completed the §bLegendary Challenge§7!@§7Ты полностью прошел §bЛегендарный Челлендж§7!
 §7You finished the §bLegendary Challenge§7 at §eGold Tier§7!@§7Ты закончил §eЗолотой Уровень §bЛегендарного Челленджа§7!
 §7You finished the §bLegendary Challenge§7 at §fSilver Tier§7!@§7Ты закончил §fСеребрянный Уровень §bЛегендарного Челленджа§7!
-
+§7You finished the §bLegendary Challenge§7 at §6Bronze Tier§7!@§7Ты закончил §6Бронзовый Уровень §bЛегендарного Челленджа§7!
 
 ###################################Библиотеки и тексты##################################
 §e                         §e§lPowder Manual@§eРуководство о порошках
@@ -1286,6 +1317,7 @@
 §a                               Loot Chests@§a                            Открытие Сундуков
 §c                               Win Dungeons@§c                            Прохождение Данжей
 §a                               Win Dungeons@§a                            Прохождение Данжей
+§c                            Slay Lv. 10+ Mobs@§c                            Убей Ур. 10+ Мобов
 §a                            Slay Lv. 10+ Mobs@§a                         Убей Ур. 10+ Мобов
 §c                            Slay Lv. 50+ Mobs@§c                         Убей Ур. 50+ Мобов
 §a                            Slay Lv. 50+ Mobs@§a                         Убей Ур. 50+ Мобов
@@ -1341,6 +1373,8 @@
 §a- §7Aura will cast a damaging aura around your active totem@§a- §7Аура кастует разрушительную ауру вокруг твоего активного тотема
 §a- §7Heaven Jolt will launch all nearby mobs high into the air@§a- §7Небесный Удар запускает всех ближайших мобов высоко в воздух
 §a- §7Haul will pull yourself towards your active totem@§a- §7Бросок будет тянуть тебя к твоему активному тотему
+§a- §7Wind Surge will cast a damaging aura around your active totem@§a- §7Воронка Бури кастует разрушительную ауру вокруг твоего активного тотема
+§a- §7Soar will pull yourself towards your active totem@§a- §7Взлет будет тянуть тебя к твоему активному тотему
 §a+ Spell Upgrade §2[Bash I -> II]@§a+ Апгрейд заклинания §2[Оглушение I -> II]
 §a+ Spell Upgrade §2[Bash II -> III]@§a+ Апгрейд заклинания §2[Оглушение II -> III]
 §a+ Spell Upgrade §2[Heal I -> II]@§a+ Апгрейд заклинания §2[Исцеление I -> II]
@@ -1411,6 +1445,12 @@
 §a+ New Spell §2[Crystal Reptile]@§a+ Новое заклинание §2[Кристальная Рептилия]
 §a+ Spell Upgrade §2[Crystal Reptile I -> II]@§a+ Апгрейд заклинания §2[Кристальная Рептилия I -> II]
 §a+ Spell Upgrade §2[Crystal Reptile II -> III]@§a+ Апгрейд заклинания §2[Кристальная Рептилия II -> III]
+§a+ New Spell §2[Soar]@§a+ Новое Заклинание §2[Взлет]
+§a+ Spell Upgrade §2[Soar I -> II]@§a+ Апгрейд Заклинания §2[Взлет I -> II]
+§a+ Spell Upgrade §2[Soar II -> III]@§a+ Апгрейд Заклинания §2[Взлет II -> III]
+§a+ New Spell §2[Wind Surge]@§a+ Новое Заклинание §2[Воронка Бури]
+§a+ Spell Upgrade §2[Sky Emblem I -> II]@§a+ Апгрейд Заклинания §2[Небесная Эмблема I -> II]
+§a+ Spell Upgrade §2[Sky Emblem II -> III]@§a+ Апгрейд Заклинания §2[Небесная Эмблема II -> III]
 
 ###################################Системные##################################
 §cThe server is restarting@§cСервер перезагружается
@@ -1738,6 +1778,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §5You need a HERO rank to participate in the HERO beta. Get one at §dstore.wynncraft.com@§5Тебе нужен HERO ранг для участия в HERO бете. Купи на §dstore.wynncraft.com
 §b - §7Rat Pet@§b - §7Питомец Крыса
 §b - §7Wasp Pet@§b - §7Питомец Оса
+§b - §7Grumpy Old Man Pet@§b - §7Питомец Старик
 §3You are no longer disguised as a §bcreeper@§3Ты больше не маскируешься под §bкрипера
 §cYou've restarted the starting quest!@§cТы перезапустил начальный квест!
 §c§lLog in to §f§neu.wynncraft.com§c§l for less lag.@§c§lЗаходи на §f§neu.wynncraft.com§c§l где меньше лагов.
@@ -1746,6 +1787,19 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §4Error: Do not include links in your shout!@§4Ошибка: Нельзя включать ссылки в свой шаут!
 §7Type §fyes§7 or §fno.@§7Напиши §fyes§7 или §fno.
 §4Shouting!@§4Отправлено!
+§4You can only spawn the Reindeer inside of towns.@§4Ты можешь заспавнить оленя только внутри города.
+§cYou may not drink this potion whilst selling it!@§cТы не можешь пить это зелье, продавая его!
+§cYour inventory is too full for anymore items...@§cТвой инвентарь полностью заполнен...
+§4To rename a pet, use /renamepet. To rename an item, use /renameitem.@§4Для переименования питомца, используй /renamepet. Для переименования предмета, используй /renameitem.
+§eDesc.: This command will let you ignore players.@§eОпис.: Эта команда позволяет тебе игнорировать игроков.
+§eUsage: /ignore [add/remove] <name>@§eИспользование: /ignore [add/remove] <ник>
+§4You already have an active crate!@§4У тебя уже стоит активный контейнер!
+§cYou are already connecting there, please wait.@§cТы уже подключаешься туда, пожалуйста подожди.
+§cYou are not allowed to use this command!@§cТы не можешь использовать эту команду!
+§dYour emeralds can be found in the trade overview menu.@§dТвои эмеральды можно найти в обзорном меню торговли.
+§cThe world you were playing on is restarting!@§cМир, в котором ты играл, перезагружается!
+§4You need to progress further to unlock hunted mode.@§4Тебе нужно пройти дальше для разблокировки режима охотника.
+§c§lLog in to §f§nplay.wynncraft.com§c§l for less lag.@§c§lЗаходи на §f§nplay.wynncraft.com§c§l где меньше лагов.
 
 #########################Entering###################################
 §7[You are now entering PirateÀÀÀCove]@§7[Ты входишь в Пиратскую Бухту]
@@ -1908,6 +1962,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §7[You are now leaving EldritchÀÀÀOutlookÀÀÀEntrance]@§7[Ты покидаешь Жуткого Наблюдателя]
 §7[You are now entering CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты входишь в Испорченные Заросшие Руины]
 §7[You are now leaving CorruptedÀÀÀUndergrowthÀÀÀRuinsÀÀÀEntrance]@§7[Ты покидаешь Испорченные Заросшие Руины]
+§7[You are now entering the Update Room]@§7[Ты входишь в Апдейт Комнату]
 
 ------------------------------------------
 §a+ New Spell §2[Haul]@§a+ Новое Заклинание §2[Рывок]
