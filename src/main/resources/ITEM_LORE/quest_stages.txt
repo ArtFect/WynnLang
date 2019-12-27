@@ -75,18 +75,65 @@ QUESTS/Aldorei%27s_Secret_Part_II.txt
 §7Corak or give an Elven @§7Кораку или отдай 
 §7Medallion to Kansard @§7эльфийский медальон Канзарду
 
-QUESTS/A_Journey_Beyond.txt 
+QUESTS/A_Journey_Beyond.txt =====
 §7Join Elphaba on a mission @§7Присоединись к Эльфабе на миссии 
 §7in Detlas at [419, 67, @§7в Детласе на [419, 67, 
 §7-1533]. @ 
+§7Follow your team towards the @§7Следуй за своей командой ко 
+§7Silent Expanse's entrance. @§7входу в Тихое Пространство
+§7Defeat the Beast @§7Победи зверя
+§7Plan a way of killing @§7Придумай план по убийству 
+§7the beast. @§7зверя.
+§7Meet the other soldiers at @§7Встреть других солдатов на 
+§7[730, 61, -1434]. @ 
+§7Get the Shard with Aledar. @§7Добудь осколок вместе с Аледаром
+§7Explore the cave at [271, @§7Исследуй пещеру на [271, 
+§739, -1225] for the Shard. @§739, -1225] в поисках Осколка.
+§7at [271, 39, -1225] for @§7на [271, 39, -1225] в поисках 
+§7the Shard. @§7Осколка.
+§7Chase the beast for the @§7Преследуй зверя с 
+§7Shard. @§7Осколком
+§7Kill the Progenitors to open @§7Убей Progenitor'а чтобы открыть 
+§7the entrance. @§7вход.
+§7Kill the Mangled Progeny for @§7Убей Mangled Progeny и получи 
+§7the [1 Corrupted Pearl]. @§7[1 Испорченную Жемчужину].
+§7Go back to the Blacksmith @§7Вернись к Кузнецу 
+§7with the Darkness Item. @§7с Предметом Тьмы.
+§7Re-open the closed entrance with @§7Снова открой закрытый вход с 
+§7the other warriors. @§7другими войнами.
+§7Kill the Black Geist. @§7Убей Black Geist.
+§7Explore the Silent Expanse. @§7Исследуй Тихое Пространство
+§7Find Aledar, Lucio and Elphaba @§7Найди Аледара, Луцио и Эльфабу 
+§7in the Fallen City. @§7в Опустевшем Городе.
+§7Find Aledar and Elphaba in @§7Найди Аледара и Эльфабу в 
+§7the Fallen City. @§7Опустевшем Городе. 
+§7Find Aledar in the Fallen @§7Найди Аледара в Опустевшем 
+§7City. @§7Городе.
+§7Escort Aledar through the Eyeball @§7Доставь Аледара через Лес с
+§7Forest to Lutho. @§7Глазами в Луто.
 
-QUESTS/A_Journey_Further.txt 
+QUESTS/A_Journey_Further.txt =====
 §7Talk to Aledar in Lutho @§7Поговори с Аледаром в Луто 
 §7at [977, 75, -732] @§7на [977, 75, -732]
-
-QUESTS/A_Hunters_Calling.txt 
-§7Explore the deepest part of @§7Исследуй глубинные части 
-§7the Silent Expanse @§7Тихого Пространства
+§7Continue your journey with Aledar. @§7Продолжи свое путешествие с Аледаром.
+§7Defeat the Parasitic Slimers. @§7Победи Паразитических Слаймов.
+§7Continue on the main path @§7Продолжи идти по основному пути 
+§7with Aledar. @§7с Аледаром.
+§7Defend Aledar from the Radiated @§7Защити Аледара от Радиоактивных 
+§7Spiders. @§7Пауков.
+§7Jump into the void hole. @§7Прыгни в пустотную дыру.
+§7Continue on the trail with @§7Продолжи идти по пути с 
+§7Aledar. @§7Аледаром.
+§7Use Void Holes to try @§7Используй Пустотные Дыры 
+§7and get behind the spike @§7чтобы попасть за шипы
+§7Brings light to@§7Принеси свет к 
+§7something dark@§7чему-то темному
+§7Find a way to help @§7Найди способ помочь 
+§7Aledar get to the other @§7Аледару попасть на другую 
+§7side of the spike barrier. @§7сторону барьера из шипов
+§7Right click to grab the @§7Возьми клинок 
+§7blade in the altar. @§7с алтаря.
+§7Sacrifice Aledar. @§7Пожертвуй Аледаром.
 
 QUESTS/An_Iron_Heart_Part_I.txt ===== 
 §7Speak with Duvale at @§7Поговори с Дювейл на 
@@ -165,6 +212,8 @@ QUESTS/A_Grave_Mistake.txt =====
 §7§4.§lReturn§4;' §lto§4:, '§lAlem;, @§7§4.§lВернись§4;' §lк§4:, '§lАлему;, 
 
 QUESTS/A_Hunter's_Calling.txt =====
+§7Explore the deepest part of @§7Исследуй глубинные части 
+§7the Silent Expanse @§7Тихого Пространства
 §7The besieged origin. To end, @§7Осажденное начало. Чтобы закончить, 
 §7one must begin. @§7нужно начать.
 §7The unrighteous sought it. The @§7Неправедные искали его. Благородные 
@@ -646,16 +695,15 @@ QUESTS/Dwarves_and_Doguns_Part_IV.txt =====
 §7city. @§7из города
 §7Return back to the Dogun @§7Вернись в деревню
 §7village at [1338,147,-5305]. @§7Догунов на [1338,147,-5305].
-§7Reach the portal and stop @§7Достигни портала и останови 
-§7Garaheth @§7Гарахетa
-§7Enter the body of Garaheth. @§7Войди в тело Гарахетa 
-§7Find all 4 organs and @§7Найди все 4 органа 
-§7destroy them. @§7и уничтожь их
-§7Leave Garaheth and exit his @§7Выйди из Гарахетa и 
-§7realm. @§7покинь его царство.
+§7Reach the portal and prevent @§7Дойди до портала и останови 
+§7Garaheth from being summoned @§7призыв Гарахета
+§7Enter the body of Garaheth @§7Войди в тело Гарахета
+§7Freeze any vital point of @§7Заморозь любые жизненно-важные точки 
+§7Garaheth you can find! @§7Гарахета, которые сможешь найти!
+§7Get out of Garaheth! @§7Выйди из Гарахета!
 §7Speak with the King of @§7Поговори с Королем 
 §7Rodoroc and the Dogun Chieftain. @§7Родорока и Вождем Догунов
- 
+
 QUESTS/Dwelling_Walls.txt ===== 
 §7Talk to Leucsaa at @§7Поговори с Леуксаа на 
 §7[201,38,-2173]@ 
@@ -1437,9 +1485,41 @@ QUESTS/Memory_Paranoia.txt
 §7Navigate the Caritat's basement @§7Пройдись по подвалу Каритатов 
 §7Escape through the mysterious rift @§7Сбеги через загадочную расщелину 
 
-QUESTS/Misadventure_on_the_Sea.txt 
+QUESTS/Misadventure_on_the_Sea.txt =====
 §7Visit the Nemract bar at @§7Посети Немракт бар на
 §7[114,40,-2176]@ 
+§7Meet Honip at @§7Найди Хонипа на 
+§7[103,37,-2254]@ 
+§7Explore the hold and kill @§7Исследуй трюм и убей 
+§7the rats @§7крыс
+§7Go to the Nemract docks @§7Иди в доки Немракта  
+§7to go back in the @§7чтобы вернуться на 
+§7boat at [104, 24, -2282] @§7лодку [104, 24, -2282]
+§7Clean the bodies in the @§7Очисти тела на 
+§7boat. Look for clues on @§7лодке. Поищи подсказки о том 
+§7how to escape at the @§7как сбежать в это же 
+§7same time. -Bodies cleaned: 0/7 @§7время. -Тел очищено: 0/7
+§7same time. -Bodies cleaned: 1/7 @§7время. -Тел очищено: 1/7
+§7same time. -Bodies cleaned: 2/7 @§7время. -Тел очищено: 2/7
+§7same time. -Bodies cleaned: 4/7@§7время. -Тел очищено: 4/7
+§7same time. -Bodies cleaned: 6/7@§7время. -Тел очищено: 6/7
+§7same time. -Bodies cleaned: 5/7@§7время. -Тел очищено: 5/7
+§7same time. -Bodies cleaned: 3/7 @§7время. -Тел очищено: 3/7
+§7Use the gunpowder and the @§7Используй порох и 
+§7fuse to activate the cannon @§7рычаг для активации пушки 
+§7and escape @§7и сбеги
+§7Talk to Honip to know @§7Поговори с Хонипом чтобы узнать 
+§7what to do next or @§7что делать дальше, или 
+§7look for clues on how @§7поищи подсказки о том 
+§7to escape @§7как сбежать
+§7Look for clues on how @§7Поищи подсказки о том 
+§7Talk to Honip on the @§7Поговори с Хонипом на 
+§7deck to get your next @§7палубе чтобы перейти к следующей 
+§7task @§7задаче
+§7Find out where you are @§7Узнай где ты находишься 
+§7and a way to flee @§7и найди способ сбежать
+§7Defeat the Colossal Rat in @§7Победи Колосальную Крысу в
+§7the hold @§7трюме
  
 QUESTS/Mixed_Feelings.txt 
 §7Go for a drink at @§7Пойди выпить 
@@ -1574,6 +1654,10 @@ QUESTS/Pit_of_the_Dead_(Quest).txt =====
 QUESTS/Point_of_No_Return.txt 
 §7Talk to the Lutho Citizen @§7Поговори с Жителем Луто 
 §7at [1014,77,-675]. @§7на [1014,77,-675].
+§7§4§l... @ 
+§7Leave happier Lutho. @§7Покинь счастливый Луто.
+§7Explore this happier version of @§7Исследуй эту счастливую версию 
+§7Lutho. @§7Луто.
 
 QUESTS/Poisoning_the_Pest.txt ===== 
 §7Talk to Farmer Cevalus at @§7Поговори с Фермером Цевалусом на 
@@ -1662,6 +1746,34 @@ QUESTS/Reclaiming_the_House.txt
 QUESTS/Recover_the_Past.txt
 §7Talk to Dr. Picard at @§7Поговори с Др. Пикардом на
 §7[103, 90, -1200]. @ 
+§7Find Scout Reynauld near Elkurn @§7Найди Скаута Рейнольда возле Элкурна 
+§7at the bridge to Picard's @§7у моста недалеко от Пикарда 
+§7tower. @§7башни.
+§7Help Reynauld Defeat the Corrupted @§7Помоги Рейнольду отбить Испорченное 
+§7invasion at the bridge. @§7вторжение на мосту.
+§7Return to Scout Reynauld and @§7Вернись к Скауту Рейнольду и 
+§7bring him back to Dr. @§7приведи его обратно к Др.
+§7Find the sailor Picard mentioned @§7Найди моряка Пикарда 
+§7on his boat at [-45, @§7на его лодке на [-45, 
+§765, -1217]. @ 
+§7Head into Elkurn and look @§7Иди в Элкурн и поищи 
+§7for a way to shrink @§7способ уменьшить 
+§7the boat. @§7лодку.
+§7Find [1 Golden Apple], [1 @§7Найди [1 Золотое Яблоко], [1 
+§7Bottle of Water] and [1 @§7Бутылку Воды] и [1 
+§7Bloom of Doom]. @§7Цветок Судьбы].
+§7Return to Caid with the @§7Вернись к Каиду с 
+§7potion. @§7зельем.
+§7Bring Caid back to Dr. @§7Приведи Каида обратно к Др. 
+§7Picard. @§7Пикарду.
+§7Find Farmer Edwin next to @§7Найди Фермера Эдвина рядом с 
+§7Nesaak at [128, 74, -1102]. @§7Несааком на [128, 74, -1102].
+§7Climb the mountain next to @§7Заберись на гору рядом с
+§7Edwin's house. @§7домом Эдвина.
+§7Break the ice on the @§7Сломай лед на 
+§7spring and water Edwin's crops. @§7водопаде и полей посевы Эдвина.
+§7Bring Edwin back to Dr. @§7Приведи Эдвина обратно к Др.
+§7Discover your own past. @§7Узнай свое собственное прошлое.
 
 QUESTS/Redbeard%27s_Booty.txt ===== 
 §7Talk with Marston in the @§7Поговори с Марстоном 
@@ -2212,10 +2324,32 @@ QUESTS/The_Mercenary.txt =====
 QUESTS/The_Olmic_Rune.txt
 §7Explore the abandoned drill at @§7Исследуй заброшенный бур на 
 §7[585,89,-457]@ 
+§7Find some sort of fuel @§7Найди какое-то топливо 
+§7in the ruined city @§7в этом разрушенном городе
+§7fuel @§7топлива
+§7Head back to the machine @§7Вернись обратно к машине
+§7Enter the opened crypt. @§7Войди в открытую гробницу.
+§7Illuminates@§7Освети
 
 QUESTS/The_Order_of_the_Grook.txt
 §7Talk to Seasum on Mage @§7Поговори с Сеасумом на Магов 
 §7[940,77,-2866]@ 
+§7Return to Seasum with the @§7Вернись к Сеасуму с 
+§7letter. @§7письмом
+§7Find the magical school boat @§7Найди магическую школьную лодку 
+§7[893,37,-2777]@ 
+§7Follow the children to the @§7Следуй за детьми в 
+§7school. @§7школу.
+§7Talk to Cidre on the @§7Поговори с Кидре на 
+§7school island. @§7школьном острове
+§7Buy a wand and a @§7Купи палочку и 
+§7magical book from the nearby @§7магическую книгу из ближайших 
+§7shops and enter Grookwarts. @§7магазинов и войди в Груквартс.
+§7Attend the welcoming dinner at @§7Посети праздничный обед в 
+§7Grookwarts. @§7Груквартсе
+§7Choose your schedule and attend @§7Выбери свое расписание и посети 
+§7your classes. @§7свои уроки.
+§7Finish school for the day. @§7Закончи школу за день.
 
 QUESTS/The_Passage_(Quest).txt ===== 
 §7Talk to Wirt in Troms @§7Поговори с Виртом в Тромсе на 
@@ -2739,181 +2873,6 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7Bring [15 Dragonling Scales] to @§7Принеси [15 Dragonling Scales] к 
 §799] at @§799] на 
 §7[1348,124,-4470]@ 
- 
-§7Exit the house @§7Покинь дом
-§7Solve the puzzle to open @§7Пройди пазл чтобы открыть
-§7the door that locks the @§7дверь закрывающую
-§7heirloom. @§7реликвию.
-§7Explore the house to find @§7Исследуй дом чтобы найти 
-§7a way out @§7выход 
-§7clue missing. @§7пропавшие подсказки
-§7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
-§7Approach the stage @§7Подойди к сцене
-§7Break into the mansion @§7Проникни в поместье
-§7Continue through the hideout! @§7Продвигайся через укрытие!
-
-§7[1470,85,-4334]@ 
-§7[-1540,73,-4394]@ 
-§7[-705,58,-817]@ 
-§7[1084,133,-5606]@ 
-
--------------------------------------
-
-==
-
-==
-
-==
-§7Find Scout Reynauld near Elkurn @§7Найди Скаута Рейнольда возле Элкурна 
-§7at the bridge to Picard's @§7у моста недалеко от Пикарда 
-§7tower. @§7башни.
-§7Help Reynauld Defeat the Corrupted @§7Помоги Рейнольду отбить Испорченное 
-§7invasion at the bridge. @§7вторжение на мосту.
-§7Return to Scout Reynauld and @§7Вернись к Скауту Рейнольду и 
-§7bring him back to Dr. @§7приведи его обратно к Др.
-§7Find the sailor Picard mentioned @§7Найди моряка Пикарда 
-§7on his boat at [-45, @§7на его лодке на [-45, 
-§765, -1217]. @ 
-§7Head into Elkurn and look @§7Иди в Элкурн и поищи 
-§7for a way to shrink @§7способ уменьшить 
-§7the boat. @§7лодку.
-§7Find [1 Golden Apple], [1 @§7Найди [1 Золотое Яблоко], [1 
-§7Bottle of Water] and [1 @§7Бутылку Воды] и [1 
-§7Bloom of Doom]. @§7Цветок Судьбы].
-§7Return to Caid with the @§7Вернись к Каиду с 
-§7potion. @§7зельем.
-§7Bring Caid back to Dr. @§7Приведи Каида обратно к Др. 
-§7Picard. @§7Пикарду.
-§7Find Farmer Edwin next to @§7Найди Фермера Эдвина рядом с 
-§7Nesaak at [128, 74, -1102]. @§7Несааком на [128, 74, -1102].
-§7Climb the mountain next to @§7Заберись на гору рядом с
-§7Edwin's house. @§7домом Эдвина.
-§7Break the ice on the @§7Сломай лед на 
-§7spring and water Edwin's crops. @§7водопаде и полей посевы Эдвина.
-§7Bring Edwin back to Dr. @§7Приведи Эдвина обратно к Др.
-§7Discover your own past. @§7Узнай свое собственное прошлое.
-==
-§7Meet Honip at @§7Найди Хонипа на 
-§7[103,37,-2254]@ 
-§7Explore the hold and kill @§7Исследуй трюм и убей 
-§7the rats @§7крыс
-§7Go to the Nemract docks @§7Иди в доки Немракта  
-§7to go back in the @§7чтобы вернуться на 
-§7boat at [104, 24, -2282] @§7лодку [104, 24, -2282]
-§7Clean the bodies in the @§7Очисти тела на 
-§7boat. Look for clues on @§7лодке. Поищи подсказки о том 
-§7how to escape at the @§7как сбежать в это же 
-§7same time. -Bodies cleaned: 0/7 @§7время. -Тел очищено: 0/7
-§7same time. -Bodies cleaned: 1/7 @§7время. -Тел очищено: 1/7
-§7same time. -Bodies cleaned: 2/7 @§7время. -Тел очищено: 2/7
-§7Use the gunpowder and the @§7Используй порох и 
-§7fuse to activate the cannon @§7рычаг для активации пушки 
-§7and escape @§7и сбеги
-§7Talk to Honip to know @§7Поговори с Хонипом чтобы узнать 
-§7what to do next or @§7что делать дальше, или 
-§7look for clues on how @§7поищи подсказки о том 
-§7to escape @§7как сбежать
-§7Look for clues on how @§7Поищи подсказки о том 
-§7Talk to Honip on the @§7Поговори с Хонипом на 
-§7deck to get your next @§7палубе чтобы перейти к следующей 
-§7task @§7задаче
-§7Find out where you are @§7Узнай где ты находишься 
-§7and a way to flee @§7и найди способ сбежать
-§7Defeat the Colossal Rat in @§7Победи Колосальную Крысу в
-§7the hold @§7трюме
-==
-§7Return to Seasum with the @§7Вернись к Сеасуму с 
-§7letter. @§7письмом
-§7Find the magical school boat @§7Найди магическую школьную лодку 
-§7[893,37,-2777]@ 
-§7Follow the children to the @§7Следуй за детьми в 
-§7school. @§7школу.
-§7Talk to Cidre on the @§7Поговори с Кидре на 
-§7school island. @§7школьном острове
-§7Buy a wand and a @§7Купи палочку и 
-§7magical book from the nearby @§7магическую книгу из ближайших 
-§7shops and enter Grookwarts. @§7магазинов и войди в Груквартс.
-§7Attend the welcoming dinner at @§7Посети праздничный обед в 
-§7Grookwarts. @§7Груквартсе
-§7Choose your schedule and attend @§7Выбери свое расписание и посети 
-§7your classes. @§7свои уроки.
-§7Finish school for the day. @§7Закончи школу за день.
-==
-§7Follow your team towards the @§7Следуй за своей командой ко 
-§7Silent Expanse's entrance. @§7входу в Тихое Пространство
-§7Defeat the Beast @§7Победи зверя
-§7Plan a way of killing @§7Придумай план по убийству 
-§7the beast. @§7зверя.
-§7Meet the other soldiers at @§7Встреть других солдатов на 
-§7[730, 61, -1434]. @ 
-§7Get the Shard with Aledar. @§7Добудь осколок вместе с Аледаром
-§7Explore the cave at [271, @§7Исследуй пещеру на [271, 
-§739, -1225] for the Shard. @§739, -1225] в поисках Осколка.
-§7at [271, 39, -1225] for @§7на [271, 39, -1225] в поисках 
-§7the Shard. @§7Осколка.
-§7Chase the beast for the @§7Преследуй зверя с 
-§7Shard. @§7Осколком
-§7Kill the Progenitors to open @§7Убей Progenitor'а чтобы открыть 
-§7the entrance. @§7вход.
-§7Kill the Mangled Progeny for @§7Убей Mangled Progeny и получи 
-§7the [1 Corrupted Pearl]. @§7[1 Испорченную Жемчужину].
-§7Go back to the Blacksmith @§7Вернись к Кузнецу 
-§7with the Darkness Item. @§7с Предметом Тьмы.
-§7Re-open the closed entrance with @§7Снова открой закрытый вход с 
-§7the other warriors. @§7другими войнами.
-§7Kill the Black Geist. @§7Убей Black Geist.
-§7Explore the Silent Expanse. @§7Исследуй Тихое Пространство
-§7Find Aledar, Lucio and Elphaba @§7Найди Аледара, Луцио и Эльфабу 
-§7in the Fallen City. @§7в Опустевшем Городе.
-§7Find Aledar and Elphaba in @§7Найди Аледара и Эльфабу в 
-§7the Fallen City. @§7Опустевшем Городе. 
-§7Find Aledar in the Fallen @§7Найди Аледара в Опустевшем 
-§7City. @§7Городе.
-§7Escort Aledar through the Eyeball @§7Доставь Аледара через Лес с
-§7Forest to Lutho. @§7Глазами в Луто.
-==
-§7§4§l... @ 
-§7Leave happier Lutho. @§7Покинь счастливый Луто.
-§7Explore this happier version of @§7Исследуй эту счастливую версию 
-§7Lutho. @§7Луто.
-==
-§7Find some sort of fuel @§7Найди какое-то топливо 
-§7in the ruined city @§7в этом разрушенном городе
-§7fuel @§7топлива
-§7Head back to the machine @§7Вернись обратно к машине
-§7Enter the opened crypt. @§7Войди в открытую гробницу.
-§7Illuminates@§7Освети
-==
-§7Reach the portal and prevent @§7Дойди до портала и останови 
-§7Garaheth from being summoned @§7призыв Гарахета
-§7Enter the body of Garaheth @§7Войди в тело Гарахета
-§7Freeze any vital point of @§7Заморозь любые жизненно-важные точки 
-§7Garaheth you can find! @§7Гарахета, которые сможешь найти!
-§7Get out of Garaheth! @§7Выйди из Гарахета!
-==
-§7Continue your journey with Aledar. @§7Продолжи свое путешествие с Аледаром.
-§7Defeat the Parasitic Slimers. @§7Победи Паразитических Слаймов.
-§7Continue on the main path @§7Продолжи идти по основному пути 
-§7with Aledar. @§7с Аледаром.
-§7Defend Aledar from the Radiated @§7Защити Аледара от Радиоактивных 
-§7Spiders. @§7Пауков.
-§7Jump into the void hole. @§7Прыгни в пустотную дыру.
-§7Continue on the trail with @§7Продолжи идти по пути с 
-§7Aledar. @§7Аледаром.
-§7Use Void Holes to try @§7Используй Пустотные Дыры 
-§7and get behind the spike @§7чтобы попасть за шипы
-§7Brings light to@§7Принеси свет к 
-§7something dark@§7чему-то темному
-§7Find a way to help @§7Найди способ помочь 
-§7Aledar get to the other @§7Аледару попасть на другую 
-§7side of the spike barrier. @§7сторону барьера из шипов
-§7Right click to grab the @§7Возьми клинок 
-§7blade in the altar. @§7с алтаря.
-§7Sacrifice Aledar. @§7Пожертвуй Аледаром.
-==
-
-§7who sent you on this @§7кто отправил тебя на это 
-§7journey. @§7приключение
 
 §7Bring [12 Wheat String] or @§7Принеси [12 Пшеничных Нитей] или 
 §7[12 Wheat Grains] to the @§7[12 Пшеничного Зерна] к 
@@ -3297,5 +3256,23 @@ QUESTS/Zhight_Island_(Quest).txt =====
 
 §7Bring [26 Bamboo] to the @§7Принеси [26 Бамбука] к 
 §7[87,81,-4340]@ 
-
+ 
+§7Exit the house @§7Покинь дом
+§7Solve the puzzle to open @§7Пройди пазл чтобы открыть
+§7the door that locks the @§7дверь закрывающую
+§7heirloom. @§7реликвию.
+§7Explore the house to find @§7Исследуй дом чтобы найти 
+§7a way out @§7выход 
+§7clue missing. @§7пропавшие подсказки
+§7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
+§7Approach the stage @§7Подойди к сцене
+§7Break into the mansion @§7Проникни в поместье
+§7Continue through the hideout! @§7Продвигайся через укрытие!
 §7Make your way through the @§7Пройди по пути через 
+§7who sent you on this @§7кто отправил тебя на это 
+§7journey. @§7приключение
+
+§7[1470,85,-4334]@ 
+§7[-1540,73,-4394]@ 
+§7[-705,58,-817]@ 
+§7[1084,133,-5606]@ 
