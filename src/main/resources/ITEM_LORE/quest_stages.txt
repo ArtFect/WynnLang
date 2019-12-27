@@ -62,10 +62,14 @@ QUESTS/Aldorei%27s_Secret_Part_II.txt
 §7the cherry blossom tree @§7через вишневое дерево
 §7Speak to Togak @§7Поговори с Тогаком
 §7Enter the chamber behind Togak @§7Войди в комнату позади Тогака
+§7Escape the first room of @§7Сбеги из первой комнаты 
+§7Togak's dungeon @§7данжа Тогака
 §7Solve the puzzle in the @§7Пройди пазл в 
 §7third room of Togak's dungeon @§7третьей комнате данжа Тогака
 §7Battle through the fourth room @§7Пройди с боем через четвертую комнату 
 §7of Togak's dungeon @§7Тогак данжа
+§7Battle through the eighth room @§7Пройди с боем через восьмую комнату
+§7Speak with Togak once more @§7Поговори с Тогаком еще раз
 §7Choose @§7Выбери
 §7Turn in your receipt to @§7Верни свою квитанцию 
 §7Corak or give an Elven @§7Кораку или отдай 
@@ -159,6 +163,81 @@ QUESTS/A_Grave_Mistake.txt =====
 §7.§laway§4'; @§7.§lПОДАЛЬШЕ§4; 
 §7.§laway§4; @§7.§lПОДАЛЬШЕ§4; 
 §7§4.§lReturn§4;' §lto§4:, '§lAlem;, @§7§4.§lВернись§4;' §lк§4:, '§lАлему;, 
+
+QUESTS/A_Hunter's_Calling.txt =====
+§7The besieged origin. To end, @§7Осажденное начало. Чтобы закончить, 
+§7one must begin. @§7нужно начать.
+§7The unrighteous sought it. The @§7Неправедные искали его. Благородные 
+§7noble hid it. The one @§7спрятали его. Тот, кто искал 
+§7seeking answers found more questions. @§7ответы, нашел еще больше вопросов. 
+§7Another beginning...to a new end. @§7Другое начало...нового конца.
+§7Head to town and get @§7Отправляйся в город и получи
+§7further information from the employee. @§7больше информации от служащего.
+§7Climb up the tree and @§7Заберись на дерево и
+§7look through the window. @§7посмотри через окно.
+§7Head to the northern part @§7Отправляйся к северной части
+§7of the bank and find @§7банка и найди 
+§7a way up to the @§7способ пробраться к 
+§7ceiling. @§7потолку.
+§7Head back to the excavation @§7Иди обратно к раскопкам в
+§7camp. @§7лагере.
+§7The cruel. The kind. The @§7Жестокий. Добрый. Эгоистичный. 
+§7selfish. The just. He who @§7Простой. Тот, кто двигался 
+§7travelled life with confliction. Who @§7по жизни с конфликтом. 
+§7faced eternity served cold. To @§7Тот, кто столкнулся с холодной вечностью. 
+§7his end. @§7До своего конца.
+§7Head to Nesaak and locate @§7Отправляйся в Несаак и найди 
+§7Theorick. @§7Теорика. 
+§7Defeat Theorick @§7Победи Теорика 
+§7An end, ousted by further @§7Конец, свергнутый другими 
+§7action. An end, brought to @§7действиями. Конец, принесенный 
+§7six. An end, to the @§7шестью. Конец, к уверенности 
+§7surety of the haughty. An @§7надменных. Конец 
+§7end, of the world...in some @§7мира...в некотором 
+§7fashion. @§7роде.
+§7Enter the Corrupter of World @§7Войди к Разрушителю Миров 
+§7end of the cave. @§7в конце пещеры
+§7Return back up the cave @§7Вернись обратно в пещеру 
+§7and fix a way out. @§7и исправь выход наружу.
+§7Metal. Preventing an end. Life. @§7Металл. Предотвращающий конец. 
+§7Ends, prevented. Does metal taking @§7Жизнь. Кончается, предотвращением. 
+§7life, bringing an end, truly @§7Действительно ли металл, забирающий жизнь, 
+§7prevent more? @§7принесет конец, препятствующий большему?
+§7Trick 3 people to follow @§7Заставь 3 людей следовать 
+§7you into the iron golem @§7за тобой на железных големов 
+§7factory. @§7фабрику.
+§7A home, invaded. A society, @§7Дом, вторглись чужаки. Общество, 
+§7crumbling. The people, starving. The @§7которое рушится. Люди, умирающие 
+§7concerned, helpless. The flames, rising. @§7с голоду. Обеспокоенные, беспомощные. 
+§7An end you will not @§7Пламя, поднимающееся вверх. Конец, 
+§7expect. @§7которого ты не ожидаешь.
+§7Tell the hooligans in the @§7Скажи хулиганам в 
+§7slums about the eviction notice. @§7трущобах об уведомлении о выселении.
+§7Return to the advisor for @§7Вернись к советнику и узнай 
+§7what to do next. @§7что делать дальше. 
+§7Head deep inside the slums @§7Отправляйся вглубь трущоб 
+§7and blow it up. @§7и взорви их.
+§7Metal. Life. A new place... @§7Металл. Жизнь. Новое место... 
+§7One is not sacrificed for @§7Одно не приносится в жертву другому. 
+§7another. Always distrusting. Tension, as @§7Всегда недоверчивы. Напряжение, как перезвон 
+§7the clockworks chime. @§7часовых механизмов.
+§7Find a rock to launch @§7Найди камень для запуска 
+§7into the Avos territory and @§7на территорию Авосов и 
+§7a battery to activate the @§7батарею для активации 
+§7catapult. @§7катапульты.
+§7Steal the Avos totem and @§7Укради тотем Авосов и 
+§7activate it outside of Corkus @§7активируй его снаружи Коркус 
+§7City @§7Сити
+§7Climb the Corkus Clocktower. @§7Заберись на башню с часами в Коркусе
+§7Defeat Maxie. @§7Победи Макси.
+§7The very center... The place @§7Самый центр...Место, 
+§7deemed closest to your home. @§7считающееся самым близким 
+§7There, in the center of @§7к твоему дому. Там, в самом  
+§7Wynn... You shall find the @§7центре Винн... Ты найдешь свой 
+§7end. @§7конец.
+§7Attack Detlas and defeat Aledar @§7Атакуй Детлас и победи Аледара 
+§7and Tasim. @§7и Тасима.
+§7Return to the entity. @§7Вернись к сущности
  
 QUESTS/A_Marauder%27s_Dues.txt ===== 
 §7Talk to Norsten at [437,77,-5056]. @§7Поговори с Норстеном на [437,77,-5056] 
@@ -297,14 +376,17 @@ QUESTS/Cook_Assistant.txt =====
 §7Talk to the Cook in @§7Поговори с Поваром 
 §7Ragni at @§7в Рагни на 
 §7[-853,67,-1564]@ 
-§7Find [2 Egg], [1 Milk] @§7Найди [2 Яйца], [1 Молоко]  
-§7and [3 Wheat] for the @§7и [3 Пшеницы] 
-§7Cook @§7для Повара
+§7Find [2 Eggs], [1 Bucket @§7Найди [2 Яйца], [1 Ведро 
+§7of Milk] and [3 Wheat @§7Молока] и [3 Пшеничного 
+§7Grains] for the Cook @§7Зерна] для Повара
  
 QUESTS/Corrupted_Betrayal.txt ===== 
 §7Talk to the Troms Mage @§7Поговори с Тромс Магом
 §7at the dungeon entrance at @§7на входе в данж 
 §7[-641,59,-872]@ 
+§7Wait for the Mage to @§7Подожди пока Маг 
+§7cast the incantation on the @§7наложит заклинание на 
+§7barrier @§7барьер
 §7Use the Mage’s riddle to @§7Используя загадку мага, 
 §7figure out where it leads @§7разберись, куда она ведет 
 §7Explore the temple for a @§7Исследуй храм и найди 
@@ -638,6 +720,8 @@ QUESTS/Eye_of_the_Storm.txt =====
 §7Search the ruins at @§7Обыщи руины на 
 §7[-714,43,-5385]@ 
 §7to find the cultists @§7и найди культистов 
+§7Kill the hellhound and free @§7Убей цербера и освободи 
+§7Talos @§7Талоса
 §7Return to Arwes in the @§7Вернись к Арвесу в
 §7cathedral @§7соборе
 §7Talk to Ceyquin in Lexdale @§7Поговори с Сейквином в Лексдейл 
@@ -704,6 +788,8 @@ QUESTS/Fantastic_Voyage.txt
 §7Defeat Captain Goldenclaw and give @§7Победи Капитана Goldenclaw 
 §7the map to Relend @§7и отдай карту Реленду
 §7Set sail aboard Relend's ship @§7Отплыви на корабле Реленда
+§7Speak to Captain Relend aboard @§7Поговори с Капитаном Релендом на 
+§7the Little Wing @§7борту Little Wing
 §7Bring a [Wooden Board], a @§7Принеси [Деревянную Доску], 
 §7[Center Piece], and a @§7[Центральную Часть], и
 §7[String]@§7 [Нитку] 
@@ -715,6 +801,8 @@ QUESTS/Fantastic_Voyage.txt
 §7Find Relend inside of the @§7Найди Реленда под обломками 
 §7wreck of the Little Wing @§7корабля Little Wing 
 §7Exit the shipwrecked Little Wing @§7Покинь потонувший корабль Little Wing
+§7Speak to Relend on the @§7Поговори с Релендом на 
+§7beach @§7пляже
 §7Bring [10 Raw Mutton], [5 @§7Принеси [10 Сырая Лопатка], [5 
 §7Edible Mushrooms], [1 Coconut], and @§7Съедобных Грибов], [1 Кокос], и 
 §7[7 Berries] to the Cooking @§7[7 Ягод] к горшку для 
@@ -1402,7 +1490,7 @@ QUESTS/Mushroom_Man.txt =====
 §7and [1 Brown Mushrooms] to @§7и [1 Brown Mushroom] для
 §7Yahya @§7Яхуи
 §7Bring back [3 Brown Mushrooms] @§7Принеси [3 Brown Mushroom] 
-§7and [3 Red Mushrooms]to Yahya @§7и [3 Red Mushroom] к Яхуя 
+§7and [3 Red Mushrooms] to @§7и [3 Red Mushroom] к 
 §7Bring back [1 Bowl] to @§7Принеси [1 Миску] для 
  
 QUESTS/﻿One_Thousand_Meters_Under.txt =====
@@ -1528,6 +1616,8 @@ QUESTS/Purple_and_Blue.txt
 §7under the lake @§7под озером. 
 §7Go deeper into the heart @§7Продвигайся дальше к центру
 §7of the lake @§7озера
+§7Talk to Nedlom at the @§7Поговори с Недломом в 
+§7Gryndilin's prison @§7тюрьме Гриндилина
 §7Follow the blood trail to @§7Иди по следу крови 
 §7the Gryndilin chief's room @§7в комнату Gryndilin Chief'а
 §7Defeat the Gryndilin chief, and @§7Победи Gryndilin Chief
@@ -2358,9 +2448,12 @@ QUESTS/Troubled_Tribesmen.txt =====
 §7the fork in the road @§7развилке дороги
 §7Return to Ka L'argwit @§7Вернись к Ка Ларгвиту
 §7Investigate the roots of Entamis @§7Посети корни Энтамис
+§7Kill the monster at the @§7Убей монстра на 
+§7bottom and bring [1 Insect @§7дне и принеси [1 Испорченное 
+§7of Corruption] to Inrekei. @§7Насекомое] к Энрике.
 §7Kill Aenara and give [1 @§7Убей Aenara и отдай [1 
 §7Insect of Corruption] to Inrekei. @§7Испорченное Насекомое] Энрике
- 
+
 QUESTS/Tunnel_Trouble.txt ===== 
 §7Talk to Captain Fenor in @§7Поговори с Капитаном Фенором 
 §7front of Detlas at [379,67,-1569]. @§7перед Детласом на [379,67,-1569].
@@ -2473,6 +2566,8 @@ QUESTS/WynnExcavation_Site_C.txt =====
 §7for the traitor @§7в поисках предателя 
 §7Explore the depths of the @§7Исследуй глубины 
 §7volcano @§7вулкана
+§7Escape the volcano with the @§7Сбеги из вулкана с 
+§7crystal shard @§7осколком кристалла
 §7Report back to Excavator Placardus @§7Сообщи обо всем Раскопщику Плакардусу 
 §7with a [Red Crystal Shard] @§7с [Красным Осколком Кристалла]
  
@@ -2663,18 +2758,11 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7[1084,133,-5606]@ 
 
 -------------------------------------
-§7Escape the first room of @§7Сбеги из первой комнаты 
-§7Togak's dungeon @§7данжа Тогака
-§7Battle through the eighth room @§7Пройди с боем через восьмую комнату
+
 ==
-§7Wait for the Mage to @§7Подожди пока Маг 
-§7cast the incantation on the @§7наложит заклинание на 
-§7barrier @§7барьер
+
 ==
-§7Speak to Relend on the @§7Поговори с Релендом на 
-§7beach @§7пляже
-§7Speak to Captain Relend aboard @§7Поговори с Капитаном Релендом на 
-§7the Little Wing @§7борту Little Wing
+
 ==
 §7Find Scout Reynauld near Elkurn @§7Найди Скаута Рейнольда возле Элкурна 
 §7at the bridge to Picard's @§7у моста недалеко от Пикарда 
@@ -3210,6 +3298,4 @@ QUESTS/Zhight_Island_(Quest).txt =====
 §7Bring [26 Bamboo] to the @§7Принеси [26 Бамбука] к 
 §7[87,81,-4340]@ 
 
-§7Kill the monster at the @§7Убей монстра на 
-§7bottom and bring [1 Insect @§7дне и принеси [1 Испорченное 
-§7of Corruption] to Inrekei. @§7Насекомое] к Энрике.
+§7Make your way through the @§7Пройди по пути через 
