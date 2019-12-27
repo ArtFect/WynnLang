@@ -149,47 +149,45 @@
 §7Bring back [3 Brown Mushrooms] and [3 Red Mushrooms] to Yahya@§7Принеси [3 Brown Mushrooms] и [3 Red Mushrooms] к Яхуя
 §7Discover your own past.@§7Узнай свое собственное прошлое.
 
-§7[1/4] §2Seaskipper Captain: §aDo ya 'member that time I rescued ya on a random island?
-§7[3/4] §2Seaskipper Captain: §aThey seemed to be praisin' soldiers by kidnappin' more of them. Odd tactic, but I ain't one to judge.
-§7[1/4] §2Seaskipper Captain: §aSo, this is your first time legitimately ridin' my boat, eh? I 'ought that pirate adventure would've scarred you!
-§7[2/4] §2Seaskipper Captain: §aOh, 'scuse me soldier, sometimes people ask me to deliv'r some things as well.
-§7[3/4] §2Seaskipper Captain: §aI 'eard they're tryin' to train a chicken now. Fended off a huge beast or somethin'.
 
-§6Fellowship Bow
-§7Disguise your bow with a adventurous flair
-§aA §cGodly Phoenix Dagger§a!
-§6Fellowship Wooden Wand
-§cDern Spear
-§7Disguise your spear with a dark flair
-§aA §dRare Steampunk Bow§a!
+§7[1/4] §2Seaskipper Captain: §aSo, this is your first time legitimately ridin' my boat, eh? I 'ought that pirate adventure would've scarred you!@§7[1/4] §2Капитан Корабля: §aТак это твой первый раз, когда ты законно ездишь на моей лодке, да? Мне кажется, что это пиратское приключение должно было бы оставить у тебя шрамы!
+§7[3/4] §2Seaskipper Captain: §aI 'eard they're tryin' to train a chicken now. Fended off a huge beast or somethin'.@§7[3/4] §2Капитан Корабля: §aЯ слышал, что сейчас они пытаются натренировать цыпленка. Отбиваться от огромного зверя или еще чего-нибудь.
 
-§7The sound of a door opening is heard...
-§4Better not messing with the teleport panel right now.
-§7The thunder class has been restarted...
-§4The cave is too dark for you to see anything. You turn around and walk away.
-§7[+896 Emeralds]
-§7[Objective: Murder 10 Ragni Citizens]
-§7[1/10] Citizens
-§7[2/10] Citizens
-§7[3/10] Citizens
-§7[4/10] Citizens
-§7[5/10] Citizens
-§7[6/10] Citizens
-§7[7/10] Citizens
-§7[8/10] Citizens
-§7[9/10] Citizens
-§7[10/10] Citizens
-§7With so much of the active army dead, dying, and corrupted, Ragni fell within the day.
-§7The King of Ragni sought help from Troms, the most secure fortress in the province. But help was too late.
-§7When the armies of Troms reached the once noble fort, it was corrupted ashes.
-§7After a villager took over, new laws were put in place. This was the spark Wynnexcavation needed to start their work.
-§7The humans didn't notice any difference after the new laws, but the company was in full force...
-§7The roaring of the Corrupter of Worlds is audible from here. Has he noticed you?
-§7Maybe you can create a trail of emeralds and lure the villager back to the factory?
-§7Maybe you can lure the villager by flirting?
-§7After the King of Rodoroc ordered the slums cave-in, another war broke out.
-§7But this time, it was between Dwarves and Dwarves... And yet again blood was spilled.
-§7[+1 Avo Totem]
+§6Fellowship Bow@§6Лук Дружбы
+§7Disguise your bow with a adventurous flair@§7Маскирует твой лук под стиль приключений
+§aA §cGodly Phoenix Dagger§a!@§cБожественный Кинжал Феникса
+§6Fellowship Wooden Wand@§6Деревянный Посох Дружбы
+§cDern Spear@§cДерн Копье
+§7Disguise your spear with a dark flair@§7Маскирует твое копье под темный стиль
+§aA §dRare Steampunk Bow§a!@§dРедкий Стимпанк Лук
+
+§7The sound of a door opening is heard...@§7Раздается звук открывающейся двери...
+§4Better not messing with the teleport panel right now.@§4Лучше не возиться с панелью телепорта прямо сейчас.
+§7The thunder class has been restarted...@§7Урок грома был перезапущен...
+§4The cave is too dark for you to see anything. You turn around and walk away.@§4В пещере слишком темно, чтобы что-то разглядеть. Ты поворачиваешься и уходишь.
+§7[+896 Emeralds]@§7[+896 Эмеральдов]
+§7[Objective: Murder 10 Ragni Citizens]@§7[Цель: Убей 10 Жителей Рагни]
+§7[1/10] Citizens@§7[1/10] Житель
+§7[2/10] Citizens@§7[2/10] Жителя
+§7[3/10] Citizens@§7[3/10] Жителя
+§7[4/10] Citizens@§7[4/10] Жителя
+§7[5/10] Citizens@§7[5/10] Жителей
+§7[6/10] Citizens@§7[6/10] Жителей
+§7[7/10] Citizens@§7[7/10] Жителей
+§7[8/10] Citizens@§7[8/10] Жителей
+§7[9/10] Citizens@§7[9/10] Жителей
+§7[10/10] Citizens@§7[10/10] Жителей
+§7With so much of the active army dead, dying, and corrupted, Ragni fell within the day.@§7Поскольку большая часть действующей армии была умерла, мертва и заражена порчей, Рагни пал в течение одного дня.
+§7The King of Ragni sought help from Troms, the most secure fortress in the province. But help was too late.@§7Король Рагни обратился за помощью в Тромс, самую надежную крепость в провинции. Но помощь пришла слишком поздно.
+§7When the armies of Troms reached the once noble fort, it was corrupted ashes.@§7Когда войска Тромса достигли некогда благородной крепости, онп превратилась в пепел.
+§7After a villager took over, new laws were put in place. This was the spark Wynnexcavation needed to start their work.@§7После того, как житель взял власть в свои руки, были введены новые законы. Это была та искра, которая нужна была ВиннЭкскавейшен, чтобы начать свою работу.
+§7The humans didn't notice any difference after the new laws, but the company was in full force...@§7Люди не заметили никакой разницы после принятия новых законов, но компания заработала в полную силу...
+§7The roaring of the Corrupter of Worlds is audible from here. Has he noticed you?@§7Отсюда слышен рев Разрушителя Миров. Он тебя заметил?
+§7Maybe you can create a trail of emeralds and lure the villager back to the factory?@§7Может быть, тебе удастся создать путь из эмеральдов и заманить жителя обратно на фабрику?
+§7Maybe you can lure the villager by flirting?@§7Может быть, ты сможешь завлечь жителя флиртом?
+§7After the King of Rodoroc ordered the slums cave-in, another war broke out.@§7После того как Король Родорока приказал разрушить трущобы, началась другая война.
+§7But this time, it was between Dwarves and Dwarves... And yet again blood was spilled.@§7Но на этот раз она была между гномами и гномами... И снова пролилась кровь.
+§7[+1 Avo Totem]@§7[+1 Тотем Авосов]
 §7You need to catch Maxie before he reaches the war scene.
 §7Maxie never made it back to the war scene. The civil war advanced faster than anyone could have anticipated.
 §7The once peaceful Avos were forced to flee their home island, ravaged by machines and toxic scrap...
