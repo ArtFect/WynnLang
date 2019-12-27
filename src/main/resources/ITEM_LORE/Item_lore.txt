@@ -71,6 +71,8 @@
 §7- Refined Salmon Oil 2@§7- Переработанный Жир Лосося 2
 §7- Refined Salmon Oil 3@§7- Переработанный Жир Лосося 3
 §7- Refined Salmon Oil 1@§7- Переработанный Жир Лосося 1
+§7- Refined Salmon Meat 2@§7- Переработанное Мясо Лосося 2
+§7- Refined Salmon Meat 1@§7- Переработанное Мясо Лосося 1
 §7- Unprocessed Gudgeon@§7- Необработанный Пескарь
 §7- Refined Gudgeon Meat 1@§7- Переработанное Мясо Пескаря 1
 §7- Refined Gudgeon Meat 2@§7- Переработанное Мясо Пескаря 2
@@ -103,6 +105,10 @@
 §7- Refined Spruce Wood 2@§7- Переработанная Древесина Ели 2
 §7- Refined Jungle Wood 1@§7- Переработанная Древесина Амаранта 1
 §7- Refined Jungle Wood 2@§7- Переработанная Древесина Амаранта 2
+§7- Refined Spruce Paper 1@§7- Переработанная Еловая Бумага 1
+§7- Refined Piranha Oil 1@§7- Переработанный Жир Пираньи 1
+§7- Refined Carp Oil 3@§7- Переработанный Жир Карпа 3
+§7- Refined Piranha Oil 3@§7- Переработанный Жир Пираньи 3
 
 ##########################################################
 §7Currency@§7Валюта
@@ -346,6 +352,11 @@
 §8resource@§8ресурсов
 §8broken t11 tools need 18 scraps@§8сломанному У11 инструменту нужно 18 скрапа
 §8to repair@§8для починки
+§7This rock can probably be used as@§7Этот камень может быть использован как
+§7ammunition for the catapult.@§7аммуниция для катапульты
+§7The totem contains a lot of magical@§7Тотем содержит много магической
+§7nature energy. If released@§7энергии природы. Если ее выпустить, 
+§7unknown effects may occur.@§7могут возникнуть неизвестные эффекты.
 
 ############################Major ID##################################
 §3§b+Tempest: §3Arrow Storm fires@§3§b+Tempest: §3Шторм Стрел стреляет
@@ -559,27 +570,48 @@
 
 ################################????????################################
 §a✔ Lv. 1: §f1§7 Gudgeon Oil§f Ⓚ@§a✔ Ур. 1: §f1§7 Жир Пескаря§f Ⓚ
-          §f2§7 Wheat Grains§f Ⓙ@          §f2§7 Пшеничное Зерно§f Ⓙ
-§c✖ Lv. 10: §f2§7 Trout Oil§f Ⓚ@§c✖ Ур. 10: §f2§7 Жир Форели §f Ⓚ
-            §f4§7 Barley Grains§f Ⓙ@            §f4§7 Ячменное Зерно§f Ⓙ
+          §f2§7 Wheat Grains§f Ⓙ@          §f2§7 Пшеничного Зерна§f Ⓙ
+§c✖ Lv. 10: §f2§7 Trout Oil§f Ⓚ@§c✖ Ур. 10: §f2§7 Жира Форели §f Ⓚ
+            §f4§7 Barley Grains§f Ⓙ@            §f4§7 Ячменного Зерна§f Ⓙ
 §a✔ Lv. 1: §f1§7 Copper Ingot§f Ⓑ@§a✔ Ур. 1: §f1§7 Слиток Меди§f Ⓑ
-          §f2§7 Oak Wood§f Ⓒ@          §f2§7 Древесина Дуба§f Ⓒ
-§c✖ Lv. 10: §f2§7 Granite Ingot§f Ⓑ@§c✖ Ур. 10: §f2§7 Гранитный Слиток§f Ⓑ
-            §f4§7 Birch Wood§f Ⓒ@            §f4§7 Древесина Березы§f Ⓒ
-§a✔ Lv. 1: §f2§7 Copper Ingot§f Ⓑ@§a✔ Ур. 1: §f2§7 Слиток Меди§f Ⓑ
+          §f2§7 Oak Wood§f Ⓒ@          §f2§7 Древесины Дуба§f Ⓒ
+§c✖ Lv. 10: §f2§7 Granite Ingot§f Ⓑ@§c✖ Ур. 10: §f2§7 Гранитных Слитка§f Ⓑ
+            §f4§7 Birch Wood§f Ⓒ@            §f4§7 Древесины Березы§f Ⓒ
+§a✔ Lv. 1: §f2§7 Copper Ingot§f Ⓑ@§a✔ Ур. 1: §f2§7 Слитка Меди§f Ⓑ
           §f1§7 Oak Wood§f Ⓒ@          §f1§7 Древесина Дуба§f Ⓒ
-§c✖ Lv. 10: §f4§7 Granite Ingot§f Ⓑ@§c✖ Ур. 10: §f4§7 Гранитный Слиток§f Ⓑ
-            §f2§7 Birch Wood§f Ⓒ@            §f2§7 Древесина Березы§f Ⓒ
-          §f2§7 Oak Paper§f Ⓒ@          §f2§7 Дубовая Бумага§f Ⓒ
-            §f4§7 Birch Paper§f Ⓒ@            §f4§7 Березовая Бумага§f Ⓒ
+§c✖ Lv. 10: §f4§7 Granite Ingot§f Ⓑ@§c✖ Ур. 10: §f4§7 Гранитных Слитка§f Ⓑ
+            §f2§7 Birch Wood§f Ⓒ@            §f2§7 Древесины Березы§f Ⓒ
+          §f2§7 Oak Paper§f Ⓒ@          §f2§7 Дубовые Бумаги§f Ⓒ
+            §f4§7 Birch Paper§f Ⓒ@            §f4§7 Березовой Бумаги§f Ⓒ
           §f1§7 Oak Paper§f Ⓒ@          §f1§7 Дубовая Бумага§f Ⓒ
-            §f2§7 Birch Paper§f Ⓒ@            §f2§7 Березовая Бумага§f Ⓒ
-§a✔ Lv. 1: §f2§7 Wheat String§f Ⓙ@§a✔ Ур. 1: §f2§7 Пшеничная Нить§f Ⓙ
-§c✖ Lv. 10: §f4§7 Barley String§f Ⓙ@§c✖ Ур. 10: §f4§7 Ячменная Нить§f Ⓙ
+            §f2§7 Birch Paper§f Ⓒ@            §f2§7 Березовых Бумаги§f Ⓒ
+§a✔ Lv. 1: §f2§7 Wheat String§f Ⓙ@§a✔ Ур. 1: §f2§7 Пшеничных Нити§f Ⓙ
+§c✖ Lv. 10: §f4§7 Barley String§f Ⓙ@§c✖ Ур. 10: §f4§7 Ячменных Нити§f Ⓙ
 §a✔ Lv. 1: §f1§7 Wheat String§f Ⓙ@§a✔ Ур. 1: §f1§7 Пшеничная Нить§f Ⓙ
-§c✖ Lv. 10: §f2§7 Barley String§f Ⓙ@§c✖ Ур. 10: §f2§7 Ячменная Нить§f Ⓙ
-§a✔ Lv. 1: §f2§7 Gudgeon Oil§f Ⓚ@§a✔ Ур. 1: §f2§7 Жир Пескаря§f Ⓚ
-§c✖ Lv. 10: §f4§7 Trout Oil§f Ⓚ@§c✖ Ур. 10: §f4§7 Жир Форели§f Ⓚ
+§c✖ Lv. 10: §f2§7 Barley String§f Ⓙ@§c✖ Ур. 10: §f2§7 Ячменных Нити§f Ⓙ
+§a✔ Lv. 1: §f2§7 Gudgeon Oil§f Ⓚ@§a✔ Ур. 1: §f2§7 Жира Пескаря§f Ⓚ
+§c✖ Lv. 10: §f4§7 Trout Oil§f Ⓚ@§c✖ Ур. 10: §f4§7 Жира Форели§f Ⓚ
+            §f4§7 Barley String§f Ⓙ@            §f4§7 Ячменных Нити§f Ⓙ
+§a✔ Lv. 20: §f4§7 Salmon Meat§f Ⓚ@§a✔ Ур. 20: §f4§7 Мяса Лосося§f Ⓚ
+§a✔ Lv. 20: §f2§7 Salmon Oil§f Ⓚ@§a✔ Ур. 20: §f2§7 Жира Лосося§f Ⓚ
+§c✖ Lv. 30: §f6§7 Carp Meat§f Ⓚ@§c✖ Ур. 30: §f6§7 Мяса Карпа§f Ⓚ
+§a✔ Lv. 30: §f3§7 Carp Oil§f Ⓚ@§a✔ Ур. 30: §f3§7 Жира Карпа§f Ⓚ
+            §f3§7 Malt Grains§f Ⓙ@            §f3§7 Солодового Зерна§f Ⓙ
+            §f6§7 Malt Grains§f Ⓙ@            §f6§7 Солодового Зерна§f Ⓙ	
+§a✔ Lv. 30: §f3§7 Sandstone Gem§f Ⓑ@§a✔ Ур. 30: §f3§7 Песчаных Камня§f Ⓑ
+§c✖ Lv. 40: §f3§7 Iron Gem§f Ⓑ@§c✖ Ур. 40: §f3§7 Железных Камня§f Ⓑ
+§a✔ Lv. 40: §f3§7 Iron Gem§f Ⓑ@§a✔ Ур. 40: §f3§7 Железных Камня§f Ⓑ
+            §f3§7 Icefish Oil§f Ⓚ@            §f3§7 Жира Щуки§f Ⓚ
+            §f6§7 Icefish Oil§f Ⓚ@            §f6§7 Жира Щуки§f Ⓚ
+            §f9§7 Icefish Oil§f Ⓚ@            §f9§7 Жира Щуки§f Ⓚ
+§c✖ Lv. 40: §f3§7 Icefish Oil§f Ⓚ@§c✖ Ур. 40: §f3§7 Жира Щуки§f Ⓚ			
+            §f6§7 Spruce Paper§f Ⓒ@            §f6§7 Еловой Бумаги§f Ⓒ
+            §f3§7 Spruce Paper§f Ⓒ@            §f3§7 Еловой Бумаги§f Ⓒ
+            §f6§7 Hops Grains§f Ⓙ@            §f6§7 Хмельного Зерна§f Ⓙ
+§c✖ Lv. 50: §f4§7 Silver Gem§f Ⓑ@§c✖ Ур. 50: §f4§7 Серебрянного Камня§f Ⓑ
+            §f4§7 Piranha Oil§f Ⓚ@            §f4§7 Жира Пираньи§f Ⓚ
+            §f8§7 Piranha Oil§f Ⓚ@            §f8§7 Жира Пираньи§f Ⓚ
+            §f12§7 Piranha Oil§f Ⓚ@            §f12§7 Жира Пираньи§f Ⓚ
 
 #############################Порошки#############################
 §8Adding 2 powders of tier 4-6@§8Добавление 2 порошков уровня 4-6
@@ -1016,6 +1048,17 @@
 §6 - §c✖ §44 Golden Teeth@§6 - §c✖ §44 Золотой Зуб
 §6 - §c✖ §43 Golden Teeth@§6 - §c✖ §43 Золотой Зуб
 §6 - §c✖ §42 Golden Teeth@§6 - §c✖ §42 Золотой Зуб
+--------------------------------------------------------
+§6 - §c✖ §41 Siegfried's Sword@§6 - §c✖ §41 Меч Зигфрида
+§6 - §c✖ §41 Siegfried Diary Collection@§6 - §c✖ §41 Коллекция Дневников Зигфрида
+§6 - §c✖ §41 Siegfried Mug@§6 - §c✖ §41 Кружка Зигфрида
+§6 - §c✖ §42 The Eye's Pupil@§6 - §c✖ §42 Зрачка Глаза
+§6 - §a✔ §21 Corrupted Soul Token@§6 - §a✔ §21 Жетон Испорченной Еды
+§6 - §c✖ §41 Corrupted Charon's Brain@§6 - §c✖ §41 Испорченный Мозг Харона
+§6 - §c✖ §42 Corrupted Charon's Brain@§6 - §c✖ §42 Испорченных Мозга Харона
+§6 - §a✔ §22 Theorick's Ice Shard@§6 - §a✔ §22 Осколка Льда Теорика
+§6 - §a✔ §26 Corrupted Slykaar's Heart@§6 - §a✔ §26 Испорченных Сердец Слайкаара
+§6 - §c✖ §41 Corrupted Slykaar's Heart@§6 - §c✖ §41 Испорченное Сердце Слайкаара
 
 #######################Класс и заклинания###################
 §eCharacter Info:@§eИнфо о персонаже:
@@ -1108,9 +1151,13 @@
 §6- §fTotem§7 [Lv. 1]@§6- §fТотем§7 [Ур. 1]
 §6- §fSky Emblem§7 [Lv. 1]@§6- §fНебесная Эмблема§7 [Ур. 1]
 §6- §7Soar§8 [Lv. 11]@§6- §7Взлет§8 [Ур. 11]
+§6- §fSoar§7 [Lv. 11]@§6- §fВзлет§7 [Ур. 11]
 §5- §7Soar Spell §8[Lv. 11]@§5- §7Взлет Заклинание §8[Ур. 11]
 §6- §7Wind Surge§8 [Lv. 21]@§6- §7Порыв Ветра§8 [Ур. 21]
+§6- §fWind Surge§7 [Lv. 21]@§6- §fПорыв Ветра§7 [Ур. 21]
+§5- §7Wind Surge Spell §8[Lv. 21]@§5- §7Порыв Ветра Заклинание §8[Ур. 21]
 §6- §7Gale Funnel§8 [Lv. 31]@§6- §7Воронка Бури§8 [Ур. 31]
+§5- §7Gale Funnel Spell §8[Lv. 31]@§5- §7Воронка Бури Заклинание §8[Ур. 31]
 §5Next Upgrade:@§5Следующий Апгрейд:
 §5- §7Spin Attack Upgrade II §8[Lv. 16]@§5- §7Круговая Атака Апгрейд II §8[Ур. 16]
 §5- §7Spin Attack Upgrade III §8[Lv. 36]@§5- §7Круговая Атака Апгрейд III §8[Ур. 36]
@@ -1164,6 +1211,8 @@
 §5- §7Haul Upgrade II §8[Lv. 26]@§5- §7Бросок Апгрейд II §8[Ур. 26]
 §5- §7Totem Upgrade II §8[Lv. 16]@§5- §7Тотем Апгрейд II §8[Ур. 16]
 §5- §7Crystal Reptile Upgrade III §8[Lv. 66]@§5- §7Кристальная Рептилия Апгрейд III §8[Ур. 66]
+§5- §7Sky Emblem Upgrade II §8[Lv. 16]@§5- §7Небесная Эмблема Апгрейд II §8[Ур. 16]
+§5- §7Soar Upgrade II §8[Lv. 26]@§5- §7Взлет Апгрейд II §8[Ур. 26]
 §5- §7None@§5- §7Нет
 §4[Right-Click to Delete]@§4[Правый Клик для Удаления]
 §cYou need to have the@§cТебе нужно иметь
@@ -1302,6 +1351,8 @@
 §5Mythic Item [6]@§5Мифический Предмет [6]
 §cUntradable Item@§cНепродаваемый Предмет
 §cUntradable item@§cНепродаваемый предмет
+§cUntradeable@§cНепродаваемый
+§cUntrabable Item@§cНепродаваемый Предмет
 §8Crafting Ingredient@§8Ингредиент для крафта
 §fNormal Item@§fОбычный Предмет
 §3Gathering Tool@§3Инструмент для Сбора
@@ -1469,6 +1520,7 @@
 §7Teleports to: Rodoroc@§7Телепортирует в: Родорок
 §7Teleports to: Selchar@§7Телепорт в: Сельчар
 §7Teleports to: Llevigar@§7Телепорт в: Ллевигар
+§7Teleports to: Ahmsord@§7Телепорт в: Амсорд
 §3- §7Teleports to: §fSelchar@§3- §7Телепорт в: §fСельчар
 §3- §7Teleports to: §fRagni@§3- §7Телепорт в: §fРагни
 §3- §7Teleports to: §fDetlas@§3- §7Телепорт в: §fДетлас
@@ -1939,6 +1991,7 @@
 §7Class: §fWarrior@§7Класс: §fВоин
 §7Class: §fNinja@§7Класс: §fНиндзя
 §7Class: §fShaman@§7Класс: §fШаман
+§7Class: §fSkyseer@§7Класс: §fПровидец
 §7Can gather Unprocessed Fish@§7Можно собирать Необработанную Рыбу
 §7Can gather Unprocessed Logs@§7Можно собирать Необработанные Бревна 
 §7Can gather Unprocessed Ores@§7Можно собирать Необработанные Руды
@@ -2297,6 +2350,7 @@
 §7angel wings@§7крылья ангела
 §7phoenix wings@§7крылья феникса
 §7fairy wings@§7крылья феи
+§7the Lake Gylia effect@§7Эффект Озера Гилия
 
 #########################продажа блексмиту##########################
 §e- §eUnidentified Spear@§e- §eНеидентифицированное Копье
@@ -2373,6 +2427,7 @@
 §7- §aUnidentified Boots@§7- §aНеидентифицированные Ботинки
 §7- §dUnidentified Boots@§7- §dНеидентифицированные Ботинки
 §7- §bUnidentified Boots@§7- §bНеидентифицированные Ботинки
+§e- §cUnidentified Boots@§e- §cНеидентифицированные Ботинки
 §e- §dUnidentified Bracelet@§e- §dНеидентифицированный Браслет
 §7- §dUnidentified Bracelet@§7- §dНеидентифицированный Браслет
 §e- §aUnidentified Bracelet@§e- §aНеидентифицированный Браслет
