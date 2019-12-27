@@ -2926,3 +2926,174 @@
 §7⒤⒮ §b⒩⒪⒭⒯⒣ ⒪⒡ ⒯⒣⒠ ⒨⒜⒩⒮⒤⒪⒩. §7⒯⒣⒤⒮ ⒤⒮ ⒧⒤⒦⒠⒧⒴@§7⒤⒮ §b⒩⒪⒭⒯⒣ ⒪⒡ ⒯⒣⒠ ⒨⒜⒩⒮⒤⒪⒩. §7⒯⒣⒤⒮ ⒤⒮ ⒧⒤⒦⒠⒧⒴§d(к северу от поместья. Похоже это наши )
 §7⒪⒰⒭ ⒧⒜⒮⒯ ⒨⒪⒨⒠⒩⒯, ⒝⒰⒯ ⒤⒯ ⒟⒪⒠⒮⒩’⒯ ⒣⒜⒱⒠ ⒯⒪ ⒝⒠ ⒴⒪⒰⒭⒮.@§7⒪⒰⒭ ⒧⒜⒮⒯ ⒨⒪⒨⒠⒩⒯, ⒝⒰⒯ ⒤⒯ ⒟⒪⒠⒮⒩’⒯ ⒣⒜⒱⒠ ⒯⒪ ⒝⒠ ⒴⒪⒰⒭⒮.§d(последние минуты, но это не обязательно должны быть твои.)
 §7§a+1§7 Main Attack Neutral Damage@§7§a+1§7 Нейтрального Урона Основной Атаки
+
+§8§8"With the corruption seemingly@§8"Поскольку порча, казалось бы, 
+§8tied to the emeralds dug@§8была связана с эмеральдами, 
+§8by the Roots, people thought@§8вырытыми около корней, люди 
+§8gold was the next best thing,@§8думали, что копать золото будет хорошей 
+§8the idiots." -Gerald, Retired@§8идеей, идиоты." - Гералд, Шахтер
+§8Miner@§8в отставке
+§8§8"My dear boy should never@§8"Мой дорогой мальчик никогда 
+§8have to go through the horrors@§8не должен пройти через эти ужасы
+§8of losing a mother like@§8потери матери как
+§8that." -Momo, adoptive mother@§8это." -Момо, приемная мать
+§8of Bob@§8Боба
+§8§8"I bet those sewer-dwellers@§8"Держу пари, что у этих канализационных 
+§8have horrible morning breath."@§8обитателей ужасное утреннее дыхание."
+§8-Folzoy, Maltic Escort@§8-Фолзой, Охранник Малтика
+§8§8"The first time I saw@§8"В первый рз, когда я увидел
+§8one of those zombies I nearly@§8одного из этих зомби, я чуть
+§8had a heart attack! The@§8не получил инфаркт! 
+§8blighters are terrifying."@§8Мертвецы просто ужасны."
+§8-Rynend, Maltic Citizen@§8-Риненд, Житель Малтика
+§8§8"Never wish to see a dead@§8"Никогда больше не желаю видеть 
+§8loved one again. In this@§8мертвого любимого человека. 
+§8day and age, they'll come@§8В этот день и век они вернутся, 
+§8back to see you." -Mylo,@§8чтобы увидеть тебя." -Майло,
+§8Nemract Conscript@§8Призывник Немракта
+§8§8"I got a name, known far@§8"У меня есть имя, известное 
+§8and wide! Run along, you@§8повсюду! Беги, бандитская сволочь, 
+§8bandit scum, before you@§8пока тебе не пришлось 
+§8have to learn it the hard@§8учиться этому на собственном 
+§8way!" -Sayleros' Brother,@§8горьком опыте!" -Брат Сайлероса,
+§8killed by bandits@§8убитый бандитами
+§8§8"The skeletons at Ancient@§8"Скелеты в Древнем
+§8Nemract are rotted! is it@§8Немракте сгнили! это
+§8even physically possible@§8вообще физически возможно,
+§8to rot a bone?" -Laen, Nemract@§8чтобы кости гнили?" -Лаен, Библиотекарь
+§8Librarian@§8Немракта
+§8§8"We get a lot of weirdos@§8"У нас бывает много чудаков
+§8coming from Gavel by airship.@§8прилетающих из Гавела на дирижабле.
+§8That plate mail looked unusably@§8Эта пластинчатая кольчуга выглядела 
+§8ornate!" -Calo, Private@§8непригодно вычурной!" -Кало, Рядовой
+§8Airship Operator@§8Оператор Дирижабля
+§8§8"Leave us down here to@§8"Почему бы вам всем не оставить 
+§8die, why don't you all.@§8нас здесь умирать? Просто 
+§8Just turn us into another@§8превратите нас в очередную статистику 
+§8statistic and be done, huh?"@§8и покончим с этим, а?"
+§8-Ragamal, Nemract Sewer@§8-Рагамал, Обитатель Канализации
+§8Dweller@§8Немракта
+§8§8"The gravestone for the@§8"Надгробие для брата этого 
+§8brother of that man, Sayleros?@§8человека, Сайлероса? По 
+§8For whatever reason, it@§8какой-то причине на 
+§8didn't have a proper name@§8нем не было настоящего 
+§8on it." -Sacre, Saint's@§8имени." -Сакре, Священник
+§8Row Priest@§8Saint's Row
+§8§8"We'll ensure that under@§8"Мы позаботимся о том, чтобы 
+§8our watch, all your families@§8под нашим присмотром все ваши 
+§8will be reunited!" -Haros,@§8семьи воссоединились!" -Харос,
+§8of the Banished Legion@§8из Изгнанного Легиона
+§8§8"The dead can still hear.@§8"Мертвые все еще могут слышать. 
+§8I figure a lullaby might@§8Я думаю, что колыбельная может 
+§8help convince them to sleep@§8помочь убедить их поспать немного 
+§8a bit longer." -Merloni,@§8дольше." -Мерлони,
+§8Saint's Row Priest@§8Священник Saint's Row
+§8§8"Can anyone else understand@§8"Кто-то может понять этого
+§8that General Graken? Because@§8Генерала Гракена? Потому что
+§8I can't." -Commander Takan,@§8я не могу" -Командир Такан,
+§8Nemract Militia@§8Милиция Немракта
+§8§8"Those bloody zombies@§8"Эти чертовы зомби не бегают 
+§8don't kip down at night,@§8по ночам, что заставляет 
+§8what makes you think a curfew@§8вас думать, что комендантский 
+§8might bally-well help?"@§8час может здорово помочь?"
+§8-General Graken, Nemract@§8-Генерал Гракен, Немракт
+§8Militia@§8Милиция
+§8§8"As much as they're terrifying,@§8"Как бы они ни были ужасны, 
+§8at least those lousy skeletons@§8по крайней мере эти паршивые скелеты 
+§8give us lots of bonemeal@§8дают нам много костной муки 
+§8for the crops!" -Bylvis,@§8для урожая!" -Билвис,
+§8Katoa Ranch Farmer@§8Фермер ранчо Катоа
+§8§8"Catch a fresh-raised@§8"Поймать свежего 
+§8corrupted, it's like catching@§8испорченного - это все 
+§8a soldier without his morning@§8равно что поймать солдата 
+§8coffee. Stumbly and unfocused."@§8без утреннего кофе."
+§8-Enzan, Retired Ragni Soldier@§8-Энзан, Рагни солдат в отставке
+§8§8"There's never new water@§8"В эти канализационные трубы 
+§8flowing into those sewers.@§8никогда не течет новая вода. 
+§8It all cycles back into@§8Все это циклически возвращается в
+§8itself...not natural." -Jenprest,@§8себя...не естественно." -Дженпрест
+§8Ragni Legion 2nd Division@§8Рагни Легион 2-я дивизия
+§8§8"Even a corrupted would@§8"Даже испорченный был бы 
+§8get crushed by one of these!"@§8раздавлен одним из них!"
+§8-Roche 'Stone-thrower' Diamant,@§8Роче 'камне-метатель' Диамант,
+§8Ragni Citizen@§8Рагни Житель
+§8§8"I thought aiming for@§8"Я думал, что прицеливание в ноги 
+§8the legs would disable the@§8выведет противника из 
+§8enemy. Turns out they can@§8строя. Оказывается, они могут 
+§8drag themselves with their@§8тащить себя на руках так 
+§8arms just as quick." -Therck,@§8же быстро." -Терк,
+§8Ragni Soldier 3rd Division@§8Рагни Солдат 3-я дивизия
+§8§8"...as intimidating as@§8"...как бы устрашающе ни звучало 
+§8the name sounds, you want@§8это имя, вы хотите, чтобы 
+§8your organs to be trapped@§8ваши органы оказались запертыми 
+§8in this kind of cage." -Exceprt@§8в такой клетке." -Эксперт
+§8from Human Anatomy For Fools,@§8из Человеческой Анатомии для Дураков,
+§8Cirh Nettan@§8Кир Неттан
+§8§8"You should see when the@§8"Вы бы видели, как пауки 
+§8spiders fight over a meal.@§8дерутся за еду. Это 
+§8It looks ridiculous, legs@§8выглядит нелепо, ноги 
+§8flailing everywhere!" -Captain@§8болтаются повсюду!" -Капитан
+§8Enduyn, Ragni Legion 1st@§8Эндуин, Рагни Легион 1-я
+§8Division@§8дивизия
+§8§8"Crawly things. They crawl@§8"Ползучие твари. Они 
+§8on the mushrooms. Mushrooms@§8ползают по грибам. Грибы не 
+§8shouldn't be crawly!" -Yahya,@§8должны быть ползучими!" -Яхуя,
+§8Mushroom Man@§8Грибной Человек
+§8§8"I swear on my life those@§8"Клянусь своей жизнью, эти 
+§8spiders were covered in@§8пауки были покрыты 
+§8spikes! Go out there, see@§8шипами! Иди туда, посмотри, не 
+§8if I'm wrong!" -Suri, Elemental@§8ошибаюсь ли я!" -Сури, Элементов
+§8Researcher@§8Исследователь
+§8§8"I am not making this@§8"Я ничего не выдумываю!
+§8up! That spider teleported@§8Этот паук телепортировался
+§8ONTO MY FACE!" -Stiba, Elemental@§8ПРЯМО МНЕ В ЛИЦО! -Стиба, Элементов
+§8§8"Not every spider is venomous,@§8"Не каждый паук ядовит, 
+§8but do you really want to@§8но вы действительно хотите 
+§8get bitten by them all to@§8быть укушенным ими всеми, чтобы 
+§8figure out which are?" -Alvin,@§8выяснить, какие из них?" -Алвин,
+§8Nivla Forest Resident@§8Житель Нивла Леса
+§8§8"And you thought walking@§8"А ты думал, что идти 
+§8into a cobweb was bad."@§8в паутину - это плохо."
+§8-Ope, Ragni Botanist@§8-Опе, Рагни Ботаник
+§8§8"If you squish a spider@§8"Если вы раздавите яйцо паука, 
+§8egg, sometimes little spiders@§8иногда маленькие пауки выскакивают. 
+§8pop out. So, squish the@§8Так что вместо этого раздавите 
+§8whole area instead!" -Captain@§8всю территорию!" -Капитан
+§8Fenor, Detlas Legion@§8Фенор, Детлас Легион
+§8§8"I just need a little@§8"Мне просто нужно немного больше 
+§8more spider silk to finish@§8паучьего шелка, чтобы закончить 
+§8this vest!" -Lacrona, Detlas@§8этот жилет!" -Лакрона, Детлас
+§8Tailor, found eaten by Nivla@§8Швея, найденная съеденной Нивла
+§8spiders@§8пауками
+§8§8"After the Nivla forest@§8"После лесного пожара в Нивла 
+§8fire, I'm glad the corrupteds@§8я рад, что испорченные 
+§8haven't thought to try and@§8не додумались сжечь 
+§8burn the Detlas Suburbs."@§8пригороды Детласа."
+§8-Sergeant Klafson, Detlas@§8-Сержант Клафсон, Детлас
+§8Legion@§8Легион
+§8§8"With the hot, dry winds@§8"С горячими, сухими ветрами из 
+§8from the Roots and the cold,@§8корней и холодными, влажными 
+§8wet winds from Nesaak, these@§8ветрами из Несаака, эти 
+§8houses rot faster than you@§8дома гниют быстрее, чем вы 
+§8can blink." -Viraex, Elkurn@§8можете моргнуть." -Вираекс, Элкурн
+§8Citizen@§8Житель
+§8§8"Time travel cares less@§8"Путешествие во времени меньше 
+§8about small things like@§8заботится о таких мелочах, 
+§8a flapping wing, and more@§8как хлопанье крыльев, и больше 
+§8about big things, like becoming@§8о больших вещах, таких как стать 
+§8your own grandfather." -Martyn,@§8своим собственным дедушкой." -Мартин,
+§8Time Valley Resident@§8Житель Долины Времени
+§8§8"They say the eyes are@§8"Они говорят, что глаза - это 
+§8the windows to the soul.@§8окно в душу. Это смешно, 
+§8That's ridiculous, ocular@§8ведь глазные жидкости в основном 
+§8fluids are primarily opaque."@§8непрозрачны."
+§8-Ragon, Elemental Researcher@§8-Рагон, Исследователь Элементов
+§8§8"Strangest thing, it turns@§8"Самое странное, оказывается, что 
+§8out Creepers are incredibly@§8криперы невероятно 
+§8flammable..." -Garull, Cryptid@§8огнеопасны..." -Гарулл, Криптид
+§8§8"Some pigmen snuffle through@§8"Некоторые пигмены шмыгают носом 
+§8dirt for things to eat.@§8по грязи в поисках еды. Мы 
+§8We dig up that soil to plant@§8выкапываем эту почву, чтобы 
+§8our crops in; it's always@§8посадить в нее наши посевы; 
+§8full of life." -Thomas,@§8она всегда полна жизни." -Томас,
+§8Ravine Village Resident@§8Житель Деревни Оврага
