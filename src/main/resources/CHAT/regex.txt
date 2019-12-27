@@ -205,6 +205,9 @@
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeaven Jolt spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Небесный Удар
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dDagger Aura spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Кинжальная Аура
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dShadow Clone spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Теневой Клон
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Взлет
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWind Surge spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Порыв Ветра
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dGale Funnel spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Воронка Бури
 §4You need a §fⒷ§c Mining§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒷ§c Добычи Руды§4, чтобы собрать этот ресурс!
 §4You need a §fⒿ§c Farming§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒿ§c Земледелия§4, чтобы собрать этот ресурс!
 §4You need a §fⒸ§c Woodcutting§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒸ§c Лесорубства§4, чтобы собрать этот ресурс!
@@ -229,6 +232,9 @@
 §5Only §d(\d+) more level(|s) §5until you can gather from §dIcefish@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЩуку
 §5Only §d(\d+) more level(|s) §5until you can gather from §dMillet@§5Еще §d(r1) уровня §5и ты сможешь собирать §dПросо
 §5Only §d(\d+) more level(|s) §5until you can gather from §dPiranha@§5Еще §d(r1) уровня §5и ты сможешь собирать §dПиранью
+§5Only §d(\d+) more level(|s) §5until you can gather from §dCobalt@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКобальт
+§5Only §d(\d+) more level(|s) §5until you can gather from §dLight@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКлен
+§5Only §d(\d+) more level(|s) §5until you can gather from §dDark@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКаштан
 §5Only §d(\d+) more level(|s) §5until you can use the §dⒷ Gathering Pickaxe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒷ Сборную Кирку У(r3)
 §5Only §d(\d+) more level(|s) §5until you can use the §dⒸ Gathering Axe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒸ Сборный Топор У(r3)
 §5Only §d(\d+) more level(|s) §5until you can use the §dⓀ Gathering Rod T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⓀ Сборную Удочку У(r3)
@@ -266,6 +272,8 @@
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpider Jump upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Прыжка Паука 
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Прыжка 
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dBlink upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ослепления
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSky Emblem upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Небесной Эмблемы
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Взлета
 §b(.*)§3 has disguised as a §bzombie§3!@§b(r1)§3 замаскировался под §bзомби§3!
 §b(.*)§3 has disguised as a §bsheep§3!@§b(r1)§3 замаскировался под §bовцу§3!
 §b(.*)§3 has disguised as a §bspider§3!@§b(r1)§3 замаскировался под §bпаука§3!
@@ -295,6 +303,9 @@
 §dYou have sold §7(\d+)§d ingredients for a total of §a(.*)§d.@§dТы продал §7(r1)§d ингредиентов на сумму в §a(r2)§d.
 §4You need to be §cMining Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Добычи Руд§4 для старта этого мини-квеста
 §7Are you sure you want to shout (.*)@§7Уверен, что хочешь отправить (r1)
+§(e|5)That player is not playing on your world (.*)!@§(r1)Этот игрок не играет в твоем мире (r2)!
+§e(.*) has been added to your ignore list!@§e(r1) был добавлен в твой игнор лист!
+§dFailed to §5buy (.*), because the trade was already completed.@§dНе удалось §5купить (r1), потому что торговля была завершена.
 
 ====================Playername====================
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
@@ -424,3 +435,6 @@
 §7\[1\/2\] §2Teacher: §aDear §alord...that§a was awful. (.*), I can't believe you were able to kill that thing!@§7[1/2] §2Учитель: §aО боже...это было ужасно. (r1), я не могу поверить, что ты смог убить эту тварь!
 §7\[2\/2\] §2Axelus: §a(.*)! I didn't think you'd be back, but we need to leave, now! Meet me outside!@§7[2/2] §2Axelus: §a(r1)! Я не думал, что ты вернешься, но нам нужно уходить, сейчас же! Встретимся на улице!
 §7\[1\/3\] §2Axelus: §a(.*)! Over here, to the right! By the cannon! I'm commandeering this thing.@§7[1/3] §2Axelus: §a(r1)! Сюда, направо! Вот это пушка! Я реквизирую эту штуку.
+
+
+§7\[3\/4\] §2Employee: §aYes sir, everything went smoothly, (.*) did a great thing for the company.@§7[3/4] §2Служащий: §aДа сэр, все прошло гладко, (r1) сделал великое дело для компании.
