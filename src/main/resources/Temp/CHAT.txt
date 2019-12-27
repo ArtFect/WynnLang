@@ -94,60 +94,60 @@
 §cYour inventory is too full for anymore items...@§cТвой инвентарь полностью заполнен...
 §7+ Faster Gathering §8[Silver]@§7+ Более быстрая добыча §8[Серебро]
 §7+ Faster Gathering §8[Dark]@§7+ Более быстрая добыча §8[Каштан]
+§7+ Faster Gathering §8[Pine]@§7+ Более быстрая добыча §8[Сосна]
+§7+ Faster Gathering §8[Piranha]@§7+ Более быстрая добыча §8[Пиранья]
 §7+ Higher Refining Success §8[Unprocessed Silver Ore]@§7+ Шанс на успех при переработке §8[Необработанная Серебрянная Руда]
 §7+ Higher Refining Success §8[Unprocessed Dark Log]@§7+ Шанс на успех при переработке §8[Необработанная Древесина Каштана]
+§7+ Higher Refining Success §8[Unprocessed Pine Log]@§7+ Шанс на успех при переработке §8[Необработанная Древесина Сосны]
+§7+ Higher Refining Success §8[Unprocessed Piranha]@§7+ Шанс на успех при переработке §8[Необработанная Пиранья]
 §3[§3WAR]§c §cThey will be there in 1 minute and 30 seconds.@§3[§3WAR]§c §cОни будут там через 1 минуту и 30 секунд.
 §cYou may not drink this potion whilst selling it!@§cТы не можешь пить это зелье, продавая его!
-§7You finished the §bLegendary Challenge§7 at §6Bronze Tier§7!
-§6   +1 Bronze Token
-§a- §7Soar will pull yourself towards your active totem
-§7+ Faster Gathering §8[Pine]
-§7+ Higher Refining Success §8[Unprocessed Pine Log]
-§7The wolves lick their chops... perhaps some food could be found nearby...
-§7+ Faster Gathering §8[Piranha]
-§7+ Higher Refining Success §8[Unprocessed Piranha]
-§c                            Slay Lv. 10+ Mobs
-§4You can only spawn the Reindeer inside of towns.
-§b - §7Grumpy Old Man Pet
+§7You finished the §bLegendary Challenge§7 at §6Bronze Tier§7!@§7Ты закончил §6Бронзовый Уровень §bЛегендарного Челленджа§7!
+§6   +1 Bronze Token@§6   +1 Бронзовый Жетон
+§a- §7Soar will pull yourself towards your active totem@§a- §7Взлет будет тянуть тебя к твоему активному тотему
+§7The wolves lick their chops... perhaps some food could be found nearby...@§7Волки обгладали его кости... возможно, поблизости можно было бы найти какую-нибудь еду...
+§c                            Slay Lv. 10+ Mobs@§c                            Убей Ур. 10+ Мобов
+§4You can only spawn the Reindeer inside of towns.@§4Ты можешь заспавнить оленя только внутри города.
+§b - §7Grumpy Old Man Pet@§b - §7Питомец Старик
 
-§7Find [2 Eggs], [1 Bucket of Milk] and [3 Wheat Grains] for the Cook
-§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 1/7
-§7Return to Seasum with the letter.
-§7Find the magical school boat at [893,37,-2777]
-§7Follow the children to the school.
-§7Talk to Cidre on the school island.
-§7Buy a wand and a magical book from the nearby shops and enter Grookwarts.
-§7Choose your schedule and attend your classes.
-§7Tell Damiral where the treasure is hidden
-§7Clue IV: Beneath the cowl of an eastern titan, keeping watch over our heads
-§7Enter Caritat Mansion
-§7Enter the library of Caritat Mansion
-§7Find the mushroom Likeru is looking for
-§7Investigate the giant blue mushroom
-§7Find a way to escape the cave
-§7Find a way to escape the strange temple
-§7Escape the wrath of Yahya
-§7Talk to Elder Berusia
-§7Talk to Likeru
-§7Find the Arch in the Light Forest at [-1038,44,-4447]
-§7Talk to Sasha about her debt
-§7Find Talos in the crypt
-§7Kill the hellhound and free Talos
-§7Kill Naragath and give the [Eye of Blood] to Harker
-§7Return to the Document Merchant with the [Secret Documents]
-§7Follow the trail of corruption
-§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 4/7
-§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 5/7
-§7Leave the Secret Gerten Cave
-§7Attend the welcoming dinner at Grookwarts.
-§7Finish school for the day.
-§7Climb the sunflower in the seventh room of Togak's dungeon
-§7Speak with Togak once more
-§7Find the representative’s office in the airship base [-238,120,-4967] 
-§7Return to General Lecade with the Good-Luck Charm
-§7Begin the Fifth Floor
-§7Bring back [3 Brown Mushrooms] and [3 Red Mushrooms] to Yahya
-§7Discover your own past.
+§7Find [2 Eggs], [1 Bucket of Milk] and [3 Wheat Grains] for the Cook@§7Найди [2 Яйца], [1 Ведро Молока] и [3 Пшеничного Зерна] для Повара
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 1/7@§7Очисти тела на лодке. Поищи подсказки о том как сбежать в это же время. -Тел очищено: 1/7
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 4/7@§7Очисти тела на лодке. Поищи подсказки о том как сбежать в это же время. -Тел очищено: 4/7
+§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 5/7@§7Ты заметил, что пушку можно ипользовать для побега. Очисти тела и посмотри, что скажет Хонип! -Тел очищено: 5/7
+§7Return to Seasum with the letter.@§7Вернись к Сеасуму с письмом.
+§7Find the magical school boat at [893,37,-2777]@§7Найди магическую школьную лодку на [893,37,-2777]
+§7Follow the children to the school.@§7Следуй за детьми в школу.
+§7Talk to Cidre on the school island.@§7Поговори с Кидре на школьном острове.
+§7Buy a wand and a magical book from the nearby shops and enter Grookwarts.@§7Купи палочку и магическую книгу из ближайших магазинов и войди в Груквартс.
+§7Choose your schedule and attend your classes.@§7Выбери свое расписание и пройди свои занятия.
+§7Tell Damiral where the treasure is hidden@§7Скажи Дамиралу, где спрятано сокровище
+§7Clue IV: Beneath the cowl of an eastern titan, keeping watch over our heads@§7Подсказка IV: Под шлемом восточного титана, охраняющего наши головы
+§7Enter Caritat Mansion@§7Войди в Поместье Каритат
+§7Enter the library of Caritat Mansion@§7Войди в библиотеку Поместья Каритат
+§7Find the mushroom Likeru is looking for@§7Найди гриб, который ищет Ликеру
+§7Investigate the giant blue mushroom@§7Посети большой синий гриб
+§7Find a way to escape the cave@§7Найди способ сбежать из пещеры
+§7Find a way to escape the strange temple@§7Найди способ сбежать из странного храма
+§7Escape the wrath of Yahya@§7Сбеги от разъяренного Яхуя
+§7Talk to Elder Berusia@§7Поговори со Старцем Берусия 
+§7Talk to Likeru@§7Поговори с Ликеру
+§7Find the Arch in the Light Forest at [-1038,44,-4447]@§7Найди Арку в Светлом Лесу на [-1038,44,-4447]
+§7Talk to Sasha about her debt@§7Поговори с Саша насчет ее долга
+§7Find Talos in the crypt@§7Найди Талоса в склепе
+§7Kill the hellhound and free Talos@§7Убей цербера и освободи Талоса
+§7Kill Naragath and give the [Eye of Blood] to Harker@§7Убей Нарагата и отдай [Глаз Крови] Харкеру
+§7Return to the Document Merchant with the [Secret Documents]@§7Вернись к Торговцу Документами с [Секретными Документами]
+§7Follow the trail of corruption@§7Следуй по пути порчи
+§7Leave the Secret Gerten Cave@§7Покинь секретную пещеру Гертов
+§7Attend the welcoming dinner at Grookwarts.@§7Посети праздничный обед в Груквартсе
+§7Finish school for the day.@§7Закончи школу за день.
+§7Climb the sunflower in the seventh room of Togak's dungeon@§7Заберись на цветок в седьмой комнате данжа Тогака
+§7Speak with Togak once more@§7Поговори снова с Тогаком
+§7Find the representative’s office in the airship base [-238,120,-4967] @§7Найди офис представителей на авиабазе [-238,120,-4967]
+§7Return to General Lecade with the Good-Luck Charm@§7Вернись к Генералу Лекейду со Счастливым Амулетом
+§7Begin the Fifth Floor@§7Начни Пятый Этаж
+§7Bring back [3 Brown Mushrooms] and [3 Red Mushrooms] to Yahya@§7Принеси [3 Brown Mushrooms] и [3 Red Mushrooms] к Яхуя
+§7Discover your own past.@§7Узнай свое собственное прошлое.
 
 §7[1/4] §2Seaskipper Captain: §aDo ya 'member that time I rescued ya on a random island?
 §7[3/4] §2Seaskipper Captain: §aThey seemed to be praisin' soldiers by kidnappin' more of them. Odd tactic, but I ain't one to judge.
