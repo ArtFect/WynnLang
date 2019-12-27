@@ -1031,6 +1031,18 @@
 §7Bring §3[24 Oat String] §7or §3[24 Oat Grains] §7to the §aGathering Post §2[Farming Lv. 28]@§7Принеси §3[24 Овсяных Нитей] §7или §3[24 Овсяных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 28]
 §7Bring §3[30 Malt String] §7or §3[30 Malt Grains] §7to the §aGathering Post §2[Farming Lv. 38]@§7Принеси §3[30 Солодовых Нитей] §7или §3[30 Солодовых Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 38]
 §7Bring §3[24 Hops String] §7or §3[24 Hops Grains] §7to the §aGathering Post §2[Farming Lv. 43]@§7Принеси §3[24 Хмельных Нитей] §7или §3[24 Хмельных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 43]
+§7Bring §3[20 Carp Oil] §7or §3[20 Carp Meat] §7to the §aGathering Post §2[Fishing Lv. 33]@§7Принеси §3[20 Жира Карпа] §7или §3[20 Мяса Карпа] §7к §aДоске Заданий §2[Рыболовство Ур. 33]
+§7Bring §3[24 Icefish Oil] §7or §3[24 Icefish Meat] §7to the §aGathering Post §2[Fishing Lv. 43]@§7Принеси §3[24 Жира Щуки] §7или §3[24 Мяса Щуки] §7к §aДоске Заданий §2[Рыболовство Ур. 43]
+§7Bring §3[14 Granite Ingots] §7or §3[14 Granite Gems] §7to the §aGathering Post §2[Mining Lv. 18]@§7Принеси §3[14 Гранитных Слитков] §7или §3[14 Гранитных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 18]
+§7Bring §3[20 Sandstone Ingots] §7or §3[20 Sandstone Gems] §7to the §aGathering Post §2[Mining Lv. 33]@§7Принеси §3[20 Песчаных Слитков] §7или §3[20 Песчаных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 33]
+§7Bring §3[28 Jungle Wood] §7or §3[28 Jungle Paper] §7to the §aGathering Post §2[Woodcutting Lv. 53]@§7Принеси §3[28 Древесины Амаранта] §7или §3[28 Амарантовой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 53]
+§7Bring §3[42 Jungle Wood] §7or §3[42 Jungle Paper] §7to the §aGathering Post §2[Woodcutting Lv. 58]@§7Принеси §3[42 Древесины Амаранта] §7или §3[42 Амарантовой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 58]
+§7Bring §3[30 Dark Wood] §7or §3[30 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 61]@§7Принеси §3[30 Древесины Каштана] §7или §3[30 Каштановой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 61]
+§7Bring §3[36 Dark Wood] §7or §3[36 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 63]@§7Принеси §3[36 Древесины Каштана] §7или §3[36 Каштановой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 63]
+§7Bring §3[44 Dark Wood] §7or §3[44 Dark Paper] §7to the §aGathering Post §2[Woodcutting Lv. 68]@§7Принеси §3[44 Древесины Каштана] §7или §3[44 Каштановой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 68]
+§7Bring §3[32 Light Wood] §7or §3[32 Light Paper] §7to the §aGathering Post §2[Woodcutting Lv. 71]@§7Принеси §3[32 Древесины Клена] §7или §3[32 Кленовой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 71]
+§7Bring [30 Acacia Wood] or [30 Acacia Paper] to the Gathering Post [Woodcutting Lv. 38] at [1226,116,-1391]@§7Принеси §3[30 Древесины Акации] §7или §3[30 Акациевой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 38]
+§7Bring §3[36 Spruce Wood] §7or §3[36 Spruce Paper] §7to the §aGathering Post §2[Woodcutting Lv. 48]@§7Принеси §3[36 Древесины Ели] §7или §3[36 Еловой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 48]
 
 ----------------------------------------
 §7Talk to Dr. Picard at [103, 90, -1200].@§7Поговори с Др. Пикардом [103, 90, -1200].
@@ -1063,3 +1075,42 @@
 §7Explore the hold and kill the rats@§7Исследуй трюм и убей крыс
 §7Defeat the Colossal Rat in the hold@§7Победи Колосальную Крысу в трюме
 §7Look for clues on how to escape@§7Поищи подсказки о том, как сбежать
+
+§7Find [2 Eggs], [1 Bucket of Milk] and [3 Wheat Grains] for the Cook@§7Найди [2 Яйца], [1 Ведро Молока] и [3 Пшеничного Зерна] для Повара
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 1/7@§7Очисти тела на лодке. Поищи подсказки о том как сбежать в это же время. -Тел очищено: 1/7
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 4/7@§7Очисти тела на лодке. Поищи подсказки о том как сбежать в это же время. -Тел очищено: 4/7
+§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 5/7@§7Ты заметил, что пушку можно ипользовать для побега. Очисти тела и посмотри, что скажет Хонип! -Тел очищено: 5/7
+§7Return to Seasum with the letter.@§7Вернись к Сеасуму с письмом.
+§7Find the magical school boat at [893,37,-2777]@§7Найди магическую школьную лодку на [893,37,-2777]
+§7Follow the children to the school.@§7Следуй за детьми в школу.
+§7Talk to Cidre on the school island.@§7Поговори с Кидре на школьном острове.
+§7Buy a wand and a magical book from the nearby shops and enter Grookwarts.@§7Купи палочку и магическую книгу из ближайших магазинов и войди в Груквартс.
+§7Choose your schedule and attend your classes.@§7Выбери свое расписание и пройди свои занятия.
+§7Tell Damiral where the treasure is hidden@§7Скажи Дамиралу, где спрятано сокровище
+§7Clue IV: Beneath the cowl of an eastern titan, keeping watch over our heads@§7Подсказка IV: Под шлемом восточного титана, охраняющего наши головы
+§7Enter Caritat Mansion@§7Войди в Поместье Каритат
+§7Enter the library of Caritat Mansion@§7Войди в библиотеку Поместья Каритат
+§7Find the mushroom Likeru is looking for@§7Найди гриб, который ищет Ликеру
+§7Investigate the giant blue mushroom@§7Посети большой синий гриб
+§7Find a way to escape the cave@§7Найди способ сбежать из пещеры
+§7Find a way to escape the strange temple@§7Найди способ сбежать из странного храма
+§7Escape the wrath of Yahya@§7Сбеги от разъяренного Яхуя
+§7Talk to Elder Berusia@§7Поговори со Старцем Берусия 
+§7Talk to Likeru@§7Поговори с Ликеру
+§7Find the Arch in the Light Forest at [-1038,44,-4447]@§7Найди Арку в Светлом Лесу на [-1038,44,-4447]
+§7Talk to Sasha about her debt@§7Поговори с Саша насчет ее долга
+§7Find Talos in the crypt@§7Найди Талоса в склепе
+§7Kill the hellhound and free Talos@§7Убей цербера и освободи Талоса
+§7Kill Naragath and give the [Eye of Blood] to Harker@§7Убей Нарагата и отдай [Глаз Крови] Харкеру
+§7Return to the Document Merchant with the [Secret Documents]@§7Вернись к Торговцу Документами с [Секретными Документами]
+§7Follow the trail of corruption@§7Следуй по пути порчи
+§7Leave the Secret Gerten Cave@§7Покинь секретную пещеру Гертов
+§7Attend the welcoming dinner at Grookwarts.@§7Посети праздничный обед в Груквартсе
+§7Finish school for the day.@§7Закончи школу за день.
+§7Climb the sunflower in the seventh room of Togak's dungeon@§7Заберись на цветок в седьмой комнате данжа Тогака
+§7Speak with Togak once more@§7Поговори снова с Тогаком
+§7Find the representative’s office in the airship base [-238,120,-4967] @§7Найди офис представителей на авиабазе [-238,120,-4967]
+§7Return to General Lecade with the Good-Luck Charm@§7Вернись к Генералу Лекейду со Счастливым Амулетом
+§7Begin the Fifth Floor@§7Начни Пятый Этаж
+§7Bring back [3 Brown Mushrooms] and [3 Red Mushrooms] to Yahya@§7Принеси [3 Brown Mushrooms] и [3 Red Mushrooms] к Яхуя
+§7Discover your own past.@§7Узнай свое собственное прошлое.
