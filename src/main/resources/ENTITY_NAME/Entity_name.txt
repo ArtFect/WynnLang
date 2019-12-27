@@ -145,6 +145,11 @@ Old Druid@Старый Друид
 §aTnt§6 [Lv. 0]@§aДинамит§6 [Ур. 0]
 §aGolden Apple§6 [Lv. 20]@§aЗолотое Яблоко§6 [Ур. 20]
 §aRunning Cake§6 [Lv. 1]@§aБегущий Торт§6 [Ур. 1]
+§aPretty Flower§6 [Lv. 100]@§aПрелестный Цветок§6 [Ур. 100]
+§aRock§6 [Lv. 103]@§aКамень§6 [Ур. 103]
+§aSpider Eye§6 [Lv. 1]@§aПаучий Глаз§6 [Ур. 1]
+§aBalls of Slime§6 [Lv. 66]@§aШарики Слизи§6 [Ур. 66]
+§aTransmitter§6 [Lv. 100]@§aПередатчик§6 [Ур. 100]
 
 #####################Торговцы###########################
 §dDungeon Merchant@§dДанж Торговец
@@ -277,21 +282,6 @@ Old Druid@Старый Друид
 §2§aSlaying Post §2[Combat Lv. 65]@§2§aДоска Заданий §2[Комбат Ур. 65]
 §2§aSlaying Post §2[Combat Lv. 96]@§2§aДоска Заданий §2[Комбат Ур. 96]
 §2§aSlaying Post §2[Combat Lv. 99]@§2§aДоска Заданий §2[Комбат Ур. 99]
-§2§aGathering Post §2[Fishing Lv. 8]@§2§aДоска для Сбора §2[Рыбалка Ур. 8]
-§2§aGathering Post §2[Fishing Lv. 18]@§2§aДоска для Сбора §2[Рыбалка Ур. 18]
-§2§aGathering Post §2[Fishing Lv. 23]@§2§aДоска для Сбора §2[Рыбалка Ур. 23]
-§2§aGathering Post §2[Fishing Lv. 43]@§2§aДоска для Сбора §2[Рыбалка Ур. 43]
-§2§aGathering Post §2[Mining Lv. 28]@§2§aДоска для Сбора §2[Добыча Руд Ур. 28]
-§2§aGathering Post §2[Mining Lv. 23]@§2§aДоска для Сбора §2[Добыча Руд Ур. 23]
-§2§aGathering Post §2[Mining Lv. 8]@§2§aДоска для Сбора §2[Добыча Руд Ур. 8]
-§2§aGathering Post §2[Mining Lv. 18]@§2§aДоска для Сбора §2[Добыча Руд Ур. 18]
-§2§aGathering Post §2[Woodcutting Lv. 18]@§2§aДоска для Сбора §2[Лесорубство Ур. 18]
-§2§aGathering Post §2[Woodcutting Lv. 8]@§2§aДоска для Сбора §2[Лесорубство Ур. 8]
-§2§aGathering Post §2[Woodcutting Lv. 28]@§2§aДоска для Сбора §2[Лесорубство Ур. 28]
-§2§aGathering Post §2[Woodcutting Lv. 33]@§2§aДоска для Сбора §2[Лесорубство Ур. 33]
-§2§aGathering Post §2[Farming Lv. 28]@§2§aДоска для Сбора §2[Земледелие Ур. 28]
-§2§aGathering Post §2[Farming Lv. 8]@§2§aДоска для Сбора §2[Земледелие Ур. 8]
-§2§aGathering Post §2[Farming Lv. 73]@§2§aДоска для Сбора §2[Земледелие Ур. 73]
 §7NPC@§7НПС
 §2§fSteve@§2§fСтив
 §2§fHaba@§2§fХаба
@@ -959,6 +949,20 @@ Old Druid@Старый Друид
 §2Courtyard Guard@§2Охранник Двора
 §2Farcor@§2Фаркор
 §2Trials Overseer@§2Смотритель Испытаний
+§2Amadel@§2Амадел
+§2Bodyguard@§2Телохранитель
+§2Wynnexcavation Employee@§2Служащий ВиннЭкскавейшен
+§2Almuj Mayor@§2Мэр Алмужа
+§2Kotham@§2Котэм
+§2Scientist Urelix@§2Ученый Уреликс
+§2Leni@§2Лени
+§2Kohma@§2Кома
+§2Aledar Clone@§2Клон Аледара
+§2Detlas Guard@§2Страж Детласа
+§2Teleportation Mech@§2Телепортационный Робот
+§2Iron Golem@§2Железный Голем
+§2Rodoroc Slum Citizen@§2Житель Трущоб Родорока
+§2Royal Advisor@§2Королевский Советник
 §2Thunder Catalyst Collector 1@§2Сборщик Катализаторов Грома 1
 §2Thunder Catalyst Collector 2@§2Сборщик Катализаторов Грома 2
 §2Thunder Catalyst Collector 3@§2Сборщик Катализаторов Грома 3
@@ -1013,6 +1017,7 @@ Old Druid@Старый Друид
 Dernel Mage@Маг Дернел
 Gert@Герт
 §fCanyon Hermit@§fОтшельник Каньона
+§fFisherman@§fРыбак
 
 ######################Профессии##################################
 §aCopper@§aМедь
@@ -1021,9 +1026,13 @@ Gert@Герт
 §aGranite@§aГранит
 §aGold@§aЗолото
 §aSandstone@§aПесчаник
+§2[§a+1§2 Sandstone Gem]@§2[§a+1§2 Песчаный Камень]
 §aIron@§aЖелезо
+§2[§a+1§2 Iron Gem]@§2[§a+1§2 Железный Камень]
 §aSilver@§aСеребро
+§2[§a+1§2 Silver Gem]@§2[§a+1§2 Серебрянный Камень]
 §aCobalt@§aКобальт
+§2[§a+1§2 Cobalt Ingot]@§2[§a+1§2 Слиток Кобальта]
 §aKanderstone@§aКандерстоун
 §aDiamond@§aАлмаз
 §aMolten@§aМолтен
@@ -1036,10 +1045,16 @@ Gert@Герт
 §aAcacia@§aАкация
 §aSpruce@§aЕль
 §aJungle@§aАмарант
+§2[§a+1§2 Jungle Wood]@§2[§a+1§2 Древесина Амаранта]
+§2[§a+1§2 Jungle Paper]@§2[§a+1§2 Амарантовая Бумага]
 §aDark@§aКаштан
+§2[§a+1§2 Dark Wood]@§2[§a+1§2 Древесина Каштана]
 §aLight@§aКлен
+§2[§a+1§2 Light Wood]@§2[§a+1§2 Древесина Клена]
 §aPine@§aСосна
+§2[§a+1§2 Pine Wood]@§2[§a+1§2 Древесина Сосны]
 §aBamboo@§aБамбук
+§2[§a+1§2 Bamboo]@§2[§a+1§2 Бамбук]
 §aAvo@§aАвокадо
 §aSky@§aЛиственница
 §aWheat@§aПшеница
@@ -1063,6 +1078,7 @@ Gert@Герт
 §aCarp@§aКарп
 §aIcefish@§aЩука
 §aPiranha@§aПиранья
+§2[§a+1§2 Piranha Meat]@§2[§a+1§2 Мясо Пираньи]
 §aKoi@§aСазан
 §aGylia Fish@§aГилия
 §aBass@§aОкунь
@@ -1258,6 +1274,7 @@ Gert@Герт
 §bRagni Knight§6 [Lv. 3]@§bРыцарь Рагни§6 [Ур. 3]
 §bRocky§6 [Lv. 90]@§bКамушек§6 [Ур. 90]
 §bOverly Affectionate Bear§6 [Lv. 73]@§bЧрезмерно Ласковый Медведь§6 [Ур. 73]
+§bIron Golem§6 [Lv. 100]@§bЖелезный Голем§6 [Ур. 100]
 
 ############################Надписи################################
 §8§lDig Dirt@§8§lКопать Землю
@@ -1723,6 +1740,54 @@ Level §c70-80@Уровень §c70-80
 §8Right-Click for Meat@§8Правый Клик для Мяса
 §8Right-Click for Gem@§8Правый Клик для Камня
 §8Right-Click for Paper@§8Правый Клик для Бумаги
+§2[§aRight Click to Dig§2]@§2[§aПравый Клик для Копания§2]
+§2[§aCollect Mobs To Here§2]@§2[§aСобрать Мобов Сюда§2]
+§2[§aRight Click to Break the Boulder§2]@§2[§aПравый Клик, чтобы Разбить Валун§2]
+§2[§aRight Click to Take the Totem§2]@§2[§aПравый Клик, чтобы Забрать Тотем§2]
+§2[§aPlace Totem§2]@§2[§aПоставить Тотем§2]
+§2[§aPortal to Lutho§2]@§2[§aПортал в Луто§2]
+§7Question #1@§7Вопрос #1
+§eWhat is water connected to?@§eС чем связана вода?
+§2✤ §7Strength@§2✤ §7Сила
+§f❋ §7Agility@§f❋ §7Ловкость
+§c✹ §7Defense@§c✹ §7Защита
+§b❉ §7Intelligence@§b❉ §7Интеллект
+§7Question #2@§7Вопрос #2
+§eWhat creature fits the most with the element of Water?@§eКакое существо больше всего соответствует стихии Воды?
+§7Avos@§7Авосы
+§7Doguns@§7Догуны
+§7Mermaids@§7Русалки
+§7Grooks@§7Груки
+§7Question #4@§7Вопрос #4
+§eWhich spell is most closely linked with water?@§eКакое заклинание наиболее тесно связано с водой?
+§7Ice Snake@§7Ледяная Змея
+§7Bomb Arrow@§7Бомба из Стрел
+§7Bash@§7Оглушение
+§7Multihits@§7Мега Удар
+§7Question #5@§7Вопрос #5
+§eWho was the first person you spoke to on the island of Grookwarts?@§eКто был первым человеком, с которым ты поговорил на острове Груквартс?
+§7Egam@§7Эгам
+§7Cidre@§7Кидре
+§7Pettor@§7Петтор
+§7Seasum@§7Сеасум
+§7Question #6@§7Вопрос #6
+§eWhich wizard froze Nesaak?@§eКакой волшебник заморозил Несаак?
+§7Dwendle@§7Двендл
+§7Ethe@§7Эте
+§7Rickeo@§7Рикео
+§7Theorick@§7Теорик
+§7Question #7@§7Вопрос #7
+§eWhich identification is most closely linked with water?@§eКакая идентификация наиболее тесно связана с водой?
+§7Reflection@§7Отражение
+§7Melee Damage@§7Ближний Урон
+§7Health Bonus@§7Бонус Здоровье
+§7Mana Regen@§7Мана Реген
+§7Question #8@§7Вопрос #8
+§eWhat are the teachers at Grookwarts called?@§eКак называют учителей в Груквартсе?
+§7The Magical Masters@§7Мастера Магии
+§7The Order of the Grook@§7Орден Грука
+§7The Teachers@§7Учителя
+§7The Order of the Gert@§7Орден Герта
 
 ######################Охранники ключей###########################
 §cDecrepit Sewers Key Guardian§6 [Lv. 9]@§cЗащитник Ключа от Ветхой Канализации§6 [Ур. 9]
@@ -2171,6 +2236,9 @@ Level §c70-80@Уровень §c70-80
 §aOrange Wybel§6 [Lv. 140]@§aОранжевый Вубел§6 [Ур. 140]
 §aDark Lord Snugglebuns§6 [Lv. 87]@§aТемный Лорд Снугглебунс§6 [Ур. 87]
 §aTeki Princess§6 [Lv. 80]@§aПринцесса Теки§6 [Ур. 80]
+§aRagni Citizen§6 [Lv. 103]@§aЖитель Рагни§6 [Ур. 103]
+§aAlmuj Banker§6 [Lv. 32]@§aБанкир Алмужа§6 [Ур. 32]
+§aTasim, the Resigned§6 [Lv. 101]@§aТасим, в Отставке§6 [Ур. 101]
 
 ##########################Контейнеры################################
 §6Anti-Bovemist Effect@§6Анти-Бовемист Эффект
@@ -2669,6 +2737,11 @@ Gift From Dern@Подарок из Дерна
 §4§l[8s]@§4§l[8с]
 §4§l[7s]@§4§l[7с]
 §4§l[6s]@§4§l[6с]
+§4§l[5s]@§4§l[5с]
+§4§l[4s]@§4§l[4с]
+§4§l[3s]@§4§l[3с]
+§4§l[2s]@§4§l[2с]
+§4§l[1s]@§4§l[1с]
 §o§aAAAAAAAAAAH!@§o§aАААААААААААХ!
 §o§aAAaAH  AAAAH!@§o§aААаАХ  ААААХ!
 ==
