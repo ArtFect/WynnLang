@@ -62,43 +62,42 @@
 §7[2/2] §2Teacher: §aN-now, who's n-next? And...i-is it really cold in here for all of you, too? Or, is it j-just me...?@§7[2/2] §2Учитель: §aТ-теперь, кто с-следующий? И...р-реально вам всем здесь тоже очень холодно? Или это п-просто я...?
 §7[1/1] §2Teacher: §aP-please sit down, fledgeling!@§7[1/1] §2Учитель: §aП-пожалуйста садитесь, птенцы!
 
-§7+ New Resource §8[Dark]
-§7+ New Resource §8[Silver]
-§7+ New Resource §8[Cobalt]
-§7+ New Resource §8[Light]
-§7+ New Resource §8[Piranha]
-§a+ New Spell §2[Soar]
-§a+ New Spell §2[Wind Surge]
-§7+ New Tool §8[Ⓒ Gathering Axe T8]
-§a- §7Wind Surge will cast a damaging aura around your active totem
-§4You need to progress further to unlock hunted mode.
-§c§lLog in to §f§nplay.wynncraft.com§c§l for less lag.
-§a- §7Go to §fwynncraft.com/class§f §7for info about this upgrade
-§7[You are now entering the Update Room]
-§eDesc.: This command will let you ignore players.
-§eUsage: /ignore [add/remove] <name>
-§4You already have an active crate!
-§cYou are already connecting there, please wait.
-§cYou are not allowed to use this command!
-§dYour emeralds can be found in the trade overview menu.
-§cThe world you were playing on is restarting!
-§7This wheel was used to make pots... if only you had some clay...
-§4To rename a pet, use /renamepet. To rename an item, use /renameitem.
-§a+ Spell Upgrade §2[Sky Emblem I -> II]
-§a+ Spell Upgrade §2[Soar I -> II]
-§6Great job! You've completed the EldritchÀÀÀOutlook Dungeon!
-§7[+The Eye's Pupil]
-§7[+Eldritch Outlook Fragment]
-§d     -§7 Lore: §f§oThought to be only a myth, this portal's existence confirms the legends that the Silent Expanse is a road to Dern. How to access it, though, is perhaps a mystery that can't be solved yet...
-§d            - §7+1 Corrupted Soul Token
-§d            - §7+Hunted Mode
-§cYour inventory is too full for anymore items...
-§7+ Faster Gathering §8[Silver]
-§7+ Higher Refining Success §8[Unprocessed Silver Ore]
-§3[§3WAR]§c §cThey will be there in 1 minute and 30 seconds.
-§cYou may not drink this potion whilst selling it!
-§7+ Faster Gathering §8[Dark]
-§7+ Higher Refining Success §8[Unprocessed Dark Log]
+§7+ New Resource §8[Dark]@§7+ Новый Ресурс §8[Каштан]
+§7+ New Resource §8[Silver]@§7+ Новый Ресурс §8[Серебро]
+§7+ New Resource §8[Cobalt]@§7+ Новый Ресурс §8[Кобальт]
+§7+ New Resource §8[Light]@§7+ Новый Ресурс §8[Клен]
+§7+ New Resource §8[Piranha]@§7+ Новый Ресурс §8[Пиранья]
+§a+ New Spell §2[Soar]@§a+ Новое Заклинание §2[Взлет]
+§a+ New Spell §2[Wind Surge]@§a+ Новое Заклинание §2[Воронка Бури]
+§7+ New Tool §8[Ⓒ Gathering Axe T8]@§a+ Новый Инструмент §2[Ⓒ Сборный Топор У8]
+§a- §7Wind Surge will cast a damaging aura around your active totem@§a- §7Воронка Бури кастует разрушительную ауру вокруг твоего активного тотема
+§4You need to progress further to unlock hunted mode.@§4Тебе нужно пройти дальше для разблокировки режима охотника.
+§c§lLog in to §f§nplay.wynncraft.com§c§l for less lag.@§c§lЗаходи на §f§nplay.wynncraft.com§c§l где меньше лагов.
+§7[You are now entering the Update Room]@§7[Ты входишь в Апдейт Комнату]
+§eDesc.: This command will let you ignore players.@§eОпис.: Эта команда позволяет тебе игнорировать игроков.
+§eUsage: /ignore [add/remove] <name>@§eИспользование: /ignore [add/remove] <ник>
+§4You already have an active crate!@§4У тебя уже стоит активный контейнер!
+§cYou are already connecting there, please wait.@§cТы уже подключаешься туда, пожалуйста подожди.
+§cYou are not allowed to use this command!@§cТы не можешь использовать эту команду!
+§dYour emeralds can be found in the trade overview menu.@§dТвои эмеральды можно найти в обзорном меню торговли.
+§cThe world you were playing on is restarting!@§cМир, в котором ты играл, перезагружается!
+§7This wheel was used to make pots... if only you had some clay...@§7Это колесо использовалось для изготовления горшков... если бы только у тебя было немного глины...
+§4To rename a pet, use /renamepet. To rename an item, use /renameitem.@§4Для переименования питомца, используй /renamepet. Для переименования предмета, используй /renameitem.
+§a+ Spell Upgrade §2[Sky Emblem I -> II]@§a+ Апгрейд Заклинания §2[Небесная Эмблема I -> II]
+§a+ Spell Upgrade §2[Soar I -> II]@§a+ Апгрейд Заклинания §2[Взлет I -> II]
+§6Great job! You've completed the EldritchÀÀÀOutlook Dungeon!@§6Отличная работа! Ты прошел Испорченный Данж Жуткого Наблюдателя!
+§7[+The Eye's Pupil]@§7[+Зрачок Глаза]
+§7[+Eldritch Outlook Fragment]@§7[+Фрагмент Жуткого Наблюдателя]
+§d     -§7 Lore: §f§oThought to be only a myth, this portal's existence confirms the legends that the Silent Expanse is a road to Dern. How to access it, though, is perhaps a mystery that can't be solved yet...@§d     -§7 Лор: §f§oСчитаясь всего лишь мифом, существование этого портала подтверждает легенды о том, что Тихое Пространство - это дорога в Дерн. Но как получить к нему доступ - это, пожалуй, загадка, которую пока не разгадать...
+§d            - §7+1 Corrupted Soul Token@§d            - §7+1 Жетон Испорченной Души
+§d            - §7+Hunted Mode@§d            - §7+Режим Охотника
+§cYour inventory is too full for anymore items...@§cТвой инвентарь полностью заполнен...
+§7+ Faster Gathering §8[Silver]@§7+ Более быстрая добыча §8[Серебро]
+§7+ Faster Gathering §8[Dark]@§7+ Более быстрая добыча §8[Каштан]
+§7+ Higher Refining Success §8[Unprocessed Silver Ore]@§7+ Шанс на успех при переработке §8[Необработанная Серебрянная Руда]
+§7+ Higher Refining Success §8[Unprocessed Dark Log]@§7+ Шанс на успех при переработке §8[Необработанная Древесина Каштана]
+§3[§3WAR]§c §cThey will be there in 1 minute and 30 seconds.@§3[§3WAR]§c §cОни будут там через 1 минуту и 30 секунд.
+§cYou may not drink this potion whilst selling it!@§cТы не можешь пить это зелье, продавая его!
 §7You finished the §bLegendary Challenge§7 at §6Bronze Tier§7!
 §6   +1 Bronze Token
 §a- §7Soar will pull yourself towards your active totem
