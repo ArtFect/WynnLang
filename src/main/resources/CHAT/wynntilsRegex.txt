@@ -41,4 +41,6 @@
 (.*) has logged into server (.*) as §(b|a)an Assassin@(r1) зашел на сервер (r2) классом §(r3)Ассасин
 (.*) has logged into server (.*) as §(b|a)a Hunter@(r1) зашел на сервер (r2) классом §(r3)Охотник
 (.*) has logged into server (.*) as §(b|a)a Ninja@(r1) зашел на сервер (r2) классом §(r3)Ниндзя
+(.*) has logged into server (.*) as §(b|a)a Shaman@(r1) зашел на сервер (r2) классом §(r3)Шаман
+(.*) has logged into server (.*) as §(b|a)a Skyseer@(r1) зашел на сервер (r2) классом §(r3)Провидец
 §(e|a)([a-zA-Z0-9_]{1,16}) left the game.@§(r1)(r2) покинул игру.
