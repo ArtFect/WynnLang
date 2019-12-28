@@ -1,44 +1,23 @@
 package ru.artfect.wynnlang.translate;
 
-import java.util.List;
-import java.util.regex.Matcher;
-
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import net.minecraft.item.ItemStack;
-import net.minecraft.network.datasync.EntityDataManager.DataEntry;
-import net.minecraft.network.play.server.SPacketEntityMetadata;
-import net.minecraft.network.play.server.SPacketOpenWindow;
-import net.minecraft.network.play.server.SPacketPlayerListItem;
-import net.minecraft.network.play.server.SPacketPlayerListItem.AddPlayerData;
-import net.minecraft.network.play.server.SPacketSetSlot;
-import net.minecraft.network.play.server.SPacketTitle;
-import net.minecraft.network.play.server.SPacketUpdateBossInfo;
-import net.minecraft.network.play.server.SPacketUpdateScore;
-import net.minecraft.network.play.server.SPacketWindowItems;
+import net.minecraft.network.play.server.*;
 import net.minecraft.util.text.ChatType;
-import net.minecraft.util.text.ITextComponent;
-import net.minecraft.util.text.Style;
-import net.minecraft.util.text.TextComponentString;
-import net.minecraft.util.text.event.ClickEvent;
-import net.minecraft.util.text.event.HoverEvent;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
-import ru.artfect.translates.Chat;
-import ru.artfect.translates.Entity;
-import ru.artfect.translates.ItemLore;
-import ru.artfect.translates.ItemName;
-import ru.artfect.translates.Playerlist;
-import ru.artfect.translates.Title;
+import ru.artfect.translates.*;
 import ru.artfect.wynnlang.Reference;
-import ru.artfect.wynnlang.StringUtil;
+
+import java.util.List;
 
 public class MessageHandler extends ChannelInboundHandlerAdapter {
-	public MessageHandler(){
+    public MessageHandler() {
         MinecraftForge.EVENT_BUS.register(this);
-	}
-	
+    }
+
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
         if (msg == null) {
@@ -48,12 +27,12 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
             SPacketWindowItems p = (SPacketWindowItems) msg;
             List<ItemStack> items = p.getItemStacks();
             for (ItemStack item : items) {
-            	new ItemName(item).translate();
+                new ItemName(item).translate();
             }
         } else if (msg instanceof SPacketSetSlot) {
             SPacketSetSlot p = (SPacketSetSlot) msg;
-        	new ItemName(p.getStack()).translate();
-        	new ItemLore(p.getStack()).translate();
+            new ItemName(p.getStack()).translate();
+            new ItemLore(p.getStack()).translate();
         } else if (msg instanceof SPacketEntityMetadata) {
             SPacketEntityMetadata p = (SPacketEntityMetadata) msg;
             new Entity(p.getDataManagerEntries()).translate();
@@ -89,7 +68,7 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
         }*/
         super.channelRead(ctx, msg);
     }
-    
+
     @SubscribeEvent
     public void onMessage(ClientChatReceivedEvent e) {
         if (e.getType() == ChatType.GAME_INFO || !Reference.onWynncraft || !Reference.modEnabled) {

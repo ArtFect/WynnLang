@@ -1,15 +1,15 @@
 package ru.artfect.wynnlang;
 
-import java.io.File;
-
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.common.config.Configuration;
 
+import java.io.File;
+
 public class Config {
     private static Configuration config;
-    
-    public static void loadConfigFromFile(){
-    	try {
+
+    public static void loadConfigFromFile() {
+        try {
             config = new Configuration(new File(Minecraft.getMinecraft().mcDataDir + "/config/WynnLang/config.cfg"));
             config.load();
             Log.enabled = config.get("Options", "Logging", true).getBoolean();
@@ -21,18 +21,18 @@ public class Config {
             config.save();
         }
     }
-    
-    public static void setStringArray(String category, String name, String[] defaultValue, String[] value){
+
+    public static void setStringArray(String category, String name, String[] defaultValue, String[] value) {
         config.get(category, name, defaultValue).set(value);
         config.save();
     }
-    
-    public static void setBoolean(String category, String name, boolean defaultValue, boolean value){
+
+    public static void setBoolean(String category, String name, boolean defaultValue, boolean value) {
         config.get(category, name, defaultValue).set(value);
         config.save();
     }
-    
-    public static String[] getStringArray(String category, String name, String[] defaultValue){
-    	return config.get(category, name, defaultValue).getStringList();
+
+    public static String[] getStringArray(String category, String name, String[] defaultValue) {
+        return config.get(category, name, defaultValue).getStringList();
     }
 }

@@ -1,17 +1,13 @@
 package ru.artfect.wynnlang;
 
-import java.io.IOException;
-
-import org.apache.http.client.ClientProtocolException;
-
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.multiplayer.ServerData;
-import net.minecraft.util.text.ITextComponent;
-import net.minecraft.util.text.TextComponentString;
-import net.minecraft.util.text.event.ClickEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.network.FMLNetworkEvent;
+import org.apache.http.client.ClientProtocolException;
 import ru.artfect.wynnlang.translate.MessageHandler;
+
+import java.io.IOException;
 
 public class Network {
     @SubscribeEvent
@@ -31,8 +27,6 @@ public class Network {
             	Reference.ruChat = new RuChat();
                 Reference.ruChat.start();
             }
-
-            UpdateManager.sendUpdateMessage();
         }
     }
 

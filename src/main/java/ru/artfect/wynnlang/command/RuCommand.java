@@ -1,16 +1,17 @@
 package ru.artfect.wynnlang.command;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
 import net.minecraft.command.CommandException;
 import net.minecraft.command.ICommand;
 import net.minecraft.command.ICommandSender;
 import net.minecraft.server.MinecraftServer;
 import net.minecraft.util.math.BlockPos;
 import ru.artfect.wynnlang.Reference;
+import ru.artfect.wynnlang.RuChat;
 import ru.artfect.wynnlang.WynnLang;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public class RuCommand implements ICommand {
     @Override
@@ -30,8 +31,8 @@ public class RuCommand implements ICommand {
             String message = String.join(" ", list);
             Reference.ruChat.sendMessage("m:" + message);
         } else {
-        	Reference.ruChat.defaultChat = !Reference.ruChat.defaultChat;
-            WynnLang.sendMessage("§rЧат по умолчанию " + (Reference.ruChat.defaultChat ? "§aвключен" : "§cвыключен") + "§r");
+            RuChat.defaultChat = !RuChat.defaultChat;
+            WynnLang.sendMessage("§rЧат по умолчанию " + (RuChat.defaultChat ? "§aвключен" : "§cвыключен") + "§r");
         }
     }
 

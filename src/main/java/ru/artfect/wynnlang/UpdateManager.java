@@ -1,28 +1,35 @@
 package ru.artfect.wynnlang;
 
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
+import net.minecraft.client.Minecraft;
+import net.minecraft.util.text.ITextComponent;
+import net.minecraft.util.text.TextComponentString;
+import net.minecraft.util.text.event.ClickEvent;
+import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.fml.common.eventhandler.EventPriority;
+import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.fml.common.network.FMLNetworkEvent;
+import org.apache.commons.io.FileUtils;
+import org.apache.commons.io.IOUtils;
+
 import java.io.File;
 import java.io.IOException;
 import java.net.URL;
 import java.net.URLConnection;
 
-import org.apache.commons.io.FileUtils;
-import org.apache.commons.io.IOUtils;
-
-import com.google.gson.JsonObject;
-import com.google.gson.JsonParser;
-
-import net.minecraft.client.Minecraft;
-import net.minecraft.util.text.ITextComponent;
-import net.minecraft.util.text.TextComponentString;
-import net.minecraft.util.text.event.ClickEvent;
-
 public class UpdateManager {
-    private static String downloadLink = "";
-    private static String newVer = "";
-    private static boolean updating = false;
-    private static boolean needUpdate = false;
+    private String downloadLink = "";
+    private String newVer = "";
+    private boolean updating = false;
+    private boolean needUpdate = false;
 
-    public static void checkUpdate() {
+    public UpdateManager(){
+        checkUpdate();
+        MinecraftForge.EVENT_BUS.register(this);
+    }
+
+    public void checkUpdate() {
         Multithreading.runAsync(() -> {
             try {
                 URLConnection st = new URL("https://api.github.com/repos/ArtFect/WynnLang/releases/latest").openConnection();
@@ -40,8 +47,8 @@ public class UpdateManager {
             }
         });
     }
-    
-    public static void update(){
+
+    public void update() {
         if (!needUpdate) {
             WynnLang.sendMessage("§cОбновление не требуется");
         } else if (!updating) {
@@ -51,7 +58,7 @@ public class UpdateManager {
                 try {
                     FileUtils.copyURLToFile(new URL(downloadLink), new File("./Mods/WynnLang.jar"), 16000, 60000);
                 } catch (IOException e) {
-                	updating = false;
+                    updating = false;
                     WynnLang.sendMessage("§cНе удалось скачать обновление");
                 }
                 needUpdate = false;
@@ -60,8 +67,8 @@ public class UpdateManager {
             });
         }
     }
-    
-    public static void sendUpdateMessage(){
+
+    public void sendUpdateMessage() {
         if (needUpdate) {
             Multithreading.runAsync(() -> {
                 while (Minecraft.getMinecraft().player == null) {
@@ -75,6 +82,13 @@ public class UpdateManager {
                 msg.getStyle().setClickEvent(new ClickEvent(ClickEvent.Action.RUN_COMMAND, "/WynnLang update"));
                 Minecraft.getMinecraft().player.sendMessage(msg);
             });
+        }
+    }
+
+    @SubscribeEvent(priority = EventPriority.LOW)
+    public void onWynnCraftJoin(FMLNetworkEvent.ClientConnectedToServerEvent e) {
+        if (Reference.onWynncraft) {
+            sendUpdateMessage();
         }
     }
 }

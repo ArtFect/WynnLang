@@ -1,5 +1,16 @@
 package ru.artfect.wynnlang;
 
+import com.google.gson.Gson;
+import net.minecraft.client.Minecraft;
+import org.apache.http.NameValuePair;
+import org.apache.http.client.ClientProtocolException;
+import org.apache.http.client.entity.UrlEncodedFormEntity;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.impl.client.CloseableHttpClient;
+import org.apache.http.impl.client.HttpClients;
+import org.apache.http.message.BasicNameValuePair;
+import ru.artfect.translates.*;
+
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -7,30 +18,9 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
-import java.util.EnumSet;
 import java.util.HashMap;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
-
-import org.apache.http.NameValuePair;
-import org.apache.http.client.ClientProtocolException;
-import org.apache.http.client.entity.UrlEncodedFormEntity;
-import org.apache.http.client.methods.CloseableHttpResponse;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.HttpClients;
-import org.apache.http.message.BasicNameValuePair;
-
-import com.google.gson.Gson;
-
-import net.minecraft.client.Minecraft;
-import ru.artfect.translates.Chat;
-import ru.artfect.translates.Entity;
-import ru.artfect.translates.ItemLore;
-import ru.artfect.translates.ItemName;
-import ru.artfect.translates.Playerlist;
-import ru.artfect.translates.Title;
-import ru.artfect.translates.TranslateType;
 
 public class Log {
     public static boolean enabled = true;
@@ -39,9 +29,9 @@ public class Log {
     private static HashMap<Class <? extends TranslateType>, List<String>> oldStr = new HashMap<>();
     private static HashMap<Class <? extends TranslateType>, List<String>> newStr = new HashMap<>();
 
-    public static void init() throws IOException{
-    	loadLogs();
-    	
+    public Log() throws IOException {
+        loadLogs();
+
         Multithreading.schedule(() -> {
             try {
                 saveAndSend();
@@ -92,7 +82,7 @@ public class Log {
         CloseableHttpClient client = HttpClients.createDefault();
         HttpPost httpPost = new HttpPost("http://" + Reference.SERVER);
         httpPost.setEntity(new UrlEncodedFormEntity(params, "UTF-8"));
-        CloseableHttpResponse response = client.execute(httpPost);
+        client.execute(httpPost);
         client.close();
     }
 

@@ -1,12 +1,6 @@
 package ru.artfect.translates;
 
-import java.util.HashMap;
-import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 import com.google.common.collect.BiMap;
-
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.ChatLine;
 import net.minecraft.client.gui.GuiNewChat;
@@ -16,24 +10,25 @@ import net.minecraft.util.text.TextComponentString;
 import net.minecraft.util.text.event.ClickEvent;
 import net.minecraft.util.text.event.HoverEvent;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
-import ru.artfect.wynnlang.Reference;
 import ru.artfect.wynnlang.StringUtil;
 import ru.artfect.wynnlang.WynnLang;
 import ru.artfect.wynnlang.translate.ReverseTranslation;
 
+import java.util.List;
+
 public class Chat extends TranslateType {
-	private ClientChatReceivedEvent event;
-	
-	public Chat(ClientChatReceivedEvent event){
-		this.event = event;
-	}
+    private ClientChatReceivedEvent event;
 
-	public Chat() {
-		
-	}
+    public Chat(ClientChatReceivedEvent event) {
+        this.event = event;
+    }
 
-	public void translate(){
-		ITextComponent rawMsg = event.getMessage();
+    public Chat() {
+
+    }
+
+    public void translate() {
+        ITextComponent rawMsg = event.getMessage();
         String message = rawMsg.getFormattedText();
 
         ClickEvent clickEvent = null;
@@ -57,29 +52,28 @@ public class Chat extends TranslateType {
                 msg.setStyle(style);
             }
             event.setMessage(msg);
-            return;
         }
-	}
-	
-	public String getName(){
-		return "CHAT";
-	}
-	
-	public void reverse(BiMap<String, String> translated){
-		try {
-	    	GuiNewChat chat = Minecraft.getMinecraft().ingameGUI.getChatGUI();
-			List<ChatLine> chatLines = (List<ChatLine>) ReverseTranslation.chatLinesF.get(chat);
-	        for(int i = 0; i != chatLines.size(); i++){
-	        	ChatLine cl = chatLines.get(i);
-	        	String str = cl.getChatComponent().getFormattedText().replaceAll("§r", "");
-	            String replace = translated.get(str);
-	            if (replace != null) {
-	            	chatLines.set(i, new ChatLine(cl.getUpdatedCounter(), new TextComponentString(replace), cl.getChatLineID()));
-	            }
-	        }
-	        chat.refreshChat();
-		} catch (IllegalArgumentException | IllegalAccessException e) {
-			WynnLang.sendMessage("§4Ошибка");
-		}
-	}
+    }
+
+    public String getName() {
+        return "CHAT";
+    }
+
+    public void reverse(BiMap<String, String> translated) {
+        try {
+            GuiNewChat chat = Minecraft.getMinecraft().ingameGUI.getChatGUI();
+            List<ChatLine> chatLines = (List<ChatLine>) ReverseTranslation.chatLinesF.get(chat);
+            for (int i = 0; i != chatLines.size(); i++) {
+                ChatLine cl = chatLines.get(i);
+                String str = cl.getChatComponent().getFormattedText().replaceAll("§r", "");
+                String replace = translated.get(str);
+                if (replace != null) {
+                    chatLines.set(i, new ChatLine(cl.getUpdatedCounter(), new TextComponentString(replace), cl.getChatLineID()));
+                }
+            }
+            chat.refreshChat();
+        } catch (IllegalArgumentException | IllegalAccessException e) {
+            WynnLang.sendMessage("§4Ошибка");
+        }
+    }
 }
