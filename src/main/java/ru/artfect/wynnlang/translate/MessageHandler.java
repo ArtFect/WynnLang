@@ -42,14 +42,10 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
         } else if (msg instanceof SPacketPlayerListItem) {
             SPacketPlayerListItem p = (SPacketPlayerListItem) msg;
             new Playerlist(p).translate();
-        }/* else if (msg instanceof SPacketOpenWindow) {
+        } else if (msg instanceof SPacketOpenWindow) {
             SPacketOpenWindow p = (SPacketOpenWindow) msg;
-            String str = p.getWindowTitle().getUnformattedText();
-            String replace = StringUtil.handleString(StringUtil.StringType.INVENTORY_NAME, str);
-            if (replace != null) {
-                //TODO: replace
-            }
-        } else if (msg instanceof SPacketUpdateScore) {
+            msg = new InventoryName(p).translatePacket();
+        } /*else if (msg instanceof SPacketUpdateScore) {
             SPacketUpdateScore p = (SPacketUpdateScore) msg;
             String str = p.getPlayerName();
             String replace = StringUtil.handleString(StringUtil.StringType.SCOREBOARD, str);
@@ -58,13 +54,7 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
             }
         } else if (msg instanceof SPacketUpdateBossInfo) {
             SPacketUpdateBossInfo p = (SPacketUpdateBossInfo) msg;
-            if (p.getName() != null) {
-                String str = p.getName().getUnformattedText();
-                String replace = StringUtil.handleString(StringUtil.StringType.BOSSBAR, str);
-                if (replace != null) {
-                    //TODO: replace
-                }
-            }
+            new Bossbar(p).translate();
         }*/
         super.channelRead(ctx, msg);
     }

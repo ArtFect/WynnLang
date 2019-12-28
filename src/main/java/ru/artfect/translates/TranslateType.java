@@ -2,10 +2,18 @@ package ru.artfect.translates;
 
 import com.google.common.collect.BiMap;
 
-public abstract class TranslateType {
-    public abstract void translate();
+public class TranslateType {
+    public void translate() {}
 
-    public abstract String getName();
+    public String getName() {
+        return null;
+    }
 
-    public abstract void reverse(BiMap<String, String> biMap);
+    public Object translatePacket() {
+        return null;
+    }
+
+    public void reverse(BiMap<String, String> biMap) {
+
+    }
 }

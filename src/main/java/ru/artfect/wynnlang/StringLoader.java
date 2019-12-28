@@ -20,6 +20,7 @@ public class StringLoader {
         loadList(ItemName.class);
         loadList(Playerlist.class);
         loadList(Title.class);
+        loadList(InventoryName.class);
     }
 
     private static void loadList(Class<? extends TranslateType> type) throws InstantiationException, IllegalAccessException {
