@@ -60,6 +60,8 @@
 §d     -§7 Discoveries Found: §f(.*)@§d     -§7 Открытий Найдено: §f(r1)
 §d     -§7 Location: §fDesert \[(.*)\]@§d     -§7 Локация: §fПустыня [(r1)]
 §d     -§7 Location: §fCorkus \[(.*)\]@§d     -§7 Локация: §fКоркус [(r1)]
+§d     -§7 Location: §fSilent Expanse \[(.*)\]@§d     -§7 Локация: §fТихое Пространство [(r1)]
+§d     -§7 Location: §fNesaak Tundra \[(.*)\]@§d     -§7 Локация: §fНесаак Тундра [(r1)]
 §a(.*) quest items have been returned. @§a(r1) квестовых предметов было возвращено.
 §a(.*) quest items have been returned. There was not room for an additional (.*) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
 §b(.*)§3 has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@§b(r1)§3 Бросил §bДанж Бомбу§3! Каждый вход в данж бесплатен на следующие §b10 минут§3!
@@ -208,6 +210,9 @@
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Взлет
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dWind Surge spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Порыв Ветра
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dGale Funnel spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Воронка Бури
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Бросок
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Аура
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Изгнание
 §4You need a §fⒷ§c Mining§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒷ§c Добычи Руды§4, чтобы собрать этот ресурс!
 §4You need a §fⒿ§c Farming§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒿ§c Земледелия§4, чтобы собрать этот ресурс!
 §4You need a §fⒸ§c Woodcutting§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒸ§c Лесорубства§4, чтобы собрать этот ресурс!
@@ -235,6 +240,7 @@
 §5Only §d(\d+) more level(|s) §5until you can gather from §dCobalt@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКобальт
 §5Only §d(\d+) more level(|s) §5until you can gather from §dLight@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКлен
 §5Only §d(\d+) more level(|s) §5until you can gather from §dDark@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКаштан
+§5Only §d(\d+) more level(|s) §5until you can gather from §dSilver@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСеребро
 §5Only §d(\d+) more level(|s) §5until you can use the §dⒷ Gathering Pickaxe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒷ Сборную Кирку У(r3)
 §5Only §d(\d+) more level(|s) §5until you can use the §dⒸ Gathering Axe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒸ Сборный Топор У(r3)
 §5Only §d(\d+) more level(|s) §5until you can use the §dⓀ Gathering Rod T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⓀ Сборную Удочку У(r3)
@@ -273,6 +279,10 @@
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Прыжка 
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dBlink upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ослепления
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dSky Emblem upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Небесной Эмблемы
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTotem upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Тотем
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Броска
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Изгнания
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ауры
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Взлета
 §b(.*)§3 has disguised as a §bzombie§3!@§b(r1)§3 замаскировался под §bзомби§3!
 §b(.*)§3 has disguised as a §bsheep§3!@§b(r1)§3 замаскировался под §bовцу§3!
@@ -302,12 +312,25 @@
 §4You need to be §cFarming Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Земледелия§4 для старта этого мини-квеста
 §dYou have sold §7(\d+)§d ingredients for a total of §a(.*)§d.@§dТы продал §7(r1)§d ингредиентов на сумму в §a(r2)§d.
 §4You need to be §cMining Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Добычи Руд§4 для старта этого мини-квеста
+§4You need to be §cWoodcutting Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Лесорубства§4 для старта этого мини-квеста
+§4You need to be §cFishing Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Рыболовства§4 для старта этого мини-квеста
 §7Are you sure you want to shout (.*)@§7Уверен, что хочешь отправить (r1)
 §(e|5)That player is not playing on your world (.*)!@§(r1)Этот игрок не играет в твоем мире (r2)!
 §e(.*) has been added to your ignore list!@§e(r1) был добавлен в твой игнор лист!
 §dFailed to §5buy (.*), because the trade was already completed.@§dНе удалось §5купить (r1), потому что торговля была завершена.
+§6(.*) met his fate.@§6(r1) встретил свою судьбу.
+§6(.*) was killed.@§6(r1) был убит.
+§6(.*) bit the dust.@§6(r1) превратился в пыль.
+§6(.*) has died.@§6(r1) умер.
+§6(.*) passed away.@§6(r1) скончался.
+§6(.*) met his demise.@§6(r1) встретил свою кончину.
+§6(.*) has been slain.@§6(r1) был уничтожен.
+§6(.*) is six feet under.@§6(r1) на глубине шести футов.
+§6(.*) has perished.@§6(r1) погиб.
+§6(.*) kicked the bucket.@§6(r1) отбросил коньки.
+(.*) has an invalid spell configuration@(r1) имеет неверную конфигурацию заклинания
 
-====================Playername====================
+############################Playername###################################
 §7\[1\/1\] §2Tasim: §aDon't leave yet, (.*)! We're not done talking.@§7[1/1] §2Tasim: §aНе уходи, (r1)! Мы еще не поговорили.
 §7\[1\/1\] §2Tasim: §aHey, (.*)! Why don't we use that tree you cut down as a bridge\?@§7[1/1] §2Tasim: §aЭй, (r1)! Почему бы нам не использовать срубленное тобой дерево в качестве моста?
 §7\[1\/1\] §2Aledar: §aThe bridge is broken. (.*), let's find another way across!@§7[1/1] §2Aledar: §Этот мост сломан. (r1), давай найдем другой путь на ту сторону!
@@ -350,6 +373,10 @@
 §7\[1\/5\] §2Korzim: §a(.*)... This... This used to be...a Dogun town. The Dwarves rendered it barren.@§7[1/5] §2Korzim: §a(r1)...Это... Это место было...городом Догунов. Гномы сделали его безжизненным.
 §7\[2\/4\] §2Sanba: §aHere is the staff, (.*). Keep it safe, and don't you go dying on us.@§7[2/4] §2Sanba: §aВот предмет, (r1). Береги его и не вздумай умирать.
 
+§7\[1\/4\] §2Korzim: §a(.*)... Do you §ahave...the§a staff\? And the amulet...\?@§7[1/4] §2Корзим: §a(r1)... Предмет у тебя? И амулет...?
+§7\[2\/2\] §2Axelus: §a(.*)! I didn't think you'd be back, but we need to leave, now! Meet me outside!@§7[2/2] §2Axelus: §a(r1)! Я не думал, что ты вернешься, но нам нужно уходить, сейчас же! Встретимся на улице!
+§7\[1\/3\] §2Axelus: §a(.*)! Over here, to the right! By the cannon! I'm commandeering this thing.@§7[1/3] §2Axelus: §a(r1)! Сюда, направо! Вот это пушка! Я реквизирую эту штуку.
+
 §7\[5\/14\] §2Old Man Martyn: §a(.*), I'm sorry I got you dragged into this. I wish I could have done it myself.@§7[5/14] §2Old Man Martyn: §a(r1), прости, что втянул тебя во все это. Хотел бы я сделать это все сам.
 §7\[10\/14\] §2Old Man Martyn: §a(.*), I'm sure we will meet again... in time.@§7[10/14] §2Old Man Martyn: §a(r1), уверен, мы еще встретимся... во времени.
 
@@ -360,37 +387,18 @@
 §7\[3\/5\] §2Ariodo: §aYou are the first normal person I've seen recently, (.*). I went out recently and was met with some very rude remarks by some very rude townsfolk!@§7[3/5] §2Ariodo: §aТы единственный нормальный человек, которого я видел в последнее время, (r1). Я недавно выходил наружу и столкнулся с грубыми оскорблениями от одного грубияна горожанина!
 
 §7\[10\/10\] §2Teacher: §aThe mechanism is behind me now! Come up, come up! See the power of thunder, shackled by our whims, won't you, (.*)\?!@§7[10/10] §2Учитель: §aМеханизм позади меня! Подойди же, подойди! Узри силу грома, скованную нашими капризами, не так ли, (r1)?!
-§7\[1\/2\] §2Teacher: §aWhee hee hee! Thunder tamed, thunder shackled, and your magical wings unbound by such petty concepts, (.*)! What a show!@§7[1/2] §2Учитель: §aВуи-хи-хи! Гром укрощен, гром скован, и твои волшебные крылья не связаны такими мелочными понятиями, (r1)! Ну и шоу!
+§7\[1\/2\] §2Teacher: §aWhee hee hee! Thunder tamed, thunder shackled, and your magical wings unbound by such petty concepts, (.*)! What a show!@§7[1/2] §2Учитель: §aВуи-хи-хи! Гром укрощен, гром скован, и твои волшебные крылья больше не связаны такими мелочными понятиями, (r1)! Ну и шоу!
+§7\[1\/2\] §2Teacher: §aMhm, that's the ticket, (.*). If you're interested in learning more, you can probably find my books at most libraries.@§7[1/2] §2Учитель: §aМхм, это билет, (r1). Если ты заинтересован в получении дополнительной информации, ты вероятно, можешь найти мои книги в большинстве библиотек.
+§7\[1\/2\] §2Teacher: §aDear §alord...that§a was awful. (.*), I can't believe you were able to kill that thing!@§7[1/2] §2Учитель: §aО боже...это было ужасно. (r1), я не могу поверить, что ты смог убить эту тварь!
+§7\[8\/10\] §2Teacher: §aBut aside from that, onto our practical test. You will all come up to me, starting with (.*), and hone your courage. I will be lobbing fireballs at the wall behind you.@§7[8/10] §2Учитель: §aНо хватит об этом, перейдем к нашему практическому тесту. Вы все подойдете ко мне, начиная с (r1), и отточите свое мужество. Я буду швырять огненные шары в стену позади вас.
+§7\[9\/10\] §2Teacher: §aYou will need to destroy the fireballs before they hit the wall, by attacking them directly. If you are hit, it counts as a failure! Now. Let's get started, (.*).@§7[9/10] §2Учитель: §aВам нужно будет уничтожить огненные шары, прежде чем они попадут в стену, атакуя их напрямую. Если по вам попали, это считается неудачей! Итак. Давай начнем, (r1).
+§7\[2\/2\] §2Teacher: §aDismissed, (.*). You may leave. Now, do I have any volunteers for the next round...\?@§7[2/2] §2Учитель: §aОтстранен, (r1). Можешь идти. Теперь, есть ли у меня добровольцы для следующего раунда...?
+§7\[1\/1\] §2Teacher: §aCorrect. (.*), thank you for paying attention. No one ever seems to in this class. You may go.@§7[1/1] §2Учитель: §aВерно. (r1), спасибо, что уделил внимание. В этом классе, кажется, никто никогда этого не делал. Можешь идти.
+§7\[6\/10\] §2Headmaster: §aLet us start with (.*). Please come up to the stage!@§7[6/10] §2Директор: §aДавайте начнем с (r1). Пожалуйста, поднимись на сцену!
+§7\[18\/18\] §2Teacher: §aGAACK! No, (.*), I said RUN! Don't fight that thing, get OUT!@§7[18/18] §2Учитель: §aАААА! Нет, (r1), я сказал БЕГИ! Не сопротивляйся этой твари, убирайся!
 
-------------------------------------------------
-(.*) has logged into server (.*) as §(b|a)a Shaman@(r1) зашел на сервер (r2) классом §(r3)Шаман
-(.*) has logged into server (.*) as §(b|a)a Skyseer@(r1) зашел на сервер (r2) классом §(r3)Провидец
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Бросок
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Аура
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Изгнание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTotem upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Тотем
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Броска
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Изгнания
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ауры
-§6(.*) met his fate.@§6(r1) встретил свою судьбу.
-§6(.*) was killed.@§6(r1) был убит.
-§6(.*) bit the dust.@§6(r1) превратился в пыль.
-§6(.*) has died.@§6(r1) умер.
-§6(.*) passed away.@§6(r1) скончался.
-§6(.*) met his demise.@§6(r1) встретил свою кончину.
-§6(.*) has been slain.@§6(r1) был уничтожен.
-§6(.*) is six feet under.@§6(r1) на глубине шести футов.
-§6(.*) has perished.@§6(r1) погиб.
-§6(.*) kicked the bucket.@§6(r1) отбросил коньки.
-(.*) has an invalid spell configuration@(r1) имеет неверную конфтигурацию заклинания
-§d     -§7 Location: §fSilent Expanse \[(.*)\]@§d     -§7 Локация: §fТихое Пространство [(r1)]
-§d     -§7 Location: §fNesaak Tundra \[(.*)\]@§d     -§7 Локация: §fНесаак Тундра [(r1)]
-§4You need to be §cWoodcutting Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Лесорубства§4 для старта этого мини-квеста
-§4You need to be §cFishing Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужен §c(r1) уровень Рыболовства§4 для старта этого мини-квеста
-§5Only §d(\d+) more level(|s) §5until you can gather from §dSilver@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСеребро
 §7\[1\/1\] §2Lucio: §a(.*)! She was completely right. You ought to come with us...@§7[1/1] §2Луцио: §a(r1)! Она была совершенно права. Ты должен пойти с нами...
 §7\[2\/17\] §2Aledar: §aElphie! Have you found our fourth member yet\?... Oh, (.*)!@§7[2/17] §2Аледар: §aЭльфи! Ты уже нашла нашего четвертого участника?... Ох, (r1)!
-§7\[22\/23\] §2Dr. Picard: §a(.*)! Get out of there! You are being sucked into the memory.@§7[22/23] §2Др. Пикард: §a(r1)! Выбирайся оттуда! Тебя засасывает в память.
 §7\[5\/17\] §2Elphaba: §aHold up. We need to brief (.*). This mission is dangerous. Listen up.@§7[5/17] §2Эльфаба: §aПодожди. Нам нужно проинструктировать (r1). Эта миссия опасна. Слушай сюда.
 §7\[17\/17\] §2Aledar: §a(.*) If you are ready, let’s go.@§7[17/17] §2Аледар: §a(r1) Если ты готов, то пойдем.
 §7\[1\/1\] §2Aledar: §aStay with me, (.*)! We must stay together, this is a dangerous mission.@§7[1/1] §2Аледар: §aОстанься со мной, (r1)! Мы должны держаться вместе, это опасная миссия.
@@ -424,17 +432,7 @@
 §7\[13\/20\] §2Aledar: §aGrab the blade, (.*).@§7[13/20] §2Аледар: §aВозьми клинок, (r1).
 §7Hello, ([a-zA-Z0-9_]{1,16}).@§7Здравствуй, (r1).
 §7\[1\/1\] §2Aledar: §aStay with us (.*), we just got here. We can't just go wandering around.@§7[1/1] §2Аледар: §aОстанься с нами (r1), мы только что пришли. Мы не можем просто бродить вокруг.
-§7\[8\/10\] §2Teacher: §aBut aside from that, onto our practical test. You will all come up to me, starting with (.*), and hone your courage. I will be lobbing fireballs at the wall behind you.@§7[8/10] §2Учитель: §aНо хватит об этом, перейдем к нашему практическому тесту. Вы все подойдете ко мне, начиная с (r1), и отточите свое мужество. Я буду швырять огненные шары в стену позади вас.
-§7\[9\/10\] §2Teacher: §aYou will need to destroy the fireballs before they hit the wall, by attacking them directly. If you are hit, it counts as a failure! Now. Let's get started, (.*).@§7[9/10] §2Учитель: §aВам нужно будет уничтожить огненные шары, прежде чем они попадут в стену, атакуя их напрямую. Если по вам попали, это считается неудачей! Итак. Давай начнем, (r1).
-§7\[2\/2\] §2Teacher: §aDismissed, (.*). You may leave. Now, do I have any volunteers for the next round...\?@§7[2/2] §2Учитель: §aОтстранен, (r1). Можешь идти. Теперь, есть ли у меня добровольцы для следующего раунда...?
-§7\[1\/1\] §2Teacher: §aCorrect. (.*), thank you for paying attention. No one ever seems to in this class. You may go.@§7[1/1] §2Учитель: §aВерно. (r1), спасибо, что уделил внимание. В этом классе, кажется, никто никогда этого не делал. Можешь идти.
-§7\[6\/10\] §2Headmaster: §aLet us start with (.*). Please come up to the stage!@§7[6/10] §2Директор: §aДавайте начнем с (r1). Пожалуйста, поднимись на сцену!
-§7\[18\/18\] §2Teacher: §aGAACK! No, (.*), I said RUN! Don't fight that thing, get OUT!@§7[18/18] §2Учитель: §aААГА! Нет, (r1), я сказал БЕГИ! Не сопротивляйся этой твари, убирайся!
-§7\[1\/4\] §2Korzim: §a(.*)... Do you §ahave...the§a staff\? And the amulet...\?@§7[1/4] §2Корзим: §a(r1)... Предмет у тебя? И амулет...?
-§7\[1\/2\] §2Teacher: §aMhm, that's the ticket, (.*). If you're interested in learning more, you can probably find my books at most libraries.@§7[1/2] §2Учитель: §aМхм, это билет, (r1). Если ты заинтересован в получении дополнительной информации, ты вероятно, можешь найти мои книги в большинстве библиотек.
-§7\[1\/2\] §2Teacher: §aDear §alord...that§a was awful. (.*), I can't believe you were able to kill that thing!@§7[1/2] §2Учитель: §aО боже...это было ужасно. (r1), я не могу поверить, что ты смог убить эту тварь!
-§7\[2\/2\] §2Axelus: §a(.*)! I didn't think you'd be back, but we need to leave, now! Meet me outside!@§7[2/2] §2Axelus: §a(r1)! Я не думал, что ты вернешься, но нам нужно уходить, сейчас же! Встретимся на улице!
-§7\[1\/3\] §2Axelus: §a(.*)! Over here, to the right! By the cannon! I'm commandeering this thing.@§7[1/3] §2Axelus: §a(r1)! Сюда, направо! Вот это пушка! Я реквизирую эту штуку.
-
 
 §7\[3\/4\] §2Employee: §aYes sir, everything went smoothly, (.*) did a great thing for the company.@§7[3/4] §2Служащий: §aДа сэр, все прошло гладко, (r1) сделал великое дело для компании.
+
+§7\[22\/23\] §2Dr. Picard: §a(.*)! Get out of there! You are being sucked into the memory.@§7[22/23] §2Др. Пикард: §a(r1)! Выбирайся оттуда! Тебя засасывает в память.
