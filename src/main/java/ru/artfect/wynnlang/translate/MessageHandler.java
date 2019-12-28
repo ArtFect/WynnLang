@@ -45,6 +45,9 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
         } else if (msg instanceof SPacketOpenWindow) {
             SPacketOpenWindow p = (SPacketOpenWindow) msg;
             msg = new InventoryName(p).translatePacket();
+        } else if (msg instanceof SPacketUpdateBossInfo) {
+            SPacketUpdateBossInfo p = (SPacketUpdateBossInfo) msg;
+            msg = new BossBar(p).translatePacket();
         } /*else if (msg instanceof SPacketUpdateScore) {
             SPacketUpdateScore p = (SPacketUpdateScore) msg;
             String str = p.getPlayerName();
@@ -52,9 +55,6 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
             if (replace != null) {
                 //TODO: replace
             }
-        } else if (msg instanceof SPacketUpdateBossInfo) {
-            SPacketUpdateBossInfo p = (SPacketUpdateBossInfo) msg;
-            new Bossbar(p).translate();
         }*/
         super.channelRead(ctx, msg);
     }
