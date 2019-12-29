@@ -19,9 +19,11 @@ public class ItemName extends TranslateType {
 
     @Override
     public void translate() {
-        String nameReplace = StringUtil.handleString(this, item.getDisplayName());
-        if (nameReplace != null) {
-            item.setStackDisplayName(nameReplace);
+        if(item.getDisplayName() != null){
+            String nameReplace = StringUtil.handleString(this, item.getDisplayName());
+            if (nameReplace != null) {
+                item.setStackDisplayName(nameReplace);
+            }
         }
     }
 

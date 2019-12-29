@@ -31,6 +31,9 @@ public class ItemLore extends TranslateType {
             return;
         }
         NBTTagCompound disp = nbt.getCompoundTag("display");
+        if (disp == null) {
+            return;
+        }
         NBTTagList list = new NBTTagList();
         NBTTagList lore = disp.getTagList("Lore", Constants.NBT.TAG_STRING);
         for (int j = 0; j < lore.tagCount(); j++) {

@@ -22,6 +22,7 @@ public class Playerlist extends TranslateType {
 
     public void translate() {
         List<AddPlayerData> playerlist = packet.getEntries();
+        if (playerlist == null) return;
         for (int i = 0; i != playerlist.size(); i++) {
             AddPlayerData data = playerlist.get(i);
             if (data.getDisplayName() != null) {

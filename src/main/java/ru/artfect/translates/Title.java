@@ -17,10 +17,12 @@ public class Title extends TranslateType {
     }
 
     public Object translatePacket() {
-        String str = title.getMessage().getFormattedText().replace("§r", "");
-        String replace = StringUtil.handleString(this, str);
-        if (replace != null) {
-            return new SPacketTitle(title.getType(), new TextComponentString(replace), title.getFadeInTime(), title.getDisplayTime(), title.getFadeOutTime());
+        if(title.getMessage() != null){
+            String str = title.getMessage().getFormattedText().replace("§r", "");
+            String replace = StringUtil.handleString(this, str);
+            if (replace != null) {
+                return new SPacketTitle(title.getType(), new TextComponentString(replace), title.getFadeInTime(), title.getDisplayTime(), title.getFadeOutTime());
+            }
         }
         return title;
     }
