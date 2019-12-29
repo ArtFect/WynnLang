@@ -42,10 +42,10 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
         } else if (msg instanceof SPacketPlayerListItem) {
             SPacketPlayerListItem p = (SPacketPlayerListItem) msg;
             new Playerlist(p).translate();
-        } else if (msg instanceof SPacketOpenWindow) {
+        } /*else if (msg instanceof SPacketOpenWindow) {
             SPacketOpenWindow p = (SPacketOpenWindow) msg;
             msg = new InventoryName(p).translatePacket();
-        } else if (msg instanceof SPacketUpdateBossInfo) {
+        }*/ else if (msg instanceof SPacketUpdateBossInfo) {
             SPacketUpdateBossInfo p = (SPacketUpdateBossInfo) msg;
             msg = new BossBar(p).translatePacket();
         } else if (msg instanceof SPacketUpdateScore) {
