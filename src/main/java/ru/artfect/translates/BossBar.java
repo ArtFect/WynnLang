@@ -18,10 +18,12 @@ public class BossBar extends TranslateType {
     }
 
     public Object translatePacket() {
-        String str = p.getName().getUnformattedText();
-        String replace = StringUtil.handleString(this, str);
-        if (replace != null) {
-            return new SPacketUpdateBossInfo(p.getOperation(), new BossInfoServer(new TextComponentString(replace), p.getColor(), p.getOverlay()));
+        if(p.getName() != null){
+            String str = p.getName().getUnformattedText();
+            String replace = StringUtil.handleString(this, str);
+            if (replace != null) {
+                return new SPacketUpdateBossInfo(p.getOperation(), new BossInfoServer(new TextComponentString(replace), p.getColor(), p.getOverlay()));
+            }
         }
         return p;
     }

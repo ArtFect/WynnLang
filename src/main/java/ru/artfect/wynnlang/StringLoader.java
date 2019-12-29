@@ -21,6 +21,8 @@ public class StringLoader {
         loadList(Playerlist.class);
         loadList(Title.class);
         loadList(InventoryName.class);
+        loadList(BossBar.class);
+        loadList(Scoreboard.class);
     }
 
     private static void loadList(Class<? extends TranslateType> type) throws InstantiationException, IllegalAccessException {
