@@ -38,7 +38,7 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
             new Entity(p.getDataManagerEntries()).translate();
         } else if (msg instanceof SPacketTitle) {
             SPacketTitle p = (SPacketTitle) msg;
-            new Title(p).translate();
+            msg = new Title(p).translatePacket();
         } else if (msg instanceof SPacketPlayerListItem) {
             SPacketPlayerListItem p = (SPacketPlayerListItem) msg;
             new Playerlist(p).translate();
