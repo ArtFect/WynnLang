@@ -55,7 +55,6 @@ public class StringLoader {
     }
 
     private static void loadFile(String fileName, Map map, boolean regex) throws IOException {
-        System.out.println(fileName);
         BufferedReader br = new BufferedReader(new InputStreamReader(WynnLang.class.getResourceAsStream("/" + fileName), StandardCharsets.UTF_8));
         String line;
         while ((line = br.readLine()) != null) {
