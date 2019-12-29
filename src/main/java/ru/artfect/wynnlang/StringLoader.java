@@ -1,6 +1,7 @@
 package ru.artfect.wynnlang;
 
 import com.google.common.collect.HashBiMap;
+import net.minecraftforge.fml.common.Loader;
 import ru.artfect.translates.*;
 import ru.artfect.wynnlang.translate.ReverseTranslation;
 
@@ -35,19 +36,26 @@ public class StringLoader {
             String line;
             HashMap map = WynnLang.common.get(type);
             while ((line = br.readLine()) != null) {
-                loadFile(name + "/" + line, map, false);
+                if(line.contains("wynntils")){
+                    if(!Loader.isModLoaded("wynntils")){
+                        if(line.contains("Regex")){
+                            loadFile(name + "/wynntilsRegex.txt", WynnLang.regex.get(type), true);
+                        } else {
+                            loadFile(name + "/wynntils.txt", WynnLang.common.get(type), false);
+                        }
+                    }
+                } else {
+                    loadFile(name + "/" + line, map, false);
+                }
             }
             loadFile(name + "/regex.txt", WynnLang.regex.get(type), true);
-            //if(!Loader.isModLoaded("wynntils")){
-            //	loadFile(type.getName() + "/wynntilsRegex.txt", WynnLang.regex.get(type), true);
-            //	loadFile(type.getName() + "/wynntils.txt", WynnLang.common.get(type), false);
-            //}
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
     private static void loadFile(String fileName, Map map, boolean regex) throws IOException {
+        System.out.println(fileName);
         BufferedReader br = new BufferedReader(new InputStreamReader(WynnLang.class.getResourceAsStream("/" + fileName), StandardCharsets.UTF_8));
         String line;
         while ((line = br.readLine()) != null) {
