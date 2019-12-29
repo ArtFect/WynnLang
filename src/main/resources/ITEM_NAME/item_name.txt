@@ -626,6 +626,7 @@
 §fDernic Ingot§6 [§e✫§8✫✫§6]À@§fСлиток Дерник§6 [§e✫§8✫✫§6]
 §fDernic Ingot§6 [§e✫✫✫§6]À@§fСлиток Дерник§6 [§e✫✫✫§6]
 §fDernic Oil§6 [§e✫✫✫§6]À@§fЖир Дерник§6 [§e✫✫✫§6]
+§fDernic Oil§6 [§e✫§8✫✫§6]À@§fЖир Дерник§6 [§e✫§8✫✫§6]
 §fDernic String§6 [§e✫§8✫✫§6]À@§fДерник Нить§6 [§e✫§8✫✫§6]
 §fDernic Gem§6 [§e✫✫§8✫§6]À@§fДерник Камень§6 [§e✫✫§8✫§6]
 §fDernic Gem§6 [§e✫✫✫§6]À@§fДерник Камень§6 [§e✫✫✫§6]
@@ -1727,6 +1728,7 @@ Suspended Droplets@Висящие Капли
 §fFiery Spear@§fПламенное Копье
 §fFiery Wand@§fПламенный Посох
 §fFiery Dagger@§fПламенный Кинжал
+§fFiery Relik@§fПламенный Релик
 Dark Aura@Темная Аура
 Mud Ball@Шарик Грязи
 Overgrown Bundle@Заросший Пакет
@@ -1884,7 +1886,9 @@ Queen's Treasure Stash Key@Ключ от Тайника Королевы
 §fMechanical Piece@§fМеханическая Деталь
 §fPower Source@§fИсточник Энергии
 Study Results@Результаты Исследований
+§rStudy Results@§fРезультаты Исследований
 Scorched Root@Выжженный Корень
+§rScorched Root@§fВыжженный Корень
 Rusty Shovel@Ржавая Лопата
 §fThe Staff of True Ice@§fПредмет Чистого Льда
 Cannon Key@Ключ от Пушки
