@@ -15,15 +15,20 @@ import java.util.regex.Pattern;
 
 public class StringLoader {
     public static void load() throws InstantiationException, IllegalAccessException {
-        loadList(Chat.class);
-        loadList(Entity.class);
-        loadList(ItemLore.class);
-        loadList(ItemName.class);
-        loadList(Playerlist.class);
-        loadList(Title.class);
-        loadList(InventoryName.class);
-        loadList(BossBar.class);
-        loadList(Scoreboard.class);
+        loadType(Chat.class);
+        loadType(Entity.class);
+        loadType(ItemLore.class);
+        loadType(ItemName.class);
+        loadType(Playerlist.class);
+        loadType(Title.class);
+        loadType(InventoryName.class);
+        loadType(BossBar.class);
+        loadType(Scoreboard.class);
+    }
+
+    private static void loadType(Class<? extends TranslateType> type) throws IllegalAccessException, InstantiationException {
+        Log.loadLogFile(type);
+        loadList(type);
     }
 
     private static void loadList(Class<? extends TranslateType> type) throws InstantiationException, IllegalAccessException {

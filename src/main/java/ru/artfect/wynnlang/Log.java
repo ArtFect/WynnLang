@@ -9,7 +9,7 @@ import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.message.BasicNameValuePair;
-import ru.artfect.translates.*;
+import ru.artfect.translates.TranslateType;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -30,7 +30,7 @@ public class Log {
     private static HashMap<Class <? extends TranslateType>, List<String>> newStr = new HashMap<>();
 
     public Log() throws IOException {
-        loadLogs();
+        initLogs();
 
         Multithreading.schedule(() -> {
             try {
@@ -41,18 +41,11 @@ public class Log {
         }, 1, 1, TimeUnit.MINUTES);
     }
     
-    public static void loadLogs() throws IOException{
+    public static void initLogs() throws IOException{
         Path lpath = Paths.get(LOG_PATH);
         if (!Files.exists(lpath)) {
             Files.createDirectories(lpath);
         }
-        
-        loadLogFile(Chat.class);
-        loadLogFile(Entity.class);
-        loadLogFile(ItemLore.class);
-        loadLogFile(ItemName.class);
-        loadLogFile(Playerlist.class);
-        loadLogFile(Title.class);
     }
 
     public static void saveAndSend() throws ClientProtocolException, IOException, InstantiationException, IllegalAccessException {
@@ -86,7 +79,7 @@ public class Log {
         client.close();
     }
 
-    private static void loadLogFile(Class<? extends TranslateType> tClass) {
+    public static void loadLogFile(Class<? extends TranslateType> tClass) {
         try {
             Path p = Paths.get(LOG_PATH + tClass.getName() + ".txt");
             if (p.toFile().exists()) {

@@ -42,8 +42,8 @@ public class WynnLang {
         ClientCommandHandler.instance.registerCommand(new RuCommand());
 
         Config.loadConfigFromFile();
-        StringLoader.load();
         new Log();
+        StringLoader.load();
         Reference.ruChat = new RuChat();
         RuChat.startTimer();
     }
