@@ -346,6 +346,8 @@
 §7\[7\/8\] §2Guard: §aIn my current state, I'm too weak to destroy this boulder. But since you're a Shaman, (.*), you can help me.@§7[7/8] §2Guard: §aВ моем нынешнем состоянии я слишком слаб, чтобы сломать этот камень. Но поскольку ты Шаман, (r1), ты можешь помочь мне.
 §7\[7\/8\] §2Guard: §a(.*), you're a Mage, right? Gonna need you to stay close to me.@§7[7/8] §2Guard: §a(r1), ты ведь Маг, верно? Встань поближе ко мне.
 §7\[7\/8\] §2Guard: §a(.*), you're a Warrior, right? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Воин, верно? Подойди поближе к валуну.
+§7\[7\/8\] §2Guard: §a(.*), you're an Assassin, right? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Ассасин, верно? Подойди поближе к валуну.
+§7\[7\/8\] §2Guard: §a(.*), you're an Archer, right? Walk up to the boulder for me.@§7[7/8] §2Guard: §a(r1), ты ведь Лучник, верно? Подойди поближе к валуну.
 §7\[2\/2\] §2Tasim: §aHey, (.*)! You alright in there\? Looks like we hit something.@§7[2/2] §2Tasim: §aЭй, (r1)! Ты там в порядке? Похоже, мы обо что-то ударились.
 §7\[1\/1\] §2Tasim: §aHey, (.*)! You alright in there\? Looks like we hit something.@§7[1/1] §2Tasim: §aЭй, (r1)! Ты там в порядке? Похоже, мы обо что-то ударились.
 §7\[4\/4\] §2Aledar: §aIt's not that far, it's just a straight path from here. (.*), if you're ready, let's get moving.@§7[4/4] §2Aledar: §aЭто не далеко, там идет прямой путь отсюда. (r1), если ты готов, то пойдем.
