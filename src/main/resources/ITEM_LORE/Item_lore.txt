@@ -376,6 +376,31 @@
 §3§b+Roving Assassin: §3Vanish@§3§b+Roving Assassin: §3Исчезновение
 §3no longer drains mana while@§3больше не тратит ману при
 §3invisible@§3невидимости
+§3§b+Lightweight: §3Removes fall@§3§b+Lightweight: §3Убирает урон от
+§3damage@§3падений
+§3significantly faster@§3значительно быстрее
+§3§b+Hawkeye: §3Arrow storm fires@§3§b+Hawkeye: §3Шторм Стрел выстреливает
+§35 powerful arrows@§35 мощными стрелами
+§3§b+Sorcery: §3Spells may cast@§3§b+Sorcery: §3Заклинания могут кастоваться
+§3a second time at no additional@§3второй раз без использования
+§3cost@§3маны
+§3§b+Plague: §3Poisoned mobs@§3§b+Plague: §3Отравленные мобы
+§3spread poison to nearby mobs@§3распространяют яд на ближайших мобов
+§3§b+Transcendence: §350% chance@§3§b+Transcendence: §350% шанс на
+§3for spells to cost no mana@§3каст заклинания без использования
+§3when casted@§3маны
+§3§b+Greed: §3Picking up emeralds@§3§b+Greed: §3Подбор эмеральдов
+§3heals you and nearby players@§3лечит тебя и ближайших игроков 
+§3for 20% max health@§3на 20% от максимума здоровья
+§3§b+Taunt: §3War Scream makes@§3§b+Taunt: §3Боевой Клич заставляет
+§3nearby mobs target you@§3ближайших мобов идти к тебе
+§3§b+Madness: §3Cast a random@§3§b+Madness: §3Кастует рандомную
+§3ability every 10s@§3способность каждые 10с
+§3§b+Cavalryman: §3Can attack@§3§b+Cavalryman: §3Можно атаковать
+§3mobs while riding a horse@§3мобов при езде на лошади
+§3§b+Heart of the Pack: §3Nearby@§3§b+Heart of the Pack: §3Ближайшие
+§3players gain 30% of the health@§3игроки получают 30% здоровья
+§3you naturally regenerate@§3которое ты регенирируешь
 
 #####################Рецепты################################
 §6§lRing Recipes:@§6§lРецепты Колец:
@@ -1882,6 +1907,20 @@
 §a- §7Effect: §f+12% Main Attack Damage@§a- §7Эффект: §f+12% Урона Основной Атаки
 §a- §7Effect: §f+24% Main Attack Damage@§a- §7Эффект: §f+24% Урона Основной Атаки
 §a- §7Effect: §f+8 Main Attack Damage@§a- §7Эффект: §f+8 Урона Основной Атаки
+§a- §7Effect: §f+36% Main Attack Damage@§a- §7Эффект: §f+36% Урона Основной Атаки
+§a- §7Effect: §f+6% Main Attack Damage@§a- §7Эффект: §f+6% Урона Основной Атаки
+§a- §7Effect: §f+30% Main Attack Damage@§a- §7Эффект: §f+30% Урона Основной Атаки
+§a- §7Effect: §f+50% Main Attack Damage@§a- §7Эффект: §f+50 Урона Основной Атаки
+§a- §7Effect: §f+18% Main Attack Damage@§a- §7Эффект: §f+18 Урона Основной Атаки
+§a- §7Effect: §f+42% Main Attack Damage@§a- §7Эффект: §f+42 Урона Основной Атаки
+§a- §7Effect: §f+28 Main Attack Neutral Damage@§a- §7Эффект: §f+28 Нейтрального Урона Основной Атаки
+§a- §7Effect: §f+4 Main Attack Neutral Damage@§a- §7Эффект: §f+4 Нейтрального Урона Основной Атаки
+§a- §7Effect: §f+44 Main Attack Neutral Damage@§a- §7Эффект: §f+44 Нейтрального Урона Основной Атаки
+§a- §7Effect: §f+2 Main Attack Neutral Damage@§a- §7Эффект: §f+2 Нейтрального Урона Основной Атаки
+§a- §7Effect: §f+16 Main Attack Neutral Damage@§a- §7Эффект: §f+16 Нейтрального Урона Основной Атаки
+§a- §7Effect: §f+100 Main Attack Neutral Damage@§a- §7Эффект: §f+100 Нейтрального Урона Основной Атаки
+§a- §7Effect: §f+64 Main Attack Neutral Damage@§a- §7Эффект: §f+64 Нейтрального Урона Основной Атаки
+§a- §7Effect: §f+8 Main Attack Neutral Damage@§a- §7Эффект: §f+8 Нейтрального Урона Основной Атаки
 §f- §7Effect: §fDrunkness@§f- §7Эффект: §fОпьянение
 §8§8Drinking this potion will@§8§8Употребление этого зелья 
 §8regenerate your health over@§8восстанавливает твое здоровье в течение 
@@ -1958,6 +1997,10 @@
 §8by 30 and boost your Spell@§8на 30 и увеличит твой Заклинаний
 §830 and boost your Main Attack@§830 и увеличит твою Основную Атаку
 §834 and boost your Main Attack@§834 и увеличит твою Основную Атаку
+§847 and boost your Main Attack@§847 и увеличит твою Основную Атаку
+§840 and boost your Main Attack@§840 и увеличит твою Основную Атаку
+§871 and boost your Main Attack@§871 и увеличит твою Основную Атаку
+§857 and boost your Main Attack@§857 и увеличит твою Основную Атаку
 §8Damage by +50% for 480 seconds@§8Урон на +50% в течение 480 секунд
 §8Damage by +30% for 300 seconds@§8Урон на +30% в течение 300 секунд
 §8Damage by +42% for 420 seconds@§8Урон на +42% в течение 420 секунд
@@ -1999,6 +2042,14 @@
 §8by +4 for 120 seconds@§8на +4 в течение 120 секунд
 §8by +6% for 60 seconds@§8на +6% в течение 60 секунд
 §8by +80 for 60 seconds@§8на +80 в течение 60 секунд
+§8Neutral Damage by +28 for@§8Нейтральный Урон на +28 в течение
+§8Neutral Damage by +4 for@§8Нейтральный Урон на +4 в течение
+§8Neutral Damage by +44 for@§8Нейтральный Урон на +44 в течение
+§8Neutral Damage by +2 for@§8Нейтральный Урон на +2 в течение
+§8Neutral Damage by +16 for@§8Нейтральный Урон на +16 в течение
+§8Neutral Damage by +100 for@§8Нейтральный Урон на +100 в течение
+§8Neutral Damage by +64 for@§8Нейтральный Урон на +64 в течение
+§8Neutral Damage by +8 for@§8Нейтральный Урон на +8 в течение
 §8boost your ✹ Defence by@§8увеличит твою ✹ Защиту на
 §8boost your ✤ Strength by@§8увеличит твою ✤ Силу на
 §8boost your ✦ Dexterity by@§8увеличит твою ✦ Точность на
@@ -2007,6 +2058,14 @@
 §8for 150 seconds.@§8в течение 150 секунд.
 §8for 90 seconds.@§8в течение 90 секунд.
 §8for 210 seconds.@§8в течение 210 секунд.
+§8300 seconds@§8300 секунд
+§8120 seconds@§8120 секунд
+§8360 seconds@§8360 секунд
+§860 seconds@§860 секунд
+§8240 seconds@§8240 секунд
+§8480 seconds@§8480 секунд
+§8420 seconds@§8420 секунд
+§8180 seconds@§8180 секунд
 §7+15% Speed boost per@§7+15% увеличения Скорости на
 §7boat within 20 blocks of you@§7лодку в пределах 20 блоков от тебя
 §8make you drunk over 120@§8делает тебя пьяным на 120
@@ -2692,65 +2751,11 @@
 
 -----------------------------------------
 
-§a- §7Effect: §f+36% Main Attack Damage@§a- §7Эффект: §f+36% Урона Основной Атаки
-§a- §7Effect: §f+6% Main Attack Damage@§a- §7Эффект: §f+6% Урона Основной Атаки
-§a- §7Effect: §f+30% Main Attack Damage@§a- §7Эффект: §f+30% Урона Основной Атаки
-§a- §7Effect: §f+50% Main Attack Damage@§a- §7Эффект: §f+50 Урона Основной Атаки
-§a- §7Effect: §f+18% Main Attack Damage@§a- §7Эффект: §f+18 Урона Основной Атаки
-§a- §7Effect: §f+42% Main Attack Damage@§a- §7Эффект: §f+42 Урона Основной Атаки
-§a- §7Effect: §f+28 Main Attack Neutral Damage@§a- §7Эффект: §f+28 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+4 Main Attack Neutral Damage@§a- §7Эффект: §f+4 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+44 Main Attack Neutral Damage@§a- §7Эффект: §f+44 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+2 Main Attack Neutral Damage@§a- §7Эффект: §f+2 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+16 Main Attack Neutral Damage@§a- §7Эффект: §f+16 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+100 Main Attack Neutral Damage@§a- §7Эффект: §f+100 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+64 Main Attack Neutral Damage@§a- §7Эффект: §f+64 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+8 Main Attack Neutral Damage@§a- §7Эффект: §f+8 Нейтрального Урона Основной Атаки
-§847 and boost your Main Attack@§847 и увеличит твою Основную Атаку
-§840 and boost your Main Attack@§840 и увеличит твою Основную Атаку
-§871 and boost your Main Attack@§871 и увеличит твою Основную Атаку
-§857 and boost your Main Attack@§857 и увеличит твою Основную Атаку
-§8Neutral Damage by +28 for@§8Нейтральный Урон на +28 в течение
-§8Neutral Damage by +4 for@§8Нейтральный Урон на +4 в течение
-§8Neutral Damage by +44 for@§8Нейтральный Урон на +44 в течение
-§8Neutral Damage by +2 for@§8Нейтральный Урон на +2 в течение
-§8Neutral Damage by +16 for@§8Нейтральный Урон на +16 в течение
-§8Neutral Damage by +100 for@§8Нейтральный Урон на +100 в течение
-§8Neutral Damage by +64 for@§8Нейтральный Урон на +64 в течение
-§8Neutral Damage by +8 for@§8Нейтральный Урон на +8 в течение
-§8300 seconds@§8300 секунд
-§8120 seconds@§8120 секунд
-§8360 seconds@§8360 секунд
-§860 seconds@§860 секунд
-§8240 seconds@§8240 секунд
-§8480 seconds@§8480 секунд
-§8420 seconds@§8420 секунд
-§8180 seconds@§8180 секунд
-§3§b+Lightweight: §3Removes fall@§3§b+Lightweight: §3Убирает урон от
-§3damage@§3падений
-§3significantly faster@§3значительно быстрее
-§3§b+Hawkeye: §3Arrow storm fires@§3§b+Hawkeye: §3Шторм Стрел выстреливает
-§35 powerful arrows@§35 мощными стрелами
-§3§b+Sorcery: §3Spells may cast@§3§b+Sorcery: §3Заклинания могут кастоваться
-§3a second time at no additional@§3второй раз без использования
-§3cost@§3маны
-§3§b+Plague: §3Poisoned mobs@§3§b+Plague: §3Отравленные мобы
-§3spread poison to nearby mobs@§3распространяют яд на ближайших мобов
-§3§b+Transcendence: §350% chance@§3§b+Transcendence: §350% шанс на
-§3for spells to cost no mana@§3каст заклинания без использования
-§3when casted@§3маны
-§3§b+Greed: §3Picking up emeralds@§3§b+Greed: §3Подбор эмеральдов
-§3heals you and nearby players@§3лечит тебя и ближайших игроков 
-§3for 20% max health@§3на 20% от максимума здоровья
-§3§b+Taunt: §3War Scream makes@§3§b+Taunt: §3Боевой Клич заставляет
-§3nearby mobs target you@§3ближайших мобов идти к тебе
-§3§b+Madness: §3Cast a random@§3§b+Madness: §3Кастует рандомную
-§3ability every 10s@§3способность каждые 10с
-§3§b+Cavalryman: §3Can attack@§3§b+Cavalryman: §3Можно атаковать
-§3mobs while riding a horse@§3мобов при езде на лошади
-§3§b+Heart of the Pack: §3Nearby@§3§b+Heart of the Pack: §3Ближайшие
-§3players gain 30% of the health@§3игроки получают 30% здоровья
-§3you naturally regenerate@§3которое ты регенирируешь
+
+
+
+
+
 §6 - §c✖ §41 Broken CorruptedÀÀÀUndergrowthÀÀÀRuins Key@§6 - §c✖ §41 Разбитый Испорченный Ключ от Заросших Руин
 §6 - §c✖ §42 Corrupted Undergrowth Ruins Fragment@§6 - §c✖ §42 Испорченных Фрагмента Заросших Руин
 §6 - §c✖ §410 Corrupted Undergrowth Ruins Fragment@§6 - §c✖ §410 Испорченных Фрагментов Заросших Руин
