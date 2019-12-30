@@ -395,7 +395,7 @@
 §6§lRelik Recipes:@§6§lРецепты Реликов:
 §a✔ Lv. 1: §f1§7 Refined Copper Gem§f Ⓑ@§a✔ Ур. 1: §f1§7 Переработанный Медный Камень§f Ⓑ 
 §a✔ Lv. 1: §f1§7 Refined Copper Ingot§f Ⓑ@§a✔ Ур. 1: §f1§7 Переработанный Слиток Меди§f Ⓑ
-§a✔ Lv. 1: §f2§7 Refined Copper Ingot§f Ⓑ@§a✔ Ур. 1: §f2§7 Переработанный Слиток Меди§f Ⓑ
+§a✔ Lv. 1: §f2§7 Refined Copper Ingot§f Ⓑ@§a✔ Ур. 1: §f2§7 Переработанных Слитка Меди§f Ⓑ
 §a✔ Lv. 1: §f1§7 Refined Gudgeon Oil§f Ⓚ@§a✔ Ур. 1: §f1§7 Переработанный Жир Пескаря§f Ⓚ
 §a✔ Lv. 1: §f2§7 Refined Gudgeon Meat§f Ⓚ@§a✔ Ур. 1: §f2§7 Переработанное Мясо Пескаря§f Ⓚ
           §f1§7 Refined Gudgeon Oil§f Ⓚ@          §f1§7 Переработанный Жир Пескаря§f Ⓚ
@@ -624,80 +624,80 @@
 
 #####################Цены у торговцев##################
 §6 - §c✖ §41 Witherhead's Rib@§6 - §c✖ §41 Ребро Визерхеда
-§6 - §c✖ §42 Witherhead's Rib@§6 - §c✖ §42 Ребро Визерхеда
-§6 - §c✖ §43 Witherhead's Rib@§6 - §c✖ §43 Ребро Визерхеда
+§6 - §c✖ §42 Witherhead's Rib@§6 - §c✖ §42 Ребра Визерхеда
+§6 - §c✖ §43 Witherhead's Rib@§6 - §c✖ §43 Ребра Визерхеда
 §6 - §a✔ §21 Witherhead's Rib@§6 - §a✔ §21 Ребро Визерхеда
-§6 - §a✔ §22 Witherhead's Rib@§6 - §a✔ §22 Ребро Визерхеда
-§6 - §a✔ §23 Witherhead's Rib@§6 - §a✔ §23 Ребро Визерхеда
-§6 - §c✖ §43 Corrupted Witherhead's Rib@§6 - §c✖ §43 Испорченное Ребро Визерхеда
-§6 - §c✖ §44 Corrupted Witherhead's Rib@§6 - §c✖ §44 Испорченное Ребро Визерхеда
-§6 - §c✖ §46 Corrupted Witherhead's Rib@§6 - §c✖ §46 Испорченное Ребро Визерхеда
-§6 - §a✔ §23 Corrupted Witherhead's Rib@§6 - §a✔ §23 Испорченное Ребро Визерхеда
-§6 - §a✔ §24 Corrupted Witherhead's Rib@§6 - §a✔ §24 Испорченное Ребро Визерхеда
-§6 - §a✔ §26 Corrupted Witherhead's Rib@§6 - §a✔ §26 Испорченное Ребро Визерхеда
-§6 - §c✖ §44 Decrepit Sewers Fragment@§6 - §c✖ §44 Ветхая Канализация Фрагмент
-§6 - §c✖ §41 Decrepit Sewers Fragment@§6 - §c✖ §41 Ветхая Канализация Фрагмент
-§6 - §c✖ §42 Decrepit Sewers Fragment@§6 - §c✖ §42 Ветхая Канализация Фрагмент
-§6 - §a✔ §24 Decrepit Sewers Fragment@§6 - §a✔ §24 Ветхая Канализация Фрагмент
-§6 - §a✔ §21 Decrepit Sewers Fragment@§6 - §a✔ §21 Ветхая Канализация Фрагмент
-§6 - §a✔ §22 Decrepit Sewers Fragment@§6 - §a✔ §22 Ветхая Канализация Фрагмент
-§6 - §c✖ §42 Corrupted Decrepit Sewers Fragment@§6 - §c✖ §42 Испорченный Ветхая Канализация Фрагмент
-§6 - §c✖ §46 Corrupted Decrepit Sewers Fragment@§6 - §c✖ §46 Испорченный Ветхая Канализация Фрагмент
-§6 - §a✔ §26 Corrupted Decrepit Sewers Fragment@§6 - §a✔ §26 Испорченный Ветхая Канализация Фрагмент
-§6 - §a✔ §22 Corrupted Decrepit Sewers Fragment@§6 - §a✔ §22 Испорченный Ветхая Канализация Фрагмент
+§6 - §a✔ §22 Witherhead's Rib@§6 - §a✔ §22 Ребра Визерхеда
+§6 - §a✔ §23 Witherhead's Rib@§6 - §a✔ §23 Ребра Визерхеда
+§6 - §c✖ §43 Corrupted Witherhead's Rib@§6 - §c✖ §43 Испорченных Ребра Визерхеда
+§6 - §c✖ §44 Corrupted Witherhead's Rib@§6 - §c✖ §44 Испорченных Ребра Визерхеда
+§6 - §c✖ §46 Corrupted Witherhead's Rib@§6 - §c✖ §46 Испорченных Ребер Визерхеда
+§6 - §a✔ §23 Corrupted Witherhead's Rib@§6 - §a✔ §23 Испорченных Ребра Визерхеда
+§6 - §a✔ §24 Corrupted Witherhead's Rib@§6 - §a✔ §24 Испорченных Ребра Визерхеда
+§6 - §a✔ §26 Corrupted Witherhead's Rib@§6 - §a✔ §26 Испорченных Ребер Визерхеда
+§6 - §c✖ §44 Decrepit Sewers Fragment@§6 - §c✖ §44 Фрагмента Ветхой Канализации 
+§6 - §c✖ §41 Decrepit Sewers Fragment@§6 - §c✖ §41 Фрагмент Ветхой Канализации
+§6 - §c✖ §42 Decrepit Sewers Fragment@§6 - §c✖ §42 Фрагмента Ветхой Канализации
+§6 - §a✔ §24 Decrepit Sewers Fragment@§6 - §a✔ §24 Фрагмента Ветхой Канализации
+§6 - §a✔ §21 Decrepit Sewers Fragment@§6 - §a✔ §21 Фрагмент Ветхой Канализации
+§6 - §a✔ §22 Decrepit Sewers Fragment@§6 - §a✔ §22 Фрагмента Ветхой Канализации
+§6 - §c✖ §42 Corrupted Decrepit Sewers Fragment@§6 - §c✖ §42 Испорченных Фрагмента Ветхой Канализации 
+§6 - §c✖ §46 Corrupted Decrepit Sewers Fragment@§6 - §c✖ §46 Испорченных Фрагментов Ветхой Канализации
+§6 - §a✔ §26 Corrupted Decrepit Sewers Fragment@§6 - §a✔ §26 Испорченных Фрагментов Ветхой Канализации
+§6 - §a✔ §22 Corrupted Decrepit Sewers Fragment@§6 - §a✔ §22 Испорченных Фрагмента Ветхой Канализации
 §6 - §c✖ §41 Theorick's Ice Shard@§6 - §c✖ §41 Осколок Льда Теорика
-§6 - §c✖ §43 Theorick's Ice Shard@§6 - §c✖ §43 Осколок Льда Теорика
-§6 - §c✖ §46 Theorick's Ice Shard@§6 - §c✖ §46 Осколок Льда Теорика
+§6 - §c✖ §43 Theorick's Ice Shard@§6 - §c✖ §43 Осколка Льда Теорика
+§6 - §c✖ §46 Theorick's Ice Shard@§6 - §c✖ §46 Осколков Льда Теорика
 §6 - §a✔ §21 Theorick's Ice Shard@§6 - §a✔ §21 Осколок Льда Теорика
-§6 - §a✔ §23 Theorick's Ice Shard@§6 - §a✔ §23 Осколок Льда Теорика
-§6 - §a✔ §26 Theorick's Ice Shard@§6 - §a✔ §26 Осколок Льда Теорика
-§6 - §c✖ §42 Corrupted Theorick's Ice Shard@§6 - §c✖ §42 Испорченный Осколок Льда Теорика
-§6 - §c✖ §43 Corrupted Theorick's Ice Shard@§6 - §c✖ §43 Испорченный Осколок Льда Теорика
-§6 - §c✖ §44 Corrupted Theorick's Ice Shard@§6 - §c✖ §44 Испорченный Осколок Льда Теорика
-§6 - §c✖ §45 Corrupted Theorick's Ice Shard@§6 - §c✖ §45 Испорченный Осколок Льда Теорика
-§6 - §c✖ §46 Corrupted Theorick's Ice Shard@§6 - §c✖ §46 Испорченный Осколок Льда Теорика
-§6 - §a✔ §23 Corrupted Theorick's Ice Shard@§6 - §a✔ §23 Испорченный Осколок Льда Теорика
-§6 - §a✔ §24 Corrupted Theorick's Ice Shard@§6 - §a✔ §24 Испорченный Осколок Льда Теорика
-§6 - §a✔ §25 Corrupted Theorick's Ice Shard@§6 - §a✔ §25 Испорченный Осколок Льда Теорика
-§6 - §a✔ §26 Corrupted Theorick's Ice Shard@§6 - §a✔ §26 Испорченный Осколок Льда Теорика
-§6 - §a✔ §22 Corrupted Theorick's Ice Shard@§6 - §a✔ §22 Испорченный Осколок Льда Теорика
-§6 - §c✖ §44 Ice Barrows Fragment@§6 - §c✖ §44 Ледяной Курган Фрагмент
-§6 - §c✖ §42 Ice Barrows Fragment@§6 - §c✖ §42 Ледяной Курган Фрагмент
-§6 - §a✔ §22 Ice Barrows Fragment@§6 - §a✔ §22 Ледяной Курган Фрагмент
-§6 - §a✔ §24 Ice Barrows Fragment@§6 - §a✔ §24 Ледяной Курган Фрагмент
-§6 - §c✖ §42 Corrupted Ice Barrows Fragment@§6 - §c✖ §42 Испорченный Ледяной Курган Фрагмент
-§6 - §c✖ §49 Corrupted Ice Barrows Fragment@§6 - §c✖ §49 Испорченный Ледяной Курган Фрагмент
-§6 - §a✔ §22 Corrupted Ice Barrows Fragment@§6 - §a✔ §22 Испорченный Ледяной Курган Фрагмент
-§6 - §a✔ §29 Corrupted Ice Barrows Fragment@§6 - §a✔ §29 Испорченный Ледяной Курган Фрагмент
-§6 - §c✖ §43 Jungle Jet Shard@§6 - §c✖ §43 Джунглевый Осколок Янтаря
-§6 - §a✔ §23 Jungle Jet Shard@§6 - §a✔ §23 Джунглевый Осколок Янтаря
-§6 - §c✖ §43 Jungle Turquoise Shard@§6 - §c✖ §43 Джунглевый Осколок Бирюзы
-§6 - §a✔ §23 Jungle Turquoise Shard@§6 - §a✔ §23 Джунглевый Осколок Бирюзы
-§6 - §c✖ §43 Jungle Topaz Shard@§6 - §c✖ §43 Джунглевый Осколок Топаза
-§6 - §a✔ §23 Jungle Topaz Shard@§6 - §a✔ §23 Джунглевый Осколок Топаза
-§6 - §c✖ §43 Jungle Jade Shard@§6 - §c✖ §43 Джунглевый Осколок Нефрита
-§6 - §a✔ §23 Jungle Jade Shard@§6 - §a✔ §23 Джунглевый Осколок Нефрита
-§6 - §c✖ §43 Jungle Pearl Shard@§6 - §c✖ §43 Джунглевый Осколок Жемчужины
-§6 - §a✔ §23 Jungle Pearl Shard@§6 - §a✔ §23 Джунглевый Осколок Жемчужины
-§6 - §c✖ §48 Jungle Jade Shard@§6 - §c✖ §48 Джунглевый Осколок Нефрита
-§6 - §c✖ §44 Jungle Jade Shard@§6 - §c✖ §44 Джунглевый Осколок Нефрита
-§6 - §c✖ §44 Jungle Pearl Shard@§6 - §c✖ §44 Джунглевый Осколок Жемчужины
-§6 - §c✖ §48 Jungle Pearl Shard@§6 - §c✖ §48 Джунглевый Осколок Жемчужины
-§6 - §c✖ §44 Jungle Jet Shard@§6 - §c✖ §44 Джунглевый Осколок Янтаря
-§6 - §c✖ §48 Jungle Jet Shard@§6 - §c✖ §48 Джунглевый Осколок Янтаря
-§6 - §c✖ §48 Jungle Turquoise Shard@§6 - §c✖ §48 Джунглевый Осколок Бирюзы
-§6 - §c✖ §44 Jungle Turquoise Shard@§6 - §c✖ §44 Джунглевый Осколок Бирюзы
-§6 - §c✖ §48 Jungle Topaz Shard@§6 - §c✖ §48 Джунглевый Осколок Топаза
-§6 - §c✖ §43 Slykaar's Heart@§6 - §c✖ §43 Сердце Слайкаара
-§6 - §c✖ §44 Slykaar's Heart@§6 - §c✖ §44 Сердце Слайкаара
-§6 - §a✔ §23 Slykaar's Heart@§6 - §a✔ §23 Сердце Слайкаара
-§6 - §a✔ §24 Slykaar's Heart@§6 - §a✔ §24 Сердце Слайкаара
-§6 - §c✖ §410 Undergrowth Ruins Fragment@§6 - §c✖ §410 Заросшие Руины Фрагмент
-§6 - §c✖ §45 Undergrowth Ruins Fragment@§6 - §c✖ §45 Заросшие Руины Фрагмент
-§6 - §c✖ §42 Undergrowth Ruins Fragment@§6 - §c✖ §42 Заросшие Руины Фрагмент
-§6 - §a✔ §210 Undergrowth Ruins Fragment@§6 - §a✔ §210 Заросшие Руины Фрагмент
-§6 - §a✔ §25 Undergrowth Ruins Fragment@§6 - §a✔ §25 Заросшие Руины Фрагмент
-§6 - §a✔ §22 Undergrowth Ruins Fragment@§6 - §a✔ §22 Заросшие Руины Фрагмент
+§6 - §a✔ §23 Theorick's Ice Shard@§6 - §a✔ §23 Осколка Льда Теорика
+§6 - §a✔ §26 Theorick's Ice Shard@§6 - §a✔ §26 Осколков Льда Теорика
+§6 - §c✖ §42 Corrupted Theorick's Ice Shard@§6 - §c✖ §42 Испорченных Осколка Льда Теорика
+§6 - §c✖ §43 Corrupted Theorick's Ice Shard@§6 - §c✖ §43 Испорченных Осколка Льда Теорика
+§6 - §c✖ §44 Corrupted Theorick's Ice Shard@§6 - §c✖ §44 Испорченных Осколка Льда Теорика
+§6 - §c✖ §45 Corrupted Theorick's Ice Shard@§6 - §c✖ §45 Испорченных Осколков Льда Теорика
+§6 - §c✖ §46 Corrupted Theorick's Ice Shard@§6 - §c✖ §46 Испорченных Осколков Льда Теорика
+§6 - §a✔ §23 Corrupted Theorick's Ice Shard@§6 - §a✔ §23 Испорченных Осколка Льда Теорика
+§6 - §a✔ §24 Corrupted Theorick's Ice Shard@§6 - §a✔ §24 Испорченных Осколка Льда Теорика
+§6 - §a✔ §25 Corrupted Theorick's Ice Shard@§6 - §a✔ §25 Испорченных Осколка Льда Теорика
+§6 - §a✔ §26 Corrupted Theorick's Ice Shard@§6 - §a✔ §26 Испорченных Осколков Льда Теорика
+§6 - §a✔ §22 Corrupted Theorick's Ice Shard@§6 - §a✔ §22 Испорченных Осколка Льда Теорика
+§6 - §c✖ §44 Ice Barrows Fragment@§6 - §c✖ §44 Фрагмента Ледяного Кургана 
+§6 - §c✖ §42 Ice Barrows Fragment@§6 - §c✖ §42 Фрагмента Ледяного Кургана 
+§6 - §a✔ §22 Ice Barrows Fragment@§6 - §a✔ §22 Фрагмента Ледяного Кургана 
+§6 - §a✔ §24 Ice Barrows Fragment@§6 - §a✔ §24 Фрагмента Ледяного Кургана 
+§6 - §c✖ §42 Corrupted Ice Barrows Fragment@§6 - §c✖ §42 Испорченных Фрагмента Ледяного Кургана 
+§6 - §c✖ §49 Corrupted Ice Barrows Fragment@§6 - §c✖ §49 Испорченных Фрагментов Ледяного Кургана 
+§6 - §a✔ §22 Corrupted Ice Barrows Fragment@§6 - §a✔ §22 Испорченных Фрагмента Ледяного Кургана 
+§6 - §a✔ §29 Corrupted Ice Barrows Fragment@§6 - §a✔ §29 Испорченных Фрагментов Ледяного Кургана 
+§6 - §c✖ §43 Jungle Jet Shard@§6 - §c✖ §43 Джунглевых Осколков Янтаря
+§6 - §a✔ §23 Jungle Jet Shard@§6 - §a✔ §23 Джунглевых Осколков Янтаря
+§6 - §c✖ §43 Jungle Turquoise Shard@§6 - §c✖ §43 Джунглевых Осколка Бирюзы
+§6 - §a✔ §23 Jungle Turquoise Shard@§6 - §a✔ §23 Джунглевых Осколка Бирюзы
+§6 - §c✖ §43 Jungle Topaz Shard@§6 - §c✖ §43 Джунглевых Осколка Топаза
+§6 - §a✔ §23 Jungle Topaz Shard@§6 - §a✔ §23 Джунглевых Осколка Топаза
+§6 - §c✖ §43 Jungle Jade Shard@§6 - §c✖ §43 Джунглевых Осколка Нефрита
+§6 - §a✔ §23 Jungle Jade Shard@§6 - §a✔ §23 Джунглевых Осколка Нефрита
+§6 - §c✖ §43 Jungle Pearl Shard@§6 - §c✖ §43 Джунглевых Осколка Жемчужины
+§6 - §a✔ §23 Jungle Pearl Shard@§6 - §a✔ §23 Джунглевых Осколка Жемчужины
+§6 - §c✖ §48 Jungle Jade Shard@§6 - §c✖ §48 Джунглевых Осколков Нефрита
+§6 - §c✖ §44 Jungle Jade Shard@§6 - §c✖ §44 Джунглевых Осколкка Нефрита
+§6 - §c✖ §44 Jungle Pearl Shard@§6 - §c✖ §44 Джунглевых Осколка Жемчужины
+§6 - §c✖ §48 Jungle Pearl Shard@§6 - §c✖ §48 Джунглевых Осколков Жемчужины
+§6 - §c✖ §44 Jungle Jet Shard@§6 - §c✖ §44 Джунглевых Осколка Янтаря
+§6 - §c✖ §48 Jungle Jet Shard@§6 - §c✖ §48 Джунглевых Осколков Янтаря
+§6 - §c✖ §48 Jungle Turquoise Shard@§6 - §c✖ §48 Джунглевых Осколков Бирюзы
+§6 - §c✖ §44 Jungle Turquoise Shard@§6 - §c✖ §44 Джунглевых Осколка Бирюзы
+§6 - §c✖ §48 Jungle Topaz Shard@§6 - §c✖ §48 Джунглевых Осколков Топаза
+§6 - §c✖ §43 Slykaar's Heart@§6 - §c✖ §43 Сердца Слайкаара
+§6 - §c✖ §44 Slykaar's Heart@§6 - §c✖ §44 Сердца Слайкаара
+§6 - §a✔ §23 Slykaar's Heart@§6 - §a✔ §23 Сердца Слайкаара
+§6 - §a✔ §24 Slykaar's Heart@§6 - §a✔ §24 Сердца Слайкаара
+§6 - §c✖ §410 Undergrowth Ruins Fragment@§6 - §c✖ §410 Фрагментов Заросших Руин 
+§6 - §c✖ §45 Undergrowth Ruins Fragment@§6 - §c✖ §45 Фрагментов Заросших Руин 
+§6 - §c✖ §42 Undergrowth Ruins Fragment@§6 - §c✖ §42 Фрагмента Заросших Руин 
+§6 - §a✔ §210 Undergrowth Ruins Fragment@§6 - §a✔ §210 Фрагментов Заросших Руин 
+§6 - §a✔ §25 Undergrowth Ruins Fragment@§6 - §a✔ §25 Фрагментов Заросших Руин 
+§6 - §a✔ §22 Undergrowth Ruins Fragment@§6 - §a✔ §22 Фрагмента Заросших Руин 
 §6 - §a✔ §21 Small Pearl@§6 - §a✔ §21 Маленький Жемчуг
 §6 - §c✖ §41 Small Pearl@§6 - §c✖ §41 Маленький Жемчуг
 §6 - §a✔ §21 Glowing Pearl@§6 - §a✔ §21 Светящийся Жемчуг
@@ -734,79 +734,79 @@
 §6 - §c✖ §41 Sunken Block of Gold@§6 - §c✖ §41 Затонувший Блок Золота
 §6 - §c✖ §41 Sunken Artifact@§6 - §c✖ §41 Затонувший Артефакт
 §6 - §a✔ §21 Sunken Artifact@§6 - §a✔ §21 Затонувший Артефакт
-§6 - §c✖ §42 Lost Sanctuary Fragment@§6 - §c✖ §42 Затерянное Святилище Фрагмент
-§6 - §a✔ §22 Lost Sanctuary Fragment@§6 - §a✔ §22 Затерянное Святилище Фрагмент
-§6 - §c✖ §42 Corrupted Lost Sanctuary Fragment@§6 - §c✖ §42 Испорченный Затерянное Святилище Фрагмент
-§6 - §c✖ §46 Corrupted Lost Sanctuary Fragment@§6 - §c✖ §46 Испорченный Затерянное Святилище Фрагмент
-§6 - §c✖ §47 Corrupted Lost Sanctuary Fragment@§6 - §c✖ §47 Испорченный Затерянное Святилище Фрагмент
-§6 - §a✔ §22 Corrupted Lost Sanctuary Fragment@§6 - §a✔ §22 Испорченный Затерянное Святилище Фрагмент
-§6 - §a✔ §26 Corrupted Lost Sanctuary Fragment@§6 - §a✔ §26 Испорченный Затерянное Святилище Фрагмент
-§6 - §a✔ §27 Corrupted Lost Sanctuary Fragment@§6 - §a✔ §27 Испорченный Затерянное Святилище Фрагмент
+§6 - §c✖ §42 Lost Sanctuary Fragment@§6 - §c✖ §42 Фрагмента Затерянного Святилища 
+§6 - §a✔ §22 Lost Sanctuary Fragment@§6 - §a✔ §22 Фрагмента Затерянного Святилища
+§6 - §c✖ §42 Corrupted Lost Sanctuary Fragment@§6 - §c✖ §42 Испорченных Фрагмента Затерянного Святилища
+§6 - §c✖ §46 Corrupted Lost Sanctuary Fragment@§6 - §c✖ §46 Испорченных Фрагментов Затерянного Святилища
+§6 - §c✖ §47 Corrupted Lost Sanctuary Fragment@§6 - §c✖ §47 Испорченных Фрагментов Затерянного Святилища
+§6 - §a✔ §22 Corrupted Lost Sanctuary Fragment@§6 - §a✔ §22 Испорченных Фрагмента Затерянного Святилища
+§6 - §a✔ §26 Corrupted Lost Sanctuary Fragment@§6 - §a✔ §26 Испорченных Фрагментов Затерянного Святилища
+§6 - §a✔ §27 Corrupted Lost Sanctuary Fragment@§6 - §a✔ §27 Испорченных Фрагментов Затерянного Святилища
 §6 - §a✔ §21 Study Results@§6 - §a✔ §21 Результаты Исследования
 §6 - §c✖ §41 Study Results@§6 - §c✖ §41 Результаты Исследования
 §6 - §c✖ §41 Arakadicus' Eye@§6 - §c✖ §41 Глаз Аракадикус
-§6 - §c✖ §42 Arakadicus' Eye@§6 - §c✖ §42 Глаз Аракадикус
-§6 - §c✖ §44 Arakadicus' Eye@§6 - §c✖ §44 Глаз Аракадикус
+§6 - §c✖ §42 Arakadicus' Eye@§6 - §c✖ §42 Глаза Аракадикус
+§6 - §c✖ §44 Arakadicus' Eye@§6 - §c✖ §44 Глаза Аракадикус
 §6 - §a✔ §21 Arakadicus' Eye@§6 - §a✔ §21 Глаз Аракадикус
-§6 - §a✔ §22 Arakadicus' Eye@§6 - §a✔ §22 Глаз Аракадикус
-§6 - §a✔ §24 Arakadicus' Eye@§6 - §a✔ §24 Глаз Аракадикус
-§6 - §c✖ §43 Corrupted Arakadicus' Eye@§6 - §c✖ §43 Испорченный Глаз Аракадикус
-§6 - §c✖ §44 Corrupted Arakadicus' Eye@§6 - §c✖ §44 Испорченный Глаз Аракадикус
-§6 - §c✖ §46 Corrupted Arakadicus' Eye@§6 - §c✖ §46 Испорченный Глаз Аракадикус
-§6 - §a✔ §23 Corrupted Arakadicus' Eye@§6 - §a✔ §23 Испорченный Глаз Аракадикус
-§6 - §a✔ §24 Corrupted Arakadicus' Eye@§6 - §a✔ §24 Испорченный Глаз Аракадикус
-§6 - §a✔ §26 Corrupted Arakadicus' Eye@§6 - §a✔ §26 Испорченный Глаз Аракадикус
-§6 - §c✖ §42 Infested Pit Fragment@§6 - §c✖ §42 Зараженная Яма Фрагмент
-§6 - §c✖ §41 Infested Pit Fragment@§6 - §c✖ §41 Зараженная Яма Фрагмент
-§6 - §a✔ §22 Infested Pit Fragment@§6 - §a✔ §22 Зараженная Яма Фрагмент
-§6 - §a✔ §21 Infested Pit Fragment@§6 - §a✔ §21 Зараженная Яма Фрагмент
-§6 - §c✖ §42 Corrupted Infested Pit Fragment@§6 - §c✖ §42 Испорченный Зараженная Яма Фрагмент
-§6 - §c✖ §46 Corrupted Infested Pit Fragment@§6 - §c✖ §46 Испорченный Зараженная Яма Фрагмент
-§6 - §c✖ §47 Corrupted Infested Pit Fragment@§6 - §c✖ §47 Испорченный Зараженная Яма Фрагмент
-§6 - §a✔ §22 Corrupted Infested Pit Fragment@§6 - §a✔ §22 Испорченный Зараженная Яма Фрагмент
-§6 - §a✔ §26 Corrupted Infested Pit Fragment@§6 - §a✔ §26 Испорченный Зараженная Яма Фрагмент
-§6 - §a✔ §27 Corrupted Infested Pit Fragment@§6 - §a✔ §27 Испорченный Зараженная Яма Фрагмент
+§6 - §a✔ §22 Arakadicus' Eye@§6 - §a✔ §22 Глаза Аракадикус
+§6 - §a✔ §24 Arakadicus' Eye@§6 - §a✔ §24 Глаза Аракадикус
+§6 - §c✖ §43 Corrupted Arakadicus' Eye@§6 - §c✖ §43 Испорченных Глаза Аракадикус
+§6 - §c✖ §44 Corrupted Arakadicus' Eye@§6 - §c✖ §44 Испорченных Глаза Аракадикус
+§6 - §c✖ §46 Corrupted Arakadicus' Eye@§6 - §c✖ §46 Испорченных Глаз Аракадикус
+§6 - §a✔ §23 Corrupted Arakadicus' Eye@§6 - §a✔ §23 Испорченных Глаза Аракадикус
+§6 - §a✔ §24 Corrupted Arakadicus' Eye@§6 - §a✔ §24 Испорченных Глаза Аракадикус
+§6 - §a✔ §26 Corrupted Arakadicus' Eye@§6 - §a✔ §26 Испорченных Глаз Аракадикус
+§6 - §c✖ §42 Infested Pit Fragment@§6 - §c✖ §42 Фрагмента Зараженной Ямы 
+§6 - §c✖ §41 Infested Pit Fragment@§6 - §c✖ §41 Фрагмент Зараженной Ямы 
+§6 - §a✔ §22 Infested Pit Fragment@§6 - §a✔ §22 Фрагмента Зараженной Ямы 
+§6 - §a✔ §21 Infested Pit Fragment@§6 - §a✔ §21 Фрагмент Зараженной Ямы 
+§6 - §c✖ §42 Corrupted Infested Pit Fragment@§6 - §c✖ §42 Испорченных Фрагмента Зараженной Ямы 
+§6 - §c✖ §46 Corrupted Infested Pit Fragment@§6 - §c✖ §46 Испорченных Фрагментов Зараженной Ямы
+§6 - §c✖ §47 Corrupted Infested Pit Fragment@§6 - §c✖ §47 Испорченных Фрагментов Зараженной Ямы
+§6 - §a✔ §22 Corrupted Infested Pit Fragment@§6 - §a✔ §22 Испорченных Фрагмента Зараженной Ямы
+§6 - §a✔ §26 Corrupted Infested Pit Fragment@§6 - §a✔ §26 Испорченных Фрагментов Зараженной Ямы
+§6 - §a✔ §27 Corrupted Infested Pit Fragment@§6 - §a✔ §27 Испорченных Фрагментов Зараженной Ямы
 §6 - §c✖ §41 OUT OF STOCK@§6 - §c✖ §41 НЕТ В НАЛИЧИИ
 §6 - §c✖ §41 Royal Token of Gratitude@§6 - §c✖ §41 Королевский Жетон Благодарности
 §6 - §a✔ §21 Royal Token of Gratitude@§6 - §a✔ §21 Королевский Жетон Благодарности
-§6 - §c✖ §42 Galleon's Graveyard Fragment@§6 - §c✖ §42 Кладбище Галеона Фрагмент
-§6 - §c✖ §46 Galleon's Graveyard Fragment@§6 - §c✖ §46 Кладбище Галеона Фрагмент
-§6 - §a✔ §22 Galleon's Graveyard Fragment@§6 - §a✔ §22 Кладбище Галеона Фрагмент
-§6 - §a✔ §26 Galleon's Graveyard Fragment@§6 - §a✔ §26 Кладбище Галеона Фрагмент
+§6 - §c✖ §42 Galleon's Graveyard Fragment@§6 - §c✖ §42 Фрагмента Кладбища Галеона
+§6 - §c✖ §46 Galleon's Graveyard Fragment@§6 - §c✖ §46 Фрагментов Кладбища Галеона
+§6 - §a✔ §22 Galleon's Graveyard Fragment@§6 - §a✔ §22 Фрагмента Кладбища Галеона
+§6 - §a✔ §26 Galleon's Graveyard Fragment@§6 - §a✔ §26 Фрагментов Кладбища Галеона
 §6 - §a✔ §21 Crushed Bigfoot Bone@§6 - §a✔ §21 Измельченная Кость Йети
 §6 - §c✖ §41 Crushed Bigfoot Bone@§6 - §c✖ §41 Измельченная Кость Йети
-§6 - §c✖ §42 Underworld Crypt Fragment@§6 - §c✖ §42 Подземный Склеп Фрагмент
-§6 - §a✔ §22 Underworld Crypt Fragment@§6 - §a✔ §22 Подземный Склеп Фрагмент
-§6 - §c✖ §42 Corrupted Underworld Crypt Fragment@§6 - §c✖ §42 Испорченный Подземный Склеп Фрагмент
-§6 - §c✖ §48 Corrupted Underworld Crypt Fragment@§6 - §c✖ §48 Испорченный Подземный Склеп Фрагмент
-§6 - §a✔ §22 Corrupted Underworld Crypt Fragment@§6 - §a✔ §22 Испорченный Подземный Склеп Фрагмент
-§6 - §a✔ §28 Corrupted Underworld Crypt Fragment@§6 - §a✔ §28 Испорченный Подземный Склеп Фрагмент
-§6 - §c✖ §42 Sand-Swept Tomb Fragment@§6 - §c✖ §42 Песчаная Гробница Фрагмент
-§6 - §c✖ §43 Sand-Swept Tomb Fragment@§6 - §c✖ §43 Песчаная Гробница Фрагмент
-§6 - §a✔ §22 Sand-Swept Tomb Fragment@§6 - §a✔ §22 Песчаная Гробница Фрагмент
-§6 - §a✔ §23 Sand-Swept Tomb Fragment@§6 - §a✔ §23 Песчаная Гробница Фрагмент
-§6 - §a✔ §28 Corrupted Sand-Swept Tomb Fragment@§6 - §a✔ §28 Испорченный Песчаная Гробница Фрагмент
-§6 - §a✔ §22 Corrupted Sand-Swept Tomb Fragment@§6 - §a✔ §22 Испорченный Песчаная Гробница Фрагмент
-§6 - §c✖ §48 Corrupted Sand-Swept Tomb Fragment@§6 - §c✖ §48 Испорченный Песчаная Гробница Фрагмент
-§6 - §c✖ §42 Corrupted Sand-Swept Tomb Fragment@§6 - §c✖ §42 Испорченный Песчаная Гробница Фрагмент
-§6 - §c✖ §420 Antic Bead@§6 - §c✖ §420 Древние Бусы
-§6 - §a✔ §220 Antic Bead@§6 - §a✔ §220 Древние Бусы
-§6 - §a✔ §21 Zhight Money@§6 - §a✔ §21 Жигт Деньги
+§6 - §c✖ §42 Underworld Crypt Fragment@§6 - §c✖ §42 Фрагмента Подземного Склепа
+§6 - §a✔ §22 Underworld Crypt Fragment@§6 - §a✔ §22 Фрагмента Подземного Склепа
+§6 - §c✖ §42 Corrupted Underworld Crypt Fragment@§6 - §c✖ §42 Испорченных Фрагмента Подземного Склепа
+§6 - §c✖ §48 Corrupted Underworld Crypt Fragment@§6 - §c✖ §48 Испорченных Фрагментов Подземного Склепа
+§6 - §a✔ §22 Corrupted Underworld Crypt Fragment@§6 - §a✔ §22 Испорченных Фрагмента Подземного Склепа
+§6 - §a✔ §28 Corrupted Underworld Crypt Fragment@§6 - §a✔ §28 Испорченных Фрагментов Подземного Склепа
+§6 - §c✖ §42 Sand-Swept Tomb Fragment@§6 - §c✖ §42 Фрагмента Песчаной Гробницы
+§6 - §c✖ §43 Sand-Swept Tomb Fragment@§6 - §c✖ §43 Фрагмента Песчаной Гробницы
+§6 - §a✔ §22 Sand-Swept Tomb Fragment@§6 - §a✔ §22 Фрагмента Песчаной Гробницы
+§6 - §a✔ §23 Sand-Swept Tomb Fragment@§6 - §a✔ §23 Фрагмента Песчаной Гробницы
+§6 - §a✔ §28 Corrupted Sand-Swept Tomb Fragment@§6 - §a✔ §28 Испорченных Фрагментов Песчаной Гробницы
+§6 - §a✔ §22 Corrupted Sand-Swept Tomb Fragment@§6 - §a✔ §22 Испорченных Фрагмента Песчаной Гробницы
+§6 - §c✖ §48 Corrupted Sand-Swept Tomb Fragment@§6 - §c✖ §48 Испорченных Фрагментов Песчаной Гробницы
+§6 - §c✖ §42 Corrupted Sand-Swept Tomb Fragment@§6 - §c✖ §42 Испорченных Фрагмента Песчаной Гробницы
+§6 - §c✖ §420 Antic Bead@§6 - §c✖ §420 Древних Бус
+§6 - §a✔ §220 Antic Bead@§6 - §a✔ §220 Древних Бус
+§6 - §a✔ §21 Zhight Money@§6 - §a✔ §21 Жигт Деньга
 §6 - §a✔ §22 Zhight Money@§6 - §a✔ §22 Жигт Деньги
 §6 - §a✔ §24 Zhight Money@§6 - §a✔ §24 Жигт Деньги
 §6 - §a✔ §25 Zhight Money@§6 - §a✔ §25 Жигт Деньги
 §6 - §c✖ §45 Zhight Money@§6 - §c✖ §45 Жигт Деньги
 §6 - §c✖ §44 Zhight Money@§6 - §c✖ §44 Жигт Деньги
 §6 - §c✖ §42 Zhight Money@§6 - §c✖ §42 Жигт Деньги
-§6 - §c✖ §41 Zhight Money@§6 - §c✖ §41 Жигт Деньги
-§6 - §c✖ §420 Zhight Gold@§6 - §c✖ §420 Жигт Золото
-§6 - §c✖ §430 Zhight Gold@§6 - §c✖ §430 Жигт Золото
-§6 - §c✖ §410 Zhight Gold@§6 - §c✖ §410 Жигт Золото
-§6 - §c✖ §415 Zhight Gold@§6 - §c✖ §415 Жигт Золото
-§6 - §a✔ §210 Zhight Gold@§6 - §a✔ §210 Жигт Золото
-§6 - §a✔ §220 Zhight Gold@§6 - §a✔ §220 Жигт Золото
-§6 - §a✔ §215 Zhight Gold@§6 - §a✔ §215 Жигт Золото
-§6 - §a✔ §230 Zhight Gold@§6 - §a✔ §230 Жигт Золото
+§6 - §c✖ §41 Zhight Money@§6 - §c✖ §41 Жигт Деньга
+§6 - §c✖ §420 Zhight Gold@§6 - §c✖ §420 Жигт Золота
+§6 - §c✖ §430 Zhight Gold@§6 - §c✖ §430 Жигт Золота
+§6 - §c✖ §410 Zhight Gold@§6 - §c✖ §410 Жигт Золота
+§6 - §c✖ §415 Zhight Gold@§6 - §c✖ §415 Жигт Золота
+§6 - §a✔ §210 Zhight Gold@§6 - §a✔ §210 Жигт Золота
+§6 - §a✔ §220 Zhight Gold@§6 - §a✔ §220 Жигт Золота
+§6 - §a✔ §215 Zhight Gold@§6 - §a✔ §215 Жигт Золота
+§6 - §a✔ §230 Zhight Gold@§6 - §a✔ §230 Жигт Золота
 §6 - §a✔ §21 Dodegar's Ultimate Weapon@§6 - §a✔ §21 Смертельное Оружие Додегара
 §6 - §c✖ §41 Dodegar's Ultimate Weapon@§6 - §c✖ §41 Смертельное Оружие Додегара
 §6 - §a✔ §22 Charon's Brain@§6 - §a✔ §22 Мозг Харона
