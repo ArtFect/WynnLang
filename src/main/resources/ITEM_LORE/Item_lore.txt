@@ -612,6 +612,115 @@
             §f4§7 Piranha Oil§f Ⓚ@            §f4§7 Жира Пираньи§f Ⓚ
             §f8§7 Piranha Oil§f Ⓚ@            §f8§7 Жира Пираньи§f Ⓚ
             §f12§7 Piranha Oil§f Ⓚ@            §f12§7 Жира Пираньи§f Ⓚ
+          §f2§7 Wheat String§f Ⓙ@          §f2§7 Пшеничных Нити§f Ⓙ
+          §f1§7 Wheat String§f Ⓙ@          §f1§7 Пшеничная Нить§f Ⓙ
+          §f1§7 Wheat Grains§f Ⓙ@          §f1§7 Пшеничное Зерно§f Ⓙ
+	    §f4§7 Barley String§f Ⓙ@	        §f4§7 Ячменных Нити§f Ⓙ
+            §f2§7 Barley String§f Ⓙ@            §f2§7 Ячменных Нити§f Ⓙ
+            §f2§7 Barley Grains§f Ⓙ@            §f2§7 Ячменных Зерна§f Ⓙ
+§a✔ Lv. 10: §f4§7 Barley String§f Ⓙ@§a✔ Ур. 10: §f4§7 Ячменных Нити§f Ⓙ
+§a✔ Lv. 10: §f2§7 Barley String§f Ⓙ@§a✔ Ур. 10: §f2§7 Ячменных Нити§f Ⓙ
+§a✔ Lv. 1: §f1§7 Copper Gem§f Ⓑ@§a✔ Ур. 1: §f1§7 Медный Камень§f Ⓑ
+          §f1§7 Gudgeon Oil§f Ⓚ@          §f1§7 Жир Пескаря§f Ⓚ
+          §f2§7 Gudgeon Oil§f Ⓚ@          §f2§7 Жира Пескаря§f Ⓚ
+          §f3§7 Gudgeon Oil§f Ⓚ@          §f3§7 Жира Пескаря§f Ⓚ
+§a✔ Lv. 1: §f2§7 Gudgeon Meat§f Ⓚ@§a✔ Ур. 1: §f2§7 Мяса Пескаря§f Ⓚ
+§c✖ Lv. 10: §f2§7 Granite Gem§f Ⓑ@§c✖ Ур. 10: §f2§7 Гранитных Камня§f Ⓑ
+§a✔ Lv. 10: §f2§7 Granite Gem§f Ⓑ@§a✔ Ур. 10: §f2§7 Гранитных Камня§f Ⓑ
+§a✔ Lv. 10: §f2§7 Granite Ingot§f Ⓑ@§a✔ Ур. 10: §f2§7 Гранитных Слитка§f Ⓑ
+§a✔ Lv. 10: §f4§7 Granite Ingot§f Ⓑ@§a✔ Ур. 10: §f4§7 Гранитных Слитка§f Ⓑ
+            §f2§7 Trout Oil§f Ⓚ@            §f2§7 Жира Форели§f Ⓚ
+            §f4§7 Trout Oil§f Ⓚ@            §f4§7 Жира Форели§f Ⓚ
+            §f6§7 Trout Oil§f Ⓚ@            §f6§7 Жира Форели§f Ⓚ
+§a✔ Lv. 10: §f4§7 Trout Oil§f Ⓚ@§a✔ Ур. 10: §f4§7 Жира Форели§f Ⓚ
+§a✔ Lv. 10: §f2§7 Trout Oil§f Ⓚ@§a✔ Ур. 10: §f2§7 Жира Форели§f Ⓚ
+§c✖ Lv. 10: §f4§7 Trout Meat§f Ⓚ@§c✖ Ур. 10: §f4§7 Мяса Форели§f Ⓚ
+§a✔ Lv. 10: §f4§7 Trout Meat§f Ⓚ@§a✔ Ур. 10: §f4§7 Мяса Форели§f Ⓚ
+§a✔ Lv. 70: §f10§7 Decay String§f Ⓙ@§a✔ Ур. 70: §f10§7 Зараженных Нитей§f Ⓙ
+§a✔ Lv. 70: §f5§7 Decay String§f Ⓙ@§a✔ Ур. 70: §f5§7 Зараженных Нитей§f Ⓙ
+            §f5§7 Light Wood§f Ⓒ@            §f5§7 Древесины Клена§f Ⓒ
+            §f10§7 Light Wood§f Ⓒ@            §f10§7 Древесины Клена§f Ⓒ
+§a✔ Lv. 80: §f10§7 Rice String§f Ⓙ@§a✔ Ур. 80: §f10§7 Рисовых Нитей§f Ⓙ
+§a✔ Lv. 80: §f5§7 Rice String§f Ⓙ@§a✔ Ур. 80: §f5§7 Рисовых Нитей§f Ⓙ
+            §f5§7 Pine Wood§f Ⓒ@            §f5§7 Древесины Сосны§f Ⓒ
+            §f10§7 Pine Wood§f Ⓒ@            §f10§7 Древесины Сосны§f Ⓒ
+§c✖ Lv. 90: §f12§7 Sorghum String§f Ⓙ@§c✖ Ур. 90: §f12§7 Сорго Нитей§f Ⓙ
+§c✖ Lv. 90: §f6§7 Sorghum String§f Ⓙ@§c✖ Ур. 90: §f6§7 Сорго Нитей§f Ⓙ
+            §f6§7 Avo Wood§f Ⓒ@            §f6§7 Древесины Авокадо§f Ⓒ
+            §f12§7 Avo Wood§f Ⓒ@            §f12§7 Древесины Авокадо§f Ⓒ
+§a✔ Lv. 70: §f10§7 Gylia Oil§f Ⓚ@§a✔ Ур. 70: §f10§7 Жира Гилия§f Ⓚ
+§a✔ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§a✔ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
+§c✖ Lv. 90: §f12§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f12§7 Жира Угря§f Ⓚ
+§a✔ Lv. 20: §f2§7 Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f2§7 Золотых Слитка§f Ⓑ
+§a✔ Lv. 20: §f4§7 Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f4§7 Золотых Слитка§f Ⓑ
+§c✖ Lv. 20: §f2§7 Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f2§7 Золотых Слитка§f Ⓑ
+§c✖ Lv. 20: §f4§7 Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f4§7 Золотых Слитка§f Ⓑ
+§a✔ Lv. 20: §f2§7 Gold Gem§f Ⓑ@§a✔ Ур. 20: §f2§7 Золотых Камня§f Ⓑ
+§c✖ Lv. 20: §f2§7 Gold Gem§f Ⓑ@§c✖ Ур. 20: §f2§7 Золотых Камня§f Ⓑ
+            §f4§7 Oat String§f Ⓙ@            §f4§7 Овсяных Нити§f Ⓙ
+            §f2§7 Oat String§f Ⓙ@            §f2§7 Овсяных Нити§f Ⓙ
+§c✖ Lv. 20: §f4§7 Oat String§f Ⓙ@§c✖ Ур. 20: §f4§7 Овсяных Нити§f Ⓙ
+§c✖ Lv. 20: §f2§7 Oat String§f Ⓙ@§c✖ Ур. 20: §f2§7 Овсяных Нити§f Ⓙ
+§a✔ Lv. 20: §f4§7 Oat String§f Ⓙ@§a✔ Ур. 20: §f4§7 Овсяных Нити§f Ⓙ
+§a✔ Lv. 20: §f2§7 Oat String§f Ⓙ@§a✔ Ур. 20: §f2§7 Овсяных Нити§f Ⓙ
+            §f2§7 Oat Grains§f Ⓙ@            §f2§7 Овсяного Зерна§f Ⓙ
+            §f4§7 Oat Grains§f Ⓙ@            §f4§7 Овсяного Зерна§f Ⓙ
+§c✖ Lv. 30: §f3§7 Sandstone Ingot§f Ⓑ@§c✖ Ур. 30: §f3§7 Песчаных Слитка§f Ⓑ
+§c✖ Lv. 30: §f6§7 Sandstone Ingot§f Ⓑ@§c✖ Ур. 30: §f6§7 Песчаных Слитков§f Ⓑ
+§a✔ Lv. 30: §f3§7 Sandstone Ingot§f Ⓑ@§a✔ Ур. 30: §f3§7 Песчаных Слитка§f Ⓑ
+§a✔ Lv. 30: §f6§7 Sandstone Ingot§f Ⓑ@§a✔ Ур. 30: §f6§7 Песчаных Слитков§f Ⓑ
+§c✖ Lv. 30: §f3§7 Sandstone Gem§f Ⓑ@§c✖ Ур. 30: §f3§7 Песчаных Камня§f Ⓑ
+            §f6§7 Malt String§f Ⓙ@            §f6§7 Солодовых Нитей§f Ⓙ
+            §f3§7 Malt String§f Ⓙ@            §f3§7 Солодовых Нити§f Ⓙ
+§a✔ Lv. 30: §f6§7 Malt String§f Ⓙ@§a✔ Ур. 30: §f6§7 Солодовых Нитей§f Ⓙ
+§a✔ Lv. 30: §f3§7 Malt String§f Ⓙ@§a✔ Ур. 30: §f3§7 Солодовых Нити§f Ⓙ
+§c✖ Lv. 30: §f6§7 Malt String§f Ⓙ@§c✖ Ур. 30: §f6§7 Солодовых Нитей§f Ⓙ
+§c✖ Lv. 30: §f3§7 Malt String§f Ⓙ@§c✖ Ур. 30: §f3§7 Солодовых Нити§f Ⓙ
+            §f4§7 Willow Wood§f Ⓒ@            §f4§7 Древесины Ивы§f Ⓒ
+            §f2§7 Willow Wood§f Ⓒ@            §f2§7 Древесины Ивы§f Ⓒ
+            §f2§7 Willow Paper§f Ⓒ@            §f2§7 Ивовой Бумаги§f Ⓒ
+            §f4§7 Willow Paper§f Ⓒ@            §f4§7 Ивовой Бумаги§f Ⓒ
+            §f6§7 Acacia Wood§f Ⓒ@            §f6§7 Древесины Акации§f Ⓒ
+            §f3§7 Acacia Wood§f Ⓒ@            §f3§7 Древесины Акации§f Ⓒ
+            §f6§7 Acacia Paper§f Ⓒ@            §f6§7 Акациевой Бумаги§f Ⓒ
+            §f3§7 Acacia Paper§f Ⓒ@            §f3§7 Акациевой Бумаги§f Ⓒ
+§c✖ Lv. 20: §f4§7 Salmon Oil§f Ⓚ@§c✖ Ур. 20: §f4§7 Жира Лосося§f Ⓚ
+§c✖ Lv. 20: §f2§7 Salmon Oil§f Ⓚ@§c✖ Ур. 20: §f2§7 Жира Лосося§f Ⓚ
+            §f2§7 Salmon Oil§f Ⓚ@            §f2§7 Жира Лосося§f Ⓚ
+            §f4§7 Salmon Oil§f Ⓚ@            §f4§7 Жира Лосося§f Ⓚ
+            §f6§7 Salmon Oil§f Ⓚ@            §f6§7 Жира Лосося§f Ⓚ
+§a✔ Lv. 20: §f4§7 Salmon Oil§f Ⓚ@§a✔ Ур. 20: §f4§7 Жира Лосося§f Ⓚ
+§c✖ Lv. 20: §f4§7 Salmon Meat§f Ⓚ@§c✖ Ур. 20: §f4§7 Мяса Лосося§f Ⓚ
+§c✖ Lv. 40: §f3§7 Iron Ingot§f Ⓑ@§c✖ Ур. 40: §f3§7 Железных Слитка§f Ⓑ
+§c✖ Lv. 40: §f6§7 Iron Ingot§f Ⓑ@§c✖ Ур. 40: §f6§7 Железных Слитка§f Ⓑ
+§a✔ Lv. 40: §f3§7 Iron Ingot§f Ⓑ@§a✔ Ур. 40: §f3§7 Железных Слитка§f Ⓑ
+§a✔ Lv. 40: §f6§7 Iron Ingot§f Ⓑ@§a✔ Ур. 40: §f6§7 Железных Слитка§f Ⓑ
+            §f6§7 Spruce Wood§f Ⓒ@            §f6§7 Древесины Ели§f Ⓒ
+            §f3§7 Spruce Wood§f Ⓒ@            §f3§7 Древесины Ели§f Ⓒ
+            §f3§7 Carp Oil§f Ⓚ@            §f3§7 Жира Карпа§f Ⓚ
+            §f6§7 Carp Oil§f Ⓚ@            §f6§7 Жира Карпа§f Ⓚ
+            §f9§7 Carp Oil§f Ⓚ@            §f9§7 Жира Карпа§f Ⓚ
+§a✔ Lv. 30: §f6§7 Carp Oil§f Ⓚ@§a✔ Ур. 30: §f6§7 Жира Карпа§f Ⓚ
+§c✖ Lv. 30: §f6§7 Carp Oil§f Ⓚ@§c✖ Ур. 30: §f6§7 Жира Карпа§f Ⓚ
+§c✖ Lv. 40: §f6§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f6§7 Хмельных Нитей§f Ⓙ
+§c✖ Lv. 40: §f3§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f3§7 Хмельных Нитей§f Ⓙ
+§a✔ Lv. 40: §f6§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f6§7 Хмельных Нитей§f Ⓙ
+§a✔ Lv. 40: §f3§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f3§7 Хмельных Нитей§f Ⓙ
+§c✖ Lv. 40: §f6§7 Icefish Oil§f Ⓚ@§c✖ Ур. 40: §f6§7 Жира Щуки§f Ⓚ
+§a✔ Lv. 40: §f6§7 Icefish Oil§f Ⓚ@§a✔ Ур. 40: §f6§7 Жира Щуки§f Ⓚ
+§a✔ Lv. 50: §f4§7 Silver Ingot§f Ⓑ@§a✔ Ур. 50: §f4§7 Серебрянных Слитка§f Ⓑ
+§a✔ Lv. 50: §f8§7 Silver Ingot§f Ⓑ@§a✔ Ур. 50: §f8§7 Серебрянных Слитков§f Ⓑ
+§c✖ Lv. 50: §f4§7 Silver Ingot§f Ⓑ@§c✖ Ур. 50: §f4§7 Серебрянных Слитка§f Ⓑ
+§c✖ Lv. 50: §f8§7 Silver Ingot§f Ⓑ@§c✖ Ур. 50: §f8§7 Серебрянных Слитков§f Ⓑ
+            §f8§7 Jungle Wood§f Ⓒ@            §f8§7 Древесины Амаранта§f Ⓒ
+            §f4§7 Jungle Wood§f Ⓒ@            §f4§7 Древесины Амаранта§f Ⓒ
+§c✖ Lv. 60: §f4§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f4§7 Кобальтовых Слитка§f Ⓑ
+§c✖ Lv. 60: §f8§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f8§7 Кобальтовых Слитка§f Ⓑ
+            §f8§7 Dark Wood§f Ⓒ@            §f8§7 Древесины Каштана§f Ⓒ
+            §f4§7 Dark Wood§f Ⓒ@            §f4§7 Древесины Каштана§f Ⓒ
+§c✖ Lv. 50: §f8§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f8§7 Ржаных Нитей§f Ⓙ
+§c✖ Lv. 50: §f4§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f4§7 Ржаных Нити§f Ⓙ
+§c✖ Lv. 50: §f8§7 Piranha Oil§f Ⓚ@§c✖ Ур. 50: §f8§7 Жира Пираньи§f Ⓚ
 
 #############################Порошки#############################
 §8Adding 2 powders of tier 4-6@§8Добавление 2 порошков уровня 4-6
@@ -651,6 +760,7 @@
 §6 - §a✔ §21 Theorick's Ice Shard@§6 - §a✔ §21 Осколок Льда Теорика
 §6 - §a✔ §23 Theorick's Ice Shard@§6 - §a✔ §23 Осколка Льда Теорика
 §6 - §a✔ §26 Theorick's Ice Shard@§6 - §a✔ §26 Осколков Льда Теорика
+§6 - §a✔ §22 Theorick's Ice Shard@§6 - §a✔ §22 Осколка Льда Теорика
 §6 - §c✖ §42 Corrupted Theorick's Ice Shard@§6 - §c✖ §42 Испорченных Осколка Льда Теорика
 §6 - §c✖ §43 Corrupted Theorick's Ice Shard@§6 - §c✖ §43 Испорченных Осколка Льда Теорика
 §6 - §c✖ §44 Corrupted Theorick's Ice Shard@§6 - §c✖ §44 Испорченных Осколка Льда Теорика
@@ -692,6 +802,8 @@
 §6 - §c✖ §44 Slykaar's Heart@§6 - §c✖ §44 Сердца Слайкаара
 §6 - §a✔ §23 Slykaar's Heart@§6 - §a✔ §23 Сердца Слайкаара
 §6 - §a✔ §24 Slykaar's Heart@§6 - §a✔ §24 Сердца Слайкаара
+§6 - §a✔ §26 Corrupted Slykaar's Heart@§6 - §a✔ §26 Испорченных Сердец Слайкаара
+§6 - §c✖ §41 Corrupted Slykaar's Heart@§6 - §c✖ §41 Испорченное Сердце Слайкаара
 §6 - §c✖ §410 Undergrowth Ruins Fragment@§6 - §c✖ §410 Фрагментов Заросших Руин 
 §6 - §c✖ §45 Undergrowth Ruins Fragment@§6 - §c✖ §45 Фрагментов Заросших Руин 
 §6 - §c✖ §42 Undergrowth Ruins Fragment@§6 - §c✖ §42 Фрагмента Заросших Руин 
@@ -809,18 +921,20 @@
 §6 - §a✔ §230 Zhight Gold@§6 - §a✔ §230 Жигт Золота
 §6 - §a✔ §21 Dodegar's Ultimate Weapon@§6 - §a✔ §21 Смертельное Оружие Додегара
 §6 - §c✖ §41 Dodegar's Ultimate Weapon@§6 - §c✖ §41 Смертельное Оружие Додегара
-§6 - §a✔ §22 Charon's Brain@§6 - §a✔ §22 Мозг Харона
-§6 - §a✔ §23 Charon's Brain@§6 - §a✔ §23 Мозг Харона
-§6 - §a✔ §25 Charon's Brain@§6 - §a✔ §25 Мозг Харона
-§6 - §c✖ §42 Charon's Brain@§6 - §c✖ §42 Мозг Харона
-§6 - §c✖ §43 Charon's Brain@§6 - §c✖ §43 Мозг Харона
-§6 - §c✖ §45 Charon's Brain@§6 - §c✖ §45 Мозг Харона
-§6 - §c✖ §43 Corrupted Charon's Brain@§6 - §c✖ §43 Испорченный Мозг Харона
-§6 - §c✖ §44 Corrupted Charon's Brain@§6 - §c✖ §44 Испорченный Мозг Харона
-§6 - §c✖ §46 Corrupted Charon's Brain@§6 - §c✖ §46 Испорченный Мозг Харона
-§6 - §a✔ §23 Corrupted Charon's Brain@§6 - §a✔ §23 Испорченный Мозг Харона
-§6 - §a✔ §24 Corrupted Charon's Brain@§6 - §a✔ §24 Испорченный Мозг Харона
-§6 - §a✔ §26 Corrupted Charon's Brain@§6 - §a✔ §26 Испорченный Мозг Харона
+§6 - §a✔ §22 Charon's Brain@§6 - §a✔ §22 Мозга Харона
+§6 - §a✔ §23 Charon's Brain@§6 - §a✔ §23 Мозга Харона
+§6 - §a✔ §25 Charon's Brain@§6 - §a✔ §25 Мозгов Харона
+§6 - §c✖ §42 Charon's Brain@§6 - §c✖ §42 Мозга Харона
+§6 - §c✖ §43 Charon's Brain@§6 - §c✖ §43 Мозга Харона
+§6 - §c✖ §45 Charon's Brain@§6 - §c✖ §45 Мозгов Харона
+§6 - §c✖ §43 Corrupted Charon's Brain@§6 - §c✖ §43 Испорченных Мозга Харона
+§6 - §c✖ §44 Corrupted Charon's Brain@§6 - §c✖ §44 Испорченных Мозга Харона
+§6 - §c✖ §46 Corrupted Charon's Brain@§6 - §c✖ §46 Испорченных Мозгов Харона
+§6 - §a✔ §23 Corrupted Charon's Brain@§6 - §a✔ §23 Испорченных Мозга Харона
+§6 - §a✔ §24 Corrupted Charon's Brain@§6 - §a✔ §24 Испорченных Мозга Харона
+§6 - §a✔ §26 Corrupted Charon's Brain@§6 - §a✔ §26 Испорченных Мозгов Харона
+§6 - §c✖ §41 Corrupted Charon's Brain@§6 - §c✖ §41 Испорченный Мозг Харона
+§6 - §c✖ §42 Corrupted Charon's Brain@§6 - §c✖ §42 Испорченных Мозга Харона
 §6 - §c✖ §41 Broken CorruptedÀÀÀDecrepitÀÀÀSewers Key@§6 - §c✖ §41 Разбитый Испорченный Ключ от Ветхой Канализации 
 §6 - §c✖ §41 Broken CorruptedÀÀÀInfestedÀÀÀPit Key@§6 - §c✖ §41 Разбитый Испорченный Ключ от Зараженной Ямы 
 §6 - §c✖ §41 Broken CorruptedÀÀÀLostÀÀÀSanctuary Key@§6 - §c✖ §41 Разбитый Испорченный Ключ от Затерянного Святилища 
@@ -851,28 +965,28 @@
 §6 - §a✔ §24 Uth Rune@§6 - §a✔ §24 Утх Руны
 §6 - §c✖ §41 Invitation Letter@§6 - §c✖ §41 Пригласительное Письмо
 §6 - §a✔ §21 Invitation Letter@§6 - §a✔ §21 Пригласительное Письмо
-§6 - §c✖ §42 Garoth's Breath@§6 - §c✖ §42 Дыхание Гарота
-§6 - §c✖ §43 Garoth's Breath@§6 - §c✖ §43 Дыхание Гарота
-§6 - §c✖ §45 Garoth's Breath@§6 - §c✖ §45 Дыхание Гарота
-§6 - §a✔ §22 Garoth's Breath@§6 - §a✔ §22 Дыхание Гарота
-§6 - §a✔ §23 Garoth's Breath@§6 - §a✔ §23 Дыхание Гарота
-§6 - §a✔ §25 Garoth's Breath@§6 - §a✔ §25 Дыхание Гарота
-§6 - §c✖ §43 Corrupted Garoth's Breath@§6 - §c✖ §43 Испорченное Дыхание Гарота
-§6 - §c✖ §46 Corrupted Garoth's Breath@§6 - §c✖ §46 Испорченное Дыхание Гарота
-§6 - §a✔ §23 Corrupted Garoth's Breath@§6 - §a✔ §23 Испорченное Дыхание Гарота
-§6 - §a✔ §26 Corrupted Garoth's Breath@§6 - §a✔ §26 Испорченное Дыхание Гарота
-§6 - §c✖ §42 Hashr's Bone@§6 - §c✖ §42 Кость Хашера
-§6 - §c✖ §43 Hashr's Bone@§6 - §c✖ §43 Кость Хашера
-§6 - §c✖ §45 Hashr's Bone@§6 - §c✖ §45 Кость Хашера
-§6 - §a✔ §22 Hashr's Bone@§6 - §a✔ §22 Кость Хашера
-§6 - §a✔ §23 Hashr's Bone@§6 - §a✔ §23 Кость Хашера
-§6 - §a✔ §25 Hashr's Bone@§6 - §a✔ §25 Кость Хашера
-§6 - §c✖ §43 Corrupted Hashr's Bone@§6 - §c✖ §43 Испорченная Кость Хашера
-§6 - §c✖ §44 Corrupted Hashr's Bone@§6 - §c✖ §44 Испорченная Кость Хашера
-§6 - §c✖ §46 Corrupted Hashr's Bone@§6 - §c✖ §46 Испорченная Кость Хашера
-§6 - §a✔ §23 Corrupted Hashr's Bone@§6 - §a✔ §23 Испорченная Кость Хашера
-§6 - §a✔ §24 Corrupted Hashr's Bone@§6 - §a✔ §24 Испорченная Кость Хашера
-§6 - §a✔ §26 Corrupted Hashr's Bone@§6 - §a✔ §26 Испорченная Кость Хашера
+§6 - §c✖ §42 Garoth's Breath@§6 - §c✖ §42 Дыхания Гарота
+§6 - §c✖ §43 Garoth's Breath@§6 - §c✖ §43 Дыхания Гарота
+§6 - §c✖ §45 Garoth's Breath@§6 - §c✖ §45 Дыханий Гарота
+§6 - §a✔ §22 Garoth's Breath@§6 - §a✔ §22 Дыхания Гарота
+§6 - §a✔ §23 Garoth's Breath@§6 - §a✔ §23 Дыхания Гарота
+§6 - §a✔ §25 Garoth's Breath@§6 - §a✔ §25 Дыханий Гарота
+§6 - §c✖ §43 Corrupted Garoth's Breath@§6 - §c✖ §43 Испорченного Дыхания Гарота
+§6 - §c✖ §46 Corrupted Garoth's Breath@§6 - §c✖ §46 Испорченных Дыханий Гарота
+§6 - §a✔ §23 Corrupted Garoth's Breath@§6 - §a✔ §23 Испорченного Дыхания Гарота
+§6 - §a✔ §26 Corrupted Garoth's Breath@§6 - §a✔ §26 Испорченных Дыханий Гарота
+§6 - §c✖ §42 Hashr's Bone@§6 - §c✖ §42 Кости Хашера
+§6 - §c✖ §43 Hashr's Bone@§6 - §c✖ §43 Кости Хашера
+§6 - §c✖ §45 Hashr's Bone@§6 - §c✖ §45 Костей Хашера
+§6 - §a✔ §22 Hashr's Bone@§6 - §a✔ §22 Кости Хашера
+§6 - §a✔ §23 Hashr's Bone@§6 - §a✔ §23 Кости Хашера
+§6 - §a✔ §25 Hashr's Bone@§6 - §a✔ §25 Костей Хашера
+§6 - §c✖ §43 Corrupted Hashr's Bone@§6 - §c✖ §43 Испорченных Кости Хашера
+§6 - §c✖ §44 Corrupted Hashr's Bone@§6 - §c✖ §44 Испорченных Кости Хашера
+§6 - §c✖ §46 Corrupted Hashr's Bone@§6 - §c✖ §46 Испорченных Костей Хашера
+§6 - §a✔ §23 Corrupted Hashr's Bone@§6 - §a✔ §23 Испорченных Кости Хашера
+§6 - §a✔ §24 Corrupted Hashr's Bone@§6 - §a✔ §24 Испорченных Кости Хашера
+§6 - §a✔ §26 Corrupted Hashr's Bone@§6 - §a✔ §26 Испорченных Костей Хашера
 §6 - §c✖ §41 Calamaro's Slimy Token@§6 - §c✖ §41 Скользкий Жетон Каламаро
 §6 - §a✔ §21 Calamaro's Slimy Token@§6 - §a✔ §21 Скользкий Жетон Каламаро
 §6 - §c✖ §41 Wealth or Knowledge@§6 - §c✖ §41 Богатство или Знания
@@ -917,76 +1031,76 @@
 §6 - §a✔ §21 ✹ Fire Powder VI@§6 - §a✔ §21 ✹ Порошок Огня VI
 §6 - §c✖ §41 Chestnut Horse@§6 - §c✖ §41 Каштановая Лошадь
 §6 - §a✔ §21 Chestnut Horse@§6 - §a✔ §21 Каштановая Лошадь
-§6 - §c✖ §42 Thunder Catalyst X@§6 - §c✖ §42 Катализатор Грома X
-§6 - §a✔ §22 Thunder Catalyst X@§6 - §a✔ §22 Катализатор Грома X
+§6 - §c✖ §42 Thunder Catalyst X@§6 - §c✖ §42 Катализатора Грома X
+§6 - §a✔ §22 Thunder Catalyst X@§6 - §a✔ §22 Катализатора Грома X
 §6 - §c✖ §41 Thunder Voucher@§6 - §c✖ §41 Ваучер Грома
 §6 - §a✔ §21 Thunder Voucher@§6 - §a✔ §21 Ваучер Грома
-§6 - §c✖ §42 Air Catalyst X@§6 - §c✖ §42 Катализатор Воздуха X
-§6 - §a✔ §22 Air Catalyst X@§6 - §a✔ §22 Катализатор Воздуха X
+§6 - §c✖ §42 Air Catalyst X@§6 - §c✖ §42 Катализатора Воздуха X
+§6 - §a✔ §22 Air Catalyst X@§6 - §a✔ §22 Катализатора Воздуха X
 §6 - §c✖ §41 Air Voucher@§6 - §c✖ §41 Ваучер Воздуха
 §6 - §a✔ §21 Air Voucher@§6 - §a✔ §21 Ваучер Воздуха
 §6 - §c✖ §41 Earth Voucher@§6 - §c✖ §41 Ваучер Земли
 §6 - §a✔ §21 Earth Voucher@§6 - §a✔ §21 Ваучер Земли
 §6 - §c✖ §41 Water Voucher@§6 - §c✖ §41 Ваучер Воды
 §6 - §a✔ §21 Water Voucher@§6 - §a✔ §21 Ваучер Воды
-§6 - §c✖ §42 Water Catalyst X@§6 - §c✖ §42 Катализатор Воды X
-§6 - §a✔ §22 Water Catalyst X@§6 - §a✔ §22 Катализатор Воды X
+§6 - §c✖ §42 Water Catalyst X@§6 - §c✖ §42 Катализатора Воды X
+§6 - §a✔ §22 Water Catalyst X@§6 - §a✔ §22 Катализатора Воды X
 §6 - §c✖ §41 Fire Voucher@§6 - §c✖ §41 Ваучер Огня
 §6 - §a✔ §21 Fire Voucher@§6 - §a✔ §21 Ваучер Огня
 §6 - §c✖ §41 Master Voucher@§6 - §c✖ §41 Мастер Ваучер
 §6 - §a✔ §21 Master Voucher@§6 - §a✔ §21 Мастер Ваучер
-§6 - §c✖ §43 Master Catalyst@§6 - §c✖ §43 Мастер Катализатор
-§6 - §a✔ §23 Master Catalyst@§6 - §a✔ §23 Мастер Катализатор
+§6 - §c✖ §43 Master Catalyst@§6 - §c✖ §43 Мастер Катализатора
+§6 - §a✔ §23 Master Catalyst@§6 - §a✔ §23 Мастер Катализатора
 §6 - §a✔ §21 Corrupted Treasure@§6 - §a✔ §21 Испорченное Сокровище
 §6 - §c✖ §41 Corrupted Treasure@§6 - §c✖ §41 Испорченное Сокровище
-§6 - §c✖ §44 Antikythera Supercomputer's Chip@§6 - §c✖ §44 Антикитера Суперкомпьютер Чип
-§6 - §c✖ §45 Antikythera Supercomputer's Chip@§6 - §c✖ §45 Антикитера Суперкомпьютер Чип
-§6 - §c✖ §46 Antikythera Supercomputer's Chip@§6 - §c✖ §46 Антикитера Суперкомпьютер Чип
-§6 - §c✖ §48 Antikythera Supercomputer's Chip@§6 - §c✖ §48 Антикитера Суперкомпьютер Чип
-§6 - §a✔ §24 Antikythera Supercomputer's Chip@§6 - §a✔ §24 Антикитера Суперкомпьютер Чип
-§6 - §a✔ §25 Antikythera Supercomputer's Chip@§6 - §a✔ §25 Антикитера Суперкомпьютер Чип
-§6 - §a✔ §26 Antikythera Supercomputer's Chip@§6 - §a✔ §26 Антикитера Суперкомпьютер Чип
-§6 - §a✔ §28 Antikythera Supercomputer's Chip@§6 - §a✔ §28 Антикитера Суперкомпьютер Чип
-§6 - §c✖ §42 Fallen Factory Dungeon Fragment@§6 - §c✖ §42 Заброшенная Фабрика Фрагмент
-§6 - §c✖ §49 Fallen Factory Dungeon Fragment@§6 - §c✖ §49 Заброшенная Фабрика Фрагмент
-§6 - §a✔ §22 Fallen Factory Dungeon Fragment@§6 - §a✔ §22 Заброшенная Фабрика Фрагмент
-§6 - §a✔ §29 Fallen Factory Dungeon Fragment@§6 - §a✔ §29 Заброшенная Фабрика Фрагмент
+§6 - §c✖ §44 Antikythera Supercomputer's Chip@§6 - §c✖ §44 Чипа Антикитеры Суперкомпьютера
+§6 - §c✖ §45 Antikythera Supercomputer's Chip@§6 - §c✖ §45 Чипов Антикитеры Суперкомпьютера
+§6 - §c✖ §46 Antikythera Supercomputer's Chip@§6 - §c✖ §46 Чипов Антикитеры Суперкомпьютера
+§6 - §c✖ §48 Antikythera Supercomputer's Chip@§6 - §c✖ §48 Чипов Антикитеры Суперкомпьютера
+§6 - §a✔ §24 Antikythera Supercomputer's Chip@§6 - §a✔ §24 Чипа Антикитеры Суперкомпьютера
+§6 - §a✔ §25 Antikythera Supercomputer's Chip@§6 - §a✔ §25 Чипов Антикитеры Суперкомпьютера
+§6 - §a✔ §26 Antikythera Supercomputer's Chip@§6 - §a✔ §26 Чипов Антикитеры Суперкомпьютера
+§6 - §a✔ §28 Antikythera Supercomputer's Chip@§6 - §a✔ §28 Чипов Антикитеры Суперкомпьютера
+§6 - §c✖ §42 Fallen Factory Dungeon Fragment@§6 - §c✖ §42 Фрагмента Заброшенной Фабрики
+§6 - §c✖ §49 Fallen Factory Dungeon Fragment@§6 - §c✖ §49 Фрагментов Заброшенной Фабрики
+§6 - §a✔ §22 Fallen Factory Dungeon Fragment@§6 - §a✔ §22 Фрагмента Заброшенной Фабрики
+§6 - §a✔ §29 Fallen Factory Dungeon Fragment@§6 - §a✔ §29 Фрагментов Заброшенной Фабрики
 §6 - §a✔ §21 Unrefined Mysterious Metal@§6 - §a✔ §21 Необработанный Загадочный Металл
 §6 - §c✖ §41 Unrefined Mysterious Metal@§6 - §c✖ §41 Необработанный Загадочный Металл
 §6 - §c✖ §41 Gold Ingot@§6 - §c✖ §41 Золотой Слиток
-§6 - §c✖ §416 Gold Ingot@§6 - §c✖ §416 Золотой Слиток
+§6 - §c✖ §416 Gold Ingot@§6 - §c✖ §416 Золотых Слитков
 §6 - §a✔ §21 Gold Ingot@§6 - §a✔ §21 Золотой Слиток
-§6 - §a✔ §216 Gold Ingot@§6 - §a✔ §216 Золотой Слиток
+§6 - §a✔ §216 Gold Ingot@§6 - §a✔ §216 Золотых Слитков
 §6 - §c✖ §41 Golden Pirate Fish@§6 - §c✖ §41 Золотая Пиратская Рыба
 §6 - §a✔ §21 Golden Pirate Fish@§6 - §a✔ §21 Золотая Пиратская Рыба
 §6 - §a✔ §21 Old Pirate Hook@§6 - §a✔ §21 Старый Пиратский Крюк
 §6 - §c✖ §41 Old Pirate Hook@§6 - §c✖ §41 Старый Пиратский Крюк
-§6 - §c✖ §42 Redbeard's Hair@§6 - §c✖ §42 Волос Редберда
-§6 - §c✖ §43 Redbeard's Hair@§6 - §c✖ §43 Волос Редберда
+§6 - §c✖ §42 Redbeard's Hair@§6 - §c✖ §42 Волоса Редберда
+§6 - §c✖ §43 Redbeard's Hair@§6 - §c✖ §43 Волоса Редберда
 §6 - §c✖ §46 Redbeard's Hair@§6 - §c✖ §46 Волос Редберда
-§6 - §a✔ §22 Redbeard's Hair@§6 - §a✔ §22 Волос Редберда
-§6 - §a✔ §23 Redbeard's Hair@§6 - §a✔ §23 Волос Редберда
+§6 - §a✔ §22 Redbeard's Hair@§6 - §a✔ §22 Волоса Редберда
+§6 - §a✔ §23 Redbeard's Hair@§6 - §a✔ §23 Волоса Редберда
 §6 - §a✔ §26 Redbeard's Hair@§6 - §a✔ §26 Волос Редберда
 §6 - §a✔ §21 Black Horse@§6 - §a✔ §21 Черная Лошадь
 §6 - §c✖ §41 Black Horse@§6 - §c✖ §41 Черная Лошадь
-§6 - §c✖ §45 Bronze Legendary Token@§6 - §c✖ §45 Бронзовый Легендарный Жетон
-§6 - §c✖ §410 Bronze Legendary Token@§6 - §c✖ §410 Бронзовый Легендарный Жетон
-§6 - §a✔ §25 Bronze Legendary Token@§6 - §a✔ §25 Бронзовый Легендарный Жетон
-§6 - §a✔ §210 Bronze Legendary Token@§6 - §a✔ §210 Бронзовый Легендарный Жетон
-§6 - §c✖ §43 Gold Legendary Token@§6 - §c✖ §43 Золотой Легендарный Жетон
-§6 - §c✖ §46 Gold Legendary Token@§6 - §c✖ §46 Золотой Легендарный Жетон
-§6 - §a✔ §23 Gold Legendary Token@§6 - §a✔ §23 Золотой Легендарный Жетон
-§6 - §a✔ §26 Gold Legendary Token@§6 - §a✔ §26 Золотой Легендарный Жетон
-§6 - §c✖ §44 Silver Legendary Token@§6 - §c✖ §44 Серебрянный Легендарный Жетон
-§6 - §c✖ §48 Silver Legendary Token@§6 - §c✖ §48 Серебрянный Легендарный Жетон
-§6 - §a✔ §24 Silver Legendary Token@§6 - §a✔ §24 Серебрянный Легендарный Жетон
-§6 - §a✔ §28 Silver Legendary Token@§6 - §a✔ §28 Серебрянный Легендарный Жетон
+§6 - §c✖ §45 Bronze Legendary Token@§6 - §c✖ §45 Бронзовых Легендарных Жетонов
+§6 - §c✖ §410 Bronze Legendary Token@§6 - §c✖ §410 Бронзовых Легендарных Жетонов
+§6 - §a✔ §25 Bronze Legendary Token@§6 - §a✔ §25 Бронзовых Легендарных Жетонов
+§6 - §a✔ §210 Bronze Legendary Token@§6 - §a✔ §210 Бронзовых Легендарных Жетонов
+§6 - §c✖ §43 Gold Legendary Token@§6 - §c✖ §43 Золотых Легендарных Жетона
+§6 - §c✖ §46 Gold Legendary Token@§6 - §c✖ §46 Золотых Легендарных Жетонов
+§6 - §a✔ §23 Gold Legendary Token@§6 - §a✔ §23 Золотых Легендарных Жетона
+§6 - §a✔ §26 Gold Legendary Token@§6 - §a✔ §26 Золотых Легендарных Жетонов
+§6 - §c✖ §44 Silver Legendary Token@§6 - §c✖ §44 Серебрянных Легендарных Жетона
+§6 - §c✖ §48 Silver Legendary Token@§6 - §c✖ §48 Серебрянных Легендарных Жетонов
+§6 - §a✔ §24 Silver Legendary Token@§6 - §a✔ §24 Серебрянных Легендарных Жетона
+§6 - §a✔ §28 Silver Legendary Token@§6 - §a✔ §28 Серебрянных Легендарных Жетонов
 §6 - §c✖ §41 Diamond Legendary Token@§6 - §c✖ §41 Алмазный Легендарный Жетон
-§6 - §c✖ §42 Diamond Legendary Token@§6 - §c✖ §42 Алмазный Легендарный Жетон
-§6 - §c✖ §464 Diamond Legendary Token@§6 - §c✖ §464 Алмазный Легендарный Жетон
+§6 - §c✖ §42 Diamond Legendary Token@§6 - §c✖ §42 Алмазных Легендарных Жетона
+§6 - §c✖ §464 Diamond Legendary Token@§6 - §c✖ §464 Алмазный Легендарных Жетона
 §6 - §a✔ §21 Diamond Legendary Token@§6 - §a✔ §21 Алмазный Легендарный Жетон
-§6 - §a✔ §22 Diamond Legendary Token@§6 - §a✔ §22 Алмазный Легендарный Жетон
-§6 - §a✔ §264 Diamond Legendary Token@§6 - §a✔ §264 Алмазный Легендарный Жетон
+§6 - §a✔ §22 Diamond Legendary Token@§6 - §a✔ §22 Алмазных Легендарных Жетона
+§6 - §a✔ §264 Diamond Legendary Token@§6 - §a✔ §264 Алмазных Легендарных Жетона
 §6 - §c✖ §41 Hearty Zork Stew Recipe@§6 - §c✖ §41 Рецепт Сытного Зорк Рагу
 §6 - §a✔ §21 Hearty Zork Stew Recipe@§6 - §a✔ §21 Рецепт Сытного Зорк Рагу
 §6 - §c✖ §41 Omelette de Colère Recipe@§6 - §c✖ §41 Рецепт Омлета
@@ -1004,6 +1118,9 @@
 §6 - §c✖ §41 Caissop's Master Piece@§6 - §c✖ §41 Шедевр Каизопа
 §6 - §a✔ §21 Caissop's Master Piece@§6 - §a✔ §21 Шедевр Каизопа
 §6 - §c✖ §43 Siegfried Cookies@§6 - §c✖ §43 Печенья Зигфрида
+§6 - §c✖ §41 Siegfried's Sword@§6 - §c✖ §41 Меч Зигфрида
+§6 - §c✖ §41 Siegfried Diary Collection@§6 - §c✖ §41 Коллекция Дневников Зигфрида
+§6 - §c✖ §41 Siegfried Mug@§6 - §c✖ §41 Кружка Зигфрида
 §6 - §c✖ §41 Dragon's Tooth@§6 - §c✖ §41 Зуб Дракона
 §6 - §c✖ §41 Siegfried's Autograph@§6 - §c✖ §41 Автограф Зигфрида
 §6 - §c✖ §41 Unknown Currency@§6 - §c✖ §41 Неизвестная Валюта
@@ -1017,48 +1134,39 @@
 §6 - §a✔ §21 Fiery Bow@§6 - §a✔ §21 Пламенный Лук
 §6 - §c✖ §45 Rock Pile@§6 - §c✖ §45 Куча Камней
 §6 - §a✔ §25 Rock Pile@§6 - §a✔ §25 Куча Камней
-§6 - §c✖ §45 Firefly Wing@§6 - §c✖ §45 Крыло Светлячка 
-§6 - §a✔ §25 Firefly Wing@§6 - §a✔ §25 Крыло Светлячка 
+§6 - §c✖ §45 Firefly Wing@§6 - §c✖ §45 Крыльев Светлячка 
+§6 - §a✔ §25 Firefly Wing@§6 - §a✔ §25 Крыльев Светлячка 
 §6 - §c✖ §41 Mud Ball@§6 - §c✖ §41 Шарик Грязи
 §6 - §a✔ §21 Mud Ball@§6 - §a✔ §21 Шарик Грязи
 §6 - §c✖ §41 Metal Scrap@§6 - §c✖ §41 Металлический Скрап
 §6 - §a✔ §21 Metal Scrap@§6 - §a✔ §21 Металлический Скрап
-§6 - §c✖ §41 Suspended Droplets@§6 - §c✖ §41 Висящие Капли
-§6 - §a✔ §21 Suspended Droplets@§6 - §a✔ §21 Висящие Капли
+§6 - §c✖ §41 Suspended Droplets@§6 - §c✖ §41 Висящая Капля
+§6 - §a✔ §21 Suspended Droplets@§6 - §a✔ §21 Висящая Капля
 §6 - §c✖ §41 Frost Chunk@§6 - §c✖ §41 Замороженная Глыба
 §6 - §a✔ §21 Frost Chunk@§6 - §a✔ §21 Замороженная Глыба
 §6 - §c✖ §41 Dark Aura@§6 - §c✖ §41 Темная Аура
 §6 - §a✔ §21 Dark Aura@§6 - §a✔ §21 Темная Аура
 §6 - §c✖ §41 Overgrown Bundle@§6 - §c✖ §41 Заросший Пакет
 §6 - §a✔ §21 Overgrown Bundle@§6 - §a✔ §21 Заросший Пакет
-§6 - §c✖§7 Guild Lv. Min: §f10@§6 - §c✖§7 Гильдия Ур. Мин: §f10
-§6 - §a✔§7 Guild Lv. Min: §f10@§6 - §a✔§7 Гильдия Ур. Мин:: §f10
-§6 - §a✔ §22 Earth Catalyst X@§6 - §a✔ §22 Катализатор Земли X
+§6 - §c✖§7 Guild Lv. Min: §f10@§6 - §c✖§7 Гильдии Ур. Мин: §f10
+§6 - §a✔§7 Guild Lv. Min: §f10@§6 - §a✔§7 Гильдии Ур. Мин:: §f10
+§6 - §a✔ §22 Earth Catalyst X@§6 - §a✔ §22 Катализатора Земли X
 §6 - §a✔ §21 Golden Clock@§6 - §a✔ §21 Золотые Часы
 §6 - §c✖ §41 Golden Clock@§6 - §c✖ §41 Золотые Часы
-§6 - §c✖ §412 Pig Meat@§6 - §c✖ §412 Мясо Свиньи
-§6 - §a✔ §212 Pig Meat@§6 - §a✔ §212 Мясо Свиньи
-§6 - §c✖ §415 Pig Meat@§6 - §c✖ §415 Мясо Свиньи
-§6 - §a✔ §215 Pig Meat@§6 - §a✔ §215 Мясо Свиньи
-§6 - §c✖ §420 Pig Meat@§6 - §c✖ §420 Мясо Свиньи
-§6 - §a✔ §220 Pig Meat@§6 - §a✔ §220 Мясо Свиньи
-§6 - §a✔ §23 Golden Teeth@§6 - §a✔ §23 Золотой Зуб
-§6 - §a✔ §24 Golden Teeth@§6 - §a✔ §24 Золотой Зуб
-§6 - §a✔ §22 Golden Teeth@§6 - §a✔ §22 Золотой Зуб
-§6 - §c✖ §44 Golden Teeth@§6 - §c✖ §44 Золотой Зуб
-§6 - §c✖ §43 Golden Teeth@§6 - §c✖ §43 Золотой Зуб
-§6 - §c✖ §42 Golden Teeth@§6 - §c✖ §42 Золотой Зуб
---------------------------------------------------------
-§6 - §c✖ §41 Siegfried's Sword@§6 - §c✖ §41 Меч Зигфрида
-§6 - §c✖ §41 Siegfried Diary Collection@§6 - §c✖ §41 Коллекция Дневников Зигфрида
-§6 - §c✖ §41 Siegfried Mug@§6 - §c✖ §41 Кружка Зигфрида
-§6 - §c✖ §42 The Eye's Pupil@§6 - §c✖ §42 Зрачка Глаза
+§6 - §c✖ §412 Pig Meat@§6 - §c✖ §412 Мяса Свиньи
+§6 - §a✔ §212 Pig Meat@§6 - §a✔ §212 Мяса Свиньи
+§6 - §c✖ §415 Pig Meat@§6 - §c✖ §415 Мяса Свиньи
+§6 - §a✔ §215 Pig Meat@§6 - §a✔ §215 Мяса Свиньи
+§6 - §c✖ §420 Pig Meat@§6 - §c✖ §420 Мяса Свиньи
+§6 - §a✔ §220 Pig Meat@§6 - §a✔ §220 Мяса Свиньи
+§6 - §a✔ §23 Golden Teeth@§6 - §a✔ §23 Золотых Зуба
+§6 - §a✔ §24 Golden Teeth@§6 - §a✔ §24 Золотых Зуба
+§6 - §a✔ §22 Golden Teeth@§6 - §a✔ §22 Золотых Зуба
+§6 - §c✖ §44 Golden Teeth@§6 - §c✖ §44 Золотых Зуба
+§6 - §c✖ §43 Golden Teeth@§6 - §c✖ §43 Золотых Зуба
+§6 - §c✖ §42 Golden Teeth@§6 - §c✖ §42 Золотых Зуба
 §6 - §a✔ §21 Corrupted Soul Token@§6 - §a✔ §21 Жетон Испорченной Еды
-§6 - §c✖ §41 Corrupted Charon's Brain@§6 - §c✖ §41 Испорченный Мозг Харона
-§6 - §c✖ §42 Corrupted Charon's Brain@§6 - §c✖ §42 Испорченных Мозга Харона
-§6 - §a✔ §22 Theorick's Ice Shard@§6 - §a✔ §22 Осколка Льда Теорика
-§6 - §a✔ §26 Corrupted Slykaar's Heart@§6 - §a✔ §26 Испорченных Сердец Слайкаара
-§6 - §c✖ §41 Corrupted Slykaar's Heart@§6 - §c✖ §41 Испорченное Сердце Слайкаара
+§6 - §c✖ §42 The Eye's Pupil@§6 - §c✖ §42 Зрачка Глаза
 
 #######################Класс и заклинания###################
 §eCharacter Info:@§eИнфо о персонаже:
@@ -2583,115 +2691,7 @@
 
 
 -----------------------------------------
-          §f2§7 Wheat String§f Ⓙ@          §f2§7 Пшеничных Нити§f Ⓙ
-          §f1§7 Wheat String§f Ⓙ@          §f1§7 Пшеничная Нить§f Ⓙ
-          §f1§7 Wheat Grains§f Ⓙ@          §f1§7 Пшеничное Зерно§f Ⓙ
-	    §f4§7 Barley String§f Ⓙ@	        §f4§7 Ячменных Нити§f Ⓙ
-            §f2§7 Barley String§f Ⓙ@            §f2§7 Ячменных Нити§f Ⓙ
-            §f2§7 Barley Grains§f Ⓙ@            §f2§7 Ячменных Зерна§f Ⓙ
-§a✔ Lv. 10: §f4§7 Barley String§f Ⓙ@§a✔ Ур. 10: §f4§7 Ячменных Нити§f Ⓙ
-§a✔ Lv. 10: §f2§7 Barley String§f Ⓙ@§a✔ Ур. 10: §f2§7 Ячменных Нити§f Ⓙ
-§a✔ Lv. 1: §f1§7 Copper Gem§f Ⓑ@§a✔ Ур. 1: §f1§7 Медный Камень§f Ⓑ
-          §f1§7 Gudgeon Oil§f Ⓚ@          §f1§7 Жир Пескаря§f Ⓚ
-          §f2§7 Gudgeon Oil§f Ⓚ@          §f2§7 Жира Пескаря§f Ⓚ
-          §f3§7 Gudgeon Oil§f Ⓚ@          §f3§7 Жира Пескаря§f Ⓚ
-§a✔ Lv. 1: §f2§7 Gudgeon Meat§f Ⓚ@§a✔ Ур. 1: §f2§7 Мяса Пескаря§f Ⓚ
-§c✖ Lv. 10: §f2§7 Granite Gem§f Ⓑ@§c✖ Ур. 10: §f2§7 Гранитных Камня§f Ⓑ
-§a✔ Lv. 10: §f2§7 Granite Gem§f Ⓑ@§a✔ Ур. 10: §f2§7 Гранитных Камня§f Ⓑ
-§a✔ Lv. 10: §f2§7 Granite Ingot§f Ⓑ@§a✔ Ур. 10: §f2§7 Гранитных Слитка§f Ⓑ
-§a✔ Lv. 10: §f4§7 Granite Ingot§f Ⓑ@§a✔ Ур. 10: §f4§7 Гранитных Слитка§f Ⓑ
-            §f2§7 Trout Oil§f Ⓚ@            §f2§7 Жира Форели§f Ⓚ
-            §f4§7 Trout Oil§f Ⓚ@            §f4§7 Жира Форели§f Ⓚ
-            §f6§7 Trout Oil§f Ⓚ@            §f6§7 Жира Форели§f Ⓚ
-§a✔ Lv. 10: §f4§7 Trout Oil§f Ⓚ@§a✔ Ур. 10: §f4§7 Жира Форели§f Ⓚ
-§a✔ Lv. 10: §f2§7 Trout Oil§f Ⓚ@§a✔ Ур. 10: §f2§7 Жира Форели§f Ⓚ
-§c✖ Lv. 10: §f4§7 Trout Meat§f Ⓚ@§c✖ Ур. 10: §f4§7 Мяса Форели§f Ⓚ
-§a✔ Lv. 10: §f4§7 Trout Meat§f Ⓚ@§a✔ Ур. 10: §f4§7 Мяса Форели§f Ⓚ
-§a✔ Lv. 70: §f10§7 Decay String§f Ⓙ@§a✔ Ур. 70: §f10§7 Зараженных Нитей§f Ⓙ
-§a✔ Lv. 70: §f5§7 Decay String§f Ⓙ@§a✔ Ур. 70: §f5§7 Зараженных Нитей§f Ⓙ
-            §f5§7 Light Wood§f Ⓒ@            §f5§7 Древесины Клена§f Ⓒ
-            §f10§7 Light Wood§f Ⓒ@            §f10§7 Древесины Клена§f Ⓒ
-§a✔ Lv. 80: §f10§7 Rice String§f Ⓙ@§a✔ Ур. 80: §f10§7 Рисовых Нитей§f Ⓙ
-§a✔ Lv. 80: §f5§7 Rice String§f Ⓙ@§a✔ Ур. 80: §f5§7 Рисовых Нитей§f Ⓙ
-            §f5§7 Pine Wood§f Ⓒ@            §f5§7 Древесины Сосны§f Ⓒ
-            §f10§7 Pine Wood§f Ⓒ@            §f10§7 Древесины Сосны§f Ⓒ
-§c✖ Lv. 90: §f12§7 Sorghum String§f Ⓙ@§c✖ Ур. 90: §f12§7 Сорго Нитей§f Ⓙ
-§c✖ Lv. 90: §f6§7 Sorghum String§f Ⓙ@§c✖ Ур. 90: §f6§7 Сорго Нитей§f Ⓙ
-            §f6§7 Avo Wood§f Ⓒ@            §f6§7 Древесины Авокадо§f Ⓒ
-            §f12§7 Avo Wood§f Ⓒ@            §f12§7 Древесины Авокадо§f Ⓒ
-§a✔ Lv. 70: §f10§7 Gylia Oil§f Ⓚ@§a✔ Ур. 70: §f10§7 Жира Гилия§f Ⓚ
-§a✔ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§a✔ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
-§c✖ Lv. 90: §f12§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f12§7 Жира Угря§f Ⓚ
-§a✔ Lv. 20: §f2§7 Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f2§7 Золотых Слитка§f Ⓑ
-§a✔ Lv. 20: §f4§7 Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f4§7 Золотых Слитка§f Ⓑ
-§c✖ Lv. 20: §f2§7 Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f2§7 Золотых Слитка§f Ⓑ
-§c✖ Lv. 20: §f4§7 Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f4§7 Золотых Слитка§f Ⓑ
-§a✔ Lv. 20: §f2§7 Gold Gem§f Ⓑ@§a✔ Ур. 20: §f2§7 Золотых Камня§f Ⓑ
-§c✖ Lv. 20: §f2§7 Gold Gem§f Ⓑ@§c✖ Ур. 20: §f2§7 Золотых Камня§f Ⓑ
-            §f4§7 Oat String§f Ⓙ@            §f4§7 Овсяных Нити§f Ⓙ
-            §f2§7 Oat String§f Ⓙ@            §f2§7 Овсяных Нити§f Ⓙ
-§c✖ Lv. 20: §f4§7 Oat String§f Ⓙ@§c✖ Ур. 20: §f4§7 Овсяных Нити§f Ⓙ
-§c✖ Lv. 20: §f2§7 Oat String§f Ⓙ@§c✖ Ур. 20: §f2§7 Овсяных Нити§f Ⓙ
-§a✔ Lv. 20: §f4§7 Oat String§f Ⓙ@§a✔ Ур. 20: §f4§7 Овсяных Нити§f Ⓙ
-§a✔ Lv. 20: §f2§7 Oat String§f Ⓙ@§a✔ Ур. 20: §f2§7 Овсяных Нити§f Ⓙ
-            §f2§7 Oat Grains§f Ⓙ@            §f2§7 Овсяного Зерна§f Ⓙ
-            §f4§7 Oat Grains§f Ⓙ@            §f4§7 Овсяного Зерна§f Ⓙ
-§c✖ Lv. 30: §f3§7 Sandstone Ingot§f Ⓑ@§c✖ Ур. 30: §f3§7 Песчаных Слитка§f Ⓑ
-§c✖ Lv. 30: §f6§7 Sandstone Ingot§f Ⓑ@§c✖ Ур. 30: §f6§7 Песчаных Слитков§f Ⓑ
-§a✔ Lv. 30: §f3§7 Sandstone Ingot§f Ⓑ@§a✔ Ур. 30: §f3§7 Песчаных Слитка§f Ⓑ
-§a✔ Lv. 30: §f6§7 Sandstone Ingot§f Ⓑ@§a✔ Ур. 30: §f6§7 Песчаных Слитков§f Ⓑ
-§c✖ Lv. 30: §f3§7 Sandstone Gem§f Ⓑ@§c✖ Ур. 30: §f3§7 Песчаных Камня§f Ⓑ
-            §f6§7 Malt String§f Ⓙ@            §f6§7 Солодовых Нитей§f Ⓙ
-            §f3§7 Malt String§f Ⓙ@            §f3§7 Солодовых Нити§f Ⓙ
-§a✔ Lv. 30: §f6§7 Malt String§f Ⓙ@§a✔ Ур. 30: §f6§7 Солодовых Нитей§f Ⓙ
-§a✔ Lv. 30: §f3§7 Malt String§f Ⓙ@§a✔ Ур. 30: §f3§7 Солодовых Нити§f Ⓙ
-§c✖ Lv. 30: §f6§7 Malt String§f Ⓙ@§c✖ Ур. 30: §f6§7 Солодовых Нитей§f Ⓙ
-§c✖ Lv. 30: §f3§7 Malt String§f Ⓙ@§c✖ Ур. 30: §f3§7 Солодовых Нити§f Ⓙ
-            §f4§7 Willow Wood§f Ⓒ@            §f4§7 Древесины Ивы§f Ⓒ
-            §f2§7 Willow Wood§f Ⓒ@            §f2§7 Древесины Ивы§f Ⓒ
-            §f2§7 Willow Paper§f Ⓒ@            §f2§7 Ивовой Бумаги§f Ⓒ
-            §f4§7 Willow Paper§f Ⓒ@            §f4§7 Ивовой Бумаги§f Ⓒ
-            §f6§7 Acacia Wood§f Ⓒ@            §f6§7 Древесины Акации§f Ⓒ
-            §f3§7 Acacia Wood§f Ⓒ@            §f3§7 Древесины Акации§f Ⓒ
-            §f6§7 Acacia Paper§f Ⓒ@            §f6§7 Акациевой Бумаги§f Ⓒ
-            §f3§7 Acacia Paper§f Ⓒ@            §f3§7 Акациевой Бумаги§f Ⓒ
-§c✖ Lv. 20: §f4§7 Salmon Oil§f Ⓚ@§c✖ Ур. 20: §f4§7 Жира Лосося§f Ⓚ
-§c✖ Lv. 20: §f2§7 Salmon Oil§f Ⓚ@§c✖ Ур. 20: §f2§7 Жира Лосося§f Ⓚ
-            §f2§7 Salmon Oil§f Ⓚ@            §f2§7 Жира Лосося§f Ⓚ
-            §f4§7 Salmon Oil§f Ⓚ@            §f4§7 Жира Лосося§f Ⓚ
-            §f6§7 Salmon Oil§f Ⓚ@            §f6§7 Жира Лосося§f Ⓚ
-§a✔ Lv. 20: §f4§7 Salmon Oil§f Ⓚ@§a✔ Ур. 20: §f4§7 Жира Лосося§f Ⓚ
-§c✖ Lv. 20: §f4§7 Salmon Meat§f Ⓚ@§c✖ Ур. 20: §f4§7 Мяса Лосося§f Ⓚ
-§c✖ Lv. 40: §f3§7 Iron Ingot§f Ⓑ@§c✖ Ур. 40: §f3§7 Железных Слитка§f Ⓑ
-§c✖ Lv. 40: §f6§7 Iron Ingot§f Ⓑ@§c✖ Ур. 40: §f6§7 Железных Слитка§f Ⓑ
-§a✔ Lv. 40: §f3§7 Iron Ingot§f Ⓑ@§a✔ Ур. 40: §f3§7 Железных Слитка§f Ⓑ
-§a✔ Lv. 40: §f6§7 Iron Ingot§f Ⓑ@§a✔ Ур. 40: §f6§7 Железных Слитка§f Ⓑ
-            §f6§7 Spruce Wood§f Ⓒ@            §f6§7 Древесины Ели§f Ⓒ
-            §f3§7 Spruce Wood§f Ⓒ@            §f3§7 Древесины Ели§f Ⓒ
-            §f3§7 Carp Oil§f Ⓚ@            §f3§7 Жира Карпа§f Ⓚ
-            §f6§7 Carp Oil§f Ⓚ@            §f6§7 Жира Карпа§f Ⓚ
-            §f9§7 Carp Oil§f Ⓚ@            §f9§7 Жира Карпа§f Ⓚ
-§a✔ Lv. 30: §f6§7 Carp Oil§f Ⓚ@§a✔ Ур. 30: §f6§7 Жира Карпа§f Ⓚ
-§c✖ Lv. 30: §f6§7 Carp Oil§f Ⓚ@§c✖ Ур. 30: §f6§7 Жира Карпа§f Ⓚ
-§c✖ Lv. 40: §f6§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f6§7 Хмельных Нитей§f Ⓙ
-§c✖ Lv. 40: §f3§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f3§7 Хмельных Нитей§f Ⓙ
-§a✔ Lv. 40: §f6§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f6§7 Хмельных Нитей§f Ⓙ
-§a✔ Lv. 40: §f3§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f3§7 Хмельных Нитей§f Ⓙ
-§c✖ Lv. 40: §f6§7 Icefish Oil§f Ⓚ@§c✖ Ур. 40: §f6§7 Жира Щуки§f Ⓚ
-§a✔ Lv. 40: §f6§7 Icefish Oil§f Ⓚ@§a✔ Ур. 40: §f6§7 Жира Щуки§f Ⓚ
-§a✔ Lv. 50: §f4§7 Silver Ingot§f Ⓑ@§a✔ Ур. 50: §f4§7 Серебрянных Слитка§f Ⓑ
-§a✔ Lv. 50: §f8§7 Silver Ingot§f Ⓑ@§a✔ Ур. 50: §f8§7 Серебрянных Слитков§f Ⓑ
-§c✖ Lv. 50: §f4§7 Silver Ingot§f Ⓑ@§c✖ Ур. 50: §f4§7 Серебрянных Слитка§f Ⓑ
-§c✖ Lv. 50: §f8§7 Silver Ingot§f Ⓑ@§c✖ Ур. 50: §f8§7 Серебрянных Слитков§f Ⓑ
-            §f8§7 Jungle Wood§f Ⓒ@            §f8§7 Древесины Амаранта§f Ⓒ
-            §f4§7 Jungle Wood§f Ⓒ@            §f4§7 Древесины Амаранта§f Ⓒ
-§c✖ Lv. 60: §f4§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f4§7 Кобальтовых Слитка§f Ⓑ
-§c✖ Lv. 60: §f8§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f8§7 Кобальтовых Слитка§f Ⓑ
-            §f8§7 Dark Wood§f Ⓒ@            §f8§7 Древесины Каштана§f Ⓒ
-            §f4§7 Dark Wood§f Ⓒ@            §f4§7 Древесины Каштана§f Ⓒ
-§c✖ Lv. 50: §f8§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f8§7 Ржаных Нитей§f Ⓙ
-§c✖ Lv. 50: §f4§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f4§7 Ржаных Нити§f Ⓙ
-§c✖ Lv. 50: §f8§7 Piranha Oil§f Ⓚ@§c✖ Ур. 50: §f8§7 Жира Пираньи§f Ⓚ
+
 §a- §7Effect: §f+36% Main Attack Damage@§a- §7Эффект: §f+36% Урона Основной Атаки
 §a- §7Effect: §f+6% Main Attack Damage@§a- §7Эффект: §f+6% Урона Основной Атаки
 §a- §7Effect: §f+30% Main Attack Damage@§a- §7Эффект: §f+30% Урона Основной Атаки
