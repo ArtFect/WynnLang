@@ -1446,12 +1446,12 @@
 §7- §aLv. 30+ Character §l✔@§7- §aУр. 30+ Персонаж §l✔
 
 ##########################Предметы#########################
-§a- §7Tier: §dRare@§a- §7Уровень: §dРедкий
-§a- §7Tier: §eUnique@§a- §7Уровень: §eУникальный
-§a- §7Tier: §bLegendary@§a- §7Уровень: §bЛегендарный
-§a- §7Tier: §aSet@§a- §7Уровень: §aСет
-§a- §7Tier: §5Mythic@§a- §7Уровень: §5Мифический
-§a- §7Tier: §fNormal@§a- §7Уровень: §fОбычный
+§a- §7Tier: §dRare@§a- §7Редкость: §dРедкий
+§a- §7Tier: §eUnique@§a- §7Редкость: §eУникальный
+§a- §7Tier: §bLegendary@§a- §7Редкость: §bЛегендарный
+§a- §7Tier: §aSet@§a- §7Редкость: §aСет
+§a- §7Tier: §5Mythic@§a- §7Редкость: §5Мифический
+§a- §7Tier: §fNormal@§a- §7Редкость: §fОбычный
 §c✖§7 Class Req: Mage/Dark Wizard@§c✖§7 Класс Необ.: Маг/Темный Волшебник
 §c✖§7 Class Req: Archer/Hunter@§c✖§7 Класс Необ.: Лучник/Охотник
 §c✖§7 Class Req: Warrior/Knight@§c✖§7 Класс Необ.: Воин/Рыцарь
@@ -2868,7 +2868,7 @@
 §7the bodies and see what @§7тела и посмотри что
 §7Honip tells you! -Bodies cleaned: @§7Хонип скажет тебе! -Тел очищено:
 §7This fresh clay is moulded easily...@§7Эта свежая глина легко формуется...
-§a- §7Tier: §cFabled@§7§a- §7Уровень: §cСказочный
+§a- §7Tier: §cFabled@§7§a- §7Редкость: §cСказочный
 §f   - §7Duration: 5.0 Sec.@§f   - §7Длительность: 5.0 Сек.
 §6- §fUproot§7 [Lv. 31]@§6- §fИзгнание§7 [Ур. 31]
 §5- §7Totem Upgrade III §8[Lv. 36]@§5- §7Тотем Апгрейд III §8[Ур. 36]
