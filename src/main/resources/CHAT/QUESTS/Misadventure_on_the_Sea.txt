@@ -58,8 +58,8 @@
 §7[5/7] §2Honip: §aI'm not sure what ya'll find there, but these are NOT normal rats.@§7[5/7] §2Хонип: §aЯ не уверен, что ты там найдешь, но это НЕ обычные крысы.
 §7[6/7] §2Honip: §aSo please, get in there... and kill everything, alright?@§7[6/7] §2Хонип: §aТак что пожалуйста, иди туда... и убей все там, хорошо?
 §7[7/7] §2Honip: §aI've got faith in ya. Here goes nothin'!@§7[7/7] §2Хонип: §aЯ верю в тебя. Была не была!
-§7[1/4] §2Honip: §a...Seth§a? Have ya seen the soldier?@§7[1/4] §2Хонип: §a...Сэт? Ты видел нашего солдата?
-§7[2/4] §2Seth: §aNo, but they did a great job in the hold! Some gunpowder went missing though.@§7[2/4] §2Сэт: §aНет, но он отлично поработал в трюме! Хотя, там пропала часть пороха.
+§7[1/4] §2Honip: §a...Seth§a? Have ya seen the soldier?@§7[1/4] §2Хонип: §a...Сэт? Ты не видел нашего солдата?
+§7[2/4] §2Seth: §aNo, but they did a great job in the hold! Some gunpowder went missing though.@§7[2/4] §2Сэт: §aНет, но он отлично поработал в трюме! Хотя, там почему-то пропала часть пороха.
 §7[3/4] §2Seth: §a...@§7[3/4] §2Сэт: §a...
 §7[4/4] §2Seth: §aWait a minute.@§7[4/4] §2Сэт: §aПогоди-ка.
 §7[1/1] §2Seaskipper Captain: §a'ey there soldier! Looks like ya're in a bit of a pickle! How 'bout ya hop on?'@§7[1/1] §2Капитан Корабля: §aЭй, привет солдат! Похоже, ты попал в переделку! Как насчет того, чтобы запрыгнуть на борт?
@@ -94,12 +94,12 @@
 §7[1/1] §2Pirate Guard: §aHey! What do you think you're doin'?!@§7[1/1] §2Страж Пират: §aЭй! Что это ты собрался сделать?!
 §7[1/3] §2Honip: §aSo, there's quite a few bodies in there, and we never bothered throwin' em out!@§7[1/3] §2Хонип: §aТак вот, тут довольно много тел, и мы никогда не утруждали себя выбрасыванием их за борт!
 §7[2/3] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the bodies with it!@§7[2/3] §2Хонип: §aТак что давай, вот тебе губка для засохшей крови. Просто три тела вместе с ней!
-§7[1/3] §2Pirate: §aHonip has a pet chicken, weird right?@§7[1/3] §2Пират: §aУ Хонипа есть питомец курица, странно, правда?
+§7[1/3] §2Pirate: §aHonip has a pet chicken, weird right?@§7[1/3] §2Пират: §aУ Хонипа есть питомец курица. Это странно, правда?
 §7[2/3] §2Pirate: §aI bet he got inspiration from that weird guy on his island...@§7[2/3] §2Пират: §aДержу пари, он черпал вдохновение у того странного парня на своем острове...
-§7[3/3] §2Pirate: §aWhat? You murdered that guy's most prized chicken? You're an odd one, soldier.@§7[3/3] §2Пират: §aЧто? Ты убил самую дорогую курицу этого парня? Странный ты человек, солдат.
+§7[3/3] §2Pirate: §aWhat? You murdered that guy's most prized chicken? You're an odd one, soldier.@§7[3/3] §2Пират: §aЧто? Ты убил самую дорогую курицу того парня? Странный ты человек, солдат.
 §7[1/2] §2Pirate: §aThe chicken's got quite the agressive personality!@§7[1/2] §2Пират: §aЦыпленок довольно агрессивная личность!
 §7[2/2] §2Pirate: §aBut maybe you do too. I wouldn't want you near my chickens, if I had any!@§7[2/2] §2Пират: §aБыть может, и ты тоже. Я бы не хотел, чтобы ты был рядом с моими цыплятами, если бы они у меня были!
-§7[1/2] §2Pirate: §aI heard what happened, soldier!@§7[1/2] §2Пират: §aЯ слышал что произошло, солдат!
+§7[1/2] §2Pirate: §aI heard what happened, soldier!@§7[1/2] §2Пират: §aЯ слышала что произошло, солдат!
 §7[2/2] §2Pirate: §aGood job on scaring away that thing!@§7[2/2] §2Пират: §aОтличная работа по отпугиванию этой твари!
 §7[1/1] §2Pirate: §aHey, how 'bout you go talk to Honip instead of me?@§7[1/1] §2Пират: §aЭй, как насчет идти поговорить с Хонипом вместо меня?
 §7[1/1] §2Pirate: §aHuh? Why are ya talkin' to me? Just talk to Honip!@§7[1/1] §2Пират: §aА? Почему ты говоришь со мной? Иди поговори с Хонипом!
@@ -165,7 +165,7 @@
 §7[3/4] §2Honip: §aWell, shiver me timbers! You did redeem yourself, soldier!@§7[3/4] §2Хонип: §aЧтож, разрази меня гром! Ты же искупил свою вину, солдат!
 §7[1/1] §2Seth: §aHonip's probably waitin' for ya by now!@§7[1/1] §2Сэт: §aХонип вероятно ждет тебя сейчас!
 §7[1/2] §2Seth: §aWelcome back! Any progress?@§7[1/2] §2Сэт: §aДобро пожаловать обратно! Есть прогресс?
-§7[2/2] §2Pirate: §aSnoo saved us all, right? What a crazy lad, heh!@§7[2/2] §2Пират: §aСну спас нас всех, верно? Что за сумасшедший парнишка, хех!
+§7[2/2] §2Pirate: §aSnoo saved us all, right? What a crazy lad, heh!@§7[2/2] §2Пират: §aСну спас нас всех, верно? Что за сумасшедший птенец, хех!
 §7[1/3] §2Honip: §aHey there fella'. So, the rat situation..?@§7[1/3] §2Хонип: §aПривет, приятель. Итак, к ситуации с крысами..?
 §7[2/3] §2Honip: §aOh, you're not done yet?@§7[2/3] §2Хонип: §aОх, ты еще не закончил?
 §7[3/3] §2Honip: §aTake it slowly if ya want, that place gives me the creeps...@§7[3/3] §2Хонип: §aДелай это медленно, если хочешь, у меня от этого места мурашки по коже...
