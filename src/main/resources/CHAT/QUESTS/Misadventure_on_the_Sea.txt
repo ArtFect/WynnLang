@@ -27,7 +27,7 @@
 §7[6/6] §2Honip: §aWhy? You're a soldier! All you do is take orders! Anyway, we'll need you to clean our stuff. Here, get out.@§7[6/6] §2Хонип: §aПочему? Ты же солдат! Все, что вы делаете, это принимаете заказы! В любом случае, нам нужно, чтобы ты почистил наши вещи. Вот, вылезай.
 §7[1/3] §2Honip: §aSo, there's quite a few skeletons in there, and we never bothered throwin' em out!@§7[1/3] §2Хонип: §aТак вот, там довольно много скелетов, и мы никогда не утруждали себя их выбрасыванием за борт!
 §7[2/3] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the skeletons with it!@§7[2/3] §2Хонип: §aДавай, вот тебе еще губка для засохшей крови. Просто три скелетов вместе с ней!
-§7[3/3] §2Honip: §aIf you need me, I'll be on the deck. And, uh, don't go in the hold. We've got a §a§lBIG§a rat problem.@§7[3/3] §2Хонип: §aЕсли понадоблюсь, я буду на палубе. И не заходи в трюм. У нас там §а§lБОЛЬШАЯ§a проблема с крысами.
+§7[3/3] §2Honip: §aIf you need me, I'll be on the deck. And, uh, don't go in the hold. We've got a §a§lBIG§a rat problem.@§7[3/3] §2Хонип: §aЕсли понадоблюсь, я буду на палубе. И не заходи в трюм. У нас там §a§lБОЛЬШАЯ§a проблема с крысами.
 §7[1/2] §2Pirate: §aOh, uh... Don't worry about that, 'ay?@§7[1/2] §2Пират: §aОх, ух... Не беспокойся об этом, ок?
 §7[2/2] §2Pirate: §aThat's our... fuel source.@§7[2/2] §2Пират: §aЭто наш... источник топлива.
 §7[1/4] §2Honip: §aHey! The boat's lookin' real nice now!@§7[1/4] §2Хонип: §aЭй! Лодка начала выглядеть очень неплохо!
@@ -74,7 +74,7 @@
 §7[1/1] §2Honip: §aI told you to stay back!@§7[1/1] §2Хонип: §aЯ говорил тебе держаться подальше!
 §7[1/4] §2Honip: §aSo, there's quite a few skeletons in there, and we never bothered throwin' em out!@§7[1/4] §2Хонип: §aТак вот, там довольно много скелетов, и мы никогда не утруждали себя их выбрасыванием за борт!
 §7[2/4] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the skeletons with it!@§7[2/4] §2Хонип: §aДавай, вот тебе еще ложка, чтобы оттирать засохшую кровь. Просто три скелетов вместе с ней!
-§7[3/4] §2Honip: §aIf you need me, I'll be on the deck. And, uh, don't go in the hold. We've got a §a§lBIG§a rat problem.@§7[3/4] §2Хонип: §aЕсли понадоблюсь, я буду на палубе. И ух, не заходи в трюм. У нас там §а§lБОЛЬШАЯ§a проблема с крысами.
+§7[3/4] §2Honip: §aIf you need me, I'll be on the deck. And, uh, don't go in the hold. We've got a §a§lBIG§a rat problem.@§7[3/4] §2Хонип: §aЕсли понадоблюсь, я буду на палубе. И ух, не заходи в трюм. У нас там §a§lБОЛЬШАЯ§a проблема с крысами.
 §7[4/4] §2Honip: §aAlso, for the sake of my crew, could you be more cooperative? I don't have an unlimited amount of these potions.@§7[4/4] §2Хонип: §aИ еще, ради моей команды, не мог бы ты быть более кооперативным? У меня нет неограниченного количества этих зелий.
 §7[1/1] §2Pirate Guard: §aSoldier? Ya already fixed that cannon, stop that.@§7[1/1] §2Пират: §aСолдат? Ты уже починил эту пушку, оставь ее.
 §7[1/4] §2Honip: §aHey there! Ya bringin' me good news?@§7[1/4] §2Хонип: §aЭй! Ты принес мне хорошие новости?
@@ -92,8 +92,8 @@
 §7[2/2] §2Pirate: §aOh my god, this is so boring...@§7[2/2] §2Пират: §aБоже, это так скучно...
 §7[1/1] §2Pirate: §aWhy did I take this job...@§7[1/1] §2Пират: §aЗачем я выбрал эту работу...
 §7[1/1] §2Pirate Guard: §aHey! What do you think you're doin'?!@§7[1/1] §2Страж Пират: §aЭй! Что это ты собрался сделать?!
-§7[1/3] §2Honip: §aSo, there's quite a few bodies in there, and we never bothered throwin' em out!@§7[1/3] §2Хонип: §aТак вот, там довольно много тел, и мы никогда не утруждали себя их выбрасыванием за борт!
-§7[2/3] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the bodies with it!@§7[2/3] §2Хонип: §aДавай, вот тебе еще губка для засохшей крови. Просто три тела вместе с ней!
+§7[1/3] §2Honip: §aSo, there's quite a few bodies in there, and we never bothered throwin' em out!@§7[1/3] §2Хонип: §aТак вот, тут довольно много тел, и мы никогда не утруждали себя выбрасыванием их за борт!
+§7[2/3] §2Honip: §aGo ahead, here's a sponge for the dried blood as well. Just wack the bodies with it!@§7[2/3] §2Хонип: §aТак что давай, вот тебе губка для засохшей крови. Просто три тела вместе с ней!
 §7[1/3] §2Pirate: §aHonip has a pet chicken, weird right?@§7[1/3] §2Пират: §aУ Хонипа есть питомец курица, странно, правда?
 §7[2/3] §2Pirate: §aI bet he got inspiration from that weird guy on his island...@§7[2/3] §2Пират: §aДержу пари, он черпал вдохновение у того странного парня на своем острове...
 §7[3/3] §2Pirate: §aWhat? You murdered that guy's most prized chicken? You're an odd one, soldier.@§7[3/3] §2Пират: §aЧто? Ты убил самую дорогую курицу этого парня? Странный ты человек, солдат.
