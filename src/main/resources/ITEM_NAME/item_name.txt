@@ -2085,7 +2085,7 @@ Map Fragment 1@Фрагмент Карты 1
 §4Fire Voucher@§4Ваучер Огня
 §2Earth Voucher@§2Ваучер Земли
 §6Thunder Voucher@§6Ваучер Грома
-§rAir Voucher@Ваучер Воздуха
+§rAir Voucher@§fВаучер Воздуха
 §3Water Voucher@§3Ваучер Воды
 §bMaster Voucher@§bМастер Ваучер
 §dLost SoulÀ@§dПотерянная Душа
@@ -2155,7 +2155,7 @@ Map Fragment 2@Фрагмент Карты 2
 Wealth or Knowledge@Богатство или Знания
 Pigman Meat@Мясо Пигмена
 Old Treasure֎@Старое Сокровище֎
-Talking Mushroom@Говорящий Гриб
+§rTalking Mushroom@§fГоворящий Гриб
 §fFallen Sand@§fУпавший Песок
 §fVoid Goo@§fПустотная Слизь
 §fCrystal Recipe@§fРецепт Кристалла
