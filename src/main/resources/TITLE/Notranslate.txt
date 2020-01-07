@@ -109,7 +109,6 @@
 §a0:00@ 
 §20:00@ 
 §2 @ 
-§fFallen Factory@ 
 §60:59@ 
 §60:58@ 
 §60:57@ 
@@ -168,9 +167,6 @@
 §60:03@ 
 §60:02@ 
 §60:01@ 
-§4The Mummyboard@ 
-§4Virus Doctor@ 
-
 §f0:35@ 
 §f0:34@ 
 §f0:33@ 
@@ -186,9 +182,6 @@
 §f0:23@ 
 §f0:22@ 
 §f0:21@ 
-§4Corkus Accipientis@ 
-§fNivla Forest@ 
-§fRagni@ 
 §4§l0:00@ 
 §f0:36@ 
 §7§l§m[1/10]@ 
@@ -208,7 +201,6 @@
 0:00@ 
 §23@ 
 §32@ 
-§4Matrojan Idol@ 
 §f@ 
 §f §f @ 
 §a§lNEW GAME: §e§lAr§a§lca§b§lde§e§l §d§lShuffle@ 
@@ -218,12 +210,6 @@
 §d§lDeathRun §c§lV1.5!@ 
 §b§lUpgrade Today §7§l@ §a§lstore.hivemc.com@ 
 §b§lUpgrade Today §7§l@ §a§lstore.hivemc.com@ 
-§4YahyaBot V4.04@ 
-§4Death Metal@ 
-§4Mechorrupter of Worlds@ 
-§4Robob's Reinvention@ 
-§4Orange Cybel@ 
-§4Doctor Legendary@ 
 §f0:37
 Illegal characters in chat@ 
 §e??????????@ 
@@ -426,3 +412,4 @@ Escape from the storm@
 §cYou have 30 seconds@ 
 §70§7:§747@ 
 §7[§76§7/6] Tasks Completed@ 
+§c[§4!§c]@ 
