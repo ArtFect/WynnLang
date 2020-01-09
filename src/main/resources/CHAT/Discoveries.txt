@@ -168,11 +168,11 @@
 §7[3/4] §2Bak'al: §aLet the ashes serve as a reminder that...@§7[3/4] §2Bak'al: §aПусть пепел послужит напоминанием о том...
 §7[4/4] §2Bak'al: §aEvery city will suffer the same fate.@§7[4/4] §2Bak'al: §aЧто каждый город постигнет та же участь.
 
-#######################Bak'al's Destruction 3######################
+##########################Bak'al's Destruction 3######################
 §7[1/1] §2Farmer: §aGods, NO!@§7[1/1] §2Farmer: §aБоже, НЕТ!
 §7[1/1] §2Bak'al: §aThe darkness must spread.@§7[1/1] §2Bak'al: §aТьма должна распространяться.
 
-#######################Lost Avos City######################
+############################Lost Avos City######################
 §7[1/12] §2???: §aIt was 350 years ago when I last saw a human. And I will never forget.@§7[1/12] §2???: §aЭто было 350 лет назад, когда я в последний раз видел человека. И я никогда этого не забуду.
 §7[2/12] §2???: §aYour kind had already dominated Wynn and Fruma. But you decided to come to this island. Our island.@§7[2/12] §2???: §aВаша раса уже доминировала над Винн и Фрума. Но вы решили приехать на этот остров. Наш остров.
 §7[3/12] §2???: §aI will never understand why some Avos decided to let you live here. Those who welcomed you stayed on the surface.@§7[3/12] §2???: §aЯ никогда не пойму, почему некоторые Авосы решили позволить вам жить здесь.
@@ -186,10 +186,12 @@
 §7[11/12] §2Phoenix Prince: §aYou're an invader, just like the rest of your people. They do not deserve to live on this island... on §oour§a island.@§7[11/12] §2Phoenix Prince: §aТы захватчик, как и остальные твои люди. Они не достойны жить на этом острове... на §oнашем острове.
 §7[12/12] §2Phoenix Prince: §aPrepare for our revenge. Prepare to DIE!@§7[12/12] §2Phoenix Prince: §aПриготовься к нашей мести. Приготовься к СМЕРТИ!
 
-#######################Timeless Ruin######################
+#################################Timeless Ruin######################################
 §7[1/2] §2???: §aAh§a§kh§ah@§7[1/2] §2???: §aАх§a§kх§aх
+§7[2/2] §2???: §a⒯⒣⒠ ⒪⒧⒨ ⒞⒜⒩⒩⒪⒯ ⒮⒰⒭⒱⒤⒱⒠ ⒣⒠⒭⒠, ⒤⒯ ⒤⒮ ⒞⒪⒨⒤⒩⒢ ⒡⒪⒭ ⒰⒮０@ 
 ==========================================================================================
 §7[1/2]§f §2???:§f §aAh§a§kh§ah@§7[1/2] §2???: §aАх§a§kх§aх
+§7[2/2]§f §2???:§f §a⒯⒣⒠ ⒪⒧⒨ ⒞⒜⒩⒩⒪⒯ ⒮⒰⒭⒱⒤⒱⒠ ⒣⒠⒭⒠, ⒤⒯ ⒤⒮ ⒞⒪⒨⒤⒩⒢ ⒡⒪⒭ ⒰⒮０@ 
 =========================================================================================
 
 ###############################Torn in Twain#######################################
@@ -204,6 +206,7 @@
 §7[9/11] §2Theorick: §aPah! As though you are! I’m out in the thick of it, saving this province! What have YOU done, except put a roof above our heads?@§7[9/11] §2Теорик: §aТьфу! Как будто ты о них думаешь! Я в самой гуще событий, спасаю эту провинцию! Что сделал ты, кроме того, что дал нам крышу над головой? 
 §7[10/11] §2Theorick: §aYou hardly taught me anything! Dwendle hardly taught me anything! Rickeo hardly taught me anything! And Mael actively makes me stupider every time he opens his mouth!@§7[10/11] §2Теорик: §aТы почти ничему меня не научил! Двендл почти ничему меня не научил! Рикео почти ничему меня не научил! А Маэл делает меня еще глупее каждый раз, когда открывает рот! 
 §7[11/11] §2Theorick: §aOpen your eyes and knock the wax out of your ears! This can’t continue as it is!@§7[11/11] §2Теорик: §aОткрой глаза и вынь вату из ушей! Так больше продолжаться не может! 
+
 #########################Pottery Wheel####################################
 §7[1/6] §2Citizen: §aSir Theorick, if you, §aum...if§a you have a moment? Your tribute is here...@§7[1/6] §2Житель: §aСэр теорик, если вы ...эм ..если у вас есть минутка? Ваша дань здесь... 
 §7[2/6] §2Theorick: §a...good§a. Thank you. Good to see some who honestly respect what I’m trying to do for all of you. Was there anyone else?@§7[2/6] §2Теорик: §a...хорошо. Спасибо. Приятно видеть тех, кто искренне уважает то, что я пытаюсь сделать для всех вас. Был ли кто-нибудь еще? 
@@ -211,6 +214,7 @@
 §7[4/6] §2Theorick: §a...ask§a them, if they would prefer their money, or their lives. Am I not protecting them? Is it really so much to ask that I get something in return?@§7[4/6] §2Теорик: §a...спроси их, что они предпочтут - свои деньги или свою жизнь. Разве я не защищаю их? Неужели я прошу так много, чтобы получить что-то взамен? 
 §7[5/6] §2Citizen: §aWe...we§a know. We told them that, §atoo...we’re§a sorry.@§7[5/6] §2Житель: §aМы...мы знаем. Мы и это им сказали...нам очень жаль. 
 §7[6/6] §2Theorick: §aYou aren’t the ones who need to apologize! I'm aware it's a voluntary contribution, but do they have any idea how difficult it is to cast magic like this regularly?!@§7[6/6] §2Теорик: §aЭто не вам нужно извиняться! Я знаю, что это добровольные пожертвования, но они хоть представляют, как трудно регулярно использовать магию?! 
+
 ###############################The Twains’ Downfall##################################
 §7[1/12] §2Rickeo: §aSurprise, surprise, Theo. You’re late.@§7[1/12] §2Рикео: §aУдивлен, удивлен Тео. Ты опоздал. 
 §7[2/12] §2Theorick: §aDon't even start, Ricke.@§7[2/12] §2Теорик: §aДаже не начинай, Рике. 
@@ -238,11 +242,13 @@
 §7[2/4] §2???: §aWell... At least you can’t say my funeral was boring.@§7[2/4] §2???: §aЧто ж... По крайней мере, ты не сможешь сказать, что мои похороны были скучными. 
 §7[3/4] §2Mael: §aWhat does all this mean? The Twains are over?@§7[3/4] §2Маэл: §aЧто все это значит? Твейны закончились? 
 §7[4/4] §2???: §aThe Twains ended the day Theorick left us. You should stay here though, there is one who will one day need your help...@§7[4/4] §2???: §aТвейны закончились в тот день, когда Теорик покинул нас. Нр ты должен остаться здесь, есть один кое-кто, кто однажды будет нуждаться в твоей помощи...
+
 ############################The Final Moments############################
 §7[1/4] §2Olm Mage: §aCrystalites. This is bad. Froner? FRONER? Are you there? We have a BIG problem.@§7[1/4] §2Олм Маг: §aКристаллиты. Это плохо. Фронер? ФРОНЕР? Ты здесь? У нас БОЛЬШАЯ проблема. 
 §7[2/4] §2Olm Astrologist: §aWhat? More meteors hitting the mountains again? When has that ever been an issue before?@§7[2/4] §2Олм Астролог: §aЧто? Опять метеориты падают в горах? Когда это раньше было проблемой? 
 §7[3/4] §2Olm Mage: §aThere’s a series of fireballs heading towards the city.@§7[3/4] §2Олм Маг: §aВ сторону города движется серия огненных шаров. 
 §7[4/4] §2Olm Astrologist: §aHow long have we got left? We need to inform th-@§7[4/4] §2Олм Астролог: §aСколько у нас осталось времени? Мы должны сообщить-
+
 ############################A Wynnic Excavation##########################
 §7[1/8] §2Miner: §a'Ey, boss, ya sure this is where we need t'blow things up? There's equipment an' all here. This place been empty for a while now too.@§7[1/8] §2Шахтер: §aЭй, босс, ты уверен, что именно здесь нам нужно все взорвать? Здесь есть оборудование и все такое. Это место же пустовало какое-то время. 
 §7[2/8] §2Miner Chief: §aThe small spec I found might not've been much, but it could mean that there are more emeralds nearby. That's why I brought our friend here to confirm.@§7[2/8] §2Шахтер Шеф: §aМаленький камень, который я нашел, возможно, не был большим, но это может означать, что поблизости есть еще эмеральды. Вот почему я привел сюда нашего друга, чтобы подтвердить это. 
