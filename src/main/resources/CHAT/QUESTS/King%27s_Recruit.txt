@@ -69,7 +69,6 @@
 §7[1/1] §2Guard: §aGood work. Now, you three head on towards the castle.@§7[1/1] §2Guard: §aОтличная работа. Теперь вы трое должны отправиться вперед, в замок.
 §7[5/5] §2Old Man: §aI left my scythe by the crops over yonder. Punch it and pick it up. Then harvest §3[2 Wheat]§a and bring it back here.@§7[5/5] §2Old Man: §aЯ оставил свою мотыгу у поля вон там. Ударь и подбери ее. Затем собери §b[2 Пшеницы]§a и принеси ее сюда.
 §7[3/3] §2Aledar: §aUse §b2 string§a and §b1 wood§a to craft §3[1 Bow]§a and then show it to the guard.@§7[3/3] §2Aledar: §aИспользуй §b2 нити§a и §b1 древесину§a чтобы скрафтить §3[1 Лук]§a и затем покажи его стражу.
-§7[8/8] §2Guard: §aNow, cast your Arrow Storm spell by clicking §bLeft-Right-Left§a!@§7[8/8] §2Guard: §aТеперь используй свое заклинание "Шторм Стрел", кликнув §b§lЛевая-Правая-Левая§a!
 §7[1/1] §2Aledar: §aWe can use this tree as a bridge to get across to the other side.@§7[1/1] §2Aledar: §aМы можем использовать это дерево как мост, чтобы перебраться на другую сторону.
 §7[1/1] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a at the anvil to create §3[1 Dagger]§a and then show it to me.@§7[1/1] §2Aledar: §aИспользуй §b2 слитка§a и §b1 древесину§a на наковальне, чтобы создать §3[1 Кинжал]§a и затем покажи его мне.
 §7[1/1] §2Aledar: §aShow your weapon to the guard so he'll let us through.@§7[1/1] §2Aledar: §aПокажи свое оружие стражу, чтобы он пропустил нас.
@@ -105,6 +104,7 @@
 §7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that copper so you can get yourself kitted out.@§7[4/6] §2Old Man: §aСтражи сказали мне отправить тебя вперед с этой медью, чтобы ты смог снарядить себя.
 §7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that oil so you can get yourself kitted out.@§7[4/6] §2Old Man: §aСтражи велели мне послать вас вперед с этим жиром, чтобы вы могли подготовиться.
 §7[1/1] §2Old Man: §aMine §3[2 Copper Ore]§a and then bring it to me.@§7[1/1] §2Old Man: §aДобудь §3[2 Медной руды]§a и принеси их мне.
+§7[8/8] §2Guard: §aNow, cast your Arrow Storm spell by clicking §bLeft-Right-Left§a!@§7[8/8] §2Guard: §aТеперь используй свое заклинание "Шторм Стрел", кликнув §b§lЛевая-Правая-Левая§a!
 §7[8/8] §2Guard: §aNow, cast your Heal spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Guard: §aТеперь используй свое заклинание "Исцеление", кликнув §b§lПравая-Левая-Правая!§a
 §7[1/2] §2Guard: §aThat's done it! All healed up. Now let me take care of this.@§7[1/2] §2Guard: §aГотово! Все вылечены. Теперь дайте мне позаботиться об этом.
 §7[2/2] §2Guard: §aNow, you three should head on towards the castle.@§7[2/2] §2Guard: §aТеперь вы трое должны направиться к замку.
