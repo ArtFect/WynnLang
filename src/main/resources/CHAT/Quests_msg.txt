@@ -1,4 +1,4 @@
-###################################Квесты##################################
+###################################QUESTS##################################
 §7You barely take your first bite into Chef Hamsey's dish before it melts in your mouth... Will the pie manage to match Hamsey's skills?@§7Как только ты сделал первый укус блюда шефа Хемзи, оно растаяло у тебя во рту... Сможет ли твой пирог соответствовать умениям Хемзи?
 §4The crane isn't in use at the moment, come back later...@§4Кран сейчас не используется, приходи позже...
 §4You must talk to the King first. Right-click on him to start a conversation.@§4Ты должен сначала поговорить с Королем. Правый клик по нему, чтобы начать разговор.
@@ -1182,3 +1182,204 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4This hole is dangerous, better not walk near it.@§4Эта дыра опасна, лучше не подходить к ней близко.
 §4A foul stench is coming from the §4slums...it§4 makes your head swim. No sense heading in.@§4Отвратительное зловоние идет из трущоб...от этого у тебя кружится голова. Нет смысла идти туда.
 §4The trolls have barricaded the door...@§4Тролли забаррикадировали дверь...
+
+################################QUEST NAMES####################################
+§e                          §e§lArachnids' Ascent@ 
+§e                          §e§lEye of the Storm@ 
+§e                         §e§lThe Sewers of Ragni@ 
+§e                             §e§lKing's Recruit@ 
+§e                         §e§lThe Realm of Light@ 
+§e                      §e§lAldorei's Secret Part I@ 
+§e                        §e§lGreen Skinned Trouble@ 
+§e                         §e§lCreeper Infiltration@ 
+§e                             §e§lEnzan's Brother@ 
+§e                            §e§lHaven Antiquity@ 
+§e                               §e§lFate of the Fallen@ 
+§e                         §e§lThe House of Twain@ 
+§e                        §e§lWynnExcavation Site B@ 
+§e                           §e§lBob's Lost Soul@ 
+§e                              §e§lJungle Fever@ 
+§e                         §e§lThe Bigger Picture@ 
+§e                        §e§lAcquiring Credentials	@ 
+§e                         §e§lFlight in Distress@ 
+§e                          §e§lCorrupted Betrayal@ 
+§e                 §e§lThe Hunger of Gerts Part 1@ 
+§e                             §e§lHollow Sirene@ 
+§e                            §e§lPoisoning the Pest@ 
+§e                               §e§lTunnel Trouble@ 
+§e                             §e§lThe Qira Hive@ 
+§e                       §e§lOne Thousand Meters Under@ 
+§e                        §e§lAcquiring Credentials@ 
+§e                        §e§lTemple of the Legends@ 
+§e                        §e§lWynnExcavation Site D@ 
+§e                                §e§lTaproot@ 
+§e                               §e§lLazarus' Pit@ 
+§e                             §e§lOut of my Mind	@ 
+§e                         §e§lLost in the Jungle@ 
+§e                           §e§lRedbeard's Booty@ 
+§e                         §e§lBeneath the Depths@ 
+§e                               §e§lLost Soles@ 
+§e                        §e§lThe Tower of Amnesia@ 
+§e                                §e§lThe Lost@ 
+§e                          §e§lThe Canary Calls@ 
+§e                      §e§lDwarves and Doguns Part III@ 
+§e                              §e§lLost Royalty@ 
+§e                           §e§lThe Envoy Part I@ 
+§e                         §e§lThe Canyon Guides@ 
+§e                          §e§lA Marauder's Dues@ 
+§e                             §e§lMixed Feelings@ 
+§e                                  §e§lCowfusion@ 
+§e                          §e§lThe Envoy Part II@ 
+§e                           §e§lDesperate Metal@ 
+§e                       §e§lThe Belly of the Beast@ 
+§e                      §e§lDwarves and Doguns Part II@ 
+§e                       §e§lDwarves and Doguns Part I@ 
+§e                            §e§lReincarnation@ 
+§e                          §e§lThe Dark Descent@ 
+§e                           §e§lFrom the Bottom@ 
+§e                            §e§lGeneral's Orders@ 
+§e                         §e§lThe Thanos Vaults@ 
+§e                               §e§lA Sandy Scandal@ 
+§e                          §e§lMeaningful Holiday@ 
+§e                              §e§lStable Story@ 
+§e                          §e§lFantastic Voyage@ 
+§e                          §e§lBeyond the Grave@ 
+§e                                §e§lUnderice@ 
+§e                           §e§lFallen Delivery@ 
+§e                      §e§lAldorei's Secret Part II@ 
+§e                 §e§lThe Hunger of Gerts Part 2@ 
+§e                            §e§lPurple and Blue@ 
+§e                              §e§lGreen Gloop@ 
+§e                             §e§lThe Mercenary@ 
+§e                         §e§lA Fighting Species@ 
+§e                               §e§lLost Tower@ 
+§e                              §e§lSister City@ 
+§e                         §e§lMacabre Masquerade@ 
+§e                       §e§lStudying the Corrupt@ 
+§e                              §e§lCluck Cluck@ 
+§e                              §e§lThe Passage@ 
+§e                          §e§lThe Corrupted Village@ 
+§e                          §e§lPit of the Dead@ 
+§e                               §e§lDwelling Walls@ 
+§e                               §e§lStar Thief@ 
+§e                        §e§lWynnExcavation Site C@ 
+§e                          §e§lRecipe For Disaster@ 
+§e                       §e§lAn Iron Heart Part II@ 
+§e                         §e§lThe Headless Hunt@ 
+§e                        §e§lAn Iron Heart Part I@ 
+§e                           §e§lInfested Plants@ 
+§e                          §e§lElemental Exercise@ 
+§e                               §e§lUnderwater@ 
+§e                         §e§lClearing the Camps@ 
+§e                              §e§lMushroom Man@ 
+§e                        §e§lDeja Vu@ 
+§e                             §e§lFrost Bite@ 
+§e                      §e§lDwarves and Doguns Part IV@ 
+§e                            §e§lShattered Minds@ 
+§e                        §e§lReclaiming the House@ 
+§e                          §e§lFinding The Light@ 
+§e                      §e§lThe Shadow of the Beast@ 
+§e                        §e§lRise of the Quartron@ 
+§e                          §e§lA Grave Mistake@ 
+§e                             §e§lMaltic's Well@ 
+§e                             §e§lPotion Making@ 
+§e                             §e§lCook Assistant@ 
+§e                          §e§lForbidden Prison@ 
+§e                     §e§lKingdom Of Sand@ 
+§e                              §e§lGrave Digger@ 
+§e                         §e§lWrath of the Mummy@ 
+§e                              §e§lMaster Piece@ 
+§e                             §e§lThe Worm Holes@ 
+§e                          §e§lThe Maiden Tower@ 
+§e                              §e§lCrop Failure@ 
+§e                         §e§lTroubled Tribesmen@ 
+§e                            §e§lZhight Island@ 
+§e                         §e§lThe Ultimate Weapon@ 
+§e                           §e§lThe Hidden City@ 
+§e                             §e§lCanyon Condor@ 
+§e                             §e§lPirate's Trove@ 
+§e                              §e§lIce Nations@ 
+§e                             §e§lCraftmas Chaos@ 
+§e                         §e§lTribal Aggression@ 
+§e                            §e§lMurder Mystery@ 
+§e                              §e§lDeath Whistle@ 
+§e                        §e§lWynnExcavation Site A@ 
+§e                         §e§lFrom the Mountains@ 
+§e                          §e§lHeart of Llevigar@ 
+§e                            §e§lMemory Paranoia@ 
+§e                             §e§lEnter The Dojo@ 
+§e                         §e§lTower of Ascension@ 
+§e                             §e§lOut of my Mind@ 
+§e                              §e§lGrand Youth@ 
+§e                         §e§lThe Fortuneteller@ 
+§e                              §e§lRoyal Trials@ 
+§e                      §e§lMisadventure on the Sea@ 
+§e                      §e§lRecover the Past@ 
+§e                          §e§lA Journey Beyond@ 
+§e                   §e§lThe Olmic Rune@ 
+§e                         §e§lPoint of No Return@ 
+§e                        §e§lThe Order of the Grook@ 
+§e                          §e§lA Journey Further@ 
+§e                          §e§lA Hunter's Calling@ 
+
+#####################################MINI-QUEST NAMES#########################################
+§a                          §a§lSlay Dead Villagers@ 
+§a                               §a§lSlay Slimes@ 
+§a                    §a§lSlay Creatures of Nesaak Forest@ 
+§a                         §a§lSlay Astrochelys Manis@ 
+§a                               §a§lSlay Myconids@ 
+§a                          §a§lSlay Pernix Monkeys@ 
+§a                               §a§lSlay Felrocs@ 
+§a                               §a§lSlay Idols@ 
+§a                               §a§lSlay Robots@ 
+§a                       §a§lSlay Wraiths & Phantasms@ 
+§a                  §a§lSlay Frosted Guards & Cryostone Golems@ 
+§a                               §a§lSlay Orcs@ 
+§a                          §a§lSlay Magma Entities@ 
+§a                       §a§lSlay Creatures of the Void@ 
+§a                               §a§lSlay Scarabs@ 
+§a                               §a§lSlay Coyotes@ 
+§a                               §a§lSlay Spiders@ 
+§a                               §a§lSlay Azers@ 
+§a                               §a§lSlay Mooshrooms@ 
+§a                               §a§lSlay Jinkos@ 
+§a                             §a§lSlay Ailuropodas@ 
+§a                               §a§lSlay Skeletons@ 
+§a                               §a§lSlay Lizardmen@ 
+§a                            §a§lSlay Arcane Spawn@ 
+§a                               §a§lSlay Ifrits@ 
+§a                              §a§lSlay Hobgoblins@ 
+§a                               §a§lSlay Conures@ 
+§a                             §a§lSlay Dragonlings@ 
+§a                               §a§lSlay Angels@ 
+§a                            §a§lGather Oak Logs@ 
+§a                          §a§lGather Willow Logs@ 
+§a                               §a§lGather Copper@ 
+§a                           §a§lGather Birch Logs@ 
+§a                               §a§lGather Gudgeon@ 
+§a                              §a§lGather Salmon@ 
+§a                               §a§lGather Wheat@ 
+§a                               §a§lGather Trout@ 
+§a                               §a§lGather Barley@ 
+§a                        §a§lGather Willow Logs II@ 
+§a                               §a§lGather Oats@ 
+§a                          §a§lGather Acacia Logs@ 
+§a                              §a§lGather Malt@ 
+§a                             §a§lGather Oats II@ 
+§a                             §a§lGather Malt II@ 
+§a                               §a§lGather Hops@ 
+§a                           §a§lGather Salmon II@ 
+§a                               §a§lGather Gold@ 
+§a                             §a§lGather Gold II@ 
+§a                        §a§lGather Acacia Logs II@ 
+§a                          §a§lGather Spruce Logs@ 
+§a                         §a§lGather Spruce Logs II@ 
+§a                               §a§lGather Granite@ 
+§a                          §a§lGather Jungle Logs@ 
+§a                        §a§lGather Jungle Logs II@ 
+§a                            §a§lGather Dark Logs@ 
+§a                          §a§lGather Dark Logs II@ 
+§a                         §a§lGather Dark Logs III@ 
+§a                               §a§lGather Carp@ 
+§a                           §a§lGather Sandstone@ 
+§a                             §a§lGather Icefish@ 
