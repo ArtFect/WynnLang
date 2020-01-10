@@ -648,7 +648,7 @@
 §8too long will strain and@ 
 §8warp the user's mind.@ 
 
-§8§8[Community Event Winner]@ 
+§8§8[Community Event Winner]@§8[Победитель Комьюнити Ивента]
 §8Gentle spirits of the wind@ 
 §8attract themselves to the@ 
 §8brilliant jewels slotted@ 
@@ -885,12 +885,13 @@
 §8the user with unlimited@ 
 §8imagination'.@ 
 
-§8§8The wielders of this cursed@ 
-§8glassen bauble are rendered@ 
-§8mute. The effect is reversed@ 
-§8after the item is removed,@ 
-§8but the longer it is worn,@ 
-§8the longer the curse remains.@ 
+§8§8The wielders of this cursed@§8Обладатели этой проклятой стеклянной 
+§8glassen bauble are rendered@§8безделушки становятся немыми. 
+§8mute. The effect is reversed@§8Эффект меняется на противоположный 
+§8after the item is removed,@§8после удаления предмета, но 
+§8but the longer it is worn,@§8чем дольше он носится, тем 
+§8the longer the curse remains.@§8дольше остается проклятие.
+
 §8§8Found on the corpse of@ 
 §8the oldest shopkeeper of@ 
 §8the Gavel province, the@ 
@@ -1058,12 +1059,13 @@
 §8during a great corrupted@§8во время Великой испорченной 
 §8siege.@§8осады.
 
-§8§8Used by the Temple of@ 
-§8the Legends' strongest guard,@ 
-§8the shielded plating is@ 
-§8enchanted with a powerful@ 
-§8ward to stave off the effects@ 
-§8of the corruption.@ 
+§8§8Used by the Temple of@§8Используемые самой сильной
+§8the Legends' strongest guard,@§8охраной храма легенд, 
+§8the shielded plating is@§8их экранированное покрытие 
+§8enchanted with a powerful@§8заколдовано мощной защитой, 
+§8ward to stave off the effects@§8чтобы предотвратить последствия 
+§8of the corruption.@§8порчи.
+
 §8§8A recently married man@ 
 §8went off to war wearing@ 
 §8this wedding ring. Though@ 
@@ -1071,12 +1073,12 @@
 §8courage and determination@ 
 §8empowers all who wear it.@ 
 
-§8§8The powerful psychic energies@ 
-§8surrounding this bow are@ 
-§8rumored to increase accuracy,@ 
-§8though this has not been@ 
-§8refuted by any reliable@ 
-§8source.@ 
+§8§8The powerful psychic energies@§8Мощные духовные энергии, 
+§8surrounding this bow are@§8окружающие этот лук, 
+§8rumored to increase accuracy,@§8по слухам, увеличивают точность,
+§8though this has not been@§8хотя это не было 
+§8refuted by any reliable@§8опровергнуто ни одним надежным 
+§8source.@§8источником.
 
 §8§8A psychopath claiming@ 
 §8herself to be Death incarnate@ 
@@ -1363,11 +1365,11 @@
 §8uprooted, you notice its@§8вырванное с корнем, ты замечаешь 
 §8continuous growth.@§8его непрерывный рост.
 
-§8§8This indestructible dagger@ 
-§8was found floating in the@ 
-§8magma of the Molten Heights,@ 
-§8with a lament from its exiled@ 
-§8smith carved onto the hilt.@ 
+§8§8This indestructible dagger@§8Этот несокрушимый кинжал 
+§8was found floating in the@§8был найден плавающим в магме 
+§8magma of the Molten Heights,@§8расплавленных высот, а на 
+§8with a lament from its exiled@§8рукояти его был вырезан 
+§8smith carved onto the hilt.@§8плач изгнанного кузнеца.
 
 §8§8Lost by master sailor@ 
 §8Carvel in a massive storm,@ 
@@ -1376,11 +1378,11 @@
 §8where it was found spewing@ 
 §8seafoam and lightning bolts.@ 
 
-§8§8"If anyone finds this,@ 
-§8leave it at my Gale's gravesite.@ 
-§8I promised her a memento,@ 
-§8too." This inscription is@ 
-§8extremely weathered.@ 
+§8§8"If anyone finds this,@§8"Если кто-нибудь найдет это, 
+§8leave it at my Gale's gravesite.@§8оставьте на могиле моей 
+§8I promised her a memento,@§8Гейл. Я тоже обещал ей 
+§8too." This inscription is@§8подарок на память" - Эта надпись 
+§8extremely weathered.@§8очень сильно выцвела.
 
 §8§8Stories say that should@ 
 §8anyone wield both of these@ 
@@ -1390,12 +1392,12 @@
 §8however, has never been@ 
 §8found.@ 
 
-§8§8Cosmic energy permeates@ 
-§8this deceptively dull-looking@ 
-§8chestplate, having been@ 
-§8crafted with stardust from@ 
-§8a comet that only passes@ 
-§8over Wynn every 1000 years.@ 
+§8§8Cosmic energy permeates@§8Космическая энергия пронизывает 
+§8this deceptively dull-looking@§8этот обманчиво тусклый 
+§8chestplate, having been@§8на вид нагрудник, созданный 
+§8crafted with stardust from@§8из звездной пыли от кометы, 
+§8a comet that only passes@§8которая проходит над Винн 
+§8over Wynn every 1000 years.@§8только каждые 1000 лет.
 
 §8§8The one true Chimera in@§8Единственную истинную существовующую 
 §8existence is sought by many,@§8химеру ищут многие, ибо 
@@ -1427,13 +1429,13 @@
 §8to spellcasting through@§8в заклинаниях с помощью этой 
 §8this simple wand.@§8простой палочки.
 
-§8§8Despite this mace never@ 
-§8seeing use by Remikas, it@ 
-§8was seen as a symbol of@ 
-§8the might of his rule over@ 
-§8Gavel. Its true abilities@ 
-§8in battle have never been@ 
-§8seen.@ 
+§8§8Despite this mace never@§8Несмотря на то, что Ремикас 
+§8seeing use by Remikas, it@§8никогда не использовал эту 
+§8was seen as a symbol of@§8булаву, она считалась символом 
+§8the might of his rule over@§8мощи его власти над 
+§8Gavel. Its true abilities@§8Гавелом. Его истинные способности 
+§8in battle have never been@§8в бою никогда не были 
+§8seen.@§8замечены.
 
 §8§8Supposedly based off of@ 
 §8the wand of master mage@ 
@@ -1492,13 +1494,13 @@
 §8sight, as this weapon is@ 
 §8total destruction.@ 
 
-§8§8The dark spectres of the@ 
-§8decayed forests have created@ 
-§8an insidious helmet to drain@ 
-§8the spirit of those who@ 
-§8wear it, and become servants@ 
-§8to their dark whims. Many@ 
-§8have fallen to its allure.@ 
+§8§8The dark spectres of the@§8Темные призраки зараженных 
+§8decayed forests have created@§8лесов создали этот коварный 
+§8an insidious helmet to drain@§8шлем, чтобы истощить дух 
+§8the spirit of those who@§8тех, кто носит его, 
+§8wear it, and become servants@§8и стать слугами их темных 
+§8to their dark whims. Many@§8прихотей. Многие поддались его 
+§8have fallen to its allure.@§8очарованию.
 
 §8§8This bow's thick string@§8Толстая тетива этого лука 
 §8fails to shoot arrows effectively,@§8не может эффективно стрелять стрелами, 
@@ -1886,12 +1888,12 @@
 §8items including this sturdy@§8включая этот прочный 
 §8bracer.@§8браслет.
 
-§8Reverberating with the bravery@ 
-§8and residual strength of@ 
-§8fallen Wynn soldiers, every@ 
-§8casualty only serves to@ 
-§8harden the resolve it instills@ 
-§8in the wearer.@ 
+§8Reverberating with the bravery@§8Отражаясь от храбрости 
+§8and residual strength of@§8и остаточной силы павших 
+§8fallen Wynn soldiers, every@§8солдат Винн, каждая 
+§8casualty only serves to@§8жертва только укрепляет 
+§8harden the resolve it instills@§8решимость, которую он вселяет 
+§8in the wearer.@§8в носителя.
 
 §8§8An old Nemract saying@ 
 §8is engraved along the metal.@ 
