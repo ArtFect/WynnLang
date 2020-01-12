@@ -2337,11 +2337,14 @@
 §8You can sense a rhythm with@ 
 §8each step...@ 
 
-§8§8The strong shock coming@ 
-§8from this advanced version@ 
-§8of the ring is a small price@ 
-§8for its power, but it has@ 
-§8yet to reach its peak.@ 
+==
+§8§8The strong shock coming@§8Сильный шок, исходящий 
+§8from this advanced version@§8от этой улучшенной версии 
+§8of the ring is a small price@§8кольца - это небольшая цена 
+§8for its power, but it has@§8за его силу, но она еще 
+§8yet to reach its peak.@§8не достигла своего пика.
+==
+§8of the necklace is a small@§8браслета - это небольшая цена 
 
 ==
 §8§8The device forged into@§8Устройство, выкованное в это 
@@ -2364,7 +2367,7 @@
 §8of a bracelet utilizes rare@ 
 §8You notice a rhythm with@ 
 §8from this improved version@ 
-§8of the necklace is a small@ 
+--
 §8price for its strength,@ 
 §8but it has yet to reach@ 
 §8its peak.@ 
@@ -2380,13 +2383,18 @@
 §8potential has yet to be@ 
 §8achieved.@ 
 
-§8§8This necklace, decorated@ 
-§8with bright jewels, uses@ 
-§8advanced nano-technology@ 
-§8to boost its users elemental@ 
-§8abilities. Though powerful,@ 
-§8there are still a few flaws@ 
-§8to be fixed.@ 
+==
+§8§8This necklace, decorated@§8Это ожерелье, украшенное 
+§8with bright jewels, uses@§8яркими драгоценными камнями, использует 
+§8advanced nano-technology@§8встроенные микро-устройства 
+§8to boost its users elemental@§8для повышения элементальных способностей 
+§8abilities. Though powerful,@§8своих пользователей. 
+§8there are still a few flaws@§8
+§8to be fixed.@§8
+==
+§8abilites. There are many@§8своих пользователей. Есть много апгрейдов, 
+§8upgrades to be made before@§8которые должны быть сделаны, прежде 
+§8it reaches its full potential.@§8чем он достигнет своего полного потенциала.
 
 §8§8This rough looking bracelet@ 
 §8utilizes electromagic to@ 
@@ -2470,9 +2478,6 @@
 
 §8built-in micro-devices to@ 
 §8boost its users elemental@ 
-§8abilites. There are many@ 
-§8upgrades to be made before@ 
-§8it reaches its full potential.@ 
 
 §8the simple, mechanical bracelet@ 
 §8this simple bracelet seems@ 
