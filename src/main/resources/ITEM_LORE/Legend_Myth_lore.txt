@@ -2376,12 +2376,12 @@
 §8to gather heat. You can@ 
 §8all over your neck...@ 
 
-§8§8The jewel hanging from@ 
-§8this necklace is said to@ 
-§8be weightless. While still@ 
-§8very powerful, its full@ 
-§8potential has yet to be@ 
-§8achieved.@ 
+§8§8The jewel hanging from@§8Говорят, что драгоценный камень, 
+§8this necklace is said to@§8висящий на этом ожерелье, 
+§8be weightless. While still@§8невесом. Хотя он все 
+§8very powerful, its full@§8еще очень мощный, его 
+§8potential has yet to be@§8полный потенциал еще 
+§8achieved.@§8не реализован.
 
 ==
 §8§8This necklace, decorated@§8Это ожерелье, украшенное 
@@ -2396,11 +2396,19 @@
 §8upgrades to be made before@§8которые должны быть сделаны, прежде 
 §8it reaches its full potential.@§8чем он достигнет своего полного потенциала.
 
-§8§8This rough looking bracelet@ 
-§8utilizes electromagic to@ 
-§8expose its wearer to earth's@ 
-§8heartbeat. You can feel@ 
-§8a rhythm with each step...@ 
+==
+§8§8This rough looking bracelet@§8
+§8utilizes electromagic to@§8использует электромагию, чтобы
+§8expose its wearer to earth's@§8подвергнуть своего владельца воздействию
+§8heartbeat. You can feel@§8сердцебиения земли. 
+§8a rhythm with each step...@§8
+==
+§8§8This crude looking ring@§8
+§8heartbeat. Though for now,@§8сердцебиения земли. Хотя пока 
+§8it remains a whispering.@§8
+==
+§8§8This crude looking necklace@§8Это грубое на вид ожерелье 
+§8it remains quiet.@§8оно остается тихим.
 
 §8§8The painful shock coming@ 
 §8the tide, the merchant said.@ 
@@ -2420,10 +2428,6 @@
 §8uses built-in micro-devices@ 
 §8abilites. Though powerful,@ 
 §8there's still a lot to improve.@ 
-
-§8§8This crude looking ring@ 
-§8heartbeat. Though for now,@ 
-§8it remains a whispering.@ 
 
 ==
 §8§8Though it's hard to touch@§8Хотя трудно прикоснуться 
@@ -2465,9 +2469,6 @@
 §8With some improvements to@ 
 §8its core, it could become@ 
 §8even better...@ 
-
-§8§8This crude looking necklace@ 
-§8it remains quiet.@ 
 
 §8§8Despite the size of the@§8Несмотря на размер большого 
 §8large jewel hanging from@§8драгоценного камня, висящего 
