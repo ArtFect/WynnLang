@@ -488,19 +488,19 @@
 §8luck and powerful psionic@ 
 §8ability.@ 
 
-§8§8Wearing this deceptively@ 
-§8simple shroud causes the@ 
-§8user to fade into the shadows,@ 
-§8sometimes flickering out@ 
-§8of existence for a moment.@ 
+§8§8Wearing this deceptively@§8Ношение этого обманчиво 
+§8simple shroud causes the@§8простого кожуха заставляет 
+§8user to fade into the shadows,@§8пользователя исчезать в тени, 
+§8sometimes flickering out@§8иногда на мгновение исчезая 
+§8of existence for a moment.@§8из существования.
 
-§8§8The cloth wraps produced@ 
-§8by the canyon Dojo are just@ 
-§8that, merely soft cloth.@ 
-§8It is left to the users@ 
-§8to apply them skillfully@ 
-§8in battle, in whatever way@ 
-§8they see fit.@ 
+§8§8The cloth wraps produced@§8Тканевые бинты, производимые 
+§8by the canyon Dojo are just@§8каньонским Додзе - это 
+§8that, merely soft cloth.@§8просто мягкая ткань. 
+§8It is left to the users@§8Пользователям остается только 
+§8to apply them skillfully@§8умело применять их в бою, 
+§8in battle, in whatever way@§8каким бы способом они 
+§8they see fit.@§8ни считали нужным.
 
 §8§8A once-great hero left@ 
 §8behind these sturdy, reliable@ 
@@ -539,12 +539,12 @@
 §8the artist who struck the@ 
 §8blow.@ 
 
-§8§8A marvel of Corkus' electromagical@ 
-§8advancements, this high-tech@ 
-§8chestplate is equipped with@ 
-§8steam jets to boost the@ 
-§8user's speed, at a minimal@ 
-§8cost to protection.@ 
+§8§8A marvel of Corkus' electromagical@§8Чудо электромагнитных достижений 
+§8advancements, this high-tech@§8Коркуса - этот высокотехнологичный 
+§8chestplate is equipped with@§8нагрудник оснащен паровыми 
+§8steam jets to boost the@§8двигателями для повышения скорости 
+§8user's speed, at a minimal@§8пользователя при минимальных затратах 
+§8cost to protection.@§8на защиту.
 
 §8§8All those who wear these@ 
 §8enchanted boots deposit@ 
@@ -614,13 +614,13 @@
 §8holds the force of a supervolcano@ 
 §8within its soft fabric.@ 
 
-§8§8The tides of the ocean,@ 
-§8once bound, became useful@ 
-§8magic power sources. They@ 
-§8were once utilized for weapons,@ 
-§8but to harness the unstable@ 
-§8force of the raging sea@ 
-§8was considered too dangerous.@ 
+§8§8The tides of the ocean,@§8Приливы и отливы океана, 
+§8once bound, became useful@§8когда-то связанные, стали полезными 
+§8magic power sources. They@§8источниками магической энергии. 
+§8were once utilized for weapons,@§8Когда-то их использовали в качестве 
+§8but to harness the unstable@§8оружия, но обуздать неустойчивую 
+§8force of the raging sea@§8силу бушующего моря считалось 
+§8was considered too dangerous.@§8слишком опасным.
 
 §8§8The runes carved onto@ 
 §8the spear shift appearance@ 
@@ -668,15 +668,15 @@
 §8are not much better. But@ 
 §8what of five? Ten? Twenty?...@ 
 
-§8§8An extremely rare metallic@ 
-§8ore only found within the@ 
-§8island region of Corkus,@ 
-§8it is normally used in decorative@ 
-§8dyes. However, a mishap@ 
-§8one day caused the discovery@ 
-§8of strange and cumulative@ 
-§8effects when exposed to@ 
-§8traditional magicks.@ 
+§8§8An extremely rare metallic@§8Чрезвычайно редкая металлическая 
+§8ore only found within the@§8руда, найденная только 
+§8island region of Corkus,@§8в пределах региона острова Коркус, 
+§8it is normally used in decorative@§8обычно используется в декоративных 
+§8dyes. However, a mishap@§8красителях. Однако однажды 
+§8one day caused the discovery@§8несчастье привело к открытию 
+§8of strange and cumulative@§8странных кумулятивных 
+§8effects when exposed to@§8эффектов при воздействии 
+§8traditional magicks.@§8традиционной магии.
 
 §8§8A great magical cataclysm@ 
 §8at Mage Island brought on@ 
@@ -891,10 +891,10 @@
 §8but the longer it is worn,@§8чем дольше он носится, тем 
 §8the longer the curse remains.@§8дольше остается проклятие.
 
-§8§8Found on the corpse of@ 
-§8the oldest shopkeeper of@ 
-§8the Gavel province, the@ 
-§8engraved text reads 'GREED'.@ 
+§8§8Found on the corpse of@§8Найденное на трупе 
+§8the oldest shopkeeper of@§8старейшего торговца провинции 
+§8the Gavel province, the@§8Гавел, гравированный текст 
+§8engraved text reads 'GREED'.@§8гласит: "ЖАДНОСТЬ".
 
 §8§8Often, the leader of brute@§8Часто предводитель грубой 
 §8gangs would use this dagger@§8банды использовал этот кинжал, 
@@ -1175,14 +1175,14 @@
 §8glowing greaves are believed@ 
 §8to be utterly indestructible.@ 
 
-§8§8Named for an ancient Wynnic@ 
-§8word for "Earthquake", this@ 
-§8mighty battle hammer causes@ 
-§8the very bones of struck@ 
-§8enemies to rattle and heave@ 
-§8as though the earth itself@ 
-§8was splitting under their@ 
-§8feet.@ 
+§8§8Named for an ancient Wynnic@§8Названный в честь древнего 
+§8word for "Earthquake", this@§8Wynnic слова "Earthquake", 
+§8mighty battle hammer causes@§8этот могучий боевой молот 
+§8the very bones of struck@§8заставляет кости пораженных 
+§8enemies to rattle and heave@§8врагов греметь и вздыматься, 
+§8as though the earth itself@§8как будто сама 
+§8was splitting under their@§8земля раскалывалась под 
+§8feet.@§8их ногами.
 
 §8§8This enigmatic weapon@ 
 §8can suddenly blink out of@ 
@@ -1194,21 +1194,21 @@
 §8laws of nature and magic,@ 
 §8should not exist.@ 
 
-§8§8This spear is bright enough@ 
-§8that it can cause blindness@ 
-§8if you look directly at@ 
-§8it. Its immense power is@ 
-§8limited by its weight; the@ 
-§8weapon is nearly impossible@ 
-§8to lift.@ 
+§8§8This spear is bright enough@§8Это копье достаточно яркое, 
+§8that it can cause blindness@§8чтобы вызвать слепоту, 
+§8if you look directly at@§8если смотреть прямо на 
+§8it. Its immense power is@§8него. Его огромная сила 
+§8limited by its weight; the@§8ограничена его весом; 
+§8weapon is nearly impossible@§8оружие почти невозможно 
+§8to lift.@§8поднять.
 
-§8§8This matted tangle of@ 
-§8vines and marshland plants@ 
-§8contains various herbal@ 
-§8remedies woven into it.@ 
-§8It is oddly comfortable,@ 
-§8despite the thorns coating@ 
-§8the inside.@ 
+§8§8This matted tangle of@§8Этот спутанный клубок 
+§8vines and marshland plants@§8виноградных лоз и болотистых 
+§8contains various herbal@§8растений содержит различные 
+§8remedies woven into it.@§8растительные средства, вплетенные 
+§8It is oddly comfortable,@§8в него. Он странно удобен, 
+§8despite the thorns coating@§8несмотря на шипы, покрывающие 
+§8the inside.@§8его изнутри.
 
 §8§8A condition of severely@ 
 §8deficient supply of oxygen@ 
@@ -1227,11 +1227,11 @@
 §8effective, they are dangerous,@ 
 §8prone to catastrophic failure.@ 
 
-§8§8Potentially one of the@ 
-§8most dangerous weapons in@ 
-§8existence. A precise enough@ 
-§8shot can destroy the soul@ 
-§8of those it hits.@ 
+§8§8Potentially one of the@§8Потенциально это одно из 
+§8most dangerous weapons in@§8самых опасных существующих видов 
+§8existence. A precise enough@§8оружия. Достаточно точный 
+§8shot can destroy the soul@§8выстрел может уничтожить душу 
+§8of those it hits.@§8того, кого он поразит.
 
 §8§8The carapace of the common@ 
 §8Maexi pet fire scarabs,@ 
@@ -1250,11 +1250,11 @@
 §8immune to their own discharge@ 
 §8as intended.@ 
 
-§8§8Donning this helmet sears@ 
-§8your mind with images of@ 
-§8a world on fire. These blistering@ 
-§8thoughts pressure you to@ 
-§8make that world a reality.@ 
+§8§8Donning this helmet sears@§8Надев этот шлем, вы 
+§8your mind with images of@§8испепеляете свой разум 
+§8a world on fire. These blistering@§8образами горящего мира. Эти 
+§8thoughts pressure you to@§8бурлящие мысли заставляют вас 
+§8make that world a reality.@§8сделать этот мир реальностью.
 
 §8A ring used in learning the basics@ 
 §8of Water Magic@ 
