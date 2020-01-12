@@ -666,13 +666,13 @@
 §8peace to its wearers and@§8обладателям и тем, кто 
 §8those around them.@§8их окружает.
 
-§8Forged with flaming scales@ 
-§8shorn from Ozoth, the fabled@ 
-§8Golden Ninja of the Canyon@ 
-§8of the Lost hunted his prey@ 
-§8relentlessly using this@ 
-§8lightweight, yet harder@ 
-§8than steel, polearm.@ 
+§8Forged with flaming scales@§8Выкованная из огненной чешуи, 
+§8shorn from Ozoth, the fabled@§8срезанной с Озот, легендарный 
+§8Golden Ninja of the Canyon@§8золотой ниндзя из Каньона Потерянных 
+§8of the Lost hunted his prey@§8безжалостно охотился за своей 
+§8relentlessly using this@§8добычей, используя эту легкую, 
+§8lightweight, yet harder@§8но более твердую, чем сталь, 
+§8than steel, polearm.@§8алебарду.
 
 §8§8Perhaps one is weak. To@ 
 §8be ignored. Perhaps two@ 
@@ -819,10 +819,10 @@
 §8white blade insists that@§8клинка настаивает на том, 
 §8its true power will never@§8что его истинная сила 
 §8be unlocked, for only those@§8никогда не будет раскрыта, 
-§8who are not influenced by@§8ибо только те, кто 
-§8the elements of the world@§8не подвержен влиянию стихий мира, 
-§8know truly how to utilize@§8знают, как по-настоящему 
-§8it.@§8использовать его.
+§8who are not influenced by@§8ибо только те, кто не 
+§8the elements of the world@§8подвержен влиянию стихий мира, 
+§8know truly how to utilize@§8знают, как по-настоящему использовать
+§8it.@§8его.
 
 §8§8Andesite is a stone commonly@§8Андезит - это камень, обычно 
 §8used for weapons and construction,@§8используемый для оружия и строительства, 
@@ -1108,11 +1108,11 @@
 §8alloy, which is advertised@§8рекламируется для повышения выносливости 
 §8to bolster the users endurance.@§8пользователей.
 
-§8§8Those who have used this@ 
-§8near-weightless bow all@ 
-§8seem to tell tales of how@ 
-§8they see Gale's spirit fighting@ 
-§8alongside them.@ 
+§8§8Those who have used this@§8Те, кто использовал этот 
+§8near-weightless bow all@§8почти невесомый лук, 
+§8seem to tell tales of how@§8похоже рассказывают истории о том, 
+§8they see Gale's spirit fighting@§8как они видят дух Гейл, 
+§8alongside them.@§8сражающийся рядом с ними.
 
 §8§8Bending the fabric of@§8Изгибая ткань реальности, чтобы 
 §8reality to allow the wearer@§8позволить владельцу делать 
@@ -1846,12 +1846,13 @@
 §8the user to move swift like@ 
 §8the wind, but vulnerable@ 
 §8to attacks.@ 
-§8§8Elementally attuned gemstones@ 
-§8are melded together to form@ 
-§8the singular marvel found@ 
-§8on this pendant. Despite@ 
-§8the violent smithing process,@ 
-§8the jewel is utterly flawless.@ 
+
+§8§8Elementally attuned gemstones@§8Элементально настроенные драгоценные 
+§8are melded together to form@§8камни сплавляются вместе, чтобы 
+§8the singular marvel found@§8сформировать единственное чудо, найденное 
+§8on this pendant. Despite@§8на этой подвеске. Несмотря на 
+§8the violent smithing process,@§8жестокий процесс кузнечного дела, 
+§8the jewel is utterly flawless.@§8драгоценный камень совершенно безупречен.
 
 §8§8Once having held unstoppable@§8Когда-то обладая непреодолимым 
 §8amounts of magic, being@§8количеством магии, будучи 
@@ -2342,11 +2343,14 @@
 §8for its power, but it has@ 
 §8yet to reach its peak.@ 
 
-§8§8The device forged into@ 
-§8this advanced ring seems@ 
-§8to absorb heat. You can@ 
-§8feel a warming sensation@ 
-§8all over your hand...@ 
+==
+§8§8The device forged into@§8Устройство, выкованное в это 
+§8this advanced ring seems@§8основное ожерелье, кажется, 
+§8to absorb heat. You can@§8собирает тепло. Ты можешь 
+§8feel a warming sensation@§8
+§8all over your hand...@§8
+==
+§8feel a warm sting when holding@§8почувствовать теплую боль когда держишь
 
 §8§8This ring, covered in@ 
 §8colorful artifical gems,@ 
@@ -2413,16 +2417,30 @@
 §8heartbeat. Though for now,@ 
 §8it remains a whispering.@ 
 
-§8§8Though it's hard to touch@ 
-§8the plain, mechanical ring@ 
-§8without experiencing a little@ 
-§8shock, its capabilities@ 
-§8intrigue you...@ 
+==
+§8§8Though it's hard to touch@§8Хотя трудно прикоснуться 
+§8the plain, mechanical ring@§8
+§8without experiencing a little@§8
+§8shock, its capabilities@§8
+§8intrigue you...@§8интригуют тебя...
+==
+§8the plain, tech-enhanced@§8к простому, технологически усовершенствованному
+§8necklace without experiencing@§8ожерелью, не испытав 
+§8a little shock, its capabilities@§8небольшого шока, его возможности
 
+§8this basic necklace seems@ 
+
+§8§8You'll be wise like the@§8Ты будешь мудр, как 
+§8sea, the merchant said.@§8море, - сказал торговец. 
+§8Although you notice the@§8Хотя ты замечаешь возможности 
+§8built-in device's abilities,@§8встроенного устройства, ты чувствуешь 
+§8you feel space for an upgrade.@§8пространство для апгрейда.
+
+§8Indeed, you begin to notice@ 
+§8how your senses sharpen.@ 
+§8But is that the limit...?@ 
 §8a river, the merchant said.@ 
-§8Although you notice the@ 
-§8built-in device's abilities,@ 
-§8you feel space for an upgrade.@ 
+
 §8this simple ring seems to@ 
 §8absorb heat. You feel a@ 
 §8bit lukewarm when wearing@ 
@@ -2443,18 +2461,12 @@
 §8§8This crude looking necklace@ 
 §8it remains quiet.@ 
 
-§8the plain, tech-enhanced@ 
-§8necklace without experiencing@ 
-§8a little shock, its capabilities@ 
-§8this basic necklace seems@ 
-§8feel a warm sting when holding@ 
-
-§8§8Despite the size of the@ 
-§8large jewel hanging from@ 
-§8this necklace, it doesn't@ 
-§8feel heavy at all. However,@ 
-§8the necklace's mechanisms@ 
-§8seem incomplete.@ 
+§8§8Despite the size of the@§8Несмотря на размер большого 
+§8large jewel hanging from@§8драгоценного камня, висящего 
+§8this necklace, it doesn't@§8на этом ожерелье, оно совсем 
+§8feel heavy at all. However,@§8не кажется тяжелым. Однако 
+§8the necklace's mechanisms@§8механизмы ожерелья кажутся 
+§8seem incomplete.@§8неполными.
 
 §8built-in micro-devices to@ 
 §8boost its users elemental@ 
