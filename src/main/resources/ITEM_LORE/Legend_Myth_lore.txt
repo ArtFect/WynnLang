@@ -2353,6 +2353,9 @@
 §8this simple bracelet seems@§8простое украшение, кажется,
 §8to gather heat. You feel@§8собирает тепло. Ты чувствуешь
 §8a bit lukewarm when wearing@§8немного теплоты, когда носишь
+==
+§8this improved bracelet seems@§8улучшенное украшение, кажется,
+§8all over your arm...@§8по всей руке...
 
 §8§8This ring, covered in@ 
 §8colorful artifical gems,@ 
@@ -2369,8 +2372,6 @@
 §8You notice a rhythm with@§8Вы замечаете ритм 
 §8You can sense a rhythm with@§8Вы можете почувствовать ритм
 §8each step...@§8с каждым шагом...
-
-§8from this improved version@§8
 
 §8price for its strength,@ 
 §8but it has yet to reach@ 
@@ -2400,34 +2401,37 @@
 §8§8This rough looking bracelet@§8Этот грубый на вид браслет
 §8utilizes electromagic to@§8использует электромагию, чтобы
 §8expose its wearer to earth's@§8подвергнуть своего владельца воздействию
-§8heartbeat. You can feel@§8сердцебиения земли. 
-§8a rhythm with each step...@§8
+§8heartbeat. You can feel@§8сердцебиения земли. Ты можешь чувствовать
+§8a rhythm with each step...@§8ритм с каждым шагом...
 ==
-§8§8This crude looking ring@§8
+§8§8This crude looking ring@§8Это грубое на вид кольцо
 §8heartbeat. Though for now,@§8сердцебиения земли. Хотя пока 
 §8it remains a whispering.@§8оно остается шепотом.
 ==
 §8§8This crude looking necklace@§8Это грубое на вид ожерелье 
 §8it remains quiet.@§8оно остается тихим.
 
-§8§8The painful shock coming@ 
-§8the tide, the merchant said.@ 
+§8§8The painful shock coming@§8Болевой шок, исходящий
+§8from this improved version@§8от этой улучшенной версии
+§8the tide, the merchant said.@§8прилив - сказал торговец.
 
-§8this improved bracelet seems@ 
-§8all over your arm...@ 
+§8§8This impressive bracelet@§8Этот впечатляющий браслет пользуется 
+§8is in high demand. Those@§8большим спросом. Те, кто 
+§8who have obtained it say@§8получил его, говорят, что 
+§8that they feel as if they're@§8они чувствуют себя так, 
+§8"one with the wind" when@§8как будто они "едины с ветром", 
+§8wearing it.@§8когда носят его.
 
-§8§8This impressive bracelet@ 
-§8is in high demand. Those@ 
-§8who have obtained it say@ 
-§8that they feel as if they're@ 
-§8"one with the wind" when@ 
-§8wearing it.@ 
-
-§8§8This bracelet, decorated@ 
-§8with complex ornaments,@ 
-§8uses built-in micro-devices@ 
-§8abilites. Though powerful,@ 
-§8there's still a lot to improve.@ 
+==
+§8§8This bracelet, decorated@§8Этот браслет, декорированный
+§8with simple ornaments, uses@§8простыми орнаментами, использует
+§8with complex ornaments,@§8сложными орнаментами,
+§8uses built-in micro-devices@§8использует встроенные микро-девайсы
+§8abilites. Though powerful,@§8способностей. Несмотря на мощность,
+§8there's still a lot to improve.@§8еще многое предстоит улучшить.
+==
+§8built-in micro-devices to@§8встроенные микро-девайсы для
+§8boost its users elemental@§8повышения своих элементальных 
 
 ==
 §8§8Though it's hard to touch@§8Хотя трудно прикоснуться 
@@ -2486,16 +2490,11 @@
 §8the necklace's mechanisms@§8механизмы ожерелья кажутся 
 §8seem incomplete.@§8неполными.
 
-§8built-in micro-devices to@ 
-§8boost its users elemental@ 
-
 §8§8Users who have worn this@§8Пользователи, которые носили 
 §8early model of the Steam@§8эту раннюю модель парового браслета, 
 §8Bracelet have reported that@§8сообщили, что они чувствовали 
 §8they have felt "one with@§8себя "едиными с ветром", 
 §8the wind" while wearing@§8когда носили его.
-
-§8with simple ornaments, uses@ 
 
 §8§8This masterpiece of a@ 
 §8ring utilizes powerful electromagic@ 
