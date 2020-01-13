@@ -2248,12 +2248,7 @@
 §8§8If it weren't for that@ 
 §8stray mark, this would be@ 
 §8spelled correctly...@ 
-§8sea, the merchant said and@ 
-§8every word was true. With@ 
-§8this necklace equipped,@ 
-§8you could hear the ocean@ 
-§8whisper.@ 
-
+ 
 §8§8Created from the lip of@§8Созданное из горлышка винной 
 §8a wine bottle and dropped@§8бутылки и брошенное в мистические 
 §8in the mystic waters of@§8воды озера Гилия, это 
@@ -2295,11 +2290,11 @@
 §8stolen thoughts of the ring@ 
 §8wearers.@ 
 
-§8§8You'll fight strong like@ 
-§8the tide, the merchant said,@ 
-§8this bracelet on your arm@ 
-§8you could ride a wave with@ 
-§8your bare feet.@ 
+§8§8You'll fight strong like@§8Ты будешь сражаться сильно, 
+§8the tide, the merchant said,@§8как прилив - сказал торговец.
+§8this bracelet on your arm@§8
+§8you could ride a wave with@§8
+§8your bare feet.@§8
 
 §8§8The weathered oar of Haros,@ 
 §8the outcast ferryman of@ 
@@ -2332,10 +2327,6 @@
 §8one of the peaks.@ 
 
 §8§8This improved ring utilizes@ 
-§8electromagic to expose its@ 
-§8wearer to earth's heartbeat.@ 
-§8You can sense a rhythm with@ 
-§8each step...@ 
 
 ==
 §8§8The strong shock coming@§8Сильный шок, исходящий 
@@ -2348,12 +2339,16 @@
 
 ==
 §8§8The device forged into@§8Устройство, выкованное в это 
-§8this advanced ring seems@§8основное ожерелье, кажется, 
+§8this advanced ring seems@§8основное кольцо, кажется, 
 §8to absorb heat. You can@§8собирает тепло. Ты можешь 
-§8feel a warming sensation@§8
-§8all over your hand...@§8
+§8feel a warming sensation@§8почувствовать исходящее теплое ощущение 
+§8all over your hand...@§8по всей руке...
 ==
 §8feel a warm sting when holding@§8почувствовать теплую боль когда держишь
+==
+§8this advanced necklace seems@§8продвинутое ожерелье, кажется,
+§8to gather heat. You can@§8собирает тепло. Ты можешь 
+§8all over your neck...@§8по всей шее...
 
 §8§8This ring, covered in@ 
 §8colorful artifical gems,@ 
@@ -2363,18 +2358,19 @@
 §8previous model, its true@ 
 §8potential stays sealed.@ 
 
-§8§8This improved version@ 
-§8of a bracelet utilizes rare@ 
-§8You notice a rhythm with@ 
-§8from this improved version@ 
---
+§8§8This improved version@§8Эта улучшенная версия 
+§8of a bracelet utilizes rare@§8браслета использует редкую
+§8electromagic to expose its@§8электромагнитную энергию, чтобы подвергнуть 
+§8wearer to earth's heartbeat.@§8владельца воздействию сердцебиения земли. 
+§8You notice a rhythm with@§8Вы замечаете ритм 
+§8You can sense a rhythm with@§8Вы можете почувствовать ритм
+§8each step...@§8с каждым шагом...
+
+§8from this improved version@§8
+
 §8price for its strength,@ 
 §8but it has yet to reach@ 
 §8its peak.@ 
-
-§8this advanced necklace seems@ 
-§8to gather heat. You can@ 
-§8all over your neck...@ 
 
 §8§8The jewel hanging from@§8Говорят, что драгоценный камень, 
 §8this necklace is said to@§8висящий на этом ожерелье, 
@@ -2388,9 +2384,9 @@
 §8with bright jewels, uses@§8яркими драгоценными камнями, использует 
 §8advanced nano-technology@§8встроенные микро-устройства 
 §8to boost its users elemental@§8для повышения элементальных способностей 
-§8abilities. Though powerful,@§8своих пользователей. 
-§8there are still a few flaws@§8
-§8to be fixed.@§8
+§8abilities. Though powerful,@§8своих пользователей. Несмотря на мощь, 
+§8there are still a few flaws@§8есть еще несколько недостатков, которые 
+§8to be fixed.@§8необходимо исправить.
 ==
 §8abilites. There are many@§8своих пользователей. Есть много апгрейдов, 
 §8upgrades to be made before@§8которые должны быть сделаны, прежде 
@@ -2442,15 +2438,23 @@
 
 §8this basic necklace seems@ 
 
+==
 §8§8You'll be wise like the@§8Ты будешь мудр, как 
 §8sea, the merchant said.@§8море, - сказал торговец. 
 §8Although you notice the@§8Хотя ты замечаешь возможности 
 §8built-in device's abilities,@§8встроенного устройства, ты чувствуешь 
 §8you feel space for an upgrade.@§8пространство для апгрейда.
+==
+§8sea, the merchant said and@§8море, - сказал торговец и 
+§8every word was true. With@§8каждое слово было правдой. 
+§8this necklace equipped,@§8С помощью этого ожерелья 
+§8you could hear the ocean@§8можно услышать шепот 
+§8whisper.@§8океана.
+==
+§8Indeed, you begin to notice@§8Действительно, ты начинаешь замечать, 
+§8how your senses sharpen.@§8как обостряются твои чувства. 
+§8But is that the limit...?@§8Но разве это предел..?
 
-§8Indeed, you begin to notice@ 
-§8how your senses sharpen.@ 
-§8But is that the limit...?@ 
 §8a river, the merchant said.@ 
 
 §8this simple ring seems to@ 
@@ -2527,38 +2531,38 @@
 §8knowledge is no longer limited@ 
 §8to a few elements.@ 
 
-§8§8This ultimate version@ 
-§8of a necklace was given@ 
-§8to less than a handful of@ 
-§8adventurers. Once on your@ 
-§8neck, you can communicate@ 
-§8with the ground below as@ 
-§8if you grew roots.@ 
+§8§8This ultimate version@§8Эта окончательная версия 
+§8of a necklace was given@§8ожерелья была дана 
+§8to less than a handful of@§8всего лишь горстке искателей 
+§8adventurers. Once on your@§8приключений. Оказавшись на шее, 
+§8neck, you can communicate@§8вы можете общаться с землей, 
+§8with the ground below as@§8как будто у вас выросли 
+§8if you grew roots.@§8корни.
 
-§8§8The lethal amount of electricity@ 
-§8emmited from this often@ 
-§8desired necklace fails to@ 
-§8kill you, as its pure energy@ 
-§8runs through your veins.@ 
+§8§8The lethal amount of electricity@§8Смертельное количество электричества, 
+§8emmited from this often@§8излучаемое этим часто желаемым 
+§8desired necklace fails to@§8ожерельем, не может убить вас, 
+§8kill you, as its pure energy@§8так как его чистая энергия 
+§8runs through your veins.@§8течет по вашим венам.
 
-§8§8The masterpiece of a necklace@ 
-§8gathers all heat from its@ 
-§8surrounding. It is fed to@ 
-§8its wearer to maximize the@ 
-§8strength of attacks.@ 
+§8§8The masterpiece of a necklace@§8Искуссное ожерелье собирает 
+§8gathers all heat from its@§8все тепло от его окружения. 
+§8surrounding. It is fed to@§8Оно подается своему владельцу, 
+§8its wearer to maximize the@§8чтобы максимизировать силу 
+§8strength of attacks.@§8атак.
 
-§8§8This necklace is the pinnacle@ 
-§8of steam-powered technology.@ 
-§8Despite the size of the@ 
-§8the necklace, it doesn't@ 
-§8feel heavy at all.@ 
+§8§8This necklace is the pinnacle@§8Это ожерелье - вершина 
+§8of steam-powered technology.@§8паровой технологии.
+§8Despite the size of the@§8Несмотря на размеры
+§8the necklace, it doesn't@§8ожерелья, оно совсем 
+§8feel heavy at all.@§8не кажется тяжелым.
 
-§8§8Unlike any other invention@ 
-§8this necklace enhances your@ 
-§8power and understanding@ 
-§8of the elements tenfold.@ 
-§8The colorful jewels used@ 
-§8are almost dizzying you.@ 
+§8§8Unlike any other invention@§8В отличие от любого другого 
+§8this necklace enhances your@§8изобретения это ожерелье 
+§8power and understanding@§8увеличивает вашу силу и понимание 
+§8of the elements tenfold.@§8элементов в десятки раз. 
+§8The colorful jewels used@§8Используемые красочные драгоценности 
+§8are almost dizzying you.@§8почти ошеломляют вас.
 
 §8§8The heavy shocks coming@ 
 §8from this perfected bracelet@ 
