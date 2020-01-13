@@ -2339,7 +2339,7 @@
 
 ==
 §8§8The device forged into@§8Устройство, выкованное в это 
-§8this advanced ring seems@§8основное кольцо, кажется, 
+§8this advanced ring seems@§8продвинутое кольцо, кажется, 
 §8to absorb heat. You can@§8собирает тепло. Ты можешь 
 §8feel a warming sensation@§8почувствовать исходящее теплое ощущение 
 §8all over your hand...@§8по всей руке...
@@ -2349,6 +2349,10 @@
 §8this advanced necklace seems@§8продвинутое ожерелье, кажется,
 §8to gather heat. You can@§8собирает тепло. Ты можешь 
 §8all over your neck...@§8по всей шее...
+==
+§8this simple bracelet seems@§8простое украшение, кажется,
+§8to gather heat. You feel@§8собирает тепло. Ты чувствуешь
+§8a bit lukewarm when wearing@§8немного теплоты, когда носишь
 
 §8§8This ring, covered in@ 
 §8colorful artifical gems,@ 
@@ -2393,7 +2397,7 @@
 §8it reaches its full potential.@§8чем он достигнет своего полного потенциала.
 
 ==
-§8§8This rough looking bracelet@§8
+§8§8This rough looking bracelet@§8Этот грубый на вид браслет
 §8utilizes electromagic to@§8использует электромагию, чтобы
 §8expose its wearer to earth's@§8подвергнуть своего владельца воздействию
 §8heartbeat. You can feel@§8сердцебиения земли. 
@@ -2401,7 +2405,7 @@
 ==
 §8§8This crude looking ring@§8
 §8heartbeat. Though for now,@§8сердцебиения земли. Хотя пока 
-§8it remains a whispering.@§8
+§8it remains a whispering.@§8оно остается шепотом.
 ==
 §8§8This crude looking necklace@§8Это грубое на вид ожерелье 
 §8it remains quiet.@§8оно остается тихим.
@@ -2427,16 +2431,17 @@
 
 ==
 §8§8Though it's hard to touch@§8Хотя трудно прикоснуться 
-§8the plain, mechanical ring@§8
-§8without experiencing a little@§8
-§8shock, its capabilities@§8
+§8the simple, mechanical bracelet@§8к простому, механическому браслету
+§8the plain, mechanical ring@§8к простому, механическому кольцу
+§8without experiencing a little@§8не испытав небольшого 
+§8shock, its capabilities@§8шока, его возможности
 §8intrigue you...@§8интригуют тебя...
 ==
 §8the plain, tech-enhanced@§8к простому, технологически усовершенствованному
 §8necklace without experiencing@§8ожерелью, не испытав 
 §8a little shock, its capabilities@§8небольшого шока, его возможности
 
-§8this basic necklace seems@ 
+§8this basic necklace seems@§8
 
 ==
 §8§8You'll be wise like the@§8Ты будешь мудр, как 
@@ -2484,16 +2489,12 @@
 §8built-in micro-devices to@ 
 §8boost its users elemental@ 
 
-§8the simple, mechanical bracelet@ 
-§8this simple bracelet seems@ 
-§8to gather heat. You feel@ 
-§8a bit lukewarm when wearing@ 
+§8§8Users who have worn this@§8Пользователи, которые носили 
+§8early model of the Steam@§8эту раннюю модель парового браслета, 
+§8Bracelet have reported that@§8сообщили, что они чувствовали 
+§8they have felt "one with@§8себя "едиными с ветром", 
+§8the wind" while wearing@§8когда носили его.
 
-§8§8Users who have worn this@ 
-§8early model of the Steam@ 
-§8Bracelet have reported that@ 
-§8they have felt "one with@ 
-§8the wind" while wearing@ 
 §8with simple ornaments, uses@ 
 
 §8§8This masterpiece of a@ 
