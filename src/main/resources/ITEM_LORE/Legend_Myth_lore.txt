@@ -2068,11 +2068,30 @@
 §8as the tipping point for@§8как переломный момент для 
 §8successful wizards.@§8успешных волшебников.
 
-§8§8Deceptively plain-looking,@ 
-§8this bow has been infused@ 
-§8with energy from all five@ 
-§8known elements. Its string@ 
-§8radiates a spectrum of colors.@ 
+==
+§8§8Deceptively plain-looking,@§8Обманчиво простой на вид, 
+§8this bow has been infused@§8этот лук был наполнен 
+§8with energy from all five@§8энергией из всех пяти 
+§8known elements. Its string@§8известных элементов. Тетива
+§8radiates a spectrum of colors.@§8излучает спектр цветов.
+==
+§8this relik has been infused@§8этот релик был наполнен 
+§8known elements. The head@§8известных элементов. Основание
+§8gleams in a spectrum of@§8мерцает в спектре цветов.
+==
+§8this wand has been infused@§8этот посох был наполнен 
+§8known elements. It subtly@§8известных элементов. Жезл
+§8glows in a spectrum of colors.@§8светится в спектре цветов
+==
+§8this spear has been infused@§8этот гарпун был наполнен
+§8known elements. Its tip@§8известных элементов. Наконечник
+§8shimmers in a spectrum of@§8мерцает в спектре
+§8colors.@§8цветов
+==
+§8this dagger has been infused@§8этот кинжал был наполнен 
+§8known elements. It leaves@§8известных элементов. Он
+§8afterimages that pulsate@§8оставляет изображения, которые пульсируют
+§8in a spectrum of colors.@§8в спектре цветов.
 
 §8§8Undecipherable symbols@§8На этой длинной повязке вырезаны 
 §8are carved into this long@§8неразборчивые символы, хотя 
@@ -2119,19 +2138,6 @@
 §8variance. It provides many@ 
 §8abilities though unexplainable@ 
 §8means.@ 
-
-§8this wand has been infused@ 
-§8known elements. It subtly@ 
-§8glows in a spectrum of colors.@ 
-§8this spear has been infused@ 
-§8known elements. Its tip@ 
-§8shimmers in a spectrum of@ 
-§8colors.@ 
-
-§8this dagger has been infused@ 
-§8known elements. It leaves@ 
-§8afterimages that pulsate@ 
-§8in a spectrum of colors.@ 
 
 §8§8Infused with the classical@ 
 §8magicks of fire, water,@ 
@@ -2765,10 +2771,6 @@
 §8§8Consecrated by Qira herself@ 
 §8with blessings unknown to@ 
 §8all but her, these ornately-crafted@ 
-
-§8this relik has been infused@ 
-§8known elements. The head@ 
-§8gleams in a spectrum of@ 
 
 §8§8...I'll finish writing@§8§8...Я закончу писать
 §8this later.@§8это позже.
