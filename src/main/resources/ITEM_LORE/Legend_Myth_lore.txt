@@ -458,12 +458,12 @@
 §8fallen warriors resound@§8звучат души тысяч павших 
 §8within it.@§8воинов.
 
-§8§8This mysterious, half-liquid@ 
-§8trident apparently holds@ 
-§8the secret magics to control@ 
-§8the ocean's ebb and flow.@ 
-§8It is incapable of touching@ 
-§8solid ground.@ 
+§8§8This mysterious, half-liquid@§8Этот таинственный полужидкий 
+§8trident apparently holds@§8трезубец, по-видимому, обладает 
+§8the secret magics to control@§8тайной магией, позволяющей 
+§8the ocean's ebb and flow.@§8контролировать приливы и отливы 
+§8It is incapable of touching@§8океана. Он не способен касаться 
+§8solid ground.@§8твердой почвы.
 
 §8§8The gods of air and thunder,@§8Боги воздуха и грома, 
 §8frustrated with being physically@§8разочарованные тем, что 
@@ -715,13 +715,13 @@
 §8in terrible disrepair, and@§8состоянии, и никто не знает, 
 §8none know how to fix them.@§8как его починить.
 
-§8§8Hewn from the great obsidian@ 
-§8spires surrounding the massive@ 
-§8Nether gate, this fiercely-hooked@ 
-§8dagger absorbs light and@ 
-§8magic energy alike to create@ 
-§8a desolate void wherever@ 
-§8it is wielded.@ 
+§8§8Hewn from the great obsidian@§8Вырезанный из огромных 
+§8spires surrounding the massive@§8обсидиановых шпилей, окружающих 
+§8Nether gate, this fiercely-hooked@§8массивные врата в ад, этот 
+§8dagger absorbs light and@§8яростно изогнутый кинжал поглощает 
+§8magic energy alike to create@§8свет и магическую энергию одинаково, 
+§8a desolate void wherever@§8чтобы создать пустынную пустоту, 
+§8it is wielded.@§8где бы он ни находился.
 
 §8§8Time moves in strange@§8Время странным образом движется 
 §8ways around this translucent@§8вокруг этого прозрачного лезвия, 
@@ -1867,11 +1867,11 @@
 §8comfort, but only to those@§8но только тем, кто скромен 
 §8who are modest and generous.@§8и щедр.
 
-§8§8Wielding it for too long@ 
-§8will leave one a dessicated@ 
-§8husk, as this dull blade@ 
-§8slowly absorbs all liquids@ 
-§8around it.@ 
+§8§8Wielding it for too long@§8Слишком долгое владение 
+§8will leave one a dessicated@§8им оставит после себя высохшую 
+§8husk, as this dull blade@§8оболочку, так как это тупое лезвие 
+§8slowly absorbs all liquids@§8медленно впитывает все жидкости 
+§8around it.@§8вокруг себя.
 
 §8§8...As the heart fails,@§8...Поскольку сердце отказывает, 
 §8adrenaline pumps through@§8адреналином накачивают тело 
@@ -1906,11 +1906,14 @@
 §8harden the resolve it instills@§8решимость, которую он вселяет 
 §8in the wearer.@§8в носителя.
 
-§8§8An old Nemract saying@ 
-§8is engraved along the metal.@ 
-§8"A single toss of the knucklebones@ 
-§8can make or break a gambling@ 
-§8man."@ 
+§8§8An old Nemract saying@§8На металле выгравировано 
+§8is engraved along the metal.@§8старинное изречение Немракта - 
+§8"A single toss of the knucklebones@§8"Один бросок костяшек может 
+§8can make or break a gambling@§8сделать или сломать азартного 
+§8man."@§8человека."
+
+§8§8The spelling seems to@§8Орфография, кажется, 
+§8have been botched.@§8была испорчена.
 
 §8§8Power, but at what cost?@ 
 
@@ -2216,8 +2219,8 @@
 §8boots curse the wearer with@§8эти сапоги проклинают владельца 
 §8an endless hunger.@§8на бесконечный голод.
 
-§8§8It looks like they spelled@ 
-§8the name wrong...@ 
+§8§8It looks like they spelled@§8Похоже, они неправильно 
+§8the name wrong...@§8написали имя...
 
 §8§8Sealed away by the Avos@§8Запечатанное старейшинами Авосов, 
 §8of the old days to prevent@§8чтобы не попасть в чужие руки, 
@@ -2660,8 +2663,8 @@
 §8essence seems to linger in@ 
 §8the fibers of the branch.@ 
 
-§8§8Seems like the name is@ 
-§8misspelled a little bit.@ 
+§8§8Seems like the name is@§8Кажется, имя написано 
+§8misspelled a little bit.@§8с небольшой ошибкой.
 
 §8§8You'll move quick like@§8Ты будешь двигаться быстро,
 §8a river, the merchant said,@§8как река - сказал торговец.
