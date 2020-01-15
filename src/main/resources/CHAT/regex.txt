@@ -152,6 +152,7 @@
 (.*) just contributed 1 emerald to the guild!@§b(r1) внес 1 эмеральд в гильдию!
 §bCongratulations! The guild has taken control of (.*) from (.*)!!!@§bПоздравляем! Гильдия взяла контроль над (r1) у (r2)!!!
 §3You will now contribute (.*) of your XP to (.*)@§3Теперь ты вносишь (r1) от своих очков опыта в (r2)
+§b(.*) has set (.*) guild rank from (.*) to (.*)@§b(r1) изменил ранг (r2) с (r3) на (r4)
 
 #########################################CRATES################################################
 §b(.*)§3 has disguised as a §bzombie§3!@§b(r1)§3 замаскировался под §bзомби§3!
