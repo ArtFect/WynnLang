@@ -2475,7 +2475,7 @@
 §8with simple ornaments, uses@§8простыми орнаментами, использует
 §8with complex ornaments,@§8сложными орнаментами,
 §8uses built-in micro-devices@§8использует встроенные микро-девайсы
-§8abilites. Though powerful,@§8способностей. Несмотря на мощность,
+§8abilites. Though powerful,@§8пользователя. Несмотря на мощность,
 §8there's still a lot to improve.@§8еще многое предстоит улучшить.
 ==
 §8built-in micro-devices to@§8встроенные микро-девайсы для
@@ -2548,22 +2548,22 @@
 §8ring utilizes powerful electromagic@§8использует мощную электромагнитную 
 §8to expose its wearer to@§8энергию, чтобы подвергнуть своего 
 §8earth's heartbeat. Wearing@§8владельца воздействию сердцебиения земли. 
-§8it, you can feel a deep@§8Надев его, вы можете почувствовать
+§8it, you can feel a deep@§8Надев его, ты можешь почувствовать
 §8connection to the ground@§8глубокую связь с землей 
 §8below.@§8под ногами.
 
-§8§8The heavy electrical impulses@ 
-§8coming from this ring would@ 
-§8be lethal under normal circumstances,@ 
-§8but the only thing its wearer@ 
-§8senses is pure power. A@ 
-§8true masterpiece of engineering.@ 
+§8§8The heavy electrical impulses@§8Тяжелые электрические импульсы, 
+§8coming from this ring would@§8исходящие от этого кольца, были бы 
+§8be lethal under normal circumstances,@§8смертельны при нормальных обстоятельствах, 
+§8but the only thing its wearer@§8но единственное, что ощущает его 
+§8senses is pure power. A@§8владелец - это чистая сила. Настоящий
+§8true masterpiece of engineering.@§8шедевр инженерного искусства
 
 §8this flawless ring draws@§8безупречное кольцо, вытягивает 
 §8all heat from its surrounding.@§8все тепло из его окружения. 
 §8Though it almost burns,@§8Хотя оно почти горит, 
-§8you can feel your abilites@§8вы можете чувствовать, как 
-§8enhance.@§8ваши способности усиливаются.
+§8you can feel your abilites@§8ты можешь чувствовать, как 
+§8enhance.@§8твои способности усиливаются.
 
 §8§8Users of this perfect@§8Пользователи этой совершенной 
 §8model of Legendary Island's@§8модели парового кольца легендарного 
@@ -2576,22 +2576,22 @@
 §8§8This mighty ring is the@§8Это могучее кольцо является 
 §8crown jewel amongst elemental@§8жемчужиной короны среди 
 §8rings. Wearing it, your@§8элементальных колец. Нося его, 
-§8knowledge is no longer limited@§8ваши знания больше не ограничиваются 
+§8knowledge is no longer limited@§8твои знания больше не ограничиваются 
 §8to a few elements.@§8несколькими элементами.
 
 §8§8This ultimate version@§8Эта окончательная версия 
 §8of a necklace was given@§8ожерелья была дана 
 §8to less than a handful of@§8всего лишь горстке искателей 
 §8adventurers. Once on your@§8приключений. Оказавшись на шее, 
-§8neck, you can communicate@§8вы можете общаться с землей, 
-§8with the ground below as@§8как будто у вас выросли 
+§8neck, you can communicate@§8ты можешь общаться с землей, 
+§8with the ground below as@§8как будто у тебя выросли 
 §8if you grew roots.@§8корни.
 
 §8§8The lethal amount of electricity@§8Смертельное количество электричества, 
 §8emmited from this often@§8излучаемое этим часто желаемым 
-§8desired necklace fails to@§8ожерельем, не может убить вас, 
+§8desired necklace fails to@§8ожерельем, не может убить тебя, 
 §8kill you, as its pure energy@§8так как его чистая энергия 
-§8runs through your veins.@§8течет по вашим венам.
+§8runs through your veins.@§8течет по твоим венам.
 
 §8§8The masterpiece of a necklace@§8Искуссное ожерелье собирает 
 §8gathers all heat from its@§8все тепло от его окружения. 
@@ -2607,10 +2607,10 @@
 
 §8§8Unlike any other invention@§8В отличие от любого другого 
 §8this necklace enhances your@§8изобретения это ожерелье 
-§8power and understanding@§8увеличивает вашу силу и понимание 
+§8power and understanding@§8увеличивает твою силу и понимание 
 §8of the elements tenfold.@§8элементов в десятки раз. 
 §8The colorful jewels used@§8Используемые красочные драгоценности 
-§8are almost dizzying you.@§8почти ошеломляют вас.
+§8are almost dizzying you.@§8почти ошеломляют тебя.
 
 §8§8The heavy shocks coming@§8Тяжелые удары, исходящие 
 §8from this perfected bracelet@§8от этого совершенного браслета, 
@@ -2706,9 +2706,9 @@
 §8§8You'll move quick like@§8Ты будешь двигаться быстро,
 §8a river, the merchant said,@§8как река - сказал торговец.
 §8and no word was a lie. With@§8и ни одно слово не было ложью. Вместе
-§8this ring on your finger,@
-§8you could catch a gnat without@ 
-§8looking.@ 
+§8this ring on your finger,@§8с этим кольцом на пальце 
+§8you could catch a gnat without@§8ты можешь поймать комара, 
+§8looking.@§8не глядя.
 
 §8In years past when elemental@ 
 §8control was new, it took the@ 
@@ -2734,7 +2734,7 @@
 
 §8§8Desired by many of the@§8Желаемый многими из 
 §8countless challengers, this@§8бесчисленных претендентов, этот 
-§8bracelet allows you to sense@§8браслет позволяет вам чувствовать 
+§8bracelet allows you to sense@§8браслет позволяет тебе чувствовать 
 §8movements over thousands@§8движения на расстоянии в тысячи 
 §8of meters away. It is decorated@§8метров. Он украшен 
 §8with rough yet beautiful@§8грубыми, но красивыми 
