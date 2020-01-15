@@ -125,7 +125,7 @@
 §c\[(.*)\] has taken control of (.*)!@§c[(r1)] захватили контроль над (r2)!
 §b(.*) has invited (.*) to the guild.@§b(r1) пригласил (r2) в гильдию.
 §b(.*) has kicked (.*) from the guild@§b(r1) кикнул (r2) из гильдии
-§b(.*) has set (.*) guild rank from (.*) to (.*)@§b(r1) поменял ранг в гильдии (r2) с (r3) на (r4)
+§3\[§3INFO\]§b (.*) has set (.*)'s guild rank from (.*) to (.*)@§3[§3ИНФО]§b (r1) поменял ранг гильдии (r2) с (r3) на (r4)
 §b(.*) has joined the guild! Say hello!@§b(r1) присоединился к гильдии! Скажите привет!
 §b(.*) has left the guild.@§b(r1) вышел из гильдии.
 §b(.*)§3 is not a member of the guild@§b(r1)§3 не является участником гильдии
@@ -151,7 +151,6 @@
 (.*) just contributed (.*) emeralds to the guild!@§b(r1) внес (r2) эмеральдов в гильдию!
 (.*) just contributed 1 emerald to the guild!@§b(r1) внес 1 эмеральд в гильдию!
 §bCongratulations! The guild has taken control of (.*) from (.*)!!!@§bПоздравляем! Гильдия взяла контроль над (r1) у (r2)!!!
-§b(.*) has set (.*) rank from (.*) to (.*)@§b(r1) изменил ранг (r2) с (r3) на (r4)
 §3You will now contribute (.*) of your XP to (.*)@§3Теперь ты вносишь (r1) от своих очков опыта в (r2)
 
 #########################################CRATES################################################
