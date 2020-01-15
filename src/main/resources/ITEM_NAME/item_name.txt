@@ -2603,6 +2603,7 @@ Coral Amethyst@Коралловый Аметист
 Coral Ruby@Коралловый Рубин
 Coral Sapphire@Коралловый Сапфир
 Huge Pearl@Большой Жемчуг
+§rGold Ingot@§fСлиток Золота
 §7Machete@§7Мачете
 Jungle Jade Shard@Джунглевый Осколок Нефрита
 Jungle Pearl Shard@Джунглевый Осколок Жемчужины
@@ -2616,10 +2617,10 @@ Pirate���Cove@Пиратская Бухта
 Galleon's���Graveyard@Кладбище Галлеона
 Infested���Pit���Entrance Teleportation Scroll@§bСвиток Телепортации в Зараженную Яму
 Galleon'sÀÀÀGraveyard@Кладбище Галлеона
-Book Page@Страница Книги
-Book Binder@Переплет Книги
-Bunch O' Books@Множество Книг
-Mountain O' Books@Гора Книг
+§rBook Page@§fСтраница Книги
+§rBook Binder@§fПереплет Книги
+§rBunch O' Books@§fМножество Книг
+§rMountain O' Books@§fГора Книг
 §fLactic Acid Bacteria@§fМолочнокислая Бактерия
 Cinfras' Busted Clock@Сломанные Часы Цинфраса
 Flamingo Feather@Перо Фламинго
