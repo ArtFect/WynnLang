@@ -9,7 +9,7 @@
 §c\[(.*)\] §bRemoved §7all fire.@§c[(r1)] §bУбран §7весь огонь.
 §c\[(.*)\] §bCleared §7all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
 §b(.*)§7 has given you §b(.*)% resistance§7.@§b(r1)§7 дал тебе §b(r2)% защиты§7.
-(.*) has given you 20% resistance and 10% strength.@§b(r1) §7дал тебе §b20% к сопротивлению и 10% к силе.
+(.*) has given you §b20% resistance§7 and§b 10% strength§7.@§b(r1) §7дал тебе §b20% к сопротивлению§7 и §b10% к силе§7.
 §4You still have (\d+) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
 §6(.*) is now level (\d+) in (.*)@§6(r1) достиг (r2) уровня в §6(r3)
 §4This potion is for Combat Lv. (\d+)\+ only.@§4Это зелье только для (r1)+ Комбат Уровня.
