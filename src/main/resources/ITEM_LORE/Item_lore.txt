@@ -101,6 +101,7 @@
 §7- Refined Spruce Paper 1@§7- Переработанная Еловая Бумага 1
 §7- Unprocessed Malt@§7- Необработанный Солод
 §7- Refined Malt String 1@§7- Переработанная Солодовая Нить 1
+§7- Refined Malt String 2@§7- Переработанная Солодовая Нить 2
 §7- Refined Silver Gem 1@§7- Переработанный Серебрянный Камень 1
 §7- Refined Molten Ingot 1@§7- Переработанный Слиток Молтен 1
 §7- Refined Jungle Wood 1@§7- Переработанная Древесина Амаранта 1
@@ -111,6 +112,7 @@
 §7- Refined Carp Oil 3@§7- Переработанный Жир Карпа 3
 §7- Refined Carp Oil 2@§7- Переработанный Жир Карпа 2
 §7- Refined Icefish Oil 1@§7- Переработанный Жир Щуки 1
+§7- Refined Hops String 1@§7- Переработанная Хмельная Нить 1
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -310,10 +312,10 @@
 §7A poisonous tumour developing on the vines of the plant monster.@§7Ядовитая опухоль, развивающаяся на лианах растения монстра.
 §7If used correctly, it could kill off the monster!@§7Используя правильно, это может убить монстра!
 §7Head To Traitor Camp Entrance: -830, 85, -673@§7Отправляйся ко входу в Лагерь Предателей: -830, 85, -673
-§7§kUse §kthis §kto §kgain §kanswers: @§7§kИспользуй §kэто §kчтобы §kполучить §kответы:
+§7§kUse§r §kthis§r §kto§r §kgain§r §kanswers:§r @§7§kИспользуй §kэто §kчтобы §kполучить §kответы:
 §8[Map] §7Bookshelf 1@§8[Карта] §7Книжный шкаф 1
 §9Quest: §6Beyond the Grave@§9Квест: §6Beyond the Grave
-§7§kThis §kshall §kgive §kyou §kguidance: @§7§kЭто §kдолжно §kдать §kтебе §kответы:
+§7§kThis§r §kshall§r §kgive§r §kyou§r §kguidance:§r @§7§kЭто §kдолжно §kдать §kтебе §kответы:
 §7The orb is filled with flowi§f§ln§7g@§f§lС§7фера заполнена текучей
 §7water magic. It's ice c§f§lo§7ld to@§7маги§f§lе§7й воды. Она холодная 
 §7the touch. If the o§f§lr§7b was@§7на ощупь. Если сферу использо§f§lв§7ать
@@ -357,8 +359,8 @@
 §7The totem contains a lot of magical@§7Тотем содержит много магической
 §7nature energy. If released@§7энергии природы. Если ее выпустить, 
 §7unknown effects may occur.@§7могут возникнуть неизвестные эффекты.
-§7§kBe §ksure §kto §kdrink §kyour @§7§kУбедись §kчто §kвыпьешь §kdсвой
-§7§kNemract §kWhiskey @§7§kНемракт §kВиски
+§7§kBe§r §ksure§r §kto§r §kdrink§r §kyour§r @§7§kУбедись §kчто §kвыпьешь §kdсвой
+§7§kNemract§r §kWhiskey§r @§7§kНемракт §kВиски
 §7Exchange this for an@§7Обменяй это на
 §7item at the §fSquid Shop@§7предмет в §fМагазине Кальмара
 §7Trade for prizes at the@§7Обменяй на призы в
@@ -372,9 +374,10 @@
 §7powder of your choice.@§7порошок на твой выбор.
 §7All this book says inside is@§7Все, что написано внутри этой книги
 §7"Take your pick. Wealth or knowledge."@§7"Сделай свой выбор. Богатства или знания."
-§7Collect §l16§4§7 of these to proceed@§7Собери §l16§4§7 таких для перехода 
-§7Collect §l16§7 of these to proceed@§7Собери §l16§7 таких для перехода 
-§7Collect §l1§7 of this token to@§7§7Собери §l1§7 такой для 
+§r§7Collect §l16§4§7 of these to proceed@§7Собери §l16§4§7 таких для перехода 
+§7Collect §l16§r§7 of these to proceed@§7Собери §l16§7 таких для перехода 
+§r§7to the next room.@§7в следующую комнату
+§7Collect §l1§r§7 of this token to@§7§7Собери §l1§7 такой для 
 §7finish the Combat Challenge.@§7завершения Комбат Челленджа.
 §7This key looks like it'd open the door@§7Этот ключ выглядит так, будто может открыть 
 §7in the library...@§7дверь в библиотеке...
@@ -2775,6 +2778,8 @@
 §7This creature's heart emits a strange energy. It feels like@§7Сердце этого существа излучает странную энергию. Такое чувство, что
 §7it'll explode at any moment...@§7оно может взорваться в любой момент...
 §8Smells like glittery fish...@§8Пахнет как блестящая рыба...
+§7This pass gives a one-time entry@§7Этот пропуск дает одноразовый вход
+§7to the §fMaex Resource Mine§7.@§7в §fШахту с Ресурсами Маэкса
 
 ###################################WYNNIC##########################################
 §7⒯⒣⒠ ⒨⒪⒩⒮⒯⒠⒭ ⒡⒭⒪⒨ ⒝⒠⒴⒪⒩⒟ ⒣⒜⒮ ⒡⒪⒰⒩⒟ ⒰⒮.@§7⒯⒣⒠ ⒨⒪⒩⒮⒯⒠⒭ ⒡⒭⒪⒨ ⒝⒠⒴⒪⒩⒟ ⒣⒜⒮ ⒡⒪⒰⒩⒟ ⒰⒮. §d(монстр из другого царства нашел нас.)
