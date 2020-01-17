@@ -1874,7 +1874,7 @@ Clearsight Spectacles@Прозрачные Очки
 §fSeed of Darkness@§fСемя Тьмы
 §fSeed of Desolation@§fСемя Опустошения
 §dHelmet of Shimmering Light@§dШлем Мерцающего Света
-Helmet of Shimmering Light@Шлем Мерцающего Света
+§rHelmet of Shimmering Light@§fШлем Мерцающего Света
 §fSayleros' Brother Ashes@§fПрах Брата Сайлероса
 §eClimbing Helmet@§eАльпинистский Шлем
 §fClimbing Helmet@§fАльпинистский Шлем
@@ -1930,16 +1930,17 @@ Broken Amulet@Сломанный Амулет
 §fAntic Bead@§fДревние Бусы
 §fGuard's Uniform@§fУниформа Охранника
 Guard's Uniform@Униформа Охранника
-Flight Ticket@Билет на Дирижабль
-Guard Key@Ключ Охранника
-Secret Documents@Секретные Документы
-Dusty Passport@Пыльный Паспорт
-Passport@Паспорт
-Engineer's Note@Записка Инженера
-Captain's Key@Ключ Капитана
-Dangerous Explosive@Опасная Взрывчатка
-Makeshift Key@Самодельный Ключ
-Queen's Treasure Stash Key@Ключ от Тайника Королевы
+§rFlight Ticket@§fБилет на Дирижабль
+§rGuard Key@§fКлюч Охранника
+§rSecret Documents@§fСекретные Документы
+§rDusty Passport@§fПыльный Паспорт
+§rPassport@§fПаспорт
+§rRat's Infested Heart@§fЗараженное Сердце Крысы
+§rEngineer's Note@§fЗаписка Инженера
+§rCaptain's Key@§fКлюч Капитана
+§rDangerous Explosive@§fОпасная Взрывчатка
+§rMakeshift Key@§fСамодельный Ключ
+§rQueen's Treasure Stash Key@§fКлюч от Тайника Королевы
 §fBasement Storage Key@§fКлюч от Хранилища Подвала
 §fGert Tunnel Password@§fГерт Тоннель Пароль
 §fCell Key@§fКлюч от Клетки
@@ -1958,7 +1959,7 @@ Scorched Root@Выжженный Корень
 Mysterious Gem@Таинственный Камень
 §fBucket of Blazing Lava@§fВедро Пылающей Лавы
 §fRusty Mansion Key@§fРжавый Ключ от Поместья
-Volt Goat Horn@Овечий Рог Волта
+§rVolt Goat Horn@§fОвечий Рог Волта
 §rHead of the Gurg@§fГолова Гурга
 §fEscaped Cow Eye@§fГлаз Сбежавшей Коровы
 §fEscaped Cow Beef@§fТуша Сбежавшей Коровы
@@ -1969,10 +1970,10 @@ Volt Goat Horn@Овечий Рог Волта
 §fMonster Toenail@§fНоготь Монстра
 §fPoisonous Tongue@§fОтравленный язык
 §fPiece Of Bigfoot Bone@§fКусочек Кости Йети
-Note of the Selfless@Записка Самоотверженности
-Tears of the Honest@Слеза Честности
-Coin of the Charitable@Монетка Милосердия
-Canned Abis@Коно поля
+§rNote of the Selfless@§fЗаписка Самоотверженности
+§rTears of the Honest@§fСлеза Честности
+§rCoin of the Charitable@§fМонетка Милосердия
+§rCanned Abis@§fКоно поля
 §fLeg Core Omega@§fОмега Ядро Ноги
 §fHand Core Beta@§fБета Ядро Руки
 §fLeg Core Gamma@§fГамма Ядро Ноги
@@ -2047,7 +2048,10 @@ Unstable Corrupted Ore@Нестабильная Испорченная Руда
 §rSlimey Goo@§fВязкая Слизь
 §fDull Ancient Helmet@§fБлеклый Древний Шлем
 §dEmpowered Ancient Helmet@§dДоверенный Древний Шлем
-Ancient Soul@Древняя Душа
+§rAncient Soul@§fДревняя Душа
+§rAqua Dust@§fВодная Пыль
+§rMalleable Slime@§fТягучая Слизь
+§rNorsten's Will@§fВольная Норстена
 §bMagical Fragment@§bМагический Фрагмент
 Shattered Crystal@Разбитый Кристалл
 §rMaro's Eye Jewel@§fДрагоценный Глаз Маро
@@ -2180,7 +2184,7 @@ Old Treasure֎@Старое Сокровище֎
 §fCrystal Recipe@§fРецепт Кристалла
 Recipe Token@Жетон на Рецепт
 Skyhigh Pie Recipe@Рецепт Заоблачного Пирога
-§fPrison Key@§fТюремный Ключ
+§rPrison Key@§fТюремный Ключ
 Omelette de Colère Recipe@Рецепт Омлета
 §rSunrise Wheat@§fУтренняя Пшеница
 §rHigh Quality Sunrise Wheat@§fПшеница Высокого Качества
@@ -2203,13 +2207,13 @@ Skyhigh Pie@Заоблачный Пирог
 §7Ghostly Quill@§7Призрачное Перо
 §fCorruption Relic Shard@§fИспорченный Осколок Кристалла
 §rJungle Jet Shard@§fДжунглевый Осколок Янтаря
-Quarry's Old Clock@Старые Карьерные Часы
-Lexdale's Shattered Clock@Разрушенные Часы Лексдейла
-A Hobbit's Cracked Clock@Треснувшие Часы Хоббита
-Olux's Dusty Clock@Пыльные Часы Олукса
-Llevigar's Broken Clock@Сломанные Часы Ллевигара
-Gelibord's Rusted Clock@Ржавые Часы Гелиборда
-Aldorei's Defective Clock@Детективные Часы Алдорей
+§rQuarry's Old Clock@§fСтарые Карьерные Часы
+§rLexdale's Shattered Clock@§fРазрушенные Часы Лексдейла
+§rA Hobbit's Cracked Clock@§fТреснувшие Часы Хоббита
+§rOlux's Dusty Clock@§fПыльные Часы Олукса
+§rLlevigar's Broken Clock@§fСломанные Часы Ллевигара
+§rGelibord's Rusted Clock@§fРжавые Часы Гелиборда
+§rAldorei's Defective Clock@§fДетективные Часы Алдорей
 §fGolden Clock@§fЗолотые Часы
 §7Molten Sludge@§7Расплавленный Осадок
 §7Ogre Hide@§7Шкура Огра
@@ -2239,8 +2243,8 @@ Corrupted Remains@Испорченные Останки
 §fAnti-Ice TNT@§fПротиволедный Динамит
 §fBottle of Whiskey@§fБутылка Виски
 §fBottled Fresh Water@§fБутылка Свежей Воды
-Mauvelli Mushroom@Гриб Маувелли
-Bluecap Mushrooms@Гриб с Синей Шляпкой
+§rMauvelli Mushroom@§fГриб Маувелли
+§rBluecap Mushrooms@§fГриб с Синей Шляпкой
 §fDwarven Cannon Ball@§fСнаряд Гномов
 §fDemonic Bacteria@§fДемоническая Бактерия
 §fEssren's Dusty Coat@§fПыльное Пальто Эссрена
@@ -2348,7 +2352,7 @@ Star of Transcendence@Звезда Трансцендентности
 §6Cargo Itinerary@§6Маршрут Груза
 §6Letter@§6Письмо
 §fBomb Fragments@§fФрагменты Бомбы
-Fat Mouse Tail@Хвост Толстой Мыши
+§rFat Mouse Tail@§fХвост Толстой Мыши
 §fEarth Pixie Essence@§fЗемная Эссенция Пикси
 §fShaping Ice@§fСформированный Лед
 §6Corrupted Ice@§6Испорченный Лед
@@ -2606,8 +2610,8 @@ Repair Scrap@Скрап для Починки
 §6Rodoroc Teleportation Scroll@§6Свиток телепортации в Родорок
 §rOld Pirate Hook@§fСтарый Пиратский Крюк
 Small Pearl@Маленький Жемчуг
-Unknown Object@Неизвестный Объект
-Pirate Queen's Jewel@Драгоценность Пиратской Королевы
+§rUnknown Object@§fНеизвестный Объект
+§rPirate Queen's Jewel@§fДрагоценность Пиратской Королевы
 §bSoul Point@§bОчко Душ
 Coral Topaz@Коралловый Топаз
 §rCoral of Nelfors@§fКоралл Нельфора
