@@ -1474,7 +1474,7 @@ Old Druid@Старый Друид
 §6✦ §eThunder §6✦@§6✦ §eГром §6✦
 §3❉ §bWater §3❉@§3❉ §bВода §3❉
 §2✤ §aEarth §2✤@§2✤ §aЗемля §2✤
-§7❋ Air §7❋@§7❋ Воздух §7❋
+§7❋ §rAir §7❋@§7❋ §fВоздух §7❋
 §8§lDig Dirt@§8§lКопать Землю
 §b§lSteal the Treasure@§b§lУкрасть Сокровище
 §7[Left click to harvest]@§7[Левый клик для сбора]
@@ -1635,7 +1635,7 @@ Old Druid@Старый Друид
 §7To destroy the debris@§7Для уничтожения обломков
 §7To Push@§7Чтобы толкнуть
 §6Place@§6Поставить
-§cReset@§cСброс
+§cReset§r@§cСброс
 §6Pick-up@§6Подобрать
 §2[§aGet Whiskey§2]@§2[§aПолучить Виски§2]
 §2[§aGet Water§2]@§2[§aПолучить Воду§2]
@@ -1710,7 +1710,7 @@ Level §c70-80@Уровень §c70-80
 §aExit to spawn@§aВыход на спавн
 §bThrow §3[1 TNT] §bto the hopper to continue.@§bСбрось §3[1 Динамит] §bв воронку для продолжения.
 §bPress and hold to defuse.@§bНажми и держи для обезвреживания.
-§aStart@§aСтарт
+§aStart§r@§aСтарт
 §4§lCorrupted §6§lLost Sanctuary@§4§lИспорченное §6§lЗатерянное Святилище
 §4§lCorrupted Gate@§4§lИспорченные Врата
 §4§lCorrupted §2§lUnderworld Crypt@§4§lИспорченный §2§lПодземный Склеп
@@ -1771,26 +1771,26 @@ Level §c70-80@Уровень §c70-80
 §f§lC@ 
 §8§lD@ 
 §aFinish@§aФиниш
-§6Submit@§6Подтвердить
-§6Cannon x2@§6Пушка x2
-§6Cart x1@§6Вагонетка x1
-§6Fan x1@§6Фен x1
-§6Hammer x1@§6Молот x1
-§e§nChoose machine part@§e§nВыбрать часть машины
-§e§nChoose from 1 to 10@§e§nВыбрать от 1 до 10
-§e§nChoose from A to D@§e§nВыбрать от A до D
+§6Submit§r@§6Подтвердить
+§6Cannon x2§r@§6Пушка x2
+§6Cart x1§r@§6Вагонетка x1
+§6Fan x1§r@§6Фен x1
+§6Hammer x1§r@§6Молот x1
+§e§nChoose machine part§r@§e§nВыбрать часть машины
+§e§nChoose from 1 to 10§r@§e§nВыбрать от 1 до 10
+§e§nChoose from A to D§r@§e§nВыбрать от A до D
 §6B@ 
 §6A@ 
 §6D@ 
 §6C@ 
-§6Left@§6Влево
-§e§nChoose facing@§e§nВыбрать направление
-§6Right@§6Вправо
-§6Cart x0@§6Вагонетка x0
-§6Cannon x1@§6Пушка x1
-§6Cannon x0@§6Пушка x0
-§6Fan x0@§6Фен x0
-§6Hammer x0@§6Молот x0
+§6Left§r@§6Влево
+§e§nChoose facing§r@§e§nВыбрать направление
+§6Right§r@§6Вправо
+§6Cart x0§r@§6Вагонетка x0
+§6Cannon x1§r@§6Пушка x1
+§6Cannon x0§r@§6Пушка x0
+§6Fan x0§r@§6Фен x0
+§6Hammer x0§r@§6Молот x0
 §6Right-click to dig@§6Правый клик для копания
 §7Old Key@§7Старый Ключ
 §fto continue@§fдля продолжения
