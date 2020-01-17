@@ -1841,7 +1841,7 @@ Firefly Wing@Крыло Светлячка
 §fLegendary Shallow Diver@§fЛегендарный Мелководный Ныряльщик
 §fSoft Whetstone@§fМягкий Брусок
 §fBlood@§fКровь
-Glowing Ruby@Светящийся Рубин
+§rGlowing Ruby@§fСветящийся Рубин
 §fPurified Helmet of the Legends@§fОчищенный Шлем Легенд
 §fHelmet of Legends@§fШлем Легенд
 §dPurified Helmet of the Legends@§dОчищенный Шлем Легенд
@@ -1862,8 +1862,8 @@ Clearsight Spectacles@Прозрачные Очки
 §fGert Mask@§fМаска Герта
 §dRestored Ancient Helmet@§dВосстановленный Древний Шлем
 §eCreeper Mask@§eМаска Крипера
-Witness Report I@Отчет Свидетеля I
-Witness Report II@Отчет Свидетеля II
+§rWitness Report I@§fОтчет Свидетеля I
+§rWitness Report II@§fОтчет Свидетеля II
 §fIcon of Naragath@§fИкона Нарагата
 §fEye of Blood@§fГлаз Крови
 §dSound Proof Earmuff@§dНаушники
@@ -1884,7 +1884,7 @@ Helmet of Shimmering Light@Шлем Мерцающего Света
 §fYahya's Stained Bowl@§fИспользованная Миска Яхуя
 §fThe Mummy's Bandage@§fБинт Мумии
 §fCorrupted Potato@§fИспорченная Картошка
-Yellow Crystal Shard@Желтый Осколок Кристалла
+§rYellow Crystal Shard@§fЖелтый Осколок Кристалла
 Purple Crystal Shard@Фиолетовый Осколок Кристалла
 Red Crystal Shard@Красный Осколок Кристалла
 §fCluckles' Favourite Feather@§fЛюбимое Перо Клаклеса
@@ -1893,12 +1893,10 @@ Visbe's Head@Голова Висбе
 Dolg's Head@Голова Долга
 Elak's Head@Голова Элака
 §fBook of the Bones@§fКнига Костей
-Slime Scooper@Совок для Слизи 
+§rSlime Scooper@§fСовок для Слизи 
 §eBreathing Helmet II@§eШлем Подводника II
-Incendiary Fluid@Зажигательная Жидкость
-§fScrawled Note@§fНацарапанная Записка
+§rIncendiary Fluid§r@§fЗажигательная Жидкость
 §rScrawled Note@§fНацарапанная Записка
-Scrawled Note@§fНацарапанная Записка
 §fMage's Riddle@§fЗагадка Мага
 §fStrange Invitation@§fСтранное Приглашение
 §fSunflower Seeds@§fСемена Подсолнечника
@@ -1953,10 +1951,10 @@ Study Results@Результаты Исследований
 §rStudy Results@§fРезультаты Исследований
 Scorched Root@Выжженный Корень
 §rScorched Root@§fВыжженный Корень
-Rusty Shovel@Ржавая Лопата
+§rRusty Shovel@§fРжавая Лопата
 §fThe Staff of True Ice@§fПредмет Чистого Льда
-Cannon Key@Ключ от Пушки
-Cannonball@Снаряд
+§rCannon Key@§fКлюч от Пушки
+§rCannonball@§fСнаряд
 Mysterious Gem@Таинственный Камень
 §fBucket of Blazing Lava@§fВедро Пылающей Лавы
 §fRusty Mansion Key@§fРжавый Ключ от Поместья
@@ -1992,10 +1990,10 @@ Severed Arm@Отрубленная Рука
 §fMeteor Shard@§fОсколок Метеора
 §fMysterious Feather@§fЗагадочное Перо
 §rRoyal Token of Gratitude@§fКоролевский Жетон Благодарности
-Purple Gem@Фиолетовый Камень
-Yellow Gem@Желтый Камень
-Blue Gem@Синий Камень
-Red Gem@Красный Камень
+§rPurple Gem@§fФиолетовый Камень
+§rYellow Gem@§fЖелтый Камень
+§rBlue Gem@§fСиний Камень
+§rRed Gem@§fКрасный Камень
 Odd Scat@Странный Помет
 Giant Teeth@Гигантский Зуб
 Sharp Scales@Острая Чешуя
@@ -2013,10 +2011,10 @@ Skien Cell Key@Ключ от Клетки Скиена
 §fRagged Santa Cloth@§fРваная Ткань Санты
 §fEagle Totem@§fТотем Орлов
 §fOwl Totem@§fТотем Сов
-Translated Ancient Writing@Переведенные Древние Письменности
+§rTranslated Ancient Writing@§fПереведенные Древние Письменности
 §fBlack Whistle Leaf@§fЛист Черного Свистка
 §fPink Pelulite@§fРозовый Пелулит
-Yellow Crystal@Желтый Кристалл
+§rYellow Crystal@§fЖелтый Кристалл
 §fWater Spirit Tear@§fСлеза Водного Духа
 Old Touroto Hide@Старая Кожа Тоурото
 §fFleris Cream@§fКрем Флериса
@@ -2036,7 +2034,7 @@ Lost Essence of Referick@Потерянная Эссенция Реферика
 §fUnstable Corrupted Ore@§fНестабильная Испорченная Руда
 Unstable Corrupted Ore@Нестабильная Испорченная Руда
 §fSwitch Fuse@§fПереключатель с Предохранителем
-Leucsaa's Journal@Журнал Леуксаа
+§rLeucsaa's Journal@§fЖурнал Леуксаа
 §fMe§kt§feo§kr S§fhard@§fОс§kк§fоло§kк Ме§fтеора
 §fQuartz Key@§fКварцевый Ключ
 §rMechanical Chip@§fМеханический Чип
@@ -2046,7 +2044,7 @@ Leucsaa's Journal@Журнал Леуксаа
 §fGorgu's Handprint@§fОтпечаток Руки Горгу
 §fTakan's Badge@§fЗначок Такана
 Sky Vapor@Небесное Испарение
-Slimey Goo@Вязкая Слизь
+§rSlimey Goo@§fВязкая Слизь
 §fDull Ancient Helmet@§fБлеклый Древний Шлем
 §dEmpowered Ancient Helmet@§dДоверенный Древний Шлем
 Ancient Soul@Древняя Душа
@@ -2076,9 +2074,9 @@ Raw Mutton@Сырая Лопатка
 §fBlack Powder@§fЧерный Порох
 §fRock Dust@§fПыль Камня
 §fMakeshift Explosive@§fСамодельная Взрывчатка
-TNT@Динамит
+§rTNT@§fДинамит
 §fFood Crate@§fКонтейнер с Едой
-Stable Key@Ключ от Конюшни
+§rStable Key@§fКлюч от Конюшни
 §eFemale Pirate WigÀ@§eЖенский Парик Пирата
 §eFemale Pirate Wig@§eЖенский Парик Пирата
 §fDisenchanted Map@§fРасколдованная Карта
@@ -2089,7 +2087,7 @@ Lab Key@Ключ от Лаборатории
 Soul Essence@Эссенция Души
 §fSecurity Card@§fКарта Безопасности
 §fNote@§fЗаметка
-Ancient Writing@Древние Письмена
+§rAncient Writing@§fДревние Письмена
 Map Fragment 1@Фрагмент Карты 1
 §fSewer Diagram@§fДиаграмма Канализации
 §fGood-Luck Charm@§fСчастливый Амулет
@@ -2232,7 +2230,7 @@ Corrupted Remains@Испорченные Останки
 §7Half-Eaten Skin@§7Наполовину Съеденная Кожа
 §7Vines@§7Лианы
 §aZhight Gold@§aЖигт Золото
-Metal Scrap@Металлический Скрап
+§rMetal Scrap@§fМеталлический Скрап
 Rock Pile@Куча Камней
 §fSlykaar's Incantation@§fЗаклинание Слайкаара
 §fCorrupted TreasureÀ@§fИспорченное Сокровище
@@ -2246,7 +2244,7 @@ Bluecap Mushrooms@Гриб с Синей Шляпкой
 §fDemonic Bacteria@§fДемоническая Бактерия
 §fEssren's Dusty Coat@§fПыльное Пальто Эссрена
 Prison Key@Тюремный Ключ
-Blackmail Journal@Журнал Шантажа
+§rBlackmail Journal@§fЖурнал Шантажа
 Hay Sickle@Серп для Сена
 Howler Bait@Наживка для Howler'а 
 Corrupt Pendant@Испорченный Кулон
@@ -2274,7 +2272,7 @@ Library Key@Библиотечный Ключ
 §fAvo Magic Totem@§fМагический Тотем
 §fFactory Transmitter@§fФабричный Передатчик
 §eChunk of Scrap@§eКусок Металлолома
-The Emperor's Sceptre@Скипетр Императора
+§rThe Emperor's Sceptre@§fСкипетр Императора
 §fCoconut@§fКокос
 §fCreeper Mask@§fМаска Крипера
 Skien's Badge@Значок Скиена
@@ -2315,7 +2313,7 @@ Star of Transcendence@Звезда Трансцендентности
 §fSpike Shatterer@§fРазрушитель Шипов
 §7Broken Pickaxe@§7Сломанная Кирка
 §fMysterious Key@§fЗагадочный Ключ
-Stabilized Corrupted Ore@Стабильная Испорченная Руда
+§rStabilized Corrupted Ore@§fСтабильная Испорченная Руда
 §fNew Forged Cauldron@§fНовый Кованый Котел
 §fRusty Bronze Cauldron@§fГрязный Бронзовый Котел
 §fCandied Apple@§fЗасахаренное Яблоко
