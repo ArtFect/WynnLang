@@ -562,6 +562,8 @@
 §a✔ Lv. 10: §f4§7 Trout Meat§f Ⓚ@§a✔ Ур. 10: §f4§7 Мяса Форели§f Ⓚ
 §a✔ Lv. 70: §f10§7 Decay String§f Ⓙ@§a✔ Ур. 70: §f10§7 Зараженных Нитей§f Ⓙ
 §a✔ Lv. 70: §f5§7 Decay String§f Ⓙ@§a✔ Ур. 70: §f5§7 Зараженных Нитей§f Ⓙ
+            §f5§7 Decay String§f Ⓙ@            §f5§7 Зараженных Нитей§f Ⓙ
+            §f10§7 Decay String§f Ⓙ@            §f10§7 Зараженных Нитей§f Ⓙ
             §f5§7 Light Wood§f Ⓒ@            §f5§7 Древесины Клена§f Ⓒ
             §f10§7 Light Wood§f Ⓒ@            §f10§7 Древесины Клена§f Ⓒ
 §a✔ Lv. 80: §f10§7 Rice String§f Ⓙ@§a✔ Ур. 80: §f10§7 Рисовых Нитей§f Ⓙ
@@ -627,9 +629,11 @@
 §a✔ Lv. 30: §f6§7 Carp Oil§f Ⓚ@§a✔ Ур. 30: §f6§7 Жира Карпа§f Ⓚ
 §c✖ Lv. 30: §f6§7 Carp Oil§f Ⓚ@§c✖ Ур. 30: §f6§7 Жира Карпа§f Ⓚ
 §c✖ Lv. 40: §f6§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f6§7 Хмельных Нитей§f Ⓙ
-§c✖ Lv. 40: §f3§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f3§7 Хмельных Нитей§f Ⓙ
+§c✖ Lv. 40: §f3§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f3§7 Хмельных Нити§f Ⓙ
 §a✔ Lv. 40: §f6§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f6§7 Хмельных Нитей§f Ⓙ
-§a✔ Lv. 40: §f3§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f3§7 Хмельных Нитей§f Ⓙ
+§a✔ Lv. 40: §f3§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f3§7 Хмельных Нити§f Ⓙ
+            §f6§7 Hops String§f Ⓙ@            §f6§7 Хмельных Нитей§f Ⓙ
+            §f3§7 Hops String§f Ⓙ@            §f3§7 Хмельных Нити§f Ⓙ
 §c✖ Lv. 40: §f6§7 Icefish Oil§f Ⓚ@§c✖ Ур. 40: §f6§7 Жира Щуки§f Ⓚ
 §a✔ Lv. 40: §f6§7 Icefish Oil§f Ⓚ@§a✔ Ур. 40: §f6§7 Жира Щуки§f Ⓚ
 §a✔ Lv. 50: §f4§7 Silver Ingot§f Ⓑ@§a✔ Ур. 50: §f4§7 Серебрянных Слитка§f Ⓑ
@@ -640,11 +644,19 @@
             §f4§7 Jungle Wood§f Ⓒ@            §f4§7 Древесины Амаранта§f Ⓒ
 §c✖ Lv. 60: §f4§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f4§7 Кобальтовых Слитка§f Ⓑ
 §c✖ Lv. 60: §f8§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f8§7 Кобальтовых Слитка§f Ⓑ
+§a✔ Lv. 60: §f4§7 Cobalt Ingot§f Ⓑ@§a✔ Ур. 60: §f4§7 Кобальтовых Слитка§f Ⓑ
+§a✔ Lv. 60: §f8§7 Cobalt Ingot§f Ⓑ@§a✔ Ур. 60: §f8§7 Кобальтовых Слитка§f Ⓑ
             §f8§7 Dark Wood§f Ⓒ@            §f8§7 Древесины Каштана§f Ⓒ
             §f4§7 Dark Wood§f Ⓒ@            §f4§7 Древесины Каштана§f Ⓒ
 §c✖ Lv. 50: §f8§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f8§7 Ржаных Нитей§f Ⓙ
 §c✖ Lv. 50: §f4§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f4§7 Ржаных Нити§f Ⓙ
+            §f8§7 Rye String§f Ⓙ@            §f8§7 Ржаных Нитей§f Ⓙ
+            §f4§7 Rye String§f Ⓙ@            §f4§7 Ржаных Нити§f Ⓙ
 §c✖ Lv. 50: §f8§7 Piranha Oil§f Ⓚ@§c✖ Ур. 50: §f8§7 Жира Пираньи§f Ⓚ
+            §f8§7 Millet String§f Ⓙ@            §f8§7 Просо Нитей§f Ⓙ
+            §f4§7 Millet String§f Ⓙ@            §f4§7 Просо Нити§f Ⓙ
+§c✖ Lv. 70: §f5§7 Kanderstone Ingot§f Ⓑ@§c✖ Ур. 70: §f5§7 Кандерстоун Слитков§f Ⓑ
+§c✖ Lv. 70: §f10§7 Kanderstone Ingot§f Ⓑ@§c✖ Ур. 70: §f10§7 Кандерстоун Слитков§f Ⓑ
 
 #############################POWDERS#############################
 §8Adding 2 powders of tier 4-6@§8Добавление 2 порошков уровня 4-6
@@ -2642,9 +2654,9 @@
 §7progress in the §fLost Sanctuary@§7прогресса в §fЗатерянном Святилище
 §7progress in the §fGalleon’s Graveyard@§7прогресса на §fКладбище Галеона
 §7progress in the §fUnderworld Crypt@§7прогресса в §fПодземном Склепе
-§7progress in the Fallen Factory@§7прогресса на Заброшенной Фабрике
+§7progress in the §rFallen Factory@§7прогресса на §fЗаброшенной Фабрике
 §7progress in the §fFallen Factory@§7прогресса на §fЗаброшенной Фабрике
-§7progress in the Eldritch Outlook@§7прогресса у Жуткого Наблюдателя
+§7progress in the §rEldritch Outlook@§7прогресса у §fЖуткого Наблюдателя
 §7progress in the §fLegendary Challenge@§7прогресса в §fЛегендарном Челлендже
 §7a §2Corrupted Dungeon Key@§2Испорченного Данж Ключа
 §fFarming Refinery §7to process it@§fПереработке Урожая §7для его обработки
