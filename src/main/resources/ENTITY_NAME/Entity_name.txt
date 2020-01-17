@@ -1160,6 +1160,7 @@ Old Druid@Старый Друид
 §2[§a+1§2 Silver Ingot]@§2[§a+1§2 Серебрянный Слиток]
 §aCobalt@§aКобальт
 §2[§a+1§2 Cobalt Ingot]@§2[§a+1§2 Слиток Кобальта]
+§2[§a+1§2 Cobalt Gem]@§2[§a+1§2 Кобальтовый Камень]
 §aKanderstone@§aКандерстоун
 §aDiamond@§aАлмаз
 §aMolten@§aМолтен
@@ -1210,6 +1211,7 @@ Old Druid@Старый Друид
 §aHops@§aХмель
 §2[§a+1§2 Hops String]@§2[§a+1§2 Хмельная Нить]
 §aRye@§aРожь
+§2[§a+1§2 Rye String]@§2[§a+1§2 Ржаная Нить]
 §aMillet@§aПросо
 §aDecay Roots@§aЗараженный Корень
 §aRice@§aРис
@@ -1444,6 +1446,7 @@ Old Druid@Старый Друид
 §bChalky Kantyri Calf§6 [Lv. 100]@§bБледный Теленок Кантир§6 [Ур. 100]
 §bDusk Kantyri Calf§6 [Lv. 100]@§bСумеречный Теленок Кантир§6 [Ур. 100]
 §bRoyal Kantyri Calf§6 [Lv. 100]@§bКоролевский Теленок Кантир§6 [Ур. 100]
+§bRoyal Kanter§6 [Lv. 110]@§bКоролевский Кантер§6 [Ур. 110]
 §bHead§6 [Lv. 102]@§bГолова§6 [Ур. 102]
 §bDark Head§6 [Lv. 102]@§bТемная Голова§6 [Ур. 102]
 §bKeystone Guardian§6 [Lv. 100]@§bЗащитник Ключа§6 [Ур. 100]
@@ -1817,9 +1820,9 @@ Level §c70-80@Уровень §c70-80
 §7to fight Boss 1@§7для битвы с Боссом 1
 §7to fight Boss 3@§7для битвы с Боссом 3
 §7to revive General Graken@§7для возрождения Генерала Гракена
-§7Collect and throw §3§l[16 Armory Tokens]§7 in the hopper to proceed@§7Собери и сбрось §3§l[16 Оружейных Жетонов]§7 в воронку для продолжения
-§7Collect and throw §3§l[16 Brig Tokens]§7 in the hopper to proceed@§7Собери и сбрось §3§l[16 Бриг Жетонов]§7 в воронку для продолжения
-§7Collect and throw §3§l[1 Crash Site Token]§7 in the hopper to proceed@§7Собери и сбрось §3§l[1 Жетон Кораблекрушения]§7 в воронку для продолжения
+§7Collect and throw §3§l[16 Armory Tokens]§r§7 in the hopper to proceed@§7Собери и сбрось §3§l[16 Оружейных Жетонов]§7 в воронку для продолжения
+§7Collect and throw §3§l[16 Brig Tokens]§r§7 in the hopper to proceed@§7Собери и сбрось §3§l[16 Бриг Жетонов]§7 в воронку для продолжения
+§7Collect and throw §3§l[1 Crash Site Token]§r§7 in the hopper to proceed@§7Собери и сбрось §3§l[1 Жетон Кораблекрушения]§7 в воронку для продолжения
 §c19s@§c19с
 §c18s@§c18с
 §c17s@§c17с
@@ -1949,11 +1952,11 @@ dust@пыль
 §6Resource Mine@§6Шахта с Ресурсами
 §7Engraved Stone@§7Могильная Плита
 §aChoose the correct §cvein§a to cut@§aВыбери правильную §cлиану§a для обрезания
-§aHumans@§aЛюди
-§aDoguns@§aДогуны
-§aGreenskins@§aЗеленокожие
-§aDwarves@§aГномы
-§aElves@§aЭльфы
+§aHumans§r@§aЛюди
+§aDoguns§r@§aДогуны
+§aGreenskins§r@§aЗеленокожие
+§aDwarves§r@§aГномы
+§aElves§r@§aЭльфы
 §aVillagers@§aЖители
 §8Lutho Citizen@§8Житель Луто
 §8§lRight-Click@§8§lПравый Клик
@@ -1971,7 +1974,7 @@ dust@пыль
 §7Temple Wolf@§7Храм Волков
 §7boost you up!@§7поднятия тебя вверх!
 §6Right Click§7 to@§6Правый Клик§7 для
-§6Left Click§7 to end §cSlykaar!@§6Левый Клик§7 для убийства §cСлайкаара!
+§6Left Click§7 to end §cSlykaar§r!@§6Левый Клик§7 для убийства §cСлайкаара!
 Gift From Dern@Подарок из Дерна
 §6Calling...@§6Вызов...
 §5§lEldritch Outlook@§5§lЖуткий Наблюдатель
