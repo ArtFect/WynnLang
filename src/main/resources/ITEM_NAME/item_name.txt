@@ -1885,13 +1885,13 @@ Helmet of Shimmering Light@Шлем Мерцающего Света
 §fThe Mummy's Bandage@§fБинт Мумии
 §fCorrupted Potato@§fИспорченная Картошка
 §rYellow Crystal Shard@§fЖелтый Осколок Кристалла
-Purple Crystal Shard@Фиолетовый Осколок Кристалла
-Red Crystal Shard@Красный Осколок Кристалла
+§rPurple Crystal Shard@§fФиолетовый Осколок Кристалла
+§rRed Crystal Shard@§fКрасный Осколок Кристалла
 §fCluckles' Favourite Feather@§fЛюбимое Перо Клаклеса
 §fBreathing Helmet I@§fШлем Подводника I
-Visbe's Head@Голова Висбе
-Dolg's Head@Голова Долга
-Elak's Head@Голова Элака
+§rVisbe's Head@§fГолова Висбе
+§rDolg's Head@§fГолова Долга
+§rElak's Head@§fГолова Элака
 §fBook of the Bones@§fКнига Костей
 §rSlime Scooper@§fСовок для Слизи 
 §eBreathing Helmet II@§eШлем Подводника II
@@ -1905,7 +1905,7 @@ Elak's Head@Голова Элака
 §7Damask Axe Head@§7Дамаск Лезвие Топора
 §7Sugha Axe Head@§7Сугха Лезвие Топора
 §7Sable Axe Head@§7Сабл Лезвие Топора
-The Axe of Llevigar@Топор Ллевигара
+§rThe Axe of Llevigar@§fТопор Ллевигара
 §fCreeper Skin@§fКожа Крипера
 §fTreasure Map@§fКарта Сокровищ
 §fGolden Pirate Fish@§fЗолотая Пиратская Рыба
@@ -1959,7 +1959,7 @@ Mysterious Gem@Таинственный Камень
 §fBucket of Blazing Lava@§fВедро Пылающей Лавы
 §fRusty Mansion Key@§fРжавый Ключ от Поместья
 Volt Goat Horn@Овечий Рог Волта
-Head of the Gurg@Голова Гурга
+§rHead of the Gurg@§fГолова Гурга
 §fEscaped Cow Eye@§fГлаз Сбежавшей Коровы
 §fEscaped Cow Beef@§fТуша Сбежавшей Коровы
 §fEscaped Cow Skin@§fКожа Сбежавшей Коровы
@@ -1979,7 +1979,7 @@ Canned Abis@Коно поля
 §fHand Core Alpha@§fАльфа Ядро Руки
 §fAbandoned Key@§fЗаброшенный Ключ
 §fAttic Key@§fКлюч от Чердака
-Severed Arm@Отрубленная Рука
+§rSevered Arm@§fОтрубленная Рука
 §fOld Crypt Key@§fКлюч от Старой Гробницы
 §fWitch's Empty Bottle@§fПустая Бутылка Ведьмы
 §fMaxie's House Key@§fКлюч от Дома Макси
@@ -1994,16 +1994,16 @@ Severed Arm@Отрубленная Рука
 §rYellow Gem@§fЖелтый Камень
 §rBlue Gem@§fСиний Камень
 §rRed Gem@§fКрасный Камень
-Odd Scat@Странный Помет
-Giant Teeth@Гигантский Зуб
-Sharp Scales@Острая Чешуя
-Slimey Skin@Слизистая Кожа
-Unhatched Egg@Невылупившееся Яйцо
-Rare Rose@Редкая Роза
-Beast Egg@Яйцо Зверя
-Cursed Maiden Essence@Проклятая Девичья Эссенция
+§rOdd Scat@§fСтранный Помет
+§rGiant Teeth@§fГигантский Зуб
+§rSharp Scales@§fОстрая Чешуя
+§rSlimey Skin@§fСлизистая Кожа
+§rUnhatched Egg@§fНевылупившееся Яйцо
+§rRare Rose@§fРедкая Роза
+§rBeast Egg@§fЯйцо Зверя
+§rCursed Maiden Essence@§fПроклятая Девичья Эссенция
 §dPower CellÀ@§fБатарейка
-Polluted Sludge@Загрязненный Ил
+§rPolluted Sludge@§fЗагрязненный Ил
 §7Putrefied Sludge@§7Гнилой Ил
 §bDodegar's Ultimate Weapon@§bСмертельное Оружие Додегара
 Skien Cell Key@Ключ от Клетки Скиена
@@ -2016,7 +2016,7 @@ Skien Cell Key@Ключ от Клетки Скиена
 §fPink Pelulite@§fРозовый Пелулит
 §rYellow Crystal@§fЖелтый Кристалл
 §fWater Spirit Tear@§fСлеза Водного Духа
-Old Touroto Hide@Старая Кожа Тоурото
+§rOld Touroto Hide@§fСтарая Кожа Тоурото
 §fFleris Cream@§fКрем Флериса
 §fLibrary Key@§fКлюч от Библиотеки
 §fSpoon@§fЛожка
@@ -2080,7 +2080,7 @@ Raw Mutton@Сырая Лопатка
 §eFemale Pirate WigÀ@§eЖенский Парик Пирата
 §eFemale Pirate Wig@§eЖенский Парик Пирата
 §fDisenchanted Map@§fРасколдованная Карта
-Lab Key@Ключ от Лаборатории
+§rLab Key@§fКлюч от Лаборатории
 §fFaded Map@§fВыцветшая Карта
 §fRusted Laboratory Key@§fРжавый Лабораторный Ключ
 §fCorrupted Treasure@§fИспорченное Сокровище
@@ -2157,7 +2157,8 @@ Taproot@Стержневой Корень
 §fFaded Map #2@§fВыцветшая Карта #2
 §fFaded Map #3@§fВыцветшая Карта #3
 §fMysterious Gemstone@§fЗагадочный Драгоценный Камень
-Overgrown Lab Key@Заросший Лабораторный Ключ
+§rOvergrown Lab Key@§fЗаросший Лабораторный Ключ
+§rMalignant Bud@§fЗлостный Бутон
 Orc Mask@Маска Орка
 §eUpgraded Orc Mask@§eУлучшенная Маска Орка
 Upgraded Orc Mask@Улучшенная Маска Орка
@@ -2201,7 +2202,7 @@ Monster Hide@Шкура Монстра
 §7Ghostly Ingredient@§7Призрачный Ингредиент
 §7Ghostly Quill@§7Призрачное Перо
 §fCorruption Relic Shard@§fИспорченный Осколок Кристалла
-Jungle Jet Shard@Джунглевый Осколок Янтаря
+§rJungle Jet Shard@§fДжунглевый Осколок Янтаря
 Quarry's Old Clock@Старые Карьерные Часы
 Lexdale's Shattered Clock@Разрушенные Часы Лексдейла
 A Hobbit's Cracked Clock@Треснувшие Часы Хоббита
@@ -2231,7 +2232,7 @@ Corrupted Remains@Испорченные Останки
 §7Vines@§7Лианы
 §aZhight Gold@§aЖигт Золото
 §rMetal Scrap@§fМеталлический Скрап
-Rock Pile@Куча Камней
+§rRock Pile@§fКуча Камней
 §fSlykaar's Incantation@§fЗаклинание Слайкаара
 §fCorrupted TreasureÀ@§fИспорченное Сокровище
 §fSaccharum@§fСахар
@@ -2614,7 +2615,7 @@ Glowing Pearl@Светящийся Жемчуг
 Large Glowing Pearl@Большой Светящийся Жемчуг
 Coral Amethyst@Коралловый Аметист
 Coral Ruby@Коралловый Рубин
-Coral Sapphire@Коралловый Сапфир
+§rCoral Sapphire@§fКоралловый Сапфир
 Huge Pearl@Большой Жемчуг
 §rGold Ingot@§fСлиток Золота
 §7Machete@§7Мачете
@@ -2731,7 +2732,7 @@ Unprocessed Copper Ore@Необработанная Медная Руда
 Unprocessed Wheat@Необработанная Пшеница
 Unprocessed Oak Log@Необработанное Бревно Дуба
 Unprocessed Birch Log@Необработанное Бревно Березы
-Sunken Block of Gold@Затонувший Блок Золота
+§rSunken Block of Gold@§fЗатонувший Блок Золота
 Sunken Gold Bar@Затонувший Золотой Слиток
 Sunken Silver Nugget@Затонувший Серебряный Самородок
 Sunken Silver Bar@Затонувший Серебряный Слиток
