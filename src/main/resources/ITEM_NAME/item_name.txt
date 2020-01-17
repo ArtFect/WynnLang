@@ -2007,7 +2007,7 @@ Mysterious Gem@Таинственный Камень
 §rPolluted Sludge@§fЗагрязненный Ил
 §7Putrefied Sludge@§7Гнилой Ил
 §bDodegar's Ultimate Weapon@§bСмертельное Оружие Додегара
-Skien Cell Key@Ключ от Клетки Скиена
+§rSkien Cell Key@§fКлюч от Клетки Скиена
 §fAncient Treasure@§fДревнее Сокровище
 §fRagged Santa Cloth@§fРваная Ткань Санты
 §fEagle Totem@§fТотем Орлов
@@ -2022,14 +2022,15 @@ Skien Cell Key@Ключ от Клетки Скиена
 §fLibrary Key@§fКлюч от Библиотеки
 §fSpoon@§fЛожка
 §rLoose Rope@§fСвободная Веревка
+§rTraitor Camp@§fЛагерь Предателя
 §fStudy Key@§fКлюч от Кабинета
 §fTimmy's Bedroom Key@§fКлюч от Спальни Тимми
 §fMaster Key@§fОтмычка
 §fMister Caritat's Letter@§fПисьмо Мистера Каритата
 §eDàochang Room Token@§eДаочанг Комната Жетон
-Lemongrass@Лемонграсс
-Ginger Root@Корень Имбиря
-Green Tea@Зеленый Чай
+§rLemongrass@§fЛемонграсс
+§rGinger Root@§fКорень Имбиря
+§rGreen Tea@§fЗеленый Чай
 §fRedbeard's Treasure Map@§fКарта Сокровищ Редберда
 §rLost Essence of Referick@§fПотерянная Эссенция Реферика
 §fUnstable Corrupted Ore@§fНестабильная Испорченная Руда
@@ -2058,7 +2059,7 @@ Shattered Crystal@Разбитый Кристалл
 §fHigh Quality Meat Crate@§fКонтейнер Мяса Высокого Качества
 §dGerten Ritual Mask@§dРитуальная Маска Гертов
 §6Ancient Scroll@§6Древний Свиток
-Krolton's Remains@Останки Кролтона
+§rKrolton's Remains@§fОстанки Кролтона
 §fCalamaro's Slimy Token@§fСкользкий Жетон Каламаро
 §6TNT@§6Динамит
 §fMap of Gateway Island@§fКарта Острова Врат
@@ -2067,9 +2068,9 @@ Krolton's Remains@Останки Кролтона
 §fString@§fНитка
 §fSteering Wheel@§fШтурвал
 §fCannonball@§fЯдро
-Edible Mushroom@Съедобный Гриб
-Toxic Mushroom@Токсичный гриб
-Raw Mutton@Сырая Лопатка
+§rEdible Mushroom@§fСъедобный Гриб
+§rToxic Mushroom@§fТоксичный гриб
+§rRaw Mutton@§fСырая Лопатка
 §fBerry@§fЯгода
 §fSaw Dust@§fДеревянные Опилки
 §fWynn Coconut@§fКокос
@@ -2092,7 +2093,7 @@ Soul Essence@Эссенция Души
 §fSecurity Card@§fКарта Безопасности
 §fNote@§fЗаметка
 §rAncient Writing@§fДревние Письмена
-Map Fragment 1@Фрагмент Карты 1
+§rMap Fragment 1@§fФрагмент Карты 1
 §fSewer Diagram@§fДиаграмма Канализации
 §fGood-Luck Charm@§fСчастливый Амулет
 §fMelon Slice@§fКусочек Арбуза
@@ -2128,7 +2129,7 @@ Meteor Shard@Осколок Метеора
 §fVeekhat's Cabinet Key@§fКлюч от Кабинета Викхата
 §fVeekhat's Head@§fГолова Викхата
 §6Unfinished Letter@§6Недописанное Письмо
-Seluc's Map@Карта Селука
+§rSeluc's Map@§fКарта Селука
 §fDynamite@§fДинамит
 Mechanical Key@Механический Ключ
 §fFire Web@§fОгненная Паутина
@@ -2173,8 +2174,8 @@ Upgraded Orc Mask@Улучшенная Маска Орка
 §rGinseng@§fЖеньшень
 §rPotion of Light@§fЗелье Света
 §rDead Plant@§fМертвый Куст
-Map Fragment 3@Фрагмент Карты 3
-Map Fragment 2@Фрагмент Карты 2
+§rMap Fragment 3@§fФрагмент Карты 3
+§rMap Fragment 2@§fФрагмент Карты 2
 Wealth or Knowledge@Богатство или Знания
 Pigman Meat@Мясо Пигмена
 Old Treasure֎@Старое Сокровище֎
@@ -2250,11 +2251,11 @@ Corrupted Remains@Испорченные Останки
 §fEssren's Dusty Coat@§fПыльное Пальто Эссрена
 Prison Key@Тюремный Ключ
 §rBlackmail Journal@§fЖурнал Шантажа
-Hay Sickle@Серп для Сена
+§rHay Sickle@§fСерп для Сена
 Howler Bait@Наживка для Howler'а 
-Corrupt Pendant@Испорченный Кулон
-Shadow Pendant@Темный Кулон
-Amadel's Pendant@Кулон Амаделя
+§rCorrupt Pendant@§fИспорченный Кулон
+§rShadow Pendant@§fТемный Кулон
+§rAmadel's Pendant@§fКулон Амаделя
 §fInsect of Corruption@§fИспорченное Насекомое
 §fOdd Smelling Crate@§fСтранно Пахнущий Контейнер
 §r§7§rRefined Fuel@§7Переработанное Топливо
