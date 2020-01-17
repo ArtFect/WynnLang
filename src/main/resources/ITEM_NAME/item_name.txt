@@ -1920,7 +1920,7 @@ The Axe of Llevigar@Топор Ллевигара
 Creeper Mask@Маска Крипера
 §fAlmuj's Liquified Emerald@§fЖидкий Алмужский Эмеральд
 §dBlack Veil@§dЧерная Вуаль
-Black Veil@Черная Вуаль
+§rBlack Veil@§fЧерная Вуаль
 §7Old Basement Key@§7Старый Подвальный Ключ
 §fHighly Explosive Magical TNT@§fВзрывоопасный Магический Динамит
 Aseado Leaf@Лист Асеадо
@@ -2022,6 +2022,7 @@ Old Touroto Hide@Старая Кожа Тоурото
 §fFleris Cream@§fКрем Флериса
 §fLibrary Key@§fКлюч от Библиотеки
 §fSpoon@§fЛожка
+§rLoose Rope@§fСвободная Веревка
 §fStudy Key@§fКлюч от Кабинета
 §fTimmy's Bedroom Key@§fКлюч от Спальни Тимми
 §fMaster Key@§fОтмычка
@@ -2038,7 +2039,7 @@ Unstable Corrupted Ore@Нестабильная Испорченная Руда
 Leucsaa's Journal@Журнал Леуксаа
 §fMe§kt§feo§kr S§fhard@§fОс§kк§fоло§kк Ме§fтеора
 §fQuartz Key@§fКварцевый Ключ
-Mechanical Chip@Механический Чип
+§rMechanical Chip@§fМеханический Чип
 §fBall Ticket@§fБилет на Бал
 §fRope@§fВеревка
 §fBob's Crushed Soul@§fИзмельченная Душа Боба
@@ -2149,10 +2150,10 @@ Healing Water@Целебная Вода
 §fReceipt@§fКвитанция
 Old Key@Старый Ключ
 Taproot@Стержневой Корень
-Voidroot@Корень Пустоты
-Zork Rinds@Шкура Зорка
-Quicksalt@Быстрая Соль
-Snail Slime@Слизь Змеи
+§rVoidroot@§fКорень Пустоты
+§rZork Rinds@§fШкура Зорка
+§rQuicksalt@§fБыстрая Соль
+§rSnail Slime@§fСлизь Змеи
 §fTherck's Note@§fЗаписка Терка
 §fFaded Map #1@§fВыцветшая Карта #1
 §fFaded Map #2@§fВыцветшая Карта #2
@@ -2183,11 +2184,11 @@ Recipe Token@Жетон на Рецепт
 Skyhigh Pie Recipe@Рецепт Заоблачного Пирога
 §fPrison Key@§fТюремный Ключ
 Omelette de Colère Recipe@Рецепт Омлета
-Sunrise Wheat@Утренняя Пшеница
-High Quality Sunrise Wheat@Пшеница Высокого Качества
-Sunrise Flour@Утренняя Мука
+§rSunrise Wheat@§fУтренняя Пшеница
+§rHigh Quality Sunrise Wheat@§fПшеница Высокого Качества
+§rSunrise Flour@§fУтренняя Мука
 Blue-Ring Grook Egg@Синее  Яйцо Грука
-Skyhigh Raspberry@Высокорастущая Малина
+§rSkyhigh Raspberry@§fВысокорастущая Малина
 Skyhigh Pie@Заоблачный Пирог
 §fRoyal Bug Blood@§fКровь Королевских Жуков
 §fFactory Helmet@§fФабричный Шлем
@@ -2253,14 +2254,14 @@ Shadow Pendant@Темный Кулон
 Amadel's Pendant@Кулон Амаделя
 §fInsect of Corruption@§fИспорченное Насекомое
 §fOdd Smelling Crate@§fСтранно Пахнущий Контейнер
-§7Refined Fuel@§7Переработанное Топливо
-Hearty Zork Stew@Сытное Зорк Рагу
+§r§7§rRefined Fuel@§7Переработанное Топливо
+§rHearty Zork Stew@§fСытное Зорк Рагу
 §fBlue Wire Piece@§fСиний Кусок Провода
 §fBean Sprouts@§fБобовые Ростки
 §3Armory Token@§3Оружейный Жетон
-§3Brig Token@§3Бриг Жетон
+§r§3Brig Token@§3Бриг Жетон
 §3Crash Site Token@§3Жетон Кораблекрушения
-Stray Rock@Случайный Камень
+§rStray Rock@§fСлучайный Камень
 Library Key@Библиотечный Ключ
 §rHearty Zork Stew Recipe@§fРецепт Сытного Зорк Рагу
 §rOmelette de Colère Recipe@§fРецепт Омлета
@@ -2640,7 +2641,8 @@ Cinfras' Busted Clock@Сломанные Часы Цинфраса
 Flamingo Feather@Перо Фламинго
 Painting@Картина
 Snowbell@Снижок
-Dropped Key@Выброшенный Ключ
+§rMythic Treasure@§fМифическое Сокровище
+§rDropped Key@§fВыброшенный Ключ
 Acanit's Token@Жетон Аканита
 Tempus' Token@Жетон Темпуса
 Time Travelling Token@Жетон Путешествия во Времени
@@ -2656,7 +2658,7 @@ Brown Mushroom@Коричневый Гриб
 §fTasty Bone@§fВкусная Кость
 §3Your Cabin@§3Твоя Кабина
 Bear Body@Тело Медведя
-Statue Key@Ключ Статуи
+§rStatue Key@§fКлюч Статуи
 §fCore Key@§fОсновной Ключ
 §eFearing Eye@§eБоящийся Глаз
 §eDreading Eye@§eСтрашный Глаз
@@ -2669,7 +2671,7 @@ Statue Key@Ключ Статуи
 §fToxic Key@§fТоксичный Ключ
 §fBroken Rock@§fРазбитый Камень
 Shard of the Monolith@Осколок Монолита
-Granitic Key@Гранитный Ключ
+§rGranitic Key@§fГранитный Ключ
 §fExplosive Mass@§fВзрывоопасная Масса
 §fStone Tablet@§fКаменная Плита
 §fKaen's Key@§fКлюч Каена
