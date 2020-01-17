@@ -1849,8 +1849,8 @@ Firefly Wing@Крыло Светлячка
 §fLight Dust@§fСветопыль
 §fTattytale Flower@§fЦветок-Болтун
 §fTalisman@§fТалисман
-Rotten Skin@Гнилая Кожа
-§fRotten Skin@§fГнилая Кожа
+§rRotten Skin@§fГнилая Кожа
+§rPrepared Bottle@§fПодготовленная Бутылка
 §fHoly Water@§fСвятая Вода
 Touroto Hide@Кожа Тоурото
 §fExplosive@§fВзрывчатка
@@ -1921,7 +1921,7 @@ Creeper Mask@Маска Крипера
 §rBlack Veil@§fЧерная Вуаль
 §7Old Basement Key@§7Старый Подвальный Ключ
 §fHighly Explosive Magical TNT@§fВзрывоопасный Магический Динамит
-Aseado Leaf@Лист Асеадо
+§rAseado Leaf@§fЛист Асеадо
 §fBob's Seal of Approval@§fПечать Одобрения Боба
 Broken Amulet@Сломанный Амулет
 §dTroms Kid Badge@§dДетский Значок Тромса
@@ -2030,7 +2030,7 @@ Lemongrass@Лемонграсс
 Ginger Root@Корень Имбиря
 Green Tea@Зеленый Чай
 §fRedbeard's Treasure Map@§fКарта Сокровищ Редберда
-Lost Essence of Referick@Потерянная Эссенция Реферика
+§rLost Essence of Referick@§fПотерянная Эссенция Реферика
 §fUnstable Corrupted Ore@§fНестабильная Испорченная Руда
 Unstable Corrupted Ore@Нестабильная Испорченная Руда
 §fSwitch Fuse@§fПереключатель с Предохранителем
@@ -2043,14 +2043,14 @@ Unstable Corrupted Ore@Нестабильная Испорченная Руда
 §fBob's Crushed Soul@§fИзмельченная Душа Боба
 §fGorgu's Handprint@§fОтпечаток Руки Горгу
 §fTakan's Badge@§fЗначок Такана
-Sky Vapor@Небесное Испарение
+§rSky Vapor@§fНебесное Испарение
 §rSlimey Goo@§fВязкая Слизь
 §fDull Ancient Helmet@§fБлеклый Древний Шлем
 §dEmpowered Ancient Helmet@§dДоверенный Древний Шлем
 Ancient Soul@Древняя Душа
 §bMagical Fragment@§bМагический Фрагмент
 Shattered Crystal@Разбитый Кристалл
-Maro's Eye Jewel@Драгоценный Глаз Маро
+§rMaro's Eye Jewel@§fДрагоценный Глаз Маро
 §fHigh Quality Meat Crate@§fКонтейнер Мяса Высокого Качества
 §dGerten Ritual Mask@§dРитуальная Маска Гертов
 §6Ancient Scroll@§6Древний Свиток
@@ -2140,14 +2140,13 @@ Repair Kit@Ремонтный Комплект
 §fLetter to Sytis@§fПисьмо для Ситиса
 §fLetter to Felim@§fПисьмо для Фелима
 §fCanyon Chart@§fКарта Каньона
-Boot Container@Контейнер Для Ботинок
+§rBoot Container@§fКонтейнер Для Ботинок
 §fBasement Key@§fКлюч от Подвала
 §6Door Key@§6Дверной Ключ
-Healing Water@Целебная Вода
-§fHealing Water@§fЦелебная Вода
+§rHealing Water@§fЦелебная Вода
 §fReceipt@§fКвитанция
 Old Key@Старый Ключ
-Taproot@Стержневой Корень
+§rTaproot@§fСтержневой Корень
 §rVoidroot@§fКорень Пустоты
 §rZork Rinds@§fШкура Зорка
 §rQuicksalt@§fБыстрая Соль
@@ -2162,14 +2161,14 @@ Taproot@Стержневой Корень
 Orc Mask@Маска Орка
 §eUpgraded Orc Mask@§eУлучшенная Маска Орка
 Upgraded Orc Mask@Улучшенная Маска Орка
-Wilted Lobelia@Дикая Лобелия
-Wilted Ginseng@Дикий Женьшень
-Wilted Vervain@Дикая Вербена
-Lobelia@Лобелия
-Vervain@Вербена
-Ginseng@Женьшень
-Potion of Light@Зелье Света
-Dead Plant@Мертвый Куст
+§rWilted Lobelia@§fДикая Лобелия
+§rWilted Ginseng@§fДикий Женьшень
+§rWilted Vervain@§fДикая Вербена
+§rLobelia@§fЛобелия
+§rVervain@§fВербена
+§rGinseng@§fЖеньшень
+§rPotion of Light@§fЗелье Света
+§rDead Plant@§fМертвый Куст
 Map Fragment 3@Фрагмент Карты 3
 Map Fragment 2@Фрагмент Карты 2
 Wealth or Knowledge@Богатство или Знания
@@ -2192,7 +2191,8 @@ Skyhigh Pie@Заоблачный Пирог
 §fRoyal Bug Blood@§fКровь Королевских Жуков
 §fFactory Helmet@§fФабричный Шлем
 §fCreeper Powder@§fПорошок Крипера
-Warm Blood@Теплая Кровь
+§rWarm Blood@§fТеплая Кровь
+§rMemento of the Lost@§fПамять о Погибших
 Umbral Essence@Мрачная Эссенция
 Monster Hide@Шкура Монстра
 §dTroms Kid BadgeÀ@§dДетский Значок Тромса
@@ -2610,7 +2610,7 @@ Unknown Object@Неизвестный Объект
 Pirate Queen's Jewel@Драгоценность Пиратской Королевы
 §bSoul Point@§bОчко Душ
 Coral Topaz@Коралловый Топаз
-Coral of Nelfors@Коралл Нельфора
+§rCoral of Nelfors@§fКоралл Нельфора
 Glowing Pearl@Светящийся Жемчуг
 Large Glowing Pearl@Большой Светящийся Жемчуг
 Coral Amethyst@Коралловый Аметист
