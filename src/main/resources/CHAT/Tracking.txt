@@ -150,6 +150,7 @@
 §7Talk to Ibele@§7Поговори с Ибель 
 §7Find and enter the Secret Cow Hideout@§7Найди и войди в секретное коровье убежище 
 §7Find the one who's in charge of the hideout@§7Найди того, кто главный в убежище 
+§7Head into Drale's milking machine@§7Иди к машине для дойки Дрэйла
 §7Wait to be milked@§7Подожди пока тебя подоят 
 §7Talk to Drale@§7Поговори с Дрэйл 
 §7Give [1 Drale's Permission] to Cow Guard@§7Отдай [1 Разрешение Дрэйла] Корова Стражу 
@@ -158,6 +159,7 @@
 §7Find and enter the cave at [503,51,-10031]@§7Найди и войди в пещеру на [503,51,-10031]
 §7Find a way to blow up the boulder and head through the passage behind it@§7Найди способ взорвать камень и пройти в проход позади него 
 §7Head through the tunnel@§7Пройди через тоннель
+§7Walk through the portal@§7Пройди через портал 
 §7Explore Veekhat's underground laboratory@§7Исследуй подземную лабораторию Викхата
 §7Defeat Veekhat the Minotaur and open Veekhat's Cabinet with [1 Veekhat's Cabinet Key]@§7Победи Викхата и открой его кабинет с помощью [1 Ключа от Кабинета Викхата]
 §7Return to Ranol and tell him about the wizard's death@§7Вернись к Ранолу и расскажи ему о смерти ученого
@@ -206,6 +208,7 @@
 §7Locate the 3 mechs by following the trails of tools, return to Phinas with evidence that you destroyed the mechs.@§7Найди трех роботов, следуя дорожке из инструментов, и вернись к Финасу с доказательствами того, что ты уничтожил роботов. 
 §7Find out where to go by looking at the pieces of junk.@§7Пойми, куда нужно идти, рассмотрев останки роботов 
 §7Search Nettik's lighthouse.@§7Обыщи маяк Неттик 
+§7Find the fourth mech.@§7Найди четвертого робота.
 §7Report back to Phinas after destroying the mech@§7Поговори с Финасом после уничтожения роботов 
 =======
 §7Find out what's happening at the theatre at [1024,17,-5143]@§7Узнай, что происходит в театре на [1024,17,-5143]
@@ -292,6 +295,7 @@
 §7Enter the representative's office@§7Войди в офис представителей 
 §7Defeat the representative and bring back the stolen scroll to Gawrick@§7Победи представителя и верни украденный свиток Гаврику
 =======
+§7Speak to Relend at [1304,35,-4043]@§7Поговори с Релендом на [1304,35,-4043]
 §7Defeat Captain Goldenclaw and give the map to Relend@§7Победи Капитана Goldenclaw и отдай карту Реленду
 §7Speak to Captain Relend aboard the Little Wing@§7Поговори с капитаном Релендом на борту Little Wing
 §7Bring a [Wooden Board], a [Center Piece], and a [String] to the Crafting Table@§7Принеси [Деревянную Доску], [Центральную Часть], и [Нитку] к верстаку
@@ -300,6 +304,7 @@
 §7Speak to Relend on the beach@§7Поговори с Релендом на пляже
 §7Bring [10 Raw Mutton], [5 Edible Mushrooms], [1 Coconut], and [7 Berries] to the Cooking Pot@§7Принеси [10 Сырых Лопаток], [5 Съедобных Грибов], [1 Кокос], и [7 Ягод] к горшку для готовки 
 §7Report back to Relend@§7Сообщи обо всем Реленду
+§7Take a look at the boulder at the center of the island@§7Осмотри камень в центре острова
 §7Bring [5 Gritty Sand], [3 Saw Dust], and [1 Black Powder] to the Crafting Table@§7Принеси 5 [Зернистого Песка], 3 [Деревянных Опилки], и 1 [Черный Порох] к верстаку 
 §7Use the explosive on the boulder and enter the cave@§7Используй взрывчатку на камне и войди в пещеру 
 §7Find an exit from the strange place@§7Найди выход из странного места
@@ -777,6 +782,7 @@
 §7Speak to Gana at [444,104,-4805]@§7Поговори с Ганой на [444,104,-4805]
 §7Find Seluc inside the cave at [450,29,-5371]@§7Найди Селука внутри пещеры на [450,29,-5371]
 §7Escort Seluc back to Gana@§7Приведи Селука обратно к Гане 
+§7Speak to Gana and Seluc@§7Поговори с Ганой и Селуком
 ======
 §7Speak to Orikal outside the Angry Village at [318,78,-1097].@§7Поговори с Орикалом снаружи Злой Деревни на [318,78,-1097] 
 §7Examine the nearby corrupted spike to the Northeast at [352,69,-1124].@§7Посети вершину ближайшего шипа на северо-востоке [352,69,-1124] 
@@ -803,6 +809,9 @@
 §7Speak with Maxie.@§7Поговори с Макси.
 §7Stop the mechs from taking over the diner.@§7Останови роботов от уничтожения столовой 
 §7Infiltrate the diner.@§7Проникни в столовую 
+§7Find your way out of the vent.@§7Найди способ выбраться из вентиляции 
+§7Find the exit at [-1882,40,-3146]@§7Найди выход на [-1882,40,-3146]
+§7Tell the delegate what happened.@§7Расскажи делегату что произошло. 
 ======
 §7Enter Maxie's house at [-1571,68,-2876].@§7Войди в дом Макси на [-1571,68,-2876] 
 §7Talk to Maxie on the second floor.@§7Поговори с Макси на втором этаже
@@ -1082,6 +1091,10 @@
 §7Bring [18 Ancient Metal] to the Slaying Post [Combat Lv. 65] at [-708,28,-413]@§7Принеси [18 Ancient Metal] к Доске Заданий [Комбат Ур. 65] на [-708,28,-413]
 §7Bring [18 Ancient Metal] to the Slaying Post [Combat Lv. 65] at [-708,28,-413]@§7Принеси [18 Ancient Metal] к Доске Заданий [Комбат Ур. 65] на [-708,28,-413]
 §7Bring [16 Severed Hearts] to the Slaying Post [Combat Lv. 70] at [762,35,-3890]@§7Принеси [16 Severed Hearts] к Доске Заданий [Комбат Ур. 70] на [762,35,-3890]
+§7Bring [24 Perkish Potatoes] to the Slaying Post [Combat Lv. 90] at [-1721,110,-2255]@§7Принеси [24 Perkish Potatoes] к Доске Заданий [Комбат Ур. 90] на [-1721,110,-2255]
+§7Bring [22 Broken Helmets] to the Slaying Post [Combat Lv. 93] at [1483,23,-5115]@§7Принеси [22 Broken Helmets] к Доске Заданий [Комбат Ур. 93] на [1483,23,-5115]
+§7Bring [15 Demonic Ashes] to the Slaying Post [Combat Lv. 94] at [1389,156,-5476]@§7Принеси [15 Demonic Ashes] к Доске Заданий [Комбат Ур. 94] на [1389,156,-5476]
+§7Bring [22 Sharp Claws] to the Slaying Post [Combat Lv. 83] at [549,27,-4996]@§7Принеси [22 Sharp Claws] к Доске Заданий [Комбат Ур. 83] на [549,27,-4996]
 §7Bring §3[16 Willow Wood] §7or §3[16 Willow Paper] §7to the §aGathering Post §2[Woodcutting Lv. 23]@§7Принеси §3[16 Древесины Ивы] §7или §3[16 Ивовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 23]
 §7Bring §3[12 Oak Wood] §7or §3[12 Oak Paper] §7to the §aGathering Post §2[Woodcutting Lv. 8]@§7Принеси §3[12 Древесины Дуба] §7или §3[12 Дубовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 8]
 §7Bring §3[14 Birch Wood] §7or §3[14 Birch Paper] §7to the §aGathering Post §2[Woodcutting Lv. 18]@§7Принеси §3[14 Древесины Березы] §7или §3[14 Березовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 18]
@@ -1115,3 +1128,15 @@
 §7Bring §3[32 Light Wood] §7or §3[32 Light Paper] §7to the §aGathering Post §2[Woodcutting Lv. 71]@§7Принеси §3[32 Древесины Клена] §7или §3[32 Кленовой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 71]
 §7Bring [30 Acacia Wood] or [30 Acacia Paper] to the Gathering Post [Woodcutting Lv. 38] at [1226,116,-1391]@§7Принеси §3[30 Древесины Акации] §7или §3[30 Акациевой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 38]
 §7Bring §3[36 Spruce Wood] §7or §3[36 Spruce Paper] §7to the §aGathering Post §2[Woodcutting Lv. 48]@§7Принеси §3[36 Древесины Ели] §7или §3[36 Еловой Бумаги] §7к §aДоске Заданий §2[Лесорубство Ур. 48]
+§7Bring [12 Copper Ingots] or [12 Copper Gems] to the Gathering Post [Mining Lv. 8] at [-563,68,-1547]@§7Принеси [12 Медных Слитков] §7или [12 Медных Камней] §7к Доске Сбора [Добыча Руды Ур. 8] на [-563,68,-1547]
+§7Bring [12 Wheat String] or [12 Wheat Grains] to the Gathering Post [Farming Lv. 8] at [-781,66,-1742]@§7Принеси [12 Пшеничных Нитей] §7или [12 Пшеничных Зерен] §7к Доске Сбора [Земледелие Ур. 8] на [-781,66,-1742]
+§7Bring [24 Oat String] or [24 Oat Grains] to the Gathering Post [Farming Lv. 28] at [788,71,-1559]@§7Принеси [24 Овсяных Нитей] §7или [24 Овсяных Зерен] §7к Доске Сбора [Земледелие Ур. 28] на [788,71,-1559]
+§7Bring §3[30 Sandstone Ingots] §7or §3[30 Sandstone Gems] §7to the §aGathering Post §2[Mining Lv. 38]@§7Принеси §3[30 Песчаных Слитков] §7или §3[30 Песчаных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 38]
+§7Bring §3[36 Hops String] §7or §3[36 Hops Grains] §7to the §aGathering Post §2[Farming Lv. 48]@§7Принеси §3[36 Хмельных Нитей] §7или §3[36 Хмельных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 48]
+§7Bring §3[36 Iron Ingots] §7or §3[36 Iron Gems] §7to the §aGathering Post §2[Mining Lv. 48]@§7Принеси §3[36 Железных Слитков] §7или §3[36 Железных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 48]
+§7Bring §3[24 Iron Ingots] §7or §3[24 Iron Gems] §7to the §aGathering Post §2[Mining Lv. 43]@§7Принеси §3[24 Железных Слитка] §7или §3[24 Железных Камня] §7к §aДоске Заданий §2[Добыча Руды Ур. 43]
+§7Bring §3[28 Silver Ingots] §7or §3[28 Silver Gems] §7to the §aGathering Post §2[Mining Lv. 53]@§7Принеси §3[28 Серебряных Слитков] §7или §3[28 Серебряных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 53]
+§7Bring §3[42 Silver Ingots] §7or §3[42 Silver Gems] §7to the §aGathering Post §2[Mining Lv. 58]@§7Принеси §3[42 Серебряных Слитка] §7или §3[42 Серебряных Камня] §7к §aДоске Заданий §2[Добыча Руды Ур. 58]
+§7Bring §3[28 Rye String] §7or §3[28 Rye Grains] §7to the §aGathering Post §2[Farming Lv. 53]@§7Принеси §3[28 Ржаных Нитей] §7или §3[28 Ржаных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 53]
+§7Bring §3[42 Rye String] §7or §3[42 Rye Grains] §7to the §aGathering Post §2[Farming Lv. 58]@§7Принеси §3[42 Ржаных Нити] §7или §3[42 Ржаного Зерна] §7к §aДоске Сбора §2[Земледелие Ур. 58]
+§7Bring §3[36 Cobalt Ingots] §7or §3[36 Cobalt Gems] §7to the §aGathering Post §2[Mining Lv. 63]@§7Принеси §3[36 Кобальтовых Слитков] §7или §3[36 Кобальтовых Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 63]
