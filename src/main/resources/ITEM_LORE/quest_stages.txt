@@ -1658,6 +1658,8 @@ QUESTS/Point_of_No_Return
 §7Leave happier Lutho. @§7Покинь счастливый Луто.
 §7Explore this happier version of @§7Исследуй эту счастливую версию 
 §7Lutho. @§7Луто.
+§7who sent you on this @§7который отправил тебя на это 
+§7journey. @§7приключение
 
 QUESTS/Poisoning_the_Pest  
 §7Talk to Farmer Cevalus at @§7Поговори с Фермером Цевалусом на 
@@ -2770,8 +2772,6 @@ QUESTS/Zhight_Island_(Quest)
 §7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
 §7Continue through the hideout! @§7Продвигайся через укрытие!
 §7Make your way through the @§7Пройди по пути через 
-§7who sent you on this @§7кто отправил тебя на это 
-§7journey. @§7приключение
 
 #############################MINI QUESTS#########################################
 §7Bring [5 Forest Webs] to @§7Принеси [5 Forest Webs] к 
