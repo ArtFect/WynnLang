@@ -1187,6 +1187,13 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4This hole is dangerous, better not walk near it.@§4Эта дыра опасна, лучше не подходить к ней близко.
 §4A foul stench is coming from the §4slums...it§4 makes your head swim. No sense heading in.@§4Отвратительное зловоние идет из трущоб...от этого у тебя кружится голова. Нет смысла идти туда.
 §4The trolls have barricaded the door...@§4Тролли забаррикадировали дверь...
+§4Jumping headlong into this cave seems like a very bad idea.@§4Прыгать сломя голову в эту пещеру кажется очень плохой идеей.
+§7Without a clue of what happened you shouldn't just leave!@§7Не имея ни малейшего понятия о том, что произошло, ты не должен уходить!
+§a>Teleporter online. Beginning activation proccess...@§a>Телепортер онлайн. Начало процесса активации...
+§a>Capsule successfully sealed. Activating teleporter...@§a>Капсула успешно запечатана. Телепортер активируется...
+§7§kThis §kshall §kgive §kyou §kguidance: §khttps://i.imgur.com/uptFLIb.png@§7§kЭто §kдолжно §kдать §kтебе §kинструкции: §khttps://i.imgur.com/uptFLIb.png
+§9§kThe madman's favorite food lies in a place of changing perspective.@§9§kЛюбимая еда безумца лежит в месте, меняющем перспективу.
+§7You should get the body part before leaving...@§7Ты должен взять часть тела перед уходом...
 
 ################################QUEST NAMES####################################
 §e                          §e§lArachnids' Ascent@ 
@@ -1388,3 +1395,12 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §a                               §a§lGather Carp@ 
 §a                           §a§lGather Sandstone@ 
 §a                             §a§lGather Icefish@ 
+§a                          §a§lGather Sandstone II@ 
+§a                             §a§lGather Hops II@ 
+§a                              §a§lGather Iron II@ 
+§a                               §a§lGather Iron@ 
+§a                              §a§lGather Silver@ 
+§a                            §a§lGather Silver II@ 
+§a                               §a§lGather Rye@ 
+§a                              §a§lGather Rye II@ 
+§a                             §a§lGather Cobalt II@ 
