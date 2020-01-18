@@ -12,8 +12,18 @@
 §7Join Elphaba on a mission in Detlas at [419, 67, -1533].@§7Присоединись к Эльфабе на миссию в Детласе [419, 67, -1533]
 §7Meet the other soldiers at [730, 61, -1434].@§7Встреть других солдат на [730, 61, -1434]
 §7Explore the cave at [271, 39, -1225] for the Shard.@§7Исследуй пещеру на [271, 39, -1225] в поисках Осколка
+§7Chase the beast for the Shard.@§7Преследуй зверя с осколком
+§7Explore the Silent Expanse.@§7Исследуй Тихое Пространство
+§7Find Aledar, Lucio and Elphaba in the Fallen City.@§7Найди Аледара, Луцио и Эльфабу в Опустевшем Городе.
+§7Find Aledar and Elphaba in the Fallen City.@§7Найди Аледара и Эльфабу в Опустевшем Городе. 
+§7Find Aledar in the Fallen City.@§7Найди Аледара в Опустевшем Городе.
 =====
 §7Talk to Aledar in Lutho at [977, 75, -732]@§7Поговори с Аледаром в Луто [977, 75, -732]
+§7Continue your journey with Aledar.@§7Продолжи свое путешествие с Аледаром.
+§7Use Void Holes to try and get behind the spike barrier@§7Используй Пустотные Дыры чтобы попасть за шипы
+§7Find a way to help Aledar get to the other side of the spike barrier.@§7Найди способ помочь Аледару попасть на другую сторону барьера из шипов
+=====
+§7Explore the deepest part of the Silent Expanse@§7Исследуй глубинные части Тихого Пространства
 =====
 §7Speak to Elrund outside Aldorei Valley at [-670,97,-4444]@§7Поговори с Элрундом снаружи Долины Алдорей на [-670,97,-4444]
 §7Obtain [Gemstone Dust] from the Wynn province and bring it to Elrund (Requires completion of Lost in the Jungle)@§7Добудь [Пыль драгоценного камня] из провинции Винн и принеси ее Элрунду (Необходимо пройти Lost in the Jungle)
@@ -607,6 +617,7 @@
 §7Look for clues on how to escape@§7Поищи подсказки о том, как сбежать
 §7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 0/7@§7Очисти тела на лодке. В то же время ищи подсказки о том, как сбежать. -Тел очищено: 0/7
 §7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 5/7@§7Очисти тела на лодке. В то же время ищи подсказки о том, как сбежать. -Тел очищено: 5/7
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 6/7@§7Очисти тела на лодке. Поищи подсказки о том как сбежать в это же время. -Тел очищено: 6/7
 §7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 6/7@§7Ты заметил, что пушка может быть использована для побега. Очисти тела и посмотри, что скажет тебе Хонип! -Тел очищено: 6/7
 §7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 1/7@§7Очисти тела на лодке. Поищи подсказки о том как сбежать в это же время. -Тел очищено: 1/7
 §7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 4/7@§7Очисти тела на лодке. Поищи подсказки о том как сбежать в это же время. -Тел очищено: 4/7
@@ -661,6 +672,10 @@
 §7Tell Merloni that you succeeded@§7Сообщи Мерлони об успехе 
 =====
 §7Talk to the Lutho Citizen at [1014,77,-675].@§7Поговори с Жителем Луто на [1014,77,-675]
+§4§l...@ 
+§7Explore this happier version of Lutho.@§7Исследуй эту счастливую версию Луто.
+§7Leave happier Lutho.@§7Покинь счастливый Луто.
+§7Talk to the Lutho Citizen who sent you on this journey.@§7Поговори с Жителем Луто который отправил тебя на это приключение
 =====
 §7Talk to Farmer Cevalus at [-749,67,-1664]@§7Поговори с Фермером Цевалусом на [-749,67,-1664]
 §7Grab [1 Crate of Rat Poison] and enter the farm@§7Возьми [1 Контейнер Крысиного Яда] и войди на ферму 
@@ -733,6 +748,11 @@
 §7Break through the laboratory and destroy the giant robot@§7Проникни в лабораторию и уничтожь гигантского робота 
 §7Collect all 4 parts from the robot and show it to Kaosuw to scare him off@§7Собери все четыре части с робота, и покажи их Каосаву чтобы напугать его 
 §7Report back to Nasea about the whole incident@§7Сообщи Насеа об этом инциденте 
+======
+§7Talk to the Skyraider Guard at [1476,84,-4336]@§7Поговори со Скайрайдер Стражем на [1476,84,-4336]
+§7Buy a Female Pirate Wig at Ahmsord then enter the basement in which the trials are being held at [1476,82,-4340]@§7Купи Женский Парик Пирата в Амсорде и затем войди в подвал, в котором проходят испытания [1476,82,-4340]
+§7Approach the stage@§7Подойди к сцене
+§7Break into the mansion@§7Проникни в поместье
 ======
 §7The lieutenant at [-890,60,-1874] needs help.@§7Лейтенанту на [-890,60,-1874] требуется помощь 
 §7Meet up with the lieutenant outside the sewer entrance at [-921,78,-1918]@§7Встреться с лейтенантом возле входа в канализацию на [-921,78,-1918]
@@ -945,6 +965,8 @@
 §7Bring Takan's Badge back to Amerigo at [978,83,-1973]@§7Принеси Значок Таканa к Америго на [978,83,-1973]
 =======
 §7Explore the abandoned drill at [585,89,-457]@§7Исследуй заброшенный бур на [585,89,-457]
+§7Find some sort of fuel in the ruined city@§7Найди какое-то топливо в этом разрушенном городе
+§7Head back to the machine at [585,89,-457]@§7Вернись обратно к машине на [585,89,-457]
 =======
 §7Talk to Seasum on Mage Island at [940,77,-2866]@§7Поговори с Сеасумом на Острове Магов [940,77,-2866]
 §7Return to Seasum with the letter.@§7Вернись к Сеасуму с письмом.
