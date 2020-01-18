@@ -1842,6 +1842,7 @@ QUESTS/Royal_Trials
 §7at Ahmsord then enter the @§7в Амсорде и затем войди в 
 §7basement in which the trials @§7подвал, в котором проходят 
 §7are being held at @§7испытания
+§7Approach the stage @§7Подойди к сцене
 §7Defeat the armory room of @§7Победи в оружейной комнате в 
 §7the combat challenge @§7комбат челлендже
 §7to the next room.@§7в следующую комнату.
@@ -1850,6 +1851,7 @@ QUESTS/Royal_Trials
 §7Listen to the trials overseer's @§7Послушай смотрительницы испытаний 
 §7speech @§7речь 
 §7Defeat the challenge of flight @§7Победи в челлендже полета
+§7Break into the mansion @§7Проникни в поместье
 §7Sneak past the guards @§7Пройди мимо охранников
 §7Steal the treasure @§7Укради сокровище
 §7Get the treasure to the @§7Доставь сокровище до 
@@ -2766,8 +2768,6 @@ QUESTS/Zhight_Island_(Quest)
 §7a way out @§7выход 
 §7clue missing. @§7пропавшие подсказки
 §7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
-§7Approach the stage @§7Подойди к сцене
-§7Break into the mansion @§7Проникни в поместье
 §7Continue through the hideout! @§7Продвигайся через укрытие!
 §7Make your way through the @§7Пройди по пути через 
 §7who sent you on this @§7кто отправил тебя на это 
