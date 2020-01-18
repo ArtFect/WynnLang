@@ -184,7 +184,7 @@
 ======
 §7Talk to Anast in Olux, at [-1834,62,-5557]@§7Поговори с Анастом в Олуксе на [-1834,62,-5557]
 §7Interrogate Doubiss the salesman somewhere in Olux@§7Допроси продавца Дубиса где-то в Олуксе 
-§7Go to the wellspring cave near the Olux Crypts at [-1774,84,-5603]@§7Иди к источнику в пещере рядом с кладбищем Олукса [-1774,84,-5603]
+§7Go to the wellspring cave near the Olux Crypts at [-1774,84,-5603]@§7Иди к источнику в пещере рядом с кладбищем Олукса [-1769,75,-5593]
 §7Search inside the cave to find the problem with the water@§7Обыщи пещеру и найди проблему с водой 
 §7Kill the giant slime and show Anast the slime's remains as proof of Doubiss' innocence@§7Убей гигантского слайма и покажи Анасту его останки, как доказательство невиновности Дубиса 
 ======
@@ -236,6 +236,21 @@
 §7Enter the Royal Palace through the sewer pipe and find the king.@§7Войди в королевский дворец через канализацию и найди короля
 §7Leave the Royal Palace at the end of the palace.@§7Покинь королевский дворец через выход в конце дворца.
 ======
+§7Travel to Maex and meet Korzim at the entrance.@§7Отправься в Маэкс и встреться с Корзимом у входа
+§7Bring back [10 Fire Webs] from [1458,15,-5352] and [3 Magmatic Crystals] from the Maex mines and [1 Crystallized lava] from [1346,5,-5409]@§7Принеси [10 Огненных Паутин] из [1458,15,-5352], [3 Магматических Кристалла] из шахт Маэкса и [1 Кристаллизованную Лаву] из [1346,5,-5409]
+§7Go to the enchanter and enchant the amulet at [1509,45,-5339].@§7Иди к чародею и зачаруй амулет на [1509,45,-5339].
+§7Travel to the frozen heights and find the True Ice at [1590,107,-5445].@§7Иди к замерзшим пещерам и найди Чистый Лед на [1590,107,-5445].
+§7Return to the enchanter with the True Ice.@§7Вернись к чародею с Чистым Льдом
+========
+§7Return to Korzim at [1514, 51, -5342] on the second floor of the enchanter in Maex with the Amulet of Fire and the Staff of Ice.@§7Вернись к Корзиму на [1514, 51, -5342], что на втором этаже дома чародея в Маэксе с Амулетом Защиты от Огня и Предметом Чистого Льда 
+§7Head to Rodoroc and look for Axelus [1117,11,-5190]@§7Иди в Родорок и отыщи Акселусa на [1117,11,-5190]
+§7Free Axelus and escape the city.@§7Спаси Акселусa и сбеги из города
+§7Return back to the Dogun village at [1338,147,-5305].@§7Вернись в деревню Догунов на [1338,147,-5305].
+§7Reach the portal and prevent Garaheth from being summoned@§7Дойди до портала и останови призыв Гарахета
+§7Enter the body of Garaheth@§7Войди в тело Гарахета
+§7Freeze any vital point of Garaheth you can find!@§7Заморозь любые жизненно-важные точки Гарахета, которые сможешь найти!
+§7Get out of Garaheth!@§7Выйди из Гарахета!
+=======
 §7Talk to Leucsaa at [201,38,-2173]@§7Поговори с Леуксаа на [201,38,-2173]
 §7Enter the mansion@§7Войди в поместье
 §7Navigate the mansion to the room holding the journal@§7Найди способ попасть в комнату с журналом в поместье 
@@ -616,6 +631,17 @@
 §7Read the Help Wanted sign in Ahmsord at [1108,107,-4555]@§7Прочитай "Требуется Помощь" доску в Амсорде на [1108,107,-4555]
 §7Talk to The Secretary at [1121,101,-4525]@§7Поговори с Секретарем на [1121,101,-4525]
 §7Talk to the captain outside of the submarine.@§7Поговори с капитаном снаружи субмарины
+§7Enter the conferece room and listen to the scientist.@§7Войди в комнату конференций и послушай ученого
+§7Wait for the submarine to arrive at the void islands.@§7Подожди пока подлодка прибудет на пустотный остров.
+§7Explore the island and look for the crystal.@§7Исследуй остров в поисках кристалла
+§7Return to the submarine and continue your journey.@§7Вернись на подлодку и продолжай путешествие
+§7Meet up with the captain outside the submarine.@§7Встреться с капитаном снаружи подлодки.
+§7Get the ingredients to fix the submarine.@§7Принеси ингредиенты для починки подлодки
+§7Continue your journey.@§7Продолжи свое приключение.
+§7Return to the submarine and continue the journey.@§7Вернись на подлодку и продолжи свое путешествие
+§7Continue your mission and find the the crystal.@§7Продолжи свою миссию и найди кристалл
+§7Talk to Rontaid outside the town at [14113,116,-4199].@§7Поговори с Ронтейдом снаружи города на [14113,116,-4199].
+§7Return to the crash site by following the road.@§7Вернись к месту аварии следуя дороги
 ======
 §7Speak with the Troms children at [-860,93,-961] inside the treehouse@§7Поговори с детьми в Тромсе [-860,93,-961] внутри дома на дереве 
 §7Find the hidden door next to the Undergrowth Ruins outside Troms@§7Найди потайную дверь рядом с Заросшие Руины данжем снаружи Тромса 
@@ -922,6 +948,17 @@
 =======
 §7Talk to Yansur at [372,66,-5501] and begin the Hive Challenge@§7Поговори с Янсуром на [372,66,-5501] и начни Челлендж Улья
 §7Prepare to enter the Thunder division@§7Подготовься к прохождению Дивизии Грома 
+§7Talk to Yansur to receive your prize for overcoming the Thunder Division@§7Поговори с Янсуром и получи свой приз за прохождение Дивизии Грома 
+§7Prepare to enter the Air division@§7Подготовься к прохождению Дивизии Воздуха 
+§7Prepare to enter the Earth division@§7Подготовься к прохождению Дивизии Земли 
+§7Collect 5 Earth Catalyst IX@§7Собери 5 Катализаторов Земли IX
+§7Prepare to enter the Water division@§7Подготовься к прохождению Дивизии Воды
+§7Collect 5 Water Catalyst IV@§7Собери 5 Катализаторов Воды IV 
+§7Defeat the Oceanic Judge and collect 1 Water Catalyst X@§7Победи Oceanic Judge и собери 1 Катализатор Воды X
+§7Talk to Yansur to receive your prize for overcoming the Water Division@§7Поговори с Янсуром и получи свой приз за прохождение Дивизии Воды
+§7Prepare to enter the Fire division@§7Подготовься к прохождению Дивизии Огня 
+§7Prepare to enter the chambers of Mistress Qira@§7Подготовься к вхождению в камеру Госпожи Киры
+§7Talk to Yansur and truly complete the Hive Challenge@§7Поговори с Янсуром и полностью заверши Челлендж Улья
 =======
 §7Speak to Aluxander in the Realm of Light at [-1164,57,-6759] (Requires completion of Finding the Light)@§7Поговори с Алуксандером в Царстве Света на [-1164,57,-6759] (Необходимо пройти квест Finding of Light) 
 §7Investigate the cave@§7Посети пещеру
@@ -1054,6 +1091,7 @@
 §7Enter The Ancient Dungeon@§7Войди в Древний Данж
 §7Solve The Yellow Puzzle@§7Пройди желтый пазл
 §7Solve The Purple Puzzle@§7Пройди фиолетовый пазл
+§7Escape The Green Room@§7Сбеги из зеленой комнаты
 §7Teleport to the Ancient City@§7Телепортируйся в Древний Город
 §7Explore The Ancient City@§7Исследуй Древний Город
 §7Speak to Amadels assistant@§7Поговори с Ассистентом Амадела
