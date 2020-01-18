@@ -36,6 +36,7 @@
 §cYou are no longer tracking (.*)@§cТы больше не отслеживаешь (r1)
 §4You need §c(\d+)§4 more levels before you can unlock this page of the bank@§4Тебе нужно еще §c(r1)§4 уровней, прежде чем ты сможешь разблокировать эту страницу банка
 §5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds.@§5Идентификатор Предметов: §dБоюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить §6(r1) эмеральдов
+§5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds for all (\d+) items.@§5Идентификатор Предметов: §dБоюсь у тебя недостаточно эмеральдов в инвентаре. Это будет стоить (r1) эмеральдов за все (r2) предмета.
 §6([a-zA-Z0-9_]{1,16}) is now combat level (\d+)@§6(r1) достиг (r2) комбат уровня
 §6([a-zA-Z0-9_]{1,16})§9 has won the duel!@§6(r1)§9 выиграл дуэль!
 §4Did you mean §c(.*)\? §4If not, type \/help to see the commands!@§4Ты имел в виду §c(r1)? §4Если нет, напиши /help, чтобы увидеть список команд!
@@ -270,6 +271,7 @@
 §5Only §d(\d+) more level(|s) §5until you can gather from §dLight@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКлен
 §5Only §d(\d+) more level(|s) §5until you can gather from §dDark@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКаштан
 §5Only §d(\d+) more level(|s) §5until you can gather from §dSilver@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСеребро
+§5Only §d(\d+) more level(|s) §5until you can gather from §dKanderstone@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКандерстоун
 §5Only §d(\d+) more level(|s) §5until you can use the §dⒷ Gathering Pickaxe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒷ Сборную Кирку У(r3)
 §5Only §d(\d+) more level(|s) §5until you can use the §dⒸ Gathering Axe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒸ Сборный Топор У(r3)
 §5Only §d(\d+) more level(|s) §5until you can use the §dⓀ Gathering Rod T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⓀ Сборную Удочку У(r3)
