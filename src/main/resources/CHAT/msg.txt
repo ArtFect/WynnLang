@@ -758,34 +758,56 @@
 §7+ Higher Refining Success §8[Unprocessed Molten Eel]@§7+ Шанс на успех при переработке §8[Необработанный Угорь]
 §7+ Higher Refining Success §8[Unprocessed Starfish]@§7+ Шанс на успех при переработке §8[Необработанная Морская Звезда]
 §7+ Higher Refining Success §8[Unprocessed Dernic Fish]@§7+ Шанс на успех при переработке §8[Необработанная Дерник Рыба]
-§7+ Faster Gathering §8[Silver]@§7+ Более быстрая добыча §8[Серебро]
-§7+ Faster Gathering §8[Dark]@§7+ Более быстрая добыча §8[Каштан]
-§7+ Faster Gathering §8[Pine]@§7+ Более быстрая добыча §8[Сосна]
-§7+ Faster Gathering §8[Piranha]@§7+ Более быстрая добыча §8[Пиранья]
-§7+ Faster Gathering §8[Wheat]@§7+ Более быстрая добыча §8[Пшеница]
-§7+ Faster Gathering §8[Oak]@§7+ Более быстрая добыча §8[Дуб]
 §7+ Faster Gathering §8[Copper]@§7+ Более быстрая добыча §8[Медь]
 §7+ Faster Gathering §8[Granite]@§7+ Более быстрая добыча §8[Гранит]
-§7+ Faster Gathering §8[Birch]@§7+ Более быстрая добыча §8[Береза]
-§7+ Faster Gathering §8[Gudgeon]@§7+ Более быстрая добыча §8[Пескарь]
 §7+ Faster Gathering §8[Gold]@§7+ Более быстрая добыча §8[Золото]
+§7+ Faster Gathering §8[Sandstone]@§7+ Более быстрая добыча §8[Песчаник]
+§7+ Faster Gathering §8[Iron]@§7+ Более быстрая добыча §8[Железо]
+§7+ Faster Gathering §8[Silver]@§7+ Более быстрая добыча §8[Серебро]
+§7+ Faster Gathering §8[Cobalt]@§7+ Более быстрая добыча §8[Кобальт]
+§7+ Faster Gathering §8[Kanderstone]@§7+ Более быстрая добыча §8[Кандерстоун]
+§7+ Faster Gathering §8[Diamond]@§7+ Более быстрая добыча §8[Алмаз]
+§7+ Faster Gathering §8[Molten]@§7+ Более быстрая добыча §8[Молтен]
+§7+ Faster Gathering §8[Voidstone]@§7+ Более быстрая добыча §8[Войдстоун]
+§7+ Faster Gathering §8[Dernic]@§7+ Более быстрая добыча §8[Дерник]
+§7+ Faster Gathering §8[Oak]@§7+ Более быстрая добыча §8[Дуб]
+§7+ Faster Gathering §8[Birch]@§7+ Более быстрая добыча §8[Береза]
+§7+ Faster Gathering §8[Willow]@§7+ Более быстрая добыча §8[Ива]
+§7+ Faster Gathering §8[Acacia]@§7+ Более быстрая добыча §8[Акация]
+§7+ Faster Gathering §8[Spruce]@§7+ Более быстрая добыча §8[Ель]
+§7+ Faster Gathering §8[Jungle]@§7+ Более быстрая добыча §8[Амарант]
+§7+ Faster Gathering §8[Dark]@§7+ Более быстрая добыча §8[Каштан]
+§7+ Faster Gathering §8[Light]@§7+ Более быстрая добыча §8[Клен]
+§7+ Faster Gathering §8[Pine]@§7+ Более быстрая добыча §8[Сосна]
+§7+ Faster Gathering §8[Bamboo]@§7+ Более быстрая добыча §8[Бамбук]
+§7+ Faster Gathering §8[Avo]@§7+ Более быстрая добыча §8[Авокадо]
+§7+ Faster Gathering §8[Sky]@§7+ Более быстрая добыча §8[Лиственница]
+
+
+§7+ Faster Gathering §8[Piranha]@§7+ Более быстрая добыча §8[Пиранья]
+§7+ Faster Gathering §8[Wheat]@§7+ Более быстрая добыча §8[Пшеница]
+
+
+
+§7+ Faster Gathering §8[Gudgeon]@§7+ Более быстрая добыча §8[Пескарь]
+
 §7+ Faster Gathering §8[Rye]@§7+ Более быстрая добыча §8[Рожь]
 §7+ Faster Gathering §8[Barley]@§7+ Более быстрая добыча §8[Ячмень]
 §7+ Faster Gathering §8[Oat]@§7+ Более быстрая добыча §8[Овес]
 §7+ Faster Gathering §8[Trout]@§7+ Более быстрая добыча §8[Форель]
 §7+ Faster Gathering §8[Salmon]@§7+ Более быстрая добыча §8[Лосось]
-§7+ Faster Gathering §8[Acacia]@§7+ Более быстрая добыча §8[Акация]
-§7+ Faster Gathering §8[Iron]@§7+ Более быстрая добыча §8[Железо]
+
+
 §7+ Faster Gathering §8[Icefish]@§7+ Более быстрая добыча §8[Щука]
-§7+ Faster Gathering §8[Willow]@§7+ Более быстрая добыча §8[Ива]
-§7+ Faster Gathering §8[Sandstone]@§7+ Более быстрая добыча §8[Песчаник]
+
+
 §7+ Faster Gathering §8[Carp]@§7+ Более быстрая добыча §8[Карп]
-§7+ Faster Gathering §8[Spruce]@§7+ Более быстрая добыча §8[Ель]
+
 §7+ Faster Gathering §8[Malt]@§7+ Более быстрая добыча §8[Солод]
 §7+ Faster Gathering §8[Hops]@§7+ Более быстрая добыча §8[Хмель]
-§7+ Faster Gathering §8[Jungle]@§7+ Более быстрая добыча §8[Амарант]
+
 §7+ Faster Gathering §8[Rice]@§7+ Более быстрая добыча §8[Рис]
-§7+ Faster Gathering §8[Cobalt]@§7+ Более быстрая добыча §8[Кобальт]
+
 §4Try adding some more §cCommon§4 items.@§4Попробуй добавить больше §cОбычных§4 предметов.
 §4Try adding some more §cEpic§4 items.@§4Попробуй добавить больше §cЭпических§4 предметов.
 §4Try adding some more §cRare§4 items.@§4Попробуй добавить больше §cРедких§4 предметов.
