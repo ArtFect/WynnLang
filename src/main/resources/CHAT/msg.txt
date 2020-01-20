@@ -734,31 +734,30 @@
 §7+ Higher Refining Success §8[Unprocessed Bamboo Log]@§7+ Шанс на успех при переработке §8[Необработанная Древесина Бамбука]
 §7+ Higher Refining Success §8[Unprocessed Avo Log]@§7+ Шанс на успех при переработке §8[Необработанная Древесина Авокадо]
 §7+ Higher Refining Success §8[Unprocessed Sky Log]@§7+ Шанс на успех при переработке §8[Необработанная Древесина Лиственницы]
-
 §7+ Higher Refining Success §8[Unprocessed Wheat]@§7+ Шанс на успех при переработке §8[Необработанная Пшеница]
-
-§7+ Higher Refining Success §8[Unprocessed Gudgeon]@§7+ Шанс на успех при переработке §8[Необработанный Пескарь]
-
-§7+ Higher Refining Success §8[Unprocessed Rye]@§7+ Шанс на успех при переработке §8[Необработанная Рожь]
 §7+ Higher Refining Success §8[Unprocessed Barley]@§7+ Шанс на успех при переработке §8[Необработанный Ячмень]
 §7+ Higher Refining Success §8[Unprocessed Oat]@§7+ Шанс на успех при переработке §8[Необработанный Овес]
-§7+ Higher Refining Success §8[Unprocessed Trout]@§7+ Шанс на успех при переработке §8[Необработанная Форель]
-§7+ Higher Refining Success §8[Unprocessed Salmon]@§7+ Шанс на успех при переработке §8[Необработанный Лосось]
-
-
-§7+ Higher Refining Success §8[Unprocessed Icefish]@§7+ Шанс на успех при переработке §8[Необработанная Щука]
-
-
-§7+ Higher Refining Success §8[Unprocessed Carp]@§7+ Шанс на успех при переработке §8[Необработанный Карп]
-
 §7+ Higher Refining Success §8[Unprocessed Malt]@§7+ Шанс на успех при переработке §8[Необработанный Солод]
 §7+ Higher Refining Success §8[Unprocessed Hops]@§7+ Шанс на успех при переработке §8[Необработанный Хмель]
-
+§7+ Higher Refining Success §8[Unprocessed Rye]@§7+ Шанс на успех при переработке §8[Необработанная Рожь]
+§7+ Higher Refining Success §8[Unprocessed Millet]@§7+ Шанс на успех при переработке §8[Необработанное Просо]
+§7+ Higher Refining Success §8[Unprocessed Decay Root]@§7+ Шанс на успех при переработке §8[Необработанный Зараженный Корень]
 §7+ Higher Refining Success §8[Unprocessed Rice]@§7+ Шанс на успех при переработке §8[Необработанный Рис]
-
-
+§7+ Higher Refining Success §8[Unprocessed Sorghum]@§7+ Шанс на успех при переработке §8[Необработанное Сорго]
+§7+ Higher Refining Success §8[Unprocessed Hemp]@§7+ Шанс на успех при переработке §8[Необработанная Конопля]
+§7+ Higher Refining Success §8[Unprocessed Dernic Seed]@§7+ Шанс на успех при переработке §8[Необработанное Дерник Семя]
+§7+ Higher Refining Success §8[Unprocessed Gudgeon]@§7+ Шанс на успех при переработке §8[Необработанный Пескарь]
+§7+ Higher Refining Success §8[Unprocessed Trout]@§7+ Шанс на успех при переработке §8[Необработанная Форель]
+§7+ Higher Refining Success §8[Unprocessed Salmon]@§7+ Шанс на успех при переработке §8[Необработанный Лосось]
+§7+ Higher Refining Success §8[Unprocessed Carp]@§7+ Шанс на успех при переработке §8[Необработанный Карп]
+§7+ Higher Refining Success §8[Unprocessed Icefish]@§7+ Шанс на успех при переработке §8[Необработанная Щука]
 §7+ Higher Refining Success §8[Unprocessed Piranha]@§7+ Шанс на успех при переработке §8[Необработанная Пиранья]
-
+§7+ Higher Refining Success §8[Unprocessed Koi]@§7+ Шанс на успех при переработке §8[Необработанный Сазан]
+§7+ Higher Refining Success §8[Unprocessed Gylia Fish]@§7+ Шанс на успех при переработке §8[Необработанная Гилия]
+§7+ Higher Refining Success §8[Unprocessed Bass]@§7+ Шанс на успех при переработке §8[Необработанный Окунь]
+§7+ Higher Refining Success §8[Unprocessed Molten Eel]@§7+ Шанс на успех при переработке §8[Необработанный Угорь]
+§7+ Higher Refining Success §8[Unprocessed Starfish]@§7+ Шанс на успех при переработке §8[Необработанная Морская Звезда]
+§7+ Higher Refining Success §8[Unprocessed Dernic Fish]@§7+ Шанс на успех при переработке §8[Необработанная Дерник Рыба]
 §7+ Faster Gathering §8[Silver]@§7+ Более быстрая добыча §8[Серебро]
 §7+ Faster Gathering §8[Dark]@§7+ Более быстрая добыча §8[Каштан]
 §7+ Faster Gathering §8[Pine]@§7+ Более быстрая добыча §8[Сосна]
