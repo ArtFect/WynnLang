@@ -1518,6 +1518,10 @@
 §a+ Spell Upgrade §2[Remedy II -> III]@§a+ Апгрейд заклинания §2[Лечение II -> III]
 §a+ Spell Upgrade §2[Whirlwind I -> II]@§a+ Апгрейд заклинания §2[Вихрь I -> II]
 §a+ Spell Upgrade §2[Whirlwind II -> III]@§a+ Апгрейд заклинания §2[Вихрь II -> III]
+§a+ Spell Upgrade §2[Totem I -> II]@§a+ Апгрейд Заклинания §2[Тотем I -> II]
+§a+ Spell Upgrade §2[Totem II -> III]@§a+ Апгрейд Заклинания §2[Тотем II -> III]
+§a+ Spell Upgrade §2[Sky Emblem I -> II]@§a+ Апгрейд Заклинания §2[Небесная Эмблема I -> II]
+§a+ Spell Upgrade §2[Sky Emblem II -> III]@§a+ Апгрейд Заклинания §2[Небесная Эмблема II -> III]
 §a+ New Spell §2[Charge]@§a+ Новое заклинание §2[Рывок]
 §a+ Spell Upgrade §2[Charge I -> II]@§a+ Апгрейд заклинания §2[Рывок I -> II]
 §a+ Spell Upgrade §2[Charge II -> III]@§a+ Апгрейд заклинания §2[Рывок II -> III]
@@ -1587,8 +1591,9 @@
 §a+ New Spell §2[Uproot]@§a+ Новое Заклинание §2[Изгнание]
 §a+ Spell Upgrade §2[Uproot I -> II]@§a+ Апгрейд Заклинания §2[Изгнание I -> II]
 §a+ Spell Upgrade §2[Uproot II -> III]@§a+ Апгрейд Заклинания §2[Изгнание II -> III
-§a+ Spell Upgrade §2[Totem I -> II]@§a+ Апгрейд Заклинания §2[Тотем I -> II]
-§a+ Spell Upgrade §2[Totem II -> III]@§a+ Апгрейд Заклинания §2[Тотем II -> III]
+§a+ New Spell §2[Gale Funnel]@§a+ Новое Заклинание §2[Воронка Бури]
+§a+ Spell Upgrade §2[Gale Funnel I -> II]@§a+ Апгрейд Заклинания §2[Воронка Бури I -> II]
+§a+ Spell Upgrade §2[Gale Funnel II -> III]@§a+ Апгрейд Заклинания §2[Воронка Бури II -> III
 
 #################################################SYSTEM################################################
 §cThe server is restarting@§cСервер перезагружается
