@@ -100,7 +100,7 @@
 §7Entry 3: All animal DNA failed to mutate. Turned into a slimy mass upon completion of mutation process. Will continue testing to get better results.@§7Запись 3: Все ДНК животных провалили мутацию. Все они превратились в массу из слаймов по завершению процесса мутации. Буду продолжать тестирование до получения результата.
 §7Entry 4: Still not getting substantial results. I have found however that the undead produce slime masses closer to a successful mutation.@§7Запись 4: Все еще не добился существенных результатов. Однако, я нашел то, что мертвые массы из слаймов ближе всего к успешной мутации.
 §7Entry 5: Had the first successful mutation today. Achieved by combining two undead animals together. Very powerful; could be a good candidate for a soldier.@§7Запись 5: Сегодня произошла первая успешная мутация. Удалось соединить двух мертвых животных вместе. Очень мощное; будет отличным кандидатом для солдата.
-§7Entry 6: I have discovered something darker. Stronger. If I can harness this power, I can be§7§kcome the GOD of this world.@§7Запись 6: Я открыл нечто темное. Сильное. Если мне удастся впитать эту силу, то я смогу стать §7§kБОГОМ этого мира.
+§7Entry 6: I have discovered something darker. Stronger. If I can harness this power, I can be§7§kcome the GOD of this world.@§7Запись 6: Я открыл нечто темное. Сильное. Если мне удастся впитать эту силу, то я смогу стать §7§kBOGOM etogo mira.
 §7A strong spiritual force pulls you towards the graveyard, making it impossible to leave the area any other way than walking.@§7Сильная духовная сила тянет тебя в направлении кладбища, делая твой уход с этой территории невозможным. Тебе придется пройтись по кладбищу.
 §2Once, there was a man,@§2Когда-то был человек
 §2who helped the spirits pass on,@§2Кто помогал духам переходить из их мира в наш
@@ -356,7 +356,7 @@ To repair the mechanical core, select a color and connect the clay with the same
 §7It seems like all crates are balanced now.@§7Похоже, что все ящики теперь сбалансированы.
 §7You manage to reach the chest safely, getting ready to jump through a hole the fire burned.@§7Ты благополучно добрался до сундука, приготовься прыгать через дыру, которую прожег огонь.
 §cYou manage to rescue yourself, but it seems like you were too slow this time.@§cТебе удается спасти себя, но кажется, что на этот раз ты был слишком медленным.
-§2> §aThank you for ch§c§koosing§asing CorkTech! Your company for a safe and trustworthy service.@§2>§aСпасибо, что вы§c§kрали§aбрали CorkTech! Наша компания за безопасное и благонадежное обслуживание.
+§2> §aThank you for ch§c§koosing§asing CorkTech! Your company for a safe and trustworthy service.@§2>§aСпасибо, что вы§c§krali§aбли CorkTech! Наша компания за безопасное и благонадежное обслуживание.
 §7Powering up elevator...@§7Включение лифта...
 §7It seems like the only way to get to the cliff on the other side is this airship, and the fire probably rendered it unusable... or did it?@§7Похоже, единственный способ забраться на скалу это этот шар, и вероятно огонь сделал его непригодным для использования... или нет?
 §7Shortly after your victory security forces found the hideout and arrested the remaining separatists.@§7Сразу же после твоей победы стражи порядка нашли, где укрывались оставшиеся 'патриоты' и арестовали их.
@@ -481,7 +481,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7A warming comfort suddenly washes over your body. The despair filling the air before seems distant now.@§7Комфортная теплота внезапно пробежала по твоему телу. Отчаяние, витавшее в воздухе, кажется теперь далеко.
 §7You may now exit.@§7Теперь ты можешь уйти.
 §4It would take a powerful light to dispel the darkness surrounding this area.@§4Нужен мощный свет, чтобы рассеять тьму, окружающую это место.
-§8§kYou pass through the memory.@§8§kТы прошел через память.
+§8§kYou pass through the memory.@§8§kTi proshel cherez pamyat.
 §4You make your way out of the cave...@§4Ты вышел из пещеры...
 §4A bunch of slimes line the floor of the cave. It's probably best not to get stuck in there...@§4Множество слизней устилают пол пещеры. Наверное, лучше там не застревать...
 §4This shrine seems like sacred ground, you should probably avoid it.@§4Эта святыня кажется священной землей, тебе вероятно следует избегать ее.
@@ -570,14 +570,14 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §a>Teleporter activating...@§a>Телепортер активируется...
 §a>Warp chamber now ready for use.@Камера телепортации готова к использованию.
 §a>Commencing warp sequence...@§a>Начинаем процесс телепортации...
-§c§kThe forgotten scientist requested a utensil.@§c§kЗабытому ученому необходима посуда.
+§c§kThe forgotten scientist requested a utensil.@§c§kZabitomu uchenomu neobhodima posuda.
 §a>Starting up...@§a>Запуск...
 §a>Permissions update requested. Beginning process...@§a>Запрошено обновление разрешений. Начало процесса...
 §a>Processes complete. Permissions successfully updated.@§a>Процессы завершены. Разрешения успешно обновлены.
 §a>WARNING: Systems overloading!@§a>ПРЕДУПРЕЖДЕНИЕ: перегрузка систем!
 §a>ERROR.@§a>ОШИБКА.
-§a>§a§kBring §a§kthe §a§kkeys §a§kto §a§kwhere §a§kmadman §a§kdwells.@§a>§a§kПринеси §a§kключи §a§kтуда §a§kгде §a§kбезумец §a§kживет.
-§7[§7§kNew §7§kQuest §7§kStarted§7: §7§k???§7]@§7[§7§kНовый §7§kКвест §7§kНачат§7: §7§k???§7]
+§a>§a§kBring §a§kthe §a§kkeys §a§kto §a§kwhere §a§kmadman §a§kdwells.@§a>§a§kPrinesi §a§kkluchi §a§ktuda §a§kgde §a§kbezumec §a§kzhivet.
+§7[§7§kNew §7§kQuest §7§kStarted§7: §7§k???§7]@§7[§7§kNovie §7§kKvest §7§kNachat§7: §7§k???§7]
 §a>Commencing warp to Lab N...@§a>Открытие телепорта в Lab N...
 §a>Warping...@§a>Телепортация...
 §a>Permissions updated.@§a>Разрешения обновлены.
@@ -589,11 +589,11 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §a>Access granted.@§a>Доступ разрешен.
 §a>Systems starting up...@§a>Запуск систем...
 §a>Calculating destination...@§a>Расчет пункта назначения...
-§6                            [§6§kQuest Completed§6]@§6                            [§6§kКвест Пройден§6]
+§6                            [§6§kQuest Completed§6]@§6                            [§6§kKvest Proiden§6]
 §e                                       §e§l§k???@ 
-§d            §d§kRewards:@§d            §d§kНаграда:
-§d            §d§k- §7§k+1400000 Experience Points@§d            §d§k- §7§k+1400000 Очков Опыта
-§d            §d§k- §7§k+6144 Emeralds@§d            §d§k- §7§k+6144 Эмеральда
+§d            §d§kRewards:@§d            §d§kNagrada:
+§d            §d§k- §7§k+1400000 Experience Points@§d            §d§k- §7§k+1400000 Ochkov Opita
+§d            §d§k- §7§k+6144 Emeralds@§d            §d§k- §7§k+6144 Emeralda
 §4GEEETT OUTT! ORC NO LIKE HUMAN!@§4ИДИИИ ПРООЧЬ!ОРКИ НЕ ЛЮБЯТ ЛЮДЕЙ!
 §4On second thought, maybe exploring a skull-shaped cave for no reason is a bad idea...@§4С другой стороны, быть может исследовать пещеру в форме черепа без причины - плохая идея...
 §7An explosion can be heard from inside the tree!@§7Взрыв можно услышать изнутри дерева!
@@ -696,7 +696,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4Magical powers assemble as you try and enter, making you unable to approach the cave.@§4Магические силы соединяются, когда ты пытаешься войти, что делает тебя неспособным приблизиться к пещере.
 §4Fierce growls echo within the cave. It doesn't feel safe to enter yet.@§4Яростное рычание эхом отдается в пещере. Похоже это не безопасно входить туда.
 §cNo moves left to undo.@§cНикаких движений не осталось для отмены.
-§e§kOn the island of insanity lies the jewel of the eye.@§e§kНа острове безумия лежит жемчужина глаз.
+§e§kOn the island of insanity lies the jewel of the eye.@§e§kNa ostrove bezumiya lezhit zhemchuzhina glaz.
 §7This nonsense is all that appears on the screen. The machine must be broken, there's nothing else you can do with it now.@§7Эта ерунда - все, что появлялось на экране. Машина, должно быть, сломалась, больше с ней ничего не поделаешь.
 §4You feel a dark force push you back away from the house. Something doesn't want you in there, yet...@§4Ты чувствуешь, как темная сила отталкивает тебя от дома. Что-то пока не хочет, чтобы ты был там...
 §4This tunnel seems to be under construction at the moment.@§4Этот туннель, кажется, в настоящее время ремонтируется.
@@ -709,7 +709,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7You do not know how to boil tea just yet..@§7Ты еще пока что не знаешь, как сварить чай..
 §4There's some chaotic force emanating from the basement. It would probably be best to stay away.@§4Есть какая-то хаотическая сила, исходящая из подвала. Наверное, будет лучше держаться подальше.
 §4Some kind of powerful dark force is preventing you from progressing.@§4Какая-то мощная темная сила мешает тебе продвинуться дальше.
-§7§kUse §kthis §kto §kgain §kanswers: §khttp://jumla.in/Km@§7§kИспользуй §kэто §kчтобы §kполучить §kответы: §khttp://jumla.in/Km
+§7§kUse §kthis §kto §kgain §kanswers: §khttp://jumla.in/Km@§7§kIspolzuy §keto §kchtoby §kpoluchit §kotvety: §khttp://jumla.in/Km
 §4As you near the edge of the pit, hopelessness begins to overwhelm you. It would be wise to stay back.@§4Когда ты приближаешься к краю ямы, безнадежность начинает переполнять тебя. Было бы разумно остаться в стороне.
 §4You shouldn't leave until you have finished reading the witness report...@§4Ты не должен уходить, пока не закончишь читать отчет свидетеля...
 §4It's probably best not to flee when Aryn is clearly in trouble.@§4Наверное, лучше не убегать, когда Арин явно в беде.
@@ -839,7 +839,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4You feel you need to complete something first@§4Ты чувствуешь, что тебе нужно сначала что-то завершить
 §4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7\nResetting systems §8<*> §7Loading "§7§oUnbeatable AI§7" preset...@§4[ §c§lВиннтрон §4| §8Версия: §8§n9001.14§4 ] §7\nСброс систем §8<*> §7Загрузка "§7§oНепобедимый ИИ§7" пресета...
 §4[ §c§lWynntron §4| §8Version: §8§n9001.14§4 ] §7\nProcess is over §8<*>§7 "§7§oUnbeatable AI§7" won.@§4[ §c§lВиннтрон §4| §8Версия: §8§n9001.14§4 ] §7\nПроцесс завершен §8<*>§7 "§7§oНепобедимый ИИ§7" выиграл.
-§4[ §c§lWynntron §4| §8Ver§8§ksio§8n: §8§n9ERrOR.4§4 ] §7\nError E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI§7" ER§7§kLOL Lotem@§4[ §c§lВиннтрон §4| §8Вер§8§kси§8я: §8§n0LIIИБI<А.4§4 ] §7\nОшибка О§7§kшиб§7ка 30LIIИ§7§kБКа§8 <*>§7"§7§o§mНе§7§o§kпобе§7§oдимый ИИ§7" 0LII§7§kLOL Lotem
+§4[ §c§lWynntron §4| §8Ver§8§ksio§8n: §8§n9ERrOR.4§4 ] §7\nError E§7§kro§7r 3Rr0§7§kr§8 <*>§7"§7§o§mUn§7§o§kbeat§7§oable AI§7" ER§7§kLOL Lotem@§4[ §c§lВиннтрон §4| §8Вер§8§ksi§8я: §8§n0LIIИБI<А.4§4 ] §7\nОшибка О§7§kshiб§7ка 30LIIИ§7§kBKa§8 <*>§7"§7§o§mНе§7§o§kpobe§7§oдимый ИИ§7" 0LII§7§kLOL Lotem
 §4Entering a dragon's mouth might not be the brightest idea.@§4Заходить в глотку к дракону может быть не самой умной идеей.
 §4A strong gust of wind forces you back@§4Сильный порыв ветра заставляет тебя уйти
 §4You need to use the magical helmet to resist the lake's magic.@§4Тебе нужно использовать волшебный шлем, чтобы противостоять магии озера.
@@ -990,7 +990,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7You picked up a dusty key.@§7Ты подобрал пыльный ключ.
 §7Maybe you can break the ice with something close by...@§7Может быть, ты сможешь чем-то сломать лед, что рядом...
 §7That successfully broke the ice and the water is now running freely.@§7Это успешно сломало лед, и вода теперь течет свободно.
-§7THERE IS NO WAR INSIDE THE FRUMAN WALLS. THERE IS NO WAR INSIDE THE FRUMAN WALLS. THERE §7§kIS §7NO §7§kW§7AR INSIDE THE FRUMAN WALLS. THERE IS NO W§7§kAR I§7NSIDE THE FRUMAN WALLS.@§7НЕТ ВОЙНЫ В СТЕНАХ ФРУМЫ. НЕТ ВОЙНЫ В СТЕНАХ ФРУМЫ. НЕТ §7§kВО§7ЙНЫ В С§7§kТЕ§7НАХ ФРУМЫ. НЕТ В§7§kОЙНЫ§7 В СТЕНАХ ФРУМЫ.
+§7THERE IS NO WAR INSIDE THE FRUMAN WALLS. THERE IS NO WAR INSIDE THE FRUMAN WALLS. THERE §7§kIS §7NO §7§kW§7AR INSIDE THE FRUMAN WALLS. THERE IS NO W§7§kAR I§7NSIDE THE FRUMAN WALLS.@§7НЕТ ВОЙНЫ В СТЕНАХ ФРУМЫ. НЕТ ВОЙНЫ В СТЕНАХ ФРУМЫ. НЕТ §7§kВО§7ЙНЫ В С§7§kTE§7НАХ ФРУМЫ. НЕТ В§7§kOINY§7 В СТЕНАХ ФРУМЫ.
 §7You defeated the rats! You should grab what you find in the hold before leaving.@§7Ты победил крыс! Ты должен захватить то, что найдешь в трюме, прежде чем уйти.
 §7That's just a map of Nemract.@§7Это просто карта Немракта.
 §7You pick up some notes.@§7Ты подобрал какие-то записки.
@@ -1191,7 +1191,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7Without a clue of what happened you shouldn't just leave!@§7Не имея ни малейшего понятия о том, что произошло, ты не должен уходить!
 §a>Teleporter online. Beginning activation proccess...@§a>Телепортер онлайн. Начало процесса активации...
 §a>Capsule successfully sealed. Activating teleporter...@§a>Капсула успешно запечатана. Телепортер активируется...
-§7§kThis §kshall §kgive §kyou §kguidance: §khttps://i.imgur.com/uptFLIb.png@§7§kЭто §kдолжно §kдать §kтебе §kинструкции: §khttps://i.imgur.com/uptFLIb.png
+§7§kThis §kshall §kgive §kyou §kguidance: §khttps://i.imgur.com/uptFLIb.png@§7§kEto §kdolzhno §kdat §ktebe §kinstrukcii: §khttps://i.imgur.com/uptFLIb.png
 §9§kThe madman's favorite food lies in a place of changing perspective.@§9§kЛюбимая еда безумца лежит в месте, меняющем перспективу.
 §7You should get the body part before leaving...@§7Ты должен взять часть тела перед уходом...
 
