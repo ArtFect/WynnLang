@@ -312,16 +312,16 @@
 §7A poisonous tumour developing on the vines of the plant monster.@§7Ядовитая опухоль, развивающаяся на лианах растения монстра.
 §7If used correctly, it could kill off the monster!@§7Используя правильно, это может убить монстра!
 §7Head To Traitor Camp Entrance: -830, 85, -673@§7Отправляйся ко входу в Лагерь Предателей: -830, 85, -673
-§7§kUse§r §kthis§r §kto§r §kgain§r §kanswers:§r @§7§kИспользуй §kэто §kчтобы §kполучить §kответы:
+§7§kUse§r §kthis§r §kto§r §kgain§r §kanswers:§r @§7§kIspolzui §keto §kchtoby §kpoluchit §kotvety:
 §8[Map] §7Bookshelf 1@§8[Карта] §7Книжный шкаф 1
 §9Quest: §6Beyond the Grave@§9Квест: §6Beyond the Grave
-§7§kThis§r §kshall§r §kgive§r §kyou§r §kguidance:§r @§7§kЭто §kдолжно §kдать §kтебе §kответы:
+§7§kThis§r §kshall§r §kgive§r §kyou§r §kguidance:§r @§7§kEto §kdolzhno §kdat §ktebe §kotvety:
 §7The orb is filled with flowi§f§ln§7g@§f§lС§7фера заполнена текучей
 §7water magic. It's ice c§f§lo§7ld to@§7маги§f§lе§7й воды. Она холодная 
 §7the touch. If the o§f§lr§7b was@§7на ощупь. Если сферу использо§f§lв§7ать
 §7used in magic, i§f§lt§7'd need an §laltar.@§7в магии, то §f§lе§7й нужен §lалтарь.
 §7It smells like t§f§lh§e§7e ocean.@§7От нее §f§lр§7азит океаном.
-§7§kThis is a crystal recipe@§7§kЭто рецепт кристалла
+§7§kThis is a crystal recipe@§7§kEto recept kristalla
 §7Its written in some kind of foreign language.@§7Он написан на неком странном языке.
 §7Ingriedients:@§7§7Ингредиенты:
 §7Sunrise Flour: 1103 113 -4434@§7Утренняя Мука: 1103 113 -4434
@@ -359,8 +359,8 @@
 §7The totem contains a lot of magical@§7Тотем содержит много магической
 §7nature energy. If released@§7энергии природы. Если ее выпустить, 
 §7unknown effects may occur.@§7могут возникнуть неизвестные эффекты.
-§7§kBe§r §ksure§r §kto§r §kdrink§r §kyour§r @§7§kУбедись §kчто §kвыпьешь §kdсвой
-§7§kNemract§r §kWhiskey§r @§7§kНемракт §kВиски
+§7§kBe§r §ksure§r §kto§r §kdrink§r §kyour§r @§7§kUbedis §kchto §kvipesh §kdsvoy
+§7§kNemract§r §kWhiskey§r @§7§kNemract §kViski
 §7Exchange this for an@§7Обменяй это на
 §7item at the §fSquid Shop@§7предмет в §fМагазине Кальмара
 §7Trade for prizes at the@§7Обменяй на призы в
@@ -381,8 +381,8 @@
 §7finish the Combat Challenge.@§7завершения Комбат Челленджа.
 §7This key looks like it'd open the door@§7Этот ключ выглядит так, будто может открыть 
 §7in the library...@§7дверь в библиотеке...
-§7§kThis §khint §kwill §ktell §kyou @§7§kЭта §kподсказка §kподскажет §kтебе
-§7§kwhere §kto §kgo §knext: §khttp://jumla.in/Kk @§7§kкуда §kидти §kдальше: §khttp://jumla.in/Kk 
+§7§kThis §khint §kwill §ktell §kyou @§7§kEta §kpodskazka §kpodskazhet §ktebe
+§7§kwhere §kto §kgo §knext: §khttp://jumla.in/Kk @§7§kkuda §kidti §kdalshe: §khttp://jumla.in/Kk 
 §7Welcome to the magical school@§7Добро пожаловать в магическую школу
 §7of Grookwarts. Show this@§7Груквартс. Покажите это
 §7letter to the school boat@§7письмо у школьной лодки
@@ -433,7 +433,7 @@
 §7You might use this later...@§7Тебе может понадобиться это позже...
 §8Allows you to communicate with the Irritacks to find the right path...@§8Позволяет общаться с Irritack'ами, чтобы найти правильный путь...
 §7Can open something@§7Может открывать что-то
-§4§kIs this the end?@§4§kЭто конец?
+§4§kIs this the end?@§4§kEto konec?
 §7A Sharp Blade Used to Extract a Soul@§7Острый клинок, используется для извлечения души
 
 ############################MAJOR ID##################################
@@ -2740,40 +2740,40 @@
 §7A tasty bone taken from a carcass.@§7Вкусная косточка, взятая с туши.
 §7This fresh clay is moulded easily...@§7Эта свежая глина легко формуется...
 §7Dear Nilrem,@§7Дорогой Нилрем,
-§7The letter I enc§klo§7se to you has been@§7Письмо, которое я отпр§7§kав§7ляю тебе
+§7The letter I enc§klo§7se to you has been@§7Письмо, которое я отпр§kav§7ляю тебе
 §7sealed with concealment magicks,@§7запечатано магией сокрытия,
-§7I trust you to know §khow t§7o read it.@§7и я верю, что ты знаешь, §7§kкак е§7го прочесть.
-§7My war against the creature is fut§kile§7.@§7Моя война против этого существа бес§7§kпо§7лезна.
+§7I trust you to know §khow t§7o read it.@§7и я верю, что ты знаешь, §kkak e§7го прочесть.
+§7My war against the creature is fut§kile§7.@§7Моя война против этого существа бес§kpo§7лезна.
 §7Intel has reached me from a trusted source.@§7Информация дошла до меня из надежного источника.
-§7Our w§ko§7rld is...@§7Наш м§7§kи§7р...
+§7Our w§ko§7rld is...@§7Наш м§ki§7р...
 §7...far smaller than we could have imagined,@§7...гораздо меньше, чем мы могли себе представить,
-§7our magick, fe§keble§7 in comparison to@§7наша магия сл§7§kаба§7, по сравнению с тем, 
-§7what I am about to expl§kain§7.@§7что я собираюсь объяс§7§kнить§7.
-§7There are realms bey§kond §7our comprehension,@§7Есть царства за пре§7§kде§7лами нашего понимания,
-§7powers we can not hope to §kdefeat§k, two@§7силы, которые мы можем не надеяться §7§kпо§7бедить, две
-§7immense forces are at §kw§7ar, with our plain of...@§7огромные силы находятся в состоянии §7§kво§7йны, с нашей территорией...
-§7... existence being the battle§kground§7.@§7... как место их бит§7§kв§7ы.
-§7There is a dark creature of the nig§kht§7 in@§7Есть темное существо но§7§kч§7и в 
-§7a land "far" aw§kay§7, it poses a threat to all.@§7"далекой" земл§7§kе§7, оно представляет угрозу для всех.
-§7I §kwrite §7you this letter as a warn§king§7@§7Я пишу §7§kтебе§7 это письмо как предупре§7§kжде§7ние и 
-§7and a farewell, f§kriend§7. I am going to@§7мое прощание, др§7§kу§7г. Я собираюсь бросить 
-§7challenge the beast §kand §7attempt to s§keal@§7вызов зверю §7§kи§7 попытаться запечатать 
+§7our magick, fe§keble§7 in comparison to@§7наша магия сл§kaba§7, по сравнению с тем, 
+§7what I am about to expl§kain§7.@§7что я собираюсь объяс§knit§7.
+§7There are realms bey§kond §7our comprehension,@§7Есть царства за пре§kde§7лами нашего понимания,
+§7powers we can not hope to §kdefeat§k, two@§7силы, которые мы можем не надеяться §kpo§7бедить, две
+§7immense forces are at §kw§7ar, with our plain of...@§7огромные силы находятся в состоянии §kvo§7йны, с нашей территорией...
+§7... existence being the battle§kground§7.@§7... в виде места их бит§kv§7ы.
+§7There is a dark creature of the nig§kht§7 in@§7Есть темное существо но§kch§7и в 
+§7a land "far" aw§kay§7, it poses a threat to all.@§7"далекой" земл§ke§7, оно представляет угрозу для всех.
+§7I §kwrite §7you this letter as a warn§king§7@§7Я пишу §ktebe§7 это письмо как предупре§kzhde§7ние и 
+§7and a farewell, f§kriend§7. I am going to@§7мое прощание, др§ku§7г. Я собираюсь бросить 
+§7challenge the beast §kand §7attempt to s§keal@§7вызов зверю §ki§7 попытаться запечатать 
 §7it away using my...@§7его с помощью моей... 
-§7... own life force, for I know that is §kall §7I can@§7...жизненной силы, ибо я знаю, что это все, что я §7§kмо§7гу 
-§7do, killing it is not an opti§kon§7.@§7сделать, убить его - не вари§7§kан§7т.
-§7You know of the magic I ha§kve §7infused in my@§7Ты знаешь о магии, которую я в§7§kлож§7ил в своих 
-§7animal compani§kons§7, I trust you to hide them@§7спутников-живо§7§kтны§7х, и я верю, что ты спрячешь 
-§7until one worthy is able to wield my §kmig§7ht.@§7их до тех пор, пока один достойный не сможет овладеть м§7§kое§7й силой.
-§7The world can n§ko§7t know of...@§7Мир не должен §7§kзн§7ать о...
-§7for the§km §7to bury...@§7для ни§7§kх§7 я погребен...
-§7... my sacrifice, no one m§kus§7t search for me.@§7... моей жертве, никто не д§kолже§7н искать меня.
-§7You must fake my dea§kth§7, and create a body...@§7Ты должен инсценировать мою сме§kрть§7, и создать тело...
-§7... will have a fighting chan§kce §7for the years@§7...будет ш§7§kанс§7 сражаться на ближайшие
-§7to come. I wish you l§kuck§7, Nilrem, continue to@§7годы. Желаю тебе у§7§kд§7ачи, Нилрем, продолжай 
-§7train the forces of g§kood§7, you are the most@§7тренировать силы д§7§kо§7бра, ты самый искусный 
-§7skilled §kman §7than I have ever known.@§7§7§kчеловек§7, которого я когда-либо знал.
-§7Yours faithf§kully§7, Robert.@§7С уважен§7§kие§7м, Роберт.
-§7P.s. I have enclo§ksed §7the item of...@§7P.s. Я приклад§7§kыва§7ю предмет...
+§7... own life force, for I know that is §kall §7I can@§7...жизненной силы, ибо я знаю, что это все, что я §kmo§7гу 
+§7do, killing it is not an opti§kon§7.@§7сделать, убить его - не вари§kan§7т.
+§7You know of the magic I ha§kve §7infused in my@§7Ты знаешь о магии, которую я в§klozh§7ил в своих 
+§7animal compani§kons§7, I trust you to hide them@§7спутников-живо§ktni§7х, и я верю, что ты спрячешь 
+§7until one worthy is able to wield my §kmig§7ht.@§7их до тех пор, пока один достойный не сможет овладеть м§koe§7й силой.
+§7The world can n§ko§7t know of...@§7Мир не должен §kzn§7ать о...
+§7for the§km §7to bury...@§7для ни§kh§7 я погребен...
+§7... my sacrifice, no one m§kus§7t search for me.@§7... моей жертве, никто не д§kolzhe§7н искать меня.
+§7You must fake my dea§kth§7, and create a body...@§7Ты должен инсценировать мою сме§krto§7, и создать тело...
+§7... will have a fighting chan§kce §7for the years@§7...будет ш§kанс§7 сразиться в ближайшие
+§7to come. I wish you l§kuck§7, Nilrem, continue to@§7годы. Желаю тебе у§kd§7ачи, Нилрем, продолжай 
+§7train the forces of g§kood§7, you are the most@§7тренировать силы д§ko§7бра, ты самый искусный 
+§7skilled §kman §7than I have ever known.@§7чело§kvek§7, которого я когда-либо знал.
+§7Yours faithf§kully§7, Robert.@§7С уважен§kie§7м, Роберт.
+§7P.s. I have enclo§ksed §7the item of...@§7P.s. Я приклад§kiva§7ю предмет...
 §7.. power you were seeking.@§7.. силы, который ты искал.
 §7This creature's heart emits a strange energy. It feels like@§7Сердце этого существа излучает странную энергию. Такое чувство, что
 §7it'll explode at any moment...@§7оно может взорваться в любой момент...
