@@ -1113,6 +1113,9 @@
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀLostÀÀÀSanctuary Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Испорченного Ключа от Затерянного Святилища]§d.
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀInfestedÀÀÀPit Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Испорченного Ключа от Зараженной Ямы]§d.
 §5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀDecrepitÀÀÀSewers Key]§d.@§5Сборщик Ключей: §dТы не можешь войти в этот данж без §3[1 Испорченного Ключа от Ветхой Канализации]§d.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUnderworldÀÀÀCrypt Key]§d.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Подземного Склепа]§d и я предоставлю тебе доступ в данж.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUndergrowthÀÀÀRuins Key]§d.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Заросших Руин]§d и я предоставлю тебе доступ в данж.
+§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 EldritchÀÀÀOutlook Key]§d.@§5Сборщик Ключей: §dПринеси мне §3[1 Ключ Жуткого Наблюдателя]§d и я предоставлю тебе доступ в данж.
 §5Key Collector: §dBring me §3[1 InfestedÀÀÀPit Key]§d and I will grant you access to the dungeon.@§5Сборщик Ключей: §dПринеси мне §3[1 Ключ от Зараженной Ямы]§d и я предоставлю тебе доступ в данж.
 §5Key Collector: §dBring me §3[1 CorruptedÀÀÀSand-SweptÀÀÀTomb Key]§d and I will grant you access to the dungeon.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Песчаной Гробницы]§d и я предоставлю тебе доступ в данж.
 §5Key Collector: §dBring me §3[1 CorruptedÀÀÀIceÀÀÀBarrows Key]§d and I will grant you access to the dungeon.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Ледяного Кургана]§d и я предоставлю тебе доступ в данж.
@@ -1127,9 +1130,6 @@
 §5Key Collector: §dBring me §3[1 CorruptedÀÀÀLostÀÀÀSanctuary Key]§d and I will grant you access to the dungeon.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Затерянного Святилища]§d и я предоставлю тебе доступ в данж.
 §5Key Collector: §dBring me §3[1 CorruptedÀÀÀInfestedÀÀÀPit Key]§d and I will grant you access to the dungeon.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Зараженной Ямы]§d и я предоставлю тебе доступ в данж.
 §5Key Collector: §dBring me §3[1 CorruptedÀÀÀDecrepitÀÀÀSewers Key]§d and I will grant you access to the dungeon.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Ветхой Канализации]§d и я предоставлю тебе доступ в данж.
-§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUnderworldÀÀÀCrypt Key]§d.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Подземного Склепа]§d и я предоставлю тебе доступ в данж.
-§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 CorruptedÀÀÀUndergrowthÀÀÀRuins Key]§d.@§5Сборщик Ключей: §dПринеси мне §3[1 Испорченный Ключ от Заросших Руин]§d и я предоставлю тебе доступ в данж.
-§5Key Collector: §dYou cannot enter this dungeon unless you give me §3[1 EldritchÀÀÀOutlook Key]§d.@§5Сборщик Ключей: §dПринеси мне §3[1 Ключ Жуткого Наблюдателя]§d и я предоставлю тебе доступ в данж.
 §7YahyaBot begins emitting strange spores...@§7YahyaBot начинает испускать странные споры...
 §7You fully completed the §bLegendary Challenge§7!@§7Ты полностью прошел §bЛегендарный Челлендж§7!
 §7You finished the §bLegendary Challenge§7 at §eGold Tier§7!@§7Ты закончил §eЗолотой Уровень §bЛегендарного Челленджа§7!
