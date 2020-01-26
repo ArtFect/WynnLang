@@ -36,7 +36,7 @@
 §4([a-zA-Z0-9_]{1,16}) has already claimed this loot chest!@§4(r1) уже забрал этот сундук с лутом!
 §cYou are no longer tracking (.*)@§cТы больше не отслеживаешь (r1)
 §4You need §c(\d+)§4 more levels before you can unlock this page of the bank@§4Тебе нужно еще §c(r1)§4 уровней, прежде чем ты сможешь разблокировать эту страницу банка
-§5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds.@§5Идентификатор Предметов: §dБоюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить §6(r1) эмеральдов
+§5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds.@§5Идентификатор Предметов: §dБоюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить §a(r1) эмеральдов
 §5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds for all (\d+) items.@§5Идентификатор Предметов: §dБоюсь у тебя недостаточно эмеральдов в инвентаре. Это будет стоить (r1) эмеральдов за все (r2) предмета.
 §6([a-zA-Z0-9_]{1,16}) is now combat level (\d+)@§6(r1) достиг (r2) комбат уровня
 §6([a-zA-Z0-9_]{1,16})§9 has won the duel!@§6(r1)§9 выиграл дуэль!
