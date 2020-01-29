@@ -440,7 +440,7 @@
 §3§b+Tempest: §3Arrow Storm fires@§3§b+Tempest: §3Шторм Стрел стреляет
 §3in all directions@§3во все направления
 §3§b+Saviour’s Sacrifice: §3While@§3§b+Saviour’s Sacrifice: §3При уменьшении
-§3under 30% maximum health, nearby@§3до 30% от максимума здоровья ближайшие
+§3under 50% maximum health, nearby@§3до 50% от максимума здоровья ближайшие
 §3allies gain 50% bonus damage@§3союзники получают 50% бонус к урону
 §3and defence@§3и защите
 §3§b+Magnet: §3Pulls items within@§3§b+Magnet: §3Притягивает ближайшие предметы
@@ -458,8 +458,8 @@
 §3damage@§3урона
 §3significantly faster@§3значительно быстрее
 §3§b+Hawkeye: §3Arrow storm fires@§3§b+Hawkeye: §3Шторм Стрел выстреливает
-§35 arrows each dealing 120%@§35 стрелами, каждая наносит 120%
-§3§b+Sorcery: §30% chance for@§3§b+Sorcery: §30% шанс, что
+§35 arrows each dealing 100%@§35 стрелами, каждая наносит 100%
+§3§b+Sorcery: §330% chance for@§3§b+Sorcery: §330% шанс, что
 §3spells and attacks to cast@§3заклинания и атаки будут кастоваться
 §3a second time at no additional@§3второй раз без использования
 §3cost@§3маны
