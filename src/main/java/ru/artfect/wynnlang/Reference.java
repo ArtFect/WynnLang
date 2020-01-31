@@ -6,7 +6,7 @@ public class Reference {
     public static final String VERSION = "${version}";
     public static final String MOD_ID = "wynnlang";
     public static final String NAME = "WynnLang";
-    public static final String SERVER = "35.228.84.245";
+    public static final String SERVER = "52.15.207.104";
     public static final String CHAT_PREFIX = "§a[WL]";
 
     public static RuChat ruChat;
