@@ -156,6 +156,7 @@
 §dFrying Pan@§dСковорода
 §6Hand Cannon@§6Ручная Пушка
 §cDern Spear@§cДерн Копье
+§cDern Bow@§cДерн Лук
 §dZombie Horse Cloak@§dЗомби Плащ Для Коня
 §6Skeleton Horse Cloak@§6Скелетон Плащ для Коня
 §6Chrome Cybel Token@§6Хромовый Кубел Жетон
@@ -242,6 +243,7 @@
 §dFood Wand@§dРыба-Меч Посох
 §dFood Spear@§dШашлык Копье
 §dFood Dagger@§dКуриная Ножка Кинжал
+§6Banana Sword@§6Меч Банан
 
 #########################System##################################
 §bServer restarting!@§bРестарт сервера!
