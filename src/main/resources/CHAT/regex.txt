@@ -72,8 +72,9 @@
 §c(.*)§4 is not a §c(.*)§4 weapon. You must use a §c(.*).@§c(r1)§4 не оружие для §c(r2)§4. Ты должен использовать §c(r3)
 §dYou have sold §7(\d+)§d ingredients for a total of §a(.*)§d.@§dТы продал §7(r1)§d ингредиентов на сумму в §a(r2)§d.
 §7Are you sure you want to shout (.*)@§7Уверен, что хочешь отправить (r1)
-§(e|5)That player is not playing on your world (.*)!@§(r1)Этот игрок не играет в твоем мире (r2)!
+§(e|5|9)That player is not playing on your world (.*)!@§(r1)Этот игрок не играет в твоем мире (r2)!
 §e(.*) has been added to your ignore list!@§e(r1) был добавлен в твой игнор лист!
+§4You need to wait (\d+):(\d+)m to enable hunted.@§4Тебе нужно подождать (r1):(r2)м для переключения охотника.
 
 #######################################PVP######################################################
 §6(.*) met his fate.@§6(r1) встретил свою судьбу.
@@ -153,7 +154,7 @@
 (.*) just contributed 1 emerald to the guild!@§b(r1) внес 1 эмеральд в гильдию!
 §bCongratulations! The guild has taken control of (.*) from (.*)!!!@§bПоздравляем! Гильдия взяла контроль над (r1) у (r2)!!!
 §3You will now contribute (.*) of your XP to (.*)@§3Теперь ты вносишь (r1) от своих очков опыта в (r2)
-§b(.*) has set (.*) guild rank from (.*) to (.*)@§b(r1) изменил ранг (r2) с (r3) на (r4)
+§b(.*) has set (.*) (guild|)rank from (.*) to (.*)@§b(r1) изменил ранг (r2) с (r4) на (r5)
 
 #########################################CRATES################################################
 §b(.*)§3 has disguised as a §bzombie§3!@§b(r1)§3 замаскировался под §bзомби§3!
@@ -272,6 +273,16 @@
 §5Only §d(\d+) more level(|s) §5until you can gather from §dDark@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКаштан
 §5Only §d(\d+) more level(|s) §5until you can gather from §dSilver@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСеребро
 §5Only §d(\d+) more level(|s) §5until you can gather from §dKanderstone@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКандерстоун
+§5Only §d(\d+) more level(|s) §5until you can gather from §dPine@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСосну
+§5Only §d(\d+) more level(|s) §5until you can gather from §dBass@§5Еще §d(r1) уровня §5и ты сможешь собирать §dОкуня
+§5Only §d(\d+) more level(|s) §5until you can gather from §dAvo@§5Еще §d(r1) уровня §5и ты сможешь собирать §dАвокадо
+§5Only §d(\d+) more level(|s) §5until you can gather from §dMolten@§5Еще §d(r1) уровня §5и ты сможешь собирать §dМолтен
+§5Only §d(\d+) more level(|s) §5until you can gather from §dVoidstone@§5Еще §d(r1) уровня §5и ты сможешь собирать §dВойдстоун
+§5Only §d(\d+) more level(|s) §5until you can gather from §dKoi@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСазана
+§5Only §d(\d+) more level(|s) §5until you can gather from §dGylia Fish@§5Еще §d(r1) уровня §5и ты сможешь собирать §dГилию
+§5Only §d(\d+) more level(|s) §5until you can gather from §dDiamond@§5Еще §d(r1) уровня §5и ты сможешь собирать §dАлмазы
+§5Only §d(\d+) more level(|s) §5until you can gather from §dDecay Roots@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЗараженные Корни
+§5Only §d(\d+) more level(|s) §5until you can gather from §dRice@§5Еще §d(r1) уровня §5и ты сможешь собирать §dРис
 §5Only §d(\d+) more level(|s) §5until you can use the §dⒷ Gathering Pickaxe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒷ Сборную Кирку У(r3)
 §5Only §d(\d+) more level(|s) §5until you can use the §dⒸ Gathering Axe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒸ Сборный Топор У(r3)
 §5Only §d(\d+) more level(|s) §5until you can use the §dⓀ Gathering Rod T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⓀ Сборную Удочку У(r3)
