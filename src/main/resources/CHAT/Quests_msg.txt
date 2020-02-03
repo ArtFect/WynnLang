@@ -1198,6 +1198,20 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7§kThis §kshall §kgive §kyou §kguidance: §khttps://i.imgur.com/uptFLIb.png@§7§kEto §kdolzhno §kdat §ktebe §kinstrukcii: §khttps://i.imgur.com/uptFLIb.png
 §9§kThe madman's favorite food lies in a place of changing perspective.@§9§kЛюбимая еда безумца лежит в месте, меняющем перспективу.
 §7You should get the body part before leaving...@§7Ты должен взять часть тела перед уходом...
+§4As suspicious as this room looks, I probably shouldn't be here yet.@§4Как бы подозрительно ни выглядела эта комната, я вероятно еще не должен быть здесь.
+§7An unseen force blocks you.@§7Невидимая сила блокирует тебя.
+§4Before leaving you should search the house for clues about what Ardulf is going to do next.@§4Перед уходом тебе следует обыскать дом в поисках подсказок о том, что Ардульф собирается делать дальше.
+§a>Too many users detected. The user maximum is 4!@§a>Слишком много игроков обнаружено. Максимум 4!
+§cInvalid Move!@§cНеверный Ход!
+§7The entity that stands before you remains silent.@§7Сущность, которая стоит перед тобой, остается безмолвной.
+§4This outpost is overridden with trolls...@§4Этот аванпост наводнен троллями...
+§4The large blue mushroom seems very suspect...@§4Большой синий гриб кажется очень подозрительным...
+§4A crowded sound is coming from the hole, and a frequent scream is heard. You better not go down there, yet...@§4Из дыры доносится шум толпы, и слышен частый крик. Тебе лучше пока туда не спускаться...
+§4Crossing a tightrope sounds like a dangerous idea!@§4Хождение по канату звучит как опасная идея!
+§7He's looking towards the hidden room...@§7Он смотрит в сторону потайной комнаты...
+§4Don't forget the transmitter!@§4Не забудь передатчик!
+§4The gerts are having a meeting. Spy on it, maybe you will hear some useful information!@§4У Гертов совещание. Следи за ними, может быть, ты услышишь какую-нибудь полезную информацию!
+§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 4/7@§7Ты заметил, что пушку можно использовать для побега. Очисти тела и посмотри, что Хонип скажет тебе! - Тел очищено: 4/7
 
 ################################QUEST NAMES####################################
 §e                          §e§lArachnids' Ascent@ 
@@ -1408,3 +1422,29 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §a                               §a§lGather Rye@ 
 §a                              §a§lGather Rye II@ 
 §a                             §a§lGather Cobalt II@ 
+§a                             §a§lGather Pine Logs@ 
+§a                          §a§lGather Pine Logs II@ 
+§a                          §a§lGather Pine Logs III@ 
+§a                             §a§lGather Bamboo@ 
+§a                           §a§lGather Diamonds IV@ 
+§a                            §a§lGather Molten Ore@ 
+§a                          §a§lGather Molten Ore II@ 
+§a                             §a§lGather Avo Logs@ 
+§a                           §a§lGather Diamonds II@ 
+§a                            §a§lGather Cobalt III@ 
+§a                             §a§lGather Koi III@ 
+§a                           §a§lGather Avo Logs II@ 
+§a                           §a§lGather Kanderstone@ 
+§a                         §a§lGather Kanderstone II@ 
+§a                        §a§lGather Kanderstone III@ 
+§a                              §a§lGather Diamonds@ 
+§a                         §a§lGather Gylia Fish II@ 
+§a                           §a§lGather Gylia Fish@ 
+§a                        §a§lGather Gylia Fish III@ 
+§a                          §a§lGather Decay Roots@ 
+§a                        §a§lGather Decay Roots II@ 
+§a                        §a§lGather Decay Roots III@ 
+§a                           §a§lGather Light Logs@ 
+§a                         §a§lGather Light Logs II@ 
+§a                        §a§lGather Light Logs III@ 
+§a                             §a§lGather Carp II@ 
