@@ -255,6 +255,7 @@ QUESTS/A_Hunter's_Calling
 §7Trick 3 people to follow @§7Заставь 3 людей следовать 
 §7you into the iron golem @§7за тобой на железных големов 
 §7factory. @§7фабрику.
+§7Make your way through the @§7Пройди по пути через 
 §7A home, invaded. A society, @§7Дом, вторглись чужаки. Общество, 
 §7crumbling. The people, starving. The @§7которое рушится. Люди, умирающие 
 §7concerned, helpless. The flames, rising. @§7с голоду. Обеспокоенные, беспомощные. 
@@ -2771,7 +2772,6 @@ QUESTS/Zhight_Island_(Quest)
 §7clue missing. @§7пропавшие подсказки
 §7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
 §7Continue through the hideout! @§7Продвигайся через укрытие!
-§7Make your way through the @§7Пройди по пути через 
 
 #############################MINI QUESTS#########################################
 §7Bring [5 Forest Webs] to @§7Принеси [5 Forest Webs] к 
