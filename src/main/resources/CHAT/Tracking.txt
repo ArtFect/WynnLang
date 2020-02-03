@@ -12,6 +12,9 @@
 §7Join Elphaba on a mission in Detlas at [419, 67, -1533].@§7Присоединись к Эльфабе на миссию в Детласе [419, 67, -1533]
 §7Meet the other soldiers at [730, 61, -1434].@§7Встреть других солдат на [730, 61, -1434]
 §7Explore the cave at [271, 39, -1225] for the Shard.@§7Исследуй пещеру на [271, 39, -1225] в поисках Осколка
+§7Kill the Progenitors to open the entrance.@§7Убей Progenitor'а чтобы открыть вход.
+§7Kill the Mangled Progeny for the [1 Corrupted Pearl].@§7Убей Mangled Progeny и получи [1 Испорченную Жемчужину].
+§7Kill the Black Geist.@§7Убей Black Geist.
 §7Chase the beast for the Shard.@§7Преследуй зверя с осколком
 §7Explore the Silent Expanse.@§7Исследуй Тихое Пространство
 §7Find Aledar, Lucio and Elphaba in the Fallen City.@§7Найди Аледара, Луцио и Эльфабу в Опустевшем Городе.
@@ -24,6 +27,30 @@
 §7Find a way to help Aledar get to the other side of the spike barrier.@§7Найди способ помочь Аледару попасть на другую сторону барьера из шипов
 =====
 §7Explore the deepest part of the Silent Expanse@§7Исследуй глубинные части Тихого Пространства
+§7The besieged origin. To end, one must begin.@§7Осажденное начало. Чтобы закончить, нужно начать.
+§7Kill ten Ragni Citizens@§7Убей десять Жителей Рагни
+§7Head to town and get further information from the employee.@§7Отправляйся в город и получи больше информации от служащего.
+§7Climb up the tree and look through the window.@§7Заберись на дерево и посмотри через окно.
+§7The unrighteous sought it. The noble hid it. The one seeking answers found more questions. Another §7beginning...to§7 a new end.@§7Неправедные искали его. Благородные спрятали его. Тот, кто искал ответы, нашел еще больше вопросов. Другое начало...нового конца.
+§7Head to the northern part of the bank and find a way up to the ceiling.@§7Отправляйся к северной части банка и найди способ пробраться к потолку.
+§7Head back to the excavation camp.@§7Иди обратно к раскопкам в лагере.
+§7The cruel. The kind. The selfish. The just. He who travelled life with confliction. Who faced eternity served cold. To his end.@§7Жестокий. Добрый. Эгоистичный. Простой. Тот, кто двигался по жизни с конфликтом. Тот, кто столкнулся с холодной вечностью. До своего конца.
+§7Head to Nesaak and locate Theorick.@§7Отправляйся в Несаак и найди Теорика. 
+§7An end, ousted by further action. An end, brought to six. An end, to the surety of the haughty. An end, of the §7world...in§7 some fashion.@§7Конец, свергнутый другими действиями. Конец, принесенный шестью. Конец, к уверенности надменных. Конец мира...в некотором роде.
+§7Make your way to the end of the cave.@§7Доберись до конца пещеры.
+§7Return back up the cave and fix a way out.@§7Вернись обратно в пещеру и исправь выход наружу.
+§7Trick 3 people to follow you into the iron golem factory.@§7Заставь 3 людей следовать за тобой на фабрику железных големов. 
+§7Make your way through the factory.@§7Пройди по пути через фабрику
+§7A home, invaded. A society, crumbling. The people, starving. The concerned, helpless. The flames, rising. An end you will not expect.@§7Дом, вторглись чужаки. Общество, которое рушится. Люди, умирающие с голоду. Обеспокоенные, беспомощные. Пламя, поднимающееся вверх. Конец, которого ты не ожидаешь.
+§7Tell the hooligans in the slums about the eviction notice.@§7Скажи хулиганам в трущобах об уведомлении о выселении.
+§7Return to the advisor for what to do next.@§7Вернись к советнику и узнай что делать дальше. 
+§7Head deep inside the slums and blow it up.@§7Отправляйся вглубь трущоб и взорви их.
+§7Find a rock to launch into the Avos territory and a battery to activate the catapult.@§7Найди камень для запуска на территорию Авосов и батарею для активации катапульты.
+§7Steal the Avos totem and activate it outside of Corkus City@§7Укради тотем Авосов и активируй его снаружи Коркус Сити
+§7Climb the Corkus Clocktower.@§7Заберись на башню с часами в Коркусе
+§7Defeat Maxie.@§7Победи Макси.
+§7The very center... The place deemed closest to your home. There, in the center of Wynn... You shall find the end.@§7Самый центр...Место, считающееся самым близким к твоему дому. Там, в самом  центре Винн... Ты найдешь свой конец.
+§7Attack Detlas and defeat Aledar and Tasim.@§7Атакуй Детлас и победи Аледара и Тасима.
 =====
 §7Speak to Elrund outside Aldorei Valley at [-670,97,-4444]@§7Поговори с Элрундом снаружи Долины Алдорей на [-670,97,-4444]
 §7Obtain [Gemstone Dust] from the Wynn province and bring it to Elrund (Requires completion of Lost in the Jungle)@§7Добудь [Пыль драгоценного камня] из провинции Винн и принеси ее Элрунду (Необходимо пройти Lost in the Jungle)
@@ -106,7 +133,7 @@
 §7Talk to Javier in the Pirate Cove at [-640,53,-3117]@§7Поговори с Джавьером в Пиратской Бухте на [-640,53,-3117]
 §7Find Javier's map, hidden in the skull tomb at the entrance of the island@§7Найди карту Джавьера, спрятанную внутри пещеры-черепа у входа на остров 
 §7Talk to Dalben on Mage Island about restoring the map@§7Поговори с Далбеном на Острове Магов насчет восстановления карты 
-§7Bring back [20 Block of Emerald] to Dalben@§7Принеси [20 Блоков Эмеральдов] Далбену 
+§7Bring back [5 Blocks of Emerald] to Dalben@§7Принеси [5 Блоков Эмеральдов] Далбену  
 §7Explore the cave in the ocean, located at [-187,16,-3452]@§7Исследуй пещеру в океане на координатах [-187,16,-3452]
 §7Find [1 Ocean Treasure] and bring it back to Javier in Pirate Cove@§7Найди [1 Океаническое Сокровище] и принеси его Джавьеру в Пиратской Бухте
 ======
@@ -226,6 +253,7 @@
 §7Make your way to the Dogun festival at [1522,78,-5055] by following the red banners outside Rodoroc.@§7Дойди до фестиваля Догунов на [1522,78,-5055] следуя красным банерам снаружи Родорока
 §7Find out more about the hysterical dwarf in Rodoroc's prison at [1109,26,-5230]@§7Узнай больше об истеричном гноме в тюрьме Родорока на [1109,26,-5230]
 §7Pick up Axelus' note and head to the location at [1024, 13, -5050].@§7Подбери записку Акселуса и отправься в локацию на [1024, 13, -5050].
+§7Explore the Library of Flames.@§7Исследуй Библиотеку Пламени.
 §7Exit the library.@§7Покинь библиотеку.
 §7Search for house number 81 in Maex like Axelus said.@§7Отыщи дом номер 81 в Маэксе, как и сказал Акселус.
 §7Follow the group on the mission.@§7Следуй за группой на миссию
@@ -246,7 +274,9 @@
 §7Enter the Royal Palace through the sewer pipe and find the king.@§7Войди в королевский дворец через канализацию и найди короля
 §7Leave the Royal Palace at the end of the palace.@§7Покинь королевский дворец через выход в конце дворца.
 ======
+§7Return to the Dogun village with the letter and speak to Korzim at [1436,134,-5388].@§7Вернись в деревню Догунов с письмом и поговори с Корзимом на [1436,134,-5388] 
 §7Travel to Maex and meet Korzim at the entrance.@§7Отправься в Маэкс и встреться с Корзимом у входа
+§7Talk to the blacksmith in Maex.@§7Поговори с кузнецом в Маэксe
 §7Bring back [10 Fire Webs] from [1458,15,-5352] and [3 Magmatic Crystals] from the Maex mines and [1 Crystallized lava] from [1346,5,-5409]@§7Принеси [10 Огненных Паутин] из [1458,15,-5352], [3 Магматических Кристалла] из шахт Маэкса и [1 Кристаллизованную Лаву] из [1346,5,-5409]
 §7Go to the enchanter and enchant the amulet at [1509,45,-5339].@§7Иди к чародею и зачаруй амулет на [1509,45,-5339].
 §7Travel to the frozen heights and find the True Ice at [1590,107,-5445].@§7Иди к замерзшим пещерам и найди Чистый Лед на [1590,107,-5445].
@@ -256,6 +286,7 @@
 §7Head to Rodoroc and look for Axelus [1117,11,-5190]@§7Иди в Родорок и отыщи Акселусa на [1117,11,-5190]
 §7Free Axelus and escape the city.@§7Спаси Акселусa и сбеги из города
 §7Return back to the Dogun village at [1338,147,-5305].@§7Вернись в деревню Догунов на [1338,147,-5305].
+§7Investigate the structure to the south at [1467,136,-5200]@§7Посети сооружение на юге на [1467,136,-5200]
 §7Reach the portal and prevent Garaheth from being summoned@§7Дойди до портала и останови призыв Гарахета
 §7Enter the body of Garaheth@§7Войди в тело Гарахета
 §7Freeze any vital point of Garaheth you can find!@§7Заморозь любые жизненно-важные точки Гарахета, которые сможешь найти!
@@ -329,6 +360,7 @@
 §7Speak to Relend on the beach@§7Поговори с Релендом на пляже
 §7Bring [10 Raw Mutton], [5 Edible Mushrooms], [1 Coconut], and [7 Berries] to the Cooking Pot@§7Принеси [10 Сырых Лопаток], [5 Съедобных Грибов], [1 Кокос], и [7 Ягод] к горшку для готовки 
 §7Report back to Relend@§7Сообщи обо всем Реленду
+§7Check out the tent to the east@§7Проверь палатку на востоке
 §7Take a look at the boulder at the center of the island@§7Осмотри камень в центре острова
 §7Bring [5 Gritty Sand], [3 Saw Dust], and [1 Black Powder] to the Crafting Table@§7Принеси 5 [Зернистого Песка], 3 [Деревянных Опилки], и 1 [Черный Порох] к верстаку 
 §7Use the explosive on the boulder and enter the cave@§7Используй взрывчатку на камне и войди в пещеру 
@@ -369,16 +401,20 @@
 §7Enter The Light Realm@§7Войди в Царство Света 
 ======
 §7Speak to the Passenger Controllant at [-172,108,-4946]@§7Поговори с Контроллером на [-172,108,-4946]
+§7Enter the airship@§7Войди на дирижабль
 §7Speak to Captain Ackbar regarding the missing child@§7Поговори с Капитаном Акбаром по поводу пропавшего ребенка
 §7Try and find out where the missing child is located by speaking to the passengers@§7Узнай о местонахождении пропавшего ребенка расспрашивая пассажиров
 §7Return back to the captain@§7Вернись обратно к капитану
 §7Go back to your cabin@§7Вернись в свою каюту
 §7Speak to the captain regarding the sudden noises@§7Поговори с капитаном насчет внезапного шума
+§7Look if the engineer has something for you to do in order to help@§7Посмотри, есть ли у инженера что-то для тебя, чтобы помочь
 §7Complete the sound coded system by checking the Engineer's Note, and return back to the engineer@§7Пройди систему рестарта, используя записку Инженера, затем вернись обратно к нему
+§7Return back to your cabin@§7Вернись в свою каюту
 §7Explore the lower deck; something big is approaching@§7Исследуй нижнюю палубу; что-то большое приближается
 §7Get to the other ship@§7Перейди на другой корабль
 §7Find a way to reach the queen that is located below deck@§7Найди путь к королеве, что находится на нижней палубе
 §7Escape the cell, and finalize the key to reach the pirate queen@§7Сбеги из тюрьмы, и доделай ключ к комнате королевы пиратов
+§7Speak to Captain Ackbar about the findings and the battles@§7Поговори с Капитаном Акбаром о находках и битве
 §7Speak to Calo next to the little ship at the Detlas docks@§7Поговори с Кало рядом с небольшим кораблем в доках Детласа
 =======
 §7Something looks suspicious in the prison at [-829,83,-5539]@§7Что-то подозрительное происходит в тюрьме на [-829,83,-5539]
@@ -423,8 +459,10 @@
 §7Return to General Lecade with the Good-Luck Charm@§7Вернись к Генералу Лекейду со Счастливым Амулетом
 §7Paint the mountain at [207,178,-5499]@§7Раскрась гору на [207,178,-5499]
 §7Walk across the tightrope at [128,101,-5467]@§7Пройдись по канату на [128,101,-5467]
+§7Speak to Lieutenant Gren@§7Поговори с Лейтенантом Греном 
 §7Blow up the wall inside the fort@§7Взорви стену внутри крепости
 §7Find the secret passageway into the general's office@§7Найди секретный вход в офис генерала 
+§7Defeat the Corpus Accipientis@§7Победи Corpus Accipientis 
 §7Return to General Lecade@§7Вернись к Генералу Лекейду
 ======
 §7Talk to Monte at [-550,61,-747]@§7Поговори с Монте на [-550,61,-747]
@@ -506,10 +544,12 @@
 §7Gather the materials the Old Man asked for@§7Собери материалы, которые просит старик
 §7Investigate the broken bridge@§7Осмотри разрушенный мост 
 §7Search for another way across the ravine@§7Найди способ перебраться на ту сторону 
+§7Follow the guard's instructions@§7Следуй инструкциям охранника 
 §7Craft your weapon and show it to Aledar@§7Скрафти себе оружие и покажи его Аледару
 §7Show your weapon to the guard and enter the cave@§7Покажи свое оружие охраннику и пройди в пещеру 
 §7Continue through the cave@§7Продвигайся через пещеру 
 §7Enter the castle@§7Войди в замок 
+§7Talk to Ragni's King@§7Поговори с Королем Рагни
 ========
 §7Find out what's going on at the Sand Swept Tomb@§7Узнай, что происходит возле данжа Песчаная Гробница
 §7Attempt to enter the outlaw's hideout at [1314, 90, -1660]@§7Попытайся войти в убежище преступников на [1314, 90, -1660] 
@@ -587,7 +627,7 @@
 §7Escape the ball with Nick.@§7Уйди из зала вместе с Ником 
 §7Talk to Nick@§7Поговори с Ником 
 ======
-§7Speak to Atisun in front of Erca Mansion at [-1192,46,-5198]@§7Поговори с Атисуном на входе в Поместье Каритат на [-1192,46,-5198]
+§7Speak to Atisun in front of Caritat Mansion at [-1192,46,-5198]@§7Поговори с Атисуном на входе в Поместье Каритат на [-1192,46,-5198]
 §7Enter Caritat Mansion@§7Войди в Поместье Каритат
 §7Learn the story of the Caritat Family@§7Изучи историю семейства Каритат
 §7Enter the basement and recover the Library Key@§7Войди в подвал и добудь ключ от библиотеки 
@@ -604,12 +644,14 @@
 §7Bring the key to the Master Bedroom@§7Принеси ключ к главной спальне 
 §7Enter the Master Bedroom@§7Войди в главную спальню
 §7Bring the key to Timmy's bedroom@§7Принеси ключ к спальне Тимми
+§7Escape the flaming mansion through the back door@§7Покинь горящее поместье через заднюю дверь
 §7Speak with the Possessed Mr. Caritat@§7Поговори с одержимым мистером Каритатом
 §7Navigate the Caritat's basement@§7Пройдись по подвалу Каритатов 
 §7Escape through the mysterious rift@§7Сбеги через загадочную расщелину 
 =====
 §7Visit the Nemract bar at [114,40,-2176]@§7Посети бар в Немракте [114,40,-2176]
 §7Talk to Honip on the deck to get your next task@§7Поговори с Хонипом в доках и узнай что делать дальше
+§7Go to the Nemract docks to go back in the boat at [104,24,-2282]@§7Иди в доки Немракта чтобы вернуться на лодку [104, 24, -2282]
 §7Find out where you are and a way to flee the island@§7Узнай где ты и как покинуть остров
 §7Meet Honip at [103,37,-2254]@§7Встреть Хонипа на [103,37,-2254]
 §7Explore the hold and kill the rats@§7Исследуй трюм и убей крыс
@@ -752,6 +794,7 @@
 §7Talk to the Skyraider Guard at [1476,84,-4336]@§7Поговори со Скайрайдер Стражем на [1476,84,-4336]
 §7Buy a Female Pirate Wig at Ahmsord then enter the basement in which the trials are being held at [1476,82,-4340]@§7Купи Женский Парик Пирата в Амсорде и затем войди в подвал, в котором проходят испытания [1476,82,-4340]
 §7Approach the stage@§7Подойди к сцене
+§7Listen to the trials overseer's speech@§7Послушай речь смотрительницы испытаний 
 §7Break into the mansion@§7Проникни в поместье
 ======
 §7The lieutenant at [-890,60,-1874] needs help.@§7Лейтенанту на [-890,60,-1874] требуется помощь 
@@ -906,6 +949,7 @@
 §7Inspect anything beyond the Eastern Exit at [1020,112,-5534]@§7Осмотри все, что находится за восточным выходом [1020,112,-5534]
 §7Inspect the cave above at [1084,133,-5606]@§7Посети пещеру выше на [1084,133,-5606]
 §7Inspect the house@§7Посети дом 
+§7Read the note on the table@§7Прочитай записку на столе 
 §7Head to Eltom's Airbase at [968,152,-5463]@§7Отправься на авиабазу Элтома [968,152,-5463]
 §7Head up the Airbase's Tower to confront the hooded man@§7Поднимись на башню авиабазы и сразись с человеком в капюшоне 
 §7Board the Eltom Cargo Ship@§7Зайди на борт торгового корабля Элтома 
@@ -951,6 +995,8 @@
 §7Find the remaining 5 members of Dejol's crew@§7Найди оставшихся 5 участников команды Дежола 
 §7Find the remaining 4 members of Dejol's crew@§7Найди оставшихся 4 участников команды Дежола 
 §7Find the remaining 3 members of Dejol's crew@§7Найди оставшихся 3 участников команды Дежола 
+§7Find the remaining 2 members of Dejol's crew@§7Найди оставшихся 2 участников команды Дежола 
+§7Find the last missing member of Dejol's crew@§7Найди последнего оставшегося участника команды Дежола 
 §7Return to Dejol to tell him of your success@§7Вернись к Дежолу, и расскажи что все прошло успешно 
 ========
 §7Visit Sherk at [-2172,54,-5118]@§7Посети Шерка на [-2172,54,-5118]
@@ -966,7 +1012,9 @@
 =======
 §7Explore the abandoned drill at [585,89,-457]@§7Исследуй заброшенный бур на [585,89,-457]
 §7Find some sort of fuel in the ruined city@§7Найди какое-то топливо в этом разрушенном городе
+§7Explore the cave for the fuel@§7Исследуй пещеру в поисках топлива
 §7Head back to the machine at [585,89,-457]@§7Вернись обратно к машине на [585,89,-457]
+§7Enter the opened crypt.@§7Войди в открытую гробницу.
 =======
 §7Talk to Seasum on Mage Island at [940,77,-2866]@§7Поговори с Сеасумом на Острове Магов [940,77,-2866]
 §7Return to Seasum with the letter.@§7Вернись к Сеасуму с письмом.
@@ -989,10 +1037,13 @@
 §7Prepare to enter the Earth division@§7Подготовься к прохождению Дивизии Земли 
 §7Collect 5 Earth Catalyst IX@§7Собери 5 Катализаторов Земли IX
 §7Prepare to enter the Water division@§7Подготовься к прохождению Дивизии Воды
-§7Collect 5 Water Catalyst IV@§7Собери 5 Катализаторов Воды IV 
+§7Collect 5 Water Catalyst II@§7Собери 5 Катализаторов Воды II 
+§7Collect 5 Water Catalyst IV@§7Собери 5 Катализаторов Воды IV
+§7Collect 5 Water Catalyst V@§7Собери 5 Катализаторов Воды V 
 §7Defeat the Oceanic Judge and collect 1 Water Catalyst X@§7Победи Oceanic Judge и собери 1 Катализатор Воды X
 §7Talk to Yansur to receive your prize for overcoming the Water Division@§7Поговори с Янсуром и получи свой приз за прохождение Дивизии Воды
-§7Prepare to enter the Fire division@§7Подготовься к прохождению Дивизии Огня 
+§7Prepare to enter the Fire division@§7Подготовься к прохождению Дивизии Огня
+§7Collect 5 Fire Catalyst VIII@§7Собери 5 Катализатор Огня VIII 
 §7Prepare to enter the chambers of Mistress Qira@§7Подготовься к вхождению в камеру Госпожи Киры
 §7Talk to Yansur and truly complete the Hive Challenge@§7Поговори с Янсуром и полностью заверши Челлендж Улья
 =======
