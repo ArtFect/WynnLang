@@ -9,15 +9,16 @@ import java.util.regex.Pattern;
 
 public class StringUtil {
     public static String handleString(TranslateType type, String str) {
-        String replace = findReplace(type.getClass(), str);
+        String s = str.replace("§r", "");
+        String replace = findReplace(type.getClass(), s);
         if (replace != null) {
             if (replace.isEmpty()) {
                 return null;
             } else {
-                return replaceFound(type, str, replace);
+                return replaceFound(type, s, replace);
             }
         } else {
-            Log.addString(type.getClass(), str);
+            Log.addString(type.getClass(), s);
             return null;
         }
     }

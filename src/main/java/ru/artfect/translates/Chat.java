@@ -29,7 +29,7 @@ public class Chat extends TranslateType {
 
     public void translate() {
         ITextComponent rawMsg = event.getMessage();
-        String message = rawMsg.getFormattedText();
+        String str = rawMsg.getFormattedText();
 
         ClickEvent clickEvent = null;
         HoverEvent hoverEvent = null;
@@ -41,7 +41,6 @@ public class Chat extends TranslateType {
             }
         }
 
-        String str = message.replace("§r", "");
         String replace = StringUtil.handleString(this, str);
         if (replace != null) {
             TextComponentString msg = new TextComponentString(replace);
