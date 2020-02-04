@@ -399,6 +399,7 @@
 §3You cannot recruit that many Sniper Combat Lv. 60!@§3Ты не можешь набрать столько много Снайперов Комбат Ур. 60!
 §cYou can not teleport while in a guild battle...@§cТы не можешь телепортироваться во время битвы гильдий...
 §4You cannot use /class during a guild war.@§4Ты не можешь использовать /class во время захвата
+§bUse /guild defend to defend this territory@§bИспользуй /guild defend для защиты этой территории
 
 ###################################QUEST/DUNGEON REWARDS##################################
 §7[+1 Selchar Teleportation Scroll]@§7[+1 Сельчар свиток телепортации]
@@ -1043,6 +1044,8 @@
 §7Disguise your dagger with a adventurous flair@§7Маскирует твой кинжал под стиль приключений
 §6Fellowship Dark Wand@§6Темный Посох Дружбы
 §7Disguise your wand with a adventurous flair@§7Маскирует твой посох под стиль приключений
+§cDern Bow@§cДерн Лук
+§7Disguise your bow with a dark flair@§7Маскирует твой лук под темный стиль
 
 ###################################DUNGEONS##################################
 §7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Защитника Ключа активировало ее...
@@ -1452,6 +1455,7 @@
 §5Guild Master: §dFor an example, a guild with the name "§bExample Guild Name§d" should have the prefix "§bEGN§d".@§5Мастер Гильдий: §dК примеру, у гильдии с названием "§bExample Guild Name§d" должен быть префикс "§bEGN§d".
 §5Guild Master: §dYour prefix must have exactly 3 characters.@§5Мастер Гильдий: §dПрефикс должен содержать ровно 3 символа.
 §5Guild Master: §dIt seems that there is already a guild with that prefix... Try again!@§5Мастер Гильдий: §dПохоже уже есть такая гильдия с этим префиксом... Попробуй еще раз!
+§5Guild Master: §dPlease only use english characters A-Z in your guild prefix.@§5Мастер Гильдий: §dПожалуйста используй только английские буквы A-Z в префиксе гильдии.
 
 ###########################################OBJECTIVES#################################################
 §a                           Gather Resources@                        §aСбор ресурсов
@@ -2007,6 +2011,10 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §4You need to find all of the discoveries in §cNesaak Tundra§4 before you can enter this area.@§4Тебе нужно найти все открытия в §cНесаак Тундре§4 прежде чем войти сюда.
 §4You need to be closer to your totem.@§4Тебе нужно быть ближе к твоему тотему.
 §4You need to complete §cA Hunter's Calling§4 to unlock hunted mode.@§4Тебе нужно пройти §cA Hunter's Calling§4 для разблокировки режима охотника
+§4You are now hidden! (Hidden Only)@§4Ты скрылся от игроков!
+§4You are no longer hidden! (None)@§4Ты больше не скрываешься от игроков!
+§4You need to be holding a crafted item to rename it!@§4Тебе нужно держать крафтовый предмет чтобы переименовать его!
+§3You have thrown an item bomb too recently, please wait.@§3Ты уже бросал недавно предметную бомбу, пожалуйта подожди.
                   §c§l§nClick here to toggle hunted mode@                  §c§l§nКликни здесь для переключения режима охотника
 §f                  §c§l§nClick here to toggle hunted mode@§f                  §c§l§nКликни здесь для переключения режима охотника
 §f                      §4§oThis will enable PvP combat@§f                      §4§oЭто включит ПвП
