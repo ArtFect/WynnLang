@@ -433,7 +433,7 @@
 §d            - §7+Access to the Tower of Amnesia@§d            - §7+ Доступ в Башню Амнезии
 §d            - §7+Calamaro's Token/+Gernald's Amulet@§d            - §7+ Жетон Каламаро/+Gernald's Amulet
 §d            - §7+1 Climbing Helmet@§d            - §7+1 Каска альпиниста
-§d            - §7+Access to the Dujgon Blacksmith@@§d            - §7+ Доступ к Кузнецу Дужгона
+§d            - §7+Access to the Dujgon Blacksmith@§d            - §7+ Доступ к Кузнецу Дужгона
 §d            - §7+1 Factory Helmet@§d            - §7+1 Фабричный Шлем
 §d            - §7+1 The Mummy's Bandage@§d            - §7+1 Бинт Мумии
 §d            - §7+§4§l66666§7 Experience Points@§d            - §7+§4§l66666§7 Очков Опыта
@@ -1659,7 +1659,7 @@
 §4You need to find all of the discoveries in §cSilent Expanse§4 before you can enter this area.@§4Тебе нужно найти все открытия в §cТихом Пространстве§4 прежде чем войти сюда.
              §4You have enabled hunted mode (PvP on)!@             §4Ты включил режим охотника (ПвП вкл)!
        §4§lYou are currently in hunted mode (PvP on)!@       §4§lТы находишься в режиме охотника (ПвП вкл)!
-             §4You have disabled hunted mode (PvP off)!	   @             §4Ты выключил режим охотника (ПвП выкл)!
+             §4You have disabled hunted mode (PvP off)!@             §4Ты выключил режим охотника (ПвП выкл)!
 §e§nClick here to claim them! @§e§nКликни здесь, чтобы получить их! 
 §c[Click to Stop Tracking]§4 or hold the book to track@§c[Кликни для отмены отслеживания]§4 или держи книгу для отслеживания
 §a§l         Click here to link your forum account@§a§l         Кликни сюда для привязки форум аккаунта
