@@ -1070,6 +1070,7 @@ Assassin@Ассасин
 §2Aledar @§2Аледар 
 §2Miner Chief@§2Шеф Шахтеров
 §2Geologist@§2Геолог
+§2Dwarven Miner@§2Гном Шахтер
 §2Deathknell Wretch@§2Смертельная Тварь
 §2Thunder Catalyst Collector 1@§2Сборщик Катализаторов Грома 1
 §2Thunder Catalyst Collector 2@§2Сборщик Катализаторов Грома 2
@@ -1236,8 +1237,8 @@ Old Druid@Старый Друид
 §2[§a+1§2 Millet String]@§2[§a+1§2 Нить Просо]
 §2[§a+1§2 Millet Grains]@§2[§a+1§2 Просо Зерно]
 §aDecay Roots@§aЗараженный Корень
-§2[§a+1§2 Decay Root String]@§2[§a+1§2 Зараженная Нить]
-§2[§a+1§2 Decay Root Grains]@§2[§a+1§2 Зараженное Зерно]
+§2[§a+1§2 Decay String]@§2[§a+1§2 Зараженная Нить]
+§2[§a+1§2 Decay Grains]@§2[§a+1§2 Зараженное Зерно]
 §aRice@§aРис
 §2[§a+1§2 Rice String]@§2[§a+1§2 Рисовая Нить]
 §2[§a+1§2 Rice Grains]@§2[§a+1§2 Рисовое Зерно]
@@ -1491,6 +1492,7 @@ Old Druid@Старый Друид
 §bDusk Kantyri Calf§6 [Lv. 100]@§bСумеречный Теленок Кантир§6 [Ур. 100]
 §bRoyal Kantyri Calf§6 [Lv. 100]@§bКоролевский Теленок Кантир§6 [Ур. 100]
 §bRoyal Kanter§6 [Lv. 110]@§bКоролевский Кантер§6 [Ур. 110]
+§bRoyal Kantyr§6 [Lv. 110]@§bКоролевский Кантир§6 [Ур. 110]
 §bHead§6 [Lv. 102]@§bГолова§6 [Ур. 102]
 §bDark Head§6 [Lv. 102]@§bТемная Голова§6 [Ур. 102]
 §bKeystone Guardian§6 [Lv. 100]@§bЗащитник Ключа§6 [Ур. 100]
@@ -2057,6 +2059,7 @@ Gift From Dern@Подарок из Дерна
 §4Gather §l4 §eExplosive Mass@§4Собери §l4 §eВзрывоопасной Массы
 §4Gather §l12 §eExplosive Mass@§4Собери §l12 §eВзрывоопасной Массы
 §7to shatter the door@§7для разрушения двери
+§ato the §2island@§aна §2остров
 §c§lReset@§c§lСброс
 §4§l[10s]@§4§l[10с]
 §4§l[9s]@§4§l[9с]
@@ -2091,6 +2094,7 @@ Gift From Dern@Подарок из Дерна
 §7Get §e[Demonic Bacteria]@§7Добудь §e[Демоническую Бактерию]
 §7Get §d[Lactic Acid Bacteria]@§7Добудь §d[Молочнокислую Бактерию]
 §7Get §6[4 Ironwood Hearts]@§7Добудь §6[4 Железных Сердца]
+§cGet §7[Dogun Badge of Trust]@§cДобудь §7[Знак Доверия Догунов]
 §7Get §e[6 TNT]@§7Добудь §e[6 Динамитов]
 §7Get §e[1 TNT]@§7Добудь §e[1 Динамит]
 §7Get §e[5 TNT]@§7Добудь §e[5 Динамитов]
@@ -2641,6 +2645,8 @@ Gift From Dern@Подарок из Дерна
 §aScared Creeper§6 [Lv. 78]@§aНапуганный Крипер§6 [Ур. 78]
 §aScion of Talor§6 [Lv. 65]@§aНаследник Талора§6 [Ур. 65]
 §aDogun Statue§6 [Lv. 90]@§aСтатуя Догуна§6 [Ур. 90]
+§aCheese Merchant§6 [Lv. 100]@§aПродавец Сыра§6 [Ур. 100]
+§aRat Thief§6 [Lv. 80]@§aКрыса Вор§6 [Ур. 80]
 
 #################################CRATES################################
 §eLoot Crate T1@§eЛут Контейнер У1
@@ -3231,6 +3237,17 @@ Orange Cybel@Оранжевый Кубел
 §f§lCorrupted Hand@ 
 §f§lToxic Drip@ 
 §f§lGateway to Nothing@ 
+§f§lThe Silent Road@ 
+§f§lThe Broken Road@ 
+§f§lWorm Tunnel@ 
+§f§lForgotten Town@ 
+§f§lSinister Forest@ 
+§f§lPaths of Sludge@ 
+§f§lSacrifice@ 
+§f§lVoid Valley@ 
+§f§lToxic Caves@ 
+§f§lBizarre Passage@ 
+§f§lThe Gate@ 
 
 #########################Altars#################################
 §6§lAltar of Sanctification@ 
