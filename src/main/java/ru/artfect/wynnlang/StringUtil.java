@@ -23,11 +23,11 @@ public class StringUtil {
     }
 
     private static String replaceFound(TranslateType type, String str, String replace) {
-        ReverseTranslation.translated.get(type.getClass()).put(replace, str);
-
         if (Reference.modEnabled && !ReverseTranslation.enabled) {
+            ReverseTranslation.translated.get(type.getClass()).put(replace, str);
             return replace;
         } else {
+            ReverseTranslation.translated.get(type.getClass()).put(str, replace);
             return null;
         }
     }
