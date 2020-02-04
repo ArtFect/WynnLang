@@ -452,6 +452,8 @@
 §7\[2\/4\] §2Dren: §aThat should do it. Let’s see if this will work. Come here (.*)!@§7[2/4] §2Дрен: §aЭто должно помочь. Давайте посмотрим, сработает ли это. Встань сюда (r1)!
 §7\[1\/1\] §2Elphaba: §aStay with us (.*), we just got here. We can't just go wandering around.@§7[1/1] §2Эльфаба: §aОстанься с нами (r1), мы только пришли сюда. Мы не можем просто бродить вокруг.
 §7\[1\/1\] §2Aledar: §aStay with us (.*)! We've just had a loss, you can't go wandering around!@§7[1/1] §2Аледар: §aОставайся с нами (r1)! У нас только что была потеря, ты не можешь бродить вокруг!
+§7\[1\/1\] §2Aledar: §aStay with us (.*), we just got here. We can't just go wandering around.@§7[1/1] §2Аледар: §aОстанься с нами (r1), мы только что пришли. Мы не можем просто бродить вокруг.
+§7\[1\/1\] §2Aledar: §aStay with us (.*), we've just had a loss, you can't go wandering around.@§7[1/1] §2Аледар: §aОстанься с нами (r1), мы же только что пришли. Ты не можешь просто бродить вокруг.
 §7\[1\/7\] §2Aledar: §aNo no no!! This is bad, really bad! We have to go (.*)! Now!@§7[1/7] §2Аледар: §aНет нет нет!! Это плохо, очень плохо! Мы должны идти (r1)! Сейчас же!
 §7\[1\/5\] §2Aledar: §a([a-zA-Z0-9_]{1,16})! ([a-zA-Z0-9_]{1,16})!@§7[1/5] §2Аледар: §a(r1)! (r2)!
 §7\[2\/6\] §2Aledar: §aUrrrgh. (.*), this hasn’t gone to plan. According to my map we aren’t even half way.@§7[2/6] §2Аледар: §aУуггхх. (r1), все пошло не по плану. Судя по моей карте, мы не прошли и половины пути.
@@ -469,7 +471,6 @@
 §7\[8\/20\] §2Aledar: §aI §amean...look§a at the state I'm in, (.*)! I'm on death's door already, and you've proven yourself far stronger than I am even at my best.@§7[8/20] §2Аледар: §aЯ про то...посмотри, в каком я состоянии, (r1)! Я уже на пороге смерти, а ты доказал, что ты намного сильнее меня даже в моих лучших проявлениях.
 §7\[13\/20\] §2Aledar: §aGrab the blade, (.*).@§7[13/20] §2Аледар: §aВозьми клинок, (r1).
 §7Hello, ([a-zA-Z0-9_]{1,16}).@§7Здравствуй, (r1).
-§7\[1\/1\] §2Aledar: §aStay with us (.*), we just got here. We can't just go wandering around.@§7[1/1] §2Аледар: §aОстанься с нами (r1), мы только что пришли. Мы не можем просто бродить вокруг.
 
 §7\[3\/4\] §2Employee: §aYes sir, everything went smoothly, (.*) did a great thing for the company.@§7[3/4] §2Служащий: §aДа сэр, все прошло гладко, (r1) сделал великое дело для компании.
 
