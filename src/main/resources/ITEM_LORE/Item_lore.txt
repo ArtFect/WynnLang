@@ -46,6 +46,7 @@
 §7- Refined Gold Ingot 2@§7- Переработанный Слиток Золота 2
 §7- Refined Gold Gem 1@§7- Переработанный Золотой Камень 1
 §7- Refined Gold Gem 2@§7- Переработанный Золотой Камень 2
+§7- Refined Gold Gem 3@§7- Переработанный Золотой Камень 3
 §7- Unprocessed Trout@§7- Необработанная Форель
 §7- Refined Trout Oil 3@§7- Переработанный Жир Форели 3
 §7- Refined Trout Oil 2@§7- Переработанный Жир Форели 2
@@ -103,6 +104,8 @@
 §7- Refined Malt String 1@§7- Переработанная Солодовая Нить 1
 §7- Refined Malt String 2@§7- Переработанная Солодовая Нить 2
 §7- Refined Silver Gem 1@§7- Переработанный Серебрянный Камень 1
+§7- Refined Silver Gem 2@§7- Переработанный Серебрянный Камень 2
+§7- Refined Silver Ingot 1@§7- Переработанный Слиток Серебра 1
 §7- Refined Molten Ingot 1@§7- Переработанный Слиток Молтен 1
 §7- Refined Jungle Wood 1@§7- Переработанная Древесина Амаранта 1
 §7- Refined Jungle Wood 2@§7- Переработанная Древесина Амаранта 2
@@ -113,6 +116,21 @@
 §7- Refined Carp Oil 2@§7- Переработанный Жир Карпа 2
 §7- Refined Icefish Oil 1@§7- Переработанный Жир Щуки 1
 §7- Refined Hops String 1@§7- Переработанная Хмельная Нить 1
+§7- Refined Cobalt Ingot 2@§7- Переработанный Слиток Кобальта 2
+§7- Refined Cobalt Ingot 1@§7- Переработанный Слиток Кобальта 1
+§7- Refined Cobalt Gem 2@§7- Переработанный Кобальтовый Камень 2
+§7- Refined Decay String 1@§7- Переработанный Зараженная Нить 1
+§7- Refined Decay Grains 2@§7- Переработанное Зараженное Зерно 2
+§7- Refined Diamond Ingot 2@§7- Переработанный Слиток Алмаза 2
+§7- Refined Diamond Ingot 3@§7- Переработанный Слиток Алмаза 3
+§7- Refined Avo Wood 2@§7- Переработанная Древесина Авокадо 2
+§7- Refined Avo Wood 1@§7- Переработанная Древесина Авокадо 1 
+§7- Refined Kanderstone Gem 1@§7- Переработанный Кандерстоун Камень 1
+§7- Refined Kanderstone Gem 2@§7- Переработанный Кандерстоун Камень 2
+§7- Refined Kanderstone Gem 3@§7- Переработанный Кандерстоун Камень 3
+§7- Refined Kanderstone Ingot 3@§7- Переработанный Слиток Кандерстоуна 3
+§7- Refined Kanderstone Ingot 1@§7- Переработанный Слиток Кандерстоуна 1
+§7- Refined Gylia Oil 3@§7- Переработанный Жир Гилия 3
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -904,6 +922,8 @@
 §6 - §a✔ §26 Corrupted Charon's Brain@§6 - §a✔ §26 Испорченных Мозгов Харона
 §6 - §c✖ §41 Corrupted Charon's Brain@§6 - §c✖ §41 Испорченный Мозг Харона
 §6 - §c✖ §42 Corrupted Charon's Brain@§6 - §c✖ §42 Испорченных Мозга Харона
+§6 - §a✔ §21 Corrupted Charon's Brain@§6 - §a✔ §21 Испорченный Мозг Харона
+§6 - §a✔ §22 Corrupted Charon's Brain@§6 - §a✔ §22 Испорченных Мозга Харона
 §6 - §c✖ §41 Broken CorruptedÀÀÀUndergrowthÀÀÀRuins Key@§6 - §c✖ §41 Разбитый Испорченный Ключ от Заросших Руин
 §6 - §c✖ §41 Broken CorruptedÀÀÀDecrepitÀÀÀSewers Key@§6 - §c✖ §41 Разбитый Испорченный Ключ от Ветхой Канализации 
 §6 - §c✖ §41 Broken CorruptedÀÀÀInfestedÀÀÀPit Key@§6 - §c✖ §41 Разбитый Испорченный Ключ от Зараженной Ямы 
@@ -1243,6 +1263,7 @@
 §6- §7Leopard Punches§8 [Lv. 21]@§6- §7Удары Леопарда§8 [Ур. 21]
 §6- §fLeopard Punches§7 [Lv. 21]@§6- §fУдары Леопарда§7 [Ур. 21]
 §6- §7Blinding Cloud§8 [Lv. 31]@§6- §7Ослепляющее Облако§8 [Ур. 31]
+§6- §fBlinding Cloud§7 [Lv. 31]@§6- §fОслепляющее Облако§7 [Ур. 31]
 §6- §7Haul§8 [Lv. 11]@§6- §7Бросок§8 [Ур. 11]
 §6- §fHaul§7 [Lv. 11]@§6- §fБросок§7 [Ур. 11]
 §5- §7Haul Spell §8[Lv. 11]@§5- §7Бросок Заклинание §8[Ур. 11]
@@ -1321,6 +1342,7 @@
 §5- §7Haul Upgrade III §8[Lv. 46]@§5- §7Бросок Апгрейд III §8[Ур. 46]
 §5- §7Uproot Upgrade III §8[Lv. 66]@§5- §7Изгнание Апгрейд III §8[Ур. 66]
 §5- §7Aura Upgrade III §8[Lv. 56]@§5- §7Аура Апгрейд III §8[Ур. 56]
+§5- §7Whirlwind Upgrade III §8[Lv. 36]@§5- §7Вихрь Апгрейд III §8[Ур. 36]
 §5- §7None@§5- §7Нет
 §4[Right-Click to Delete]@§4[Правый Клик для Удаления]
 §cYou need to have the@§cТебе нужно иметь
@@ -1444,6 +1466,7 @@
 §bLegendary Item [4]@§bЛегендарный Предмет [4]
 §bLegendary Item [5]@§bЛегендарный Предмет [5]
 §bLegendary Item [6]@§bЛегендарный Предмет [6]
+§bLegendary Item [7]@§bЛегендарный Предмет [7]
 §aSet Item@§aСет Предмет
 §aSet Item [2]@§aСет Предмет [2]
 §aSet Item [3]@§aСет Предмет [3]
@@ -1529,6 +1552,7 @@
 §b   - §7Duration: 7.5 seconds@§b   - §7Длительность: 7.5 секунд
 §f   - §7Duration: 4.5 seconds@§f   - §7Длительность: 4.5 секунд
 §b   - §7Duration: 8.5 seconds@§b   - §7Длительность: 8.5 секунд
+§c   - §7Duration: 7.5 seconds@§c   - §7Длительность: 7.5 секунд
 §2   - §7Radius: 5.5 blocks@§2   - §7Радиус: 5.5 блоков
 §2   - §7Radius: 6 blocks@§2   - §7Радиус: 6 блоков
 §2   - §7Radius: 6.5 blocks@§2   - §7Радиус: 6.5 блоков
@@ -1548,6 +1572,7 @@
 §b   - §7Damage Boost: +120%@§b   - §7Увеличение Урона: +120%
 §f   - §7Damage Boost: +150%@§f   - §7Увеличение Урона: +150%
 §b   - §7Damage Boost: +180%@§b   - §7Увеличение Урона: +180%
+§c   - §7Damage Boost: +130%@§c   - §7Увеличение Урона: +130%
 §e   - §7Chains: 8@§e   - §7Цепей: 8
 §e   - §7Chains: 9@§e   - §7Цепей: 9
 §e   - §7Chains: 7@§e   - §7Цепей: 7
@@ -1900,6 +1925,8 @@
 §a- §7Effect: §f+71§f ❋ Agility@§a- §7Эффект: §f+71§f ❋ Ловкость
 §a- §7Effect: §f+21§f ❋ Agility@§a- §7Эффект: §f+21§f ❋ Ловкость
 §a- §7Effect: §f+8§f ❋ Agility@§a- §7Эффект: §f+8§f ❋ Ловкость
+§a- §7Effect: §f+10§f ❋ Agility@§a- §7Эффект: §f+10§f ❋ Ловкость
+§a- §7Effect: §f+9§f ❋ Agility@§a- §7Эффект: §f+9§f ❋ Ловкость
 §a- §7Effect: §f+16% Walk Speed@§a- §7Эффект: §f+16% Скорость
 §a- §7Effect: §f+6% Walk Speed@§a- §7Эффект: §f+6% Скорость
 §a- §7Effect: §f+10% Walk Speed@§a- §7Эффект: §f+10% Скорость
@@ -1991,6 +2018,8 @@
 §814 and boost your Walk Speed@§814 и увеличит твою Скорость
 §871 and boost your Walk Speed@§871 и увеличит твою Скорость
 §88 and boost your Walk Speed@§88 и увеличит твою Скорость
+§810 and boost your Walk Speed@§810 и увеличит твою Скорость
+§89 and boost your Walk Speed@§89 и увеличит твою Скорость
 §8by 21 and boost your Spell@§8на 21 и увеличит твой Заклинаний 
 §8by 34 and boost your Spell@§8на 34 и увеличит твой Заклинаний
 §8by 27 and boost your Spell@§8на 27 и увеличит твой Заклинаний
@@ -2369,6 +2398,7 @@
 §3Rank: §bVIP+@§3Ранг: §bVIP+
 §7Rank: §fNone@§7Ранг: §fОтсутствует
 §2Rank: §aVIP@§2Ранг: §aVIP
+§5Rank: §dMedia@§5Ранг: §dMedia
 §fCorkus  @§fКоркус
 §7Click here to unlock@§7Кликни здесь для разблокировки 
 §7the next tier@§7следующего уровня
@@ -2570,6 +2600,8 @@
 §7- §dUnidentified Dagger@§7- §dНеидентифицированный Кинжал
 §7- §bUnidentified Dagger@§7- §bНеидентифицированный Кинжал
 §e- §bUnidentified Dagger@§e- §bНеидентифицированный Кинжал
+§e- §aUnidentified Dagger@§e- §aНеидентифицированный Кинжал
+§7- §aUnidentified Dagger@§7- §aНеидентифицированный Кинжал
 §e- §eUnidentified Ring@§e- §eНеидентифицированное Кольцо
 §7- §eUnidentified Ring@§7- §eНеидентифицированное Кольцо
 §e- §dUnidentified Ring@§e- §dНеидентифицированное Кольцо
@@ -2594,6 +2626,7 @@
 §7- §eUnidentified Chestplate@§7- §eНеидентифицированный Нагрудник
 §e- §aUnidentified Chestplate@§e- §aНеидентифицированный Нагрудник
 §7- §aUnidentified Chestplate@§7- §aНеидентифицированный Нагрудник
+§e- §cUnidentified Chestplate@§e- §cНеидентифицированный Нагрудник
 §e- §eUnidentified Wand@§e- §eНеидентифицированный Посох
 §7- §eUnidentified Wand@§7- §eНеидентифицированный Посох
 §e- §bUnidentified Wand@§e- §bНеидентифицированный Посох
@@ -2608,6 +2641,8 @@
 §7- §dUnidentified Bow@§7- §dНеидентифицированный Лук
 §e- §eUnidentified Bow@§e- §eНеидентифицированный Лук
 §7- §eUnidentified Bow@§7- §eНеидентифицированный Лук
+§e- §aUnidentified Bow@§e- §aНеидентифицированный Лук
+§7- §aUnidentified Bow@§7- §aНеидентифицированный Лук
 §e- §bUnidentified Boots@§e- §bНеидентифицированные Ботинки
 §e- §eUnidentified Boots@§e- §eНеидентифицированные Ботинки
 §7- §eUnidentified Boots@§7- §eНеидентифицированные Ботинки
@@ -2631,6 +2666,8 @@
 §e- §bUnidentified Relik@§e- §bНеидентифицированный Релик
 §7- §bUnidentified Relik@§7- §bНеидентифицированный Релик
 §7- §dUnidentified Relik@§7- §dНеидентифицированный Релик
+§e- §aUnidentified Relik@§e- §aНеидентифицированный Релик
+§7- §aUnidentified Relik@§7- §aНеидентифицированный Релик
 
 ############################ITEMS#############################
 §7Crafting Material@§7Материал для Крафта
