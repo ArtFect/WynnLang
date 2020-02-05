@@ -220,6 +220,7 @@ QUESTS/A_Hunter's_Calling
 §7noble hid it. The one @§7спрятали его. Тот, кто искал 
 §7seeking answers found more questions. @§7ответы, нашел еще больше вопросов. 
 §7Another beginning...to a new end. @§7Другое начало...нового конца.
+§7Kill ten Ragni Citizens @§7Убей десять Жителей Рагни
 §7Head to town and get @§7Отправляйся в город и получи
 §7further information from the employee. @§7больше информации от служащего.
 §7Climb up the tree and @§7Заберись на дерево и
@@ -1334,6 +1335,7 @@ QUESTS/Lost_in_the_Jungle
 §7Search the Dernel Jungle for @§7Отыщи в Дернел джунглях 
 §7Aryn @§7Арина 
 §7Defeat the spirit possessing Aryn @§7Победи одержимого духом Арина
+§7Make sure Aryn is safe @§7Убедись, что Арин в безопасности
 §7Bring the Mysterious Gemstone to @§7Принеси загадочный драгоценный камень 
 §7Gracen @§7Грацену
  
@@ -1474,6 +1476,7 @@ QUESTS/Memory_Paranoia
 §7Exit the Kitchen @§7Покинь кухню
 §7Unlock the Study @§7Открой кабинет 
 §7Enter the Study @§7Войди в кабинет 
+§7Leave the Study @§7Покинь кабинет
 §7Bring the key to the @§7Принеси ключ 
 §7Master Bedroom @§7к главной спальне 
 §7Enter the Master Bedroom @§7Войди в главную спальню
@@ -1496,6 +1499,8 @@ QUESTS/Misadventure_on_the_Sea
 §7Go to the Nemract docks @§7Иди в доки Немракта  
 §7to go back in the @§7чтобы вернуться на 
 §7boat at [104, 24, -2282] @§7лодку [104, 24, -2282]
+§7boat at @§7лодку на
+§7[104,24,-2282]@ 
 §7Clean the bodies in the @§7Очисти тела на 
 §7boat. Look for clues on @§7лодке. Поищи подсказки о том 
 §7how to escape at the @§7как сбежать в это же 
@@ -2258,6 +2263,11 @@ QUESTS/The_Hunger_of_Gerts_Part_I
 §7Kill the Hungry Gert and @§7Убей голодного Герта и 
 §7return to Comor with the @§7вернись к Комору с 
 §7[Cell Key] @§7[Ключом от клетки]
+§7Kill the Gerten Prison Warden @§7Убей Надзирателя Герт Тюрьмы 
+§7and use the Barricade Key @§7и используй Ключ от Баррикад
+§7on Barricade Keyhole to escape @§7на замке баррикад для побега
+§7Make your way to Big @§7Найди путь в 
+§7Butchs room @§7комнату Мясника
 §7Leave the Gerten prison and @§7Покинь тюрьму Гертов 
 §7return to Cikal to tell @§7и вернись к Цикалу 
 §7him about the tunnels @§7с рассказом о тоннелях
@@ -2332,7 +2342,11 @@ QUESTS/The_Olmic_Rune
 §7Find some sort of fuel @§7Найди какое-то топливо 
 §7in the ruined city @§7в этом разрушенном городе
 §7fuel @§7топлива
+§7Collect [32 Fuel Sprites] and @§7Собери [32 Топливных Спрайта] и
+§7machine. @§7машину
 §7Head back to the machine @§7Вернись обратно к машине
+§7Defend the machine from the @§7Защити машину от 
+§7incoming attackers. @§7входящих атак.
 §7Enter the opened crypt. @§7Войди в открытую гробницу.
 §7Illuminates@§7Освети
 
