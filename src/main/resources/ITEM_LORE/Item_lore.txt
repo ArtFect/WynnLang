@@ -545,6 +545,7 @@
 §a✔ Lv. 20: §f2§7 Salmon Oil§f Ⓚ@§a✔ Ур. 20: §f2§7 Жира Лосося§f Ⓚ
 §c✖ Lv. 30: §f6§7 Carp Meat§f Ⓚ@§c✖ Ур. 30: §f6§7 Мяса Карпа§f Ⓚ
 §a✔ Lv. 30: §f3§7 Carp Oil§f Ⓚ@§a✔ Ур. 30: §f3§7 Жира Карпа§f Ⓚ
+§c✖ Lv. 30: §f3§7 Carp Oil§f Ⓚ@§c✖ Ур. 30: §f3§7 Жира Карпа§f Ⓚ
             §f3§7 Malt Grains§f Ⓙ@            §f3§7 Солодового Зерна§f Ⓙ
             §f6§7 Malt Grains§f Ⓙ@            §f6§7 Солодового Зерна§f Ⓙ	
 §a✔ Lv. 30: §f3§7 Sandstone Gem§f Ⓑ@§a✔ Ур. 30: §f3§7 Песчаных Камня§f Ⓑ
@@ -558,6 +559,7 @@
             §f3§7 Spruce Paper§f Ⓒ@            §f3§7 Еловой Бумаги§f Ⓒ
             §f6§7 Hops Grains§f Ⓙ@            §f6§7 Хмельного Зерна§f Ⓙ
 §c✖ Lv. 50: §f4§7 Silver Gem§f Ⓑ@§c✖ Ур. 50: §f4§7 Серебрянного Камня§f Ⓑ
+§a✔ Lv. 50: §f4§7 Silver Gem§f Ⓑ@§a✔ Ур. 50: §f4§7 Серебрянных Камня§f Ⓑ
             §f4§7 Piranha Oil§f Ⓚ@            §f4§7 Жира Пираньи§f Ⓚ
             §f8§7 Piranha Oil§f Ⓚ@            §f8§7 Жира Пираньи§f Ⓚ
             §f12§7 Piranha Oil§f Ⓚ@            §f12§7 Жира Пираньи§f Ⓚ
@@ -587,21 +589,59 @@
 §a✔ Lv. 10: §f4§7 Trout Meat§f Ⓚ@§a✔ Ур. 10: §f4§7 Мяса Форели§f Ⓚ
 §a✔ Lv. 70: §f10§7 Decay String§f Ⓙ@§a✔ Ур. 70: §f10§7 Зараженных Нитей§f Ⓙ
 §a✔ Lv. 70: §f5§7 Decay String§f Ⓙ@§a✔ Ур. 70: §f5§7 Зараженных Нитей§f Ⓙ
+§c✖ Lv. 70: §f10§7 Decay String§f Ⓙ@§c✖ Ур. 70: §f10§7 Зараженных Нитей§f Ⓙ
+§c✖ Lv. 70: §f5§7 Decay String§f Ⓙ@§c✖ Ур. 70: §f5§7 Зараженных Нитей§f Ⓙ
             §f5§7 Decay String§f Ⓙ@            §f5§7 Зараженных Нитей§f Ⓙ
             §f10§7 Decay String§f Ⓙ@            §f10§7 Зараженных Нитей§f Ⓙ
+            §f10§7 Decay Grains§f Ⓙ@            §f10§7 Зараженных Зерен§f Ⓙ
             §f5§7 Light Wood§f Ⓒ@            §f5§7 Древесины Клена§f Ⓒ
             §f10§7 Light Wood§f Ⓒ@            §f10§7 Древесины Клена§f Ⓒ
+            §f10§7 Light Paper§f Ⓒ@            §f10§7 Кленовой Бумаги§f Ⓒ
+            §f5§7 Light Paper§f Ⓒ@            §f5§7 Кленовой Бумаги§f Ⓒ
 §a✔ Lv. 80: §f10§7 Rice String§f Ⓙ@§a✔ Ур. 80: §f10§7 Рисовых Нитей§f Ⓙ
 §a✔ Lv. 80: §f5§7 Rice String§f Ⓙ@§a✔ Ур. 80: §f5§7 Рисовых Нитей§f Ⓙ
+§c✖ Lv. 80: §f10§7 Rice String§f Ⓙ@§c✖ Ур. 80: §f10§7 Рисовых Нитей§f Ⓙ
+§c✖ Lv. 80: §f5§7 Rice String§f Ⓙ@§c✖ Ур. 80: §f5§7 Рисовых Нитей§f Ⓙ
+            §f10§7 Rice String§f Ⓙ@            §f10§7 Рисовых Нитей§f Ⓙ
+            §f5§7 Rice String§f Ⓙ@            §f5§7 Рисовых Нитей§f Ⓙ
+            §f10§7 Rice Grains§f Ⓙ@            §f10§7 Рисового Зерна§f Ⓙ
             §f5§7 Pine Wood§f Ⓒ@            §f5§7 Древесины Сосны§f Ⓒ
             §f10§7 Pine Wood§f Ⓒ@            §f10§7 Древесины Сосны§f Ⓒ
+            §f10§7 Pine Paper§f Ⓒ@            §f10§7 Сосновой Бумаги§f Ⓒ
+            §f5§7 Pine Paper§f Ⓒ@            §f5§7 Сосновой Бумаги§f Ⓒ
 §c✖ Lv. 90: §f12§7 Sorghum String§f Ⓙ@§c✖ Ур. 90: §f12§7 Сорго Нитей§f Ⓙ
 §c✖ Lv. 90: §f6§7 Sorghum String§f Ⓙ@§c✖ Ур. 90: §f6§7 Сорго Нитей§f Ⓙ
+            §f12§7 Sorghum String§f Ⓙ@            §f12§7 Сорго Нитей§f Ⓙ
+            §f6§7 Sorghum String§f Ⓙ@            §f6§7 Сорго Нитей§f Ⓙ
+            §f12§7 Sorghum Grains§f Ⓙ@            §f12§7 Сорго Зерен§f Ⓙ
             §f6§7 Avo Wood§f Ⓒ@            §f6§7 Древесины Авокадо§f Ⓒ
             §f12§7 Avo Wood§f Ⓒ@            §f12§7 Древесины Авокадо§f Ⓒ
+            §f12§7 Avo Paper§f Ⓒ@            §f12§7 Авокадовой Бумаги§f Ⓒ
+            §f6§7 Avo Paper§f Ⓒ@            §f6§7 Авокадовой Бумаги§f Ⓒ
 §a✔ Lv. 70: §f10§7 Gylia Oil§f Ⓚ@§a✔ Ур. 70: §f10§7 Жира Гилия§f Ⓚ
+§c✖ Lv. 70: §f10§7 Gylia Oil§f Ⓚ@§c✖ Ур. 70: §f10§7 Жира Гилия§f Ⓚ
+§c✖ Lv. 70: §f5§7 Gylia Oil§f Ⓚ@§c✖ Ур. 70: §f5§7 Жира Гилия§f Ⓚ
+§a✔ Lv. 70: §f5§7 Gylia Oil§f Ⓚ@§a✔ Ур. 70: §f5§7 Жира Гилия§f Ⓚ
+            §f5§7 Gylia Oil§f Ⓚ@            §f5§7 Жира Гилия§f Ⓚ
+            §f10§7 Gylia Oil§f Ⓚ@            §f10§7 Жира Гилия§f Ⓚ
+            §f15§7 Gylia Oil§f Ⓚ@            §f15§7 Жира Гилия§f Ⓚ
 §a✔ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§a✔ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
+§c✖ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
+§c✖ Lv. 80: §f5§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f5§7 Жира Окуня§f Ⓚ
+§a✔ Lv. 80: §f5§7 Bass Oil§f Ⓚ@§a✔ Ур. 80: §f5§7 Жира Окуня§f Ⓚ
+            §f5§7 Bass Oil§f Ⓚ@            §f5§7 Жира Окуня§f Ⓚ
+            §f10§7 Bass Oil§f Ⓚ@            §f10§7 Жира Окуня§f Ⓚ
+            §f15§7 Bass Oil§f Ⓚ@            §f15§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 90: §f12§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f12§7 Жира Угря§f Ⓚ
+§c✖ Lv. 90: §f6§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f6§7 Жира Угря§f Ⓚ
+            §f6§7 Molten Oil§f Ⓚ@            §f6§7 Жира Угря§f Ⓚ
+            §f12§7 Molten Oil§f Ⓚ@            §f12§7 Жира Угря§f Ⓚ
+            §f18§7 Molten Oil§f Ⓚ@            §f18§7 Жира Угря§f Ⓚ
+§a✔ Lv. 90: §f6§7 Molten Ingot§f Ⓑ@§a✔ Ур. 90: §f6§7 Молтен Слитков§f Ⓑ
+§a✔ Lv. 90: §f12§7 Molten Ingot§f Ⓑ@§a✔ Ур. 90: §f12§7 Молтен Слитков§f Ⓑ
+§c✖ Lv. 90: §f6§7 Molten Ingot§f Ⓑ@§c✖ Ур. 90: §f6§7 Молтен Слитков§f Ⓑ
+§c✖ Lv. 90: §f12§7 Molten Ingot§f Ⓑ@§c✖ Ур. 90: §f12§7 Молтен Слитков§f Ⓑ
+§c✖ Lv. 90: §f6§7 Molten Gem§f Ⓑ@§c✖ Ур. 90: §f6§7 Молтен Камней§f Ⓑ
 §a✔ Lv. 20: §f2§7 Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f2§7 Золотых Слитка§f Ⓑ
 §a✔ Lv. 20: §f4§7 Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f4§7 Золотых Слитка§f Ⓑ
 §c✖ Lv. 20: §f2§7 Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f2§7 Золотых Слитка§f Ⓑ
@@ -671,6 +711,8 @@
 §c✖ Lv. 60: §f8§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f8§7 Кобальтовых Слитка§f Ⓑ
 §a✔ Lv. 60: §f4§7 Cobalt Ingot§f Ⓑ@§a✔ Ур. 60: §f4§7 Кобальтовых Слитка§f Ⓑ
 §a✔ Lv. 60: §f8§7 Cobalt Ingot§f Ⓑ@§a✔ Ур. 60: §f8§7 Кобальтовых Слитка§f Ⓑ
+§c✖ Lv. 60: §f4§7 Cobalt Gem§f Ⓑ@§c✖ Ур. 60: §f4§7 Кобальтовых Камня§f Ⓑ
+§a✔ Lv. 60: §f4§7 Cobalt Gem§f Ⓑ@§a✔ Ур. 60: §f4§7 Кобальтовых Камня§f Ⓑ
             §f8§7 Dark Wood§f Ⓒ@            §f8§7 Древесины Каштана§f Ⓒ
             §f4§7 Dark Wood§f Ⓒ@            §f4§7 Древесины Каштана§f Ⓒ
 §c✖ Lv. 50: §f8§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f8§7 Ржаных Нитей§f Ⓙ
@@ -678,10 +720,34 @@
             §f8§7 Rye String§f Ⓙ@            §f8§7 Ржаных Нитей§f Ⓙ
             §f4§7 Rye String§f Ⓙ@            §f4§7 Ржаных Нити§f Ⓙ
 §c✖ Lv. 50: §f8§7 Piranha Oil§f Ⓚ@§c✖ Ур. 50: §f8§7 Жира Пираньи§f Ⓚ
+§a✔ Lv. 60: §f8§7 Millet String§f Ⓙ@§a✔ Ур. 60: §f8§7 Просо Нитей§f Ⓙ
+§a✔ Lv. 60: §f4§7 Millet String§f Ⓙ@§a✔ Ур. 60: §f4§7 Просо Нити§f Ⓙ
             §f8§7 Millet String§f Ⓙ@            §f8§7 Просо Нитей§f Ⓙ
             §f4§7 Millet String§f Ⓙ@            §f4§7 Просо Нити§f Ⓙ
+            §f8§7 Millet Grains§f Ⓙ@            §f8§7 Просо Зерен§f Ⓙ
 §c✖ Lv. 70: §f5§7 Kanderstone Ingot§f Ⓑ@§c✖ Ур. 70: §f5§7 Кандерстоун Слитков§f Ⓑ
 §c✖ Lv. 70: §f10§7 Kanderstone Ingot§f Ⓑ@§c✖ Ур. 70: §f10§7 Кандерстоун Слитков§f Ⓑ
+§a✔ Lv. 70: §f5§7 Kanderstone Ingot§f Ⓑ@§a✔ Ур. 70: §f5§7 Слитков Кандерстоуна§f Ⓑ
+§a✔ Lv. 70: §f10§7 Kanderstone Ingot§f Ⓑ@§a✔ Ур. 70: §f10§7 Слитков Кандерстоуна§f Ⓑ
+§c✖ Lv. 70: §f5§7 Kanderstone Gem§f Ⓑ@§c✖ Ур. 70: §f5§7 Кандерстоун Камня§f Ⓑ
+§a✔ Lv. 70: §f5§7 Kanderstone Gem§f Ⓑ@§a✔ Ур. 70: §f5§7 Кандерстоун Камня§f Ⓑ
+§c✖ Lv. 100: §f6§7 Voidstone Ingot§f Ⓑ@§c✖ Ур. 100: §f6§7 Слитков Войдстоуна§f Ⓑ
+§c✖ Lv. 100: §f12§7 Voidstone Ingot§f Ⓑ@§c✖ Ур. 100: §f12§7 Слитков Войдстоуна§f Ⓑ
+             §f12§7 Sky Paper§f Ⓒ@             §f12§7 Лиственной Бумаги§f Ⓒ
+             §f6§7 Sky Paper§f Ⓒ@             §f6§7 Лиственной Бумаги§f Ⓒ
+            §f4§7 Koi Oil§f Ⓚ@            §f4§7 Жира Сазана§f Ⓚ
+            §f8§7 Koi Oil§f Ⓚ@            §f8§7 Жира Сазана§f Ⓚ
+            §f12§7 Koi Oil§f Ⓚ@            §f12§7 Жира Сазана§f Ⓚ
+§a✔ Lv. 60: §f8§7 Koi Oil§f Ⓚ@§a✔ Ур. 60: §f8§7 Жира Сазана§f Ⓚ
+§a✔ Lv. 60: §f4§7 Koi Oil§f Ⓚ@§a✔ Ур. 60: §f4§7 Жира Сазана§f Ⓚ
+§c✖ Lv. 80: §f5§7 Diamond Ingot§f Ⓑ@§c✖ Ур. 80: §f5§7 Слитков Алмаза§f Ⓑ
+§c✖ Lv. 80: §f10§7 Diamond Ingot§f Ⓑ@§c✖ Ур. 80: §f10§7 Слитков Алмаза§f Ⓑ
+§a✔ Lv. 80: §f5§7 Diamond Ingot§f Ⓑ@§a✔ Ур. 80: §f5§7 Слитков Алмаза§f Ⓑ
+§a✔ Lv. 80: §f10§7 Diamond Ingot§f Ⓑ@§a✔ Ур. 80: §f10§7 Слитков Алмаза§f Ⓑ
+§c✖ Lv. 80: §f5§7 Diamond Gem§f Ⓑ@§c✖ Ур. 80: §f5§7 Алмазных Камней§f Ⓑ
+§a✔ Lv. 80: §f5§7 Diamond Gem§f Ⓑ@§a✔ Ур. 80: §f5§7 Алмазных Камней§f Ⓑ
+             §f12§7 Hemp String§f Ⓙ@             §f12§7 Конопляных Нитей§f Ⓙ
+             §f6§7 Hemp String§f Ⓙ@             §f6§7 Конопляных Нитей§f Ⓙ
 
 #############################POWDERS#############################
 §8Adding 2 powders of tier 4-6@§8Добавление 2 порошков уровня 4-6
