@@ -1520,7 +1520,7 @@ Old Druid@Старый Друид
 §6✦ §eThunder §6✦@§6✦ §eГром §6✦
 §3❉ §bWater §3❉@§3❉ §bВода §3❉
 §2✤ §aEarth §2✤@§2✤ §aЗемля §2✤
-§7❋ §rAir §7❋@§7❋ §fВоздух §7❋
+§7❋ Air §7❋@§7❋ §fВоздух §7❋
 §8§lDig Dirt@§8§lКопать Землю
 §b§lSteal the Treasure@§b§lУкрасть Сокровище
 §7[Left click to harvest]@§7[Левый клик для сбора]
@@ -1530,7 +1530,7 @@ Old Druid@Старый Друид
 §7This structure might break@§7Эта структура может сломаться
 §4§lCorrupted Infested Pit@§4§lИспорченная Зараженная Яма
 §4§lInfested Pit@§4§lЗараженная Яма
-§rWelcome to §a§lWynncraft@§fДобро пожаловать на §a§lWynncraft
+Welcome to §a§lWynncraft@§fДобро пожаловать на §a§lWynncraft
 §6The Minecraft MMORPG@§6Майнкрафт ММОРПГ
 §7Start your journey from humble beginnings@§7Начни свое приключение с простого начала
 §7in the Wynn province and explore one of the@§7в провинции Винн и исследуй одну из самых
@@ -1584,8 +1584,8 @@ Old Druid@Старый Друид
 §7The CT are everyday players who@§7CT - повседневные игроки, которые
 §7joined the team in order to create...@§7присоединяются к команде для создания...
 §bSupport Wynncraft@§bПоддержи Wynncraft
-§rquests§7, §rbuilds§7, §ritems§7. §rCMBs§7,@§fквестов§7, §fпостроек§7, §fпредметов§7. §fком.блоков§7,
-§rmobs§7, §rcinematics §7& §rmuch more!@§fмобов§7, §fкат-сцен §7и §fмногого другого!
+quests§7, builds§7, items§7. CMBs§7,@§fквестов§7, §fпостроек§7, §fпредметов§7. §fком.блоков§7,
+mobs§7, cinematics §7& much more!@§fмобов§7, §fкат-сцен §7и §fмногого другого!
 §bSupport Wynncraft@§bПоддержи Wynncraft
 §7Chat Colour@§7Цвет в Чате
 §7Chat Tag@§7Чат Тэг
@@ -1602,7 +1602,7 @@ Old Druid@Старый Друид
 §a§lWood Refinery@§a§lПереработка Дерева
 §7Left-Click to refine §fⒸ Logs§7 into@§7Левый Клик для переработки §fⒸ Бревен§7 в
 §7§fⒾⒼ Wood§7 or §fⒺⒽ Paper@§7§fⒾⒼ Древесину§7 или §fⒺⒽ Бумагу
-§fⒼ §6§lWeaponsmithing§r§f Ⓖ@§fⒼ §6§lОружейное Дело§f Ⓖ
+§fⒼ §6§lWeaponsmithing§f Ⓖ@§fⒼ §6§lОружейное Дело§f Ⓖ
 §7§7Crafting Station@§7§7Станция Крафта
 §7§7Spears and Daggers@§7§7Копья и Кинжалы
 §a§lCrop Refinery@§a§lПереработка Урожая
@@ -1611,13 +1611,13 @@ Old Druid@Старый Друид
 §a§lOre Refinery@§a§lПереработка Руды
 §7Left-Click to refine §fⒷ Ores§7 into@§7Левый Клик для переработки §fⒷ Руды§7 в
 §7§fⒼⒻⒽ Ingots§7 or §fⒹ Gems@§7§fⒼⒻⒽ Слитки§7 или §fⒹ Камни
-§fⒾ §6§lWoodworking§r§f Ⓘ@§fⒾ §6§lДеревообработка§f Ⓘ
+§fⒾ §6§lWoodworking§f Ⓘ@§fⒾ §6§lДеревообработка§f Ⓘ
 §7§7Bows, Wands and Reliks@§7§7Луки, Посохи и Релики
 §7Sell, scrap and repair items@§7Продажа, утилизация и починка предметов
-§fⒶ §6§lCooking§r§f Ⓐ@§fⒶ §6§lКулинария§f Ⓐ
+§fⒶ §6§lCooking§f Ⓐ@§fⒶ §6§lКулинария§f Ⓐ
 §7§7Food@§7§7Еда
 §cClick for Options@§cНажми для Опций
-§fⒺ §6§lScribing§r§f Ⓔ@§fⒺ §6§lИзготовление свитков§f Ⓔ
+§fⒺ §6§lScribing§f Ⓔ@§fⒺ §6§lИзготовление свитков§f Ⓔ
 §7§7Scrolls@§7§7Свитки
 §a§lFish Refinery@§a§lПереработка Рыбы
 §7Left-Click to refine §fⓀ Fish§7 into@§7Левый Клик для переработки §fⓀ Рыбы§7 на
@@ -1638,11 +1638,11 @@ Old Druid@Старый Друид
 §a§lWynncraft §2Ranks@§a§lWynncraft §2Ранги
 §dPurple@§dФиолетовый
 1x §dT2 ✫✫@1x §dУ2 ✫✫
-§fⒽ §6§lArmouring§r§f Ⓗ@§fⒽ §6§lИзготовление брони§f Ⓗ
+§fⒽ §6§lArmouring§f Ⓗ@§fⒽ §6§lИзготовление брони§f Ⓗ
 §7§7Helmets and Chestplates@§7§7Шлема и Нагрудники
-§fⒻ §6§lTailoring§r§f Ⓕ@§fⒻ §6§lПортняжное дело§f Ⓕ
+§fⒻ §6§lTailoring§f Ⓕ@§fⒻ §6§lПортняжное дело§f Ⓕ
 §7§7Boots and Pants@§7§7Ботинки и Штаны
-§fⓁ §6§lAlchemism§r§f Ⓛ@§fⓁ §6§lАлхимия§f Ⓛ
+§fⓁ §6§lAlchemism§f Ⓛ@§fⓁ §6§lАлхимия§f Ⓛ
 §7§7Potions@§7§7Зелья
 §2[§aHarvest Saccharum§2]@§2[§aСбор Сахара§2]
 §fto open the door@§fчтобы открыть дверь
@@ -1650,7 +1650,7 @@ Old Druid@Старый Друид
 §cTrade Market@§cТрейд Маркет
 §7Buy & sell items@§7Покупка и продажа предметов
 §7on the market@§7через маркет
-§fⒹ §6§lJeweling§r§f Ⓓ@§fⒹ §6§lИзготовление аксессуаров§f Ⓓ
+§fⒹ §6§lJeweling§f Ⓓ@§fⒹ §6§lИзготовление аксессуаров§f Ⓓ
 §7§7Accessories@§7§7Аксессуары
 §7Durability:@§7Прочность:
 §6Right click §eto place the gem@§6Правый клик §eдля установки камня
@@ -1681,7 +1681,7 @@ Old Druid@Старый Друид
 §7To destroy the debris@§7Для уничтожения обломков
 §7To Push@§7Чтобы толкнуть
 §6Place@§6Поставить
-§cReset§r@§cСброс
+§cReset@§cСброс
 §6Pick-up@§6Подобрать
 §2[§aGet Whiskey§2]@§2[§aПолучить Виски§2]
 §2[§aGet Water§2]@§2[§aПолучить Воду§2]
@@ -1756,7 +1756,7 @@ Level §c70-80@Уровень §c70-80
 §aExit to spawn@§aВыход на спавн
 §bThrow §3[1 TNT] §bto the hopper to continue.@§bСбрось §3[1 Динамит] §bв воронку для продолжения.
 §bPress and hold to defuse.@§bНажми и держи для обезвреживания.
-§aStart§r@§aСтарт
+§aStart@§aСтарт
 §4§lCorrupted §6§lLost Sanctuary@§4§lИспорченное §6§lЗатерянное Святилище
 §4§lCorrupted Gate@§4§lИспорченные Врата
 §4§lCorrupted §2§lUnderworld Crypt@§4§lИспорченный §2§lПодземный Склеп
@@ -1817,26 +1817,26 @@ Level §c70-80@Уровень §c70-80
 §f§lC@ 
 §8§lD@ 
 §aFinish@§aФиниш
-§6Submit§r@§6Подтвердить
-§6Cannon x2§r@§6Пушка x2
-§6Cart x1§r@§6Вагонетка x1
-§6Fan x1§r@§6Фен x1
-§6Hammer x1§r@§6Молот x1
-§e§nChoose machine part§r@§e§nВыбрать часть машины
-§e§nChoose from 1 to 10§r@§e§nВыбрать от 1 до 10
-§e§nChoose from A to D§r@§e§nВыбрать от A до D
+§6Submit@§6Подтвердить
+§6Cannon x2@§6Пушка x2
+§6Cart x1@§6Вагонетка x1
+§6Fan x1@§6Фен x1
+§6Hammer x1@§6Молот x1
+§e§nChoose machine part@§e§nВыбрать часть машины
+§e§nChoose from 1 to 10@§e§nВыбрать от 1 до 10
+§e§nChoose from A to D@§e§nВыбрать от A до D
 §6B@ 
 §6A@ 
 §6D@ 
 §6C@ 
-§6Left§r@§6Влево
-§e§nChoose facing§r@§e§nВыбрать направление
-§6Right§r@§6Вправо
-§6Cart x0§r@§6Вагонетка x0
-§6Cannon x1§r@§6Пушка x1
-§6Cannon x0§r@§6Пушка x0
-§6Fan x0§r@§6Фен x0
-§6Hammer x0§r@§6Молот x0
+§6Left@§6Влево
+§e§nChoose facing@§e§nВыбрать направление
+§6Right@§6Вправо
+§6Cart x0@§6Вагонетка x0
+§6Cannon x1@§6Пушка x1
+§6Cannon x0@§6Пушка x0
+§6Fan x0@§6Фен x0
+§6Hammer x0@§6Молот x0
 §6Right-click to dig@§6Правый клик для копания
 §7Old Key@§7Старый Ключ
 §fto continue@§fдля продолжения
@@ -1866,9 +1866,9 @@ Level §c70-80@Уровень §c70-80
 §7to fight Boss 1@§7для битвы с Боссом 1
 §7to fight Boss 3@§7для битвы с Боссом 3
 §7to revive General Graken@§7для возрождения Генерала Гракена
-§7Collect and throw §3§l[16 Armory Tokens]§r§7 in the hopper to proceed@§7Собери и сбрось §3§l[16 Оружейных Жетонов]§7 в воронку для продолжения
-§7Collect and throw §3§l[16 Brig Tokens]§r§7 in the hopper to proceed@§7Собери и сбрось §3§l[16 Бриг Жетонов]§7 в воронку для продолжения
-§7Collect and throw §3§l[1 Crash Site Token]§r§7 in the hopper to proceed@§7Собери и сбрось §3§l[1 Жетон Кораблекрушения]§7 в воронку для продолжения
+§7Collect and throw §3§l[16 Armory Tokens]§7 in the hopper to proceed@§7Собери и сбрось §3§l[16 Оружейных Жетонов]§7 в воронку для продолжения
+§7Collect and throw §3§l[16 Brig Tokens]§7 in the hopper to proceed@§7Собери и сбрось §3§l[16 Бриг Жетонов]§7 в воронку для продолжения
+§7Collect and throw §3§l[1 Crash Site Token]§7 in the hopper to proceed@§7Собери и сбрось §3§l[1 Жетон Кораблекрушения]§7 в воронку для продолжения
 §c19s@§c19с
 §c18s@§c18с
 §c17s@§c17с
@@ -1998,11 +1998,11 @@ dust@пыль
 §6Resource Mine@§6Шахта с Ресурсами
 §7Engraved Stone@§7Могильная Плита
 §aChoose the correct §cvein§a to cut@§aВыбери правильную §cлиану§a для обрезания
-§aHumans§r@§aЛюди
-§aDoguns§r@§aДогуны
-§aGreenskins§r@§aЗеленокожие
-§aDwarves§r@§aГномы
-§aElves§r@§aЭльфы
+§aHumans@§aЛюди
+§aDoguns@§aДогуны
+§aGreenskins@§aЗеленокожие
+§aDwarves@§aГномы
+§aElves@§aЭльфы
 §aVillagers@§aЖители
 §8Lutho Citizen@§8Житель Луто
 §8§lRight-Click@§8§lПравый Клик
@@ -2020,7 +2020,7 @@ dust@пыль
 §7Temple Wolf@§7Храм Волков
 §7boost you up!@§7поднятия тебя вверх!
 §6Right Click§7 to@§6Правый Клик§7 для
-§6Left Click§7 to end §cSlykaar§r!@§6Левый Клик§7 для убийства §cСлайкаара!
+§6Left Click§7 to end §cSlykaar!@§6Левый Клик§7 для убийства §cСлайкаара!
 Gift From Dern@Подарок из Дерна
 §6Calling...@§6Вызов...
 §5§lEldritch Outlook@§5§lЖуткий Наблюдатель
@@ -2076,7 +2076,7 @@ Gift From Dern@Подарок из Дерна
 §7Level: §f98@§7Уровень: §f98
 §7Level: §f94@§7Уровень: §f94
 §7Level: §f90@§7Уровень: §f90
-§7Level: §r90@§7Уровень: §f90
+§7Level: 90@§7Уровень: §f90
 §7Level: §f86@§7Уровень: §f86
 §7Level: §f82@§7Уровень: §f82
 §7Level: §f70@§7Уровень: §f70

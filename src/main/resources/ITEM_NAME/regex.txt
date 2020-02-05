@@ -16,7 +16,7 @@
 §f§lPage (\d+)§a <§2<§a<§2<§a<@§f§lСтраница (r1)§a <§2<§a<§2<§a<
 §7Forward to §fPage (\d+)@§7Перейти на §f(r1) страницу
 §7Back to §fPage (\d+)@§7Назад на §f(r1) страницу
-§r§l(.*)'s Info@§f§l(r1) Инфо
+§l(.*)'s Info@§f§l(r1) Инфо
 §f<< §7(.*)'s Side@§f<< §7(r1) Сторона
 §(2|a|6)§l(.*)À §e\[Tracked\]@§(r1)§l(r2) §e[Отслеживание] 
 §l(\d+)§b Soul Points@§l(r1)§b Очков Душ

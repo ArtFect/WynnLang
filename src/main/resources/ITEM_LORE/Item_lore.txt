@@ -330,10 +330,10 @@
 §7A poisonous tumour developing on the vines of the plant monster.@§7Ядовитая опухоль, развивающаяся на лианах растения монстра.
 §7If used correctly, it could kill off the monster!@§7Используя правильно, это может убить монстра!
 §7Head To Traitor Camp Entrance: -830, 85, -673@§7Отправляйся ко входу в Лагерь Предателей: -830, 85, -673
-§7§kUse§r §kthis§r §kto§r §kgain§r §kanswers:§r @§7§kIspolzui §keto §kchtoby §kpoluchit §kotvety:
+§7§kUse §kthis §kto §kgain §kanswers: @§7§kIspolzui §keto §kchtoby §kpoluchit §kotvety:
 §8[Map] §7Bookshelf 1@§8[Карта] §7Книжный шкаф 1
 §9Quest: §6Beyond the Grave@§9Квест: §6Beyond the Grave
-§7§kThis§r §kshall§r §kgive§r §kyou§r §kguidance:§r @§7§kEto §kdolzhno §kdat §ktebe §kotvety:
+§7§kThis §kshall §kgive §kyou §kguidance: @§7§kEto §kdolzhno §kdat §ktebe §kotvety:
 §7The orb is filled with flowi§f§ln§7g@§f§lС§7фера заполнена текучей
 §7water magic. It's ice c§f§lo§7ld to@§7маги§f§lе§7й воды. Она холодная 
 §7the touch. If the o§f§lr§7b was@§7на ощупь. Если сферу использо§f§lв§7ать
@@ -377,8 +377,8 @@
 §7The totem contains a lot of magical@§7Тотем содержит много магической
 §7nature energy. If released@§7энергии природы. Если ее выпустить, 
 §7unknown effects may occur.@§7могут возникнуть неизвестные эффекты.
-§7§kBe§r §ksure§r §kto§r §kdrink§r §kyour§r @§7§kUbedis §kchto §kvipesh §kdsvoy
-§7§kNemract§r §kWhiskey§r @§7§kNemract §kViski
+§7§kBe §ksure §kto §kdrink §kyour @§7§kUbedis §kchto §kvipesh §kdsvoy
+§7§kNemract §kWhiskey @§7§kNemract §kViski
 §7Exchange this for an@§7Обменяй это на
 §7item at the §fSquid Shop@§7предмет в §fМагазине Кальмара
 §7Trade for prizes at the@§7Обменяй на призы в
@@ -386,16 +386,15 @@
 §7Trade for powerful@§7Обменяй на могущественные
 §7prizes at the §lHive Shop!@§7призы в §lМагазине Улья!
 §7at the Dungeon Shop@§7в Магазине Данжа
-§7at the §rDungeon Shop@§7в §fМагазине Данжа
 §7Show this to the §fPowder@§7Покажи это §fПродавцу
 §fMerchant §7to get a free@§fПорошков §7и получи бесплатный
 §7powder of your choice.@§7порошок на твой выбор.
 §7All this book says inside is@§7Все, что написано внутри этой книги
 §7"Take your pick. Wealth or knowledge."@§7"Сделай свой выбор. Богатства или знания."
-§r§7Collect §l16§4§7 of these to proceed@§7Собери §l16§4§7 таких для перехода 
-§7Collect §l16§r§7 of these to proceed@§7Собери §l16§7 таких для перехода 
-§r§7to the next room.@§7в следующую комнату
-§7Collect §l1§r§7 of this token to@§7§7Собери §l1§7 такой для 
+§7Collect §l16§4§7 of these to proceed@§7Собери §l16§4§7 таких для перехода 
+§7Collect §l16§7 of these to proceed@§7Собери §l16§7 таких для перехода 
+§7to the next room.@§7в следующую комнату
+§7Collect §l1§7 of this token to@§7§7Собери §l1§7 такой для 
 §7finish the Combat Challenge.@§7завершения Комбат Челленджа.
 §7This key looks like it'd open the door@§7Этот ключ выглядит так, будто может открыть 
 §7in the library...@§7дверь в библиотеке...
@@ -1526,12 +1525,12 @@
 §6§l⚔§6 Damage           §a■§a■§a■§a■§7■@§6§l⚔§6 Урон           §a■§a■§a■§a■§7■
 §6§l⚔§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§6 Урон           §a■§a■§7■§7■§7■
 §6§l⚔§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§6 Урон           §a■§a■§a■§a■§a■
-§6§l⚔§r§6 Damage            §a■§a■§a■§a■§7■@§6§l⚔§r§6 Урон            §a■§a■§a■§a■§7■
-§6§l⚔§r§6 Damage            §a■§a■§7■§7■§7■@§6§l⚔§r§6 Урон            §a■§a■§7■§7■§7■
-§6§l⚔§r§6 Damage            §a■§a■§a■§a■§a■@§6§l⚔§r§6 Урон            §a■§a■§a■§a■§a■
-§6§l⚔§r§6 Damage           §a■§a■§a■§a■§7■@§6§l⚔§r§6 Урон           §a■§a■§a■§a■§7■
-§6§l⚔§r§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§r§6 Урон           §a■§a■§7■§7■§7■
-§6§l⚔§r§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§r§6 Урон           §a■§a■§a■§a■§a■
+§6§l⚔§6 Damage            §a■§a■§a■§a■§7■@§6§l⚔§6 Урон            §a■§a■§a■§a■§7■
+§6§l⚔§6 Damage            §a■§a■§7■§7■§7■@§6§l⚔§6 Урон            §a■§a■§7■§7■§7■
+§6§l⚔§6 Damage            §a■§a■§a■§a■§a■@§6§l⚔§6 Урон            §a■§a■§a■§a■§a■
+§6§l⚔§6 Damage           §a■§a■§a■§a■§7■@§6§l⚔§6 Урон           §a■§a■§a■§a■§7■
+§6§l⚔§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§6 Урон           §a■§a■§7■§7■§7■
+§6§l⚔§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§6 Урон           §a■§a■§a■§a■§a■
 §c❤ Defence          §7■§7■§7■§7■§7■@§c❤ Защита          §7■§7■§7■§7■§7■
 §a➽ Range             §a■§a■§a■§a■§7■@§a➽ Дальность             §a■§a■§a■§a■§7■
 §d✺ Spells             §a■§a■§a■§a■§7■@§d✺ Заклинания             §a■§a■§a■§a■§7■
@@ -2826,9 +2825,9 @@
 §7progress in the §fLost Sanctuary@§7прогресса в §fЗатерянном Святилище
 §7progress in the §fGalleon’s Graveyard@§7прогресса на §fКладбище Галеона
 §7progress in the §fUnderworld Crypt@§7прогресса в §fПодземном Склепе
-§7progress in the §rFallen Factory@§7прогресса на §fЗаброшенной Фабрике
+§7progress in the Fallen Factory@§7прогресса на §fЗаброшенной Фабрике
 §7progress in the §fFallen Factory@§7прогресса на §fЗаброшенной Фабрике
-§7progress in the §rEldritch Outlook@§7прогресса у §fЖуткого Наблюдателя
+§7progress in the Eldritch Outlook@§7прогресса у §fЖуткого Наблюдателя
 §7progress in the §fLegendary Challenge@§7прогресса в §fЛегендарном Челлендже
 §7a §2Corrupted Dungeon Key@§2Испорченного Данж Ключа
 §fFarming Refinery §7to process it@§fПереработке Урожая §7для его обработки
