@@ -1209,6 +1209,7 @@
 §aCauldron Shop@§aМагазин Котлов
 §aCandy Shop@§aМагазин Конфет
 §aMysterious Shop@§aЗагадочный Магазин
+§aMiner Pass Shop@§aМагазин Пропусков
 
 ##########################################FILTERS#############################################
 §7§lAdd Crafted Items Only Filter@§7§lДобавить Фильтр "Крафтовые Предметы"
@@ -1769,6 +1770,7 @@ DecrepitÀÀÀSewers Key@§6Ключ от Ветхой Канализации
 InfestedÀÀÀPit Key@Ключ от Зараженной Ямы
 §6UndergrowthÀÀÀRuins Key@§6Ключ от Заросших Руин
 §6UndergrowthÀÀÀRuins KeyÀ@§6Ключ от Заросших Руин
+UndergrowthÀÀÀRuins Key@Ключ от Заросших Руин
 §6Sand-SweptÀÀÀTomb Key@§6Ключ от Песчаной Гробницы 
 §6Sand-SweptÀÀÀTomb KeyÀ@§6Ключ от Песчаной Гробницы 
 Sand-SweptÀÀÀTomb Key@Ключ от Песчаной Гробницы 
@@ -2561,6 +2563,8 @@ Star of Transcendence@Звезда Трансцендентности
 §aSpawn a Grumpy Old Man@§aЗаспавнить Старика
 §aSpawn a Cream Wybel@§aЗаспавнить Кремового Вубела
 §aSpawn a Creeper@§Заспавнить Крипера
+§aSpawn a Rolling Potato@§aЗаспавнить Крутящуюся Картошку
+§aSpawn Creeper§7 [Creeper]@§aЗаспавнить Крипера§7 [Крипер]
 §4Despawn your Creeper@§4Деспавнить твоего Крипера
 §4Despawn your Violet Wybel@§4Деспавнить твоего Фиолетового Вубеля
 §4Despawn your Sky Blue Wybel@§4Деспавнить твоего Голубого Вубеля
@@ -2579,7 +2583,8 @@ Star of Transcendence@Звезда Трансцендентности
 §4Despawn your Orange Cybel@§4Деспавнить твоего Оранжевого Кубела
 §4Despawn your Rat@§4Деспавнить твою Крысу
 §4Despawn your Wasp@§4Деспавнить твою осу
-§4Despawn your Grumpy Old Man@§4Деспавнить своего Старика
+§4Despawn your Grumpy Old Man@§4Деспавнить твоего Старика
+§4Despawn your Rolling Potato@§4Деспавнить твою Крутящуюся Картошку
 §dZombie Horse Cloak@§dЗомби Плащ Для Коня
 §6Skeleton Horse Cloak@§6Скелетон Плащ для Коня
 §6Half-Moon Bow@§6Полу-Месяц Лук
@@ -2684,6 +2689,7 @@ Jungle Topaz Shard@Джунглевый Осколок Топаза
 §6Large Rock@§6Большой Камень
 §fAncient Wynnic Transcriber@§fДревний Wynnic Переводчик
 Dragon Food@Драконья Еда
+§fMine Pass@§fПропуск в Шахту
 §fElectromagical Battery@§fЭлектромагическая Батарея
 §fBrown HorseÀ@§fКоричневая Лошадь
 §fBrown Horse@§fКоричневая Лошадь
@@ -2724,6 +2730,8 @@ Decrepit���Sewers���Entrance Teleportation Scroll@§bСвиток Т
 Pirate���Cove@Пиратская Бухта
 Galleon's���Graveyard@Кладбище Галлеона
 Infested���Pit���Entrance Teleportation Scroll@§bСвиток Телепортации в Зараженную Яму
+theÀÀÀForgery Teleportation Scroll@Свиток Телепортации в Кузницу
+Undergrowth���Ruins���Entrance@Заросшие Руины Вход
 Galleon'sÀÀÀGraveyard@Кладбище Галлеона
 §rBook Page@§fСтраница Книги
 §rBook Binder@§fПереплет Книги
@@ -2792,6 +2800,7 @@ Refined Oat String 2@Переработанная Овсяная Нить 2
 Refined Gold Ingot 2@Переработанный Слиток Золота 2
 Refined Gold Ingot 1@Переработанный Слиток Золота 1
 Refined Gold Ingot 3@Переработанный Слиток Золота 3
+Refined Granite Gem 1@Переработанный Гранитный Камень 1
 Gathering Scythe 2@Сборная Мотыга 2
 Gathering Scythe 1@Сборная Мотыга 1
 Gathering Scythe 5@Сборная Мотыга 5
@@ -2808,6 +2817,7 @@ Gathering Rod 2@Сборная Удочка 2
 Gathering Rod 1@Сборная Удочка 1
 Gathering Rod 3@Сборная Удочка 3
 Gathering Rod 6@Сборная Удочка 6
+Gathering Rod 9@Сборная Удочка 9
 Gathering Axe 2@Сборный Топор 2
 Gathering Axe 1@Сборный Топор 1
 Gathering Axe 5@Сборный Топор 5
@@ -2893,6 +2903,16 @@ Crafted RelikÀ@Крафтовый Релик
 §b§lWolf TempleÀ@§b§lХрам Волков
 §b§lFrozen Cave HideoutÀ@§b§lЗамороженная Пещера-Убежище
 §b§lThe Final MomentsÀ@§b§lФинальные Моменты
+§b§lNilrem's Sealed LetterÀ@§b§lЗапечатанное Письмо Нилрема
+§b§lThe Twains' DownfallÀ@§b§lПадение Твейнов
+§b§lMining CessationÀ@§b§lПрекращение Добычи
+§b§lFate of the OlmÀ@§b§lСудьба Олмов
+§b§lThe Forest has EyesÀ@§b§lУ Леса Есть Глаза
+§b§lOtherworldly OccurrenceÀ@§b§lПотустороннее Явление
+§b§lA Monument of HopeÀ@§b§lМонумент Надежды
+§b§lToxic BounceÀ@§b§lТоксичный Отскок
+§b§lSpace Between RealitiesÀ@§b§lПространство Между Реальностями
+§b§lSilent Expanse's SecretÀ@§b§lСекрет Тихого Пространства
 
 ##############################UNIDENTIFIED ITEMS##############################
 §5Unidentified Wand@§5Неидентифицированный Посох
@@ -2910,6 +2930,7 @@ Crafted RelikÀ@Крафтовый Релик
 §dUnidentified Bow@§dНеидентифицированный Лук
 §bUnidentified Bow@§bНеидентифицированный Лук
 §aUnidentified Bow@§aНеидентифицированный Лук
+§cUnidentified Bow@§cНеидентифицированный Лук
 §5Unidentified Spear@§5Неидентифицированное Копье
 §eUnidentified Spear@§eНеидентифицированное Копье
 §dUnidentified Spear@§dНеидентифицированное Копье
@@ -2926,6 +2947,7 @@ Crafted RelikÀ@Крафтовый Релик
 §dUnidentified Chestplate@§dНеидентифицированный Нагрудник
 §bUnidentified Chestplate@§bНеидентифицированный Нагрудник
 §aUnidentified Chestplate@§aНеидентифицированный Нагрудник
+§cUnidentified Chestplate@§cНеидентифицированный Нагрудник
 §eUnidentified Leggings@§eНеидентифицированные Штаны
 §dUnidentified Leggings@§dНеидентифицированные Штаны
 §bUnidentified Leggings@§bНеидентифицированные Штаны
