@@ -11,7 +11,18 @@
 §b(.*)§7 has given you §b(.*)% resistance§7.@§b(r1)§7 дал тебе §b(r2)% защиты§7.
 (.*) has given you §b20% resistance§7 and§b 10% strength§7.@§b(r1) §7дал тебе §b20% к сопротивлению§7 и §b10% к силе§7.
 §4You still have (\d+) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
-§6(.*) is now level (\d+) in (.*)@§6(r1) достиг (r2) уровня в §6(r3)
+§6(.*)is now level (\d+) in §fⒹ§6 Jeweling@§6(r1) достиг (r2) уровня в §fⒹ§6Изготовлении Аксессуаров
+§6(.*)is now level (\d+) in §fⒾ§6 Woodworking@§6(r1) достиг (r2) уровня в §fⒾ§6Деревообработке
+§6(.*)is now level (\d+) in §fⒷ§6 Mining@§6(r1) достиг (r2) уровня в §fⒷ§6Добыче Руды
+§6(.*)is now level (\d+) in §fⒿ§6 Farming@§6(r1) достиг (r2) уровня в §fⒿ§6Земледелии
+§6(.*)is now level (\d+) in §fⒸ§6 Woodcutting@§6(r1) достиг (r2) уровня в §fⒸ§6Лесорубстве
+§6(.*)is now level (\d+) in §fⓁ§6 Alchemism@§6(r1) достиг (r2) уровня в §fⓁ§6Алхимии
+§6(.*)is now level (\d+) in §fⓀ§6 Fishing@§6(r1) достиг (r2) уровня в §fⓀ§6Рыбалке
+§6(.*)is now level (\d+) in §fⒽ§6 Armouring@§6(r1) достиг (r2) уровня в §fⒽ§6Изготовлении Брони
+§6(.*)is now level (\d+) in §fⒼ§6 Weaponsmithing@§6(r1) достиг (r2) уровня в §fⒼ§6Оружейном Деле
+§6(.*)is now level (\d+) in §fⒶ§6 Cooking@§6(r1) достиг (r2) уровня в §fⒶ§6Кулинарии
+§6(.*)is now level (\d+) in §fⒻ§6 Tailoring@§6(r1) достиг (r2) уровня в §fⒻ§6Портняжном Деле
+§6(.*)is now level (\d+) in §fⒺ§6 Scribing@§6(r1) достиг (r2) уровня в §fⒺ§6Изготовлении Свитков
 §4This potion is for Combat Lv. (\d+)\+ only.@§4Это зелье только для (r1)+ Комбат Уровня.
 §4This item is for Combat Lv. (.*)\+ only.@§4Этот предмет только для Комбат Ур. (r1)+.
 (.*) is for combat level (.*) only.@(r1) §4только для уровней (r2)
