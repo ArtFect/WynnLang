@@ -482,3 +482,24 @@
 §7\[4\/4\] §2Yuge: §aHm, so I see you still have more letters. So you're giving them to the entire crew, I suppose. Well, looks like there's only (\d+) of us to go.@§7[4/4] §2Йуге: §aХм, я вижу, у тебя еще есть письма. Значит, ты отдаешь их всей команде, я полагаю. Ну, похоже, что тебе осталось найти (r1) из нас.
 §7\[4\/4\] §2Ansei: §aLooks like you still have some more letters there, I guess you still need to deliver them to (\d+) more member(s|) of the crew.@§7[4/4] §2Ансей: §aПохоже, что у тебя все еще есть еще несколько писем, думаю, тебе все еще нужно доставить их еще (r1) участникам команды.
 §7\[4\/4\] §2Felim: §aSo you were delivering that message to the entire crew\? Well, looks like you only need to get to (\d+) more of us.@§7[4/4] §2Фелим: §aТак ты доставил это сообщение всему экипажу? Ну, похоже, тебе нужно только добраться еще до (r1) из нас.
+
+##########################################\n##################################################
+§4You have died...\n§4§lDeath claims your soul.@§4Ты умер...  §4§lСмерть забрала твою душу.
+§7\nThis book's title reads...\n    §aOne Second Is Enough To Die For§2§o\n        by Liza Seglend@§7Название этой книги гласит...     §aОдной Секунды Достаточно, Чтобы Умереть         §2§oавтор Liza Seglend
+§7\nThis book's title reads...\n    §aStrategical Placement Of The Undead§2§o\n        by Fiscarn Lixmaoul@§7Название этой книги гласит...      §aСтратегическое Размещение Нежити         §2§oавтор Fiscarn Lixmaoul
+§7\nThis book's title reads...\n    §aTotal War: Armageddon§2§o\n        by Dullahan@§7Название этой книги гласит...       §aТотальная Война: Армагеддон        §2§oавтор Дуллахан
+§7\nThis book's title reads...\n    §aA Conjurer's Creations§2§o\n        @§7Название этой книги гласит...         §aТворения Фокусника
+§7\nThis book's title reads...\n    §aAmbitions For World Domination§2§o\n        by Amadel@§7Название этой книги гласит...        §aАмбиции На Мировое Господство         §2§oавтор Амадел
+§7\nThis book's title reads...\n    §aDeath: Portrayals in Global Cultures§2§o\n        @§7Название этой книги гласит...        §aСмерть: Изображения В Мировых Культурах 
+§7\nThis book's title reads...\n    §aThe Disconnected World§2§o\n        by Nardoj Thearendu@§7Название этой книги гласит...      §aОтключенный Мир         §2§oавтор Nardoj Thearendu
+§7\nThis book's title reads...\n    §aAm I Dead\? Coping With Your Newfound Unlife§2§o\n        by Death@§7Название этой книги гласит...        §aЯ Мертв? Справляюсь Со Своей Новообретенной Нежизнью         §2§oавтор Смерть
+§7\nThis book's title reads...\n    §aCommunist Books§2§o\n        Anonymous@§7Название этой книги гласит...        §aКоммунистические Книги         §2§oАнонимус
+§7\nThis book's title reads...\n    §aSacrificial Pacts For Dummies§2§o\n        by Cihr Nettann@§7Название этой книги гласит...        §aЗагробные Договора Для Чайников         §2§oавтор Cihr Nettann
+§7\nThis book's title reads...\n    §aTimelapse Kingdom§2§o\n        by Nielad Serolfend@§7Название этой книги гласит...       §aТаймлапс Королевство         §2§oавтор Nielad Serolfend
+§7\nThis book's title reads...\n    §aLast Aid For Beginners: What To Do With \n    Friends Coming Back To Life§2§o\n        @§7Название этой книги гласит...        §aПоследняя Помощь Для Начинающих: Что Делать С Друзьями, Возвращающимися К Жизни
+§4\[ §c§lWynntron §4\| §8Version: §8§n9001\.14§4 \] §7\nResetting systems §8<\*> §7Loading "§7§oUnbeatable AI§7" preset\.\.\.@§4[ §c§lВиннтрон §4| §8Версия: §8§n9001.14§4 ]                              §7Сброс систем §8<*> §7Загрузка "§7§oНепобедимый ИИ§7" пресета...
+§4\[ §c§lWynntron §4\| §8Version: §8§n9001\.14§4 \] §7\nProcess is over §8<\*>§7 "§7§oUnbeatable AI§7" won\.@§4[ §c§lВиннтрон §4| §8Версия: §8§n9001.14§4 ]                              §7Процесс завершен §8<*>§7 "§7§oНепобедимый ИИ§7" выиграл.
+§4\[ §c§lWynntron §4\| §8Ver§8§ksio§8n: §8§n9ERrOR\.4§4 \] §7\nError E§7§kro§7r 3Rr0§7§kr§8 <\*>§7"§7§o§mUn§7§o§kbeat§7§oable AI§7" ER§7§kLOL Lotem@§4[ §c§lВиннтрон §4| §8Вер§8§ksi§8я: §8§n0LIIИБI<А.4§4 ]                               §7Ошибка О§7§kshiб§7ка 30LIIИ§7§kBKa§8 <*>§7"§7§o§mНе§7§o§kpobe§7§oдимый ИИ§7" 0LII§7§kLOL Lotem
+§6To open the final door, you must prove you are a true master of time.\nProve you have visted every hour on the clock.@§6Чтобы открыть финальную дверь, ты должен доказать, что являешься настоящим мастером времени. Посети каждый час на часах.
+§4You don't have the correct key!§7\nSneak and walk towards the door to look inside the keyhole.@§4У тебя нет правильного ключа! §7Прокрадись и подойди к двери, чтобы заглянуть в замочную скважину.
+§4You don't have the key!§7\nKill the queen in order to obtain it.@§4У тебя нет ключа! §7Убей королеву, чтобы получить его.
