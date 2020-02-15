@@ -1857,7 +1857,7 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §2Music is now fading out...@§2Музыка теперь исчезает...
 §2You will now hear music again!@§2Теперь ты снова слышишь музыку!
 §2You can no longer see guild join messages in game!@§2Ты больше не видишь сообщения о вступлении в гильдию!
-§2You can now see guild join messages again!@§2ы снова видишь сообщения о вступлении в гильдию!
+§2You can now see guild join messages again!@§2Ты снова видишь сообщения о вступлении в гильдию!
 §4You've already linked your Minecraft account to the forums@§4Ты уже привязал свой Майнкрафт аккаунт к форуму
 §cInvalid Arguments. Example: /guild join [Guild Prefix]@§cНедопустимый аргумент. Пример /guild join [Префикс Гильдии]
 §cInvalid price! Please try again with a number.@§cНедопустимая цена! Пожалуйста, попробуй еще раз числом.
