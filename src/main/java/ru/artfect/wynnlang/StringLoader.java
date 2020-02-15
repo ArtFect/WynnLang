@@ -41,17 +41,11 @@ public class StringLoader {
             String line;
             HashMap map = WynnLang.common.get(type);
             while ((line = br.readLine()) != null) {
-                if(line.contains("wynntils")){
-                    if(!Loader.isModLoaded("wynntils")){
-                        if(line.contains("Regex")){
-                            loadFile(name + "/wynntilsRegex.txt", WynnLang.regex.get(type), true);
-                        } else {
-                            loadFile(name + "/wynntils.txt", WynnLang.common.get(type), false);
-                        }
-                    }
-                } else {
-                    loadFile(name + "/" + line, map, false);
-                }
+                loadFile(name + "/" + line, map, false);
+            }
+            if(!Loader.isModLoaded("wynntils")){
+                loadFile(name + "/wynntils/regex.txt", WynnLang.regex.get(type), true);
+                loadFile(name + "/wynntils/common.txt", WynnLang.common.get(type), false);
             }
             loadFile(name + "/regex.txt", WynnLang.regex.get(type), true);
         } catch (IOException e) {
