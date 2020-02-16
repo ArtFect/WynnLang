@@ -24,6 +24,15 @@ public class StringLoader {
         loadType(InventoryName.class);
         loadType(BossBar.class);
         loadType(Scoreboard.class);
+
+        if(Loader.isModLoaded("wynnexp")){
+            WynnLang.common.get(ItemName.class).remove("§dQuest Book");
+            HashMap<String, String> loreMap = WynnLang.common.get(ItemLore.class);
+            loreMap.remove("§a\u2714§7 Class Req: Mage/Dark Wizard");
+            loreMap.remove("§a\u2714§7 Class Req: Warrior/Knight");
+            loreMap.remove("§a\u2714§7 Class Req: Archer/Hunter");
+            loreMap.remove("§a\u2714§7 Class Req: Shaman/Skyseer");
+        }
     }
 
     private static void loadType(Class<? extends TranslateType> type) throws IllegalAccessException, InstantiationException {
