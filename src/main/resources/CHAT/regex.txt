@@ -315,10 +315,10 @@
 
 #######################################BOMBS####################################################
 §b(.*)§3 has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@§b(r1)§3 Бросил §bДанж Бомбу§3! Каждый вход в данж бесплатен на следующие §b10 минут§3!
-§b(.*)§3 has thrown a §bCombat XP Bomb§3! The entire server gets §bdouble combat xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bКомбат XP бомбу§3! Весь сервер получает §bдвойные комбат xp §3на §b20 минут§3!
+§b(.*)§3 has thrown a §bCombat XP Bomb§3! The entire server gets §bdouble combat xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bКомбат XP бомбу§3! Весь сервер получает §bдвойной комбат xp §3на §b20 минут§3!
 §b(.*)§3 has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@§b(r1)§3 бросил §bПрофессии Скорость Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
 §b(.*)§3 has thrown an §bItem Bomb§3!@§b(r1)§3 бросил §bПредметную Бомбу§3!
-§b(.*)§3 has thrown a §bProfession XP Bomb§3! The entire server gets §bdouble profession xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bПрофессии XP бомбу§3! Весь сервер получает §bдвойные XP профессий §3на §b20 минут§3!
+§b(.*)§3 has thrown a §bProfession XP Bomb§3! The entire server gets §bdouble profession xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bПрофессии XP бомбу§3! Весь сервер получает §bдвойной XP профессий §3на §b20 минут§3!
 §b(.*)§3 has thrown a §bLoot Bomb§3! The entire server gets §bdouble loot §3for §b20 minutes§3!@§b(r1)§3 бросил §bЛут бомбу§3! Весь сервер получает §bдвойной лут §3на §b20 минут§3!
 §b(.*)§3bomb has expired. You can buy (.*) (b|B)ombs at our website, §bwynncraft.com\/store@§b(r1)§3бомба закончилась. Ты можешь купить (r2) бомбу на нашем сайте, §bwynncraft.com/store
 §b(.*)§3 has thrown a §bParty Bomb§3! Enjoy the madness!@§b(r1)§3 бросил §bПати Бомбу§3! Наслаждайся безумием!
