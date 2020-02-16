@@ -28,6 +28,7 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
             List<ItemStack> items = p.getItemStacks();
             for (ItemStack item : items) {
                 new ItemName(item).translate();
+                new ItemLore(item).translate();
             }
         } else if (msg instanceof SPacketSetSlot) {
             SPacketSetSlot p = (SPacketSetSlot) msg;
