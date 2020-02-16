@@ -42,6 +42,7 @@ public class ItemLore extends TranslateType {
                 lore.set(j, new NBTTagString(replace));
             }
         }
+        item.getTagCompound().setBoolean("wynntilsIgnore", true);
     }
 
     public String getName() {
