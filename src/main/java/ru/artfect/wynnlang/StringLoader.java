@@ -21,7 +21,7 @@ public class StringLoader {
         loadType(ItemName.class);
         loadType(Playerlist.class);
         loadType(Title.class);
-        //loadType(InventoryName.class);
+        loadType(InventoryName.class);
         loadType(BossBar.class);
         loadType(Scoreboard.class);
     }
