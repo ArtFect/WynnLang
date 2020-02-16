@@ -1,7 +1,10 @@
 package ru.artfect.translates;
 
 import com.google.common.collect.BiMap;
+import net.minecraft.client.Minecraft;
 import net.minecraft.network.play.server.SPacketUpdateScore;
+import net.minecraft.scoreboard.IScoreCriteria;
+import net.minecraft.scoreboard.Score;
 import net.minecraft.scoreboard.ScoreObjective;
 import ru.artfect.wynnlang.StringUtil;
 
@@ -19,8 +22,11 @@ public class Scoreboard extends TranslateType {
     public Object translatePacket() {
         String str = p.getPlayerName();
         String replace = StringUtil.handleString(this, str);
-        if (replace != null) {
-            return new SPacketUpdateScore(replace, new ScoreObjective(null, p.getObjectiveName(), null));
+        if (replace != null && p.getScoreAction() == SPacketUpdateScore.Action.CHANGE) {
+            net.minecraft.scoreboard.Scoreboard sb = Minecraft.getMinecraft().player.getWorldScoreboard();
+            Score score = new Score(sb, new ScoreObjective(sb, p.getObjectiveName(), IScoreCriteria.DUMMY), replace);
+            score.setScorePoints(p.getScoreValue());
+            return new SPacketUpdateScore(score);
         }
         return p;
     }

@@ -23,7 +23,7 @@ public class StringLoader {
         loadType(Title.class);
         //loadType(InventoryName.class);
         loadType(BossBar.class);
-        //loadType(Scoreboard.class);
+        loadType(Scoreboard.class);
     }
 
     private static void loadType(Class<? extends TranslateType> type) throws IllegalAccessException, InstantiationException {

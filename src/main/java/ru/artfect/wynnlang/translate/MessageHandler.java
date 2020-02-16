@@ -48,10 +48,10 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
         }*/ else if (msg instanceof SPacketUpdateBossInfo) {
             SPacketUpdateBossInfo p = (SPacketUpdateBossInfo) msg;
             msg = new BossBar(p).translatePacket();
-        } /*else if (msg instanceof SPacketUpdateScore) {
+        } else if (msg instanceof SPacketUpdateScore) {
             SPacketUpdateScore p = (SPacketUpdateScore) msg;
             msg = new Scoreboard(p).translatePacket();
-        }*/
+        }
         super.channelRead(ctx, msg);
     }
 
