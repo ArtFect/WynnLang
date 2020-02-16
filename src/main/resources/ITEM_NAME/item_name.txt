@@ -1028,7 +1028,6 @@
 
 ####################################INTERFACES################################################
 §a§lWynncraft@ 
-§6§lDiscoveries@§6§lОткрытия
 §7§lClick to dump §c§lall items §4§l(except hotbar)§7§l into your bank@§7§lКликни для сброса §c§lвсех предметов §4§l(кроме хотбара)§7§l в свой банк
 §a§lClick to confirm@§a§lКликни для подтверждения
 §6§lIronman ❂@§6§lЖелезный Человек ❂
@@ -1077,8 +1076,6 @@
 §bVIP+ Slots@§bVIP+ Слоты
 §5HERO Slots@§5HERO Слоты
 §7§lCancel Class Deletion@§7§lОтмена Удаления Класса
-§b§lQuests@§b§lКвесты
-§b§lSecret Discoveries@§b§lСекретные Открытия
 §7§lClick to sort@§7§lКликни для сортировки
 §eReset Skill Points@§eСброс Очков Умений
 §dUpgrade your §2✤ Strength§d skill@§dУлучши свое умение §2✤ Сила
@@ -1241,7 +1238,6 @@
 §bCharacter Info@§bИнфо о Персонаже
 §dQuest Book@§dКвестовая Книга
 §6Ingredient Pouch@§6Мешок для Ингредиентов
-§f§lMini-Quests@§f§lМини-Квесты
 §7Jump to Page 1@§7Перейти на 1 страницу
 §7Jump to Page 5@§7Перейти на 5 страницу
 §7Jump to Page 9@§7Перейти на 9 страницу
