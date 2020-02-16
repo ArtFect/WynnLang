@@ -15,6 +15,8 @@ import org.apache.commons.io.IOUtils;
 
 import java.io.File;
 import java.io.IOException;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.net.URL;
 import java.net.URLConnection;
 
@@ -56,7 +58,7 @@ public class UpdateManager {
             WynnLang.sendMessage("§aНовая версия скачивается...");
             Multithreading.runAsync(() -> {
                 try {
-                    FileUtils.copyURLToFile(new URL(downloadLink), new File("./Mods/WynnLang.jar"), 16000, 60000);
+                    FileUtils.copyURLToFile(new URL(downloadLink), Reference.modFile, 16000, 60000);
                 } catch (IOException e) {
                     updating = false;
                     WynnLang.sendMessage("§cНе удалось скачать обновление");

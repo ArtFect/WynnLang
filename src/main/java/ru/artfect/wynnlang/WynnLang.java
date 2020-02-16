@@ -31,6 +31,8 @@ public class WynnLang {
         Reference.keyBindings[0] = new KeyBinding("Показ оригинальных строк", Keyboard.KEY_F8, "WynnLang");
         ClientRegistry.registerKeyBinding(Reference.keyBindings[0]);
 
+        Reference.modFile = event.getSourceFile();
+
         MinecraftForge.EVENT_BUS.register(new Network());
         MinecraftForge.EVENT_BUS.register(new MessageHandler());
     }
