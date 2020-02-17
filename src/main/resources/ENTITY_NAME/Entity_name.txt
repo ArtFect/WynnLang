@@ -24,6 +24,7 @@ Assassin@Ассасин
 §cCart§6 [Lv. 2]@§cТелега§6 [Ур. 2]
 §cMiner§6 [Lv. 1]@§cШахтер§6 [Ур. 1]
 §cMiner Chief§6 [Lv. 1]@§cШеф Шахтер§6 [Ур. 1]
+§cBob the Zombie§6 [Lv. 1]@§cБоб Зомби§6 [Ур. 1]
 
 ###################################ITEMS##################################
 §aScientist Remains§6 [Lv. 1]@§aОстанки Ученого§6 [Ур. 1]
@@ -531,6 +532,7 @@ Assassin@Ассасин
 §2§fMagical Materials Chapter 2 - Magical Foci@§2§fМагические Материалы Глава 2 - Магические Фокусы
 §2§fLutho Citizen@§2§fЖитель Луто
 §2§fNOTE@§2§fЗАМЕТКА
+§2§fResearch Notes@§2§fИсследовательские Заметки
 §2Construction Villager@§2Житель Строитель
 §2Sergeant Klafson@§2Сержант Клафсон
 §2Farmer Cevalus@§2Фермер Цевалус
@@ -2054,6 +2056,8 @@ Gift From Dern@Подарок из Дерна
 §cKill 1 §6Upside Downer §c to Destroy the Spikes@§cУбей 1 §6Upside Downer §c для Разрушения Шипов
 §cKill 1 §6Void Demon §cto Destroy the Boulder@§cУбей 1 §6Void Demon §cдля Уничтожения Валуна
 §c§lClick To Break@§c§lКликни чтобы Сломать
+§bClick to fight@§bКликни чтобы сразиться с
+§3Theorick §bagain@§3Теориком §bснова
 §4Pick up a Shard@§4Взять Осколок
 §4Repair the Monolith@§4Починить Монолит
 §4Gather §l4 §eExplosive Mass@§4Собери §l4 §eВзрывоопасной Массы
@@ -2765,6 +2769,7 @@ Orange Cybel@Оранжевый Кубел
 §cBone Wings Effect@§cЭффект Костяных Крыльев
 §dHeart Swirl Effect@§dЭффект Круговорота Сердец
 §dTornado Effect@§dЭффект Торнадо
+§4Amadel Effect@§4Эффект Амаделя
 §6Bovemist Effect@§6Эффект Бовемиста
 §cPhoenix Wings Effect@§cЭффект Крыльев Феникса
 §cAngels Wings Effect@§cЭффект Крыльев Ангела
