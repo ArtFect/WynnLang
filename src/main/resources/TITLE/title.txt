@@ -178,6 +178,7 @@
 §6Epic Tier@§6Эпический Уровень
 §cGodly Tier@§cБожественный Уровень
 §dRare Tier@§dРедкий Уровень
+§4§8§k|||§4 Black Market §8§k|||§4 Tier@§4§8§k|||§4 Черный Рынок §8§k|||§4 Уровень
 §6Half-Moon Bow@§6Полу-Месяц Лук
 §6Half-Moon Wand@§6Полу-Месяц Посох
 §6Half-Moon Dagger@§6Полу-Месяц Кинжал
@@ -193,6 +194,8 @@
 §fSpark Attack Effect@§fЭффект Атаки Искр
 §fEmerald Swirl Effect@§fЭффект Эмеральдного Вихря
 §fSlime Effect@§fЭффект Слайма
+§cFairy Wings Effect@§cЭффект Сказочных Крыльев
+§cBone Wings Effect@§cЭффект Костлявых Крыльев
 §dAir Aura Effect@§dЭффект Ауры Воздуха
 §dMusic Swirl Effect@§dЭффект Круговорота Музыки
 §fWitch Brew Effect@§fЭффект Зелья Ведьмы
@@ -218,6 +221,7 @@
 §6Floating Fairy Effect@§6Эффект Плавающей Феи
 §cAngels Wings Effect@§cЭффект Крыльев Ангела
 §cKing Effect@§cЭффект Короля
+§4Amadel Effect@§4Эффект Амаделя
 §6Anti-Bovemist Effect@§6Эффект Анти-Бовемиста
 §cLake Gylia Effect@§cЭффект Озера Гилия
 §fSheep Disguise@§fМаскировка в Овцу
