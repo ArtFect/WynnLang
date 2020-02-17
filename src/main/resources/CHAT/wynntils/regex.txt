@@ -8,8 +8,8 @@
 §c\[(.*)\] §bCleared §7all potion effects §bRemoved §7all fire.@§c[(r1)] §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
 §c\[(.*)\] §bRemoved §7all fire.@§c[(r1)] §bУбран §7весь огонь.
 §c\[(.*)\] §bCleared §7all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
-§b(.*)§7 has given you §b(.*)% resistance§7.@§b(r1)§7 дал тебе §b(r2)% защиты§7.
-(.*) has given you §b20% resistance§7 and§b 10% strength§7.@§b(r1) §7дал тебе §b20% к сопротивлению§7 и §b10% к силе§7.
+§b([a-zA-Z0-9_]{1,16})§7 has given you §b10% resistance§7.@§b(r1)§7 дал тебе §b10% защиты§7.
+([a-zA-Z0-9_]{1,16}) has given you §b20% resistance§7 and§b 10% strength§7.@§b(r1) §7дал тебе §b20% к сопротивлению§7 и §b10% к силе§7.
 §4You still have (\d+) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
 §6(.*)is now level (\d+) in §fⒹ§6 Jeweling@§6(r1) достиг (r2) уровня в §fⒹ§6Изготовлении Аксессуаров
 §6(.*)is now level (\d+) in §fⒾ§6 Woodworking@§6(r1) достиг (r2) уровня в §fⒾ§6Деревообработке
