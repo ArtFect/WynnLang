@@ -2014,7 +2014,8 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §4You need to complete §cA Hunter's Calling§4 to unlock hunted mode.@§4Тебе нужно пройти §cA Hunter's Calling§4 для разблокировки режима охотника
 §4You are now hidden! (Hidden Only)@§4Ты скрылся от игроков!
 §4You are no longer hidden! (None)@§4Ты больше не скрываешься от игроков!
-§4You need to be holding a crafted item to rename it!@§4Тебе нужно держать крафтовый предмет чтобы переименовать его!
+§cYou need to hold a crafted item in your hand to sign it!@§cТебе нужно держать крафтовый предмет, чтобы подписать его!
+§4You need to be holding a crafted item to rename it!@§4Тебе нужно держать крафтовый предмет, чтобы переименовать его!
 §3You have thrown an item bomb too recently, please wait.@§3Ты уже бросал недавно предметную бомбу, пожалуйта подожди.
                   §c§l§nClick here to toggle hunted mode@                  §c§l§nКликни здесь для переключения режима охотника
 §f                  §c§l§nClick here to toggle hunted mode@§f                  §c§l§nКликни здесь для переключения режима охотника
