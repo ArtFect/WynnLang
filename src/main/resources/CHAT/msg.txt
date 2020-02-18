@@ -379,6 +379,8 @@
 §5Guild Master: §dIt seems that there is already a guild with that name... Try again!@§5Мастер Гильдий: §dПохоже, что уже есть гильдия с таким именем...Попробуй другое!
 §7[-5 Soul Points]@§7[-5 Очков Душ]
 §7[-5 Liquid Emeralds]@§7[-5 Жидких Эмеральдов]
+§7[-3 Soul Points]@§7[-3 Очка Душ]
+§7[-10000 Guild Emeralds]@§7[-10000 Эмеральдов Гильдии]
 §cInvalid Arguments. Example: /guild rank [player] [rank]@§cНеправильные аргументы. Пример: /guild rank [игрок] [ранг]
 §4Invalid rank entry. Options: §cChief, Captain, Recruiter@§4Неправильное написание ранга. Примеры: §cChief, Captain, Recruiter
 §7[You will now be teleported out of the server]@§7[Ты был телепортирован с сервера]
@@ -818,6 +820,7 @@
 §c§lYou've gotten a godly§c§l reward!@§c§lТы получил божественную§c§l награду!
 §f§lYou've gotten a common§f§l reward!@§f§lТы получил обычную§f§l награду!
 §6§lYou've gotten a epic§6§l reward!@§6§lТы получил эпическую§6§l награду!
+§4§lYou've gotten a §8§k|||§4 black market §8§k|||§4§l reward!@§4§lТы получил §8§k|||§4 черный маркет §8§k|||§4§l награду!
 §fChicken Disguise@§fПеревоплощение в курицу
 §7Disguise yourself as a chicken@§7Перевоплощение себя в курицу
 §dLetter Swirl Effect@§dЭффект вращающихся букв
@@ -851,6 +854,12 @@
 §fWet Drip Effect@§fЭффект Мокрых Капель
 §fPotion Swirl Effect@§fЭффект Вихря Зелий
 §fSpark Attack Effect@§fЭффект Искр
+§cBone Wings Effect@§cЭффект Костлявых Крыльев
+§7Give your character bone wings@§7Дает твоему персонажу костлявые крылья
+§4Amadel Effect@§4Эффект Амаделя
+§7Give your character the Amadel effect@§7Дает твоему персонажу эффект Амаделя
+§cFairy Wings Effect@§cЭффект Сказочных Крыльев
+§7Give your character fairy wings@§7Дает твоему персонажу эффект сказочных крыльев
 §6Golden Wand@§6Золотой Посох
 §dSteampunk Sword@§dСтимпанк Меч
 §7Disguise your spear with a steampunk flair@Маскирует твое копье под стиль стимпанк
@@ -1027,6 +1036,8 @@
 §aA §6Epic Half-Moon Dagger§a!@§6Эпический Полу-Месяц Кинжал§a!
 §aA §cGodly Phoenix Wand§a!@§cБожественный Посох Феникса§a!
 §aA §6Epic Sea Blue Wybel Token§a!@§6Эпический Морской Вубел Жетон§a!
+§aA §dRare Creeper Disguise§a!@§dРедкая Маскировка в Крипера§a!
+§aA §dRare Candle Staff§a!@§dРедкое Оружие Свеча§a!
 §cOrange Wybel Token@§cОранжевый Вубел Жетон
 §3You now have a §bOrange Wybel@§3Теперь у тебя есть §bОранжевый Вубел
 §cDemon Wings Effect@§cЭффект Крыльев Демона

@@ -57,6 +57,7 @@
 §7- Unprocessed Willow Log@§7- Необработанное Бревно Ивы
 §7- Refined Willow Paper 1@§7- Переработанная Ивовая Бумага 1
 §7- Refined Willow Paper 2@§7- Переработанная Ивовая Бумага 2
+§7- Refined Willow Paper 3@§7- Переработанная Ивовая Бумага 3
 §7- Refined Willow Wood 1@§7- Переработанная Древесина Ивы 1
 §7- Refined Willow Wood 2@§7- Переработанная Древесина Ивы 2
 §7- Refined Willow Wood 3@§7- Переработанная Древесина Ивы 3
@@ -103,21 +104,25 @@
 §7- Unprocessed Malt@§7- Необработанный Солод
 §7- Refined Malt String 1@§7- Переработанная Солодовая Нить 1
 §7- Refined Malt String 2@§7- Переработанная Солодовая Нить 2
+§7- Refined Malt Grains 1@§7- Переработанное Солодовое Зерно 1
 §7- Refined Silver Gem 1@§7- Переработанный Серебрянный Камень 1
 §7- Refined Silver Gem 2@§7- Переработанный Серебрянный Камень 2
 §7- Refined Silver Ingot 1@§7- Переработанный Слиток Серебра 1
 §7- Refined Molten Ingot 1@§7- Переработанный Слиток Молтен 1
 §7- Refined Jungle Wood 1@§7- Переработанная Древесина Амаранта 1
 §7- Refined Jungle Wood 2@§7- Переработанная Древесина Амаранта 2
+§7- Unprocessed Piranha@§7- Необработанная Пиранья
 §7- Refined Piranha Oil 1@§7- Переработанный Жир Пираньи 1
 §7- Refined Piranha Oil 3@§7- Переработанный Жир Пираньи 3
 §7- Refined Carp Oil 1@§7- Переработанный Жир Карпа 1
 §7- Refined Carp Oil 3@§7- Переработанный Жир Карпа 3
 §7- Refined Carp Oil 2@§7- Переработанный Жир Карпа 2
+§7- Unprocessed Icefish@§7- Необработанная Щука
 §7- Refined Icefish Oil 1@§7- Переработанный Жир Щуки 1
 §7- Refined Hops String 1@§7- Переработанная Хмельная Нить 1
 §7- Refined Cobalt Ingot 2@§7- Переработанный Слиток Кобальта 2
 §7- Refined Cobalt Ingot 1@§7- Переработанный Слиток Кобальта 1
+§7- Refined Cobalt Ingot 3@§7- Переработанный Слиток Кобальта 3
 §7- Refined Cobalt Gem 2@§7- Переработанный Кобальтовый Камень 2
 §7- Refined Decay String 1@§7- Переработанный Зараженная Нить 1
 §7- Refined Decay Grains 2@§7- Переработанное Зараженное Зерно 2
@@ -131,6 +136,7 @@
 §7- Refined Kanderstone Ingot 3@§7- Переработанный Слиток Кандерстоуна 3
 §7- Refined Kanderstone Ingot 1@§7- Переработанный Слиток Кандерстоуна 1
 §7- Refined Gylia Oil 3@§7- Переработанный Жир Гилия 3
+§7- Refined Rye Grains 1@§7- Переработанное Ржаное Зерно 1
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -593,7 +599,8 @@
 §c✖ Lv. 70: §f5§7 Decay String§f Ⓙ@§c✖ Ур. 70: §f5§7 Зараженных Нитей§f Ⓙ
             §f5§7 Decay String§f Ⓙ@            §f5§7 Зараженных Нитей§f Ⓙ
             §f10§7 Decay String§f Ⓙ@            §f10§7 Зараженных Нитей§f Ⓙ
-            §f10§7 Decay Grains§f Ⓙ@            §f10§7 Зараженных Зерен§f Ⓙ
+		    §f10§7 Decay Grains§f Ⓙ@            §f10§7 Зараженных Зерен§f Ⓙ
+            §f5§7 Decay Grains§f Ⓙ@            §f5§7 Зараженных Зерен§f Ⓙ
             §f5§7 Light Wood§f Ⓒ@            §f5§7 Древесины Клена§f Ⓒ
             §f10§7 Light Wood§f Ⓒ@            §f10§7 Древесины Клена§f Ⓒ
             §f10§7 Light Paper§f Ⓒ@            §f10§7 Кленовой Бумаги§f Ⓒ
@@ -625,6 +632,7 @@
             §f5§7 Gylia Oil§f Ⓚ@            §f5§7 Жира Гилия§f Ⓚ
             §f10§7 Gylia Oil§f Ⓚ@            §f10§7 Жира Гилия§f Ⓚ
             §f15§7 Gylia Oil§f Ⓚ@            §f15§7 Жира Гилия§f Ⓚ
+§c✖ Lv. 70: §f10§7 Gylia Meat§f Ⓚ@§c✖ Ур. 70: §f10§7 Мяса Гилия§f Ⓚ
 §a✔ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§a✔ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 80: §f5§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f5§7 Жира Окуня§f Ⓚ
@@ -693,12 +701,16 @@
             §f9§7 Carp Oil§f Ⓚ@            §f9§7 Жира Карпа§f Ⓚ
 §a✔ Lv. 30: §f6§7 Carp Oil§f Ⓚ@§a✔ Ур. 30: §f6§7 Жира Карпа§f Ⓚ
 §c✖ Lv. 30: §f6§7 Carp Oil§f Ⓚ@§c✖ Ур. 30: §f6§7 Жира Карпа§f Ⓚ
+§a✔ Lv. 30: §f6§7 Carp Meat§f Ⓚ@§a✔ Ур. 30: §f6§7 Мяса Карпа§f Ⓚ
 §c✖ Lv. 40: §f6§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f6§7 Хмельных Нитей§f Ⓙ
 §c✖ Lv. 40: §f3§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f3§7 Хмельных Нити§f Ⓙ
 §a✔ Lv. 40: §f6§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f6§7 Хмельных Нитей§f Ⓙ
 §a✔ Lv. 40: §f3§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f3§7 Хмельных Нити§f Ⓙ
             §f6§7 Hops String§f Ⓙ@            §f6§7 Хмельных Нитей§f Ⓙ
             §f3§7 Hops String§f Ⓙ@            §f3§7 Хмельных Нити§f Ⓙ
+            §f3§7 Hops Grains§f Ⓙ@            §f3§7 Хмельного Зерна§f Ⓙ
+§c✖ Lv. 40: §f6§7 Icefish Meat§f Ⓚ@§c✖ Ур. 40: §f6§7 Мяса Щуки§f Ⓚ
+§a✔ Lv. 40: §f6§7 Icefish Meat§f Ⓚ@§a✔ Ур. 40: §f6§7 Мяса Щуки§f Ⓚ
 §c✖ Lv. 40: §f6§7 Icefish Oil§f Ⓚ@§c✖ Ур. 40: §f6§7 Жира Щуки§f Ⓚ
 §a✔ Lv. 40: §f6§7 Icefish Oil§f Ⓚ@§a✔ Ур. 40: §f6§7 Жира Щуки§f Ⓚ
 §a✔ Lv. 50: §f4§7 Silver Ingot§f Ⓑ@§a✔ Ур. 50: §f4§7 Серебрянных Слитка§f Ⓑ
@@ -719,12 +731,14 @@
 §c✖ Lv. 50: §f4§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f4§7 Ржаных Нити§f Ⓙ
             §f8§7 Rye String§f Ⓙ@            §f8§7 Ржаных Нитей§f Ⓙ
             §f4§7 Rye String§f Ⓙ@            §f4§7 Ржаных Нити§f Ⓙ
+            §f4§7 Rye Grains§f Ⓙ@            §f4§7 Ржаного Зерна§f Ⓙ
 §c✖ Lv. 50: §f8§7 Piranha Oil§f Ⓚ@§c✖ Ур. 50: §f8§7 Жира Пираньи§f Ⓚ
 §a✔ Lv. 60: §f8§7 Millet String§f Ⓙ@§a✔ Ур. 60: §f8§7 Просо Нитей§f Ⓙ
 §a✔ Lv. 60: §f4§7 Millet String§f Ⓙ@§a✔ Ур. 60: §f4§7 Просо Нити§f Ⓙ
             §f8§7 Millet String§f Ⓙ@            §f8§7 Просо Нитей§f Ⓙ
             §f4§7 Millet String§f Ⓙ@            §f4§7 Просо Нити§f Ⓙ
             §f8§7 Millet Grains§f Ⓙ@            §f8§7 Просо Зерен§f Ⓙ
+            §f4§7 Millet Grains§f Ⓙ@            §f4§7 Просо Зерен§f Ⓙ
 §c✖ Lv. 70: §f5§7 Kanderstone Ingot§f Ⓑ@§c✖ Ур. 70: §f5§7 Кандерстоун Слитков§f Ⓑ
 §c✖ Lv. 70: §f10§7 Kanderstone Ingot§f Ⓑ@§c✖ Ур. 70: §f10§7 Кандерстоун Слитков§f Ⓑ
 §a✔ Lv. 70: §f5§7 Kanderstone Ingot§f Ⓑ@§a✔ Ур. 70: §f5§7 Слитков Кандерстоуна§f Ⓑ
@@ -740,6 +754,8 @@
             §f12§7 Koi Oil§f Ⓚ@            §f12§7 Жира Сазана§f Ⓚ
 §a✔ Lv. 60: §f8§7 Koi Oil§f Ⓚ@§a✔ Ур. 60: §f8§7 Жира Сазана§f Ⓚ
 §a✔ Lv. 60: §f4§7 Koi Oil§f Ⓚ@§a✔ Ур. 60: §f4§7 Жира Сазана§f Ⓚ
+§c✖ Lv. 60: §f8§7 Koi Meat§f Ⓚ@§c✖ Ур. 60: §f8§7 Мяса Сазана§f Ⓚ
+§a✔ Lv. 60: §f8§7 Koi Meat§f Ⓚ@§a✔ Ур. 60: §f8§7 Мяса Сазана§f Ⓚ
 §c✖ Lv. 80: §f5§7 Diamond Ingot§f Ⓑ@§c✖ Ур. 80: §f5§7 Слитков Алмаза§f Ⓑ
 §c✖ Lv. 80: §f10§7 Diamond Ingot§f Ⓑ@§c✖ Ур. 80: §f10§7 Слитков Алмаза§f Ⓑ
 §a✔ Lv. 80: §f5§7 Diamond Ingot§f Ⓑ@§a✔ Ур. 80: §f5§7 Слитков Алмаза§f Ⓑ
@@ -748,6 +764,8 @@
 §a✔ Lv. 80: §f5§7 Diamond Gem§f Ⓑ@§a✔ Ур. 80: §f5§7 Алмазных Камней§f Ⓑ
              §f12§7 Hemp String§f Ⓙ@             §f12§7 Конопляных Нитей§f Ⓙ
              §f6§7 Hemp String§f Ⓙ@             §f6§7 Конопляных Нитей§f Ⓙ
+§c✖ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§c✖ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
+§a✔ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§a✔ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
 
 #############################POWDERS#############################
 §8Adding 2 powders of tier 4-6@§8Добавление 2 порошков уровня 4-6
@@ -1386,6 +1404,7 @@
 §5- §7Shadow Clone Spell §8[Lv. 11]@§5- §7Теневой Клон Заклинание §8[Ур. 11]
 §6- §7Leopard Punches§8 [Lv. 21]@§6- §7Удары Леопарда§8 [Ур. 21]
 §6- §fLeopard Punches§7 [Lv. 21]@§6- §fУдары Леопарда§7 [Ур. 21]
+§5- §7Blinding Cloud Spell §8[Lv. 31]@§5- §7Ослепляющее Облако Заклинание §8[Ур. 31]
 §6- §7Blinding Cloud§8 [Lv. 31]@§6- §7Ослепляющее Облако§8 [Ур. 31]
 §6- §fBlinding Cloud§7 [Lv. 31]@§6- §fОслепляющее Облако§7 [Ур. 31]
 §6- §7Haul§8 [Lv. 11]@§6- §7Бросок§8 [Ур. 11]
@@ -2640,6 +2659,7 @@
 §7the Slime effect@§7Эффект слайма
 §7the Witch Brew effect@§7Эффект Зелья Ведьмы
 §7the Lake Gylia effect@§7Эффект Озера Гилия
+§7the Amadel effect@§7Эффект Амаделя
 §7Disguise your dagger@§7Маскирует твой кинжал
 §7Disguise your spear@§7Маскирует твое копье
 §7Disguise your staff@§7Маскирует твое оружие 
@@ -2692,6 +2712,7 @@
 §7angel wings@§7крылья ангела
 §7phoenix wings@§7крылья феникса
 §7fairy wings@§7крылья феи
+§7bone wings@§7костлявые крылья
 
 #########################UNIDENTIFIED##########################
 §e- §eUnidentified Spear@§e- §eНеидентифицированное Копье
@@ -2710,6 +2731,7 @@
 §7- §aUnidentified Helmet@§7- §aНеидентифицированный Шлем
 §e- §bUnidentified Helmet@§e- §bНеидентифицированный Шлем
 §7- §bUnidentified Helmet@§7- §bНеидентифицированный Шлем
+§e- §cUnidentified Leggings@§e- §cНеидентифицированные Штаны
 §e- §eUnidentified Leggings@§e- §eНеидентифицированные Штаны
 §7- §aUnidentified Leggings@§7- §aНеидентифицированные Штаны
 §7- §bUnidentified Leggings@§7- §bНеидентифицированные Штаны

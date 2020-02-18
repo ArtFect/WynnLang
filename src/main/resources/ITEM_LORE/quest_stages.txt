@@ -770,6 +770,7 @@ QUESTS/Eye_of_the_Storm
 §7Search the ruins at @§7Обыщи руины на 
 §7[-714,43,-5385]@ 
 §7to find the cultists @§7и найди культистов 
+§7Find Talos in the crypt @§7Найди Талоса в гробнице
 §7Kill the hellhound and free @§7Убей цербера и освободи 
 §7Talos @§7Талоса
 §7Return to Arwes in the @§7Вернись к Арвесу в
@@ -1473,7 +1474,10 @@ QUESTS/Memory_Paranoia
 §7Return the spoon to the @§7Верни ложку 
 §7Kitchen @§7на кухню 
 §7Enter the Kitchen @§7Войди на кухню 
+§7Listen to Mr. Caritat's announcement @§7Послушай сообщение Мр. Каритата
 §7Exit the Kitchen @§7Покинь кухню
+§7Speak to the people who @§7Поговори с людьми, которые 
+§7haven't fled from the disaster @§7не сбежали от ужаса
 §7Unlock the Study @§7Открой кабинет 
 §7Enter the Study @§7Войди в кабинет 
 §7Leave the Study @§7Покинь кабинет
@@ -1482,12 +1486,15 @@ QUESTS/Memory_Paranoia
 §7Enter the Master Bedroom @§7Войди в главную спальню
 §7Bring the key to Timmy's @§7Принеси ключ к 
 §7bedroom @§7спальне Тимми
+§7Enter Timmy's bedroom @§7Войди в спальню Тимми
 §7Escape the flaming mansion through @§7Покинь горящее поместье через 
 §7the back door @§7заднюю дверь
 §7Speak with the Possessed Mr. @§7Поговори с Одержимым Мр. 
+§7Defeat the remains of Mister @§7Победи останки Мистера 
 §7Caritat @§7Каритатом
 §7Navigate the Caritat's basement @§7Пройдись по подвалу Каритатов 
 §7Escape through the mysterious rift @§7Сбеги через загадочную расщелину 
+§7Speak to Atisun @§7Поговори с Атисуном
 
 QUESTS/Misadventure_on_the_Sea 
 §7Visit the Nemract bar at @§7Посети Немракт бар на
@@ -1507,7 +1514,7 @@ QUESTS/Misadventure_on_the_Sea
 §7same time. -Bodies cleaned: 0/7 @§7время. -Тел очищено: 0/7
 §7same time. -Bodies cleaned: 1/7 @§7время. -Тел очищено: 1/7
 §7same time. -Bodies cleaned: 2/7 @§7время. -Тел очищено: 2/7
-§7same time. -Bodies cleaned: 4/7@§7время. -Тел очищено: 4/7
+§7same time. -Bodies cleaned: 4/7 @§7время. -Тел очищено: 4/7
 §7same time. -Bodies cleaned: 6/7 @§7время. -Тел очищено: 6/7
 §7same time. -Bodies cleaned: 5/7 @§7время. -Тел очищено: 5/7
 §7same time. -Bodies cleaned: 3/7 @§7время. -Тел очищено: 3/7
@@ -1744,6 +1751,8 @@ QUESTS/Reclaiming_the_House
 §7Scale the tower at @§7Залезь на башню 
 §7[-1433,69,-5394]@ 
 §7to scout out the area @§7чтобы исследовать территорию 
+§7Report back to Ahmas and @§7Доложи Ахмасу и 
+§7devise an entry route @§7разработай маршрут входа
 §7Enter the troll outpost through @§7Войди на форпост троллей 
 §7the basement at @§7через подвал на 
 §7[-1442,39,-5221]@ 
@@ -2240,6 +2249,7 @@ QUESTS/The_Hunger_of_Gerts_Part_I
 §7the back of the camp @§7в конце лагеря
 §7Explore the Gerten cave @§7Исследуй пещеру Гертов
 §7Spy on the Gerten meeting @§7Подслушай встречу Гертов
+§7Leave the meeting @§7Покинь встречу
 §7Tell farmer Jitak about the @§7Расскажи фермеру Житаку 
 §7tunnel @§7насчет тоннеля
 §7Bring Jitak [6 Gert Skin] @§7Принеси Житаку 6 [Gert Skin]
@@ -2260,6 +2270,7 @@ QUESTS/The_Hunger_of_Gerts_Part_I
 §7Head to the cell at @§7Подойди к клетке на 
 §7[-808,47,-8217]@ 
 §7and investigate @§7и исследуй 
+§7Talk to the Comor @§7Поговори с Комором
 §7Kill the Hungry Gert and @§7Убей голодного Герта и 
 §7return to Comor with the @§7вернись к Комору с 
 §7[Cell Key] @§7[Ключом от клетки]
@@ -2731,6 +2742,8 @@ QUESTS/WynnExcavation_Site_D
 §7(Requires shard from Site C) @§7(Необходим осколок из Site C) 
 §7Find the secret passageway inside @§7Найди секретный проход внутри
 §7of the throne room @§7тронного зала
+§7Explore the secrets beneath Troms @§7Исследуй секреты под Тромс 
+§7Castle @§7замком
 §7Talk to the King @§7Поговори с Королем
 §7Exit the King's room @§7Покинь комнату Короля
 §7Escape Troms @§7Сбеги из Тромса

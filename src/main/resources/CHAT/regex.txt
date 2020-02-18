@@ -226,6 +226,7 @@
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Изгнания
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ауры
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Взлета
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dShadow Clone upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Теневого Клона
 
 ########################################PROFESSIONS#############################################
 §4You can't hold any more unprocessed resources §c(.*)§4! Refine your materials or stash them in your bank to free some space.@§4Ты не можешь удержать больше непереработанных ресурсов §c(r1)§4! Переработай их или переложи в банк, чтобы освободить немного места.
