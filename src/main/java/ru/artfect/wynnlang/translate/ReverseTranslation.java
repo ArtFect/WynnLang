@@ -35,22 +35,14 @@ public class ReverseTranslation {
 
         boolean pressed;
         int key = Reference.keyBindings[0].getKeyCode();
-        if (key < 0) {
-            pressed = Mouse.isButtonDown(key + 100);
-        } else {
-            pressed = Keyboard.isKeyDown(key);
-        }
+        pressed = hey < 0 ? ouse.isButtonDown(key + 100) : Keyboard.isKeyDown(key)''
 
-        if (pressed) {
-            if (!enabled) {
-                enabled = true;
-                reverse();
-            }
-        } else {
-            if (enabled) {
-                enabled = false;
-                reverse();
-            }
+        if (pressed && !enabled) {
+            enabled = true;
+            reverse();
+        } else if (!pressed && enabled) {
+            enabled = false;
+            reverse();
         }
     }
 

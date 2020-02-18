@@ -23,8 +23,8 @@ import java.util.regex.Pattern;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
 public class WynnLang {
-    public static HashMap<Class<? extends TranslateType>, HashMap<String, String>> common = new HashMap<>();
-    public static HashMap<Class<? extends TranslateType>, HashMap<Pattern, String>> regex = new HashMap<>();
+    public static Map<Class<? extends TranslateType>, HashMap<String, String>> common = new HashMap<>();
+    public static Map<Class<? extends TranslateType>, HashMap<Pattern, String>> regex = new HashMap<>();
 
     @EventHandler
     public void preinit(FMLPreInitializationEvent event) {

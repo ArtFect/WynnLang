@@ -12,11 +12,7 @@ public class StringUtil {
         String s = str.replace("§r", "");
         String replace = findReplace(type.getClass(), s);
         if (replace != null) {
-            if (replace.isEmpty()) {
-                return null;
-            } else {
-                return replaceFound(type, s, replace);
-            }
+            return replace.isEmpty() ? null : replaceFound(type, s, replace);
         } else {
             Log.addString(type.getClass(), s);
             return null;
@@ -35,10 +31,7 @@ public class StringUtil {
 
     public static String findReplace(Class<? extends TranslateType> type, String str) {
         String replace = WynnLang.common.get(type).get(str);
-        if (replace == null) {
-            replace = findReplaceRegex(WynnLang.regex.get(type), str);
-        }
-        return replace;
+        return replace == null ? findReplaceRegex(WynnLang.regex.get(type), str) : replace;
     }
 
     private static String findReplaceRegex(Map<Pattern, String> map, String str) {

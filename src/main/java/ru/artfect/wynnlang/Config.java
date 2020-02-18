@@ -16,7 +16,7 @@ public class Config {
             Reference.modEnabled = config.get("Options", "Enabled", true).getBoolean();
             Reference.ruChat.enabled = config.get("Chat", "Enabled", true).getBoolean();
         } catch (Exception e) {
-            System.out.println("Error loading config, returning to default variables.");
+            System.out.println("Error loading config, returning to default variables."); // а где логгер
         } finally {
             config.save();
         }

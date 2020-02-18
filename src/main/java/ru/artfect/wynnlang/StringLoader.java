@@ -67,13 +67,8 @@ public class StringLoader {
         String line;
         while ((line = br.readLine()) != null) {
             String[] text = line.split("@");
-            if (text.length == 2) {
-                if (text[1].equals(" ")) {
-                    map.put(regex ? Pattern.compile(text[0]) : text[0], "");
-                } else {
-                    map.put(regex ? Pattern.compile(text[0]) : text[0], text[1]);
-                }
-            }
+            if (text.length == 2)
+                map.put(regex ? Pattern.compile(text[0]) : text[0], text[1].equals(" ") ? "" : text[1]);
         }
     }
 }

@@ -52,7 +52,7 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
         } else if (msg instanceof SPacketUpdateScore) {
             SPacketUpdateScore p = (SPacketUpdateScore) msg;
             msg = new Scoreboard(p).translatePacket();
-        }
+        } // мраааак
         super.channelRead(ctx, msg);
     }
 
