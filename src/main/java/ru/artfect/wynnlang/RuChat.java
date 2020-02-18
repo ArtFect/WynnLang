@@ -1,5 +1,7 @@
 package ru.artfect.wynnlang;
 
+import lombok.Getter;
+import lombok.Setter;
 import net.minecraft.client.Minecraft;
 import net.minecraft.util.text.TextComponentString;
 import net.minecraftforge.client.event.ClientChatEvent;
@@ -11,36 +13,42 @@ import java.net.Socket;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class RuChat extends Thread {
     private BufferedReader in;
     private PrintWriter out;
     private Socket socket;
+    @Getter
+    @Setter
+    private boolean defaultChat = false;
+    @Getter
+    @Setter
+    private boolean enabled = true;
+    @Getter
+    private int online = 0;
+    @Getter
+    private List<String> muted = new ArrayList<>();
 
-    public static boolean defaultChat = false;
-    public static boolean enabled = true;
-    public static int online = 0;
-    private static ArrayList<String> muted = new ArrayList<>();
-    
-    public RuChat(){
-    	String[] chatMuted = Config.getStringArray("Chat", "Muted", new String[0]);
+    public RuChat() {
+        String[] chatMuted = Config.getStringArray("Chat", "Muted", new String[0]);
         muted.addAll(Arrays.asList(chatMuted));
         MinecraftForge.EVENT_BUS.register(this);
     }
-    
-    public static void startTimer(){
+
+    void startTimer() {
         Multithreading.schedule(() -> {
-            if (!Reference.ruChat.isAlive() && enabled && Reference.onWynncraft) {
+            if (!Reference.ruChat.isAlive() && isEnabled() && Reference.onWynncraft) {
                 Reference.ruChat = new RuChat();
                 Reference.ruChat.start();
             }
         }, 30, 30, TimeUnit.SECONDS);
     }
-    
-    public static void mutePlayer(String playerName){
+
+    public void mutePlayer(String playerName) {
         if (!muted.contains(playerName)) {
-        	muted.add(playerName);
+            muted.add(playerName);
             WynnLang.sendMessage("§rВы §cбольше не будете§r получать сообщения от игрока " + playerName);
         } else {
             muted.remove(playerName);
@@ -54,9 +62,11 @@ public class RuChat extends Thread {
     public void run() {
         try {
             socket = new Socket(Reference.SERVER, 25500);
-            try {
-                out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(socket.getOutputStream(), StandardCharsets.UTF_8)), true);
-                in = new BufferedReader(new InputStreamReader(socket.getInputStream(), StandardCharsets.UTF_8));
+            try (PrintWriter out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(socket.getOutputStream(), StandardCharsets.UTF_8)), true);
+                 BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream(), StandardCharsets.UTF_8))
+            ) {
+                this.out = out;
+                this.in = in;
                 sendMessage("n:" + Minecraft.getMinecraft().getSession().getProfile().getName());
                 while (true) {
                     String incomingMessage = in.readLine();
@@ -68,19 +78,17 @@ public class RuChat extends Thread {
                         }
                     }
                 }
-            } finally {
-                closeSocket();
             }
         } catch (Exception e) {
-        	WynnLang.sendMessage("§rСвязь с чатом оборвана. Произошла ошибка");
+            WynnLang.sendMessage("§rСвязь с чатом оборвана. Произошла ошибка");
         }
     }
 
     private void parseMessage(String incomingMessage) {
         String packet = incomingMessage.replace("p:", "");
         String[] a = packet.split(" m:");
-        String name = a[0]; //Fiw
-        String message = a[1]; //Hello
+        String name = a[0];
+        String message = a[1];
         if (!muted.contains(name)) {
             Minecraft.getMinecraft().ingameGUI.getChatGUI().printChatMessage(new TextComponentString(Reference.CHAT_PREFIX + " §6" + name + ": §r" + message));
         }
@@ -94,7 +102,7 @@ public class RuChat extends Thread {
             WynnLang.sendMessage("§cПроизошла ошибка, сообщение не отправлено. Попробуйте еще раз");
         }
     }
-    
+
     public void closeSocket() throws IOException {
         if (this.isAlive()) {
             out.flush();
@@ -103,12 +111,12 @@ public class RuChat extends Thread {
             socket.close();
         }
     }
-    
+
     @SubscribeEvent
     public void sendToDefaultChat(ClientChatEvent e) {
         if (!e.getMessage().startsWith("/") && defaultChat) {
-        	e.setCanceled(true);
-        	Reference.ruChat.sendMessage("m:" + e.getMessage());
+            e.setCanceled(true);
+            Reference.ruChat.sendMessage("m:" + e.getMessage());
         }
     }
 }

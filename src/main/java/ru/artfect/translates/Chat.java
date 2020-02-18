@@ -1,6 +1,9 @@
 package ru.artfect.translates;
 
 import com.google.common.collect.BiMap;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.ChatLine;
 import net.minecraft.client.gui.GuiNewChat;
@@ -10,22 +13,18 @@ import net.minecraft.util.text.TextComponentString;
 import net.minecraft.util.text.event.ClickEvent;
 import net.minecraft.util.text.event.HoverEvent;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
+import ru.artfect.wynnlang.Reference;
 import ru.artfect.wynnlang.StringUtil;
 import ru.artfect.wynnlang.WynnLang;
-import ru.artfect.wynnlang.translate.ReverseTranslation;
 
 import java.util.List;
 
-public class Chat extends TranslateType {
+@AllArgsConstructor
+@NoArgsConstructor
+public class Chat implements Flipped, Translatable {
     private ClientChatReceivedEvent event;
-
-    public Chat(ClientChatReceivedEvent event) {
-        this.event = event;
-    }
-
-    public Chat() {
-
-    }
+    @Getter
+    private static final String name = "CHAT";
 
     public void translate() {
         ITextComponent rawMsg = event.getMessage();
@@ -54,14 +53,10 @@ public class Chat extends TranslateType {
         }
     }
 
-    public String getName() {
-        return "CHAT";
-    }
-
     public void reverse(BiMap<String, String> translated) {
         try {
             GuiNewChat chat = Minecraft.getMinecraft().ingameGUI.getChatGUI();
-            List<ChatLine> chatLines = (List<ChatLine>) ReverseTranslation.chatLinesF.get(chat);
+            List<ChatLine> chatLines = (List<ChatLine>) Reference.reverseTranslation.getChatLinesF().get(chat);
             for (int i = 0; i != chatLines.size(); i++) {
                 ChatLine cl = chatLines.get(i);
                 String str = cl.getChatComponent().getFormattedText().replaceAll("§r", "");
@@ -71,8 +66,8 @@ public class Chat extends TranslateType {
                 }
             }
             chat.refreshChat();
-        } catch (IllegalArgumentException | IllegalAccessException e) {
-            WynnLang.sendMessage("§4Ошибка");
+        } catch (Exception e) {
+            WynnLang.sendMessage("§4Ошибка: " + e.getMessage());
         }
     }
 }

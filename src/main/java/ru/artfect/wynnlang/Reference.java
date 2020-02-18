@@ -1,6 +1,7 @@
 package ru.artfect.wynnlang;
 
 import net.minecraft.client.settings.KeyBinding;
+import ru.artfect.wynnlang.translate.ReverseTranslation;
 
 import java.io.File;
 
@@ -16,4 +17,5 @@ public class Reference {
     public static boolean onWynncraft = false;
     public static boolean modEnabled = true;
     public static KeyBinding[] keyBindings = new KeyBinding[1];
+    public static ReverseTranslation reverseTranslation = new ReverseTranslation();
 }

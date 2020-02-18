@@ -5,12 +5,12 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public class Multithreading {
 
-    public static ExecutorService POOL = Executors.newCachedThreadPool(new ThreadFactory() {
+    static ExecutorService POOL = Executors.newCachedThreadPool(new ThreadFactory() {
         AtomicInteger counter = new AtomicInteger(0);
 
         @Override
-        public Thread newThread(Runnable r) {
-            return new Thread(r, String.format("Thread %s", counter.incrementAndGet()));
+        public Thread newThread(Runnable runnable) {
+            return new Thread(runnable, String.format("Thread %s", counter.incrementAndGet()));
         }
     });
 
@@ -18,16 +18,16 @@ public class Multithreading {
         private AtomicInteger counter = new AtomicInteger(0);
 
         @Override
-        public Thread newThread(Runnable r) {
-            return new Thread(r, "Thread " + counter.incrementAndGet());
+        public Thread newThread(Runnable runnable) {
+            return new Thread(runnable, "Thread " + counter.incrementAndGet());
         }
     });
 
-    public static void schedule(Runnable r, long initialDelay, long delay, TimeUnit unit) {
-        RUNNABLE_POOL.scheduleAtFixedRate(r, initialDelay, delay, unit);
+    public static void schedule(Runnable runnable, long initialDelay, long delay, TimeUnit unit) {
+        RUNNABLE_POOL.scheduleAtFixedRate(runnable, initialDelay, delay, unit);
     }
 
-    public static void runAsync(Runnable runnable) {
+    static void runAsync(Runnable runnable) {
         POOL.execute(runnable);
     }
 

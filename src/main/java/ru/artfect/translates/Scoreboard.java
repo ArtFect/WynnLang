@@ -1,6 +1,8 @@
 package ru.artfect.translates;
 
-import com.google.common.collect.BiMap;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
 import net.minecraft.client.Minecraft;
 import net.minecraft.network.play.server.SPacketUpdateScore;
 import net.minecraft.scoreboard.IScoreCriteria;
@@ -8,34 +10,22 @@ import net.minecraft.scoreboard.Score;
 import net.minecraft.scoreboard.ScoreObjective;
 import ru.artfect.wynnlang.StringUtil;
 
-public class Scoreboard extends TranslateType {
-    private SPacketUpdateScore p;
+@NoArgsConstructor
+@AllArgsConstructor
+public class Scoreboard implements TranslatablePacket<SPacketUpdateScore> {
+    private SPacketUpdateScore packet;
+    @Getter
+    private static final String name= "SCOREBOARD";
 
-    public Scoreboard(SPacketUpdateScore p) {
-        this.p = p;
-    }
-
-    public Scoreboard() {
-
-    }
-
-    public Object translatePacket() {
-        String str = p.getPlayerName();
+    public SPacketUpdateScore translatePacket() {
+        String str = packet.getPlayerName();
         String replace = StringUtil.handleString(this, str);
-        if (replace != null && p.getScoreAction() == SPacketUpdateScore.Action.CHANGE) {
+        if (replace != null && packet.getScoreAction() == SPacketUpdateScore.Action.CHANGE) {
             net.minecraft.scoreboard.Scoreboard sb = Minecraft.getMinecraft().player.getWorldScoreboard();
-            Score score = new Score(sb, new ScoreObjective(sb, p.getObjectiveName(), IScoreCriteria.DUMMY), replace);
-            score.setScorePoints(p.getScoreValue());
+            Score score = new Score(sb, new ScoreObjective(sb, packet.getObjectiveName(), IScoreCriteria.DUMMY), replace);
+            score.setScorePoints(packet.getScoreValue());
             return new SPacketUpdateScore(score);
         }
-        return p;
-    }
-
-    public String getName() {
-        return "SCOREBOARD";
-    }
-
-    public void reverse(BiMap<String, String> translated) {
-
+        return packet;
     }
 }

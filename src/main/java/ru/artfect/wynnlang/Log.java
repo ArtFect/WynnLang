@@ -1,9 +1,9 @@
 package ru.artfect.wynnlang;
 
+import com.google.common.collect.Maps;
 import com.google.gson.Gson;
 import net.minecraft.client.Minecraft;
 import org.apache.http.NameValuePair;
-import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.impl.client.CloseableHttpClient;
@@ -18,53 +18,51 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
 public class Log {
     public static boolean enabled = true;
     private static final String LOG_PATH = Minecraft.getMinecraft().mcDataDir + "/config/WynnLang/Logs/";
-    
-    private static Map<Class <? extends TranslateType>, List<String>> oldStr = new HashMap<>();
-    private static Map<Class <? extends TranslateType>, List<String>> newStr = new HashMap<>();
+
+    static private Map<TranslateType, List<String>> oldStr = Maps.newHashMap();
+    static private Map<TranslateType, List<String>> newStr = Maps.newHashMap();
 
     public Log() throws IOException {
         initLogs();
-
         Multithreading.schedule(() -> {
             try {
                 saveAndSend();
-            } catch (IOException | InstantiationException | IllegalAccessException ignored) {
-
+            } catch (Exception e) {
+                e.printStackTrace();
             }
         }, 1, 1, TimeUnit.MINUTES);
     }
-    
-    public static void initLogs() throws IOException{
+
+    static void initLogs() throws IOException {
         Path lpath = Paths.get(LOG_PATH);
         if (!Files.exists(lpath)) {
             Files.createDirectories(lpath);
         }
     }
 
-    public static void saveAndSend() throws ClientProtocolException, IOException, InstantiationException, IllegalAccessException {
+    static void saveAndSend() throws IOException {
         if (!Reference.onWynncraft) {
             return;
         }
-        List<NameValuePair> params = new ArrayList<NameValuePair>();
+        List<NameValuePair> params = new ArrayList<>();
         params.add(new BasicNameValuePair("UUID", Minecraft.getMinecraft().getSession().getProfile().getId().toString()));
         params.add(new BasicNameValuePair("ver", Reference.VERSION));
 
-        for (Class<? extends TranslateType> tClass : newStr.keySet()) {
+        for (TranslateType tClass : newStr.keySet()) {
             List<String> strList = newStr.get(tClass);
-        	TranslateType type = tClass.newInstance();
             if (strList.isEmpty()) {
                 continue;
             }
-            params.add(new BasicNameValuePair(type.getName(), new Gson().toJson(strList)));
+            params.add(new BasicNameValuePair(tClass.getName(), new Gson().toJson(strList)));
             try {
-                Files.write(Paths.get(LOG_PATH + type.getName() + ".txt"), strList, StandardCharsets.UTF_8,
+                Files.write(Paths.get(LOG_PATH + tClass.getName() + ".txt"), strList, StandardCharsets.UTF_8,
                         StandardOpenOption.APPEND, StandardOpenOption.CREATE);
             } catch (IOException ignored) {
 
@@ -79,22 +77,22 @@ public class Log {
         client.close();
     }
 
-    public static void loadLogFile(Class<? extends TranslateType> tClass) {
+    static void loadLogFile(TranslateType tClass) {
         try {
             Path p = Paths.get(LOG_PATH + tClass.getName() + ".txt");
             if (p.toFile().exists()) {
                 oldStr.put(tClass, Files.readAllLines(p));
             } else {
-                oldStr.put(tClass, new ArrayList<String>());
+                oldStr.put(tClass, new ArrayList<>());
                 p.toFile().createNewFile();
             }
-            newStr.put(tClass, new ArrayList<String>());
-        } catch (IOException ignored) {
-
+            newStr.put(tClass, new ArrayList<>());
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
 
-    public static void addString(Class<? extends TranslateType> type, String str) {
+    static void addString(TranslateType type, String str) {
         if (enabled && !oldStr.get(type).contains(str)) {
             oldStr.get(type).add(str);
             newStr.get(type).add(str);

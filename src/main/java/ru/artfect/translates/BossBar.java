@@ -1,38 +1,29 @@
 package ru.artfect.translates;
 
-import com.google.common.collect.BiMap;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
 import net.minecraft.network.play.server.SPacketUpdateBossInfo;
 import net.minecraft.util.text.TextComponentString;
 import net.minecraft.world.BossInfoServer;
 import ru.artfect.wynnlang.StringUtil;
 
-public class BossBar extends TranslateType {
-    private SPacketUpdateBossInfo p;
+@AllArgsConstructor
+@NoArgsConstructor
+public class BossBar implements TranslateType {
 
-    public BossBar(SPacketUpdateBossInfo p) {
-        this.p = p;
-    }
+    private SPacketUpdateBossInfo packet;
+    @Getter
+    private static final String name = "BOSSBAR";
 
-    public BossBar() {
-
-    }
-
-    public Object translatePacket() {
-        if(p.getName() != null){
-            String str = p.getName().getUnformattedText();
+    public SPacketUpdateBossInfo translatePacket() {
+        if (packet.getName() != null) {
+            String str = packet.getName().getUnformattedText();
             String replace = StringUtil.handleString(this, str);
             if (replace != null) {
-                return new SPacketUpdateBossInfo(p.getOperation(), new BossInfoServer(new TextComponentString(replace), p.getColor(), p.getOverlay()));
+                return new SPacketUpdateBossInfo(packet.getOperation(), new BossInfoServer(new TextComponentString(replace), packet.getColor(), packet.getOverlay()));
             }
         }
-        return p;
-    }
-
-    public String getName() {
-        return "BOSSBAR";
-    }
-
-    public void reverse(BiMap<String, String> translated) {
-
+        return packet;
     }
 }

@@ -13,18 +13,20 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.lwjgl.input.Keyboard;
 import ru.artfect.translates.TranslateType;
 import ru.artfect.wynnlang.command.RuCommand;
+import ru.artfect.wynnlang.command.WynnCommand;
 import ru.artfect.wynnlang.command.WynnLangCommand;
 import ru.artfect.wynnlang.translate.MessageHandler;
 import ru.artfect.wynnlang.translate.ReverseTranslation;
 
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.regex.Pattern;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.NAME, version = Reference.VERSION)
 public class WynnLang {
-    public static Map<Class<? extends TranslateType>, HashMap<String, String>> common = new HashMap<>();
-    public static Map<Class<? extends TranslateType>, HashMap<Pattern, String>> regex = new HashMap<>();
+    public static Map<TranslateType, HashMap<String, String>> common = new HashMap<>();
+    public static Map<TranslateType, HashMap<Pattern, String>> regex = new HashMap<>();
 
     @EventHandler
     public void preinit(FMLPreInitializationEvent event) {
@@ -40,14 +42,13 @@ public class WynnLang {
     @EventHandler
     public void init(FMLInitializationEvent event) throws IOException, InstantiationException, IllegalAccessException {
         new ReverseTranslation();
-        ClientCommandHandler.instance.registerCommand(new WynnLangCommand(new UpdateManager()));
+        ClientCommandHandler.instance.registerCommand(new WynnLangCommand());
         ClientCommandHandler.instance.registerCommand(new RuCommand());
 
         Config.loadConfigFromFile();
         new Log();
         StringLoader.load();
-        Reference.ruChat = new RuChat();
-        RuChat.startTimer();
+        WynnCommand.RU_CHAT.startTimer();
     }
 
     public static void sendMessage(String message) {

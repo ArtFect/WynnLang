@@ -1,38 +1,35 @@
 package ru.artfect.wynnlang.command;
 
-import net.minecraft.command.CommandException;
+import lombok.Getter;
 import net.minecraft.command.ICommand;
 import net.minecraft.command.ICommandSender;
 import net.minecraft.server.MinecraftServer;
 import net.minecraft.util.math.BlockPos;
 import ru.artfect.wynnlang.Reference;
-import ru.artfect.wynnlang.RuChat;
 import ru.artfect.wynnlang.WynnLang;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+@Getter
 public class RuCommand implements ICommand {
-    @Override
-    public String getName() {
-        return "ru";
-    }
+
+    private String name = "ru";
+    private String usage = "/ru";
 
     @Override
     public String getUsage(ICommandSender sender) {
-        return "/ru";
+        return usage;
     }
 
     @Override
-    public void execute(MinecraftServer server, ICommandSender sender, String[] args) throws CommandException {
-        if (args.length != 0) {
-            List<String> list = Arrays.asList(args);
-            String message = String.join(" ", list);
-            Reference.ruChat.sendMessage("m:" + message);
-        } else {
-            RuChat.defaultChat = !RuChat.defaultChat;
-            WynnLang.sendMessage("§rЧат по умолчанию " + (RuChat.defaultChat ? "§aвключен" : "§cвыключен") + "§r");
+    public void execute(MinecraftServer server, ICommandSender sender, String[] args) {
+        if (args.length != 0)
+            Reference.ruChat.sendMessage("m:" + String.join(" ", Arrays.asList(args)));
+        else {
+            WynnCommand.RU_CHAT.setDefaultChat(!WynnCommand.RU_CHAT.isDefaultChat());
+            WynnLang.sendMessage("§rЧат по умолчанию " + (WynnCommand.RU_CHAT.isDefaultChat() ? "§aвключен" : "§cвыключен") + "§r");
         }
     }
 
@@ -42,7 +39,7 @@ public class RuCommand implements ICommand {
     }
 
     @Override
-    public int compareTo(ICommand o) {
+    public int compareTo(ICommand command) {
         return 0;
     }
 
@@ -53,14 +50,11 @@ public class RuCommand implements ICommand {
 
     @Override
     public List<String> getAliases() {
-        List l = new ArrayList<String>();
-        l.add("Ru");
-        l.add("RU");
-        return l;
+        return Arrays.asList("Ru", "RU");
     }
 
     @Override
     public List<String> getTabCompletions(MinecraftServer server, ICommandSender sender, String[] args, BlockPos targetPos) {
-        return new ArrayList<String>();
+        return new ArrayList<>();
     }
 }

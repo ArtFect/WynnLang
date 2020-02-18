@@ -2,27 +2,28 @@ package ru.artfect.wynnlang;
 
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.common.config.Configuration;
+import ru.artfect.wynnlang.command.WynnCommand;
 
 import java.io.File;
 
 public class Config {
     private static Configuration config;
 
-    public static void loadConfigFromFile() {
+    static void loadConfigFromFile() {
         try {
             config = new Configuration(new File(Minecraft.getMinecraft().mcDataDir + "/config/WynnLang/config.cfg"));
             config.load();
             Log.enabled = config.get("Options", "Logging", true).getBoolean();
             Reference.modEnabled = config.get("Options", "Enabled", true).getBoolean();
-            Reference.ruChat.enabled = config.get("Chat", "Enabled", true).getBoolean();
+            WynnCommand.RU_CHAT.setEnabled(config.get("Chat", "Enabled", true).getBoolean());
         } catch (Exception e) {
-            System.out.println("Error loading config, returning to default variables."); // а где логгер
+            System.out.println("Error loading config, returning to default variables.");
         } finally {
             config.save();
         }
     }
 
-    public static void setStringArray(String category, String name, String[] defaultValue, String[] value) {
+    static void setStringArray(String category, String name, String[] defaultValue, String[] value) {
         config.get(category, name, defaultValue).set(value);
         config.save();
     }
@@ -32,7 +33,7 @@ public class Config {
         config.save();
     }
 
-    public static String[] getStringArray(String category, String name, String[] defaultValue) {
+    static String[] getStringArray(String category, String name, String[] defaultValue) {
         return config.get(category, name, defaultValue).getStringList();
     }
 }

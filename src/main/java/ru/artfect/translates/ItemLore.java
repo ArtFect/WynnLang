@@ -1,6 +1,9 @@
 package ru.artfect.translates;
 
 import com.google.common.collect.BiMap;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
 import net.minecraft.client.Minecraft;
 import net.minecraft.item.ItemStack;
 import net.minecraft.nbt.NBTTagCompound;
@@ -10,16 +13,12 @@ import net.minecraft.util.NonNullList;
 import net.minecraftforge.common.util.Constants;
 import ru.artfect.wynnlang.StringUtil;
 
-public class ItemLore extends TranslateType {
+@AllArgsConstructor
+@NoArgsConstructor
+public class ItemLore implements Translatable, Flipped {
     private ItemStack item;
-
-    public ItemLore(ItemStack item) {
-        this.item = item;
-    }
-
-    public ItemLore() {
-
-    }
+    @Getter
+    private static final String name = "ITEM_LORE";
 
     @Override
     public void translate() {
@@ -34,7 +33,6 @@ public class ItemLore extends TranslateType {
         if (disp == null) {
             return;
         }
-        NBTTagList list = new NBTTagList();
         NBTTagList lore = disp.getTagList("Lore", Constants.NBT.TAG_STRING);
         for (int j = 0; j < lore.tagCount(); j++) {
             String replace = StringUtil.handleString(this, lore.getStringTagAt(j));
@@ -43,10 +41,6 @@ public class ItemLore extends TranslateType {
             }
         }
         item.getTagCompound().setBoolean("wynntilsIgnore", true);
-    }
-
-    public String getName() {
-        return "ITEM_LORE";
     }
 
     public void reverse(BiMap<String, String> translated) {
@@ -63,7 +57,6 @@ public class ItemLore extends TranslateType {
             if (disp == null) {
                 continue;
             }
-            NBTTagList list = new NBTTagList();
             NBTTagList lore = disp.getTagList("Lore", Constants.NBT.TAG_STRING);
             for (int j = 0; j < lore.tagCount(); j++) {
                 String str = lore.getStringTagAt(j);

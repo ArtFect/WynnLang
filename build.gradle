@@ -1,5 +1,6 @@
 buildscript {
     repositories {
+        jcenter()
         mavenCentral()
         maven {
             name = "forge"
@@ -14,13 +15,16 @@ buildscript {
         classpath 'net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT'
     }
 }
-
+plugins {
+    id 'io.franzbecker.gradle-lombok' version '3.3.0'
+    id 'java'
+}
 apply plugin: 'net.minecraftforge.gradle.forge'
 
 ext.modversion = "${project.version}"
 
 group = 'ru.fiw.wynnlang'
-version = "${project.version_minecraft}-${modversion}"
+version = "1.12.2-1.5"
 
 sourceCompatibility = '1.8'
 targetCompatibility = '1.8'

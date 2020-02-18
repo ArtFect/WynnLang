@@ -3,7 +3,6 @@ package ru.artfect.wynnlang;
 import com.google.common.collect.HashBiMap;
 import net.minecraftforge.fml.common.Loader;
 import ru.artfect.translates.*;
-import ru.artfect.wynnlang.translate.ReverseTranslation;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -14,20 +13,20 @@ import java.util.Map;
 import java.util.regex.Pattern;
 
 public class StringLoader {
-    public static void load() throws InstantiationException, IllegalAccessException {
-        loadType(Chat.class);
-        loadType(Entity.class);
-        loadType(ItemLore.class);
-        loadType(ItemName.class);
-        loadType(Playerlist.class);
-        loadType(Title.class);
-        loadType(InventoryName.class);
-        loadType(BossBar.class);
-        loadType(Scoreboard.class);
+    public static void load() {
+        loadType(new Chat());
+        loadType(new Entity());
+        loadType(new ItemLore());
+        loadType(new ItemName());
+        loadType(new PlayerList());
+        loadType(new Title());
+        loadType(new InventoryName());
+        loadType(new BossBar());
+        loadType(new Scoreboard());
 
         if(Loader.isModLoaded("wynnexp")){
             WynnLang.common.get(ItemName.class).remove("§dQuest Book");
-            HashMap<String, String> loreMap = WynnLang.common.get(ItemLore.class);
+            Map<String, String> loreMap = WynnLang.common.get(ItemLore.class);
             loreMap.remove("§a\u2714§7 Class Req: Mage/Dark Wizard");
             loreMap.remove("§a\u2714§7 Class Req: Warrior/Knight");
             loreMap.remove("§a\u2714§7 Class Req: Archer/Hunter");
@@ -35,17 +34,17 @@ public class StringLoader {
         }
     }
 
-    private static void loadType(Class<? extends TranslateType> type) throws IllegalAccessException, InstantiationException {
+    private static void loadType(TranslateType type) {
         Log.loadLogFile(type);
         loadList(type);
     }
 
-    private static void loadList(Class<? extends TranslateType> type) throws InstantiationException, IllegalAccessException {
+    private static void loadList(TranslateType type) {
         try {
             WynnLang.common.put(type, new HashMap<>());
             WynnLang.regex.put(type, new HashMap<>());
-            ReverseTranslation.translated.put(type, HashBiMap.create());
-            String name = type.newInstance().getName();
+            Reference.reverseTranslation.getTranslated().put((Flipped) type, HashBiMap.create());
+            String name = type.getName();
             BufferedReader br = new BufferedReader(new InputStreamReader(WynnLang.class.getResourceAsStream("/" + name + "/list.txt"), StandardCharsets.UTF_8));
             String line;
             HashMap map = WynnLang.common.get(type);

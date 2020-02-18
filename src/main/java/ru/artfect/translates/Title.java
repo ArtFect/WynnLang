@@ -1,22 +1,20 @@
 package ru.artfect.translates;
 
-import com.google.common.collect.BiMap;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
 import net.minecraft.network.play.server.SPacketTitle;
 import net.minecraft.util.text.TextComponentString;
 import ru.artfect.wynnlang.StringUtil;
 
-public class Title extends TranslateType {
+@AllArgsConstructor
+@NoArgsConstructor
+public class Title implements TranslatablePacket<SPacketTitle> {
     private SPacketTitle title;
+    @Getter
+    private static final String name = "TITLE";
 
-    public Title(SPacketTitle title) {
-        this.title = title;
-    }
-
-    public Title() {
-
-    }
-
-    public Object translatePacket() {
+    public SPacketTitle translatePacket() {
         if(title.getMessage() != null){
             String str = title.getMessage().getFormattedText().replace("§r", "");
             String replace = StringUtil.handleString(this, str);
@@ -25,13 +23,5 @@ public class Title extends TranslateType {
             }
         }
         return title;
-    }
-
-    public String getName() {
-        return "TITLE";
-    }
-
-    public void reverse(BiMap<String, String> translated) {
-
     }
 }

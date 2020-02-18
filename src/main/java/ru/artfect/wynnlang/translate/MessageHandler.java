@@ -2,7 +2,6 @@ package ru.artfect.wynnlang.translate;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
-import net.minecraft.item.ItemStack;
 import net.minecraft.network.play.server.*;
 import net.minecraft.util.text.ChatType;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
@@ -10,8 +9,6 @@ import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import ru.artfect.translates.*;
 import ru.artfect.wynnlang.Reference;
-
-import java.util.List;
 
 public class MessageHandler extends ChannelInboundHandlerAdapter {
     public MessageHandler() {
@@ -24,12 +21,10 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
             return;
         }
         if (msg instanceof SPacketWindowItems) {
-            SPacketWindowItems p = (SPacketWindowItems) msg;
-            List<ItemStack> items = p.getItemStacks();
-            for (ItemStack item : items) {
+            ((SPacketWindowItems) msg).getItemStacks().forEach(item -> {
                 new ItemName(item).translate();
                 new ItemLore(item).translate();
-            }
+            });
         } else if (msg instanceof SPacketSetSlot) {
             SPacketSetSlot p = (SPacketSetSlot) msg;
             new ItemName(p.getStack()).translate();
@@ -42,7 +37,7 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
             msg = new Title(p).translatePacket();
         } else if (msg instanceof SPacketPlayerListItem) {
             SPacketPlayerListItem p = (SPacketPlayerListItem) msg;
-            new Playerlist(p).translate();
+            new PlayerList(p).translate();
         } else if (msg instanceof SPacketOpenWindow) {
             SPacketOpenWindow p = (SPacketOpenWindow) msg;
             msg = new InventoryName(p).translatePacket();
@@ -52,13 +47,13 @@ public class MessageHandler extends ChannelInboundHandlerAdapter {
         } else if (msg instanceof SPacketUpdateScore) {
             SPacketUpdateScore p = (SPacketUpdateScore) msg;
             msg = new Scoreboard(p).translatePacket();
-        } // мраааак
+        }
         super.channelRead(ctx, msg);
     }
 
     @SubscribeEvent
     public void onMessage(ClientChatReceivedEvent e) {
-        if (e.getType() == ChatType.GAME_INFO || !Reference.onWynncraft || !Reference.modEnabled) {
+        if (e.getType().equals(ChatType.GAME_INFO) || !Reference.onWynncraft || !Reference.modEnabled) {
             return;
         }
         new Chat(e).translate();

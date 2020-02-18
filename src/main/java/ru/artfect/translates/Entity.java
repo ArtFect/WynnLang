@@ -1,22 +1,21 @@
 package ru.artfect.translates;
 
 import com.google.common.collect.BiMap;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
 import net.minecraft.client.Minecraft;
 import net.minecraft.network.datasync.EntityDataManager.DataEntry;
 import ru.artfect.wynnlang.StringUtil;
 
 import java.util.List;
 
-public class Entity extends TranslateType {
+@NoArgsConstructor
+@AllArgsConstructor
+public class Entity implements Flipped, Translatable {
     private List<DataEntry<?>> entityInfo;
-
-    public Entity(List<DataEntry<?>> entityInfo) {
-        this.entityInfo = entityInfo;
-    }
-
-    public Entity() {
-
-    }
+    @Getter
+    private static final String name = "ENTITY_NAME";
 
     public void translate() {
         if (entityInfo == null) {
@@ -32,10 +31,6 @@ public class Entity extends TranslateType {
                 }
             }
         }
-    }
-
-    public String getName() {
-        return "ENTITY_NAME";
     }
 
     public void reverse(BiMap<String, String> translated) {

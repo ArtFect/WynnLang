@@ -4,7 +4,7 @@ import net.minecraft.client.Minecraft;
 import net.minecraft.client.multiplayer.ServerData;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.network.FMLNetworkEvent;
-import org.apache.http.client.ClientProtocolException;
+import ru.artfect.wynnlang.command.WynnCommand;
 import ru.artfect.wynnlang.translate.MessageHandler;
 
 import java.io.IOException;
@@ -23,7 +23,7 @@ public class Network {
             Reference.onWynncraft = true;
             e.getManager().channel().pipeline().addBefore("fml:packet_handler", "wynnlang:packet_handler", new MessageHandler());
 
-            if (!Reference.ruChat.isAlive() && Reference.ruChat.enabled) {
+            if (!Reference.ruChat.isAlive() && WynnCommand.RU_CHAT.isEnabled()) {
             	Reference.ruChat = new RuChat();
                 Reference.ruChat.start();
             }
@@ -31,7 +31,7 @@ public class Network {
     }
 
     @SubscribeEvent
-    public void onDisc(FMLNetworkEvent.ClientDisconnectionFromServerEvent e) throws ClientProtocolException, IOException, InstantiationException, IllegalAccessException {
+    public void onDisc(FMLNetworkEvent.ClientDisconnectionFromServerEvent e) throws IOException {
     	Log.saveAndSend();
         Reference.ruChat.closeSocket();
         Reference.onWynncraft = false;
