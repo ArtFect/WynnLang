@@ -2685,6 +2685,8 @@ Fat Mouse Tail@§fХвост Толстой Мыши
 §cFairy Wings Effect@Эффект Крыльев Феи
 §cLake Gylia Effect@§cЭффект Озера Гилия
 §6Pentagram Effect@§6Эффект Пентаграммы
+§cBone Wings Effect@§cЭффект Костлявых Крыльев
+§4Amadel Effect@§4Эффект Амаделя
 §fSheep Disguise@§fМаскировка в Овцу
 §fChicken Disguise@§fМаскировка в Курицу
 §fPig Disguise@§fМаскировка в Свинью
@@ -2720,6 +2722,7 @@ Fat Mouse Tail@§fХвост Толстой Мыши
 §6Chrome Cybel Token@§6Хромовый Кубел Жетон
 §fChocolate Wybel Token@§fШоколадный Вубел Жетон
 §cOrange Wybel Token@§cОранжевый Вубел Жетон
+§cOrange Cybel Token@§cОранжевый Кубел Жетон
 §6Bronze Cybel Token@§6Бронзовый Кубел Жетон
 §6Sea Blue Wybel Token@§6Голубой Вубел Жетон
 §6Futuristic Bow@§6Футуристический Лук
@@ -3107,6 +3110,7 @@ Crafted RelikÀ@Крафтовый Релик
 §dUnidentified Wand@§dНеидентифицированный Посох
 §bUnidentified Wand@§bНеидентифицированный Посох
 §aUnidentified Wand@§aНеидентифицированный Посох
+§cUnidentified Wand@§cНеидентифицированный Посох
 §5Unidentified Dagger@§5Неидентифицированный Кинжал
 §eUnidentified Dagger@§eНеидентифицированный Кинжал
 §dUnidentified Dagger@§dНеидентифицированный Кинжал
