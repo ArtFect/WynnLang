@@ -416,22 +416,22 @@
 §d            - §7+Access to the Almuj Bank@§d            - §7+ Доступ к Банку Алмужа
 §d            - §7+1 Maltic Recommendation Letter@§d            - §7+1 Рекомендательное письмо Малтика
 §d            - §7+1 Yahya's Stained Bowl@§d            - §7+1 Использованная Миска Яхуя
-§d            - §7+1 Decrepit Sewers Dungeon Key@§d            - §7+1 Ветхая Канализация Данж Ключ
+§d            - §7+1 Decrepit Sewers Dungeon Key@§d            - §7+1 Ключ от Данжа Ветхая Канализация 
 §d            - §7+Access to the Decrepit Sewers Dungeon@§d            - §7+ Доступ к данжу Ветхая Канализация
-§d            - §7+1 Infested Pit Key@§d            - §7+1 Зараженная Яма Ключ
+§d            - §7+1 Infested Pit Key@§d            - §7+1 Ключ от Зараженной Ямы 
 §d            - §7+Access to the Infested Pit dungeon@§d            - §7+ Доступ к данжу Зараженная Яма
 §d            - §7+1 Breathing Helmet I@§d            - §7+1 Шлем Подводника I
 §d            - §7+1 Yellow Crystals@§d            - §7+1 Желтый Кристалл
-§d            - §7+1 Ragni Teleportation Scroll@§d            - §7+1 Рагни Свиток Телепортации
+§d            - §7+1 Ragni Teleportation Scroll@§d            - §7+1 Свиток Телепортации в Рагни
 §d            - §7+ Access to the Province of Wynn@§d            - §7+ Доступ в провинцию Винн
 §d            - §7+Access to Farmer Cevalus's Farm@§d            - §7+ Доступ на ферму Фермера Цевалуса
 §d            - §7+2 Copper Ingot, Oak Wood & Wheat String@§d            - §7+2 Медных Слитка, Дерево и Пшеница/Нить
 §d            - §7+Access to the Glassblowing Merchant@§d            - §7+ Доступ к Торговцу Стеклодуву
-§d            - §7+1 Sand-Swept Tomb Dungeon Key@§d            - §7+1 Песчаная Гробница Данж Ключ
+§d            - §7+1 Sand-Swept Tomb Dungeon Key@§d            - §7+1 Ключ от Данжа Песчаная Гробница 
 §d            - §7+1 Cluckles' Favourite Feather@§d            - §7+1 Любимое Перо Клаклеса
-§d            - §7+1 Underworld Crypt Key@§d            - §7+1 Подземный Склеп Ключ
+§d            - §7+1 Underworld Crypt Key@§d            - §7+1 Ключ от Данжа Подземный Склеп 
 §d            - §7+Access to the Underworld Crypt Dungeon@§d            - §7+ Доступ к данжу Подземный Склеп
-§d            - §7+1 Lost Sanctuary Dungeon Key@§d            - §7+1 Затерянное Святилище Данж Ключ
+§d            - §7+1 Lost Sanctuary Dungeon Key@§d            - §7+1 Ключ от Данжа Затерянное Святилище 
 §d            - §7+1 Skill Reset Scroll@§d            - §7+1 Свиток сброса умений
 §d            - §7+Access to the Tower of Amnesia@§d            - §7+ Доступ в Башню Амнезии
 §d            - §7+Calamaro's Token/+Gernald's Amulet@§d            - §7+ Жетон Каламаро/+Gernald's Amulet
@@ -440,9 +440,9 @@
 §d            - §7+1 Factory Helmet@§d            - §7+1 Фабричный Шлем
 §d            - §7+1 The Mummy's Bandage@§d            - §7+1 Бинт Мумии
 §d            - §7+§4§l66666§7 Experience Points@§d            - §7+§4§l66666§7 Очков Опыта
-§d            - §7+1 Ice Barrows Dungeon Key@§d            - §7+1 Ледяной Курган Данж Ключ
+§d            - §7+1 Ice Barrows Dungeon Key@§d            - §7+1 Ключ от Данжа Ледяной Курган 
 §d            - §7+1 Brown Horse@§d            - §7+1 Коричневая Лошадь
-§d            - §7+ Access to Ternaves's Horse Shop@§d            - §7+ Доступ к продавцу лошадей в Тернейвс
+§d            - §7+ Access to Ternaves's Horse Shop@§d            - §7+ Доступ к продавцу лошадей в Тернейвсе
 §d            - §7+1 Purple Crystal Shard@§d            - §7+1 Фиолетовый Осколок Кристалла
 §d            - §7+ Access to Bob's Tomb@§d            - §7+ Доступ к Гробнице Боба
 §d            - §7+1 Bob's Soul@§d            - §7+1 Душа Боба
@@ -455,7 +455,7 @@
 §d            - §7+512 Emeralds / 768 Emeralds@§d            - §7+512 Эмеральдов / 768 Эмеральдов
 §d            - §7+Elven Medallion / Receipt@§d            - §7+Медальон Эльфов / Квитанция
 §d            - §7+Access to Aldorei Town@§d            - §7+Доступ в город Алдорей
-§d            - §7+1 Undergrowth Ruins Key@§d            - §7+1 Заросшие Руины Ключ
+§d            - §7+1 Undergrowth Ruins Key@§d            - §7+1 Ключ от Данжа Заросшие Руины 
 §d            - §7+Dusty Passport@§d            - §7+Пыльный Паспорт
 §d            - §7+Access to fast-travel between Cinfras and Detlas@§d            - §7+Доступ к быстрым путешествиям между Цинфрасом и Детласом
 §d            - §7+Access to the Undergrowth Ruins Dungeon@§d            - §7+Доступ в Данж Заросшие Руины
@@ -482,10 +482,10 @@
 §d            - §7+1 Dogun Badge of Trust@§d            - §7+1 Значок Доверия Догунов
 §d            - §7+Access to the Molten Heights elevators@§d            - §7+Доступ к лифтам в Расплавленных Высотах 
 §d            - §7+1 Emerald@§d            - §7+1 Эмеральд
-§d            - §7+1 Galleon's Graveyard Key@§d            - §7+1 Кладбище Галеона Ключ
-§d            - §7+1 Fallen Factory Key@§d            - §7+1 Заброшенная Фабрика Ключ
+§d            - §7+1 Galleon's Graveyard Key@§d            - §7+1 Ключ от Данжа Кладбище Галеона 
+§d            - §7+1 Fallen Factory Key@§d            - §7+1 Ключ от Данжа Заброшенная Фабрика 
 §d            - §7+Access to the hot air balloon quick-travel@§d            - §7+Доступ к быстрым путешествиям на воздушном шаре
-§d            - §7+Access to the Fallen Factory Dungeon@§d            - §7+Доступ в Заброшенная Фабрика Данж
+§d            - §7+Access to the Fallen Factory Dungeon@§d            - §7+Доступ в Данж Заброшенная Фабрика 
 §d            - §7+1 Letter to Korzim@§d            - §7+1 Письмо для Корзима
 §d            - §7+Access to the Thanos-Rodoroc trading tunnel@§d            - §7+Доступ к торговому тоннелю Танос-Родорок
 §d            - §7+1 Corrupted Treasure@§d            - §7+1 Испорченное Сокровище
