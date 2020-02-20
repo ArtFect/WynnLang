@@ -3099,24 +3099,20 @@ Crafted RelikÀ@Крафтовый Релик
 §b§lSilent Expanse's SecretÀ@§b§lСекрет Тихого Пространства
 
 ##############################UNIDENTIFIED ITEMS##############################
-§5Unidentified Wand@§5Неидентифицированный Посох
 §eUnidentified Wand@§eНеидентифицированный Посох
 §dUnidentified Wand@§dНеидентифицированный Посох
 §bUnidentified Wand@§bНеидентифицированный Посох
 §aUnidentified Wand@§aНеидентифицированный Посох
 §cUnidentified Wand@§cНеидентифицированный Посох
-§5Unidentified Dagger@§5Неидентифицированный Кинжал
 §eUnidentified Dagger@§eНеидентифицированный Кинжал
 §dUnidentified Dagger@§dНеидентифицированный Кинжал
 §bUnidentified Dagger@§bНеидентифицированный Кинжал
 §aUnidentified Dagger@§aНеидентифицированный Кинжал
-§5Unidentified Bow@§5Неидентифицированный Лук
 §eUnidentified Bow@§eНеидентифицированный Лук
 §dUnidentified Bow@§dНеидентифицированный Лук
 §bUnidentified Bow@§bНеидентифицированный Лук
 §aUnidentified Bow@§aНеидентифицированный Лук
 §cUnidentified Bow@§cНеидентифицированный Лук
-§5Unidentified Spear@§5Неидентифицированное Копье
 §eUnidentified Spear@§eНеидентифицированное Копье
 §dUnidentified Spear@§dНеидентифицированное Копье
 §bUnidentified Spear@§bНеидентифицированное Копье
@@ -3127,7 +3123,6 @@ Crafted RelikÀ@Крафтовый Релик
 §aUnidentified Helmet@§aНеидентифицированный Шлем
 §cUnidentified Helmet@§cНеидентифицированный Шлем
 §fUnidentified Helmet@§fНеидентифицированный Шлем
-§5Unidentified Chestplate@§5Неидентифицированный Нагрудник
 §eUnidentified Chestplate@§eНеидентифицированный Нагрудник
 §dUnidentified Chestplate@§dНеидентифицированный Нагрудник
 §bUnidentified Chestplate@§bНеидентифицированный Нагрудник
@@ -3138,7 +3133,6 @@ Crafted RelikÀ@Крафтовый Релик
 §bUnidentified Leggings@§bНеидентифицированные Штаны
 §aUnidentified Leggings@§aНеидентифицированные Штаны
 §cUnidentified Leggings@§cНеидентифицированные Штаны
-§5Unidentified Boots@§5Неидентифицированные Ботинки
 §eUnidentified Boots@§eНеидентифицированные Ботинки
 §dUnidentified Boots@§dНеидентифицированные Ботинки
 §bUnidentified Boots@§bНеидентифицированные Ботинки
@@ -3162,4 +3156,3 @@ Crafted RelikÀ@Крафтовый Релик
 §dUnidentified Relik@§dНеидентифицированный Релик
 §eUnidentified Relik@§eНеидентифицированный Релик
 §bUnidentified Relik@§bНеидентифицированный Релик
-§5Unidentified Relik@§5Неидентифицированный Релик
