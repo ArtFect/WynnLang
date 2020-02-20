@@ -2,10 +2,6 @@
 §4/friend §c[add/remove/list]@ 
 §4/ignore §c[add/remove]@ 
 §4/party §c[create/invite/kick/leader/leave]@ 
-§4/p §c[message]@ 
-§4/msg §c[name] [message]@ 
-§4/r §c[message]@ 
-§4/trade §c[name]@ 
 §4/crates@ 
 §4/totems@ 
 §4/sign@ 
