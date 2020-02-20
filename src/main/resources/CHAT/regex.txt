@@ -24,14 +24,12 @@
 §3\[Parkour\] §bCongratulations! §3([a-zA-Z0-9_]{1,16})§b finished the parkour in §3(.*) seconds§b!@§3[Паркур] §bПоздравляем! §3(r1)§b закончил паркур за §3(r2) секунд§b!
 §5Key Collector: §dYou do not yet have a high enough combat level to access this dungeon. Come back when you're at least combat level (.*).@§5Сборщик Ключей: §dУ тебя недостаточный комбат уровень для доступа в этот данж. Возвращайся, когда будешь (r1) комбат уровня.
 §3\[Parkour\] §bYou completed §3Lv. (.*)§b in §(.*) seconds§b.@§3[Паркур] §bТы завершил §3Ур. (r1)§b за §(r2) секунд§b.
-§9(.*) would like to duel! Type §6(.*)§9 to accept.@§b(r1) хочет дуэли с тобой! Напиши §6(r2)§9 для принятия.
 §7\[Questline Started: (.*)\]@§7[Начата серия квестов: (r1)]
 §a§l\[Mini-Quest Started: (.*)\]@§a§l[Начат новый мини-квест: (r1)]
 §7\[You have received (\d+) soul points while you were offline\]@§7[Ты заработал (r1) очков душ, пока был не в сети]
 (.*) Experience Points@(r1) Очков опыта
 (.*) §7\+(.*) Emeralds@(r1) §7+(r2) Эмеральдов
 §7\+1 Maximum Soul Points §8\[Total: (\d+)\]@§7+1 к максимуму числа душ §8[Всего: (r1)]
-§5([a-zA-Z0-9_]{1,16}) would like to trade! Type §6/trade ([a-zA-Z0-9_]{1,16})§5 to accept.@§5(r1) хотел бы поторговать с тобой! Напиши §6/trade (r2) §5для принятия.
 §4([a-zA-Z0-9_]{1,16}) has already claimed this loot chest!@§4(r1) уже забрал этот сундук с лутом!
 §cYou are no longer tracking (.*)@§cТы больше не отслеживаешь (r1)
 §4You need §c(\d+)§4 more levels before you can unlock this page of the bank@§4Тебе нужно еще §c(r1)§4 уровней, прежде чем ты сможешь разблокировать эту страницу банка
@@ -118,7 +116,6 @@
 (.*)§fMost Damage Taken: §b(.*) \((.*)\)@(r1)§fБольше получил урона: §b(r2) ((r3))
 (.*)§fMost Damage Healed: §b(.*) \((.*)\)@(r1)§fБольше урона вылечил: §b(r2) ((r3))
 (.*)§fMost Mobs Killed: §b(.*) \((.*)\)@(r1)§fБольше убил мобов: §b(r2) ((r3))
-§3You have been invited to join §b(.*)§3 by §b(.*)§3! Type §b/guild join (.*)§3 to accept!@§3Ты получил приглашение от §b(r2)§3 присоединиться к §b(r1)§3! Напиши §b/guild join (r3)§3 для принятия!
 §3You have joined §b(.*)§3!@§3Ты присоединился к §b(r1)§3!
 §4(.*) is not a real guild.@§4(r1) гильдии не существует.
 (.*) has purchased (.*) mobs for (.*), costing (.*) emeralds.@§b(r1) купил (r2) мобов для (r3), заплатив (r4) эмеральдов.
@@ -344,7 +341,6 @@
 §e(.*) has joined the party.@§e(r1) присоединился к пати.
 §eParty members: (.*)@§eУчастники пати: (r1)
 §eYou have been invited to join (.*) party.@§eТы был приглашен присоединиться к (r1) пати.
-§eType the command §6\/party join (.*)§e to join!@§eНапиши команду §6/party join (r1)§e чтобы присоединиться!
 §e(.*) has left the party.@§e(r1) покинул пати.
 §e(.*) is not a friend! Type §6\/friend list§e.@§e(r1) не является другом! Напиши §6/friend list§e.
 §e(.*) is already a friend! Type §6\/friend list§e.@§e(r1) уже твой друг! Напиши §6/friend list§e.
