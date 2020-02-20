@@ -1705,6 +1705,10 @@
 §6      Lock / unlock the item in your hand, making it so you can't accidentally drop it@§6Заблокировать / разблокировать предмет в твоей руке, чтобы случайно его не выбросить 
 §6      Choose a class to play as@§6Выбрать класс для игры  
 §6      Toggle gameplay items on or off@§6Включить или отключить элементы геймплея
+§4/p §c[message]@§4/p §c[сообщение]
+§4/msg §c[name] [message]@§4/msg §c[ник] [сообщение]
+§4/r §c[message]@§4/r §c[сообщение]
+§4/trade §c[name]@§4/trade §c[ник]
 §4You have no items of this type to use. Buy some at our website, §cwynncraft.com/store@§4У тебя нет предметов этого типа для использования. Можешь купить их на нашем сайте §cwynncraft.com/store
 §dVisit the Trade Market to claim your item@§dПосети Трейд Маркет, чтобы забрать свой предмет
 §dVisit the Trade Market to claim your items@§dПосети Трейд Маркет, чтобы забрать свои предметы
