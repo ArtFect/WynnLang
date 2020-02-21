@@ -531,7 +531,7 @@ QUESTS/Creeper_Infiltration
 §7exist in Wynn @§7криперов в Винн 
  
 QUESTS/Crop_Failure  
-§7Talk to Anast in Olux, @§7Поговори с Анастом в Олуксе на 
+§7Talk to Anast in Olux, @§7Поговори с Анастом в Олуксе 
 §7[-1834,62,-5557]@ 
 §7Interrogate Doubiss the salesman somewhere @§7Допроси продавца Дубиса 
 §7in Olux @§7где-то в Олуксе 
@@ -902,7 +902,7 @@ QUESTS/Fate_of_the_Fallen
  
 QUESTS/Finding_The_Light 
 §7Talk to the Guardian of @§7Поговори с Хранителем Леса
-§7The Forest in the Light @§7в Светлом Лесу на 
+§7The Forest in the Light @§7в Светлой части 
 §7[-1128,49,-4778]@ 
 §7(Requires completion of Taproot) @§7(Необходимо пройти квест Taproot) 
 §7Find the Arch in the @§7Найди Арку 
@@ -955,7 +955,7 @@ QUESTS/Finding_The_Light
 §7Enter The Light Realm @§7Войди в Царство Света 
  
 QUESTS/Flight_in_Distress 
-§7Speak to the Passenger Controllant @§7Поговори с Контроллером на 
+§7Speak to the Passenger Controllant @§7Поговори с Контроллером 
 §7[-172,108,-4946]@ 
 §7Enter the airship @§7Войди на дирижабль
 §7Speak to Captain Ackbar regarding @§7Поговори с Капитаном Акбаром по поводу
@@ -1918,7 +1918,7 @@ QUESTS/Stable_Story
  
 QUESTS/Star_Thief  
 §7Look into the rumors of @§7Расследуй слухи о странной погоде 
-§7strange weather near the Imal @§7 рядом с гостиницей Imal 
+§7strange weather near the Imal @§7рядом с гостиницей Imal 
 §7Inn at [-2018, 43, -4822]. @§7Inn на [-2018, 43, -4822] 
 §7Find the meteor's crash site @§7Найди место падения метеора 
 §7at [-2122, 52, -4887]. @§7на [-2122, 52, -4887] 
@@ -2158,7 +2158,7 @@ QUESTS/The_Envoy_Part_II
 §7at [-1707,75,-2610]. @§7на [-1707,75,-2610].
 
 QUESTS/The_Fortuneteller 
-§7Talk to Jill in Kandon-Beda @§7Поговори с Джилл в Кандон-Бэда на 
+§7Talk to Jill in Kandon-Beda @§7Поговори с Джилл в Кандон-Бэда 
 §7[746,150,-4468]@ 
 §7Search the Castle near Kandon-Beda @§7Обыщи замок рядом с Кандон-Бэда 
 §7for a treasure map at @§7и найди карту сокровищ на
@@ -2284,7 +2284,7 @@ QUESTS/The_Hunger_of_Gerts_Part_I
 §7him about the tunnels @§7с рассказом о тоннелях
 
 QUESTS/The_Hunger_of_Gerts_Part_II 
-§7Talk to Gerten Chief Lobo @§7Поговори с Герт Шеф Лобо на 
+§7Talk to Gerten Chief Lobo @§7Поговори с Герт Шеф Лобо 
 §7[-141,82,-5607]@ 
 §7Head to Jitaks house at @§7Отправляйся к дому Житака на 
 §7[-169,32,-5470]@ 
@@ -2382,7 +2382,7 @@ QUESTS/The_Order_of_the_Grook
 §7Finish school for the day. @§7Закончи школу за день.
 
 QUESTS/The_Passage_(Quest)  
-§7Talk to Wirt in Troms @§7Поговори с Виртом в Тромсе на 
+§7Talk to Wirt in Troms @§7Поговори с Виртом в Тромсе 
 §7[-820,94,-1040]@ 
 §7Find Ildan in Troms at @§7Найди Илдана в Тромсе 
 §7[-870,94,-1034]@ 
@@ -2644,7 +2644,7 @@ QUESTS/Tunnel_Trouble
 §7the cave. @§7в пещеру 
  
 QUESTS/Underice  
-§7Talk to Fredris in Nesaak @§7Поговори с Фредрисом в Несааке на 
+§7Talk to Fredris in Nesaak @§7Поговори с Фредрисом в Несааке 
 §7[157,73,-812]@ 
 §7Return to Nesaak and bring @§7Вернись в Несаак и принеси 
 §7Fredris a [Breathing Helmet I] @§7Фредрису [Шлем Подводника I] 
