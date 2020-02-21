@@ -1895,14 +1895,14 @@ Level §c70-80@Уровень §c70-80
 §fExplode@§fВзрыва
 §2[§aRight Click to Break Icicle§2]@§2[§aПравый Клик, чтобы Сломать Сосульку§2]
 §2[§aRight Click to Collect Water§2]@§2[§aПравый Клик, чтобы Собрать Воду§2]
-§8Left-Click for String@§8Левый Клик для Нити
-§8Left-Click for Oil@§8Левый Клик для Жира
-§8Left-Click for Ingot@§8Левый Клик для Слитка
-§8Left-Click for Wood@§8Левый Клик для Древесины
-§8Right-Click for Grain@§8Правый Клик для Зерна
-§8Right-Click for Meat@§8Правый Клик для Мяса
-§8Right-Click for Gem@§8Правый Клик для Камня
-§8Right-Click for Paper@§8Правый Клик для Бумаги
+§8Left-Click for String@§fЛевый Клик для Нити
+§8Left-Click for Oil@§fЛевый Клик для Жира
+§8Left-Click for Ingot@§fЛевый Клик для Слитка
+§8Left-Click for Wood@§fЛевый Клик для Древесины
+§8Right-Click for Grain@§fПравый Клик для Зерна
+§8Right-Click for Meat@§fПравый Клик для Мяса
+§8Right-Click for Gem@§fПравый Клик для Камня
+§8Right-Click for Paper@§fПравый Клик для Бумаги
 §2[§aRight Click to Dig§2]@§2[§aПравый Клик для Копания§2]
 §2[§aCollect Mobs To Here§2]@§2[§aСобрать Мобов Сюда§2]
 §2[§aRight Click to Break the Boulder§2]@§2[§aПравый Клик, чтобы Разбить Валун§2]
