@@ -3774,7 +3774,6 @@ Tanned Leather Cap@
 Steamjet Walkers@ 
 §dDead Samurai's Plate@ 
 §bHymn of the Dead@ 
-Hearty Zork Stew Recipe@ 
 Gold Digger@ 
 §dWalking Stick@ 
 §eStatic Wand@ 
@@ -6252,24 +6251,6 @@ Dragon Skin@
 §aYellow Ornament@ 
 §aRed Ornament@ 
 §aGreen Ornament@ 
-§l§6[>] Select This Character@ 
-§fⓀ§l Refine §fⓀ@ 
-§fⒸ§l Refine §fⒸ@ 
-§fⒿ§l Refine §fⒿ@ 
-§fⒷ§l Refine §fⒷ@ 
-Old Pirate Hook@ 
-§lAttack Effect@ 
-§lPlayer Effects@ 
-§lPets@ 
-§lGear Skins@ 
-§lDisguises@ 
-§lMob Totems@ 
-§lBomb@ 
-Crate of Rat Poison@ 
-Royal Token of Gratitude@ 
-Siegfried's Sword@ 
-Master Catalyst@ 
-Air Voucher@ 
 §bPerun's Crown@ 
 §eHeatwindÀ@ 
 §eGospelÀ@ 
@@ -7539,7 +7520,6 @@ Dionaea@
 §eStaff of Regrowth@ 
 §eRefraction@ 
 Ancient Soul@ 
-Malleable Slime@ 
 Average Golden Helmet@ 
 Updraft@ 
 Turquoise@ 
@@ -7595,6 +7575,123 @@ Golden Scarab@
 Average Golden Chestplate@ 
 §eGoliathÀ@ 
 §eAnvil Crawler@ 
+Scale of Sieryu@ 
+Delirium@ 
+Spider Bracelet@ 
+Mangled Soul@ 
+Life Extractor@ 
+Keen Measure@ 
+Meikyo Shisui@ 
+Kindled Orchid@ 
+Return@ 
+Reminiscence@ 
+Criistal@ 
+Primitive Delicacy@ 
+Viscous Slime@ 
+Sonicboom@ 
+Puppeteer@ 
+Night Rush@ 
+All for One@ 
+Mesarock Arch@ 
+Blossom@ 
+Snakeroot Bow@ 
+Sandstorm@ 
+Refined Chain Helmet@ 
+Alice's Sleeve@ 
+Tiny@ 
+Bony Circlet@ 
+Spore Cap@ 
+Dim Diamond Boots@ 
+Maelstrom@ 
+AGILITY 3@ 
+§eEndothermÀ@ 
+§bSaundersi Signet@ 
+High-Quality Chain Mail@ 
+§eBehemothÀ@ 
+§eSturdyÀ@ 
+HUNGER 3@ 
+Zombie Eye@ 
+Diablo@ 
+§eMsitu@ 
+§aBeachside ConchÀ@ 
+§dCursed Spike@ 
+§dSanta Hat@ 
+§eSturdy@ 
+§eFlashing BootsÀ@ 
+§bPoint of No Return@ 
+§eHeartstringsÀ@ 
+Racer's Shoes@ 
+§eRegulating Charge@ 
+§eCnidocyte@ 
+§eFrontier@ 
+§eRotary Crossbow@ 
+§eReflection@ 
+§eSunbreezeÀ@ 
+§dOne For All@ 
+§aBeachside HeadwrapÀ@ 
+Steel Wool@ 
+§eShockmosis@ 
+§eSilent Ballet@ 
+§eNightlife@ 
+§dWater Relic Bow@ 
+Firefly@ 
+§eRemedyÀ@ 
+§eCyanine@ 
+§eNamazu@ 
+§eAbout-Face@ 
+§eEliminere@ 
+§bLower@ 
+§dShell of Genbu@ 
+§aVillager Mail@ 
+§eMistÀ@ 
+Boots of Blue Stone@ 
+§eMosaic@ 
+§eSymphony@ 
+§eRemedy@ 
+§bInferna Flamewreath@ 
+Eclipse@ 
+The Vampire Blade@ 
+Steel Bracer@ 
+Gernald's Amulet@ 
+RYMEK@ 
+Fierce Thunder@ 
+Olux's Prized Spear@ 
+Flawless Diorite Shears@ 
+§dSublimeÀ@ 
+§eIfe@ 
+§ePalette@ 
+§eFloodgate@ 
+§eAssurance@ 
+§5Gaia@ 
+§7Roasted Flesh@ 
+Ventilator@ 
+§eConfusing CapÀ@ 
+§eParang@ 
+§eTerraflux@ 
+§eFrigid@ 
+§dAir Relic Bow@ 
+Ultramarine Boots@ 
+Ultramarine Crown@ 
+§fImpeccable Spruce SpearÀ@ 
+Plankton@ 
+§eBoiler@ 
+§eCrust Crusher@ 
+§eBastille@ 
+§eTropics@ 
+§bChampion Chestplate@ 
+§eIronclad@ 
+Hellkite's Wing@ 
+Jester Ring@ 
+THUNDER 4@ 
+Asymptote@ 
+Jester Bracelet@ 
+Solar Pillar@ 
+Sublime@ 
+§eSynthesizer@ 
+Reinforced Iron Boots@ 
+§aSkien's Fatigues@ 
+§eValhalla@ 
+§eOrographineÀ@ 
 
 #########################TRACKS##########################
 §bLuxury of the Cease-Fire (Ragni)@ 
@@ -7736,6 +7833,22 @@ Average Golden Chestplate@
 §bAn Interesting Find (Discovery Jingle)@ 
 §bTravelling at Dusk (Desert)@ 
 §bTreacherous Walkways (Pigman's Ravines)@ 
+§bFreedom in Darkness (Lutho)@ 
+§bWhere They Wandered (Ruined Olmic City)@ 
+§bAll Eyes on Me (Eyeball Forest)@ 
+§bIts Melting Point (Toxic Wastes)@ 
+§bTangled In Endless Roots (Void Valley)@ 
+§bEnd of the Road (The Portal)@ 
+§bWhat Must be Done (A Journey Further)@ 
+§bEverpresence (Eldritch Outlook)@ 
+§bOut Of Time (Corrupted Dungeon 2)@ 
+§bGenesis of the End (Boss Battle 12)@ 
+§bA Day to Remember (Boss Battle 13)@ 
+§bA Frightening Find (Silent Expanse Discovery)@ 
+§bCorkian Madness (Dwelling Walls)@ 
+§bBeatskipper (Seaskipper Travel)@ 
+§bSkippin' Service (Misadventure on the Sea 1)@ 
+§bLost at Sea (Misadventure on the Sea 2)@ 
 
 #####################TERRITORY/QUEST NAMES#########################
 §f§lBlack MagicÀ@ 

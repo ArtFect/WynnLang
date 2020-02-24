@@ -389,7 +389,7 @@ QUESTS/Bob%27s_Lost_Soul
 §7to Tarod @§7Тароду 
  
 QUESTS/Canyon_Condor  
-§7Talk to Svin in Rymek @§7Поговори со Свином в Римеке на 
+§7Talk to Svin in Rymek @§7Поговори со Свином в Римеке 
 §7[1352,30,-1300]@ 
 §7Talk to Jankan east from @§7Поговори с Джанканом на 
 §7Rymek at @§7востоке от Римека 
@@ -531,7 +531,7 @@ QUESTS/Creeper_Infiltration
 §7exist in Wynn @§7криперов в Винн 
  
 QUESTS/Crop_Failure  
-§7Talk to Anast in Olux, @§7Поговори с Анастом в Олуксе на 
+§7Talk to Anast in Olux, @§7Поговори с Анастом в Олуксе 
 §7[-1834,62,-5557]@ 
 §7Interrogate Doubiss the salesman somewhere @§7Допроси продавца Дубиса 
 §7in Olux @§7где-то в Олуксе 
@@ -770,6 +770,7 @@ QUESTS/Eye_of_the_Storm
 §7Search the ruins at @§7Обыщи руины на 
 §7[-714,43,-5385]@ 
 §7to find the cultists @§7и найди культистов 
+§7Find Talos in the crypt @§7Найди Талоса в гробнице
 §7Kill the hellhound and free @§7Убей цербера и освободи 
 §7Talos @§7Талоса
 §7Return to Arwes in the @§7Вернись к Арвесу в
@@ -901,7 +902,7 @@ QUESTS/Fate_of_the_Fallen
  
 QUESTS/Finding_The_Light 
 §7Talk to the Guardian of @§7Поговори с Хранителем Леса
-§7The Forest in the Light @§7в Светлом Лесу на 
+§7The Forest in the Light @§7в Светлой части 
 §7[-1128,49,-4778]@ 
 §7(Requires completion of Taproot) @§7(Необходимо пройти квест Taproot) 
 §7Find the Arch in the @§7Найди Арку 
@@ -954,7 +955,7 @@ QUESTS/Finding_The_Light
 §7Enter The Light Realm @§7Войди в Царство Света 
  
 QUESTS/Flight_in_Distress 
-§7Speak to the Passenger Controllant @§7Поговори с Контроллером на 
+§7Speak to the Passenger Controllant @§7Поговори с Контроллером 
 §7[-172,108,-4946]@ 
 §7Enter the airship @§7Войди на дирижабль
 §7Speak to Captain Ackbar regarding @§7Поговори с Капитаном Акбаром по поводу
@@ -1473,7 +1474,10 @@ QUESTS/Memory_Paranoia
 §7Return the spoon to the @§7Верни ложку 
 §7Kitchen @§7на кухню 
 §7Enter the Kitchen @§7Войди на кухню 
+§7Listen to Mr. Caritat's announcement @§7Послушай сообщение Мр. Каритата
 §7Exit the Kitchen @§7Покинь кухню
+§7Speak to the people who @§7Поговори с людьми, которые 
+§7haven't fled from the disaster @§7не сбежали от ужаса
 §7Unlock the Study @§7Открой кабинет 
 §7Enter the Study @§7Войди в кабинет 
 §7Leave the Study @§7Покинь кабинет
@@ -1482,12 +1486,15 @@ QUESTS/Memory_Paranoia
 §7Enter the Master Bedroom @§7Войди в главную спальню
 §7Bring the key to Timmy's @§7Принеси ключ к 
 §7bedroom @§7спальне Тимми
+§7Enter Timmy's bedroom @§7Войди в спальню Тимми
 §7Escape the flaming mansion through @§7Покинь горящее поместье через 
 §7the back door @§7заднюю дверь
 §7Speak with the Possessed Mr. @§7Поговори с Одержимым Мр. 
+§7Defeat the remains of Mister @§7Победи останки Мистера 
 §7Caritat @§7Каритатом
 §7Navigate the Caritat's basement @§7Пройдись по подвалу Каритатов 
 §7Escape through the mysterious rift @§7Сбеги через загадочную расщелину 
+§7Speak to Atisun @§7Поговори с Атисуном
 
 QUESTS/Misadventure_on_the_Sea 
 §7Visit the Nemract bar at @§7Посети Немракт бар на
@@ -1507,7 +1514,7 @@ QUESTS/Misadventure_on_the_Sea
 §7same time. -Bodies cleaned: 0/7 @§7время. -Тел очищено: 0/7
 §7same time. -Bodies cleaned: 1/7 @§7время. -Тел очищено: 1/7
 §7same time. -Bodies cleaned: 2/7 @§7время. -Тел очищено: 2/7
-§7same time. -Bodies cleaned: 4/7@§7время. -Тел очищено: 4/7
+§7same time. -Bodies cleaned: 4/7 @§7время. -Тел очищено: 4/7
 §7same time. -Bodies cleaned: 6/7 @§7время. -Тел очищено: 6/7
 §7same time. -Bodies cleaned: 5/7 @§7время. -Тел очищено: 5/7
 §7same time. -Bodies cleaned: 3/7 @§7время. -Тел очищено: 3/7
@@ -1744,6 +1751,8 @@ QUESTS/Reclaiming_the_House
 §7Scale the tower at @§7Залезь на башню 
 §7[-1433,69,-5394]@ 
 §7to scout out the area @§7чтобы исследовать территорию 
+§7Report back to Ahmas and @§7Доложи Ахмасу и 
+§7devise an entry route @§7разработай маршрут входа
 §7Enter the troll outpost through @§7Войди на форпост троллей 
 §7the basement at @§7через подвал на 
 §7[-1442,39,-5221]@ 
@@ -1901,15 +1910,15 @@ QUESTS/Shattered_Minds
 §7Talk to Likeru @§7Поговори с Ликеру
  
 QUESTS/Stable_Story  
-§7Talk to Enkser in Ternaves @§7Поговори с Энксером в Тернейвс на 
+§7Talk to Enkser in Ternaves @§7Поговори с Энксером в Тернейвс 
 §7[828,69,-1636]@ 
 §7Bring back [1 Stable Key] @§7Принеси Энксеру [1 Ключ 
-§7to Enkser from the tunnel @§7от Конюшни] обратно из тоннеля на 
+§7to Enkser from the tunnel @§7от Конюшни] обратно из тоннеля 
 §7[836,69,-1649]@ 
  
 QUESTS/Star_Thief  
 §7Look into the rumors of @§7Расследуй слухи о странной погоде 
-§7strange weather near the Imal @§7 рядом с гостиницей Imal 
+§7strange weather near the Imal @§7рядом с гостиницей Imal 
 §7Inn at [-2018, 43, -4822]. @§7Inn на [-2018, 43, -4822] 
 §7Find the meteor's crash site @§7Найди место падения метеора 
 §7at [-2122, 52, -4887]. @§7на [-2122, 52, -4887] 
@@ -2149,7 +2158,7 @@ QUESTS/The_Envoy_Part_II
 §7at [-1707,75,-2610]. @§7на [-1707,75,-2610].
 
 QUESTS/The_Fortuneteller 
-§7Talk to Jill in Kandon-Beda @§7Поговори с Джилл в Кандон-Бэда на 
+§7Talk to Jill in Kandon-Beda @§7Поговори с Джилл в Кандон-Бэда 
 §7[746,150,-4468]@ 
 §7Search the Castle near Kandon-Beda @§7Обыщи замок рядом с Кандон-Бэда 
 §7for a treasure map at @§7и найди карту сокровищ на
@@ -2240,6 +2249,7 @@ QUESTS/The_Hunger_of_Gerts_Part_I
 §7the back of the camp @§7в конце лагеря
 §7Explore the Gerten cave @§7Исследуй пещеру Гертов
 §7Spy on the Gerten meeting @§7Подслушай встречу Гертов
+§7Leave the meeting @§7Покинь встречу
 §7Tell farmer Jitak about the @§7Расскажи фермеру Житаку 
 §7tunnel @§7насчет тоннеля
 §7Bring Jitak [6 Gert Skin] @§7Принеси Житаку 6 [Gert Skin]
@@ -2260,6 +2270,7 @@ QUESTS/The_Hunger_of_Gerts_Part_I
 §7Head to the cell at @§7Подойди к клетке на 
 §7[-808,47,-8217]@ 
 §7and investigate @§7и исследуй 
+§7Talk to the Comor @§7Поговори с Комором
 §7Kill the Hungry Gert and @§7Убей голодного Герта и 
 §7return to Comor with the @§7вернись к Комору с 
 §7[Cell Key] @§7[Ключом от клетки]
@@ -2273,7 +2284,7 @@ QUESTS/The_Hunger_of_Gerts_Part_I
 §7him about the tunnels @§7с рассказом о тоннелях
 
 QUESTS/The_Hunger_of_Gerts_Part_II 
-§7Talk to Gerten Chief Lobo @§7Поговори с Герт Шеф Лобо на 
+§7Talk to Gerten Chief Lobo @§7Поговори с Герт Шеф Лобо 
 §7[-141,82,-5607]@ 
 §7Head to Jitaks house at @§7Отправляйся к дому Житака на 
 §7[-169,32,-5470]@ 
@@ -2371,7 +2382,7 @@ QUESTS/The_Order_of_the_Grook
 §7Finish school for the day. @§7Закончи школу за день.
 
 QUESTS/The_Passage_(Quest)  
-§7Talk to Wirt in Troms @§7Поговори с Виртом в Тромсе на 
+§7Talk to Wirt in Troms @§7Поговори с Виртом в Тромсе 
 §7[-820,94,-1040]@ 
 §7Find Ildan in Troms at @§7Найди Илдана в Тромсе 
 §7[-870,94,-1034]@ 
@@ -2633,7 +2644,7 @@ QUESTS/Tunnel_Trouble
 §7the cave. @§7в пещеру 
  
 QUESTS/Underice  
-§7Talk to Fredris in Nesaak @§7Поговори с Фредрисом в Несааке на 
+§7Talk to Fredris in Nesaak @§7Поговори с Фредрисом в Несааке 
 §7[157,73,-812]@ 
 §7Return to Nesaak and bring @§7Вернись в Несаак и принеси 
 §7Fredris a [Breathing Helmet I] @§7Фредрису [Шлем Подводника I] 
@@ -2731,6 +2742,8 @@ QUESTS/WynnExcavation_Site_D
 §7(Requires shard from Site C) @§7(Необходим осколок из Site C) 
 §7Find the secret passageway inside @§7Найди секретный проход внутри
 §7of the throne room @§7тронного зала
+§7Explore the secrets beneath Troms @§7Исследуй секреты под Тромс 
+§7Castle @§7замком
 §7Talk to the King @§7Поговори с Королем
 §7Exit the King's room @§7Покинь комнату Короля
 §7Escape Troms @§7Сбеги из Тромса

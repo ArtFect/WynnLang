@@ -1247,55 +1247,6 @@
 §cClick to confirm@§cКликни для подтверждения
 §c§lBack to Icon Selection@§c§lВернуться к Выбору Иконок
 §6Go To The Previous Page@§6Назад к Предыдущей Странице
-§a§lWorld 1@§a§lМир 1
-§a§lWorld 2@§a§lМир 2
-§a§lWorld 3@§a§lМир 3
-§a§lWorld 4@§a§lМир 4
-§a§lWorld 5@§a§lМир 5
-§a§lWorld 6@§a§lМир 6
-§a§lWorld 7@§a§lМир 7
-§a§lWorld 8@§a§lМир 8
-§a§lWorld 9@§a§lМир 9
-§a§lWorld 10@§a§lМир 10
-§a§lWorld 11@§a§lМир 11
-§a§lWorld 12@§a§lМир 12
-§a§lWorld 13@§a§lМир 13
-§a§lWorld 14@§a§lМир 14
-§a§lWorld 15@§a§lМир 15
-§a§lWorld 16@§a§lМир 16
-§a§lWorld 17@§a§lМир 17
-§a§lWorld 18@§a§lМир 18
-§a§lWorld 19@§a§lМир 19
-§a§lWorld 20@§a§lМир 20
-§a§lWorld 21@§a§lМир 21
-§a§lWorld 22@§a§lМир 22
-§a§lWorld 23@§a§lМир 23
-§a§lWorld 24@§a§lМир 24
-§a§lWorld 25@§a§lМир 25
-§a§lWorld 26@§a§lМир 26
-§a§lWorld 27@§a§lМир 27
-§a§lWorld 28@§a§lМир 28
-§a§lWorld 29@§a§lМир 29
-§a§lWorld 30@§a§lМир 30
-§a§lWorld 31@§a§lМир 31
-§a§lWorld 32@§a§lМир 32
-§a§lWorld 33@§a§lМир 33
-§a§lWorld 34@§a§lМир 34
-§a§lWorld 35@§a§lМир 35
-§a§lWorld 36@§a§lМир 36
-§a§lWorld 37@§a§lМир 37
-§a§lWorld 38@§a§lМир 38
-§a§lWorld 39@§a§lМир 39
-§a§lEU World 1@§a§lEU Мир 1
-§a§lEU World 2@§a§lEU Мир 2
-§a§lEU World 3@§a§lEU Мир 3
-§a§lEU World 4@§a§lEU Мир 4
-§a§lEU World 5@§a§lEU Мир 5
-§a§lEU World 6@§a§lEU Мир 6
-§a§lEU World 7@§a§lEU Мир 7
-§a§lEU World 8@§a§lEU Мир 8
-§a§lEU World 9@§a§lEU Мир 9
-§a§lEU World 10@§a§lEU Мир 10
 
 ######################################SHOPS#################################################
 §aTribal Weapon Shop@§aМагазин Оружия Племени
@@ -1615,12 +1566,6 @@
 §7§lRemove Jump Height Identification Only Filter@§7§lУбрать Фильтр "Высота Прыжка Идентификация"
 
 #######################################POTIONS#############################################
-§cPotion of Healing§4 [3/3]@§cЗелье Лечения §4 [3/3]
-§cPotion of Healing§4 [2/3]@§cЗелье Лечения §4 [2/3]
-§cPotion of Healing§4 [1/3]@§cЗелье Лечения §4 [1/3]
-§cPotion of Healing§4 [3/3]À@§cЗелье Лечения §4 [3/3]
-§cPotion of Healing§4 [1/3]À@§cЗелье Лечения §4 [1/3]
-§cPotion of Healing§4 [2/3]À@§cЗелье Лечения §4 [2/3]
 §bPotion of Mana§3 [2/2]@§bЗелье Маны§3 [2/2]
 §bPotion of Mana§3 [1/2]@§bЗелье Маны§3 [1/2]
 §bPotion of Mana§3 [2/2]À@§bЗелье Маны§3 [2/2]
@@ -2685,6 +2630,8 @@ Fat Mouse Tail@§fХвост Толстой Мыши
 §cFairy Wings Effect@Эффект Крыльев Феи
 §cLake Gylia Effect@§cЭффект Озера Гилия
 §6Pentagram Effect@§6Эффект Пентаграммы
+§cBone Wings Effect@§cЭффект Костлявых Крыльев
+§4Amadel Effect@§4Эффект Амаделя
 §fSheep Disguise@§fМаскировка в Овцу
 §fChicken Disguise@§fМаскировка в Курицу
 §fPig Disguise@§fМаскировка в Свинью
@@ -2720,6 +2667,7 @@ Fat Mouse Tail@§fХвост Толстой Мыши
 §6Chrome Cybel Token@§6Хромовый Кубел Жетон
 §fChocolate Wybel Token@§fШоколадный Вубел Жетон
 §cOrange Wybel Token@§cОранжевый Вубел Жетон
+§cOrange Cybel Token@§cОранжевый Кубел Жетон
 §6Bronze Cybel Token@§6Бронзовый Кубел Жетон
 §6Sea Blue Wybel Token@§6Голубой Вубел Жетон
 §6Futuristic Bow@§6Футуристический Лук
@@ -3102,23 +3050,20 @@ Crafted RelikÀ@Крафтовый Релик
 §b§lSilent Expanse's SecretÀ@§b§lСекрет Тихого Пространства
 
 ##############################UNIDENTIFIED ITEMS##############################
-§5Unidentified Wand@§5Неидентифицированный Посох
 §eUnidentified Wand@§eНеидентифицированный Посох
 §dUnidentified Wand@§dНеидентифицированный Посох
 §bUnidentified Wand@§bНеидентифицированный Посох
 §aUnidentified Wand@§aНеидентифицированный Посох
-§5Unidentified Dagger@§5Неидентифицированный Кинжал
+§cUnidentified Wand@§cНеидентифицированный Посох
 §eUnidentified Dagger@§eНеидентифицированный Кинжал
 §dUnidentified Dagger@§dНеидентифицированный Кинжал
 §bUnidentified Dagger@§bНеидентифицированный Кинжал
 §aUnidentified Dagger@§aНеидентифицированный Кинжал
-§5Unidentified Bow@§5Неидентифицированный Лук
 §eUnidentified Bow@§eНеидентифицированный Лук
 §dUnidentified Bow@§dНеидентифицированный Лук
 §bUnidentified Bow@§bНеидентифицированный Лук
 §aUnidentified Bow@§aНеидентифицированный Лук
 §cUnidentified Bow@§cНеидентифицированный Лук
-§5Unidentified Spear@§5Неидентифицированное Копье
 §eUnidentified Spear@§eНеидентифицированное Копье
 §dUnidentified Spear@§dНеидентифицированное Копье
 §bUnidentified Spear@§bНеидентифицированное Копье
@@ -3129,7 +3074,6 @@ Crafted RelikÀ@Крафтовый Релик
 §aUnidentified Helmet@§aНеидентифицированный Шлем
 §cUnidentified Helmet@§cНеидентифицированный Шлем
 §fUnidentified Helmet@§fНеидентифицированный Шлем
-§5Unidentified Chestplate@§5Неидентифицированный Нагрудник
 §eUnidentified Chestplate@§eНеидентифицированный Нагрудник
 §dUnidentified Chestplate@§dНеидентифицированный Нагрудник
 §bUnidentified Chestplate@§bНеидентифицированный Нагрудник
@@ -3140,7 +3084,6 @@ Crafted RelikÀ@Крафтовый Релик
 §bUnidentified Leggings@§bНеидентифицированные Штаны
 §aUnidentified Leggings@§aНеидентифицированные Штаны
 §cUnidentified Leggings@§cНеидентифицированные Штаны
-§5Unidentified Boots@§5Неидентифицированные Ботинки
 §eUnidentified Boots@§eНеидентифицированные Ботинки
 §dUnidentified Boots@§dНеидентифицированные Ботинки
 §bUnidentified Boots@§bНеидентифицированные Ботинки
@@ -3164,4 +3107,3 @@ Crafted RelikÀ@Крафтовый Релик
 §dUnidentified Relik@§dНеидентифицированный Релик
 §eUnidentified Relik@§eНеидентифицированный Релик
 §bUnidentified Relik@§bНеидентифицированный Релик
-§5Unidentified Relik@§5Неидентифицированный Релик

@@ -1,4 +1,4 @@
-§e(.*) friends \((.*)\): (.*)@§e(r1)'а друзья ((r2)): (r3)
+§e(.*)'s friends \((.*)\): (.*)@§eдрузья (r1) ((r2)): (r3)
 §6#(\d+)§f ([a-zA-Z0-9_]{1,16})§8 - §7(\d+) XP§8 - §7(\d+)²§8 - §7Joined (.*)@§6#(r1)§f (r2)§8 - §7(r3) XP§8 - §7(r4)²§8 - §7Принят (r5)
 §cThe server is restarting in (\d+) seconds.@§cСервер перезагрузится через (r1) секунд
 §cThe server is restarting in (\d+) minutes.@§cСервер перезагрузится через (r1) минут
@@ -55,3 +55,7 @@
 (.*) has logged into server (.*) as §(b|a)a Shaman@(r1) зашел на сервер (r2) классом §(r3)Шаман
 (.*) has logged into server (.*) as §(b|a)a Skyseer@(r1) зашел на сервер (r2) классом §(r3)Провидец
 §(e|a)([a-zA-Z0-9_]{1,16}) left the game.@§(r1)(r2) покинул игру.
+§9([a-zA-Z0-9_]{1,16}) would like to duel! Type §6(.*)§9 to accept.@§b(r1) хочет дуэли с тобой! Напиши §6(r2)§9 для принятия.
+§5([a-zA-Z0-9_]{1,16}) would like to trade! Type §6\/trade ([a-zA-Z0-9_]{1,16})§5 to accept.@§5(r1) хотел бы поторговать с тобой! Напиши §6/trade (r2) §5для принятия.
+§eType the command §6\/party join (.*)§e to join!@§eНапиши команду §6/party join (r1)§e чтобы присоединиться!
+§3You have been invited to join §b(.*)§3 by §b(.*)§3! Type §b/guild join (.*)§3 to accept!@§3Ты получил приглашение от §b(r2)§3 присоединиться к §b(r1)§3! Напиши §b/guild join (r3)§3 для принятия!

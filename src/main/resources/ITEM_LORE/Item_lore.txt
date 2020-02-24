@@ -57,6 +57,7 @@
 §7- Unprocessed Willow Log@§7- Необработанное Бревно Ивы
 §7- Refined Willow Paper 1@§7- Переработанная Ивовая Бумага 1
 §7- Refined Willow Paper 2@§7- Переработанная Ивовая Бумага 2
+§7- Refined Willow Paper 3@§7- Переработанная Ивовая Бумага 3
 §7- Refined Willow Wood 1@§7- Переработанная Древесина Ивы 1
 §7- Refined Willow Wood 2@§7- Переработанная Древесина Ивы 2
 §7- Refined Willow Wood 3@§7- Переработанная Древесина Ивы 3
@@ -103,21 +104,25 @@
 §7- Unprocessed Malt@§7- Необработанный Солод
 §7- Refined Malt String 1@§7- Переработанная Солодовая Нить 1
 §7- Refined Malt String 2@§7- Переработанная Солодовая Нить 2
+§7- Refined Malt Grains 1@§7- Переработанное Солодовое Зерно 1
 §7- Refined Silver Gem 1@§7- Переработанный Серебрянный Камень 1
 §7- Refined Silver Gem 2@§7- Переработанный Серебрянный Камень 2
 §7- Refined Silver Ingot 1@§7- Переработанный Слиток Серебра 1
 §7- Refined Molten Ingot 1@§7- Переработанный Слиток Молтен 1
 §7- Refined Jungle Wood 1@§7- Переработанная Древесина Амаранта 1
 §7- Refined Jungle Wood 2@§7- Переработанная Древесина Амаранта 2
+§7- Unprocessed Piranha@§7- Необработанная Пиранья
 §7- Refined Piranha Oil 1@§7- Переработанный Жир Пираньи 1
 §7- Refined Piranha Oil 3@§7- Переработанный Жир Пираньи 3
 §7- Refined Carp Oil 1@§7- Переработанный Жир Карпа 1
 §7- Refined Carp Oil 3@§7- Переработанный Жир Карпа 3
 §7- Refined Carp Oil 2@§7- Переработанный Жир Карпа 2
+§7- Unprocessed Icefish@§7- Необработанная Щука
 §7- Refined Icefish Oil 1@§7- Переработанный Жир Щуки 1
 §7- Refined Hops String 1@§7- Переработанная Хмельная Нить 1
 §7- Refined Cobalt Ingot 2@§7- Переработанный Слиток Кобальта 2
 §7- Refined Cobalt Ingot 1@§7- Переработанный Слиток Кобальта 1
+§7- Refined Cobalt Ingot 3@§7- Переработанный Слиток Кобальта 3
 §7- Refined Cobalt Gem 2@§7- Переработанный Кобальтовый Камень 2
 §7- Refined Decay String 1@§7- Переработанный Зараженная Нить 1
 §7- Refined Decay Grains 2@§7- Переработанное Зараженное Зерно 2
@@ -131,6 +136,7 @@
 §7- Refined Kanderstone Ingot 3@§7- Переработанный Слиток Кандерстоуна 3
 §7- Refined Kanderstone Ingot 1@§7- Переработанный Слиток Кандерстоуна 1
 §7- Refined Gylia Oil 3@§7- Переработанный Жир Гилия 3
+§7- Refined Rye Grains 1@§7- Переработанное Ржаное Зерно 1
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -453,55 +459,6 @@
 §4§kIs this the end?@§4§kEto konec?
 §7A Sharp Blade Used to Extract a Soul@§7Острый клинок, используется для извлечения души
 
-############################MAJOR ID##################################
-§3§b+Tempest: §3Arrow Storm fires@§3§b+Tempest: §3Шторм Стрел стреляет
-§3in all directions@§3во все направления
-§3§b+Saviour’s Sacrifice: §3While@§3§b+Saviour’s Sacrifice: §3При уменьшении
-§3under 50% maximum health, nearby@§3до 50% от максимума здоровья ближайшие
-§3allies gain 50% bonus damage@§3союзники получают 50% бонус к урону
-§3and defence@§3и защите
-§3§b+Magnet: §3Pulls items within@§3§b+Magnet: §3Притягивает ближайшие предметы
-§3an 8 block radius towards you@§3к тебе в радиусе 8 блоков
-§3§b+Intervene: §350% of damage@§3§b+Intervene: §350% урона
-§3taken by nearby allies is redirected@§3полученного ближайшими союзниками передается
-§3to you@§3тебе
-§3§b+Entropy: §3Meteor falls@§3§b+Entropy: §3Метеор падает
-§3three times faster@§3в 3 раза быстрее
-§3§b+Guardian: §350% of damage@§3§b+Guardian: §350% урона
-§3§b+Roving Assassin: §3Vanish@§3§b+Roving Assassin: §3Исчезновение
-§3no longer drains mana while@§3больше не тратит ману при
-§3invisible@§3невидимости
-§3§b+Lightweight: §3You no longer@§3§b+Lightweight: §3Ты не будешь получать
-§3take fall damage@§3урон от падений
-§3significantly faster@§3значительно быстрее
-§3§b+Hawkeye: §3Arrow storm fires@§3§b+Hawkeye: §3Шторм Стрел выстреливает
-§35 arrows each dealing 120%@§35 стрелами, каждая наносит 120%
-§3damage@§3урона
-§3§b+Sorcery: §330% chance for@§3§b+Sorcery: §330% шанс, что
-§3spells and attacks to cast@§3заклинания и атаки будут кастоваться
-§3a second time at no additional@§3второй раз без использования
-§3cost@§3маны
-§3§b+Plague: §3Poisoned mobs@§3§b+Plague: §3Отравленные мобы
-§3spread 70% of their poison@§3распространяют 70% от своего яда
-§3to nearby mobs@§3на других мобов
-§3§b+Transcendence: §350% chance@§3§b+Transcendence: §350% шанс на
-§3for spells to cost no mana@§3каст заклинания без использования
-§3when casted@§3маны
-§3§b+Greed: §3Picking up emeralds@§3§b+Greed: §3Подбор эмеральдов
-§3heals you and nearby players@§3лечит тебя и ближайших игроков 
-§3for 15% max health@§3на 15% от максимума здоровья
-§3§b+Taunt: §3Mobs within 12@§3§b+Taunt: §3Мобы в пределах 12
-§3blocks target you upon casting@§3блоков идут к тебе после каста
-§3War Scream@§3Боевого Клича
-§3§b+Madness: §3Casts a random@§3§b+Madness: §3Кастует рандомную
-§3ability every 3 seconds@§3способность каждые 3 секунды
-§3§b+Cavalryman: §3You may cast@§3§b+Cavalryman: §3Ты можешь кастовать
-§3spells and attack with a 70%@§3заклинания и атаки с 70%
-§3damage penalty while on a horse@§3меньшим уроном при езде на лошади
-§3§b+Heart of the Pack: §3Nearby@§3§b+Heart of the Pack: §3Ближайшие
-§3players gain 35% of the health@§3игроки получают 35% здоровья
-§3you naturally regenerate@§3которое ты регенирируешь
-
 #####################RECIPES################################
 §6§lRing Recipes:@§6§lРецепты Колец:
 §6§lBracelet Recipes:@§6§lРецепты Браслетов:
@@ -593,7 +550,8 @@
 §c✖ Lv. 70: §f5§7 Decay String§f Ⓙ@§c✖ Ур. 70: §f5§7 Зараженных Нитей§f Ⓙ
             §f5§7 Decay String§f Ⓙ@            §f5§7 Зараженных Нитей§f Ⓙ
             §f10§7 Decay String§f Ⓙ@            §f10§7 Зараженных Нитей§f Ⓙ
-            §f10§7 Decay Grains§f Ⓙ@            §f10§7 Зараженных Зерен§f Ⓙ
+		    §f10§7 Decay Grains§f Ⓙ@            §f10§7 Зараженных Зерен§f Ⓙ
+            §f5§7 Decay Grains§f Ⓙ@            §f5§7 Зараженных Зерен§f Ⓙ
             §f5§7 Light Wood§f Ⓒ@            §f5§7 Древесины Клена§f Ⓒ
             §f10§7 Light Wood§f Ⓒ@            §f10§7 Древесины Клена§f Ⓒ
             §f10§7 Light Paper§f Ⓒ@            §f10§7 Кленовой Бумаги§f Ⓒ
@@ -625,6 +583,7 @@
             §f5§7 Gylia Oil§f Ⓚ@            §f5§7 Жира Гилия§f Ⓚ
             §f10§7 Gylia Oil§f Ⓚ@            §f10§7 Жира Гилия§f Ⓚ
             §f15§7 Gylia Oil§f Ⓚ@            §f15§7 Жира Гилия§f Ⓚ
+§c✖ Lv. 70: §f10§7 Gylia Meat§f Ⓚ@§c✖ Ур. 70: §f10§7 Мяса Гилия§f Ⓚ
 §a✔ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§a✔ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 80: §f5§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f5§7 Жира Окуня§f Ⓚ
@@ -693,12 +652,16 @@
             §f9§7 Carp Oil§f Ⓚ@            §f9§7 Жира Карпа§f Ⓚ
 §a✔ Lv. 30: §f6§7 Carp Oil§f Ⓚ@§a✔ Ур. 30: §f6§7 Жира Карпа§f Ⓚ
 §c✖ Lv. 30: §f6§7 Carp Oil§f Ⓚ@§c✖ Ур. 30: §f6§7 Жира Карпа§f Ⓚ
+§a✔ Lv. 30: §f6§7 Carp Meat§f Ⓚ@§a✔ Ур. 30: §f6§7 Мяса Карпа§f Ⓚ
 §c✖ Lv. 40: §f6§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f6§7 Хмельных Нитей§f Ⓙ
 §c✖ Lv. 40: §f3§7 Hops String§f Ⓙ@§c✖ Ур. 40: §f3§7 Хмельных Нити§f Ⓙ
 §a✔ Lv. 40: §f6§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f6§7 Хмельных Нитей§f Ⓙ
 §a✔ Lv. 40: §f3§7 Hops String§f Ⓙ@§a✔ Ур. 40: §f3§7 Хмельных Нити§f Ⓙ
             §f6§7 Hops String§f Ⓙ@            §f6§7 Хмельных Нитей§f Ⓙ
             §f3§7 Hops String§f Ⓙ@            §f3§7 Хмельных Нити§f Ⓙ
+            §f3§7 Hops Grains§f Ⓙ@            §f3§7 Хмельного Зерна§f Ⓙ
+§c✖ Lv. 40: §f6§7 Icefish Meat§f Ⓚ@§c✖ Ур. 40: §f6§7 Мяса Щуки§f Ⓚ
+§a✔ Lv. 40: §f6§7 Icefish Meat§f Ⓚ@§a✔ Ур. 40: §f6§7 Мяса Щуки§f Ⓚ
 §c✖ Lv. 40: §f6§7 Icefish Oil§f Ⓚ@§c✖ Ур. 40: §f6§7 Жира Щуки§f Ⓚ
 §a✔ Lv. 40: §f6§7 Icefish Oil§f Ⓚ@§a✔ Ур. 40: §f6§7 Жира Щуки§f Ⓚ
 §a✔ Lv. 50: §f4§7 Silver Ingot§f Ⓑ@§a✔ Ур. 50: §f4§7 Серебрянных Слитка§f Ⓑ
@@ -719,12 +682,14 @@
 §c✖ Lv. 50: §f4§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f4§7 Ржаных Нити§f Ⓙ
             §f8§7 Rye String§f Ⓙ@            §f8§7 Ржаных Нитей§f Ⓙ
             §f4§7 Rye String§f Ⓙ@            §f4§7 Ржаных Нити§f Ⓙ
+            §f4§7 Rye Grains§f Ⓙ@            §f4§7 Ржаного Зерна§f Ⓙ
 §c✖ Lv. 50: §f8§7 Piranha Oil§f Ⓚ@§c✖ Ур. 50: §f8§7 Жира Пираньи§f Ⓚ
 §a✔ Lv. 60: §f8§7 Millet String§f Ⓙ@§a✔ Ур. 60: §f8§7 Просо Нитей§f Ⓙ
 §a✔ Lv. 60: §f4§7 Millet String§f Ⓙ@§a✔ Ур. 60: §f4§7 Просо Нити§f Ⓙ
             §f8§7 Millet String§f Ⓙ@            §f8§7 Просо Нитей§f Ⓙ
             §f4§7 Millet String§f Ⓙ@            §f4§7 Просо Нити§f Ⓙ
             §f8§7 Millet Grains§f Ⓙ@            §f8§7 Просо Зерен§f Ⓙ
+            §f4§7 Millet Grains§f Ⓙ@            §f4§7 Просо Зерен§f Ⓙ
 §c✖ Lv. 70: §f5§7 Kanderstone Ingot§f Ⓑ@§c✖ Ур. 70: §f5§7 Кандерстоун Слитков§f Ⓑ
 §c✖ Lv. 70: §f10§7 Kanderstone Ingot§f Ⓑ@§c✖ Ур. 70: §f10§7 Кандерстоун Слитков§f Ⓑ
 §a✔ Lv. 70: §f5§7 Kanderstone Ingot§f Ⓑ@§a✔ Ур. 70: §f5§7 Слитков Кандерстоуна§f Ⓑ
@@ -740,6 +705,8 @@
             §f12§7 Koi Oil§f Ⓚ@            §f12§7 Жира Сазана§f Ⓚ
 §a✔ Lv. 60: §f8§7 Koi Oil§f Ⓚ@§a✔ Ур. 60: §f8§7 Жира Сазана§f Ⓚ
 §a✔ Lv. 60: §f4§7 Koi Oil§f Ⓚ@§a✔ Ур. 60: §f4§7 Жира Сазана§f Ⓚ
+§c✖ Lv. 60: §f8§7 Koi Meat§f Ⓚ@§c✖ Ур. 60: §f8§7 Мяса Сазана§f Ⓚ
+§a✔ Lv. 60: §f8§7 Koi Meat§f Ⓚ@§a✔ Ур. 60: §f8§7 Мяса Сазана§f Ⓚ
 §c✖ Lv. 80: §f5§7 Diamond Ingot§f Ⓑ@§c✖ Ур. 80: §f5§7 Слитков Алмаза§f Ⓑ
 §c✖ Lv. 80: §f10§7 Diamond Ingot§f Ⓑ@§c✖ Ур. 80: §f10§7 Слитков Алмаза§f Ⓑ
 §a✔ Lv. 80: §f5§7 Diamond Ingot§f Ⓑ@§a✔ Ур. 80: §f5§7 Слитков Алмаза§f Ⓑ
@@ -748,6 +715,8 @@
 §a✔ Lv. 80: §f5§7 Diamond Gem§f Ⓑ@§a✔ Ур. 80: §f5§7 Алмазных Камней§f Ⓑ
              §f12§7 Hemp String§f Ⓙ@             §f12§7 Конопляных Нитей§f Ⓙ
              §f6§7 Hemp String§f Ⓙ@             §f6§7 Конопляных Нитей§f Ⓙ
+§c✖ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§c✖ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
+§a✔ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§a✔ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
 
 #############################POWDERS#############################
 §8Adding 2 powders of tier 4-6@§8Добавление 2 порошков уровня 4-6
@@ -1386,6 +1355,7 @@
 §5- §7Shadow Clone Spell §8[Lv. 11]@§5- §7Теневой Клон Заклинание §8[Ур. 11]
 §6- §7Leopard Punches§8 [Lv. 21]@§6- §7Удары Леопарда§8 [Ур. 21]
 §6- §fLeopard Punches§7 [Lv. 21]@§6- §fУдары Леопарда§7 [Ур. 21]
+§5- §7Blinding Cloud Spell §8[Lv. 31]@§5- §7Ослепляющее Облако Заклинание §8[Ур. 31]
 §6- §7Blinding Cloud§8 [Lv. 31]@§6- §7Ослепляющее Облако§8 [Ур. 31]
 §6- §fBlinding Cloud§7 [Lv. 31]@§6- §fОслепляющее Облако§7 [Ур. 31]
 §6- §7Haul§8 [Lv. 11]@§6- §7Бросок§8 [Ур. 11]
@@ -1584,44 +1554,7 @@
 §a✔§7 Class Req: Archer/Hunter@§a✔§7 Класс Необ.: Лучник/Охотник
 §a✔§7 Class Req: Assassin/Ninja@§a✔§7 Класс Необ.: Ассасин/Ниндзя
 §a✔§7 Class Req: Shaman/Skyseer@§a✔§7 Класс Необ.: Шаман/Провидец
-§bLegendary Item@§bЛегендарный Предмет
-§bLegendary Item [2]@§bЛегендарный Предмет [2]
-§bLegendary Item [3]@§bЛегендарный Предмет [3]
-§bLegendary Item [4]@§bЛегендарный Предмет [4]
-§bLegendary Item [5]@§bЛегендарный Предмет [5]
-§bLegendary Item [6]@§bЛегендарный Предмет [6]
-§bLegendary Item [7]@§bЛегендарный Предмет [7]
-§aSet Item@§aСет Предмет
-§aSet Item [2]@§aСет Предмет [2]
-§aSet Item [3]@§aСет Предмет [3]
-§aSet Item [4]@§aСет Предмет [4]
-§aSet Item [5]@§aСет Предмет [5]
-§aSet Item [6]@§aСет Предмет [6]
 §cQuest Item@§cКвестовый Предмет
-§dRare Item@§dРедкий Предмет
-§dRare Item [2]@§dРедкий Предмет [2]
-§dRare Item [3]@§dРедкий Предмет [3]
-§dRare Item [4]@§dРедкий Предмет [4]
-§dRare Item [5]@§dРедкий Предмет [5]
-§dRare Item [6]@§dРедкий Предмет [6]
-§eUnique Item@§eУникальный Предмет
-§eUnique Item [2]@§eУникальный Предмет [2]
-§eUnique Item [3]@§eУникальный Предмет [3]
-§eUnique Item [4]@§eУникальный Предмет [4]
-§eUnique Item [5]@§eУникальный Предмет [5]
-§eUnique Item [6]@§eУникальный Предмет [6]
-§5Mythic Item@§5Мифический Предмет
-§5Mythic Item [2]@§5Мифический Предмет [2]
-§5Mythic Item [3]@§5Мифический Предмет [3]
-§5Mythic Item [4]@§5Мифический Предмет [4]
-§5Mythic Item [5]@§5Мифический Предмет [5]
-§5Mythic Item [6]@§5Мифический Предмет [6]
-§cFabled Item@§cСказочный Предмет
-§cFabled Item [2]@§cСказочный Предмет [2]
-§cFabled Item [3]@§cСказочный Предмет [3]
-§cFabled Item [4]@§cСказочный Предмет [4]
-§cFabled Item [5]@§cСказочный Предмет [5]
-§cFabled Item [6]@§cСказочный Предмет [6]
 §3Special Item@§3Специальный Предмет
 §3Crafting item@§3Крафтовый Предмет
 §cUntradable Item@§cНепродаваемый Предмет
@@ -1629,7 +1562,6 @@
 §cUntradeable@§cНепродаваемый
 §cUntrabable Item@§cНепродаваемый Предмет
 §8Crafting Ingredient@§8Ингредиент для крафта
-§fNormal Item@§fОбычный Предмет
 §3Gathering Tool@§3Инструмент для Сбора
 §cUntradable@§cНепродаваемый
 §cUnsellable@§cНепродаваемый
@@ -2393,20 +2325,20 @@
 §7      §lNow           §6§lNext@§7      §lСейчас           §6§lДалее
 §7§7Each point in this skill@§7§7Каждое очко в этом умении
 §7will §dincrease§7 any damage@§7будет §dувеличивать§7 любой урон
-§7you deal and increase the §2✤ Earth§7@§7нанесенный тобой, а также увеличивать §2✤ Земли§7
-§7damage you may inflict.@§7урон, который ты можешь нанести.
+§7you deal and increase the §2✤ Earth§7@§7нанесенный тобой, а также увеличивать урон §2✤ Земли
+§7damage you may inflict.@§7который ты можешь нанести.
 §8Left click to add 1 point@§8Левый клик для добавления 1 очка
 §8Right click to add 5 points@§8Правый клик для добавления 5 очков
 §7will §dincrease§7 the chance@§7будет §dувеличивать§7 шанс
 §7to do a critical hit (doubling@§7нанести критический удар (двойной
-§7damage), and increase the §e✦ Thunder§7@§7урон), а также увеличивать §e✦ Грома§7
+§7damage), and increase the §e✦ Thunder§7@§7урон), а также увеличивать урон §e✦ Грома
 §7will §dreduce§7 mana used by@§7будет §dуменьшать§7 использование маны на
-§7spells and increase the §b❉ Water§7@§7заклинания, а также увеличивать §b❉ Воды§7
+§7spells and increase the §b❉ Water§7@§7заклинания, а также увеличивать урон §b❉ Воды
 §7will §dreduce§7 any damage@§7будет §dуменьшать§7 любой урон
-§7you take and increase the §c✹ Fire§7@§7полученный тобой, а также увеличивать §c✹ Огня§7
+§7you take and increase the §c✹ Fire§7@§7полученный тобой, а также увеличивать урон §c✹ Огня
 §aThis skill was modified by your equipment@§aЭто умение модифицировано твоим снаряжением
 §7to dodge attacks and increase@§7уклониться от атак, а также увеличивать
-§7the §f❋ Air§7 damage you may@§7§f❋ Воздуха§7 урон, который ты можешь
+§7the §f❋ Air§7 damage you may@§7урон §f❋ Воздуха§7, который ты можешь
 §7inflict.@§7нанести.
 §7Come back everyday for@§7Возвращайся каждый день за
 §7amazing daily rewards@§7чудесной ежедневной наградой
@@ -2640,6 +2572,7 @@
 §7the Slime effect@§7Эффект слайма
 §7the Witch Brew effect@§7Эффект Зелья Ведьмы
 §7the Lake Gylia effect@§7Эффект Озера Гилия
+§7the Amadel effect@§7Эффект Амаделя
 §7Disguise your dagger@§7Маскирует твой кинжал
 §7Disguise your spear@§7Маскирует твое копье
 §7Disguise your staff@§7Маскирует твое оружие 
@@ -2692,6 +2625,7 @@
 §7angel wings@§7крылья ангела
 §7phoenix wings@§7крылья феникса
 §7fairy wings@§7крылья феи
+§7bone wings@§7костлявые крылья
 
 #########################UNIDENTIFIED##########################
 §e- §eUnidentified Spear@§e- §eНеидентифицированное Копье
@@ -2710,6 +2644,7 @@
 §7- §aUnidentified Helmet@§7- §aНеидентифицированный Шлем
 §e- §bUnidentified Helmet@§e- §bНеидентифицированный Шлем
 §7- §bUnidentified Helmet@§7- §bНеидентифицированный Шлем
+§e- §cUnidentified Leggings@§e- §cНеидентифицированные Штаны
 §e- §eUnidentified Leggings@§e- §eНеидентифицированные Штаны
 §7- §aUnidentified Leggings@§7- §aНеидентифицированные Штаны
 §7- §bUnidentified Leggings@§7- §bНеидентифицированные Штаны

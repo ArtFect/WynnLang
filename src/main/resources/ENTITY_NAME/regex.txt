@@ -74,7 +74,6 @@ Level §a(\d+)§7/§210@Уровень §a(r1)§7/§210
 §c(.*)'s §fSnowman@§7Снеговик (r1)
 §c(.*)'s §fReindeer@§7Олень (r1)
 §7(.*)'s Slime@§7Слайм (r1)
-§f(.*)§7's horse@§7 Лошадь §f(r1)
 (§a✔|§c✖)§f (.*)Farming Lv. Min: §f(\d+)@(r1)§f (r2) Земледелие Ур. Мин: §f(r3)
 (§a✔|§c✖)§f (.*)Mining Lv. Min: §f(\d+)@(r1)§f (r2) Добыча Руды Ур. Мин: §f(r3)
 (§a✔|§c✖)§f (.*)Woodcutting Lv. Min: §f(\d+)@(r1)§f (r2) Лесорубство Ур. Мин: §f(r3)
