@@ -23,3 +23,90 @@
 §e- §7Class: §7§l☠§3§l✿ §fShaman@§e- §7Класс: §7§l☠§3§l✿ §fШаман
 §e- §7Class: §c§l☠§6§l❂ §fShaman@§e- §7Класс: §c§l☠§6§l❂ §fШаман
 §e- §7Class: §7§l☠§6§l❂ §fShaman@§e- §7Класс: §7§l☠§6§l❂ §fШаман
+§bLegendary Item@§bЛегендарный Предмет
+§bLegendary Item [2]@§bЛегендарный Предмет [2]
+§bLegendary Item [3]@§bЛегендарный Предмет [3]
+§bLegendary Item [4]@§bЛегендарный Предмет [4]
+§bLegendary Item [5]@§bЛегендарный Предмет [5]
+§bLegendary Item [6]@§bЛегендарный Предмет [6]
+§bLegendary Item [7]@§bЛегендарный Предмет [7]
+§aSet Item@§aСет Предмет
+§aSet Item [2]@§aСет Предмет [2]
+§aSet Item [3]@§aСет Предмет [3]
+§aSet Item [4]@§aСет Предмет [4]
+§aSet Item [5]@§aСет Предмет [5]
+§aSet Item [6]@§aСет Предмет [6]
+§dRare Item@§dРедкий Предмет
+§dRare Item [2]@§dРедкий Предмет [2]
+§dRare Item [3]@§dРедкий Предмет [3]
+§dRare Item [4]@§dРедкий Предмет [4]
+§dRare Item [5]@§dРедкий Предмет [5]
+§dRare Item [6]@§dРедкий Предмет [6]
+§eUnique Item@§eУникальный Предмет
+§eUnique Item [2]@§eУникальный Предмет [2]
+§eUnique Item [3]@§eУникальный Предмет [3]
+§eUnique Item [4]@§eУникальный Предмет [4]
+§eUnique Item [5]@§eУникальный Предмет [5]
+§eUnique Item [6]@§eУникальный Предмет [6]
+§5Mythic Item@§5Мифический Предмет
+§5Mythic Item [2]@§5Мифический Предмет [2]
+§5Mythic Item [3]@§5Мифический Предмет [3]
+§5Mythic Item [4]@§5Мифический Предмет [4]
+§5Mythic Item [5]@§5Мифический Предмет [5]
+§5Mythic Item [6]@§5Мифический Предмет [6]
+§cFabled Item@§cСказочный Предмет
+§cFabled Item [2]@§cСказочный Предмет [2]
+§cFabled Item [3]@§cСказочный Предмет [3]
+§cFabled Item [4]@§cСказочный Предмет [4]
+§cFabled Item [5]@§cСказочный Предмет [5]
+§cFabled Item [6]@§cСказочный Предмет [6]
+§fNormal Item@§fОбычный Предмет
+
+############################MAJOR ID##################################
+§3§b+Tempest: §3Arrow Storm fires@§3§b+Tempest: §3Шторм Стрел стреляет
+§3in all directions@§3во все направления
+§3§b+Saviour’s Sacrifice: §3While@§3§b+Saviour’s Sacrifice: §3При уменьшении
+§3under 50% maximum health, nearby@§3до 50% от максимума здоровья ближайшие
+§3allies gain 50% bonus damage@§3союзники получают 50% бонус к урону
+§3and defence@§3и защите
+§3§b+Magnet: §3Pulls items within@§3§b+Magnet: §3Притягивает ближайшие предметы
+§3an 8 block radius towards you@§3к тебе в радиусе 8 блоков
+§3§b+Intervene: §350% of damage@§3§b+Intervene: §350% урона
+§3taken by nearby allies is redirected@§3полученного ближайшими союзниками передается
+§3to you@§3тебе
+§3§b+Entropy: §3Meteor falls@§3§b+Entropy: §3Метеор падает
+§3three times faster@§3в 3 раза быстрее
+§3§b+Guardian: §350% of damage@§3§b+Guardian: §350% урона
+§3§b+Roving Assassin: §3Vanish@§3§b+Roving Assassin: §3Исчезновение
+§3no longer drains mana while@§3больше не тратит ману при
+§3invisible@§3невидимости
+§3§b+Lightweight: §3You no longer@§3§b+Lightweight: §3Ты не будешь получать
+§3take fall damage@§3урон от падений
+§3significantly faster@§3значительно быстрее
+§3§b+Hawkeye: §3Arrow storm fires@§3§b+Hawkeye: §3Шторм Стрел выстреливает
+§35 arrows each dealing 120%@§35 стрелами, каждая наносит 120%
+§3damage@§3урона
+§3§b+Sorcery: §330% chance for@§3§b+Sorcery: §330% шанс, что
+§3spells and attacks to cast@§3заклинания и атаки будут кастоваться
+§3a second time at no additional@§3второй раз без использования
+§3cost@§3маны
+§3§b+Plague: §3Poisoned mobs@§3§b+Plague: §3Отравленные мобы
+§3spread 70% of their poison@§3распространяют 70% от своего яда
+§3to nearby mobs@§3на других мобов
+§3§b+Transcendence: §350% chance@§3§b+Transcendence: §350% шанс на
+§3for spells to cost no mana@§3каст заклинания без использования
+§3when casted@§3маны
+§3§b+Greed: §3Picking up emeralds@§3§b+Greed: §3Подбор эмеральдов
+§3heals you and nearby players@§3лечит тебя и ближайших игроков 
+§3for 15% max health@§3на 15% от максимума здоровья
+§3§b+Taunt: §3Mobs within 12@§3§b+Taunt: §3Мобы в пределах 12
+§3blocks target you upon casting@§3блоков идут к тебе после каста
+§3War Scream@§3Боевого Клича
+§3§b+Madness: §3Casts a random@§3§b+Madness: §3Кастует рандомную
+§3ability every 3 seconds@§3способность каждые 3 секунды
+§3§b+Cavalryman: §3You may cast@§3§b+Cavalryman: §3Ты можешь кастовать
+§3spells and attack with a 70%@§3заклинания и атаки с 70%
+§3damage penalty while on a horse@§3меньшим уроном при езде на лошади
+§3§b+Heart of the Pack: §3Nearby@§3§b+Heart of the Pack: §3Ближайшие
+§3players gain 35% of the health@§3игроки получают 35% здоровья
+§3you naturally regenerate@§3которое ты регенирируешь

@@ -379,6 +379,8 @@
 §5Guild Master: §dIt seems that there is already a guild with that name... Try again!@§5Мастер Гильдий: §dПохоже, что уже есть гильдия с таким именем...Попробуй другое!
 §7[-5 Soul Points]@§7[-5 Очков Душ]
 §7[-5 Liquid Emeralds]@§7[-5 Жидких Эмеральдов]
+§7[-3 Soul Points]@§7[-3 Очка Душ]
+§7[-10000 Guild Emeralds]@§7[-10000 Эмеральдов Гильдии]
 §cInvalid Arguments. Example: /guild rank [player] [rank]@§cНеправильные аргументы. Пример: /guild rank [игрок] [ранг]
 §4Invalid rank entry. Options: §cChief, Captain, Recruiter@§4Неправильное написание ранга. Примеры: §cChief, Captain, Recruiter
 §7[You will now be teleported out of the server]@§7[Ты был телепортирован с сервера]
@@ -414,22 +416,22 @@
 §d            - §7+Access to the Almuj Bank@§d            - §7+ Доступ к Банку Алмужа
 §d            - §7+1 Maltic Recommendation Letter@§d            - §7+1 Рекомендательное письмо Малтика
 §d            - §7+1 Yahya's Stained Bowl@§d            - §7+1 Использованная Миска Яхуя
-§d            - §7+1 Decrepit Sewers Dungeon Key@§d            - §7+1 Ветхая Канализация Данж Ключ
+§d            - §7+1 Decrepit Sewers Dungeon Key@§d            - §7+1 Ключ от Данжа Ветхая Канализация 
 §d            - §7+Access to the Decrepit Sewers Dungeon@§d            - §7+ Доступ к данжу Ветхая Канализация
-§d            - §7+1 Infested Pit Key@§d            - §7+1 Зараженная Яма Ключ
+§d            - §7+1 Infested Pit Key@§d            - §7+1 Ключ от Зараженной Ямы 
 §d            - §7+Access to the Infested Pit dungeon@§d            - §7+ Доступ к данжу Зараженная Яма
 §d            - §7+1 Breathing Helmet I@§d            - §7+1 Шлем Подводника I
 §d            - §7+1 Yellow Crystals@§d            - §7+1 Желтый Кристалл
-§d            - §7+1 Ragni Teleportation Scroll@§d            - §7+1 Рагни Свиток Телепортации
+§d            - §7+1 Ragni Teleportation Scroll@§d            - §7+1 Свиток Телепортации в Рагни
 §d            - §7+ Access to the Province of Wynn@§d            - §7+ Доступ в провинцию Винн
 §d            - §7+Access to Farmer Cevalus's Farm@§d            - §7+ Доступ на ферму Фермера Цевалуса
 §d            - §7+2 Copper Ingot, Oak Wood & Wheat String@§d            - §7+2 Медных Слитка, Дерево и Пшеница/Нить
 §d            - §7+Access to the Glassblowing Merchant@§d            - §7+ Доступ к Торговцу Стеклодуву
-§d            - §7+1 Sand-Swept Tomb Dungeon Key@§d            - §7+1 Песчаная Гробница Данж Ключ
+§d            - §7+1 Sand-Swept Tomb Dungeon Key@§d            - §7+1 Ключ от Данжа Песчаная Гробница 
 §d            - §7+1 Cluckles' Favourite Feather@§d            - §7+1 Любимое Перо Клаклеса
-§d            - §7+1 Underworld Crypt Key@§d            - §7+1 Подземный Склеп Ключ
+§d            - §7+1 Underworld Crypt Key@§d            - §7+1 Ключ от Данжа Подземный Склеп 
 §d            - §7+Access to the Underworld Crypt Dungeon@§d            - §7+ Доступ к данжу Подземный Склеп
-§d            - §7+1 Lost Sanctuary Dungeon Key@§d            - §7+1 Затерянное Святилище Данж Ключ
+§d            - §7+1 Lost Sanctuary Dungeon Key@§d            - §7+1 Ключ от Данжа Затерянное Святилище 
 §d            - §7+1 Skill Reset Scroll@§d            - §7+1 Свиток сброса умений
 §d            - §7+Access to the Tower of Amnesia@§d            - §7+ Доступ в Башню Амнезии
 §d            - §7+Calamaro's Token/+Gernald's Amulet@§d            - §7+ Жетон Каламаро/+Gernald's Amulet
@@ -438,9 +440,9 @@
 §d            - §7+1 Factory Helmet@§d            - §7+1 Фабричный Шлем
 §d            - §7+1 The Mummy's Bandage@§d            - §7+1 Бинт Мумии
 §d            - §7+§4§l66666§7 Experience Points@§d            - §7+§4§l66666§7 Очков Опыта
-§d            - §7+1 Ice Barrows Dungeon Key@§d            - §7+1 Ледяной Курган Данж Ключ
+§d            - §7+1 Ice Barrows Dungeon Key@§d            - §7+1 Ключ от Данжа Ледяной Курган 
 §d            - §7+1 Brown Horse@§d            - §7+1 Коричневая Лошадь
-§d            - §7+ Access to Ternaves's Horse Shop@§d            - §7+ Доступ к продавцу лошадей в Тернейвс
+§d            - §7+ Access to Ternaves's Horse Shop@§d            - §7+ Доступ к продавцу лошадей в Тернейвсе
 §d            - §7+1 Purple Crystal Shard@§d            - §7+1 Фиолетовый Осколок Кристалла
 §d            - §7+ Access to Bob's Tomb@§d            - §7+ Доступ к Гробнице Боба
 §d            - §7+1 Bob's Soul@§d            - §7+1 Душа Боба
@@ -453,7 +455,7 @@
 §d            - §7+512 Emeralds / 768 Emeralds@§d            - §7+512 Эмеральдов / 768 Эмеральдов
 §d            - §7+Elven Medallion / Receipt@§d            - §7+Медальон Эльфов / Квитанция
 §d            - §7+Access to Aldorei Town@§d            - §7+Доступ в город Алдорей
-§d            - §7+1 Undergrowth Ruins Key@§d            - §7+1 Заросшие Руины Ключ
+§d            - §7+1 Undergrowth Ruins Key@§d            - §7+1 Ключ от Данжа Заросшие Руины 
 §d            - §7+Dusty Passport@§d            - §7+Пыльный Паспорт
 §d            - §7+Access to fast-travel between Cinfras and Detlas@§d            - §7+Доступ к быстрым путешествиям между Цинфрасом и Детласом
 §d            - §7+Access to the Undergrowth Ruins Dungeon@§d            - §7+Доступ в Данж Заросшие Руины
@@ -480,10 +482,10 @@
 §d            - §7+1 Dogun Badge of Trust@§d            - §7+1 Значок Доверия Догунов
 §d            - §7+Access to the Molten Heights elevators@§d            - §7+Доступ к лифтам в Расплавленных Высотах 
 §d            - §7+1 Emerald@§d            - §7+1 Эмеральд
-§d            - §7+1 Galleon's Graveyard Key@§d            - §7+1 Кладбище Галеона Ключ
-§d            - §7+1 Fallen Factory Key@§d            - §7+1 Заброшенная Фабрика Ключ
+§d            - §7+1 Galleon's Graveyard Key@§d            - §7+1 Ключ от Данжа Кладбище Галеона 
+§d            - §7+1 Fallen Factory Key@§d            - §7+1 Ключ от Данжа Заброшенная Фабрика 
 §d            - §7+Access to the hot air balloon quick-travel@§d            - §7+Доступ к быстрым путешествиям на воздушном шаре
-§d            - §7+Access to the Fallen Factory Dungeon@§d            - §7+Доступ в Заброшенная Фабрика Данж
+§d            - §7+Access to the Fallen Factory Dungeon@§d            - §7+Доступ в Данж Заброшенная Фабрика 
 §d            - §7+1 Letter to Korzim@§d            - §7+1 Письмо для Корзима
 §d            - §7+Access to the Thanos-Rodoroc trading tunnel@§d            - §7+Доступ к торговому тоннелю Танос-Родорок
 §d            - §7+1 Corrupted Treasure@§d            - §7+1 Испорченное Сокровище
@@ -818,6 +820,7 @@
 §c§lYou've gotten a godly§c§l reward!@§c§lТы получил божественную§c§l награду!
 §f§lYou've gotten a common§f§l reward!@§f§lТы получил обычную§f§l награду!
 §6§lYou've gotten a epic§6§l reward!@§6§lТы получил эпическую§6§l награду!
+§4§lYou've gotten a §8§k|||§4 black market §8§k|||§4§l reward!@§4§lТы получил §8§k|||§4 черный маркет §8§k|||§4§l награду!
 §fChicken Disguise@§fПеревоплощение в курицу
 §7Disguise yourself as a chicken@§7Перевоплощение себя в курицу
 §dLetter Swirl Effect@§dЭффект вращающихся букв
@@ -851,6 +854,12 @@
 §fWet Drip Effect@§fЭффект Мокрых Капель
 §fPotion Swirl Effect@§fЭффект Вихря Зелий
 §fSpark Attack Effect@§fЭффект Искр
+§cBone Wings Effect@§cЭффект Костлявых Крыльев
+§7Give your character bone wings@§7Дает твоему персонажу костлявые крылья
+§4Amadel Effect@§4Эффект Амаделя
+§7Give your character the Amadel effect@§7Дает твоему персонажу эффект Амаделя
+§cFairy Wings Effect@§cЭффект Сказочных Крыльев
+§7Give your character fairy wings@§7Дает твоему персонажу эффект сказочных крыльев
 §6Golden Wand@§6Золотой Посох
 §dSteampunk Sword@§dСтимпанк Меч
 §7Disguise your spear with a steampunk flair@Маскирует твое копье под стиль стимпанк
@@ -1027,6 +1036,8 @@
 §aA §6Epic Half-Moon Dagger§a!@§6Эпический Полу-Месяц Кинжал§a!
 §aA §cGodly Phoenix Wand§a!@§cБожественный Посох Феникса§a!
 §aA §6Epic Sea Blue Wybel Token§a!@§6Эпический Морской Вубел Жетон§a!
+§aA §dRare Creeper Disguise§a!@§dРедкая Маскировка в Крипера§a!
+§aA §dRare Candle Staff§a!@§dРедкое Оружие Свеча§a!
 §cOrange Wybel Token@§cОранжевый Вубел Жетон
 §3You now have a §bOrange Wybel@§3Теперь у тебя есть §bОранжевый Вубел
 §cDemon Wings Effect@§cЭффект Крыльев Демона
@@ -1174,7 +1185,7 @@
 §7§nEnd of Chapter I.@§7§nКонец I главы.
 §d                  §d§lSiegfried, Hero of Gavel@                 §d§lЗигфрид - герой Гавелa
 §7    §7§oIn recent times, Gavel has been threatened by many monsters. But wherever trouble lurks, the province can always depend on its legendary hero, Siegfried.@§7    §7§oВ последнее время Гавел был под угрозой со стороны многих монстров. Но где бы ни скрывалась беда, провинция всегда может рассчитывать на своего легендарного героя - Зигфридa.
-§7    §7§oEveryone in Gavel has their own tale to tell about Siegfried’s tremendous strength and skill. He has saved many lives.@§7    §7§oУ каждого в Гавелe есть своя история с рассказом об огромной силе и мастерстве Зигфридa. Он спас много жизней.
+§7    §7§oEveryone in Gavel has their own tale to tell about Siegfried's tremendous strength and skill. He has saved many lives.@§7    §7§oУ каждого в Гавелe есть своя история с рассказом об огромной силе и мастерстве Зигфридa. Он спас много жизней.
 §7    §7§oWynn may have had Bob as its hero, but Gavel has Siegfried. His books are all province wide best sellers! Bob doesn't even have a book!@§7    §7§oУ провинции Винн был Боб в качестве героя, а у Гавелa есть Зигфрид. Его книги -  бестселлеры по всей провинции! У Бобa даже нет своей книги!
 §d                          §d§lThe Tale of the Lost Necklace@§d                          §d§lСказка о Потерянном Амулете
 §a                                     Chapter I@§a                                     Глава I
@@ -1364,7 +1375,7 @@
 §7    §7§oThe Factory is a massive facility from which all of their machines originate. It is capable of producing an army in a matter of weeks.@§7    §7§oФабрика - это массивное сооружение, из которого происходят все их машины. Она способна произвести армию за считанные недели. 
 §7    §7§oIt would surely prove to the other provinces that Corkus is deserving of international representation, especially since it may prove to be indispensable as a tool against the corruption.@§7    §7§oЭто, несомненно, докажет другим провинциям, что Коркус заслуживает международного представительства; тем более что это может оказаться незаменимым инструментом для борьбы с порчей. 
 §7    §7§oTeething problems have proved to hinder their plight for recognition.@§7    §7§oПроблемы становления оказались препятствием для их бедственного положения о признании. 
-§7    §7§oThe electromagical force that governs the Factory seems to have an agenda of it’s own, and some machines have rebelled against their creators.@§7    §7§oЭлектромагнитная сила, которая управляет фабрикой, кажется, имеет свой собственный разум, из-за чего некоторые машины восстали против своих же создателей.
+§7    §7§oThe electromagical force that governs the Factory seems to have an agenda of it's own, and some machines have rebelled against their creators.@§7    §7§oЭлектромагнитная сила, которая управляет фабрикой, кажется, имеет свой собственный разум, из-за чего некоторые машины восстали против своих же создателей.
 §7    §7§oThe resourceful Corkians have since shut down the factory to fix the problem.@§7    §7§oНаходчивые Коркианцы с тех пор закрыли фабрику, чтобы исправить проблему. 
 §7    §7§oHowever, the land is still scattered with pockets of desperate mechanicals searching for much needed spare parts.@§7    §7§oОднако, их земли до сих пор усеяны управляемыми отчаянными роботами, которые ищут столь им необходимые запасные части. 
 §7    §7§oOnce they solve the problems of the Factory's governing force, Corkus is likely to become an international superpower.@§7    §7§oОднажды они решат проблемы с управляющей силой фабрики, и тогда Коркус, скорее всего, станет международной сверхдержавой. 
@@ -1694,6 +1705,10 @@
 §6      Lock / unlock the item in your hand, making it so you can't accidentally drop it@§6Заблокировать / разблокировать предмет в твоей руке, чтобы случайно его не выбросить 
 §6      Choose a class to play as@§6Выбрать класс для игры  
 §6      Toggle gameplay items on or off@§6Включить или отключить элементы геймплея
+§4/p §c[message]@§4/p §c[сообщение]
+§4/msg §c[name] [message]@§4/msg §c[ник] [сообщение]
+§4/r §c[message]@§4/r §c[сообщение]
+§4/trade §c[name]@§4/trade §c[ник]
 §4You have no items of this type to use. Buy some at our website, §cwynncraft.com/store@§4У тебя нет предметов этого типа для использования. Можешь купить их на нашем сайте §cwynncraft.com/store
 §dVisit the Trade Market to claim your item@§dПосети Трейд Маркет, чтобы забрать свой предмет
 §dVisit the Trade Market to claim your items@§dПосети Трейд Маркет, чтобы забрать свои предметы
@@ -1969,7 +1984,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §b - §7Grumpy Old Man Pet@§b - §7Питомец Старик
 §3You are no longer disguised as a §bcreeper@§3Ты больше не маскируешься под §bкрипера
 §cYou've restarted the starting quest!@§cТы перезапустил начальный квест!
-§c§lLog in to §f§neu.wynncraft.com§c§l for less lag.@§c§lЗаходи на §f§neu.wynncraft.com§c§l где меньше лагов.
+§c§lLog in to §f§neu.wynncraft.com§c§l for less lag.@§c§lЗаходи через §f§neu.wynncraft.com§c§l чтобы играть с меньшим пингом.
 §cAll characters and progress are shared between locations.@§cВсе персонажи и прогресс синхронизируются между серверами.
 §7What message would you like to shout to the entire network? Say '§fcancel§7' to stop.@§7Какое сообщение ты хочешь отправить на все сервера? Напиши '§fcancel§7' для отмены.
 §4Error: Do not include links in your shout!@§4Ошибка: Нельзя включать ссылки в свой шаут!
@@ -2014,7 +2029,8 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §4You need to complete §cA Hunter's Calling§4 to unlock hunted mode.@§4Тебе нужно пройти §cA Hunter's Calling§4 для разблокировки режима охотника
 §4You are now hidden! (Hidden Only)@§4Ты скрылся от игроков!
 §4You are no longer hidden! (None)@§4Ты больше не скрываешься от игроков!
-§4You need to be holding a crafted item to rename it!@§4Тебе нужно держать крафтовый предмет чтобы переименовать его!
+§cYou need to hold a crafted item in your hand to sign it!@§cТебе нужно держать крафтовый предмет, чтобы подписать его!
+§4You need to be holding a crafted item to rename it!@§4Тебе нужно держать крафтовый предмет, чтобы переименовать его!
 §3You have thrown an item bomb too recently, please wait.@§3Ты уже бросал недавно предметную бомбу, пожалуйта подожди.
                   §c§l§nClick here to toggle hunted mode@                  §c§l§nКликни здесь для переключения режима охотника
 §f                  §c§l§nClick here to toggle hunted mode@§f                  §c§l§nКликни здесь для переключения режима охотника

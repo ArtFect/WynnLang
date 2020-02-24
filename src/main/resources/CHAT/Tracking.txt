@@ -74,6 +74,8 @@
 §7Solve the puzzle in the third room of Togak's dungeon@§7Пройди пазл в третьей комнате данжа Тогака
 §7Battle through the fourth room of Togak's dungeon@§7Пройди с боем через четвертую комнату данжа Тогака
 §7Climb the sunflower in the seventh room of Togak's dungeon@§7Заберись на цветок в седьмой комнате данжа Тогака
+§7Battle through the eighth room of Togak's dungeon@§7Пройди с боем через восьмую комнату данжа Тогака
+§7Solve the puzzle in the ninth room of Togak's dungeon@§7Пройди пазл в девятой комнате данжа Тогака
 §7Speak with Togak once more@§7Поговори снова с Тогаком
 =====
 §7Speak with Duvale at [-1608,51,-4957]@§7Поговори с Дювейл на [-1608,51,-4957]
@@ -86,6 +88,7 @@
 §7Interrogate Elio at [-2161,59,-5403] with the rope@§7Допроси Элио на [-2161,59,-5403] вместе с веревкой 
 §7Take the north-east path to the factory (Requires Factory Helmet from An Iron Heart Part I)@§7Иди по северо-восточному пути к фабрике (Необходим Фабричный Шлем из квеста An Iron Heart Part I)
 §7Find the hidden entrance to the factory@§7Найди скрытый вход на фабрику 
+§7Talk to Dr. Urelix in his office@§7Поговори с Др. Уреликсом в его офисе
 §7Either take the bribe or return to Detective Hart@§7Возьми взятку или вернись к Детективу Харту 
 =========
 §7Speak to Captain Enduyn at [-192,44,-1822]@§7Поговори с Капитаном Эндуином на [-192,44,-1822]
@@ -279,6 +282,7 @@
 §7Talk to the blacksmith in Maex.@§7Поговори с кузнецом в Маэксe
 §7Bring back [10 Fire Webs] from [1458,15,-5352] and [3 Magmatic Crystals] from the Maex mines and [1 Crystallized lava] from [1346,5,-5409]@§7Принеси [10 Огненных Паутин] из [1458,15,-5352], [3 Магматических Кристалла] из шахт Маэкса и [1 Кристаллизованную Лаву] из [1346,5,-5409]
 §7Go to the enchanter and enchant the amulet at [1509,45,-5339].@§7Иди к чародею и зачаруй амулет на [1509,45,-5339].
+§7Craft the amulet in the crafting table at [1503,45,-5303].@§7Скрафти амулет на верстаке [1503,45,-5303].
 §7Travel to the frozen heights and find the True Ice at [1590,107,-5445].@§7Иди к замерзшим пещерам и найди Чистый Лед на [1590,107,-5445].
 §7Return to the enchanter with the True Ice.@§7Вернись к чародею с Чистым Льдом
 ========
@@ -355,10 +359,12 @@
 §7Defeat Captain Goldenclaw and give the map to Relend@§7Победи Капитана Goldenclaw и отдай карту Реленду
 §7Speak to Captain Relend aboard the Little Wing@§7Поговори с капитаном Релендом на борту Little Wing
 §7Bring a [Wooden Board], a [Center Piece], and a [String] to the Crafting Table@§7Принеси [Деревянную Доску], [Центральную Часть], и [Нитку] к верстаку
+§7Man the wheel of the Little Wing@§7Встань за штурвал Little Wing
 §7Find Relend inside of the wreck of the Little Wing@§7Найди Реленда под обломками корабля Little Wing 
 §7Save Relend inside of the wreck of the Little Wing@§7Спаси Реленда под обломками корабля Little Wing 
 §7Speak to Relend on the beach@§7Поговори с Релендом на пляже
 §7Bring [10 Raw Mutton], [5 Edible Mushrooms], [1 Coconut], and [7 Berries] to the Cooking Pot@§7Принеси [10 Сырых Лопаток], [5 Съедобных Грибов], [1 Кокос], и [7 Ягод] к горшку для готовки 
+§7Give the [Odd Stew] to Relend@§7Отдай [Странное Рагу] Реленду
 §7Report back to Relend@§7Сообщи обо всем Реленду
 §7Check out the tent to the east@§7Проверь палатку на востоке
 §7Take a look at the boulder at the center of the island@§7Осмотри камень в центре острова
@@ -414,6 +420,7 @@
 §7Get to the other ship@§7Перейди на другой корабль
 §7Find a way to reach the queen that is located below deck@§7Найди путь к королеве, что находится на нижней палубе
 §7Escape the cell, and finalize the key to reach the pirate queen@§7Сбеги из тюрьмы, и доделай ключ к комнате королевы пиратов
+§7Fight the pirate queen, take one of her personal treasures with you, and escape@§7Сразись с королевой пиратов, забери ее сокровища и сбеги
 §7Speak to Captain Ackbar about the findings and the battles@§7Поговори с Капитаном Акбаром о находках и битве
 §7Speak to Calo next to the little ship at the Detlas docks@§7Поговори с Кало рядом с небольшим кораблем в доках Детласа
 =======
@@ -548,6 +555,7 @@
 §7Craft your weapon and show it to Aledar@§7Скрафти себе оружие и покажи его Аледару
 §7Show your weapon to the guard and enter the cave@§7Покажи свое оружие охраннику и пройди в пещеру 
 §7Continue through the cave@§7Продвигайся через пещеру 
+§7Cast your spell@§7Используй свое заклинание
 §7Enter the castle@§7Войди в замок 
 §7Talk to Ragni's King@§7Поговори с Королем Рагни
 ========
@@ -576,6 +584,7 @@
 §7Speak to Gracen at [-738,80,-655]@§7Поговори с Граценом на [-738,80,-655]
 §7Search the Dernel Jungle for Aryn@§7Отыщи в Дернел джунглях Арина 
 §7Defeat the spirit possessing Aryn@§7Победи одержимого духом Арина
+§7Make sure Aryn is safe@§7Убедись, что Арин впорядке 
 §7Bring the Mysterious Gemstone to Gracen@§7Принеси загадочный драгоценный камень Грацену
 =======
 §7Talk to Yavlis in Troms at [-848,85,-875]@§7Поговори с Явлисом в Тромсе 
@@ -590,6 +599,7 @@
 §7"The face above the hall owns the nose that needs to be heavier to open the way"@§7"Лицо жителя над залом ведет в нос, который открывает путь" 
 §7Talk to Grandon and tell him about your findings@§7Поговори с Грандоном и расскажи ему о своих находках
 §7"The carpet of different colour will show you the stone to reveal the tables secret"@§7"Ковер различного цвета покажет тебе камень, чтобы раскрыть секрет стола"
+§7"Throw something behind the map on the wall to uncover a piece of the code"@§7"Бросить что-то за карту на стене, чтобы получить кусок кода" 
 §7Open the secret passage above the flags by reaching into the unwanted hole@§7Открой секретный проход над флагами и проберись в дыру 
 §7Bring back [1 Boot Container] and [Abysso Galoshes] to Ferndor@§7Принеси обратно [1 Контейнер для Ботинок] и [Abysso Galoshes] Ферндору 
 ========
@@ -695,6 +705,7 @@
 §7Continue your mission and find the the crystal.@§7Продолжи свою миссию и найди кристалл
 §7Talk to Rontaid outside the town at [14113,116,-4199].@§7Поговори с Ронтейдом снаружи города на [14113,116,-4199].
 §7Return to the crash site by following the road.@§7Вернись к месту аварии следуя дороги
+§7Return to the scientist and tell him the news.@§7Вернись к ученому и расскажи ему плохие новости
 ======
 §7Speak with the Troms children at [-860,93,-961] inside the treehouse@§7Поговори с детьми в Тромсе [-860,93,-961] внутри дома на дереве 
 §7Find the hidden door next to the Undergrowth Ruins outside Troms@§7Найди потайную дверь рядом с Заросшие Руины данжем снаружи Тромса 
@@ -743,6 +754,7 @@
 §7Bring back a magical fragment and the helmet to Korun@§7Принеси назад магический фрагмент и шлем к Коруну
 =====
 §7Meet up with Chef Hamsey in Ahmsord at [949,129,-4475]@§7Встреться с Шефом Хемзи в Амсорде на [949,129,-4475]
+§7Find Chef Hamsey in his kitchen@§7Найди Шефа Хемзи на его кухне
 §7Speak to Brie for her to introduce herself@§7Поговори с Бри для ее представления себя
 §7Choose the chef you want to work with@§7Выбери того шефа, с кем ты будешь работать
 §7Present the ingredients to your chosen chef@§7Отдай найденные ингредиенты выбранному шефу
@@ -750,6 +762,7 @@
 ======
 §7Talk to Ahmas at [-1494,47,-5360]@§7Поговори с Ахмасом на [-1494,47,-5360]
 §7Scale the tower at [-1433,69,-5394] to scout out the area@§7Залезь на башню [-1433,69,-5394] чтобы исследовать территорию 
+§7Report back to Ahmas and devise an entry route@§7Доложи Ахмасу и разработай маршрут входа
 §7Enter the troll outpost through the basement at [-1442,39,-5221]@§7Войди на форпост троллей через подвал на [-1442,39,-5221]
 §7Kill The Gurg and bring back [Head of the Gurg] to Ahmas@§7Убей Gurg'а и принеси [Голову Гургa] Ахмасу 
 =====
@@ -965,6 +978,7 @@
 §7Enter the dark cave in the back of the camp@§7Зайди в темную пещеру в конце лагеря
 §7Explore the Gerten cave@§7Исследуй пещеру Гертов
 §7Spy on the Gerten meeting@§7Подслушай встречу Гертов
+§7Leave the meeting@§7Покинь встречу
 §7Leave the Secret Gerten Cave@§7Покинь секретную пещеру Гертов
 §7Tell farmer Jitak about the tunnel@§7Расскажи фермеру Житаку насчет тоннеля
 §7Bring Jitak [6 Gert Skin]@§7Принеси Житаку 6 [Gert Skin]
@@ -1049,6 +1063,7 @@
 =======
 §7Speak to Aluxander in the Realm of Light at [-1164,57,-6759] (Requires completion of Finding the Light)@§7Поговори с Алуксандером в Царстве Света на [-1164,57,-6759] (Необходимо пройти квест Finding of Light) 
 §7Investigate the cave@§7Посети пещеру
+§7Speak to Regulux@§7Поговори с Регулуксом
 §7Follow the trail of corruption@§7Следуй по пути порчи
 §7Speak to Heliorion at [-1068,50,-7001]@§7Поговори с Хелиорионом [-1068,50,-7001]
 §7Bring [7 Light Residue] and [3 Illuminated Mushrooms] to Heliorion@§7Принеси [7 Остатков света] и [3 Освещенных Гриба] к Хелиориону
@@ -1107,6 +1122,7 @@
 §7Find the Tribe Shaman at the fork in the road@§7Найди Шамана племени на развилке дороги
 §7Return to Ka L'argwit@§7Вернись к Ка Ларгвиту
 §7Investigate the roots of Entamis@§7Посети корни Энтамис
+§7Kill the monster at the bottom and bring [1 Insect of Corruption] to Inrekei.@§7Убей монстра на дне и принеси [1 Испорченное Насекомое] к Энрике.
 §7Kill Aenara and give [1 Insect of Corruption] to Inrekei.@§7Убей Aenara и отдай [1 Испорченное Насекомое] Энрике
 =====
 §7Talk to Captain Fenor in front of Detlas at [379,67,-1569].@§7Поговори с Капитаном Фенором перед Детласом на [379,67,-1569].
@@ -1171,6 +1187,7 @@
 §7Escape Troms@§7Сбеги из Тромса
 §7Head to the location on the note@§7Следуй по координатам на записке 
 §7Find the three map fragments by following the eyes and return to Thomas.@§7Найди 3 фрагмента карты, идя по следу глаз, и вернись к Томасу
+§7Enter the traitor camp@§7Войди в лагерь предателей
 §7Speak to Rebel Leader Amadel@§7Поговори с их лидером Амаделем
 §7Go to Site D [-874,22,-349]@§7Иди к Site D [-874,22,-349]
 §7Search the excavation site@§7Продвигайся вдоль раскопок 
@@ -1185,6 +1202,7 @@
 §7Fight Corrupted Amadel@§7Сразись с Corrupted Amadel
 §7Kill Corruped Amadel@§7Убей Corruped Amadel
 §7Fight Shadow Amadel@§7Сразись с Shadow Amadel
+§7Kill Shadow Amadel@§7Убей Shadow Amadel
 §7Talk to The King of Ragni@§7Поговори с Королем Рагни
 ========
 §7Talk to Zhight of Zhight Island at [-542,38,-2755]@§7Поговори с Жигтом на Жигт Острове [-542,38,-2755]
