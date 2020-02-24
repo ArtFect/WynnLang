@@ -58,10 +58,6 @@
 §fShift Right-Click§7 to sell ingredients \(§a(\d+)§7-§a(.*)§2²§7\)@§fШифт Правый Клик§7 для продажи ингредиентов (§a(r1)§7-§a(r2)§2²§7)
 §7Price: §f(\d+)§7 gold coins@§7Цена: §f(r1)§7 золотых монет
 §a(.*) Set §7\((\d+)\/(\d+)\)@§a(r1) Сет §7((r2)/(r3))
-(§c✖|§a✔)§7 Farming Lv. Min: §f(\d+)@(r1)§7 Земледелие Ур. Мин: §f(r2)
-(§c✖|§a✔)§7 Mining Lv. Min: §f(\d+)@(r1)§7 Добыча Руды Ур. Мин: §f(r2)
-(§c✖|§a✔)§7 Fishing Lv. Min: §f(\d+)@(r1)§7 Рыболовство Ур. Мин: §f(r2)
-(§c✖|§a✔)§7 Woodcutting Lv. Min: §f(\d+)@(r1)§7 Лесорубство Ур. Мин: §f(r2)
 §7Gathering Post \[Fishing Lv. (\d+)\] @§7Доске Сбора [Рыболовство Ур. (r1)] 
 §7Gathering Post \[Mining Lv. (\d+)\] @§7Доске Сбора [Добыча Руды Ур. (r1)] 
 §7Gathering Post \[Farming Lv. (\d+)\] @§7Доске Сбора [Земледелие Ур. (r1)] 
