@@ -1,5 +1,6 @@
 package ru.artfect.wynnlang;
 
+import org.apache.http.util.TextUtils;
 import ru.artfect.translates.TranslateType;
 import ru.artfect.wynnlang.translate.ReverseTranslation;
 
@@ -14,22 +15,19 @@ public class StringUtil {
     public static String handleString(TranslateType type, String str) {
         String s = str.replace("§r", "");
         String replace = findReplace(type, s);
-        if (replace != null) {
+        if (TextUtils.isEmpty(replace))
             return replace.isEmpty() ? null : replaceFound(type, s, replace);
-        } else {
-            Log.addString(type, s);
-            return null;
-        }
+        Log.addString(type, s);
+        return null;
     }
 
     private static String replaceFound(TranslateType type, String str, String replace) {
         if (Reference.modEnabled && !reverseTranslation.isEnabled()) {
             reverseTranslation.getTranslated().get(type.getClass()).put(replace, str);
             return replace;
-        } else {
-            reverseTranslation.getTranslated().get(type.getClass()).put(str, replace);
-            return null;
         }
+        reverseTranslation.getTranslated().get(type.getClass()).put(str, replace);
+        return null;
     }
 
     public static String findReplace(TranslateType type, String str) {

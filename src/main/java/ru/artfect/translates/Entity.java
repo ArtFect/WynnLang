@@ -6,6 +6,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import net.minecraft.client.Minecraft;
 import net.minecraft.network.datasync.EntityDataManager.DataEntry;
+import org.apache.http.util.TextUtils;
 import ru.artfect.wynnlang.StringUtil;
 
 import java.util.List;
@@ -24,22 +25,18 @@ public class Entity implements Flipped, Translatable {
         for (int i = 0; i != entityInfo.size(); i++) {
             DataEntry<?> data = entityInfo.get(i);
             if (data.getKey().getId() == 2) {
-                String str = (String) data.getValue();
-                String replace = StringUtil.handleString(this, str);
-                if (replace != null) {
+                String replace = StringUtil.handleString(this, (String) data.getValue());
+                if (!TextUtils.isEmpty(replace))
                     entityInfo.set(i, new DataEntry(data.getKey(), replace));
-                }
             }
         }
     }
 
     public void reverse(BiMap<String, String> translated) {
-        for (net.minecraft.entity.Entity en : Minecraft.getMinecraft().player.world.loadedEntityList) {
-            String str = en.getDisplayName().getFormattedText().replaceAll("§r", "");
-            String replace = translated.get(str);
-            if (replace != null) {
-                en.setCustomNameTag(replace);
-            }
-        }
+        Minecraft.getMinecraft().player.world.loadedEntityList.forEach(x -> {
+            String replace = translated.get(x.getDisplayName().getFormattedText().replaceAll("§r", ""));
+            if (TextUtils.isEmpty(replace))
+                x.setCustomNameTag(replace);
+        });
     }
 }

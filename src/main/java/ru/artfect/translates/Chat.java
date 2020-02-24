@@ -13,6 +13,7 @@ import net.minecraft.util.text.TextComponentString;
 import net.minecraft.util.text.event.ClickEvent;
 import net.minecraft.util.text.event.HoverEvent;
 import net.minecraftforge.client.event.ClientChatReceivedEvent;
+import org.apache.http.util.TextUtils;
 import ru.artfect.wynnlang.Reference;
 import ru.artfect.wynnlang.StringUtil;
 import ru.artfect.wynnlang.WynnLang;
@@ -28,25 +29,26 @@ public class Chat implements Flipped, Translatable {
 
     public void translate() {
         ITextComponent rawMsg = event.getMessage();
-        String str = rawMsg.getFormattedText();
 
-        ClickEvent clickEvent = null;
-        HoverEvent hoverEvent = null;
-        for (ITextComponent part : rawMsg.getSiblings()) {
-            Style st = part.getStyle();
-            if (st.getClickEvent() != null || st.getHoverEvent() != null) {
-                clickEvent = st.getClickEvent();
-                hoverEvent = st.getHoverEvent();
-            }
-        }
+        final ClickEvent[] clickEvent = { null };
+        final HoverEvent[] hoverEvent = { null };
 
-        String replace = StringUtil.handleString(this, str);
-        if (replace != null) {
+        rawMsg.getSiblings().stream()
+                .map(ITextComponent::getStyle)
+                .filter(x -> x.getClickEvent() != null || x.getHoverEvent() != null)
+                .parallel()
+                .forEach(x -> {
+                    clickEvent[0] = x.getClickEvent();
+                    hoverEvent[0] = x.getHoverEvent();
+                });
+
+        String replace = StringUtil.handleString(this, rawMsg.getFormattedText());
+        if (!TextUtils.isEmpty(replace)) {
             TextComponentString msg = new TextComponentString(replace);
-            if (clickEvent != null || hoverEvent != null) {
+            if (clickEvent[0] != null || hoverEvent[0] != null) {
                 Style style = new Style();
-                style.setClickEvent(clickEvent);
-                style.setHoverEvent(hoverEvent);
+                style.setClickEvent(clickEvent[0]);
+                style.setHoverEvent(hoverEvent[0]);
                 msg.setStyle(style);
             }
             event.setMessage(msg);
@@ -59,9 +61,8 @@ public class Chat implements Flipped, Translatable {
             List<ChatLine> chatLines = (List<ChatLine>) Reference.reverseTranslation.getChatLinesF().get(chat);
             for (int i = 0; i != chatLines.size(); i++) {
                 ChatLine cl = chatLines.get(i);
-                String str = cl.getChatComponent().getFormattedText().replaceAll("§r", "");
-                String replace = translated.get(str);
-                if (replace != null) {
+                String replace = translated.get(cl.getChatComponent().getFormattedText().replaceAll("§r", ""));
+                if (!TextUtils.isEmpty(replace)) {
                     chatLines.set(i, new ChatLine(cl.getUpdatedCounter(), new TextComponentString(replace), cl.getChatLineID()));
                 }
             }

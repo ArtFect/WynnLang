@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 import net.minecraft.network.play.server.SPacketUpdateBossInfo;
 import net.minecraft.util.text.TextComponentString;
 import net.minecraft.world.BossInfoServer;
+import org.apache.http.util.TextUtils;
 import ru.artfect.wynnlang.StringUtil;
 
 @AllArgsConstructor
@@ -18,10 +19,16 @@ public class BossBar implements TranslateType {
 
     public SPacketUpdateBossInfo translatePacket() {
         if (packet.getName() != null) {
-            String str = packet.getName().getUnformattedText();
-            String replace = StringUtil.handleString(this, str);
-            if (replace != null) {
-                return new SPacketUpdateBossInfo(packet.getOperation(), new BossInfoServer(new TextComponentString(replace), packet.getColor(), packet.getOverlay()));
+            String replace = StringUtil.handleString(this, packet.getName().getUnformattedText());
+            if (!TextUtils.isEmpty(replace)) {
+                return new SPacketUpdateBossInfo(
+                        packet.getOperation(),
+                        new BossInfoServer(
+                                new TextComponentString(replace),
+                                packet.getColor(),
+                                packet.getOverlay()
+                        )
+                );
             }
         }
         return packet;
