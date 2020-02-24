@@ -12,7 +12,7 @@
 §4([a-zA-Z0-9_]{1,16}): §cClick here to continue the trade.@§4(r1): §cКликни здесь для продолжения торговли.
 §6([a-zA-Z0-9_]{1,16}): §eClick here to accept the trade.@§6(r1): §eКликни здесь для принятия торговли.
 §2([a-zA-Z0-9_]{1,16})§a has accepted the trade!@§2(r1)§a принял запрос!
-§f§lPage (\d+)§(c|a) >§(4|2)>§(c|a)>§(4|2)>§(c|a)>@§f§lСтраница (r1)§(r2) >§(r3)>§(r4)>§(r5)>§(r6)>
+§f§lPage (\d+)§a >§2>§a>§2>§a>@§f§lСтраница (r1)§a >§2>§a>§2>§a>
 §f§lPage (\d+)§a <§2<§a<§2<§a<@§f§lСтраница (r1)§a <§2<§a<§2<§a<
 §7Forward to §fPage (\d+)@§7Перейти на §f(r1) страницу
 §7Back to §fPage (\d+)@§7Назад на §f(r1) страницу
