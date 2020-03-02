@@ -1480,10 +1480,10 @@
 §c                            Slay Lv. 60+ Mobs@§c                         Убийство Ур. 60+ Мобов
 §a                             Buy from Market@§a                          Покупка на маркете
 §a                             Gather Resources@§a                          Сбор ресурсов
-§a                             Win Dungeons@§a                          Прохождение данжей
+§a                             Win Dungeons@§a                             Прохождение данжей
 §a                             Find Discoveries@§a                          Нахождение Открытий
 §a                               Loot Chests@§a                            Открытие Сундуков
-§c                               Win Dungeons@§c                            Прохождение Данжей
+§c                               Win Dungeons@§c                             Прохождение Данжей
 §a                               Win Dungeons@§a                            Прохождение Данжей
 §c                            Slay Lv. 10+ Mobs@§c                            Убей Ур. 10+ Мобов
 §a                            Slay Lv. 10+ Mobs@§a                         Убей Ур. 10+ Мобов
@@ -1645,7 +1645,7 @@
 #################################################SYSTEM################################################
 §cThe server is restarting@§cСервер перезагружается
 §bServer restarting!@§bПерезагрузка сервера!
-§f                         §2[Objective Completed]@§f                         §2[Цель Выполнена]
+§f                         §2[Objective Completed]@§f                           §2[Цель Выполнена]
                          §4[Objective Completed]@                         §4[Цель Выполнена]
 §f                         §4[Objective Completed]@§f                         §4[Цель Выполнена]
                            §6[Area Discovered]@                           §6[Открыта Территория]
@@ -1653,7 +1653,7 @@
 §d            Rewards:@§d            Награда:
 §d     Info:@§d     Инфо:
 §6                                §6§lLevel Up!@                          §6§lУровень повышен!
-                         §2[Objective Completed]@                         §2[Цель завершена]
+                         §2[Objective Completed]@                           §2[Цель завершена]
 §2                         [Mini-Quest Completed]@                         §2[Мини-Квест Пройден]
 §6§l              Thank you for your purchase!@               §6§lСпасибо за твою покупку!
 §7     Your continuous support is what keeps Wynncraft alive@      §7Твоя постоянная поддержка - это то, что держит Wynncraft на плаву
