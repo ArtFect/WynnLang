@@ -1549,6 +1549,7 @@
 §a- §7Wind Surge will cast a damaging aura around your active totem@§a- §7Воронка Бури кастует разрушительную ауру вокруг твоего активного тотема
 §a- §7Soar will pull yourself towards your active totem@§a- §7Взлет будет тянуть тебя к твоему активному тотему
 §a- §7Uproot will pull your enemies towards yourself@§a- §7Изгнание будет притягивать ваших врагов к себе
+§a- §7Cry of the Gods will make a loud screech, hurting mobs and buffing all nearby players@§a- §7Плач Богов будет издавать громкий крик, причиняя боль мобам и бафая всех ближайших игроков
 §a+ Spell Upgrade §2[Bash I -> II]@§a+ Апгрейд заклинания §2[Оглушение I -> II]
 §a+ Spell Upgrade §2[Bash II -> III]@§a+ Апгрейд заклинания §2[Оглушение II -> III]
 §a+ Spell Upgrade §2[Heal I -> II]@§a+ Апгрейд заклинания §2[Исцеление I -> II]
@@ -1644,6 +1645,9 @@
 §a+ New Spell §2[Heaven Jolt]@§a+ Новое Заклинание §2[Небесный Удар]
 §a+ Spell Upgrade §2[Heaven Jolt I -> II]@§a+ Апгрейд Заклинания §2[Небесный Удар I -> II]
 §a+ Spell Upgrade §2[Heaven Jolt II -> III]@§a+ Апгрейд Заклинания §2[Небесный Удар II -> III
+§a+ New Spell §2[Cry of the Gods]@§a+ Новое Заклинание §2[Плач Богов]
+§a+ Spell Upgrade §2[Cry of the Gods I -> II]@§a+ Апгрейд Заклинания §2[Плач Богов I -> II]
+§a+ Spell Upgrade §2[Cry of the Gods II -> III]@§a+ Апгрейд Заклинания §2[Плач Богов II -> III
 
 #################################################SYSTEM################################################
 §cThe server is restarting@§cСервер перезагружается
