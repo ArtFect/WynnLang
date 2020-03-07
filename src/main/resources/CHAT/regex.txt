@@ -233,7 +233,7 @@
 ########################################PROFESSIONS#############################################
 §4You can't hold any more unprocessed resources §c\([0-9\/]+\)§4! Refine your materials or stash them in your bank to free some space.@§4Ты не можешь удержать больше непереработанных ресурсов §c(r1)§4! Переработай их или переложи в банк, чтобы освободить немного места.
 §7\+ New Recipe \[Lv. ([0-9\-]+)\]@§7+ Новые рецепты [Ур. (r1)]
-§7\+ Higher Recipe Level \[Lv. ([0-9\-]+)\]@§7\+ Рецепты повышенных уровней [Ур. (r1)]
+§7\+ Higher Recipe Level \[Lv. ([0-9\-]+)\]@§7+ Рецепты повышенных уровней [Ур. (r1)]
 §4You need a §fⓀ§c Fishing§4 level of (§c\d+§4) to use this tool!@§4Тебе нужен (r1) уровень §fⓀ§c Рыболовства§4 чтобы использовать этот инструмент!
 §4You need a §fⒿ§c Farming§4 level of (§c\d+§4) to use this tool!@§4Тебе нужен (r1) уровень §fⒿ§c Земледелия§4 чтобы использовать этот инструмент!
 §4You need a §fⒸ§c Woodcutting§4 level of (§c\d+§4) to use this tool!@§4Тебе нужен (r1) уровень §fⒸ§c Лесорубства§4 чтобы использовать этот инструмент!
