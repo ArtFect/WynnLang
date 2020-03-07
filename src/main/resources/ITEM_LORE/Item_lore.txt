@@ -145,45 +145,30 @@
 §7Give double Combat XP to the entire server for 20 minutes!@§7Дает двойной Комбат XP всему серверу на 20 минут!
 §7Give double mob drops to the entire server for 20 minutes!@§7Дает двойной лут с мобов всему серверу на 20 минут!
 §aOne time use@§aОдноразовое использование
-§6Price: 50 gold coins@§6Цена: 50 золотых монет
 §6Buy more GC at §cwynncraft.com/store@§6Купи больше монет на §cwynncraft.com/store
 §7Give everyone online 2 soul points!@§7Дает каждому онлайн игроку 2 очка душ!
-§6Price: 40 gold coins@§6Цена: 40 золотых монет
 §7Grant free dungeon access to the entire server for 10 minutes!@§7Дает бесплатный вход в данжи всему серверу на 10 минут!
 §7Throw a crazy party!@§7Закатить сумасшедшую вечеринку!
-§6Price: 20 gold coins@§6Цена: 20 золотых монет
 §7Disguise everyone around you!@§7Замаскировать всех вокруг тебя!
 §7Rename your pets and horses@§7Переименовать твоих питомцев и лошадей
-§6Price: 110 gold coins@§6Цена: 110 золотых монет
 §7Open the buy pet menu@§7Открыть меню покупки питомцев
 §7Buy 5 loot bombs!@§7Купить 5 лут бомб!
-§6Price: 200 gold coins@§6Цена: 200 золотых монет
 §7Buy 5 ingredient bombs!@§7Купить 5 ингредиент бомб!
-§6Price: 160 gold coins@§6Цена: 160 золотых монет
 §7Buy 5 Profession Speed bombs!@§7Купить 5 Профессии Скоростная бомб!
 §7Buy 5 party bombs!@§7Купить 5 пати бомб!
-§6Price: 80 gold coins@§6Цена: 80 золотых монет
 §7Buy 5 disguise bombs!@§7Купить 5 маскировочных бомб!
 §7Buy 3 item bombs, 2 XP bombs,@§7Купить 3 предметных бомбы, 2 XP бомбы,
 §72 disguise bombs, and 5 party bombs!@§72 маскировочных бомбы, и 5 пати бомб!
 §7Buy 5 item bombs, 3 XP bombs,@§7Купить 5 предметных бомб, 3 XP бомбы,
 §74 disguise bombs, 1 loot bomb, and 8 party bombs!@§74 маскировочных бомбы, 1 лут бомбу и 8 пати бомб!
-§6Price: 300 gold coins@§6Цена: 300 золотых монет
 §7Buy 8 item bombs, 5 XP bombs,@§7Купить 8 предметных бомб, 5 XP бомб,
 §76 disguise bombs, 2 loot bombs, and 10 party bombs!@§76 маскировочных бомб, 2 лут бомбы и 10 пати бомб!
-§6Price: 400 gold coins@§6Цена: 400 золотых монет
-§6Price: 260 gold coins@§6Цена: 260 золотых монет
-§6Price: 220 gold coins@§6Цена: 220 золотых монет
 §7Buy 10 global shouts@§7Купить 10 глобальных шаутов
 §7Buy 10 world shouts!@§7Купить 10 серверных шаутов!
-§6Price: 24 gold coins@§6Цена: 24 золотые монеты
-§6Price: 280 gold coins@§6Цена: 280 золотых монет
 §7Shout a message to the@§7Отправить сообщение на
 §7entire network!@§7всю сеть серверов!
 §7No external advertising (twitch, youtube, etc) - strictly enforced@§7Никаких внешних реклам (твич, ютуб и т.д.)
-§6Price: 10 gold coins@§6Цена: 10 золотых монет
 §7entire world!@§7весь сервер!
-§6Price: 3 gold coins@§6Цена: 3 золотые монеты
 §7Could break something@§7Может что-то сломать
 §7Use on what blocks your@§7Используй на том, что блокирует твой
 §7path@§7путь
@@ -1445,7 +1430,6 @@
 §3Check §bstore.wynncraft.com@§3Посмотри §bstore.wynncraft.com
 §bVIP+ Rank §cor higher@§bVIP+ Ранг §cили выше
 §5HERO Rank §cor higher@§5HERO Ранг §cили выше
-§6§l⚔§6 Damage            §a■§a■§a■§a■§7■@§6§l⚔§6 Урон            §a■§a■§a■§a■§7■
 §c❤ Defence          §a■§7■§7■§7■§7■@§c❤ Защита          §a■§7■§7■§7■§7■
 §a➽ Range             §a■§a■§a■§a■§a■@§a➽ Дальность             §a■§a■§a■§a■§a■
 §d✺ Spells             §a■§a■§a■§7■§7■@§d✺ Заклинания             §a■§a■§a■§7■§7■
@@ -1471,7 +1455,6 @@
 §7for what they have in raw@§7несмотря на их грубую 
 §7power, they lack in magical@§7силу, им не хватает магического
 §7prowess.@§7мастерства.
-§6§l⚔§6 Damage            §a■§a■§7■§7■§7■@§6§l⚔§6 Урон            §a■§a■§7■§7■§7■
 §c❤ Defence          §a■§a■§a■§7■§7■@§c❤ Защита          §a■§a■§a■§7■§7■
 §a➽ Range             §a■§a■§a■§7■§7■@§a➽ Дальность             §a■§a■§a■§7■§7■
 §d✺ Spells             §a■§a■§a■§a■§a■@§d✺ Заклинания             §a■§a■§a■§a■§a■
@@ -1482,7 +1465,6 @@
 §7offer a great amount of@§7предлагают большое количество 
 §7utility and versatility@§7полезности и универсальности 
 §7with their spells.@§7с их заклинаниями.
-§6§l⚔§6 Damage            §a■§a■§a■§a■§a■@§6§l⚔§6 Урон            §a■§a■§a■§a■§a■
 §c❤ Defence          §a■§a■§a■§a■§7■@§c❤ Защита          §a■§a■§a■§a■§7■
 §a➽ Range             §a■§7■§7■§7■§7■@§a➽ Дальность             §a■§7■§7■§7■§7■
 §7§7The Assassin is the deadliest@§7§7Ассасин является самым смертоносным 
@@ -1493,15 +1475,6 @@
 §7they endanger themselves@§7они подвергают себя опасности, 
 §7by having to get extremely@§7подбираясь очень 
 §7close to the enemy.@§7близко к врагу.
-§6§l⚔§6 Damage           §a■§a■§a■§a■§7■@§6§l⚔§6 Урон           §a■§a■§a■§a■§7■
-§6§l⚔§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§6 Урон           §a■§a■§7■§7■§7■
-§6§l⚔§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§6 Урон           §a■§a■§a■§a■§a■
-§6§l⚔§6 Damage            §a■§a■§a■§a■§7■@§6§l⚔§6 Урон            §a■§a■§a■§a■§7■
-§6§l⚔§6 Damage            §a■§a■§7■§7■§7■@§6§l⚔§6 Урон            §a■§a■§7■§7■§7■
-§6§l⚔§6 Damage            §a■§a■§a■§a■§a■@§6§l⚔§6 Урон            §a■§a■§a■§a■§a■
-§6§l⚔§6 Damage           §a■§a■§a■§a■§7■@§6§l⚔§6 Урон           §a■§a■§a■§a■§7■
-§6§l⚔§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§6 Урон           §a■§a■§7■§7■§7■
-§6§l⚔§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§6 Урон           §a■§a■§a■§a■§a■
 §c❤ Defence          §7■§7■§7■§7■§7■@§c❤ Защита          §7■§7■§7■§7■§7■
 §a➽ Range             §a■§a■§a■§a■§7■@§a➽ Дальность             §a■§a■§a■§a■§7■
 §d✺ Spells             §a■§a■§a■§a■§7■@§d✺ Заклинания             §a■§a■§a■§a■§7■
@@ -1535,6 +1508,12 @@
 §7- §4Lv. 50+ Character §l✖@§7- §4Ур. 50+ Персонаж §l✖
 §7- §aLv. 50+ Character §l✔@§7- §aУр. 50+ Персонаж §l✔
 §7- §aLv. 30+ Character §l✔@§7- §aУр. 30+ Персонаж §l✔
+§6§l⚔§6 Damage            §a■§a■§a■§a■§7■@§6§l⚔§6 Урон            §a■§a■§a■§a■§7■
+§6§l⚔§6 Damage            §a■§a■§7■§7■§7■@§6§l⚔§6 Урон            §a■§a■§7■§7■§7■
+§6§l⚔§6 Damage            §a■§a■§a■§a■§a■@§6§l⚔§6 Урон            §a■§a■§a■§a■§a■
+§6§l⚔§6 Damage           §a■§a■§a■§a■§7■@§6§l⚔§6 Урон           §a■§a■§a■§a■§7■
+§6§l⚔§6 Damage           §a■§a■§7■§7■§7■@§6§l⚔§6 Урон           §a■§a■§7■§7■§7■
+§6§l⚔§6 Damage           §a■§a■§a■§a■§a■@§6§l⚔§6 Урон           §a■§a■§a■§a■§a■
 
 ##########################ITEMS#########################
 §a- §7Tier: §dRare@§a- §7Редкость: §dРедкий
@@ -1588,47 +1567,11 @@
 §b   - §7Damage: +4% ❉ / Mana Used@§b   - §7Урон: +4% ❉ / Использованной Маны
 §b   - §7Damage: +2% ❉ / Mana Used@§b   - §7Урон: +2% ❉ / Использованной Маны
 §b   - §7Duration: 1 Sec. / Mana Used@§b   - §7Длительность: 1 Сек. / Использованной Маны
-§f   - §7Duration: 2.0 Sec.@§f   - §7Длительность: 2.0 Сек.
-§c   - §7Duration: 7 seconds@§c   - §7Длительность: 7 секунд
-§b   - §7Duration: 8 seconds@§b   - §7Длительность: 8 секунд
-§c   - §7Duration: 8 seconds@§c   - §7Длительность: 8 секунд
-§e   - §7Duration: 5 Sec.@§e   - §7Длительность: 5 Сек.
-§f   - §7Duration: 3 seconds@§f   - §7Длительность: 3 секунды
-§f   - §7Duration: 3.0 Sec.@§f   - §7Длительность: 3.0 Сек.
-§f   - §7Duration: 4 seconds@§f   - §7Длительность: 4 секунды
-§f   - §7Duration: 5 seconds@§f   - §7Длительность: 5 секунд
-§b   - §7Duration: 9 seconds@§b   - §7Длительность: 9 секунд
-§c   - §7Duration: 6.5 seconds@§c   - §7Длительность: 6.5 секунд
-§c   - §7Duration: 6 seconds@§c   - §7Длительность: 6 секунд
-§b   - §7Duration: 7 seconds@§b   - §7Длительность: 7 секунд
-§c   - §7Duration: 8 Sec.@§c   - §7Длительность: 8 Сек.
-§f   - §7Duration: 3.5 seconds@§f   - §7Длительность: 3.5 секунд
-§f   - §7Duration: 6.0 Sec.@§f   - §7Длительность: 6.0 Сек.
-§f   - §7Duration: 4.0 Sec.@§f   - §7Длительность: 4.0 Сек.
-§b   - §7Duration: 7.5 seconds@§b   - §7Длительность: 7.5 секунд
-§f   - §7Duration: 4.5 seconds@§f   - §7Длительность: 4.5 секунд
-§b   - §7Duration: 8.5 seconds@§b   - §7Длительность: 8.5 секунд
-§c   - §7Duration: 7.5 seconds@§c   - §7Длительность: 7.5 секунд
 §2   - §7Radius: 5.5 blocks@§2   - §7Радиус: 5.5 блоков
 §2   - §7Radius: 6 blocks@§2   - §7Радиус: 6 блоков
 §2   - §7Radius: 6.5 blocks@§2   - §7Радиус: 6.5 блоков
 §2   - §7Radius: 7 blocks@§2   - §7Радиус: 7 блоков
 §2   - §7Radius: 5 blocks@§2   - §7Радиус: 5 блоков
-§c   - §7Damage Boost: +110%@§c   - §7Увеличение Урона: +110%
-§b   - §7Damage Boost: +150%@§b   - §7Увеличение Урона: +150%
-§c   - §7Damage Boost: +150%@§c   - §7Увеличение Урона: +150%
-§f   - §7Damage Boost: +60%@§f   - §7Увеличение Урона: +60%
-§f   - §7Damage Boost: +120%@§f   - §7Увеличение Урона: +120%
-§f   - §7Damage Boost: +180%@§f   - §7Увеличение Урона: +180%
-§b   - §7Damage Boost: +210%@§b   - §7Увеличение Урона: +210%
-§c   - §7Damage Boost: +90%@§c   - §7Увеличение Урона: +90%
-§c   - §7Damage Boost: +70%@§c   - §7Увеличение Урона: +70%
-§b   - §7Damage Boost: +90%@§b   - §7Увеличение Урона: +90%
-§f   - §7Damage Boost: +90%@§f   - §7Увеличение Урона: +90%
-§b   - §7Damage Boost: +120%@§b   - §7Увеличение Урона: +120%
-§f   - §7Damage Boost: +150%@§f   - §7Увеличение Урона: +150%
-§b   - §7Damage Boost: +180%@§b   - §7Увеличение Урона: +180%
-§c   - §7Damage Boost: +130%@§c   - §7Увеличение Урона: +130%
 §e   - §7Chains: 8@§e   - §7Цепей: 8
 §e   - §7Chains: 9@§e   - §7Цепей: 9
 §e   - §7Chains: 7@§e   - §7Цепей: 7
@@ -1639,18 +1582,6 @@
 §f   - §7Knockback: 24 blocks@§f   - §7Отдача: 24 блока
 §f   - §7Knockback: 12 blocks@§f   - §7Отдача: 12 блоков
 §f   - §7Knockback: 20 blocks@§f   - §7Отдача: 20 блоков
-§7Tier 1@§7Уровень 1
-§7Tier 2@§7Уровень 2
-§7Tier 3@§7Уровень 3
-§7Tier 4@§7Уровень 4
-§7Tier 5@§7Уровень 5
-§7Tier 6@§7Уровень 6
-§7Tier 7@§7Уровень 7
-§7Tier 8@§7Уровень 8
-§7Tier 9@§7Уровень 9
-§7Tier 10@§7Уровень 10
-§7Tier 11@§7Уровень 11
-§7Tier 12@§7Уровень 12
 §7Super Fast Attack Speed@§7Супер Быстрая Скорость Атаки
 §7Slow Attack Speed@§7Медленная Скорость Атаки
 §7Very Slow Attack Speed@§7Очень Медленная Скорость Атаки
@@ -1692,28 +1623,6 @@
    §8✔ §fⒼ §7Weaponsmithing@   §8✔ §fⒼ §7Оружейное дело
    §8✖ §fⒹ §7Jeweling@   §8✖ §fⒹ §7Изготовление аксессуаров
    §8✔ §fⒹ §7Jeweling@   §8✔ §fⒹ §7Изготовление аксессуаров
-§c-200% §7Ingredient Effectiveness@§c-200% §7Эффективность Ингредиентов
-§a+130% §7Ingredient Effectiveness@§a+130% §7Эффективность Ингредиентов
-§c-100% §7Ingredient Effectiveness@§c-100% §7Эффективность Ингредиентов
-§c-180% §7Ingredient Effectiveness@§c-180% §7Эффективность Ингредиентов
-§c-110% §7Ingredient Effectiveness@§c-110% §7Эффективность Ингредиентов
-§a+75% §7Ingredient Effectiveness@§a+75% §7Эффективность Ингредиентов
-§a+30% §7Ingredient Effectiveness@§a+30% §7Эффективность Ингредиентов
-§a+25% §7Ingredient Effectiveness@§a+25% §7Эффективность Ингредиентов
-§c-40% §7Ingredient Effectiveness@§c-40% §7Эффективность Ингредиентов
-§a+33% §7Ingredient Effectiveness@§a+33% §7Эффективность Ингредиентов
-§a+40% §7Ingredient Effectiveness@§a+40% §7Эффективность Ингредиентов
-§a+80% §7Ingredient Effectiveness@§a+80% §7Эффективность Ингредиентов
-§a+12% §7Ingredient Effectiveness@§a+12% §7Эффективность Ингредиентов
-§c-15% §7Ingredient Effectiveness@§c-15% §7Эффективность Ингредиентов
-§c-20% §7Ingredient Effectiveness@§c-20% §7Эффективность Ингредиентов
-§a+35% §7Ingredient Effectiveness@§a+35% §7Эффективность Ингредиентов
-§c-30% §7Ingredient Effectiveness@§c-30% §7Эффективность Ингредиентов
-§c-45% §7Ingredient Effectiveness@§c-45% §7Эффективность Ингредиентов
-§c-75% §7Ingredient Effectiveness@§c-75% §7Эффективность Ингредиентов
-§c-50% §7Ingredient Effectiveness@§c-50% §7Эффективность Ингредиентов
-§a+120% §7Ingredient Effectiveness@§a+120% §7Эффективность Ингредиентов
-§a+65% §7Ingredient Effectiveness@§a+65% §7Эффективность Ингредиентов
 §7(To ingredients touching this one)@§7(Для ингредиентов касающихся него)
 §7(To ingredients above this one)@§7(Для ингредиентов выше него)
 §7(To ingredients not touching this one)@§7(Для ингредиентов не касающихся него)
@@ -1793,65 +1702,6 @@
 §fCorruptedÀÀÀIceÀÀÀBarrows§7 once@§fИспорченный Ледяной Курган§7 единожды
 §fCorruptedÀÀÀLostÀÀÀSanctuary§7 once@§fИспорченное Затерянное Святилище§7 единожды
 §fCorruptedÀÀÀDecrepitÀÀÀSewers§7 once@§fИспорченная Ветхая Канализация§7 единожды
-§a - §7Coordinates: §f-936, -1888@§a - §7Координаты: §f-936, -1888
-§a - §7Coordinates: §f-293, -1834@§a - §7Координаты: §f-293, -1834
-§a - §7Coordinates: §f-638, -856@§a - §7Координаты: §f-638, -856
-§a - §7Coordinates: §f1432, -1830@§a - §7Координаты: §f1432, -1830
-§a - §7Coordinates: §f-264, -1054@§a - §7Координаты: §f-264, -1054
-§a - §7Coordinates: §f290, -1950@§a - §7Координаты: §f290, -1950
-§a - §7Coordinates: §f179, -665@§a - §7Координаты: §f179, -665
-§a - §7Coordinates: §f-584, -3486@§a - §7Координаты: §f-584, -3486
-§a - §7Coordinates: §f3424, 3510@§a - §7Координаты: §f3424, 3510
-§a - §7Coordinates: §f3313, 5346@§a - §7Координаты: §f3313, 5346
-§a - §7Coordinates: §f3331, 4184@§a - §7Координаты: §f3331, 4184
-§a - §7Coordinates: §f3533, 2374@§a - §7Координаты: §f3533, 2374
-§a - §7Coordinates: §f3025, 6329@§a - §7Координаты: §f3025, 6329
-§a - §7Coordinates: §f2960, 8120@§a - §7Координаты: §f2960, 8120
-§a - §7Coordinates: §f2865, 8995@§a - §7Координаты: §f2865, 8995
-§a - §7Coordinates: §f-1646, -2608@§a - §7Координаты: §f-1646, -2608
-§a- §7Level: §f25@§a- §7Уровень: §f25
-§a- §7Level: §f40@§a- §7Уровень: §f40
-§a- §7Level: §f15@§a- §7Уровень: §f15
-§a- §7Level: §f20@§a- §7Уровень: §f20
-§a- §7Level: §f30@§a- §7Уровень: §f30
-§a- §7Level: §f45@§a- §7Уровень: §f45
-§a- §7Level: §f55@§a- §7Уровень: §f55
-§a - §7Combat Lv: §f18@§a - §7Комбат Ур: §f18
-§a - §7Combat Lv: §f36@§a - §7Комбат Ур: §f36
-§a - §7Combat Lv: §f24@§a - §7Комбат Ур: §f24
-§a - §7Combat Lv: §f90@§a - §7Комбат Ур: §f90
-§a - §7Combat Lv: §f45@§a - §7Комбат Ур: §f45
-§a - §7Combat Lv: §f54@§a - §7Комбат Ур: §f54
-§a - §7Combat Lv: §f63@§a - §7Комбат Ур: §f63
-§a - §7Combat Lv: §f27@§a - §7Комбат Ур: §f27
-§a - §7Combat Lv: §f9@§a - §7Комбат Ур: §f9
-§a - §7Combat Lv: §f86@§a - §7Комбат Ур: §f86
-§a - §7Combat Lv: §f74@§a - §7Комбат Ур: §f74
-§a - §7Combat Lv: §f70@§a - §7Комбат Ур: §f70
-§a - §7Combat Lv: §f78@§a - §7Комбат Ур: §f78
-§a - §7Combat Lv: §f82@§a - §7Комбат Ур: §f82
-§a - §7Combat Lv: §f100@§a - §7Комбат Ур: §f100
-§a- §7Coords: §f70, -3070@§a- §7Координаты: §f70, -3070
-§a- §7Coords: §f-600, -3550@§a- §7Координаты: §f-600, -3550
-§a- §7Coords: §f60, -2215@§a- §7Координаты: §f60, -2215
-§a- §7Coords: §f-730, -3115@§a- §7Координаты: §f-730, -3115
-§a- §7Coords: §f-800, -3775@§a- §7Координаты: §f-800, -3775
-§a- §7Coords: §f130, -3770@§a- §7Координаты: §f130, -3770
-§a- §7Coords: §f770, -3880@§a- §7Координаты: §f770, -3880
-§a- §7Coords: §f1315, -4065@§a- §7Координаты: §f1315, -4065
-§a- §7Coords: §f-2125, -4275@§a- §7Координаты: §f-2125, -4275
-§a- §7Coords: §f700, -3330@§a- §7Координаты: §f700, -3330
-§a- §7Coords: §f370, -3470@§a- §7Координаты: §f370, -3470
-§a- §7Coords: §f870, -2830@§a- §7Координаты: §f870, -2830
-§a- §7Coords: §f-2530, -2527@§a- §7Координаты: §f-2530, -2527
-§a- §7Coords: §f-100, -2475@§a- §7Координаты: §f-100, -2475
-§a- §7Coords: §f-450, -2850@§a- §7Координаты: §f-450, -2850
-§a- §7Coords: §f-300, -2500@§a- §7Координаты: §f-300, -2500
-§a- §7Coords: §f500, -2900@§a- §7Координаты: §f500, -2900
-§a- §7Coords: §f-583, -3468@§a- §7Координаты: §f-583, -3468
-§a- §7Coords: §f1409, -1830@§a- §7Координаты: §f1409, -1830
-§a- §7Coords: §f-1675, -2600@§a- §7Координаты: §f-1675, -2600
-§a- §7Coords: §f1290, -775@§a- §7Координаты: §f1290, -775
 §a-§7 Coords: §f-600, -3550@§a-§7 Координаты: §f-600, -3550
 §4CorruptedÀÀÀSand-SweptÀÀÀTomb Key@§4Испорченного Ключа от Песчаной Гробницы 
 §4CorruptedÀÀÀDecrepitÀÀÀSewers Key@§4Испорченного Ключа от Ветхой Канализации
@@ -1900,246 +1750,19 @@
 §6- §7Effect: §f20% XP@§6- §7Эффект: §f20% XP
 §6- §7Effect: §f15% XP@§6- §7Эффект: §f15% XP
 §6- §7Effect: §f25% XP@§6- §7Эффект: §f25% XP
-§a- §7Effect: §f+40§c ✹ Defence@§a- §7Эффект: §f+40§c ✹ Защита
-§a- §7Effect: §f+34§c ✹ Defence@§a- §7Эффект: §f+34§c ✹ Защита
-§a- §7Effect: §f+30§c ✹ Defence@§a- §7Эффект: §f+30§c ✹ Защита
-§a- §7Effect: §f+27§c ✹ Defence@§a- §7Эффект: §f+27§c ✹ Защита
-§a- §7Effect: §f+47§c ✹ Defence@§a- §7Эффект: §f+47§c ✹ Защита
-§a- §7Effect: §f+57§c ✹ Defence@§a- §7Эффект: §f+57§c ✹ Защита
-§a- §7Effect: §f+14§c ✹ Defence@§a- §7Эффект: §f+14§c ✹ Защита
-§a- §7Effect: §f+71§c ✹ Defence@§a- §7Эффект: §f+71§c ✹ Защита
-§a- §7Effect: §f+21§c ✹ Defence@§a- §7Эффект: §f+21§c ✹ Защита
-§a- §7Effect: §f+17§c ✹ Defence@§a- §7Эффект: §f+17§c ✹ Защиты
-§a- §7Effect: §f+8§c ✹ Defence@§a- §7Эффект: §f+8§c ✹ Защита
-§a- §7Effect: §f+1300 Health@§a- §7Эффект: §f+1300 Здоровья
-§a- §7Effect: §f+600 Health@§a- §7Эффект: §f+600 Здоровья
-§a- §7Effect: §f+280 Health@§a- §7Эффект: §f+280 Здоровья
-§a- §7Effect: §f+80 Health@§a- §7Эффект: §f+80 Здоровья
-§a- §7Effect: §f+160 Health@§a- §7Эффект: §f+160 Здоровья
-§a- §7Effect: §f+1880 Health@§a- §7Эффект: §f+1880 Здоровья
-§a- §7Effect: §f+3400 Health@§a- §7Эффект: §f+3400 Здоровья
-§a- §7Effect: §f+6000 Health@§a- §7Эффект: §f+6000 Здоровья
-§a- §7Effect: §f+21§2 ✤ Strength@§a- §7Эффект: §f+21§2 ✤ Сила
-§a- §7Effect: §f+71§2 ✤ Strength@§a- §7Эффект: §f+71§2 ✤ Сила
-§a- §7Effect: §f+40§2 ✤ Strength@§a- §7Эффект: §f+40§2 ✤ Сила
-§a- §7Effect: §f+57§2 ✤ Strength@§a- §7Эффект: §f+57§2 ✤ Сила
-§a- §7Effect: §f+34§2 ✤ Strength@§a- §7Эффект: §f+34§2 ✤ Сила
-§a- §7Effect: §f+27§2 ✤ Strength@§a- §7Эффект: §f+27§2 ✤ Сила
-§a- §7Effect: §f+30§2 ✤ Strength@§a- §7Эффект: §f+30§2 ✤ Сила
-§a- §7Effect: §f+47§2 ✤ Strength@§a- §7Эффект: §f+47§2 ✤ Сила
-§a- §7Effect: §f+14§2 ✤ Strength@§a- §7Эффект: §f+14§2 ✤ Сила
-§a- §7Effect: §f+50% Melee Damage@§a- §7Эффект: §f+50% Ближний Урон
-§a- §7Effect: §f+30% Melee Damage@§a- §7Эффект: §f+30% Ближний Урон
-§a- §7Effect: §f+42% Melee Damage@§a- §7Эффект: §f+42% Ближний Урон
-§a- §7Effect: §f+24% Melee Damage@§a- §7Эффект: §f+24% Ближний Урон
-§a- §7Effect: §f+16 Melee Damage@§a- §7Эффект: §f+16 Ближний Урон
-§a- §7Effect: §f+8 Melee Damage@§a- §7Эффект: §f+8 Ближний Урон
-§a- §7Effect: §f+6% Melee Damage@§a- §7Эффект: §f+6% Ближний Урон
-§a- §7Effect: §f+2 Melee Damage@§a- §7Эффект: §f+2 Ближний Урон
-§a- §7Effect: §f+18% Melee Damage@§a- §7Эффект: §f+18% Ближний Урон
-§a- §7Effect: §f+4 Melee Damage@§a- §7Эффект: §f+4 Ближний Урон
-§a- §7Effect: §f+12% Melee Damage@§a- §7Эффект:  §f+12% Ближний Урон
-§a- §7Effect: §f+28 Melee Damage@§a- §7Эффект: §f+28 Ближний Урон
-§a- §7Effect: §f+64 Melee Damage@§a- §7Эффект: §f+64 Ближний Урон
-§a- §7Effect: §f+36% Melee Damage@§a- §7Эффект: §f+36% Ближний Урон
-§a- §7Effect: §f+44 Melee Damage@§a- §7Эффект: §f+44 Ближний Урон
-§a- §7Effect: §f+100 Melee Damage@§a- §7Эффект: §f+100 Ближний Урон
-§a- §7Effect: §f+34§e ✦ Dexterity@§a- §7Эффект: §f+34§e ✦ Точность
-§a- §7Effect: §f+30§e ✦ Dexterity@§a- §7Эффект: §f+30§e ✦ Точность
-§a- §7Effect: §f+27§e ✦ Dexterity@§a- §7Эффект: §f+27§e ✦ Точность
-§a- §7Effect: §f+40§e ✦ Dexterity@§a- §7Эффект: §f+40§e ✦ Точность
-§a- §7Effect: §f+57§e ✦ Dexterity@§a- §7Эффект: §f+57§e ✦ Точность
-§a- §7Effect: §f+47§e ✦ Dexterity@§a- §7Эффект: §f+47§e ✦ Точность
-§a- §7Effect: §f+14§e ✦ Dexterity@§a- §7Эффект: §f+14§e ✦ Точность
-§a- §7Effect: §f+71§e ✦ Dexterity@§a- §7Эффект: §f+71§e ✦ Точность
-§a- §7Effect: §f+21§e ✦ Dexterity@§a- §7Эффект: §f+21§e ✦ Точность
-§a- §7Effect: §f+8§e ✦ Dexterity@§a- §7Эффект: §f+8§e ✦ Точность
-§a- §7Effect: §f+34§b ❉ Intelligence@§a- §7Эффект: §f+34§b ❉ Интеллект
-§a- §7Effect: §f+30§b ❉ Intelligence@§a- §7Эффект: §f+30§b ❉ Интеллект
-§a- §7Effect: §f+27§b ❉ Intelligence@§a- §7Эффект: §f+27§b ❉ Интеллект
-§a- §7Effect: §f+40§b ❉ Intelligence@§a- §7Эффект: §f+40§b ❉ Интеллект
-§a- §7Effect: §f+47§b ❉ Intelligence@§a- §7Эффект: §f+47§b ❉ Интеллект
-§a- §7Effect: §f+57§b ❉ Intelligence@§a- §7Эффект: §f+57§b ❉ Интеллект
-§a- §7Effect: §f+14§b ❉ Intelligence@§a- §7Эффект: §f+14§b ❉ Интеллект
-§a- §7Effect: §f+71§b ❉ Intelligence@§a- §7Эффект: §f+71§b ❉ Интеллект
-§a- §7Effect: §f+21§b ❉ Intelligence@§a- §7Эффект: §f+21§b ❉ Интеллект
-§a- §7Effect: §f+20% Spell Damage@§a- §7Эффект: §f+20% Урон Заклинаний
-§a- §7Effect: §f+14% Spell Damage@§a- §7Эффект: §f+14% Урон Заклинаний
-§a- §7Effect: §f+4% Spell Damage@§a- §7Эффект: §f+4% Урон Заклинаний
-§a- §7Effect: §f+8% Spell Damage@§a- §7Эффект: §f+8% Урон Заклинаний
-§a- §7Effect: §f+26% Spell Damage@§a- §7Эффект: §f+26% Урон Заклинаний
-§a- §7Effect: §f+32% Spell Damage@§a- §7Эффект: §f+32% Урон Заклинаний
-§a- §7Effect: §f+38% Spell Damage@§a- §7Эффект: §f+38% Урон Заклинаний
-§a- §7Effect: §f+44% Spell Damage@§a- §7Эффект: §f+44% Урон Заклинаний
-§a- §7Effect: §f+30§f ❋ Agility@§a- §7Эффект: §f+30§f ❋ Ловкость
-§a- §7Effect: §f+27§f ❋ Agility@§a- §7Эффект: §f+27§f ❋ Ловкость
-§a- §7Effect: §f+40§f ❋ Agility@§a- §7Эффект: §f+40§f ❋ Ловкость
-§a- §7Effect: §f+47§f ❋ Agility@§a- §7Эффект: §f+47§f ❋ Ловкость
-§a- §7Effect: §f+34§f ❋ Agility@§a- §7Эффект: §f+34§f ❋ Ловкость
-§a- §7Effect: §f+57§f ❋ Agility@§a- §7Эффект: §f+57§f ❋ Ловкость
-§a- §7Effect: §f+14§f ❋ Agility@§a- §7Эффект: §f+14§f ❋ Ловкость
-§a- §7Effect: §f+71§f ❋ Agility@§a- §7Эффект: §f+71§f ❋ Ловкость
-§a- §7Effect: §f+21§f ❋ Agility@§a- §7Эффект: §f+21§f ❋ Ловкость
-§a- §7Effect: §f+8§f ❋ Agility@§a- §7Эффект: §f+8§f ❋ Ловкость
-§a- §7Effect: §f+10§f ❋ Agility@§a- §7Эффект: §f+10§f ❋ Ловкость
-§a- §7Effect: §f+9§f ❋ Agility@§a- §7Эффект: §f+9§f ❋ Ловкость
-§a- §7Effect: §f+16% Walk Speed@§a- §7Эффект: §f+16% Скорость
-§a- §7Effect: §f+6% Walk Speed@§a- §7Эффект: §f+6% Скорость
-§a- §7Effect: §f+10% Walk Speed@§a- §7Эффект: §f+10% Скорость
-§a- §7Effect: §f+28% Walk Speed@§a- §7Эффект: §f+28% Скорость
-§a- §7Effect: §f+34% Walk Speed@§a- §7Эффект: §f+34% Скорость
-§a- §7Effect: §f+22% Walk Speed@§a- §7Эффект: §f+22% Скорость
-§a- §7Effect: §f+40% Walk Speed@§a- §7Эффект: §f+40% Скорость
-§a- §7Effect: §f+50% Walk Speed@§a- §7Эффект: §f+50% Скорость
-§a- §7Effect: §f+12% Main Attack Damage@§a- §7Эффект: §f+12% Урона Основной Атаки
-§a- §7Effect: §f+24% Main Attack Damage@§a- §7Эффект: §f+24% Урона Основной Атаки
-§a- §7Effect: §f+8 Main Attack Damage@§a- §7Эффект: §f+8 Урона Основной Атаки
-§a- §7Effect: §f+36% Main Attack Damage@§a- §7Эффект: §f+36% Урона Основной Атаки
-§a- §7Effect: §f+6% Main Attack Damage@§a- §7Эффект: §f+6% Урона Основной Атаки
-§a- §7Effect: §f+30% Main Attack Damage@§a- §7Эффект: §f+30% Урона Основной Атаки
-§a- §7Effect: §f+50% Main Attack Damage@§a- §7Эффект: §f+50 Урона Основной Атаки
-§a- §7Effect: §f+18% Main Attack Damage@§a- §7Эффект: §f+18 Урона Основной Атаки
-§a- §7Effect: §f+42% Main Attack Damage@§a- §7Эффект: §f+42 Урона Основной Атаки
-§a- §7Effect: §f+28 Main Attack Neutral Damage@§a- §7Эффект: §f+28 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+4 Main Attack Neutral Damage@§a- §7Эффект: §f+4 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+44 Main Attack Neutral Damage@§a- §7Эффект: §f+44 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+2 Main Attack Neutral Damage@§a- §7Эффект: §f+2 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+16 Main Attack Neutral Damage@§a- §7Эффект: §f+16 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+100 Main Attack Neutral Damage@§a- §7Эффект: §f+100 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+64 Main Attack Neutral Damage@§a- §7Эффект: §f+64 Нейтрального Урона Основной Атаки
-§a- §7Effect: §f+8 Main Attack Neutral Damage@§a- §7Эффект: §f+8 Нейтрального Урона Основной Атаки
 §f- §7Effect: §fDrunkness@§f- §7Эффект: §fОпьянение
 §8§8Drinking this potion will@§8§8Употребление этого зелья 
 §8regenerate your health over@§8восстанавливает твое здоровье в течение 
-§83 seconds.@§83 секунд.
 §3- §7Mana: §f30§b ✺@§3- §7Мана: §f30§b ✺
 §3- §7Mana: §f18§b ✺@§3- §7Мана: §f18§b ✺
 §3- §7Mana: §f42§b ✺@§3- §7Мана: §f42§b ✺
 §3- §7Mana: §f12§b ✺@§3- §7Мана: §f12§b ✺
 §3- §7Mana: §f66§b ✺@§3- §7Мана: §f66§b ✺
 §3- §7Mana: §f54§b ✺@§3- §7Мана: §f54§b ✺
-§4- §7Duration: §f3 Seconds@§4- §7Длительность: §f3 Секунды
-§3- §7Duration: §f10 Seconds@§3- §7Длительность: §f10 Секунд
-§3- §7Duration: §f6 Seconds@§3- §7Длительность: §f6 Секунд
-§6- §7Duration: §f150 Seconds@§6- §7Длительность: §f150 Секунд
-§a- §7Duration: §f300 Seconds@§a- §7Длительность: §f300 Секунд
-§a- §7Duration: §f480 Seconds@§a- §7Длительность: §f480 Секунд
-§a- §7Duration: §f420 Seconds@§a- §7Длительность: §f420 Секунд
-§6- §7Duration: §f90 Seconds@§6- §7Длительность: §f90 Секунд
-§3- §7Duration: §f14 Seconds@§3- §7Длительность: §f14 Секунд
-§a- §7Duration: §f240 Seconds@§a- §7Длительность: §f240 Секунд
-§3- §7Duration: §f4 Seconds@§3- §7Длительность: §f4 секунды
-§a- §7Duration: §f60 Seconds@§a- §7Длительность: §f60 Секунд
-§a- §7Duration: §f120 Seconds@§a- §7Длительность: §f120 Секунд
-§a- §7Duration: §f180 Seconds@§a- §7Длительность: §f180 Секунд
-§f- §7Duration: §f120 Seconds@§f- §7Длительность: §f120 Секунд
-§3- §7Duration: §f22 Seconds@§3- §7Длительность: §f22 Секунды
-§3- §7Duration: §f18 Seconds@§3- §7Длительность: §f18 Секунд
-§a- §7Duration: §f360 Seconds@§a- §7Длительность: §f360 Секунд
-§6- §7Duration: §f210 Seconds@§6- §7Длительность: §f210 Секунд
-§f   - §7Duration: 5.0 Sec.@§f   - §7Длительность: 5.0 Сек.
 §8regenerate your mana over@§8восстанавливает твою ману в течение
-§810 seconds.@§810 секунд.
-§86 seconds.@§86 секунд.
 §8boost your XP bonus by 20%@§8увеличит твой XP бонус на 20%
 §8boost your XP bonus by 15%@§8увеличит твой XP бонус на 15%
 §8boost your XP bonus by 25%@§8увеличит твой XP бонус на 25%
-§871 and boost your Melee@§871 и увеличит твой Ближний
-§840 and boost your Melee@§840 и увеличит твой Ближний
-§857 and boost your Melee@§857 и увеличит твой Ближний
-§834 and boost your Melee@§834 и увеличит твой Ближний
-§827 and boost your Melee@§827 и увеличит твой Ближний
-§830 and boost your Melee@§830 и увеличит твой Ближний
-§847 and boost your Melee@§847 и увеличит твой Ближний
-§814 and boost your Melee@§814 и увеличит твой Ближний
-§821 and boost your Melee@§821 и увеличит твой Ближний 
-§821 and boost your Health@§821 и увеличит твое Здоровье
-§840 and boost your Health@§840 и увеличит твое Здоровье
-§834 and boost your Health@§834 и увеличит твое Здоровье
-§830 and boost your Health@§830 и увеличит твое Здоровье
-§827 and boost your Health@§827 и увеличит твое Здоровье
-§847 and boost your Health@§847 и увеличит твое Здоровье
-§857 and boost your Health@§857 и увеличит твое Здоровье
-§814 and boost your Health@§814 и увеличит твое Здоровье
-§871 and boost your Health@§871 и увеличит твое Здоровье
-§817 and boost your Health@§817 и увеличит твое Здоровье
-§88 and boost your Health@§88 и увеличит твое Здоровье
-§821 and boost your Walk Speed@§821 и увеличит твою Скорость
-§830 and boost your Walk Speed@§830 и увеличит твою Скорость
-§827 and boost your Walk Speed@§827 и увеличит твою Скорость
-§840 and boost your Walk Speed@§840 и увеличит твою Скорость
-§847 and boost your Walk Speed@§847 и увеличит твою Скорость
-§834 and boost your Walk Speed@§834 и увеличит твою Скорость
-§857 and boost your Walk Speed@§857 и увеличит твою Скорость
-§814 and boost your Walk Speed@§814 и увеличит твою Скорость
-§871 and boost your Walk Speed@§871 и увеличит твою Скорость
-§88 and boost your Walk Speed@§88 и увеличит твою Скорость
-§810 and boost your Walk Speed@§810 и увеличит твою Скорость
-§89 and boost your Walk Speed@§89 и увеличит твою Скорость
-§8by 21 and boost your Spell@§8на 21 и увеличит твой Заклинаний 
-§8by 34 and boost your Spell@§8на 34 и увеличит твой Заклинаний
-§8by 27 and boost your Spell@§8на 27 и увеличит твой Заклинаний
-§8by 40 and boost your Spell@§8на 40 и увеличит твой Заклинаний
-§8by 47 and boost your Spell@§8на 47 и увеличит твой Заклинаний
-§8by 57 and boost your Spell@§8на 57 и увеличит твой Заклинаний
-§8by 14 and boost your Spell@§8на 14 и увеличит твой Заклинаний
-§8by 71 and boost your Spell@§8на 71 и увеличит твой Заклинаний
-§8by 30 and boost your Spell@§8на 30 и увеличит твой Заклинаний
-§830 and boost your Main Attack@§830 и увеличит твою Основную Атаку
-§834 and boost your Main Attack@§834 и увеличит твою Основную Атаку
-§847 and boost your Main Attack@§847 и увеличит твою Основную Атаку
-§840 and boost your Main Attack@§840 и увеличит твою Основную Атаку
-§871 and boost your Main Attack@§871 и увеличит твою Основную Атаку
-§857 and boost your Main Attack@§857 и увеличит твою Основную Атаку
-§8Damage by +50% for 480 seconds@§8Урон на +50% в течение 480 секунд
-§8Damage by +30% for 300 seconds@§8Урон на +30% в течение 300 секунд
-§8Damage by +42% for 420 seconds@§8Урон на +42% в течение 420 секунд
-§8Damage by +24% for 240 seconds@§8Урон на +24% в течение 240 секунд
-§8Damage by +20% for 240 seconds@§8Урон на +20% в течение 240 секунд
-§8Damage by +14% for 180 seconds@§8Урон на +14% в течение 180 секунд
-§8Damage by +18% for 180 seconds@§8Урон на +18% в течение 180 секунд
-§8Damage by +12% for 120 seconds@§8Урон на +12% в течение 120 секунд
-§8Damage by +26% for 300 seconds@§8Урон на +26% в течение 300 секунд
-§8Damage by +36% for 360 seconds@§8Урон на +36% в течение 360 секунд
-§8Damage by +32% for 360 seconds@§8Урон на +32% в течение 360 секунд
-§8Damage by +38% for 420 seconds@§8Урон на +38% в течение 420 секунд
-§8Damage by +44% for 480 seconds@§8Урон на +44% в течение 480 секунд
-§8Damage by +100 for 480 seconds@§8Урон на +100 в течение 480 секунд
-§8Damage by +16 for 240 seconds@§8Урон на +16 в течение 240 секунд
-§8Damage by +8% for 120 seconds@§8Урон на +8% в течение 120 секунд
-§8Damage by +28 for 300 seconds@§8Урон на +28 в течение 300 секунд
-§8Damage by +64 for 420 seconds@§8Урон на +64 в течение 420 секунд
-§8Damage by +44 for 360 seconds@§8Урон на +44 в течение 360 секунд
-§8Damage by +8 for 180 seconds@§8Урон на +8 в течение 180 секунд
-§8Damage by +6% for 60 seconds@§8Урон на +6% в течение 60 секунд
-§8Damage by +4% for 60 seconds@§8Урон на +4% в течение 60 секунд
-§8Damage by +4 for 120 seconds@§8Урон на +4 в течение 120 секунд
-§8Damage by +2 for 60 seconds@§8Урон на +2 в течение 60 секунд
-§8by +1300 for 300 seconds@§8на +1300 в течение 300 секунд
-§8by +1880 for 360 seconds@§8на +1880 в течение 360 секунд
-§8by +3400 for 420 seconds@§8на +3400 в течение 420 секунд
-§8by +6000 for 480 seconds@§8на +6000 в течение 480 секунд
-§8by +16% for 180 seconds@§8на +16% в течение 180 секунд
-§8by +600 for 240 seconds@§8на +600 в течение 240 секунд
-§8by +280 for 180 seconds@§8на +280 в течение 180 секунд
-§8by +160 for 120 seconds@§8на +160 в течение 120 секунд
-§8by +10% for 120 seconds@§8на +10% в течение 120 секунд
-§8by +28% for 300 seconds@§8на +28% в течение 300 секунд
-§8by +34% for 360 seconds@§8на +34% в течение 360 секунд
-§8by +22% for 240 seconds@§8на +22% в течение 240 секунд
-§8by +40% for 420 seconds@§8на +40% в течение 420 секунд
-§8by +50% for 480 seconds@§8на +50% в течение 480 секунд
-§8by +4 for 120 seconds@§8на +4 в течение 120 секунд
-§8by +6% for 60 seconds@§8на +6% в течение 60 секунд
-§8by +80 for 60 seconds@§8на +80 в течение 60 секунд
-§8Neutral Damage by +28 for@§8Нейтральный Урон на +28 в течение
-§8Neutral Damage by +4 for@§8Нейтральный Урон на +4 в течение
-§8Neutral Damage by +44 for@§8Нейтральный Урон на +44 в течение
-§8Neutral Damage by +2 for@§8Нейтральный Урон на +2 в течение
-§8Neutral Damage by +16 for@§8Нейтральный Урон на +16 в течение
-§8Neutral Damage by +100 for@§8Нейтральный Урон на +100 в течение
-§8Neutral Damage by +64 for@§8Нейтральный Урон на +64 в течение
-§8Neutral Damage by +8 for@§8Нейтральный Урон на +8 в течение
 §8boost your ✹ Defence by@§8увеличит твою ✹ Защиту на
 §8boost your ✤ Strength by@§8увеличит твою ✤ Силу на
 §8boost your ✦ Dexterity by@§8увеличит твою ✦ Точность на
@@ -2148,25 +1771,11 @@
 §8for 150 seconds.@§8в течение 150 секунд.
 §8for 90 seconds.@§8в течение 90 секунд.
 §8for 210 seconds.@§8в течение 210 секунд.
-§8300 seconds@§8300 секунд
-§8120 seconds@§8120 секунд
-§8360 seconds@§8360 секунд
-§860 seconds@§860 секунд
-§8240 seconds@§8240 секунд
-§8480 seconds@§8480 секунд
-§8420 seconds@§8420 секунд
-§8180 seconds@§8180 секунд
 §7+15% Speed boost per@§7+15% увеличения Скорости на
 §7boat within 20 blocks of you@§7лодку в пределах 20 блоков от тебя
 §8make you drunk over 120@§8делает тебя пьяным на 120
-§814 seconds.@§814 секунд.
-§84 seconds.@§84 секунд.
 §8seconds.@§8секунд.
-§822 seconds.@§822 секунд.
-§818 seconds.@§818 секунд.
 §88 and boost your Melee Damage@§88 и увеличивает твой Ближний Урон
-§a- §7Effect: §f+4 Main Attack Damage@§a- §7Эффект: §f+4 Урона Основной Атаки
-§827 and boost your Main Attack@§827 и увеличит твою Основную Атаку
 
 #########################INTERFACES#############################
 §7 - §fRefined Gudgeon Oil §7[Lv. 1]@§7 - §fПереработанный Жир Пескаря §7[Ур. 1]
