@@ -9,7 +9,7 @@
 §[aeb78]\[[0-9\*]+\/[A-Za-z]+\/[A-Za-z✫★]+\].*@ 
 §[aeb78]\[[0-9\*]+\/[A-Za-z]+\].*@ 
 §7\[\d+§7\/[A-Za-z]+\/[A-Za-z✫★]+\].*@ 
-§7\[\d+\/§8\d+§7\/[A-Za-z]+\/[A-Za-z✫★]+\].*@ 
+§7\[\d+(\*|)\/§8\d+§7\/[A-Za-z]+\/[A-Za-z✫★]+\].*@ 
 §7\[Lv. \d+\/§8\d+§7\/[A-Za-z]+\] .*@ 
 ([a-zA-Z0-9_]{1,32}) has an invalid spell configuration@ 
 ###################################################################################################
@@ -86,6 +86,7 @@
 §6([a-zA-Z0-9_]{1,16}) is six feet under.@§6(r1) на глубине шести футов.
 §6([a-zA-Z0-9_]{1,16}) has perished.@§6(r1) погиб.
 §6([a-zA-Z0-9_]{1,16}) kicked the bucket.@§6(r1) отбросил коньки.
+§6([a-zA-Z0-9_]{1,16}) hit the ground too hard@§6(r1) сильно ударился об землю.
 
 ####################################CONGRATULATIONS#############################################
 §8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒾ§7 Деревообработке§7!
@@ -124,12 +125,12 @@
 §c([a-zA-Z0-9_]{1,16}) attacked (.*) owned by \[([A-Za-z]+)\]!@§c(r1) атаковал (r2) захваченную [(r3)]!
 §c\[([A-Za-z]+)\] has taken control of (.*)@§c[(r1)] захватили контроль над (r2)
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§3[ИНФО] §b(r1) пригласил (r2) в гильдию.
-^§b([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§b(r1) пригласил (r2) в гильдию.
+^§b( |)([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§b(r2) пригласил (r3) в гильдию.
 §b([a-zA-Z0-9_]{1,16}) has kicked ([a-zA-Z0-9_]{1,16}) from the guild@§b(r1) кикнул (r2) из гильдии
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'s guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§3[§3ИНФО]§b (r1) поменял ранг гильдии (r2) с (r3) на (r4)
 ^§b([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'s guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§b(r1) поменял ранг гильдии (r2) с (r3) на (r4)
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§3[ИНФО] §b(r1) присоединился к гильдии! Скажите привет!
-^§b([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§b(r1) присоединился к гильдии! Скажите привет!
+^§b( |)([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§b(r2) присоединился к гильдии! Скажите привет!
 §b([a-zA-Z0-9_]{1,16}) has left the guild.@§b(r1) вышел из гильдии.
 §b(.*)§3 is not a member of the guild@§b(r1)§3 не является участником гильдии
 §6#(\d+)§f ([A-Za-z ]+)§7 \[([A-Za-z]+)\]§8 - §7Level (\d+) \(([0-9\.]+m XP)\) §8- §7(\d+) members@§6#(r1)§f (r2)§7 [(r3)]§8 - §7Уровень (r4) ((r5)) §8- §7(r6) участников
@@ -201,6 +202,7 @@
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Бросок
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Аура
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Изгнание
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCry of the Gods spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Плач Богов
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Storm upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Шторма Стрел
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Щита Стрел
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dBomb upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Бомбы
@@ -229,6 +231,8 @@
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ауры
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Взлета
 §5Only §d(\d+) more combat level(|s)§5 until you earn the §dShadow Clone upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Теневого Клона
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeaven Jolt upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Небесного Удара
+§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCry of the Gods upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Плача Богов
 
 ########################################PROFESSIONS#############################################
 §4You can't hold any more unprocessed resources §c\([0-9\/]+\)§4! Refine your materials or stash them in your bank to free some space.@§4Ты не можешь удержать больше непереработанных ресурсов §c(r1)§4! Переработай их или переложи в банк, чтобы освободить немного места.
@@ -368,7 +372,7 @@
 §dSuccessfully cancelled §5selling (.*)@§dУспешно отменена §5продажа (r1).
 §dFinished selling (.*)§d for §5(\d+)² each §dfor a total of (§5\d+²)@§dЗавершена продажа (r1)§d за §5(r2)² каждый, §dв сумме на (r3)
 §dFinished selling (.*)§d for §5(\d+)²$@§dЗавершена продажа (r1)§d за §5(r2)²
-§dFinished buying (.*)§d for §5(\d+)² each §dfor a total of (§5\d+²)@§dЗавершена покупка (r1)§d за §5(r2)² каждый, §dв сумме на (r3)
+§dFinished buying (.*)§d for (§5[0-9\.]+²) each §dfor a total of (§5\d+²)@§dЗавершена покупка (r1)§d за (r2) каждый, §dв сумме на (r3)
 §dFinished buying (.*)§d for §5(\d+)²$@§dЗавершена покупка (r1)§d за §5(r2)²
 §dYou've revealed: (.*) for a total of (§e\d+§d) emeralds.@§dТы раскрыл: (r1) в сумме за (r2) эмеральдов.
 §dFailed to §5buy (.*), because the trade was already completed.@§dНе удалось §5купить (r1), потому что торговля была завершена.
