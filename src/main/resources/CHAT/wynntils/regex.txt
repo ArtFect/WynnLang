@@ -41,9 +41,9 @@
 §5Blacksmith: §dYou sold me: (.*) for a total of §e(\d+)§d emeralds. It was a pleasure doing business with you.@§5Кузнец: §dТы продал мне (r1) за §e(r2)§d эмеральдов. Было приятно иметь с тобой дело.
 §5Blacksmith: §dYou scrapped: (.*) for a total of §e(\d+)§d scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) в общей сумме на §e(r2)§d скрапа. Было приятно иметь с тобой дело.
 §5Blacksmith: §dYou scrapped: (.*) and (.*) for a total of §e(\d+)§d scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) и (r2) в общей сумме на §e(r3)§d скрапа. Было приятно иметь с тобой дело.
-§5([A-Za-z 0-9,]+): §dThank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
-§5([A-Za-z 0-9,]+): §dI'm afraid you cannot afford that item.@§5(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
-§5([A-Za-z 0-9,]+): §dI'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
+§5([A-Za-z 0-9,']+): §dThank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
+§5([A-Za-z 0-9,']+): §dI'm afraid you cannot afford that item.@§5(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
+§5([A-Za-z 0-9,']+): §dI'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
 (§[235]\[[§A-Za-z0-9\+]+\] [§a-zA-Z0-9_]{1,20}) has just logged in!@(r1) только что зашел!
 ([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as §(b|a)a Warrior@(r1) зашел на сервер (r2) классом §(r3)Воин
 ([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as §(b|a)a Knight@(r1) зашел на сервер (r2) классом §(r3)Рыцарь
