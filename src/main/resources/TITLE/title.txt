@@ -117,6 +117,15 @@
 §4You failed!@§4Ты не справился!
 §cTry again@§cПопробуй снова
 §cTake out the summoner!@§cУбери призывателя!
+§c1:30 minutes left!@§c1:30 минут осталось!
+§c1:20 minutes left!@§c1:20 минут осталось!
+§c1:10 minutes left!@§c1:10 минут осталось!
+§c1 minute left!@§c1 минута осталась!
+§c50 seconds left!@§c50 секунд осталось!
+§c40 seconds left!@§c40 секунд осталось!
+§c30 seconds left!@§c30 секунд осталось!
+§c20 seconds left!@§c20 секунд осталось!
+§c10 seconds left!@§c10 секунд осталось!
 
 ###########################Crates################################
 §7Click to stop the items@§7Кликни, чтобы остановить предметы
@@ -151,6 +160,7 @@
 §6Half-Moon Bow@§6Полу-Месяц Лук
 §6Half-Moon Wand@§6Полу-Месяц Посох
 §6Half-Moon Dagger@§6Полу-Месяц Кинжал
+§6Half-Moon Spear@§6Полу-Месяц Копье
 §6Fellowship Dagger@§6Кинжал Дружбы
 §6Fellowship Dark Wand@§6Темный Посох Дружбы
 §6Fellowship Bow@§6Лук Дружбы
@@ -212,6 +222,7 @@
 §6Corrupted Wand@§6Испорченный Посох
 §6Futuristic Bow@§6Футуристический Лук
 §6Futuristic Dagger@§6Футуристический Кинжал
+§6Futuristic Spear@§6Футуристичное Копье
 §dFood Bow@§dЛук Банан
 §dFood Wand@§dРыба-Меч Посох
 §dFood Spear@§dШашлык Копье
@@ -301,6 +312,8 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §2Mael: §a§lENOUGH.@§2Маэл: §a§lДОСТАТОЧНО.
 §fNivla Forest@§fЛес Нивла
 §fRagni@§fРагни
+§7§nMusic to our ears@§7§nМузыка для наших ушей
+§3§lComposer's §bHall@§b§lЗал §3Композиторов 
 
 #############################Discoveries#########################
 §bTemple of Swords@§bХрам Мечей
@@ -349,6 +362,7 @@ We are §arestarting§f, please join back in a moment!@§fМы §aперезаг
 §bSpace Between Realities@§bПространство Между Реальностями
 §bOtherworldly Occurrence@§bПотустороннее Явление
 §bFate of the Olm@§bСудьба Олмов
+§bSilent Expanse's Secret@§bСекрет Тихого Пространства
 
 ################################Dungeons#############################
 §8Decrepit Sewers@§8Ветхая Канализация
