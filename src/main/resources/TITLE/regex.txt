@@ -4,27 +4,27 @@
 ##############################################################################
 
 §4 \[§c!§4\] §7Defuse the TNT! §8- (\d+)@§4 [§c!§4] §7Обезвредь динамит! §8- (r1)
-§3([a-zA-Z0-9_]{1,16}) threw an item bomb@§3(r1) бросил предметную бомбу
-§3([a-zA-Z0-9_]{1,16}) threw an ingredient bomb@§3(r1) бросил ингредиентную бомбу
+(§3[a-zA-Z0-9_]{1,16}) threw an item bomb@(r1) бросил предметную бомбу
+(§3[a-zA-Z0-9_]{1,16}) threw an ingredient bomb@(r1) бросил ингредиентную бомбу
 §cThe cave collapses in (\d+) second(|s)@§cПещера обрушится через (r1) секунд
 §6Bridge deploys in (\d+) second(|s)@§6Мост достроится через (r1) секунд
-§b([a-zA-Z0-9_]{1,16}) has been killed@§b(r1) был убит
-§a\+(\d+) §7([A-Za-z \-']+)§a to pouch@§a+(r1) §7(r2)§a в мешок
-§7Blocks removed: §7(\d+)§7\/(\d+)@§7Блоков убрано: §7(r1)§7/(r2)
+(§b[a-zA-Z0-9_]{1,16}) has been killed@(r1) был убит
+(§a\+\d+ §7[A-Za-z \-']+§a) to pouch@(r1) в мешок
+§7Blocks removed: (§7\d+§7\/\d+)@§7Блоков убрано: (r1)
 (§6[0-9:]+) left@(r1) осталось
 (§7\[[0-9\/]+\]) Bodies Cleaned@(r1) Тел Очищено
 (§6[0-9]+) Mobs Left@(r1) Мобов Осталось
-§4\/§c!§4\\§c §dSystem Deactivation In:§c §5§l(\d+)§c §4\/§c!§4\\@§4/§c!§4\§c §dСистема Деактивируется через:§c §5§l(r1)§c §4/§c!§4\
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒾ§7 Деревообработке§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching combat §flevel (\d+)§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) комбат уровня§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒷ§7 Mining§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒷ§7 Добыче Руды§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒿ§7 Farming§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒿ§7 Земледелии§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒸ§7 Woodcutting§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒸ§7 Лесорубстве§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒹ§7 Jeweling§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒹ§7 Изготовлении Аксессуаров§7! 
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⓁ§7 Alchemism§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⓁ§7 Алхимии§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⓀ§7 Fishing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⓀ§7 Рыбалке§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒽ§7 Armouring§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒽ§7 Изготовлении Брони§7! 
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒼ§7 Weaponsmithing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒼ§7 Оружейном Деле§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒶ§7 Cooking§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒶ§7 Кулинарии§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒻ§7 Tailoring§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒻ§7 Портняжном Деле§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒺ§7 Scribing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒺ§7 Изготовлении Свитков§7! 
+§4\/§c!§4\\§c §dSystem Deactivation In:(§c §5§l\d+§c §4\/§c!§4\\)@§4/§c!§4\§c §dСистема Деактивируется через:(r1)
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒾ§7 Деревообработке§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching combat §flevel (\d+)§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) комбат уровня§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒷ§7 Mining§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒷ§7 Добыче Руды§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒿ§7 Farming§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒿ§7 Земледелии§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒸ§7 Woodcutting§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒸ§7 Лесорубстве§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒹ§7 Jeweling§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒹ§7 Изготовлении Аксессуаров§7! 
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⓁ§7 Alchemism§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⓁ§7 Алхимии§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⓀ§7 Fishing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⓀ§7 Рыбалке§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒽ§7 Armouring§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒽ§7 Изготовлении Брони§7! 
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒼ§7 Weaponsmithing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒼ§7 Оружейном Деле§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒶ§7 Cooking§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒶ§7 Кулинарии§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒻ§7 Tailoring§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒻ§7 Портняжном Деле§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒺ§7 Scribing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒺ§7 Изготовлении Свитков§7! 

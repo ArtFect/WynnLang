@@ -671,6 +671,9 @@
 §7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 5/7@§7Очисти тела на лодке. В то же время ищи подсказки о том, как сбежать. -Тел очищено: 5/7
 §7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 6/7@§7Очисти тела на лодке. Поищи подсказки о том как сбежать в это же время. -Тел очищено: 6/7
 §7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 6/7@§7Ты заметил, что пушка может быть использована для побега. Очисти тела и посмотри, что скажет тебе Хонип! -Тел очищено: 6/7
+§7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 0/7@§7Ты заметил, что пушку можно использовать для побега. Очисти тела и посмотри, что Хонип скажет тебе! - Тел очищено: 0/7
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 3/7@§7Очисти тела на лодке. В то же время ищи подсказки о том, как сбежать. -Тел очищено: 3/7
+§7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 2/7@§7Очисти тела на лодке. В то же время ищи подсказки о том, как сбежать. -Тел очищено: 2/7
 §7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 1/7@§7Очисти тела на лодке. Поищи подсказки о том как сбежать в это же время. -Тел очищено: 1/7
 §7Clean the bodies in the boat. Look for clues on how to escape at the same time. -Bodies cleaned: 4/7@§7Очисти тела на лодке. Поищи подсказки о том как сбежать в это же время. -Тел очищено: 4/7
 §7You noticed the cannon could be used to escape. Clean the bodies and see what Honip tells you! -Bodies cleaned: 5/7@§7Ты заметил, что пушку можно ипользовать для побега. Очисти тела и посмотри, что скажет Хонип! -Тел очищено: 5/7
@@ -1273,6 +1276,7 @@
 §7Bring §3[12 Gudgeon Oil] §7or §3[12 Gudgeon Meat] §7to the §aGathering Post §2[Fishing Lv. 8]@§7Принеси §3[12 Жира Пескаря] §7или §3[12 Мяса Пескаря] §7к §aДоске Сбора §2[Рыболовство Ур. 8]
 §7Bring §3[16 Salmon Oil] §7or §3[16 Salmon Meat] §7to the §aGathering Post §2[Fishing Lv. 23]@§7Принеси §3[16 Жира Лосося] §7или §3[16 Мяса Лосося] §7к §aДоске Сбора §2[Рыболовство Ур. 23]
 §7Bring §3[14 Trout Oil] §7or §3[14 Trout Meat] §7to the §aGathering Post §2[Fishing Lv. 18]@§7Принеси §3[14 Жира Форели] §7или §3[14 Мяса Форели] §7к §aДоске Сбора §2[Рыболовство Ур. 18]
+§7Bring [16 Salmon Oil] or [16 Salmon Meat] to the Gathering Post [Fishing Lv. 23] at [220,34,-2131]@§7Принеси [16 Жира Лосося] §7или [16 Мяса Лосося] §7к Доске Сбора [Рыболовство Ур. 23] на [220,34,-2131]
 §7Bring §3[24 Salmon Oil] §7or §3[24 Salmon Meat] §7to the §aGathering Post §2[Fishing Lv. 28]@§7Принеси §3[24 Жира Лосося] §7или §3[24 Мяса Лосося] §7к §aДоске Сбора §2[Рыболовство Ур. 28]
 §7Bring §3[12 Wheat String] §7or §3[12 Wheat Grains] §7to the §aGathering Post §2[Farming Lv. 8]@§7Принеси §3[12 Пшеничных Нитей] §7или §3[12 Пшеничных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 8]
 §7Bring §3[14 Barley String] §7or §3[14 Barley Grains] §7to the §aGathering Post §2[Farming Lv. 18]@§7Принеси §3[14 Ячменных Нитей] §7или §3[14 Ячменных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 18]
@@ -1325,3 +1329,10 @@
 §7Bring §3[32 Decay String] §7or §3[32 Decay Grains] §7to the §aGathering Post §2[Farming Lv. 71]@§7Принеси §3[32 Зараженных Нити] §7или §3[32 Зараженных Зерна] §7к §aДоске Сбора §2[Земледелие Ур. 71]
 §7Bring §3[40 Decay String] §7or §3[40 Decay Grains] §7to the §aGathering Post §2[Farming Lv. 73]@§7Принеси §3[40 Зараженных Нитей] §7или §3[40 Зараженного Зерна] §7к §aДоске Сбора §2[Земледелие Ур. 73]
 §7Bring §3[48 Decay String] §7or §3[48 Decay Grains] §7to the §aGathering Post §2[Farming Lv. 78]@§7Принеси §3[48 Зараженных Нитей] §7или §3[48 Зараженного Зерна] §7к §aДоске Сбора §2[Земледелие Ур. 78]
+§7Bring §3[44 Rice String] §7or §3[44 Rice Grains] §7to the §aGathering Post §2[Farming Lv. 83]@§7Принеси §3[44 Рисовых Нити] §7или §3[44 Рисового Зерна] §7к §aДоске Сбора §2[Земледелие Ур. 83]
+§7Bring §3[34 Rice String] §7or §3[34 Rice Grains] §7to the §aGathering Post §2[Farming Lv. 81]@§7Принеси §3[34 Рисовых Нити] §7или §3[34 Рисового Зерна] §7к §aДоске Сбора §2[Земледелие Ур. 81]
+§7Bring §3[34 Bass Oil] §7or §3[34 Bass Meat] §7to the §aGathering Post §2[Fishing Lv. 81]@§7Принеси §3[34 Жира Окуня] §7или §3[34 Мяса Окуня] §7к §aДоске Заданий §2[Рыболовство Ур. 81]
+§7Bring §3[36 Sorghum String] §7or §3[36 Sorghum Grains] §7to the §aGathering Post §2[Farming Lv. 91]@§7Принеси §3[36 Сорго Нитей] §7или §3[36 Сорго Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 91]
+§7Bring [34 Diamond Ingots] or [34 Diamond Gems] to the Gathering Post [Mining Lv. 81] at [337,27,-5356]@§7Принеси [34 Алмазных Слитка] или [34 Алмазных Камня] к Доске Сбора [Добыча Руды Ур. 81] на [337,27,-5356]
+§7Bring [44 Diamond Ingots] or [44 Diamond Gems] to the Gathering Post [Mining Lv. 83] at [641,29,-4793]@§7Принеси [44 Алмазных Слитка] или [44 Алмазных Камня] к Доске Сбора [Добыча Руды Ур. 83] на [641,29,-4793]
+§7Bring [52 Diamond Ingots] or [52 Diamond Gems] to the Gathering Post [Mining Lv. 86] at [27,42,-4672]@§7Принеси [52 Алмазных Слитка] или [52 Алмазных Камня] к Доске Сбора [Добыча Руды Ур. 86] на [27,42,-4672]

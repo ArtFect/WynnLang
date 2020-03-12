@@ -20,13 +20,13 @@ QUESTS/﻿Acquiring_Credentials
 §7Sneak around the guards in @§7Спрячься от охранников 
 §7the darkness, and find a @§7в темноте, и найди способ 
 §7way into the vault @§7попасть в хранилище
-§7Return to the Document Merchant @§7Вернись к Торговцу Документами
+§7Return to the Document Merchant @§7Вернись к Торговцу Документами 
 §7with the [Secret Documents] @§7с [Секретными Документами]
-§7Go to the storage area @§7Иди в хранилище
+§7Go to the storage area @§7Иди в хранилище 
 §7that contains the passport, and @§7 с паспортами, и найди 
-§7find a way in @§7путь внутрь
-§7Return to Doan with the @§7Вернись к Доану с
-§7[Dusty Passport]@§7[Пыльным Паспортом]
+§7find a way in @§7путь внутрь 
+§7Return to Doan with the @§7Вернись к Доану с 
+§7[Dusty Passport]@§7[Пыльным Паспортом] 
  
 QUESTS/Aldorei%27s_Secret_Part_I 
 §7Speak to Elrund outside Aldorei @§7Поговори с Элрундом снаружи 
@@ -35,17 +35,17 @@ QUESTS/Aldorei%27s_Secret_Part_I
 §7Obtain [Gemstone Dust] from the @§7Добудь [Пыль драгоценного камня] 
 §7Wynn province and bring it @§7из провинции Винн и принеси 
 §7to Elrund (Requires completion of @§7ее Элрунду (Необходимо 
-§7Lost in the Jungle) @§7пройти Lost in the Jungle)
+§7Lost in the Jungle) @§7пройти Lost in the Jungle) 
 §7Talk to the residents of @§7Поговори с жителями 
 §7Aldorei Valley and search for @§7Долины Алдорей и найди 
-§7clues @§7улики
-§7Speak to the mysterious society @§7Поговори с загадочным обществом
-§7Leave the society's lair @§7Покинь логово общества
-§7Return to Elrund @§7Вернись к Элрунду
+§7clues @§7улики 
+§7Speak to the mysterious society @§7Поговори с загадочным обществом 
+§7Leave the society's lair @§7Покинь логово общества 
+§7Return to Elrund @§7Вернись к Элрунду 
 §7"To the east, eat only @§7"На востоке, сделай только 
 §73 bites from a treat @§73 укуса лакомства из муки, 
 §7of flour, then align the @§7затем совмести красное 
-§7red with the flower." @§7с цветком напротив"
+§7red with the flower." @§7с цветком напротив" 
  
 QUESTS/Aldorei%27s_Secret_Part_II 
 §7Speak to Legolus at @§7Поговори с Леголусом на 
@@ -57,83 +57,83 @@ QUESTS/Aldorei%27s_Secret_Part_II
 §7Return to Legolus and tell @§7Вернись к Леголусу и 
 §7him of your findings @§7расскажи ему о находках 
 §7Activate the device beneath the @§7Активируй устройство под святыней 
-§7shrine in Aldorei Town @§7в городе Алдорей
+§7shrine in Aldorei Town @§7в городе Алдорей 
 §7Enter the Embassy's lair through @§7Войди в логово Посольства 
-§7the cherry blossom tree @§7через вишневое дерево
-§7Speak to Togak @§7Поговори с Тогаком
-§7Enter the chamber behind Togak @§7Войди в комнату позади Тогака
+§7the cherry blossom tree @§7через вишневое дерево 
+§7Speak to Togak @§7Поговори с Тогаком 
+§7Enter the chamber behind Togak @§7Войди в комнату позади Тогака 
 §7Escape the first room of @§7Сбеги из первой комнаты 
-§7Togak's dungeon @§7данжа Тогака
+§7Togak's dungeon @§7данжа Тогака 
 §7Solve the puzzle in the @§7Пройди пазл в 
-§7third room of Togak's dungeon @§7третьей комнате данжа Тогака
+§7third room of Togak's dungeon @§7третьей комнате данжа Тогака 
 §7Battle through the fourth room @§7Пройди с боем через четвертую комнату 
-§7of Togak's dungeon @§7Тогак данжа
-§7Battle through the eighth room @§7Пройди с боем через восьмую комнату
-§7Speak with Togak once more @§7Поговори с Тогаком еще раз
-§7Choose @§7Выбери
+§7of Togak's dungeon @§7Тогак данжа 
+§7Battle through the eighth room @§7Пройди с боем через восьмую комнату 
+§7Speak with Togak once more @§7Поговори с Тогаком еще раз 
+§7Choose @§7Выбери 
 §7Turn in your receipt to @§7Верни свою квитанцию 
 §7Corak or give an Elven @§7Кораку или отдай 
-§7Medallion to Kansard @§7эльфийский медальон Канзарду
+§7Medallion to Kansard @§7эльфийский медальон Канзарду 
 
 QUESTS/A_Journey_Beyond 
 §7Join Elphaba on a mission @§7Присоединись к Эльфабе на миссии 
 §7in Detlas at [419, 67, @§7в Детласе на [419, 67, 
 §7-1533]. @ 
 §7Follow your team towards the @§7Следуй за своей командой ко 
-§7Silent Expanse's entrance. @§7входу в Тихое Пространство
-§7Defeat the Beast @§7Победи зверя
+§7Silent Expanse's entrance. @§7входу в Тихое Пространство 
+§7Defeat the Beast @§7Победи зверя 
 §7Plan a way of killing @§7Придумай план по убийству 
-§7the beast. @§7зверя.
+§7the beast. @§7зверя. 
 §7Meet the other soldiers at @§7Встреть других солдатов на 
 §7[730, 61, -1434]. @ 
-§7Get the Shard with Aledar. @§7Добудь осколок вместе с Аледаром
+§7Get the Shard with Aledar. @§7Добудь осколок вместе с Аледаром 
 §7Explore the cave at [271, @§7Исследуй пещеру на [271, 
-§739, -1225] for the Shard. @§739, -1225] в поисках Осколка.
+§739, -1225] for the Shard. @§739, -1225] в поисках Осколка. 
 §7at [271, 39, -1225] for @§7на [271, 39, -1225] в поисках 
-§7the Shard. @§7Осколка.
+§7the Shard. @§7Осколка. 
 §7Chase the beast for the @§7Преследуй зверя с 
-§7Shard. @§7Осколком
+§7Shard. @§7Осколком 
 §7Kill the Progenitors to open @§7Убей Progenitor'а чтобы открыть 
-§7the entrance. @§7вход.
+§7the entrance. @§7вход. 
 §7Kill the Mangled Progeny for @§7Убей Mangled Progeny и получи 
-§7the [1 Corrupted Pearl]. @§7[1 Испорченную Жемчужину].
+§7the [1 Corrupted Pearl]. @§7[1 Испорченную Жемчужину]. 
 §7Go back to the Blacksmith @§7Вернись к Кузнецу 
-§7with the Darkness Item. @§7с Предметом Тьмы.
+§7with the Darkness Item. @§7с Предметом Тьмы. 
 §7Re-open the closed entrance with @§7Снова открой закрытый вход с 
-§7the other warriors. @§7другими войнами.
-§7Kill the Black Geist. @§7Убей Black Geist.
-§7Explore the Silent Expanse. @§7Исследуй Тихое Пространство
+§7the other warriors. @§7другими войнами. 
+§7Kill the Black Geist. @§7Убей Black Geist. 
+§7Explore the Silent Expanse. @§7Исследуй Тихое Пространство 
 §7Find Aledar, Lucio and Elphaba @§7Найди Аледара, Луцио и Эльфабу 
-§7in the Fallen City. @§7в Опустевшем Городе.
+§7in the Fallen City. @§7в Опустевшем Городе. 
 §7Find Aledar and Elphaba in @§7Найди Аледара и Эльфабу в 
 §7the Fallen City. @§7Опустевшем Городе. 
 §7Find Aledar in the Fallen @§7Найди Аледара в Опустевшем 
-§7City. @§7Городе.
-§7Escort Aledar through the Eyeball @§7Доставь Аледара через Лес с
-§7Forest to Lutho. @§7Глазами в Луто.
+§7City. @§7Городе. 
+§7Escort Aledar through the Eyeball @§7Доставь Аледара через Лес с 
+§7Forest to Lutho. @§7Глазами в Луто. 
 
 QUESTS/A_Journey_Further 
 §7Talk to Aledar in Lutho @§7Поговори с Аледаром в Луто 
 §7at [977, 75, -732] @§7на [977, 75, -732]
-§7Continue your journey with Aledar. @§7Продолжи свое путешествие с Аледаром.
-§7Defeat the Parasitic Slimers. @§7Победи Паразитических Слаймов.
+§7Continue your journey with Aledar. @§7Продолжи свое путешествие с Аледаром. 
+§7Defeat the Parasitic Slimers. @§7Победи Паразитических Слаймов. 
 §7Continue on the main path @§7Продолжи идти по основному пути 
-§7with Aledar. @§7с Аледаром.
+§7with Aledar. @§7с Аледаром. 
 §7Defend Aledar from the Radiated @§7Защити Аледара от Радиоактивных 
-§7Spiders. @§7Пауков.
-§7Jump into the void hole. @§7Прыгни в пустотную дыру.
+§7Spiders. @§7Пауков. 
+§7Jump into the void hole. @§7Прыгни в пустотную дыру. 
 §7Continue on the trail with @§7Продолжи идти по пути с 
-§7Aledar. @§7Аледаром.
+§7Aledar. @§7Аледаром. 
 §7Use Void Holes to try @§7Используй Пустотные Дыры 
-§7and get behind the spike @§7чтобы попасть за шипы
+§7and get behind the spike @§7чтобы попасть за шипы 
 §7Brings light to@§7Принеси свет к 
-§7something dark@§7чему-то темному
+§7something dark@§7чему-то темному 
 §7Find a way to help @§7Найди способ помочь 
 §7Aledar get to the other @§7Аледару попасть на другую 
-§7side of the spike barrier. @§7сторону барьера из шипов
+§7side of the spike barrier. @§7сторону барьера из шипов 
 §7Right click to grab the @§7Возьми клинок 
-§7blade in the altar. @§7с алтаря.
-§7Sacrifice Aledar. @§7Пожертвуй Аледаром.
+§7blade in the altar. @§7с алтаря. 
+§7Sacrifice Aledar. @§7Пожертвуй Аледаром. 
 
 QUESTS/An_Iron_Heart_Part_I  
 §7Speak with Duvale at @§7Поговори с Дювейл на 
@@ -149,7 +149,7 @@ QUESTS/An_Iron_Heart_Part_II
 §7Speak to Detective Hart at @§7Поговори с Детективом Хартом на 
 §7[-1762,67,-5531]@ 
 §7Follow the west road and @§7Иди по западной дороге 
-§7speak with Daxe in his @§7и поговори с Даксом
+§7speak with Daxe in his @§7и поговори с Даксом 
 §7home at @§7в его доме на 
 §7[-1924,55,-5466]@ 
 §7Give Daxe [64 Emeralds] for @§7Дай Даксу [64 Эмеральда] 
@@ -163,8 +163,8 @@ QUESTS/An_Iron_Heart_Part_II
 §7I) @ 
 §7Find the hidden entrance to @§7Найди скрытый вход 
 §7the factory @§7на фабрику 
-§7Talk to Dr. Urelix in@§7Поговори с Др. Уреликсом в 
-§7his office @§7его офисе
+§7Talk to Dr. Urelix in @§7Поговори с Др. Уреликсом в 
+§7his office @§7его офисе 
 §7Either take the bribe or @§7Возьми взятку или вернись 
 §7return to Detective Hart @§7к Детективу Харту 
  
@@ -174,10 +174,10 @@ QUESTS/Arachnids%27_Ascent
 §7Enter and climb Mount Wynn @§7Войди и заберись на вершину 
 §7through the cave at @§7Вулкана Винн через пещеру на 
 §7[-120,76,-1888]@ 
-§7Collect the lava from Mount @§7Собери лаву из вулкана
-§7Wynn @§7Винн
+§7Collect the lava from Mount @§7Собери лаву из вулкана 
+§7Wynn @§7Винн 
 §7Return to Captain Enduyn with @§7Вернись к Капитану Эндуину 
-§7the lava @§7с лавой
+§7the lava @§7с лавой 
 
 QUESTS/A_Fighting_Species 
 §7Talk to Darnes in the @§7Поговори с Дарнесом 
@@ -196,7 +196,7 @@ QUESTS/A_Fighting_Species
 §7in the cave @§7в пещеру
 §7Find the way leading to @§7Найди путь, ведущий 
 §7Gorgu's room in the cave @§7к комнате Горгу в пещере 
-§7Enter in Gorgu's room @§7Войди в комнату Горгу
+§7Enter in Gorgu's room @§7Войди в комнату Горгу 
 §7Win the duel versus Gorgu @§7Выиграй дуэль у Горгу 
 §7and talk back to Darnes @§7и поговори с Дарнесом 
 §7with [Gorgu's Handprint] and the @§7вместе с [Отпечатком руки Горгу] 
@@ -213,29 +213,29 @@ QUESTS/A_Grave_Mistake
 
 QUESTS/A_Hunter's_Calling 
 §7Explore the deepest part of @§7Исследуй глубинные части 
-§7the Silent Expanse @§7Тихого Пространства
+§7the Silent Expanse @§7Тихого Пространства 
 §7The besieged origin. To end, @§7Осажденное начало. Чтобы закончить, 
-§7one must begin. @§7нужно начать.
+§7one must begin. @§7нужно начать. 
 §7The unrighteous sought it. The @§7Неправедные искали его. Благородные 
 §7noble hid it. The one @§7спрятали его. Тот, кто искал 
 §7seeking answers found more questions. @§7ответы, нашел еще больше вопросов. 
-§7Another beginning...to a new end. @§7Другое начало...нового конца.
-§7Kill ten Ragni Citizens @§7Убей десять Жителей Рагни
-§7Head to town and get @§7Отправляйся в город и получи
-§7further information from the employee. @§7больше информации от служащего.
-§7Climb up the tree and @§7Заберись на дерево и
-§7look through the window. @§7посмотри через окно.
-§7Head to the northern part @§7Отправляйся к северной части
+§7Another beginning...to a new end. @§7Другое начало...нового конца. 
+§7Kill ten Ragni Citizens @§7Убей десять Жителей Рагни 
+§7Head to town and get @§7Отправляйся в город и получи 
+§7further information from the employee. @§7больше информации от служащего. 
+§7Climb up the tree and @§7Заберись на дерево и 
+§7look through the window. @§7посмотри через окно. 
+§7Head to the northern part @§7Отправляйся к северной части 
 §7of the bank and find @§7банка и найди 
 §7a way up to the @§7способ пробраться к 
-§7ceiling. @§7потолку.
-§7Head back to the excavation @§7Иди обратно к раскопкам в
-§7camp. @§7лагере.
+§7ceiling. @§7потолку. 
+§7Head back to the excavation @§7Иди обратно к раскопкам в 
+§7camp. @§7лагере. 
 §7The cruel. The kind. The @§7Жестокий. Добрый. Эгоистичный. 
 §7selfish. The just. He who @§7Простой. Тот, кто двигался 
 §7travelled life with confliction. Who @§7по жизни с конфликтом. 
 §7faced eternity served cold. To @§7Тот, кто столкнулся с холодной вечностью. 
-§7his end. @§7До своего конца.
+§7his end. @§7До своего конца. 
 §7Head to Nesaak and locate @§7Отправляйся в Несаак и найди 
 §7Theorick. @§7Теорика. 
 §7Defeat Theorick @§7Победи Теорика 
@@ -244,51 +244,51 @@ QUESTS/A_Hunter's_Calling
 §7six. An end, to the @§7шестью. Конец, к уверенности 
 §7surety of the haughty. An @§7надменных. Конец 
 §7end, of the world...in some @§7мира...в некотором 
-§7fashion. @§7роде.
-§7Enter the Corrupter of World @§7Войди к Разрушителю Миров, что у  
-§7end of the cave. @§7конца пещеры.
+§7fashion. @§7роде. 
+§7Enter the Corrupter of World @§7Войди к Разрушителю Миров, что у 
+§7end of the cave. @§7конца пещеры. 
 §7Return back up the cave @§7Вернись обратно в пещеру 
-§7and fix a way out. @§7и исправь выход наружу.
+§7and fix a way out. @§7и исправь выход наружу. 
 §7Metal. Preventing an end. Life. @§7Металл. Предотвращающий конец. 
 §7Ends, prevented. Does metal taking @§7Жизнь. Кончается, предотвращением. 
 §7life, bringing an end, truly @§7Действительно ли металл, забирающий жизнь, 
-§7prevent more? @§7принесет конец, препятствующий большему?
+§7prevent more? @§7принесет конец, препятствующий большему? 
 §7Trick 3 people to follow @§7Заставь 3 людей следовать 
 §7you into the iron golem @§7за тобой на железных големов 
-§7factory. @§7фабрику.
+§7factory. @§7фабрику. 
 §7Make your way through the @§7Пройди по пути через 
 §7A home, invaded. A society, @§7Дом, вторглись чужаки. Общество, 
 §7crumbling. The people, starving. The @§7которое рушится. Люди, умирающие 
 §7concerned, helpless. The flames, rising. @§7с голоду. Обеспокоенные, беспомощные. 
 §7An end you will not @§7Пламя, поднимающееся вверх. Конец, 
-§7expect. @§7которого ты не ожидаешь.
+§7expect. @§7которого ты не ожидаешь. 
 §7Tell the hooligans in the @§7Скажи хулиганам в 
-§7slums about the eviction notice. @§7трущобах об уведомлении о выселении.
+§7slums about the eviction notice. @§7трущобах об уведомлении о выселении. 
 §7Return to the advisor for @§7Вернись к советнику и узнай 
 §7what to do next. @§7что делать дальше. 
 §7Head deep inside the slums @§7Отправляйся вглубь трущоб 
-§7and blow it up. @§7и взорви их.
+§7and blow it up. @§7и взорви их. 
 §7Metal. Life. A new place... @§7Металл. Жизнь. Новое место... 
 §7One is not sacrificed for @§7Одно не приносится в жертву другому. 
 §7another. Always distrusting. Tension, as @§7Всегда недоверчивы. Напряжение, как перезвон 
-§7the clockworks chime. @§7часовых механизмов.
+§7the clockworks chime. @§7часовых механизмов. 
 §7Find a rock to launch @§7Найди камень для запуска 
 §7into the Avos territory and @§7на территорию Авосов и 
 §7a battery to activate the @§7батарею для активации 
-§7catapult. @§7катапульты.
+§7catapult. @§7катапульты. 
 §7Steal the Avos totem and @§7Укради тотем Авосов и 
 §7activate it outside of Corkus @§7активируй его снаружи Коркус 
-§7City @§7Сити
-§7Climb the Corkus Clocktower. @§7Заберись на башню с часами в Коркусе
-§7Defeat Maxie. @§7Победи Макси.
+§7City @§7Сити 
+§7Climb the Corkus Clocktower. @§7Заберись на башню с часами в Коркусе 
+§7Defeat Maxie. @§7Победи Макси. 
 §7The very center... The place @§7Самый центр...Место, 
 §7deemed closest to your home. @§7считающееся самым близким 
-§7There, in the center of @§7к твоему дому. Там, в самом  
+§7There, in the center of @§7к твоему дому. Там, в самом 
 §7Wynn... You shall find the @§7центре Винн... Ты найдешь свой 
-§7end. @§7конец.
+§7end. @§7конец. 
 §7Attack Detlas and defeat Aledar @§7Атакуй Детлас и победи Аледара 
-§7and Tasim. @§7и Тасима.
-§7Return to the entity. @§7Вернись к сущности
+§7and Tasim. @§7и Тасима. 
+§7Return to the entity. @§7Вернись к сущности 
  
 QUESTS/A_Marauder%27s_Dues  
 §7Talk to Norsten at [437,77,-5056]. @§7Поговори с Норстеном на [437,77,-5056] 
@@ -299,7 +299,7 @@ QUESTS/A_Marauder%27s_Dues
 §7Retrieve the gem from the @§7Достань камень 
 §7chasm and return it to @§7из бездны и верни его 
 §7Norsten @§7Норстену 
- 
+
 QUESTS/A_Sandy_Scandal 
 §7Talk to the Almuj Bank @§7Поговори со Алмуж Банк 
 §7Guard at @§7Стражем на 
@@ -350,7 +350,7 @@ QUESTS/Beneath_the_Depths
 §7[-187,16,-3452]@ 
 §7Find [1 Ocean Treasure] and @§7Найди [1 Океаническое Сокровище] 
 §7bring it back to Javier @§7и принеси его Джавьеру 
-§7in Pirate Cove @§7в Пиратской Бухте
+§7in Pirate Cove @§7в Пиратской Бухте 
  
 QUESTS/Beyond_the_Grave 
 §7Speak to Irlok in the @§7Поговори с Ирлоком в 
@@ -360,8 +360,8 @@ QUESTS/Beyond_the_Grave
 §7Explore the strange realm and @Исследуй странное царство 
 §7bargain with Death. @и договорись со Смертью 
 §7Exit the strange realm. @Покинь странное царство 
-§7Defeat Krolton to earn your @§7Победи Кролтона, чтобы
-§7way back to the living. @§7вернуться к жизни
+§7Defeat Krolton to earn your @§7Победи Кролтона, чтобы 
+§7way back to the living. @§7вернуться к жизни 
 §7Take proof of Krolton's demise @Покажи доказательство смерти 
 §7to Irlok. @Кролтона Ирлоку 
  
@@ -421,7 +421,7 @@ QUESTS/Cluck_Cluck
 §7Talk to Nohno on Rooster @§7Поговори с Нохно на Рустер 
 §7[-83,45,-2497]@ 
 §7Bring back [1 Cluckles' Favourite @§7Принеси [1 Любимое перо 
-§7Feather] to Nohno @§7Клаклесa] Нохно
+§7Feather] to Nohno @§7Клаклесa] Нохно 
  
 QUESTS/Cook_Assistant  
 §7Talk to the Cook in @§7Поговори с Поваром 
@@ -429,15 +429,15 @@ QUESTS/Cook_Assistant
 §7[-853,67,-1564]@ 
 §7Find [2 Eggs], [1 Bucket @§7Найди [2 Яйца], [1 Ведро 
 §7of Milk] and [3 Wheat @§7Молока] и [3 Пшеничного 
-§7Grains] for the Cook @§7Зерна] для Повара
+§7Grains] for the Cook @§7Зерна] для Повара 
  
 QUESTS/Corrupted_Betrayal  
-§7Talk to the Troms Mage @§7Поговори с Тромс Магом
+§7Talk to the Troms Mage @§7Поговори с Тромс Магом 
 §7at the dungeon entrance at @§7на входе в данж 
 §7[-641,59,-872]@ 
 §7Wait for the Mage to @§7Подожди пока Маг 
 §7cast the incantation on the @§7наложит заклинание на 
-§7barrier @§7барьер
+§7barrier @§7барьер 
 §7Use the Mage’s riddle to @§7Используя загадку мага, 
 §7figure out where it leads @§7разберись, куда она ведет 
 §7Explore the temple for a @§7Исследуй храм и найди 
@@ -517,7 +517,7 @@ QUESTS/Creeper_Infiltration
 §7Enter the tunnel at @§7Войди в тоннель на 
 §7[-823,96,-1339]@ 
 §7and reach the top of @§7и доберись до вершины 
-§7the ravine @§7оврага
+§7the ravine @§7оврага 
 §7Bring back the [Creeper Skin] @§7Принеси [Кожу Крипера] 
 §7Retrieve [1 Pigman Hide] from @§7Добудь [1 Шкуру Пигмена] 
 §7the Pigman Overlord and return @§7с Pigman Overlord и вернись 
@@ -560,7 +560,7 @@ QUESTS/Death_Whistle
 §7to the witch's cave @§7в пещеру ведьмы 
 §7Kill the witch and return @§7Убей ведьму и вернись 
 §7to Voer with [1 Pink @§7к Войеру с [1 Розовым 
-§7Pelulite] @§7Пелулитом]
+§7Pelulite] @§7Пелулитом] 
  
 QUESTS/Deja_Vu  
 §7Talk to Asher near Time @§7Поговори с Ашером в Долине 
@@ -571,8 +571,8 @@ QUESTS/Deja_Vu
 §7Talk to Old Man Martyn. @§7Поговори со Стариком Мартином 
 §7Find a way to save @§7Найди способы спасти 
 §7Asher from his death. @§7Ашерa от его смерти 
-§7Talk to Asher. @§7Поговори с Ашером.
-§7Listen to Old Man Martyn. @§7Послушай Старика Мартина
+§7Talk to Asher. @§7Поговори с Ашером. 
+§7Listen to Old Man Martyn. @§7Послушай Старика Мартина 
  
 QUESTS/Desperate_Metal  
 §7Speak to Phinas on Corkus @§7Поговори с Финасом на Коркус 
@@ -586,7 +586,7 @@ QUESTS/Desperate_Metal
 §7by looking at the pieces @§7идти, рассмотрев останки 
 §7of junk. @§7роботов 
 §7Search Nettik's lighthouse. @§7Обыщи маяк Неттик 
-§7Find the fourth mech. @§7Найди четвертого робота.
+§7Find the fourth mech. @§7Найди четвертого робота. 
 §7Report back to Phinas after @§7Поговори с Финасом после 
 §7destroying the mech @§7уничтожения роботов 
  
@@ -594,35 +594,35 @@ QUESTS/Dwarves_and_Doguns_Part_I
 §7Find out what's happening at @§7Узнай, что происходит 
 §7the theatre at @§7в театре на 
 §7[1024,17,-5143]@ 
-§7Watch the play. @§7Посмотри выступление
+§7Watch the play. @§7Посмотри выступление 
 §7Make your way to the @§7Доберись до 
-§7Dogun festival at @§7Фестиваля Догунов на
+§7Dogun festival at @§7Фестиваля Догунов на 
 §7[1522,78,-5055]@ 
 §7by following the red banners @§7следуя красным банерам 
-§7outside Rodoroc. @§7снаружи Родорока
+§7outside Rodoroc. @§7снаружи Родорока 
 §7Find out more about the @§7Узнай больше об истеричном 
-§7hysterical dwarf in Rodoroc's prison @§7гноме в тюрьме Родорока
+§7hysterical dwarf in Rodoroc's prison @§7гноме в тюрьме Родорока 
 §7[1109,26,-5230]@ 
-§7Pick up Axelus' note and @§7Подбери записку Акселуса
-§7head to the location at @§7и отправься в локацию на
+§7Pick up Axelus' note and @§7Подбери записку Акселуса 
+§7head to the location at @§7и отправься в локацию на 
 §7[1024, 13, -5050]. @ 
-§7Explore the Library of Flames. @§7Исследуй Библиотеку Пламени.
-§7Exit the library. @§7Покинь библиотеку.
+§7Explore the Library of Flames. @§7Исследуй Библиотеку Пламени. 
+§7Exit the library. @§7Покинь библиотеку. 
 §7Search for house number 81 @§7Отыщи дом номер 81 
-§7in Maex like Axelus said. @§7в Маэксе, как и сказал Акселус.
+§7in Maex like Axelus said. @§7в Маэксе, как и сказал Акселус. 
 §7Follow the group on the @§7Следуй за группой 
-§7mission. @§7на миссию
-§7Meet the group at @§7Встреться с группой на
+§7mission. @§7на миссию 
+§7Meet the group at @§7Встреться с группой на 
 §7[1460,18,-5494]@ 
 §7Talk with the coalition. @§7Поговори с коалицией. 
 §7Head back to the coalition @§7Иди обратно к коалиции 
-§7through the tunnel at [1481,15,-5479]. @§7через тоннель на [1481,15,-5479].
+§7through the tunnel at [1481,15,-5479]. @§7через тоннель на [1481,15,-5479]. 
 §7Retrieve the [Repair Kit] in @§7Принеси [Ремонтный Комплект] 
 §7the eastern part of the @§7с восточной части 
 §7Find your way up to @§7Доберись вверх 
 §7the Dogun village through the @§7до убежища Догунов через 
-§7tunnel. @§7тоннель
-§7Talk to Plario. @§7Поговори с Пларио
+§7tunnel. @§7тоннель 
+§7Talk to Plario. @§7Поговори с Пларио 
 
 QUESTS/Dwarves_and_Doguns_Part_II 
 §7Return to the Dogun village @§7Вернись в деревню Догунов 
@@ -630,58 +630,58 @@ QUESTS/Dwarves_and_Doguns_Part_II
 §7with a Dogun Badge of @§7со Знаком Доверия Догунов 
 §7Trust and talk to the @§7и поговори 
 §7leader of the town. @§7с лидером деревни 
-§7Enter the meeting. @§7Войди на место встречи
-§7Meet up with Axelus at @§7Встреться с Акселусом на
+§7Enter the meeting. @§7Войди на место встречи 
+§7Meet up with Axelus at @§7Встреться с Акселусом на 
 §7[1383,13,-5088]@ 
 §7Defeat the guards outside the @§7Победи охранников Родорокa снаружи 
-§7armory. @§7оружейной
+§7armory. @§7оружейной 
 §7Find a way to break @§7Найди способ прорваться 
 §7through the black bricks outside @§7через черные кирпичи 
-§7the wooden door. @§7за деревянную дверь
-§7Sabotage the Dwarven armoury. @§7Саботируй оружейную гномов
+§7the wooden door. @§7за деревянную дверь 
+§7Sabotage the Dwarven armoury. @§7Саботируй оружейную гномов 
 §7Follow Axelus deeper into Rodoroc @§7Следуй за Акселусом в Родорок 
 §7and destroy the power source @§7и уничтожь источник энергии 
-§7of the city. @§7города
-§7Explore the slums of Rodoroc. @§7Исследуй трущобы Родорока
-§7the sewer system. @§7в систему канализаций.
+§7of the city. @§7города 
+§7Explore the slums of Rodoroc. @§7Исследуй трущобы Родорока 
+§7the sewer system. @§7в систему канализаций. 
 §7Enter the Royal Palace through @§7Войди в королевский дворец 
 §7the sewer pipe and find @§7через канализацию и найди 
-§7the king. @§7короля
+§7the king. @§7короля 
 §7Sneak past the guards and @§7Проберись через охранников 
-§7talk to the Dwarven King. @§7и поговори с королем гномов
-§7Leave the Royal Palace at @§7Покинь королевский дворец через
-§7the end of the palace. @§7выход в конце дворца.
+§7talk to the Dwarven King. @§7и поговори с королем гномов 
+§7Leave the Royal Palace at @§7Покинь королевский дворец через 
+§7the end of the palace. @§7выход в конце дворца. 
  
 QUESTS/Dwarves_and_Doguns_Part_III 
 §7with the letter and speak @§7с письмом и поговори 
 §7to Korzim at [1436,134,-5388]. @§7с Корзимом на [1436,134,-5388] 
 §7Investigate the structure to the @§7Посети сооружение 
-§7south at @§7на юге на
+§7south at @§7на юге на 
 §7[1467,136,-5200]@ 
-§7Travel to Maex and meet @§7Отправься в Маэкс и встреться
-§7Korzim at the entrance. @§7с Корзимом у входа
+§7Travel to Maex and meet @§7Отправься в Маэкс и встреться 
+§7Korzim at the entrance. @§7с Корзимом у входа 
 §7Talk to the blacksmith in @§7Поговори с кузнецом 
-§7Maex. @§7в Маэксe
-§7Bring back [10 Fire Webs] @§7Принеси [10 Огненных Паутин]
-§7from @§7из
+§7Maex. @§7в Маэксe 
+§7Bring back [10 Fire Webs] @§7Принеси [10 Огненных Паутин] 
+§7from @§7из 
 §7[1458,15,-5352]@ 
 §7and [3 Magmatic Crystals] from @§7 [3 Магматических Кристалла] из 
 §7the Maex mines and [1 @§7шахт Маэкса и [1 
-§7Crystallized lava] from @§7Кристаллизованную Лаву] из
+§7Crystallized lava] from @§7Кристаллизованную Лаву] из 
 §7[1346,5,-5409]@ 
 §7Craft the amulet in the @§7Скрафти амулет 
-§7crafting table at [1503,45,-5303]. @§7на верстаке [1503,45,-5303].
+§7crafting table at [1503,45,-5303]. @§7на верстаке [1503,45,-5303]. 
 §7Go to the enchanter and @§7Иди к чародею 
-§7enchant the amulet at [1509,45,-5339]. @§7и зачаруй амулет на [1509,45,-5339].
+§7enchant the amulet at [1509,45,-5339]. @§7и зачаруй амулет на [1509,45,-5339]. 
 §7Enter the storage room in @§7Войди в кладовую 
-§7the enchanter's house. @§7в доме чародея.
+§7the enchanter's house. @§7в доме чародея. 
 §7Travel to the frozen heights @§7Иди к замерзшим пещерам 
 §7and find the True Ice @§7и найди Чистый Лед 
 §7Travel through the Freezing Heights @§7Пройди через замерзшие пещеры 
 §7and find the True Ice. @§7и найди Чистый Лед 
-§7at [1590,107,-5445]. @§7на [1590,107,-5445].
+§7at [1590,107,-5445]. @§7на [1590,107,-5445]. 
 §7Return to the enchanter with @§7Вернись к чародею 
-§7the True Ice. @§7с Чистым Льдом
+§7the True Ice. @§7с Чистым Льдом 
  
 QUESTS/Dwarves_and_Doguns_Part_IV 
 §7Return to Korzim at [1514, @§7Вернись к Корзиму на [1514, 
@@ -691,29 +691,29 @@ QUESTS/Dwarves_and_Doguns_Part_IV
 §7Fire and the Staff of @§7и Предметом 
 §7Ice. @§7Чистого Льда 
 §7Head to Rodoroc and look @§7Иди в Родорок 
-§7for Axelus @§7и отыщи Акселусa на
+§7for Axelus @§7и отыщи Акселусa на 
 §7[1117,11,-5190]@ 
 §7Free Axelus and escape the @§7Спаси Акселусa и сбеги 
-§7city. @§7из города
-§7Return back to the Dogun @§7Вернись в деревню
-§7village at [1338,147,-5305]. @§7Догунов на [1338,147,-5305].
+§7city. @§7из города 
+§7Return back to the Dogun @§7Вернись в деревню 
+§7village at [1338,147,-5305]. @§7Догунов на [1338,147,-5305]. 
 §7Reach the portal and prevent @§7Дойди до портала и останови 
-§7Garaheth from being summoned @§7призыв Гарахета
-§7Enter the body of Garaheth @§7Войди в тело Гарахета
+§7Garaheth from being summoned @§7призыв Гарахета 
+§7Enter the body of Garaheth @§7Войди в тело Гарахета 
 §7Freeze any vital point of @§7Заморозь любые жизненно-важные точки 
-§7Garaheth you can find! @§7Гарахета, которые сможешь найти!
-§7Get out of Garaheth! @§7Выйди из Гарахета!
+§7Garaheth you can find! @§7Гарахета, которые сможешь найти! 
+§7Get out of Garaheth! @§7Выйди из Гарахета! 
 §7Speak with the King of @§7Поговори с Королем 
-§7Rodoroc and the Dogun Chieftain. @§7Родорока и Вождем Догунов
+§7Rodoroc and the Dogun Chieftain. @§7Родорока и Вождем Догунов 
 
 QUESTS/Dwelling_Walls  
 §7Talk to Leucsaa at @§7Поговори с Леуксаа на 
 §7[201,38,-2173]@ 
-§7Enter the mansion @§7Войди в поместье
+§7Enter the mansion @§7Войди в поместье 
 §7Navigate the mansion to the @§7Найди способ попасть в 
 §7room holding the journal @§7комнату с журналом в поместье 
 §7Grab the journal and exit @§7Забери журнал и покинь 
-§7the mansion @§7поместье
+§7the mansion @§7поместье 
 §7Talk to Leucsaa @§7Поговори с Леуксаа 
  
 QUESTS/﻿Elemental_Exercise  
@@ -754,7 +754,7 @@ QUESTS/Enter_the_Dojo
 §7tea @§7чаем 
 §7Exit the Xìngzhì cave through @§7Выйди из Xingzhi пещеры 
 §7the tunnel near the temple @§7через тоннель рядом с храмом 
-§7Speak to Sensei Miyagi @§7Поговори с Сэнсей Мияги
+§7Speak to Sensei Miyagi @§7Поговори с Сэнсей Мияги 
  
 QUESTS/Enzan%27s_Brother  
 §7Talk to Enzan close to @§7Поговори с Энзаном 
@@ -770,20 +770,20 @@ QUESTS/Eye_of_the_Storm
 §7Search the ruins at @§7Обыщи руины на 
 §7[-714,43,-5385]@ 
 §7to find the cultists @§7и найди культистов 
-§7Find Talos in the crypt @§7Найди Талоса в гробнице
+§7Find Talos in the crypt @§7Найди Талоса в гробнице 
 §7Kill the hellhound and free @§7Убей цербера и освободи 
-§7Talos @§7Талоса
-§7Return to Arwes in the @§7Вернись к Арвесу в
-§7cathedral @§7соборе
+§7Talos @§7Талоса 
+§7Return to Arwes in the @§7Вернись к Арвесу в 
+§7cathedral @§7соборе 
 §7Talk to Ceyquin in Lexdale @§7Поговори с Сейквином в Лексдейл 
 §7[-611,46,-5458]@ 
 §7Climb to the balcony in @§7Поднимись на балкон 
-§7Ceyquin's house @§7в доме Сейквина
+§7Ceyquin's house @§7в доме Сейквина 
 §7Return to Ceyquin @§7Вернись к Сейквину 
 §7Enter the tunnel under Ceyquin's @§7Войди в тоннель под Сейквина 
 §7house @§7домом 
 §7Escape through the cavern and @§7Сбеги через пещеру 
-§7find Rismor in his house @§7и найди Рисмора в его доме на
+§7find Rismor in his house @§7и найди Рисмора в его доме на 
 §7[-472,66,-5536]@ 
 §7Find the Guardian and the @§7Найди Guardian of the Order 
 §7ancient blood oak, south of @§7на древнем кровавом дереве, 
@@ -791,22 +791,22 @@ QUESTS/Eye_of_the_Storm
 §7[-461,56,-5397]@ 
 §7Kill the Guardian and bring @§7Убей Guardian of the Order 
 §7the [Lost Spell Scroll] to @§7и принеси [Потерянный Свиток Заклинания] 
-§7Rismor @§7к Рисмору
-§7Enter the Pit of Despair @§7Войди в Яму Отчаяния
+§7Rismor @§7к Рисмору 
+§7Enter the Pit of Despair @§7Войди в Яму Отчаяния 
 §7Find a passage deeper into @§7Найди проход 
-§7the Pit @§7вглубь Ямы
-§7Talk to Harker @§7Поговори с Харкером
-§7Enter the ritual chamber @§7Войди в ритуальную комнату
-§7Approach Naragath's Altar @§7Подойди к алтарю Нарагата
-§7Travel deeper into the cave @§7Продвигайся вглубь пещеры
+§7the Pit @§7вглубь Ямы 
+§7Talk to Harker @§7Поговори с Харкером 
+§7Enter the ritual chamber @§7Войди в ритуальную комнату 
+§7Approach Naragath's Altar @§7Подойди к алтарю Нарагата 
+§7Travel deeper into the cave @§7Продвигайся вглубь пещеры 
 §7Collect [5 Icons of Naragath] @§7Собери [5 икон Нарагатa] 
 §7from the Hierophants and give @§7с иерофантов и отдай 
-§7them to Harker @§7их Харкеру
+§7them to Harker @§7их Харкеру 
 §7Kill Naragath and give the @§7Убей Нарагата 
-§7[Eye of Blood] to Harker @§7и отдай [Глаз Крови] Харкеру
-§7Leave the Pit of Despair @§7Покинь Яму Отчаяния
-§7Give the [Eye of Blood] @§7Отдай [Глаз Крови]
-§7to Rismor @§7Рисмору
+§7[Eye of Blood] to Harker @§7и отдай [Глаз Крови] Харкеру 
+§7Leave the Pit of Despair @§7Покинь Яму Отчаяния 
+§7Give the [Eye of Blood] @§7Отдай [Глаз Крови] 
+§7to Rismor @§7Рисмору 
  
 QUESTS/Fallen_Delivery 
 §7Talk to Bricot at @§7Поговори с Брикотом на 
@@ -822,7 +822,7 @@ QUESTS/Fallen_Delivery
 §7and return it to the sender @§7и верни его отправителю 
 §7Find the envelope in the @§7Найди конверт в 
 §7cellar and return it to @§7подвале и верни его 
-§7the sender @§7отправителю
+§7the sender @§7отправителю 
 §7Find the representative’s office in @§7Найди офис представителей 
 §7the airship base @§7на авиабазе 
 §7[-238,120,-4967]@ 
@@ -831,29 +831,29 @@ QUESTS/Fallen_Delivery
 §7Enter the representative's office @§7Войди в офис представителей 
 §7Defeat the representative and bring @§7Победи представителя 
 §7back the stolen scroll to @§7и верни украденный свиток 
-§7Gawrick @§7Гаврику
+§7Gawrick @§7Гаврику 
  
 QUESTS/Fantastic_Voyage 
 §7Speak to Relend at @§7Поговори с Релендом на 
 §7[1304,35,-4043]@ 
 §7Defeat Captain Goldenclaw and give @§7Победи Капитана Goldenclaw 
-§7the map to Relend @§7и отдай карту Реленду
-§7Set sail aboard Relend's ship @§7Отплыви на корабле Реленда
+§7the map to Relend @§7и отдай карту Реленду 
+§7Set sail aboard Relend's ship @§7Отплыви на корабле Реленда 
 §7Speak to Captain Relend aboard @§7Поговори с Капитаном Релендом на 
-§7the Little Wing @§7борту Little Wing
+§7the Little Wing @§7борту Little Wing 
 §7Bring a [Wooden Board], a @§7Принеси [Деревянную Доску], 
-§7[Center Piece], and a @§7[Центральную Часть], и
+§7[Center Piece], and a @§7[Центральную Часть], и 
 §7[String]@§7 [Нитку] 
-§7to the Crafting Table @§7к верстаку
+§7to the Crafting Table @§7к верстаку 
 §7Bring the [Steering Wheel] to @§7Отдай [Штурвал] 
-§7Captain Relend @§7капитану Реленду
+§7Captain Relend @§7капитану Реленду 
 §7Man the wheel of the @§7Встань за штурвал 
 §7Little Wing @ 
 §7Find Relend inside of the @§7Найди Реленда под обломками 
 §7wreck of the Little Wing @§7корабля Little Wing 
-§7Exit the shipwrecked Little Wing @§7Покинь потонувший корабль Little Wing
+§7Exit the shipwrecked Little Wing @§7Покинь потонувший корабль Little Wing 
 §7Speak to Relend on the @§7Поговори с Релендом на 
-§7beach @§7пляже
+§7beach @§7пляже 
 §7Bring [10 Raw Mutton], [5 @§7Принеси [10 Сырая Лопатка], [5 
 §7Edible Mushrooms], [1 Coconut], and @§7Съедобных Грибов], [1 Кокос], и 
 §7[7 Berries] to the Cooking @§7[7 Ягод] к горшку для 
@@ -861,20 +861,20 @@ QUESTS/Fantastic_Voyage
 §7Give the [Odd Stew] to @§7Отдай [Странное Рагу] 
 §7Relend @§7Реленду 
 §7Check out the tent to @§7Проверь палатку 
-§7the east @§7на востоке
-§7Report back to Relend @§7Сообщи обо всем Реленду
+§7the east @§7на востоке 
+§7Report back to Relend @§7Сообщи обо всем Реленду 
 §7Bring [5 Gritty Sand], [3 @§7Принеси 5 [Зернистого Песка], 
 §7Saw Dust], and [1 Black @§73 [Деревянных Опилки], 
 §7Powder] to the Crafting Table @§7и 1 [Черный Порох] к верстаку 
-§7Use the explosive on the @§7Используй взрывчатку на
-§7boulder @§7камне
+§7Use the explosive on the @§7Используй взрывчатку на 
+§7boulder @§7камне 
 §7boulder and enter the cave @§7и войди в пещеру 
-§7boulder at the center of @§7камень в центре
-§7the island @§7острова
-§7Enter the mysterious portal @§7Войди в загадочный портал
+§7boulder at the center of @§7камень в центре 
+§7the island @§7острова 
+§7Enter the mysterious portal @§7Войди в загадочный портал 
 §7Find an exit from the @§7Найди выход из 
-§7strange place @§7странного места
-§7Advance deeper into the cave @§7Продвигайся вглубь пещеры
+§7strange place @§7странного места 
+§7Advance deeper into the cave @§7Продвигайся вглубь пещеры 
 §7Accompany Relend through the strange @§7В компании с Релендом пройди 
 §7place @§7это странное место 
  
@@ -897,30 +897,30 @@ QUESTS/Fate_of_the_Fallen
 §7operation and join them at @§7и присоединись к группе на 
 §7[3738,67,1265]@ 
 §7Protect the portal. @§7Защищай портал 
-§7Tell Telvu the mage what @§7Расскажи магу Телву
+§7Tell Telvu the mage what @§7Расскажи магу Телву 
 §7happened. @§7что произошло 
  
 QUESTS/Finding_The_Light 
-§7Talk to the Guardian of @§7Поговори с Хранителем Леса
+§7Talk to the Guardian of @§7Поговори с Хранителем Леса 
 §7The Forest in the Light @§7в Светлой части 
 §7[-1128,49,-4778]@ 
 §7(Requires completion of Taproot) @§7(Необходимо пройти квест Taproot) 
 §7Find the Arch in the @§7Найди Арку 
-§7Light Forest at @§7в Светлом Лесу на
+§7Light Forest at @§7в Светлом Лесу на 
 §7[-1038,44,-4447]@ 
 §7Return to the Guardian to @§7Вернись к Хранителю 
-§7seek guidance at @§7для дальнейших указаний
+§7seek guidance at @§7для дальнейших указаний 
 §7[-1130,49,-4781]@ 
 §7Find someone in Cinfras who @§7Найди кого-то в Цинфрасе, 
 §7can help you SEE @§7кто поможет тебе УВИДЕТЬ 
-§7Get an Eye Exam @§7Пройди проверку зрения
+§7Get an Eye Exam @§7Пройди проверку зрения 
 §7Talk to Ollie at @§7Поговори с Олли на 
 §7[-430,46,-4855]@ 
 §7Talk to Charlie outside of @§7Поговори с Чарли снаружи 
-§7Ollie's Optometry at @§7Оптометрии Олли на
+§7Ollie's Optometry at @§7Оптометрии Олли на 
 §7[-449,46,-4840]@ 
 §7Read Jack's run away letter @§7Прочитай прощальное письмо Джека 
-§7in Charlie's house at @§7в доме Чарли на
+§7in Charlie's house at @§7в доме Чарли на 
 §7[-491,54,-4989]@ 
 §7Talk to Jack at @§7Поговори с Джеком на 
 §7[-448,33,-5092]@ 
@@ -932,9 +932,9 @@ QUESTS/Finding_The_Light
 §7[-431,46,-4993]@ 
 §7Break into Sasha's basement @§7Проникни в подвал Саша 
 §7Talk to Sasha about her @§7Поговори с Саша насчет ее 
-§7debt @§7долга
+§7debt @§7долга 
 §7Find Gardener in The Cinfras @§7Найди Садовника 
-§7Gardens at @§7в саду Цинфраса на
+§7Gardens at @§7в саду Цинфраса на 
 §7[-391,45,-4917]@ 
 §7Search the Gardener's cart for @§7Обыщи повозку Садовника 
 §7evidence of his lies at @§7и найди доказательства его лжи 
@@ -942,7 +942,7 @@ QUESTS/Finding_The_Light
 §7Threaten The Gardener with his @§7Угрожай Садовнику с его 
 §7receipt at @§7распиской на 
 §7Talk to Sasha the Apothacary @§7Поговори с Саша Аптекарем 
-§7and get the medicine at @§7и получи лекарства на
+§7and get the medicine at @§7и получи лекарства на 
 §7Give the medicine to Damien @§7Отдай лекарства Дамиену 
 §7Tell Charlie his son Jack @§7Скажи Чарли, что его 
 §7is okay at [-444 47 @§7сын Джек впорядке [-444, 47, 
@@ -951,61 +951,61 @@ QUESTS/Finding_The_Light
 §7[-430,47,-4854]@ 
 §7Return to the Guardian of @§7Вернись к Хранителю Леса 
 §7Forest with the helmet at @§7в Светлом Лесу вместе со шлемом 
-§7Head back to the Arch @§7Вернись к Арке
+§7Head back to the Arch @§7Вернись к Арке 
 §7Enter The Light Realm @§7Войди в Царство Света 
  
 QUESTS/Flight_in_Distress 
 §7Speak to the Passenger Controllant @§7Поговори с Контроллером 
 §7[-172,108,-4946]@ 
-§7Enter the airship @§7Войди на дирижабль
-§7Speak to Captain Ackbar regarding @§7Поговори с Капитаном Акбаром по поводу
-§7the missing child @§7пропавшего ребенка
+§7Enter the airship @§7Войди на дирижабль 
+§7Speak to Captain Ackbar regarding @§7Поговори с Капитаном Акбаром по поводу 
+§7the missing child @§7пропавшего ребенка 
 §7Try and find out where @§7Узнай о местонахождении 
 §7the missing child is located @§7пропавшего ребенка 
-§7by speaking to the passengers @§7расспрашивая пассажиров
-§7Return back to the captain @§7Вернись обратно к капитану
-§7Go back to your cabin @§7Вернись в свою каюту
+§7by speaking to the passengers @§7расспрашивая пассажиров 
+§7Return back to the captain @§7Вернись обратно к капитану 
+§7Go back to your cabin @§7Вернись в свою каюту 
 §7Speak to the captain regarding @§7Поговори с капитаном насчет 
-§7the sudden noises @§7внезапного шума
+§7the sudden noises @§7внезапного шума 
 §7Look if the engineer has @§7Посмотри, есть ли у инженера 
 §7something for you to do @§7что-то для тебя, 
-§7in order to help @§7чтобы помочь
-§7Complete the sound coded system @§7Пройди систему рестарта,
+§7in order to help @§7чтобы помочь 
+§7Complete the sound coded system @§7Пройди систему рестарта, 
 §7by checking the Engineer's Note, @§7используя записку Инженера, 
-§7and return back to the @§7 затем вернись обратно к
-§7engineer @§7инженеру
-§7Return back to your cabin @§7Вернись в свою каюту
+§7and return back to the @§7 затем вернись обратно к 
+§7engineer @§7инженеру 
+§7Return back to your cabin @§7Вернись в свою каюту 
 §7Explore the lower deck; something @§7Исследуй нижнюю палубу; что-то 
-§7big is approaching @§7большое приближается
-§7Get to the other ship @§7Перейти на другой корабль
+§7big is approaching @§7большое приближается 
+§7Get to the other ship @§7Перейти на другой корабль 
 §7Find a way to reach @§7Найди путь к 
 §7the queen that is located @§7королеве, что находится 
-§7below deck @§7на нижней палубе
-§7Speak to the prisoner @§7Поговори с заключенным
+§7below deck @§7на нижней палубе 
+§7Speak to the prisoner @§7Поговори с заключенным 
 §7Escape the cell, and finalize @§7Сбеги из тюрьмы, и доделай 
 §7the key to reach the @§7ключ к комнате 
-§7pirate queen @§7королевы пиратов
-§7Fight the pirate queen, take @§7Сразись с королевой пиратов,
+§7pirate queen @§7королевы пиратов 
+§7Fight the pirate queen, take @§7Сразись с королевой пиратов, 
 §7one of her personal treasures @§7забери ее сокровища 
-§7with you, and escape @§7и сбеги
+§7with you, and escape @§7и сбеги 
 §7Speak to Captain Ackbar about @§7Поговори с Капитаном Акбаром 
-§7the findings and the battles @§7о находках и битве
+§7the findings and the battles @§7о находках и битве 
 §7Head down to the entrance @§7Спустись вниз ко входу 
-§7deck, and get off @§7и выйди с корабля
+§7deck, and get off @§7и выйди с корабля 
 §7Speak to Calo next to @§7Поговори с Кало 
 §7the little ship at the @§7рядом с небольшим кораблем 
-§7Detlas docks @§7в доках Детласа
+§7Detlas docks @§7в доках Детласа 
  
 QUESTS/Forbidden_Prison 
 §7Something looks suspicious in the @§7Что-то подозрительное 
 §7prison at @§7происходит в тюрьме на 
 §7[-829,83,-5539]@ 
-§7Escape the prison @§7Сбеги из тюрьмы
-§7Find a disguise @§7Найди форму для маскировки
+§7Escape the prison @§7Сбеги из тюрьмы 
+§7Find a disguise @§7Найди форму для маскировки 
 §7Don't alert the dogs @§7Не потревожь собак 
 §7Run through the door in @§7Пройди через дверь 
-§7the center of the room @§7в центре комнаты
-§7Escape @§7Сбеги
+§7the center of the room @§7в центре комнаты 
+§7Escape @§7Сбеги 
  
 QUESTS/From_the_Bottom  
 §7Find someone in Thanos who @§7Найди кого-то в Таносе 
@@ -1021,7 +1021,7 @@ QUESTS/From_the_Bottom
 §7wants to buy your [Golden @§7кто хочет купить [Золотое Перо 
 §7Phoenix Feather of the 5th @§7Феникса 5-летнего 
 §7Age] @§7возраста] 
-§7wants to buy your [Bottled @§7кто хочет купить твою [Бутылированную  
+§7wants to buy your [Bottled @§7кто хочет купить твою [Бутылированную 
 §7Dust of the Fallen Angel @§7Пыль Упавшей Ангельской 
 §7Star] @§7Звезды] 
 §7wants to buy your [Amulet @§7кто хочет купить 
@@ -1059,8 +1059,8 @@ QUESTS/Frost_Bite
 §7-531] @ 
 §7Go deeper into the cave @§7Иди глубже в пещеру 
 §7and speak to Rhudya. @§7и поговори с Рудя 
-§7Return to Eppo with the @§7Вернись к Эппо вместе с
-§7tnt. @§7динамитом.
+§7Return to Eppo with the @§7Вернись к Эппо вместе с 
+§7tnt. @§7динамитом. 
 §7Travel to the lava springs @§7Пройди к озерам лавы 
 §7through the mineshaft. @§7через шахту 
 §7Complete the puzzle and bring @§7Пройди пазл 
@@ -1084,6 +1084,8 @@ QUESTS/General%27s_Orders
 §7the fort @§7башни 
 §7Recover the Good-Luck Charm from @§7Верни Счастливый Амулет 
 §7the sewers @§7из канализации 
+§7Return to General Lecade with @§7Вернись к Генералу Лекейду со 
+§7the Good-Luck Charm @§7Счастливым Амулетом 
 §7Paint the mountain at @§7Раскрась гору на 
 §7[207,178,-5499]@ 
 §7Walk across the tightrope at @§7Пройдись по канату на 
@@ -1093,21 +1095,21 @@ QUESTS/General%27s_Orders
 §7Find the secret passageway into @§7Найди секретный вход в 
 §7the general's office @§7офис генерала 
 §7Defeat the Corpus Accipientis @§7Победи Corpus Accipientis 
-§7Return to General Lecade @§7Вернись к Генералу Лекейду
+§7Return to General Lecade @§7Вернись к Генералу Лекейду 
  
 QUESTS/Grand_Youth 
 §7Talk to Monte at @§7Поговори с Монтэ на 
 §7[-550,61,-747]@ 
 §7Visit the salesman in Troms @§7Посети торговца в Тромсе 
 §7near the fountain @§7рядом с фонтаном 
-§7Talk to Isfurus in Dernel @§7Поговори с Исфурусом в Дернел
+§7Talk to Isfurus in Dernel @§7Поговори с Исфурусом в Дернел 
 §7[-803,33,-374]@ 
 §7Get the bottles filled by @§7Попроси Эриска наполнить бутылку 
 §7Erisk in the heart of @§7в сердце фонтана, 
-§7the fountain to give Isfurus @§7которую тебе дал Исфурус
+§7the fountain to give Isfurus @§7которую тебе дал Исфурус 
 §7Talk to Isfurus for Erisk @§7Поговори с Исфурусом по просьбе Эриска 
 §7Give the bottle of healing @§7Отдай бутылку с лечащей 
-§7water to Monte @§7водой Монтэ
+§7water to Monte @§7водой Монтэ 
  
 QUESTS/Grave_Digger 
 §7Talk to Sayleros in Detlas @§7Поговори с Сайлеросом в Детласе 
@@ -1116,7 +1118,7 @@ QUESTS/Grave_Digger
 §7Drucksh talk in Nemract about @§7в Немракте насчет смерти 
 §7Sayleros' dead brother @§7брата Сайлеросa 
 §7Talk to The Priest in @§7Поговори со Священником 
-§7the old monastery @§7в старом монастыре
+§7the old monastery @§7в старом монастыре 
 §7Bring [12 Rotten Flesh] to @§7Принеси [12 Rotten Flesh] 
 §7the priest @§7священнику 
 §7Kill Sayleros' brother to retrieve @§7Убей брата Сайлероса, 
@@ -1207,23 +1209,23 @@ QUESTS/Hollow_Sirene
 §7[-660,43,-5199]@ 
 §7Investigate the supernatural cave at @§7Посети сверхъестественную пещеру на
 §7[-739,43,-5271]@ 
-§7Return to Laloire and tell @§7Вернись к Лалоиру и расскажи
-§7him about the eerie howl. @§7ему о жутком вое.
-§7Talk to the Pastor Nitram @§7Поговори с Пастор Нитрамом
-§7about the problem at @§7насчет проблемы на
+§7Return to Laloire and tell @§7Вернись к Лалоиру и расскажи 
+§7him about the eerie howl. @§7ему о жутком вое. 
+§7Talk to the Pastor Nitram @§7Поговори с Пастор Нитрамом 
+§7about the problem at @§7насчет проблемы на 
 §7[-620,42,-5351]@ 
-§7Find a way to open @§7Найди способ открыть
-§7the secret door inside the @§7секретную дверь внутри
-§7cemetery. @§7кладбища
+§7Find a way to open @§7Найди способ открыть 
+§7the secret door inside the @§7секретную дверь внутри 
+§7cemetery. @§7кладбища 
 §7Recover the [Sound Proof Earmuff] @§7Добудь [Наушники] 
 §7and go into the banshee's @§7и иди в пещеру 
-§7cave while wearing it. @§7Банши, надев их
+§7cave while wearing it. @§7Банши, надев их 
 §7Chase down the banshee by @§7Уничтожь Банши, 
 §7following the source of the @§7следуя за источником 
-§7noise. @§7звука.
+§7noise. @§7звука. 
 §7Exterminate the banshee and give @§7Убей Банши и отдай 
 §7Laloire a memento from the @§7Лалоиру сувенир 
-§7Banshee as proof. @§7в качестве доказательства
+§7Banshee as proof. @§7в качестве доказательства 
 
 QUESTS/﻿Ice_Nations  
 §7Talk to Adigard on the @§7Поговори с Адигардом 
@@ -1231,7 +1233,7 @@ QUESTS/﻿Ice_Nations
 §7[806,59,-3353]@ 
 §7Talk to Hallfred about the @§7Поговори с Халлфредом 
 §7peace treaty @§7насчет мирного соглашения 
-§7Talk back to Adigard about @§7Снова поговори с Адигардом  
+§7Talk back to Adigard about @§7Снова поговори с Адигардом 
 §7Hallfred's response @§7насчет предложения Халлфреда 
 §7Find the ghost ship and @§7Найди призрачный корабль 
 §7bring back [Ancient Treasure] to @§7и принеси [Древнее Сокровище] 
@@ -1251,7 +1253,7 @@ QUESTS/Jungle_Fever
 §7[-760,79,-666]@ 
 §7Talk to Detlas's Banker about @§7Поговори с Банкиром в Детласе 
 §7the cure for Worid @§7насчет лекарства для Ворида 
-§7Return to Worid @§7Вернись к Вориду
+§7Return to Worid @§7Вернись к Вориду 
 §7Enter Detlas' Emerald Stash @§7Войди в Хранилище Эмеральдов Детласа 
 §7Infiltrate Almuj's Secret Emerald Labyrinth @§7Проникни в Секретный Эмеральдовый 
 §7and find the Banker in @§7Лабиринт Алмужa и найди 
@@ -1266,7 +1268,7 @@ QUESTS/King%27s_Recruit
 §7to the castle @§7провинцию Винн к замку 
 §7Talk to the old man @§7Поговори со стариком 
 §7Gather the materials the Old @§7Собери материалы, которые 
-§7Man asked for @§7Старик просит
+§7Man asked for @§7Старик просит 
 §7Investigate the broken bridge @§7Осмотри разрушенный мост 
 §7Search for another way across @§7Найди способ перебраться на ту сторону 
 §7Process your copper ore into @§7Переработай свою руду 
@@ -1278,18 +1280,18 @@ QUESTS/King%27s_Recruit
 §7Wood] and bring them to @§7в [2 Древесины] и покажи 
 §7Aledar @§7их Аледару 
 §7Craft your weapon and show @§7Скрафти себе оружие и покажи 
-§7it to Aledar @§7его Аледару
+§7it to Aledar @§7его Аледару 
 §7Show your weapon to the @§7Покажи свое оружие 
 §7guard and enter the cave @§7охраннику и пройди в пещеру 
 §7Follow the guard's instructions @§7Следуй инструкциям охранника 
 §7Continue through the cave @§7Продвигайся через пещеру 
-§7Cast your spell @§7Используй свое заклинание
+§7Cast your spell @§7Используй свое заклинание 
 §7Enter the castle @§7Войди в замок 
 §7Talk to Ragni's King @§7Поговори с Королем Рагни 
  
 QUESTS/Kingdom_of_Sand  
 §7Find out what's going on @§7Узнай, что происходит возле 
-§7at the Sand Swept Tomb @§7данжа Песчаная Гробница
+§7at the Sand Swept Tomb @§7данжа Песчаная Гробница 
 §7Attempt to enter the outlaw's @§7Попытайся войти в убежище 
 §7hideout at [1314, 90, -1660] @§7преступников на [1314, 90, -1660] 
 §7Meet with Geo & Tarek @§7Встреться с Гео и Тарэком 
@@ -1307,7 +1309,7 @@ QUESTS/Kingdom_of_Sand
 §7abandoned house at [1220, 77, @§7из разрушенного дома на [1220, 77, 
 §7-1873] @ 
 §7Return to the tomb and @§7Вернись к гробнице 
-§7hand the sceptre to Lanu. @§7и передай скипетр Лану
+§7hand the sceptre to Lanu. @§7и передай скипетр Лану 
  
 QUESTS/Lazarus_Pit  
 §7Talk to Burtur at @§7Поговори с Буртуром на 
@@ -1316,7 +1318,7 @@ QUESTS/Lazarus_Pit
 §7graveyard at @§7на кладбище 
 §7[-998,48,-5340]@ 
 §7Go to the location shown @§7Иди по координатам 
-§7on the gravestone @§7указанным на надгробной плите
+§7on the gravestone @§7указанным на надгробной плите 
 §7Find a way into the @§7Найди путь попасть 
 §7Find the "Wandering Man" @§7Найди "блуждающего человека" 
 §7Return to Vesdar with [16 @§7Вернись к Весдару с [16 
@@ -1335,10 +1337,10 @@ QUESTS/Lost_in_the_Jungle
 §7[-738,80,-655]@ 
 §7Search the Dernel Jungle for @§7Отыщи в Дернел джунглях 
 §7Aryn @§7Арина 
-§7Defeat the spirit possessing Aryn @§7Победи одержимого духом Арина
-§7Make sure Aryn is safe @§7Убедись, что Арин в безопасности
+§7Defeat the spirit possessing Aryn @§7Победи одержимого духом Арина 
+§7Make sure Aryn is safe @§7Убедись, что Арин в безопасности 
 §7Bring the Mysterious Gemstone to @§7Принеси загадочный драгоценный камень 
-§7Gracen @§7Грацену
+§7Gracen @§7Грацену 
  
 QUESTS/Lost_Royalty  
 §7Talk to Yavlis in Troms @§7Поговори с Явлисом в Тромсе 
@@ -1366,7 +1368,7 @@ QUESTS/Lost_Soles
 §7to be heavier to open @§7который открывает 
 §7the way" @§7путь" 
 §7Talk to Grandon and tell @§7Поговори с Грандоном и расскажи 
-§7him about your findings @§7ему о своих находках
+§7him about your findings @§7ему о своих находках 
 §7"The carpet of different colour @§7Ковер различного цвета 
 §7will show you the stone @§7покажет тебе камень, чтобы 
 §7to reveal the tables secret" @§7раскрыть секрет стола 
@@ -1400,7 +1402,7 @@ QUESTS/Maltic%27s_Well
 §7Talk to Rynend located in @§7Поговори с Ринендом 
 §7Maltic at @§7в Малтике на 
 §7[-568,48,-1922]@ 
-§7Investigate the old Maltic well @§7Посети старый колодец 
+§7Investigate the old Maltic well @§7Посети старый колодец  
 §7and bring [1 Witch's Empty @§7в Малтике и принеси [1 Пустую 
 §7Bottle] to Rynend @§7Бутылку Ведьмы] Риненду 
  
@@ -1447,7 +1449,7 @@ QUESTS/Meaningful_Holiday
 §7Explore the area and look @§7Исследуй территорию 
 §7for Santa. @§7в поисках Санты 
 §7Enter Santa's home and speak @§7Войди в дом Санты 
-§7to him. @§7и поговори с ним
+§7to him. @§7и поговори с ним 
 §7Leave through the portal behind @§7Уйди через портал-камин 
 §7Santa. @§7позади Санты 
 §7Enter the ball room. @§7Войди в бальный зал [422, 65, -1561]. 
@@ -1463,76 +1465,77 @@ QUESTS/Memory_Paranoia
 §7[-1192,46,-5198]@ 
 §7Enter Caritat Mansion @§7Войди в Поместье Каритат 
 §7Learn the story of the @§7Изучи историю 
-§7Caritat Family @§7семейства Каритат
+§7Caritat Family @§7семейства Каритат 
 §7Enter the basement and recover @§7Войди в подвал 
 §7the Library Key @§7и добудь ключ от библиотеки 
 §7Enter the library of Erca @§7Войди в библиотеку Эрка 
-§7Mansion @§7Поместья
+§7Mansion @§7Поместья 
 §7Enter the hole in the @§7Войди в дыру 
 §7wall at @§7в стене на 
 §7[-1535,17,-8068]@ 
 §7Return the spoon to the @§7Верни ложку 
 §7Kitchen @§7на кухню 
 §7Enter the Kitchen @§7Войди на кухню 
-§7Listen to Mr. Caritat's announcement @§7Послушай сообщение Мр. Каритата
-§7Exit the Kitchen @§7Покинь кухню
+§7Listen to Mr. Caritat's announcement @§7Послушай сообщение Мр. Каритата 
+§7Exit the Kitchen @§7Покинь кухню 
 §7Speak to the people who @§7Поговори с людьми, которые 
-§7haven't fled from the disaster @§7не сбежали от ужаса
+§7haven't fled from the disaster @§7не сбежали от ужаса 
 §7Unlock the Study @§7Открой кабинет 
 §7Enter the Study @§7Войди в кабинет 
-§7Leave the Study @§7Покинь кабинет
+§7Leave the Study @§7Покинь кабинет 
 §7Bring the key to the @§7Принеси ключ 
 §7Master Bedroom @§7к главной спальне 
-§7Enter the Master Bedroom @§7Войди в главную спальню
+§7Enter the Master Bedroom @§7Войди в главную спальню 
 §7Bring the key to Timmy's @§7Принеси ключ к 
-§7bedroom @§7спальне Тимми
-§7Enter Timmy's bedroom @§7Войди в спальню Тимми
+§7bedroom @§7спальне Тимми 
+§7Enter Timmy's bedroom @§7Войди в спальню Тимми 
+§7Search Timmy's bedroom @§7Обыщи спальню Тимми 
 §7Escape the flaming mansion through @§7Покинь горящее поместье через 
-§7the back door @§7заднюю дверь
+§7the back door @§7заднюю дверь 
 §7Speak with the Possessed Mr. @§7Поговори с Одержимым Мр. 
 §7Defeat the remains of Mister @§7Победи останки Мистера 
-§7Caritat @§7Каритатом
+§7Caritat @§7Каритатом 
 §7Navigate the Caritat's basement @§7Пройдись по подвалу Каритатов 
 §7Escape through the mysterious rift @§7Сбеги через загадочную расщелину 
-§7Speak to Atisun @§7Поговори с Атисуном
+§7Speak to Atisun @§7Поговори с Атисуном 
 
 QUESTS/Misadventure_on_the_Sea 
-§7Visit the Nemract bar at @§7Посети Немракт бар на
+§7Visit the Nemract bar at @§7Посети Немракт бар на 
 §7[114,40,-2176]@ 
 §7Meet Honip at @§7Найди Хонипа на 
 §7[103,37,-2254]@ 
 §7Explore the hold and kill @§7Исследуй трюм и убей 
-§7the rats @§7крыс
-§7Go to the Nemract docks @§7Иди в доки Немракта  
+§7the rats @§7крыс 
+§7Go to the Nemract docks @§7Иди в доки Немракта 
 §7to go back in the @§7чтобы вернуться на 
-§7boat at [104, 24, -2282] @§7лодку [104, 24, -2282]
-§7boat at @§7лодку на
+§7boat at [104, 24, -2282] @§7лодку [104, 24, -2282] 
+§7boat at @§7лодку на 
 §7[104,24,-2282]@ 
 §7Clean the bodies in the @§7Очисти тела на 
 §7boat. Look for clues on @§7лодке. Поищи подсказки о том 
 §7how to escape at the @§7как сбежать в это же 
-§7same time. -Bodies cleaned: 0/7 @§7время. -Тел очищено: 0/7
-§7same time. -Bodies cleaned: 1/7 @§7время. -Тел очищено: 1/7
-§7same time. -Bodies cleaned: 2/7 @§7время. -Тел очищено: 2/7
-§7same time. -Bodies cleaned: 4/7 @§7время. -Тел очищено: 4/7
-§7same time. -Bodies cleaned: 6/7 @§7время. -Тел очищено: 6/7
-§7same time. -Bodies cleaned: 5/7 @§7время. -Тел очищено: 5/7
-§7same time. -Bodies cleaned: 3/7 @§7время. -Тел очищено: 3/7
+§7same time. -Bodies cleaned: 0/7 @§7время. -Тел очищено: 0/7 
+§7same time. -Bodies cleaned: 1/7 @§7время. -Тел очищено: 1/7 
+§7same time. -Bodies cleaned: 2/7 @§7время. -Тел очищено: 2/7 
+§7same time. -Bodies cleaned: 4/7 @§7время. -Тел очищено: 4/7 
+§7same time. -Bodies cleaned: 6/7 @§7время. -Тел очищено: 6/7 
+§7same time. -Bodies cleaned: 5/7 @§7время. -Тел очищено: 5/7 
+§7same time. -Bodies cleaned: 3/7 @§7время. -Тел очищено: 3/7 
 §7Use the gunpowder and the @§7Используй порох и 
 §7fuse to activate the cannon @§7рычаг для активации пушки 
-§7and escape @§7и сбеги
+§7and escape @§7и сбеги 
 §7Talk to Honip to know @§7Поговори с Хонипом чтобы узнать 
 §7what to do next or @§7что делать дальше, или 
 §7look for clues on how @§7поищи подсказки о том 
-§7to escape @§7как сбежать
+§7to escape @§7как сбежать 
 §7Look for clues on how @§7Поищи подсказки о том 
 §7Talk to Honip on the @§7Поговори с Хонипом на 
 §7deck to get your next @§7палубе чтобы перейти к следующей 
-§7task @§7задаче
+§7task @§7задаче 
 §7Find out where you are @§7Узнай где ты находишься 
 §7and a way to flee @§7и найди способ сбежать с 
-§7Defeat the Colossal Rat in @§7Победи Колосальную Крысу в
-§7the hold @§7трюме
+§7Defeat the Colossal Rat in @§7Победи Колосальную Крысу в 
+§7the hold @§7трюме 
  
 QUESTS/Mixed_Feelings 
 §7Go for a drink at @§7Пойди выпить 
@@ -1543,21 +1546,21 @@ QUESTS/Mixed_Feelings
 §7Talk to citizens around the @§7Поговори с другими жителями в доках 
 §7docks to find out more @§7и узнай больше о том, 
 §7about what happened. @§7что произошло 
-§7I learned about some rumours @§7Я узнал некоторые слухи
-§7involving separatists. I should continue @§7по поводу сепаратистов. Я должен продолжить
+§7I learned about some rumours @§7Я узнал некоторые слухи 
+§7involving separatists. I should continue @§7по поводу сепаратистов. Я должен продолжить 
 §7helping locals to find out @§7помогать местным, чтобы узнать 
-§7more. @§7больше.
+§7more. @§7больше. 
 §7Someone told you more about @§7Кто-то рассказал тебе больше о 
 §7the patriots of corkus. You @§7патриотах коркуса. Ты 
 §7should continue to find the @§7должен продолжать искать 
-§7clue missing.@§7подсказки.
+§7clue missing.@§7подсказки. 
 §7Follow the trail of blood @§7Иди по следу крови, 
 §7close to the castle, [-5870, @§7рядом с замком [-5870, 
 §719, -2459] @ 
 §7Use the balloon to enter @§7Используй дирижабль чтобы войти в 
-§7the suspicious hideout. @§7подозрительное укрытие.
+§7the suspicious hideout. @§7подозрительное укрытие. 
 §7Survive the fight against the @§7Выживи в битве против 
-§7drugged corkian @§7одурманенных коркианцов
+§7drugged corkian @§7одурманенных коркианцов 
  
 QUESTS/Murder_Mystery 
 §7Talk to Captain Lorias in @§7Поговори с Капитаном Лориасом 
@@ -1565,23 +1568,23 @@ QUESTS/Murder_Mystery
 §7[-592,45,-4972]@ 
 §7Investigate the crime scene for @§7Посети место преступления и найди 
 §7Return to the victim's house @§7Вернись на место преступления 
-§7to find a bat symbol @§7и найди символ мыши
+§7to find a bat symbol @§7и найди символ мыши 
 §7Find the gamblers in the @§7Найди игроков в 
-§7Cinfras sewers @§7канализации Цинфраса
+§7Cinfras sewers @§7канализации Цинфраса 
 §7Confront Rohem about the murder @§7Допроси Рохема насчет убийства 
-§7at house #09 in Cinfras @§7в доме #09 в Цинфрасе
+§7at house #09 in Cinfras @§7в доме #09 в Цинфрасе 
 §7Acquire the murder weapon at @§7Добудь орудие убийства в 
 §7Rohem's room, and talk to @§7комнате Рохема, и поговори 
 §7Captain Lorias to claim your @§7с Капитаном Лориасом, чтобы получить 
-§7reward @§7награду
+§7reward @§7награду 
 
 QUESTS/Mushroom_Man  
 §7Talk to Yahya "The Mushroom @§7Поговори с Яхуя "Грибной 
 §7Man" in Nivla's Forest at @§7 Человек" в Нивла Лесу на 
 §7[-277,69,-1681]@ 
 §7Bring back [1 Red Mushrooms] @§7Принеси [1 Red Mushroom] 
-§7and [1 Brown Mushrooms] to @§7и [1 Brown Mushroom] для
-§7Yahya @§7Яхуи
+§7and [1 Brown Mushrooms] to @§7и [1 Brown Mushroom] для 
+§7Yahya @§7Яхуи 
 §7Bring back [3 Brown Mushrooms] @§7Принеси [3 Brown Mushroom] 
 §7and [3 Red Mushrooms] to @§7и [3 Red Mushroom] к 
 §7Bring back [1 Bowl] to @§7Принеси [1 Миску] для 
@@ -1590,36 +1593,36 @@ QUESTS/﻿One_Thousand_Meters_Under
 §7Read the Help Wanted sign @§7Прочитай "Требуется Помощь" 
 §7in Ahmsord at @§7доску в Амсорде на 
 §7[1108,107,-4555]@ 
-§7Talk to The Secretary at @§7Поговори с Секретарем на
+§7Talk to The Secretary at @§7Поговори с Секретарем на 
 §7[1121,101,-4525]@ 
 §7Enter the conferece room and @§7Войди в комнату конференций 
-§7listen to the scientist. @§7и послушай ученого
+§7listen to the scientist. @§7и послушай ученого 
 §7Meet up with the crew @§7Встреться с командой 
-§7inside the submarine. @§7внутри подлодки.
-§7Wait for the submarine to @§7Подожди пока подлодка
-§7arrive at the void islands. @§7прибудет на пустотный остров.
-§7Take a nap in the @§7Вздремни в комнате
-§7resting room. @§7для отдыха.
+§7inside the submarine. @§7внутри подлодки. 
+§7Wait for the submarine to @§7Подожди пока подлодка 
+§7arrive at the void islands. @§7прибудет на пустотный остров. 
+§7Take a nap in the @§7Вздремни в комнате 
+§7resting room. @§7для отдыха. 
 §7Talk to the captain outside @§7Поговори с капитаном 
-§7of the submarine. @§7снаружи субмарины
+§7of the submarine. @§7снаружи субмарины 
 §7Explore the island and look @§7Исследуй остров 
-§7for the crystal. @§7в поисках кристалла
+§7for the crystal. @§7в поисках кристалла 
 §7Return to the submarine and @§7Вернись на подлодку 
-§7continue your journey. @§7и продолжай путешествие
-§7Continue the journey. @§7Продолжи свое путешествие
-§7continue the journey. @§7Продолжи свое путешествие
-§7Continue your journey. @§7Продолжи свое приключение.
-§7Head to the resting room. @§7Отправляйся в комнату отдыха
+§7continue your journey. @§7и продолжай путешествие 
+§7Continue the journey. @§7Продолжи свое путешествие 
+§7continue the journey. @§7Продолжи свое путешествие 
+§7Continue your journey. @§7Продолжи свое приключение. 
+§7Head to the resting room. @§7Отправляйся в комнату отдыха 
 §7Get the ingredients to fix @§7Принеси ингредиенты для починки 
-§7the submarine. @§7подлодки
+§7the submarine. @§7подлодки 
 §7Continue your mission and find @§7Продолжи свою миссию 
-§7the the crystal. @§7и найди кристалл
+§7the the crystal. @§7и найди кристалл 
 §7Talk to Rontaid outside the @§7Поговори с Ронтейдом снаружи 
-§7town at [14113,116,-4199]. @§7города на [14113,116,-4199].
-§7Return to the crash site @§7Вернись к месту аварии
-§7by following the road. @§7по короткому маршруту
-§7Return to the scientist and @§7Вернись к ученому и
-§7tell him the news. @§7расскажи ему плохие новости
+§7town at [14113,116,-4199]. @§7города на [14113,116,-4199]. 
+§7Return to the crash site @§7Вернись к месту аварии 
+§7by following the road. @§7по короткому маршруту 
+§7Return to the scientist and @§7Вернись к ученому и 
+§7tell him the news. @§7расскажи ему плохие новости 
  
 QUESTS/Out_of_my_Mind  
 §7Speak with the Troms children @§7Поговори с детьми в Тромсе 
@@ -1634,7 +1637,7 @@ QUESTS/Out_of_my_Mind
 §7Build a machine to hit @§7Построй машину, чтобы 
 §7your head and get back @§7получить удар по голове 
 §7to normal @§7и вернуться в себя 
-§7Find a way to destroy @§7Найди способ уничтожить  
+§7Find a way to destroy @§7Найди способ уничтожить 
 §7the plant monster, then return @§7растение-монстр, затем вернись 
 §7to the group in Troms @§7к детям в Тромсе 
 §7to report your findings @§7и сообщи о находках 
@@ -1642,18 +1645,18 @@ QUESTS/Out_of_my_Mind
 QUESTS/Pirate%27s_Trove 
 §7Talk to Damiral, outside Llevigar @§7Поговори с Дамиралом снаружи Ллевигарa 
 §7at [-1937, 38, -4260] @§7на [-1937, 38, -4260] 
-§7Clue I: Toward the sunset, @§7Подсказка I: В направлении заката,
+§7Clue I: Toward the sunset, @§7Подсказка I: В направлении заката, 
 §7among northern flowers shaded by @§7 среди северных цветов 
-§7quartz @§7в тени кварца
+§7quartz @§7в тени кварца 
 §7Clue II: In a place @§7Подсказка II:В месте 
 §7of identity, above the leaves @§7идентификации, над листьями 
-§7and between the glass @§7и между стеклом
-§7Clue III: In an emerald @§7Подсказка III: В эмеральдовом
-§7fountain, surrounded by the wealth @§7фонтане, где жители вкладывают
-§7of the villagers @§7деньги
+§7and between the glass @§7и между стеклом 
+§7Clue III: In an emerald @§7Подсказка III: В эмеральдовом 
+§7fountain, surrounded by the wealth @§7фонтане, где жители вкладывают 
+§7of the villagers @§7деньги 
 §7Clue IV: Beneath the cowl @§7Подсказка IV: Под шлемом 
 §7of an eastern titan, keeping @§7восточного титана, охраняющего 
-§7watch over our heads @§7наши головы
+§7watch over our heads @§7наши головы 
 §7Tell Damiral where the treasure @§7Расскажи Дамиралу где 
 §7is hidden @§7спрятаны сокровища 
  
@@ -1666,13 +1669,13 @@ QUESTS/Pit_of_the_Dead_(Quest)
 
 QUESTS/Point_of_No_Return 
 §7Talk to the Lutho Citizen @§7Поговори с Жителем Луто 
-§7at [1014,77,-675]. @§7на [1014,77,-675].
+§7at [1014,77,-675]. @§7на [1014,77,-675]. 
 §7§4§l... @ 
-§7Leave happier Lutho. @§7Покинь счастливый Луто.
+§7Leave happier Lutho. @§7Покинь счастливый Луто. 
 §7Explore this happier version of @§7Исследуй эту счастливую версию 
-§7Lutho. @§7Луто.
+§7Lutho. @§7Луто. 
 §7who sent you on this @§7который отправил тебя на это 
-§7journey. @§7приключение
+§7journey. @§7приключение 
 
 QUESTS/Poisoning_the_Pest  
 §7Talk to Farmer Cevalus at @§7Поговори с Фермером Цевалусом на 
@@ -1703,47 +1706,47 @@ QUESTS/Purple_and_Blue
 §7Gylia at @§7у озера Гилия на 
 §7[-236,36,-5225]@ 
 §7Investigate the ancient wizard's house @§7Исследуй старый дом 
-§7for clues at @§7мага в поисках подсказок на
+§7for clues at @§7мага в поисках подсказок на 
 §7[-163,29,-5388]@ 
 §7Follow the hints in the @§7С помощью подсказок в подвале 
 §7cellar to find the mysterious @§7найди загадочную 
-§7Return to Korun with the @§7Вернись к Коруну вместе со
-§7helmet @§7шлемом
+§7Return to Korun with the @§7Вернись к Коруну вместе со 
+§7helmet @§7шлемом 
 §7Enter Korun's cellar and go @§7Войди в подвал Коруна и иди 
-§7beneath the lake @§7под озеро
+§7beneath the lake @§7под озеро 
 §7Enter the center spire from @§7Войди в центр прохода 
 §7under the lake @§7под озером. 
-§7Go deeper into the heart @§7Продвигайся дальше к центру
-§7of the lake @§7озера
+§7Go deeper into the heart @§7Продвигайся дальше к центру 
+§7of the lake @§7озера 
 §7Talk to Nedlom at the @§7Поговори с Недломом в 
-§7Gryndilin's prison @§7тюрьме Гриндилина
+§7Gryndilin's prison @§7тюрьме Гриндилина 
 §7Follow the blood trail to @§7Иди по следу крови 
-§7the Gryndilin chief's room @§7в комнату Gryndilin Chief'а
-§7Defeat the Gryndilin chief, and @§7Победи Gryndilin Chief
+§7the Gryndilin chief's room @§7в комнату Gryndilin Chief'а 
+§7Defeat the Gryndilin chief, and @§7Победи Gryndilin Chief 
 §7uncast the spell using Nedlom's @§7и используй заклинание по 
-§7instructions @§7инструкции Нэдлома.
-§7Bring back a magical fragment @§7Принеси назад магический фрагмент
-§7and the helmet to Korun @§7и шлем к Коруну
+§7instructions @§7инструкции Нэдлома. 
+§7Bring back a magical fragment @§7Принеси назад магический фрагмент 
+§7and the helmet to Korun @§7и шлем к Коруну 
 
 QUESTS/Recipe_for_Disaster 
 §7Meet up with Chef Hamsey @§7Встреться с Шефом Хемзи 
 §7[949,129,-4475]@ 
 §7Find Chef Hamsey in his @§7Найди Шефа Хемзи на его 
-§7kitchen @§7кухне
+§7kitchen @§7кухне 
 §7Speak to Brie for her @§7Поговори с Бри для ее 
-§7to introduce herself @§7представления себя
-§7Speak to Frank for him @§7Поговори с Френком для его
-§7Speak to Kale for him @§7Поговори с Кейлом для его
-§7to introduce himself @§7представления себя
+§7to introduce herself @§7представления себя 
+§7Speak to Frank for him @§7Поговори с Френком для его 
+§7Speak to Kale for him @§7Поговори с Кейлом для его 
+§7to introduce himself @§7представления себя 
 §7Choose the chef you want @§7Выбери того шефа, с кем 
-§7to work with @§7ты будешь работать
+§7to work with @§7ты будешь работать 
 §7Present the ingredients to your @§7Отдай найденные ингредиенты 
-§7chosen chef @§7выбранному шефу
+§7chosen chef @§7выбранному шефу 
 §7Along with chef Brie,@§7Вместе с шефом Бри, 
 §7you have created a peculiar dish@§7ты создал своеобразное блюдо 
-§7with even more peculiar ingredients!@§7с еще более своеобразными ингредиентами!
+§7with even more peculiar ingredients!@§7с еще более своеобразными ингредиентами! 
 §7Present your dish to Chef @§7Покажи свое блюдо Шефу 
-§7Hamsey @§7Хемзи
+§7Hamsey @§7Хемзи 
 
 QUESTS/Reclaiming_the_House 
 §7Talk to Ahmas at @§7Поговори с Ахмасом на 
@@ -1752,7 +1755,7 @@ QUESTS/Reclaiming_the_House
 §7[-1433,69,-5394]@ 
 §7to scout out the area @§7чтобы исследовать территорию 
 §7Report back to Ahmas and @§7Доложи Ахмасу и 
-§7devise an entry route @§7разработай маршрут входа
+§7devise an entry route @§7разработай маршрут входа 
 §7Enter the troll outpost through @§7Войди на форпост троллей 
 §7the basement at @§7через подвал на 
 §7[-1442,39,-5221]@ 
@@ -1761,36 +1764,36 @@ QUESTS/Reclaiming_the_House
 §7to Ahmas @§7Ахмасу 
 
 QUESTS/Recover_the_Past
-§7Talk to Dr. Picard at @§7Поговори с Др. Пикардом на
+§7Talk to Dr. Picard at @§7Поговори с Др. Пикардом на 
 §7[103, 90, -1200]. @ 
 §7Find Scout Reynauld near Elkurn @§7Найди Скаута Рейнольда возле Элкурна 
 §7at the bridge to Picard's @§7у моста недалеко от Пикарда 
-§7tower. @§7башни.
+§7tower. @§7башни. 
 §7Help Reynauld Defeat the Corrupted @§7Помоги Рейнольду отбить Испорченное 
-§7invasion at the bridge. @§7вторжение на мосту.
+§7invasion at the bridge. @§7вторжение на мосту. 
 §7Return to Scout Reynauld and @§7Вернись к Скауту Рейнольду и 
-§7bring him back to Dr. @§7приведи его обратно к Др.
+§7bring him back to Dr. @§7приведи его обратно к Др. 
 §7Find the sailor Picard mentioned @§7Найди моряка Пикарда 
 §7on his boat at [-45, @§7на его лодке на [-45, 
 §765, -1217]. @ 
 §7Head into Elkurn and look @§7Иди в Элкурн и поищи 
 §7for a way to shrink @§7способ уменьшить 
-§7the boat. @§7лодку.
+§7the boat. @§7лодку. 
 §7Find [1 Golden Apple], [1 @§7Найди [1 Золотое Яблоко], [1 
 §7Bottle of Water] and [1 @§7Бутылку Воды] и [1 
-§7Bloom of Doom]. @§7Цветок Судьбы].
+§7Bloom of Doom]. @§7Цветок Судьбы]. 
 §7Return to Caid with the @§7Вернись к Каиду с 
-§7potion. @§7зельем.
+§7potion. @§7зельем. 
 §7Bring Caid back to Dr. @§7Приведи Каида обратно к Др. 
-§7Picard. @§7Пикарду.
+§7Picard. @§7Пикарду. 
 §7Find Farmer Edwin next to @§7Найди Фермера Эдвина рядом с 
-§7Nesaak at [128, 74, -1102]. @§7Несааком на [128, 74, -1102].
-§7Climb the mountain next to @§7Заберись на гору рядом с
-§7Edwin's house. @§7домом Эдвина.
+§7Nesaak at [128, 74, -1102]. @§7Несааком на [128, 74, -1102]. 
+§7Climb the mountain next to @§7Заберись на гору рядом с 
+§7Edwin's house. @§7домом Эдвина. 
 §7Break the ice on the @§7Сломай лед на 
-§7spring and water Edwin's crops. @§7водопаде и полей посевы Эдвина.
-§7Bring Edwin back to Dr. @§7Приведи Эдвина обратно к Др.
-§7Discover your own past. @§7Узнай свое собственное прошлое.
+§7spring and water Edwin's crops. @§7водопаде и полей посевы Эдвина. 
+§7Bring Edwin back to Dr. @§7Приведи Эдвина обратно к Др. 
+§7Discover your own past. @§7Узнай свое собственное прошлое. 
 
 QUESTS/Redbeard%27s_Booty  
 §7Talk with Marston in the @§7Поговори с Марстоном 
@@ -1801,7 +1804,7 @@ QUESTS/Redbeard%27s_Booty
 §7[-659,43,-3154]@ 
 §7Hop aboard the Black Ring @§7Поднимайся на борт Black 
 §7down at the dock of @§7Ring, что стоит в доках 
-§7Pirate Cove. @§7Пиратской Бухты.
+§7Pirate Cove. @§7Пиратской Бухты. 
 §7Find the treasure. @§7Найди сокровища 
 §7Leave the hidden island and @§7Покинь тайный остров и останови 
 §7stop the pirates from stealing @§7пиратов от кражи сокровищ 
@@ -1811,13 +1814,13 @@ QUESTS/Redbeard%27s_Booty
 §7maps. @§7добытые карты. 
  
 QUESTS/Reincarnation 
-§7Talk to Batelu in Bob's @§7Поговори с Батэлу
+§7Talk to Batelu in Bob's @§7Поговори с Батэлу 
 §7Tomb at @§7в Гробнице Бобa 
 §7[372,54,-775]@ 
 §7Feather], [1 Baab's Wool] & @§7Клаклеса], [1 Шерсть Бааба], 
-§7[1 Mooington's Skin] to Batelu @§7и [1 Кожу Муингтона] к Батэлу
+§7[1 Mooington's Skin] to Batelu @§7и [1 Кожу Муингтона] к Батэлу 
 §7Bring back [1 Bob's Seal @§7Принеси [1 Печать одобрения 
-§7of Approval] to Batelu @§7Бобa] к Батэлу
+§7of Approval] to Batelu @§7Бобa] к Батэлу 
  
 QUESTS/Rise_of_the_Quartron  
 §7Talk to Nasea in @§7Поговори с Насеа на 
@@ -1855,27 +1858,27 @@ QUESTS/Royal_Trials
 §7[1476,84,-4336]@ 
 §7Talk to the Hrona at @§7Поговори с Хроной на 
 §7[1476,82,-4340]@ 
-§7Buy a Female Pirate Wig @§7Купи Женский Парик Пирата
+§7Buy a Female Pirate Wig @§7Купи Женский Парик Пирата 
 §7at Ahmsord then enter the @§7в Амсорде и затем войди в 
 §7basement in which the trials @§7подвал, в котором проходят 
-§7are being held at @§7испытания
-§7Approach the stage @§7Подойди к сцене
+§7are being held at @§7испытания 
+§7Approach the stage @§7Подойди к сцене 
 §7Defeat the armory room of @§7Победи в оружейной комнате в 
-§7the combat challenge @§7комбат челлендже
-§7to the next room.@§7в следующую комнату.
-§7Defeat the brig room of @§7Победи в бриг комнате в
+§7the combat challenge @§7комбат челлендже 
+§7to the next room.@§7в следующую комнату. 
+§7Defeat the brig room of @§7Победи в бриг комнате в 
 §7Defeat the cockpit room of @§7Победи в комнате кубрика в 
 §7Listen to the trials overseer's @§7Послушай смотрительницы испытаний 
 §7speech @§7речь 
-§7Defeat the challenge of flight @§7Победи в челлендже полета
-§7Break into the mansion @§7Проникни в поместье
-§7Sneak past the guards @§7Пройди мимо охранников
-§7Steal the treasure @§7Укради сокровище
+§7Defeat the challenge of flight @§7Победи в челлендже полета 
+§7Break into the mansion @§7Проникни в поместье 
+§7Sneak past the guards @§7Пройди мимо охранников 
+§7Steal the treasure @§7Укради сокровище 
 §7Get the treasure to the @§7Доставь сокровище до 
 §7trials overseer outside of the @§7смотрительницы испытаний снаружи 
-§7mansion's window @§7окна поместья
-§7Exit through the mansion's window @§7Выйди через окно поместья
-§7Talk to the trials overseer @§7Поговори со смотрительницей испытаний
+§7mansion's window @§7окна поместья 
+§7Exit through the mansion's window @§7Выйди через окно поместья 
+§7Talk to the trials overseer @§7Поговори со смотрительницей испытаний 
 
 QUESTS/Sewers_of_Ragni 
 §7The lieutenant at @§7Лейтенанту на 
@@ -1887,7 +1890,7 @@ QUESTS/Sewers_of_Ragni
 §7Explore the sewer and find @§7Исследуй канализацию и найди 
 §7Find a way to fix @§7Найди способ устранить 
 §7the blockage. @§7засор 
-§7the spooky sewer. @§7из загадочной канализации
+§7the spooky sewer. @§7из загадочной канализации 
 §7Talk to Jenprest @§7Поговори с Дженпрест 
  
 QUESTS/Shattered_Minds 
@@ -1899,15 +1902,15 @@ QUESTS/Shattered_Minds
 §7looking for @§7ищет Ликеру 
 §7Investigate the giant blue mushroom @§7Посети гигантский синий гриб 
 §7Find a way to escape @§7Найди способ сбежать из 
-§7cave. @§7пещеры
-§7the strange temple @§7странного храма
+§7cave. @§7пещеры 
+§7the strange temple @§7странного храма 
 §7Try to find civilization within @§7Попробуй найти цивилизацию 
-§7the strange forest @§7в странном лесу
+§7the strange forest @§7в странном лесу 
 §7Enter the house by the @§7Войди в дом гигантской 
 §7giant frog in the village @§7лягушки в деревне 
-§7Escape the wrath of Yahya @§7Сбеги от разъяренного Яхуя
+§7Escape the wrath of Yahya @§7Сбеги от разъяренного Яхуя 
 §7Talk to Elder Berusia @§7Поговори со Старцем Берусия 
-§7Talk to Likeru @§7Поговори с Ликеру
+§7Talk to Likeru @§7Поговори с Ликеру 
  
 QUESTS/Stable_Story  
 §7Talk to Enkser in Ternaves @§7Поговори с Энксером в Тернейвс 
@@ -1927,7 +1930,7 @@ QUESTS/Star_Thief
 §7Escape the collapsing cave. @§7Выберись из разрушающейся пещеры 
 §7Follow the trail leading off @§7Иди по следу, ведущему 
 §7to the east from the @§7на восток от 
-§7cave.@§7пещеры
+§7cave.@§7пещеры 
 §7Explore the cave for the @§7Исследуй пещеру в поисках 
 §7star thief. @§7вора звезды 
 §7Defeat the insane thief and @§7Победи обезумевшего вора 
@@ -1980,7 +1983,7 @@ QUESTS/Taproot_(Quest)
 §7trail @§7следом 
 §7Enter The Taproot @§7Войди в стержневой корень 
 §7Complete the parkour @§7Пройди паркур 
-§7Speak to Tiek @§7Поговори с Тик
+§7Speak to Tiek @§7Поговори с Тик 
 §7Explore the Light Forest @§7Исследуй Светлый Лес 
 §7Talk to Tiek @§7Поговори с Тик 
  
@@ -2032,10 +2035,10 @@ QUESTS/The_Belly_of_the_Beast
 §7Feed the Enchanted Flower to @§7Скорми Зачарованный 
 §7Ozoth at @§7Цветок Озот на 
 §7[175,199,-5188]@ 
-§7Bring the Enchanted Flower to @§7Принеси Зачарованный Цветок в
-§7Ozoth's stomach @§7желудок Озот
+§7Bring the Enchanted Flower to @§7Принеси Зачарованный Цветок в 
+§7Ozoth's stomach @§7желудок Озот 
 §7Escape from the inside of @§7Выберись изнутри 
-§7Ozoth @§7Озот
+§7Ozoth @§7Озот 
 §7Return to King Burtan to @§7Вернись к Королю Буртану 
 §7tell him of your success @§7и расскажи ему об успехе 
  
@@ -2044,24 +2047,24 @@ QUESTS/The_Bigger_Picture
 §7mushroom cave at @§7в грибной пещере на 
 §7[-205,42,-4308]@ 
 §7Find the Subtraxerim Utilium mushroom @§7Найди Subtraxerim Utilium гриб 
-§7in the cave and bring @§7в пещере и принеси его
-§7it back to Psilo. @§7 обратно к Псило
-§7Return to Psilo immediately. @§7Вернись к Псило немедленно.
+§7in the cave and bring @§7в пещере и принеси его 
+§7it back to Psilo. @§7 обратно к Псило 
+§7Return to Psilo immediately. @§7Вернись к Псило немедленно. 
 §7Oh no, you've shrunk again! @§7О нет, ты уменьшился снова! 
-§7What now? @§7Что теперь?
+§7What now? @§7Что теперь? 
 §7Get to the blue mushroom @§7Найди синий гриб 
-§7and return to normal size. @§7и вернись к обычному размеру.
+§7and return to normal size. @§7и вернись к обычному размеру. 
 §7Give Psilo the good news @§7Расскажи Псило хорошие новости 
-§7about the mice. @§7о мышах
+§7about the mice. @§7о мышах 
  
 QUESTS/The_Canary_Calls 
 §7Speak to Grenot outside the @§7Поговори с Гренотом 
 §7Thesead coal mine at @§7снаружи угольной шахты Тесеада 
 §7[676,78,-5020]@ 
 §7Enter the coal mine @§7Войди в угольную шахту 
-§7Progress through the coal mine @§7Продвигайся вперед по шахте
-§7Escape the coal mine! @§7Сбеги из шахты!
-§7Return to Grenot @§7Вернись к Греноту
+§7Progress through the coal mine @§7Продвигайся вперед по шахте 
+§7Escape the coal mine! @§7Сбеги из шахты! 
+§7Return to Grenot @§7Вернись к Греноту 
  
 QUESTS/The_Canyon_Guides 
 §7Speak to Gana at @§7Поговори с Ганой на 
@@ -2122,7 +2125,7 @@ QUESTS/The_Envoy_Part_I
 §7Talk to the Corkus delegate. @§7Поговори с Делегатом Коркуса 
 §7Find the Five Gears Diner @§7Найди столовую 'Пять Шестеренок' 
 §7[-1856,40,-3139]@ 
-§7Speak with Maxie. @§7Поговори с Макси.
+§7Speak with Maxie. @§7Поговори с Макси. 
 §7Find your way out of @§7Найди способ выбраться 
 §7the vent. @§7из вентиляции 
 §7Stop the mechs from taking @§7Останови роботов от 
@@ -2134,10 +2137,10 @@ QUESTS/The_Envoy_Part_I
  
 QUESTS/The_Envoy_Part_II 
 §7Enter Maxie's house at [-1571,68,-2876]. @§7Войди в дом Макси на [-1571,68,-2876] 
-§7Talk to Maxie on the @§7Поговори с Макси
+§7Talk to Maxie on the @§7Поговори с Макси 
 §7Find the catapult at [-1712,38,-3100]. @§7Найди катапульту на [-1712,38,-3100]. 
 §7Locate the Avos Chief by @§7Найди главаря Авосов, 
-§7asking the Avos citizens. @§7опрашивая жителей.
+§7asking the Avos citizens. @§7опрашивая жителей. 
 §7Talk to the chief's friend @§7Поговори с другом главаря 
 §7at [-1587,147,-3321]. @§7на [-1587,147,-3321]. 
 §7Meet the grandmaster behind her @§7Встреться с магистром позади дома, 
@@ -2147,29 +2150,29 @@ QUESTS/The_Envoy_Part_II
 §7Return to Maxie in his @§7Вернись к Макси в его доме 
 §7house with the first key. @§7с первым ключем 
 §7Find the vault in Corkus @§7Найди хранилище 
-§7City at [-1498,69,-2910]. @§7в Коркус Сити на [-1498,69,-2910].
+§7City at [-1498,69,-2910]. @§7в Коркус Сити на [-1498,69,-2910]. 
 §7Look for the hidden mech @§7Отыщи тайных роботов на 
 §7Retrieve the key from the @§7Забери ключ у роботов на 
-§7base. @§7базе
+§7base. @§7базе 
 §7Find Maxie at @§7Найди Макси на 
 §7[-1396,66,-2400]@ 
-§7and give him the key. @§7и отдай ему ключ.
+§7and give him the key. @§7и отдай ему ключ. 
 §7Find Maxie outside the Factory @§7Найди Макси снаружи фабрики 
-§7at [-1707,75,-2610]. @§7на [-1707,75,-2610].
+§7at [-1707,75,-2610]. @§7на [-1707,75,-2610]. 
 
 QUESTS/The_Fortuneteller 
 §7Talk to Jill in Kandon-Beda @§7Поговори с Джилл в Кандон-Бэда 
 §7[746,150,-4468]@ 
 §7Search the Castle near Kandon-Beda @§7Обыщи замок рядом с Кандон-Бэда 
-§7for a treasure map at @§7и найди карту сокровищ на
+§7for a treasure map at @§7и найди карту сокровищ на 
 §7[901,96,-4406]@ 
 §7Return to Jill in Kandon-Beda @Вернись к Джилл в Кандон-Бэда 
-§7with the treasure @вместе с сокровищем
-§7Solve the treasure mystery @§7Раскрой загадку сокровища
+§7with the treasure @вместе с сокровищем 
+§7Solve the treasure mystery @§7Раскрой загадку сокровища 
 §7Find the beanstalk @§7Найди бобовый стебель 
 §7[630,147,-4590]@ 
-§7Climb the beanstalk @§7Заберись на бобовый стебель
-§7Speak to the Ancient Dragon @§7Поговори с Древним Драконом
+§7Climb the beanstalk @§7Заберись на бобовый стебель 
+§7Speak to the Ancient Dragon @§7Поговори с Древним Драконом 
  
 QUESTS/The_Headless_Hunt 
 §7Talk to Referick in the @§7Поговори с Рефериком 
@@ -2178,20 +2181,20 @@ QUESTS/The_Headless_Hunt
 §7Investigate the strange cave under @§7Посети странную пещеру 
 §7the castle further @§7под замком неподалеку 
 §7Return the Lost Soul of @§7Верни пропавшую душу 
-§7Referick to its owner @§7Реферика ее владельцу
+§7Referick to its owner @§7Реферика ее владельцу 
 §7Search for any potential source @§7Отыщи потенциальный источник 
 §7of problems with Referick @§7проблем с Рефериком 
 §7Go to the Dullahan's old @§7Иди в старое поместье 
 §7mansion at [-816, 45, -5147] @§7Дуллахана на [-816, 45, -5147] 
-§7Search the Dullahan's old mansion @§7Обыщи старое поместье  
+§7Search the Dullahan's old mansion @§7Обыщи старое поместье 
 §7for the story of the @§7Дуллахана и найди историю 
 §7Dullahan @§7Дуллахана 
 §7Go underneath the Dullahan's mansion @§7Иди под поместье Дуллахана 
-§7to investigate the blood altar @§7и исследуй кровавый алтарь
+§7to investigate the blood altar @§7и исследуй кровавый алтарь 
 §7Search the torture chambers for @§7Найди в пыточных камерах 
-§7the spirits @§7духов
+§7the spirits @§7духов 
 §7Destroy the Lost Spirits to @§7Уничтожь Lost Spirits 
-§7free them @§7чтобы освободить всех
+§7free them @§7чтобы освободить всех 
 §7Show Referick proof that you @§7Покажи Реферику доказательства, 
 §7have freed the spirits of @§7что ты освободил души 
 §7the Dullahan's victims @§7жертв Дуллахана 
@@ -2204,7 +2207,7 @@ QUESTS/The_Hidden_City
 §7[890,47,-5388]@ 
 §7to find the human town @§7и найди город людей 
 §7Lead the Curious Villager back @§7Отведи любопытного жителя обратно 
-§7to his camp @§7в его лагерь
+§7to his camp @§7в его лагерь 
 §7Talk to Eltom Guard @Поговори с Элтом Стражем 
 §7Talk to Mayor Eoric in @§7Поговори с Мэром Эориком 
 §7the town hall at @§7в ратуше на 
@@ -2220,13 +2223,13 @@ QUESTS/The_Hidden_City
 §7table @§7на столе 
 §7Head to Eltom's Airbase at @§7Отправся на авиабазу Элтома 
 §7[968,152,-5463]@ 
-§7Talk to Hilan @§7Поговори с Хиланом
+§7Talk to Hilan @§7Поговори с Хиланом 
 §7Head up the Airbase's Tower @§7Поднимись на башню авиабазы 
 §7to confront the hooded man @§7и сразись с человеком в капюшоне 
 §7Board the Eltom Cargo Ship @§7Зайди на борт торгового корабля Элтома 
 §7Escape your cell and find @§7Сбеги из клетки 
 §7a way to sabotage the @§7и найди способ остановить 
-§7ship @§7дирижабль
+§7ship @§7дирижабль 
 §7Talk to Thesead's Mayor at @§7Поговори с Мэром Тесеада 
 §7[832,113,-4994]@ 
 §7at the top of Thesead @§7в башне Тесеада 
@@ -2236,52 +2239,52 @@ QUESTS/The_House_of_Twain_(Quest)
 §7House of Twain at @§7у Поместья Твейнов на 
 §7[12,76,-456]@ 
 §7Bring [1 Twain Journal] to @§7Принеси [1 Журнал Твейна] к 
-§7Twendle @§7Твендлу
+§7Twendle @§7Твендлу 
  
 QUESTS/The_Hunger_of_Gerts_Part_I 
 §7Talk to Cikal at @§7Поговори с Цикалом на 
 §7[-35,68,-5413]@ 
 §7Look around the farms near @§7Осмотри фермы около 
-§7the lake Gylia @§7озера Гилия
+§7the lake Gylia @§7озера Гилия 
 §7Inspect the Gerten forwarding camp @§7Посети небольшой 
-§7nearby @§7лагерь Гертов поблизости
+§7nearby @§7лагерь Гертов поблизости 
 §7Enter the dark cave in @§7Зайди в темную пещеру 
-§7the back of the camp @§7в конце лагеря
-§7Explore the Gerten cave @§7Исследуй пещеру Гертов
-§7Spy on the Gerten meeting @§7Подслушай встречу Гертов
-§7Leave the meeting @§7Покинь встречу
+§7the back of the camp @§7в конце лагеря 
+§7Explore the Gerten cave @§7Исследуй пещеру Гертов 
+§7Spy on the Gerten meeting @§7Подслушай встречу Гертов 
+§7Leave the meeting @§7Покинь встречу 
 §7Tell farmer Jitak about the @§7Расскажи фермеру Житаку 
-§7tunnel @§7насчет тоннеля
-§7Bring Jitak [6 Gert Skin] @§7Принеси Житаку 6 [Gert Skin]
-§7Go to the Gerten Camp @§7Иди в лагерь Гертов
+§7tunnel @§7насчет тоннеля 
+§7Bring Jitak [6 Gert Skin] @§7Принеси Житаку 6 [Gert Skin] 
+§7Go to the Gerten Camp @§7Иди в лагерь Гертов 
 §7[18,34,-5343]@ 
-§7Talk to the Gerten Captain @§7Поговори с Герт Капитаном
+§7Talk to the Gerten Captain @§7Поговори с Герт Капитаном 
 §7[31,34,-5339]@ 
 §7Find the password and return @§7Найди пароль и вернись 
-§7to the Gerten Captain @§7к Капитану Гертов
+§7to the Gerten Captain @§7к Капитану Гертов 
 §7Inspect the tunnel at @§7Исследуй тоннель на 
 §7[27,31,-5336]@ 
 §7Go through the narrow tunnel @§7Пройди через узкий тоннель 
 §7at the back of the @§7что позади 
-§7cell @§7клетки
-§7Leave the Secret Gerten Cave @§7Покинь Секретную Герт Пещеру
-§7Escape your cell @§7Сбеги из клетки
-§7Escape the Gerten prison @§7Сбеги из тюрьмы Гертов
+§7cell @§7клетки 
+§7Leave the Secret Gerten Cave @§7Покинь Секретную Герт Пещеру 
+§7Escape your cell @§7Сбеги из клетки 
+§7Escape the Gerten prison @§7Сбеги из тюрьмы Гертов 
 §7Head to the cell at @§7Подойди к клетке на 
 §7[-808,47,-8217]@ 
 §7and investigate @§7и исследуй 
-§7Talk to the Comor @§7Поговори с Комором
+§7Talk to the Comor @§7Поговори с Комором 
 §7Kill the Hungry Gert and @§7Убей голодного Герта и 
 §7return to Comor with the @§7вернись к Комору с 
-§7[Cell Key] @§7[Ключом от клетки]
+§7[Cell Key] @§7[Ключом от клетки] 
 §7Kill the Gerten Prison Warden @§7Убей Надзирателя Герт Тюрьмы 
-§7and use the Barricade Key @§7и используй Ключ от Баррикад
-§7on Barricade Keyhole to escape @§7на замке баррикад для побега
+§7and use the Barricade Key @§7и используй Ключ от Баррикад 
+§7on Barricade Keyhole to escape @§7на замке баррикад для побега 
 §7Make your way to Big @§7Найди путь в 
-§7Butchs room @§7комнату Мясника
+§7Butchs room @§7комнату Мясника 
 §7Leave the Gerten prison and @§7Покинь тюрьму Гертов 
 §7return to Cikal to tell @§7и вернись к Цикалу 
-§7him about the tunnels @§7с рассказом о тоннелях
+§7him about the tunnels @§7с рассказом о тоннелях 
 
 QUESTS/The_Hunger_of_Gerts_Part_II 
 §7Talk to Gerten Chief Lobo @§7Поговори с Герт Шеф Лобо 
@@ -2289,7 +2292,7 @@ QUESTS/The_Hunger_of_Gerts_Part_II
 §7Head to Jitaks house at @§7Отправляйся к дому Житака на 
 §7[-169,32,-5470]@ 
 §7Find another way into Jitaks @§7Найди другой путь в Житака 
-§7house by looking around @§7дом, посмотрев вокруг
+§7house by looking around @§7дом, посмотрев вокруг 
 §7Talk to Gerten Excavator at @§7Поговори с Герт Раскопщиком на 
 §7[-181,22,-5472]@ 
 §7Enter Jitaks basement using the @§7Войди в подвал дома Житака 
@@ -2334,7 +2337,7 @@ QUESTS/The_Maiden_Tower
 §7return to the tower at @§7и вернись к башне на 
 §7[-1949,63,-5347]@ 
 §7Bring back the [Cursed Maiden @§7Принеси [Проклятую Девичью 
-§7Essence] to Sherk at @§7Эссенцию] к Шерку на
+§7Essence] to Sherk at @§7Эссенцию] к Шерку на 
  
 QUESTS/The_Mercenary  
 §7Talk to Mylo in Nemract @§7Поговори с Майло в Немракте на 
@@ -2351,35 +2354,35 @@ QUESTS/The_Olmic_Rune
 §7Explore the abandoned drill at @§7Исследуй заброшенный бур на 
 §7[585,89,-457]@ 
 §7Find some sort of fuel @§7Найди какое-то топливо 
-§7in the ruined city @§7в этом разрушенном городе
-§7fuel @§7топлива
-§7Collect [32 Fuel Sprites] and @§7Собери [32 Топливных Спрайта] и
-§7machine. @§7машину
-§7Head back to the machine @§7Вернись обратно к машине
+§7in the ruined city @§7в этом разрушенном городе 
+§7fuel @§7топлива 
+§7Collect [32 Fuel Sprites] and @§7Собери [32 Топливных Спрайта] и 
+§7machine. @§7машину 
+§7Head back to the machine @§7Вернись обратно к машине 
 §7Defend the machine from the @§7Защити машину от 
-§7incoming attackers. @§7входящих атак.
-§7Enter the opened crypt. @§7Войди в открытую гробницу.
-§7Illuminates@§7Освети
+§7incoming attackers. @§7входящих атак. 
+§7Enter the opened crypt. @§7Войди в открытую гробницу. 
+§7Illuminates@§7Освети 
 
 QUESTS/The_Order_of_the_Grook
 §7Talk to Seasum on Mage @§7Поговори с Сеасумом на Магов 
 §7[940,77,-2866]@ 
 §7Return to Seasum with the @§7Вернись к Сеасуму с 
-§7letter. @§7письмом
+§7letter. @§7письмом 
 §7Find the magical school boat @§7Найди магическую школьную лодку 
 §7[893,37,-2777]@ 
 §7Follow the children to the @§7Следуй за детьми в 
-§7school. @§7школу.
+§7school. @§7школу. 
 §7Talk to Cidre on the @§7Поговори с Кидре на 
-§7school island. @§7школьном острове
+§7school island. @§7школьном острове 
 §7Buy a wand and a @§7Купи палочку и 
 §7magical book from the nearby @§7магическую книгу из ближайших 
-§7shops and enter Grookwarts. @§7магазинов и войди в Груквартс.
+§7shops and enter Grookwarts. @§7магазинов и войди в Груквартс. 
 §7Attend the welcoming dinner at @§7Посети праздничный обед в 
-§7Grookwarts. @§7Груквартсе
+§7Grookwarts. @§7Груквартсе 
 §7Choose your schedule and attend @§7Выбери свое расписание и посети 
-§7your classes. @§7свои уроки.
-§7Finish school for the day. @§7Закончи школу за день.
+§7your classes. @§7свои уроки. 
+§7Finish school for the day. @§7Закончи школу за день. 
 
 QUESTS/The_Passage_(Quest)  
 §7Talk to Wirt in Troms @§7Поговори с Виртом в Тромсе 
@@ -2396,7 +2399,7 @@ QUESTS/The_Passage_(Quest)
 QUESTS/The_Qira_Hive_(Quest) 
 §7Talk to Yansur at @§7Поговори с Янсуром 
 §7[372,66,-5501]@ 
-§7and begin the Hive Challenge @§7и начни Челлендж Улья
+§7and begin the Hive Challenge @§7и начни Челлендж Улья 
 §7Prepare to enter the Thunder @§7Подготовься к прохождению Грома 
 §7Collect 5 Thunder Catalyst I @§7Собери 5 Катализатор Грома I 
 §7Collect 5 Thunder Catalyst II @§7Собери 5 Катализатор Грома II 
@@ -2426,24 +2429,24 @@ QUESTS/The_Qira_Hive_(Quest)
 §7Defeat the Spirit of Gale @§7Победи Spirit of Gale 
 §7and collect 1 Air Catalyst @§7и собери 1 Катализатор Воздуха 
 §7X @ 
-§7Air Division @§7Дивизии Воздуха
+§7Air Division @§7Дивизии Воздуха 
 §7Prepare to enter the Earth @§7Подготовься к прохождению Земли 
-§7Collect 5 Earth Catalyst I @§7Собери 5 Катализатор Земли I
-§7Collect 5 Earth Catalyst II @§7Собери 5 Катализатор Земли II
-§7Collect 5 Earth Catalyst III @§7Собери 5 Катализатор Земли III
-§7Collect 5 Earth Catalyst IV @§7Собери 5 Катализатор Земли IV
-§7Collect 5 Earth Catalyst V @§7Собери 5 Катализатор Земли V
-§7Collect 5 Earth Catalyst VI @§7Собери 5 Катализатор Земли VI
-§7Collect 5 Earth Catalyst VII @§7Собери 5 Катализатор Земли VII
-§7Collect 5 Earth Catalyst VIII @§7Собери 5 Катализатор Земли VIII
-§7Collect 5 Earth Catalyst IX @§7Собери 5 Катализатор Земли IX
+§7Collect 5 Earth Catalyst I @§7Собери 5 Катализатор Земли I 
+§7Collect 5 Earth Catalyst II @§7Собери 5 Катализатор Земли II 
+§7Collect 5 Earth Catalyst III @§7Собери 5 Катализатор Земли III 
+§7Collect 5 Earth Catalyst IV @§7Собери 5 Катализатор Земли IV 
+§7Collect 5 Earth Catalyst V @§7Собери 5 Катализатор Земли V 
+§7Collect 5 Earth Catalyst VI @§7Собери 5 Катализатор Земли VI 
+§7Collect 5 Earth Catalyst VII @§7Собери 5 Катализатор Земли VII 
+§7Collect 5 Earth Catalyst VIII @§7Собери 5 Катализатор Земли VIII 
+§7Collect 5 Earth Catalyst IX @§7Собери 5 Катализатор Земли IX 
 §7Defeat Genesis-Revorse and collect 1 @§7Победи Genesis-Revorse и собери 1 
-§7Earth Catalyst X @§7Катализатор Земли X
-§7Earth Division @§7Дивизии Земли
+§7Earth Catalyst X @§7Катализатор Земли X 
+§7Earth Division @§7Дивизии Земли 
 §7Prepare to enter the Water @§7Подготовься к прохождению Воды 
 §7Collect 5 Water Catalyst I @§7Собери 5 Катализатор Воды I 
 §7Collect 5 Water Catalyst II @§7Собери 5 Катализатор Воды II 
-§7Collect 5 Water Catalyst III @§7Собери 5 Катализатор Воды III
+§7Collect 5 Water Catalyst III @§7Собери 5 Катализатор Воды III 
 §7Collect 5 Water Catalyst IV @§7Собери 5 Катализатор Воды IV 
 §7Collect 5 Water Catalyst V @§7Собери 5 Катализатор Воды V 
 §7Collect 5 Water Catalyst VI @§7Собери 5 Катализатор Воды VI 
@@ -2451,29 +2454,29 @@ QUESTS/The_Qira_Hive_(Quest)
 §7Collect 5 Water Catalyst VIII @§7Собери 5 Катализатор Воды VIII 
 §7Collect 5 Water Catalyst IX @§7Собери 5 Катализатор Воды IX 
 §7Defeat the Oceanic Judge and @§7Победи Oceanic Judge и 
-§7collect 1 Water Catalyst X @§7собери 1 Катализатор Воды X
+§7collect 1 Water Catalyst X @§7собери 1 Катализатор Воды X 
 §7Water Division @§7Дивизии Воды 
 §7Prepare to enter the Fire @§7Подготовься к прохождению Огня 
-§7Collect 5 Fire Catalyst I @§7Собери 5 Катализатор Огня I
-§7Collect 5 Fire Catalyst II @§7Собери 5 Катализатор Огня II
-§7Collect 5 Fire Catalyst III @§7Собери 5 Катализатор Огня III
-§7Collect 5 Fire Catalyst IV @§7Собери 5 Катализатор Огня IV
-§7Collect 5 Fire Catalyst V @§7Собери 5 Катализатор Огня V
-§7Collect 5 Fire Catalyst VI @§7Собери 5 Катализатор Огня VI
-§7Collect 5 Fire Catalyst VII @§7Собери 5 Катализатор Огня VII
-§7Collect 5 Fire Catalyst VIII @§7Собери 5 Катализатор Огня VIII
-§7Collect 5 Fire Catalyst IX @§7Собери 5 Катализатор Огня IX
+§7Collect 5 Fire Catalyst I @§7Собери 5 Катализатор Огня I 
+§7Collect 5 Fire Catalyst II @§7Собери 5 Катализатор Огня II 
+§7Collect 5 Fire Catalyst III @§7Собери 5 Катализатор Огня III 
+§7Collect 5 Fire Catalyst IV @§7Собери 5 Катализатор Огня IV 
+§7Collect 5 Fire Catalyst V @§7Собери 5 Катализатор Огня V 
+§7Collect 5 Fire Catalyst VI @§7Собери 5 Катализатор Огня VI 
+§7Collect 5 Fire Catalyst VII @§7Собери 5 Катализатор Огня VII 
+§7Collect 5 Fire Catalyst VIII @§7Собери 5 Катализатор Огня VIII 
+§7Collect 5 Fire Catalyst IX @§7Собери 5 Катализатор Огня IX 
 §7Defeat the Solar Vanguard and @§7Победи Solar Vanguard и 
-§7collect 1 Fire Catalyst X @§7собери 1 Катализатор Огня X
+§7collect 1 Fire Catalyst X @§7собери 1 Катализатор Огня X 
 §7Fire Division and complete the @§7Дивизию Огня и пройди 
-§7Hive Challenge @§7Челлендж Улья
+§7Hive Challenge @§7Челлендж Улья 
 §7Prepare to enter the chambers @§7Подготовься к вхождению в камеру 
-§7of Mistress Qira @§7Госпожи Киры
+§7of Mistress Qira @§7Госпожи Киры 
 §7Defeat Qira, Mistress of the @§7Победи Киру, Госпожу 
 §7Hive and collect 1 Master @§7Улья и собери 1 Мастер 
-§7Catalyst @§7Катализатор
+§7Catalyst @§7Катализатор 
 §7Talk to Yansur and truly @§7Поговори с Янсуром и полностью 
-§7complete the Hive Challenge @§7заверши Челлендж Улья
+§7complete the Hive Challenge @§7заверши Челлендж Улья 
 
 QUESTS/The_Realm_of_Light_(Quest) 
 §7Speak to Aluxander in the @§7Поговори с Алуксандером 
@@ -2481,18 +2484,18 @@ QUESTS/The_Realm_of_Light_(Quest)
 §7[-1164,57,-6759]@ 
 §7(Requires completion of Finding the @§7(Необходимо пройти квест 
 §7Light) @§7Finding of Light) 
-§7Follow the trail of corruption @§7Следуй по пути порчи
-§7Investigate the cave @§7Посети пещеру
+§7Follow the trail of corruption @§7Следуй по пути порчи 
+§7Investigate the cave @§7Посети пещеру 
 §7Speak to Heliorion at @§7Поговори с Хелиорионом 
 §7[-1068,50,-7001]@ 
 §7Bring [7 Light Residue] and @§7Принеси [7 Остатков света] и 
-§7[3 Illuminated Mushrooms] to Heliorion @§7[3 Освещенных Гриба] к Хелиориону
+§7[3 Illuminated Mushrooms] to Heliorion @§7[3 Освещенных Гриба] к Хелиориону 
 §7Bring [10 Glowing Powder] to @§7Принеси [10 Сияющего Порошка] 
-§7Heliorion @§7Хелиориону
+§7Heliorion @§7Хелиориону 
 §7Follow the trails to the @§7Следуй по пути 
 §7seeds of corruption and destroy @§7к семенам и уничтожь их, 
 §7them, then report back to @§7затем сообщи 
-§7Heliorion at @§7об этом Хелиориону
+§7Heliorion at @§7об этом Хелиориону 
 §7Speak to Gaclux in front @§7Поговори с Гаклуксом 
 §7of the rune at @§7перед руной на 
 §7[-366,59,-6733]@ 
@@ -2505,7 +2508,7 @@ QUESTS/The_Shadow_of_the_Beast
 §7beast exists by following the @§7существования зверя, идя по следу 
 §7blood on the ground @§7крови на земле 
 §7Talk to the farmer to @§7Поговори с Толемом и получи 
-§7get evidence about the beast @§7улику о существовании зверя
+§7get evidence about the beast @§7улику о существовании зверя 
 §7Bring back the three escaped @§7Верни три сбежавших коровы, 
 §7cows near the two bridges @§7что рядом с двумя мостами 
 §7and in the cave under @§7и в пещере под фермой 
@@ -2536,17 +2539,17 @@ QUESTS/The_Thanos_Vaults
 §7Thanos's treasure room at @§7в сокровищнице Таноса на 
 §7[153,6,-5434]@ 
 §7Collect the gold from the @§7Собери золота из 
-§7Thanos's secret vault @§7секретного хранилища Таноса
+§7Thanos's secret vault @§7секретного хранилища Таноса 
 §7Bring the gold back to @§7Принеси золото обратно 
 §7Dolem @§7Долему 
  
 QUESTS/The_Ultimate_Weapon 
 §7Speak to Dodegar Bandysnoot at @§7Поговори с Додегаром на 
 §7[-987,42,-4593]@ 
-§7Collect [10 Wood Scrap] from @§7Собери [10 Wood Scrap]
-§7Wood Sprites at @§7с Wood Sprites на
+§7Collect [10 Wood Scrap] from @§7Собери [10 Wood Scrap] 
+§7Wood Sprites at @§7с Wood Sprites на 
 §7[-1073,47,-4619]@ 
-§7and return them to Dodegar @§7затем вернись к Додегару
+§7and return them to Dodegar @§7затем вернись к Додегару 
 §7Dodegar needs [17 Gollier Iron] @§7Додегару нужно 
 §7from the Golliers near @§7[17 Gollier Iron] с Golliers на 
 §7[-768,48,-4516]@ 
@@ -2572,7 +2575,7 @@ QUESTS/The_Worm_Holes
 §7Investigate the hole to the @§7Исследуй дыру 
 §7north in the lake @§7на севере в озере 
 §7[-2044,50,-5529]@ 
-§7Return to Malo @§7Вернись к Мало
+§7Return to Malo @§7Вернись к Мало 
  
 QUESTS/Tower_of_Ascension 
 §7Talk to Ankou at @§7Поговори с Анкоу на 
@@ -2587,9 +2590,9 @@ QUESTS/Tower_of_Ascension
 §7Begin the Third Floor @§7Начни Третий этаж 
 §7Begin the Fourth Floor @§7Начни Четвертый этаж 
 §7Begin the Fifth Floor @§7Начни Пятый этаж 
-§7Begin the Sixth Floor @§7Начни Шестой этаж
+§7Begin the Sixth Floor @§7Начни Шестой этаж 
 §7Begin the Seventh Floor @§7Начни Седьмой этаж 
-§7Talk to Ankou @§7Поговори с Анкоу
+§7Talk to Ankou @§7Поговори с Анкоу 
  
 QUESTS/Tribal_Aggression  
 §7Talk to Caras at [1077, @§7Поговори с Карасом на [1077, 
@@ -2606,23 +2609,23 @@ QUESTS/Troubled_Tribesmen
 §7Speak with Ka L'argwit at @§7Поговори с Ка Ларгвитом на 
 §7[-545,52,-313]@ 
 §7in Dernel. @§7в Дернел джунглях. 
-§7Talk to Krattson in the @§7Поговори с Краттсоном в
-§7Dernel Village @§7Деревне Дернел
+§7Talk to Krattson in the @§7Поговори с Краттсоном в 
+§7Dernel Village @§7Деревне Дернел 
 §7Find the Tribe Shaman at @§7Найди Шамана племени на 
-§7the fork in the road @§7развилке дороги
-§7Return to Ka L'argwit @§7Вернись к Ка Ларгвиту
-§7Investigate the roots of Entamis @§7Посети корни Энтамис
+§7the fork in the road @§7развилке дороги 
+§7Return to Ka L'argwit @§7Вернись к Ка Ларгвиту 
+§7Investigate the roots of Entamis @§7Посети корни Энтамис 
 §7Kill the monster at the @§7Убей монстра на 
 §7bottom and bring [1 Insect @§7дне и принеси [1 Испорченное 
-§7of Corruption] to Inrekei. @§7Насекомое] к Энрике.
+§7of Corruption] to Inrekei. @§7Насекомое] к Энрике. 
 §7Kill Aenara and give [1 @§7Убей Aenara и отдай [1 
-§7Insect of Corruption] to Inrekei. @§7Испорченное Насекомое] Энрике
+§7Insect of Corruption] to Inrekei. @§7Испорченное Насекомое] Энрике 
 
 QUESTS/Tunnel_Trouble  
 §7Talk to Captain Fenor in @§7Поговори с Капитаном Фенором 
-§7front of Detlas at [379,67,-1569]. @§7перед Детласом на [379,67,-1569].
+§7front of Detlas at [379,67,-1569]. @§7перед Детласом на [379,67,-1569]. 
 §7Enter the cave behind Captain @§7Войди в пещеру позади 
-§7Fenor at [384,67,-1557]. @§7Капитана Фенора на [384,67,-1557].
+§7Fenor at [384,67,-1557]. @§7Капитана Фенора на [384,67,-1557]. 
 §7Help Miner Linton remove the @§7Помоги Шахтеру Линтону 
 §7debris blocking the path. @§7убрать мусор, блокирующий проход 
 §7Clear the cave of possible @§7Очисти пещеру от 
@@ -2657,7 +2660,7 @@ QUESTS/Underice
 §7Obtain the bait at the @§7Найди наживку на лесопилке 
 §7woodcutting camp northwest of Nesaak, @§7на северо-западе от Несаака, 
 §7use it to catch the @§7используй ее для ловли 
-§7fish at the dock and @§7рыбы в доках, затем  
+§7fish at the dock and @§7рыбы в доках, затем 
 §7then give it to Calamaro @§7отдай ее Каламаро или 
 §7or Gernald @§7Гернальду 
 §7Meet up with Fredris in @§7Встреться с Фредрисом в Несааке 
@@ -2674,7 +2677,7 @@ QUESTS/Underwater
 §7Explore the crashed ship for @§7Исследуй разбившийся корабль 
 §7a lost treasure @§7в поисках сокровища 
 §7Break the crate and bring @§7Сломай контейнер и принеси 
-§7[4 Old Treasure] to Omango @§7[4 Старых Сокровища] Оманго
+§7[4 Old Treasure] to Omango @§7[4 Старых Сокровища] Оманго 
  
 QUESTS/﻿Wrath_of_the_Mummy  
 §7Talk to Ormrod in the @§7Поговори с Ормродом 
@@ -2701,14 +2704,14 @@ QUESTS/WynnExcavation_Site_A
 §7[1082,69,-1799]@ 
 §7Return to Excavator Vade with @§7Вернись к Раскопщику Вэйду 
 §7the translated writing @§7с переведенным текстом 
-§7Search the tombs @§7Обыщи гробницу
+§7Search the tombs @§7Обыщи гробницу 
 §7Solve this riddle in the @§7Разгадай загадку в 
 §7tomb: "Throw tribute an item @§7гробнице: "Брось ценный предмет 
 §7to the wood that stands @§7на деревянную плиту, 
 §7out, the right angle will @§7правильный угол 
 §7open the way" @§7откроет путь" 
 §7Return and talk to Excavator @§7Вернись и поговори 
-§7Vade @§7с Раскопщиком Вэйдом
+§7Vade @§7с Раскопщиком Вэйдом 
  
 QUESTS/WynnExcavation_Site_B 
 §7Bring the Yellow Crystal Shard @§7Принеси Желтый Осколок Кристалла 
@@ -2717,7 +2720,7 @@ QUESTS/WynnExcavation_Site_B
 §7Investigate the depths of the @§7Исследуй глубины, зайдя в 
 §7cave @§7пещеру 
 §7Find the crystal @§7Найди кристалл 
-§7Talk to Excavator Lykron @§7Поговори с Раскопщиком Ликроном
+§7Talk to Excavator Lykron @§7Поговори с Раскопщиком Ликроном 
  
 QUESTS/WynnExcavation_Site_C 
 §7Talk to Excavator Placardus at @§7Поговори с Раскопщиком Плакардусом на 
@@ -2729,54 +2732,54 @@ QUESTS/WynnExcavation_Site_C
 §7Explore the area and search @§7Исследуй территорию 
 §7for the traitor @§7в поисках предателя 
 §7Explore the depths of the @§7Исследуй глубины 
-§7volcano @§7вулкана
+§7volcano @§7вулкана 
 §7Escape the volcano with the @§7Сбеги из вулкана с 
-§7crystal shard @§7осколком кристалла
+§7crystal shard @§7осколком кристалла 
 §7Report back to Excavator Placardus @§7Сообщи обо всем Раскопщику Плакардусу 
-§7with a [Red Crystal Shard] @§7с [Красным Осколком Кристалла]
+§7with a [Red Crystal Shard] @§7с [Красным Осколком Кристалла] 
  
 QUESTS/WynnExcavation_Site_D 
-§7Talk to Royal Advisor Carlos @§7Поговори с Королевским Советником Карлосом
+§7Talk to Royal Advisor Carlos @§7Поговори с Королевским Советником Карлосом 
 §7in Troms Castle @§7в замке Тромсa 
 §7[-848,98,-789]@ 
 §7(Requires shard from Site C) @§7(Необходим осколок из Site C) 
-§7Find the secret passageway inside @§7Найди секретный проход внутри
-§7of the throne room @§7тронного зала
+§7Find the secret passageway inside @§7Найди секретный проход внутри 
+§7of the throne room @§7тронного зала 
 §7Explore the secrets beneath Troms @§7Исследуй секреты под Тромс 
-§7Castle @§7замком
-§7Talk to the King @§7Поговори с Королем
-§7Exit the King's room @§7Покинь комнату Короля
-§7Escape Troms @§7Сбеги из Тромса
+§7Castle @§7замком 
+§7Talk to the King @§7Поговори с Королем 
+§7Exit the King's room @§7Покинь комнату Короля 
+§7Escape Troms @§7Сбеги из Тромса 
 §7Head to the location on @§7Следуй по координатам 
 §7the note @§7на записке 
-§7Speak to Traitor Thomas @§7Поговори с предателем Томасом
+§7Speak to Traitor Thomas @§7Поговори с предателем Томасом 
 §7Find the three map fragments @§7Найди 3 фрагмента карты, 
 §7by following the eyes and @§7идя по следу глаз, 
-§7return to Thomas. @§7и вернись к Томасу
-§7Enter the traitor camp @§7Войди в лагерь предателей
-§7Speak to Rebel Leader Amadel @§7Поговори с их лидером Амаделем
+§7return to Thomas. @§7и вернись к Томасу 
+§7Enter the traitor camp @§7Войди в лагерь предателей 
+§7Speak to Rebel Leader Amadel @§7Поговори с их лидером Амаделем 
 §7Go to Site D @§7Иди к Site D 
 §7[-874,22,-349]@ 
 §7Search the excavation site @§7Продвигайся вдоль раскопок 
-§7Talk to Excavator Admin Uci @§7Поговори с Раскопщиком Админом Уки
-§7Enter The Ancient Dungeon @§7Войди в Древний Данж
-§7Solve The Yellow Puzzle @§7Пройди желтый пазл
-§7Solve The Purple Puzzle @§7Пройди фиолетовый пазл
-§7Solve The Red Puzzle @§7Пройди красный пазл
-§7Solve The Green Puzzle @§7Пройди зеленый пазл
-§7Escape The Green Room @§7Сбеги из зеленой комнаты
-§7Talk to Excavator Amadel @§7Поговори с Раскопщиком Амаделем
-§7Teleport to the Ancient City @§7Телепортируйся в Древний Город
-§7Explore The Ancient City @§7Исследуй Древний Город
-§7Speak to Amadels assistant @§7Поговори с Ассистентом Амадела
-§7Fight Corrupted Amadel @§7Сразись с Corrupted Amadel
-§7Kill Corruped Amadel @§7Убей Corruped Amadel
-§7Fight Shadow Amadel @§7Сразись с Shadow Amadel
+§7Talk to Excavator Admin Uci @§7Поговори с Раскопщиком Админом Уки 
+§7Enter The Ancient Dungeon @§7Войди в Древний Данж 
+§7Solve The Yellow Puzzle @§7Пройди желтый пазл 
+§7Solve The Purple Puzzle @§7Пройди фиолетовый пазл 
+§7Solve The Red Puzzle @§7Пройди красный пазл 
+§7Solve The Green Puzzle @§7Пройди зеленый пазл 
+§7Escape The Green Room @§7Сбеги из зеленой комнаты 
+§7Talk to Excavator Amadel @§7Поговори с Раскопщиком Амаделем 
+§7Teleport to the Ancient City @§7Телепортируйся в Древний Город 
+§7Explore The Ancient City @§7Исследуй Древний Город 
+§7Speak to Amadels assistant @§7Поговори с Ассистентом Амадела 
+§7Fight Corrupted Amadel @§7Сразись с Corrupted Amadel 
+§7Kill Corruped Amadel @§7Убей Corruped Amadel 
+§7Fight Shadow Amadel @§7Сразись с Shadow Amadel 
 §7Kill Shadow Amadel @§7Убей Shadow Amadel 
-§7Fight Amadel @§7Сразись с Amadel
-§7Kill Amadel @§7Убей Amadel
-§7Talk to The King of @§7Поговори с Королем
-§7Ragni @§7Рагни
+§7Fight Amadel @§7Сразись с Amadel 
+§7Kill Amadel @§7Убей Amadel 
+§7Talk to The King of @§7Поговори с Королем 
+§7Ragni @§7Рагни 
 
 QUESTS/Zhight_Island_(Quest)  
 §7Talk to Zhight of Zhight @§7Поговори с Жигтом на Жигт 
@@ -2786,19 +2789,20 @@ QUESTS/Zhight_Island_(Quest)
 §7Find Phief's ship, and return @§7Найди потерянный корабль Пифа 
 §7it to its rightful owner @§7и верни его владельцу 
 §7Get Zhight's supplies from Czytash @§7Получи запасы Жигта от 
-§7at Maro Peaks @§7Кзыташа на Вершинах Маро
+§7at Maro Peaks @§7Кзыташа на Вершинах Маро 
 §7Give Zhight his supplies @§7Отдай Жигту его запасы 
 
 ################################UNKNOWN STAGES########################################
-§7Exit the house @§7Покинь дом
-§7Solve the puzzle to open @§7Пройди пазл чтобы открыть
-§7the door that locks the @§7дверь закрывающую
-§7heirloom. @§7реликвию.
+§7Exit the house @§7Покинь дом 
+§7Solve the puzzle to open @§7Пройди пазл чтобы открыть 
+§7the door that locks the @§7дверь закрывающую 
+§7heirloom. @§7реликвию. 
 §7Explore the house to find @§7Исследуй дом чтобы найти 
 §7a way out @§7выход 
-§7clue missing. @§7пропавшие подсказки
+§7clue missing. @§7пропавшие подсказки 
 §7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
-§7Continue through the hideout! @§7Продвигайся через укрытие!
+§7Continue through the hideout! @§7Продвигайся через укрытие! 
+§7Explore @§7Исследуй 
 
 #############################MINI QUESTS#########################################
 §7Bring [5 Forest Webs] to @§7Принеси [5 Forest Webs] к 

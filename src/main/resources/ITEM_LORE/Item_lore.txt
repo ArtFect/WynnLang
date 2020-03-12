@@ -2,6 +2,7 @@
 §7- Unprocessed Sandstone Ore@§7- Необработанная Песчаная Руда
 §7- Refined Sandstone Gem 1@§7- Переработанный Песчаный Камень 1
 §7- Refined Sandstone Gem 2@§7- Переработанный Песчаный Камень 2
+§7- Refined Sandstone Gem 3@§7- Переработанный Песчаный Камень 3
 §7- Refined Sandstone Ingot 2@§7- Переработанный Слиток Песчаника 2
 §7- Refined Sandstone Ingot 1@§7- Переработанный Слиток Песчаника 1
 §7- Refined Sandstone Ingot 3@§7- Переработанный Слиток Песчаника 3
@@ -76,6 +77,7 @@
 §7- Refined Salmon Oil 1@§7- Переработанный Жир Лосося 1
 §7- Refined Salmon Meat 2@§7- Переработанное Мясо Лосося 2
 §7- Refined Salmon Meat 1@§7- Переработанное Мясо Лосося 1
+§7- Refined Salmon Meat 3@§7- Переработанное Мясо Лосося 3
 §7- Unprocessed Gudgeon@§7- Необработанный Пескарь
 §7- Refined Gudgeon Meat 1@§7- Переработанное Мясо Пескаря 1
 §7- Refined Gudgeon Meat 2@§7- Переработанное Мясо Пескаря 2
@@ -94,21 +96,30 @@
 §7- Refined Acacia Wood 2@§7- Переработанная Древесина Акации 2
 §7- Refined Acacia Wood 1@§7- Переработанная Древесина Акации 1
 §7- Refined Acacia Wood 3@§7- Переработанная Древесина Акации 3
+§7- Refined Acacia Paper 3@§7- Переработанная Акациевая Бумага 3
+§7- Refined Acacia Paper 2@§7- Переработанная Акациевая Бумага 2
+§7- Refined Acacia Paper 1@§7- Переработанная Акациевая Бумага 1
 §7- Refined Iron Ingot 3@§7- Переработанный Слиток Железа 3
 §7- Refined Iron Ingot 1@§7- Переработанный Слиток Железа 1
+§7- Refined Iron Ingot 2@§7- Переработанный Слиток Железа 2
+§7- Refined Iron Gem 3@§7- Переработанный Железный Камень 3
+§7- Refined Iron Gem 2@§7- Переработанный Железный Камень 2
 §7- Refined Iron Gem 1@§7- Переработанный Железный Камень 1
 §7- Unprocessed Spruce Log@§7- Необработанное Бревно Ели
 §7- Refined Spruce Wood 1@§7- Переработанная Древесина Ели 1
 §7- Refined Spruce Wood 2@§7- Переработанная Древесина Ели 2
 §7- Refined Spruce Paper 1@§7- Переработанная Еловая Бумага 1
+§7- Refined Spruce Paper 3@§7- Переработанная Еловая Бумага 3
 §7- Unprocessed Malt@§7- Необработанный Солод
 §7- Refined Malt String 1@§7- Переработанная Солодовая Нить 1
 §7- Refined Malt String 2@§7- Переработанная Солодовая Нить 2
 §7- Refined Malt Grains 1@§7- Переработанное Солодовое Зерно 1
+§7- Refined Malt Grains 3@§7- Переработанное Солодовое Зерно 3
 §7- Refined Silver Gem 1@§7- Переработанный Серебрянный Камень 1
 §7- Refined Silver Gem 2@§7- Переработанный Серебрянный Камень 2
 §7- Refined Silver Ingot 1@§7- Переработанный Слиток Серебра 1
 §7- Refined Molten Ingot 1@§7- Переработанный Слиток Молтен 1
+§7- Refined Molten Ingot 2@§7- Переработанный Слиток Молтен 2
 §7- Refined Jungle Wood 1@§7- Переработанная Древесина Амаранта 1
 §7- Refined Jungle Wood 2@§7- Переработанная Древесина Амаранта 2
 §7- Unprocessed Piranha@§7- Необработанная Пиранья
@@ -117,8 +128,13 @@
 §7- Refined Carp Oil 1@§7- Переработанный Жир Карпа 1
 §7- Refined Carp Oil 3@§7- Переработанный Жир Карпа 3
 §7- Refined Carp Oil 2@§7- Переработанный Жир Карпа 2
+§7- Refined Carp Meat 1@§7- Переработанное Мясо Карпа 1
+§7- Refined Carp Meat 2@§7- Переработанное Мясо Карпа 2
+§7- Refined Carp Meat 3@§7- Переработанное Мясо Карпа 3
 §7- Unprocessed Icefish@§7- Необработанная Щука
 §7- Refined Icefish Oil 1@§7- Переработанный Жир Щуки 1
+§7- Refined Icefish Oil 3@§7- Переработанный Жир Щуки 3
+§7- Refined Icefish Meat 2@§7- Переработанное Мясо Щуки 2
 §7- Refined Hops String 1@§7- Переработанная Хмельная Нить 1
 §7- Refined Cobalt Ingot 2@§7- Переработанный Слиток Кобальта 2
 §7- Refined Cobalt Ingot 1@§7- Переработанный Слиток Кобальта 1
@@ -128,6 +144,7 @@
 §7- Refined Decay Grains 2@§7- Переработанное Зараженное Зерно 2
 §7- Refined Diamond Ingot 2@§7- Переработанный Слиток Алмаза 2
 §7- Refined Diamond Ingot 3@§7- Переработанный Слиток Алмаза 3
+§7- Refined Diamond Gem 3@§7- Переработанный Алмазный Камень 3
 §7- Refined Avo Wood 2@§7- Переработанная Древесина Авокадо 2
 §7- Refined Avo Wood 1@§7- Переработанная Древесина Авокадо 1 
 §7- Refined Kanderstone Gem 1@§7- Переработанный Кандерстоун Камень 1
@@ -137,6 +154,9 @@
 §7- Refined Kanderstone Ingot 1@§7- Переработанный Слиток Кандерстоуна 1
 §7- Refined Gylia Oil 3@§7- Переработанный Жир Гилия 3
 §7- Refined Rye Grains 1@§7- Переработанное Ржаное Зерно 1
+§7- Refined Koi Oil 2@§7- Переработанный Жир Сазана 2
+§7- Refined Rice String 1@§7- Переработанная Рисовая Нить 1
+§7- Refined Bass Oil 3@§7- Переработанный Жир Окуня 3
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -496,7 +516,8 @@
             §f3§7 Icefish Oil§f Ⓚ@            §f3§7 Жира Щуки§f Ⓚ
             §f6§7 Icefish Oil§f Ⓚ@            §f6§7 Жира Щуки§f Ⓚ
             §f9§7 Icefish Oil§f Ⓚ@            §f9§7 Жира Щуки§f Ⓚ
-§c✖ Lv. 40: §f3§7 Icefish Oil§f Ⓚ@§c✖ Ур. 40: §f3§7 Жира Щуки§f Ⓚ			
+§c✖ Lv. 40: §f3§7 Icefish Oil§f Ⓚ@§c✖ Ур. 40: §f3§7 Жира Щуки§f Ⓚ
+§a✔ Lv. 40: §f3§7 Icefish Oil§f Ⓚ@§a✔ Ур. 40: §f3§7 Жира Щуки§f Ⓚ	
             §f6§7 Spruce Paper§f Ⓒ@            §f6§7 Еловой Бумаги§f Ⓒ
             §f3§7 Spruce Paper§f Ⓒ@            §f3§7 Еловой Бумаги§f Ⓒ
             §f6§7 Hops Grains§f Ⓙ@            §f6§7 Хмельного Зерна§f Ⓙ
@@ -548,6 +569,7 @@
             §f10§7 Rice String§f Ⓙ@            §f10§7 Рисовых Нитей§f Ⓙ
             §f5§7 Rice String§f Ⓙ@            §f5§7 Рисовых Нитей§f Ⓙ
             §f10§7 Rice Grains§f Ⓙ@            §f10§7 Рисового Зерна§f Ⓙ
+            §f5§7 Rice Grains§f Ⓙ@            §f5§7 Рисового Зерна§f Ⓙ
             §f5§7 Pine Wood§f Ⓒ@            §f5§7 Древесины Сосны§f Ⓒ
             §f10§7 Pine Wood§f Ⓒ@            §f10§7 Древесины Сосны§f Ⓒ
             §f10§7 Pine Paper§f Ⓒ@            §f10§7 Сосновой Бумаги§f Ⓒ
@@ -569,6 +591,8 @@
             §f10§7 Gylia Oil§f Ⓚ@            §f10§7 Жира Гилия§f Ⓚ
             §f15§7 Gylia Oil§f Ⓚ@            §f15§7 Жира Гилия§f Ⓚ
 §c✖ Lv. 70: §f10§7 Gylia Meat§f Ⓚ@§c✖ Ур. 70: §f10§7 Мяса Гилия§f Ⓚ
+§a✔ Lv. 70: §f10§7 Gylia Meat§f Ⓚ@§a✔ Ур. 70: §f10§7 Мяса Гилия§f Ⓚ
+§c✖ Lv. 80: §f10§7 Bass Meat§f Ⓚ@§c✖ Ур. 80: §f10§7 Мяса Окуня§f Ⓚ
 §a✔ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§a✔ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 80: §f10§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f10§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 80: §f5§7 Bass Oil§f Ⓚ@§c✖ Ур. 80: §f5§7 Жира Окуня§f Ⓚ
@@ -655,6 +679,8 @@
 §c✖ Lv. 50: §f8§7 Silver Ingot§f Ⓑ@§c✖ Ур. 50: §f8§7 Серебрянных Слитков§f Ⓑ
             §f8§7 Jungle Wood§f Ⓒ@            §f8§7 Древесины Амаранта§f Ⓒ
             §f4§7 Jungle Wood§f Ⓒ@            §f4§7 Древесины Амаранта§f Ⓒ
+            §f8§7 Jungle Paper§f Ⓒ@            §f8§7 Амарантовой Бумаги§f Ⓒ
+            §f4§7 Jungle Paper§f Ⓒ@            §f4§7 Амарантовой Бумаги§f Ⓒ
 §c✖ Lv. 60: §f4§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f4§7 Кобальтовых Слитка§f Ⓑ
 §c✖ Lv. 60: §f8§7 Cobalt Ingot§f Ⓑ@§c✖ Ур. 60: §f8§7 Кобальтовых Слитка§f Ⓑ
 §a✔ Lv. 60: §f4§7 Cobalt Ingot§f Ⓑ@§a✔ Ур. 60: §f4§7 Кобальтовых Слитка§f Ⓑ
@@ -663,14 +689,24 @@
 §a✔ Lv. 60: §f4§7 Cobalt Gem§f Ⓑ@§a✔ Ур. 60: §f4§7 Кобальтовых Камня§f Ⓑ
             §f8§7 Dark Wood§f Ⓒ@            §f8§7 Древесины Каштана§f Ⓒ
             §f4§7 Dark Wood§f Ⓒ@            §f4§7 Древесины Каштана§f Ⓒ
+            §f4§7 Dark Paper§f Ⓒ@            §f4§7 Каштановой Бумаги§f Ⓒ
+            §f8§7 Dark Paper§f Ⓒ@            §f8§7 Каштановой Бумаги§f Ⓒ
 §c✖ Lv. 50: §f8§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f8§7 Ржаных Нитей§f Ⓙ
 §c✖ Lv. 50: §f4§7 Rye String§f Ⓙ@§c✖ Ур. 50: §f4§7 Ржаных Нити§f Ⓙ
+§a✔ Lv. 50: §f8§7 Rye String§f Ⓙ@§a✔ Ур. 50: §f8§7 Ржаных Нитей§f Ⓙ
+§a✔ Lv. 50: §f4§7 Rye String§f Ⓙ@§a✔ Ур. 50: §f4§7 Ржаных Нити§f Ⓙ
             §f8§7 Rye String§f Ⓙ@            §f8§7 Ржаных Нитей§f Ⓙ
             §f4§7 Rye String§f Ⓙ@            §f4§7 Ржаных Нити§f Ⓙ
             §f4§7 Rye Grains§f Ⓙ@            §f4§7 Ржаного Зерна§f Ⓙ
+            §f8§7 Rye Grains§f Ⓙ@            §f8§7 Ржаного Зерна§f Ⓙ
 §c✖ Lv. 50: §f8§7 Piranha Oil§f Ⓚ@§c✖ Ур. 50: §f8§7 Жира Пираньи§f Ⓚ
+§a✔ Lv. 50: §f8§7 Piranha Oil§f Ⓚ@§a✔ Ур. 50: §f8§7 Жира Пираньи§f Ⓚ
+§c✖ Lv. 50: §f4§7 Piranha Oil§f Ⓚ@§c✖ Ур. 50: §f4§7 Жира Пираньи§f Ⓚ
+§a✔ Lv. 50: §f4§7 Piranha Oil§f Ⓚ@§a✔ Ур. 50: §f4§7 Жира Пираньи§f Ⓚ
 §a✔ Lv. 60: §f8§7 Millet String§f Ⓙ@§a✔ Ур. 60: §f8§7 Просо Нитей§f Ⓙ
 §a✔ Lv. 60: §f4§7 Millet String§f Ⓙ@§a✔ Ур. 60: §f4§7 Просо Нити§f Ⓙ
+§c✖ Lv. 60: §f8§7 Millet String§f Ⓙ@§c✖ Ур. 60: §f8§7 Просо Нитей§f Ⓙ
+§c✖ Lv. 60: §f4§7 Millet String§f Ⓙ@§c✖ Ур. 60: §f4§7 Просо Нити§f Ⓙ
             §f8§7 Millet String§f Ⓙ@            §f8§7 Просо Нитей§f Ⓙ
             §f4§7 Millet String§f Ⓙ@            §f4§7 Просо Нити§f Ⓙ
             §f8§7 Millet Grains§f Ⓙ@            §f8§7 Просо Зерен§f Ⓙ
@@ -690,6 +726,8 @@
             §f12§7 Koi Oil§f Ⓚ@            §f12§7 Жира Сазана§f Ⓚ
 §a✔ Lv. 60: §f8§7 Koi Oil§f Ⓚ@§a✔ Ур. 60: §f8§7 Жира Сазана§f Ⓚ
 §a✔ Lv. 60: §f4§7 Koi Oil§f Ⓚ@§a✔ Ур. 60: §f4§7 Жира Сазана§f Ⓚ
+§c✖ Lv. 60: §f8§7 Koi Oil§f Ⓚ@§c✖ Ур. 60: §f8§7 Жира Сазана§f Ⓚ
+§c✖ Lv. 60: §f4§7 Koi Oil§f Ⓚ@§c✖ Ур. 60: §f4§7 Жира Сазана§f Ⓚ
 §c✖ Lv. 60: §f8§7 Koi Meat§f Ⓚ@§c✖ Ур. 60: §f8§7 Мяса Сазана§f Ⓚ
 §a✔ Lv. 60: §f8§7 Koi Meat§f Ⓚ@§a✔ Ур. 60: §f8§7 Мяса Сазана§f Ⓚ
 §c✖ Lv. 80: §f5§7 Diamond Ingot§f Ⓑ@§c✖ Ур. 80: §f5§7 Слитков Алмаза§f Ⓑ
@@ -1342,6 +1380,7 @@
 §5- §7Shadow Clone Spell §8[Lv. 11]@§5- §7Теневой Клон Заклинание §8[Ур. 11]
 §6- §7Leopard Punches§8 [Lv. 21]@§6- §7Удары Леопарда§8 [Ур. 21]
 §6- §fLeopard Punches§7 [Lv. 21]@§6- §fУдары Леопарда§7 [Ур. 21]
+§5- §7Leopard Punches Spell §8[Lv. 21]@§5- §7Удары Леопарда Заклинание §8[Ур. 21]
 §5- §7Blinding Cloud Spell §8[Lv. 31]@§5- §7Ослепляющее Облако Заклинание §8[Ур. 31]
 §6- §7Blinding Cloud§8 [Lv. 31]@§6- §7Ослепляющее Облако§8 [Ур. 31]
 §6- §fBlinding Cloud§7 [Lv. 31]@§6- §fОслепляющее Облако§7 [Ур. 31]
@@ -1363,6 +1402,7 @@
 §6- §fWind Surge§7 [Lv. 21]@§6- §fПорыв Ветра§7 [Ур. 21]
 §5- §7Wind Surge Spell §8[Lv. 21]@§5- §7Порыв Ветра Заклинание §8[Ур. 21]
 §6- §7Gale Funnel§8 [Lv. 31]@§6- §7Воронка Бури§8 [Ур. 31]
+§6- §fGale Funnel§7 [Lv. 31]@§6- §fВоронка Бури§7 [Ур. 31]
 §5- §7Gale Funnel Spell §8[Lv. 31]@§5- §7Воронка Бури Заклинание §8[Ур. 31]
 §5Next Upgrade:@§5Следующий Апгрейд:
 §5- §7Spin Attack Upgrade II §8[Lv. 16]@§5- §7Круговая Атака Апгрейд II §8[Ур. 16]
@@ -1399,8 +1439,12 @@
 §5- §7Ice Snake Upgrade III §8[Lv. 66]@§5- §7Ледяная Змея Апгрейд III §8[Ур. 66]
 §5- §7Smoke Bomb Upgrade II §8[Lv. 46]@§5- §7Дымовая Бомба Апгрейд II §8[Ур. 46]
 §5- §7Smoke Bomb Upgrade III §8[Lv. 66]@§5- §7Дымовая Бомба Апгрейд III §8[Ур. 66]
+§5- §7Blinding Cloud Upgrade II §8[Lv. 46]@§5- §7Ослепляющее Облако Апгрейд II §8[Ур. 46]
+§5- §7Blinding Cloud Upgrade III §8[Lv. 66]@§5- §7Ослепляющее Облако Апгрейд III §8[Ур. 66]
 §5- §7Multi Hit Upgrade II §8[Lv. 36]@§5- §7Мега Удар Апгрейд II §8[Ур. 36]
 §5- §7Multi Hit Upgrade III §8[Lv. 56]@§5- §7Мега Удар Апгрейд III §8[Ур. 56]
+§5- §7Leopard Punches Upgrade II §8[Lv. 36]@§5- §7Удары Леопарда Апгрейд II §8[Ур. 36]
+§5- §7Leopard Punches Upgrade III §8[Lv. 56]@§5- §7Удары Леопарда Апгрейд III §8[Ур. 56]
 §5- §7Bolt Blizzard Upgrade II §8[Lv. 16]@§5- §7Грохот Бури Апгрейд II §8[Ур. 16]
 §5- §7Bolt Blizzard Upgrade III §8[Lv. 36]@§5- §7Грохот Бури Апгрейд III §8[Ур. 36]
 §5- §7Holy Blast Upgrade II §8[Lv. 16]@§5- §7Святой Взрыв Апгрейд II §8[Ур. 16]
@@ -1411,19 +1455,36 @@
 §5- §7Shadow Clone Upgrade III §8[Lv. 46]@§5- §7Теневой Клон Апгрейд III §8[Ур. 46]
 §5- §7Spider Jump Upgrade II §8[Lv. 26]@§5- §7Прыжок Паука Апгрейд II §8[Ур. 26]
 §5- §7Spider Jump Upgrade III §8[Lv. 46]@§5- §7Прыжок Паука Апгрейд III §8[Ур. 46]
+§5- §7Creeper Dart Upgrade II §8[Lv. 36]@§5- §7Дротик Крипера Апгрейд II §8[Ур. 36]
 §5- §7Creeper Dart Upgrade III §8[Lv. 56]@§5- §7Дротик Крипера Апгрейд III §8[Ур. 56]
+§5- §7Dagger Aura Upgrade II §8[Lv. 46]@§5- §7Кинжальная Аура Апгрейд II §8[Ур. 46]
 §5- §7Dagger Aura Upgrade III §8[Lv. 66]@§5- §7Кинжальная Аура Апгрейд III §8[Ур. 66]
+§5- §7Dead Star Upgrade II §8[Lv. 36]@§5- §7Мертвая Звезда Апгрейд II §8[Ур. 36]
 §5- §7Dead Star Upgrade III §8[Lv. 56]@§5- §7Мертвая Звезда Апгрейд III §8[Ур. 56]
 §5- §7Haul Upgrade II §8[Lv. 26]@§5- §7Бросок Апгрейд II §8[Ур. 26]
+§5- §7Haul Upgrade III §8[Lv. 46]@§5- §7Бросок Апгрейд III §8[Ур. 46]
 §5- §7Totem Upgrade II §8[Lv. 16]@§5- §7Тотем Апгрейд II §8[Ур. 16]
+§5- §7Totem Upgrade III §8[Lv. 36]@§5- §7Тотем Апгрейд III §8[Ур. 36]
+§5- §7Crystal Reptile Upgrade II §8[Lv. 46]@§5- §7Кристальная Рептилия Апгрейд II §8[Ур. 46]
 §5- §7Crystal Reptile Upgrade III §8[Lv. 66]@§5- §7Кристальная Рептилия Апгрейд III §8[Ур. 66]
 §5- §7Sky Emblem Upgrade II §8[Lv. 16]@§5- §7Небесная Эмблема Апгрейд II §8[Ур. 16]
+§5- §7Sky Emblem Upgrade III §8[Lv. 36]@§5- §7Небесная Эмблема Апгрейд III §8[Ур. 36]
 §5- §7Soar Upgrade II §8[Lv. 26]@§5- §7Взлет Апгрейд II §8[Ур. 26]
-§5- §7Totem Upgrade III §8[Lv. 36]@§5- §7Тотем Апгрейд III §8[Ур. 36]
-§5- §7Haul Upgrade III §8[Lv. 46]@§5- §7Бросок Апгрейд III §8[Ур. 46]
+§5- §7Soar Upgrade III §8[Lv. 46]@§5- §7Взлет Апгрейд III §8[Ур. 46]
+§5- §7Uproot Upgrade II §8[Lv. 46]@§5- §7Изгнание Апгрейд II §8[Ур. 46]
 §5- §7Uproot Upgrade III §8[Lv. 66]@§5- §7Изгнание Апгрейд III §8[Ур. 66]
+§5- §7Aura Upgrade II §8[Lv. 36]@§5- §7Аура Апгрейд II §8[Ур. 36]
 §5- §7Aura Upgrade III §8[Lv. 56]@§5- §7Аура Апгрейд III §8[Ур. 56]
+§5- §7Whirlwind Upgrade II §8[Lv. 16]@§5- §7Вихрь Апгрейд II §8[Ур. 16]
 §5- §7Whirlwind Upgrade III §8[Lv. 36]@§5- §7Вихрь Апгрейд III §8[Ур. 36]
+§5- §7Heaven Jolt Upgrade II §8[Lv. 36]@§5- §7Небесный Удар Апгрейд II §8[Ур. 36]
+§5- §7Heaven Jolt Upgrade III §8[Lv. 56]@§5- §7Небесный Удар Апгрейд III §8[Ур. 56]
+§5- §7Cry of the Gods Upgrade II §8[Lv. 46]@§5- §7Плач Богов Апгрейд II §8[Ур. 46]
+§5- §7Cry of the Gods Upgrade III §8[Lv. 66]@§5- §7Плач Богов Апгрейд III §8[Ур. 66]
+§5- §7Gale Funnel Upgrade II §8[Lv. 46]@§5- §7Воронка Бури Апгрейд II §8[Ур. 46]
+§5- §7Gale Funnel Upgrade III §8[Lv. 66]@§5- §7Воронка Бури Апгрейд III §8[Ур. 66]
+§5- §7Wind Surge Upgrade II §8[Lv. 36]@§5- §7Порыв Ветра Апгрейд II §8[Ур. 36]
+§5- §7Wind Surge Upgrade III §8[Lv. 56]@§5- §7Порыв Ветра Апгрейд III §8[Ур. 56]
 §5- §7None@§5- §7Нет
 §4[Right-Click to Delete]@§4[Правый Клик для Удаления]
 §cYou need to have the@§cТебе нужно иметь
@@ -1635,6 +1696,7 @@
 §d- §7Attack Speed: §f-1 tier@§d- §7Скорость Атаки: §f-1 уровень
 §d- §7Attack Speed: §f+2 tier@§d- §7Скорость Атаки: §f+2 уровня
 §d- §7Attack Speed: §f+3 tier@§d- §7Скорость Атаки: §f+3 уровня
+§d- §7Attack Speed: §f+4 tier@§d- §7Скорость Атаки: §f+4 уровня
 §c-1 Charge@§c-1 Использование
 §a+2 Charges@§a+2 Использования
 §a+1 Charge@§a+1 Использование
@@ -1646,6 +1708,10 @@
 §7Teleports to: Selchar@§7Телепорт в: Сельчар
 §7Teleports to: Llevigar@§7Телепорт в: Ллевигар
 §7Teleports to: Ahmsord@§7Телепорт в: Амсорд
+§7Teleports to: Cinfras@§7Телепорт в: Цинфрас
+§7Teleports to: Eltom@§7Телепорт в: Элтом
+§7Teleports to: Olux@§7Телепорт в: Олукс
+§7Teleports to: Gelibord@§7Телепорт в: Гелиборд
 §3- §7Teleports to: §fSelchar@§3- §7Телепорт в: §fСельчар
 §3- §7Teleports to: §fRagni@§3- §7Телепорт в: §fРагни
 §3- §7Teleports to: §fDetlas@§3- §7Телепорт в: §fДетлас
@@ -1684,11 +1750,15 @@
 §4Cost: §c1 Soul Point@§4Цена: §c1 Очко Душ
 §3- §7Cost: §f1 Soul Point@§3- §7Цена: §f1 Очко Душ
 §fDecrepitÀÀÀSewers§7 once@§fВетхая Канализация§7 единожды
+§fDecrepit Sewers §7once.@§fВетхая Канализация§7 единожды
 §fInfestedÀÀÀPit§7 once@§fЗараженная Яма§7 единожды
+§fInfested Pit §7once.@§fЗараженная Яма§7 единожды
 §fSand-SweptÀÀÀTomb§7 once@§fПесчаная Гробница§7 единожды
 §fSand-Swept Tomb §7once.@§fПесчаная Гробница §7единожды
 §fLostÀÀÀSanctuary§7 once@§fЗатерянное Святилище§7 единожды
+§fLost Sanctuary §7once.@§fЗатерянное Святилище§7 единожды
 §fUnderworldÀÀÀCrypt§7 once@§fПодземный Склеп§7 единожды
+§fUnderworld Crypt §7once.@§fПодземный Склеп§7 единожды
 §fIceÀÀÀBarrows§7 once@§fЛедяной Курган§7 единожды
 §fUndergrowthÀÀÀRuins§7 once@§fЗаросшие Руины§7 единожды
 §fGalleon'sÀÀÀGraveyard§7 once@§fКладбище Галеона§7 единожды
@@ -2322,6 +2392,7 @@
 §7- §dUnidentified Boots@§7- §dНеидентифицированные Ботинки
 §7- §bUnidentified Boots@§7- §bНеидентифицированные Ботинки
 §e- §cUnidentified Boots@§e- §cНеидентифицированные Ботинки
+§7- §cUnidentified Boots@§7- §cНеидентифицированные Ботинки
 §e- §dUnidentified Bracelet@§e- §dНеидентифицированный Браслет
 §7- §dUnidentified Bracelet@§7- §dНеидентифицированный Браслет
 §e- §aUnidentified Bracelet@§e- §aНеидентифицированный Браслет

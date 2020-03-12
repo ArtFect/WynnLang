@@ -1,62 +1,62 @@
-§e([a-zA-Z0-9_]{1,16})'(s|) friends \((\d+)\): (.*)@§eдрузья (r1) ((r3)): (r4)
-§6#(\d+)§f ([a-zA-Z0-9_]{1,16})§8 - §7(\d+) XP§8 - §7(\d+)²§8 - §7Joined ([0-9\/]+)@§6#(r1)§f (r2)§8 - §7(r3) XP§8 - §7(r4)²§8 - §7Принят (r5)
+(§e[a-zA-Z0-9_]{1,16})'(s|) friends \((\d+)\): (.*)@§eдрузья (r1) ((r3)): (r4)
+(§6#\d+§f) ([a-zA-Z0-9_]{1,16}§8) - (§7\d+) XP§8 - (§7\d+²§8) - §7Joined ([0-9\/]+)@(r1) (r2) - (r3) XP§8 - (r4) - §7Принят (r5)
 §cThe server is restarting in (\d+) seconds.@§cСервер перезагрузится через (r1) секунд
 §cThe server is restarting in (\d+) minutes.@§cСервер перезагрузится через (r1) минут
 (§[ab6]\[[0-9 A-Za-z\+\-%\/✤❉✹✦❋✺]+) for (\d+) seconds\]@(r1) на (r2) секунд]
-§b([a-zA-Z0-9_]{1,16})§7 gave you §c\[\+(.*)\].$@§b(r1)§7 дал тебе §c[+(r2)].
-§b([a-zA-Z0-9_]{1,16})§7 gave you §c\[\+(\d+ ❤)\] §bCleared §7all potion effects.@§b(r1)§7 дал тебе §c[+(r2)]. §bОчищены §7все эффекты зелий.
-§b([a-zA-Z0-9_]{1,16})§7 gave you §b\+3 minutes§7 speed boost.@§b(r1)§7 дал тебе §b+3 минуты§7 буста скорости.
-^§c\[(\+\d+ ❤)\] §bCleared §7all potion effects §bRemoved §7all fire.@§c[(r1)] §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
-§c\[(\+\d+ ❤)\] §bRemoved §7all fire.$@§c[(r1)] §bУбран §7весь огонь.
-§c\[(\+\d+ ❤)\] §bCleared §7all potion effects.@§c[(r1)] §bОчищены §7все эффекты зелий.
-§b([a-zA-Z0-9_]{1,16})§7 has given you §b(\d+)% resistance§7.$@§b(r1)§7 дал тебе §b(r2)% защиты§7.
-§b([a-zA-Z0-9_]{1,16})§7 has given you §b20% resistance§7 and§b 10% strength§7.@§b(r1)§7 дал тебе §b20% к сопротивлению§7 и §b10% к силе§7.
+(§b[a-zA-Z0-9_]{1,16}§7) gave you (§c\[\+.*\].)$@(r1) дал тебе (r2)
+(§b[a-zA-Z0-9_]{1,16}§7) gave you (§c\[\+\d+ ❤\]) §bCleared §7all potion effects.@(r1) дал тебе (r2) §bОчищены §7все эффекты зелий.
+(§b[a-zA-Z0-9_]{1,16}§7) gave you §b\+3 minutes§7 speed boost.@(r1) дал тебе §b+3 минуты§7 буста скорости.
+(^§c\[\+\d+ ❤\]) §bCleared §7all potion effects §bRemoved §7all fire.@(r1) §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
+(§c\[\+\d+ ❤\]) §bRemoved §7all fire.$@(r1) §bУбран §7весь огонь.
+(§c\[\+\d+ ❤\]) §bCleared §7all potion effects.@(r1) §bОчищены §7все эффекты зелий.
+(§b[a-zA-Z0-9_]{1,16}§7) has given you (§b\d+%) resistance§7.$@(r1) дал тебе (r2) защиты§7.
+(§b[a-zA-Z0-9_]{1,16}§7) has given you §b20% resistance§7 and§b 10% strength§7.@(r1) дал тебе §b20% к сопротивлению§7 и §b10% к силе§7.
 §4You still have (\d+) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
-§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒹ§6 Jeweling@§6(r1) достиг (r2) уровня в §fⒹ§6Изготовлении Аксессуаров
-§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒾ§6 Woodworking@§6(r1) достиг (r2) уровня в §fⒾ§6Деревообработке
-§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒷ§6 Mining@§6(r1) достиг (r2) уровня в §fⒷ§6Добыче Руды
-§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒿ§6 Farming@§6(r1) достиг (r2) уровня в §fⒿ§6Земледелии
-§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒸ§6 Woodcutting@§6(r1) достиг (r2) уровня в §fⒸ§6Лесорубстве
-§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⓁ§6 Alchemism@§6(r1) достиг (r2) уровня в §fⓁ§6Алхимии
-§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⓀ§6 Fishing@§6(r1) достиг (r2) уровня в §fⓀ§6Рыбалке
-§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒽ§6 Armouring@§6(r1) достиг (r2) уровня в §fⒽ§6Изготовлении Брони
-§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒼ§6 Weaponsmithing@§6(r1) достиг (r2) уровня в §fⒼ§6Оружейном Деле
-§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒶ§6 Cooking@§6(r1) достиг (r2) уровня в §fⒶ§6Кулинарии
-§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒻ§6 Tailoring@§6(r1) достиг (r2) уровня в §fⒻ§6Портняжном Деле
-§6([a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒺ§6 Scribing@§6(r1) достиг (r2) уровня в §fⒺ§6Изготовлении Свитков
-§4This potion is for Combat Lv. (\d+)\+ only.@§4Это зелье только для (r1)+ Комбат Уровня.
-§4This item is for Combat Lv. (\d+)\+ only.@§4Этот предмет только для Комбат Ур. (r1)+.
+(§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒹ§6 Jeweling@(r1) достиг (r2) уровня в §fⒹ§6Изготовлении Аксессуаров
+(§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒾ§6 Woodworking@(r1) достиг (r2) уровня в §fⒾ§6Деревообработке
+(§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒷ§6 Mining@(r1) достиг (r2) уровня в §fⒷ§6Добыче Руды
+(§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒿ§6 Farming@(r1) достиг (r2) уровня в §fⒿ§6Земледелии
+(§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒸ§6 Woodcutting@(r1) достиг (r2) уровня в §fⒸ§6Лесорубстве
+(§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⓁ§6 Alchemism@(r1) достиг (r2) уровня в §fⓁ§6Алхимии
+(§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⓀ§6 Fishing@(r1) достиг (r2) уровня в §fⓀ§6Рыбалке
+(§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒽ§6 Armouring@(r1) достиг (r2) уровня в §fⒽ§6Изготовлении Брони
+(§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒼ§6 Weaponsmithing@(r1) достиг (r2) уровня в §fⒼ§6Оружейном Деле
+(§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒶ§6 Cooking@(r1) достиг (r2) уровня в §fⒶ§6Кулинарии
+(§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒻ§6 Tailoring@(r1) достиг (r2) уровня в §fⒻ§6Портняжном Деле
+(§6[a-zA-Z0-9_]{1,16}) is now level (\d+) in §fⒺ§6 Scribing@(r1) достиг (r2) уровня в §fⒺ§6Изготовлении Свитков
+§4This potion is for Combat Lv. (\d+\+) only.@§4Это зелье только для (r1) Комбат Уровня.
+§4This item is for Combat Lv. (\d+\+) only.@§4Этот предмет только для Комбат Ур. (r1).
 (§c.*§4) is for combat level (§c\d+§4\+) only.@(r1) только для уровней (r2)
-§c(.*)§4 requires your defence skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Защита было не менее §c(r2).
-§c(.*)§4 requires your strength skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Сила было не менее §c(r2).
-§c(.*)§4 requires your dexterity skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Точность было не менее §c(r2).
-§c(.*)§4 requires your intelligence skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Интеллект было не менее §c(r2).
-§c(.*)§4 requires your agility skill to be at least §c(\d+).@§c(r1)§4 нужно, чтобы твое умение Ловкость было не менее §c(r2).
-§4This item requires your defence skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Защита было не менее §c(r2).
-§4This item requires your strength skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Сила было не менее §c(r2).
-§4This item requires your dexterity skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Точность было не менее §c(r2).
-§4This item requires your intelligence skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Интеллект было не менее §c(r2).
-§4This item requires your agility skill to be at least §c(\d+).@§4Этот предмет требует, чтобы твое умение Ловкость было не менее §c(r2).
+(§c.*§4) requires your defence skill to be at least (§c\d+.)@(r1) нужно, чтобы твое умение Защита было не менее (r2)
+(§c.*§4) requires your strength skill to be at least (§c\d+.)@(r1) нужно, чтобы твое умение Сила было не менее (r2)
+(§c.*§4) requires your dexterity skill to be at least (§c\d+.)@(r1) нужно, чтобы твое умение Точность было не менее (r2)
+(§c.*§4) requires your intelligence skill to be at least (§c\d+.)@(r1) нужно, чтобы твое умение Интеллект было не менее (r2)
+(§c.*§4) requires your agility skill to be at least (§c\d+.)@(r1) нужно, чтобы твое умение Ловкость было не менее (r2)
+§4This item requires your defence skill to be at least (§c\d+.)@§4Этот предмет требует, чтобы твое умение Защита было не менее (r1)
+§4This item requires your strength skill to be at least (§c\d+.)@§4Этот предмет требует, чтобы твое умение Сила было не менее (r1)
+§4This item requires your dexterity skill to be at least (§c\d+.)@§4Этот предмет требует, чтобы твое умение Точность было не менее (r1)
+§4This item requires your intelligence skill to be at least (§c\d+.)@§4Этот предмет требует, чтобы твое умение Интеллект было не менее (r1)
+§4This item requires your agility skill to be at least (§c\d+.)@§4Этот предмет требует, чтобы твое умение Ловкость было не менее (r1)
 §7\[New Quest Started: (.*)\]@§7[Начат новый квест: (r1)]
-§5Blacksmith: §dYou sold me: (.*) for a total of §e(\d+)§d emeralds. It was a pleasure doing business with you.@§5Кузнец: §dТы продал мне (r1) за §e(r2)§d эмеральдов. Было приятно иметь с тобой дело.
-§5Blacksmith: §dYou scrapped: (.*) for a total of §e(\d+)§d scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) в общей сумме на §e(r2)§d скрапа. Было приятно иметь с тобой дело.
-§5Blacksmith: §dYou scrapped: (.*) and (.*) for a total of §e(\d+)§d scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) и (r2) в общей сумме на §e(r3)§d скрапа. Было приятно иметь с тобой дело.
-§5([A-Za-z 0-9,']+): §dThank you for your business. Come again!@§5(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
-§5([A-Za-z 0-9,']+): §dI'm afraid you cannot afford that item.@§5(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
-§5([A-Za-z 0-9,']+): §dI'm afraid you don't have enough space in your inventory to buy that.@§5(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
+§5Blacksmith: §dYou sold me: (.*) for a total of (§e\d+§d) emeralds. It was a pleasure doing business with you.@§5Кузнец: §dТы продал мне (r1) за (r2) эмеральдов. Было приятно иметь с тобой дело.
+§5Blacksmith: §dYou scrapped: (.*) for a total of (§e\d+§d) scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) в общей сумме на (r2) скрапа. Было приятно иметь с тобой дело.
+§5Blacksmith: §dYou scrapped: (.*) and (.*) for a total of (§e\d+§d) scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) и (r2) в общей сумме на (r3) скрапа. Было приятно иметь с тобой дело.
+(§5[A-Za-z 0-9,']+): §dThank you for your business. Come again!@(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
+(§5[A-Za-z 0-9,']+): §dI'm afraid you cannot afford that item.@(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
+(§5[A-Za-z 0-9,']+): §dI'm afraid you don't have enough space in your inventory to buy that.@(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
 (§[235]\[[§A-Za-z0-9\+]+\] [§a-zA-Z0-9_]{1,20}) has just logged in!@(r1) только что зашел!
-([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as §(b|a)a Warrior@(r1) зашел на сервер (r2) классом §(r3)Воин
-([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as §(b|a)a Knight@(r1) зашел на сервер (r2) классом §(r3)Рыцарь
-([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as §(b|a)an Archer@(r1) зашел на сервер (r2) классом §(r3)Лучник
-([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as §(b|a)a Dark Wizard@(r1) зашел на сервер (r2) классом §(r3)Темный Волшебник
-([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as §(b|a)a Mage@(r1) зашел на сервер (r2) классом §(r3)Маг
-([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as §(b|a)an Assassin@(r1) зашел на сервер (r2) классом §(r3)Ассасин
-([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as §(b|a)a Hunter@(r1) зашел на сервер (r2) классом §(r3)Охотник
-([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as §(b|a)a Ninja@(r1) зашел на сервер (r2) классом §(r3)Ниндзя
-([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as §(b|a)a Shaman@(r1) зашел на сервер (r2) классом §(r3)Шаман
-([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as §(b|a)a Skyseer@(r1) зашел на сервер (r2) классом §(r3)Провидец
+([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])a Warrior@(r1) зашел на сервер (r2) классом (r3)Воин
+([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])a Knight@(r1) зашел на сервер (r2) классом (r3)Рыцарь
+([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])an Archer@(r1) зашел на сервер (r2) классом (r3)Лучник
+([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])a Dark Wizard@(r1) зашел на сервер (r2) классом (r3)Темный Волшебник
+([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])a Mage@(r1) зашел на сервер (r2) классом (r3)Маг
+([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])an Assassin@(r1) зашел на сервер (r2) классом (r3)Ассасин
+([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])a Hunter@(r1) зашел на сервер (r2) классом (r3)Охотник
+([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])a Ninja@(r1) зашел на сервер (r2) классом (r3)Ниндзя
+([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])a Shaman@(r1) зашел на сервер (r2) классом (r3)Шаман
+([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])a Skyseer@(r1) зашел на сервер (r2) классом (r3)Провидец
 (§[ea][a-zA-Z0-9_]{1,16}) left the game.@(r1) покинул игру.
-§9([a-zA-Z0-9_]{1,16}) \[Lv. (\d+)\] would like to duel! Type (§6\/duel [a-zA-Z0-9_]{1,16}§9) to accept.@§b(r1) [Ур. (r2)]хочет дуэли с тобой! Напиши (r2) для принятия.
-§5([a-zA-Z0-9_]{1,16}) would like to trade! Type §6\/trade ([a-zA-Z0-9_]{1,16})§5 to accept.@§5(r1) хотел бы поторговать с тобой! Напиши §6/trade (r2) §5для принятия.
-§eType the command §6\/party join ([a-zA-Z0-9_]{1,16})§e to join!@§eНапиши команду §6/party join (r1)§e чтобы присоединиться!
-§3You have been invited to join §b([A-Za-z ]+)§3 by §b([a-zA-Z0-9_]{1,16})§3! Type §b\/guild join ([A-Za-z]+)§3 to accept!@§3Ты получил приглашение от §b(r2)§3 присоединиться к §b(r1)§3! Напиши §b/guild join (r3)§3 для принятия!
+(§9[a-zA-Z0-9_]{1,16}) \[Lv. (\d+)\] would like to duel! Type (§6\/duel [a-zA-Z0-9_]{1,16}§9) to accept.@(r1) [Ур. (r2)]хочет дуэли с тобой! Напиши (r3) для принятия.
+(§5[a-zA-Z0-9_]{1,16}) would like to trade! Type §6\/trade ([a-zA-Z0-9_]{1,16}§5) to accept.@(r1) хотел бы поторговать с тобой! Напиши §6/trade (r2) для принятия.
+§eType the command §6\/party join ([a-zA-Z0-9_]{1,16}§e) to join!@§eНапиши команду §6/party join (r1) чтобы присоединиться!
+§3You have been invited to join (§b[A-Za-z ]+§3) by (§b[a-zA-Z0-9_]{1,16}§3)! Type §b\/guild join ([A-Za-z]+§3) to accept!@§3Ты получил приглашение от (r2) присоединиться к (r1)! Напиши §b/guild join (r3) для принятия!

@@ -1,6 +1,7 @@
 ###########################################DO NOT TRANSLATE#######################################
 §7\[[§a-zA-Z0-9_]{1,16}§7\] §f.*@ 
-§7\[§[a-z0-9][a-zA-Z0-9_]{1,16}§6 ➤ §[a-z0-9][a-zA-Z0-9_]{1,16}§7\] §f(.*) @ 
+§7\[§[a-z0-9][a-zA-Z0-9_]{1,16}§7 \([A-Z0-9]+\)§6 ➤ §[a-z0-9][a-zA-Z0-9_]{1,16}§7\] §f.*@ 
+§7\[§[a-z0-9][a-zA-Z0-9_]{1,16}§6 ➤ §[a-z0-9][a-zA-Z0-9_]{1,16}§7 \([A-Z0-9]+\)§7\] §f.*@  
 §3[a-zA-Z0-9_]{1,16} \[[A-Z0-9]+\] shouts: §b.*@ 
 §3\[[§a-z0-9★]+[a-zA-Z0-9_]{1,16}\]§b (.*)@ 
 §c\[\+\d+ ❤\](.|)$@ 
@@ -11,13 +12,13 @@
 §7\[\d+§7\/[A-Za-z]+\/[A-Za-z✫★]+\].*@ 
 §7\[\d+(\*|)\/§8\d+§7\/[A-Za-z]+\/[A-Za-z✫★]+\].*@ 
 §7\[Lv. \d+\/§8\d+§7\/[A-Za-z]+\] .*@ 
-([a-zA-Z0-9_]{1,32}) has an invalid spell configuration@ 
+[a-zA-Z0-9_]{1,32} has an invalid spell configuration@ 
 ###################################################################################################
 
 ###########################################OTHERS##################################################
 §6\[Info\] §eWatch your personal progress at §6(.*)§e!@§6[Инфо] §eСмотри свою персональную статистику на §6(r1)§e!
 §6\[Info\] §eLook at your own personal stats at §6(.*)§e!@§6[§eИнфо§6] §eПосмотри свою персональную статистику на §6(r1)§e!
-§4([a-zA-Z0-9_]{1,16})§c is currently on server (\d+)@§4(r1)§c сейчас на сервере (r2)
+(§4[a-zA-Z0-9_]{1,16}§c) is currently on server (\d+)@(r1) сейчас на сервере (r2)
 §3\[Parkour\] §bCongratulations! §3([a-zA-Z0-9_]{1,16})§b finished the parkour in §3([0-9\.]+) seconds§b!@§3[Паркур] §bПоздравляем! §3(r1)§b закончил паркур за §3(r2) секунд§b!
 §5Key Collector: §dYou do not yet have a high enough combat level to access this dungeon. Come back when you're at least combat level (\d+).@§5Сборщик Ключей: §dУ тебя недостаточный комбат уровень для доступа в этот данж. Возвращайся, когда будешь (r1) комбат уровня.
 §3\[Parkour\] §bYou completed §3Lv. (\d+)§b in §([0-9\.]+) seconds§b.@§3[Паркур] §bТы завершил §3Ур. (r1)§b за §(r2) секунд§b.
@@ -34,208 +35,219 @@
 §7\+1 Maximum Soul Points §8\[Total: (\d+)\]@§7+1 к максимуму числа душ §8[Всего: (r1)]
 (§4[a-zA-Z0-9_]{1,16}) has already claimed this loot chest!@(r1) уже забрал этот сундук с лутом!
 §cYou are no longer tracking (§[a6]§l.*)@§cТы больше не отслеживаешь (r1)
-§4You need §c(\d+)§4 more levels before you can unlock this page of the bank@§4Тебе нужно еще §c(r1)§4 уровней, прежде чем ты сможешь разблокировать эту страницу банка
+§4You need (§c\d+§4) more levels before you can unlock this page of the bank@§4Тебе нужно еще (r1) уровней, прежде чем ты сможешь разблокировать эту страницу банка
 §5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds.$@§5Идентификатор Предметов: §dБоюсь, у тебя не хватает эмеральдов в инвентаре для этого. Это будет стоить §a(r1) эмеральдов
 §5Item Identifier: §dI'm afraid you don't have enough emeralds in your inventory for that. It will cost (\d+) emeralds for all (\d+) items.@§5Идентификатор Предметов: §dБоюсь у тебя недостаточно эмеральдов в инвентаре. Это будет стоить (r1) эмеральдов за все (r2) предмета.
-§6([a-zA-Z0-9_]{1,16}) is now combat level (\d+)@§6(r1) достиг (r2) комбат уровня
-§6([a-zA-Z0-9_]{1,16})§9 has won the duel!@§6(r1)§9 выиграл дуэль!
-§4Did you mean §c(.*)\? §4If not, type \/help to see the commands!@§4Ты имел в виду §c(r1)? §4Если нет, напиши /help, чтобы увидеть список команд!
+(§6[a-zA-Z0-9_]{1,16}) is now combat level (\d+)@(r1) достиг (r2) комбат уровня
+(§6[a-zA-Z0-9_]{1,16}§9) has won the duel!@(r1) выиграл дуэль!
+§4Did you mean (§c.*)\? §4If not, type \/help to see the commands!@§4Ты имел в виду (r1)? §4Если нет, напиши /help, чтобы увидеть список команд!
 (§4[a-zA-Z0-9_]{1,16}§c) is not currently online any Wynncraft servers....@(r1) сейчас ни на одном Wynncraft сервере...
-§7\[Daily Rewards: §a(\d+) emeralds§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7]
+§7\[Daily Rewards: (§a\d+) emeralds§7\]@§7[Ежедневная награда: (r1) эмеральдов§7]
 §7\+ New Quest §8\[(.*)\]@§7+ Новый квест §8[(r1)]
 §4You need to be §cCombat Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужно быть §c(r1) комбат уровня §4для старта этого Мини-квеста
 §2You have unlocked §apage (\d+)§2 in your bank@§2Ты разблокировал §a(r1) страницу§2 в своем банке
 §7\[Begin Floor: Floor (\d+)\]@§7[Этаж Начат: Этаж (r1)]
 §a(\d+) quest items have been returned. $@§a(r1) квестовых предметов было возвращено.
 §a(\d+) quest items have been returned. There was not room for an additional (\d+) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
-§c([a-zA-Z0-9_]{1,16})§4 is not online the Wynncraft network.@§c(r1)§4 нет в сети Wynncraft.
+(§c[a-zA-Z0-9_]{1,16}§4) is not online the Wynncraft network.@(r1) нет в сети Wynncraft.
 §4You must complete the (§c[A-Za-z ]+§4) quest before you can use (§c[A-Za-z ]+).@§4Ты должен пройти (r1) квест, прежде чем использовать (r2).
 §7Please wait an additional (\d+) minutes before opening this chest.@§7Пожалуйста подожди еще (r1) минут, прежде чем открывать сундук.
 §4You cannot afford that! Removing powders from all items will cost (\d+)@§4Ты не можешь себе этого позволить! Удаление порошков из всех предметов будет стоить (r1)
 §4You cannot afford that! Adding these powders will cost (\d+)@§4Ты не можешь себе этого позволить! Добавление порошков на предмет будет стоить (r1)
 (§e[ ]+)You are now combat level (\d+)@(r1)Ты достиг (r2) комбат уровня
-§7\[Daily Rewards: §a(\d+) emeralds§7 and §b(\d+) items§7\]@§7[Ежедневная награда: §a(r1) эмеральдов§7 и §b(r2) предмета§7]
+§7\[Daily Rewards: (§a\d+) emeralds§7 and (§b\d+) items§7\]@§7[Ежедневная награда: (r1) эмеральдов§7 и (r2) предмета§7]
 §7\[\+(\d+) falling emeralds\]@§7[+(r1) падающих эмеральдов]
 §4Your account is now linked to (.*)@§4Твой аккаунт связан теперь с (r1)
 §eYour account has already been linked to (.*)@§eТвоя учетная запись уже была привязана к (r1)
 §7Bring §3\[([0-9]+ [A-Za-z ]+)\] §7to the §aSlaying Post §2\[Combat Lv. (\d+)\]@§7Принеси §3[(r1)] §7к §aДоске Заданий §2[Комбат Ур. (r2)]
-§6§l(.*)§e\[Tracking\]@§6§l(r1)§e[Отслеживание]
-§4You need §c(\d+)§4 emeralds to unlock this page!@§4Тебе нужно §c(r1)§4 эмеральдов, чтобы разблокировать эту страницу!
+(§6§l.*)§e\[Tracking\]@(r1)§e[Отслеживание]
+§4You need (§c\d+§4) emeralds to unlock this page!@§4Тебе нужно (r1) эмеральдов, чтобы разблокировать эту страницу!
 (§4[a-zA-Z0-9_]{1,16}) is already in a duel.@(r1) уже находится в дуэли.
-§4You need §c(\d+)§4 more gold coins to buy that pet!@§4Тебе нужно еще §c(r1)§4 золотых монет, чтобы купить этого питомца!
+§4You need (§c\d+§4) more gold coins to buy that pet!@§4Тебе нужно еще (r1) золотых монет, чтобы купить этого питомца!
 §4The player '([a-zA-Z0-9_]{1,16})' does not exist!@§4Игрока '(r1)' не существует!
-§b - §7(\d+)x Combat XP Bomb@§b - §7(r1)x Комбат XP Бомб
-§b - §7(\d+)x Item Bomb@§b - §7(r1)x Предметных Бомб
-§b - §7(\d+) Crates@§b - §7(r1) Контейнеров
+(§b - §7\d+)x Combat XP Bomb@(r1)x Комбат XP Бомб
+(§b - §7\d+)x Item Bomb@(r1)x Предметных Бомб
+(§b - §7\d+) Crates@(r1) Контейнеров
 (§c[a-zA-Z0-9_]{1,16}) is not an online player.@(r1) не является онлайн-игроком.
-§c(.*)§4 is not a §c(.*)§4 weapon. You must use a §c(.*).@§c(r1)§4 не оружие для §c(r2)§4. Ты должен использовать §c(r3)
+(§c.*§4) is not a (§c.*§4) weapon. You must use a (§c.*).@(r1) не оружие для (r2). Ты должен использовать (r3)
 §dYou have sold (§7\d+§d) ingredients for a total of (§a\d+²§d.)@§dТы продал (r1) ингредиентов на сумму (r2)
 §7Are you sure you want to shout (.*)@§7Уверен, что хочешь отправить (r1)
 (§[e59])That player is not playing on your world (\([A-Z0-9]+\)!)@(r1)Этот игрок не играет в твоем мире (r2)
-§e([a-zA-Z0-9_]{1,16}) has been added to your ignore list!@§e(r1) был добавлен в твой игнор лист!
+(§e[a-zA-Z0-9_]{1,16}) has been added to your ignore list!@(r1) был добавлен в твой игнор лист!
 §4You need to wait ([0-9:]+)m to enable hunted.@§4Тебе нужно подождать (r1))м для переключения охотника.
+§cYou need (\d+) more gold coins.@§cТебе нужно еще (r1) золотых монет.
 
 #######################################PVP######################################################
-§6([a-zA-Z0-9_]{1,16}) met his fate.@§6(r1) встретил свою судьбу.
-§6([a-zA-Z0-9_]{1,16}) was killed.@§6(r1) был убит.
-§6([a-zA-Z0-9_]{1,16}) bit the dust.@§6(r1) превратился в пыль.
-§6([a-zA-Z0-9_]{1,16}) has died.@§6(r1) умер.
-§6([a-zA-Z0-9_]{1,16}) passed away.@§6(r1) скончался.
-§6([a-zA-Z0-9_]{1,16}) met his demise.@§6(r1) встретил свою кончину.
-§6([a-zA-Z0-9_]{1,16}) has been slain.@§6(r1) был уничтожен.
-§6([a-zA-Z0-9_]{1,16}) is six feet under.@§6(r1) на глубине шести футов.
-§6([a-zA-Z0-9_]{1,16}) has perished.@§6(r1) погиб.
-§6([a-zA-Z0-9_]{1,16}) kicked the bucket.@§6(r1) отбросил коньки.
-§6([a-zA-Z0-9_]{1,16}) hit the ground too hard@§6(r1) сильно ударился об землю.
+(§6[a-zA-Z0-9_]{1,16}) met his fate.@(r1) встретил свою судьбу.
+(§6[a-zA-Z0-9_]{1,16}) was killed.@(r1) был убит.
+(§6[a-zA-Z0-9_]{1,16}) bit the dust.@(r1) превратился в пыль.
+(§6[a-zA-Z0-9_]{1,16}) has died.@(r1) умер.
+(§6[a-zA-Z0-9_]{1,16}) passed away.@(r1) скончался.
+(§6[a-zA-Z0-9_]{1,16}) met his demise.@(r1) встретил свою кончину.
+(§6[a-zA-Z0-9_]{1,16}) has been slain.@(r1) был уничтожен.
+(§6[a-zA-Z0-9_]{1,16}) is six feet under.@(r1) на глубине шести футов.
+(§6[a-zA-Z0-9_]{1,16}) has perished.@(r1) погиб.
+(§6[a-zA-Z0-9_]{1,16}) kicked the bucket.@(r1) отбросил коньки.
+(§6[a-zA-Z0-9_]{1,16}) hit the ground too hard@(r1) сильно ударился об землю.
 
 ####################################CONGRATULATIONS#############################################
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒾ§7 Деревообработке§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒷ§7 Mining§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒷ§7 Добыче Руды§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒿ§7 Farming§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒿ§7 Земледелии§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒸ§7 Woodcutting§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒸ§7 Лесорубстве§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒹ§7 Jeweling§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒹ§7 Изготовлении Аксессуаров§7! 
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⓁ§7 Alchemism§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⓁ§7 Алхимии§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⓀ§7 Fishing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⓀ§7 Рыбалке§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒽ§7 Armouring§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒽ§7 Изготовлении Брони§7! 
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒼ§7 Weaponsmithing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒼ§7 Оружейном Деле§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒶ§7 Cooking§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒶ§7 Кулинарии§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒻ§7 Tailoring§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒻ§7 Портняжном Деле§7!
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching §flevel (\d+) in §fⒺ§7 Scribing§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) уровня в §fⒺ§7 Изготовлении Свитков§7! 
-§8\[§7!§8\] §7Congratulations to §f([a-zA-Z0-9_]{1,16})§7 for reaching combat §flevel (\d+)§7!@§8[§7!§8] §7Поздравляем §f(r1)§7 с достижением §f(r2) комбат уровня§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒾ§7 Деревообработке§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒷ§7 Mining§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒷ§7 Добыче Руды§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒿ§7 Farming§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒿ§7 Земледелии§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒸ§7 Woodcutting§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒸ§7 Лесорубстве§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒹ§7 Jeweling§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒹ§7 Изготовлении Аксессуаров§7! 
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⓁ§7 Alchemism§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⓁ§7 Алхимии§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⓀ§7 Fishing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⓀ§7 Рыбалке§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒽ§7 Armouring§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒽ§7 Изготовлении Брони§7! 
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒼ§7 Weaponsmithing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒼ§7 Оружейном Деле§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒶ§7 Cooking§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒶ§7 Кулинарии§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒻ§7 Tailoring§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒻ§7 Портняжном Деле§7!
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒺ§7 Scribing§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒺ§7 Изготовлении Свитков§7! 
+§8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching combat §flevel (\d+)§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) комбат уровня§7!
 
 ########################################GUILD##################################################
-§3\[§3WAR\]§c §cLocals report an army is headed for (.*)!@§3[§3WAR]§c §cРазведка сообщает, что армия надвигается на (r1)!
+§3\[§3WAR\]§c §cLocals report an army is headed for (.*)@§3[§3WAR]§c §cРазведка сообщает, что армия надвигается на (r1)
 §3\[§3WAR\]§c §cThe war for (.*) will start soon!@§3[§3WAR]§c §cБитва за (r1) скоро начнется!
 §3\[§3WAR\]§c §cYou have taken control of (.*) from \[([A-Za-z]+)\]!@§3[§3WAR]§c §cТы забрал контроль над (r1) у [(r2)]!
-§3\[§3WAR\]§c §c(.*) emeralds were looted and added to your guild bank.@§3[§3WAR]§c §c(r1) эмеральдов было собрано и добавлено в ваш банк гильдии.
+§3\[§3WAR\]§c (§c.*) emeralds were looted and added to your guild bank.@§3[§3WAR]§c (r1) эмеральдов было собрано и добавлено в ваш банк гильдии.
 §3\[§3WAR\]§c §cYour guild has lost the war for (.*)@§3[§3WAR]§c §cВаша гильдия проиграла битву за (r1)
-§3\[§3WAR\]§c §c\[([A-Za-z]+)\] was victorious!@§3[§3WAR]§c §c[(r1)] одержала победу!
+§3\[§3WAR\]§c (§c\[[A-Za-z]+\]) was victorious!@§3[§3WAR]§c (r1) одержала победу!
 §3\[§3WAR\]§c §cYour guild has successfully defended (.*)@§3[§3WAR]§c §cВаша гильдия успешно защитила (r1)
-§3\[§3WAR\]§c §c\[([A-Za-z]+)\] has lost the war!@§3[§3WAR]§c §c[(r1)] Проиграла битву!
-§3\[§3WAR\]§c §c\[(\d+)\] mobs remain defending the region.@§3[§3WAR]§c §c[(r1)] мобов осталось защищать территорию.
-§3\[§3WAR\]§c §c(\d+) emeralds were picked up and added to your guild bank.@§3[§3WAR]§c §c(r1) эмеральдов было подобрано и добавлено в банк вашей гильдии.
+§3\[§3WAR\]§c (§c\[[A-Za-z]+\]) has lost the war!@§3[§3WAR]§c (r1) Проиграла битву!
+§3\[§3WAR\]§c (§c\[\d+\]) mobs remain defending the region.@§3[§3WAR]§c (r1) мобов осталось защищать территорию.
+§3\[§3WAR\]§c (§c\d+) emeralds were picked up and added to your guild bank.@§3[§3WAR]§c (r1) эмеральдов было подобрано и добавлено в банк вашей гильдии.
 §3\[§3WAR\]§c §cThe war for (.*) is not responding.@§3[§3WAR]§c §cБитва за (r1) не отвечает.
-([ ]+)§fMost Damage Done: §b([a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше нанес урона: §b(r2) ((r3))
-([ ]+)§fMost Damage Taken: §b([a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше получил урона: §b(r2) ((r3))
-([ ]+)§fMost Damage Healed: §b([a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше урона вылечил: §b(r2) ((r3))
-([ ]+)§fMost Mobs Killed: §b([a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше убил мобов: §b(r2) ((r3))
-§3You have joined §b([A-Za-z]+)§3!@§3Ты присоединился к §b(r1)§3!
-§4(.*) is not a real guild.@§4(r1) гильдии не существует.
+([ ]+)§fMost Damage Done: (§b[a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше нанес урона: (r2) ((r3))
+([ ]+)§fMost Damage Taken: (§b[a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше получил урона: (r2) ((r3))
+([ ]+)§fMost Damage Healed: (§b[a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше урона вылечил: (r2) ((r3))
+([ ]+)§fMost Mobs Killed: (§b[a-zA-Z0-9_]{1,16}) \((\d+)\)@(r1)§fБольше убил мобов: (r2) ((r3))
+§3You have joined (§b[A-Za-z]+§3!)@§3Ты присоединился к (r1)
+(§4.*) is not a real guild.@(r1) гильдии не существует.
 (§b[a-zA-Z0-9_]{1,16}) has purchased (\d+) mobs for (.*), costing (\d+) emeralds.@(r1) купил (r2) мобов для (r3), заплатив (r4) эмеральдов.
-§c([a-zA-Z0-9_]{1,16}) attacked (.*) owned by \[([A-Za-z]+)\]!@§c(r1) атаковал (r2) захваченную [(r3)]!
-§c\[([A-Za-z]+)\] has taken control of (.*)@§c[(r1)] захватили контроль над (r2)
+(§c[a-zA-Z0-9_]{1,16}) attacked (.*) owned by (\[[A-Za-z]+\]!)@(r1) атаковал (r2) захваченную (r3)
+(§c\[[A-Za-z]+\]) has taken control of (.*)@(r1) захватили контроль над (r2)
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§3[ИНФО] §b(r1) пригласил (r2) в гильдию.
 ^§b( |)([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§b(r2) пригласил (r3) в гильдию.
-§b([a-zA-Z0-9_]{1,16}) has kicked ([a-zA-Z0-9_]{1,16}) from the guild@§b(r1) кикнул (r2) из гильдии
-§3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'s guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§3[§3ИНФО]§b (r1) поменял ранг гильдии (r2) с (r3) на (r4)
-^§b([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'s guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§b(r1) поменял ранг гильдии (r2) с (r3) на (r4)
+(§b[a-zA-Z0-9_]{1,16}) has kicked ([a-zA-Z0-9_]{1,16}) from the guild@(r1) кикнул (r2) из гильдии
+§3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§3[§3ИНФО]§b (r1) поменял ранг гильдии (r2) с (r4) на (r5)
+(^§b[a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) guild rank from ([A-Za-z]+) to ([A-Za-z]+)@(r1) поменял ранг гильдии (r2) с (r4) на (r5)
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§3[ИНФО] §b(r1) присоединился к гильдии! Скажите привет!
 ^§b( |)([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§b(r2) присоединился к гильдии! Скажите привет!
-§b([a-zA-Z0-9_]{1,16}) has left the guild.@§b(r1) вышел из гильдии.
-§b(.*)§3 is not a member of the guild@§b(r1)§3 не является участником гильдии
-§6#(\d+)§f ([A-Za-z ]+)§7 \[([A-Za-z]+)\]§8 - §7Level (\d+) \(([0-9\.]+m XP)\) §8- §7(\d+) members@§6#(r1)§f (r2)§7 [(r3)]§8 - §7Уровень (r4) ((r5)) §8- §7(r6) участников
-§7Guild Since: §f([0-9\/]+)@§7Дата основания: §f(r1)
-§7Owner: §f([a-zA-Z0-9_]{1,16})@§7Владелец: §f(r1)
-§7Guild Level: §f(\d+)@§7Уровень гильдии: §f(r1)
-§7Needed XP: §f([§0-9\/]+)@§7Необходимо XP: §f(r1)
+(§b[a-zA-Z0-9_]{1,16}) has left the guild.@(r1) вышел из гильдии.
+(§b.*§3) is not a member of the guild@(r1) не является участником гильдии
+(§6#\d+§f) ([A-Za-z ]+§7) (\[[A-Za-z]+\]§8) - §7Level (\d+) (\([0-9\.]+m XP\)) §8- (§7\d+) members@(r1) (r2) (r3) - §7Уровень (r4) (r5) §8- (r6) участников
+§7Guild Since: (§f(=[0-9\/]+)@§7Дата основания: (r1)
+§7Owner: (§f[a-zA-Z0-9_]{1,16})@§7Владелец: (r1)
+§7Guild Level: (§f\d+)@§7Уровень гильдии: (r1)
+§7Needed XP: (§f[§0-9\/]+)@§7Необходимо XP: (r1)
 §7Guild Rank: (§f#\d+§7) \((\d+) total guilds\)@§7Ранг гильдии: (r1) ((r2) всего гильдий)
-§7Total Members: §f(\d+)§7 \((\d+) maximum\)@§7Всего участников: §f(r1)§7 ((r2) максимум)
-§5Guild Master: §dExcellent. You have named your guild "§b([A-Za-z ]+)§d".@§5Мастер Гильдий: §dОтлично. Ты назвал свою гильдию "§b(r1)§d".
+§7Total Members: (§f\d+§7) \((\d+) maximum\)@§7Всего участников: (r1) ((r2) максимум)
+§5Guild Master: §dExcellent. You have named your guild ("§b[A-Za-z ]+§d".)@§5Мастер Гильдий: §dОтлично. Ты назвал свою гильдию (r1)
 §4Oof! This territory was just in a war! Please wait another (\d+) seconds before attacking.@§4Упс! За эту территорию только что была битва! Подожди еще (r1) секунд перед атакой.
-§b ([A-Za-z ]+) can now support (\d+) players!@§b (r1) теперь поддерживает (r2) игроков!
+(§b [A-Za-z ]+) can now support (\d+) players!@(r1) теперь поддерживает (r2) игроков!
 §b Level Up! ([A-Za-z ]+) is now level (\d+)!@§b Уровень повышен! (r1) достигла (r2) уровня!
-§4You were not invited to join §c([A-Za-z]+)@§4Тебе нужно приглашение для вступления в §c(r1)
-§5Guild Master: §dYour Guild's name will be: §b([A-Za-z ]+).@§5Мастер Гильдий: §dНазвание вашей гильдии будет: §b(r1).
-§5Guild Master: §dYour Guild's prefix will be: §b([A-Za-z]+).@§5Мастер Гильдий: §dПрефикс вашей гильдии будет: §b(r1).
-§5Guild Master: §dCongratulations! You are the new proud owner of §b([A-Za-z ]+).@§5Мастер Гильдий: §dПоздравляем! Ты новый счастливый обладатель гильдии §b(r1).
-§7\[([A-Za-z ]+) created\]@§7[(r1) создана]
-§b([a-zA-Z0-9_]{1,16}) changed the guild banner, costing (\d+) emeralds.@§b(r1) изменил баннер гильдии, это стоило (r2) эмеральдов.
-§c([a-zA-Z0-9_]{1,16})§4 is already in a guild.@§c(r1)§4 уже находится в гильдии.
-§b([A-Za-z§\[\] ]+) has taken control of (.*)!@§b(r1) захватили контроль над (r2)!
-([a-zA-Z0-9_]{1,16}) just contributed (\d+) emeralds to the guild!@§b(r1) внес (r2) эмеральдов в гильдию!
-([a-zA-Z0-9_]{1,16}) just contributed 1 emerald to the guild!@§b(r1) внес 1 эмеральд в гильдию!
-§bCongratulations! The guild has taken control of (.*) from ([A-Za-z ]+)!!!@§bПоздравляем! Гильдия взяла контроль над (r1) у (r2)!!!
-§3You will now contribute (§b\d+%§3) of your XP to (§b[A-Za-z ]+§3).@§3Теперь ты вносишь (r1) от своих очков опыта в (r2).
-§b([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'s guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§b(r1) изменил ранг (r2) с (r4) на (r5)
+§4You were not invited to join (§c[A-Za-z]+)@§4Тебе нужно приглашение для вступления в (r1)
+§5Guild Master: §dYour Guild's name will be: (§b[A-Za-z ]+.)@§5Мастер Гильдий: §dНазвание вашей гильдии будет: (r1)
+§5Guild Master: §dYour Guild's prefix will be: (§b[A-Za-z]+.)@§5Мастер Гильдий: §dПрефикс вашей гильдии будет: (r1)
+§5Guild Master: §dCongratulations! You are the new proud owner of (§b[A-Za-z ]+.)@§5Мастер Гильдий: §dПоздравляем! Ты новый счастливый обладатель гильдии (r1)
+(§7\[[A-Za-z ]+) created\]@(r1) создана]
+(§b[a-zA-Z0-9_]{1,16}) changed the guild banner, costing (\d+) emeralds.@(r1) изменил баннер гильдии, это стоило (r2) эмеральдов.
+(§c[a-zA-Z0-9_]{1,16}§4) is already in a guild.@(r1) уже находится в гильдии.
+(§b[A-Za-z§\[\] ]+) has taken control of (.*)@(r1) захватили контроль над (r2)
+(§b[a-zA-Z0-9_]{1,16}) just contributed (\d+) emeralds to the guild!@(r1) внес (r2) эмеральдов в гильдию!
+(§b[a-zA-Z0-9_]{1,16}) just contributed 1 emerald to the guild!@(r1) внес 1 эмеральд в гильдию!
+§bCongratulations! The guild has taken control of (.*) from ([A-Za-z ]+!!!)@§bПоздравляем! Гильдия взяла контроль над (r1) у (r2)
+§3You will now contribute (§b\d+%§3) of your XP to (§b[A-Za-z ]+§3.)@§3Теперь ты вносишь (r1) от своих очков опыта в (r2)
 §bCongratulations! Your guild has gained control of (.*)@§bПоздравляем! Ваша гильдия взяла контроль над (r1)
 
 #########################################CRATES################################################
-§b([a-zA-Z0-9_]{1,16})§3 has disguised as a §bzombie§3!@§b(r1)§3 замаскировался под §bзомби§3!
-§b([a-zA-Z0-9_]{1,16})§3 has disguised as a §bsheep§3!@§b(r1)§3 замаскировался под §bовцу§3!
-§b([a-zA-Z0-9_]{1,16})§3 has disguised as a §bspider§3!@§b(r1)§3 замаскировался под §bпаука§3!
-§b([a-zA-Z0-9_]{1,16})§3 has disguised as a §bchicken§3!@§b(r1)§3 замаскировался под §bкурицу§3!
-§b([a-zA-Z0-9_]{1,16})§3 has disguised as a §bpig§3!@§b(r1)§3 замаскировался под §bсвинью§3!
-§b([a-zA-Z0-9_]{1,16})§3 has disguised as a §bcow§3!@§b(r1)§3 замаскировался под §bкорову§3!
-§b([a-zA-Z0-9_]{1,16})§3 has disguised as a §bcreeper§3!@§b(r1)§3 замаскировался под §bкрипера§3!
-§b([a-zA-Z0-9_]{1,16})§3 has disguised as a §bpigman§3!@§b(r1)§3 замаскировался под §bпигмена§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bzombie§3!@(r1) замаскировался под §bзомби§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bsheep§3!@(r1) замаскировался под §bовцу§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bspider§3!@(r1) замаскировался под §bпаука§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bchicken§3!@(r1) замаскировался под §bкурицу§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bpig§3!@(r1) замаскировался под §bсвинью§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bcow§3!@(r1) замаскировался под §bкорову§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bcreeper§3!@(r1) замаскировался под §bкрипера§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has disguised as a §bpigman§3!@(r1) замаскировался под §bпигмена§3!
 §cYou now have the ([A-Za-z ]+) effect.$@§cВыбран эффект (r1).
 §cYou now have the ([A-Za-z ]+).@§cВыбран (r1).
 §7You have set your weapon skin to ([A-Za-z ]+)@§7Ты установил на свое оружие (r1) скин
-§7([a-zA-Z0-9_]{1,16}) has gotten a (.*)§7 from their crate. Buy your own at §7wynncraft.com\/store@§7(r1) получил (r2)§7 из своего контейнера. Купи свой собственный на §7wynncraft.com/store
+(§7[a-zA-Z0-9_]{1,16}) has gotten a (.*§7) from their crate. Buy your own at §7wynncraft.com\/store@(r1) получил (r2) из своего контейнера. Купи свой собственный на §7wynncraft.com/store
 
 #########################################SPELLS#################################################
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBomb spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Бомба
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCharge spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Заряд
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dEscape spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Побег
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTeleport spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Телепорт
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMeteor spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Метеор
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dVanish spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Исчезновение
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dIce Snake spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Ледяная Змея
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Дымовая Бомба
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMulti Hit spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Мега Удар
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Щит Стрел
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Storm spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Шторм Стрел
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Прыжок
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUppercut spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Апперкот
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWar Scream spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Боевой Клич
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpider Jump spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Прыжок Паука
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCreeper Dart spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Дротик Крипера
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBlink spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Ослепление
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDead Star spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Мертвая Звезда
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCrystal Reptile spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Кристальная Рептилия
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeaven Jolt spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Небесный Удар
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDagger Aura spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Кинжальная Аура
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dShadow Clone spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Теневой Клон
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Взлет
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWind Surge spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Порыв Ветра
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dGale Funnel spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Воронка Бури
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Бросок
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Аура
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Изгнание
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCry of the Gods spell@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Плач Богов
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Storm upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Шторма Стрел
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dArrow Shield upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Щита Стрел
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBomb upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Бомбы
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dEscape upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Побега
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpin Attack upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Круговой Атаки 
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMulti Hit upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Мега Удара 
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dVanish upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Исчезновения
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Дымовой Бомбы
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTeleport upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Телепорта
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeal upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Исцеления
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dMeteor upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Метеора
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dIce Snake upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ледяной Змеи
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCharge upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Заряда
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBash upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Оглушения 
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUppercut upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Апперкота
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dWar Scream upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Боевого Клича
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCrystal Reptile upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Кристальной Рептилии
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dDead Star upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Мертвой Звезды
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSpider Jump upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Прыжка Паука 
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dLeap upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Прыжка 
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dBlink upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ослепления
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSky Emblem upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Небесной Эмблемы
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dTotem upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dзаклинание Тотем
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHaul upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Броска
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dUproot upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Изгнания
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dAura upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Ауры
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dSoar upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Взлета
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dShadow Clone upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Теневого Клона
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dHeaven Jolt upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Небесного Удара
-§5Only §d(\d+) more combat level(|s)§5 until you earn the §dCry of the Gods upgrade@§5Еще §d(r1) комбат уровней§5 и ты изучишь §dапгрейд Плача Богов
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dBomb spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Бомба
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dCharge spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Заряд
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dEscape spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Побег
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dTeleport spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Телепорт
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dMeteor spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Метеор
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dVanish spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Исчезновение
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dIce Snake spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Ледяная Змея
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Дымовая Бомба
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dMulti Hit spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Мега Удар
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dArrow Shield spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Щит Стрел
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dLeap spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Прыжок
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dUppercut spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Апперкот
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dWar Scream spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Боевой Клич
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dSpider Jump spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Прыжок Паука
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dCreeper Dart spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Дротик Крипера
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dBlink spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Ослепление
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dDead Star spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Мертвая Звезда
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dCrystal Reptile spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Кристальная Рептилия
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dHeaven Jolt spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Небесный Удар
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dDagger Aura spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Кинжальная Аура
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dShadow Clone spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Теневой Клон
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dSoar spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Взлет
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dWind Surge spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Порыв Ветра
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dGale Funnel spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Воронка Бури
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dHaul spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Бросок
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dAura spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Аура
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dUproot spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Изгнание
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dCry of the Gods spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Плач Богов
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dLeopard Punches spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Удары Леопарда
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dBlinding Cloud spell@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Ослепляющее Облако
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dArrow Storm upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Шторма Стрел
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dArrow Shield upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Щита Стрел
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dBomb upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Бомбы
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dEscape upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Побега
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dSpin Attack upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Круговой Атаки 
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dMulti Hit upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Мега Удара 
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dVanish upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Исчезновения
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dSmoke Bomb upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Дымовой Бомбы
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dTeleport upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Телепорта
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dHeal upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Исцеления
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dMeteor upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Метеора
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dIce Snake upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Ледяной Змеи
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dCharge upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Заряда
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dBash upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Оглушения 
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dUppercut upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Апперкота
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dWar Scream upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Боевого Клича
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dCrystal Reptile upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Кристальной Рептилии
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dDead Star upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Мертвой Звезды
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dSpider Jump upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Прыжка Паука 
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dLeap upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Прыжка 
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dBlink upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Ослепления
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dSky Emblem upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Небесной Эмблемы
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dTotem upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dзаклинание Тотем
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dHaul upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Броска
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dUproot upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Изгнания
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dAura upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Ауры
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dSoar upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Взлета
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dShadow Clone upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Теневого Клона
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dHeaven Jolt upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Небесного Удара
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dCry of the Gods upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Плача Богов
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dHoly Blast upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Святого Взрыва
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dBolt Blizzard upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Грохота Бури
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dCreeper Dart upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Дротика Крипера
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dDagger Aura upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Кинжальной Ауры
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dRemedy upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Лечения
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dWhirlwind upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Вихря
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dLeopard Punches upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Ударов Леопарда
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dBlinding Cloud upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Ослепляющего Облака
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dWind Surge upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Порыва Ветра
+§5Only (§d\d+) more combat level(|s)§5 until you earn the §dGale Funnel upgrade@§5Еще (r1) комбат уровней§5 и ты изучишь §dапгрейд Воронки Бури
 
 ########################################PROFESSIONS#############################################
-§4You can't hold any more unprocessed resources §c\([0-9\/]+\)§4! Refine your materials or stash them in your bank to free some space.@§4Ты не можешь удержать больше непереработанных ресурсов §c(r1)§4! Переработай их или переложи в банк, чтобы освободить немного места.
+§4You can't hold any more unprocessed resources (§c\[0-9\/]+\§4!) Refine your materials or stash them in your bank to free some space.@§4Ты не можешь удержать больше непереработанных ресурсов (r1) Переработай их или переложи в банк, чтобы освободить немного места.
 §7\+ New Recipe \[Lv. ([0-9\-]+)\]@§7+ Новые рецепты [Ур. (r1)]
 §7\+ Higher Recipe Level \[Lv. ([0-9\-]+)\]@§7+ Рецепты повышенных уровней [Ур. (r1)]
 §4You need a §fⓀ§c Fishing§4 level of (§c\d+§4) to use this tool!@§4Тебе нужен (r1) уровень §fⓀ§c Рыболовства§4 чтобы использовать этот инструмент!
@@ -254,49 +266,58 @@
 (§dx2 |§dx2\.0 |)§7\[\+(§d|)(\d+) §fⒽ §7Armouring XP\] (§6\[\d+%\])@(r1)§7[+(r2)(r3) §fⒽ §7Изготовление брони XP] (r4)
 (§dx2 |§dx2\.0 |)§7\[\+(§d|)(\d+) §fⒼ §7Weaponsmithing XP\] (§6\[\d+%\])@(r1)§7[+(r2)(r3) §fⒼ §7Оружейное Дело XP] (r4)
 (§dx2 |§dx2\.0 |)§7\[\+(§d|)(\d+) §fⒾ §7Woodworking XP\] (§6\[\d+%\])@(r1)§7[+(r2)(r3) §fⒾ §7 Деревообработка XP] (r4)
-§4You need a §fⒷ§c Mining§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒷ§c Добычи Руды§4, чтобы собрать этот ресурс!
-§4You need a §fⒿ§c Farming§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒿ§c Земледелия§4, чтобы собрать этот ресурс!
-§4You need a §fⒸ§c Woodcutting§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⒸ§c Лесорубства§4, чтобы собрать этот ресурс!
-§4You need a §fⓀ§c Fishing§4 level of §c(\d+)§4 to gather from this resource!@§4Тебе нужен §c(r1)§4 уровень §fⓀ§c Рыбалки§4, чтобы собрать этот ресурс!
-§5Only §d(\d+) more level(|s) §5until you can gather from §dGranite@§5Еще §d(r1) уровня §5и ты сможешь собирать §dГранит
-§5Only §d(\d+) more level(|s) §5until you can gather from §dBirch@§5Еще §d(r1) уровня §5и ты сможешь собирать §dБерезу
-§5Only §d(\d+) more level(|s) §5until you can gather from §dTrout@§5Еще §d(r1) уровня §5и ты сможешь собирать §dФорель
-§5Only §d(\d+) more level(|s) §5until you can gather from §dGold@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЗолото
-§5Only §d(\d+) more level(|s) §5until you can gather from §dJungle@§5Еще §d(r1) уровня §5и ты сможешь собирать §dАмарант
-§5Only §d(\d+) more level(|s) §5until you can gather from §dWillow@§5Еще §d(r1) уровня §5и ты сможешь собирать §dИву
-§5Only §d(\d+) more level(|s) §5until you can gather from §dRye@§5Еще §d(r1) уровня §5и ты сможешь собирать §dРожь
-§5Only §d(\d+) more level(|s) §5until you can gather from §dBarley@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЯчмень
-§5Only §d(\d+) more level(|s) §5until you can gather from §dOat@§5Еще §d(r1) уровня §5и ты сможешь собирать §dОвес
-§5Only §d(\d+) more level(|s) §5until you can gather from §dSalmon@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЛосось
-§5Only §d(\d+) more level(|s) §5until you can gather from §dCarp@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКарпа
-§5Only §d(\d+) more level(|s) §5until you can gather from §dMalt@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСолод
-§5Only §d(\d+) more level(|s) §5until you can gather from §dAcacia@§5Еще §d(r1) уровня §5и ты сможешь собирать §dАкацию
-§5Only §d(\d+) more level(|s) §5until you can gather from §dSandstone@§5Еще §d(r1) уровня §5и ты сможешь собирать §dПесчаник
-§5Only §d(\d+) more level(|s) §5until you can gather from §dSpruce@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЕль
-§5Only §d(\d+) more level(|s) §5until you can gather from §dIron@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЖелезо
-§5Only §d(\d+) more level(|s) §5until you can gather from §dHops@§5Еще §d(r1) уровня §5и ты сможешь собирать §dХмель
-§5Only §d(\d+) more level(|s) §5until you can gather from §dIcefish@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЩуку
-§5Only §d(\d+) more level(|s) §5until you can gather from §dMillet@§5Еще §d(r1) уровня §5и ты сможешь собирать §dПросо
-§5Only §d(\d+) more level(|s) §5until you can gather from §dPiranha@§5Еще §d(r1) уровня §5и ты сможешь собирать §dПиранью
-§5Only §d(\d+) more level(|s) §5until you can gather from §dCobalt@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКобальт
-§5Only §d(\d+) more level(|s) §5until you can gather from §dLight@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКлен
-§5Only §d(\d+) more level(|s) §5until you can gather from §dDark@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКаштан
-§5Only §d(\d+) more level(|s) §5until you can gather from §dSilver@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСеребро
-§5Only §d(\d+) more level(|s) §5until you can gather from §dKanderstone@§5Еще §d(r1) уровня §5и ты сможешь собирать §dКандерстоун
-§5Only §d(\d+) more level(|s) §5until you can gather from §dPine@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСосну
-§5Only §d(\d+) more level(|s) §5until you can gather from §dBass@§5Еще §d(r1) уровня §5и ты сможешь собирать §dОкуня
-§5Only §d(\d+) more level(|s) §5until you can gather from §dAvo@§5Еще §d(r1) уровня §5и ты сможешь собирать §dАвокадо
-§5Only §d(\d+) more level(|s) §5until you can gather from §dMolten@§5Еще §d(r1) уровня §5и ты сможешь собирать §dМолтен
-§5Only §d(\d+) more level(|s) §5until you can gather from §dVoidstone@§5Еще §d(r1) уровня §5и ты сможешь собирать §dВойдстоун
-§5Only §d(\d+) more level(|s) §5until you can gather from §dKoi@§5Еще §d(r1) уровня §5и ты сможешь собирать §dСазана
-§5Only §d(\d+) more level(|s) §5until you can gather from §dGylia Fish@§5Еще §d(r1) уровня §5и ты сможешь собирать §dГилию
-§5Only §d(\d+) more level(|s) §5until you can gather from §dDiamond@§5Еще §d(r1) уровня §5и ты сможешь собирать §dАлмазы
-§5Only §d(\d+) more level(|s) §5until you can gather from §dDecay Roots@§5Еще §d(r1) уровня §5и ты сможешь собирать §dЗараженные Корни
-§5Only §d(\d+) more level(|s) §5until you can gather from §dRice@§5Еще §d(r1) уровня §5и ты сможешь собирать §dРис
-§5Only §d(\d+) more level(|s) §5until you can use the §dⒷ Gathering Pickaxe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒷ Сборную Кирку У(r3)
-§5Only §d(\d+) more level(|s) §5until you can use the §dⒸ Gathering Axe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒸ Сборный Топор У(r3)
-§5Only §d(\d+) more level(|s) §5until you can use the §dⓀ Gathering Rod T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⓀ Сборную Удочку У(r3)
-§5Only §d(\d+) more level(|s) §5until you can use the §dⒿ Gathering Scythe T(\d+)@§5Еще §d(r1) уровня §5и ты сможешь использовать §dⒿ Сборную Мотыгу У(r3)
+§4You need a §fⒷ§c Mining§4 level of (§c\d+§4) to gather from this resource!@§4Тебе нужен (r1) уровень §fⒷ§c Добычи Руды§4, чтобы собрать этот ресурс!
+§4You need a §fⒿ§c Farming§4 level of (§c\d+§4) to gather from this resource!@§4Тебе нужен (r1) уровень §fⒿ§c Земледелия§4, чтобы собрать этот ресурс!
+§4You need a §fⒸ§c Woodcutting§4 level of (§c\d+§4) to gather from this resource!@§4Тебе нужен (r1) уровень §fⒸ§c Лесорубства§4, чтобы собрать этот ресурс!
+§4You need a §fⓀ§c Fishing§4 level of (§c\d+§4) to gather from this resource!@§4Тебе нужен (r1) уровень §fⓀ§c Рыбалки§4, чтобы собрать этот ресурс!
+§5Only (§d\d+) more level(|s) §5until you can gather from §dGranite@§5Еще (r1) уровня §5и ты сможешь собирать §dГранит
+§5Only (§d\d+) more level(|s) §5until you can gather from §dBirch@§5Еще (r1) уровня §5и ты сможешь собирать §dБерезу
+§5Only (§d\d+) more level(|s) §5until you can gather from §dTrout@§5Еще (r1) уровня §5и ты сможешь собирать §dФорель
+§5Only (§d\d+) more level(|s) §5until you can gather from §dGold@§5Еще (r1) уровня §5и ты сможешь собирать §dЗолото
+§5Only (§d\d+) more level(|s) §5until you can gather from §dJungle@§5Еще (r1) уровня §5и ты сможешь собирать §dАмарант
+§5Only (§d\d+) more level(|s) §5until you can gather from §dWillow@§5Еще (r1) уровня §5и ты сможешь собирать §dИву
+§5Only (§d\d+) more level(|s) §5until you can gather from §dRye@§5Еще (r1) уровня §5и ты сможешь собирать §dРожь
+§5Only (§d\d+) more level(|s) §5until you can gather from §dBarley@§5Еще (r1) уровня §5и ты сможешь собирать §dЯчмень
+§5Only (§d\d+) more level(|s) §5until you can gather from §dOat@§5Еще (r1) уровня §5и ты сможешь собирать §dОвес
+§5Only (§d\d+) more level(|s) §5until you can gather from §dSalmon@§5Еще (r1) уровня §5и ты сможешь собирать §dЛосось
+§5Only (§d\d+) more level(|s) §5until you can gather from §dCarp@§5Еще (r1) уровня §5и ты сможешь собирать §dКарпа
+§5Only (§d\d+) more level(|s) §5until you can gather from §dMalt@§5Еще (r1) уровня §5и ты сможешь собирать §dСолод
+§5Only (§d\d+) more level(|s) §5until you can gather from §dAcacia@§5Еще (r1) уровня §5и ты сможешь собирать §dАкацию
+§5Only (§d\d+) more level(|s) §5until you can gather from §dSandstone@§5Еще (r1) уровня §5и ты сможешь собирать §dПесчаник
+§5Only (§d\d+) more level(|s) §5until you can gather from §dSpruce@§5Еще (r1) уровня §5и ты сможешь собирать §dЕль
+§5Only (§d\d+) more level(|s) §5until you can gather from §dIron@§5Еще (r1) уровня §5и ты сможешь собирать §dЖелезо
+§5Only (§d\d+) more level(|s) §5until you can gather from §dHops@§5Еще (r1) уровня §5и ты сможешь собирать §dХмель
+§5Only (§d\d+) more level(|s) §5until you can gather from §dIcefish@§5Еще (r1) уровня §5и ты сможешь собирать §dЩуку
+§5Only (§d\d+) more level(|s) §5until you can gather from §dMillet@§5Еще (r1) уровня §5и ты сможешь собирать §dПросо
+§5Only (§d\d+) more level(|s) §5until you can gather from §dPiranha@§5Еще (r1) уровня §5и ты сможешь собирать §dПиранью
+§5Only (§d\d+) more level(|s) §5until you can gather from §dCobalt@§5Еще (r1) уровня §5и ты сможешь собирать §dКобальт
+§5Only (§d\d+) more level(|s) §5until you can gather from §dLight@§5Еще (r1) уровня §5и ты сможешь собирать §dКлен
+§5Only (§d\d+) more level(|s) §5until you can gather from §dDark@§5Еще (r1) уровня §5и ты сможешь собирать §dКаштан
+§5Only (§d\d+) more level(|s) §5until you can gather from §dSilver@§5Еще (r1) уровня §5и ты сможешь собирать §dСеребро
+§5Only (§d\d+) more level(|s) §5until you can gather from §dKanderstone@§5Еще (r1) уровня §5и ты сможешь собирать §dКандерстоун
+§5Only (§d\d+) more level(|s) §5until you can gather from §dPine@§5Еще (r1) уровня §5и ты сможешь собирать §dСосну
+§5Only (§d\d+) more level(|s) §5until you can gather from §dBass@§5Еще (r1) уровня §5и ты сможешь собирать §dОкуня
+§5Only (§d\d+) more level(|s) §5until you can gather from §dAvo@§5Еще (r1) уровня §5и ты сможешь собирать §dАвокадо
+§5Only (§d\d+) more level(|s) §5until you can gather from §dMolten@§5Еще (r1) уровня §5и ты сможешь собирать §dМолтен
+§5Only (§d\d+) more level(|s) §5until you can gather from §dVoidstone@§5Еще (r1) уровня §5и ты сможешь собирать §dВойдстоун
+§5Only (§d\d+) more level(|s) §5until you can gather from §dKoi@§5Еще (r1) уровня §5и ты сможешь собирать §dСазана
+§5Only (§d\d+) more level(|s) §5until you can gather from §dGylia Fish@§5Еще (r1) уровня §5и ты сможешь собирать §dГилию
+§5Only (§d\d+) more level(|s) §5until you can gather from §dDiamond@§5Еще (r1) уровня §5и ты сможешь собирать §dАлмазы
+§5Only (§d\d+) more level(|s) §5until you can gather from §dDecay Roots@§5Еще (r1) уровня §5и ты сможешь собирать §dЗараженные Корни
+§5Only (§d\d+) more level(|s) §5until you can gather from §dRice@§5Еще (r1) уровня §5и ты сможешь собирать §dРис
+§5Only (§d\d+) more level(|s) §5until you can gather from §dSorghum@§5Еще (r1) уровня §5и ты сможешь собирать §dСорго
+§5Only (§d\d+) more level(|s) §5until you can gather from §dBamboo@§5Еще (r1) уровня §5и ты сможешь собирать §dБамбук
+§5Only (§d\d+) more level(|s) §5until you can gather from §dSky@§5Еще (r1) уровня §5и ты сможешь собирать §dЛиственницу
+§5Only (§d\d+) more level(|s) §5until you can gather from §dHemp@§5Еще (r1) уровня §5и ты сможешь собирать §dКоноплю
+§5Only (§d\d+) more level(|s) §5until you can gather from §dDernic@§5Еще (r1) уровня §5и ты сможешь собирать §dДерник
+§5Only (§d\d+) more level(|s) §5until you can gather from §dDernic Seed@§5Еще (r1) уровня §5и ты сможешь собирать §dДерник Семя
+§5Only (§d\d+) more level(|s) §5until you can gather from §dMolten Eel@§5Еще (r1) уровня §5и ты сможешь собирать §dУгря
+§5Only (§d\d+) more level(|s) §5until you can gather from §dStarfish@§5Еще (r1) уровня §5и ты сможешь собирать §dМорскую Звезду
+§5Only (§d\d+) more level(|s) §5until you can gather from §dDernic Fish@§5Еще (r1) уровня §5и ты сможешь собирать §dДерник Рыбу
+§5Only (§d\d+) more level(|s) §5until you can use the §dⒷ Gathering Pickaxe T(\d+)@§5Еще (r1) уровня §5и ты сможешь использовать §dⒷ Сборную Кирку У(r3)
+§5Only (§d\d+) more level(|s) §5until you can use the §dⒸ Gathering Axe T(\d+)@§5Еще (r1) уровня §5и ты сможешь использовать §dⒸ Сборный Топор У(r3)
+§5Only (§d\d+) more level(|s) §5until you can use the §dⓀ Gathering Rod T(\d+)@§5Еще (r1) уровня §5и ты сможешь использовать §dⓀ Сборную Удочку У(r3)
+§5Only (§d\d+) more level(|s) §5until you can use the §dⒿ Gathering Scythe T(\d+)@§5Еще (r1) уровня §5и ты сможешь использовать §dⒿ Сборную Мотыгу У(r3)
 (§e[ ]+)You are now level (\d+) in §fⒿ§e Farming@(r1)Ты достиг (r2) уровня в §fⒿ§e Земледелии
 (§e[ ]+)You are now level (\d+) in §fⒸ§e Woodcutting@(r1)Ты достиг (r2) уровня в §fⒸ§e Лесорубстве
 (§e[ ]+)You are now level (\d+) in §fⒼ§e Weaponsmithing@(r1)Ты достиг (r2) уровня в §fⒼ§e Оружейном Деле
@@ -319,61 +340,61 @@
 §7\+ New Tool §8\[Ⓙ Gathering Scythe T(\d+)\]@§7+ Новый Инструмент §8[Ⓙ Сборная Мотыга У(r1)]
 
 ######################################DISCOVERIES###############################################
-§d     -§7 Location: §fWynn Plains \[([0-9\/]+)\]@§d     -§7 Локация: §fРавнины Винн [(r1)]
-§d     -§7 Location: §fDesert \[([0-9\/]+)\]@§d     -§7 Локация: §fПустыня [(r1)]
-§d     -§7 Location: §fCorkus \[([0-9\/]+)\]@§d     -§7 Локация: §fКоркус [(r1)]
-§d     -§7 Location: §fSilent Expanse \[([0-9\/]+)\]@§d     -§7 Локация: §fТихое Пространство [(r1)]
-§d     -§7 Location: §fNesaak Tundra \[([0-9\/]+)\]@§d     -§7 Локация: §fНесаак Тундра [(r1)]
-§d     -§7 Discoveries Found: §f(\d+)@§d     -§7 Открытий Найдено: §f(r1)
-§4You seem to have found something interesting, but you cannot register this discovery until you are at least combat level §c(\d+)@§4Похоже ты нашел что-то интересное, но ты не можешь зарегистрировать это открытие, пока не будешь §c(r1)§4 комбат уровня.
+§d     -§7 Location: §fWynn Plains (\[[0-9\/]+\])@§d     -§7 Локация: §fРавнины Винн (r1)
+§d     -§7 Location: §fDesert (\[[0-9\/]+\])@§d     -§7 Локация: §fПустыня (r1)
+§d     -§7 Location: §fCorkus (\[[0-9\/]+\])@§d     -§7 Локация: §fКоркус (r1)
+§d     -§7 Location: §fSilent Expanse (\[[0-9\/]+\])@§d     -§7 Локация: §fТихое Пространство (r1)
+§d     -§7 Location: §fNesaak Tundra (\[[0-9\/]+\])@§d     -§7 Локация: §fНесаак Тундра (r1)
+§d     -§7 Discoveries Found: (§f\d+)@§d     -§7 Открытий Найдено: (r1)
+§4You seem to have found something interesting, but you cannot register this discovery until you are at least combat level (§c\d+)@§4Похоже ты нашел что-то интересное, но ты не можешь зарегистрировать это открытие, пока не будешь (r1)§4 комбат уровня.
 
 #######################################BOMBS####################################################
-§b([a-zA-Z0-9_]{1,16})§3 has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@§b(r1)§3 Бросил §bДанж Бомбу§3! Каждый вход в данж бесплатен на следующие §b10 минут§3!
-§b([a-zA-Z0-9_]{1,16})§3 has thrown a §bCombat XP Bomb§3! The entire server gets §bdouble combat xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bКомбат XP бомбу§3! Весь сервер получает §bдвойной комбат xp §3на §b20 минут§3!
-§b([a-zA-Z0-9_]{1,16})§3 has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@§b(r1)§3 бросил §bПрофессии Скорость Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
-§b([a-zA-Z0-9_]{1,16})§3 has thrown a §bProfession XP Bomb§3! The entire server gets §bdouble profession xp §3for §b20 minutes§3!@§b(r1)§3 бросил §bПрофессии XP бомбу§3! Весь сервер получает §bдвойной XP профессий §3на §b20 минут§3!
-§b([a-zA-Z0-9_]{1,16})§3 has thrown a §bLoot Bomb§3! The entire server gets §bdouble loot §3for §b20 minutes§3!@§b(r1)§3 бросил §bЛут бомбу§3! Весь сервер получает §bдвойной лут §3на §b20 минут§3!
-§b([a-zA-Z0-9_]{1,16})§3 has thrown a §bParty Bomb§3! Enjoy the madness!@§b(r1)§3 бросил §bПати Бомбу§3! Наслаждайся безумием!
-§b([a-zA-Z0-9_]{1,16})§3has thrown a§b Disguise Bomb §3at§b([0-9 \-,]+)§3! It will explode in §b5 seconds§3!@§b(r1) §3бросил §bМаскировочную Бомбу §3на§b(r2)§3! Она взорвется через §b5 секунд§3!
-§b([a-zA-Z0-9_]{1,16})§3 has thrown an §bIngredient Bomb§3!@§b(r1)§3 бросил §bИнгредиентную Бомбу§3!
-§b([a-zA-Z0-9_]{1,16})§3 has thrown an §bItem Bomb§3!@§b(r1)§3 бросил §bПредметную Бомбу§3!
-§b([a-zA-Z0-9_]{1,16})§3 has used a §bSoul Point Bomb§3 and given you §b\[\+2 Soul Points\]@§b(r1)§3 использовал §bОчки Душ Бомбу§3 и дал тебе §b[+2 Очка Душ]
-§b([a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Combat XP bombs at our website, §bwynncraft.com\/store@§3Бомба от §b(r1) §3закончилась. Ты можешь купить Комбат XP бомбу на нашем сайте, §bwynncraft.com/store
-§b([a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy dungeon bombs at our website, §bwynncraft.com\/store@§3Бомба от §b(r1) §3закончилась. Ты можешь купить Данж бомбу на нашем сайте, §bwynncraft.com/store
-§b([a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Profession Speed bombs at our website, §bwynncraft.com\/store@§3Бомба от §b(r1) §3закончилась. Ты можешь купить Скорость Профессий бомбу на нашем сайте, §bwynncraft.com/store
-§b([a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Loot Bombs at our website, §bwynncraft.com\/store@§3Бомба от §b(r1) §3закончилась. Ты можешь купить Лут бомбу на нашем сайте, §bwynncraft.com/store
-§b([a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Profession XP bombs at our website, §bwynncraft.com\/store@§3Бомба от §b(r1) §3закончилась. Ты можешь купить XP Профессий бомбу на нашем сайте, §bwynncraft.com/store
-§b([a-zA-Z0-9_]{1,16})'s Party Bomb §3has run out! Visit §bwynncraft.com/store§b §3to get your own!@§3Пати Бомба от §b(r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы купить свою!
-§b([a-zA-Z0-9_]{1,16})'s Disguise Bomb §3has run out! Visit §bwynncraft.com\/store§b §3to get your own!@§bМаскировочная Бомба от (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы получить свою!
-§7([a-zA-Z0-9_]{1,16})said thank you for supporting Wynncraft!@§7(r1) сказал тебе спасибо за поддержку Wynncraft!
+(§b[a-zA-Z0-9_]{1,16}§3) has thrown a §bDungeon Bomb§3! Every dungeon entrance is free for the next §b10 minutes§3!@(r1) Бросил §bДанж Бомбу§3! Каждый вход в данж бесплатен на следующие §b10 минут§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has thrown a §bCombat XP Bomb§3! The entire server gets §bdouble combat xp §3for §b20 minutes§3!@(r1) бросил §bКомбат XP бомбу§3! Весь сервер получает §bдвойной комбат xp §3на §b20 минут§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has thrown a §bProfession Speed Bomb§3! The entire server gets §bdouble Crafting/Gathering Speed, and Resource respawn time/Crafting Resource requirements are halved §3for §b10 minutes§3!@(r1) бросил §bПрофессии Скорость Бомбу§3! Весь сервер получает §bудвоенную скорость на Крафт/Сбор, а также Время респавна ресурсов/Количество ресурсов для крафта уменьшилось вдвое §3на §b10 минут§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has thrown a §bProfession XP Bomb§3! The entire server gets §bdouble profession xp §3for §b20 minutes§3!@(r1) бросил §bПрофессии XP бомбу§3! Весь сервер получает §bдвойной XP профессий §3на §b20 минут§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has thrown a §bLoot Bomb§3! The entire server gets §bdouble loot §3for §b20 minutes§3!@(r1) бросил §bЛут бомбу§3! Весь сервер получает §bдвойной лут §3на §b20 минут§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has thrown a §bParty Bomb§3! Enjoy the madness!@(r1) бросил §bПати Бомбу§3! Наслаждайся безумием!
+(§b[a-zA-Z0-9_]{1,16}§3)has thrown a§b Disguise Bomb §3at(§b[0-9 \-,]+§3!) It will explode in §b5 seconds§3!@(r1) бросил §bМаскировочную Бомбу §3на(r2) Она взорвется через §b5 секунд§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has thrown an §bIngredient Bomb§3!@(r1) бросил §bИнгредиентную Бомбу§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has thrown an §bItem Bomb§3!@(r1) бросил §bПредметную Бомбу§3!
+(§b[a-zA-Z0-9_]{1,16}§3) has used a §bSoul Point Bomb§3 and given you §b\[\+2 Soul Points\]@(r1) использовал §bОчки Душ Бомбу§3 и дал тебе §b[+2 Очка Душ]
+(§b[a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Combat XP bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить Комбат XP бомбу на нашем сайте, §bwynncraft.com/store
+(§b[a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy dungeon bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить Данж бомбу на нашем сайте, §bwynncraft.com/store
+(§b[a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Profession Speed bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить Скорость Профессий бомбу на нашем сайте, §bwynncraft.com/store
+(§b[a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Loot Bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить Лут бомбу на нашем сайте, §bwynncraft.com/store
+(§b[a-zA-Z0-9_]{1,16})'s §3bomb has expired. You can buy Profession XP bombs at our website, §bwynncraft.com\/store@§3Бомба от (r1) §3закончилась. Ты можешь купить XP Профессий бомбу на нашем сайте, §bwynncraft.com/store
+(§b[a-zA-Z0-9_]{1,16})'s Party Bomb §3has run out! Visit §bwynncraft.com/store§b §3to get your own!@§3Пати Бомба от (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы купить свою!
+(§b[a-zA-Z0-9_]{1,16})'s Disguise Bomb §3has run out! Visit §bwynncraft.com\/store§b §3to get your own!@§bМаскировочная Бомба от (r1) §3закончилась! Посети §bwynncraft.com/store§b §3чтобы получить свою!
+(§7[a-zA-Z0-9_]{1,16})said thank you for supporting Wynncraft!@(r1) сказал тебе спасибо за поддержку Wynncraft!
 §7You have thanked ([a-zA-Z0-9_]{1,16})@§7Ты поблагодарил (r1)
-§7Want to thank §f([a-zA-Z0-9_]{1,16})§7\? §b§nClick here to thank them!@§7Хочешь поблагодарить §f(r1)§7? §b§nНажми сюда, чтобы поблагодарить!
-§b([a-zA-Z0-9_]{1,16})'s Disguise Bomb§3 has exploded! You are now a §b([A-Za-z]+).§3 Buy your own at§b §bwynncraft.com\/store§3!@§bМаскировочная Бомба (r1)§3 взорвалась! Ты стал §b(r2).§3 Купи свою собственную на§b §bwynncraft.com/store§3!
-§3You are inside of §b([a-zA-Z0-9_]{1,16})'s§3 mob totem. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3Ты внутри §b(r1)§3 моб тотема. Получи свой моб тотем при покупке ранга на §bwynncraft.com/store
-§b([a-zA-Z0-9_]{1,16})§3 has placed a mob totem at §b([0-9 \-,]+)§3!$@§b(r1)§3 поставил моб тотем на §b(r2)§3!
-§b([a-zA-Z0-9_]{1,16})§3 has placed a mob totem in §b([A-Za-z \-]+) §3at §b([0-9 \-,]+)§3!@§b(r1)§3 поставил моб тотем в §b(r2) §3на §b(r3)§3!
-§3([a-zA-Z0-9_]{1,16})'s Mob Totem has run out. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3(r1) Моб Тотем закончился. Получи свой собственный моб тотем при покупке ранга, на §bwynncraft.com/store
+§7Want to thank (§f[a-zA-Z0-9_]{1,16}§7\?) §b§nClick here to thank them!@§7Хочешь поблагодарить (r1) §b§nНажми сюда, чтобы поблагодарить!
+(§b[a-zA-Z0-9_]{1,16})'s Disguise Bomb§3 has exploded! You are now a (§b[A-Za-z]+.§3) Buy your own at§b §bwynncraft.com\/store§3!@§bМаскировочная Бомба (r1)§3 взорвалась! Ты стал (r2) Купи свою собственную на§b §bwynncraft.com/store§3!
+§3You are inside of (§b[a-zA-Z0-9_]{1,16})'s§3 mob totem. Get your own mob totems by buying a rank at §bwynncraft.com/store@§3Ты внутри (r1)§3 моб тотема. Получи свой моб тотем при покупке ранга на §bwynncraft.com/store
+(§b[a-zA-Z0-9_]{1,16}§3) has placed a mob totem at (§b[0-9 \-,]+§3!)$@(r1) поставил моб тотем на (r2)
+(§b[a-zA-Z0-9_]{1,16}§3) has placed a mob totem in (§b[A-Za-z \-]+) §3at (§b[0-9 \-,]+§3!)@(r1) поставил моб тотем в (r2) §3на (r3)
+(§3[a-zA-Z0-9_]{1,16})'s Mob Totem has run out. Get your own mob totems by buying a rank at §bwynncraft.com/store@(r1) Моб Тотем закончился. Получи свой собственный моб тотем при покупке ранга, на §bwynncraft.com/store
 
 ######################################PARTY/FRIENDS##############################################
-§e([a-zA-Z0-9_]{1,16}) has added you as a friend!@§e(r1) добавил тебя в друзья!
-§e([a-zA-Z0-9_]{1,16}) has been added to your friends!@§e(r1) был добавлен в друзья!
-§e([a-zA-Z0-9_]{1,16}) has been removed from your friends!@§e(r1) был убран из друзей!
-§e([a-zA-Z0-9_]{1,16}) has joined the party.@§e(r1) присоединился к пати.
+(§e[a-zA-Z0-9_]{1,16}) has added you as a friend!@(r1) добавил тебя в друзья!
+(§e[a-zA-Z0-9_]{1,16}) has been added to your friends!@(r1) был добавлен в друзья!
+(§e[a-zA-Z0-9_]{1,16}) has been removed from your friends!@(r1) был убран из друзей!
+(§e[a-zA-Z0-9_]{1,16}) has joined the party.@(r1) присоединился к пати.
 §eParty members: (.*)@§eУчастники пати: (r1)
 §eYou have been invited to join ([a-zA-Z0-9_]{1,16})'s party.@§eТы был приглашен присоединиться к (r1) пати.
-§e([a-zA-Z0-9_]{1,16}) has left the party.@§e(r1) покинул пати.
-§e([a-zA-Z0-9_]{1,16}) is not a friend! Type §6\/friend list§e.@§e(r1) не является другом! Напиши §6/friend list§e.
-§e([a-zA-Z0-9_]{1,16}) is already a friend! Type §6\/friend list§e.@§e(r1) уже твой друг! Напиши §6/friend list§e.
-§e([a-zA-Z0-9_]{1,16}) joined the game@§e(r1) присоединился к игре
-§2 - §a([a-zA-Z0-9_]{1,16})§2 \[Server: §a([A-Za-z0-9]+)§2\]@§2 - §a(r1)§2 [Сервер: §a(r2)§2]
+(§e[a-zA-Z0-9_]{1,16}) has left the party.@(r1) покинул пати.
+(§e[a-zA-Z0-9_]{1,16}) is not a friend! Type §6\/friend list§e.@(r1) не является другом! Напиши §6/friend list§e.
+(§e[a-zA-Z0-9_]{1,16}) is already a friend! Type §6\/friend list§e.@(r1) уже твой друг! Напиши §6/friend list§e.
+(§e[a-zA-Z0-9_]{1,16}) joined the game@(r1) присоединился к игре
+(§2 - §a[a-zA-Z0-9_]{1,16}§2) \[Server: (§a[A-Za-z0-9]+§2\)]@(r1) [Сервер: (r2)]
 
 #######################################TRADE MARKET###############################################
-§dSuccessfully cancelled §5buying (.*)@§dУспешно отменена §5покупка (r1).
-§dSuccessfully cancelled §5selling (.*)@§dУспешно отменена §5продажа (r1).
-§dFinished selling (.*)§d for §5(\d+)² each §dfor a total of (§5\d+²)@§dЗавершена продажа (r1)§d за §5(r2)² каждый, §dв сумме на (r3)
-§dFinished selling (.*)§d for §5(\d+)²$@§dЗавершена продажа (r1)§d за §5(r2)²
-§dFinished buying (.*)§d for (§5[0-9\.]+²) each §dfor a total of (§5\d+²)@§dЗавершена покупка (r1)§d за (r2) каждый, §dв сумме на (r3)
-§dFinished buying (.*)§d for §5(\d+)²$@§dЗавершена покупка (r1)§d за §5(r2)²
+§dSuccessfully cancelled §5buying (.*)@§dУспешно отменена §5покупка (r1)
+§dSuccessfully cancelled §5selling (.*)@§dУспешно отменена §5продажа (r1)
+§dFinished selling (.*§d) for (§5\d+²) each §dfor a total of (§5\d+²)@§dЗавершена продажа (r1) за (r2) каждый, §dв сумме на (r3)
+§dFinished selling (.*§d) for (§5\d+²)$@§dЗавершена продажа (r1) за (r2)
+§dFinished buying (.*§d) for (§5[0-9\.]+²) each §dfor a total of (§5\d+²)@§dЗавершена покупка (r1) за (r2) каждый, §dв сумме на (r3)
+§dFinished buying (.*§d) for (§5\d+²)$@§dЗавершена покупка (r1) за (r2)
 §dYou've revealed: (.*) for a total of (§e\d+§d) emeralds.@§dТы раскрыл: (r1) в сумме за (r2) эмеральдов.
 §dFailed to §5buy (.*), because the trade was already completed.@§dНе удалось §5купить (r1), потому что торговля была завершена.
 

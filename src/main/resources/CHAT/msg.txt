@@ -190,6 +190,7 @@
 §d     -§7 About Discovery: §f§oBetween Realms of physicality and influence lies the vast nothingness of the void. Some islands have broken from the lands and drift in this space, seeking purpose.@§d     -§7 Об открытии: §f§oМежду царствами телесности и влияния лежит огромная ничтожная пустота. Некоторые острова оторвались от суши и дрейфуют в этом пространстве, ища предназначение. 
 §d     -§7 About Discovery: §f§oThe connection between our world and the other realms has been shattered and warped as the war of corruption evolved.@§d     -§7 Об открытии: §f§oСвязь между нашим миром и другими царствами была разрушена и искажена по мере развития войны с порчей. 
 §d     -§7 About Discovery: §f§oMany years ago an Olmic oracle foresaw the demise of her land. To prepare for it, she created a weapon of pure light that will halt the darkness, but when the time came to use it, her descendants were unable to retrieve the bracelet.@§d     -§7 Об открытии: §f§oМного лет назад Олмский оракул предвидела гибель своего края. Чтобы подготовиться к этому, она создала оружие из чистого света, которое остановит тьму, но когда пришло время использовать его, ее потомки не смогли отыскать браслет.
+§d     -§7 About Discovery: §f§oThe Silent Expanse has acted as the gateway to Dern since the outbreak of the Corruption War. The Eye has watched all intruders.. and all attempts at escape.@§d     -§7Об открытии: §f§oТихое Пространство служило воротами в Дерн с самого начала войны с порчей. Глаз наблюдал за всеми незваными гостями... и за всеми попытками к бегству.
 §7Ye who seek knowledge, follow in my footsteps and gain wisdom.@§7Тот, кто ищет знания - иди по моим стопам и обрети мудрость.
 §7The voice of the past echoes on the wind...@§7Голос прошлого перекликается с ветром...
 §f886 AP (After Portal)@§f886 ПП (После Портала)
@@ -329,6 +330,9 @@
 §4/guild defend §8-§6 Buy mobs for the territory you are in@§4/guild defend §8-§6 Купить мобов для защиты территории
 §4/guild kick §c[name] §8-§6 Kick a guild member@§4/guild kick §c[ник] §8-§6 Кикнуть участника гильдии
 §4/guild banner §8-§6 Modify your guild banner@§4/guild banner §8-§6 Изменить баннер гильдии
+§3[§3WAR]§c §cAn error occurred while starting the war.@§3[§3WAR]§c §cПроизошла ошибка при старте захвата.
+§3[§3WAR]§c §cYour last war was invalidated.@§3[§3WAR]§c §cВаш последний захват аннулирован.
+§3[§3WAR]§c §cThey will be there in 2 minutes.@§3[§3WAR]§c §cОни будут там через 2 минуты.
 §3[§3WAR]§c §cThey will be there in 1 minute and 30 seconds.@§3[§3WAR]§c §cОни будут там через 1 минуту и 30 секунд.
 §3[§3WAR]§c §cThey will be there in 45 seconds.@§3[§3WAR]§c §cОни будут там через 45 секунд.
 §3[§3WAR]§c §cThey will be there in 3 minutes.@§3[§3WAR]§c §cОни будут там через 3 минуты.
@@ -344,6 +348,8 @@
 §3[§3WAR]§c §cUse /guild defend to defend this territory.@§3[§3WAR]§c §cНапиши /guild defend для защиты этой территории.
 §3[§3WAR]§c §cYour guild bank will receive a portion of the emeralds@§3[§3WAR]§c §cВаш банк гильдии получит часть эмеральдов
 §3[§3WAR]§c §cfrom mob drops and 3x the xp earned in the territory.@§3[§3WAR]§c §cиз дропа мобов и 3x XP, полученные на этой территории.
+§3[§3WAR]§c §cThe war will start in 5 minutes.@§3[§3WAR]§c §cБитва начнется через 5 минут.
+§3[§3WAR]§c §cThe war will start in 4 minutes and 30 seconds.@§3[§3WAR]§c §cБитва начнется через 4 минуты и 30 секунд.
 §3[§3WAR]§c §cThe war will start in 4 minutes.@§3[§3WAR]§c §cБитва начнется через 4 минуты.
 §3[§3WAR]§c §cThe war will start in 3 minutes and 30 seconds.@§3[§3WAR]§c §cБитва начнется через 3 минуты и 30 секунд.
 §3[§3WAR]§c §cThe war will start in 3 minutes.@§3[§3WAR]§c §cБитва начнется через 3 минуты.
@@ -402,6 +408,7 @@
 §cYou can not teleport while in a guild battle...@§cТы не можешь телепортироваться во время битвы гильдий...
 §4You cannot use /class during a guild war.@§4Ты не можешь использовать /class во время захвата
 §bUse /guild defend to defend this territory@§bИспользуй /guild defend для защиты этой территории
+§4You need 10000 Guild Emeralds to edit your guild banner!@§4Тебе нужно 10000 Эмеральдов в банке гильдии для редактирования вашего баннера!
 
 ###################################QUEST/DUNGEON REWARDS##################################
 §7[+1 Selchar Teleportation Scroll]@§7[+1 Сельчар свиток телепортации]
@@ -994,6 +1001,7 @@
 §aA §6Epic Sea Blue Wybel Token§a!@§6Эпический Морской Вубел Жетон§a!
 §aA §dRare Creeper Disguise§a!@§dРедкая Маскировка в Крипера§a!
 §aA §dRare Candle Staff§a!@§dРедкое Оружие Свеча§a!
+§aA §6Epic Chrome Cybel Token§a!@§6Эпический Хромовый Кубел Жетон§a!
 §cOrange Wybel Token@§cОранжевый Вубел Жетон
 §3You now have a §bOrange Wybel@§3Теперь у тебя есть §bОранжевый Вубел
 §cDemon Wings Effect@§cЭффект Крыльев Демона
@@ -1029,16 +1037,13 @@
 §c[§4!§c]§7 You're under attack! Defend yourself by aiming and firing your ship's cannons.@§c[§4!§c]§7 Ты находишься под атакой! Защити себя, путем прицеливания и стрельбы из пушек своего корабля.
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||||||||§4|§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||||||||§4|§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||||||||§4||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||||||||§4||§7]
-§7[5/15]@ 
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||||||§4|||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||||||§4|||§7]
-§7[10/15]@ 
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||||||§4||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||||||§4||||§7]
-§7[15/15]@ 
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||||§4|||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||||§4|||||§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||||§4||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||||§4||||||§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||§4|||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||§4|||||||§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||§4||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||§4||||||||§7]
-§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§A§a|§4|||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§A§a|§4|||||||||§7]
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§A§a|§4|||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a§a|§4|||||||||§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a§4||||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a§4||||||||||§7]
 §c[§4!§c] §7Align your cannon with an attacking pirate and fire to destroy them, but be careful - if one reaches your ship you will be boarded!@§c[§4!§c] §7Выровняй свою пушку с атакующим пиратом, используя элементы управления, и стреляй, чтобы уничтожить их. Но будь осторожен - если кто-то достигнет твоего корабля, он будет поврежден!
 §7Get to the §6§lTreasure Vault §7in §4§l20 §7seconds before it closes!@§7Доберись до §6§lХранилища с сокровищами§7 за §4§l20 §7 секунд, прежде чем оно закроется!
@@ -1426,9 +1431,6 @@
 
 ###########################################OBJECTIVES#################################################
 §a                           Gather Resources@                        §aСбор ресурсов
-§c                            Slay Lv. 40+ Mobs@§c                         Убийство Ур. 40+ Мобов
-§a                            Slay Lv. 40+ Mobs@§a                         Убийство Ур. 40+ Мобов
-§a                            Slay Lv. 20+ Mobs@§a                         Убийство Ур. 20+ Мобов
 §a                                Craft Items@§a                             Крафт предметов
 §a                               Finish Quests@§a                            Прохождение квестов
 §c                               Loot Chests@§c                            Нахождение сундуков
@@ -1453,6 +1455,9 @@
 §c                            Slay Lv. 80+ Mobs@§c                         Убей Ур. 80+ Мобов
 §c                           Slay Lv. 100+ Mobs@§c                         Убей Ур. 100+ Мобов
 §c                            Slay Lv. 30+ Mobs@§c                         Убей Ур. 30+ Мобов
+§c                            Slay Lv. 40+ Mobs@§c                         Убийство Ур. 40+ Мобов
+§a                            Slay Lv. 40+ Mobs@§a                         Убийство Ур. 40+ Мобов
+§a                            Slay Lv. 20+ Mobs@§a                         Убийство Ур. 20+ Мобов
 §c                           Gather Resources@§c                        Сбор Ресурсов
 §c                                Craft Items@§c                             Крафт Предметов
 §c                                Gather Ore@§c                             Сбор Руды
@@ -1490,6 +1495,7 @@
 §a- §7Vanish will make you disappear into the shadows, confusing your opponent@§a- §7Исчезновение заставит тебя исчезнуть в тени, сбивая с толку твоего противника
 §a- §7Multi Hit will throw your opponent into the air while damaging them@§a- §7Мега Удар подбрасывает твоих противников в воздух, нанося им урон
 §a- §7Arrow Shield will summon a shield of arrows, hurting anything that touches it@§a- §7Щит Стрел вызывает щит из стрел, причиняя боль всему, что касается его
+§a- §7Dagger Aura will summon a shield of arrows, hurting anything that touches it@§a- §7Кинжальная Аура вызывает щит из стрел, причиняя боль всему, что касается его
 §a- §7Go to §fwynncraft.com/class§f §7for info about this upgrade@§a- §7Узнай на §fwynncraft.com/class§f §7больше информации об этом апгрейде
 §a- §7Ice Snake will throw a snake of ice, freezing your enemies over a long distance@§a- §7Ледяная Змея выпускает ледяную змею, замораживая врагов на большом расстоянии
 §a- §7Leap will make you run quickly in a particular direction@§a- §7Прыжок поможет тебе быстро передвигаться в определенном направлении
@@ -1504,8 +1510,13 @@
 §a- §7Haul will pull yourself towards your active totem@§a- §7Бросок будет тянуть тебя к твоему активному тотему
 §a- §7Wind Surge will cast a damaging aura around your active totem@§a- §7Воронка Бури кастует разрушительную ауру вокруг твоего активного тотема
 §a- §7Soar will pull yourself towards your active totem@§a- §7Взлет будет тянуть тебя к твоему активному тотему
-§a- §7Uproot will pull your enemies towards yourself@§a- §7Изгнание будет притягивать ваших врагов к себе
+§a- §7Uproot will pull your enemies towards yourself@§a- §7Изгнание будет притягивать твоих врагов к себе
 §a- §7Cry of the Gods will make a loud screech, hurting mobs and buffing all nearby players@§a- §7Плач Богов будет издавать громкий крик, причиняя боль мобам и бафая всех ближайших игроков
+§a- §7Shadow Clone will make you disappear into the shadows, confusing your opponent@§a- §7Теневой Клон заставит тебя исчезнуть в тени, сбивая с толку твоего противника
+§a- §7Leopard Punches will throw your opponent into the air while damaging them@§a- §7Удары Леопарда подбрасывают твоих противников в воздух, нанося им урон
+§a- §7Blinding Cloud will throw a cloud of smoke, damaging mobs that are stuck inside@§a- §7Ослепляющее Облако выбрасывает облако дыма, нанося урон мобам, застрявшим внутри него
+§a- §7Gale Funnel will pull your enemies towards yourself@§a- §7Воронка Бури будет притягивать твоих врагов к себе
+
 §a+ Spell Upgrade §2[Bash I -> II]@§a+ Апгрейд заклинания §2[Оглушение I -> II]
 §a+ Spell Upgrade §2[Bash II -> III]@§a+ Апгрейд заклинания §2[Оглушение II -> III]
 §a+ Spell Upgrade §2[Heal I -> II]@§a+ Апгрейд заклинания §2[Исцеление I -> II]
@@ -1571,6 +1582,9 @@
 §a+ New Spell §2[Creeper Dart]@§a+ Новое заклинание §2[Дротик Крипера]
 §a+ Spell Upgrade §2[Creeper Dart I -> II]@§a+ Апгрейд заклинания §2[Дротик Крипера I -> II]
 §a+ Spell Upgrade §2[Creeper Dart II -> III]@§a+ Апгрейд заклинания §2[Дротик Крипера II -> III]
+§a+ New Spell §2[Dagger Aura]@§a+ Новое заклинание §2[Кинжальная Аура]
+§a+ Spell Upgrade §2[Dagger Aura I -> II]@§a+ Апгрейд заклинания §2[Кинжальная Аура I -> II]
+§a+ Spell Upgrade §2[Dagger Aura II -> III]@§a+ Апгрейд заклинания §2[Кинжальная Аура II -> III]
 §a+ New Spell §2[Blink]@§a+ Новое заклинание §2[Ослепление]
 §a+ Spell Upgrade §2[Blink I -> II]@§a+ Апгрейд заклинания §2[Ослепление I -> II]
 §a+ Spell Upgrade §2[Blink II -> III]@§a+ Апгрейд заклинания §2[Ослепление II -> III]
@@ -1604,6 +1618,15 @@
 §a+ New Spell §2[Cry of the Gods]@§a+ Новое Заклинание §2[Плач Богов]
 §a+ Spell Upgrade §2[Cry of the Gods I -> II]@§a+ Апгрейд Заклинания §2[Плач Богов I -> II]
 §a+ Spell Upgrade §2[Cry of the Gods II -> III]@§a+ Апгрейд Заклинания §2[Плач Богов II -> III
+§a+ New Spell §2[Shadow Clone]@§a+ Новое Заклинание §2[Теневой Клон]
+§a+ Spell Upgrade §2[Shadow Clone I -> II]@§a+ Апгрейд Заклинания §2[Теневой Клон I -> II]
+§a+ Spell Upgrade §2[Shadow Clone II -> III]@§a+ Апгрейд Заклинания §2[Теневой Клон II -> III
+§a+ New Spell §2[Leopard Punches]@§a+ Новое Заклинание §2[Удары Леопарда]
+§a+ Spell Upgrade §2[Leopard Punches I -> II]@§a+ Апгрейд Заклинания §2[Удары Леопарда I -> II]
+§a+ Spell Upgrade §2[Leopard Punches II -> III]@§a+ Апгрейд Заклинания §2[Удары Леопарда II -> III
+§a+ New Spell §2[Blinding Cloud]@§a+ Новое Заклинание §2[Ослепляющее Облако]
+§a+ Spell Upgrade §2[Blinding Cloud I -> II]@§a+ Апгрейд Заклинания §2[Ослепляющее Облако I -> II]
+§a+ Spell Upgrade §2[Blinding Cloud II -> III]@§a+ Апгрейд Заклинания §2[Ослепляющее Облако II -> III
 
 #################################################SYSTEM################################################
 §cThe server is restarting@§cСервер перезагружается
@@ -1681,6 +1704,7 @@
 §7+2 Skill Points §8[Open the character menu to use them]@§7+2 Очка умений [Открой меню персонажа для их использования]
 §7+5 Maximum HP@§7+5 Очков здоровья
 §cYour items are damaged and have become less effective. Bring them to a Blacksmith to repair them.@§cТвои предметы повредились и стали менее эффективными. Принеси их к Кузнецу, чтобы починить.
+§eYou have broken weapons that can be repaired! Visit the Weaponsmith to repair them.@§eУ тебя есть сломанные оружия, которые можно починить! Посети Кузнеца для их починки.
 §41 soul point has been lost...@§41 очко душ было потрачено...
 §4You can skip the tutorial by typing: §c/skiptutorial§4. You will not receive resources, tools, or a crafted item by doing this.@§4Ты можешь пропустить туториал командой §c/skiptutorial§4. Ты не получишь ресурсы, инструменты, или крафтовые предметы, сделав это.
 §cYou cannot drop locked items! Use /itemlock while holding the item again to unlock it.@§cТы не можешь выбросить заблокированные предметы! Используй /itemlock, держа предмет в руке, чтобы разблокировать его.
@@ -1893,6 +1917,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §aYour particle limit is now §flow (50)@§aТвой лимит частиц теперь §fнизкий (50)
 §aYour particle limit is now §fhigh (200)@§aТвой лимит частиц теперь §fвысокий (200)
 §aYour particle limit is now §flow (100)@§aТвой лимит частиц теперь §fнизкий (100)
+§aYour particle limit is now §fmedium (200)@§aТвой лимит частиц теперь §fсредний (200)
 §2You can no longer see swear words in chat!@§2Ты больше не видишь бранные слова в чате!
 §2You can now see swear words again!@§2Ты видишь бранные слова снова! 
 §cInvalid amount! Please try again with a lower number.@§cНеправильное количество! Попробуй еще раз с меньшим числом.
@@ -1948,6 +1973,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §3You are no longer disguised as a §bcreeper@§3Ты больше не маскируешься под §bкрипера
 §cYou've restarted the starting quest!@§cТы перезапустил начальный квест!
 §c§lLog in to §f§neu.wynncraft.com§c§l for less lag.@§c§lЗаходи через §f§neu.wynncraft.com§c§l чтобы играть с меньшим пингом.
+§c§lLog in to §feu.wynncraft.com§c§l for less lag.@§c§lЗаходи через §f§neu.wynncraft.com§c§l чтобы играть с меньшим пингом.
 §cAll characters and progress are shared between locations.@§cВсе персонажи и прогресс синхронизируются между серверами.
 §7What message would you like to shout to the entire network? Say '§fcancel§7' to stop.@§7Какое сообщение ты хочешь отправить на все сервера? Напиши '§fcancel§7' для отмены.
 §4Error: Do not include links in your shout!@§4Ошибка: Нельзя включать ссылки в свой шаут!
@@ -1996,6 +2022,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §4You need to be holding a crafted item to rename it!@§4Тебе нужно держать крафтовый предмет, чтобы переименовать его!
 §3You have thrown an item bomb too recently, please wait.@§3Ты уже бросал недавно предметную бомбу, пожалуйта подожди.
                   §c§l§nClick here to toggle hunted mode@                  §c§l§nКликни здесь для переключения режима охотника
+                  §c§lClick here to toggle hunted mode@                  §c§l§nКликни здесь для переключения режима охотника
 §f                  §c§l§nClick here to toggle hunted mode@§f                  §c§l§nКликни здесь для переключения режима охотника
 §f                      §4§oThis will enable PvP combat@§f                      §4§oЭто включит ПвП
 
@@ -2983,3 +3010,4 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
                               §bPottery Wheel@ 
 §f                          §bThe Lone Telescope@ 
 §f                              §bPottery Wheel@ 
+                        §bSilent Expanse's Secret@ 

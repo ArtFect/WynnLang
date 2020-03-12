@@ -1202,6 +1202,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7The water class has been restarted...@§7Урок воды был перезапущен...
 §7The nature class has been restarted...@§7Урок природы был перезапущен...
 §7The earth class has been restarted...@§7Урок земли был перезапущен...
+§7The materials class has been restarted...@§7Урок материалов был перезапущен...
 §4You need Mr. Caritat's Letter to advance!@§4Тебе нужно письмо Мр. Каритата, чтобы продолжить!
 §4You should probably stay away from here for now, it seems dangerous.@§4Тебе, наверное, лучше пока держаться подальше отсюда, это кажется опасным.
 §4A magical force repels you from the tower.@§4Магическая сила отталкивает тебя от башни.
@@ -1209,6 +1210,9 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4The temple seems very ominous, it's best not to enter for now.@§4Храм кажется очень зловещим, в него лучше пока не входить.
 §cYou've already used this workbench.@§cТы уже пользовался этим верстаком.
 §4This doesn't seem safe. Before going anywhere, talk to Ibele!@§4Это не кажется безопасным. Прежде чем куда-то идти, поговори с Ибель!
+§4You can hear strange sounds from the cave depths, it's better to stay out for now.@§4Из глубины пещеры доносятся странные звуки, лучше пока туда не соваться.
+§4A weird buzzing sound comes from the cave, you should not venture further.@§4Странный жужжащий звук доносится из пещеры, ты не должен рисковать и идти дальше.
+§4The heat of the flames prevents you from going any further@§4Жар пламени мешает тебе идти дальше.
 
 ################################QUEST NAMES####################################
 §e                          §e§lArachnids' Ascent@ 
@@ -1445,3 +1449,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §a                         §a§lGather Light Logs II@ 
 §a                        §a§lGather Light Logs III@ 
 §a                             §a§lGather Carp II@ 
+§a                               §a§lGather Rice II@ 
+§a                                 §a§lGather Rice@ 
+§a                                 §a§lGather Bass@ 
+§a                               §a§lGather Sorghum@ 
