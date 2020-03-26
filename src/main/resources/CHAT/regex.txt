@@ -386,7 +386,7 @@
 (§e[a-zA-Z0-9_]{1,16}) is not a friend! Type §6\/friend list§e.@(r1) не является другом! Напиши §6/friend list§e.
 (§e[a-zA-Z0-9_]{1,16}) is already a friend! Type §6\/friend list§e.@(r1) уже твой друг! Напиши §6/friend list§e.
 (§e[a-zA-Z0-9_]{1,16}) joined the game@(r1) присоединился к игре
-(§2 - §a[a-zA-Z0-9_]{1,16}§2) \[Server: (§a[A-Za-z0-9]+§2\)]@(r1) [Сервер: (r2)]
+(§2 - §a[a-zA-Z0-9_]{1,16}§2) \[Server: (§a[A-Za-z0-9]+§2)\]@(r1) [Сервер: (r2)]
 
 #######################################TRADE MARKET###############################################
 §dSuccessfully cancelled §5buying (.*)@§dУспешно отменена §5покупка (r1)
