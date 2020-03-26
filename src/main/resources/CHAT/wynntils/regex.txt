@@ -3,12 +3,12 @@
 §cThe server is restarting in (\d+) seconds.@§cСервер перезагрузится через (r1) секунд
 §cThe server is restarting in (\d+) minutes.@§cСервер перезагрузится через (r1) минут
 (§[ab6]\[[0-9 A-Za-z\+\-%\/✤❉✹✦❋✺]+) for (\d+) seconds\]@(r1) на (r2) секунд]
-(§b[a-zA-Z0-9_]{1,16}§7) gave you (§c\[\+.*\].)$@(r1) дал тебе (r2)
+(§b[a-zA-Z0-9_]{1,16}§7) gave you (§c\[\+.*\]\.)$@(r1) дал тебе (r2)
 (§b[a-zA-Z0-9_]{1,16}§7) gave you (§c\[\+\d+ ❤\]) §bCleared §7all potion effects.@(r1) дал тебе (r2) §bОчищены §7все эффекты зелий.
 (§b[a-zA-Z0-9_]{1,16}§7) gave you §b\+3 minutes§7 speed boost.@(r1) дал тебе §b+3 минуты§7 буста скорости.
-(^§c\[\+\d+ ❤\]) §bCleared §7all potion effects §bRemoved §7all fire.@(r1) §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
-(§c\[\+\d+ ❤\]) §bRemoved §7all fire.$@(r1) §bУбран §7весь огонь.
-(§c\[\+\d+ ❤\]) §bCleared §7all potion effects.@(r1) §bОчищены §7все эффекты зелий.
+^(§c\[\+\d+ ❤\]) §bCleared §7all potion effects §bRemoved §7all fire.$@(r1) §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
+^(§c\[\+\d+ ❤\]) §bRemoved §7all fire.$@(r1) §bУбран §7весь огонь.
+^(§c\[\+\d+ ❤\]) §bCleared §7all potion effects.$@(r1) §bОчищены §7все эффекты зелий.
 (§b[a-zA-Z0-9_]{1,16}§7) has given you (§b\d+%) resistance§7.$@(r1) дал тебе (r2) защиты§7.
 (§b[a-zA-Z0-9_]{1,16}§7) has given you §b20% resistance§7 and§b 10% strength§7.@(r1) дал тебе §b20% к сопротивлению§7 и §b10% к силе§7.
 §4You still have (\d+) unused skill points! Click with your compass to use them!@§4У тебя есть (r1) неиспользованных очков умений! Нажми на свой компас, чтобы использовать их!
