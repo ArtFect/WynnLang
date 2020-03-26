@@ -549,8 +549,8 @@
 (§[a3764])Effect on Weapons:@(r1)Эффект на Оружии:
 (§[a3764])Effect on Armour:@(r1)Эффект на Броне:
 (§b§l\d+%) §b❉ Water Powder Tier (I|II|III|IV|V|VI)$@(r1) §b❉ Порошок Воды Уровень (r2)
-(§b§l\d+%) §c✹ Fire Powder Tier (I|II|III|IV|V|VI)$@(r1) §c✹ Порошок Огня Уровень (r2)
-(§b§l\d+%) §f❋ Air Powder Tier (I|II|III|IV|V|VI)$@(r1) §f❋ Порошок Воздуха Уровень (r2)
-(§b§l\d+%) §2✤ Earth Powder Tier (I|II|III|IV|V|VI)$@(r1) §2✤ Порошок Земли Уровень (r2)
-(§b§l\d+%) §e✦ Thunder Powder Tier (I|II|III|IV|V|VI)$@(r1) §e✦ Порошок Грома Уровень (r2)
+(§c§l\d+%) §c✹ Fire Powder Tier (I|II|III|IV|V|VI)$@(r1) §c✹ Порошок Огня Уровень (r2)
+(§f§l\d+%) §f❋ Air Powder Tier (I|II|III|IV|V|VI)$@(r1) §f❋ Порошок Воздуха Уровень (r2)
+(§2§l\d+%) §2✤ Earth Powder Tier (I|II|III|IV|V|VI)$@(r1) §2✤ Порошок Земли Уровень (r2)
+(§e§l\d+%) §e✦ Thunder Powder Tier (I|II|III|IV|V|VI)$@(r1) §e✦ Порошок Грома Уровень (r2)
 (§7\[[0-9\/]+\]) Powder Slots(.*)@(r1) Слотов для Порошка(r2)
