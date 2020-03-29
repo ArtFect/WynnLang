@@ -57,6 +57,7 @@
 ([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])a Skyseer@(r1) зашел на сервер (r2) классом (r3)Провидец
 (§[ea][a-zA-Z0-9_]{1,16}) left the game.@(r1) покинул игру.
 (§9[a-zA-Z0-9_]{1,16}) \[Lv. (\d+)\] would like to duel! Type (§6\/duel [a-zA-Z0-9_]{1,16}§9) to accept.@(r1) [Ур. (r2)]хочет дуэли с тобой! Напиши (r3) для принятия.
+(§9[a-zA-Z0-9_]{1,16}) would like to duel! Type (§6\/duel [a-zA-Z0-9_]{1,16}§9) to accept.@(r1) хочет дуэли с тобой! Напиши (r2) для принятия.
 (§5[a-zA-Z0-9_]{1,16}) would like to trade! Type §6\/trade ([a-zA-Z0-9_]{1,16}§5) to accept.@(r1) хотел бы поторговать с тобой! Напиши §6/trade (r2) для принятия.
 §eType the command §6\/party join ([a-zA-Z0-9_]{1,16}§e) to join!@§eНапиши команду §6/party join (r1) чтобы присоединиться!
 §3You have been invited to join (§b[A-Za-z ]+§3) by (§b[a-zA-Z0-9_]{1,16}§3)! Type §b\/guild join ([A-Za-z]+§3) to accept!@§3Ты получил приглашение от (r2) присоединиться к (r1)! Напиши §b/guild join (r3) для принятия!

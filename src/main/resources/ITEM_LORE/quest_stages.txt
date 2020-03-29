@@ -877,6 +877,7 @@ QUESTS/Fantastic_Voyage
 §7Advance deeper into the cave @§7Продвигайся вглубь пещеры 
 §7Accompany Relend through the strange @§7В компании с Релендом пройди 
 §7place @§7это странное место 
+§7Speak to Relend @§7Поговори с Релендом
  
 QUESTS/Fate_of_the_Fallen  
 §7Talk to Telvu the mage @§7Поговори с магом Телву 
@@ -1607,6 +1608,8 @@ QUESTS/﻿One_Thousand_Meters_Under
 §7of the submarine. @§7снаружи субмарины 
 §7Explore the island and look @§7Исследуй остров 
 §7for the crystal. @§7в поисках кристалла 
+§7Meet up with the captain @§7Встреться с капитаном 
+§7outside the submarine. @§7снаружи субмарины 
 §7Return to the submarine and @§7Вернись на подлодку 
 §7continue your journey. @§7и продолжай путешествие 
 §7Continue the journey. @§7Продолжи свое путешествие 

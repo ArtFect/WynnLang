@@ -136,6 +136,11 @@
 §7- Refined Icefish Oil 3@§7- Переработанный Жир Щуки 3
 §7- Refined Icefish Meat 2@§7- Переработанное Мясо Щуки 2
 §7- Refined Hops String 1@§7- Переработанная Хмельная Нить 1
+§7- Refined Hops String 2@§7- Переработанная Хмельная Нить 2
+§7- Refined Hops Grains 1@§7- Переработанная Хмельная Нить 1
+§7- Refined Rye String 1@§7- Переработанная Ржаная Нить 1
+§7- Refined Rye String 3@§7- Переработанная Ржаная Нить 3
+§7- Refined Rye String 2@§7- Переработанная Ржаная Нить 2
 §7- Refined Cobalt Ingot 2@§7- Переработанный Слиток Кобальта 2
 §7- Refined Cobalt Ingot 1@§7- Переработанный Слиток Кобальта 1
 §7- Refined Cobalt Ingot 3@§7- Переработанный Слиток Кобальта 3
@@ -157,6 +162,7 @@
 §7- Refined Koi Oil 2@§7- Переработанный Жир Сазана 2
 §7- Refined Rice String 1@§7- Переработанная Рисовая Нить 1
 §7- Refined Bass Oil 3@§7- Переработанный Жир Окуня 3
+§7- Refined Icefish Oil 2@§7- Переработанный Жир Щуки 2
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -610,6 +616,7 @@
 §c✖ Lv. 90: §f6§7 Molten Ingot§f Ⓑ@§c✖ Ур. 90: §f6§7 Молтен Слитков§f Ⓑ
 §c✖ Lv. 90: §f12§7 Molten Ingot§f Ⓑ@§c✖ Ур. 90: §f12§7 Молтен Слитков§f Ⓑ
 §c✖ Lv. 90: §f6§7 Molten Gem§f Ⓑ@§c✖ Ур. 90: §f6§7 Молтен Камней§f Ⓑ
+§a✔ Lv. 90: §f6§7 Molten Gem§f Ⓑ@§a✔ Ур. 90: §f6§7 Молтен Камней§f Ⓑ
 §a✔ Lv. 20: §f2§7 Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f2§7 Золотых Слитка§f Ⓑ
 §a✔ Lv. 20: §f4§7 Gold Ingot§f Ⓑ@§a✔ Ур. 20: §f4§7 Золотых Слитка§f Ⓑ
 §c✖ Lv. 20: §f2§7 Gold Ingot§f Ⓑ@§c✖ Ур. 20: §f2§7 Золотых Слитка§f Ⓑ
@@ -719,6 +726,10 @@
 §a✔ Lv. 70: §f5§7 Kanderstone Gem§f Ⓑ@§a✔ Ур. 70: §f5§7 Кандерстоун Камня§f Ⓑ
 §c✖ Lv. 100: §f6§7 Voidstone Ingot§f Ⓑ@§c✖ Ур. 100: §f6§7 Слитков Войдстоуна§f Ⓑ
 §c✖ Lv. 100: §f12§7 Voidstone Ingot§f Ⓑ@§c✖ Ур. 100: §f12§7 Слитков Войдстоуна§f Ⓑ
+§a✔ Lv. 100: §f6§7 Voidstone Ingot§f Ⓑ@§a✔ Ур. 100: §f6§7 Слитков Войдстоуна§f Ⓑ
+§a✔ Lv. 100: §f12§7 Voidstone Ingot§f Ⓑ@§a✔ Ур. 100: §f12§7 Слитков Войдстоуна§f Ⓑ
+§c✖ Lv. 100: §f6§7 Voidstone Gem§f Ⓑ@§c✖ Ур. 100: §f6§7 Камней Войдстоуна§f Ⓑ
+§a✔ Lv. 100: §f6§7 Voidstone Gem§f Ⓑ@§a✔ Ур. 100: §f6§7 Камней Войдстоуна§f Ⓑ
              §f12§7 Sky Paper§f Ⓒ@             §f12§7 Лиственной Бумаги§f Ⓒ
              §f6§7 Sky Paper§f Ⓒ@             §f6§7 Лиственной Бумаги§f Ⓒ
             §f4§7 Koi Oil§f Ⓚ@            §f4§7 Жира Сазана§f Ⓚ
@@ -740,6 +751,15 @@
              §f6§7 Hemp String§f Ⓙ@             §f6§7 Конопляных Нитей§f Ⓙ
 §c✖ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§c✖ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
 §a✔ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§a✔ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
+             §f6§7 Starfish Oil§f Ⓚ@             §f6§7 Жира Морской Звезды§f Ⓚ
+             §f12§7 Starfish Oil§f Ⓚ@             §f12§7 Жира Морской Звезды§f Ⓚ
+             §f18§7 Starfish Oil§f Ⓚ@             §f18§7 Жира Морской Звезды§f Ⓚ
+§c✖ Lv. 103: §f6§7 Dernic Ingot§f Ⓑ@§c✖ Ур. 103: §f6§7 Дерник Слитков§f Ⓑ
+§c✖ Lv. 103: §f12§7 Dernic Ingot§f Ⓑ@§c✖ Ур. 103: §f12§7 Дерник Слитков§f Ⓑ
+§a✔ Lv. 103: §f6§7 Dernic Ingot§f Ⓑ@§a✔ Ур. 103: §f6§7 Дерник Слитков§f Ⓑ
+§a✔ Lv. 103: §f12§7 Dernic Ingot§f Ⓑ@§a✔ Ур. 103: §f12§7 Дерник Слитков§f Ⓑ
+             §f12§7 Dernic String§f Ⓙ@             §f12§7 Дерник Нитей§f Ⓙ
+             §f6§7 Dernic String§f Ⓙ@             §f6§7 Дерник Нитей§f Ⓙ
 
 #############################POWDERS#############################
 §8Adding 2 powders of tier 4-6@§8Добавление 2 порошков уровня 4-6
@@ -1771,6 +1791,7 @@
 §fCorruptedÀÀÀUnderworldÀÀÀCrypt§7 once@§fИспорченный Подземный Склеп§7 единожды
 §fCorruptedÀÀÀSand-SweptÀÀÀTomb§7 once@§fИспорченная Песчаная Гробница§7 единожды
 §fCorruptedÀÀÀInfestedÀÀÀPit§7 once@§fИспорченная Зараженная Яма§7 единожды
+§fCorrupted Infested Pit §7once.@§fИспорченная Зараженная Яма§7 единожды
 §fCorruptedÀÀÀIceÀÀÀBarrows§7 once@§fИспорченный Ледяной Курган§7 единожды
 §fCorruptedÀÀÀLostÀÀÀSanctuary§7 once@§fИспорченное Затерянное Святилище§7 единожды
 §fCorruptedÀÀÀDecrepitÀÀÀSewers§7 once@§fИспорченная Ветхая Канализация§7 единожды
@@ -2147,6 +2168,8 @@
 §6Epic reward.@§6Эпическую награду.
 §6Epic rewards§7  for 1@§6Эпических наград§7 на 1
 §cGodly reward.@§cБожественную награду.
+§cGodly rewards§7  for 1@§cБожественных наград§7 на 1
+§4§8§k|||§4 Black Market §8§k|||§4 reward.@§4§8§k|||§4 Черный Маркет §8§k|||§4 награду.
 §7Place a mob totem at @§7Поставить моб тотем на
 §7your current location,@§7твою текущую позицию,
 §7increasing the spawn rate@§7увеличив скорость появления

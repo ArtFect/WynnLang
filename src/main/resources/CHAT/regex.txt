@@ -68,6 +68,7 @@
 (§b - §7\d+)x Combat XP Bomb@(r1)x Комбат XP Бомб
 (§b - §7\d+)x Item Bomb@(r1)x Предметных Бомб
 (§b - §7\d+) Crates@(r1) Контейнеров
+(§b - §7\d+x) Dungeon Bomb@(r1) Данж Бомб
 (§c[a-zA-Z0-9_]{1,16}) is not an online player.@(r1) не является онлайн-игроком.
 (§c.*§4) is not a (§c.*§4) weapon. You must use a (§c.*).@(r1) не оружие для (r2). Ты должен использовать (r3)
 §dYou have sold (§7\d+§d) ingredients for a total of (§a\d+²§d.)@§dТы продал (r1) ингредиентов на сумму (r2)
@@ -76,6 +77,9 @@
 (§e[a-zA-Z0-9_]{1,16}) has been added to your ignore list!@(r1) был добавлен в твой игнор лист!
 §4You need to wait ([0-9:]+)m to enable hunted.@§4Тебе нужно подождать (r1))м для переключения охотника.
 §cYou need (\d+) more gold coins.@§cТебе нужно еще (r1) золотых монет.
+(§e[a-zA-Z0-9_]{1,16}) has been removed from your ignore list!@(r1) был убран из твоего игнор листа!
+(§e[a-zA-Z0-9_]{1,16}) is already ignored!@(r1) уже игнорируется!
+§7You have automatically connected to (§f[A-Z0-9]+§7). Type \/lobby to select another server.@§7Ты автоматически присоединился к (r1). Напиши /lobby если нужно подключиться к другому серверу.
 
 #######################################PVP######################################################
 (§6[a-zA-Z0-9_]{1,16}) met his fate.@(r1) встретил свою судьбу.
@@ -89,6 +93,8 @@
 (§6[a-zA-Z0-9_]{1,16}) has perished.@(r1) погиб.
 (§6[a-zA-Z0-9_]{1,16}) kicked the bucket.@(r1) отбросил коньки.
 (§6[a-zA-Z0-9_]{1,16}) hit the ground too hard@(r1) сильно ударился об землю.
+(§6[a-zA-Z0-9_]{1,16}) met their fate.@(r1) встретил свою судьбу.
+(§6[a-zA-Z0-9_]{1,16}) met their demise.@(r1) встретил свою кончину.
 
 ####################################CONGRATULATIONS#############################################
 §8\[§7!§8\] §7Congratulations to (§f[a-zA-Z0-9_]{1,16}§7) for reaching §flevel (\d+) in §fⒾ§7 Woodworking§7!@§8[§7!§8] §7Поздравляем (r1) с достижением §f(r2) уровня в §fⒾ§7 Деревообработке§7!
@@ -492,6 +498,7 @@
 §7\[1\/1\] §2Aledar: §aStay with us ([a-zA-Z0-9_]{1,16})! We've just had a loss, you can't go wandering around!@§7[1/1] §2Аледар: §aОставайся с нами (r1)! У нас только что была потеря, ты не можешь бродить вокруг!
 §7\[1\/1\] §2Aledar: §aStay with us ([a-zA-Z0-9_]{1,16}), we just got here. We can't just go wandering around.@§7[1/1] §2Аледар: §aОстанься с нами (r1), мы только что пришли. Мы не можем просто бродить вокруг.
 §7\[1\/1\] §2Aledar: §aStay with us ([a-zA-Z0-9_]{1,16}), we've just had a loss, you can't go wandering around.@§7[1/1] §2Аледар: §aОстанься с нами (r1), мы же только что пришли. Ты не можешь просто бродить вокруг.
+§7\[1\/1\] §2Aledar: §aStay with us ([a-zA-Z0-9_]{1,16}!)@§7[1/1] §2Аледар: §aОстанься с нами (r1)
 §7\[1\/7\] §2Aledar: §aNo no no!! This is bad, really bad! We have to go ([a-zA-Z0-9_]{1,16})! Now!@§7[1/7] §2Аледар: §aНет нет нет!! Это плохо, очень плохо! Мы должны идти (r1)! Сейчас же!
 §7\[1\/5\] §2Aledar: §a([a-zA-Z0-9_]{1,16})! ([a-zA-Z0-9_]{1,16})!@§7[1/5] §2Аледар: §a(r1)! (r2)!
 §7\[2\/6\] §2Aledar: §aUrrrgh. ([a-zA-Z0-9_]{1,16}), this hasn’t gone to plan. According to my map we aren’t even half way.@§7[2/6] §2Аледар: §aУуггхх. (r1), все пошло не по плану. Судя по моей карте, мы не прошли и половины пути.

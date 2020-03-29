@@ -1004,8 +1004,12 @@
 §aA §6Epic Chrome Cybel Token§a!@§6Эпический Хромовый Кубел Жетон§a!
 §cOrange Wybel Token@§cОранжевый Вубел Жетон
 §3You now have a §bOrange Wybel@§3Теперь у тебя есть §bОранжевый Вубел
+§cOrange Cybel Token@§cОранжевый Кубел Жетон
+§3You now have a §bOrange Cybel@§3Теперь у тебя есть §bОранжевый Кубел
 §cDemon Wings Effect@§cЭффект Крыльев Демона
 §7Give your character demon wings@§7Дает твоему персонажу крылья демона
+§cPhoenix Wings Effect@§cЭффект Крыльев Феникса
+§7Give your character phoenix wings@§7Дает твоему персонажу крылья феникса
 §6Fellowship Bow@§6Лук Дружбы
 §7Disguise your bow with a adventurous flair@§7Маскирует твой лук под стиль приключений
 §aA §cGodly Phoenix Dagger§a!@§cБожественный Кинжал Феникса
@@ -1021,6 +1025,19 @@
 §7Disguise your wand with a adventurous flair@§7Маскирует твой посох под стиль приключений
 §cDern Bow@§cДерн Лук
 §7Disguise your bow with a dark flair@§7Маскирует твой лук под темный стиль
+§6Futuristic Spear@§6Футуристическое Копье
+§7Disguise your spear with a futuristic flair@§7Маскирует твое копье под футуристический стиль
+§6Sea Blue Wybel Token@§6Морской Вубел Жетон
+§3You now have a §bSea Blue Wybel@§3Теперь у тебя есть §bМорской Вубел
+§6Half-Moon Spear@§6Полу-месяц Копье
+§7Disguise your spear with a lunar flair@§7Маскирует твое копье под лунный стиль
+§6Futuristic Wand@§6Футуристический Посох
+§7Disguise your wand with a futuristic flair@§7Маскирует твой посох под футуристический стиль
+§aA §6Epic Golden Dagger§a!@§6Эпический Золотой Кинжал§a!
+§aA §dRare Fire Effect§a!@§dРедкий Эффект Огня§a!
+§aA §6Epic Corrupted Spear§a!@§6Эпическое Испорченное Копье§a!
+§aA §dRare Food Spear§a!@§dРедкое Шашлык Копье§a!
+§aA §6Epic Futuristic Wand§a!@§6Эпический Футуристический Посох§a!
 
 ###################################DUNGEONS##################################
 §7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Защитника Ключа активировало ее...
@@ -1402,6 +1419,18 @@
 §7    §7§oLeading us to believe that the Ahms region has always been fractured, and this is just a tale passed down to explain what can not be explained.@§7    §7§oЭто все заставляет нас поверить в то, что регион Амс всегда был сломан, и это просто история, переданная, чтобы объяснить то, что не может быть объяснено.
 §4    §4§oThere is a handwritten note at the bottom...@§4    §4§oВнизу есть заметка от руки...
 §7    §7§oShould you ever want to waste your seeds, the location is [630,147,-4590]@§7    §7§oЕсли когда-нибудь захочешь потратить свои семена, координаты [630,147,-4590]
+§7End of Chapter I.@§7Конец Главы I.
+§7End of Chapter II.@§7Конец Главы II.
+§7End of Chapter III.@§7Конец Главы III.
+§7End of Chapter IV.@§7Конец Главы IV.
+§7End of Chapter V.@§7Конец Главы V.
+§7End of Chapter VI.@§7Конец Главы VI.
+§7End of Chapter VII.@§7Конец Главы VII.
+§7End of Chapter VIII.@§7Конец Главы VIII.
+§7End of Chapter IX.@§7Конец Главы IX.
+§7End of Chapter X.@§7Конец Главы X.
+§7End of Chapter XI.@§7Конец Главы XI.
+§7§lThe End.@§7§lКонец.
 
 #########################################MERCHANTS############################################
 §5Key Collector: §dYou have access to the dungeon... This time only.@§5Сборщик Ключей: §dТы можешь войти в данж... Но только в этот раз.
@@ -1516,7 +1545,6 @@
 §a- §7Leopard Punches will throw your opponent into the air while damaging them@§a- §7Удары Леопарда подбрасывают твоих противников в воздух, нанося им урон
 §a- §7Blinding Cloud will throw a cloud of smoke, damaging mobs that are stuck inside@§a- §7Ослепляющее Облако выбрасывает облако дыма, нанося урон мобам, застрявшим внутри него
 §a- §7Gale Funnel will pull your enemies towards yourself@§a- §7Воронка Бури будет притягивать твоих врагов к себе
-
 §a+ Spell Upgrade §2[Bash I -> II]@§a+ Апгрейд заклинания §2[Оглушение I -> II]
 §a+ Spell Upgrade §2[Bash II -> III]@§a+ Апгрейд заклинания §2[Оглушение II -> III]
 §a+ Spell Upgrade §2[Heal I -> II]@§a+ Апгрейд заклинания §2[Исцеление I -> II]
@@ -2025,6 +2053,9 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
                   §c§lClick here to toggle hunted mode@                  §c§l§nКликни здесь для переключения режима охотника
 §f                  §c§l§nClick here to toggle hunted mode@§f                  §c§l§nКликни здесь для переключения режима охотника
 §f                      §4§oThis will enable PvP combat@§f                      §4§oЭто включит ПвП
+§4That item is untradeable...@§4Этот предмет нельзя продать...
+§cValid pet names only contain letters and numbers!@§cВ имени должны быть только буквы и числа!
+§fUnknown command. Type "/help" for help.@§fНеизвестная команда. Напиши "/help" для помощи.
 
 #####################################ENTERING/LEAVING##################################################
 §7[You are now entering PirateÀÀÀCove]@§7[Ты входишь в Пиратскую Бухту]

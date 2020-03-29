@@ -869,8 +869,8 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4There is no time for resting now!@§4Сейчас не время для отдыха!
 §7Your backpack seems awfully quiet for once. Maybe it is best to avoid this place for now.@§7В твоей сумке кажется ужасно тихо. Возможно, лучше стоит избегать этого места.
 §7You feel your bag shuffle around...feels like something fell out.@§7Ты чувствуешь, как твоя сумка зашевелилась...как будто что-то выпало.
-§7Confused, you pick to mushroom up to examine it. What even is this thing?@§7Смущенный, ты берешь гриб, чтобы изучить его. Что это вообще такое?
-§7Without dwelling on it too much, you take the talking mushroom and put it in your satchel. @§7Не зацикливаясь на этом слишком долго, ты берешь говорящий гриб и кладешь его в свою сумку.
+§7Confused, you pick the mushroom up to examine it. What even is this thing?@§7Смущенный, ты берешь гриб, чтобы изучить его. Что это вообще такое?
+§7Without dwelling on it too much, you take the talking mushroom and put it in your satchel.@§7Не зацикливаясь на этом слишком долго, ты берешь говорящий гриб и кладешь его в свою сумку.
 §7[+1 Bottled Water]@§7[+1 Бутылка Воды]
 §7[+1 Sponge]@§7[+1 Губка]
 §7[+1 Gunpowder Crate]@§7[+1 Контейнер с Порохом]
@@ -1213,6 +1213,11 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4You can hear strange sounds from the cave depths, it's better to stay out for now.@§4Из глубины пещеры доносятся странные звуки, лучше пока туда не соваться.
 §4A weird buzzing sound comes from the cave, you should not venture further.@§4Странный жужжащий звук доносится из пещеры, ты не должен рисковать и идти дальше.
 §4The heat of the flames prevents you from going any further@§4Жар пламени мешает тебе идти дальше.
+§7It's been opened by Honip... What could be inside?@§7Его открыл Хонип... Что может быть внутри?
+§7I learned about some rumours involving separatists. I should continue helping locals to find out more.@§7Я узнал о некоторых слухах, связанных с сепаратистами. Я должен продолжать помогать местным жителям, чтобы узнать больше.
+§4You need to meet up with the employee before you go here!@§4Тебе нужно встретиться со служащим, прежде чем ты отправишься сюда!
+§4The corruption is too strong for you to enter...@§4Порча слишком сильна для тебя, чтобы войти...
+§7This will teleport you back on the island. Click again to confirm.@§7Это телепортирует тебя обратно на остров. Нажми еще раз для подтверждения.
 
 ################################QUEST NAMES####################################
 §e                          §e§lArachnids' Ascent@ 

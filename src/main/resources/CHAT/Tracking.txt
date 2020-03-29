@@ -7,6 +7,7 @@
 §7Look through all of the water for the ticket and then return it@§7Отыщи в воде билет и верни его
 §7Return to the Document Merchant with the [Secret Documents]@§7Вернись к Торговцу Документами с [Секретными Документами]
 §7Go to the storage area that contains the passport, and find a way in@§7Иди в хранилище с паспортами, и найди путь внутрь
+§7Sneak around the guards in the darkness, and find a way into the vault@§7Спрячься от охранников в темноте, и найди способ попасть в хранилище
 §7Return to Doan with the [Dusty Passport]@§7Вернись к Доану с [Пыльным Паспортом]
 =====
 §7Join Elphaba on a mission in Detlas at [419, 67, -1533].@§7Присоединись к Эльфабе на миссию в Детласе [419, 67, -1533]
@@ -174,6 +175,7 @@
 §7Find [2 Eggs], [1 Bucket of Milk] and [3 Wheat Grains] for the Cook@§7Найди [2 Яйца], [1 Ведро Молока] и [3 Пшеничного Зерна] для Повара
 ======
 §7Talk to the Troms Mage at the dungeon entrance at [-641,59,-872]@§7Поговори с Магом Тромса на входе в данж [-641,59,-872]
+§7Wait for the Mage to cast the incantation on the barrier@§7Подожди пока Маг наложит заклинание на барьер 
 §7Use the Mage’s riddle to figure out where it leads@§7Используя загадку мага разберись, куда она ведет 
 §7Explore the temple for a way to break the barrier@§7Исследуй храм и найди способ разрушить барьер 
 §7Go to Slykaar’s residence to find out what is hidden there@§7Иди в резиденцию Слайкаара и узнай, что там спрятано
@@ -264,6 +266,7 @@
 §7Head back to the coalition through the tunnel at [1481,15,-5479].@§7Иди обратно к коалиции через тоннель на [1481,15,-5479].
 §7Retrieve the [Repair Kit] in the eastern part of the base.@§7Принеси [Ремонтный Комплект] с восточной части базы
 §7Find your way up to the Dogun village through the tunnel.@§7Доберись вверх до убежища Догунов через тоннель
+§7Talk to Plario.@§7Поговори с Пларио
 =======
 §7Return to the Dogun village at [1371,141,-5306] with a Dogun Badge of Trust and talk to the leader of the town.@§7Вернись в деревню Догунов на [1371,141,-5306] со Знаком Доверия Догунов и поговори с лидером деревни 
 §7Enter the meeting.@§7Войди на место встречи
@@ -282,8 +285,10 @@
 §7Talk to the blacksmith in Maex.@§7Поговори с кузнецом в Маэксe
 §7Bring back [10 Fire Webs] from [1458,15,-5352] and [3 Magmatic Crystals] from the Maex mines and [1 Crystallized lava] from [1346,5,-5409]@§7Принеси [10 Огненных Паутин] из [1458,15,-5352], [3 Магматических Кристалла] из шахт Маэкса и [1 Кристаллизованную Лаву] из [1346,5,-5409]
 §7Go to the enchanter and enchant the amulet at [1509,45,-5339].@§7Иди к чародею и зачаруй амулет на [1509,45,-5339].
+§7Enter the storage room in the enchanter's house.@§7Войди в кладовую в доме чародея. 
 §7Craft the amulet in the crafting table at [1503,45,-5303].@§7Скрафти амулет на верстаке [1503,45,-5303].
 §7Travel to the frozen heights and find the True Ice at [1590,107,-5445].@§7Иди к замерзшим пещерам и найди Чистый Лед на [1590,107,-5445].
+§7Travel through the Freezing Heights and find the True Ice.@§7Иди к замерзшим пещерам и найди Чистый Лед 
 §7Return to the enchanter with the True Ice.@§7Вернись к чародею с Чистым Льдом
 ========
 §7Return to Korzim at [1514, 51, -5342] on the second floor of the enchanter in Maex with the Amulet of Fire and the Staff of Ice.@§7Вернись к Корзиму на [1514, 51, -5342], что на втором этаже дома чародея в Маэксе с Амулетом Защиты от Огня и Предметом Чистого Льда 
@@ -372,6 +377,7 @@
 §7Use the explosive on the boulder and enter the cave@§7Используй взрывчатку на камне и войди в пещеру 
 §7Find an exit from the strange place@§7Найди выход из странного места
 §7Advance deeper into the cave@§7Продвигайся вглубь пещеры
+§7Accompany Relend through the strange place@§7В компании с Релендом пройди это странное место 
 ======
 §7Talk to Telvu the mage at [165,74,-675]@§7Поговори с магом Телву на [165,74,-675] 
 §7Find the item the mage is talking about at the bank.@§7Найди предмет в банке, о котором говорил маг 
@@ -681,6 +687,7 @@
 §7Go for a drink at the Corkus Docks Inn, [-1414, 46, -2921]@§7Пойди выпить в Доки Коркусa на [-1414, 46, -2921]
 §7Talk to citizens around the docks to find out more about what happened.@§7Поговори с другими жителями в доках и узнай больше о том, что произошло 
 §7Follow the trail of blood close to the castle, [-5870, 19, -2459]@§7Иди по следу крови, рядом с замком [-5870, 19, -2459]
+§7Survive the fight against the drugged corkian@§7Выживи в битве против одурманенных коркианцов 
 =====
 §7Talk to Captain Lorias in Cinfras suburbs at [-592,45,-4972]@§7Поговори с Капитаном Лориасом в окрестностях Цинфраса на [-592,45,-4972]
 §7Investigate the crime scene for clues@§7Посети место преступления и найди улики
@@ -698,6 +705,7 @@
 §7Talk to The Secretary at [1121,101,-4525]@§7Поговори с Секретарем на [1121,101,-4525]
 §7Talk to the captain outside of the submarine.@§7Поговори с капитаном снаружи субмарины
 §7Enter the conferece room and listen to the scientist.@§7Войди в комнату конференций и послушай ученого
+§7Meet up with the crew inside the submarine.@§7Встреться с командой внутри подлодки. 
 §7Wait for the submarine to arrive at the void islands.@§7Подожди пока подлодка прибудет на пустотный остров.
 §7Explore the island and look for the crystal.@§7Исследуй остров в поисках кристалла
 §7Return to the submarine and continue your journey.@§7Вернись на подлодку и продолжай путешествие
@@ -861,6 +869,7 @@
 §7Complete the parkour@§7Пройди паркур
 §7Speak to Tiek@§7Поговори с Тик
 §7Explore the Light Forest@§7Исследуй Светлый Лес 
+§7Talk to Tiek@§7Поговори с Тик
 ======
 §7Talk to Kelight at the entrance of the Temple of the Legends, close to Troms at [-693,68,-993]@§7Поговори с Келайгтом на входе в Храм Легенд, недалеко от Тромса [-693,68,-993]
 §7Bring back [1 Yahya's Stained Bowl], [1 Maltic's Recommendation Letter] and [1 Corrupted Potato] to Kelight@§7Принеси [1 Использованную Миску Яхуя], [1 Рекомендательное Письмо Малтикa], и [1 Испорченную Картошку] Келайгту 
@@ -869,6 +878,7 @@
 §7Find the lightdust cavern located around the Nether Portal@§7Найди пещеру со светопылью рядом с порталом в Ад 
 §7Retrieve [1 Light Dust] for Jorkin to look at@§7Добудь [1 Светопыль] для Джоркина 
 §7Visit Rayshyroth on the Mage Island to purify the dust@§7Посети Рейзирота на Острове Магов чтобы очистить пыль 
+§7Find the cave on Mage Island where the Sky Flux gathers@§7Найди пещеру на Острове Магов где спавнится Sky Flux 
 §7Give [12 Sky Vapor] to Rayshyroth@§7Принеси [12 Небесных Испарений] Рейзироту 
 §7Show the [Purified Light Dust] to Kelight at the entrance of the Temple of the Legends@§7Покажи [Очищенную Светопыль] Келайгту, что стоит на входе в Храм Легенд 
 §7Find Garull, the Creeper obsessed craftsman@§7Найди Гарулла - мастера, одержимого криперами 
@@ -885,6 +895,7 @@
 §7Talk to Psilo in the mushroom cave at [-205,42,-4308]@§7Поговори с Псило в грибной пещере на [-205,42,-4308]
 §7Find the Subtraxerim Utilium mushroom in the cave and bring it back to Psilo.@§7Найди Subtraxerim Utilium гриб в пещере и принеси его обратно к Псило
 §7Get to the blue mushroom and return to normal size.@§7Найди синий гриб и вернись к обычному размеру.
+§7Give Psilo the good news about the mice.@§7Расскажи Псило хорошие новости о мышах 
 =====
 §7Speak to Grenot outside the Thesead coal mine at [676,78,-5020]@§7Поговори с Гренотом снаружи угольной шахты Тесеада на [676,78,-5020]
 §7Enter the coal mine@§7Войди в угольную шахту 
@@ -953,6 +964,7 @@
 §7Go to the Dullahan's old mansion at [-816, 45, -5147]@§7Иди в старое поместье Дуллахана на [-816, 45, -5147] 
 §7Search the Dullahan's old mansion for the story of the Dullahan@§7Обыщи старое поместье Дуллахана и найди историю Дуллахана 
 §7Go underneath the Dullahan's mansion to investigate the blood altar@§7Иди под поместье Дуллахана и исследуй кровавый алтарь
+§7Search the torture chambers for the spirits@§7Найди в пыточных камерах духов 
 §7Destroy the Lost Spirits to free them@§7Уничтожь Lost Spirits чтобы освободить всех
 §7Show Referick proof that you have freed the spirits of the Dullahan's victims@§7Покажи Реферику доказательства, что ты освободил души жертв Дуллахана 
 ======
@@ -967,6 +979,7 @@
 §7Inspect the house@§7Посети дом 
 §7Read the note on the table@§7Прочитай записку на столе 
 §7Head to Eltom's Airbase at [968,152,-5463]@§7Отправься на авиабазу Элтома [968,152,-5463]
+§7Talk to Hilan@§7Поговори с Хиланом 
 §7Head up the Airbase's Tower to confront the hooded man@§7Поднимись на башню авиабазы и сразись с человеком в капюшоне 
 §7Board the Eltom Cargo Ship@§7Зайди на борт торгового корабля Элтома 
 §7Escape your cell and find a way to sabotage the ship@§7Сбеги из клетки и найди способ остановить дирижабль
@@ -1220,6 +1233,8 @@
 §7Solve the puzzle to open the door that locks the heirloom.@§7Пройди пазл, чтобы открыть дверь к сокровищам
 §7Find you way into the vault.@§7Найди вход в хранилище
 §7Exit the house@§7Покинь дом
+§7Explore@§7Исследуй
+§7Explore the house to find a way out@§7Исследуй дом чтобы найти выход 
 
 #########################################MINI-QUESTS##############################################
 §7Bring [15 Snow Clumps] to the Slaying Post [Combat Lv. 40] at [82,69,-725]@§7Принеси [15 Snow Clumps] к Доске Заданий [Комбат Ур. 40] на [82,69,-725]
@@ -1282,6 +1297,8 @@
 §7Bring §3[14 Barley String] §7or §3[14 Barley Grains] §7to the §aGathering Post §2[Farming Lv. 18]@§7Принеси §3[14 Ячменных Нитей] §7или §3[14 Ячменных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 18]
 §7Bring §3[16 Oat String] §7or §3[16 Oat Grains] §7to the §aGathering Post §2[Farming Lv. 23]@§7Принеси §3[16 Овсяных Нитей] §7или §3[16 Овсяных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 23]
 §7Bring §3[20 Malt String] §7or §3[20 Malt Grains] §7to the §aGathering Post §2[Farming Lv. 33]@§7Принеси §3[20 Солодовых Нитей] §7или §3[20 Солодовых Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 33]
+§7Bring [20 Malt String] or [20 Malt Grains] to the Gathering Post [Farming Lv. 33] at [1280,77,-1981]@§7Принеси [20 Солодовых Нитей] или [20 Солодовых Зерен] к Доске Сбора [Земледелие Ур. 33] на [1280,77,-1981]
+§7Bring [30 Malt String] or [30 Malt Grains] to the Gathering Post [Farming Lv. 38] at [1427,88,-1607]@§7Принеси [30 Солодовых Нитей] или [30 Солодовых Зерен] к Доске Сбора [Земледелие Ур. 38] на [1427,88,-1607]
 §7Bring §3[24 Oat String] §7or §3[24 Oat Grains] §7to the §aGathering Post §2[Farming Lv. 28]@§7Принеси §3[24 Овсяных Нитей] §7или §3[24 Овсяных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 28]
 §7Bring §3[30 Malt String] §7or §3[30 Malt Grains] §7to the §aGathering Post §2[Farming Lv. 38]@§7Принеси §3[30 Солодовых Нитей] §7или §3[30 Солодовых Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 38]
 §7Bring §3[24 Hops String] §7or §3[24 Hops Grains] §7to the §aGathering Post §2[Farming Lv. 43]@§7Принеси §3[24 Хмельных Нитей] §7или §3[24 Хмельных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 43]

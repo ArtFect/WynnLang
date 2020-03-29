@@ -1326,6 +1326,7 @@ Galleon'sÀÀÀGraveyard Key@Ключ от Кладбища Галлеона
 §4Broken CorruptedÀÀÀSand-SweptÀÀÀTomb Key@§4Разбитый Испорченный Ключ от Песчаной Гробницы 
 §4CorruptedÀÀÀInfestedÀÀÀPit KeyÀ@§4Испорченный Ключ от Зараженной Ямы
 §4CorruptedÀÀÀInfestedÀÀÀPit Key@§4Испорченный Ключ от Зараженной Ямы
+CorruptedÀÀÀInfestedÀÀÀPit Key@§4Испорченный Ключ от Зараженной Ямы
 §4Broken CorruptedÀÀÀInfestedÀÀÀPit KeyÀ@§4Разбитый Испорченный Ключ от Зараженной Ямы
 §4Broken CorruptedÀÀÀInfestedÀÀÀPit Key@§4Разбитый Испорченный Ключ от Зараженной Ямы
 §4CorruptedÀÀÀDecrepitÀÀÀSewers KeyÀ@§4Испорченный Ключ от Ветхой Канализации 
@@ -2006,6 +2007,8 @@ Fat Mouse Tail@§fХвост Толстой Мыши
 §cDern Dagger@§cДерн Кинжал
 §cDern Bow@§cДерн Лук
 §cDern Spear@§cДерн Копье
+§cDern Wand@§cДерн Посох
+§4Viking Helmet@§4Шлем Викинга
 §dViolet Wybel Token@§dФиолетовый Вубел Жетон
 §fGray Wybel Token@§fСерый Вубел Жетон
 §fWhite Wybel Token@§fБелый Вубел Жетон
@@ -2300,11 +2303,13 @@ Gathering Pickaxe 6@Сборная Кирка 6
 Gathering Pickaxe 3@Сборная Кирка 3
 Gathering Pickaxe 8@Сборная Кирка 8
 Gathering Pickaxe 7@Сборная Кирка 7
+Gathering Pickaxe 11@Сборная Кирка 11
 Gathering Rod 2@Сборная Удочка 2
 Gathering Rod 1@Сборная Удочка 1
 Gathering Rod 3@Сборная Удочка 3
 Gathering Rod 6@Сборная Удочка 6
 Gathering Rod 9@Сборная Удочка 9
+Gathering Rod 11@Сборная Удочка 11
 Gathering Axe 2@Сборный Топор 2
 Gathering Axe 1@Сборный Топор 1
 Gathering Axe 5@Сборный Топор 5
@@ -2403,6 +2408,11 @@ Crafted RelikÀ@Крафтовый Релик
 §b§lToxic BounceÀ@§b§lТоксичный ОтскокÀ
 §b§lSpace Between RealitiesÀ@§b§lПространство Между РеальностямиÀ
 §b§lSilent Expanse's SecretÀ@§b§lСекрет Тихого ПространстваÀ
+§b§lTorn in TwainÀ@§b§lРаздор ТвейновÀ
+§b§lPottery WheelÀ@§b§lГончарный КругÀ
+§b§lA Deathly WarningÀ@§b§lСмертельное ПредупреждениеÀ
+§b§lThe Lone TelescopeÀ@§b§lОдинокий ТелескопÀ
+§b§lA Wynnic ExcavationÀ@§b§lВинник РаскопкиÀ
 
 ##############################UNIDENTIFIED ITEMS##############################
 §eUnidentified Wand@§eНеидентифицированный Посох
