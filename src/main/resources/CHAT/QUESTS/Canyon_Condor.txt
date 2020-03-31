@@ -22,13 +22,13 @@
 §7[3/7] §2Hermit: §aIt doesn't take kindly to strangers you know. I once saw it turn a group of poachers to ash!@§7[3/7] §2Отшельник: §aОна не очень любит путешественников. Я видел, как она превратила целую группу людей в прах!
 §7[4/7] §2Hermit: §aIf you want to go through here, you'll need to pay. Oh, I don't want your money, why would I need money, I have everything!@§7[4/7] §2Отшельник: §aЕсли хочешь пройти через мост, то ты должен заплатить. Нет, мне не нужны твои деньги, у меня всё есть!
 §7[5/7] §2Hermit: §aIf you want access to these plateaus then you will have to find me a rare flower for my little cave here.@§7[5/7] §2Отшельник: §aЕсли хочешь пройти, то ты должен принести один редкий цветок для моей маленькой пещеры.
-§7[6/7] §2Hermit: §aIt is found on top of one of the stacks in the mesa, it shouldn't be too hard to find.@§7[6/7] §2Отшельник: §aОн находится на вершине одной из скал плато, его будет не очень тяжело найти.
-§7[7/7] §2Hermit: §aBring me §3[1 Rare Rose]§a and I shall let you pass on to the creature of the mesa.@§7[7/7] §2Отшельник: §aПринеси мне §3[1 Редкую Розу]§a и я пропущу тебя к созданию плато.
+§7[6/7] §2Hermit: §aIt is found on top of one of the stacks in the mesa, it shouldn't be too hard to find.@§7[6/7] §2Отшельник: §aОн находится на вершине одной из скал плато, его будет не очень тяжело найти. 
+§7[7/7] §2Hermit: §aBring me §3[1 Rare Rose]§a and I shall let you pass on to the creature of the mesa.@§7[7/7] §2Отшельник: §aПринеси мне §3[1 Редкую Розу]§a и я пропущу тебя к созданию плато. §6[1056, -1682]
 §7[1/5] §2Hermit: §aA ha! This will do perfectly. My chickling will love it! I suppose you can cross the bridge now.@§7[1/5] §2Отшельник: §aАха! Прекрасно. Моей курочке это понравится! Теперь ты можешь пересечь мост.
 §7[2/5] §2Hermit: §aThe beast dwells on top of one of these plateaus. With a little searching, you should be able to find it.@§7[2/5] §2Отшельник: §aЗверь обитает на вершине одного из этих плато. Немного поищи, и ты обязательно его найдёшь.
 §7[3/5] §2Hermit: §aI'll let you use my elevators too. After all, it's not like you will last long...@§7[3/5] §2Отшельник: §aИ еще, я позволю тебе пользоваться лифтами. Судя по тебе, ты будешь пользоваться ими недолго...
 §7[4/5] §2Hermit: §aOnly one traveler I have heard of could stand against the beast. I believe he took an egg from it for a pet, hah!@§7[4/5] §2Отшельник: §aТолько один путешественник смог выстоять против зверя. Я слышал, что он сделал существо, вылупившееся из яйца, своим питомцем!
-§7[5/5] §2Hermit: §aHe is long gone now just like you will be in a few moments. It was nice not knowing you, kid.@§7[5/5] §2Отшельник: §aПравда, его уже давно нет с нами, прямо как тебя не будет через пару минут. Был не рад встрече, мальчуган.
+§7[5/5] §2Hermit: §aHe is long gone now just like you will be in a few moments. It was nice not knowing you, kid.@§7[5/5] §2Отшельник: §aПравда, его уже давно нет с нами, прямо как тебя не будет через пару минут. Был не рад встрече, мальчуган. §6[1381, -1347]
 §7[1/5] §2Svin: §aTraveler! You have returned! Tell me, what have you learned?@§7[1/5] §2Свин: §aПутешественник! Ты вернулся! Скажи мне, что ты узнал?
 §7[2/5] §2Svin: §aYou found it?! This is wonderful news! You collected an egg from it's nest as well? You are very brave indeed!@§7[2/5] §2Свин: §aТы нашёл его? Какие прекрасные новости! Яйцо, полученное тобой, в сохранности? Ты очень храбр!
 §7[3/5] §2Svin: §aSo the legend of the Cockatrice is true! You've seen it and battled it with your own courage!@§7[3/5] §2Свин: §aЗначит легенда о птице из каньона оказалось правдой! Ты храбро сразился с этим чудищем!
@@ -42,6 +42,6 @@
 §7[1/1] §2Svin: §aThe secrets of this mesa are too much for you to behold. Come back at level 38.@§7[1/1] §2Свин: §aСекреты этого плато еще слишком непонятны для твоего понимания. Вернись на 38 уровне.
 §7[1/1] §2Jankan: §aYer back again, are ye? Yer ain' gettin' any of me gold, so move along!@§7[1/1] §2Джанкан: §aТы снова вернулся, не так ли? Ты не получишь ни гроша из моего золото, так что двигай! 
 §7[1/1] §2Hermit: §aThink you can waltz in my humble abode and get across my bridge? Get out!@§7[1/1] §2Отшельник: §aДумаешь можешь покрасоваться передо мной в моей скромной обители и перебраться через мост? Убирайся!
-§7[1/1] §2Hermit: §aWhat’s taken you so long, kid? I just want §3[1 Rare Rose]§a!@§7[1/1] §2Отшельник: §aПочему ты так долго, малыш? Я просто хочу §3[1 Редкую Розу]§a!
+§7[1/1] §2Hermit: §aWhat’s taken you so long, kid? I just want §3[1 Rare Rose]§a!@§7[1/1] §2Отшельник: §aПочему ты так долго, малыш? Я просто хочу §3[1 Редкую Розу]§a! §6[1056, -1682]
 §7[1/1] §2Jankan: §aNothing for ye to see here youngster. Move along!@§7[1/1] §2Джанкан: §aТебе нечего здесь смотреть, мальчуган. Двигай!
 §7[1/1] §2Hermit: §aWhat are you here for, eh kid? Get out. Get!@§7[1/1] §2Отшельник: §aЗачем ты здесь, а парнишка? Уходи. Сейчас же!
