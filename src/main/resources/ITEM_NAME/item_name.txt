@@ -2124,7 +2124,7 @@ Siegfried Diary Collection@§fКоллекция Дневников Зигфри
 §6Garoth's Breath@§6Дыхание Гарота
 §6Corrupted Garoth's Breath@§6Испорченное Дыхание Гарота
 §6Antikythera Supercomputer's Chip@§6Чип Антикитеры Суперкомпьютера
-§6Infested Pit Fragment@§6Фрагмент Зараженной Ямф 
+§6Infested Pit Fragment@§6Фрагмент Зараженной Ямы 
 §6Corrupted Infested Pit Fragment@§6Испорченный Фрагмент Зараженной Ямы
 §6Underworld Crypt Fragment@§6Фрагмент Подземного Склепа
 §6Corrupted Underworld Crypt Fragment@§6Испорченный Фрагмент Подземного Склепа 
@@ -2142,19 +2142,19 @@ Siegfried Diary Collection@§fКоллекция Дневников Зигфри
 §6Fallen Factory Dungeon Fragment@§6Фрагмент Заброшенной Фабрики
 §6Eldritch Outlook Fragment@§6Фрагмент Жуткого Наблюдателя
 §6The Eye's Pupil@§6Зрачок Глаза
-§eDecrepit Sewers Token@§eВетхая Канализация Жетон
-§eInfested Pit Token@§eЗараженная Яма Жетон
-§eIce Barrows Token@§eЛедяной Курган Жетон
-§eIce Barrows Token 2@§eЛедяной Курган Жетон 2
-§eIce Barrows Token 1@§eЛедяной Курган Жетон 1
-§eIce Barrows Token 3@§eЛедяной Курган Жетон 3
-§eUndergrowth Ruins Token@§eЗаросшие Руины Жетон
-§eBlue Undergrowth Ruins Token@§eСиний Заросшие Руины Жетон
-§eSand-Swept Tomb Token@§eПесчаная Гробница Жетон
-§eGalleon’s Graveyard Token@§eКладбище Галеона Жетон
-§eUnderworld Crypt Token@§eПодземный Склеп Жетон
+§eDecrepit Sewers Token@§eЖетон Ветхой Канализации 
+§eInfested Pit Token@§eЖетон Зараженной Ямы 
+§eIce Barrows Token@§eЖетон Ледяного Кургана
+§eIce Barrows Token 2@§eЖетон Ледяного Кургана 2
+§eIce Barrows Token 1@§eЖетон Ледяного Кургана 1
+§eIce Barrows Token 3@§eЖетон Ледяного Кургана 3
+§eUndergrowth Ruins Token@§eЖетон Заросших Руин
+§eBlue Undergrowth Ruins Token@§eСиний Жетон Заросших Руин
+§eSand-Swept Tomb Token@§eЖетон Песчаной Гробницы 
+§eGalleon’s Graveyard Token@§eЖетон Кладбища Галеона 
+§eUnderworld Crypt Token@§eЖетон Подземного Склепа
 §eEldritch Outlook Token@§eЖетон Жуткого Наблюдателя
-§eLegendary Challenge Token@§eЛегендарный Челлендж
+§eLegendary Challenge Token@§eЖетон Легендарного Челленджа
 §fSilver Legendary Token@§fСеребрянный Легендарный Жетон
 §6Bronze Legendary Token@§6Бронзовый Легендарный Жетон
 §bDiamond Legendary Token@§bАлмазный Легендарный Жетон
@@ -2171,7 +2171,7 @@ Boat@Лодка
 §dBattery@§dБатарея
 Jungle Turquoise Shard@Джунглевый Осколок Бирюзы
 Jungle Topaz Shard@Джунглевый Осколок Топаза
-§6Legendary Challenge Ticket@§6Легендарный Челлендж Билет
+§6Legendary Challenge Ticket@§6Билет На Легендарный Челлендж
 §bLegendary Medallion@§bЛегендарный Медальон
 §6Large Rock@§6Большой Камень
 §fAncient Wynnic Transcriber@§fДревний Wynnic Переводчик
