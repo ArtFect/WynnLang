@@ -409,6 +409,8 @@
 §4You cannot use /class during a guild war.@§4Ты не можешь использовать /class во время захвата
 §bUse /guild defend to defend this territory@§bИспользуй /guild defend для защиты этой территории
 §4You need 10000 Guild Emeralds to edit your guild banner!@§4Тебе нужно 10000 Эмеральдов в банке гильдии для редактирования вашего баннера!
+§4Your guild can only start a battle every 10 seconds!@§4Твоя гильдия может начинать захват только каждые 10 секунд!
+§cYou must be a Recruiter to use this command.@§cТы должен быть рекрутером для использования этой команды.
 
 ###################################QUEST/DUNGEON REWARDS##################################
 §7[+1 Selchar Teleportation Scroll]@§7[+1 Сельчар свиток телепортации]
@@ -570,45 +572,48 @@
 §d            - §7Giant's Ring@ 
 §d            - §7+Ring of Rubies@ 
 §6   +25 Bronze Tokens@§6   +25 Бронзовых жетонов
-§f   +15 Silver Tokens@§f   +15 Серерянных жетонов
-§e   +7 Gold Tokens@§e   +7 Золотых жетонов
-§b   +1 Diamond Token@§b   +1 Алмазный жетон
 §6   +18 Bronze Tokens@§6   +18 Бронзовых жетонов
-§f   +9 Silver Tokens@§f   +9 Серерянных жетонов
-§e   +3 Gold Tokens@§e   +3 Золотых жетона
 §6   +12 Bronze Tokens@§6   +12 Бронзовых жетонов
-§f   +5 Silver Tokens@§f   +5 Серерянных жетонов
 §6   +1 Bronze Token@§6   +1 Бронзовый Жетон
+§6   +21 Bronze Tokens@§6   +21 Бронзовый Жетон
+§f   +15 Silver Tokens@§f   +15 Серерянных жетонов
+§f   +9 Silver Tokens@§f   +9 Серерянных жетонов
+§f   +5 Silver Tokens@§f   +5 Серерянных жетонов
+§f   +12 Silver Tokens@§f   +12 Серебрянных Жетонов
+§e   +7 Gold Tokens@§e   +7 Золотых жетонов
+§e   +3 Gold Tokens@§e   +3 Золотых жетона
+§e   +5 Gold Tokens@§e   +5 Золотых Жетонов
+§b   +1 Diamond Token@§b   +1 Алмазный жетон
 §7[+Witherhead's Rib]@§7[+Ребро Визерхеда]
-§7[+Decrepit Sewers Fragment]@§7[+Ветхая Канализация Фрагмент]
+§7[+Decrepit Sewers Fragment]@§7[+Фрагмент Ветхой Канализации]
 §7[+Theorick's Ice Shard]@§7[+Осколок Льда Теорика]
-§7[+Ice Barrows Fragment]@§7[+Ледяной Курган Фрагмент]
+§7[+Ice Barrows Fragment]@§7[+Фрагмент Ледяного Кургана]
 §7[+Slykaar's Heart]@§7[+Сердце Слайкаара]
-§7[+Undergrowth Ruins Fragment]@§7[+Заросшие Руины Фрагмент]
+§7[+Undergrowth Ruins Fragment]@§7[+Фрагмент Заросших Руин]
 §7[+Arakadicus' Eye]@§7[+Глаз Аракадикус]
-§7[+Infested Pit Fragment]@§7[+Зараженная Яма Фрагмент]
+§7[+Infested Pit Fragment]@§7[+Фрагмент Зараженной Ямы]
 §7[+Hashr's Bone]@§7[+Кость Хашера]
-§7[+Sand-Swept Tomb Fragment]@§7[+Песчаная Гробница Фрагмент]
+§7[+Sand-Swept Tomb Fragment]@§7[+Фрагмент Песчаной Гробницы]
 §7[+Garoth's Breath]@§7[+Дыхание Гарота]
-§7[+Lost Sanctuary Fragment]@§7[+Затерянное Святилище Фрагмент]
+§7[+Lost Sanctuary Fragment]@§7[+Фрагмент Затерянного Святилища]
 §7[+Corrupted Witherhead's Rib]@§7[+Испорченное Ребро Визерхеда]
-§7[+Corrupted Decrepit Sewers Fragment]@§7[+Испорченный Ветхая Канализация Фрагмент]
+§7[+Corrupted Decrepit Sewers Fragment]@§7[+Испорченный Фрагмент Ветхой Канализации]
 §7[+Charon's Brain]@§7[+Мозг Харона]
-§7[+Underworld Crypt Fragment]@§7[+Подземный Склеп Фрагмент]
+§7[+Underworld Crypt Fragment]@§7[+Фрагмент Подземного Склепа]
 §7[+Corrupted Arakadicus' Eye]@§7[+Испорченный Глаз Аракадикус]
-§7[+Corrupted Infested Pit Fragment]@§7[+Испорченный Зараженная Яма Фрагмент]
+§7[+Corrupted Infested Pit Fragment]@§7[+Испорченный Фрагмент Зараженной Ямы]
 §7[+Corrupted Hashr's Bone]@§7[+Испорченная Кость Хашера]
-§7[+Corrupted Sand-Swept Tomb Fragment]@[+Испорченный Песчаная Гробница Фрагмент]
+§7[+Corrupted Sand-Swept Tomb Fragment]@[+Испорченный Фрагмент Песчаной Гробницы]
 §7[+Redbeard's Hair]@§7[+Волос Редберда]
-§7[+Galleon's Graveyard Fragment]@§7[+Кладбище Галеона Фрагмент]
+§7[+Galleon's Graveyard Fragment]@§7[+Фрагмент Кладбища Галеона]
 §7[+Corrupted Garoth's Breath]@§7[+Испорченное Дыхание Гарота]
-§7[+Corrupted Lost Sanctuary Fragment]@§7[+Испорченный Затерянное Святилище Фрагмент]
-§7[+Antikythera Supercomputer's Chip]@§7[+Антикитера Суперкомпьютер Чип]
-§7[+Fallen Factory Dungeon Fragment]@§7[+Заброшенная Фабрика Фрагмент]
+§7[+Corrupted Lost Sanctuary Fragment]@§7[+Испорченный Фрагмент Затерянного Святилища]
+§7[+Antikythera Supercomputer's Chip]@§7[+Чип Антикитеры Суперкомпьютера]
+§7[+Fallen Factory Dungeon Fragment]@§7[+Фрагмент Заброшенной Фабрики]
 §7[+Corrupted Charon's Brain]@§7[+Испорченный Мозг Харона]
-§7[+Corrupted Underworld Crypt Fragment]@§7[+Испорченный Подземный Склеп Фрагмент]
+§7[+Corrupted Underworld Crypt Fragment]@§7[+Испорченный Фрагмент Подземного Склепа]
 §7[+Corrupted Theorick's Ice Shard]@§7[+Испорченный Осколок Льда Теорика]
-§7[+Corrupted Ice Barrows Fragment]@§7[+Испорченный Ледяной Курган Фрагмент]
+§7[+Corrupted Ice Barrows Fragment]@§7[+Испорченный Фрагмент Ледяного Кургана]
 §7[+Corrupted Slykaar's Heart]@§7[+Испорченное Сердце Слайкаара]
 §7[+Corrupted Undergrowth Ruins Fragment]@§7[+Испорченный Фрагмент Заросших Руин]
 §7[+The Eye's Pupil]@§7[+Зрачок Глаза]
@@ -618,12 +623,12 @@
 §7[+1 Skill Reset Scroll]@§7[+1 Свиток Сброса Умений]
 §7[+3 Sunken Block of Gold]@§7[+3 Затонувших Блока Золота]
 §7[+1 Old Pirate Hook]@§7[+1 Старый Пиратский Крюк]
-§7[+1 Galleon's Graveyard Key]@§7[+1 Кладбище Галеона Ключ]
+§7[+1 Galleon's Graveyard Key]@§7[+1 Ключ от Кладбища Галлеона]
 §7[+4 Coral Sapphire]@§7[+4 Коралловых Сапфира]
-§7[+1 Llevigar Boat Pass]@§7[+1 Ллевигар Билет]
+§7[+1 Llevigar Boat Pass]@§7[+1 Билет в Ллевигар]
 §7+7 Emeralds@§7+7 Эмеральдов
-§7[+1 Selchar Boat Pass]@§7[+1 Сельчар Билет]
-§7[+1 Nemract Boat Pass]@§7[+1 Немракт Билет]
+§7[+1 Selchar Boat Pass]@§7[+1 Билет в Сельчар]
+§7[+1 Nemract Boat Pass]@§7[+1 Билет в Немракт]
 §7[-1 Mine Pass]@§7[-1 Пропуск в Шахту]
 §4This material cannot be used for §fⒹ§c Jeweling@§4Этот материал не может быть использован в §fⒹ§c Изготовлении Аксессуаров
 §4This material cannot be used for §fⒼ§c Weaponsmithing@§4Этот материал не может быть использован в §fⒼ§c Оружейном Деле
@@ -1039,6 +1044,35 @@
 §aA §6Epic Corrupted Spear§a!@§6Эпическое Испорченное Копье§a!
 §aA §dRare Food Spear§a!@§dРедкое Шашлык Копье§a!
 §aA §6Epic Futuristic Wand§a!@§6Эпический Футуристический Посох§a!
+§cDern Wand@§cДерн Посох
+§7Disguise your wand with a dark flair@§7Маскирует твой посох под темный стиль
+§dFood Relik@§dБрокколи Релик
+§7Disguise your relik as a piece of food@§7Маскирует твой релик под кусок еды
+§6Carbon Fiber Cybel Token@§6Карбоновый Кубел Жетон
+§3You now have a §bCarbon Fiber Cybel@§3Теперь у тебя есть §bКарбоновый Кубел
+§dSteampunk Relik@§dСтимпанк Релик
+§7Disguise your relik with a steampunk flair@§7Маскирует твой релик под стимпанк стиль
+§cPhoenix Wand@§cПосох Феникса
+§7Disguise your wand with a fiery flair@§7Замаскируй свой посох огненной способностью
+§6Golden Relik@§6Золотой Релик
+§7Disguise your relik as a golden masterpiece@§7Маскирует твой релик под золотой шедевр
+§cPhoenix Bow@§cЛук Феникса
+§7Disguise your bow with a fiery flair@§7Замаскируй свой лук огненной способностью
+§6Fellowship Relik@§6Релик Дружбы
+§7Disguise your relik with a adventurous flair@§7Маскирует твой релик под стиль приключений
+§aA §cGodly Phoenix Relik§a!@§cБожественный Релик Феникса§a!
+§aA §cGodly Phoenix Spear§a!@§cБожественное Копье Феникса§a!
+§aA §cGodly Fairy Wings Effect§a!@§cБожественный Эффект Сказочных Крыльев§a!
+§aA §8§k|||§4 Black Market §8§k|||§4 Frosty Relik§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Морозный Релик§a!
+§aA §6Epic Fellowship Dark Wand§a!@§6Эпический Темный Посох Дружбы§a!
+§aA §6Epic Pentagram Effect§a!@§6Эпический Эффект Пентаграммы§a!
+§aA §6Epic Fellowship Relik§a!@§6Эпический Релик Дружбы§a!
+§aA §6Epic Half-Moon Relik§a!@§6Эпический Полу-Месяц Релик§a!
+§aA §6Epic Carbon Fiber Cybel Token§a!@§6Эпический Карбоновый Кубел Жетон§a!
+§aA §6Epic Futuristic Dagger§a!@§6Эпический Футуристический Кинжал§a!
+§aA §6Epic Futuristic Relik§a!@§6Эпический Футуристический Релик§a!
+§aA §dRare Pink Wybel Token§a!@§dРедкий Розовый Вубел Жетон§a!
+§aA §dRare Music Swirl Effect§a!@§dРедкий Эффект Круговорота Музыки§a!
 
 ###################################DUNGEONS##################################
 §7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Защитника Ключа активировало ее...
@@ -2025,7 +2059,7 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §cBy farming with spare tools on you, your success chance is lowered.@§cПри земледелии с запасными инструментами в инвентаре, твой шанс на успех снижается.
 §cBy fishing with spare tools on you, your success chance is lowered.@§cПри рыбалке с запасными инструментами в инвентаре, твой шанс на успех снижается.
 §cBy mining with spare tools on you, your success chance is lowered.@§cПри добыче с запасными инструментами в инвентаре, твой шанс на успех снижается.
-§4Your tool has 0 durability left!  You will not receive any new resources until you repair it at a Blacksmith.@§4У твоего инструмента осталось 0 прочности! Ты не будешь получать новых ресурсов, пока не починишь его у Кузнеца.
+§4Your tool has 0 durability left! You will not receive any new resources until you repair it at a Blacksmith.@§4У твоего инструмента осталось 0 прочности! Ты не будешь получать новых ресурсов, пока не починишь его у Кузнеца.
 §cYou logged out in a boss room, so you were brought back.@§cТы вышел во время битвы с босом, поэтому тебя вернули обратно.
 §2You have hidden ghost players.@§2Ты скрыл игроков призраков
 §2You will now see ghost players.@§2Ты снова видишь игроков призраков
@@ -2059,6 +2093,11 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §cValid pet names only contain letters and numbers!@§cВ имени должны быть только буквы и числа!
 §fUnknown command. Type "/help" for help.@§fНеизвестная команда. Напиши "/help" для помощи.
 §cSorry, the trade market will be back shortly!@§cЧто-то случилось, трейд маркет скоро заработает снова!
+§4They were not added to your ignore list.@§4Он не был добавлен в твой игнор лист.
+§4Did you spell their name correctly?@§4Ты написал его имя правильно?
+§4You must be further away from any existing totems...@§4Ты должен быть дальше от любых существующих тотемов...
+§4You have not donated to rename your pets.@§4Ты не донатер, чтобы переименовывать своих питомцев.
+§4You do not have any pets!@§4У тебя нет никаких питомцев!
 
 #####################################ENTERING/LEAVING##################################################
 §7[You are now entering PirateÀÀÀCove]@§7[Ты входишь в Пиратскую Бухту]

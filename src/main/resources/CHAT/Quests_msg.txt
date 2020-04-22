@@ -996,10 +996,12 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7You need to finish your schedule before you start your day!@§7Ты должен закончить выбирать свое расписание, прежде чем начать свой день!
 §7You look at the papers...@§7Ты смотришь на бумаги...
 §7The fire class has been restarted...@§7Урок огня был перезапущен...
+§7The species class has been restarted...@§7Урок видов был перезапущен...
+§7The wybels class has been restarted...@§7Урок вубелов был перезапущен...
+§7The air class has been restarted...@§7Урок воздуха был перезапущен...
 §7The meteor sample has been interacted with...@§7С образцом метеорита было проведено взаимодействие...
 §7The void sample has been interacted with...@§7С пустотным образцом было проведено взаимодействие..
 §7The quartz sample has been interacted with...@§7С образцом кварца было проведено взаимодействие..
-§7The species class has been restarted...@§7Урок видов был перезапущен...
 §7As you leave the cave your wings vanish...@§7Как только ты выходишь из пещеры твои крылья исчезают...
 §7As you enter the cave your wings come back...@§7Как только ты входишь в пещеру твои крылья возвращаются...
 §4You shouldn't go further inside yet...@§4Тебе пока не стоит заходить внутрь...
@@ -1131,7 +1133,6 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7Could it be linked to the bookshelves?@§7Может быть, это связано с книжными полками?
 §7The sound of a door opening is heard...@§7Раздается звук открывающейся двери...
 §4Better not messing with the teleport panel right now.@§4Лучше не возиться с панелью телепорта прямо сейчас.
-§7The thunder class has been restarted...@§7Урок грома был перезапущен...
 §4The cave is too dark for you to see anything. You turn around and walk away.@§4В пещере слишком темно, чтобы что-то разглядеть. Ты поворачиваешься и уходишь.
 §7[+896 Emeralds]@§7[+896 Эмеральдов]
 §7[Objective: Murder 10 Ragni Citizens]@§7[Цель: Убей 10 Жителей Рагни]
@@ -1203,6 +1204,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7The nature class has been restarted...@§7Урок природы был перезапущен...
 §7The earth class has been restarted...@§7Урок земли был перезапущен...
 §7The materials class has been restarted...@§7Урок материалов был перезапущен...
+§7The thunder class has been restarted...@§7Урок грома был перезапущен...
 §4You need Mr. Caritat's Letter to advance!@§4Тебе нужно письмо Мр. Каритата, чтобы продолжить!
 §4You should probably stay away from here for now, it seems dangerous.@§4Тебе, наверное, лучше пока держаться подальше отсюда, это кажется опасным.
 §4A magical force repels you from the tower.@§4Магическая сила отталкивает тебя от башни.
@@ -1218,6 +1220,26 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4You need to meet up with the employee before you go here!@§4Тебе нужно встретиться со служащим, прежде чем ты отправишься сюда!
 §4The corruption is too strong for you to enter...@§4Порча слишком сильна для тебя, чтобы войти...
 §7This will teleport you back on the island. Click again to confirm.@§7Это телепортирует тебя обратно на остров. Нажми еще раз для подтверждения.
+§7§kBe §ksure §kto §kdrink §kyour §kNemract §kWhiskey@§7§kUbedis §kchto §kvipesh §kdsvoy §7§kNemract §kViski
+§7You landed on a small island, you have to find a way to leave!@§7Ты приземлился на маленький остров, ты должен найти способ выбраться!
+§4A load growl can be heard inside the cave.@§4В пещере послышалось тяжелое рычание.
+§4Ask Crank before going down into the void!@§4Спроси Крэнка, прежде чем спуститься в пустоту!
+§4Talk to the Trials Overseer first!@§4Поговори сначала с Смотрителем Испытаний!
+§cIf you want this door to open, you must first use the catapult and then interact with the Grandmaster.@§cЕсли ты хочешь, чтобы эта дверь открылась, ты должен сначала использовать катапульту, а затем поговорить с Грандмастером.
+§4A weird smell is coming from this hole,@§4Из этой дыры исходит странный запах
+§4You should probably give the Sunblight Boots to one of those two.@§4Ты должен отдать эти ботинки одному из эльфов на выбор.
+§4You cannot enter the kitchen just yet!@§4Ты не можешь войти на кухню прямо сейчас!
+§4A weird buzzing noise comes from the cave, you should not venture further.@§4Из пещеры доносится странное жужжание, ты не должен продвигаться дальше.
+§4You shouldn't enter this tomb, unless you have a good reason.@§4Ты не должен входить в эту гробницу, если у тебя нет веской причины.
+§4Weird sounds can be heard, best to stay back.@§4Странные звуки можно услышать, лучше всего держаться подальше.
+§fTo repair the mechanical core, select a color and connect the clay with the same colored glass block by clicking the iron blocks.@§fЧтобы восстановить механическое ядро, выбери цвет и соедини глину с тем же цветным стеклянным блоком, нажимая на железные блоки.
+§4You hear cracks and stones falling within the cave. It isn't safe to explore it.@§4Ты слышишь как камни падают в пещере. Исследовать ее небезопасно.
+§7You quickly reclaim the sceptre...@§7Ты быстро возвратил себе скипетр...
+§7This will trigger the Theorick battle from A Hunter's Calling. Click again to confirm.@§7Это активирует битву с Теориком из A Hunter's Calling. Кликни снова для подтверждения.
+§7You try to read the label, but it strains your eyes just looking at it. All you can make out is "Vial of D§7§kern§7§k§mic E§7§o§k§mss§4§o§k§mence§f"§7...@§7Ты пытаешься прочитать этикетку, но даже взгляд на нее напрягает глаза. Все что ты можешь прочитать это "Пробирка D§7§kern§7§k§mic E§7§o§k§mss§4§o§k§mence"§7...
+§7You find the strange trinket the camper mentioned... It seems to be a key of sorts.@§7Ты находишь странную безделушку, о которой упоминал отдыхающий... Похоже, это своего рода ключ.
+§4You should probably talk to that guy first.@§4Наверное, тебе стоит сначала поговорить с этим парнем.
+§4The collector won't accept any further tokens. You're free to move on.@§4Сборщик больше не будет принимать никаких жетонов. Ты можешь двигаться дальше.
 
 ################################QUEST NAMES####################################
 §e                          §e§lArachnids' Ascent@ 

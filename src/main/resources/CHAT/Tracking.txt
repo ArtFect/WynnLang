@@ -1,3 +1,4 @@
+=====
 §7Speak to Doan at [-267,59,-4973] regarding his passport@§7Поговори с Доаном на [-267,59,-4973] по поводу его паспорта 
 §7Look around the airbase for clues as to where the thieves might be@§7Обыщи авиабазу, и найди подсказки, куда могли пойти воры
 §7Find a way to find out about the password@§7Найди способ узнать пароль
@@ -52,10 +53,14 @@
 §7Defeat Maxie.@§7Победи Макси.
 §7The very center... The place deemed closest to your home. There, in the center of Wynn... You shall find the end.@§7Самый центр...Место, считающееся самым близким к твоему дому. Там, в самом  центре Винн... Ты найдешь свой конец.
 §7Attack Detlas and defeat Aledar and Tasim.@§7Атакуй Детлас и победи Аледара и Тасима.
+§7Enter the Corrupter of World cave.@§7Войди в пещеру к Разрушителю Миров.
+§7Metal. Life. A new place... One is not sacrificed for another. Always distrusting. Tension, as the clockworks chime.@§7Металл. Жизнь. Новое место... Одно не приносится в жертву другому. Всегда недоверчивы. Напряжение, как перезвон часовых механизмов. 
+§7Return to the entity.@§7Вернись к сущности 
 =====
 §7Speak to Elrund outside Aldorei Valley at [-670,97,-4444]@§7Поговори с Элрундом снаружи Долины Алдорей на [-670,97,-4444]
 §7Obtain [Gemstone Dust] from the Wynn province and bring it to Elrund (Requires completion of Lost in the Jungle)@§7Добудь [Пыль драгоценного камня] из провинции Винн и принеси ее Элрунду (Необходимо пройти Lost in the Jungle)
 §7Talk to the residents of Aldorei Valley and search for clues@§7Поговори с жителями Долины Алдорей и найди улики
+§7Eavesdrop on the mysterious society@§7Подслушай загадочное общество
 §7Speak to the mysterious society@§7Поговори с загадочным обществом
 §7Leave the society's lair@§7Покинь логово общества
 §7Return to Elrund@§7Вернись к Элрунду
@@ -72,11 +77,13 @@
 §7Escape the first room of Togak's dungeon@§7Сбеги из первой комнаты данжа Тогака
 §7Choose@§7Выбери
 §7Turn in your receipt to Corak or give an Elven Medallion to Kansard@§7Верни свою квитанцию Кораку или отдай эльфийский медальон Канзарду
+§7Battle through the second room of Togak's dungeon@§7Пройди с боем через вторую комнату Тогак данжа 
 §7Solve the puzzle in the third room of Togak's dungeon@§7Пройди пазл в третьей комнате данжа Тогака
 §7Battle through the fourth room of Togak's dungeon@§7Пройди с боем через четвертую комнату данжа Тогака
 §7Climb the sunflower in the seventh room of Togak's dungeon@§7Заберись на цветок в седьмой комнате данжа Тогака
 §7Battle through the eighth room of Togak's dungeon@§7Пройди с боем через восьмую комнату данжа Тогака
 §7Solve the puzzle in the ninth room of Togak's dungeon@§7Пройди пазл в девятой комнате данжа Тогака
+§7Confront Elrund inside the tenth room of Togak's dungeon@§7Сразись с Элрундом внутри десятой комнаты Тогак данжа
 §7Speak with Togak once more@§7Поговори снова с Тогаком
 =====
 §7Speak with Duvale at [-1608,51,-4957]@§7Поговори с Дювейл на [-1608,51,-4957]
@@ -145,6 +152,7 @@
 §7Seek out the creature in the mines at [367,30,-4923].@§7Найди создание в шахте на [367,30,-4923] 
 §7Explore the strange realm and bargain with Death.@§7Исследуй странное царство и договорись со Смертью 
 §7Exit the strange realm.@§7Покинь странное царство 
+§7Defeat Krolton to earn your way back to the living.@§7Победи Кролтона, чтобы вернуться к жизни.
 §7Take proof of Krolton's demise to Irlok.@§7Покажи доказательство смерти Кролтона Ирлоку 
 ======
 §7Talk to Tarod in Nesaak's Forest at [-7,68,-793]@§7Поговори с Тародом в лесу Несаака на [-7,68,-793]
@@ -393,6 +401,7 @@
 §7Return to the Guardian to seek guidance at [-1130,49,-4781]@§7Вернись к Хранителю для дальнейших указаний [-1130,49,-4781]
 §7Find someone in Cinfras who can help you SEE@§7Найди кого-то в Цинфрасе, кто поможет тебе УВИДЕТЬ 
 §7Talk to Ollie at [-430,46,-4855]@§7Поговори с Олли на [-430,46,-4855]
+§7Get an Eye Exam@§7Пройди проверку зрения 
 §7Talk to Charlie outside of Ollie's Optometry at [-449,46,-4840]@§7Поговори с Чарли снаружи Оптометрии Олли на [-449,46,-4840]
 §7Read Jack's run away letter in Charlie's house at [-491,54,-4989]@§7Прочитай прощальное письмо Джека в доме Чарли на [-491,54,-4989]
 §7Talk to Jack at [-448,33,-5092]@§7Поговори с Джеком на [-448,33,-5092]
@@ -423,6 +432,7 @@
 §7Complete the sound coded system by checking the Engineer's Note, and return back to the engineer@§7Пройди систему рестарта, используя записку Инженера, затем вернись обратно к нему
 §7Return back to your cabin@§7Вернись в свою каюту
 §7Explore the lower deck; something big is approaching@§7Исследуй нижнюю палубу; что-то большое приближается
+§7Explore the lower deck. Something big is approaching!@§7Исследуй нижнюю палубу; что-то большое приближается!
 §7Get to the other ship@§7Перейди на другой корабль
 §7Find a way to reach the queen that is located below deck@§7Найди путь к королеве, что находится на нижней палубе
 §7Escape the cell, and finalize the key to reach the pirate queen@§7Сбеги из тюрьмы, и доделай ключ к комнате королевы пиратов
@@ -445,6 +455,8 @@
 §7Find someone in Thanos who wants to buy the [Claw of Lethirath, the Fire Demon]@§7Найди кого-то в Таносе кто хочет купить [Коготь Огненного Демона Летирата] 
 §7Find someone in Thanos who wants to buy your [Golden Phoenix Feather of the 5th Age]@§7Найди кого-то в Таносе кто хочет купить [Золотое Перо Феникса 5-летнего возраста] 
 §7Find someone in Thanos who wants to buy your [Horn of the Elven God Entia]@§7Найди кого-то в Таносе кто хочет купить [Рог Эльфийского Бога Энтия] 
+§7Find someone in Thanos who wants to buy your [Amulet of the First of the Fallen]@§7Найди кого-то в Таносе кто хочет купить твой [Амулет Первого из Падших] 
+§7Find someone in Thanos who wants to buy your [Bottled Dust of the Fallen Angel Star]@§7Найди кого-то в Таносе кто хочет купить твою [Бутылированную Пыль Упавшей Ангельской Звезды] 
 ========
 §7Talk to Anrod at his house at [-1367,43,-4542]@§7Поговори с Анродом в его доме на [-1367,43,-4542]
 §7Climb the mountain behind Anrod's house, and find Rynver at [-1383,79,-4459]@§7Заберись на гору позади дома Анрода, и найди Ринвера на [-1383,79,-4459]
@@ -603,6 +615,7 @@
 §7Talk to Ferndor at [-915,33,-750]@§7Поговори с Ферндором на [-915,33,-750]
 §7Visit the mansion dining room and ask Grandon about the book@§7Посети столовую в поместье и расспроси Грандона по поводу книги 
 §7"The face above the hall owns the nose that needs to be heavier to open the way"@§7"Лицо жителя над залом ведет в нос, который открывает путь" 
+§7Talk to Grandon and tell him about your findings @§7Поговори с Грандоном и расскажи ему о своих находках
 §7Talk to Grandon and tell him about your findings@§7Поговори с Грандоном и расскажи ему о своих находках
 §7"The carpet of different colour will show you the stone to reveal the tables secret"@§7"Ковер различного цвета покажет тебе камень, чтобы раскрыть секрет стола"
 §7"Throw something behind the map on the wall to uncover a piece of the code"@§7"Бросить что-то за карту на стене, чтобы получить кусок кода" 
@@ -660,9 +673,12 @@
 §7Bring the key to the Master Bedroom@§7Принеси ключ к главной спальне 
 §7Enter the Master Bedroom@§7Войди в главную спальню
 §7Bring the key to Timmy's bedroom@§7Принеси ключ к спальне Тимми
+§7Enter Timmy's bedroom@§7Войди в спальню Тимми 
+§7Search Timmy's bedroom@§7Обыщи спальню Тимми 
 §7Escape the flaming mansion through the back door@§7Покинь горящее поместье через заднюю дверь
 §7Speak with the Possessed Mr. Caritat@§7Поговори с одержимым мистером Каритатом
 §7Navigate the Caritat's basement@§7Пройдись по подвалу Каритатов 
+§7Defeat the remains of Mister Caritat@§7Победи останки Мистера Каритата
 §7Escape through the mysterious rift@§7Сбеги через загадочную расщелину 
 =====
 §7Visit the Nemract bar at [114,40,-2176]@§7Посети бар в Немракте [114,40,-2176]
@@ -760,6 +776,7 @@
 §7Enter Korun's cellar and go beneath the lake@§7Войди в подвал Коруна и иди под озеро
 §7Enter the center spire from under the lake@§7Войди в центр прохода под озером. 
 §7Go deeper into the heart of the lake@§7Продвигайся дальше к центру озера
+§7Talk to Nedlom at the Gryndilin's prison@§7Поговори с Недломом в тюрьме Гриндилина 
 §7Follow the blood trail to the Gryndilin chief's room@§7Иди по следу крови в комнату Gryndilin Chief'а
 §7Defeat the Gryndilin chief, and uncast the spell using Nedlom's instructions@§7Победи Gryndilin Chief и используй заклинание по инструкции Нэдлома.
 §7Bring back a magical fragment and the helmet to Korun@§7Принеси назад магический фрагмент и шлем к Коруну
@@ -1019,6 +1036,9 @@
 §7Turn off the power at [-1011,18,-7870]@§7Отключи энергию на [-1011,18,-7870]
 §7Find a way out of the second room of the battery farm@§7Найди выход из второй комнаты птицефабрики 
 §7Leave the third room of the battery farm@§7Найди путь из третьей комнаты птицефабрики 
+§7Go through the narrow tunnel at the back of the cell@§7Пройди через узкий тоннель что позади клетки 
+§7Make your way to Big Butchs room@§7Найди путь в комнату Мясника 
+§7Defeat Big Butch and put [1 Security Card] into the Security Machine@§7Победи Мясника и помести [1 Карточку Безопасности] в Машину Безопасности
 §7Talk to Gerten Chief Lobo with [1 High Quality Meat Crate]@§7Поговори с Герт Шеф Лобо с [1 Контейнером Мяса Высокого Качества]
 ========
 §7Find Dejol at [452,28,-4456]@§7Найди Дежола на [452,28,-4456]
@@ -1062,16 +1082,24 @@
 =======
 §7Talk to Yansur at [372,66,-5501] and begin the Hive Challenge@§7Поговори с Янсуром на [372,66,-5501] и начни Челлендж Улья
 §7Prepare to enter the Thunder division@§7Подготовься к прохождению Дивизии Грома 
+§7Collect 5 Thunder Catalyst I@§7Собери 5 Катализатор Земли I 
+§7Collect 5 Thunder Catalyst II@§7Собери 5 Катализатор Земли II
+§7Collect 5 Thunder Catalyst VII@§7Собери 5 Катализатор Земли VII
 §7Talk to Yansur to receive your prize for overcoming the Thunder Division@§7Поговори с Янсуром и получи свой приз за прохождение Дивизии Грома 
 §7Prepare to enter the Air division@§7Подготовься к прохождению Дивизии Воздуха 
 §7Prepare to enter the Earth division@§7Подготовься к прохождению Дивизии Земли 
+§7Collect 5 Earth Catalyst I@§7Собери 5 Катализатор Земли I 
 §7Collect 5 Earth Catalyst IX@§7Собери 5 Катализаторов Земли IX
 §7Prepare to enter the Water division@§7Подготовься к прохождению Дивизии Воды
 §7Collect 5 Water Catalyst II@§7Собери 5 Катализаторов Воды II 
 §7Collect 5 Water Catalyst IV@§7Собери 5 Катализаторов Воды IV
 §7Collect 5 Water Catalyst V@§7Собери 5 Катализаторов Воды V 
 §7Defeat the Oceanic Judge and collect 1 Water Catalyst X@§7Победи Oceanic Judge и собери 1 Катализатор Воды X
+§7Defeat the Spirit of Gale and collect 1 Air Catalyst X@§7Победи Spirit of Gale и собери 1 Катализатор Воздуха X
 §7Talk to Yansur to receive your prize for overcoming the Water Division@§7Поговори с Янсуром и получи свой приз за прохождение Дивизии Воды
+§7Collect 5 Air Catalyst V@§7Собери 5 Катализатор Воздуха V 
+§7Collect 5 Air Catalyst VIII@§7Собери 5 Катализатор Воздуха VIII
+§7Talk to Yansur to receive your prize for overcoming the Air Division@§7Поговори с Янсуром и получи свой приз за прохождение Дивизии Воздуха 
 §7Prepare to enter the Fire division@§7Подготовься к прохождению Дивизии Огня
 §7Collect 5 Fire Catalyst VIII@§7Собери 5 Катализатор Огня VIII 
 §7Prepare to enter the chambers of Mistress Qira@§7Подготовься к вхождению в камеру Госпожи Киры
@@ -1266,10 +1294,14 @@
 §7Bring [15 Dragonling Scales] to the Slaying Post [Combat Lv. 99] at [1348,124,-4470]@§7Принеси [15 Dragonling Scales] к Доске Заданий [Комбат Ур. 99] на [1348,124,-4470]
 §7Bring [24 Fluffy Fur] to the Slaying Post [Combat Lv. 88] at [135,53,-4399]@§7Принеси [24 Fluffy Fur] к Доске Заданий [Комбат Ур. 88] на [135,53,-4399]
 §7Bring §3[16 Willow Wood] §7or §3[16 Willow Paper] §7to the §aGathering Post §2[Woodcutting Lv. 23]@§7Принеси §3[16 Древесины Ивы] §7или §3[16 Ивовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 23]
+§7Bring [16 Willow Wood] or [16 Willow Paper] to the Gathering Post [Woodcutting Lv. 23] at [16,37,-2203]@§7Принеси [16 Древесины Ивы] или [16 Ивовой Бумаги] к Доске Сбора [Лесорубство Ур. 23] на [16,37,-2203]
 §7Bring §3[12 Oak Wood] §7or §3[12 Oak Paper] §7to the §aGathering Post §2[Woodcutting Lv. 8]@§7Принеси §3[12 Древесины Дуба] §7или §3[12 Дубовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 8]
+§7Bring [12 Oak Wood] or [12 Oak Paper] to the Gathering Post [Woodcutting Lv. 8] at [-433,67,-1591]@§7Принеси [12 Древесины Дуба] или [12 Дубовой Бумаги] к Доске Сбора [Лесорубство Ур. 8] на [-433,67,-1591]
 §7Bring §3[14 Birch Wood] §7or §3[14 Birch Paper] §7to the §aGathering Post §2[Woodcutting Lv. 18]@§7Принеси §3[14 Древесины Березы] §7или §3[14 Березовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 18]
 §7Bring §3[24 Willow Wood] §7or §3[24 Willow Paper] §7to the §aGathering Post §2[Woodcutting Lv. 28]@§7Принеси §3[24 Древесины Ивы] §7или §3[24 Ивовой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 28]
+§7Bring [24 Willow Wood] or [24 Willow Paper] to the Gathering Post [Woodcutting Lv. 28] at [223,43,-2047]@§7Принеси [24 Древесины Ивы] или [24 Ивовой Бумаги] к Доске Сбора [Лесорубство Ур. 28] на [223,43,-2047]
 §7Bring §3[20 Acacia Wood] §7or §3[20 Acacia Paper] §7to the §aGathering Post §2[Woodcutting Lv. 33]@§7Принеси §3[20 Древесины Акации] §7или §3[20 Акациевой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 33]
+§7Bring [20 Acacia Wood] or [20 Acacia Paper] to the Gathering Post [Woodcutting Lv. 33] at [630,68,-1978]@§7Принеси [20 Древесины Акации] или [20 Акациевой Бумаги] к Доске Сбора [Лесорубство Ур. 33] на [630,68,-1978]
 §7Bring §3[30 Acacia Wood] §7or §3[30 Acacia Paper] §7to the §aGathering Post §2[Woodcutting Lv. 38]@§7Принеси §3[30 Древесины Акации] §7или §3[30 Акациевой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 38]
 §7Bring §3[24 Spruce Wood] §7or §3[24 Spruce Paper] §7to the §aGathering Post §2[Woodcutting Lv. 43]@§7Принеси §3[24 Древесины Ели] §7или §3[24 Еловой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 43]
 §7Bring [36 Avo Wood] or [36 Avo Paper] to the Gathering Post [Woodcutting Lv. 91] at [-1710,67,-2802]@§7Принеси [36 Древесины Авокадо] или [36 Авокадовой Бумаги] к Доске Сбора [Лесорубство Ур. 91] на [-1710,67,-2802]
@@ -1286,9 +1318,12 @@
 §7Bring §3[52 Pine Wood] §7or §3[52 Pine Paper] §7to the §aGathering Post §2[Woodcutting Lv. 86]@§7Принеси §3[52 Древесины Сосны] §7или §3[52 Сосновой Бумаги] §7к §aДоске Сбора §2[Лесорубство Ур. 86]
 §7Bring [52 Pine Wood] or [52 Pine Paper] to the Gathering Post [Woodcutting Lv. 86] at [-1339,113,-2870]@§7Принеси [52 Древесины Сосны] или [52 Сосновой Бумаги] к Доске Сбора [Лесорубство Ур. 86]
 §7Bring §3[12 Copper Ingots] §7or §3[12 Copper Gems] §7to the §aGathering Post §2[Mining Lv. 8]@§7Принеси §3[12 Медных Слитков] §7или §3[12 Медных Камней] §7к §aДоске Сбора §2[Добыча Руды Ур. 8]
+§7Bring [16 Gold Ingots] or [16 Gold Gems] to the Gathering Post [Mining Lv. 23] at [424,66,-1275]@§7Принеси [16 Золотых Слитков] или [16 Золотых Камней] к Доске Сбора [Добыча Руды Ур. 23] на [424,66,-1275]
 §7Bring §3[16 Gold Ingots] §7or §3[16 Gold Gems] §7to the §aGathering Post §2[Mining Lv. 23]@§7Принеси §3[16 Золотых Слитков] §7или §3[16 Золотых Камней] §7к §aДоске Сбора §2[Добыча Руды Ур. 23]
+§7Bring [24 Gold Ingots] or [24 Gold Gems] to the Gathering Post [Mining Lv. 28] at [833,38,-1282]@§7Принеси [24 Золотых Слитков] или [24 Золотых Камней] к Доске Сбора [Добыча Руды Ур. 28] на [833,38,-1282]
 §7Bring §3[24 Gold Ingots] §7or §3[24 Gold Gems] §7to the §aGathering Post §2[Mining Lv. 28]@§7Принеси §3[24 Золотых Слитков] §7или §3[24 Золотых Камней] §7к §aДоске Сбора §2[Добыча Руды Ур. 28]
 §7Bring §3[12 Gudgeon Oil] §7or §3[12 Gudgeon Meat] §7to the §aGathering Post §2[Fishing Lv. 8]@§7Принеси §3[12 Жира Пескаря] §7или §3[12 Мяса Пескаря] §7к §aДоске Сбора §2[Рыболовство Ур. 8]
+§7Bring [12 Gudgeon Oil] or [12 Gudgeon Meat] to the Gathering Post [Fishing Lv. 8] at [-637,67,-1558]@§7Принеси [12 Жира Пескаря] или [12 Мяса Пескаря] к Доске Сбора [Рыболовство Ур. 8] на [-637,67,-1558]
 §7Bring §3[16 Salmon Oil] §7or §3[16 Salmon Meat] §7to the §aGathering Post §2[Fishing Lv. 23]@§7Принеси §3[16 Жира Лосося] §7или §3[16 Мяса Лосося] §7к §aДоске Сбора §2[Рыболовство Ур. 23]
 §7Bring §3[14 Trout Oil] §7or §3[14 Trout Meat] §7to the §aGathering Post §2[Fishing Lv. 18]@§7Принеси §3[14 Жира Форели] §7или §3[14 Мяса Форели] §7к §aДоске Сбора §2[Рыболовство Ур. 18]
 §7Bring [16 Salmon Oil] or [16 Salmon Meat] to the Gathering Post [Fishing Lv. 23] at [220,34,-2131]@§7Принеси [16 Жира Лосося] §7или [16 Мяса Лосося] §7к Доске Сбора [Рыболовство Ур. 23] на [220,34,-2131]
@@ -1303,9 +1338,12 @@
 §7Bring §3[30 Malt String] §7or §3[30 Malt Grains] §7to the §aGathering Post §2[Farming Lv. 38]@§7Принеси §3[30 Солодовых Нитей] §7или §3[30 Солодовых Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 38]
 §7Bring §3[24 Hops String] §7or §3[24 Hops Grains] §7to the §aGathering Post §2[Farming Lv. 43]@§7Принеси §3[24 Хмельных Нитей] §7или §3[24 Хмельных Зерен] §7к §aДоске Сбора §2[Земледелие Ур. 43]
 §7Bring §3[20 Carp Oil] §7or §3[20 Carp Meat] §7to the §aGathering Post §2[Fishing Lv. 33]@§7Принеси §3[20 Жира Карпа] §7или §3[20 Мяса Карпа] §7к §aДоске Заданий §2[Рыболовство Ур. 33]
+§7Bring [20 Carp Oil] or [20 Carp Meat] to the Gathering Post [Fishing Lv. 33] at [1317,74,-1838]@§7Принеси [20 Жира Карпа] или [20 Мяса Карпа] к Доске Заданий [Рыболовство Ур. 33] на [1317,74,-1838]
 §7Bring §3[24 Icefish Oil] §7or §3[24 Icefish Meat] §7to the §aGathering Post §2[Fishing Lv. 43]@§7Принеси §3[24 Жира Щуки] §7или §3[24 Мяса Щуки] §7к §aДоске Заданий §2[Рыболовство Ур. 43]
 §7Bring §3[14 Granite Ingots] §7or §3[14 Granite Gems] §7to the §aGathering Post §2[Mining Lv. 18]@§7Принеси §3[14 Гранитных Слитков] §7или §3[14 Гранитных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 18]
+§7Bring [14 Granite Ingots] or [14 Granite Gems] to the Gathering Post [Mining Lv. 18] at [-879,111,-1330]@§7Принеси [14 Гранитных Слитков] или [14 Гранитных Камней] к §aДоске Заданий [Добыча Руды Ур. 18] на [-879,111,-1330]
 §7Bring §3[20 Sandstone Ingots] §7or §3[20 Sandstone Gems] §7to the §aGathering Post §2[Mining Lv. 33]@§7Принеси §3[20 Песчаных Слитков] §7или §3[20 Песчаных Камней] §7к §aДоске Заданий §2[Добыча Руды Ур. 33]
+§7Bring [20 Sandstone Ingots] or [20 Sandstone Gems] to the Gathering Post [Mining Lv. 33] at [1162,75,-1849]@§7Принеси [20 Песчаных Слитков] или [20 Песчаных Камней] к Доске Заданий [Добыча Руды Ур. 33] на [1162,75,-1849]
 §7Bring [62 Diamond Ingots] or [62 Diamond Gems] to the Gathering Post [Mining Lv. 88] at [369,77,-5070]@§7Принеси [62 Алмазных Слитка] или [62 Алмазных Камня] к Доске Сбора [Добыча Руды Ур. 88] на [369,77,-5070]
 §7Bring §3[62 Diamond Ingots] §7or §3[62 Diamond Gems] §7to the §aGathering Post §2[Mining Lv. 88]@§7Принеси §3[62 Алмазных Слитка] §7или §3[62 Алмазных Камня] §7к §aДоске Сбора §2[Добыча Руды Ур. 88]
 §7Bring §3[44 Diamond Ingots] §7or §3[44 Diamond Gems] §7to the §aGathering Post §2[Mining Lv. 83]@§7Принеси §3[44 Алмазных Слитка] §7или §3[44 Алмазных Камня] §7к §aДоске Сбора §2[Добыча Руды Ур. 83]

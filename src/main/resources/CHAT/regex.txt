@@ -7,7 +7,7 @@
 §c\[\+\d+ ❤\](.|)$@ 
 §[6b]- §f.*@ 
 §7\[\+\d+ XP\]@ 
-§[aeb78]\[[0-9\*]+\/[A-Za-z]+\/[A-Za-z✫★]+\].*@ 
+§[aeb78]\[[0-9\-\*]+\/[A-Za-z]+\/[A-Za-z✫★]+\].*@ 
 §[aeb78]\[[0-9\*]+\/[A-Za-z]+\].*@ 
 §7\[\d+§7\/[A-Za-z]+\/[A-Za-z✫★]+\].*@ 
 §7\[\d+(\*|)\/§8\d+§7\/[A-Za-z]+\/[A-Za-z✫★]+\].*@ 
@@ -79,7 +79,9 @@
 §cYou need (\d+) more gold coins.@§cТебе нужно еще (r1) золотых монет.
 (§e[a-zA-Z0-9_]{1,16}) has been removed from your ignore list!@(r1) был убран из твоего игнор листа!
 (§e[a-zA-Z0-9_]{1,16}) is already ignored!@(r1) уже игнорируется!
+(§e[a-zA-Z0-9_]{1,16}) is not being ignored!@(r1) не был в игноре!
 §7You have automatically connected to (§f[A-Z0-9]+§7). Type \/lobby to select another server.@§7Ты автоматически присоединился к (r1). Напиши /lobby если нужно подключиться к другому серверу.
+§7You have automatically connected to §flobby(\d+)§7. Type \/lobby to select another server.@§7Ты автоматически присоединился к §f(r1) лобби§7. Напиши /lobby если нужно подключиться к другому серверу.
 
 #######################################PVP######################################################
 (§6[a-zA-Z0-9_]{1,16}) was killed.@(r1) был убит.

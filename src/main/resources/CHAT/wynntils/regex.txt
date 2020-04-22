@@ -5,6 +5,7 @@
 (§[ab6]\[[0-9 A-Za-z\+\-%\/✤❉✹✦❋✺]+) for (\d+) seconds\]@(r1) на (r2) секунд]
 (§b[a-zA-Z0-9_]{1,16}§7) gave you (§c\[\+.*\]\.)$@(r1) дал тебе (r2)
 (§b[a-zA-Z0-9_]{1,16}§7) gave you (§c\[\+\d+ ❤\]) §bCleared §7all potion effects.@(r1) дал тебе (r2) §bОчищены §7все эффекты зелий.
+(§b[a-zA-Z0-9_]{1,16}§7) gave you (§c\[\+\d+ ❤\]) §bRemoved §7all fire.$@(r1) дал тебе (r2) §bУбран §7весь огонь.
 (§b[a-zA-Z0-9_]{1,16}§7) gave you §b\+3 minutes§7 speed boost.@(r1) дал тебе §b+3 минуты§7 буста скорости.
 ^(§c\[\+\d+ ❤\]) §bCleared §7all potion effects §bRemoved §7all fire.$@(r1) §bОчищены §7все эффекты зелий §bУбран §7весь огонь.
 ^(§c\[\+\d+ ❤\]) §bRemoved §7all fire.$@(r1) §bУбран §7весь огонь.
@@ -41,9 +42,9 @@
 §5Blacksmith: §dYou sold me: (.*) for a total of (§e\d+§d) emeralds. It was a pleasure doing business with you.@§5Кузнец: §dТы продал мне (r1) за (r2) эмеральдов. Было приятно иметь с тобой дело.
 §5Blacksmith: §dYou scrapped: (.*) for a total of (§e\d+§d) scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) в общей сумме на (r2) скрапа. Было приятно иметь с тобой дело.
 §5Blacksmith: §dYou scrapped: (.*) and (.*) for a total of (§e\d+§d) scrap. It was a pleasure doing business with you.@§5Кузнец: §dТы утилизировал: (r1) и (r2) в общей сумме на (r3) скрапа. Было приятно иметь с тобой дело.
-(§5[A-Za-z 0-9,']+): §dThank you for your business. Come again!@(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
-(§5[A-Za-z 0-9,']+): §dI'm afraid you cannot afford that item.@(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
-(§5[A-Za-z 0-9,']+): §dI'm afraid you don't have enough space in your inventory to buy that.@(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
+(§5[A-Za-z 0-9,'\-]+): §dThank you for your business. Come again!@(r1): §dБыло приятно иметь с тобой дело. Приходи еще!
+(§5[A-Za-z 0-9,'\-]+): §dI'm afraid you cannot afford that item.@(r1): §dБоюсь, ты не можешь позволить себе этот предмет.
+(§5[A-Za-z 0-9,'\-]+): §dI'm afraid you don't have enough space in your inventory to buy that.@(r1): §dБоюсь, что у тебя недостаточно места в инвентаре, чтобы купить это.
 (§[235]\[[§A-Za-z0-9\+]+\] [§a-zA-Z0-9_]{1,20}) has just logged in!@(r1) только что зашел!
 ([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])a Warrior@(r1) зашел на сервер (r2) классом (r3)Воин
 ([§a-zA-Z0-9_]{1,20}) has logged into server ([A-Z0-9§a-z]+) as (§[ba])a Knight@(r1) зашел на сервер (r2) классом (r3)Рыцарь

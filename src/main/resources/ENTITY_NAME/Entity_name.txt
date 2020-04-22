@@ -1251,6 +1251,7 @@ Old Druid@Старый Друид
 §6[§e|||Choppin§8g|||§6]@§6[§e|||Вырубк§8а|||§6]
 §6[§e|||C§8hopping|||§6]@§6[§e|||В§8ырубка|||§6]
 §4[§c|||§8Fishing|||§4]@§4[§c|||§8Рыбалка|||§4]
+§4[§c|||F§8ishing|||§4]@§4[§c|||Р§8ыбалка|||§4]
 §6[§e|||Fishi§8ng|||§6]@§6[§e|||Рыбал§8ка|||§6]
 §6[§e|||Fishing§8|||§6]@§6[§e|||Рыбалка§8|||§6]
 §2[§a|||Fishing||§8|§2]@§2[§a|||Рыбалка||§8|§2]
@@ -2600,6 +2601,7 @@ Sheep@Овца
 Grumpy Old Man@Старик
 §dCandle Staff@§dОружие Свеча
 §cPhoenix Bow@§cЛук Феникса
+§cPhoenix Wand@§cПосох Феникса
 §6Hand Cannon@§6Ручная Пушка
 §4Adventurer's Hat@§4Шапка Путешественника
 §fPig Disguise@§fМаскировка в Свинью
@@ -2648,18 +2650,22 @@ Orange Cybel@Оранжевый Кубел
 §6Golden Wand@§6Золотой Посох
 §6Golden Bow@§6Золотой Лук
 §6Golden Dagger@§6Золотой Кинжал
+§6Golden Relik@§6Золотой Релик
 §6Half-Moon Dagger@§6Полу-Месяц Кинжал
 §6Half-Moon Spear@§6Полу-Месяц Копье
 §6Half-Moon Bow@§6Полу-Месяц Лук
 §6Half-Moon Wand@§6Полу-Месяц Посох
+§6Half-Moon Relik@§6Полу-Месяц Релик
 §6Fellowship Wooden Wand@§6Братский Деревянный Посох
 §6Fellowship Dark Wand@§6Братский Темный Посох
 §6Fellowship Bow@§6Братский Лук
 §6Fellowship Dagger@§6Кинжал Дружбы
+§6Fellowship Relik@§6Релик Дружбы
 §6Futuristic Wand@§6Футуристический Посох
 §6Futuristic Spear@§6Футуристическое Копье
 §6Futuristic Bow@§6Футуристический Лук
 §6Futuristic Dagger@§6Футуристический Кинжал
+§6Futuristic Relik@§6Футуристический Релик
 §6Anti-Bovemist Effect@§6Анти-Бовемист Эффект
 §6Floating Fairy Effect@§6Эффект Плавающей Феи
 §6Pentagram Effect@§6Эффект Пентаграммы
@@ -2704,6 +2710,7 @@ Orange Cybel@Оранжевый Кубел
 §dFood Dagger@§dКуриная Ножка Кинжал
 §dFood Wand@§dРыба-Меч Посох
 §dFood Spear@§dШашлык Копье
+§dFood Relik@§dБрокколи Релик
 §6Corrupted Spear@§6Испорченное Копье
 §6Corrupted Wand@§6Испорченный Посох
 §6Corrupted Dagger@§6Испорченный Кинжал
@@ -2711,8 +2718,16 @@ Orange Cybel@Оранжевый Кубел
 §dSteampunk Wand@§dСтимпанк Посох
 §dSteampunk Bow@§dСтимпанк Лук
 §dSteampunk Dagger@§dСтимпанк Кинжал
+§dSteampunk Relik@§dСтимпанк Релик
 §cDern Wand@§cДерн Посох
 §cDern Spear@§cДерн Копье
+§cDern Relik@§cДерн Релик
+§6Pirate Spear@§6Пиратское Копье
+§6Pirate Wand@§6Пиратский Посох
+§4Frosty Relik@§4Морозный Релик
+§4Frosty Bow@§4Морозный Лук
+§4Frosty Staff@§4Морозный Посох
+
 §7Disguise@§7Маскировка
 §7Pet@§7Питомец
 §7Gear Skin@§7Скин для Оружия

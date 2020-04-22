@@ -117,9 +117,12 @@
 §7- Refined Malt Grains 3@§7- Переработанное Солодовое Зерно 3
 §7- Refined Silver Gem 1@§7- Переработанный Серебрянный Камень 1
 §7- Refined Silver Gem 2@§7- Переработанный Серебрянный Камень 2
+§7- Refined Silver Ingot 2@§7- Переработанный Слиток Серебра 2
+§7- Refined Silver Ingot 3@§7- Переработанный Слиток Серебра 3
 §7- Refined Silver Ingot 1@§7- Переработанный Слиток Серебра 1
 §7- Refined Molten Ingot 1@§7- Переработанный Слиток Молтен 1
 §7- Refined Molten Ingot 2@§7- Переработанный Слиток Молтен 2
+§7- Refined Molten Gem 1@§7- Переработанный Молтен Камень 1
 §7- Refined Jungle Wood 1@§7- Переработанная Древесина Амаранта 1
 §7- Refined Jungle Wood 2@§7- Переработанная Древесина Амаранта 2
 §7- Unprocessed Piranha@§7- Необработанная Пиранья
@@ -146,9 +149,12 @@
 §7- Refined Cobalt Ingot 3@§7- Переработанный Слиток Кобальта 3
 §7- Refined Cobalt Gem 2@§7- Переработанный Кобальтовый Камень 2
 §7- Refined Decay String 1@§7- Переработанный Зараженная Нить 1
+§7- Refined Decay String 3@§7- Переработанная Зараженная Нить 3
 §7- Refined Decay Grains 2@§7- Переработанное Зараженное Зерно 2
 §7- Refined Diamond Ingot 2@§7- Переработанный Слиток Алмаза 2
 §7- Refined Diamond Ingot 3@§7- Переработанный Слиток Алмаза 3
+§7- Refined Diamond Gem 1@§7- Переработанный Алмазный Камень 1
+§7- Refined Diamond Gem 2@§7- Переработанный Алмазный Камень 2
 §7- Refined Diamond Gem 3@§7- Переработанный Алмазный Камень 3
 §7- Refined Avo Wood 2@§7- Переработанная Древесина Авокадо 2
 §7- Refined Avo Wood 1@§7- Переработанная Древесина Авокадо 1 
@@ -156,6 +162,7 @@
 §7- Refined Kanderstone Gem 2@§7- Переработанный Кандерстоун Камень 2
 §7- Refined Kanderstone Gem 3@§7- Переработанный Кандерстоун Камень 3
 §7- Refined Kanderstone Ingot 3@§7- Переработанный Слиток Кандерстоуна 3
+§7- Refined Kanderstone Ingot 2@§7- Переработанный Слиток Кандерстоуна 2
 §7- Refined Kanderstone Ingot 1@§7- Переработанный Слиток Кандерстоуна 1
 §7- Refined Gylia Oil 3@§7- Переработанный Жир Гилия 3
 §7- Refined Rye Grains 1@§7- Переработанное Ржаное Зерно 1
@@ -163,6 +170,7 @@
 §7- Refined Rice String 1@§7- Переработанная Рисовая Нить 1
 §7- Refined Bass Oil 3@§7- Переработанный Жир Окуня 3
 §7- Refined Icefish Oil 2@§7- Переработанный Жир Щуки 2
+§7- Refined Voidstone Gem 2@§7- Переработанный Войдстоун Камень 1
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -199,6 +207,10 @@
 §7Use on what blocks your@§7Используй на том, что блокирует твой
 §7path@§7путь
 §cSale Ended@§cРаспродажа Завершена
+§7Maximum: §f1@§7Максимум: §f1
+§eFol§klo§ew t§kh§eis cha§kr§et §kw§ehile §eusi§kng§e t§ehe mac§kh§eine§ks§e.@§eSle§kdu§ei e§kt§eoi tab§kli§ece §kvo §evremya §eispolzo§kvaniya§e mas§kch§ei§kn§i.
+§eThi§ks§e she§ke§et shou§kld§e be §egi§kve§en to §e§kt§ehe bl§ko§eody@§eEto§kt§e li§ks§et sled§kuet§e §eot§kda§et kro§kva§evim
+§esp§ki§ekes.@§esch§ki§epam.
 
 ###############################QUEST ITEMS##################################
 §7Deliver Goods to:@§7Доставить товары на:
@@ -582,6 +594,8 @@
             §f5§7 Pine Paper§f Ⓒ@            §f5§7 Сосновой Бумаги§f Ⓒ
 §c✖ Lv. 90: §f12§7 Sorghum String§f Ⓙ@§c✖ Ур. 90: §f12§7 Сорго Нитей§f Ⓙ
 §c✖ Lv. 90: §f6§7 Sorghum String§f Ⓙ@§c✖ Ур. 90: §f6§7 Сорго Нитей§f Ⓙ
+§a✔ Lv. 90: §f12§7 Sorghum String§f Ⓙ@§a✔ Ур. 90: §f12§7 Сорго Нитей§f Ⓙ
+§a✔ Lv. 90: §f6§7 Sorghum String§f Ⓙ@§a✔ Ур. 90: §f6§7 Сорго Нитей§f Ⓙ
             §f12§7 Sorghum String§f Ⓙ@            §f12§7 Сорго Нитей§f Ⓙ
             §f6§7 Sorghum String§f Ⓙ@            §f6§7 Сорго Нитей§f Ⓙ
             §f12§7 Sorghum Grains§f Ⓙ@            §f12§7 Сорго Зерен§f Ⓙ
@@ -608,6 +622,8 @@
             §f15§7 Bass Oil§f Ⓚ@            §f15§7 Жира Окуня§f Ⓚ
 §c✖ Lv. 90: §f12§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f12§7 Жира Угря§f Ⓚ
 §c✖ Lv. 90: §f6§7 Molten Oil§f Ⓚ@§c✖ Ур. 90: §f6§7 Жира Угря§f Ⓚ
+§a✔ Lv. 90: §f12§7 Molten Oil§f Ⓚ@§a✔ Ур. 90: §f12§7 Жира Угря§f Ⓚ
+§a✔ Lv. 90: §f6§7 Molten Oil§f Ⓚ@§a✔ Ур. 90: §f6§7 Жира Угря§f Ⓚ
             §f6§7 Molten Oil§f Ⓚ@            §f6§7 Жира Угря§f Ⓚ
             §f12§7 Molten Oil§f Ⓚ@            §f12§7 Жира Угря§f Ⓚ
             §f18§7 Molten Oil§f Ⓚ@            §f18§7 Жира Угря§f Ⓚ
@@ -732,6 +748,8 @@
 §a✔ Lv. 100: §f6§7 Voidstone Gem§f Ⓑ@§a✔ Ур. 100: §f6§7 Камней Войдстоуна§f Ⓑ
              §f12§7 Sky Paper§f Ⓒ@             §f12§7 Лиственной Бумаги§f Ⓒ
              §f6§7 Sky Paper§f Ⓒ@             §f6§7 Лиственной Бумаги§f Ⓒ
+             §f12§7 Sky Wood§f Ⓒ@             §f12§7 Древесины Лиственницы§f Ⓒ
+             §f6§7 Sky Wood§f Ⓒ@             §f6§7 Древесины Лиственницы§f Ⓒ
             §f4§7 Koi Oil§f Ⓚ@            §f4§7 Жира Сазана§f Ⓚ
             §f8§7 Koi Oil§f Ⓚ@            §f8§7 Жира Сазана§f Ⓚ
             §f12§7 Koi Oil§f Ⓚ@            §f12§7 Жира Сазана§f Ⓚ
@@ -747,10 +765,19 @@
 §a✔ Lv. 80: §f10§7 Diamond Ingot§f Ⓑ@§a✔ Ур. 80: §f10§7 Слитков Алмаза§f Ⓑ
 §c✖ Lv. 80: §f5§7 Diamond Gem§f Ⓑ@§c✖ Ур. 80: §f5§7 Алмазных Камней§f Ⓑ
 §a✔ Lv. 80: §f5§7 Diamond Gem§f Ⓑ@§a✔ Ур. 80: §f5§7 Алмазных Камней§f Ⓑ
+§c✖ Lv. 100: §f12§7 Hemp String§f Ⓙ@§c✖ Ур. 100: §f12§7 Конопляных Нитей§f Ⓙ
+§c✖ Lv. 100: §f6§7 Hemp String§f Ⓙ@§c✖ Ур. 100: §f6§7 Конопляных Нитей§f Ⓙ
+§a✔ Lv. 100: §f12§7 Hemp String§f Ⓙ@§a✔ Ур. 100: §f12§7 Конопляных Нитей§f Ⓙ
+§a✔ Lv. 100: §f6§7 Hemp String§f Ⓙ@§a✔ Ур. 100: §f6§7 Конопляных Нитей§f Ⓙ
+             §f12§7 Hemp Grains§f Ⓙ@             §f12§7 Конопляных Зерен§f Ⓙ
              §f12§7 Hemp String§f Ⓙ@             §f12§7 Конопляных Нитей§f Ⓙ
              §f6§7 Hemp String§f Ⓙ@             §f6§7 Конопляных Нитей§f Ⓙ
 §c✖ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§c✖ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
 §a✔ Lv. 50: §f8§7 Piranha Meat§f Ⓚ@§a✔ Ур. 50: §f8§7 Мяса Пираньи§f Ⓚ
+§c✖ Lv. 100: §f12§7 Starfish Oil§f Ⓚ@§c✖ Ур. 100: §f12§7 Жира Морской Звезды§f Ⓚ
+§c✖ Lv. 100: §f6§7 Starfish Oil§f Ⓚ@§c✖ Ур. 100: §f6§7 Жира Морской Звезды§f Ⓚ
+§a✔ Lv. 100: §f12§7 Starfish Oil§f Ⓚ@§a✔ Ур. 100: §f12§7 Жира Морской Звезды§f Ⓚ
+§a✔ Lv. 100: §f6§7 Starfish Oil§f Ⓚ@§a✔ Ур. 100: §f6§7 Жира Морской Звезды§f Ⓚ
              §f6§7 Starfish Oil§f Ⓚ@             §f6§7 Жира Морской Звезды§f Ⓚ
              §f12§7 Starfish Oil§f Ⓚ@             §f12§7 Жира Морской Звезды§f Ⓚ
              §f18§7 Starfish Oil§f Ⓚ@             §f18§7 Жира Морской Звезды§f Ⓚ
@@ -758,6 +785,14 @@
 §c✖ Lv. 103: §f12§7 Dernic Ingot§f Ⓑ@§c✖ Ур. 103: §f12§7 Дерник Слитков§f Ⓑ
 §a✔ Lv. 103: §f6§7 Dernic Ingot§f Ⓑ@§a✔ Ур. 103: §f6§7 Дерник Слитков§f Ⓑ
 §a✔ Lv. 103: §f12§7 Dernic Ingot§f Ⓑ@§a✔ Ур. 103: §f12§7 Дерник Слитков§f Ⓑ
+§c✖ Lv. 103: §f6§7 Dernic Gem§f Ⓑ@§c✖ Ур. 103: §f6§7 Дерник Камней§f Ⓑ
+§a✔ Lv. 103: §f6§7 Dernic Gem§f Ⓑ@§a✔ Ур. 103: §f6§7 Дерник Камней§f Ⓑ
+             §f6§7 Dernic Oil§f Ⓚ@             §f6§7 Дерник Жира§f Ⓚ
+             §f12§7 Dernic Oil§f Ⓚ@             §f12§7 Дерник Жира§f Ⓚ
+             §f18§7 Dernic Oil§f Ⓚ@             §f18§7 Дерник Жира§f Ⓚ
+             §f12§7 Dernic Paper§f Ⓒ@             §f12§7 Дерник Бумаги§f Ⓒ
+             §f6§7 Dernic Paper§f Ⓒ@             §f6§7 Дерник Бумаги§f Ⓒ
+            §f10§7 Decay Grains§f Ⓙ@            §f10§7 Дерник Зерен§f Ⓙ
              §f12§7 Dernic String§f Ⓙ@             §f12§7 Дерник Нитей§f Ⓙ
              §f6§7 Dernic String§f Ⓙ@             §f6§7 Дерник Нитей§f Ⓙ
 
@@ -1732,6 +1767,7 @@
 §7Teleports to: Eltom@§7Телепорт в: Элтом
 §7Teleports to: Olux@§7Телепорт в: Олукс
 §7Teleports to: Gelibord@§7Телепорт в: Гелиборд
+§7Teleports to: Thesead@§7Телепортирует в: Тесеад
 §3- §7Teleports to: §fSelchar@§3- §7Телепорт в: §fСельчар
 §3- §7Teleports to: §fRagni@§3- §7Телепорт в: §fРагни
 §3- §7Teleports to: §fDetlas@§3- §7Телепорт в: §fДетлас
@@ -2241,6 +2277,9 @@
 §4If you live near Europe and want lower@§4Если вы живете рядом с Европой, и хотите
 §4latency on the EU servers, login using@§4меньшую задержку на EU серверах, то заходите
 §4the §feu.wynncraft.com§4 IP address@§4через §feu.wynncraft.com§2 IP адрес
+§7- §fCorrupter of Worlds Combat Lv. 100§7 [1] §f2048§7²@§7- §fРазрушитель Миров Комбат Ур. 100§7 [1] §f2048§7²
+§7- §fMaster Fire Mage Combat Lv. 100§7 [1] §f1024§7²@§7- §fМастер Маг Огня Комбат Ур. 100§7 [1] §f1024§7²
+§7- §fBob Reincarnation Combat Lv. 110§7 [1] §f3072§7²@§7- §fBob Reincarnation Комбат Ур. 110§7 [1] §f3072§7²
 
 ###############################CRATES##############################
 §dRare Reward@§dРедкая Награда
@@ -2282,6 +2321,7 @@
 §7Disguise your staff@§7Маскирует твое оружие 
 §7Disguise your bow@§7Маскирует твой лук
 §7Disguise your wand@§7Маскирует твой посох
+§7Disguise your relik@§7Маскирует твой релик 
 §7Disguise yourself as a sheep@§7Маскировка себя под овцу
 §7Disguise your horses into a zombie beast@§7Маскирует твою лошадь под зомби зверя
 §7Disguise your horses into a skeletal beast@§7Маскирует твою лошадь под скелетного зверя
@@ -2585,6 +2625,9 @@
 §8Smells like glittery fish...@§8Пахнет как блестящая рыба...
 §7This pass gives a one-time entry@§7Этот пропуск дает одноразовый вход
 §7to the §fMaex Resource Mine§7.@§7в §fШахту с Ресурсами Маэкса
+§7A strange key engraved with a symbol of@§7Странный ключ гравирован символом 
+§7two arrows in the shape of a circle.@§7из двух стрел в форме круга.
+§7What could it possibly open?@§7Что им можно открыть?
 
 ###################################WYNNIC##########################################
 §7⒯⒣⒠ ⒨⒪⒩⒮⒯⒠⒭ ⒡⒭⒪⒨ ⒝⒠⒴⒪⒩⒟ ⒣⒜⒮ ⒡⒪⒰⒩⒟ ⒰⒮.@§7⒯⒣⒠ ⒨⒪⒩⒮⒯⒠⒭ ⒡⒭⒪⒨ ⒝⒠⒴⒪⒩⒟ ⒣⒜⒮ ⒡⒪⒰⒩⒟ ⒰⒮. §d(монстр из другого царства нашел нас.)

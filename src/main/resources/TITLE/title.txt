@@ -231,6 +231,22 @@
 §dFood Spear@§dШашлык Копье
 §dFood Dagger@§dКуриная Ножка Кинжал
 §6Banana Sword@§6Меч Банан
+§dFood Relik@§dБрокколи Релик
+§dSteampunk Relik@§dСтимпанк Релик
+§cPhoenix Wand@§cПосох Феникса
+§cPhoenix Bow@§cЛук Феникса
+§cPhoenix Relik@§cРелик Феникса
+§cDern Wand@§cДерн Посох
+§cDern Relik@§cДерн Релик
+§6Golden Relik@§6Золотой Релик
+§6Fellowship Relik@§6Релик Дружбы
+§6Carbon Fiber Cybel Token@§6Карбоновый Кубел Жетон
+§6Futuristic Relik@§6Футуристический Релик
+§4Frosty Relik@§4Морозный Релик
+§4Frosty Bow@§4Морозный Лук
+§4Frosty Staff@§4Морозный Посох
+§6Pirate Spear@§6Пиратское Копье
+§6Pirate Wand@§6Пиратский Посох
 
 #########################System##################################
 §bServer restarting!@§bРестарт сервера!
@@ -257,6 +273,7 @@ Server closed@Сервер закрыт
 §cHunted Enabled (PvP on)@§cОхотник Включен (ПвП вкл)
 §cHunted Disabled (PvP off)@§cОхотник Выключен (ПвП выкл)
 We are §arestarting§f, please join back in a moment!@§fМы §aперезагружаемся§f. Пожалуйста, присоединяйтесь к нам через минуту!
+§dYou have logged in somewhere else@§dТы залогинен где-то еще
 
 #########################Spells###############################
 §aL§7-§aL§7-§7§n?@§aЛ§7-§aЛ§7-§7§n?
