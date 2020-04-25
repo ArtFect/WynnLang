@@ -134,12 +134,12 @@
 (§c\[[A-Za-z]+\]) has taken control of (.*)@(r1) захватили контроль над (r2)
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§3[ИНФО] §b(r1) пригласил (r2) в гильдию.
 ^§b( |)([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§b(r2) пригласил (r3) в гильдию.
-(§b[a-zA-Z0-9_]{1,16}) has kicked ([a-zA-Z0-9_]{1,16}) from the guild@(r1) кикнул (r2) из гильдии
+^§b( |)([a-zA-Z0-9_]{1,16}) has kicked ([a-zA-Z0-9_]{1,16}) from the guild@§b(r2) кикнул (r3) из гильдии
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§3[§3ИНФО]§b (r1) поменял ранг гильдии (r2) с (r4) на (r5)
-(^§b[a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) guild rank from ([A-Za-z]+) to ([A-Za-z]+)@(r1) поменял ранг гильдии (r2) с (r4) на (r5)
+^§b( |)([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§b(r2) поменял ранг гильдии (r3) с (r5) на (r6)
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§3[ИНФО] §b(r1) присоединился к гильдии! Скажите привет!
 ^§b( |)([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§b(r2) присоединился к гильдии! Скажите привет!
-(§b[a-zA-Z0-9_]{1,16}) has left the guild.@(r1) вышел из гильдии.
+^§b( |)([a-zA-Z0-9_]{1,16}) has left the guild.@§b(r2) вышел из гильдии.
 (§b.*§3) is not a member of the guild@(r1) не является участником гильдии
 (§6#\d+§f) ([A-Za-z ]+§7) (\[[A-Za-z]+\]§8) - §7Level (\d+) (\([0-9\.]+m XP\)) §8- (§7\d+) members@(r1) (r2) (r3) - §7Уровень (r4) (r5) §8- (r6) участников
 §7Guild Since: (§f[0-9\/]+)@§7Дата основания: (r1)
