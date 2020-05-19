@@ -179,6 +179,7 @@ Assassin@Ассасин
 §aSound Wave Emitter§6 [Lv. 61]@§aИзлучатель Звуковых Волн§6 [Ур. 61]
 §aPotion§6 [Lv. 1]@§aЗелье§6 [Ур. 1]
 §aStone Tablet§6 [Lv. 1]@§aКаменная Плита§6 [Ур. 1]
+§aStone §6[Lv. 0]@§aКамень §6[Ур. 0]
 
 #####################MERCHANTS###########################
 §dDungeon Merchant@§dДанж Торговец
@@ -2088,6 +2089,10 @@ Gift From Dern@Подарок из Дерна
 §4Exit@§4Выход
 §cExit@§cВыход
 §cBoss Altar@§cБосс Алтарь
+§aRight-Click with an Empty Hand@§aПравый Клик пустой рукой
+§ato Interact@§aдля взаимодействия
+§aOpen the Loot Chest@§aОткрытия Сундука с Лутом
+§7[Shared]@§7[Поделены]
 
 ######################KEY GUARDIANS###########################
 §cDecrepit Sewers Key Guardian§6 [Lv. 9]@§cЗащитник Ключа от Ветхой Канализации§6 [Ур. 9]

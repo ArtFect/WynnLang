@@ -1,7 +1,7 @@
 §7[1/2] §2Caravan Driver: §aAgh!@§7[1/2] §2Караванщик: §aАгх!
 §7[1/4] §2Caravan Driver: §aI swear I hit this same dang boulder everytime I make this trip.@§7[1/4] §2Караванщик: §aКлянусь, я бьюсь об эту чертову глыбу каждый раз во время этих путешествий.
-§7[2/4] §2Caravan Driver: §aYep, even seems like I got a pile of wasted wheels stacking up.@§7[2/4] §2Караванщик: §aДа даже кажется, что у меня скопилась куча колес, потраченных впустую.
-§7[3/4] §2Tasim: §aDoes this mean we have to walk all the way to Ragni from here?@§7[3/4] §2Тасим: §aЗначит ли это, что нам придется идти весь путь отсюда до Рагни?
+§7[2/4] §2Tasim: §aDoes this mean we have to walk all the way to Ragni from here?@§7[2/4] §2Тасим: §aЗначит ли это, что нам придется идти весь путь отсюда до Рагни?
+§7[3/4] §2Caravan Driver: §aIt's not that far, it's just a straight path from here. Here, take these as a partial refund for the journey.@§7[3/4] §2Караванщик: §aОн не так уж далеко, отсюда идет прямая дорога. Вот, возьмите это в качестве частичного возмещения за поездку.
 §7[1/4] §2Tasim: §aSo, what do you guys know about Wynn exactly?@§7[1/4] §2Тасим: §aИтак, что именно вы, ребята, знаете о провинции Винн?
 §7[2/4] §2Aledar: §aSame as you. That the war's been getting worse, so the King of Ragni's been recruiting Fruma soldiers.@§7[2/4] §2Аледар: §aТоже, что и ты. Что война стала еще ужаснее, поэтому король Рагни начал набирать солдат из Фрумы.
 §7[3/4] §2Tasim: §aI've never seen the Wynn Province before. What do you think it's like?@§7[3/4] §2Тасим: §aЯ никогда раньше не видел провинцию Винн. Как думаете, на что она похожа?
@@ -12,18 +12,26 @@
 §7[4/4] §2Aledar: §aWell, what are you waiting for?@§7[4/4] §2Аледар: §aНу, чего же мы ждем?
 §7[1/3] §2Tasim: §aSo this is Wynn, huh?@§7[1/3] §2Тасим: §aТак значит это Винн, да?
 §7[2/3] §2Aledar: §aIt looks nice. The war clearly hasn't made it this far.@§7[2/3] §2Аледар: §aВыглядит неплохо. Война не зашла сюда так далеко.
-§7[3/3] §2Old Man: §aHey, you three! Come over here and talk to me.@§7[3/3] §2Старик: §aЭй, вы трое! Идите сюда и поговорите со мной.
-§7[1/5] §2Tasim: §aSir, are you okay?@§7[1/5] §2Тасим: §aСэр, вы в порядке?
-§7[2/5] §2Old Man: §aI've been waiting for you three, you're late. There's a bit of trouble up ahead. You will need to get yourself some materials.@§7[2/5] §2Старик: §aЯ ждал вас троих, вы опоздали. Впереди вас ждут небольшие неприятности. Вам нужно будет добыть себе некоторые материалы.
-§7[3/5] §2Tasim: §aI didn't think we needed anything. Why would any materials help us?@§7[3/5] §2Тасим: §aНе думаю, что нам что-то нужно. Чем нам помогут какие-то материалы?
-§7[4/5] §2Old Man: §aWell, you thought wrong. You'll need the materials to make yourself something to fight with.@§7[4/5] §2Старик: §aЧтож, ты думаешь неправильно. Вам понадобятся материалы, чтобы сделать себе что-то, чем можно сражаться.
-§7[1/1] §2Old Man: §aJust hit the fishing rod to pick it up. Then §bleft-click§a the fish with it to get the oil!@§7[1/1] §2Старик: §aПросто ударь удочку и подбери ее. Затем нажми §bлевым кликом§a по рыбе, чтобы получить жир!
-§7[1/6] §2Old Man: §aThat looks like the stuff. I was sent ahead by the guards to warn any newcomers.@§7[1/6] §2Старик: §aЭто похоже на материал. Меня послали сюда стражи, чтобы предупреждать всех новоприбывших.
-§7[2/6] §2Old Man: §aNormally, this place is pretty safe, but somehow a few corrupt slipped through.@§7[2/6] §2Старик: §aОбычно, это место довольно безопасно, но все же несколько испорченных мертвецов сумели проскользнуть сюда.
-§7[3/6] §2Old Man: §aWe're pretty far from the §dPortal §aso I don't know how they got here. They even broke the bridge!@§7[3/6] §2Старик: §aМы довольно далеко от §dПортала§a поэтому я не знаю, как им это удалось. Они даже сломали мост!
-§7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that wheat so you can get yourself kitted out.@§7[4/6] §2Старик: §aСтражи сказали мне отправить тебя вперед с этой пшеницей, чтобы ты смог снарядить себя.
-§7[5/6] §2Old Man: §aThere's a crafting station up ahead. You three can §a§lforge weapons§a there.@§7[5/6] §2Старик: §aВпереди есть станции для крафта. Вы трое можете §a§lвыковать себе оружия§a там.
-§7[1/1] §2Aledar: §aThe old man said something about a bridge being broken. Let's check it out.@§7[1/1] §2Аледар: §aСтарик сказал что-то о мосте, который сломан. Давайте осмотрим его.
+§7[3/3] §2Soldier: §aHey, you three! Come over here.@§7[3/3] §2Солдат: §aЭй, вы трое! Идите сюда.
+§7[1/4] §2Tasim: §aA soldier! What are you doing here?@§7[1/4] §2Тасим: §aСолдат! Что ты здесь делаешь?
+§7[2/4] §2Soldier: §aThere's a bit of trouble up ahead. You can't expect to get out of here alive if you aren't prepared.@§7[2/4] §2Солдат: §aВпереди вас ждут небольшие неприятности. Вы можете не выбраться оттуда живыми, если не будете готовы.
+§7[3/4] §2Soldier: §aThere's a cave right there. Those often contain useful loot, I'd give it a try if I were you. §bEnter the cave and find some armour.@§7[3/4] §2Солдат: §aПрямо тут есть пещера. И там часто бывает полезный лут, на вашем месте я бы проверил ее. §bВойдите в пещеру и найдите себе броню.
+§7[4/4] §2Aledar: §aLet's go inside then.@§7[4/4] §2Аледар: §aТогда пойдем внутрь.
+§7[1/1] §2Aledar: §aThe soldier didn't tell us the cave path was collapsed! We'll have to jump through.@§7[1/1] §2Аледар: §aСолдат не сказал нам, что пещерный путь был разрушен! Нам придется прыгать по нему.
+§7[1/1] §2Tasim: §aCome over here, we have a problem...@§7[1/1] §2Тасим: §aИдите сюда, у нас проблема...
+§7[1/3] §2Tasim: §aI don't think we can make this jump...@§7[1/3] §2Тасим: §aНе думаю, что мы сможем совершить такой прыжок...
+§7[2/3] §2Aledar: §aWhat if we break that rock on the ceiling? That could open up the path for us.@§7[2/3] §2Аледар: §aА что, если мы разобьем этот камень на потолке? Это может открыть нам путь к спасению.
+§7[1/1] §2Aledar: §aIt worked! Now we can reach that chest.@§7[1/1] §2Аледар: §aСработало! Теперь мы можем добраться до этого сундука.
+§7[1/1] §2Tasim: §aJust §bRight-Click the Loot chest §ato open it.@§7[1/1] §2Тасим: §aПросто нажми §bПравым Кликом по сундуку с лутом§a, чтобы открыть его.
+§7[1/1] §2Aledar: §aI think that's all we needed, let's get out.@§7[1/1] §2Аледар: §aЯ думаю это все, что нам было нужно, давайте уйдем отсюда.
+§7[1/5] §2Soldier: §aThat looks like the stuff.@§7[1/5] §2Солдат: §aОтлично, то что нужно.
+§7[2/5] §2Soldier: §aNormally, this place is pretty safe, but somehow a few corrupted slipped through.@§7[2/5] §2Солдат: §aОбычно, это место довольно безопасно, но все же несколько испорченных мертвецов сумели проскользнуть сюда.
+§7[3/5] §2Soldier: §aWe're pretty far from the portal so I don't know how they got here. They even broke the bridge!@§7[3/5] §2Солдат: §aМы довольно далеко от §dпортала§a, поэтому я не знаю, как им это удалось. Они даже сломали мост!
+§7[4/5] §2Soldier: §a... Anyway, you may have noticed that your loot is currently unidentified, you can §bidentify your item at the Item Identifier §afurther down the path on your left!@§7[4/5] §2Солдат: §a... В любом случае, вы возможно заметили, что ваш лут в настоящее время неидентифицирован, но вы можете §bидентифицировать свои предметы у идентификатора предметов §aпройдя дальше по пути, слева от вас!
+§7[1/2] §2Aledar: §aThat's the identifier the soldier was talking about.@§7[1/2] §2Аледар: §aЭто тот идентификатор, о котором говорил солдат.
+§7[2/2] §2Aledar: §aJust §bright-click §ahim to identify your item and once you're done talk to us again.@§7[2/2] §2Аледар: §aКликни по нему §bправым кликом§a, чтобы идентифицировать свои предметы, и когда закончишь, поговори с нами снова.
+§7[1/2] §2Aledar: §aIf you've identified your item let's head off. Lead the way.@§7[1/2] §2Аледар: §aЕсли ты уже идентифицировал свой предмет, давай отправимся в путь. Веди нас.
+§7[2/2] §2Tasim: §aThe soldier said something about a bridge being broken. Let's check it out.@§7[2/2] §2Тасим: §aСолдат сказал что-то о мосте, который сломан. Давайте осмотрим его.
 §7[1/6] §2Tasim: §aWait, stop! Don't want you falling off the edge.@§7[1/6] §2Тасим: §aПодожди, остановись! Ты же не хочешь упасть с его края.
 §7[2/6] §2Tasim: §aYeah, there's no way we'll get across here, unless one of you happened to be a bridge repairman back in Fruma.@§7[2/6] §2Тасим: §aДа, здесь нет способа перебраться на ту сторону, разве что один из вас не был починщиком мостов во Фруме
 §7[3/6] §2Aledar: §aCome to think of it, I don't remember. I know this sounds crazy, but I honestly can't remember anything I did back home.@§7[3/6] §2Аледар: §aКак раз подумал об этом – и я не помню. Знаю, это звучит безумно, но если честно, я не помню ничего из того, что я делал дома.
@@ -38,17 +46,17 @@
 §7[2/3] §2Aledar: §aThe last thing we need to do is use this workbench to forge your weapon.@§7[2/3] §2Аледар: §aПоследнее, что нам нужно сделать – это использовать этот верстак, чтобы выковать себе оружия.
 §7[1/1] §2Guard: §aLooks like you are all in order, I hope you know how to use it. You may pass, but be careful, it's still very dangerous.@§7[1/1] §2Страж: §aПохоже, у вас все в порядке, надеюсь, вы знаете, как этим пользоваться. Вы можете пройти, но будьте осторожнее, там все еще очень опасно.
 §7[1/3] §2Tasim: §aWhat's going on?@§7[1/3] §2Тасим: §aЧто происходит?
-§7[2/3] §2Tasim: §aThat must be one of those "Corrupted" the old man mentioned. Don't worry, it's moving so slow that it can't hurt us.@§7[2/3] §2Тасим: §aДолжно быть это один из этих “Испорченных мертвецов”, о которых говорил старик. Не волнуйтесь, он двигается так медленно, что не сможет навредить нам.
-§7[3/3] §2Tasim: §aNEVER MIND! KILL IT!@§7[3/3] §2Тасим: §aНЕВАЖНО! УБЕЙТЕ ЕГО!
+§7[2/3] §2Tasim: §aThat must be one of those "Corrupted" the guard mentioned. Don't worry, it's moving so slow that it can't hurt us.@§7[2/3] §2Тасим: §aДолжно быть это один из этих “Испорченных мертвецов”, о которых говорил солдат. Не волнуйтесь, он двигается так медленно, что не сможет навредить нам.
+§7[3/3] §2Tasim: §aNEVERMIND! §bKILL IT!@§7[3/3] §2Тасим: §aНЕВАЖНО! §bУБЕЙТЕ ЕГО!
 §7[1/1] §2Tasim: §aAnyone else have a bad feeling..?@§7[1/1] §2Тасим: §aНи у кого нет плохого предчувствия..?
 §7[1/2] §2Aledar: §aOh no...@§7[1/2] §2Аледар: §aО нет...
 §7[1/1] §2Tasim: §aCareful! Looks like there's more undead!@§7[1/1] §2Тасим: §aОсторожнее! Похоже мертвецов становится больше!
 §7[1/8] §2Guard: §aFinally, some backup! Help me out here, would ya?@§7[1/8] §2Страж: §aНаконец-то, подмога! Пришли помочь здесь, не так ли?
-§7[2/8] §2Aledar: §aWhat's happened, did you get attacked by the corrupt?@§7[2/8] §2Аледар: §aЧто случилось, неужели вы были атакованы этими испорченными?
+§7[2/8] §2Aledar: §aWhat happened, did you get attacked by the corrupt?@§7[2/8] §2Аледар: §aЧто случилось, неужели вы были атакованы этими испорченными?
 §7[3/8] §2Guard: §aNot quite, recruit. I'm well-equipped for them. The issue is this cave-in.@§7[3/8] §2Страж: §aНе совсем, рекрут. Я слишком хорошо экипирован для них. Проблема в самой пещере.
 §7[4/8] §2Tasim: §aThis isn't seriously the only way through, is it? What are we going to do?@§7[4/8] §2Тасим: §aЭто ведь не единственный путь дальше, не так ли? Что мы можем сделать?
 §7[5/8] §2Guard: §aIf it wasn't for my injuries, I could just use my weapon to cast a §bspell§a on these boulders to get rid of them.@§7[5/8] §2Страж: §aЕсли бы не мои ранения, я бы мог использовать мое оружие для каста §bзаклинания§a на эти глыбы, чтобы избавиться от них.
-§7[6/8] §2Guard: §aI know you're new, but we're out of options.@§7[6/8] §2Страж: §aЗнаю, что вы новенькие, но у нас нет других вариантов.
+§7[6/8] §2Guard: §a...@§7[6/8] §2Страж: §a...
 §7[1/2] §2Guard: §aWait!@§7[1/2] §2Страж: §aМинутку!
 §7[2/2] §2Guard: §aRUN!@§7[2/2] §2Страж: §aБЕЖИМ!
 §7[1/3] §2Soldier: §aLaunch the trebuchet!@§7[1/3] §2Солдат: §aЗапустить катапульту!
@@ -65,7 +73,6 @@
 §7[7/7] §2Ragni's King: §aTake this §3[1 Ragni Teleportation Scroll]§a too! It will bring you back here if you use it.@§7[7/7] §2Король Рагни: §aВозьми также этот §3[1 свиток телепортации в Рагни]§a! Он вернет тебя сюда, если ты его используешь.
 
 §7[1/1] §2Guard: §aGood work. Now, you three head on towards the castle.@§7[1/1] §2Страж: §aОтличная работа. Теперь вы трое должны отправиться вперед, в замок.
-§7[5/5] §2Old Man: §aI left my scythe by the crops over yonder. Punch it and pick it up. Then harvest §3[2 Wheat]§a and bring it back here.@§7[5/5] §2Старик: §aЯ оставил свою мотыгу у поля вон там. Ударь и подбери ее. Затем собери §b[2 Пшеницы]§a и принеси ее сюда.
 §7[3/3] §2Aledar: §aUse §b2 string§a and §b1 wood§a to craft §3[1 Bow]§a and then show it to the guard.@§7[3/3] §2Аледар: §aИспользуй §b2 нити§a и §b1 древесину§a чтобы скрафтить §3[1 Лук]§a и затем покажи его стражу.
 §7[1/1] §2Aledar: §aWe can use this tree as a bridge to get across to the other side.@§7[1/1] §2Аледар: §aМы можем использовать это дерево как мост, чтобы перебраться на другую сторону.
 §7[1/1] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a at the anvil to create §3[1 Dagger]§a and then show it to me.@§7[1/1] §2Аледар: §aИспользуй §b2 слитка§a и §b1 древесину§a на наковальне, чтобы создать §3[1 Кинжал]§a и затем покажи его мне.
@@ -73,35 +80,23 @@
 §7[1/1] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a at the avil to create §3[1 Spear]§a and then show it to me.@§7[1/1] §2Аледар: §aИспользуй §b1 слиток§a и §b2 древесины§a на наковальне, чтобы создать §3[1 Копье]§a и затем покажи его мне.
 §7[1/1] §2Aledar: §aUse §b2 string§a and §b1 wood§a at the workbench to create §3[1 Bow]§a and then show it to me.@§7[1/1] §2Аледар: §aИспользуй §b2 нити§a и §b1 древесину§a на верстаке, чтобы создать §3[1 Лук]§a и затем покажи его мне.
 §7[1/1] §2Aledar: §aUse §b1 string§a and §b2 wood§a at the workbench to create §3[1 Wand]§a and then show it to me.@§7[1/1] §2Аледар: §aИспользуй §b1 нить§a и §b2 древесины§a на верстаке, чтобы создать §3[1 Посох]§a и затем покажи его мне.
-§7[1/1] §2Old Man: §aI left my pickaxe by the ore over yonder. Use it to mine some copper and bring it back here.@§7[1/1] §2Старик: §aЯ оставил свою кирку у руды вон там. Используй ее, чтобы добыть немного меди и принеси сюда.
 §7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bLeft-Right-Left§a!@§7[1/1] §2Страж: §aВстань перед стеной и используй свое заклинание, кликнув §bЛевая-Правая-Левая§a!
 §7[1/1] §2Soldier: §aAll right, recruits, the castle is straight ahead!@§7[1/1] §2Солдат: §aХорошо, новобранцы, замок прямо впереди!
 §7[1/1] §2Guard: §aGet in front of the boulder and cast your spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Страж: §aВстань перед стеной и используй свое заклинание, кликнув §bПравая-Левая-Правая§a!
 §7[1/1] §2Tasim: §aHey, where are you going? We need you to use your spell on that boulder!@§7[1/1] §2Тасим: §aЭй, куда ты идешь? Нам нужно, чтобы ты использовал свое заклинание на этом валуне!
 §7[1/1] §2Guard: §aYou three should head on towards the castle.@§7[1/1] §2Страж: §aВы трое должны направиться к замку.
-§7[1/1] §2Aledar: §aDon't leave yet! I'd love to keep going, but first we need you to harvest §3[2 Wheat]§a for this guy.@§7[1/1] §2Аледар: §aНе уходи пока! Я бы с удовольствием продолжил, но сначала нам нужно, чтобы ты собрал §b[2 Пшеницы]§a для этого парня.
 §7[1/1] §2Aledar: §aWhat are you doing? Don't go wandering off!@§7[1/1] §2Аледар: §aЧто ты делаешь? Не уходи далеко!
 §7[3/3] §2Aledar: §aUse §b1 string§a and §b2 wood§a to craft §3[1 Wand]§a and then show it to the guard.@§7[3/3] §2Аледар: §aИспользуй §b1 нить§a и §b2 древесины§a чтобы скрафтить §3[1 Посох]§a и затем покажи его стражу.
 §7[1/1] §2Aledar: §aHurry up, you two! Get over here!@§7[1/1] §2Аледар: §aПобыстрее, вы двое! Идите сюда!
 §7[2/3] §2Aledar: §aThe last thing we need to do is use this anvil to forge a weapon.@§7[2/3] §2Аледар: §aПоследнее, что нам нужно сделать – это использовать эту наковальню, чтобы выковать себе оружия.
 §7[3/3] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a to forge §3[1 Spear]§a and then show it to the guard.@§7[3/3] §2Аледар: §aИспользуй §b1 слиток§a и §b2 древесины§a чтобы скрафтить §3[1 Копье]§a и затем покажи его стражу.
 §7[3/3] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a to forge §3[1 Dagger]§a and then show it to the guard.@§7[3/3] §2Аледар: §aИспользуй §b2 слитка§a и §b1 древесину§a чтобы скрафтить §3[1 Кинжал]§a и затем покажи его стражу.
-§7[1/1] §2Aledar: §aDon't leave yet! I'd love to keep going, but first we need you to mine §3[2 Copper]§a for this guy.@§7[1/1] §2Аледар: §aНе уходи пока! Я бы с удовольствием продолжил, но сначала нам нужно, чтобы ты добыл §b[2 Меди]§a для этого парня.
 §7[1/1] §2Aledar: §aWe're going to need to craft weapons. Follow me.@§7[1/1] §2Аледар: §aНам необходимо скрафтить оружия. Следуйте за мной.
 §7[1/1] §2Aledar: §aWhat are you doing? We're going the §a§oother§a way!@§7[1/1] §2Аледар: §aЧто ты делаешь? Мы идем в §a§oдругую§a сторону!
-§7[1/1] §2Tasim: §b§lRight-click§a on the old man to talk to him.@§7[1/1] §2Тасим: §b§lПравый клик§a по старику, чтобы поговорить с ним.
+§7[1/1] §2Tasim: §b§lRight-click§a on the Soldier to talk to him.@§7[1/1] §2Тасим: §b§lПравый Клик§a по Солдату, чтобы поговорить с ним.
 §7[1/1] §2Tasim: §aHey, don't leave yet! Let's help out this guard.@§7[1/1] §2Тасим: §aЭй, не уходи пока! Давай поможем этому стражу.
 §7[1/1] §2Tasim: §aHey, don't leave yet! We still need to check out the bridge!@§7[1/1] §2Тасим: §aЭй, не уходи пока! Нам нужно проверить мост!
 §7[1/1] §2Tasim: §aHey, don't leave yet! We still need to figure out a way across the gap.@§7[1/1] §2Тасим: §aЭй, не уходи пока! Нам по-прежнему нужно найти способ перебраться через ущелье.
-§7[1/1] §2Tasim: §aThe old man said something about the bridge being broken. Let's go and take a look.@§7[1/1] §2Тасим: §aСтарик сказал что-то о том, что мост сломан. Пойдем посмотрим.
-§7[1/1] §2Old Man: §aI left my scythe by the crops over yonder. Use it to harvest some wheat and bring it back here.@§7[1/1] §2Старик: §aЯ оставил свою мотыгу у поля вон там. Используй ее, чтобы собрать немного пшеницы и принеси ее сюда.
-§7[1/1] §2Old Man: §aHarvest §3[2 Wheat]§a and then bring it to me.@§7[1/1] §2Старик: §aСобери §b[2 Пшеницы]§a и принеси их мне.
-§7[5/5] §2Old Man: §aI left my pickaxe by the ore over yonder. Punch it and pick it up. Then mine §3[2 Copper Ore]§a and bring it back here.@§7[5/5] §2Старик: §aЯ оставил свою кирку у залежи вон там. Ударь и подбери ее. Затем добудь §3[2 Медной руды]§a и принеси ее сюда.
-§7[5/5] §2Old Man: §aI left my fishing rod by the pond over yonder. Punch it and pick it up. Then fish §3[2 Gudgeon Oil]§a and bring it back here.@§7[5/5] §2Старик: §aЯ оставил свою удочку у пруда вон там. Ударь и подбери ее. Затем вылови §3[2 Жира Пескаря]§a и принеси их сюда.
-§7[1/1] §2Old Man: §aJust hit the pickaxe to pick it up. Then whack the ore with it to mine it!@§7[1/1] §2Старик: §aПросто ударь кирку, чтобы подобрать ее. Затем нажми ей на руду, чтобы добыть ее!
-§7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that copper so you can get yourself kitted out.@§7[4/6] §2Старик: §aСтражи сказали мне отправить тебя вперед с этой медью, чтобы ты смог снарядить себя.
-§7[4/6] §2Old Man: §aThe guards told me to send you on ahead with that oil so you can get yourself kitted out.@§7[4/6] §2Старик: §aСтражи велели мне послать вас вперед с этим жиром, чтобы вы могли подготовиться.
-§7[1/1] §2Old Man: §aMine §3[2 Copper Ore]§a and then bring it to me.@§7[1/1] §2Старик: §aДобудь §3[2 Медной руды]§a и принеси их мне.
 §7[8/8] §2Guard: §aNow, cast your Arrow Storm spell by clicking §bLeft-Right-Left§a!@§7[8/8] §2Страж: §aТеперь используй свое заклинание "Шторм Стрел", кликнув §b§lЛевая-Правая-Левая§a!
 §7[8/8] §2Guard: §aNow, cast your Heal spell by clicking §bRight-Left-Right§a!@§7[8/8] §2Страж: §aТеперь используй свое заклинание "Исцеление", кликнув §b§lПравая-Левая-Правая!§a
 §7[1/2] §2Guard: §aThat's done it! All healed up. Now let me take care of this.@§7[1/2] §2Страж: §aГотово! Все вылечены. Теперь дайте мне позаботиться об этом.
@@ -124,25 +119,26 @@
 §7[1/1] §2Guard: §aYou can't pass without a weapon! Please forge §3[1 Dagger]§a and then show it to me.@§7[1/1] §2Страж: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Кинжал]§a и затем покажи его мне.
 §7[1/1] §2Guard: §aYou can't pass without a weapon! Please craft §3[1 Wand]§a and then show it to me.@§7[1/1] §2Страж: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Посох]§a и затем покажи его мне.
 §7[1/1] §2Guard: §aYou can't pass without a weapon! Please forge §3[1 Spear]§a and then show it to me.@§7[1/1] §2Страж: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Копье]§a и затем покажи его мне.
-§7[1/1] §2Old Man: §aFish §3[2 Gudgeon Oil]§a and then bring it to me.@§7[1/1] §2Старик: §aВылови §3[2 Жира Пескаря]§a и принеси их мне.
+§7[1/1] §2Guard: §aYou can't pass without a weapon! Please craft §3[1 Relik]§a and then show it to me.@§7[1/1] §2Страж: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Релик]§a и затем покажи его мне.
+§7[1/1] §2Guard: §aYou can't pass without a weapon! Please craft §3[1 Bow]§a and then show it to me.@§7[1/1] §2Страж: §aТы не можешь пройти без оружия! Пожалуйста скрафти §3[1 Лук]§a и затем покажи его мне.
 §7[1/2] §2Aledar: §aAll we need to do is use this workbench to forge your weapon.@§7[1/2] §2Аледар: §aВсе, что нам нужно, это использовать этот верстак для создания оружия.
 §7[2/2] §2Aledar: §aUse §b2 oil§a and §b1 wood§a to craft §3[1 Relik]§a and then show it to the guard.@§7[2/2] §2Аледар: §aИспользуй §b2 жира§a и §b1 древесину§a для крафта §3[1 Релика]§a а затем покажи его стражу.
 §7[1/2] §2Guard: §aI feel stronger already! This should be enough for me to get us out of here.@§7[1/2] §2Страж: §aЯ уже чувствую себя сильнее! Этого должно быть достаточно, чтобы вытащить нас отсюда.
 §7[2/2] §2Guard: §aTook all of the strength your Totem gave me to do it, but I managed to save us! You three head on to the castle, now.@§7[2/2] §2Страж: §aЯ собрал все силы, которые дал мне твой тотем, чтобы сделать это, но мне удалось спасти нас! Вы трое отправляйтесь в замок, сейчас же.
 §7[1/1] §2Tasim: §aCareful! That tree looks like it'll fall over any second! Let's go check out the bridge for now.@§7[1/1] §2Тасим: §aОсторожно! Это дерево выглядит так, будто может упасть в любую секунду! А пока пойдем проверим мост.
 §7[1/1] §2Aledar: §aOkay, we need to craft a weapon. I think I can help with that. Follow me.@§7[1/1] §2Аледар: §aХорошо, нам нужно скрафтить оружие. Думаю, что смогу помочь с этим. Следуй за мной.
-§7[5/5] §2Old Man: §aI left my scythe by the crops over yonder. Punch it and pick it up. Then harvest §3[2 Wheat String]§a and bring it back here.@§7[5/5] §2Старик: §aЯ оставил свою мотыгу у посевов вон там. Ударь и подбери ее. Затем собери §3[2 Пшеничных Нити]§a и принеси их сюда.
-§7[1/1] §2Old Man: §aHarvest §3[2 Wheat String]§a and then bring it to me.@§7[1/1] §2Старик: §aСобери §3[2 Пшеничных Нити]§a и принеси их сюда.
-§7[1/1] §2Old Man: §aJust hit the scythe to pick it up. Then §bleft-click§a the wheat with it to get the string!@§7[1/1] §2Старик: §aПросто ударь мотыгу и подбери ее. Затем кликни §bлевым кликом§a по пшенице, чтобы добыть нити!
 §7[2/2] §2Aledar: §aUse §b1 string§a and §b2 wood§a to craft §3[1 Wand]§a and then show it to the guard.@§7[2/2] §2Аледар: §aИспользуй §b1 нить§a и §b2 древесины§a для крафта §3[1 Посоха]§a и затем покажи его стражу.
 §7[1/1] §2Aledar: §aUse §b2 oil §a and §1 wood§a at the workbench to create §3[1 Relik]§a and then show it to me.@§7[1/1] §2Аледар: §aИспользуй §b2 жира§a и §b1 древесину§a для крафта §3[1 Релика]§a и затем покажи его мне.
-§7[5/5] §2Old Man: §aI left my pickaxe by the ore over yonder. Punch it and pick it up. Then mine §3[2 Copper Ingots]§a and bring it back here.@§7[5/5] §2Старик: §aЯ оставил свою кирку у руд вон там. Ударь и подбери ее. Затем накопай §3[2 Медных Слитка]§a и принеси их сюда.
-§7[1/1] §2Old Man: §aMine §3[2 Copper Ingots]§a and then bring them to me.@§7[1/1] §2Старик: §aНакопай §3[2 Медных Слитка]§a и принеси их сюда.
-§7[1/1] §2Old Man: §aJust hit the pickaxe to pick it up. Then §bleft-click§a the ore with it to mine ingots!@§7[1/1] §2Старик: §aПросто ударь кирку и подбери ее. Затем кликни §bлевым кликом§a по руде, чтобы добыть слитки!
 §7[1/2] §2Aledar: §aAll we need to do is use this anvil to forge your weapon.@§7[1/2] §2Аледар: §aВсе что нам нужно, это использовать наковальню для крафта оружия.
 §7[2/2] §2Aledar: §aUse §b1 ingot§a and §b2 wood§a to forge §3[1 Spear]§a and then show it to the guard.@§7[2/2] §2Аледар: §aИспользуй §b1 слиток§a и §b2 древесины§a для крафта §3[1 Копья]§a и затем покажи его стражу.
 §7[2/2] §2Aledar: §aUse §b2 ingots§a and §b1 wood§a to forge §3[1 Dagger]§a and then show it to the guard.@§7[2/2] §2Аледар: §aИспользуй §b2 слитка§a и §b1 древесину§a для крафта §3[1 Кинжала]§a и затем покажи его стражу.
 §7[2/2] §2Aledar: §aUse §b2 string§a and §b1 wood§a to craft §3[1 Bow]§a and then show it to the guard.@§7[2/2] §2Аледар: §aИспользуй §b2 нити§a и §b1 древесину§a для крафта §3[1 Лука]§a и затем покажи его стражу.
-§7[1/1] §2Old Man: §aI left my fishing rod by the pond over yonder. Use it to harvest some wheat and bring it back here.@§7[1/1] §2Старик: §aЯ оставил свою удочку у пруда вон там. Используй ее, чтобы поймать немного рыбы и принеси сюда.
 §7[1/1] §2Guard: §aCast your Totem spell by clicking §bRight-Left-Right§a!@§7[1/1] §2Страж: §aИспользуй свое Тотем заклинание, кликнув §bПравая-Левая-Правая§a!
-§7~7[1/1] §2~2Old Man: §a~aHarvest §3~3[2 Wheat String]~r§a~a and then bring it to me.@§7[1/1] §2Старик: §aДобудь §3[2 Пшеничных Нити]§a и принеси их мне.
+§7[1/1] §2Aledar: §aWe shouldn't enter that cave yet!@§7[1/1] §2Аледар: §aМы не должны пока заходить в эту пещеру!
+§7[1/1] §2Aledar: §aDon't leave yet! I'd love to keep going, but first we need to get protection.@§7[1/1] §2Аледар: §aНе уходи пока! Я бы с удовольствием продолжил, но сначала нам нужна защита.
+§7[1/1] §2Soldier: §aEnter the cave and get some armour in the loot chest.@§7[1/1] §2Солдат: §aВойди в пещеру и добудь немного брони в сундуке с лутом.
+§7[1/1] §2Tasim: §aHey, don't leave yet! We still need to check out the identifier and head on to the bridge!@§7[1/1] §2Тасим: §aЭй, не уходи пока! Нам все еще нужно проверить идентификатора и отправиться к мосту!
+§7[1/1] §2Tasim: §aGreat work! We're almost to the castle, so let's keep going!@§7[1/1] §2Тасим: §aОтличная работа! Мы уже почти дошли до замка, давайте продолжим идти!
+§7[1/1] §2Aledar: §aOh, you fell! Try doing it again.@§7[1/1] §2Аледар: §aОх, ты упал! Попробуй снова.
+§7[1/1] §2Aledar: §aJust §bleft-click the rock §ato break it!@§7[1/1] §2Аледар: §aПросто нажми §bлевым кликом по камню §aчтобы сломать его!
+§7[1/1] §2Aledar: §aWhere are you going? Don't leave us!@§7[1/1] §2Аледар: §aКуда ты уходишь? Не покидай нас!
