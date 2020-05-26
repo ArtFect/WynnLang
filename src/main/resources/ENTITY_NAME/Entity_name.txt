@@ -2608,6 +2608,7 @@ Grumpy Old Man@Старик
 §dCandle Staff@§dОружие Свеча
 §cPhoenix Bow@§cЛук Феникса
 §cPhoenix Wand@§cПосох Феникса
+§cPhoenix Relik@§cРелик Феникса
 §6Hand Cannon@§6Ручная Пушка
 §4Adventurer's Hat@§4Шапка Путешественника
 §fPig Disguise@§fМаскировка в Свинью
@@ -2720,6 +2721,7 @@ Orange Cybel@Оранжевый Кубел
 §6Corrupted Spear@§6Испорченное Копье
 §6Corrupted Wand@§6Испорченный Посох
 §6Corrupted Dagger@§6Испорченный Кинжал
+§6Corrupted Relik@§6Испорченный Релик
 §dSteampunk Sword@§dСтимпанк Меч
 §dSteampunk Wand@§dСтимпанк Посох
 §dSteampunk Bow@§dСтимпанк Лук
@@ -2730,10 +2732,12 @@ Orange Cybel@Оранжевый Кубел
 §cDern Relik@§cДерн Релик
 §6Pirate Spear@§6Пиратское Копье
 §6Pirate Wand@§6Пиратский Посох
+§6Pirate Hook@§6Пиратский Крюк
+§6Pirate Cannon@§6Пиратская Пушка
 §4Frosty Relik@§4Морозный Релик
 §4Frosty Bow@§4Морозный Лук
 §4Frosty Staff@§4Морозный Посох
-
+§4Yahya's Fantasy@§4Фантазия Яхуи
 §7Disguise@§7Маскировка
 §7Pet@§7Питомец
 §7Gear Skin@§7Скин для Оружия

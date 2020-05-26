@@ -3,6 +3,7 @@
 §7\[§[a-z0-9][a-zA-Z0-9_]{1,16}§7 \([A-Z0-9]+\)§6 ➤ §[a-z0-9][a-zA-Z0-9_]{1,16}§7\] §f.*@ 
 §7\[§[a-z0-9][a-zA-Z0-9_]{1,16}§6 ➤ §[a-z0-9][a-zA-Z0-9_]{1,16}§7 \([A-Z0-9]+\)§7\] §f.*@  
 §3[a-zA-Z0-9_]{1,16} \[[A-Z0-9]+\] shouts: §b.*@ 
+§3[a-zA-Z0-9_]{1,16} shouts: §b.*@ 
 §3\[§3[^INFO][a-zA-Z0-9_]{1,16}\]§b .*@ 
 §3\[§b★{1,4}§3[a-zA-Z0-9_]{1,16}\]§b .*@ 
 §c\[\+\d+ ❤\](.|)$@ 
@@ -83,6 +84,10 @@
 (§e[a-zA-Z0-9_]{1,16}) is not being ignored!@(r1) не был в игноре!
 §7You have automatically connected to (§f[A-Z0-9]+§7). Type \/lobby to select another server.@§7Ты автоматически присоединился к (r1). Напиши /lobby если нужно подключиться к другому серверу.
 §7You have automatically connected to §flobby(\d+)§7. Type \/lobby to select another server.@§7Ты автоматически присоединился к §f(r1) лобби§7. Напиши /lobby если нужно подключиться к другому серверу.
+§6   \+(\d+) Bronze Token(s|)@§6   +(r1) Бронзовых жетонов
+§f   \+(\d+) Silver Token(s|)@§f   +(r1) Серерянных жетонов
+§e   \+(\d+) Gold Token(s|)@§e   +(r1) Золотых жетонов
+§4We couldn't find player: (.*)@§4Мы не можем найти игрока (r1)
 
 #######################################PVP######################################################
 (§6[a-zA-Z0-9_]{1,16}) was killed.@(r1) был убит.
@@ -134,11 +139,15 @@
 (§c[a-zA-Z0-9_]{1,16}) attacked (.*) owned by (\[[A-Za-z]+\]!)@(r1) атаковал (r2) захваченную (r3)
 (§c\[[A-Za-z]+\]) has taken control of (.*)@(r1) захватили контроль над (r2)
 §3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§3[ИНФО] §b(r1) пригласил (r2) в гильдию.
+§3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§3[§3ИНФО]§b (r1) поменял ранг гильдии (r2) с (r4) на (r5)
+§3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§3[ИНФО] §b(r1) присоединился к гильдии! Скажите привет!
+§3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has kicked ([a-zA-Z0-9_]{1,16}) from the guild
+§3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) changed the guild banner, costing (\d+) emeralds.
+§3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has left the guild.
+§3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has disbanded the guild.
 ^§b( |)([a-zA-Z0-9_]{1,16}) has invited ([a-zA-Z0-9_]{1,16}) to the guild.@§b(r2) пригласил (r3) в гильдию.
 ^§b( |)([a-zA-Z0-9_]{1,16}) has kicked ([a-zA-Z0-9_]{1,16}) from the guild@§b(r2) кикнул (r3) из гильдии
-§3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§3[§3ИНФО]§b (r1) поменял ранг гильдии (r2) с (r4) на (r5)
 ^§b( |)([a-zA-Z0-9_]{1,16}) has set ([a-zA-Z0-9_]{1,16})'(s|) guild rank from ([A-Za-z]+) to ([A-Za-z]+)@§b(r2) поменял ранг гильдии (r3) с (r5) на (r6)
-§3\[§3INFO\]§b ([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§3[ИНФО] §b(r1) присоединился к гильдии! Скажите привет!
 ^§b( |)([a-zA-Z0-9_]{1,16}) has joined the guild! Say hello!@§b(r2) присоединился к гильдии! Скажите привет!
 ^§b( |)([a-zA-Z0-9_]{1,16}) has left the guild.@§b(r2) вышел из гильдии.
 (§b.*§3) is not a member of the guild@(r1) не является участником гильдии

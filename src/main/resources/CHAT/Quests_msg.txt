@@ -1004,6 +1004,7 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §7The species class has been restarted...@§7Урок видов был перезапущен...
 §7The wybels class has been restarted...@§7Урок вубелов был перезапущен...
 §7The air class has been restarted...@§7Урок воздуха был перезапущен...
+§7The effects class has been restarted...@§7Урок эффектов был перезапущен...
 §7The meteor sample has been interacted with...@§7С образцом метеорита было проведено взаимодействие...
 §7The void sample has been interacted with...@§7С пустотным образцом было проведено взаимодействие..
 §7The quartz sample has been interacted with...@§7С образцом кварца было проведено взаимодействие..
@@ -1246,6 +1247,15 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §4You should probably talk to that guy first.@§4Наверное, тебе стоит сначала поговорить с этим парнем.
 §4The collector won't accept any further tokens. You're free to move on.@§4Сборщик больше не будет принимать никаких жетонов. Ты можешь двигаться дальше.
 §7You should go through the exit to leave the cave.@§7Ты должен пройти через выход, чтобы покинуть пещеру.
+§7There is something not letting you go through...@§7Есть что-то, что не дает тебе пройти...
+§4The rusty guillotine looks as though it could collapse at any moment.@§4Ржавая гильотина выглядит так, словно может рухнуть в любой момент.
+§4A blood-curdling roar shakes the ground beneath your feet.@§4Леденящий кровь рев сотрясает землю под твоими ногами.
+§a>§a§kBring§f §a§kthe§f §a§kkeys§f §a§kto§f §a§kwhere§f §a§kmadman§f §a§kdwells.@§a>§a§kPrinesi §a§kkluchi §a§ktuda §a§kgde §a§kbezumec §a§kzhivet.
+§7Without an explanation you don't feel like going down there yet.@§7Без объяснения причин тебе пока не хочется туда спускаться.
+§7It appears the Wynnter Fair has packed up and left for another year.@§7Похоже, Зимняя Ярмарка собрала вещи и уехала еще на год.
+§4You probably shouldn't be exploring this part of the castle without permission.@§4Тебе вероятно не следует исследовать эту часть замка без разрешения.
+§7The exit has opened...@§7Выход открылся...
+§4Don't forget to take the totem!@§4Не забудь взять тотем!
 
 ################################QUEST NAMES####################################
 §e                          §e§lArachnids' Ascent@ 
@@ -1486,3 +1496,4 @@ Rynver's teeth fall out of his mouth as he talks.@§7Зубы Ринвера с�
 §a                                 §a§lGather Rice@ 
 §a                                 §a§lGather Bass@ 
 §a                               §a§lGather Sorghum@ 
+§a                               §a§lGather Cobalt@ 

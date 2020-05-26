@@ -67,6 +67,7 @@
 §aWe have tried to remove them but the factory always makes more.@§aМы пытались уничтожить их, но фабрика всегда делает больше.
 §aIt is Corkus’s greatest failure. It must be stopped.@§aЭто самая большая ошибка Коркуса. Это нужно остановить.
 §4/§c!§4\§c §dReactivation Sucessful!§c §4/§c!§4\@§4/§c!§4\§c §dДеактивация Успешна!§c §4/§c!§4\
+§4/§c!§4\§c §dReactivation Failed!§c §4/§c!§4\@§4/§c!§4\§c §dДеактивация Провалена!§c §4/§c!§4\
 §4Try again!@§4Попробуй снова!
 §7§l100 Meters Under Ahmsord@§7§l100 Метров под Амсордом
 §7§l300 Meters Under Ahmsord@§7§l300 Метров под Амсордом
@@ -226,6 +227,7 @@
 §6Futuristic Bow@§6Футуристический Лук
 §6Futuristic Dagger@§6Футуристический Кинжал
 §6Futuristic Spear@§6Футуристичное Копье
+§6Futuristic Wand@§6Футуристический Посох
 §dFood Bow@§dЛук Банан
 §dFood Wand@§dРыба-Меч Посох
 §dFood Spear@§dШашлык Копье
@@ -266,6 +268,7 @@ Flying is not enabled on this server@Нельзя летать на сервер
 Your client seems to be spamming us!@Твой клиент спамит нам!
 You are not whitelisted on this server!@Тебя нет в вайтлисте!
 §cYou are not whitelisted on this server!@§cТебя нет в вайтлисте сервера!
+§cYou're not allowed on this server!@§cТебе нельзя на этот сервер!
 Server closed@Сервер закрыт
 §aSAFE@§aБЕЗОПАСНО
 §cUNSAFE@§cНЕБЕЗОПАСНО

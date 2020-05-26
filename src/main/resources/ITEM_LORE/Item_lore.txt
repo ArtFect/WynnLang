@@ -140,7 +140,7 @@
 §7- Refined Icefish Meat 2@§7- Переработанное Мясо Щуки 2
 §7- Refined Hops String 1@§7- Переработанная Хмельная Нить 1
 §7- Refined Hops String 2@§7- Переработанная Хмельная Нить 2
-§7- Refined Hops Grains 1@§7- Переработанная Хмельная Нить 1
+§7- Refined Hops Grains 1@§7- Переработанное Хмельное Зерно 1
 §7- Refined Rye String 1@§7- Переработанная Ржаная Нить 1
 §7- Refined Rye String 3@§7- Переработанная Ржаная Нить 3
 §7- Refined Rye String 2@§7- Переработанная Ржаная Нить 2
@@ -171,6 +171,12 @@
 §7- Refined Bass Oil 3@§7- Переработанный Жир Окуня 3
 §7- Refined Icefish Oil 2@§7- Переработанный Жир Щуки 2
 §7- Refined Voidstone Gem 2@§7- Переработанный Войдстоун Камень 1
+§7- Refined Sky Wood 1@§7- Переработанная Древесина Лиственницы 1
+§7- Refined Sky Wood 2@§7- Переработанная Древесина Лиственницы 2
+§7- Refined Malt Grains 2@§7- Переработанное Солодовое Зерно 2
+§7- Refined Hops Grains 2@§7- Переработанное Хмельное Зерно 2
+§7- Refined Dark Wood 2@§7- Переработанная Древесина Каштана 2
+§7- Refined Light Wood 1@§7- Переработанная Древесина Клена 1
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -178,6 +184,7 @@
 §7in your hotbar]@§7в свой хотбар]
 §7Give double Combat XP to the entire server for 20 minutes!@§7Дает двойной Комбат XP всему серверу на 20 минут!
 §7Give double mob drops to the entire server for 20 minutes!@§7Дает двойной лут с мобов всему серверу на 20 минут!
+§7Give double Profession XP to the entire server for 20 minutes!@§7§7Дает двойной XP опыт Профессий всему серверу на 20 минут!
 §aOne time use@§aОдноразовое использование
 §6Buy more GC at §cwynncraft.com/store@§6Купи больше монет на §cwynncraft.com/store
 §7Give everyone online 2 soul points!@§7Дает каждому онлайн игроку 2 очка душ!
@@ -376,7 +383,6 @@
 §7Blue-Ring Grook Egg: 626 43 -4645@§7Синее Яйцо Грука: 626 43 -4645
 §7Skyhigh Raspberry: 1400 102 -3940@§7Высокорастущая Малина: 1400 102 -3940
 §7Talking Mushroom: 1100 124 -4869@§7Говорящий Гриб: 1100 124 -4869
-§7as a golden masterpiece@§7как золотой шедевр
 §8this thing will make iron snail drink@§7Эта штука заставит железную улитку пить
 §8look like baby@§7выглядеть как ребенок
 §7You feel the love growing as you hold it@§7Ты чувствуешь, как растет любовь, когда ты держишь это.
@@ -482,6 +488,14 @@
 §7Can open something@§7Может открывать что-то
 §4§kIs this the end?@§4§kEto konec?
 §7A Sharp Blade Used to Extract a Soul@§7Острый клинок, используется для извлечения души
+§7With the help (not so much) of chef Kale,@§7С помощью (не такой уж и большой) шеф-повара Кейла 
+§7you have created what seems to be an omelette,@§7ты создал то, что кажется омлетом, 
+§7topped with slices of brown mushroom in the shape of@§7увенчанным кусочками коричневого гриба в форме того, 
+§7what could only be a rude gesture of sorts.@§7что может быть только грубым жестом.
+§7Get to the mouse nest @§7Доберись до мышиного 
+§7by following the cheese trail @§7гнезда, следуя по сырной 
+§7and get rid of the @§7тропе, и избавься от 
+§7pest. @§7вредителя.
 
 #####################RECIPES################################
 §6§lRing Recipes:@§6§lРецепты Колец:
@@ -1770,6 +1784,7 @@
 §7Teleports to: Olux@§7Телепорт в: Олукс
 §7Teleports to: Gelibord@§7Телепорт в: Гелиборд
 §7Teleports to: Thesead@§7Телепортирует в: Тесеад
+§7Teleports to: Detlas@§7Телепорт в: §fДетлас
 §3- §7Teleports to: §fSelchar@§3- §7Телепорт в: §fСельчар
 §3- §7Teleports to: §fRagni@§3- §7Телепорт в: §fРагни
 §3- §7Teleports to: §fDetlas@§3- §7Телепорт в: §fДетлас
@@ -1826,6 +1841,7 @@
 §fEldritchÀÀÀOutlook§7 once@§fЖуткого Наблюдателя§7 единожды
 §fEldritch Outlook §7once.@§fЖуткого Наблюдателя§7 единожды
 §fCorruptedÀÀÀUndergrowthÀÀÀRuins§7 once@§fИспорченные Заросшие Руины§7 единожды
+§fCorrupted Undergrowth Ruins§7 once.@§fИспорченные Заросшие Руины§7 единожды
 §fCorruptedÀÀÀUnderworldÀÀÀCrypt§7 once@§fИспорченный Подземный Склеп§7 единожды
 §fCorruptedÀÀÀSand-SweptÀÀÀTomb§7 once@§fИспорченная Песчаная Гробница§7 единожды
 §fCorruptedÀÀÀInfestedÀÀÀPit§7 once@§fИспорченная Зараженная Яма§7 единожды
@@ -1833,7 +1849,6 @@
 §fCorruptedÀÀÀIceÀÀÀBarrows§7 once@§fИспорченный Ледяной Курган§7 единожды
 §fCorruptedÀÀÀLostÀÀÀSanctuary§7 once@§fИспорченное Затерянное Святилище§7 единожды
 §fCorruptedÀÀÀDecrepitÀÀÀSewers§7 once@§fИспорченная Ветхая Канализация§7 единожды
-§a-§7 Coords: §f-600, -3550@§a-§7 Координаты: §f-600, -3550
 §4CorruptedÀÀÀSand-SweptÀÀÀTomb Key@§4Испорченного Ключа от Песчаной Гробницы 
 §4CorruptedÀÀÀDecrepitÀÀÀSewers Key@§4Испорченного Ключа от Ветхой Канализации
 §4CorruptedÀÀÀUnderworldÀÀÀCrypt Key@§4Испорченного Ключа от Подземного Склепа 
@@ -1867,8 +1882,11 @@
 §a-§7 Status: §fPeaceful@§a-§7 Статус: §fМирный
 §a- §7Status: §fHostile@§a- §7Статус: §fВраждебный
 §a-§7 Level: §f60@§a-§7 Уровень: §f60
+§a- §7Level:§f 94@§a- §7Уровень:§f 94
 §7Right-click to use@§7Правый клик для использования
 §7Cost: §f2 Soul Points@§7Цена: §f2 Очка Душ
+§a-§7 Coords: §f-600, -3550@§a-§7 Координаты: §f-600, -3550
+§a- §7Coords:§f -860, -4900@§a- §7Координаты:§f -860, -4900
 
 ############################POTIONS###########################
 §4Effect:@§4Эффект:
@@ -2363,6 +2381,9 @@
 §7as a piece of food@§7под кусок еды
 §7as a banana sword@§7под банановый меч
 §7as a frosty masterpiece@§7как ледяной шедевр
+§7as a golden masterpiece@§7как золотой шедевр
+§7as a wooden oar@§7под деревянное весло
+§7as a map of our world@§7под карту нашего мира
 §7a dragon-like appearance@§7драконоподобный внешний вид
 §7an anti-bovemist appearance@§7внешний вид анти-бовемиста
 §7a king appearance@§7королевский внешний вид 
@@ -2390,6 +2411,7 @@
 §7- §aUnidentified Helmet@§7- §aНеидентифицированный Шлем
 §e- §bUnidentified Helmet@§e- §bНеидентифицированный Шлем
 §7- §bUnidentified Helmet@§7- §bНеидентифицированный Шлем
+§7- §cUnidentified Helmet@§7- §cНеидентифицированный Шлем
 §e- §cUnidentified Leggings@§e- §cНеидентифицированные Штаны
 §e- §eUnidentified Leggings@§e- §eНеидентифицированные Штаны
 §7- §aUnidentified Leggings@§7- §aНеидентифицированные Штаны
@@ -2399,6 +2421,7 @@
 §e- §bUnidentified Leggings@§e- §bНеидентифицированные Штаны
 §e- §dUnidentified Leggings@§e- §dНеидентифицированные Штаны
 §7- §dUnidentified Leggings@§7- §dНеидентифицированные Штаны
+§7- §cUnidentified Leggings@§7- §cНеидентифицированные Штаны
 §e- §eUnidentified Dagger@§e- §eНеидентифицированный Кинжал
 §7- §eUnidentified Dagger@§7- §eНеидентифицированный Кинжал
 §e- §dUnidentified Dagger@§e- §dНеидентифицированный Кинжал
@@ -2432,6 +2455,7 @@
 §e- §aUnidentified Chestplate@§e- §aНеидентифицированный Нагрудник
 §7- §aUnidentified Chestplate@§7- §aНеидентифицированный Нагрудник
 §e- §cUnidentified Chestplate@§e- §cНеидентифицированный Нагрудник
+§7- §cUnidentified Chestplate@§7- §cНеидентифицированный Нагрудник
 §e- §eUnidentified Wand@§e- §eНеидентифицированный Посох
 §7- §eUnidentified Wand@§7- §eНеидентифицированный Посох
 §e- §bUnidentified Wand@§e- §bНеидентифицированный Посох

@@ -67,6 +67,7 @@ QUESTS/Aldorei%27s_Secret_Part_II
 §7Escape the first room of @§7Сбеги из первой комнаты 
 §7Togak's dungeon @§7данжа Тогака 
 §7Solve the puzzle in the @§7Пройди пазл в 
+§7Battle through the second room @§7Пройди с боем через вторую комнату 
 §7third room of Togak's dungeon @§7третьей комнате данжа Тогака 
 §7Battle through the fourth room @§7Пройди с боем через четвертую комнату 
 §7of Togak's dungeon @§7Тогак данжа 
@@ -853,6 +854,7 @@ QUESTS/Fantastic_Voyage
 §7Little Wing @ 
 §7Find Relend inside of the @§7Найди Реленда под обломками 
 §7wreck of the Little Wing @§7корабля Little Wing 
+§7Save Relend inside of the @§7Спаси Реленда под обломками корабля 
 §7Exit the shipwrecked Little Wing @§7Покинь потонувший корабль Little Wing 
 §7Speak to Relend on the @§7Поговори с Релендом на 
 §7beach @§7пляже 

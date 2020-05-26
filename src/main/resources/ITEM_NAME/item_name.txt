@@ -1764,6 +1764,7 @@ Recipe Token@Жетон на Рецепт
 Skyhigh Pie Recipe@Рецепт Заоблачного Пирога
 Prison Key@§fТюремный Ключ
 Omelette de Colère Recipe@Рецепт Омлета
+Omelette de Colère@Омлет
 Sunrise Wheat@§fУтренняя Пшеница
 High Quality Sunrise Wheat@§fПшеница Высокого Качества
 Sunrise Flour@§fУтренняя Мука
@@ -1949,6 +1950,7 @@ Haunted Mask@§fПроклятая Маска
 §6Banana Sword@§6Меч Банан
 §fMob Totem@§fМоб Тотем
 §fCombat XP Bomb@§fКомбат XP Бомба
+§fProfession XP Bomb@§fПрофессии XP Бомба
 §6Hand Cannon@§6Ручная Пушка
 §fFire Attack Effect@§fЭффект Атаки Огня
 §fLetter Attack Effect@§fЭффект Атаки Букв
@@ -2036,6 +2038,7 @@ Haunted Mask@§fПроклятая Маска
 §6Bronze Cybel Token@§6Бронзовый Кубел Жетон
 §6Carbon Fiber Cybel Token@§6Карбоновый Кубел Жетон
 §6Sea Blue Wybel Token@§6Голубой Вубел Жетон
+§4Angel Wybel Token@§4Ангел Вубел Жетон
 §6Futuristic Bow@§6Футуристический Лук
 §6Futuristic Dagger@§6Футуристический Кинжал
 §6Futuristic Spear@§6Футуристическое Копье
@@ -2087,6 +2090,9 @@ Haunted Mask@§fПроклятая Маска
 §4Despawn your Wasp@§4Деспавнить твою осу
 §4Despawn your Grumpy Old Man@§4Деспавнить твоего Старика
 §4Despawn your Rolling Potato@§4Деспавнить твою Крутящуюся Картошку
+§4Despawn your Dragon Wybel@§4Деспавнить твоего Вубеля Дракона
+§4Despawn your Demon Wybel@§4Деспавнить твоего Демонического Вубеля
+§4Despawn your Angel Wybel@§4Деспавнить твоего Вубеля Ангела
 §dZombie Horse Cloak@§dЗомби Плащ Для Коня
 §6Skeleton Horse Cloak@§6Скелетон Плащ для Коня
 §6Half-Moon Bow@§6Полу-Месяц Лук
@@ -2097,6 +2103,7 @@ Haunted Mask@§fПроклятая Маска
 §6Corrupted Dagger@§6Испорченный Кинжал
 §6Corrupted Spear@§6Испорченное Копье
 §6Corrupted Wand@§6Испорченный Посох
+§6Corrupted Relik@§6Испорченный Релик
 §dFood Spear@§dШашлык Копье
 §dFood Bow@§dЛук Банан
 §dFood Dagger@§dКуриная Ножка Кинжал
@@ -2298,10 +2305,13 @@ Granitic Key@§fГранитный Ключ
 Laboratory Key@Лабораторный Ключ
 §bWynnterfest 2016 Souvenir@§bСувенир Wynnterfest 2016
 Refined Copper Ingot 1@Переработанный Слиток Меди 1
+Refined Copper Ingot 2@Переработанный Слиток Меди 2
+Refined Copper Ingot 3@Переработанный Слиток Меди 3
 Refined Copper Gem 2@Переработанный Медный Камень 1
 Refined Oak Paper 1@Переработанная Дубовая Бумага 1
 Refined Wheat String 1@Переработанная Пшеничная Нить 1
 Refined Wheat String 2@Переработанная Пшеничная Нить 2
+Refined Wheat String 3@Переработанная Пшеничная Нить 3
 Refined Wheat Grains 1@Переработанное Пшеничное Зерно 1
 Refined Wheat Grains 2@Переработанное Пшеничное Зерно 2
 Refined Oak Wood 1@Переработанная Древесина Дуба 1
@@ -2312,11 +2322,13 @@ Refined Willow Wood 2@Переработанная Древесина Ивы 2
 Refined Willow Paper 1@Переработанная Ивовая Бумага 1
 Refined Willow Paper 2@Переработанная Ивовая Бумага 2
 Refined Gudgeon Oil 1@Переработанный Жир Пескаря 1
+Refined Gudgeon Oil 2@Переработанный Жир Пескаря 2
 Refined Gudgeon Meat 1@Переработанное Мясо Пескаря 1
 Refined Jungle Wood 1@Переработанная Древесина Амаранта 1
 Refined Jungle Wood 2@Переработанная Древесина Амаранта 2
 Refined Jungle Wood 3@Переработанная Древесина Амаранта 3
 Refined Spruce Wood 2@Переработанная Древесина Ели 2
+Refined Birch Wood 1@Переработанная Древесина Березы 1
 Refined Oat String 1@Переработанная Овсяная Нить 1
 Refined Oat String 2@Переработанная Овсяная Нить 2
 Refined Gold Ingot 2@Переработанный Слиток Золота 2
@@ -2348,6 +2360,7 @@ Gathering Rod 2@Сборная Удочка 2
 Gathering Rod 1@Сборная Удочка 1
 Gathering Rod 3@Сборная Удочка 3
 Gathering Rod 4@Сборная Удочка 4
+Gathering Rod 5@Сборная Удочка 5
 Gathering Rod 6@Сборная Удочка 6
 Gathering Rod 9@Сборная Удочка 9
 Gathering Rod 11@Сборная Удочка 11
