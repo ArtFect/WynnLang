@@ -1010,6 +1010,8 @@
 §aA §dRare Music Swirl Effect§a!@§dРедкий Эффект Круговорота Музыки§a!
 §aA §dRare Earth Effect§a!@§dРедкий Эффект Земли§a!
 §aA §dRare Steampunk Sword§a!@§dРедкий Стимпанк Меч§a!
+§aA §dRare Heart Swirl Effect§a!@§dРедкий Эффект Круговорота Сердец§a!
+§aA §dRare Violet Wybel Token§a!@§dРедкий Фиолетовый Вубел Жетон§a!
 §3You are now disguised as a §bsheep@§3Ты замаскировался в §bовцу
 §3You are now disguised as a §bchicken@§3Ты замаскировался под §bкурицу
 §3You are now disguised as a §bspider@§3Ты замаскировался под §bпаука
@@ -1080,7 +1082,6 @@
 §7Disguise your dagger as a golden masterpiece@§7Маскирует твой кинжал под золотой шедевр
 §7Disguise your dagger with a futuristic flair@§7Маскирует твой кинжал под футуристический стиль
 §7Disguise your dagger with a adventurous flair@§7Маскирует твой кинжал под стиль приключений
-
 
 ###################################DUNGEONS##################################
 §7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Защитника Ключа активировало ее...
@@ -1502,34 +1503,18 @@
 §5Guild Master: §dPlease only use english characters A-Z in your guild prefix.@§5Мастер Гильдий: §dПожалуйста используй только английские буквы A-Z в префиксе гильдии.
 
 ###########################################OBJECTIVES#################################################
-§a                           Gather Resources@                        §aСбор ресурсов
-§a                                Craft Items@§a                             Крафт предметов
-§a                               Finish Quests@§a                            Прохождение квестов
 §c                               Loot Chests@§c                            Нахождение сундуков
-§a                             Slay Lv. 1+ Mobs@§a                         Убийство Ур. 1+ Мобов
-§c                            Slay Lv. 60+ Mobs@§c                         Убийство Ур. 60+ Мобов
-§a                             Buy from Market@§a                          Покупка на маркете
-§a                             Gather Resources@§a                          Сбор ресурсов
-§a                             Win Dungeons@§a                             Прохождение данжей
-§a                             Find Discoveries@§a                          Нахождение Открытий
-§a                               Loot Chests@§a                            Открытие Сундуков
 §c                               Win Dungeons@§c                             Прохождение Данжей
-§a                               Win Dungeons@§a                            Прохождение Данжей
-§c                            Slay Lv. 10+ Mobs@§c                            Убей Ур. 10+ Мобов
-§a                            Slay Lv. 10+ Mobs@§a                         Убей Ур. 10+ Мобов
-§c                            Slay Lv. 50+ Mobs@§c                         Убей Ур. 50+ Мобов
-§a                            Slay Lv. 50+ Mobs@§a                         Убей Ур. 50+ Мобов
-§a                            Slay Lv. 60+ Mobs@§a                         Убей Ур. 60+ Мобов
-§c                            Slay Lv. 90+ Mobs@§c                         Убей Ур. 90+ Мобов
-§c                            Slay Lv. 70+ Mobs@§c                         Убей Ур. 70+ Мобов
-§a                            Slay Lv. 30+ Mobs@§a                         Убей Ур. 30+ Мобов
+§c                            Slay Lv. 10+ Mobs@§c                         Убей Ур. 10+ Мобов
 §c                            Slay Lv. 20+ Mobs@§c                         Убей Ур. 20+ Мобов
-§c                            Slay Lv. 80+ Mobs@§c                         Убей Ур. 80+ Мобов
-§c                           Slay Lv. 100+ Mobs@§c                         Убей Ур. 100+ Мобов
 §c                            Slay Lv. 30+ Mobs@§c                         Убей Ур. 30+ Мобов
-§c                            Slay Lv. 40+ Mobs@§c                         Убийство Ур. 40+ Мобов
-§a                            Slay Lv. 40+ Mobs@§a                         Убийство Ур. 40+ Мобов
-§a                            Slay Lv. 20+ Mobs@§a                         Убийство Ур. 20+ Мобов
+§c                            Slay Lv. 40+ Mobs@§c                         Убей Ур. 40+ Мобов
+§c                            Slay Lv. 50+ Mobs@§c                         Убей Ур. 50+ Мобов
+§c                            Slay Lv. 60+ Mobs@§c                         Убей Ур. 60+ Мобов
+§c                            Slay Lv. 70+ Mobs@§c                         Убей Ур. 70+ Мобов
+§c                            Slay Lv. 80+ Mobs@§c                         Убей Ур. 80+ Мобов
+§c                            Slay Lv. 90+ Mobs@§c                         Убей Ур. 90+ Мобов
+§c                           Slay Lv. 100+ Mobs@§c                         Убей Ур. 100+ Мобов
 §c                           Gather Resources@§c                        Сбор Ресурсов
 §c                                Craft Items@§c                             Крафт Предметов
 §c                                Gather Ore@§c                             Сбор Руды
@@ -1539,6 +1524,22 @@
 §c                                Gather Fish@§c                             Ловля Рыбы
 §c                            Loot Chests T3+@§c                         Открытие Сундуков У3+
 §c                   Trade 24² with Lv. 1-10 Newbie@§c                 Торговля с новичком Ур. 1-10
+§a                           Gather Resources@                        §aСбор ресурсов
+§a                                Craft Items@§a                             Крафт предметов
+§a                               Finish Quests@§a                            Прохождение квестов
+§a                             Slay Lv. 1+ Mobs@§a                         Убийство Ур. 1+ Мобов
+§a                             Buy from Market@§a                          Покупка на маркете
+§a                             Gather Resources@§a                          Сбор ресурсов
+§a                             Win Dungeons@§a                             Прохождение данжей
+§a                             Find Discoveries@§a                          Нахождение Открытий
+§a                               Loot Chests@§a                            Открытие Сундуков
+§a                               Win Dungeons@§a                            Прохождение Данжей
+§a                            Slay Lv. 10+ Mobs@§a                         Убей Ур. 10+ Мобов
+§a                            Slay Lv. 20+ Mobs@§a                         Убей Ур. 20+ Мобов
+§a                            Slay Lv. 30+ Mobs@§a                         Убей Ур. 30+ Мобов
+§a                            Slay Lv. 40+ Mobs@§a                         Убей Ур. 40+ Мобов
+§a                            Slay Lv. 50+ Mobs@§a                         Убей Ур. 50+ Мобов
+§a                            Slay Lv. 60+ Mobs@§a                         Убей Ур. 60+ Мобов
 
 ############################################OTHERS###############################################
 §7You walk away wondering if the citizen stands all day long welcoming adventurers...@§7Ты уходишь, задаваясь вопросом - стоит ли этот житель здесь весь день, приветствуя путешественников...
@@ -1863,6 +1864,7 @@ Your client seems to be spamming us!@Похоже твой клиент спам
 §cInvalid syntax: /find [player]@§cНеправильный синтаксис: /find [игрок]
 §cYou don't have any available trade slots. Go to your trade overview and make some space!@§cУ тебя нет доступных торговых слотов. Перейди в свое обзорное меню торговли и освободи немного места!
 §cThe server you were previously on went down, you have been connected to a fallback server@§cСервер, на котором ты был ранее, вышел из строя. Ты был подключен к резервному серверу
+§cThe server you were previously on went down, you have been connected to the lobby@§cСервер, на котором ты был ранее, вышел из строя. Ты был подключен к лобби
 §6Type the price in emeralds or type 'cancel' to cancel:@§6Напиши цену в эмеральдах, или 'cancel' для отмены:
 §6Type the amount you wish to buy or type 'cancel' to cancel:@§6Напиши количество, которое желаешь купить, или 'cancel' для отмены:
 §6Type the amount you wish to sell or type 'cancel' to cancel:@§6Напиши количество, которое желаешь продать, или 'cancel' для отмены:
@@ -1905,8 +1907,6 @@ You're rejoining too quickly! Give us a moment to save your data.@§4Ты сли
 §2You will now receive the resource pack warning again!@§2Теперь ты снова получаешь предупреждения о ресурспаке!
 §cOops! Something went wrong! You have been sent back to Ragni.@§cУпс! Что-то пошло не так! Ты был отправлен обратно в Рагни.
 §6Usage: §f/particles <off/low/medium/high/veryhigh/highest/[particles per tick]>@§6Использование: §f/particles <off/low/medium/high/veryhigh/highest/[частицы за тик]>
-§aYour particle limit is now §fhighest (-1)@§aТвой лимит частиц теперь §fсамый высокий (-1)
-§aYour particle limit is now §f1 (1)@§aТвой лимит частиц теперь §f1 (1)
 §7-------------§4 Wynncraft Help §7-------------@§7-------------§4 Wynncraft Помощь §7-------------
 §4You are not at the start of the tutorial area!@§4Ты не находишься на старте туториала!
 §3Visit §bwynncraft.com/store§b §3to get your own!@§3Посети §bwynncraft.com/store§b §3чтобы получить свою!
@@ -1975,7 +1975,6 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §4Please have only the pet you want to rename spawned.@§4Пожалуйста, оставь заспавненным только одного питомца, которого ты хочешь переименовать.
 §7You have immodestly thanked yourself!@§7Ты нескромно поблагодарил себя!
 §cCould not connect to target server, you have been moved to a fallback server.@§cНе удалось подключиться к выбраному серверу, ты был перемещен на резервный сервер.
-§aYour particle limit is now §foff (0)@§aТвой лимит частиц теперь §fотключен (0)
 §b - §7VIP Rank@§b - §7VIP Ранг
 §b - §7VIP+ Rank@§b - §7VIP+ Ранг
 §6Usage: §f/rename <name>@§6Использование: §f/rename <имя>
@@ -1984,10 +1983,6 @@ Unknown command. Type "/help" for help.@Неизвестная команда. �
 §cYou do not hold enough of that item to sell! Try again.@§cУ тебя недостаточно этого предмета для продажи! Попробуй еще раз.
 Flying is not enabled on this server@Нельзя летать на этом сервере
 You are not whitelisted on this server!@Тебя нет в вайтлисте этого сервера!
-§aYour particle limit is now §flow (50)@§aТвой лимит частиц теперь §fнизкий (50)
-§aYour particle limit is now §fhigh (200)@§aТвой лимит частиц теперь §fвысокий (200)
-§aYour particle limit is now §flow (100)@§aТвой лимит частиц теперь §fнизкий (100)
-§aYour particle limit is now §fmedium (200)@§aТвой лимит частиц теперь §fсредний (200)
 §2You can no longer see swear words in chat!@§2Ты больше не видишь бранные слова в чате!
 §2You can now see swear words again!@§2Ты видишь бранные слова снова! 
 §cInvalid amount! Please try again with a lower number.@§cНеправильное количество! Попробуй еще раз с меньшим числом.
@@ -2115,763 +2110,11 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
 §cYou were undisguised because you left the server.@§cТвоя маскировка была отключена, так как ты вышел с сервера.
 §4Sorry, you cannot use a crate here. Finish the dungeon first.@§4Извини, ты не можешь окрыть здесь контейнер. Закончи сначала данж.
 §7Note: You've just messaged an admin of Wynncraft. We tend to get a lot of messages, so please don't be frustrated if you don't get a response.@§7Заметка: Ты только что написал администратору сервера. Они, как правило, получают много сообщений, поэтому не расстраивайся, если не получишь ответа.
-
-
-#################################TERRITORY DISCOVERIES#################################
-                                   Plains@ 
-                             Arachnida Cave@ 
-                          Nemract Plains West@ 
-                              §ePit of Despair@ 
-                        §eChallenge of the Blades@ 
-                                Black Magic@ 
-                             Corrupted Hand@ 
-                             Spiraling Trees@ 
-                           Road to Corruption@ 
-		                Light Realm East Mid-Upper@ 
-                        Light Realm East Upper@ 
-                     Light Realm Entrance Upper@ 
-                          Orphion's Seal Upper@ 
-                          Light Realm East Mid@ 
-                        Light Realm East Lower@ 
-                              Orphion's Seal@ 
-                          Aldorei Valley Lower@ 
-                               §eAldorei Valley@ 
-                            Aldorei Valley Mid@ 
-                          Aldorei Valley Upper@ 
-                              Aldorei’s River@ 
-§f                                Green Camp@ 
-§f                                 Red Camp@ 
-§f                       Quartz Mines North West@ 
-§f                       Quartz Mines North East@ 
-§f                       Quartz Mines South West@ 
-§f                              §eKaroc Quarry@ 
-                       Pigmen Ravines Entrance@ 
-                             §ePigmen's Ravine@ 
-§f                            Bucie South West@ 
-§f                            Bucie North West@ 
-§f                                    §eBucie@ 
-§f                            Bucie North East@ 
-§f                              Llevigar Farm@ 
-                          South Pigmen Ravines@ 
-                        Light Forest North Exit@ 
-                          Light Forest Canyon@ 
-                             Path to Cinfras@ 
-                         Light Forest East Mid@ 
-                         Light Forest West Mid@ 
-                         Light Forest Entrance@ 
-                            §eLight Forest Gate@ 
-                                Fleris Trail@ 
-                             Abandoned Farm@ 
-                           Road to Time Valley@ 
-                               §eDelnar Manor	@ 
-                                    §eRagni@ 
-                          Dernal Jungle Lower@ 
-                              §eEmerald Trail֎@ 
-                          Ragni Main Entrance@ 
-                         Nivla Forest Entrance@ 
-                                §eDead Island@ 
-                        Dead Island South West@ 
-                        Dead Island North West@ 
-                        Dead Island North East@ 
-                        Dead Island South East@ 
-                                Maltic Plains@ 
-                                §eNivla Woods@ 
-                            Nivla Forest Exit@ 
-                            Nivla Forest Edge@ 
-                           Detlas Far Suburbs@ 
-                             §eDetlas Suburbs֎@ 
-                          Detlas Close Suburbs@ 
-                                  §eDetlas֎@ 
-                                §eBob's Tomb֎@ 
-                              Volcano Lower@ 
-                              §eVolcanic Isles@ 
-                                  §eNemract@ 
-                          Nether Plains Upper@ 
-                                  §eLusuco@ 
-                                Twain Lake@ 
-                           §eThe House of Twain@ 
-                         §eWynnExcavation Site B@ 
-                       Nesaak Bridge Transition@ 
-                            §eThe Great Bridge@ 
-                          Great Bridge Nesaak@ 
-                          Great Bridge Jungle@ 
-                               Jungle Lower@ 
-                                 Jungle Mid@ 
-                               Jungle Upper@ 
-                               §eIboju Village@ 
-                                Jungle Lake@ 
-                                Herb Cave@ 
-                                   §eTroms@ 
-                               §eTroms Castle@ 
-                               §eAldorei Town@ 
-                    Aldorei Valley South Entrance@ 
-                           Aldorei’s Waterfall@ 
-                          Cinfras’s Small Farm@ 
-                                  Guild Hall@ 
-                             §eLetvus Airbase@ 
-                               §eThe Guild Hall@ 
-                     Nesaak Plains Mid North West@ 
-                        §eAbandoned Lumber Yard@ 
-                       Cinfras County Mid-Upper@ 
-                         Cinfras County Upper@ 
-                         Gylia Lake South East@ 
-                                 §eLake Gylia@ 
-                         Gylia Lake North East@ 
-                            §eGylia Watch Tower@ 
-                               Jitak’s Farm@ 
-                            Abandoned Tower@ 
-                            Corrupted Village@ 
-                         Gylia Lake North West@ 
-                                 Gert Camp@ 
-                                  §eLlevigar@ 
-                              Corkus Castle@ 
-                               §eCorkus City֎@ 
-                       Nesaak Plains South West@ 
-                   Nesaak Plains Upper North West@ 
-§f                   Nesaak Plains Upper North West@ 
-                                 Icy Island@ 
-                       Quartz Mines North East@ 
-                     Pre-Light Forest Transition@ 
-                            Bucie South East@ 
-                          Swamp Mountain Base@ 
-                              Meteor Crater@ 
-                            Bucie North West@ 
-                                    §eBucie@ 
-                            Bucie South West@ 
-                                §eRiver Sage@ 
-                           Orc Battlegrounds@ 
-                            Bucie North East@ 
-                           Ragni East Suburbs@ 
-                             Leadin Fortress@ 
-                         Road To Light Forest@ 
-                           North Nivla Forest@ 
-§f                                Ragni Plains@ 
-§f                                   Plains@ 
-                               Katoa Ranch@ 
-§f                                §eNivla Woods@ 
-§f                           North Nivla Forest@ 
-§f                            Nivla Forest Edge@ 
-§f                        Detlas Trail West Plains@ 
-§f                           Detlas Far Suburbs@ 
-                        Detlas Trail East Plains@ 
-                        Detlas Trail West Plains@ 
-§f                             §eDetlas Suburbs֎@ 
-§f                          Detlas Close Suburbs@ 
-                            Mining Base Lower@ 
-§f                        Detlas Trail East Plains@ 
-§f                           Llevigar Gate West@ 
-§f                       Llevigar Farm Plains East@ 
-§f                       Llevigar Farm Plains West@ 
-§f                      Llevigar Plains West Lower@ 
-§f                      Llevigar Plains East Lower@ 
-§f                                 Orc Lake@ 
-§f                      Llevigar Plains East Upper@ 
-§f                      Llevigar Plains West Upper@ 
-§f                            Swamp West Lower@ 
-§f                     Pre-Light Forest Transition@ 
-§f                              Meteor Crater@ 
-§f                               Swamp Lower@ 
-§f                          Swamp Mountain Base@ 
-§f                Swamp Dark Forest Transition Lower@ 
-§f                              Swamp West Mid@ 
-§f                              Swamp East Mid@ 
-§f                         Swamp East Mid-Upper@ 
-§f                            Swamp West Upper@ 
-§f                                    §eOlux֎@ 
-§f                           Swamp Plains Basin@ 
-§f                         Swamp West Mid-Upper@ 
-§f                            Entrance to Olux@ 
-§f                                §eWorm Holes@ 
-§f                            Swamp East Upper@ 
-§f                Swamp Mountain Transition Mid-Upper@ 
-§f                    Swamp Mountain Transition Mid@ 
-§f                  Swamp Mountain Transition Upper@ 
-§f                  Swamp Mountain Transition Lower@ 
-§f                           §eIron Golem Factory@ 
-§f                             §eQuartz Mansion@ 
-§f                              §eVolcanic Isles@ 
-§f                              Volcano Lower@ 
-§f                              §eZhight Island֎@ 
-§f                               §eMage Island֎@ 
-§f                              §eSkiens Island֎@ 
-§f                               §eMaro Peaks֎@ 
-§f                                §ePirate Cove@ 
-§f                               §eTroms Castle@ 
-§f                            §eTribal Sanctuary@ 
-§f                         Savannah West Lower@ 
-§f                  Swamp Dark Forest Transition Mid@ 
-§f                            §eOlux Lumber Yard@ 
-§f                            Taproot Descent@ 
-§f                Swamp Dark Forest Transition Upper@ 
-§f                             Fortress North@ 
-§f                             Fortress South@ 
-§f                              Gelibord Castle@ 
-§f                       Gelibord Corrupted Farm@ 
-§f                                  Gelibord@ 
-§f                                 §eGelibord֎@ 
-§f                             Twisted Housing@ 
-§f                                  §eTaproot@ 
-§f                          Dernal Jungle Lower@ 
-§f                          Dernal Jungle Upper@ 
-§f                               §eDelnar Manor@ 
-§f                            Dernal Jungle Mid@ 
-§f                            Swamp East Lower@ 
-§f                           Orc Battlegrounds@ 
-§f                             §eLeadin Orc Fort@ 
-§f                             Leadin Fortress@ 
-§f                         Road To Light Forest@ 
-§f                             §eCaritat Mansion@ 
-§f                            §eDark Forest Gate@ 
-§f                              §eCastle Dullahan@ 
-§f                           Abandoned Church@ 
-§f                            Corrupted Impact	@ 
-§f                                Fleris Trail@ 
-§f                            §eLight Forest Gate@ 
-§f                         Light Forest Entrance@ 
-§f                                  §eSelchar֎@ 
-§f                             Santa's Hideout@ 
-§f                         Savannah East Upper@ 
-§f                              Desert Upper@ 
-§f                           Desert West Upper @ 
-§f                             Desert East Mid@ 
-§f                           Desert East Upper@ 
-§f                            §eInvaded Barracks@ 
-                               §eAldorei Town @ 
-                                §eGeyser Pit@ 
-§f                            Rymek East Upper@ 
-                              Regular Island@ 
-                             §eSunrise Canyon@ 
-§f                                 Lost Atoll@ 
-§f                               Jungle Lower@ 
-§f                                 Jungle Mid@ 
-§f                                Jungle Lake@ 
-§f                               Jungle Upper@ 
-§f                                   §eTroms@ 
-§f                               §eIboju Village@ 
-§f                         Savannah West Upper@ 
-§f                               §ePirate's Bay@ 
-§f                           §eThe House of Twain@ 
-§f                                Twain Lake@ 
-§f                         §eWynnExcavation Site B@ 
-§f                              Nodguj Nation@ 
-§f                                §eIce Islands@ 
-§f                              Dujgon Nation@ 
-§f                                Plains Lake@ 
-§f                                 Orc Road@ 
-§f                       Quartz Mines South East@ 
-§f                                §eRiver Sage@ 
-§f                            Bucie South East@ 
-§f                                Black Camp@ 
-                               Kandon Ridge@ 
-                                  Sky Falls@ 
-                          Raider's Base Upper@ 
-                             Central Islands@ 
-§f                               §eBremminglar֎@ 
-§f                          Nether Plains Upper@ 
-                          Aldorei’s North Exit@ 
-                           §eMolten Heights Gate@ 
-                              §eLost Colossus@ 
-                         Light Realm Corruption@ 
-§f                            Mining Base Lower@ 
-§f                       Nesaak Bridge Transition@ 
-§f                               Icy Descent@ 
-§f                                  §eLusuco@ 
-§f                           §eTower of Ascension@ 
-                             Corrupted Hand	@ 
-§f                             §eRooster Island֎@ 
-§f                         §eWynnExcavation Site A@ 
-§f                                 Lion Lair@ 
-§f                                 §eOwl Tribe@ 
-§f                                §eEagle Tribe@ 
-                         §eArena of the Legends@ 
-                      Light Realm East Mid-Upper@ 
-                           §eTemple of Legends֎@ 
-§f                             Mine Base Plains@ 
-§f                                   §eRymek@ 
-§f                            Rymek East Lower@ 
-                                 §eBear Zoo@ 
-                         §eWynnExcavation Site D@ 
-                                  §eTaproot@ 
-§f                         Savannah East Lower@ 
-§f                                    §eAlmuj@ 
-§f                           Desert West Lower@ 
-§f                              Desert Lower@ 
-§f                            Rymek West Upper@ 
-§f                            §eAlmuj Great River@ 
-§f                            Desert Mid-Lower@ 
-§f                            Desert Mid-Upper@ 
-§f                         Ternaves Plains Lower@ 
-§f                            Mining Base Upper@ 
-§f                            §eAbandoned Mines@ 
-§f                             Abandoned Pass@ 
-§f                            Rymek West Lower@ 
-§f                           Cathedral Harbour@ 
-§f                       Nesaak Plains South East@ 
-§f                       Nesaak Plains South West@ 
-                                §eLazarus Pit@ 
-                             §eLeadin Orc Fort@ 
-                            Dernal Jungle Mid@ 
-                               §eDelnar Manor@ 
-§f                                Little Wood@ 
-                              Volcano Upper@ 
-§f                             Abandoned Farm@ 
-§f                                 §eSavannah@ 
-§f                                §eTernaves֎@ 
-                               §eTroms Castle@ 
-§f                        Detlas Trail East Plains@ 
-                         §eWynnExcavation Site B@ 
-                                §eTime Valley֎@ 
-                         Nivla Forest Entrance@ 
-                                   Plains@ 
-                            Qira's Battle Room@ 
-                          Dernal Jungle Upper@ 
-                           Durum Isles Lower@ 
-                              Ruined Houses@ 
-                           Lighthouse Plateau@ 
-                              Mountain Edge@ 
-                     Entrance to Thesead South@ 
-                              §eNorth Lusuco@ 
-                               Bloody Beach@ 
-                               Avos Temple@ 
-                              Corkus Docks@ 
-                     Entrance to Thesead North@ 
-                        Cliffside Passage North@ 
-                            Air Temple Lower@ 
-                                Bandits Toll@ 
-                              Cliffside Valley@ 
-                             Canyon Walk Way@ 
-                            Southern Outpost@ 
-                             §eFallen Factory֎@ 
-                           Factory Entrance@ 
-                          Corkus Countryside@ 
-                            Corkus Outskirts@ 
-                             Corkus City Mine@ 
-                             Corkus Mountain@ 
-                          Corkus Forest North@ 
-                          Corkus Forest South@ 
-                               Twisted Ridge@ 
-                           §eLegendary Island֎@ 
-                              §eKandon-Beda֎@ 
-                                Sky Castle@ 
-                                 §eAhmsord֎@ 
-                            Sky Island Ascent@ 
-                          Raider's Base Lower@ 
-                               §eRaiders' Port@ 
-                              §eJofash Tunnel@ 
-                         Ternaves Plains Lower@ 
-                        Path to Ahmsord Lower@ 
-                        Path to Ahmsord Upper@ 
-                             Crater Descent@ 
-                            Lava Lake Bridge@ 
-                          Molten Heights Portal@ 
-                                  §eRodoroc@ 
-                               Road To Mine@ 
-                       Corkus Abandoned Tower@ 
-                             §eAvos Territory@ 
-                              Chained House	@ 
-                            Thesead Suburbs@ 
-                            Cliffside Waterfall@ 
-                            Canyon High Path@ 
-                                Hive South@ 
-                               §eOzoth's Spire@ 
-                       Path To Ozoth’s Spire Mid@ 
-                                   Statue@ 
-                                    §eRelos@ 
-                               Phinas Farm@ 
-                               Angel Refuge@ 
-                             §eDogun's Retreat@ 
-                             Mine Base Plains@ 
-                                Plains Lake@ 
-                           Thanos Exit Upper@ 
-                               §eThe Qira Hive@ 
-                     Path To Ozoth’s Spire Lower@ 
-                           Thanos Valley West@ 
-                                Thanos Exit@ 
-                                  §eThanos֎@ 
-                           Military Base Lower@ 
-                          Path To Military Base@ 
-                           Military Base Upper@ 
-                               Military Base@ 
-                            §eKitrios Barracks@ 
-                         §eWynnExcavation Site A@ 
-                       Quartz Mines North West@ 
-                              Llevigar Farm@ 
-                              Rymek East Mid@ 
-                            §eAbandoned Mines@ 
-                               Temple Island@ 
-                                Snail Island@ 
-                            Dragonling Nests@ 
-                           Abandoned Church@ 
-                            Astraulus' Tower@ 
-                          §eUpper Molten Heights@ 
-                           Desert West Lower@ 
-                              Desert Lower@ 
-                                    §eMaex@ 
-                               Swamp Island@ 
-                           Ahmsord Outskirts@ 
-                            Rymek East Upper@ 
-                            Rymek West Upper@ 
-                                 §eOwl Tribe@ 
-                            Corkus Sea Cove@ 
-                            Corkus Sea Port@ 
-                            Corkus City South@ 
-                               §eDeath's Realm@ 
-                         Savannah West Lower@ 
-                         Savannah East Lower@ 
-                            Desert Mid-Lower@ 
-                              §eJofash Docks@ 
-§f                          Nether Plains Lower@ 
-§f                               Angry Village@ 
-§f                          §eRoots of Corruption@ 
-§f                                  §eElkurn֎@ 
-                       Cinfras County Mid-Lower@ 
-                         Cinfras County Lower@ 
-§f                            §eSanctuary Bridge@ 
-§f                               Elkurn Fields@ 
-                              §eSkiens Island֎@ 
-                                  Thanos@ 
-                          §eRoots of Corruption@ 
-                          Nether Plains Lower@ 
-                               §eSeavale Reef@ 
-§f                               §eSeavale Reef@ 
-                                Little Wood@ 
-                                Tree Island@ 
-§f                              Nemract Road@ 
-§f                                  §eNemract@ 
-                               Plains Coast@ 
-§f                               Plains Coast@ 
-§f                           Nemract Cathedral@ 
-§f                          Nemract Plains East@ 
-                              Road to Elkurn@ 
-                               Mummy's Tomb@ 
-                           Desert West Upper@ 
-                           Durum Isles Upper@ 
-                            Durum Isles East@ 
-                               §eBovine Barn@ 
-                                §eDurum Isles@ 
-                                  §eSelchar֎@ 
-                                  Mt. Wynn@ 
-                              Nemract Road@ 
-§f                            §eAncient Nemract֎@ 
-                                  §eElkurn֎@ 
-                            §eSanctuary Bridge@ 
-                         Savannah West Upper@ 
-                             §eRooster Island֎@ 
-                            §eTribal Sanctuary@ 
-                             Aldorei Lowlands@ 
-                           Llevigar Gate East@ 
-                      Llevigar Plains West Upper@ 
-                      Llevigar Plains West Lower@ 
-                       Llevigar Farm Plains East@ 
-                           Llevigar Gate West@ 
-                       Llevigar Farm Plains West@ 
-                                Green Camp@ 
-                               §ePirate's Bay@ 
-                                Black Camp@ 
-                         Savannah East Upper@ 
-                                    §eAlmuj@ 
-                            Desert Mid-Upper@ 
-                            §eAlmuj Great River@ 
-                           Desert East Lower@ 
-§f                           Desert East Lower@ 
-                             Desert East Mid@ 
-                              Desert Upper@ 
-                           Desert East Upper@ 
-                            §eInvaded Barracks@ 
-                         Gylia Lake South West@ 
-                               Kandon Farm@ 
-                               Old Coal Mine@ 
-                                §eGert Camp֎@ 
-                             Path To Thanos@ 
-                      Cinfras Thanos Transition@ 
-                           Bandit Cave Lower@ 
-                             Burning Airship@ 
-                           Bandit Cave Upper@ 
-                      Canyon Entrance Waterfall@ 
-                             Bandit Camp Exit@ 
-                         Canyon Path North Mid@ 
-                        Canyon Mountain South@ 
-                          Canyon Valley South@ 
-                     Path To Ozoth’s Spire Upper@ 
-                               Burning Farm@ 
-                               Ghostly Path@ 
-                            Path To The Arch@ 
-                        Canyon Path South East@ 
-                           §eIron Golem Factory@ 
-                               Angry Village@ 
-                          Nemract Plains East@ 
-                              §eCastle Dullahan@ 
-                                §eTernaves֎@ 
-                                 §eSavannah@ 
-	                            Nesaak Transition@ 
-§f                            Nesaak Transition@ 
-                       Nesaak Plains North East@ 
-§f                       Nesaak Plains North East@ 
-§f                                   §eNesaak@ 
-                       Nesaak Plains South East@ 
-                                   §eNesaak@ 
-                                  Gelibord@ 
-                                 §eGelibord֎@ 
-                             Twisted Housing@ 
-§f                            Nivla Forest Exit@ 
-§f                           South Nivla Forest@ 
-§f                              Road to Elkurn@ 
-§f                               Maltic Coast@ 
-§f                                   §eMaltic֎@ 
-                                 Orc Road@ 
-                                 Red Camp@ 
-§f                       Pigmen Ravines Entrance@ 
-§f                             §ePigmen's Ravine@ 
-§f                          South Pigmen Ravines@ 
-§f                              §eCoastal Trail֎@ 
-                      Llevigar Plains East Lower@ 
-                      Llevigar Plains East Upper@ 
-                                 Orc Lake@ 
-§f                              Farmers Valley@ 
-§f                                    §eRagni@ 
-§f                              §eEmerald Trail֎@ 
-§f                          Ragni Main Entrance@ 
-§f                         Nivla Forest Entrance@ 
-§f                                §eNivla Village@ 
-§f                           Ragni East Suburbs@ 
-§f                          Ragni North Suburbs@ 
-§f                               Katoa Ranch@ 
-§f                              §eKatoa Ranch֎@ 
-§f                         Ragni North Entrance@ 
-§f                                Maltic Plains@ 
-§f                                §eTime Valley֎@ 
-§f                                  §eDetlas֎@ 
-§f                             Corrupted Road@ 
-§f                           Road to Time Valley@ 
-                               Molten Reach@ 
-                              Volcanic Slope@ 
-                               Efelim Village@ 
-                           Efelim South Plains@ 
-                    Light Forest North Entrance@ 
-                    Light Forest South Entrance@ 
-                       Light Forest West Lower@ 
-                       Light Forest West Upper@ 
-                        Efelim South East Plains@ 
-                            Efelim East Plains@ 
-                                    §eEfilim@ 
-§f                          Nemract Plains West@ 
-§f                                  Mt. Wynn@ 
-                            Swamp West Lower@ 
-                               Swamp Lower@ 
-                       Light Forest East Upper@ 
-                               §eThe Forgery@ 
-                            Cinfras Entrance@ 
-                                  §eCinfras֎@ 
-                       Quartz Mines South West@ 
-                              §eKaroc Quarry@ 
-                             Fortress North@ 
-                       Quartz Mines South East@ 
-                            Entrance to Olux@ 
-                  Swamp Dark Forest Transition Mid@ 
-                            Cinfras Outskirts@ 
-                              §eLight's Secret@ 
-                          Light Realm Entrance@ 
-                       Light Forest East Lower@ 
-                           Dark Forest Village@ 
-                            Corrupted Impact@ 
-                             Banshees Cave@ 
-                              §eHouse of Talor@ 
-                            §eOlux Lumber Yard@ 
-                            Taproot Descent@ 
-                Swamp Dark Forest Transition Upper@ 
-                            §eDark Forest Gate@ 
-                       Gelibord Corrupted Farm@ 
-                             §eQuartz Mansion@ 
-§f                                §eBlack Road@ 
-§f                         Ternaves Plains Upper@ 
-                                §eBlack Road@ 
-                         Ternaves Plains Upper@ 
-                         Ragni North Entrance@ 
-                              §eCoastal Trail֎@ 
-                               Maltic Coast@ 
-                                   §eMaltic֎@ 
-                              Farmers Valley@ 
-                                Ragni Plains@ 
-                              §eKatoa Ranch֎@ 
-                                  Lexdale@ 
-                            Graveyard North@ 
-                                  §eLexdale֎@ 
-	                             Abandoned Pass@ 
-                            Mining Base Upper@ 
-                            Rymek West Lower@ 
-                                   §eRymek@ 
-                            Rymek East Lower@ 
-                             §eHalf-Moon Island@ 
-                            Gromblins Hideout@ 
-                              Path To Prison@ 
-                             Lexdales Prison@ 
-                          Ragni North Suburbs@ 
-                           South Nivla Forest@ 
-                                §eNivla Village@ 
-                           Swamp Plains Basin@ 
-                                    §eOlux֎@ 
-                           Cathedral Harbour@ 
-                           Nemract Cathedral@ 
-                            §eAncient Nemract֎@ 
-                  Swamp Mountain Transition Upper@ 
-                Swamp Mountain Transition Mid-Upper@ 
-                               Elkurn Fields@ 
-                             Corrupted Road@ 
-                            Shanjugin’s River@ 
-                             Fortress South@ 
-                            Graveyard South@ 
-                              Rymek West Mid@ 
-§f                              Rymek West Mid@ 
-§f                               Mummy's Tomb@ 
-                         Swamp West Mid-Upper@ 
-                            Swamp West Upper@ 
-                                §eWorm Holes@ 
-                            Swamp East Upper@ 
-                         Swamp East Mid-Upper@ 
-                    Swamp Mountain Transition Mid@ 
-                  Swamp Mountain Transition Lower@ 
-                              Swamp West Mid@ 
-                            Swamp East Lower@ 
-                              Swamp East Mid@ 
-                Swamp Dark Forest Transition Lower@ 
-                              §eEntamis Village@ 
-                              §eZhight Island֎@ 
-                               §eMaro Peaks֎@ 
-                             Lone Farmstead@ 
-                               Hobbit River@ 
-                     Aldorei Valley West Entrance@ 
-                                 §eThe Shiar@ 
-                                 §eThesead֎@ 
-                                  Thesead@ 
-                             Krolton’s Cave@ 
-                        Temple of the Lost East@ 
-                      Canyon Waterfall Mid North@ 
-                            Canyon Fortress@ 
-                            Valley of the Lost@ 
-                            Canyon Survivor@ 
-                       Canyon Lower South East@ 
-                          Cliff Side of the Lost@ 
-                             Canyon Dropoff@ 
-                              Mountain Path@ 
-                       Canyon Upper North West@ 
-                        Canyon Waterfall North@ 
-                              Aldorei’s Arch@ 
-                        Canyon Path South West@ 
-                            §eBantisu Air Temple@ 
-                            Air Temple Upper@ 
-                               Cliffside Lake@ 
-                          Canyon Of The Lost@ 
-                            Cliffside Passage@ 
-                               Ranol’s Farm@ 
-                                    Eltom@ 
-                                   §eEltom֎@ 
-                              Active Volcano@ 
-                                 Lava Lake@ 
-                            §eFreezing Heights@ 
-                             §eDragon Skeleton@ 
-                            Llevigar Entrance@ 
-                                §eGavel Gate@ 
-                              Nodguj Nation@ 
-                                §eIce Islands@ 
-                              Dujgon Nation@ 
-                                 Lion Lair@ 
-                               §eBremminglar֎@ 
-                               §eMage Island֎@ 
-                             Santa's Hideout@ 
-                                §eEagle Tribe@ 
-                              Mesquis Tower@ 
-                             §eCaritat Mansion@ 
-                        Cherry Blossom Forest@ 
-                               §eCrystal Falls@ 
-                              Gelibord Castle@ 
-                        Light Forest South Exit@ 
-                                Mantis Nest@ 
-                   Dark Forest Cinfras Transition@ 
-                   Nesaak Plains Lower North West@ 
-§f                   Nesaak Plains Lower North West@ 
-                               Icy Descent@ 
-                           §eTower of Ascension@ 
-                                 Lost Atoll@ 
-                                §ePirate Cove@ 
-                         Canyon Mountain East@ 
-                           Wizard Tower North@ 
-                        Canyon Path North West@ 
-                         Entrance to Rodoroc@ 
-§f                              Rymek East Mid@ 
-                             §eRotten Passage@ 
-§f                                Little Wood@ 
-§f                     Nesaak Plains Mid North West@ 
-§f                        §eAbandoned Lumber Yard@ 
-§f                            Llevigar Entrance@ 
-§f                                §eGavel Gate@ 
-§f                                  §eLlevigar@ 
-§f                           Llevigar Gate East@ 
-                         §eWynnExcavation Site A@ 
-§f                                §eDurum Isles@ 
-§f                          Great Bridge Nesaak@ 
-§f                            §eThe Great Bridge@ 
-§f                          Great Bridge Jungle@ 
-§f                            §eTribal Sanctuary@ 
-§f                               §eIboju Village@ 
-                            Nesaak Transition@ 
-§f                             §eSunrise Canyon@ 
-§f                             §eRotten Passage@ 
-                            §eFountain of Youth@ 
-                             Abandoned Pass@ 
-§f                           Desert West Upper@ 
-§f                            Rymek East Upper@ 
-§f                               Twisted Ridge@ 
-§f                            Corrupted Impact@ 
-§f                             §eHalf-Moon Island@ 
-                              Chained House@ 
-                     Entrance to Thesead South@ 
-                               Wybel Island@ 
-§f                                 §eBear Zoo@ 
-§f                               §eBovine Barn@ 
-§f                          §eRoots of Corruption@ 
-                              Regular Island@ 
-                               Imperial Gate@ 
-                                 §eThe Moon@ 
-§f                            §eFountain of Youth@ 
-                             §ePrison of Souls@ 
-                           §ePlague Laboratory@ 
-§f                              §eEntamis Village@ 
-                          §eAerie of the Recluse@ 
-                         Light Realm Mushrooms@ 
-                             Light Realm East@ 
-§f                                §eBob's Tomb֎@ 
-                               §e??????????@ 
-                         §eAltar of Sanctification@ 
-§f                                 Lion Lair@ 
-                             §eRuined Olmic City@ 
-                              §eOlmic Cathedral@ 
-                              §eEyeball Forest@ 
-                              §eTown of Lutho@ 
-                         §eCarnivorous Creature@ 
-                          §eThe Eldritch Outlook@ 
-                               §eToxic Wastes@ 
-                                §eVoid Valley@ 
-                               §eDark Obelisk@ 
-§f                              §eNorth Lusuco@ 
-§f                        Efelim South East Plains@ 
-§f                           Efelim South Plains@ 
-§f                                Herb Cave@ 
-                              §ePortal to Dern@ 
-                             The Silent Road@ 
-                            The Broken Road@ 
-                               Worm Tunnel@ 
-§f                                 Icy Island@ 
-                                 Toxic Drip@ 
-                                 Sacrifice@ 
-                             Sinister Forest@ 
+§4You cannot craft while dueling!@§4Ты не можешь крафтить во время дуэли!
 
 ###################################SECRET DISCOVERIES#######################################
-§f                              §bA Hero's Origin@ 
-§f                         §bRagni's Secret Library@ 
-§f                                 §bWatchmen@ 
                             §bNecklace Chamber@ 
                               §bLost Avos City@ 
-§f                                §bTemple Ruin@ 
                          §bRelos's Secret Library@ 
                        §bLusuco's Secret Library	@ 
                                §bCrate Crane@ 
@@ -2879,13 +2122,9 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
                          §bBak'al's Destruction 3@ 
                            §bBeneath the Roots@ 
                          §bBak'al's Destruction 2@ 
-§f                            §bTemple of Swords@ 
-§f                                 §bQuicksand@ 
-§f                         §bBak'al's Destruction 2@ 
                                §bWrecking Ball@ 
                                 §bRymek Thief@ 
                         §bDesert Royal Residence@ 
-§f                                §bBoulder Pit@ 
                                 §bTotem Pole@ 
                           §bWynn Plains Monument@ 
                               §bA Hero's Origin@ 
@@ -2902,21 +2141,6 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
                                 §bTemple Ruin@ 
                             §bTemple of Swords@ 
                                  §bQuicksand@ 
-§f                           §bBeneath the Roots@ 
-§f                             §bBoulder Breaker@ 
-§f                             §bHistorical Maltic@ 
-§f                           §bWater of the Past@ 
-§f                         §bBak'al's Destruction 1@ 
-§f                         §bBak'al's Destruction 3@ 
-§f                               §bTimeless Ruin@ 
-§f                         §bSomewhere In Between@ 
-§f                               §bCrate Crane@ 
-§f                             §bMining Operation@ 
-§f                          §bWynn Plains Monument@ 
-§f                                §bTotem Pole@ 
-§f                               §bWrecking Ball@ 
-§f                                §bRymek Thief@ 
-§f                        §bDesert Royal Residence@ 
                        §bLusuco's Secret Library@ 
                           §bFrozen Cave Hideout@ 
                                 §bWolf Temple@ 
@@ -2936,6 +2160,29 @@ You are not whitelisted on this server!@Тебя нет в вайтлисте э
                             §bA Deathly Warning@ 
                                §bTorn in Twain@ 
                               §bPottery Wheel@ 
+                        §bSilent Expanse's Secret@ 
+§f                              §bA Hero's Origin@ 
+§f                         §bRagni's Secret Library@ 
+§f                                 §bWatchmen@ 
+§f                                §bTemple Ruin@ 
+§f                            §bTemple of Swords@ 
+§f                                 §bQuicksand@ 
+§f                         §bBak'al's Destruction 2@ 
+§f                                §bBoulder Pit@ 
+§f                           §bBeneath the Roots@ 
+§f                             §bBoulder Breaker@ 
+§f                             §bHistorical Maltic@ 
+§f                           §bWater of the Past@ 
+§f                         §bBak'al's Destruction 1@ 
+§f                         §bBak'al's Destruction 3@ 
+§f                               §bTimeless Ruin@ 
+§f                         §bSomewhere In Between@ 
+§f                               §bCrate Crane@ 
+§f                             §bMining Operation@ 
+§f                          §bWynn Plains Monument@ 
+§f                                §bTotem Pole@ 
+§f                               §bWrecking Ball@ 
+§f                                §bRymek Thief@ 
+§f                        §bDesert Royal Residence@ 
 §f                          §bThe Lone Telescope@ 
 §f                              §bPottery Wheel@ 
-                        §bSilent Expanse's Secret@ 

@@ -1084,9 +1084,9 @@ QUESTS/General%27s_Orders
 §7[115,53,-5439]@ 
 §7Speak to General Lecade @§7Поговори с Генералом Лекейдом 
 §7Go through the Mountain Spring @§7Пройди через таверну 
-§7Tavern to reach the roof @§7Mountain Spring 
-§7of the tallest tower in @§7и поднимись на крышу самой высокой 
-§7the fort @§7башни 
+§7Tavern to reach the roof @§7Mountain Spring и поднимись
+§7of the tallest tower in @§7на крышу самой высокой башни 
+§7the fort @§7форта
 §7Recover the Good-Luck Charm from @§7Верни Счастливый Амулет 
 §7the sewers @§7из канализации 
 §7Return to General Lecade with @§7Вернись к Генералу Лекейду со 
@@ -1097,6 +1097,7 @@ QUESTS/General%27s_Orders
 §7[128,101,-5467]@ 
 §7Speak to Lieutenant Gren @§7Поговори с Лейтенантом Греном 
 §7Blow up the wall inside @§7Взорви стену внутри 
+§7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
 §7Find the secret passageway into @§7Найди секретный вход в 
 §7the general's office @§7офис генерала 
 §7Defeat the Corpus Accipientis @§7Победи Corpus Accipientis 
@@ -2797,7 +2798,6 @@ QUESTS/Zhight_Island_(Quest)
 §7Explore the house to find @§7Исследуй дом чтобы найти 
 §7a way out @§7выход 
 §7clue missing. @§7пропавшие подсказки 
-§7Investigate the mysterious prison within @§7Исследуй таинственную тюрьму внутри 
 §7Continue through the hideout! @§7Продвигайся через укрытие! 
 §7Explore @§7Исследуй 
 

@@ -486,15 +486,17 @@
 ======General%27s_Orders 
 §7Speak to Private Tylas outside of the fort at [115,53,-5439]@§7Поговори с Рядовым Тиласом снаружи крепости на [115,53,-5439]
 §7Speak to General Lecade@§7Поговори с Генералом Лекейдом 
-§7Go through the Mountain Spring Tavern to reach the roof of the tallest tower in the fort@§7Пройди через таверну Mountain Spring и поднимись на крышу самой высокой башни 
+§7Go through the Mountain Spring Tavern to reach the roof of the tallest tower in the fort@§7Пройди через таверну Mountain Spring и поднимись на крышу самой высокой башни форта
 §7Recover the Good-Luck Charm from the sewers@§7Верни Счастливый Амулет из канализации 
 §7Return to General Lecade with the Good-Luck Charm@§7Вернись к Генералу Лекейду со Счастливым Амулетом
 §7Paint the mountain at [207,178,-5499]@§7Раскрась гору на [207,178,-5499]
 §7Walk across the tightrope at [128,101,-5467]@§7Пройдись по канату на [128,101,-5467]
 §7Speak to Lieutenant Gren@§7Поговори с Лейтенантом Греном 
 §7Blow up the wall inside the fort@§7Взорви стену внутри крепости
+§7Investigate the mysterious prison within the fort@§7Исследуй таинственную тюрьму внутри форта
 §7Find the secret passageway into the general's office@§7Найди секретный вход в офис генерала 
 §7Defeat the Corpus Accipientis@§7Победи Corpus Accipientis 
+§7Give the Malleable Slime to General Lecade@§7Отдай тягучую слизь Генералу Лекейду
 §7Return to General Lecade@§7Вернись к Генералу Лекейду
 ======Grand_Youth 
 §7Talk to Monte at [-550,61,-747]@§7Поговори с Монте на [-550,61,-747]
@@ -1099,6 +1101,8 @@
 §7Collect 5 Thunder Catalyst I@§7Собери 5 Катализатор Земли I 
 §7Collect 5 Thunder Catalyst II@§7Собери 5 Катализатор Земли II
 §7Collect 5 Thunder Catalyst VII@§7Собери 5 Катализатор Земли VII
+§7Collect 5 Thunder Catalyst IX@§7Собери 5 Катализатор Земли IX
+§7Defeat the Psychomancer and collect 1 Thunder Catalyst X@§7Победи Psychomancer и собери 1 Катализатор Земли X
 §7Talk to Yansur to receive your prize for overcoming the Thunder Division@§7Поговори с Янсуром и получи свой приз за прохождение Дивизии Грома 
 §7Prepare to enter the Air division@§7Подготовься к прохождению Дивизии Воздуха 
 §7Prepare to enter the Earth division@§7Подготовься к прохождению Дивизии Земли 
@@ -1260,6 +1264,7 @@
 §7Teleport to the Ancient City@§7Телепортируйся в Древний Город
 §7Explore The Ancient City@§7Исследуй Древний Город
 §7Speak to Amadels assistant@§7Поговори с Ассистентом Амадела
+§7Kill Amadel@§7Убей Амадела
 §7Fight Corrupted Amadel@§7Сразись с Corrupted Amadel
 §7Kill Corruped Amadel@§7Убей Corruped Amadel
 §7Fight Shadow Amadel@§7Сразись с Shadow Amadel
