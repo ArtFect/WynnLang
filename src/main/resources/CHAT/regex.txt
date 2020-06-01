@@ -55,7 +55,6 @@
 §a(\d+) quest items have been returned. There was not room for an additional (\d+) quest items.@§a(r1) квестовых предметов было возвращено. Не хватило места для (r2) квестовых предметов.
 (§c[a-zA-Z0-9_]{1,16}§4) is not online the Wynncraft network.@(r1) нет в сети Wynncraft.
 §4You must complete the (§c[A-Za-z ]+§4) quest before you can use (§c[A-Za-z ]+).@§4Ты должен пройти (r1) квест, прежде чем использовать (r2).
-§7Please wait an additional (\d+) minutes before opening this chest.@§7Пожалуйста подожди еще (r1) минут, прежде чем открывать сундук.
 §4You cannot afford that! Removing powders from all items will cost (\d+)@§4Ты не можешь себе этого позволить! Удаление порошков из всех предметов будет стоить (r1)
 §4You cannot afford that! Adding these powders will cost (\d+)@§4Ты не можешь себе этого позволить! Добавление порошков на предмет будет стоить (r1)
 (§e[ ]+)You are now combat level (\d+)@(r1)Ты достиг (r2) комбат уровня
