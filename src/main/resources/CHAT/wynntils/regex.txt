@@ -63,3 +63,5 @@
 §eType the command §6\/party join ([a-zA-Z0-9_]{1,16}§e) to join!@§eНапиши команду §6/party join (r1) чтобы присоединиться!
 §3You have been invited to join (§b[A-Za-z ]+§3) by (§b[a-zA-Z0-9_]{1,16}§3)! Type §b\/guild join ([A-Za-z]+§3) to accept!@§3Ты получил приглашение от (r2) присоединиться к (r1)! Напиши §b/guild join (r3) для принятия!
 §7Please wait an additional (\d+) minutes before opening this chest.@§7Пожалуйста подожди еще (r1) минут, прежде чем открывать сундук.
+§7\[Daily Rewards: (§a\d+) emeralds§7\]@§7[Ежедневная награда: (r1) эмеральдов§7]
+§7\[Daily Rewards: (§a\d+) emeralds§7 and (§b\d+) items§7\]@§7[Ежедневная награда: (r1) эмеральдов§7 и (r2) предмета§7]
