@@ -62,3 +62,4 @@
 (§5[a-zA-Z0-9_]{1,16}) would like to trade! Type §6\/trade ([a-zA-Z0-9_]{1,16}§5) to accept.@(r1) хотел бы поторговать с тобой! Напиши §6/trade (r2) для принятия.
 §eType the command §6\/party join ([a-zA-Z0-9_]{1,16}§e) to join!@§eНапиши команду §6/party join (r1) чтобы присоединиться!
 §3You have been invited to join (§b[A-Za-z ]+§3) by (§b[a-zA-Z0-9_]{1,16}§3)! Type §b\/guild join ([A-Za-z]+§3) to accept!@§3Ты получил приглашение от (r2) присоединиться к (r1)! Напиши §b/guild join (r3) для принятия!
+§7Please wait an additional (\d+) minutes before opening this chest.@§7Пожалуйста подожди еще (r1) минут, прежде чем открывать сундук.
