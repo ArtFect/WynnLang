@@ -46,7 +46,6 @@
 (§6[a-zA-Z0-9_]{1,16}§9) has won the duel!@(r1) выиграл дуэль!
 §4Did you mean (§c.*)\? §4If not, type \/help to see the commands!@§4Ты имел в виду (r1)? §4Если нет, напиши /help, чтобы увидеть список команд!
 (§4[a-zA-Z0-9_]{1,16}§c) is not currently online any Wynncraft servers....@(r1) сейчас ни на одном Wynncraft сервере...
-§7\[Daily Rewards: (§a\d+) emeralds§7\]@§7[Ежедневная награда: (r1) эмеральдов§7]
 §7\+ New Quest §8\[(.*)\]@§7+ Новый квест §8[(r1)]
 §4You need to be §cCombat Lv. (\d+) §4to start this Mini-Quest@§4Тебе нужно быть §c(r1) комбат уровня §4для старта этого Мини-квеста
 §2You have unlocked §apage (\d+)§2 in your bank@§2Ты разблокировал §a(r1) страницу§2 в своем банке
@@ -58,7 +57,6 @@
 §4You cannot afford that! Removing powders from all items will cost (\d+)@§4Ты не можешь себе этого позволить! Удаление порошков из всех предметов будет стоить (r1)
 §4You cannot afford that! Adding these powders will cost (\d+)@§4Ты не можешь себе этого позволить! Добавление порошков на предмет будет стоить (r1)
 (§e[ ]+)You are now combat level (\d+)@(r1)Ты достиг (r2) комбат уровня
-§7\[Daily Rewards: (§a\d+) emeralds§7 and (§b\d+) items§7\]@§7[Ежедневная награда: (r1) эмеральдов§7 и (r2) предмета§7]
 §7\[\+(\d+) falling emeralds\]@§7[+(r1) падающих эмеральдов]
 §4Your account is now linked to (.*)@§4Твой аккаунт связан теперь с (r1)
 §eYour account has already been linked to (.*)@§eТвоя учетная запись уже была привязана к (r1)
