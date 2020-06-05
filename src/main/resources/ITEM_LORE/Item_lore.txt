@@ -125,6 +125,7 @@
 §7- Refined Molten Gem 1@§7- Переработанный Молтен Камень 1
 §7- Refined Jungle Wood 1@§7- Переработанная Древесина Амаранта 1
 §7- Refined Jungle Wood 2@§7- Переработанная Древесина Амаранта 2
+§7- Refined Jungle Paper 1@§7- Переработанная Амарантовая Бумага 1
 §7- Unprocessed Piranha@§7- Необработанная Пиранья
 §7- Refined Piranha Oil 1@§7- Переработанный Жир Пираньи 1
 §7- Refined Piranha Oil 3@§7- Переработанный Жир Пираньи 3
@@ -140,6 +141,7 @@
 §7- Refined Icefish Meat 2@§7- Переработанное Мясо Щуки 2
 §7- Refined Hops String 1@§7- Переработанная Хмельная Нить 1
 §7- Refined Hops String 2@§7- Переработанная Хмельная Нить 2
+§7- Refined Hops Grains 3@§7- Переработанное Хмельное Зерно 3
 §7- Refined Hops Grains 1@§7- Переработанное Хмельное Зерно 1
 §7- Refined Rye String 1@§7- Переработанная Ржаная Нить 1
 §7- Refined Rye String 3@§7- Переработанная Ржаная Нить 3
@@ -177,6 +179,7 @@
 §7- Refined Hops Grains 2@§7- Переработанное Хмельное Зерно 2
 §7- Refined Dark Wood 2@§7- Переработанная Древесина Каштана 2
 §7- Refined Light Wood 1@§7- Переработанная Древесина Клена 1
+§7- Refined Light Paper 1@§7- Переработанная Кленовая Бумага 1
 
 ###########################OTHERS###############################
 §7Currency@§7Валюта
@@ -1826,6 +1829,7 @@
 §fUnderworldÀÀÀCrypt§7 once@§fПодземный Склеп§7 единожды
 §fUnderworld Crypt §7once.@§fПодземный Склеп§7 единожды
 §fIceÀÀÀBarrows§7 once@§fЛедяной Курган§7 единожды
+§fIce Barrows §7once.@§fЛедяной Курган§7 единожды
 §fUndergrowthÀÀÀRuins§7 once@§fЗаросшие Руины§7 единожды
 §fGalleon'sÀÀÀGraveyard§7 once@§fКладбище Галеона§7 единожды
 §fGalleon's Graveyard §7once.@§fКладбище Галеона §7единожды
@@ -2377,6 +2381,7 @@
 §7as a golden masterpiece@§7как золотой шедевр
 §7as a wooden oar@§7под деревянное весло
 §7as a map of our world@§7под карту нашего мира
+§7as a sharp, pirate hook@§7под острый пиратский крюк
 §7a dragon-like appearance@§7драконоподобный внешний вид
 §7an anti-bovemist appearance@§7внешний вид анти-бовемиста
 §7a king appearance@§7королевский внешний вид 

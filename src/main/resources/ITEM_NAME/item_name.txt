@@ -1315,6 +1315,7 @@ UnderworldÀÀÀCrypt Key@§6Ключ от Подземного Склепа
 §6IceÀÀÀBarrows Key@§6Ключ от Ледяного Кургана
 §6IceÀÀÀBarrows KeyÀ@§6Ключ от Ледяного Кургана
 IceÀÀÀBarrows Key@Ключ от Ледяного Кургана
+Broken Ice Barrows Key@Сломанный Ключ от Ледяного Кургана
 §6Galleon'sÀÀÀGraveyard KeyÀ@§6Ключ от Кладбища Галеона
 §6Galleon'sÀÀÀGraveyard Key@§6Ключ от Кладбища Галеона
 Galleon'sÀÀÀGraveyard Key@Ключ от Кладбища Галлеона
@@ -2023,6 +2024,7 @@ Haunted Mask@§fПроклятая Маска
 §cDern Relik@§cДерн Релик
 §6Pirate Spear@§6Пиратское Копье
 §6Pirate Wand@§6Пиратский Посох
+§6Pirate Hook@§6Пиратский Крюк
 §4Viking Helmet@§4Шлем Викинга
 §dViolet Wybel Token@§dФиолетовый Вубел Жетон
 §fGray Wybel Token@§fСерый Вубел Жетон

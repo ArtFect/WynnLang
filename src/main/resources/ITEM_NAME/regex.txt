@@ -30,7 +30,7 @@
 §fⒷ Gathering Pickaxe T(\d+)À?@§fⒷ Сборная Кирка У(r1)
 §fⒿ Gathering Scythe T(\d+)À?@§fⒿ Сборная Мотыга У(r1)
 §aSpawn (.*)@§aЗаспавнить (r1)
-(§6[a-zA-Z0-9_]{1,16})'s Pouch@Мешок (r1)
+(§6[a-zA-Z0-9_]{1,16})'(s|) Pouch@Мешок (r1)
 §e✦ Thunder Powder (I|II|III|IV|V|VI)À?$@§e✦ Порошок Грома (r1)
 §f❋ Air Powder (I|II|III|IV|V|VI)À?$@§f❋ Порошок Воздуха (r1)
 §c✹ Fire Powder (I|II|III|IV|V|VI)À?$@§c✹ Порошок Огня (r1)

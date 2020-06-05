@@ -956,6 +956,7 @@
 §4Frosty Bow@§4Морозный Лук
 §6Pirate Spear@§6Копье Пирата
 §6Pirate Wand@§6Посох Пирата
+§6Pirate Hook@§6Крюк Пирата
 §aA §8§k|||§4 Black Market §8§k|||§4 Frosty Relik§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Морозный Релик§a!
 §aA §8§k|||§4 Black Market §8§k|||§4 Angel Wybel Token§a!@§8§k|||§4 Черный Маркет §8§k|||§4 Ангел Вубел Жетон§a!
 §aA §6Epic Golden Bow§a!@§aA §6Эпический Золотой Лук§a!
@@ -1012,6 +1013,7 @@
 §aA §dRare Steampunk Sword§a!@§dРедкий Стимпанк Меч§a!
 §aA §dRare Heart Swirl Effect§a!@§dРедкий Эффект Круговорота Сердец§a!
 §aA §dRare Violet Wybel Token§a!@§dРедкий Фиолетовый Вубел Жетон§a!
+§aA §dRare Steampunk Relik§a!@§dРедкий Стимпанк Релик§a!
 §3You are now disguised as a §bsheep@§3Ты замаскировался в §bовцу
 §3You are now disguised as a §bchicken@§3Ты замаскировался под §bкурицу
 §3You are now disguised as a §bspider@§3Ты замаскировался под §bпаука
@@ -1082,6 +1084,7 @@
 §7Disguise your dagger as a golden masterpiece@§7Маскирует твой кинжал под золотой шедевр
 §7Disguise your dagger with a futuristic flair@§7Маскирует твой кинжал под футуристический стиль
 §7Disguise your dagger with a adventurous flair@§7Маскирует твой кинжал под стиль приключений
+§7Disguise your dagger as a sharp, pirate hook@§7Маскирует твой кинжал под острый пиратский крюк
 
 ###################################DUNGEONS##################################
 §7The door suddenly opens, as if the Keystone Guardian's presence activated it...@§7Дверь внезапно открывается, как будто присутствие Защитника Ключа активировало ее...
@@ -1105,6 +1108,8 @@
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a|||§4|||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a|||§4|||||||§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a||§4||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a||§4||||||||§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§A§a|§4|||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a§a|§4|||||||||§7]
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§7A§a|§4|||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§7A§a|§4|||||||||§7]
+§c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§4||||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§4||||||||||§7]
 §c[§4!§c] §cYour ship has been damaged! Integrity remaining: §7[§a§4||||||||||§7]@§c[§4!§c] §cТвой корабль был поврежден! Оставшаяся прочность: §7[§a§4||||||||||§7]
 §c[§4!§c] §7Align your cannon with an attacking pirate and fire to destroy them, but be careful - if one reaches your ship you will be boarded!@§c[§4!§c] §7Выровняй свою пушку с атакующим пиратом, используя элементы управления, и стреляй, чтобы уничтожить их. Но будь осторожен - если кто-то достигнет твоего корабля, он будет поврежден!
 §7Get to the §6§lTreasure Vault §7in §4§l20 §7seconds before it closes!@§7Доберись до §6§lХранилища с сокровищами§7 за §4§l20 §7 секунд, прежде чем оно закроется!
